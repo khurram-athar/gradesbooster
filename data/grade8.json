@@ -43809,5 +43809,1699 @@
         ]
       }
     ]
+  },
+  {
+    "day": 181,
+    "label": "Day 181 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: The Serial Comma and Clarity in Lists",
+        "summary": "Grade 8 Language strand: the serial comma, also known as the Oxford comma, is the comma placed before the coordinating conjunction in a list of three or more items, and using it consistently can prevent a sentence from being misread.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is another common name for the serial comma?",
+            "options": [
+              "The Cambridge comma",
+              "The Harvard colon",
+              "The Oxford comma",
+              "The London comma"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does a serial comma appear in a list?",
+            "options": [
+              "After the very first item only",
+              "Only after numbers",
+              "At the start of the sentence",
+              "Before the coordinating conjunction that joins the final two items"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many items does a list typically need before a serial comma becomes relevant?",
+            "options": [
+              "Exactly two",
+              "Only one",
+              "Three or more",
+              "At least ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What problem can omitting the serial comma sometimes cause in a sentence?",
+            "options": [
+              "The sentence becomes automatically grammatically incorrect",
+              "The sentence loses its subject entirely",
+              "All punctuation in the sentence is removed",
+              "The final two items in a list may seem to be grouped together as one item"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do many style guides recommend using the serial comma consistently?",
+            "options": [
+              "Consistent use avoids ambiguity no matter how a particular list is phrased",
+              "It changes the meaning of every noun in a sentence",
+              "It is required in every language on earth",
+              "It eliminates the need for periods"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to Variance",
+        "summary": "Grade 8 Math strand: variance measures how far a set of data values are spread out from their mean by averaging the squared differences between each value and the mean, giving more weight to values that are farther away.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does variance measure about a data set?",
+            "options": [
+              "The total number of values in the data set",
+              "The exact largest value in the data set",
+              "The order in which data was collected",
+              "How far the data values are spread out from the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is variance calculated from a data set?",
+            "options": [
+              "By counting how many values are above zero",
+              "By multiplying every value by two",
+              "By adding all the values together only",
+              "By averaging the squared differences between each value and the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the differences from the mean squared when calculating variance?",
+            "options": [
+              "Squaring makes every difference equal to zero",
+              "Squaring always produces a negative number",
+              "Squaring removes the need for a mean",
+              "Squaring prevents negative and positive differences from cancelling out and emphasizes larger gaps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a very small variance suggest about a data set?",
+            "options": [
+              "The values are clustered closely around the mean",
+              "The mean cannot be calculated",
+              "The data set has no numerical values",
+              "The values are spread across a huge range"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is variance a useful measure alongside the mean when describing a data set?",
+            "options": [
+              "It shows how consistent or spread out the data is, which the mean alone cannot show",
+              "It always equals the mean in every data set",
+              "It replaces the need to ever calculate a mean",
+              "It can only be used with exactly two data points"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Baking and Leavening Agents",
+        "summary": "Grade 8 Science strand: leavening agents such as baking soda and baking powder release carbon dioxide gas through chemical reactions, creating bubbles that cause dough or batter to rise during baking.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What gas do leavening agents such as baking soda release during baking?",
+            "options": [
+              "Nitrogen",
+              "Carbon dioxide",
+              "Hydrogen",
+              "Oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What causes dough or batter to rise when a leavening agent is used?",
+            "options": [
+              "The mixture freezing solid",
+              "Bubbles of gas forming and expanding within the mixture",
+              "The oven light being turned on",
+              "The mixture losing all of its water instantly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What ingredient must be combined with baking soda to trigger its chemical reaction?",
+            "options": [
+              "An acidic ingredient such as buttermilk or vinegar",
+              "Only oil",
+              "Only cold water",
+              "A metal spoon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does baking powder differ from baking soda?",
+            "options": [
+              "Baking soda always requires more sugar to work",
+              "Baking powder can never react with liquid",
+              "Baking powder contains no chemical compounds at all",
+              "Baking powder already contains its own acidic ingredient built in"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the chemistry of leavening agents useful for a baker?",
+            "options": [
+              "It helps explain why a recipe rises properly and how substituting ingredients might change the result",
+              "Chemical reactions never occur during baking",
+              "Leavening agents have no effect on how baked goods turn out",
+              "Baking never involves any chemical changes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Discovery of Insulin by Banting and Best",
+        "summary": "Grade 8 History strand: in 1921 at the University of Toronto, Frederick Banting and Charles Best isolated insulin, a hormone that allowed people with diabetes to survive, becoming one of Canadas most celebrated medical achievements.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was insulin discovered in Toronto?",
+            "options": [
+              "1867",
+              "1921",
+              "1939",
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "At which Canadian university was insulin discovered?",
+            "options": [
+              "The University of British Columbia",
+              "McGill University",
+              "The University of Toronto",
+              "Dalhousie University"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who were the two researchers most closely associated with isolating insulin?",
+            "options": [
+              "John Grierson and Lester Pearson",
+              "Frederick Banting and Charles Best",
+              "Igor Gouzenko and Tommy Douglas",
+              "John A Macdonald and George Cartier"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What medical condition did the discovery of insulin help treat?",
+            "options": [
+              "Seasonal allergies",
+              "The common cold",
+              "Diabetes",
+              "Broken bones"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the discovery of insulin considered one of Canadas most significant contributions to medicine?",
+            "options": [
+              "It was discovered outside of Canada by a different research team",
+              "It gave people with diabetes a life-saving treatment that had not existed before",
+              "It cured every known disease immediately",
+              "It had no effect on medical treatment anywhere in the world"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "label": "Day 182 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Jargon and Technical Language Across Fields",
+        "summary": "Grade 8 Language strand: jargon is specialized vocabulary used within a particular field, profession, or group, such as medicine or computer science, that can communicate precisely among experts but may confuse outside readers.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is jargon?",
+            "options": [
+              "Specialized vocabulary used within a particular field or group",
+              "A synonym for slang used only by teenagers",
+              "A word with no real meaning",
+              "A type of punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a doctor use jargon when speaking with another doctor?",
+            "options": [
+              "It replaces the need for medical training",
+              "It is required by law in every conversation",
+              "It allows precise, efficient communication between people who share the same specialized knowledge",
+              "It prevents any information from being shared"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What problem can jargon create for a general audience?",
+            "options": [
+              "Jargon always makes writing easier for everyone to understand",
+              "Readers unfamiliar with the field may find the text confusing or hard to understand",
+              "Jargon is illegal to use in professional writing",
+              "Jargon removes all meaning from a sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of computer science jargon?",
+            "options": [
+              "Umbrella",
+              "Algorithm",
+              "Sandwich",
+              "Bicycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should a writer consider their audience before using jargon?",
+            "options": [
+              "Effective writing matches its vocabulary to what the intended audience is likely to understand",
+              "Every reader understands specialized vocabulary from every field equally well",
+              "Jargon should always be used regardless of who is reading",
+              "Audience has no effect on what vocabulary a writer should choose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: The Sieve of Eratosthenes",
+        "summary": "Grade 8 Math strand: the Sieve of Eratosthenes is an ancient method for finding all prime numbers up to a given limit by systematically crossing out the multiples of each prime, leaving only primes uncrossed.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Sieve of Eratosthenes help find?",
+            "options": [
+              "The sum of an arithmetic sequence",
+              "All prime numbers up to a given limit",
+              "The exact square root of a number",
+              "The greatest common factor of two numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Sieve of Eratosthenes identify prime numbers?",
+            "options": [
+              "By systematically crossing out the multiples of each prime number",
+              "By dividing every number by exactly two",
+              "By adding every number in a range together",
+              "By randomly selecting numbers from a list"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is left uncrossed after completing the Sieve of Eratosthenes process?",
+            "options": [
+              "Only even numbers",
+              "No numbers remain uncrossed",
+              "The prime numbers within the chosen range",
+              "Only numbers divisible by ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Roughly how old is the method known as the Sieve of Eratosthenes?",
+            "options": [
+              "It was invented within the past ten years",
+              "It dates back to ancient Greece, over two thousand years ago",
+              "It was invented during the twentieth century",
+              "It has no known origin in history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Sieve of Eratosthenes considered an efficient way to find many primes at once?",
+            "options": [
+              "It works by guessing numbers at random until a prime appears",
+              "It eliminates multiples systematically instead of testing each number for divisibility one at a time",
+              "It can only ever find a single prime number",
+              "It requires checking every possible divisor of every number individually"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: The Physics of Optical Illusions and Visual Perception",
+        "summary": "Grade 8 Science strand: optical illusions occur when the brain interprets visual information from the eyes in a way that differs from physical reality, often due to how light, contrast, and patterns are processed by the visual system.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an optical illusion?",
+            "options": [
+              "A situation where the brain interprets visual information differently from physical reality",
+              "A type of camera lens",
+              "A disease that affects only the eyes",
+              "A tool used to measure light intensity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What part of the body is primarily responsible for interpreting the visual information that creates an illusion?",
+            "options": [
+              "The skeletal muscles",
+              "The stomach",
+              "The lungs",
+              "The brain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What visual factors can contribute to creating an optical illusion?",
+            "options": [
+              "Light, contrast, and patterns",
+              "Only the temperature of a room",
+              "Only the weight of an object",
+              "Only sound waves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can two identical shapes sometimes appear to be different sizes in certain illusions?",
+            "options": [
+              "The shapes are always physically different sizes in reality",
+              "The eyes physically change shape when viewing an illusion",
+              "Surrounding patterns and context can cause the brain to misjudge relative size",
+              "Light has no effect on how size is perceived"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study optical illusions?",
+            "options": [
+              "They reveal how the brain processes and sometimes misinterprets visual information",
+              "Illusions only occur in printed photographs, never in real life",
+              "Studying illusions provides no scientific insight of any kind",
+              "Optical illusions have no connection to how the brain works"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Great Canadian Flag Debate and the Maple Leaf Flag of 1965",
+        "summary": "Grade 8 History strand: after months of heated parliamentary debate led by Prime Minister Lester Pearson, Canada adopted the red and white maple leaf flag on February 15, 1965, replacing the Red Ensign as the countrys official national flag.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did Canada officially adopt the maple leaf flag?",
+            "options": [
+              "1988",
+              "1965",
+              "1949",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which prime minister led the push to adopt a new Canadian flag?",
+            "options": [
+              "William Lyon Mackenzie King",
+              "Lester Pearson",
+              "Pierre Trudeau",
+              "John A Macdonald"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What flag did the maple leaf flag replace as Canadas official flag?",
+            "options": [
+              "The flag of the United States",
+              "The Red Ensign",
+              "The flag of France",
+              "The Union Jack of Britain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What colours appear on the Canadian maple leaf flag?",
+            "options": [
+              "Red and white",
+              "Black and yellow",
+              "Green and gold",
+              "Blue and white"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was the flag debate considered significant in Canadian history?",
+            "options": [
+              "It resulted in Canada keeping the exact same flag as before",
+              "It reflected a growing sense of independent Canadian identity separate from British symbols",
+              "It took place before Canada became a country",
+              "It had no connection to Canadian identity at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "label": "Day 183 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Circular Structure and Full-Circle Endings in Narrative",
+        "summary": "Grade 8 Language strand: a circular structure returns a narrative to its opening image, setting, or line by its conclusion, inviting readers to notice how characters or circumstances have changed since the story began.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a circular structure in a narrative do?",
+            "options": [
+              "Only ever occurs in poetry, never in prose",
+              "Removes the ending of a story entirely",
+              "Tells events in a completely random order",
+              "Returns the story to its opening image, setting, or line by the end"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a reader notice when a story uses a circular structure?",
+            "options": [
+              "That the setting is described only once",
+              "That nothing in the story has changed at all",
+              "That the story has no characters",
+              "How characters or circumstances have changed since the beginning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a circular structure?",
+            "options": [
+              "A story with no setting described",
+              "A story that opens and closes with the same image, described differently",
+              "A story told entirely through dialogue",
+              "A story with only one paragraph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author choose to end a story with a line similar to its opening line?",
+            "options": [
+              "To highlight change or growth by contrasting the same moment at two points in time",
+              "To confuse the reader on purpose",
+              "To avoid writing a conclusion altogether",
+              "To indicate the story has no theme"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is recognizing circular structure a useful reading skill?",
+            "options": [
+              "It prevents a reader from understanding the plot",
+              "It has no effect on how a story can be interpreted",
+              "It only applies to stories written before the twentieth century",
+              "It helps readers see how an author uses repetition to emphasize a storys central meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: An Introduction to Partial Fractions",
+        "summary": "Grade 8 Math strand: partial fraction decomposition rewrites a complicated rational expression as a sum of simpler fractions with lower-degree denominators, making the expression easier to analyze or combine.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does partial fraction decomposition do to a rational expression?",
+            "options": [
+              "Turns it into a whole number with no fraction at all",
+              "Removes the denominator from the expression entirely",
+              "Rewrites it as a sum of simpler fractions with lower-degree denominators",
+              "Converts the expression into a single very large fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone want to break a complicated fraction into simpler partial fractions?",
+            "options": [
+              "Simpler fractions can be easier to analyze, add, or work with",
+              "It removes the need for a numerator",
+              "Doing so always makes an expression undefined",
+              "It only applies to whole numbers, never expressions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of expression is typically decomposed using partial fractions?",
+            "options": [
+              "A geometric shape",
+              "A rational expression, meaning one polynomial divided by another",
+              "A statement of pure text with no numbers",
+              "A single whole number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be true about the denominators of the simpler fractions produced by partial fraction decomposition?",
+            "options": [
+              "They must always be negative numbers",
+              "They generally have a lower degree than the original denominator",
+              "They must always be equal to zero",
+              "They must always be exactly the same as the original denominator"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is partial fraction decomposition considered a useful algebraic technique?",
+            "options": [
+              "It has no practical use in mathematics",
+              "It can simplify expressions that would otherwise be difficult to combine, differentiate, or interpret",
+              "It always produces an expression that is more complicated than the original",
+              "It only works on expressions with no variables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Fossils and the Fossil Record",
+        "summary": "Grade 8 Science strand: fossils are the preserved remains or traces of ancient organisms found in sedimentary rock, and together they form the fossil record, which scientists use to study how life on Earth has changed over time.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "The preserved remains or traces of an ancient organism",
+              "A living organism found only in caves",
+              "A type of modern rock formed only underwater",
+              "A tool used to measure earthquakes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what type of rock are fossils most commonly found?",
+            "options": [
+              "Only rock found on other planets",
+              "Sedimentary rock",
+              "Igneous rock formed from lava",
+              "Only metamorphic rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the fossil record?",
+            "options": [
+              "A record of modern weather patterns",
+              "The overall collection of fossils that document changes in life on Earth over time",
+              "A single fossil found in one location",
+              "A list of currently living species only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can scientists learn by studying the fossil record?",
+            "options": [
+              "How life on Earth has changed and evolved over long periods of time",
+              "Nothing useful about the history of life on Earth",
+              "Only information about the modern climate",
+              "Only the current population of living species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are fossils considered valuable evidence for scientists studying the history of life?",
+            "options": [
+              "Fossils provide no information about the past",
+              "Fossils can only be found in outer space",
+              "Fossils only form from organisms that are still alive today",
+              "They provide physical evidence of organisms that lived long before written history began"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Construction of the CN Tower",
+        "summary": "Grade 8 History strand: completed in Toronto in 1976 after more than three years of construction, the CN Tower stood as the worlds tallest free-standing structure for over three decades and became an internationally recognized symbol of Canadian engineering.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the CN Tower completed?",
+            "options": [
+              "1988",
+              "1949",
+              "1967",
+              "1976"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which Canadian city is the CN Tower located?",
+            "options": [
+              "Vancouver",
+              "Toronto",
+              "Ottawa",
+              "Montreal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For roughly how long did the CN Tower hold the title of the worlds tallest free-standing structure?",
+            "options": [
+              "Over three decades",
+              "A single year",
+              "It never held this title",
+              "Less than one month"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the CN Tower originally built to support, in addition to being a landmark?",
+            "options": [
+              "Communication and broadcast antennas",
+              "A railway bridge",
+              "A shopping mall roof only",
+              "Farming equipment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the CN Tower considered an important symbol of Canadian engineering?",
+            "options": [
+              "It was demolished shortly after being completed",
+              "It demonstrated advanced construction techniques and became internationally recognized as a Canadian landmark",
+              "It was built entirely outside of Canada",
+              "It had no impact on how Canada was viewed internationally"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "label": "Day 184 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Debate Rebuttal and Counterargument",
+        "summary": "Grade 8 Language strand: a rebuttal responds directly to an opponents argument in a debate by identifying its weaknesses and offering counter-evidence or reasoning, strengthening a speakers own position without simply repeating it.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of a rebuttal in a debate?",
+            "options": [
+              "To repeat your own argument without addressing the opponent",
+              "To agree completely with the opposing side",
+              "To end the debate immediately",
+              "To respond directly to an opponents argument by identifying its weaknesses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should an effective rebuttal include?",
+            "options": [
+              "No reference to the opposing argument at all",
+              "A completely unrelated new topic",
+              "Only compliments directed at the opponent",
+              "Counter-evidence or reasoning that challenges the opposing argument"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to listen carefully to an opponents argument before writing a rebuttal?",
+            "options": [
+              "A rebuttal never needs to reference the opposing side",
+              "Listening has no effect on the quality of a rebuttal",
+              "A rebuttal must accurately address the specific points the opponent actually made",
+              "Debates do not allow any listening at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a counterargument?",
+            "options": [
+              "A rule used only in written essays, never in speech",
+              "A question with no answer",
+              "An argument that opposes or challenges another argument",
+              "A summary of your own opening statement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a strong rebuttal make a debater more persuasive?",
+            "options": [
+              "It always weakens the speakers own position",
+              "It shows the audience that weaknesses in the opposing argument have been carefully identified and addressed",
+              "It removes the need for any evidence in a debate",
+              "It guarantees the audience will ignore both sides"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: An Introduction to the Coupon Collectors Problem",
+        "summary": "Grade 8 Math strand: the Coupon Collectors Problem asks, on average, how many random draws with repetition are needed to collect every distinct item in a set, such as collecting all the different prizes in a cereal box promotion.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Coupon Collectors Problem ask?",
+            "options": [
+              "How to solve a system of linear equations",
+              "How many primes exist below one hundred",
+              "How to calculate the area of a circle",
+              "On average, how many random draws are needed to collect every distinct item in a set"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What everyday situation is often used to illustrate the Coupon Collectors Problem?",
+            "options": [
+              "Finding the volume of a cone",
+              "Calculating a mortgage payment",
+              "Collecting all the different prizes from a cereal box promotion",
+              "Measuring the temperature outside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As a collector gets closer to having every distinct item, what generally happens to the expected number of draws needed to find a brand-new item?",
+            "options": [
+              "It tends to increase, since duplicates become more likely",
+              "It becomes impossible to calculate at all",
+              "It stays exactly the same throughout the entire process",
+              "It always decreases to zero immediately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of draws does the Coupon Collectors Problem assume, allowing the same item to be drawn more than once?",
+            "options": [
+              "Draws where every item can only ever be drawn once",
+              "Draws that always follow a fixed, predictable order",
+              "Random draws with repetition allowed",
+              "Draws that never involve any randomness"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Coupon Collectors Problem a useful example in the study of probability?",
+            "options": [
+              "It has no real-world application of any kind",
+              "It only applies to situations with exactly two possible items",
+              "It proves that probability can never be applied to games or collecting",
+              "It shows how expected values can be used to answer a practical, real-world collecting question"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Camouflage and Animal Defense Mechanisms",
+        "summary": "Grade 8 Science strand: camouflage allows an animal to blend into its surroundings through colouration, pattern, or shape, serving as one of several defense mechanisms, alongside mimicry and warning colouration, that help animals avoid predators.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "A loud sound used to scare away predators",
+              "A type of animal migration",
+              "A way for an animal to blend into its surroundings through colour, pattern, or shape",
+              "A method animals use to find food only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one purpose of camouflage for many animals?",
+            "options": [
+              "To help the animal avoid being detected by predators",
+              "To help the animal grow larger",
+              "To change the animals diet",
+              "To make the animal easier for predators to find"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is mimicry, as a defense mechanism?",
+            "options": [
+              "When an animal changes its diet to match another species",
+              "When one species evolves to resemble another species, often one that is dangerous or unpleasant",
+              "When an animal copies the sound of a car engine",
+              "When two unrelated animals live in the exact same location"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is warning colouration, sometimes called aposematism?",
+            "options": [
+              "Bright colouration that signals to predators that an animal may be toxic or dangerous",
+              "Colouration used only to attract mates, never to warn predators",
+              "A colour pattern found only in plants",
+              "Colouration that has no effect on predators at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why have defense mechanisms such as camouflage and mimicry become common across many animal species?",
+            "options": [
+              "They are found only in animals living in zoos",
+              "They always make an animal more visible to predators",
+              "They increase an individual animals chances of survival, making these traits more likely to be passed on",
+              "They have no connection to an animals survival"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Manitoba Flood of 1950 and the Building of the Winnipeg Floodway",
+        "summary": "Grade 8 History strand: the massive flood of 1950 forced roughly one hundred thousand people from their homes in and around Winnipeg, prompting the later construction of the Winnipeg Floodway, a major engineering project designed to protect the city from future flooding.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the major flood affecting Winnipeg occur?",
+            "options": [
+              "1917",
+              "1967",
+              "1950",
+              "1939"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Approximately how many people were displaced by the 1950 flood?",
+            "options": [
+              "About ten",
+              "Roughly one million",
+              "About one thousand",
+              "Roughly one hundred thousand"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What engineering project was later built to help protect Winnipeg from future flooding?",
+            "options": [
+              "The Trans-Canada Highway",
+              "The Canadarm",
+              "The Confederation Bridge",
+              "The Winnipeg Floodway"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of the Winnipeg Floodway?",
+            "options": [
+              "To divert floodwater around the city and reduce flood damage",
+              "To serve as a railway line",
+              "To provide drinking water to nearby farms",
+              "To generate electricity for the entire province"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the 1950 flood considered an important event in Manitoba history?",
+            "options": [
+              "It resulted in no changes to how the city managed flooding",
+              "It was one of the most damaging floods in the regions history and led to major infrastructure changes",
+              "It occurred in a province other than Manitoba",
+              "It had no lasting impact on the region"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "label": "Day 185 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Distinguishing Satire from Misinformation Online",
+        "summary": "Grade 8 Language strand: satire uses humour and exaggeration to critique or comment on real issues, while misinformation presents false claims as genuine fact, and media-literate readers learn to tell the two apart by checking sources, tone, and intent.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of satire?",
+            "options": [
+              "To use humour and exaggeration to critique or comment on real issues",
+              "To spread false information disguised as fact",
+              "To eliminate the need for fact-checking",
+              "To replace all serious journalism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does misinformation differ from satire?",
+            "options": [
+              "Misinformation presents false claims as if they were genuine fact, without the intent of being understood as a joke",
+              "Misinformation only appears in printed newspapers",
+              "Misinformation and satire are always exactly the same thing",
+              "Misinformation is always clearly labeled as a joke"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one strategy a media-literate reader can use to tell satire apart from misinformation?",
+            "options": [
+              "Assuming all online content is equally reliable",
+              "Checking the source, tone, and stated intent of the content",
+              "Believing every headline without question",
+              "Ignoring where the information came from"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can satire sometimes be mistaken for real news?",
+            "options": [
+              "Satire always states clearly that it is completely false",
+              "Satire is only ever published in academic journals",
+              "Satire never resembles real news in any way",
+              "Its exaggerated claims can resemble real headlines if a reader misses the humorous or critical intent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is distinguishing satire from misinformation an important media literacy skill?",
+            "options": [
+              "Satire and misinformation always have identical goals",
+              "Misreading either one can lead to spreading false beliefs or missing an intended critique",
+              "This distinction has no effect on how information spreads",
+              "Only professional journalists need to make this distinction"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Centroid, Circumcenter, and Orthocenter of a Triangle",
+        "summary": "Grade 8 Math strand: a triangle has several notable points, including the centroid, where its medians intersect, the circumcenter, where perpendicular bisectors of its sides meet, and the orthocenter, where its altitudes intersect.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is the centroid of a triangle?",
+            "options": [
+              "The point farthest from the triangles interior",
+              "The point where all three sides meet",
+              "The point where the triangles medians intersect",
+              "The midpoint of only one side"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the circumcenter of a triangle?",
+            "options": [
+              "The midpoint of the longest side only",
+              "A point that never exists for any triangle",
+              "The point where the triangles angles are largest",
+              "The point where the perpendicular bisectors of the triangles sides meet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the orthocenter of a triangle?",
+            "options": [
+              "The exact center of the triangles perimeter",
+              "A point located outside every triangle",
+              "The point where two sides of the triangle cross",
+              "The point where the triangles altitudes intersect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a median of a triangle?",
+            "options": [
+              "A line segment from a vertex to the midpoint of the opposite side",
+              "The longest side of the triangle",
+              "A line segment connecting two midpoints of the same side",
+              "A line that never touches the triangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do mathematicians study special points such as the centroid, circumcenter, and orthocenter?",
+            "options": [
+              "These points have no mathematical significance",
+              "Triangles cannot contain more than one special point",
+              "These points only exist in three-dimensional shapes",
+              "These points reveal structural properties and symmetries within every triangle"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space Science: The Search for Water on Mars",
+        "summary": "Grade 8 Science strand: scientists have found evidence of ancient rivers, lake beds, and underground ice on Mars, and searching for water is a key part of exploring whether the planet could have once supported, or might still support, microbial life.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of evidence have scientists found suggesting water once existed on Mars?",
+            "options": [
+              "Active volcanoes erupting constantly",
+              "Living dinosaurs still roaming the surface",
+              "Ancient rivers, lake beds, and underground ice",
+              "Oceans of liquid gold"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is searching for water on Mars important to scientists studying the possibility of life there?",
+            "options": [
+              "Mars is already known to be completely lifeless with certainty",
+              "Water has no connection to the possibility of life",
+              "Water is considered essential for life as we understand it",
+              "Water searches are unrelated to any scientific goal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what form does much of the water on modern-day Mars likely exist?",
+            "options": [
+              "Rain falling constantly",
+              "Boiling oceans",
+              "Underground ice",
+              "Large flowing rivers on the surface"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of spacecraft have been used to study evidence of water on Mars?",
+            "options": [
+              "Weather balloons launched from Earth",
+              "Only telescopes located on the Moon",
+              "Robotic rovers and orbiting spacecraft",
+              "Manned spacecraft that have already landed astronauts on Mars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the possible presence of ancient water make Mars a major focus of space exploration?",
+            "options": [
+              "Water has never been detected anywhere on Mars",
+              "Mars is known to have no connection to questions about life",
+              "It raises the possibility that Mars could have once supported simple forms of life",
+              "Searching for water on Mars provides no scientific value"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Confederation Bridge and Linking Prince Edward Island by Land",
+        "summary": "Grade 8 History strand: opened in 1997, the Confederation Bridge spans the Northumberland Strait to connect Prince Edward Island with mainland New Brunswick, fulfilling an 1873 promise of a permanent land link made when the island joined Confederation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Confederation Bridge open?",
+            "options": [
+              "1967",
+              "1873",
+              "1949",
+              "1997"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What body of water does the Confederation Bridge cross?",
+            "options": [
+              "The Bay of Fundy",
+              "Lake Ontario",
+              "The Northumberland Strait",
+              "The Strait of Georgia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which two regions does the Confederation Bridge connect?",
+            "options": [
+              "Ontario and Quebec",
+              "British Columbia and Alberta",
+              "Nova Scotia and Newfoundland",
+              "Prince Edward Island and mainland New Brunswick"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What earlier promise did the completion of the Confederation Bridge fulfill?",
+            "options": [
+              "A promise related to the construction of the CN Tower",
+              "A promise made during the Second World War",
+              "An 1873 promise of a permanent land link made when Prince Edward Island joined Confederation",
+              "A promise made at the original 1867 Confederation meetings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Confederation Bridge considered a significant piece of Canadian infrastructure?",
+            "options": [
+              "It has no connection to Prince Edward Islands history with Confederation",
+              "It was never actually completed",
+              "It disconnected Prince Edward Island from the rest of Canada",
+              "It provided Prince Edward Island with a permanent, reliable land connection to the rest of Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "label": "Day 186 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Recognizing and Avoiding Comma Splices",
+        "summary": "Grade 8 Language strand: a comma splice occurs when two independent clauses are joined by only a comma instead of a coordinating conjunction, semicolon, or period, and correcting it strengthens sentence clarity.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a comma splice?",
+            "options": [
+              "Two independent clauses joined by only a comma",
+              "A sentence with no punctuation at all",
+              "A question that has no answer",
+              "A single word repeated twice in a row"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way to correct a comma splice?",
+            "options": [
+              "Replace the comma with a semicolon or a period",
+              "Remove all punctuation from the sentence",
+              "Add a second comma directly after the first",
+              "Delete the entire second clause"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What could also be added, along with a comma, to correctly join two independent clauses?",
+            "options": [
+              "A question mark placed mid-sentence",
+              "A coordinating conjunction such as and or but",
+              "An extra subject with no verb",
+              "A silent letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are comma splices considered a common but avoidable error in writing?",
+            "options": [
+              "Writers sometimes sense a pause is needed but choose the wrong punctuation to show it",
+              "Comma splices are always considered correct in formal writing",
+              "Comma splices only occur in poetry, never prose",
+              "A comma splice can never be identified or corrected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to correct comma splices in formal writing?",
+            "options": [
+              "Comma splices are required in academic essays",
+              "Comma splices always make a sentence easier to understand",
+              "Formal writing does not require correct punctuation",
+              "Correcting them improves clarity and helps readers see where one complete idea ends and another begins"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to the Coefficient of Variation",
+        "summary": "Grade 8 Math strand: the coefficient of variation expresses a data sets standard deviation as a percentage of its mean, allowing the relative spread of two data sets with different units or averages to be compared fairly.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the coefficient of variation express?",
+            "options": [
+              "A data sets standard deviation as a percentage of its mean",
+              "The exact median of a data set",
+              "The total number of values in a data set",
+              "The largest value found in a data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the coefficient of variation useful when comparing two very different data sets?",
+            "options": [
+              "It allows their relative spread to be compared fairly, even if their units or averages differ",
+              "It always produces the number zero",
+              "It only works when two data sets have identical values",
+              "It removes the need to ever calculate a mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two values are needed to calculate the coefficient of variation?",
+            "options": [
+              "Only the largest and smallest values",
+              "The standard deviation and the mean",
+              "Only the total number of data points",
+              "The mode and the range"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A higher coefficient of variation generally suggests what about a data set?",
+            "options": [
+              "A data set with a mean of exactly zero",
+              "A data set that cannot be measured",
+              "Greater relative spread compared to its own mean",
+              "A data set with only one possible value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a researcher choose the coefficient of variation instead of the standard deviation alone?",
+            "options": [
+              "It removes the need to collect any data at all",
+              "The coefficient of variation cannot be calculated from real data",
+              "It provides a way to compare variability between data sets measured in different units",
+              "Standard deviation and coefficient of variation always give identical results"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Technology: How Water Desalination Works",
+        "summary": "Grade 8 Science strand: desalination removes salt and other minerals from seawater to produce fresh drinking water, most commonly through reverse osmosis, which forces seawater through a membrane that blocks salt while allowing water molecules through.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main goal of water desalination?",
+            "options": [
+              "Freezing seawater permanently",
+              "Adding extra salt to fresh water",
+              "Removing salt and minerals from seawater to produce fresh drinking water",
+              "Removing all water from the ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the most common method used for large-scale desalination today?",
+            "options": [
+              "Simple boiling in an open pot",
+              "Reverse osmosis",
+              "Freezing the entire ocean",
+              "Adding chemicals that create more salt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In reverse osmosis, what does a special membrane do?",
+            "options": [
+              "Removes all molecules, including water, completely",
+              "Has no effect on water or salt at all",
+              "Blocks water while allowing salt to pass through freely",
+              "Blocks salt while allowing water molecules to pass through"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might desalination be especially important for regions with limited fresh water?",
+            "options": [
+              "It has no practical application for water-scarce regions",
+              "It removes the need for any water at all in that region",
+              "It makes seawater completely unusable for any purpose",
+              "It can provide an additional source of drinking water from the ocean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one challenge associated with large-scale desalination?",
+            "options": [
+              "The process can require a significant amount of energy to operate",
+              "Desalination requires no energy whatsoever",
+              "Desalination immediately solves every water shortage with no drawbacks",
+              "Desalination cannot be performed anywhere on Earth"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "O Canada Becomes Canadas Official National Anthem in 1980",
+        "summary": "Grade 8 History strand: although O Canada was first performed in Quebec City in 1880, it was not officially proclaimed as Canadas national anthem until July 1, 1980, on the one hundred and thirteenth anniversary of Confederation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did O Canada become Canadas official national anthem?",
+            "options": [
+              "1949",
+              "1967",
+              "1880",
+              "1980"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year and city was O Canada first performed?",
+            "options": [
+              "1867, in Toronto",
+              "1880, in Quebec City",
+              "1980, in Ottawa",
+              "1945, in Vancouver"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date in 1980 was O Canada officially proclaimed the national anthem?",
+            "options": [
+              "December 25",
+              "January 1",
+              "October 31",
+              "July 1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What anniversary did the 1980 proclamation coincide with?",
+            "options": [
+              "The one hundred and thirteenth anniversary of Confederation",
+              "The two hundredth anniversary of Confederation",
+              "The very first year of Confederation",
+              "The fiftieth anniversary of the Second World War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the gap between O Canadas first performance and its official proclamation notable to historians?",
+            "options": [
+              "O Canada was written and proclaimed as the anthem on the exact same day",
+              "Canada had no anthem of any kind before 1980",
+              "It shows how long a widely sung and recognized song can exist before receiving official status",
+              "O Canada was never actually proclaimed as an official anthem"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "label": "Day 187 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Vocabulary, and Narrative Reading (Days 181-186)",
+        "summary": "Grade 8 Language strand review, and the final Language review of the K-12 curriculum build for this grade: students revisit the serial comma, jargon and technical language, circular structure in narrative, the debate rebuttal, and distinguishing satire from misinformation.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is another common name for the serial comma?",
+            "options": [
+              "The London comma",
+              "The Harvard colon",
+              "The Oxford comma",
+              "The Cambridge comma"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is jargon?",
+            "options": [
+              "Specialized vocabulary used within a particular field or group",
+              "A synonym for slang used only by teenagers",
+              "A word with no real meaning",
+              "A type of punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a circular structure in a narrative do?",
+            "options": [
+              "Returns the story to its opening image, setting, or line by the end",
+              "Removes the ending of a story entirely",
+              "Only ever occurs in poetry, never in prose",
+              "Tells events in a completely random order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of a rebuttal in a debate?",
+            "options": [
+              "To end the debate immediately",
+              "To repeat your own argument without addressing the opponent",
+              "To respond directly to an opponents argument by identifying its weaknesses",
+              "To agree completely with the opposing side"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of satire?",
+            "options": [
+              "To spread false information disguised as fact",
+              "To use humour and exaggeration to critique or comment on real issues",
+              "To replace all serious journalism",
+              "To eliminate the need for fact-checking"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Statistics, Probability, and Geometry (Days 181-186)",
+        "summary": "Grade 8 Math strand review, and the final Math review of the K-12 curriculum build for this grade: students revisit variance, the Sieve of Eratosthenes, partial fraction decomposition, the Coupon Collectors Problem, and special triangle centers.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does variance measure about a data set?",
+            "options": [
+              "The exact largest value in the data set",
+              "How far the data values are spread out from the mean",
+              "The order in which data was collected",
+              "The total number of values in the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Sieve of Eratosthenes help find?",
+            "options": [
+              "The exact square root of a number",
+              "The sum of an arithmetic sequence",
+              "The greatest common factor of two numbers",
+              "All prime numbers up to a given limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does partial fraction decomposition do to a rational expression?",
+            "options": [
+              "Converts the expression into a single very large fraction",
+              "Removes the denominator from the expression entirely",
+              "Rewrites it as a sum of simpler fractions with lower-degree denominators",
+              "Turns it into a whole number with no fraction at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Coupon Collectors Problem ask?",
+            "options": [
+              "How to solve a system of linear equations",
+              "How to calculate the area of a circle",
+              "How many primes exist below one hundred",
+              "On average, how many random draws are needed to collect every distinct item in a set"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the centroid of a triangle?",
+            "options": [
+              "The point where all three sides meet",
+              "The point farthest from the triangles interior",
+              "The point where the triangles medians intersect",
+              "The midpoint of only one side"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Chemistry, Biology, and Space Science (Days 181-186)",
+        "summary": "Grade 8 Science strand review, and the final Science review of the K-12 curriculum build for this grade: students revisit the chemistry of baking, optical illusions, fossils and the fossil record, camouflage and animal defenses, and the search for water on Mars.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What gas do leavening agents such as baking soda release during baking?",
+            "options": [
+              "Hydrogen",
+              "Nitrogen",
+              "Oxygen",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an optical illusion?",
+            "options": [
+              "A situation where the brain interprets visual information differently from physical reality",
+              "A disease that affects only the eyes",
+              "A tool used to measure light intensity",
+              "A type of camera lens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "A type of modern rock formed only underwater",
+              "A living organism found only in caves",
+              "The preserved remains or traces of an ancient organism",
+              "A tool used to measure earthquakes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "A type of animal migration",
+              "A method animals use to find food only",
+              "A way for an animal to blend into its surroundings through colour, pattern, or shape",
+              "A loud sound used to scare away predators"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of evidence have scientists found suggesting water once existed on Mars?",
+            "options": [
+              "Oceans of liquid gold",
+              "Ancient rivers, lake beds, and underground ice",
+              "Active volcanoes erupting constantly",
+              "Living dinosaurs still roaming the surface"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Canadian Landmarks and National Symbols (Days 181-186)",
+        "summary": "Grade 8 History strand review, and the final History review completing the full 187-day K-12 curriculum build for this grade: students revisit the discovery of insulin, the Great Flag Debate, the CN Tower, the Manitoba flood of 1950, and the Confederation Bridge.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was insulin discovered in Toronto?",
+            "options": [
+              "1867",
+              "1939",
+              "1949",
+              "1921"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year did Canada officially adopt the maple leaf flag?",
+            "options": [
+              "1949",
+              "1988",
+              "1965",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the CN Tower completed?",
+            "options": [
+              "1949",
+              "1988",
+              "1976",
+              "1967"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the major flood affecting Winnipeg occur?",
+            "options": [
+              "1917",
+              "1967",
+              "1939",
+              "1950"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year did the Confederation Bridge open?",
+            "options": [
+              "1873",
+              "1997",
+              "1967",
+              "1949"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
