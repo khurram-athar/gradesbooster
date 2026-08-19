@@ -2904,6 +2904,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Purpose for Writing: Inform, Entertain, or Persuade", summary:"Students learn that writers have a purpose for writing, such as to inform readers with facts, to entertain readers with a fun story, or to persuade readers to agree with an idea.",
    resourceLabel:"YouTube: Purpose for Writing: Inform, Entertain, or Persuade", resourceUrl:"https://www.youtube.com/results?search_query=Purpose%20for%20Writing%3A%20Inform%2C%20Entertain%2C%20or%20Persuade%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xw1WZPdXmso",
    quiz:[
      {q:"What is the purpose of writing that gives readers facts and information?", options:["To entertain","To inform","To rhyme","To persuade"], answer:1},
      {q:"What is the purpose of writing a funny story or an adventure tale?", options:["To entertain","To persuade","To measure","To inform"], answer:0},
@@ -2918,6 +2919,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Money Amounts and Making Combinations", summary:"Students learn to compare different amounts of money to see which is greater, and to find different combinations of coins that add up to the same amount.",
    resourceLabel:"YouTube: Comparing Money Amounts and Making Combinations", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Money%20Amounts%20and%20Making%20Combinations%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OsxP2ey7Mj0",
    quiz:[
      {q:"Which is worth more, 3 quarters or 2 dimes?", options:["Cannot tell","They are equal","2 dimes","3 quarters"], answer:3},
      {q:"Which combination of coins adds up to 15 cents?", options:["A dime and a nickel","One nickel","Two quarters","Three dimes"], answer:0},
@@ -2932,6 +2934,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Protecting Endangered Animals", summary:"Students learn that an endangered animal is one that is at risk of disappearing forever, and that people can help protect these animals by preserving habitats and reducing pollution.",
    resourceLabel:"YouTube: Protecting Endangered Animals", resourceUrl:"https://www.youtube.com/results?search_query=Protecting%20Endangered%20Animals%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=07DJdDi6pL0",
    quiz:[
      {q:"What word describes an animal that is at risk of disappearing forever?", options:["Domestic","Migratory","Nocturnal","Endangered"], answer:3},
      {q:"Which of these can help protect endangered animals?", options:["Cutting down more forests","Ignoring the problem","Increasing pollution","Preserving their habitats"], answer:3},
@@ -2946,6 +2949,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"History of Money: From Trading to Coins", summary:"Students learn that before coins and bills existed, people traded goods directly, called bartering, and over time societies developed coins and paper money to make trading easier.",
    resourceLabel:"YouTube: History of Money: From Trading to Coins", resourceUrl:"https://www.youtube.com/results?search_query=History%20of%20Money%3A%20From%20Trading%20to%20Coins%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GZ7y-yFdX9M",
    quiz:[
      {q:"What do we call it when people trade goods directly without using money?", options:["Borrowing","Bartering","Saving","Investing"], answer:1},
      {q:"Before coins and paper money existed, how did people usually get the things they needed?", options:["By using the internet","By using credit cards","By trading goods directly with each other","By using cheques"], answer:2},

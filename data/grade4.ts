@@ -2357,6 +2357,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Spelling: Compound Words", summary:"Grade 4 Language strand: a compound word is formed by joining two smaller words together, such as “sun” and “flower” combining to make “sunflower.”",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=OcPYiEfaM8g",
    quiz:[
      {q:"A compound word is formed by ___.", options:["Joining two smaller words together","A concept unrelated to spelling","Adding a prefix only, with no second word","Removing letters from a single word"], answer:0},
      {q:"Which of these is a compound word?", options:["A word unrelated to compound words","Running","Happiness","Basketball"], answer:3},
@@ -2366,6 +2367,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Translations, Reflections, and Rotations", summary:"Grade 4 Math strand: a translation slides a shape, a reflection flips a shape like a mirror image, and a rotation turns a shape around a fixed point.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VJTxv-tRKj0",
    quiz:[
      {q:"A translation moves a shape by ___.", options:["A movement unrelated to transformations","Turning it around a fixed point","Flipping it like a mirror image","Sliding it without flipping or turning it"], answer:3},
      {q:"A reflection creates a shape that is ___.", options:["An exact copy with no changes at all","A movement unrelated to transformations","A mirror image of the original shape","Always larger than the original shape"], answer:2},
@@ -2375,6 +2377,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Water Conservation and the Water Cycle in Communities", summary:"Grade 4 Science strand: communities rely on the water cycle for fresh water, and conserving water helps protect this limited resource for future use.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=GsNVrF9UEAQ",
    quiz:[
      {q:"Water conservation means ___.", options:["Removing water from the environment permanently","Using water carefully to avoid wasting it","Using as much water as possible at all times","A concept unrelated to water"], answer:1},
      {q:"Which is an example of water conservation at home?", options:["A concept unrelated to conserving water","Watering the lawn during a rainstorm","Turning off the tap while brushing your teeth","Leaving the tap running for no reason"], answer:2},
@@ -2384,6 +2387,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Relationship with the Commonwealth", summary:"Grade 4 Social Studies strand: Canada is a member of the Commonwealth, a voluntary association of countries, most of which were once part of the British Empire, that cooperate on shared goals.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=aWsvHuuV-qE",
    quiz:[
      {q:"The Commonwealth is a voluntary association of countries that ___.", options:["Are required to follow identical laws with no independence","Cooperate on shared goals, such as democracy and development","Have no historical connection to one another","A concept unrelated to international relationships"], answer:1},
      {q:"Many Commonwealth countries share a historical connection to ___.", options:["The former British Empire","No shared history at all","Only ancient civilizations","A country unrelated to the Commonwealth"], answer:0},

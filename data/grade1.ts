@@ -2900,6 +2900,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Types of Sentences: Statements and Commands", summary:"Students learn that a statement is a sentence that tells something and usually ends with a period, while a command tells someone to do something, such as Close the door.",
    resourceLabel:"YouTube: Types of Sentences: Statements and Commands", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Sentences%3A%20Statements%20and%20Commands%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=13FaGPggCg8",
    quiz:[
      {q:"Which sentence is a statement?", options:["Close the door.","Please sit down.","The sky is blue.","Pick it up."], answer:2},
      {q:"Which sentence is a command?", options:["Close the door.","I like apples.","The sky is blue.","The dog is brown."], answer:0},
@@ -2914,6 +2915,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Repeating Patterns: AB and ABC", summary:"Students learn to recognize and continue repeating patterns, such as an AB pattern like red, blue, red, blue, or an ABC pattern like circle, square, triangle, circle, square, triangle.",
    resourceLabel:"YouTube: Repeating Patterns: AB and ABC", resourceUrl:"https://www.youtube.com/results?search_query=Repeating%20Patterns%3A%20AB%20and%20ABC%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jMsTvH6gTGk",
    quiz:[
      {q:"In the pattern red, blue, red, blue, red, what comes next?", options:["Red","Green","Blue","Yellow"], answer:2},
      {q:"In the pattern circle, square, triangle, circle, square, what comes next?", options:["Triangle","Star","Circle","Square"], answer:0},
@@ -2928,6 +2930,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Butterfly", summary:"Students learn the life cycle of a butterfly, which changes from an egg to a caterpillar, then to a chrysalis, and finally into an adult butterfly.",
    resourceLabel:"YouTube: Life Cycle of a Butterfly", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3kZD6rlSLUw",
    quiz:[
      {q:"What is the first stage of a butterfly life cycle?", options:["Egg","Adult butterfly","Caterpillar","Chrysalis"], answer:0},
      {q:"What do we call the crawling stage that hatches from a butterfly egg?", options:["A cub","A caterpillar","A chick","A tadpole"], answer:1},

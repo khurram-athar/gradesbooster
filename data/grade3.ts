@@ -2357,6 +2357,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Understanding Misinformation", summary:"Grade 3 Language strand: misinformation is false or misleading information, and learning to check whether something seems true, especially online, is an important skill for young readers today.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=D0Cd9-eJ-No",
    quiz:[
      {q:"Misinformation is information that is ___.", options:["Only ever found in printed books, never online","A concept unrelated to accuracy or truth","False or misleading","Always completely accurate and trustworthy"], answer:2},
      {q:"Why is it important for young readers to check whether information seems true, especially online?", options:["Everything found online is always completely true","Not everything found online, especially without checking, is accurate or trustworthy","This concept has no connection to responsible reading habits","Checking information online is never a useful skill"], answer:1},
@@ -2366,6 +2367,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning: Number Patterns with Multiplication and Division", summary:"Grade 3 Math strand: number patterns can be created using multiplication and division, where each term relates to the one before it by a consistent multiplying or dividing rule.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=gXNmGIDNsSM",
    quiz:[
      {q:"Number patterns using multiplication and division follow a consistent ___.", options:["A concept unrelated to how patterns are formed","Completely random sequence with no rule involved","Rule","Set of unrelated numbers with no connection to each other"], answer:2},
      {q:"In the pattern 2, 4, 8, 16..., what rule is being used?", options:["Multiply by 2 each time","Subtract 2 each time","Add 2 each time","Divide by 2 each time"], answer:0},
@@ -2375,6 +2377,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Renewable Energy in Everyday Life", summary:"Grade 3 Science strand: renewable energy sources, such as sunlight and wind, can be used in everyday life to power homes, schools, and communities in ways that do not run out over time.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=1kUE0BZtTRc",
    quiz:[
      {q:"Renewable energy sources, like sunlight and wind, can be used to power homes, schools, and ___.", options:["Only vehicles from long ago, with no modern use","Communities","A concept unrelated to energy use","Nothing at all, since renewable energy has no practical use"], answer:1},
      {q:"A key feature of renewable energy sources is that they ___ over time.", options:["Do not run out","Become completely unusable within a single day","A concept unrelated to energy sources","Always run out very quickly"], answer:0},
@@ -2384,6 +2387,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies: Immigration Stories -- Then and Now", summary:"Grade 3 Social Studies strand: comparing immigration stories from the past and present helps show both how reasons for immigrating to Canada have stayed similar and how the experience has changed over time.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=cX02bJ1pyw4",
    quiz:[
      {q:"Comparing immigration stories from the past and present can show how reasons for immigrating have ___.", options:["Stayed similar in some ways","Been completely different in every possible way","Never had any connection to each other","A concept unrelated to immigration history"], answer:0},
      {q:"This comparison can also show how the experience of immigrating has ___ over time.", options:["Had no connection to any historical changes","A concept unrelated to immigration experiences","Remained exactly identical in every detail","Changed"], answer:3},

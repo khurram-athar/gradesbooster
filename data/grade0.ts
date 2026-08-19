@@ -2900,6 +2900,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Middle Sounds: Listening for the Vowel", summary:"Students practise listening for the middle sound in short words, identifying the vowel sound between the first and last consonant, such as the short a in cat.",
    resourceLabel:"YouTube: Middle Sounds: Listening for the Vowel", resourceUrl:"https://www.youtube.com/results?search_query=Middle%20Sounds%3A%20Listening%20for%20the%20Vowel%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=f21moJ3tNEU",
    quiz:[
      {q:"What is the middle sound in the word cat?", options:["C","T","None","A"], answer:3},
      {q:"What is the middle sound in the word hop?", options:["O","H","P","None"], answer:0},
@@ -2914,6 +2915,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Making Shapes with Sticks: Sides and Corners", summary:"Students build simple shapes using straight sticks or lines and count the number of sides and corners on shapes such as triangles, squares, and rectangles.",
    resourceLabel:"YouTube: Making Shapes with Sticks: Sides and Corners", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Shapes%20with%20Sticks%3A%20Sides%20and%20Corners%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=24Uv8Cl5hvI",
    quiz:[
      {q:"How many sides does a triangle have?", options:["2","3","5","4"], answer:1},
      {q:"How many corners does a square have?", options:["5","3","6","4"], answer:3},
@@ -2928,6 +2930,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Our Ears: Hearing Loud and Quiet Sounds", summary:"Students explore how our ears help us hear sounds, and sort sounds into loud sounds, like thunder, and quiet sounds, like a whisper.",
    resourceLabel:"YouTube: Our Ears: Hearing Loud and Quiet Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Ears%3A%20Hearing%20Loud%20and%20Quiet%20Sounds%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dLWrX5scL9E",
    quiz:[
      {q:"What body part helps us hear sounds?", options:["Eyes","Hands","Nose","Ears"], answer:3},
      {q:"Is thunder a loud sound or a quiet sound?", options:["Quiet","Neither","Loud","Both"], answer:2},
@@ -2942,6 +2945,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Volunteering: Helping Without Being Asked", summary:"Students learn what it means to volunteer, offering to help someone or the community without expecting anything in return, such as picking up litter or helping a classmate.",
    resourceLabel:"YouTube: Volunteering: Helping Without Being Asked", resourceUrl:"https://www.youtube.com/results?search_query=Volunteering%3A%20Helping%20Without%20Being%20Asked%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8KxwtJH6NSo",
    quiz:[
      {q:"What does it mean to volunteer?", options:["Doing chores only for yourself","Only helping when paid","Never helping anyone","Offering to help without expecting payment"], answer:3},
      {q:"Which of these is an example of volunteering?", options:["Demanding payment for help","Picking up litter in the park","Ignoring a mess","Refusing to help others"], answer:1},
