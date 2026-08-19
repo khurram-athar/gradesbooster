@@ -2359,6 +2359,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Advertising Techniques", summary:"Grade 8 Language strand: advertisers use techniques such as emotional appeal, bandwagon effect, and celebrity endorsement to persuade audiences to buy a product or adopt a particular viewpoint.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=qQTrTiFbdSI",
    quiz:[
      {q:"Emotional appeal in advertising works by ___.", options:["Triggering feelings, such as happiness or fear, to influence a decision","Avoiding any connection to the audience’s emotions","A concept unrelated to advertising techniques","Presenting only neutral, unbiased facts with no persuasive intent"], answer:0},
      {q:"The bandwagon effect in advertising suggests that ___.", options:["No one else is using or buying the product","A concept unrelated to the bandwagon effect","A product’s popularity has no influence on consumer choices","A person should do or buy something because many others are already doing so"], answer:3},
@@ -2386,6 +2387,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Oka Crisis", summary:"Grade 8 History strand: the Oka Crisis of 1990 was a land dispute and armed standoff between Mohawk protesters and Canadian authorities near Oka, Quebec, that drew national attention to Indigenous land rights.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WtIS4zQ_eHo",
    quiz:[
      {q:"The Oka Crisis took place in ___.", options:["1950","A year unrelated to the Oka Crisis","1867","1990"], answer:3},
      {q:"The Oka Crisis was primarily a dispute over ___.", options:["A dispute unrelated to the Oka Crisis","Federal funding for education","Land rights near Oka, Quebec","A trade agreement with the United States"], answer:2},

@@ -2359,6 +2359,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Writing: Writing a Process Analysis Essay (How Something Works)", summary:"Grade 7 Language strand: a process analysis essay explains how something works or how to complete a task, breaking the process down into clear, logically ordered steps.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=32R30EYIW-U",
    quiz:[
      {q:"A process analysis essay explains ___.", options:["How something works or how to complete a task","A fictional story with no factual basis","A concept unrelated to writing","A completely unrelated personal opinion"], answer:0},
      {q:"A process analysis essay should break its topic down into ___.", options:["A single confusing paragraph with no structure","A concept unrelated to process analysis essays","Random, unordered pieces of information","Clear, logically ordered steps"], answer:3},
@@ -2368,6 +2369,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Standard Form vs. Expanded Form of Numbers", summary:"Grade 7 Math strand: standard form writes a number using digits, such as 4,502, while expanded form breaks it down by place value, such as 4,000 + 500 + 2.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=eIJup5_zyuY",
    quiz:[
      {q:"Standard form writes a number using ___.", options:["Roman numerals only","A concept unrelated to standard form","Digits, in its usual numerical form","Only words, with no digits at all"], answer:2},
      {q:"Expanded form breaks a number down by ___.", options:["A concept unrelated to expanded form","Alphabetical order","Place value","Its total value with no breakdown at all"], answer:2},
@@ -2377,6 +2379,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Symbiosis: Mutualism, Commensalism, and Parasitism", summary:"Grade 7 Science strand: symbiosis describes close relationships between different species, including mutualism (both benefit), commensalism (one benefits, the other is unaffected), and parasitism (one benefits at the other’s expense).",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=7kTHKQdRvtw",
    quiz:[
      {q:"In a mutualistic relationship, ___.", options:["Neither species benefits at all","Both species benefit","A concept unrelated to mutualism","Only one species benefits, while the other is harmed"], answer:1},
      {q:"In a commensal relationship, ___.", options:["Both species are harmed equally","Both species benefit equally","A concept unrelated to commensalism","One species benefits while the other is unaffected"], answer:3},

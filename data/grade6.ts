@@ -2359,6 +2359,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Writing: Writing a Formal Letter of Request", summary:"Grade 6 Language strand: a formal letter of request politely and clearly asks for information, action, or assistance, using proper greetings, structure, and a respectful tone.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=Gd8v-FIjI9Y",
    quiz:[
      {q:"A formal letter of request is written to ___.", options:["Politely and clearly ask for information, action, or assistance","A concept unrelated to writing","Simply share a casual story with a friend","Complain without offering any clear request"], answer:0},
      {q:"Which of these is an important feature of a formal letter?", options:["Casual slang and informal abbreviations","A polite greeting and a respectful, clear tone","No greeting or closing of any kind","A concept unrelated to formal letters"], answer:1},
@@ -2368,6 +2369,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Combinations and Permutations (Intro)", summary:"Grade 6 Math strand: a combination is a selection of items where order does not matter, while a permutation is an arrangement of items where order does matter.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=gAnKvHmrJ0g",
    quiz:[
      {q:"In a combination, the order of items ___.", options:["Always matters","Determines whether the answer is correct or incorrect","A concept unrelated to combinations","Does not matter"], answer:3},
      {q:"In a permutation, the order of items ___.", options:["Matters","Has no effect on the outcome","Never matters","A concept unrelated to permutations"], answer:0},
@@ -2377,6 +2379,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nutrient Cycles in Ecosystems", summary:"Grade 6 Science strand: nutrient cycles, such as the nitrogen and carbon cycles, describe how essential elements move through living things and the environment, supporting life in an ecosystem.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=_80KLThmiVw",
    quiz:[
      {q:"A nutrient cycle describes how essential elements move ___.", options:["Only through the atmosphere, with no connection to living things","In a single direction, never returning to the environment","A concept unrelated to nutrient cycles","Through living things and the environment"], answer:3},
      {q:"Which of these is an example of a nutrient cycle?", options:["The nitrogen cycle","A cycle with no connection to nutrients","The water park cycle","A concept unrelated to ecosystems"], answer:0},
@@ -2386,6 +2389,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Apartheid and the Fight for Equality in South Africa", summary:"Grade 6 Social Studies strand: apartheid was a system of racial segregation enforced by law in South Africa, and the long struggle to end it became a global symbol of the fight for equality.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ke4kVFycpYY",
    quiz:[
      {q:"Apartheid was a system that ___.", options:["Enforced racial segregation by law in South Africa","Guaranteed equal rights for all South African citizens","A concept unrelated to South African history","Existed with no connection to law or government"], answer:0},
      {q:"The fight to end apartheid became a symbol of ___.", options:["A conflict with no connection to human rights","The global struggle for equality and human rights","A movement that had no international attention","A concept unrelated to South African history"], answer:1},
