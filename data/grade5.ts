@@ -2357,17 +2357,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:57, label:"Day 57 — Tue", subjects:[
-  {subject:"Language", title:"Writing: Writing a Literary Response", summary:"Grade 5 Language strand: a literary response shares the writer’s thoughts and reactions to a text, supported by specific evidence and examples from the reading.",
+  {subject:"Language", title:"Using Text Evidence to Support Your Ideas", summary:"Grade 5 Language strand: strong writers and readers support their ideas about a text with specific evidence, such as quotes or details, which helps show why they think what they think.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=XPLrL-AkDoM",
    quiz:[
-     {q:"A literary response shares ___.", options:["The writer’s thoughts and reactions to a text, supported by evidence","A concept unrelated to writing","Only a summary of the plot with no personal reaction","A completely new, unrelated story"], answer:0},
-     {q:"Why is it important to include evidence in a literary response?", options:["A reason unrelated to writing a literary response","Evidence is never needed when responding to a text","Evidence makes a response less convincing","It supports the writer’s ideas with specific details from the text"], answer:3},
-     {q:"Which is an example of evidence a writer might use in a literary response?", options:["A concept unrelated to literary responses","A specific quote or event from the story","The writer’s opinion with no connection to the text","A completely unrelated fact about a different book"], answer:1},
-     {q:"What might a literary response include besides a summary of events?", options:["The writer’s personal reaction and interpretation of the text","Only a list of characters with no further detail","A concept unrelated to literary responses","Instructions for how to read the book"], answer:0},
-     {q:"Why might two readers write very different literary responses to the same book?", options:["Literary responses never include any personal interpretation","Readers can have different reactions, interpretations, and connections to a text","All readers are required to respond to a text in exactly the same way","A reason unrelated to literary responses"], answer:1}
+     {q:"Using text evidence means supporting an idea with ___.", options:["A completely made-up example with no connection to the text","A concept unrelated to writing","Specific details or quotes from the text","A guess with no support from the text"], answer:2},
+     {q:"Why is text evidence important when explaining an idea about a story?", options:["It proves the idea is actually supported by what the text says","Text evidence is never needed to explain an idea","A reason unrelated to reading or writing","Ideas about a story never need any kind of support"], answer:0},
+     {q:"Which is an example of text evidence a reader might use?", options:["A completely unrelated fact about a different book","The reader’s opinion with no connection to the text","A specific quote or detail from the story","A concept unrelated to text evidence"], answer:2},
+     {q:"What should a reader do before choosing a piece of text evidence?", options:["Pick any sentence at random from the text","Make sure the evidence actually supports the idea being explained","A concept unrelated to choosing evidence","Ignore whether the evidence connects to the idea"], answer:1},
+     {q:"Why might two readers choose different pieces of text evidence to support similar ideas?", options:["Text evidence is never chosen deliberately","A reason unrelated to reading comprehension","Readers can notice and connect with different details in the same text","All readers are required to notice exactly the same details"], answer:2}
    ]},
   {subject:"Math", title:"Converting Between Fractions, Decimals, and Percents", summary:"Grade 5 Math strand: fractions, decimals, and percents are different ways to represent the same value, and converting between them uses division, multiplication, or place value.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=2vjbNZaFz3c",
    quiz:[
      {q:"What is 1/2 written as a decimal?", options:["0.2","A value unrelated to the conversion","0.5","1.5"], answer:2},
      {q:"What is 0.75 written as a percent?", options:["750%","7.5%","A value unrelated to the conversion","75%"], answer:3},
@@ -2377,6 +2379,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Natural Disasters and Their Causes", summary:"Grade 5 Science strand: natural disasters such as earthquakes, floods, and tornadoes are caused by natural processes in the Earth’s systems, including shifting tectonic plates and extreme weather.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=FCxCkXI4fc8",
    quiz:[
      {q:"An earthquake is often caused by ___.", options:["A sudden change in air temperature","Shifting tectonic plates beneath the Earth’s surface","A concept unrelated to earthquakes","The movement of ocean currents alone"], answer:1},
      {q:"A flood can be caused by ___.", options:["A lack of rainfall over a long period","Excessive rainfall or rapid snowmelt","A sudden drop in temperature","A concept unrelated to floods"], answer:1},
@@ -2384,14 +2387,15 @@ const curriculum: DayContent[] = [
      {q:"Why do scientists study natural disasters?", options:["A reason unrelated to science","Natural disasters cannot be studied or understood","Studying natural disasters provides no useful information","To better predict them and help keep communities safe"], answer:3},
      {q:"Which of these is a way communities can prepare for natural disasters?", options:["Ignoring the possibility of a natural disaster entirely","Creating emergency plans and warning systems","A concept unrelated to disaster preparedness","Assuming natural disasters never occur"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Canada’s Relationship with the United States", summary:"Grade 5 Social Studies strand: Canada and the United States share the world’s longest international border and have close economic, cultural, and political ties.",
+  {subject:"SocialStudies", title:"The Canada-US Border: The World's Longest International Border", summary:"Grade 5 Social Studies strand: the border between Canada and the United States stretches about 8,891 kilometres (5,525 miles), making it the longest international border in the world, and it plays an important role in trade and travel between the two countries.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=d1HQvGkrYuM",
    quiz:[
-     {q:"Canada and the United States share ___.", options:["The world’s longest international border","A concept unrelated to their relationship","No border at all","A border that is closed to all trade"], answer:0},
-     {q:"Which is an example of the close economic ties between Canada and the United States?", options:["Canada trading only with countries outside North America","A complete absence of any trade between the two countries","A concept unrelated to their relationship","A large amount of trade in goods and services between the two countries"], answer:3},
-     {q:"Why might close cultural ties exist between Canada and the United States?", options:["The two countries share similar media, language, and geographic closeness","Canada and the United States have never interacted culturally","A reason unrelated to their relationship","The two countries have no shared culture or media of any kind"], answer:0},
-     {q:"Which of these is an example of political cooperation between the two countries?", options:["Having completely separate, unconnected governments with no interaction","Working together on shared border and trade agreements","A concept unrelated to their relationship","Refusing to communicate on any shared issues"], answer:1},
-     {q:"Why is Canada’s relationship with the United States significant for Canadians?", options:["Canada and the United States operate with no connection to one another","A reason unrelated to Canadian geography","It affects trade, travel, and many parts of daily life due to their close connection","This relationship has no effect on Canadians’ daily lives"], answer:2}
+     {q:"The border between Canada and the United States is the ___ in the world.", options:["Shortest border","Only guarded border","Longest international border","A border unrelated to trade"], answer:2},
+     {q:"About how long is the Canada-United States border?", options:["A length unrelated to the border","Around 5,525 miles (8,891 km)","About 10 miles","Around 500 miles"], answer:1},
+     {q:"Why is the length of the Canada-US border significant for the two countries?", options:["It has no effect on either country","A reason unrelated to geography","It plays an important role in trade and travel between the two countries","The border prevents any travel between the countries"], answer:2},
+     {q:"Which of these is true about the Canada-US border?", options:["It is closed to all trade and travel","A statement unrelated to the border","It stretches across a large part of North America, connecting the two countries","It is shorter than most other international borders"], answer:2},
+     {q:"Why might people find the Canada-US border interesting to study in social studies?", options:["Borders have no connection to social studies","It shows how geography can shape relationships between countries","A reason unrelated to studying borders","This topic has no relevance to understanding North America"], answer:1}
    ]},
 ]},
 {day:58, label:"Day 58 — Wed", subjects:[
