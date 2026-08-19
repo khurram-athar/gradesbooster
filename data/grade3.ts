@@ -7065,6 +7065,272 @@ const curriculum: DayContent[] = [
      {q:"What does a translator do?", options:["Delivers packages across the country","Helps people who speak different languages understand one another","Builds roads between communities","Repairs vehicles for a living"], answer:1}
    ]},
 ]},
+{day:181, label:"Day 181 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Using Dashes to Add Emphasis or Extra Information", summary:"Grade 3 Language strand: a dash can interrupt a sentence to add emphasis, an aside, or extra information without changing the main idea of the sentence.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What can a dash add to a sentence?", options:["A completely new topic unrelated to the sentence","A math symbol","Emphasis or extra information","A silent letter"], answer:2},
+     {q:"Which sentence correctly uses a dash to add extra information?", options:["The dog a small — brown, terrier — barked.","The dog small, brown terrier: barked loudly —","The, dog small brown terrier — barked loudly","The dog — a small brown terrier — barked loudly."], answer:3},
+     {q:"Where can a dash be placed in a sentence?", options:["Only at the very beginning of a word","Only inside a number","In the middle or at the end to set off extra information","Dashes can never be placed in a sentence"], answer:2},
+     {q:"Why might a writer choose a dash instead of a comma?", options:["Dashes and commas are always identical","To remove the extra information entirely","Dashes are never used in writing","To create a stronger pause and draw attention to the added information"], answer:3},
+     {q:"What happens to the main idea of a sentence when extra information is set off by dashes?", options:["The main idea stays clear even with the extra detail added","The sentence loses all punctuation","The main idea disappears completely","The sentence becomes a question"], answer:0}
+   ]},
+  {subject:"Math", title:"Number: Introducing Roman Numerals to 20", summary:"Grade 3 Math strand: Roman numerals use letters such as I, V, and X to represent numbers, and were used by the ancient Romans as their number system.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which Roman numeral represents the number 1?", options:["X","V","L","I"], answer:3},
+     {q:"Which Roman numeral represents the number 5?", options:["X","C","I","V"], answer:3},
+     {q:"Which Roman numeral represents the number 10?", options:["I","L","V","X"], answer:3},
+     {q:"What number does the Roman numeral XII represent?", options:["12","15","21","7"], answer:0},
+     {q:"Why might Roman numerals still be used today, such as on clock faces?", options:["They are a traditional way to display numbers using letters","Because Roman numerals are easier to add","Because Roman numerals replace all other numbers","Because clocks cannot use regular numbers"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Raccoons and Their Nighttime Foraging Habits", summary:"Grade 3 Science strand: raccoons are nocturnal mammals with dexterous front paws and a habit of searching for food at night in forests, parks, and even cities.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"When are raccoons most active?", options:["Only in winter","At night","Only underwater","At noon"], answer:1},
+     {q:"What helps a raccoon search for and grab food?", options:["Its wings","Its dexterous front paws","Its long neck","Its gills"], answer:1},
+     {q:"Where might raccoons search for food?", options:["Forests, parks, and even cities","Only in underground caves","Only in the desert","Only deep in the ocean"], answer:0},
+     {q:"What word describes an animal that is mostly active at night?", options:["Migratory","Aquatic","Diurnal","Nocturnal"], answer:3},
+     {q:"Why might raccoons be able to live successfully in cities?", options:["They can adapt and find food in many different environments","Raccoons never adapt to new environments","Cities have no food sources at all","Raccoons can only survive in one type of habitat"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The CN Tower — An Iconic Canadian Landmark", summary:"Grade 3 Social Studies strand: the CN Tower in Toronto is a tall communications and observation tower that has long stood as one of Canadas most recognized landmarks.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"In which city is the CN Tower located?", options:["Ottawa","Toronto","Vancouver","Winnipeg"], answer:1},
+     {q:"What was the CN Tower originally built to support?", options:["Ocean shipping","Farming equipment","Communications, such as broadcasting signals","Underground mining"], answer:2},
+     {q:"What can visitors do at the CN Tower?", options:["Go swimming in an ocean","View the city from an observation deck","Visit an underground mine","Ride a farm tractor"], answer:1},
+     {q:"Why is the CN Tower considered an iconic landmark?", options:["It is rarely seen in photographs of Toronto","It has no connection to any city","It is a tall, recognizable structure closely associated with Toronto and Canada","It was built outside of Canada"], answer:2},
+     {q:"What kind of structure is the CN Tower?", options:["An underground tunnel","A tall tower","A small house","A short bridge"], answer:1}
+   ]},
+]},
+{day:182, label:"Day 182 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Neologisms — New Words in the English Language", summary:"Grade 3 Language strand: a neologism is a newly created word or phrase that enters a language, often to describe a new invention, idea, or trend.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a neologism?", options:["A newly created word or phrase","A punctuation mark","A word that has existed for thousands of years","A silent letter"], answer:0},
+     {q:"Why might a neologism be created?", options:["To remove words from a language","To replace every word already in the dictionary","To describe a new invention, idea, or trend","Neologisms are never created for a reason"], answer:2},
+     {q:"Which is an example of how a neologism might enter a language?", options:["An old word is removed and never used again","A new word is created to describe a new type of technology","Neologisms only describe animals","A neologism only appears in ancient texts"], answer:1},
+     {q:"Over time, what might happen to a popular neologism?", options:["It turns into a number","It may be added to the dictionary as an accepted word","It becomes a silent letter","It always disappears within a day"], answer:1},
+     {q:"Why do languages continue to create neologisms?", options:["Language changes over time as new ideas and inventions appear","Only ancient languages have neologisms","Neologisms are not allowed in a language","Languages never change"], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplication: Multiplying by Skip Counting on a Hundred Chart", summary:"Grade 3 Math strand: a hundred chart can be used to multiply by skip counting, moving through the chart in equal jumps that match the multiplication facts being practised.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does skip counting on a hundred chart involve?", options:["Randomly choosing numbers","Counting forward in equal jumps","Counting backward only by ones","Counting only to ten"], answer:1},
+     {q:"To find 3 times 5 using skip counting by 5s, how many jumps of 5 would you make?", options:["3 jumps","8 jumps","15 jumps","5 jumps"], answer:0},
+     {q:"If you skip count by 4s starting at zero, which number comes third?", options:["8","4","12","16"], answer:2},
+     {q:"Why might a hundred chart help with multiplication?", options:["It removes the need to know any multiplication facts","It shows a visual pattern of equal jumps that match a multiplication fact","It only works for subtraction","It hides the numbers being counted"], answer:1},
+     {q:"What pattern do you notice when skip counting by 10s on a hundred chart?", options:["The numbers decrease each time","The numbers land in the same column every time","The numbers never repeat a pattern","The numbers are always odd"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Canada Geese and Their V-Formation Migration", summary:"Grade 3 Science strand: Canada geese migrate long distances in a V-shaped formation, which helps the birds save energy and communicate during flight.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What shape do Canada geese often form while migrating?", options:["A V-shape","A circle","A straight line only","A square"], answer:0},
+     {q:"Why might flying in a V-formation help migrating geese?", options:["It prevents the geese from ever resting","It has no benefit to the geese","It makes the geese fly slower on purpose","It helps them save energy and communicate during flight"], answer:3},
+     {q:"What is migration?", options:["Travelling long distances, often on a seasonal basis","Growing new feathers","Building a nest underground","Staying in the exact same spot all year"], answer:0},
+     {q:"What sound do Canada geese often make while flying together?", options:["Complete silence at all times","A roar like a lion","Honking calls","A buzzing sound like a bee"], answer:2},
+     {q:"Why might geese take turns leading the V-formation?", options:["Leading the front takes more energy, so sharing the role helps the group","Leading the formation takes no energy at all","Only one goose is ever allowed to fly","Geese never take turns leading"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadian Thanksgiving and Its Traditions", summary:"Grade 3 Social Studies strand: Canadian Thanksgiving is a holiday in October when families gather to share a meal and give thanks for the harvest and other good things in their lives.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"In which month is Canadian Thanksgiving celebrated?", options:["March","October","December","July"], answer:1},
+     {q:"What do families traditionally do on Thanksgiving?", options:["Stay silent the entire day","Gather to share a meal and give thanks","Go to school all day","Avoid seeing family members"], answer:1},
+     {q:"What idea does Thanksgiving traditionally celebrate?", options:["Competing in a sports tournament","Being thankful for the harvest and other good things","Ignoring family and friends","Being upset about the changing seasons"], answer:1},
+     {q:"What type of holiday is Thanksgiving?", options:["A holiday centred on gratitude and gathering","A holiday that has no connection to food","A holiday celebrated by only one family in Canada","A holiday with no traditions at all"], answer:0},
+     {q:"Why might sharing a meal be an important part of Thanksgiving traditions?", options:["Thanksgiving meals are always eaten alone","It brings family and friends together to connect and give thanks","Sharing a meal is discouraged on Thanksgiving","Meals have no connection to the holiday"], answer:1}
+   ]},
+]},
+{day:183, label:"Day 183 — Wed", subjects:[
+  {subject:"Language", title:"Reading: How Setting Shapes a Storys Mood", summary:"Grade 3 Language strand: the setting of a story, including the time, place, and weather, can shape the mood or feeling that a reader experiences while reading.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is the setting of a story?", options:["The name of the author","The title of the book","The list of characters only","The time, place, and weather in which the story happens"], answer:3},
+     {q:"How can setting affect a storys mood?", options:["Setting only affects the length of a story","Setting never affects mood","Mood is only created by character names","A dark, stormy setting might create a scary or tense mood"], answer:3},
+     {q:"Which setting might create a peaceful mood?", options:["A crowded, noisy battlefield","A sunny meadow on a calm afternoon","A haunted house at midnight","A dark cave during a thunderstorm"], answer:1},
+     {q:"Why might an author carefully choose a storys setting?", options:["To help create a particular feeling or atmosphere for the reader","Setting has no effect on how a story feels","Setting only matters in nonfiction books","Authors never think about setting"], answer:0},
+     {q:"Which setting might help create a mysterious mood?", options:["A calm, quiet library in the afternoon","A bright, sunny playground at noon","A cheerful birthday party","A foggy forest at night"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Finding Lines of Symmetry in Everyday Objects", summary:"Grade 3 Math strand: a line of symmetry divides a shape or object into two matching halves that are mirror images of each other, and many everyday objects show this kind of symmetry.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does a line of symmetry do?", options:["Divides a shape into two unequal parts","Removes the shape completely","Divides a shape into two matching mirror-image halves","Adds a new side to the shape"], answer:2},
+     {q:"Which everyday object often shows a line of symmetry?", options:["A butterfly with matching wings","A torn piece of paper","A random scribble","A pile of sand"], answer:0},
+     {q:"How many lines of symmetry does a square have?", options:["2","4","0","1"], answer:1},
+     {q:"If you fold a shape along its line of symmetry, what should happen?", options:["The shape should disappear","The two halves should match up exactly","The two halves should look completely different","The fold should tear the shape"], answer:1},
+     {q:"Why might finding lines of symmetry be a useful geometry skill?", options:["It has no real use in geometry","It helps identify balance and matching patterns in shapes and objects","Lines of symmetry never appear in real objects","It only works with numbers"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Sea Otters and How They Use Tools", summary:"Grade 3 Science strand: sea otters are marine mammals that float on their backs and sometimes use rocks as tools to crack open the shells of clams and other food.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do sea otters sometimes use as a tool?", options:["A rock","A wooden hammer","A pair of scissors","A metal spoon"], answer:0},
+     {q:"Why might a sea otter use a rock while eating?", options:["To signal other otters","To crack open the shells of clams and other food","To build a nest","To dig a tunnel"], answer:1},
+     {q:"How do sea otters often rest and eat on the water?", options:["By burrowing into sand","By floating on their backs","By standing on the ocean floor","By flying above the waves"], answer:1},
+     {q:"What type of animal is a sea otter?", options:["A marine mammal","A fish","A reptile","An insect"], answer:0},
+     {q:"Why is it notable that sea otters use tools?", options:["Tool use has no connection to problem-solving","Sea otters never interact with objects around them","Using tools is common among all ocean animals","Using tools shows a high level of problem-solving among animals"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Stanley Cup and Canadas Hockey Tradition", summary:"Grade 3 Social Studies strand: the Stanley Cup is one of the oldest trophies in professional sports and is closely connected to Canadas long tradition of playing and watching hockey.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Stanley Cup?", options:["A style of Canadian cooking","A famous Canadian mountain","A type of Canadian currency","A trophy connected to professional hockey"], answer:3},
+     {q:"What sport is closely associated with the Stanley Cup?", options:["Basketball","Hockey","Tennis","Soccer"], answer:1},
+     {q:"Why is the Stanley Cup considered historically significant?", options:["It is one of the oldest trophies in professional sports","It was created only last year","It is the newest trophy in the world","It has no connection to any sport"], answer:0},
+     {q:"Why might hockey be considered an important part of Canadian culture?", options:["It has a long tradition of being played and watched across the country","Hockey was invented outside of North America","Hockey is not played in Canada","Hockey has no connection to Canada"], answer:0},
+     {q:"What might communities across Canada do to celebrate hockey?", options:["Ignore hockey completely","Build local rinks and cheer for hockey teams","Avoid playing any winter sports","Ban hockey from being played"], answer:1}
+   ]},
+]},
+{day:184, label:"Day 184 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Fan Letter to a Favourite Author", summary:"Grade 3 Language strand: a fan letter to a favourite author expresses appreciation for their work and often includes specific details about what the reader enjoyed and questions they might have.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is the purpose of a fan letter to an author?", options:["To criticize the author unfairly","To describe an unrelated topic","To ask the author to stop writing","To express appreciation for the authors work"], answer:3},
+     {q:"What might a strong fan letter include?", options:["A list of unrelated numbers","Only the readers home address","No mention of the book at all","Specific details about what the reader enjoyed in the book"], answer:3},
+     {q:"Why might a reader ask questions in a fan letter?", options:["To confuse the author","Questions are never included in fan letters","To learn more about the authors ideas or writing process","To avoid mentioning the book"], answer:2},
+     {q:"What tone would be most appropriate in a fan letter?", options:["Completely blank with no tone","Angry and threatening","Polite and appreciative","Rude and demanding"], answer:2},
+     {q:"Why might mentioning a specific character or scene make a fan letter stronger?", options:["It makes the letter harder to understand","It shows the author that the reader engaged closely with their work","Specific details are never helpful in a letter","It has no effect on the letters quality"], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Fractions of a Whole Using Area Models", summary:"Grade 3 Math strand: an area model divides a shape, such as a rectangle or circle, into equal parts to show what fraction of the whole shape is shaded or used.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does an area model use to represent a fraction?", options:["A shape with unequal parts","A list of unrelated numbers","A single unshaded shape","A shape divided into equal parts"], answer:3},
+     {q:"If a rectangle is divided into 4 equal parts and 1 part is shaded, what fraction is shaded?", options:["Two fourths","One third","One fourth","One half"], answer:2},
+     {q:"Why must the parts of an area model be equal?", options:["So each part represents the same size fraction of the whole","Area models never use equal parts","Unequal parts always make fractions larger","Equal parts are not required for area models"], answer:0},
+     {q:"If a circle is divided into 8 equal slices and 3 are shaded, what fraction is shaded?", options:["Three fourths","Eight thirds","Three eighths","One eighth"], answer:2},
+     {q:"Why might an area model help someone understand fractions?", options:["It removes the need to understand fractions","It hides the size of each part","It only works with whole numbers","It visually shows how a whole can be divided into equal parts"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Porcupines and Their Quills", summary:"Grade 3 Science strand: porcupines are rodents covered in sharp quills that they raise as a defense when threatened by predators.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What covers a porcupines body?", options:["Smooth scales","Soft feathers","Sharp quills","A hard shell"], answer:2},
+     {q:"What do porcupines do with their quills when threatened?", options:["Raise them as a defense","Throw them at predators from far away","Quills have no defensive use","Hide them completely"], answer:0},
+     {q:"What type of animal is a porcupine?", options:["A bird","A rodent","A reptile","An amphibian"], answer:1},
+     {q:"Why might a predator avoid attacking a porcupine?", options:["The sharp quills can cause a painful injury","Porcupines can fly away instantly","Predators are unaffected by quills","Porcupines are always invisible"], answer:0},
+     {q:"How might a porcupines quills help it survive in its habitat?", options:["Quills prevent the porcupine from ever moving","Quills attract predators on purpose","They provide a strong defense against predators","Quills provide no benefit to survival"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Volunteer Firefighters in Rural Communities", summary:"Grade 3 Social Studies strand: in many small and rural communities across Canada, volunteer firefighters respond to emergencies alongside their regular jobs to help keep their community safe.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a volunteer firefighter?", options:["A firefighter who never responds to emergencies","A firefighter who is paid more than anyone else","A person who responds to emergencies without it being their full-time paid job","A person who only fights fires in a city"], answer:2},
+     {q:"Where are volunteer fire departments especially common?", options:["Only in the largest cities","Only outside of Canada","Only in communities with no emergencies","In small and rural communities"], answer:3},
+     {q:"Why might a rural community rely on volunteer firefighters?", options:["Rural communities have no need for firefighters","Rural communities never experience emergencies","Volunteers are required in every community regardless of size","The community may be too small to support a large full-time fire department"], answer:3},
+     {q:"What might a volunteer firefighter do in addition to firefighting duties?", options:["Hold a separate regular job","Live outside of the community they serve","Only work as a firefighter and nothing else","Refuse to help their community"], answer:0},
+     {q:"Why are volunteer firefighters valuable to their communities?", options:["Volunteer firefighters are never trained","They provide an important safety service that keeps the community protected","They have no connection to community safety","They provide no real service to their community"], answer:1}
+   ]},
+]},
+{day:185, label:"Day 185 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Giving Constructive Feedback to a Partner", summary:"Grade 3 Language strand: constructive feedback focuses on specific, helpful suggestions that encourage a partner to improve their work while also recognizing what they did well.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is constructive feedback?", options:["Specific, helpful suggestions that encourage improvement","Feedback that is only negative","Ignoring a partners work completely","Feedback with no details at all"], answer:0},
+     {q:"Why is it helpful to recognize what a partner did well before giving suggestions?", options:["It encourages the partner and shows the feedback is balanced","It confuses the partner on purpose","Positive comments are never included in feedback","It makes the feedback less honest"], answer:0},
+     {q:"Which is an example of specific, constructive feedback?", options:["I have nothing to say.","Your introduction clearly explains the topic, and one more detail could make it even stronger.","Your work is bad.","This makes no sense at all."], answer:1},
+     {q:"Why might a partner want to hear feedback on their work?", options:["Feedback has no purpose for a partner","Feedback is never useful in a group setting","To be discouraged from ever trying again","To learn how to improve and grow as a learner"], answer:3},
+     {q:"What tone should be used when giving feedback to a partner?", options:["A tone with no words at all","A respectful and encouraging tone","A harsh and mocking tone","An angry and dismissive tone"], answer:1}
+   ]},
+  {subject:"Math", title:"Data: Creating a Pictograph with a Scale of Two", summary:"Grade 3 Math strand: a pictograph uses pictures or symbols to represent data, and when a scale of two is used, each picture stands for two items instead of one.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does a pictograph use to represent data?", options:["Blank spaces","Only numbers with no pictures","Pictures or symbols","Only colours with no symbols"], answer:2},
+     {q:"If a pictograph uses a scale of two, how many items does each picture represent?", options:["4 items","10 items","1 item","2 items"], answer:3},
+     {q:"If a row has 3 symbols and the scale is two, how many total items does that row represent?", options:["9 items","12 items","3 items","6 items"], answer:3},
+     {q:"Why might a scale of two be used instead of a scale of one?", options:["It allows a pictograph to represent larger amounts of data using fewer symbols","A scale of two removes the need for a key","A scale of two makes data impossible to read","Scales are never used in pictographs"], answer:0},
+     {q:"What part of a pictograph tells you what scale is being used?", options:["The title only","The background colour","The border of the graph","The key"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Orcas — Apex Predators of the Ocean", summary:"Grade 3 Science strand: orcas, also called killer whales, are powerful ocean predators that hunt in family groups called pods and communicate using clicks and calls.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is another name for an orca?", options:["A manatee","A dolphin fish","A killer whale","A sea lion"], answer:2},
+     {q:"What do orcas hunt in?", options:["Large herds of one hundred","Complete isolation at all times","Family groups called pods","Pairs of unrelated orcas only"], answer:2},
+     {q:"How do orcas communicate with each other?", options:["Orcas never communicate","Using bright flashing colours","Using clicks and calls","Using written symbols"], answer:2},
+     {q:"Why are orcas considered apex predators?", options:["Orcas are the smallest animals in the ocean","They are hunted by every other ocean animal","They are at the top of the ocean food chain with few natural predators","Apex predators have no role in an ecosystem"], answer:2},
+     {q:"What helps orca pods hunt successfully together?", options:["Never working together","Avoiding all communication while hunting","Working together and communicating as a group","Hunting alone at all times"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Food Banks in Communities", summary:"Grade 3 Social Studies strand: food banks are community organizations that collect and distribute food to people who need extra support, helping ensure everyone has access to meals.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the main purpose of a food bank?", options:["Selling food for the highest possible price","Growing all of a communitys food","Replacing grocery stores completely","Collecting and distributing food to people who need support"], answer:3},
+     {q:"Where might a food bank get the food it distributes?", options:["Food banks never accept donations","Food appears with no source at all","Donations from community members and organizations","Only from one single farm"], answer:2},
+     {q:"Who might a food bank help in a community?", options:["Only people who already have plenty of food","No one in the community","Only businesses looking for a profit","People who need extra support getting enough food"], answer:3},
+     {q:"Why might volunteers be important to how a food bank runs?", options:["Volunteers only work at grocery stores","Volunteers have no role at a food bank","They help collect, sort, and distribute food to those in need","Food banks operate with no helpers at all"], answer:2},
+     {q:"Why is having access to a food bank valuable for a community?", options:["It only benefits one single person","Food banks make it harder to get food","It has no benefit to a community","It helps make sure more people have access to the food they need"], answer:3}
+   ]},
+]},
+{day:186, label:"Day 186 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Words Borrowed from French in Canadian English", summary:"Grade 3 Language strand: many English words used in Canada come from French, reflecting the countrys history as home to both English and French speaking communities.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What language have many Canadian English words been borrowed from?", options:["French","Mandarin","Russian","Arabic"], answer:0},
+     {q:"Why might Canadian English include words borrowed from French?", options:["Canada has a long history of both English and French speaking communities","Canada has no history connected to French","Borrowed words are never used in Canadian English","French has no connection to Canada"], answer:0},
+     {q:"What is it called when a language adopts a word from another language?", options:["A homophone","A loanword or borrowed word","A contraction","A silent letter"], answer:1},
+     {q:"Where in Canada might French words be especially common in everyday language?", options:["Areas with strong French speaking communities, such as Quebec","Nowhere in Canada","Only in areas with no French speakers","Only outside of Canada"], answer:0},
+     {q:"Why is it useful to recognize borrowed words in a language?", options:["Languages never influence each other","Borrowed words have no connection to culture","Recognizing borrowed words serves no purpose","It helps show how cultures and languages influence each other over time"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Calculating a Tip at a Restaurant", summary:"Grade 3 Math strand: a tip is an extra amount of money added to a bill to thank someone for good service, and it can be estimated using simple mental math.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is a tip?", options:["An extra amount of money added to a bill for good service","A fee charged for being late","A discount taken off a bill","A type of tax collected by the government"], answer:0},
+     {q:"If a meal costs 10 dollars and a customer wants to leave a tip of about 2 dollars, roughly what fraction of the bill is the tip?", options:["About one fifth","About one hundredth","About double the bill","About one half"], answer:0},
+     {q:"Why might a customer choose to leave a tip?", options:["Tips are never given for any reason","To thank someone for providing good service","To pay for the cost of the building","To replace the price of the meal"], answer:1},
+     {q:"If a bill is 20 dollars and a tip of 4 dollars is added, what is the new total?", options:["28 dollars","16 dollars","24 dollars","20 dollars"], answer:2},
+     {q:"Why is estimating useful when calculating a tip?", options:["Estimating removes the need for any math at all","Tips can never be estimated","It gives a quick, reasonable amount without needing an exact calculation","Estimating always gives the wrong answer"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: How Snowflakes Form Unique Crystal Shapes", summary:"Grade 3 Science strand: a snowflake forms when water vapour in a cold cloud freezes directly into a tiny ice crystal, and the exact conditions it passes through give each snowflake a unique six-sided shape.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What does a snowflake form from?", options:["Dust mixing with warm air","Melted rain falling to the ground","Water vapour freezing directly into an ice crystal","Sand carried by the wind"], answer:2},
+     {q:"How many main sides does a typical snowflake crystal have?", options:["Three","Six","Four","Eight"], answer:1},
+     {q:"Why might no two snowflakes look exactly alike?", options:["Snowflakes never form in different shapes","Snowflakes are shaped by hand","All snowflakes are actually identical","Each one passes through slightly different temperature and moisture conditions as it falls"], answer:3},
+     {q:"Where do snowflakes begin to form?", options:["Inside a warm greenhouse","At the bottom of a lake","Underground in soil","Inside a cold cloud"], answer:3},
+     {q:"Why is studying snowflakes an example of science in nature?", options:["It shows how water and temperature can create complex natural patterns","Snowflakes have no connection to science","Snowflakes are created without any natural process","Weather has no effect on how snowflakes form"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Search and Rescue Teams in Canada", summary:"Grade 3 Social Studies strand: search and rescue teams are trained volunteers and professionals who look for and help people who are lost or in danger in the wilderness, water, or after a disaster.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the main job of a search and rescue team?", options:["Repairing broken bridges","Building new hiking trails","Selling maps to hikers","Finding and helping people who are lost or in danger"], answer:3},
+     {q:"In what kinds of places might search and rescue teams be needed?", options:["Only inside a classroom","The wilderness, on the water, or after a disaster","Only inside a shopping mall","Nowhere, they are never needed"], answer:1},
+     {q:"Who might be part of a search and rescue team?", options:["Only children under the age of ten","Only people with no training at all","Only people who have never left their home","Trained volunteers and professionals"], answer:3},
+     {q:"Why might search and rescue teams need special training?", options:["To safely find and help people in difficult or dangerous conditions","Search and rescue work requires no skill at all","Training has no connection to search and rescue","Special training is never provided to these teams"], answer:0},
+     {q:"Why are search and rescue teams valuable to a community?", options:["They have no benefit to a community","They only work during the summer months","They help keep people safe during emergencies in remote or dangerous areas","They prevent people from ever going outdoors"], answer:2}
+   ]},
+]},
+{day:187, label:"Day 187 — Tue", subjects:[
+  {subject:"Language", title:"Language Review: Dashes, Neologisms, and a Grade 3 Farewell", summary:"Grade 3 Language strand review, and the final Language day of the Grade 3 program: students revisit using dashes for emphasis, neologisms, how setting shapes a storys mood, writing a fan letter to a favourite author, and giving constructive feedback to a partner.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What can a dash add to a sentence?", options:["A silent letter","A math symbol","Emphasis or extra information","A completely new topic unrelated to the sentence"], answer:2},
+     {q:"What is a neologism?", options:["A newly created word or phrase","A punctuation mark","A word that has existed for thousands of years","A silent letter"], answer:0},
+     {q:"How can setting affect a storys mood?", options:["A dark, stormy setting might create a scary or tense mood","Mood is only created by character names","Setting only affects the length of a story","Setting never affects mood"], answer:0},
+     {q:"What is the purpose of a fan letter to an author?", options:["To ask the author to stop writing","To criticize the author unfairly","To express appreciation for the authors work","To describe an unrelated topic"], answer:2},
+     {q:"What is constructive feedback?", options:["Feedback that is only negative","Specific, helpful suggestions that encourage improvement","Feedback with no details at all","Ignoring a partners work completely"], answer:1}
+   ]},
+  {subject:"Math", title:"Math Review: Roman Numerals, Symmetry, and a Grade 3 Send-Off", summary:"Grade 3 Math strand review, and the final Math day of the Grade 3 program: students revisit Roman numerals, multiplying by skip counting on a hundred chart, lines of symmetry, fractions of a whole using area models, and creating a pictograph with a scale of two.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which Roman numeral represents the number 10?", options:["I","X","L","V"], answer:1},
+     {q:"What does skip counting on a hundred chart involve?", options:["Counting backward only by ones","Randomly choosing numbers","Counting only to ten","Counting forward in equal jumps"], answer:3},
+     {q:"What does a line of symmetry do?", options:["Adds a new side to the shape","Removes the shape completely","Divides a shape into two matching mirror-image halves","Divides a shape into two unequal parts"], answer:2},
+     {q:"If a rectangle is divided into 4 equal parts and 1 part is shaded, what fraction is shaded?", options:["Two fourths","One half","One third","One fourth"], answer:3},
+     {q:"If a pictograph uses a scale of two, how many items does each picture represent?", options:["1 item","10 items","2 items","4 items"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Review: Wild Canada and a Final Look at Grade 3 Science", summary:"Grade 3 Science strand review, and the final Science day of the Grade 3 program: students revisit raccoons, Canada geese migration, sea otters using tools, porcupine quills, and orcas as apex predators.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"When are raccoons most active?", options:["Only underwater","Only in winter","At noon","At night"], answer:3},
+     {q:"What shape do Canada geese often form while migrating?", options:["A V-shape","A straight line only","A square","A circle"], answer:0},
+     {q:"What do sea otters sometimes use as a tool?", options:["A pair of scissors","A wooden hammer","A rock","A metal spoon"], answer:2},
+     {q:"What covers a porcupines body?", options:["Soft feathers","A hard shell","Sharp quills","Smooth scales"], answer:2},
+     {q:"Why are orcas considered apex predators?", options:["Apex predators have no role in an ecosystem","They are at the top of the ocean food chain with few natural predators","Orcas are the smallest animals in the ocean","They are hunted by every other ocean animal"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Landmarks, Traditions, and Our Community — A Grade 3 Send-Off", summary:"Grade 3 Social Studies strand review, and the final Social Studies day of the Grade 3 program: students revisit the CN Tower, Canadian Thanksgiving, the Stanley Cup and hockey tradition, volunteer firefighters, and food banks, closing out the full Grade 3 year.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"In which city is the CN Tower located?", options:["Ottawa","Vancouver","Winnipeg","Toronto"], answer:3},
+     {q:"In which month is Canadian Thanksgiving celebrated?", options:["December","March","October","July"], answer:2},
+     {q:"What is the Stanley Cup?", options:["A famous Canadian mountain","A style of Canadian cooking","A trophy connected to professional hockey","A type of Canadian currency"], answer:2},
+     {q:"Where are volunteer fire departments especially common?", options:["Only in the largest cities","Only in communities with no emergencies","Only outside of Canada","In small and rural communities"], answer:3},
+     {q:"What is the main purpose of a food bank?", options:["Growing all of a communitys food","Collecting and distributing food to people who need support","Selling food for the highest possible price","Replacing grocery stores completely"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
