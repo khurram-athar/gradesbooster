@@ -10088,6 +10088,412 @@ const curriculum: DayContent[] = [
      {prompt:"In what month is Halloween celebrated?", answers:["October"]}
    ]},
 ]},
+{day:181, label:"Day 181 — Mon", subjects:[
+  {subject:"Language", title:"Vowel Team oe: The Long O Sound in Toe and Hoe", summary:"Grade 1 Language strand: the vowel team oe can make the long o sound in words such as toe, hoe, and foe, helping readers recognize this less common way to spell long o.",
+   resourceLabel:"YouTube: Vowel Team oe: The Long O Sound in Toe and Hoe", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Team%20oe%3A%20The%20Long%20O%20Sound%20in%20Toe%20and%20Hoe%20grade%201%20educational",
+   quiz:[
+     {q:"What sound does the vowel team oe make in the word toe?", options:["The short o sound","The long a sound","The long o sound","The long e sound"], answer:2},
+     {q:"Which word contains the oe vowel team?", options:["Hot","Ham","Hop","Hoe"], answer:3},
+     {q:"How many letters make up the vowel team oe?", options:["1","3","2","4"], answer:2},
+     {q:"Which of these words rhymes with toe using the oe vowel team?", options:["Fun","Fit","Fat","Foe"], answer:3},
+     {q:"The oe vowel team is a less common way to spell which sound?", options:["Long o","Short a","Short o","Long i"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What sound does the vowel team oe usually make?", answers:["the long o sound","long o"]},
+     {prompt:"Give an example of a word that has the oe vowel team.", answers:["toe","hoe","foe"]},
+     {prompt:"How many letters are in the vowel team oe?", answers:["2","two"]}
+   ]},
+  {subject:"Math", title:"Numbers to 800: Beyond 700", summary:"Grade 1 Math strand: students read, write, and count numbers beyond 700, up to 800.",
+   resourceLabel:"YouTube: Numbers to 800: Beyond 700", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20800%3A%20Beyond%20700%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 799?", options:["801","799","798","800"], answer:3},
+     {q:"Which number is between 720 and 740?", options:["750","760","710","730"], answer:3},
+     {q:"What number comes right before 800?", options:["800","801","798","799"], answer:3},
+     {q:"Which of these numbers is the largest?", options:["799","599","499","699"], answer:0},
+     {q:"Counting beyond 700 helps us understand numbers up to ___.", options:["800","80","8","8000"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 799?", answers:["800","eight hundred"]},
+     {prompt:"What number comes right before 750?", answers:["749","seven hundred forty nine"]},
+     {prompt:"Count by tens from 780 to 800.", answers:["780,790,800","780 790 800"]}
+   ]},
+  {subject:"Science", title:"Rabbits: Hopping Mammals of Meadows and Gardens", summary:"Grade 1 Science strand: rabbits are small mammals with long ears and strong back legs that let them hop quickly, and they eat plants such as grass, clover, and garden vegetables.",
+   resourceLabel:"YouTube: Rabbits: Hopping Mammals of Meadows and Gardens", resourceUrl:"https://www.youtube.com/results?search_query=Rabbits%3A%20Hopping%20Mammals%20of%20Meadows%20and%20Gardens%20grade%201%20educational",
+   quiz:[
+     {q:"What helps a rabbit hop quickly?", options:["Its ears only","Its strong back legs","Its whiskers only","Its tail only"], answer:1},
+     {q:"What do rabbits mainly eat?", options:["Fish","Plants such as grass and clover","Insects only","Other animals"], answer:1},
+     {q:"What kind of animal is a rabbit?", options:["A mammal","A fish","A bird","A reptile"], answer:0},
+     {q:"What body part do rabbits have that is especially long?", options:["Their whiskers","Their nose","Their tail","Their ears"], answer:3},
+     {q:"Rabbits are often found living in which kind of place?", options:["Meadows and gardens","Deep caves underwater","The ocean floor","The desert only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What body part helps a rabbit hop quickly?", answers:["its back legs","strong back legs"]},
+     {prompt:"What do rabbits mainly eat?", answers:["plants","grass and vegetables"]},
+     {prompt:"What kind of animal is a rabbit?", answers:["a mammal"]}
+   ]},
+  {subject:"SocialStudies", title:"The CN Tower: A Famous Toronto Landmark", summary:"Grade 1 Social Studies strand: the CN Tower is a very tall tower in Toronto, Ontario, that people can visit to see far across the city and learn about Canadian engineering.",
+   resourceLabel:"YouTube: The CN Tower: A Famous Toronto Landmark", resourceUrl:"https://www.youtube.com/results?search_query=The%20CN%20Tower%3A%20A%20Famous%20Toronto%20Landmark%20grade%201%20educational",
+   quiz:[
+     {q:"In which city is the CN Tower located?", options:["Ottawa","Toronto","Vancouver","Montreal"], answer:1},
+     {q:"What can visitors do at the top of the CN Tower?", options:["Ride a horse","Go swimming","See far across the city","Plant a garden"], answer:2},
+     {q:"In which province is the CN Tower located?", options:["Quebec","Ontario","Manitoba","Alberta"], answer:1},
+     {q:"What is the CN Tower an example of?", options:["A weather pattern","A type of food","A famous Canadian landmark","A kind of animal"], answer:2},
+     {q:"The CN Tower shows off Canadian skill in what area?", options:["Fishing","Engineering","Mining","Farming"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"In which city is the CN Tower located?", answers:["Toronto","Toronto, Ontario"]},
+     {prompt:"What can people do at the top of the CN Tower?", answers:["see far across the city","look out over the city"]},
+     {prompt:"What province is Toronto in?", answers:["Ontario"]}
+   ]},
+]},
+{day:182, label:"Day 182 — Tue", subjects:[
+  {subject:"Language", title:"Text Features: Speech Bubbles in Comics and Graphic Novels", summary:"Grade 1 Language strand: speech bubbles are a text feature used in comics and graphic novels to show what a character is saying, helping readers follow the conversation.",
+   resourceLabel:"YouTube: Text Features: Speech Bubbles in Comics and Graphic Novels", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Speech%20Bubbles%20in%20Comics%20and%20Graphic%20Novels%20grade%201%20educational",
+   quiz:[
+     {q:"What do speech bubbles usually show in a comic?", options:["What a character is saying","The page number","The title of the book","The authors name"], answer:0},
+     {q:"In which kind of text would you most likely see speech bubbles?", options:["A math worksheet","A dictionary","A graphic novel","A weather report"], answer:2},
+     {q:"Why do authors use speech bubbles?", options:["To make the pages blank","To help readers follow what characters say","To replace all pictures","To hide the story"], answer:1},
+     {q:"A speech bubble is an example of what kind of feature?", options:["A suffix","A text feature","A vowel team","A punctuation mark"], answer:1},
+     {q:"Speech bubbles usually point toward which part of a picture?", options:["The character who is speaking","The title","The page number","The background only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do speech bubbles show?", answers:["what a character is saying","what characters say"]},
+     {prompt:"In what kind of books do we often see speech bubbles?", answers:["comics","comics and graphic novels"]},
+     {prompt:"Why are speech bubbles helpful to readers?", answers:["help us follow the conversation","easier to follow what characters say"]}
+   ]},
+  {subject:"Math", title:"Fractions: Eighths of a Whole", summary:"Grade 1 Math strand: when a whole is divided into eight equal parts, each part is called an eighth, written as one out of eight equal pieces.",
+   resourceLabel:"YouTube: Fractions: Eighths of a Whole", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Eighths%20of%20a%20Whole%20grade%201%20educational",
+   quiz:[
+     {q:"What is each equal part called when a whole is divided into eight pieces?", options:["A third","An eighth","A half","A fourth"], answer:1},
+     {q:"How many equal parts make up a whole divided into eighths?", options:["8","2","4","6"], answer:0},
+     {q:"If a pizza is cut into eighths, how many pieces does it have in total?", options:["6","2","8","4"], answer:2},
+     {q:"Which fraction shows one out of eight equal parts?", options:["One half","One eighth","One third","One fourth"], answer:1},
+     {q:"For parts to be called eighths, they must be ___.", options:["Not connected","Equal in size","Only two pieces","Different sizes"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is each equal part called when a whole is split into eight pieces?", answers:["an eighth","one eighth"]},
+     {prompt:"How many equal parts make a whole when it is divided into eighths?", answers:["8","eight"]},
+     {prompt:"If you eat one eighth of a pizza, how many equal pieces are left?", answers:["7","seven"]}
+   ]},
+  {subject:"Science", title:"Groundhogs: Diggers That Sleep All Winter", summary:"Grade 1 Science strand: groundhogs are burrowing mammals that dig underground homes and hibernate, sleeping through most of the winter until warmer weather returns.",
+   resourceLabel:"YouTube: Groundhogs: Diggers That Sleep All Winter", resourceUrl:"https://www.youtube.com/results?search_query=Groundhogs%3A%20Diggers%20That%20Sleep%20All%20Winter%20grade%201%20educational",
+   quiz:[
+     {q:"What do groundhogs dig underground?", options:["Burrows to live in","Tunnels to the ocean","Nests in trees","Ponds for swimming"], answer:0},
+     {q:"What do groundhogs do for most of the winter?", options:["Build igloos","Migrate south","Stay awake and play","Hibernate"], answer:3},
+     {q:"What kind of animal is a groundhog?", options:["A mammal","A bird","A fish","A reptile"], answer:0},
+     {q:"Where do groundhogs usually make their homes?", options:["Tall trees","Caves under the sea","Underground burrows","Rivers"], answer:2},
+     {q:"Groundhogs are known for being skilled ___.", options:["Diggers","Climbers only","Flyers","Swimmers"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do groundhogs dig?", answers:["underground homes","burrows"]},
+     {prompt:"What do groundhogs do during winter?", answers:["hibernate","sleep through winter"]},
+     {prompt:"What kind of animal is a groundhog?", answers:["a mammal"]}
+   ]},
+  {subject:"SocialStudies", title:"Groundhog Day: A Late-Winter Tradition", summary:"Grade 1 Social Studies strand: Groundhog Day is a late-winter tradition celebrated in February when people watch to see whether a groundhog sees its shadow, a fun custom said to predict more winter weather or an early spring.",
+   resourceLabel:"YouTube: Groundhog Day: A Late-Winter Tradition", resourceUrl:"https://www.youtube.com/results?search_query=Groundhog%20Day%3A%20A%20Late-Winter%20Tradition%20grade%201%20educational",
+   quiz:[
+     {q:"In which month is Groundhog Day celebrated?", options:["November","February","August","May"], answer:1},
+     {q:"What do people watch for on Groundhog Day?", options:["A snowstorm forecast only","Whether a groundhog sees its shadow","A fireworks show","A parade of animals"], answer:1},
+     {q:"Groundhog Day is a tradition that is said to predict what?", options:["A new school year","More winter weather or an early spring","The weather for the whole year","The next holiday"], answer:1},
+     {q:"During which season does Groundhog Day take place?", options:["Late winter","Mid spring","Early autumn","Summer"], answer:0},
+     {q:"Groundhog Day is an example of a fun community ___.", options:["Election","Tradition","Invention","Law"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"In what month is Groundhog Day celebrated?", answers:["February"]},
+     {prompt:"What do people watch for on Groundhog Day?", answers:["whether a groundhog sees its shadow","a groundhogs shadow"]},
+     {prompt:"What season does Groundhog Day happen near the end of?", answers:["winter","late winter"]}
+   ]},
+]},
+{day:183, label:"Day 183 — Wed", subjects:[
+  {subject:"Language", title:"Character Feelings: Understanding How a Character Feels", summary:"Grade 1 Language strand: readers can understand how a character feels by paying attention to their words, actions, and facial expressions described in the story.",
+   resourceLabel:"YouTube: Character Feelings: Understanding How a Character Feels", resourceUrl:"https://www.youtube.com/results?search_query=Character%20Feelings%3A%20Understanding%20How%20a%20Character%20Feels%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these can show how a character feels?", options:["The font size","The book cover colour","The page number","Their words and actions"], answer:3},
+     {q:"Why do readers try to understand a characters feelings?", options:["It only matters for pictures","It has no real purpose","It replaces reading the words","It helps us understand the story better"], answer:3},
+     {q:"If a character is smiling and laughing, how might they feel?", options:["Scared","Happy","Bored","Angry"], answer:1},
+     {q:"If a character is crying, how might they feel?", options:["Sad","Excited","Calm","Proud"], answer:0},
+     {q:"Understanding character feelings helps readers make a stronger ___ with the story.", options:["Silence","Wall","Distance","Connection"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one clue that shows how a character feels.", answers:["their words","their actions","their facial expressions"]},
+     {prompt:"Why is it helpful to understand a characters feelings?", answers:["helps us understand the story better","understand why they act that way"]},
+     {prompt:"Give an example of a feeling a character might have in a story.", answers:["happy","sad","scared","excited"]}
+   ]},
+  {subject:"Math", title:"Composite Shapes: Combining Simple Shapes to Make New Ones", summary:"Grade 1 Math strand: a composite shape is made by combining two or more simple shapes, such as putting a triangle on top of a square to make a shape like a house.",
+   resourceLabel:"YouTube: Composite Shapes: Combining Simple Shapes to Make New Ones", resourceUrl:"https://www.youtube.com/results?search_query=Composite%20Shapes%3A%20Combining%20Simple%20Shapes%20to%20Make%20New%20Ones%20grade%201%20educational",
+   quiz:[
+     {q:"What is a composite shape?", options:["A shape with only one side","A shape that has no corners","A shape made by combining two or more simple shapes","A shape that cannot be drawn"], answer:2},
+     {q:"Which two shapes could combine to make a shape like a house?", options:["A triangle and a square","Two triangles only","Two circles","A circle and a line"], answer:0},
+     {q:"Can a composite shape be made from more than two simple shapes?", options:["No, composite shapes are impossible","Yes, it can combine several shapes","Only circles can be combined","No, only exactly two shapes"], answer:1},
+     {q:"Which of these is an example of a composite shape?", options:["A single square","A rocket made of a triangle and a rectangle","A single circle","A single triangle"], answer:1},
+     {q:"Combining simple shapes to build new ones helps us understand ___.", options:["Weather","Geometry","Time","Money"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a composite shape?", answers:["a shape made of two or more simple shapes","a shape made by combining shapes"]},
+     {prompt:"Name two shapes you could combine to make a house shape.", answers:["a triangle and a square","triangle and square"]},
+     {prompt:"Can a composite shape be made from more than two simple shapes?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Animal Mimicry: Looking Like Something Else for Safety", summary:"Grade 1 Science strand: mimicry is when an animal looks like a different, often dangerous animal or object to trick predators and stay safe, which is different from camouflage, where an animal blends into its surroundings.",
+   resourceLabel:"YouTube: Animal Mimicry: Looking Like Something Else for Safety", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Mimicry%3A%20Looking%20Like%20Something%20Else%20for%20Safety%20grade%201%20educational",
+   quiz:[
+     {q:"What is mimicry?", options:["When an animal looks like something else to stay safe","When an animal hides underground","When an animal changes colour to blend in","When an animal migrates south"], answer:0},
+     {q:"How is mimicry different from camouflage?", options:["Camouflage only happens in winter","Mimicry copies another animal or object, camouflage blends into surroundings","They are exactly the same thing","Mimicry only happens underwater"], answer:1},
+     {q:"Why might an animal use mimicry?", options:["To make more noise","To trick predators and stay safe","To find more food only","To grow bigger"], answer:1},
+     {q:"Which of these is an example of mimicry?", options:["A harmless insect looking like a stinging wasp","A polar bear having white fur in snow","A bird migrating south for winter","A chameleon changing colour"], answer:0},
+     {q:"Mimicry is a way that animals ___ to survive.", options:["Grow taller","Change diet","Sleep","Adapt"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is mimicry?", answers:["when an animal looks like something else for safety","looking like a different animal to stay safe"]},
+     {prompt:"How is mimicry different from camouflage?", answers:["mimicry looks like something else, camouflage blends in","camouflage blends in, mimicry copies another animal"]},
+     {prompt:"Why might an animal use mimicry?", answers:["to trick predators","to stay safe"]}
+   ]},
+  {subject:"SocialStudies", title:"Bakers: Baking Bread and Treats for Our Community", summary:"Grade 1 Social Studies strand: a baker is a community helper who bakes bread, cakes, and other treats for people in our community to enjoy and share.",
+   resourceLabel:"YouTube: Bakers: Baking Bread and Treats for Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Bakers%3A%20Baking%20Bread%20and%20Treats%20for%20Our%20Community%20grade%201%20educational",
+   quiz:[
+     {q:"What does a baker make?", options:["Furniture","Medicine","Mail and packages","Bread, cakes, and other treats"], answer:3},
+     {q:"Where would you go to buy food made by a baker?", options:["A library","A bakery","An airport","A fire station"], answer:1},
+     {q:"Why are bakers important to a community?", options:["They make food for people to enjoy and share","They have no real job","They fix cars","They only work one day a year"], answer:0},
+     {q:"A baker is an example of what kind of community member?", options:["A community helper","A judge","A pilot","A farmer only"], answer:0},
+     {q:"Bakers often start their work very ___ in the morning to have fresh food ready.", options:["Once a year","Early","Late","Never"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a baker make?", answers:["bread and treats","bread, cakes, and other treats"]},
+     {prompt:"Where might you go to buy something a baker made?", answers:["a bakery"]},
+     {prompt:"Why are bakers important to our community?", answers:["they make food for people to enjoy","provide bread and treats"]}
+   ]},
+]},
+{day:184, label:"Day 184 — Thu", subjects:[
+  {subject:"Language", title:"Acrostic Poems: Writing a Poem Using a Word", summary:"Grade 1 Language strand: an acrostic poem uses each letter of a chosen word, written down the page, as the first letter of a new line describing that word.",
+   resourceLabel:"YouTube: Acrostic Poems: Writing a Poem Using a Word", resourceUrl:"https://www.youtube.com/results?search_query=Acrostic%20Poems%3A%20Writing%20a%20Poem%20Using%20a%20Word%20grade%201%20educational",
+   quiz:[
+     {q:"What does an acrostic poem use to begin each line?", options:["A random number","A question mark","A drawing","A letter from the chosen word"], answer:3},
+     {q:"How is the chosen word arranged in an acrostic poem?", options:["Never written at all","Hidden at the very end","Written backwards only","Written down the page, one letter per line"], answer:3},
+     {q:"Which of these could be the first line of an acrostic poem for the word CAT?", options:["Zooming down the street","A big loud truck","Cuddly and soft","Playing in the rain"], answer:2},
+     {q:"An acrostic poem is an example of what kind of writing?", options:["A newspaper article","A recipe","Poetry","A letter"], answer:2},
+     {q:"Writing an acrostic poem helps students practise thinking of words that ___.", options:["Rhyme only","Match a chosen letter","Are always long","Have no meaning"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does an acrostic poem use to start each line?", answers:["a letter from the chosen word","each letter of a word"]},
+     {prompt:"Where is the chosen word written in an acrostic poem?", answers:["down the page","down the side"]},
+     {prompt:"Write one line that could start an acrostic poem for the word SUN.", answers:["Shining bright","Sunny and warm"]}
+   ]},
+  {subject:"Math", title:"Money: Making Amounts Up to Fifty Dollars", summary:"Grade 1 Math strand: students combine coins and bills to make amounts of money up to fifty dollars.",
+   resourceLabel:"YouTube: Money: Making Amounts Up to Fifty Dollars", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Amounts%20Up%20to%20Fifty%20Dollars%20grade%201%20educational",
+   quiz:[
+     {q:"How many ten dollar bills would you need to make fifty dollars?", options:["6","3","4","5"], answer:3},
+     {q:"Which combination makes exactly fifty dollars?", options:["One twenty dollar bill","Three five dollar bills","Five ten dollar bills","Two ten dollar bills"], answer:2},
+     {q:"If you have two twenty dollar bills and one ten dollar bill, how much money do you have?", options:["50 dollars","60 dollars","30 dollars","40 dollars"], answer:0},
+     {q:"Which single bill is worth fifty dollars?", options:["A twenty dollar bill","A ten dollar bill","A fifty dollar bill","A five dollar bill"], answer:2},
+     {q:"Practising with amounts up to fifty dollars helps us understand ___.", options:["Only shapes","Nothing useful","Only colours","Even larger amounts of money"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many ten dollar bills make fifty dollars?", answers:["5","five ten dollar bills"]},
+     {prompt:"Name a way to make fifty dollars using bills.", answers:["a fifty dollar bill","five ten dollar bills"]},
+     {prompt:"If you have two twenty dollar bills and one ten dollar bill, how much money do you have?", answers:["50 dollars","fifty dollars"]}
+   ]},
+  {subject:"Science", title:"Chickens: From Egg to Hen", summary:"Grade 1 Science strand: chickens hatch from eggs, grow into fluffy baby chicks, and then grow into adult hens or roosters, part of the life cycle of this common farm bird.",
+   resourceLabel:"YouTube: Chickens: From Egg to Hen", resourceUrl:"https://www.youtube.com/results?search_query=Chickens%3A%20From%20Egg%20to%20Hen%20grade%201%20educational",
+   quiz:[
+     {q:"What do baby chickens hatch from?", options:["Cocoons","Seeds","Eggs","Nests only"], answer:2},
+     {q:"What is a baby chicken called?", options:["A chick","A kit","A joey","A calf"], answer:0},
+     {q:"What is an adult female chicken called?", options:["A chick","A hen","A rooster","A duckling"], answer:1},
+     {q:"What kind of animal is a chicken?", options:["A bird","A reptile","A fish","A mammal"], answer:0},
+     {q:"The stages a chicken goes through as it grows are called its ___.", options:["Food chain","Migration","Life cycle","Habitat"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do baby chickens hatch from?", answers:["eggs","an egg"]},
+     {prompt:"What is a baby chicken called?", answers:["a chick"]},
+     {prompt:"What is an adult female chicken called?", answers:["a hen"]}
+   ]},
+  {subject:"SocialStudies", title:"Ferries and Ships: Travelling on the Water", summary:"Grade 1 Social Studies strand: ferries and ships are large boats that carry people, cars, and goods across lakes, rivers, and oceans, an important way to travel and transport items where there are no roads or bridges.",
+   resourceLabel:"YouTube: Ferries and Ships: Travelling on the Water", resourceUrl:"https://www.youtube.com/results?search_query=Ferries%20and%20Ships%3A%20Travelling%20on%20the%20Water%20grade%201%20educational",
+   quiz:[
+     {q:"What do ferries and ships often carry?", options:["Only mail","Only ice","People, cars, and goods","Only animals"], answer:2},
+     {q:"Where do ferries and ships travel?", options:["Only on roads","Only in the sky","Only underground","Across lakes, rivers, and oceans"], answer:3},
+     {q:"Why are ferries especially useful in some places?", options:["They deliver mail only","They fly over mountains","They dig tunnels","They help people cross water where there are no roads or bridges"], answer:3},
+     {q:"Which of these is an example of a large boat that carries cars and people?", options:["A ferry","A train","A bicycle","An airplane"], answer:0},
+     {q:"Ferries and ships are an important way to ___ across water.", options:["Avoid other communities","Travel and transport goods","Grow food","Stay in one place"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do ferries and ships carry?", answers:["people, cars, and goods","people and goods"]},
+     {prompt:"Where do ferries and ships travel?", answers:["across lakes, rivers, and oceans","on water"]},
+     {prompt:"Why are ferries useful where there are no roads or bridges?", answers:["they help people and goods cross the water","provide a way to travel across water"]}
+   ]},
+]},
+{day:185, label:"Day 185 — Fri", subjects:[
+  {subject:"Language", title:"Book Talk: Sharing Our Favourite Books With Others", summary:"Grade 1 Language strand: a book talk is a short spoken description of a book that shares what it is about and why we like it, helping other readers decide if they want to read it too.",
+   resourceLabel:"YouTube: Book Talk: Sharing Our Favourite Books With Others", resourceUrl:"https://www.youtube.com/results?search_query=Book%20Talk%3A%20Sharing%20Our%20Favourite%20Books%20With%20Others%20grade%201%20educational",
+   quiz:[
+     {q:"What is a book talk?", options:["A short spoken description of a book","A written test about a book","A silent reading period","A picture drawn from a book"], answer:0},
+     {q:"What might someone share during a book talk?", options:["What the book is about and why they like it","Only the authors birthday","Only the price of the book","Only the page count"], answer:0},
+     {q:"Why might a book talk be helpful to other readers?", options:["It has no real purpose","It helps them decide if they want to read the book","It tells them the ending only","It replaces reading altogether"], answer:1},
+     {q:"A book talk is an example of what kind of communication?", options:["Written communication only","No communication at all","Silent communication","Spoken communication"], answer:3},
+     {q:"Sharing our favourite books with others can help build a love of ___.", options:["Homework","Reading","Silence","Weather"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a book talk?", answers:["a short spoken description of a book","talking about a book we like"]},
+     {prompt:"Name one thing you might share during a book talk.", answers:["what the book is about","why we like it"]},
+     {prompt:"Why might a book talk help other readers?", answers:["helps them decide if they want to read it","gives them an idea about the book"]}
+   ]},
+  {subject:"Math", title:"Comparing Durations: Which Activity Takes Longer", summary:"Grade 1 Math strand: comparing durations means deciding which of two activities takes more time, such as figuring out that brushing your teeth takes less time than eating dinner.",
+   resourceLabel:"YouTube: Comparing Durations: Which Activity Takes Longer", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Durations%3A%20Which%20Activity%20Takes%20Longer%20grade%201%20educational",
+   quiz:[
+     {q:"Which activity usually takes longer, brushing your teeth or eating dinner?", options:["Neither takes any time","Brushing your teeth","Eating dinner","They take the same amount of time"], answer:2},
+     {q:"Which activity usually takes longer, a school day or recess?", options:["They are exactly the same length","Neither has a length","Recess","A school day"], answer:3},
+     {q:"Which of these activities would likely take the least amount of time?", options:["Sleeping at night","Going on a car trip","Watching a movie","Blinking your eyes"], answer:3},
+     {q:"Comparing durations means deciding which activity takes ___ time.", options:["More or less","An unknown amount of","The same amount of","No"], answer:0},
+     {q:"Which activity would likely take longer, reading one page or reading a whole book?", options:["Reading one page","They take the same time","Neither takes time","Reading a whole book"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Which usually takes longer, brushing your teeth or eating dinner?", answers:["eating dinner"]},
+     {prompt:"Which usually takes longer, a school day or recess?", answers:["a school day"]},
+     {prompt:"Name two activities and tell which one takes longer.", answers:["answers vary"]}
+   ]},
+  {subject:"Science", title:"Decomposers: Natures Recyclers", summary:"Grade 1 Science strand: decomposers, such as earthworms and fungi, break down dead plants and animals into simple materials that enrich the soil and help new plants grow.",
+   resourceLabel:"YouTube: Decomposers: Natures Recyclers", resourceUrl:"https://www.youtube.com/results?search_query=Decomposers%3A%20Natures%20Recyclers%20grade%201%20educational",
+   quiz:[
+     {q:"What do decomposers break down?", options:["Sunlight only","Rocks only","Dead plants and animals","Water only"], answer:2},
+     {q:"Which of these is an example of a decomposer?", options:["A hawk","A rabbit","An earthworm","A deer"], answer:2},
+     {q:"How do decomposers help the soil?", options:["They have no effect on soil","They make the soil disappear","They enrich it so new plants can grow","They remove all nutrients"], answer:2},
+     {q:"Why are decomposers sometimes called natures recyclers?", options:["They make electricity","They collect garbage from homes","They turn dead material into materials that help new life grow","They build new roads"], answer:2},
+     {q:"Decomposers are an important part of a healthy ___.", options:["Classroom","Vehicle","Ecosystem","Building"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do decomposers break down?", answers:["dead plants and animals","dead plants and animals into simple materials"]},
+     {prompt:"Name one example of a decomposer.", answers:["earthworms","fungi"]},
+     {prompt:"How do decomposers help the soil?", answers:["they enrich the soil","help new plants grow"]}
+   ]},
+  {subject:"SocialStudies", title:"Foods from Around the World: Sharing Culture Through Food", summary:"Grade 1 Social Studies strand: families from different cultures often enjoy special foods that are part of their traditions, and sharing these foods with others helps us learn about and appreciate different cultures.",
+   resourceLabel:"YouTube: Foods from Around the World: Sharing Culture Through Food", resourceUrl:"https://www.youtube.com/results?search_query=Foods%20from%20Around%20the%20World%3A%20Sharing%20Culture%20Through%20Food%20grade%201%20educational",
+   quiz:[
+     {q:"Why do families from different cultures often eat special foods?", options:["They have no other choice","It is required by law","They dislike other foods","The foods are part of their traditions"], answer:3},
+     {q:"What can trying foods from other cultures help us do?", options:["Forget our own culture","Stop celebrating traditions","Learn about and appreciate different cultures","Avoid making new friends"], answer:2},
+     {q:"Sharing food from our own culture with others is a way of ___.", options:["Hiding our traditions","Ignoring others","Avoiding celebrations","Sharing our traditions"], answer:3},
+     {q:"Which of these is an example of learning about culture through food?", options:["Watching only sports","Reading only about weather","Trying a dish from a friends family tradition","Studying only shapes"], answer:2},
+     {q:"Canada is home to people from many cultures, which means our communities enjoy a variety of ___.", options:["Colours only","Shapes only","Weather patterns only","Foods and traditions"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Why do families from different cultures often have special foods?", answers:["the foods are part of their traditions","part of their culture"]},
+     {prompt:"What can sharing foods from other cultures help us do?", answers:["learn about different cultures","appreciate different cultures"]},
+     {prompt:"Name a food from a culture different from your own.", answers:["answers vary"]}
+   ]},
+]},
+{day:186, label:"Day 186 — Mon", subjects:[
+  {subject:"Language", title:"Expanding Sentences: Adding More Detail to Our Writing", summary:"Grade 1 Language strand: expanding a sentence means adding more detail, such as describing words or information about where and when, to make a simple sentence more interesting.",
+   resourceLabel:"YouTube: Expanding Sentences: Adding More Detail to Our Writing", resourceUrl:"https://www.youtube.com/results?search_query=Expanding%20Sentences%3A%20Adding%20More%20Detail%20to%20Our%20Writing%20grade%201%20educational",
+   quiz:[
+     {q:"What does expanding a sentence mean?", options:["Adding more detail to make it more interesting","Making the sentence shorter","Changing the sentence into a question","Removing all the words"], answer:0},
+     {q:"Which of these is an expanded version of The dog ran?", options:["The big brown dog ran quickly across the yard","Dog ran","Ran","The"], answer:0},
+     {q:"Which kind of word can help expand a sentence with more detail?", options:["A blank space","A describing word","A number only","A silent letter"], answer:1},
+     {q:"Adding where or when something happened is one way to ___.", options:["Expand a sentence","Shorten a sentence","Remove punctuation","End a sentence early"], answer:0},
+     {q:"Expanding our sentences helps our writing become more ___.", options:["Repetitive without meaning","Confusing","Empty","Detailed and interesting"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does expanding a sentence mean?", answers:["adding more detail","adding more detail to a sentence"]},
+     {prompt:"Name one kind of detail we can add to expand a sentence.", answers:["a describing word","where or when something happened"]},
+     {prompt:"Expand this sentence with one detail: The dog ran.", answers:["The big dog ran quickly","The dog ran in the park"]}
+   ]},
+  {subject:"Math", title:"Data: Sorting Information by Two Attributes", summary:"Grade 1 Math strand: objects can be sorted using two attributes at the same time, such as sorting shapes by both colour and size, to organize information in more detailed ways.",
+   resourceLabel:"YouTube: Data: Sorting Information by Two Attributes", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Information%20by%20Two%20Attributes%20grade%201%20educational",
+   quiz:[
+     {q:"What does sorting by two attributes mean?", options:["Sorting using two features at the same time","Sorting only by size","Sorting using no features at all","Sorting only by colour"], answer:0},
+     {q:"Which of these shows sorting by two attributes?", options:["Grouping big red shapes together and small blue shapes together","Sorting only by weight","Ignoring all features","Grouping everything into one pile"], answer:0},
+     {q:"Which two attributes could you use to sort a group of toy cars?", options:["Only sound","Colour and size","Only smell","Only taste"], answer:1},
+     {q:"Sorting by two attributes helps us organize information in a more ___ way.", options:["Incomplete","Random","Detailed","Confusing"], answer:2},
+     {q:"If shapes are sorted by colour and shape, how many attributes are being used?", options:["0","3","2","1"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does sorting by two attributes mean?", answers:["sorting using two features at once","sorting by two things at the same time"]},
+     {prompt:"Name two attributes you could use to sort shapes.", answers:["colour and size","colour and shape"]},
+     {prompt:"If you sort buttons by colour and shape, how many things are you thinking about at once?", answers:["2","two"]}
+   ]},
+  {subject:"Science", title:"Constellations: Patterns of Stars in the Night Sky", summary:"Grade 1 Science strand: a constellation is a group of stars that forms a pattern in the night sky, and people have used constellations for a long time to tell stories and find their way.",
+   resourceLabel:"YouTube: Constellations: Patterns of Stars in the Night Sky", resourceUrl:"https://www.youtube.com/results?search_query=Constellations%3A%20Patterns%20of%20Stars%20in%20the%20Night%20Sky%20grade%201%20educational",
+   quiz:[
+     {q:"What is a constellation?", options:["A type of cloud","A single bright planet","A group of stars that forms a pattern","A kind of moon phase"], answer:2},
+     {q:"When can we usually see constellations in the sky?", options:["Only at noon","At night","Only during a storm","Only underwater"], answer:1},
+     {q:"What have people used constellations for in the past?", options:["Cooking food","Building houses","Growing plants","Telling stories and finding their way"], answer:3},
+     {q:"Constellations are made up of what?", options:["Raindrops","Clouds","Planets only","Stars"], answer:3},
+     {q:"Looking at patterns of stars in the sky is part of studying ___.", options:["Space","The ocean","The soil","Plants"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a constellation?", answers:["a group of stars that forms a pattern","a pattern of stars in the sky"]},
+     {prompt:"When can we usually see constellations?", answers:["at night","in the night sky"]},
+     {prompt:"Name one thing people have used constellations for.", answers:["telling stories","finding their way"]}
+   ]},
+  {subject:"SocialStudies", title:"Powwows: Celebrating Indigenous Culture Through Dance and Music", summary:"Grade 1 Social Studies strand: a powwow is a gathering where Indigenous peoples celebrate their culture through traditional dancing, drumming, singing, and regalia, welcoming others to learn and take part.",
+   resourceLabel:"YouTube: Powwows: Celebrating Indigenous Culture Through Dance and Music", resourceUrl:"https://www.youtube.com/results?search_query=Powwows%3A%20Celebrating%20Indigenous%20Culture%20Through%20Dance%20and%20Music%20grade%201%20educational",
+   quiz:[
+     {q:"What is a powwow?", options:["A sports competition only","A kind of building","A type of weather event","A gathering to celebrate Indigenous culture through dance and music"], answer:3},
+     {q:"Which of these activities happens at a powwow?", options:["Only swimming","Traditional dancing and drumming","Only silent reading","Only shopping"], answer:1},
+     {q:"What is regalia at a powwow?", options:["A musical instrument only","A type of food","A kind of drum only","Special traditional clothing worn for dancing"], answer:3},
+     {q:"What can visitors do when they attend a powwow?", options:["Learn about and take part in Indigenous culture","Only watch from far away with no learning","Ignore the event completely","Avoid all traditions"], answer:0},
+     {q:"Powwows help communities celebrate and share ___.", options:["Only modern inventions","Only weather patterns","Indigenous culture and traditions","Only sports scores"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is a powwow?", answers:["a gathering to celebrate Indigenous culture","a gathering with dancing, drumming, and singing"]},
+     {prompt:"Name one activity that happens at a powwow.", answers:["dancing","drumming","singing"]},
+     {prompt:"What can visitors do at a powwow?", answers:["learn about Indigenous culture","take part and learn"]}
+   ]},
+]},
+{day:187, label:"Day 187 — Tue", subjects:[
+  {subject:"Language", title:"Language Review: A Year of Words, Stories, and Poems", summary:"Grade 1 Language strand review, and a capstone review closing out the full year of Grade 1 Language: students revisit the vowel team oe, speech bubbles as a text feature, character feelings, acrostic poems, book talks, and expanding sentences.",
+   resourceLabel:"YouTube: Language Review: A Year of Words, Stories, and Poems", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20A%20Year%20of%20Words%2C%20Stories%2C%20and%20Poems%20grade%201%20educational",
+   quiz:[
+     {q:"What sound does the vowel team oe make?", options:["The long e sound","The long a sound","The long o sound","The short o sound"], answer:2},
+     {q:"What do speech bubbles usually show in a comic?", options:["What a character is saying","The page number","The title of the book","The authors name"], answer:0},
+     {q:"Which of these can show how a character feels?", options:["Their words and actions","The book cover colour","The font size","The page number"], answer:0},
+     {q:"What does an acrostic poem use to begin each line?", options:["A drawing","A random number","A letter from the chosen word","A question mark"], answer:2},
+     {q:"What does expanding a sentence mean?", options:["Making the sentence shorter","Adding more detail to make it more interesting","Removing all the words","Changing the sentence into a question"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What sound does the vowel team oe make in the word toe?", answers:["the long o sound"]},
+     {prompt:"What is a book talk?", answers:["a short spoken description of a book"]},
+     {prompt:"What does expanding a sentence mean?", answers:["adding more detail"]}
+   ]},
+  {subject:"Math", title:"Math Review: A Year of Numbers, Shapes, and Problem Solving", summary:"Grade 1 Math strand review, and a capstone review closing out the full year of Grade 1 Math: students revisit numbers to 800, fractions as eighths, composite shapes, money up to fifty dollars, comparing durations, and sorting data by two attributes.",
+   resourceLabel:"YouTube: Math Review: A Year of Numbers, Shapes, and Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20A%20Year%20of%20Numbers%2C%20Shapes%2C%20and%20Problem%20Solving%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 799?", options:["799","800","798","801"], answer:1},
+     {q:"What is each equal part called when a whole is divided into eight pieces?", options:["A half","A third","A fourth","An eighth"], answer:3},
+     {q:"What is a composite shape?", options:["A shape that cannot be drawn","A shape that has no corners","A shape made by combining two or more simple shapes","A shape with only one side"], answer:2},
+     {q:"Which combination makes exactly fifty dollars?", options:["One twenty dollar bill","Two ten dollar bills","Three five dollar bills","Five ten dollar bills"], answer:3},
+     {q:"Which activity usually takes longer, brushing your teeth or eating dinner?", options:["Brushing your teeth","Neither takes any time","Eating dinner","They take the same amount of time"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 799?", answers:["800"]},
+     {prompt:"What is each equal part called when a whole is divided into eight pieces?", answers:["an eighth"]},
+     {prompt:"How many ten dollar bills make fifty dollars?", answers:["5","five"]}
+   ]},
+  {subject:"Science", title:"Science Review: A Year of Discovering Our World", summary:"Grade 1 Science strand review, and a capstone review closing out the full year of Grade 1 Science: students revisit rabbits, groundhogs, animal mimicry, chickens, decomposers, and constellations.",
+   resourceLabel:"YouTube: Science Review: A Year of Discovering Our World", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20A%20Year%20of%20Discovering%20Our%20World%20grade%201%20educational",
+   quiz:[
+     {q:"What helps a rabbit hop quickly?", options:["Its whiskers only","Its ears only","Its tail only","Its strong back legs"], answer:3},
+     {q:"What do groundhogs do for most of the winter?", options:["Hibernate","Stay awake and play","Build igloos","Migrate south"], answer:0},
+     {q:"What is mimicry?", options:["When an animal changes colour to blend in","When an animal hides underground","When an animal looks like something else to stay safe","When an animal migrates south"], answer:2},
+     {q:"What is a baby chicken called?", options:["A kit","A joey","A chick","A calf"], answer:2},
+     {q:"What is a constellation?", options:["A type of cloud","A group of stars that forms a pattern","A kind of moon phase","A single bright planet"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What helps a rabbit hop quickly?", answers:["its strong back legs"]},
+     {prompt:"What do decomposers break down?", answers:["dead plants and animals"]},
+     {prompt:"What is a constellation?", answers:["a group of stars that forms a pattern"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: A Year of Community, Culture, and Canada", summary:"Grade 1 Social Studies strand review, and a capstone review closing out the full year of Grade 1 Social Studies: students revisit the CN Tower, Groundhog Day, bakers, ferries and ships, foods from around the world, and powwows.",
+   resourceLabel:"YouTube: Social Studies Review: A Year of Community, Culture, and Canada", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20A%20Year%20of%20Community%2C%20Culture%2C%20and%20Canada%20grade%201%20educational",
+   quiz:[
+     {q:"In which city is the CN Tower located?", options:["Ottawa","Vancouver","Montreal","Toronto"], answer:3},
+     {q:"In which month is Groundhog Day celebrated?", options:["August","November","February","May"], answer:2},
+     {q:"What does a baker make?", options:["Medicine","Furniture","Bread, cakes, and other treats","Mail and packages"], answer:2},
+     {q:"Where do ferries and ships travel?", options:["Only on roads","Only underground","Only in the sky","Across lakes, rivers, and oceans"], answer:3},
+     {q:"What is a powwow?", options:["A kind of building","A gathering to celebrate Indigenous culture through dance and music","A type of weather event","A sports competition only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"In which city is the CN Tower located?", answers:["Toronto"]},
+     {prompt:"In what month is Groundhog Day celebrated?", answers:["February"]},
+     {prompt:"What is a powwow?", answers:["a gathering to celebrate Indigenous culture"]}
+   ]},
+]},
 ];
 
 export default curriculum;
