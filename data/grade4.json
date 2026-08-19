@@ -43794,5 +43794,1699 @@
         ]
       }
     ]
+  },
+  {
+    "day": 181,
+    "label": "Day 181 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Double Negatives",
+        "summary": "Grade 4 Language strand: a double negative occurs when two negative words are used in the same clause, which can cancel each other out or create confusing, non-standard grammar, so standard English uses only one negative word per clause.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a double negative?",
+            "options": [
+              "Using two positive words in the same clause",
+              "A question with two parts",
+              "Using two negative words in the same clause",
+              "A sentence with no verb"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains a double negative?",
+            "options": [
+              "I do not have any pencils.",
+              "I have some pencils.",
+              "I have a pencil.",
+              "I do not have no pencils."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many negative words should a single clause in standard English contain?",
+            "options": [
+              "Zero, negatives are never allowed",
+              "Just one",
+              "Exactly two",
+              "At least three"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly avoids a double negative?",
+            "options": [
+              "She does not want nothing.",
+              "She does not never want it.",
+              "She does not want anything.",
+              "She has not no interest."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers avoid double negatives in formal writing?",
+            "options": [
+              "Formal writing requires at least two negatives per sentence",
+              "Double negatives are required by grammar rules",
+              "Double negatives can confuse the meaning of a sentence",
+              "Double negatives always make writing clearer"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying a 4-Digit Number by a 1-Digit Number",
+        "summary": "Grade 4 Math strand: multiplying a 4-digit number by a 1-digit number involves multiplying each place value in turn, from ones through thousands, regrouping as needed and adding the partial results.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a good first step when multiplying a 4-digit number by a 1-digit number?",
+            "options": [
+              "Multiply the thousands digit first",
+              "Multiply the ones digit first, then regroup as needed",
+              "Add the two numbers together",
+              "Divide the 4-digit number by the 1-digit number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 2,134 multiplied by 3?",
+            "options": [
+              "6,502",
+              "6,412",
+              "6,402",
+              "6,302"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 4,021 multiplied by 2?",
+            "options": [
+              "8,032",
+              "8,242",
+              "8,142",
+              "8,042"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When multiplying and a place value product is 10 or more, what should you do?",
+            "options": [
+              "Ignore the extra value completely",
+              "Write only the ones digit and stop",
+              "Start the entire multiplication over",
+              "Regroup the extra value into the next place value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to multiply large numbers digit by digit?",
+            "options": [
+              "It always produces an incorrect product",
+              "It only works with numbers under 100",
+              "It breaks a large multiplication into smaller, manageable steps",
+              "It removes the need to know multiplication facts"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Excretory System — How the Body Removes Waste",
+        "summary": "Grade 4 Science strand: the excretory system, including the kidneys, bladder, and skin, removes waste products and excess water from the body to keep it healthy and balanced.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of the excretory system?",
+            "options": [
+              "Removing waste products and excess water from the body",
+              "Sending messages to the brain",
+              "Pumping blood through the body",
+              "Breaking down food for energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organ filters waste out of the blood to form urine?",
+            "options": [
+              "The kidneys",
+              "The heart",
+              "The stomach",
+              "The lungs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is urine stored before it leaves the body?",
+            "options": [
+              "The bladder",
+              "The stomach",
+              "The brain",
+              "The lungs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides the kidneys and bladder, what other organ helps remove waste through sweat?",
+            "options": [
+              "The heart",
+              "The eyes",
+              "The teeth",
+              "The skin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the excretory system important for staying healthy?",
+            "options": [
+              "It only functions once in a lifetime",
+              "It stops the body from ever needing water",
+              "It removes waste that could harm the body if it built up",
+              "It has no effect on the bodys health"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Kingdom of Axum — Ancient Trade Power of Africa",
+        "summary": "Grade 4 Social Studies strand: the Kingdom of Axum was a powerful ancient trading civilization in what is now Ethiopia and Eritrea, known for its wealth from trade routes connecting Africa, Arabia, and the Mediterranean world.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Where was the ancient Kingdom of Axum located?",
+            "options": [
+              "In what is now Japan",
+              "In what is now Mexico",
+              "In what is now Ethiopia and Eritrea",
+              "In what is now France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What made the Kingdom of Axum wealthy and powerful?",
+            "options": [
+              "Its isolation from all other civilizations",
+              "Its control over the Arctic Ocean",
+              "Its large fishing fleet in the Pacific Ocean",
+              "Its trade routes connecting Africa, Arabia, and the Mediterranean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What goods might have been traded along Axums routes?",
+            "options": [
+              "Only automobiles",
+              "Only plastic goods",
+              "Only modern electronics",
+              "Items such as ivory, gold, and spices"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are trade routes important to understanding an ancient civilizations power?",
+            "options": [
+              "They show how a civilization built wealth and connections with others",
+              "Trade routes have no connection to a civilizations power",
+              "Ancient civilizations never engaged in trade",
+              "Trade routes only existed in modern times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians study ancient trading powers like Axum?",
+            "options": [
+              "Ancient trading powers have no historical importance",
+              "Trade has never shaped history",
+              "Axum has no connection to African history",
+              "To understand how early civilizations connected and influenced each other"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "label": "Day 182 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Malapropisms and Word Mix-Ups",
+        "summary": "Grade 4 Language strand: a malapropism is the mistaken use of a word in place of a similar-sounding word, often creating a humorous or nonsensical sentence.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A word that has two opposite meanings",
+              "The mistaken use of a word in place of a similar-sounding word",
+              "A word borrowed from another language",
+              "A word that rhymes with another word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains a malapropism?",
+            "options": [
+              "We must go quickly.",
+              "We need to leave now.",
+              "We need to escape this dangerous situation, said the peaceful leader.",
+              "We need to escape this dangerous situation, said the pacific leader."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do malapropisms often create humor?",
+            "options": [
+              "Malapropisms are never noticed by readers",
+              "They always use the exact correct word",
+              "Malapropisms always make perfect sense",
+              "The mixed-up word creates an unexpected or silly meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might cause a person to use a malapropism?",
+            "options": [
+              "Using a thesaurus correctly",
+              "Speaking in complete silence",
+              "Reading a dictionary definition aloud correctly",
+              "Confusing two words that sound alike but have different meanings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful to recognize malapropisms while reading or editing?",
+            "options": [
+              "Malapropisms never affect the meaning of a sentence",
+              "It helps identify and correct word-choice errors that change meaning",
+              "Malapropisms are always used on purpose by careful writers",
+              "Recognizing them has no value for writers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Complementary and Supplementary Angles",
+        "summary": "Grade 4 Math strand: complementary angles are two angles that add up to 90 degrees, while supplementary angles are two angles that add up to 180 degrees.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What do complementary angles add up to?",
+            "options": [
+              "90 degrees",
+              "180 degrees",
+              "360 degrees",
+              "45 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do supplementary angles add up to?",
+            "options": [
+              "360 degrees",
+              "270 degrees",
+              "90 degrees",
+              "180 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one angle measures 30 degrees, what does its complementary angle measure?",
+            "options": [
+              "90 degrees",
+              "70 degrees",
+              "150 degrees",
+              "60 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one angle measures 110 degrees, what does its supplementary angle measure?",
+            "options": [
+              "250 degrees",
+              "80 degrees",
+              "110 degrees",
+              "70 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to know about complementary and supplementary angles?",
+            "options": [
+              "Angles never add up to a fixed total",
+              "Complementary and supplementary angles always measure the same amount",
+              "It helps find missing angle measures when two angles form a right angle or straight line",
+              "These angle types are never found in real shapes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Earths Revolution and the Four Seasons",
+        "summary": "Grade 4 Science strand: Earths revolution around the sun, combined with the tilt of its axis, causes the changing seasons as different parts of Earth receive more or less direct sunlight throughout the year.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is Earths revolution?",
+            "options": [
+              "Earths yearlong orbit around the sun",
+              "Earths daily spin on its axis",
+              "The moons orbit around Earth",
+              "The suns orbit around Earth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how long does it take Earth to complete one revolution around the sun?",
+            "options": [
+              "About one week",
+              "About one hour",
+              "About one year",
+              "About one day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes the changing seasons on Earth?",
+            "options": [
+              "The sun moving closer and farther from Earth each day",
+              "The moon changing shape each night",
+              "Earth speeding up and slowing down randomly",
+              "The tilt of Earths axis combined with its revolution around the sun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During summer in the Northern Hemisphere, how is that part of Earth tilted?",
+            "options": [
+              "Directly sideways to the sun",
+              "Toward the sun, receiving more direct sunlight",
+              "Away from the sun, receiving less sunlight",
+              "Earth is never tilted at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding Earths revolution important for understanding the seasons?",
+            "options": [
+              "Earths tilt never changes the amount of sunlight received",
+              "The seasons are caused only by ocean currents",
+              "It explains why different times of year receive different amounts of sunlight",
+              "Revolution has no connection to the seasons"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Prairie Provinces — Agriculture and Geography",
+        "summary": "Grade 4 Social Studies strand: the Prairie provinces of Alberta, Saskatchewan, and Manitoba feature flat, fertile grassland well suited to growing crops such as wheat and canola, making the region a major centre of Canadian agriculture.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Which three provinces are commonly known as the Prairie provinces?",
+            "options": [
+              "Alberta, Saskatchewan, and Manitoba",
+              "British Columbia, Yukon, and Nunavut",
+              "New Brunswick, Newfoundland, and Labrador",
+              "Ontario, Quebec, and Nova Scotia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of landscape is common across much of the Prairies?",
+            "options": [
+              "Icy glaciers",
+              "Dense tropical rainforest",
+              "Flat, fertile grassland",
+              "Tall mountain ranges"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which crops are commonly grown in the Prairie provinces?",
+            "options": [
+              "Coffee and cocoa",
+              "Rice grown in flooded paddies",
+              "Bananas and pineapples",
+              "Wheat and canola"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Prairie region considered important to Canadas economy?",
+            "options": [
+              "It is the least populated part of Canada with no industry",
+              "It produces no food at all",
+              "It has no connection to Canadas economy",
+              "It produces a large share of Canadas agricultural output"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is fertile soil important to the Prairie provinces?",
+            "options": [
+              "Fertile soil has no effect on farming",
+              "It allows large-scale farming of crops that feed Canada and other countries",
+              "Fertile soil prevents any crops from growing",
+              "The Prairies have no soil at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "label": "Day 183 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Podcast Script",
+        "summary": "Grade 4 Language strand: a podcast script is written to be spoken aloud, organized into a clear introduction, main segments, and a conclusion, often including natural-sounding language and cues for pacing.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a podcast script written for?",
+            "options": [
+              "To be spoken aloud for listeners",
+              "To be used only as a math worksheet",
+              "To replace all forms of written communication",
+              "To be read silently by one person"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a podcast script include at the very beginning?",
+            "options": [
+              "A clear introduction to the topic or episode",
+              "Only a single number",
+              "A blank page",
+              "The conclusion of the episode"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a podcast script use natural-sounding language?",
+            "options": [
+              "Podcast scripts are never meant to be read aloud",
+              "It helps the spoken delivery sound conversational to listeners",
+              "Natural language confuses listeners on purpose",
+              "Formal, robotic language always sounds best when spoken"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a writer include in a script to help control pacing while speaking?",
+            "options": [
+              "Cues such as pauses or emphasis notes",
+              "Random unrelated numbers",
+              "Complete silence with no words at all",
+              "A list of unrelated topics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is organizing a podcast script into segments helpful?",
+            "options": [
+              "Segments have no effect on how listeners follow along",
+              "It helps guide listeners clearly through different parts of the episode",
+              "Organization only matters in written essays, not audio",
+              "A podcast script should never be organized"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Complementary Events",
+        "summary": "Grade 4 Math strand: complementary events are two outcomes where exactly one must happen, and their probabilities always add up to 1, so the probability of an event not happening equals 1 minus the probability of it happening.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What are complementary events?",
+            "options": [
+              "Two outcomes with the exact same probability",
+              "Two outcomes that can never happen",
+              "Two outcomes that always happen together",
+              "Two outcomes where exactly one of them must happen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do the probabilities of complementary events always add up to?",
+            "options": [
+              "1",
+              "2",
+              "100",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the probability of rain tomorrow is 1/4, what is the probability it will not rain?",
+            "options": [
+              "1/2",
+              "1/4",
+              "4/4",
+              "3/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the probability of drawing a red marble is 0.3, what is the probability of not drawing a red marble?",
+            "options": [
+              "0.03",
+              "0.3",
+              "1.3",
+              "0.7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding complementary events useful in probability?",
+            "options": [
+              "It only applies to events that are impossible",
+              "It allows the probability of an event not happening to be calculated easily",
+              "Complementary events always have equal probabilities of exactly 0.5",
+              "Complementary events can never be calculated"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Grassland and Prairie Ecosystems",
+        "summary": "Grade 4 Science strand: grassland and prairie ecosystems are dominated by grasses rather than trees, supporting animals such as bison and burrowing rodents that are adapted to open, windy environments with periodic wildfires.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What plant life dominates a grassland or prairie ecosystem?",
+            "options": [
+              "Cactus and desert shrubs only",
+              "Grasses, rather than trees",
+              "Dense rainforest trees",
+              "Coral and seaweed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is commonly associated with North American prairies?",
+            "options": [
+              "The dolphin",
+              "The polar bear",
+              "The bison",
+              "The penguin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might burrowing animals be well adapted to prairie ecosystems?",
+            "options": [
+              "Burrowing has no survival advantage on a prairie",
+              "Prairie animals never need shelter",
+              "Burrows are only useful in forests",
+              "Burrows offer shelter in an open landscape with few trees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What natural event periodically affects many grassland ecosystems?",
+            "options": [
+              "Ocean flooding",
+              "Constant snowfall",
+              "Wildfires",
+              "Volcanic eruptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are grassland ecosystems important to study?",
+            "options": [
+              "Grasslands support no forms of life",
+              "Grassland ecosystems are identical to rainforests",
+              "They support unique wildlife and are important for agriculture",
+              "Grasslands have no connection to farming"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Bank of Canada — Canadas Central Bank",
+        "summary": "Grade 4 Social Studies strand: the Bank of Canada is the countrys central bank, responsible for issuing Canadian currency and working to keep prices stable by managing the countrys money supply.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Bank of Canada?",
+            "options": [
+              "A museum about Canadian history",
+              "A private company that sells cars",
+              "A local bank branch in one city",
+              "Canadas central bank"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one key responsibility of the Bank of Canada?",
+            "options": [
+              "Issuing Canadian currency",
+              "Regulating television broadcasting",
+              "Building highways",
+              "Running national parks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Bank of Canada aim to keep stable?",
+            "options": [
+              "Prices, by managing the countrys money supply",
+              "The number of provinces in Canada",
+              "The weather across the country",
+              "The length of the school year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is the Bank of Canada different from a regular retail bank a person might use daily?",
+            "options": [
+              "It manages the national economy rather than serving individual customers directly",
+              "It is owned by a single private citizen",
+              "It only operates outside of Canada",
+              "It has no role in Canadas economy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a central bank important to a countrys economy?",
+            "options": [
+              "It helps manage currency and stabilize prices for the whole country",
+              "It only affects one small business",
+              "Central banks have no effect on an economy",
+              "A country cannot have any currency without a branch in every town"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "label": "Day 184 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Building Suspense in a Story",
+        "summary": "Grade 4 Language strand: authors build suspense by withholding information, using pacing, and creating tension about what will happen next, keeping readers eager to continue.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does it mean for an author to build suspense?",
+            "options": [
+              "Ending the story before any events occur",
+              "Creating tension and curiosity about what will happen next",
+              "Removing all conflict from the story",
+              "Revealing the ending at the very start of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one technique authors use to build suspense?",
+            "options": [
+              "Withholding key information from the reader",
+              "Explaining every detail immediately",
+              "Avoiding any conflict in the plot",
+              "Skipping the climax of the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can pacing affect suspense in a story?",
+            "options": [
+              "Pacing has no effect on how suspenseful a story feels",
+              "Fast pacing always removes all suspense",
+              "Slowing down key moments can increase tension for readers",
+              "Suspense only depends on the length of a book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author end a chapter at a tense moment?",
+            "options": [
+              "To immediately reveal the solution to the conflict",
+              "To make readers want to keep reading to find out what happens",
+              "To end the story permanently",
+              "To remove all interest from the plot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is suspense an effective tool in storytelling?",
+            "options": [
+              "It keeps readers emotionally engaged and eager to continue",
+              "Suspense makes readers stop reading immediately",
+              "Suspense is only used in nonfiction writing",
+              "Suspense has no effect on how a story is experienced"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding Currency Exchange Rates",
+        "summary": "Grade 4 Math strand: a currency exchange rate shows how much one countrys money is worth compared to another countrys money, and it is used to convert an amount from one currency into another.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does a currency exchange rate show?",
+            "options": [
+              "The temperature in a country",
+              "The total population of a country",
+              "The distance between two countries",
+              "How much one countrys money is worth compared to another countrys money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a currency exchange rate used for?",
+            "options": [
+              "Converting an amount of money from one currency into another",
+              "Calculating the time zone of a country",
+              "Determining a countrys official language",
+              "Measuring the size of a country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 1 Canadian dollar equals 0.75 US dollars, how many US dollars would 10 Canadian dollars convert to?",
+            "options": [
+              "0.75 US dollars",
+              "7.50 US dollars",
+              "10.75 US dollars",
+              "75 US dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might exchange rates change over time?",
+            "options": [
+              "Exchange rates only apply to one single day in history",
+              "Exchange rates are always fixed and never change",
+              "Currency values have no connection to economics",
+              "Economic factors can cause the relative value of currencies to shift"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding exchange rates useful when travelling to another country?",
+            "options": [
+              "Money never needs to be converted between countries",
+              "Exchange rates have no effect on travel",
+              "It helps travellers know how much their money is worth in the local currency",
+              "Every country uses the exact same currency"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tornadoes — How They Form and Safety",
+        "summary": "Grade 4 Science strand: a tornado is a rapidly rotating column of air that forms during severe thunderstorms when warm and cold air masses collide, and knowing safety steps like sheltering in a basement or interior room can help keep people safe.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a tornado?",
+            "options": [
+              "A rapidly rotating column of air extending from a thunderstorm to the ground",
+              "A slow-moving cloud with no wind",
+              "A type of ocean wave",
+              "A calm, sunny weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of storm can produce a tornado?",
+            "options": [
+              "A gentle breeze",
+              "A severe thunderstorm",
+              "A light drizzle",
+              "A clear, cloudless sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often happens when warm and cold air masses collide?",
+            "options": [
+              "All clouds instantly disappear",
+              "Temperatures instantly become equal everywhere",
+              "Conditions can become unstable enough to form severe storms, including tornadoes",
+              "The weather always stays exactly the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a recommended safety step during a tornado warning?",
+            "options": [
+              "Opening all the windows in the house",
+              "Standing outside to watch the tornado",
+              "Driving directly toward the tornado",
+              "Sheltering in a basement or interior room away from windows"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to understand tornado safety?",
+            "options": [
+              "Knowing safety steps can help protect people during a dangerous storm",
+              "Safety steps only apply to other types of weather",
+              "Tornado safety has no effect on protecting people",
+              "Tornadoes never pose any danger"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Elections Canada — Running Canadas Federal Elections",
+        "summary": "Grade 4 Social Studies strand: Elections Canada is the independent federal agency responsible for organizing and overseeing national elections, ensuring that voting is fair, accessible, and accurately counted.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is Elections Canada?",
+            "options": [
+              "A television network that reports election results",
+              "A private company that sells voting machines",
+              "A group that only counts votes in one city",
+              "The independent federal agency responsible for organizing national elections"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one responsibility of Elections Canada?",
+            "options": [
+              "Building new highways",
+              "Setting provincial tax rates",
+              "Managing national parks",
+              "Ensuring that federal voting is fair and accurately counted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for Elections Canada to be independent?",
+            "options": [
+              "So elections never actually take place",
+              "So only one political party can ever win",
+              "So elections are run fairly without political interference",
+              "So votes are never counted at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might Elections Canada do to help make voting accessible?",
+            "options": [
+              "Require voters to pay a fee to vote",
+              "Provide multiple ways to vote, such as by mail or in person",
+              "Only allow voting in one single city",
+              "Prevent citizens from voting entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a fair and accurate election process important in a democracy?",
+            "options": [
+              "Democracy does not require any elections at all",
+              "Fair elections have no importance in a democracy",
+              "It ensures that the results reflect the true will of the voters",
+              "Accuracy in vote counting is never necessary"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "label": "Day 185 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Em Dashes and Ellipses in Writing",
+        "summary": "Grade 4 Language strand: an em dash can be used to set off extra information or create a dramatic pause, while an ellipsis, made of three dots, shows that words have been left out or that a thought trails off.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What can an em dash be used for in a sentence?",
+            "options": [
+              "Starting the first word of every sentence",
+              "Replacing all commas in a piece of writing",
+              "Ending every sentence in a paragraph",
+              "Setting off extra information or creating a dramatic pause"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many dots make up an ellipsis?",
+            "options": [
+              "Five",
+              "Three",
+              "Two",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can an ellipsis show in a sentence?",
+            "options": [
+              "That a word is misspelled",
+              "That words have been left out or a thought trails off",
+              "That a sentence is a question",
+              "That a sentence must be read loudly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses an em dash to add extra information?",
+            "options": [
+              "The trip — though long and tiring — was worth it in the end.",
+              "The trip, though, long, and, tiring was worth it, in the end.",
+              "The trip; though long and tiring; was worth it in the end.",
+              "The trip though long and tiring was worth it in the end"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose an em dash instead of a comma?",
+            "options": [
+              "Commas can never set off extra information",
+              "Em dashes are never used in writing",
+              "To create a stronger pause or emphasize the extra information",
+              "Em dashes and commas always mean the exact same thing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Dividing a 3-Digit Number by a 2-Digit Divisor",
+        "summary": "Grade 4 Math strand: dividing a 3-digit number by a 2-digit divisor involves estimating how many times the divisor fits into the leading digits, then dividing, multiplying, subtracting, and bringing down the next digit.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a helpful strategy when starting to divide a 3-digit number by a 2-digit divisor?",
+            "options": [
+              "Add the divisor to the 3-digit number",
+              "Estimate how many times the divisor fits into the leading digits",
+              "Multiply the two numbers together",
+              "Immediately guess the final answer with no estimation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 288 divided by 12?",
+            "options": [
+              "20",
+              "26",
+              "24",
+              "22"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 455 divided by 13?",
+            "options": [
+              "33",
+              "35",
+              "37",
+              "31"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "After dividing and multiplying at each step, what should you do next?",
+            "options": [
+              "Skip the remaining digits entirely",
+              "Add the divisor to the quotient",
+              "Subtract, then bring down the next digit if there is one",
+              "Multiply again by the same divisor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might dividing by a 2-digit divisor be more challenging than dividing by a 1-digit divisor?",
+            "options": [
+              "It never requires any estimation at all",
+              "It often requires estimating multiples of a larger number",
+              "2-digit divisors always divide evenly",
+              "Dividing by a 2-digit number is never used in math"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Gemstones — How Precious Minerals Form",
+        "summary": "Grade 4 Science strand: gemstones are minerals that form underground under intense heat and pressure over long periods of time, and their hardness, colour, and clarity determine how they are valued and used in jewellery.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a gemstone?",
+            "options": [
+              "A tool used only for farming",
+              "A type of soft plant tissue",
+              "A mineral valued for qualities such as its hardness, colour, and clarity",
+              "A liquid found in oceans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Under what conditions do many gemstones form underground?",
+            "options": [
+              "Only inside living plants",
+              "Instantly, within a few seconds",
+              "Intense heat and pressure over long periods of time",
+              "Freezing temperatures with no pressure at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which quality might affect how a gemstone is valued?",
+            "options": [
+              "The season it was found in",
+              "Its hardness, colour, and clarity",
+              "Its weight in kilograms only",
+              "Its exact age in days"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are gemstones commonly used for?",
+            "options": [
+              "Building roads",
+              "Cooking ingredients",
+              "Jewellery and decorative items",
+              "Producing electricity directly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do gemstones often take a long time to form?",
+            "options": [
+              "Gemstones form instantly with no natural process",
+              "Mineral crystals need extended time under heat and pressure to grow",
+              "Time has no effect on how minerals form",
+              "Gemstones are manufactured only in factories"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Coat of Arms and National Motto",
+        "summary": "Grade 4 Social Studies strand: the Coat of Arms of Canada is an official symbol featuring a lion, a unicorn, and other heraldic images, paired with the national motto A Mari Usque Ad Mare, meaning from sea to sea.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Coat of Arms of Canada?",
+            "options": [
+              "An official symbol representing Canada, featuring heraldic images",
+              "A type of Canadian currency",
+              "A style of Canadian clothing",
+              "A national holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Canadas national motto, A Mari Usque Ad Mare, mean?",
+            "options": [
+              "Strength and honour",
+              "Peace and prosperity",
+              "From sea to sea",
+              "One nation, many peoples"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animals appear as heraldic images on Canadas Coat of Arms?",
+            "options": [
+              "A polar bear and a beaver",
+              "A wolf and a hawk",
+              "A lion and a unicorn",
+              "A moose and an eagle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country have an official Coat of Arms?",
+            "options": [
+              "Every country is required to have an identical design",
+              "To serve as a formal symbol representing the nations identity and history",
+              "A Coat of Arms has no meaning or purpose",
+              "It is only used for decoration with no symbolic value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canadas national motto meaningful to the countrys geography?",
+            "options": [
+              "The motto refers only to a single small lake",
+              "It reflects Canadas vast stretch between the Atlantic and Pacific oceans",
+              "The motto has no connection to Canadas geography",
+              "Canada does not border any oceans"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "label": "Day 186 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Postcard from a Historical Time Period",
+        "summary": "Grade 4 Language strand: writing a postcard from a historical time period combines factual details about the past with a personal, first-person voice, describing what a writer might have seen, heard, or felt if living then.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does writing a postcard from a historical time period combine?",
+            "options": [
+              "Factual historical details with a personal, first-person voice",
+              "Only scientific formulas with no narrative voice",
+              "A list of unrelated numbers",
+              "Only present-day events with no history at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What point of view is often used when writing a historical postcard?",
+            "options": [
+              "Only a formal business tone",
+              "First-person, as if the writer lived during that time",
+              "No point of view at all",
+              "Third-person only, describing someone else entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a historical postcard describe?",
+            "options": [
+              "Only modern technology that did not exist then",
+              "What the writer might have seen, heard, or felt during that time",
+              "A completely unrelated fictional planet",
+              "Only mathematical equations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is researching a time period important before writing a postcard from it?",
+            "options": [
+              "Postcards never need any factual information",
+              "Historical accuracy is never important in writing",
+              "Research has no effect on historical writing",
+              "It helps ensure the details feel accurate and believable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might writing a postcard from history help a reader understand the past?",
+            "options": [
+              "Personal perspectives always distort historical facts",
+              "Postcards have no connection to understanding history",
+              "It presents historical events through a personal, relatable perspective",
+              "Historical writing must always avoid a personal viewpoint"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Introduction to Imperial Units (Inches, Feet, and Yards)",
+        "summary": "Grade 4 Math strand: imperial units, including inches, feet, and yards, are a system of measurement historically used in Canada and still commonly seen today, alongside the metric system, especially for measuring length.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Which of these is an imperial unit of length?",
+            "options": [
+              "Inches",
+              "Litres",
+              "Kilometres",
+              "Grams"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many inches are in one foot?",
+            "options": [
+              "100",
+              "3",
+              "10",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many feet are in one yard?",
+            "options": [
+              "10",
+              "3",
+              "12",
+              "1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which measurement system, alongside imperial units, is commonly used in Canada today?",
+            "options": [
+              "The Roman numeral system",
+              "The Celsius-only weight system",
+              "The metric system",
+              "The binary number system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to recognize imperial units even though Canada mainly uses the metric system?",
+            "options": [
+              "Recognizing imperial units has no practical use at all",
+              "Imperial units are never used or seen anywhere in Canada",
+              "Imperial units still appear in some everyday contexts and older measurements",
+              "Imperial units and metric units are always exactly identical"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Desert Plant Adaptations — Cacti and Succulents",
+        "summary": "Grade 4 Science strand: desert plants such as cacti and succulents have adaptations like thick, water-storing tissue and small or spiny leaves that help them survive in hot, dry environments with little rainfall.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one adaptation common to many desert plants like cacti?",
+            "options": [
+              "Large, thin leaves that lose water quickly",
+              "A need for extremely cold temperatures",
+              "Roots that only grow in constantly flooded soil",
+              "Thick, water-storing tissue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a cactus have spines instead of large leaves?",
+            "options": [
+              "Spines increase water loss significantly",
+              "Spines reduce water loss and can help protect the plant",
+              "Spines are only used for producing flowers",
+              "Spines have no function for the plant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a succulent?",
+            "options": [
+              "A type of tree found only in rainforests",
+              "A plant that cannot survive any sunlight",
+              "A plant that stores water in its thick leaves or stems",
+              "A plant that only grows underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do desert plants need special adaptations to survive?",
+            "options": [
+              "Desert environments are hot and dry with little rainfall",
+              "Desert plants face no environmental challenges",
+              "Deserts are always cold with abundant water",
+              "Deserts receive constant heavy rainfall"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is studying desert plant adaptations valuable to scientists?",
+            "options": [
+              "It helps explain how living things survive in extreme environments",
+              "Desert plants have no adaptations worth studying",
+              "Adaptations only occur in animals, never in plants",
+              "Studying plants has no scientific value"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the Speaker of the House of Commons",
+        "summary": "Grade 4 Social Studies strand: the Speaker of the House of Commons is a Member of Parliament chosen to preside over debates, maintain order, and ensure that parliamentary rules are followed during sittings.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Speaker of the House of Commons?",
+            "options": [
+              "A Member of Parliament chosen to preside over debates",
+              "A newspaper reporter covering Parliament",
+              "The leader of a foreign country",
+              "A judge on the Supreme Court"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one key responsibility of the Speaker?",
+            "options": [
+              "Maintaining order during debates in the House of Commons",
+              "Managing a citys public library",
+              "Setting municipal parking bylaws",
+              "Running a national park"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is the Speaker of the House of Commons chosen?",
+            "options": [
+              "Chosen by a single vote in one town",
+              "Selected randomly from the public",
+              "Elected by fellow Members of Parliament",
+              "Appointed by a foreign government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for the Speaker to remain impartial during debates?",
+            "options": [
+              "To ensure fairness for all Members of Parliament regardless of party",
+              "Fairness is never required in Parliament",
+              "Impartiality has no role in running debates",
+              "The Speaker should always favour one political party"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the role of the Speaker important to how Parliament functions?",
+            "options": [
+              "Parliament could function identically with no Speaker at all",
+              "It helps ensure debates are conducted in an orderly, fair manner",
+              "The Speaker has no effect on how Parliament runs",
+              "The Speakers role is purely ceremonial with no real duties"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "label": "Day 187 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Vocabulary, and New Writing Forms",
+        "summary": "Grade 4 Language strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit double negatives, malapropisms, writing a podcast script, building suspense in a story, and em dashes and ellipses.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a double negative?",
+            "options": [
+              "Using two negative words in the same clause",
+              "Using two positive words in the same clause",
+              "A sentence with no verb",
+              "A question with two parts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "The mistaken use of a word in place of a similar-sounding word",
+              "A word that rhymes with another word",
+              "A word that has two opposite meanings",
+              "A word borrowed from another language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a podcast script written for?",
+            "options": [
+              "To be used only as a math worksheet",
+              "To be read silently by one person",
+              "To be spoken aloud for listeners",
+              "To replace all forms of written communication"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for an author to build suspense?",
+            "options": [
+              "Ending the story before any events occur",
+              "Removing all conflict from the story",
+              "Revealing the ending at the very start of the story",
+              "Creating tension and curiosity about what will happen next"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can an em dash be used for in a sentence?",
+            "options": [
+              "Ending every sentence in a paragraph",
+              "Replacing all commas in a piece of writing",
+              "Starting the first word of every sentence",
+              "Setting off extra information or creating a dramatic pause"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Multiplication, Angles, and Probability",
+        "summary": "Grade 4 Math strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit multiplying a 4-digit number by a 1-digit number, complementary and supplementary angles, complementary events, currency exchange rates, and dividing a 3-digit number by a 2-digit divisor.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a good first step when multiplying a 4-digit number by a 1-digit number?",
+            "options": [
+              "Multiply the ones digit first, then regroup as needed",
+              "Multiply the thousands digit first",
+              "Divide the 4-digit number by the 1-digit number",
+              "Add the two numbers together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do complementary angles add up to?",
+            "options": [
+              "90 degrees",
+              "180 degrees",
+              "360 degrees",
+              "45 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are complementary events?",
+            "options": [
+              "Two outcomes that can never happen",
+              "Two outcomes with the exact same probability",
+              "Two outcomes that always happen together",
+              "Two outcomes where exactly one of them must happen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a currency exchange rate show?",
+            "options": [
+              "The temperature in a country",
+              "The distance between two countries",
+              "The total population of a country",
+              "How much one countrys money is worth compared to another countrys money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a helpful strategy when starting to divide a 3-digit number by a 2-digit divisor?",
+            "options": [
+              "Estimate how many times the divisor fits into the leading digits",
+              "Immediately guess the final answer with no estimation",
+              "Multiply the two numbers together",
+              "Add the divisor to the 3-digit number"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: The Human Body, Seasons, and Natural Forces",
+        "summary": "Grade 4 Science strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit the excretory system, Earths revolution and the seasons, grassland and prairie ecosystems, tornadoes, and gemstones.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of the excretory system?",
+            "options": [
+              "Breaking down food for energy",
+              "Sending messages to the brain",
+              "Removing waste products and excess water from the body",
+              "Pumping blood through the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is Earths revolution?",
+            "options": [
+              "Earths daily spin on its axis",
+              "Earths yearlong orbit around the sun",
+              "The moons orbit around Earth",
+              "The suns orbit around Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What plant life dominates a grassland or prairie ecosystem?",
+            "options": [
+              "Cactus and desert shrubs only",
+              "Grasses, rather than trees",
+              "Dense rainforest trees",
+              "Coral and seaweed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a tornado?",
+            "options": [
+              "A rapidly rotating column of air extending from a thunderstorm to the ground",
+              "A type of ocean wave",
+              "A slow-moving cloud with no wind",
+              "A calm, sunny weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a gemstone?",
+            "options": [
+              "A type of soft plant tissue",
+              "A mineral valued for qualities such as its hardness, colour, and clarity",
+              "A tool used only for farming",
+              "A liquid found in oceans"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Ancient Civilizations, Geography, and Government",
+        "summary": "Grade 4 Social Studies strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit the Kingdom of Axum, Canadas Prairie provinces, the Bank of Canada, Elections Canada, and Canadas Coat of Arms.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Where was the ancient Kingdom of Axum located?",
+            "options": [
+              "In what is now France",
+              "In what is now Japan",
+              "In what is now Ethiopia and Eritrea",
+              "In what is now Mexico"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which three provinces are commonly known as the Prairie provinces?",
+            "options": [
+              "New Brunswick, Newfoundland, and Labrador",
+              "Ontario, Quebec, and Nova Scotia",
+              "British Columbia, Yukon, and Nunavut",
+              "Alberta, Saskatchewan, and Manitoba"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the Bank of Canada?",
+            "options": [
+              "A private company that sells cars",
+              "Canadas central bank",
+              "A local bank branch in one city",
+              "A museum about Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is Elections Canada?",
+            "options": [
+              "A television network that reports election results",
+              "The independent federal agency responsible for organizing national elections",
+              "A group that only counts votes in one city",
+              "A private company that sells voting machines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Coat of Arms of Canada?",
+            "options": [
+              "A style of Canadian clothing",
+              "An official symbol representing Canada, featuring heraldic images",
+              "A type of Canadian currency",
+              "A national holiday"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
