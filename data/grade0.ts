@@ -10089,6 +10089,412 @@ const curriculum: DayContent[] = [
      {prompt:"What is the main job of a photographer?", answers:["capturing special moments with a camera"]}
    ]},
 ]},
+{day:181, label:"Day 181 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -est Words", summary:"Kindergarten Language strand: the -est word family shares the same ending sound, as in best, nest, rest, and test.",
+   resourceLabel:"YouTube: Word Families: -est Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-est%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -est family?", options:["Sun","Top","Nest","Bed"], answer:2},
+     {q:"Which word rhymes with best?", options:["Sit","Sun","Sock","Nest"], answer:3},
+     {q:"Which word does NOT belong to the -est family?", options:["Nest","Best","Sun","Rest"], answer:2},
+     {q:"Complete the rhyme: A little bird built a ___ in the tree.", options:["not","nap","net","nest"], answer:3},
+     {q:"Words in the same word family share the same ___.", options:["Ending sound","Meaning","Colour","First letter"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with nest.", answers:["best","test"]},
+     {prompt:"What ending sound do best and rest share?", answers:["est","the est sound"]},
+     {prompt:"Is west part of the -est family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 14", summary:"Kindergarten Math strand: students explore the different pairs of numbers that add together to make 14, such as 7 and 7, or 9 and 5.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 14", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%2014%20kindergarten%20educational",
+   quiz:[
+     {q:"Which pair of numbers makes 14?", options:["5 and 10","6 and 9","4 and 8","7 and 7"], answer:3},
+     {q:"If one part of 14 is 8, what is the other part?", options:["5","7","4","6"], answer:3},
+     {q:"Which pair does NOT make 14?", options:["9 and 5","10 and 4","8 and 6","7 and 8"], answer:3},
+     {q:"14 is one more than which number?", options:["13","15","16","12"], answer:0},
+     {q:"Finding different ways to make the same number is called ___.", options:["Number bonds","Skip counting","Estimating","Sorting"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name two numbers that add together to make 14.", answers:["7 and 7","9 and 5"]},
+     {prompt:"If one part of 14 is 8, what is the other part?", answers:["6","six"]},
+     {prompt:"Is 14 an even or odd number?", answers:["even","even number"]}
+   ]},
+  {subject:"Science", title:"Raccoons: Clever Nighttime Visitors", summary:"Kindergarten Science strand: a raccoon is a nocturnal mammal with a striped tail and a black mask of fur around its eyes that uses its clever paws to open containers and find food.",
+   resourceLabel:"YouTube: Raccoons: Clever Nighttime Visitors", resourceUrl:"https://www.youtube.com/results?search_query=Raccoons%3A%20Clever%20Nighttime%20Visitors%20kindergarten%20educational",
+   quiz:[
+     {q:"What covers a raccoons eyes like a mask?", options:["Green scales","Black fur","Orange fur","White feathers"], answer:1},
+     {q:"When is a raccoon usually most active?", options:["At noon","At night","In winter only","Underwater"], answer:1},
+     {q:"What does a raccoon use its clever paws for?", options:["Opening containers and finding food","Swimming great distances","Digging tunnels only","Flying"], answer:0},
+     {q:"A raccoon is what type of animal?", options:["A bird","An insect","A reptile","A mammal"], answer:3},
+     {q:"An animal that is mostly active at night is called ___.", options:["Nocturnal","Hibernating","Diurnal","Migrating"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What covers a raccoons eyes like a mask?", answers:["black fur","a black mask of fur"]},
+     {prompt:"When is a raccoon usually active?", answers:["at night","nighttime"]},
+     {prompt:"What does a raccoon use its paws for?", answers:["to open containers and find food","finding food"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Zookeepers: Caring for Animals at the Zoo", summary:"Kindergarten Social Studies strand: zookeepers feed, clean up after, and care for the health of animals living at the zoo, helping visitors learn about animals from around the world.",
+   resourceLabel:"YouTube: Our Zookeepers: Caring for Animals at the Zoo", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Zookeepers%3A%20Caring%20for%20Animals%20at%20the%20Zoo%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a zookeeper?", options:["Cutting hair","Feeding and caring for zoo animals","Fixing pipes","Flying planes"], answer:1},
+     {q:"Why do zookeepers check on the health of animals?", options:["To make animals louder","Health is not important","To keep the animals healthy","To sell the animals"], answer:2},
+     {q:"What can people learn by visiting a zoo?", options:["Nothing at all","About animals from around the world","Only about the weather","Only about plants"], answer:1},
+     {q:"Zookeepers help make sure zoo animals have ___.", options:["Only noise","No food at all","Food, water, and care","Only toys"], answer:2},
+     {q:"Which of these is a task a zookeeper might do?", options:["Building roads","Cleaning animal habitats","Selling groceries","Delivering mail"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do zookeepers do for zoo animals?", answers:["feed and care for them","clean up after them"]},
+     {prompt:"Why do zookeepers check on animal health?", answers:["to keep animals healthy","so animals stay healthy"]},
+     {prompt:"What can visitors learn at a zoo?", answers:["about animals from around the world","about different animals"]}
+   ]},
+]},
+{day:182, label:"Day 182 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ump Words", summary:"Kindergarten Language strand: the -ump word family shares the same ending sound, as in jump, bump, lump, and pump.",
+   resourceLabel:"YouTube: Word Families: -ump Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ump%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ump family?", options:["Jump","Bed","Sun","Top"], answer:0},
+     {q:"Which word rhymes with bump?", options:["Sun","Sit","Jump","Sock"], answer:2},
+     {q:"Which word does NOT belong to the -ump family?", options:["Jump","Sun","Pump","Bump"], answer:1},
+     {q:"Complete the rhyme: I like to run and ___ over the puddle.", options:["jet","jump","jog","jam"], answer:1},
+     {q:"Words in the same word family share the same ___.", options:["Ending sound","Meaning","First letter","Colour"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with jump.", answers:["bump","pump"]},
+     {prompt:"What ending sound do bump and lump share?", answers:["ump","the ump sound"]},
+     {prompt:"Is pump part of the -ump family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Subtraction: Two-Digit Numbers Without Regrouping", summary:"Kindergarten Math strand: students subtract two two-digit numbers by subtracting the ones and the tens separately, without needing to regroup.",
+   resourceLabel:"YouTube: Subtraction: Two-Digit Numbers Without Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%3A%20Two-Digit%20Numbers%20Without%20Regrouping%20kindergarten%20educational",
+   quiz:[
+     {q:"What is 38 minus 15?", options:["22","23","21","24"], answer:1},
+     {q:"What is 59 minus 27?", options:["32","33","31","30"], answer:0},
+     {q:"When subtracting two two-digit numbers, which digits do we usually subtract first?", options:["The tens digits","Only the first number","The ones digits","Neither digit"], answer:2},
+     {q:"What is 47 minus 24?", options:["21","23","22","24"], answer:1},
+     {q:"What is 68 minus 35?", options:["34","33","32","31"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 38 minus 15?", answers:["23","twenty three"]},
+     {prompt:"When subtracting 46 minus 22, what do you subtract first?", answers:["the ones","ones digits"]},
+     {prompt:"What is 59 minus 27?", answers:["32","thirty two"]}
+   ]},
+  {subject:"Science", title:"Skunks: Animals with a Smelly Defence", summary:"Kindergarten Science strand: a skunk is a small black-and-white mammal that sprays a strong-smelling liquid to defend itself when it feels scared or threatened.",
+   resourceLabel:"YouTube: Skunks: Animals with a Smelly Defence", resourceUrl:"https://www.youtube.com/results?search_query=Skunks%3A%20Animals%20with%20a%20Smelly%20Defence%20kindergarten%20educational",
+   quiz:[
+     {q:"What colours is a skunks fur?", options:["Black and white","Brown and orange","Green and yellow","All white"], answer:0},
+     {q:"How does a skunk defend itself?", options:["By hiding underwater","By flying away","By biting only","By spraying a strong-smelling liquid"], answer:3},
+     {q:"When does a skunk usually spray its smelly liquid?", options:["When it feels scared or threatened","Only while sleeping","Never","Every morning"], answer:0},
+     {q:"A skunk is what type of animal?", options:["A reptile","A fish","A mammal","An insect"], answer:2},
+     {q:"A skunks smelly spray is an example of an animal ___.", options:["Defence","Migration","Life cycle","Habitat"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What colours is a skunks fur?", answers:["black and white","black-and-white"]},
+     {prompt:"What does a skunk spray to defend itself?", answers:["a strong-smelling liquid","smelly spray"]},
+     {prompt:"When does a skunk spray its smelly liquid?", answers:["when it feels scared or threatened","when threatened"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Mechanics: Fixing Cars and Trucks", summary:"Kindergarten Social Studies strand: mechanics repair and maintain cars and trucks so that vehicles run safely and community members can travel where they need to go.",
+   resourceLabel:"YouTube: Our Mechanics: Fixing Cars and Trucks", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Mechanics%3A%20Fixing%20Cars%20and%20Trucks%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a mechanic?", options:["Flying planes","Fixing and maintaining cars and trucks","Teaching school","Cutting hair"], answer:1},
+     {q:"Why is it important for a mechanic to fix vehicles properly?", options:["To make vehicles disappear","So vehicles run safely","To make vehicles louder","Safety does not matter"], answer:1},
+     {q:"Which tool might a mechanic use?", options:["A microphone","A wrench","A paintbrush","A stethoscope"], answer:1},
+     {q:"Mechanics help our community by keeping vehicles ___.", options:["Running safely","Dirty","Loud","Broken"], answer:0},
+     {q:"Which of these might a mechanic repair?", options:["A torn shirt","A cars engine","A leaking pipe","A broken tooth"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do mechanics fix?", answers:["cars and trucks","vehicles"]},
+     {prompt:"Why is it important for vehicles to be fixed properly?", answers:["so they run safely","to keep people safe"]},
+     {prompt:"Name one tool a mechanic might use.", answers:["a wrench","a jack"]}
+   ]},
+]},
+{day:183, label:"Day 183 — Wed", subjects:[
+  {subject:"Language", title:"Vowel Teams: ue and ew Words", summary:"Kindergarten Language strand: the letters ue and ew together can make a long u sound, as in blue and few.",
+   resourceLabel:"YouTube: Vowel Teams: ue and ew Words", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ue%20and%20ew%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ue vowel team?", options:["Bed","Bat","Ball","Blue"], answer:3},
+     {q:"What sound do the letters ew make in the word new?", options:["A long e sound","A short a sound","A silent sound","A long u sound"], answer:3},
+     {q:"Which of these words has the ew vowel team?", options:["Fit","Few","Fat","Fun"], answer:1},
+     {q:"Complete the rhyme: The sky above us is coloured ___.", options:["blue","black","big","brown"], answer:0},
+     {q:"When two letters team up to make one sound, it is called a ___.", options:["Prefix","Consonant blend","Suffix","Vowel team"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters ue make in the word blue?", answers:["a long u sound","long u"]},
+     {prompt:"Give another word with the ew vowel team.", answers:["few","new"]},
+     {prompt:"Is glue a word with the ue vowel team?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Numbers to 200: Counting Beyond 150", summary:"Kindergarten Math strand: students continue counting past 150, saying number names in order all the way up to 200.",
+   resourceLabel:"YouTube: Numbers to 200: Counting Beyond 150", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20200%3A%20Counting%20Beyond%20150%20kindergarten%20educational",
+   quiz:[
+     {q:"What number comes right after 159?", options:["158","161","160","170"], answer:2},
+     {q:"Which number comes between 175 and 177?", options:["176","178","174","179"], answer:0},
+     {q:"What number comes right before 200?", options:["201","199","202","198"], answer:1},
+     {q:"Counting past 150 all the way to 200 means we say numbers in ___.", options:["Random order","Order","Reverse only","Groups of five only"], answer:1},
+     {q:"Which of these numbers is greater than 180?", options:["165","192","99","148"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 150?", answers:["151","one hundred fifty one"]},
+     {prompt:"Count from 168 to 172.", answers:["168,169,170,171,172","168 169 170 171 172"]},
+     {prompt:"What number comes right before 200?", answers:["199","one hundred ninety nine"]}
+   ]},
+  {subject:"Science", title:"Whales: Enormous Mammals of the Ocean", summary:"Kindergarten Science strand: a whale is a huge ocean mammal that breathes air through a blowhole and can be one of the largest animals ever to live on Earth.",
+   resourceLabel:"YouTube: Whales: Enormous Mammals of the Ocean", resourceUrl:"https://www.youtube.com/results?search_query=Whales%3A%20Enormous%20Mammals%20of%20the%20Ocean%20kindergarten%20educational",
+   quiz:[
+     {q:"How does a whale breathe?", options:["Through a blowhole","Through its skin","Through gills","It does not breathe"], answer:0},
+     {q:"Is a whale a fish or a mammal?", options:["A reptile","A mammal","A fish","An insect"], answer:1},
+     {q:"Some whales can be among the ___ animals ever to live on Earth.", options:["Loudest buzzing","Largest","Smallest","Fastest flying"], answer:1},
+     {q:"Where do whales live?", options:["In the ocean","In deserts","In caves","In forests"], answer:0},
+     {q:"Whales are known for making loud sounds to ___ with each other.", options:["Build","Draw","Cook","Communicate"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How does a whale breathe?", answers:["through a blowhole","it breathes air"]},
+     {prompt:"Is a whale a fish or a mammal?", answers:["a mammal","mammal"]},
+     {prompt:"What makes some whales record-setting animals?", answers:["they can be the largest animals on Earth","their huge size"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Park Rangers: Guiding Visitors and Caring for Trails", summary:"Kindergarten Social Studies strand: park rangers welcome visitors, share information about nature, and take care of trails and green spaces so that parks stay safe and enjoyable for everyone.",
+   resourceLabel:"YouTube: Our Park Rangers: Guiding Visitors and Caring for Trails", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Park%20Rangers%3A%20Guiding%20Visitors%20and%20Caring%20for%20Trails%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a park ranger?", options:["Flying planes","Fixing pipes","Cutting hair","Guiding visitors and caring for trails"], answer:3},
+     {q:"What might a park ranger share with visitors?", options:["Bus schedules","Information about nature and safety","Math homework","Recipes for dinner"], answer:1},
+     {q:"What do park rangers help take care of?", options:["Trails and green spaces","Shopping malls","Factories","Hospitals"], answer:0},
+     {q:"Why is it important for parks to be well cared for?", options:["So they stay safe and enjoyable for everyone","So plants stop growing","So no one can visit","Parks do not need care"], answer:0},
+     {q:"Which of these might a park ranger do?", options:["Repair a car","Lead a nature walk","Deliver mail","Sell groceries"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do park rangers share with visitors?", answers:["information about nature","nature facts"]},
+     {prompt:"What do park rangers take care of?", answers:["trails and green spaces","trails"]},
+     {prompt:"Why is it important for parks to stay safe?", answers:["so everyone can enjoy them","for visitors safety"]}
+   ]},
+]},
+{day:184, label:"Day 184 — Thu", subjects:[
+  {subject:"Language", title:"R-Controlled Vowels: wor Words", summary:"Kindergarten Language strand: when the letters or follow the letter w, they often make an er sound, as in work, word, and world.",
+   resourceLabel:"YouTube: R-Controlled Vowels: wor Words", resourceUrl:"https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20wor%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the wor pattern making an er sound?", options:["Wet","Wag","Win","Work"], answer:3},
+     {q:"Which of these words has the r-controlled wor pattern?", options:["Wet","Win","Wag","World"], answer:3},
+     {q:"Complete the sentence: A small creature that lives in soil is called a ___.", options:["win","wag","worm","wig"], answer:2},
+     {q:"Which word rhymes with word?", options:["Bud","Bed","Bird","Bad"], answer:2},
+     {q:"R-controlled vowels change how a vowel ___.", options:["Looks on the page","Sounds","Is spelled only","Is coloured"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters or make in the word work?", answers:["the er sound","ur sound"]},
+     {prompt:"Give another word that has the wor pattern.", answers:["word","world"]},
+     {prompt:"Does worm start with the wor pattern?", answers:["yes","yes it does"]}
+   ]},
+  {subject:"Math", title:"Shapes: Introducing the Octagon", summary:"Kindergarten Math strand: an octagon is a shape with eight straight sides and eight corners, like the shape of a stop sign.",
+   resourceLabel:"YouTube: Shapes: Introducing the Octagon", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%3A%20Introducing%20the%20Octagon%20kindergarten%20educational",
+   quiz:[
+     {q:"How many sides does an octagon have?", options:["Seven","Six","Five","Eight"], answer:3},
+     {q:"How many corners does an octagon have?", options:["Seven","Six","Eight","Five"], answer:2},
+     {q:"Which real object is shaped like an octagon?", options:["A stop sign","A ball","A door","A wheel"], answer:0},
+     {q:"An octagon has more sides than a ___.", options:["Nonagon","Decagon","Hexagon","None of these"], answer:2},
+     {q:"A shape with eight straight sides is called a ___.", options:["Pentagon","Trapezoid","Hexagon","Octagon"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many sides does an octagon have?", answers:["8","eight"]},
+     {prompt:"How many corners does an octagon have?", answers:["8","eight"]},
+     {prompt:"Name a real object shaped like an octagon.", answers:["a stop sign","stop sign"]}
+   ]},
+  {subject:"Science", title:"Moose: Giants of the Canadian Forest", summary:"Kindergarten Science strand: a moose is a huge Canadian forest animal with long legs, a large nose, and wide antlers that only male moose grow.",
+   resourceLabel:"YouTube: Moose: Giants of the Canadian Forest", resourceUrl:"https://www.youtube.com/results?search_query=Moose%3A%20Giants%20of%20the%20Canadian%20Forest%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a moose usually live?", options:["In the desert","In the ocean","In the Canadian forest","Underground"], answer:2},
+     {q:"Which moose grow wide antlers?", options:["Male moose","Baby moose only","No moose grow antlers","Female moose"], answer:0},
+     {q:"What is a noticeable feature of a moose face?", options:["A tiny mouth","A large nose","A short beak","No nose at all"], answer:1},
+     {q:"A moose has what kind of legs?", options:["Long legs","No legs","Wings instead of legs","Very short legs"], answer:0},
+     {q:"The moose is an animal often associated with ___.", options:["Sandy deserts","Tropical rainforests","Canadian forests","Ocean reefs"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Where does a moose usually live?", answers:["in the Canadian forest","in forests"]},
+     {prompt:"What do male moose grow that female moose do not?", answers:["antlers","wide antlers"]},
+     {prompt:"What is unusual about a moose nose?", answers:["it is large","a large nose"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Engineers: Designing and Building for Our Community", summary:"Kindergarten Social Studies strand: engineers plan and design things our community needs, such as bridges, roads, and buildings, making sure they are safe and built to last.",
+   resourceLabel:"YouTube: Our Engineers: Designing and Building for Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Engineers%3A%20Designing%20and%20Building%20for%20Our%20Community%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of an engineer?", options:["Cutting hair","Flying planes","Designing and building things our community needs","Teaching school"], answer:2},
+     {q:"Why do engineers make sure their designs are safe?", options:["Safety does not matter","To make buildings fall down","To waste materials","So structures do not fail and people stay safe"], answer:3},
+     {q:"Which of these might an engineer help design?", options:["A song","A haircut","A grocery list","A bridge"], answer:3},
+     {q:"Engineers help make sure buildings and roads are built to ___.", options:["Last and be safe","Change colour","Fall apart quickly","Disappear"], answer:0},
+     {q:"Which of these is an example of something an engineer might plan?", options:["A haircut","A new road","A bedtime story","A birthday cake"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do engineers design?", answers:["bridges, roads, and buildings","things our community needs"]},
+     {prompt:"Why do engineers make sure their designs are safe?", answers:["so structures do not fail","for community safety"]},
+     {prompt:"Name one thing an engineer might help build.", answers:["a bridge","a road"]}
+   ]},
+]},
+{day:185, label:"Day 185 — Fri", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -en to Change Meaning", summary:"Kindergarten Language strand: adding the suffix -en to the end of a word can turn it into a describing word, such as changing wood into wooden, meaning made of wood.",
+   resourceLabel:"YouTube: Suffixes: Adding -en to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-en%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word wooden mean?", options:["Made of wood","Made of metal","A colour","A type of food"], answer:0},
+     {q:"What does the suffix -en usually add to a word?", options:["The meaning of being made of something","An action","A place","A number"], answer:0},
+     {q:"Which word means made of gold?", options:["Ungold","Golden","Goldly","Golder"], answer:1},
+     {q:"Adding -en to the word wool could make the word ___.", options:["Woolly only","Unwool","Wooler","Woolen, meaning made of wool"], answer:3},
+     {q:"A suffix that changes a naming word into a describing word is often added to the ___ of a word.", options:["Middle","End","Beginning","Nowhere"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does wooden mean?", answers:["made of wood","made from wood"]},
+     {prompt:"What does the suffix -en usually do to a word?", answers:["turns it into a describing word","shows what something is made of"]},
+     {prompt:"Give an example of a word with the suffix -en.", answers:["wooden","golden"]}
+   ]},
+  {subject:"Math", title:"Money: Counting Loonies and Toonies", summary:"Kindergarten Math strand: a loonie is a Canadian one-dollar coin and a toonie is a Canadian two-dollar coin, and students count groups of loonies and toonies to find a total.",
+   resourceLabel:"YouTube: Money: Counting Loonies and Toonies", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20Loonies%20and%20Toonies%20kindergarten%20educational",
+   quiz:[
+     {q:"How much is one loonie worth?", options:["5 dollars","50 cents","1 dollar","2 dollars"], answer:2},
+     {q:"How much is one toonie worth?", options:["5 dollars","10 dollars","1 dollar","2 dollars"], answer:3},
+     {q:"How much are three loonies worth together?", options:["2 dollars","4 dollars","1 dollar","3 dollars"], answer:3},
+     {q:"How much are two toonies worth together?", options:["4 dollars","5 dollars","2 dollars","3 dollars"], answer:0},
+     {q:"Which Canadian coin is worth more, a loonie or a toonie?", options:["A loonie","They are equal","Neither has value","A toonie"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How much is one loonie worth?", answers:["1 dollar","one dollar"]},
+     {prompt:"How much is one toonie worth?", answers:["2 dollars","two dollars"]},
+     {prompt:"How much are two loonies worth together?", answers:["2 dollars","two dollars"]}
+   ]},
+  {subject:"Science", title:"Eagles: Powerful Birds of Prey", summary:"Kindergarten Science strand: an eagle is a powerful bird with sharp eyesight, strong talons, and a hooked beak that it uses to hunt other animals for food.",
+   resourceLabel:"YouTube: Eagles: Powerful Birds of Prey", resourceUrl:"https://www.youtube.com/results?search_query=Eagles%3A%20Powerful%20Birds%20of%20Prey%20kindergarten%20educational",
+   quiz:[
+     {q:"What does an eagle use its sharp talons for?", options:["Building nests only","Swimming","Catching and holding prey","Digging tunnels"], answer:2},
+     {q:"What kind of eyesight does an eagle have?", options:["No eyesight at all","Very poor eyesight","Very sharp eyesight","Blurry eyesight"], answer:2},
+     {q:"What shape is an eagles beak?", options:["Round like a ball","Straight and thin","Hooked","Flat"], answer:2},
+     {q:"An eagle is what type of animal?", options:["An insect","A mammal","A bird","A reptile"], answer:2},
+     {q:"A bird that hunts other animals for food is called a bird of ___.", options:["Paradise","Migration","Prey","Habitat"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does an eagle use its talons for?", answers:["to hunt","to catch food"]},
+     {prompt:"What kind of eyesight does an eagle have?", answers:["sharp eyesight","very sharp eyesight"]},
+     {prompt:"What shape is an eagles beak?", answers:["hooked","a hooked shape"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Coaches: Teaching Us to Play and Work Together", summary:"Kindergarten Social Studies strand: coaches teach skills, rules, and teamwork for sports and activities, helping children learn to work together and try their best.",
+   resourceLabel:"YouTube: Our Coaches: Teaching Us to Play and Work Together", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Coaches%3A%20Teaching%20Us%20to%20Play%20and%20Work%20Together%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a coach?", options:["Cutting hair","Fixing pipes","Flying planes","Teaching skills, rules, and teamwork"], answer:3},
+     {q:"Why do coaches teach teamwork?", options:["Teamwork is not important","To slow the game down","To help players work together and succeed","To make players argue"], answer:2},
+     {q:"Which of these might a coach help a child learn?", options:["A math equation","A recipe","A song lyric","A new sports skill"], answer:3},
+     {q:"Coaches help players learn to try their ___.", options:["Least","Worst","Best","Slowest"], answer:2},
+     {q:"Which of these is something a coach might do?", options:["Fix a car","Sell groceries","Deliver mail","Lead a team practice"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do coaches teach?", answers:["skills, rules, and teamwork","how to play a sport"]},
+     {prompt:"Why is teamwork important in sports?", answers:["it helps everyone work together","so the team can succeed together"]},
+     {prompt:"Name one thing a coach might help you learn.", answers:["a new skill","the rules of a game"]}
+   ]},
+]},
+{day:186, label:"Day 186 — Mon", subjects:[
+  {subject:"Language", title:"Prefixes: Adding Mis- to Change Meaning", summary:"Kindergarten Language strand: adding the prefix mis- to the start of a word can mean wrongly or badly, such as changing spell into misspell, meaning to spell wrongly.",
+   resourceLabel:"YouTube: Prefixes: Adding Mis- to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Mis-%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word misspell mean?", options:["To spell a word wrongly","To spell a word correctly","To write neatly","To read quickly"], answer:0},
+     {q:"What does the prefix mis- usually add to a word?", options:["The meaning of wrongly or badly","The meaning of again","A number","A colour"], answer:0},
+     {q:"Which word means to place something in the wrong spot?", options:["Placement","Misplace","Placer","Replace"], answer:1},
+     {q:"Adding mis- to the word understand makes the word ___.", options:["Misunderstand, meaning to understand wrongly","Understandable","Reunderstand","Understanding only"], answer:0},
+     {q:"A prefix is added to the ___ of a word.", options:["Nowhere","End","Middle","Beginning"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does misspell mean?", answers:["to spell wrongly","to spell incorrectly"]},
+     {prompt:"What does the prefix mis- usually mean?", answers:["wrongly","badly"]},
+     {prompt:"Give an example of a word with the prefix mis-.", answers:["misspell","misplace"]}
+   ]},
+  {subject:"Math", title:"Time: Understanding AM and PM", summary:"Kindergarten Math strand: students learn that AM refers to the morning hours before noon, and PM refers to the afternoon and evening hours after noon.",
+   resourceLabel:"YouTube: Time: Understanding AM and PM", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Understanding%20AM%20and%20PM%20kindergarten%20educational",
+   quiz:[
+     {q:"What does AM refer to?", options:["The morning hours before noon","Midnight only","The afternoon hours","The evening hours"], answer:0},
+     {q:"What does PM refer to?", options:["The afternoon and evening hours after noon","Only noon","Only midnight","The morning hours"], answer:0},
+     {q:"Eating breakfast usually happens during ___.", options:["PM","AM","Neither","Both at once"], answer:1},
+     {q:"Going to bed at night usually happens during ___.", options:["Both at once","Neither","PM","AM"], answer:2},
+     {q:"AM and PM help us know whether it is ___.", options:["A weekday or weekend","Sunny or rainy","Morning or afternoon and evening","Hot or cold"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Does AM mean morning or afternoon?", answers:["morning","the morning hours"]},
+     {prompt:"Does PM mean afternoon and evening or morning?", answers:["afternoon and evening","the afternoon and evening hours"]},
+     {prompt:"Is eating breakfast usually an AM or PM activity?", answers:["AM","morning"]}
+   ]},
+  {subject:"Science", title:"Earthworms: Helpers Beneath the Soil", summary:"Kindergarten Science strand: an earthworm is a small, legless creature that lives in soil, eating and burrowing through dirt in ways that help plants grow.",
+   resourceLabel:"YouTube: Earthworms: Helpers Beneath the Soil", resourceUrl:"https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20Beneath%20the%20Soil%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does an earthworm usually live?", options:["In the ocean","In trees","In soil","In the sky"], answer:2},
+     {q:"How many legs does an earthworm have?", options:["Two","Zero","Four","Six"], answer:1},
+     {q:"How does an earthworm help plants grow?", options:["By blocking sunlight","By drying out the soil","By eating the plants leaves","By burrowing through and mixing the soil"], answer:3},
+     {q:"An earthworm moves by ___.", options:["Rolling like a ball","Flying","Hopping on legs","Wiggling and stretching its body"], answer:3},
+     {q:"Earthworms are considered helpful because they improve the ___.", options:["Soil","Weather","Ocean","Sky"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where does an earthworm usually live?", answers:["in soil","underground"]},
+     {prompt:"How many legs does an earthworm have?", answers:["none","zero"]},
+     {prompt:"How does an earthworm help plants grow?", answers:["by burrowing through and mixing the soil","by helping the soil"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Train Conductors: Keeping Passengers Safe on the Rails", summary:"Kindergarten Social Studies strand: train conductors check tickets, announce stops, and watch over passengers to help trains run safely and on schedule.",
+   resourceLabel:"YouTube: Our Train Conductors: Keeping Passengers Safe on the Rails", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Train%20Conductors%3A%20Keeping%20Passengers%20Safe%20on%20the%20Rails%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a train conductor?", options:["Flying planes","Fixing pipes","Cutting hair","Keeping passengers safe and trains on schedule"], answer:3},
+     {q:"What might a train conductor check as passengers board?", options:["Homework","Tickets","Groceries","Recipes"], answer:1},
+     {q:"Why does a train conductor announce upcoming stops?", options:["To make the trip longer","To confuse passengers","To play music","So passengers know when to get off"], answer:3},
+     {q:"Train conductors help make sure trains run ___.", options:["Safely and on schedule","Only at night","Randomly","Backwards"], answer:0},
+     {q:"Which of these is a task a train conductor might do?", options:["Delivering mail","Repairing a car","Watching over passengers","Selling groceries"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does a train conductor check?", answers:["tickets","passenger tickets"]},
+     {prompt:"What does a train conductor announce?", answers:["stops","the stops"]},
+     {prompt:"Why is it important for trains to run on schedule?", answers:["so passengers arrive on time","to keep things organized"]}
+   ]},
+]},
+{day:187, label:"Day 187 — Tue", subjects:[
+  {subject:"Language", title:"Language Review: Our Final Words, Sounds, and Stories", summary:"Kindergarten Language strand review, and the final Language lesson of the kindergarten curriculum: students revisit the -est and -ump word families, vowel teams ue and ew, r-controlled wor words, the suffix -en, and the prefix mis-.",
+   resourceLabel:"YouTube: Language Review: Our Final Words, Sounds, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Our%20Final%20Words%2C%20Sounds%2C%20and%20Stories%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -est family?", options:["Bed","Top","Nest","Sun"], answer:2},
+     {q:"Which word has the ue vowel team?", options:["Blue","Bat","Ball","Bed"], answer:0},
+     {q:"Which word has the wor pattern making an er sound?", options:["Work","Win","Wag","Wet"], answer:0},
+     {q:"What does the word wooden mean?", options:["A type of food","Made of metal","Made of wood","A colour"], answer:2},
+     {q:"What does the word misspell mean?", options:["To spell a word correctly","To spell a word wrongly","To read quickly","To write neatly"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word from the -est or -ump family.", answers:["nest","jump"]},
+     {prompt:"What does the prefix mis- usually mean?", answers:["wrongly"]},
+     {prompt:"What does the suffix -en usually do to a word?", answers:["turns it into a describing word"]}
+   ]},
+  {subject:"Math", title:"Math Review: Our Final Numbers, Shapes, and Time", summary:"Kindergarten Math strand review, and the final Math lesson of the kindergarten curriculum: students revisit number bonds to 14, subtracting two-digit numbers, counting to 200, the octagon, counting loonies and toonies, and understanding AM and PM.",
+   resourceLabel:"YouTube: Math Review: Our Final Numbers, Shapes, and Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Our%20Final%20Numbers%2C%20Shapes%2C%20and%20Time%20kindergarten%20educational",
+   quiz:[
+     {q:"Which pair of numbers makes 14?", options:["6 and 9","7 and 7","4 and 8","5 and 10"], answer:1},
+     {q:"What is 38 minus 15?", options:["21","22","24","23"], answer:3},
+     {q:"What number comes right before 200?", options:["202","201","199","198"], answer:2},
+     {q:"How many sides does an octagon have?", options:["Seven","Five","Six","Eight"], answer:3},
+     {q:"What does AM refer to?", options:["The afternoon hours","Midnight only","The morning hours before noon","The evening hours"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name two numbers that add together to make 14.", answers:["7 and 7"]},
+     {prompt:"How many sides does an octagon have?", answers:["8"]},
+     {prompt:"How much is one toonie worth?", answers:["2 dollars"]}
+   ]},
+  {subject:"Science", title:"Science Review: Our Final Animals and Discoveries", summary:"Kindergarten Science strand review, and the final Science lesson of the kindergarten curriculum: students revisit raccoons, skunks, whales, moose, eagles, and earthworms.",
+   resourceLabel:"YouTube: Science Review: Our Final Animals and Discoveries", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Final%20Animals%20and%20Discoveries%20kindergarten%20educational",
+   quiz:[
+     {q:"What covers a raccoons eyes like a mask?", options:["Orange fur","Green scales","White feathers","Black fur"], answer:3},
+     {q:"How does a skunk defend itself?", options:["By spraying a strong-smelling liquid","By biting only","By hiding underwater","By flying away"], answer:0},
+     {q:"Is a whale a fish or a mammal?", options:["A fish","An insect","A mammal","A reptile"], answer:2},
+     {q:"What shape is an eagles beak?", options:["Straight and thin","Round like a ball","Hooked","Flat"], answer:2},
+     {q:"How many legs does an earthworm have?", options:["Four","Zero","Six","Two"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What covers a raccoons eyes like a mask?", answers:["black fur"]},
+     {prompt:"How does a whale breathe?", answers:["through a blowhole"]},
+     {prompt:"Where does an earthworm usually live?", answers:["in soil"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Our Final Helpers and Community Learning", summary:"Kindergarten Social Studies strand review, and the final Social Studies lesson of the kindergarten curriculum, marking the completion of the full kindergarten program: students revisit zookeepers, mechanics, park rangers, engineers, coaches, and train conductors.",
+   resourceLabel:"YouTube: Social Studies Review: Our Final Helpers and Community Learning", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Our%20Final%20Helpers%20and%20Community%20Learning%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a zookeeper?", options:["Cutting hair","Fixing pipes","Flying planes","Feeding and caring for zoo animals"], answer:3},
+     {q:"What is the main job of a mechanic?", options:["Teaching school","Flying planes","Fixing and maintaining cars and trucks","Cutting hair"], answer:2},
+     {q:"What is the main job of a park ranger?", options:["Fixing pipes","Flying planes","Guiding visitors and caring for trails","Cutting hair"], answer:2},
+     {q:"What is the main job of an engineer?", options:["Cutting hair","Flying planes","Teaching school","Designing and building things our community needs"], answer:3},
+     {q:"What is the main job of a train conductor?", options:["Fixing pipes","Keeping passengers safe and trains on schedule","Cutting hair","Flying planes"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of a zookeeper?", answers:["feeding and caring for zoo animals"]},
+     {prompt:"What is the main job of an engineer?", answers:["designing and building things our community needs"]},
+     {prompt:"What is the main job of a train conductor?", answers:["keeping passengers safe and trains on schedule"]}
+   ]},
+]},
 ];
 
 export default curriculum;
