@@ -43858,5 +43858,1699 @@
         ]
       }
     ]
+  },
+  {
+    "day": 181,
+    "label": "Day 181 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Flashback and Nonlinear Timelines",
+        "summary": "Grade 10 English strand: a flashback interrupts the chronological order of a narrative to show an earlier event, and writers use flashbacks and other nonlinear timelines to reveal backstory, build suspense, or highlight a connection between past and present without following strict chronological order.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a flashback do within a narrative?",
+            "options": [
+              "Predicts an event that has not yet happened",
+              "Removes all characters from the story",
+              "Interrupts the chronological order to show an earlier event",
+              "Repeats the current scene word for word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one reason a writer might use a flashback?",
+            "options": [
+              "To make the timeline impossible to follow",
+              "To end the story before it begins",
+              "To remove the need for a plot",
+              "To reveal backstory or build suspense"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What term describes a narrative structure that does not follow strict chronological order?",
+            "options": [
+              "A completely linear timeline",
+              "A single unbroken timeline with no gaps",
+              "A nonlinear timeline",
+              "A timeline with only future events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a flashback highlight about the relationship between past and present events?",
+            "options": [
+              "That the two time periods are entirely unrelated",
+              "That the present has no bearing on the story",
+              "That the past can never influence a character",
+              "A meaningful connection between them"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a nonlinear timeline challenge a reader more than a strictly chronological one?",
+            "options": [
+              "The reader must piece together the order of events rather than following them in sequence",
+              "Nonlinear timelines cannot include any flashback",
+              "Nonlinear timelines always confuse readers with no purpose",
+              "A nonlinear timeline removes every character from the plot"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Goldbachs Conjecture",
+        "summary": "Grade 10 Math strand: Goldbachs Conjecture proposes that every even integer greater than two can be written as the sum of two prime numbers, a statement that has been verified for an enormous range of numbers through computation yet still has no formal mathematical proof.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does Goldbachs Conjecture propose?",
+            "options": [
+              "That no even number can ever be divided evenly",
+              "That every odd integer is automatically prime",
+              "That prime numbers do not exist beyond one hundred",
+              "That every even integer greater than two can be written as the sum of two prime numbers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What has happened to Goldbachs Conjecture despite extensive testing?",
+            "options": [
+              "It has been completely disproven",
+              "It has never been tested for any number",
+              "It has been formally proven for all numbers",
+              "It has been verified for an enormous range of numbers but never formally proven"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of primes could demonstrate Goldbachs Conjecture for the number 10?",
+            "options": [
+              "4 and 6",
+              "10 and 0",
+              "1 and 9",
+              "5 and 5, or 3 and 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Goldbachs Conjecture still considered a conjecture rather than a theorem?",
+            "options": [
+              "No general mathematical proof covering all even numbers has yet been found",
+              "It applies only to negative numbers",
+              "It was proven true in the eighteenth century",
+              "It has already been proven false"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of number does Goldbachs Conjecture say every even integer greater than two can be expressed as the sum of?",
+            "options": [
+              "Two prime numbers",
+              "Two even numbers only",
+              "Two negative numbers",
+              "Two irrational numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Terminal Velocity and Air Resistance",
+        "summary": "Grade 10 Science strand: terminal velocity is the constant maximum speed a falling object reaches once the upward force of air resistance grows large enough to balance the downward force of gravity, after which the object stops accelerating and falls at a steady rate.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is terminal velocity?",
+            "options": [
+              "The speed of an object with no air resistance acting on it",
+              "The constant maximum speed a falling object reaches when air resistance balances gravity",
+              "The speed at which an object accelerates forever without limit",
+              "The speed of an object the instant it is released"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to an objects acceleration once it reaches terminal velocity?",
+            "options": [
+              "The acceleration increases without limit",
+              "The acceleration becomes zero and the object falls at a constant speed",
+              "The object instantly stops moving entirely",
+              "The object begins to move upward"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two forces balance each other at terminal velocity?",
+            "options": [
+              "Gravity and air resistance",
+              "Electric force and gravity",
+              "Buoyancy and tension",
+              "Friction and magnetism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the surface area of a falling object affect its terminal velocity?",
+            "options": [
+              "Terminal velocity depends only on colour, not surface area",
+              "A larger surface area always increases terminal velocity",
+              "Surface area has no effect on air resistance whatsoever",
+              "A larger surface area generally increases air resistance and lowers terminal velocity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a skydiver reach a slower terminal velocity when their parachute opens?",
+            "options": [
+              "The parachute greatly increases air resistance acting against gravity",
+              "The parachute increases the skydivers mass",
+              "The parachute removes gravity entirely",
+              "The parachute eliminates all air resistance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Trudeaumania and the 1968 Federal Election",
+        "summary": "Grade 10 History strand: Trudeaumania describes the wave of enthusiasm surrounding Pierre Trudeau during the 1968 federal election, which the Liberals won decisively behind his charisma, media appeal, and vision of a Just Society, ushering in a new era of Canadian federal politics.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What does the term Trudeaumania describe?",
+            "options": [
+              "A federal law passed in 1968",
+              "The wave of public enthusiasm surrounding Pierre Trudeau during the 1968 election",
+              "A treaty signed between Canada and France",
+              "A new Canadian currency introduced in 1968"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which party won the 1968 federal election?",
+            "options": [
+              "The Co-operative Commonwealth Federation",
+              "The Progressive Conservatives, led by John Diefenbaker",
+              "The Liberal Party, led by Pierre Trudeau",
+              "The Social Credit Party"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What personal qualities were often credited with fueling Trudeaumania?",
+            "options": [
+              "A total avoidance of public appearances",
+              "Charisma and strong media appeal",
+              "An exclusively written campaign with no public events",
+              "A complete lack of any political vision"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What vision did Trudeau associate with his political platform around this period?",
+            "options": [
+              "The Meech Lake Accord",
+              "The National Policy",
+              "The Just Society",
+              "The White Paper"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What broader shift did the 1968 election help usher in for Canadian federal politics?",
+            "options": [
+              "A return to nineteenth-century political parties",
+              "A new era shaped by Trudeaus leadership and political style",
+              "The abolition of federal elections",
+              "The permanent end of the Liberal Party"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "label": "Day 182 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Letter to the Editor",
+        "summary": "Grade 10 English strand: a letter to the editor is a piece of persuasive writing submitted to a newspaper or publication in response to a current issue or a previously published article, using a clear argument, supporting evidence, and a respectful but urgent tone to influence public opinion.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a letter to the editor?",
+            "options": [
+              "A piece of persuasive writing submitted to a newspaper or publication in response to a current issue",
+              "A recipe published in a cooking magazine",
+              "A private letter never intended for publication",
+              "A weather report with no argument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tone does an effective letter to the editor typically use?",
+            "options": [
+              "A tone that avoids addressing the issue",
+              "A tone with no clear opinion at all",
+              "A respectful but urgent tone",
+              "An entirely comedic tone with no argument"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a letter to the editor respond to?",
+            "options": [
+              "A private conversation with no public relevance",
+              "A current issue or a previously published article",
+              "A recipe with no argument",
+              "A math equation with no connection to current events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What helps make a letter to the editor persuasive?",
+            "options": [
+              "Ignoring the topic entirely",
+              "A clear argument supported by evidence",
+              "Random unrelated facts with no connection to the issue",
+              "A complete absence of any opinion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader write a letter to the editor rather than simply discussing an issue privately?",
+            "options": [
+              "To influence public opinion by reaching a wider audience through publication",
+              "To avoid taking any position on the issue",
+              "Because letters to the editor are never read by anyone",
+              "Because private discussion always reaches more people"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Linear Approximation and Differentials",
+        "summary": "Grade 10 Math strand: linear approximation uses the tangent line at a known point on a function to estimate the value of the function at a nearby point, with the differential representing the small change in the linear approximation that corresponds to a small change in the input.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does linear approximation use to estimate a functions value near a known point?",
+            "options": [
+              "The area under the entire curve",
+              "The tangent line at that known point",
+              "A completely unrelated function",
+              "A random guess with no mathematical basis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the differential represent in linear approximation?",
+            "options": [
+              "The small change in the linear approximation corresponding to a small change in input",
+              "The maximum value a function can ever reach",
+              "The total area under the curve",
+              "The exact value of the function at every point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is linear approximation generally most accurate close to the known point?",
+            "options": [
+              "Tangent lines are always identical to the curve everywhere",
+              "Linear approximation ignores the shape of the curve entirely",
+              "The tangent line closely matches the curve only near the point of tangency",
+              "Linear approximation is equally accurate at any distance from the point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What information is needed to construct a linear approximation of a function at a point?",
+            "options": [
+              "Only the y-intercept of the graph",
+              "The function value and its derivative at that point",
+              "The area under the curve across its entire domain",
+              "The second derivative at every point on the curve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what type of real-world situation might linear approximation be useful?",
+            "options": [
+              "Measuring a quantity with no relationship to calculus",
+              "Estimating a small change in output resulting from a small change in input",
+              "Finding the colour of a graphed function",
+              "Calculating the exact value of a function infinitely far from a known point"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Food Preservation and the Chemistry of Spoilage",
+        "summary": "Grade 10 Science strand: food spoilage occurs when microorganisms and chemical reactions such as oxidation break down the compounds in food, and preservation methods including refrigeration, drying, canning, and the addition of salt or acid work by slowing microbial growth or altering the chemical conditions food needs to spoil.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What commonly causes food spoilage?",
+            "options": [
+              "Microorganisms and chemical reactions such as oxidation",
+              "A complete absence of any chemical activity",
+              "Food becoming instantly sterile with no further change",
+              "The total removal of all bacteria with no other cause"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does refrigeration help preserve food?",
+            "options": [
+              "It has no effect on microorganisms at all",
+              "It instantly destroys all chemical reactions in food",
+              "It increases the rate of microbial growth",
+              "It slows the growth rate of microorganisms that cause spoilage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can adding salt help preserve food?",
+            "options": [
+              "It draws water out of microbial cells, slowing their growth",
+              "It has no chemical effect on food",
+              "It removes all nutrients from the food",
+              "It always speeds up spoilage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role can acid play in food preservation, such as in pickling?",
+            "options": [
+              "It has no effect on the growth of microorganisms",
+              "It removes the need for any other preservation method",
+              "It creates conditions that many spoilage microorganisms cannot easily survive in",
+              "It always accelerates spoilage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does drying food help prevent spoilage?",
+            "options": [
+              "Removing moisture limits the water microorganisms need to grow",
+              "Drying has no effect on microbial growth",
+              "Microorganisms grow faster in dry conditions than in moist ones",
+              "Drying always increases the moisture content of food"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Just Society: Trudeaus Political Vision",
+        "summary": "Grade 10 History strand: the Just Society was the guiding political vision Pierre Trudeau promoted throughout his early years as prime minister, emphasizing individual rights, bilingualism, and greater social and economic equality as central goals for federal policy in Canada.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Just Society?",
+            "options": [
+              "A new Canadian province",
+              "The guiding political vision Pierre Trudeau promoted as prime minister",
+              "A federal department created in 1968",
+              "A treaty signed between Canada and Britain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which values did the Just Society emphasize?",
+            "options": [
+              "A return to nineteenth-century policies",
+              "Individual rights, bilingualism, and greater social and economic equality",
+              "The abolition of all federal programs",
+              "Complete isolation from international affairs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is most closely associated with promoting the idea of the Just Society?",
+            "options": [
+              "Louis St. Laurent",
+              "Pierre Trudeau",
+              "Lester Pearson",
+              "John Diefenbaker"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During which period did the Just Society serve as a guiding political vision?",
+            "options": [
+              "Trudeaus early years as prime minister, beginning in the late 1960s",
+              "The 1867-1900 period of Canadian settlement",
+              "The Second World War",
+              "The 1867 Confederation debates"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Just Society relate to federal policy goals of the period?",
+            "options": [
+              "It focused exclusively on foreign trade agreements",
+              "It set out central goals for federal policy such as expanding rights and equality",
+              "It had no connection to any federal policy",
+              "It called for the complete elimination of federal government"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "label": "Day 183 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Split Infinitives and Usage Debates",
+        "summary": "Grade 10 English strand: a split infinitive occurs when a word, usually an adverb, is placed between the word to and the verb that follows it, as in to boldly go, a construction once widely considered incorrect but now generally accepted in modern usage when it improves clarity or emphasis.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a split infinitive?",
+            "options": [
+              "A verb with two different subjects",
+              "A sentence that begins with a question word",
+              "A sentence with no verb at all",
+              "A construction where a word is placed between to and the verb that follows it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is an example of a split infinitive?",
+            "options": [
+              "Going to boldly",
+              "To go boldly forward",
+              "Boldly to go now",
+              "To boldly go"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How was the split infinitive traditionally viewed by many grammar guides?",
+            "options": [
+              "As a construction found only in poetry",
+              "As an incorrect or awkward construction to be avoided",
+              "As a rule with no historical basis whatsoever",
+              "As the only correct way to form an infinitive"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the split infinitive generally viewed in modern usage?",
+            "options": [
+              "As generally acceptable, especially when it improves clarity or emphasis",
+              "As always grammatically incorrect with no exception",
+              "As acceptable only in legal documents",
+              "As a construction that no longer exists in English"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose to split an infinitive deliberately?",
+            "options": [
+              "Because English grammar requires every infinitive to be split",
+              "To make a sentence impossible to understand",
+              "Because split infinitives always weaken a sentence",
+              "To place emphasis on the adverb or to avoid an awkward sentence structure"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Loci and Locus Problems",
+        "summary": "Grade 10 Math strand: a locus is the set of all points that satisfy a given geometric condition, such as a fixed distance from a point or an equal distance from two points, and locus problems ask students to describe or sketch the shape formed by all such points.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a locus in geometry?",
+            "options": [
+              "A single fixed point with no other points nearby",
+              "A line with an undefined length",
+              "The set of all points that satisfy a given geometric condition",
+              "A shape with no defined boundary at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What shape is formed by the locus of points a fixed distance from a single given point?",
+            "options": [
+              "A circle",
+              "A square",
+              "A straight line",
+              "A single point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What shape is formed by the locus of points equidistant from two fixed points?",
+            "options": [
+              "A single point exactly halfway between them with no other points included",
+              "The perpendicular bisector of the segment joining the two points",
+              "A triangle connecting the two points",
+              "A circle centred on one of the two points"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a locus problem typically ask a student to do?",
+            "options": [
+              "Solve an equation with no geometric meaning",
+              "Describe or sketch the shape formed by all points satisfying a given condition",
+              "Calculate the exact area of an unrelated triangle",
+              "List every integer between two numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which real-world application might rely on locus reasoning?",
+            "options": [
+              "Calculating the derivative of a polynomial function",
+              "Determining the safe zone equidistant from two transmission towers",
+              "Converting a decimal to a percentage",
+              "Balancing a chemical equation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Tides and the Physics of Ocean Tides",
+        "summary": "Grade 10 Science strand: ocean tides are the periodic rise and fall of sea level caused primarily by the gravitational pull of the moon and, to a lesser extent, the sun, producing predictable high and low tide cycles that vary with the relative positions of the Earth, moon, and sun.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What primarily causes ocean tides?",
+            "options": [
+              "The gravitational pull of the moon and, to a lesser extent, the sun",
+              "Volcanic activity beneath the ocean floor",
+              "Wind blowing across the surface of the ocean",
+              "Changes in ocean water temperature alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What pattern do ocean tides generally follow?",
+            "options": [
+              "A pattern that never repeats",
+              "A predictable periodic rise and fall of sea level",
+              "A completely random and unpredictable pattern",
+              "A single rise with no corresponding fall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What produces especially strong tides known as spring tides?",
+            "options": [
+              "The complete absence of any gravitational pull",
+              "An alignment of the sun, Earth, and moon that combines their gravitational effects",
+              "The arrival of the spring season each year",
+              "A sudden drop in ocean temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes the weaker tides that occur when the sun and moon are at right angles relative to Earth?",
+            "options": [
+              "Neap tides",
+              "Spring tides",
+              "Storm tides",
+              "King tides"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the moons gravitational pull more influential on tides than the suns, despite the suns much greater mass?",
+            "options": [
+              "The moon is more massive than the sun",
+              "Distance has no effect on gravitational influence",
+              "The sun has no gravitational pull at all",
+              "The moon is far closer to Earth, which increases its tidal influence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canadas Adoption of the Metric System in the 1970s",
+        "summary": "Grade 10 History strand: in the 1970s the federal government began converting Canada from imperial to metric measurement in weather reporting, road signs, and consumer goods, a gradual process intended to align Canadian trade and daily life with the metric standard used by most of the world.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What change did the federal government begin implementing in the 1970s?",
+            "options": [
+              "Ending federal elections",
+              "Abolishing all provincial governments",
+              "Replacing the Canadian dollar with a new currency",
+              "Converting Canada from imperial to metric measurement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which areas of daily life was the metric conversion first introduced?",
+            "options": [
+              "Only in federal court proceedings",
+              "Weather reporting, road signs, and consumer goods",
+              "Only in international treaties",
+              "Only in scientific laboratories with no public application"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did the federal government pursue metric conversion?",
+            "options": [
+              "To align Canadian trade and daily life with the metric standard used by most of the world",
+              "To make measurement more difficult for Canadians",
+              "To eliminate the need for any measurement system",
+              "To copy a system used only by one other country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How would the transition to the metric system in Canada best be described?",
+            "options": [
+              "A gradual process introduced over time",
+              "A change reversed within one year",
+              "A process that was never actually implemented",
+              "An instantaneous change completed in a single day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What measurement system did Canada primarily use before the metric conversion?",
+            "options": [
+              "No standardized measurement system at all",
+              "The imperial system",
+              "The metric system",
+              "A system unique to Canada with no international counterpart"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "label": "Day 184 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Documentary Film Techniques",
+        "summary": "Grade 10 English strand: documentary filmmakers use techniques such as archival footage, expert interviews, voice-over narration, and selective editing to present factual subject matter persuasively, meaning viewers must think critically about whose perspective a documentary emphasizes and what it leaves out.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Which technique might a documentary filmmaker use to present factual subject matter?",
+            "options": [
+              "A completely fictional plot with no factual basis",
+              "An animated sequence with no connection to reality",
+              "A script written entirely in verse",
+              "Archival footage, expert interviews, and voice-over narration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a viewer need to think critically when watching a documentary?",
+            "options": [
+              "Documentary filmmakers cannot select which footage to include",
+              "Documentaries never involve any editing choices",
+              "Documentaries always present every possible perspective equally",
+              "Documentaries can emphasize a particular perspective and leave out other information"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the purpose of voice-over narration in many documentaries?",
+            "options": [
+              "To replace every visual image with silence",
+              "To remove all information from the film",
+              "To guide viewers through the subject matter and provide context",
+              "To prevent the audience from understanding the topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can selective editing shape a viewers understanding of a documentary subject?",
+            "options": [
+              "Editing only affects the length of a film, not its meaning",
+              "Selective editing always presents a fully neutral account",
+              "By determining which footage and interviews are included or left out",
+              "Editing has no effect on how a documentary is understood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might expert interviews be included in a documentary?",
+            "options": [
+              "To confuse viewers with unrelated information",
+              "To lend credibility and provide informed perspective on the subject",
+              "To remove any factual basis from the film",
+              "Because documentaries are required to include no spoken interviews"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems Using Matrices and Gaussian Elimination",
+        "summary": "Grade 10 Math strand: a system of linear equations can be represented as a matrix, and Gaussian elimination is a systematic method of using row operations to transform that matrix into a simpler form from which the solution to the system can be read directly.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "How can a system of linear equations be represented for use with Gaussian elimination?",
+            "options": [
+              "As a single word problem with no numerical structure",
+              "As a circle graph",
+              "As a single unrelated number",
+              "As a matrix"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is Gaussian elimination?",
+            "options": [
+              "A method with no connection to systems of equations",
+              "A method for graphing a single point",
+              "A systematic method of using row operations to simplify a matrix and solve a system",
+              "A method for finding the area of a triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of applying row operations during Gaussian elimination?",
+            "options": [
+              "To transform the matrix into a simpler form from which the solution can be read",
+              "To convert the matrix into a single unrelated equation",
+              "To remove all numbers from the matrix",
+              "To make the matrix impossible to solve"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of a row operation used in Gaussian elimination?",
+            "options": [
+              "Deleting every row from the matrix",
+              "Replacing all numbers in the matrix with zero",
+              "Adding a multiple of one row to another row",
+              "Converting the matrix into a word problem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Gaussian elimination useful for systems with more than two variables?",
+            "options": [
+              "It only works for systems with exactly one variable",
+              "It eliminates the need to ever solve for a variable",
+              "It cannot be applied to any system with more than one equation",
+              "It provides an organized, systematic approach that scales to larger systems"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Decomposers and Nutrient Cycling in Ecosystems",
+        "summary": "Grade 10 Science strand: decomposers such as fungi and bacteria break down dead organisms and waste material into simpler substances, releasing nutrients back into the soil and water so they can be reused by other living things, making decomposers essential to nutrient cycling within an ecosystem.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What role do decomposers play in an ecosystem?",
+            "options": [
+              "They produce all of the oxygen in an ecosystem",
+              "They consume only living plants and animals",
+              "They break down dead organisms and waste into simpler substances",
+              "They prevent any nutrients from returning to the soil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organisms are common examples of decomposers?",
+            "options": [
+              "Fungi and bacteria",
+              "Only birds of prey",
+              "Only photosynthetic plants",
+              "Only large mammals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to nutrients once decomposers break down dead material?",
+            "options": [
+              "They are converted directly into oxygen gas",
+              "They are released back into the soil and water for reuse",
+              "They are permanently destroyed and lost from the ecosystem",
+              "They remain locked inside the decomposer forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are decomposers considered essential to nutrient cycling?",
+            "options": [
+              "They allow nutrients from dead organisms to be reused by other living things",
+              "They have no effect on the availability of nutrients",
+              "They only cycle nutrients within their own bodies",
+              "They remove all nutrients from an ecosystem permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen to an ecosystem if decomposers were removed entirely?",
+            "options": [
+              "All nutrients would instantly double in quantity",
+              "Every organism in the ecosystem would immediately become a decomposer",
+              "Dead material would accumulate and nutrients would not be efficiently recycled",
+              "Nothing would change in the ecosystem"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Immigration Act of 1976 and the Points System",
+        "summary": "Grade 10 History strand: the Immigration Act of 1976 established a legal framework that formalized the points system for evaluating prospective immigrants based on factors such as education, skills, and language ability, shaping Canadian immigration policy on the basis of qualifications rather than national origin.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Immigration Act of 1976 establish?",
+            "options": [
+              "A ban on all immigration to Canada",
+              "A new provincial border",
+              "A legal framework that formalized the points system for evaluating prospective immigrants",
+              "A treaty ending immigration between Canada and Britain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What factors did the points system use to evaluate prospective immigrants?",
+            "options": [
+              "Only the applicants country of birth",
+              "Only the applicants religion",
+              "Only the applicants age",
+              "Education, skills, and language ability"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did the points system change the basis for Canadian immigration policy?",
+            "options": [
+              "It ended immigration to Canada entirely",
+              "It based every decision solely on national origin",
+              "It removed all criteria for evaluating immigrants",
+              "It shifted evaluation toward qualifications rather than national origin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year was the Immigration Act that formalized the points system passed?",
+            "options": [
+              "1976",
+              "1947",
+              "1867",
+              "1919"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the points system considered a significant shift in Canadian immigration history?",
+            "options": [
+              "It restricted immigration to a single country of origin",
+              "It moved policy away from discriminatory national origin criteria toward measurable qualifications",
+              "It eliminated any consideration of an applicants skills",
+              "It had no meaningful effect on immigration policy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "label": "Day 185 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The Panel Discussion and Moderation",
+        "summary": "Grade 10 English strand: a panel discussion brings together multiple speakers with different perspectives on a topic under the guidance of a moderator, who introduces the subject, manages turn-taking, keeps the conversation focused, and ensures that each panelist has a fair opportunity to contribute.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a panel discussion?",
+            "options": [
+              "A format that brings together multiple speakers with different perspectives on a topic",
+              "A speech delivered by a single speaker with no audience",
+              "A written report with no discussion element",
+              "A silent presentation with no spoken words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does a moderator play in a panel discussion?",
+            "options": [
+              "Introducing the topic, managing turn-taking, and keeping the conversation focused",
+              "Ending the discussion before it begins",
+              "Preventing any panelist from speaking",
+              "Speaking for the entire discussion with no other participants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a panel discussion include speakers with different perspectives?",
+            "options": [
+              "Because panels are required to have identical opinions",
+              "To give the audience a fuller understanding of multiple viewpoints on a topic",
+              "To ensure every speaker agrees completely with no disagreement",
+              "To remove any discussion of the topic entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean for a moderator to ensure fair turn-taking?",
+            "options": [
+              "Allowing only one panelist to speak for the entire event",
+              "Ending the panel immediately after it starts",
+              "Preventing the audience from hearing any panelist",
+              "Giving each panelist a reasonable opportunity to contribute to the discussion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a moderator need to keep a panel discussion focused?",
+            "options": [
+              "To ensure the panelists never address the topic at all",
+              "To prevent the conversation from straying too far from the intended topic",
+              "Because focus has no value in oral communication",
+              "Because moderators are not responsible for guiding discussion"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: The Traveling Salesman Problem",
+        "summary": "Grade 10 Math strand: the Traveling Salesman Problem asks for the shortest possible route that visits a given set of locations exactly once and returns to the starting point, a deceptively simple question that becomes extremely difficult to solve exactly as the number of locations grows.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Traveling Salesman Problem ask for?",
+            "options": [
+              "A route that avoids visiting any location at all",
+              "The tallest building among a set of locations",
+              "The shortest possible route that visits a set of locations exactly once and returns to the start",
+              "The average distance between two random points"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to the difficulty of solving the Traveling Salesman Problem exactly as the number of locations increases?",
+            "options": [
+              "It has no effect on the difficulty of the problem",
+              "It becomes impossible to define as a problem",
+              "It becomes easier to solve with each additional location",
+              "It becomes extremely difficult to solve exactly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What real-world scenario could the Traveling Salesman Problem help model?",
+            "options": [
+              "Balancing a chemical equation",
+              "Finding the area of a triangle",
+              "Measuring the temperature of a single location",
+              "Planning an efficient delivery route across multiple locations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Traveling Salesman Problem considered deceptively simple?",
+            "options": [
+              "Its description is easy to state, yet finding an exact optimal solution is computationally demanding",
+              "It is unrelated to any concept in graph theory",
+              "It has no real mathematical content at all",
+              "It can always be solved instantly regardless of the number of locations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What field of mathematics is the Traveling Salesman Problem most closely associated with?",
+            "options": [
+              "Trigonometry",
+              "Basic arithmetic",
+              "Plane geometry involving circles only",
+              "Discrete mathematics and graph theory"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Friction and Traction in Everyday Motion",
+        "summary": "Grade 10 Science strand: friction is a force that resists the relative motion between two surfaces in contact, and traction is the specific application of friction that allows tires, shoes, and other surfaces to grip and prevent slipping, with factors such as surface texture and applied force affecting how much friction is generated.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does friction do between two surfaces in contact?",
+            "options": [
+              "Eliminates all contact between the surfaces",
+              "Increases their relative motion without limit",
+              "Resists their relative motion",
+              "Has no effect on their relative motion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is traction?",
+            "options": [
+              "A measurement of temperature between two surfaces",
+              "A force that has no relationship to friction",
+              "The application of friction that allows surfaces to grip and prevent slipping",
+              "A term used only in describing ocean currents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which factor can affect how much friction is generated between two surfaces?",
+            "options": [
+              "The distance from the nearest ocean",
+              "The exact time of day the surfaces touch",
+              "Surface texture and the amount of applied force",
+              "The colour of the two surfaces"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do winter tires often provide better traction on icy roads than standard tires?",
+            "options": [
+              "They are designed to reduce contact with the road surface",
+              "They eliminate all friction between the tire and the road",
+              "Their tread and rubber composition are designed to grip better in cold, slippery conditions",
+              "They have no rubber content at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if there were no friction between a shoe and the ground while walking?",
+            "options": [
+              "Walking would become easier with no resistance at all",
+              "Friction has no relevance to walking",
+              "The foot would slip rather than grip the surface",
+              "The shoe would instantly stop touching the ground"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Patriation of the Constitution in 1982",
+        "summary": "Grade 10 History strand: the patriation of the Constitution in 1982 transferred final legal authority over the Canadian Constitution from the British Parliament to Canada, giving the country full control over its own amending formula and simultaneously introducing the Canadian Charter of Rights and Freedoms.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the patriation of the Constitution in 1982 accomplish?",
+            "options": [
+              "It transferred authority over the Canadian Constitution to the United States",
+              "It ended the existence of the Canadian Constitution entirely",
+              "It gave Britain greater control over Canadian law",
+              "It transferred final legal authority over the Canadian Constitution from Britain to Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What new document was introduced alongside the patriation of the Constitution in 1982?",
+            "options": [
+              "The Canadian Bill of Rights",
+              "The Statute of Westminster",
+              "The Canadian Charter of Rights and Freedoms",
+              "The Official Languages Act"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What had the British Parliament previously held with respect to the Canadian Constitution?",
+            "options": [
+              "No connection to the Canadian Constitution whatsoever",
+              "Authority over Canadian provincial elections only",
+              "Authority limited strictly to Canadian trade policy",
+              "Final legal authority to amend it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What did patriation give Canada full control over?",
+            "options": [
+              "Control over international shipping law",
+              "Control over the government of the United Kingdom",
+              "Its own constitutional amending formula",
+              "Control over the constitutions of other countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the patriation of the Constitution take place?",
+            "options": [
+              "1949",
+              "1931",
+              "1867",
+              "1982"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "label": "Day 186 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Mock-Epic and Satirical Verse",
+        "summary": "Grade 10 English strand: a mock-epic applies the grand style, conventions, and elevated language of classical epic poetry to a trivial or ordinary subject, creating satirical humour through the exaggerated mismatch between form and content.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a mock-epic apply to a trivial or ordinary subject?",
+            "options": [
+              "The grand style and conventions of classical epic poetry",
+              "A completely plain, unadorned style with no formal elements",
+              "A style with no connection to poetry at all",
+              "A strictly factual, journalistic style"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a mock-epic typically create humour?",
+            "options": [
+              "Through the exaggerated mismatch between elevated form and a trivial subject",
+              "By using no exaggeration of any kind",
+              "By avoiding any reference to epic conventions",
+              "By presenting the subject with complete seriousness and no irony"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of language does a mock-epic typically borrow from classical epic poetry?",
+            "options": [
+              "Language limited to legal terminology",
+              "Elevated, grand language",
+              "Language with no rhetorical elements",
+              "Extremely simple, childlike language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the general purpose of satirical verse such as a mock-epic?",
+            "options": [
+              "To criticize or poke fun at a subject through exaggeration and irony",
+              "To provide a completely neutral, unbiased account of a subject",
+              "To remove any critical perspective from the writing",
+              "To eliminate all humour from the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might exaggerated formality make a trivial subject seem humorous in a mock-epic?",
+            "options": [
+              "Mock-epics never use any form of irony",
+              "Formality always makes a subject seem more important with no comic effect",
+              "Trivial subjects cannot be paired with formal language",
+              "The contrast between serious tone and minor subject matter creates comic irony"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Z-Scores and Standardized Values",
+        "summary": "Grade 10 Math strand: a z-score expresses how many standard deviations a particular data value lies above or below the mean of a data set, allowing values from different distributions to be compared on a common standardized scale.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a z-score express?",
+            "options": [
+              "How many standard deviations a data value lies above or below the mean",
+              "The largest value found in a data set",
+              "The exact value of the mean itself",
+              "The total number of data points in a set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one benefit of converting data values to z-scores?",
+            "options": [
+              "Values from different distributions can be compared on a common standardized scale",
+              "Z-scores only apply to a single specific data set with no broader use",
+              "Z-scores eliminate the need for a mean or standard deviation",
+              "Z-scores make it impossible to compare any two data sets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a z-score of zero indicate about a data value?",
+            "options": [
+              "The value is far above the mean",
+              "The value is exactly equal to the mean of the data set",
+              "The value is far below the mean",
+              "The value cannot be calculated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a negative z-score indicate about a data value?",
+            "options": [
+              "The data set contains no negative numbers",
+              "The value is exactly equal to the standard deviation",
+              "The value lies below the mean of the data set",
+              "The value lies above the mean of the data set"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two measures are needed to calculate a z-score for a given data value?",
+            "options": [
+              "The number of data points and nothing else",
+              "Only the median of the data set",
+              "The mean and standard deviation of the data set",
+              "Only the largest and smallest values in the data set"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Rust Prevention and Metal Coatings",
+        "summary": "Grade 10 Science strand: rust forms when iron reacts with oxygen and moisture in an electrochemical process, and preventing rust often involves applying a protective coating such as paint, zinc galvanization, or oil to block the metal surface from contact with the oxygen and water that drive the reaction.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What causes iron to rust?",
+            "options": [
+              "Exposure to extremely cold, dry air with no moisture present",
+              "A reaction between iron and pure nitrogen gas only",
+              "A reaction between iron, oxygen, and moisture",
+              "A reaction that requires no oxygen whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of chemical process is rusting?",
+            "options": [
+              "A purely mechanical process with no chemical change",
+              "An electrochemical process",
+              "A process that occurs only inside a sealed vacuum",
+              "A nuclear reaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one common method used to prevent rust on metal surfaces?",
+            "options": [
+              "Removing all carbon from the metal",
+              "Exposing the metal to additional moisture",
+              "Increasing the metals direct exposure to oxygen and water",
+              "Applying a protective coating such as paint or zinc galvanization"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a protective coating do to help prevent rust?",
+            "options": [
+              "Removes iron from the metal entirely",
+              "Increases the rate at which oxygen reaches the metal surface",
+              "Has no effect on the reaction between iron and oxygen",
+              "Blocks the metal surface from contact with oxygen and water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What metal is commonly used to galvanize iron or steel as a rust-prevention method?",
+            "options": [
+              "Zinc",
+              "Gold",
+              "Helium",
+              "Neon"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Brian Mulroney and the Progressive Conservative Landslide of 1984",
+        "summary": "Grade 10 History strand: the 1984 federal election produced a landslide victory for the Progressive Conservatives under Brian Mulroney, ending an extended period of Liberal dominance in federal politics and setting the stage for major policy shifts including free trade negotiations with the United States.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the outcome of the 1984 federal election?",
+            "options": [
+              "The cancellation of the federal election",
+              "A tie between all major parties",
+              "A narrow Liberal minority government",
+              "A landslide victory for the Progressive Conservatives under Brian Mulroney"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who led the Progressive Conservatives to victory in the 1984 election?",
+            "options": [
+              "John Diefenbaker",
+              "Brian Mulroney",
+              "Pierre Trudeau",
+              "Lester Pearson"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What period of federal politics did the 1984 election result help bring to an end?",
+            "options": [
+              "A period with no political parties in Canada",
+              "An extended period with no federal government of any kind",
+              "A period of Progressive Conservative dominance",
+              "An extended period of Liberal dominance in federal politics"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What major policy shift did the Mulroney government help set in motion after 1984?",
+            "options": [
+              "Free trade negotiations with the United States",
+              "The abolition of the Canadian dollar",
+              "The permanent end of all trade with other countries",
+              "The cancellation of all federal elections"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How large was the Progressive Conservative victory in the 1984 federal election?",
+            "options": [
+              "It was decided by a single vote",
+              "It was the closest election in Canadian history",
+              "It was a landslide, winning by a wide margin",
+              "It resulted in no government being formed"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "label": "Day 187 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: The Final Review -- Reading, Writing, Grammar, and Media Literacy (Days 181-186)",
+        "summary": "Grade 10 English strand review, and the concluding review of the full Grade 10 English course: students revisit flashback and nonlinear timelines, the letter to the editor, split infinitives, documentary film techniques, the panel discussion, and the mock-epic, completing the 187-day Grade 10 English curriculum.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a flashback do within a narrative?",
+            "options": [
+              "Repeats the current scene word for word",
+              "Removes all characters from the story",
+              "Interrupts the chronological order to show an earlier event",
+              "Predicts an event that has not yet happened"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a letter to the editor?",
+            "options": [
+              "A piece of persuasive writing submitted to a newspaper or publication in response to a current issue",
+              "A recipe published in a cooking magazine",
+              "A private letter never intended for publication",
+              "A weather report with no argument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a split infinitive?",
+            "options": [
+              "A construction where a word is placed between to and the verb that follows it",
+              "A sentence that begins with a question word",
+              "A verb with two different subjects",
+              "A sentence with no verb at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which technique might a documentary filmmaker use to present factual subject matter?",
+            "options": [
+              "A script written entirely in verse",
+              "A completely fictional plot with no factual basis",
+              "Archival footage, expert interviews, and voice-over narration",
+              "An animated sequence with no connection to reality"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a panel discussion?",
+            "options": [
+              "A speech delivered by a single speaker with no audience",
+              "A format that brings together multiple speakers with different perspectives on a topic",
+              "A silent presentation with no spoken words",
+              "A written report with no discussion element"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: The Final Review -- Number Theory, Calculus, Geometry, and Statistics (Days 181-186)",
+        "summary": "Grade 10 Math strand review, and the concluding review of the full Grade 10 Math course: students revisit Goldbachs Conjecture, linear approximation, loci, Gaussian elimination, the Traveling Salesman Problem, and z-scores, completing the 187-day Grade 10 Math curriculum.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does Goldbachs Conjecture propose?",
+            "options": [
+              "That every odd integer is automatically prime",
+              "That every even integer greater than two can be written as the sum of two prime numbers",
+              "That prime numbers do not exist beyond one hundred",
+              "That no even number can ever be divided evenly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does linear approximation use to estimate a functions value near a known point?",
+            "options": [
+              "A completely unrelated function",
+              "The area under the entire curve",
+              "A random guess with no mathematical basis",
+              "The tangent line at that known point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a locus in geometry?",
+            "options": [
+              "A shape with no defined boundary at all",
+              "A line with an undefined length",
+              "The set of all points that satisfy a given geometric condition",
+              "A single fixed point with no other points nearby"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can a system of linear equations be represented for use with Gaussian elimination?",
+            "options": [
+              "As a single word problem with no numerical structure",
+              "As a single unrelated number",
+              "As a circle graph",
+              "As a matrix"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Traveling Salesman Problem ask for?",
+            "options": [
+              "The tallest building among a set of locations",
+              "A route that avoids visiting any location at all",
+              "The shortest possible route that visits a set of locations exactly once and returns to the start",
+              "The average distance between two random points"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: The Final Review -- Physics, Chemistry, Earth Science, and Biology (Days 181-186)",
+        "summary": "Grade 10 Science strand review, and the concluding review of the full Grade 10 Science course: students revisit terminal velocity, food spoilage and preservation, ocean tides, decomposers and nutrient cycling, friction and traction, and rust prevention, completing the 187-day Grade 10 Science curriculum.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is terminal velocity?",
+            "options": [
+              "The speed at which an object accelerates forever without limit",
+              "The speed of an object with no air resistance acting on it",
+              "The speed of an object the instant it is released",
+              "The constant maximum speed a falling object reaches when air resistance balances gravity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What commonly causes food spoilage?",
+            "options": [
+              "Microorganisms and chemical reactions such as oxidation",
+              "Food becoming instantly sterile with no further change",
+              "The total removal of all bacteria with no other cause",
+              "A complete absence of any chemical activity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What primarily causes ocean tides?",
+            "options": [
+              "Wind blowing across the surface of the ocean",
+              "Volcanic activity beneath the ocean floor",
+              "The gravitational pull of the moon and, to a lesser extent, the sun",
+              "Changes in ocean water temperature alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role do decomposers play in an ecosystem?",
+            "options": [
+              "They consume only living plants and animals",
+              "They prevent any nutrients from returning to the soil",
+              "They break down dead organisms and waste into simpler substances",
+              "They produce all of the oxygen in an ecosystem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does friction do between two surfaces in contact?",
+            "options": [
+              "Has no effect on their relative motion",
+              "Resists their relative motion",
+              "Eliminates all contact between the surfaces",
+              "Increases their relative motion without limit"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: The Final Review -- Canada in the Trudeau and Mulroney Years (Days 181-186)",
+        "summary": "Grade 10 History strand review, and the concluding review of the full Grade 10 History course: students revisit Trudeaumania and the 1968 election, the Just Society, the metric conversion of the 1970s, the Immigration Act of 1976, the patriation of the Constitution in 1982, and the Mulroney landslide of 1984, completing the 187-day Grade 10 History curriculum.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What does the term Trudeaumania describe?",
+            "options": [
+              "A federal law passed in 1968",
+              "A treaty signed between Canada and France",
+              "A new Canadian currency introduced in 1968",
+              "The wave of public enthusiasm surrounding Pierre Trudeau during the 1968 election"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the Just Society?",
+            "options": [
+              "A federal department created in 1968",
+              "A new Canadian province",
+              "The guiding political vision Pierre Trudeau promoted as prime minister",
+              "A treaty signed between Canada and Britain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What change did the federal government begin implementing in the 1970s?",
+            "options": [
+              "Abolishing all provincial governments",
+              "Ending federal elections",
+              "Converting Canada from imperial to metric measurement",
+              "Replacing the Canadian dollar with a new currency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Immigration Act of 1976 establish?",
+            "options": [
+              "A ban on all immigration to Canada",
+              "A new provincial border",
+              "A treaty ending immigration between Canada and Britain",
+              "A legal framework that formalized the points system for evaluating prospective immigrants"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What did the patriation of the Constitution in 1982 accomplish?",
+            "options": [
+              "It ended the existence of the Canadian Constitution entirely",
+              "It transferred final legal authority over the Canadian Constitution from Britain to Canada",
+              "It transferred authority over the Canadian Constitution to the United States",
+              "It gave Britain greater control over Canadian law"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
