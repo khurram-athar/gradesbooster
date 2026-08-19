@@ -7064,6 +7064,272 @@ const curriculum: DayContent[] = [
      {q:"What does voter turnout measure?", options:["The number of political parties in an election","The percentage of eligible voters who actually cast a ballot","The total population of a country","This concept has no connection to elections"], answer:1}
    ]},
 ]},
+{day:181, label:"Day 181 — Mon", subjects:[
+  {subject:"Language", title:"Poetry: Writing a Limerick", summary:"Grade 5 Language strand: a limerick is a humorous five-line poem with an AABBA rhyme scheme, where lines one, two, and five are longer and rhyme together, and lines three and four are shorter and rhyme together.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"How many lines does a limerick have?", options:["3","7","5","4"], answer:2},
+     {q:"What rhyme scheme does a limerick traditionally follow?", options:["ABAB","ABCB","AAAA","AABBA"], answer:3},
+     {q:"What tone does a limerick usually have?", options:["Extremely serious","Formal and solemn","Humorous or silly","This concept has no connection to poetry"], answer:2},
+     {q:"Which lines in a limerick are typically shorter than the others?", options:["Lines one and two","Lines two and five","All five lines are always the same length","Lines three and four"], answer:3},
+     {q:"Why might a poet choose the limerick form to tell a silly, exaggerated story?", options:["Its bouncy rhythm and rhyme scheme suit a playful, comic tone","A limerick can never include any humour at all","Limericks are always written about serious historical events","This concept has no relevance to poetry"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Triangular Numbers", summary:"Grade 5 Math strand: a triangular number is a number that can be arranged into an equilateral triangle of dots, formed by adding consecutive whole numbers starting from 1, such as 1, 3, 6, 10, and 15.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a triangular number?", options:["A number with exactly three digits","A number that is always divisible by 3","A number that can never be added to another number","A number that can be arranged into an equilateral triangle of dots"], answer:3},
+     {q:"What are the first four triangular numbers?", options:["2, 4, 6, 8","1, 4, 9, 16","1, 2, 3, 4","1, 3, 6, 10"], answer:3},
+     {q:"How is the triangular number 10 formed by adding consecutive whole numbers?", options:["10 is formed only by multiplying 2 and 5","This concept has no relevance to number sense","10 has no connection to consecutive whole numbers","1 plus 2 plus 3 plus 4 equals 10"], answer:3},
+     {q:"What is the next triangular number after 15?", options:["21","20","16","18"], answer:0},
+     {q:"Why might arranging dots into a triangle shape help someone understand how triangular numbers grow?", options:["The visual pattern shows how each new row adds one more dot than the last","Arranging dots never shows any pattern in triangular numbers","This concept has no connection to math","Triangular numbers always decrease as more dots are added"], answer:0}
+   ]},
+  {subject:"Science", title:"Diffusion — How Substances Spread and Mix", summary:"Grade 5 Science strand: diffusion is the movement of particles from an area of higher concentration to an area of lower concentration, such as when a drop of food colouring gradually spreads through a glass of water.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is diffusion?", options:["The bending of light through a lens","The movement of particles from an area of higher concentration to lower concentration","This concept has no connection to science","The freezing of a liquid into a solid"], answer:1},
+     {q:"What happens when a drop of food colouring is placed in a glass of water?", options:["It immediately disappears with no visible change","It gradually spreads through the water by diffusion","This concept has no relevance to diffusion","It always sinks straight to the bottom and stays there"], answer:1},
+     {q:"Why does diffusion usually happen faster in a gas than in a liquid?", options:["Gas particles move more freely and quickly than particles in a liquid","Liquids always diffuse faster than gases","This concept has no connection to science","Gas particles never move at all"], answer:0},
+     {q:"Why might you eventually smell perfume from across a room even if you are far from the source?", options:["Perfume particles can only be smelled right next to the bottle","This concept has no relevance to science","Smells never travel through the air by diffusion","Perfume particles diffuse through the air from an area of higher to lower concentration"], answer:3},
+     {q:"Why does diffusion eventually stop once particles are evenly spread throughout a space?", options:["There is no longer a difference in concentration to drive further movement","This concept has no connection to science","Diffusion never stops once it begins","Particles always continue moving toward a single concentrated point"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Canadian Bill of Rights of 1960", summary:"Grade 5 Social Studies strand: the Canadian Bill of Rights, passed in 1960, was an early federal law protecting basic rights and freedoms, later expanded upon by the Charter of Rights and Freedoms in 1982.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What was the Canadian Bill of Rights?", options:["A law that created the Supreme Court of Canada","An early federal law protecting basic rights and freedoms","A treaty between Canada and another country","This concept has no connection to Canadian history"], answer:1},
+     {q:"In what year was the Canadian Bill of Rights passed?", options:["1982","1867","1960","1945"], answer:2},
+     {q:"What later document expanded upon the protections in the Canadian Bill of Rights?", options:["The Statute of Westminster","The Charter of Rights and Freedoms","This concept has no relevance to Canadian government","The Indian Act"], answer:1},
+     {q:"Why is the Canadian Bill of Rights considered an important step in Canadian history?", options:["It removed all rights that Canadians previously had","It had no effect on rights or freedoms in Canada","It was one of the first federal laws to formally protect basic rights and freedoms","This concept has no connection to social studies"], answer:2},
+     {q:"Why might the Charter of Rights and Freedoms be considered stronger than the earlier Canadian Bill of Rights?", options:["This concept has no relevance to social studies","The Charter is entrenched in the Constitution, giving it greater legal authority","The Canadian Bill of Rights was always more powerful than the Charter","The Charter has no connection to the Canadian Bill of Rights"], answer:1}
+   ]},
+]},
+{day:182, label:"Day 182 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Neologisms — Newly Invented Words", summary:"Grade 5 Language strand: a neologism is a newly coined word or phrase that enters a language, often created to describe new technology, culture, or ideas, such as selfie or blog.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a neologism?", options:["A newly coined word or phrase that enters a language","A word that has completely disappeared from use","A word borrowed directly from an ancient language","This concept has no connection to vocabulary"], answer:0},
+     {q:"Which of these is an example of a neologism?", options:["Water","House","Selfie","Tree"], answer:2},
+     {q:"What often inspires the creation of a neologism?", options:["Only ancient historical events","New technology, culture, or ideas","Neologisms are never inspired by anything new","This concept has no relevance to vocabulary"], answer:1},
+     {q:"Why might a neologism like blog have entered common use?", options:["New words are never created for new inventions","It described a new kind of online activity that needed a name","This concept has no connection to vocabulary","It has existed in the language for thousands of years"], answer:1},
+     {q:"Why does a language often gain new neologisms over time?", options:["Language evolves to describe new inventions, trends, and ideas as they appear","Neologisms always replace every existing word in a language","This concept has no relevance to vocabulary","A language never changes or adds new words"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Prisms by Their Bases", summary:"Grade 5 Math strand: a prism is named according to the shape of its base, such as a triangular prism having triangular bases or a hexagonal prism having hexagonal bases, with rectangular faces connecting the two matching bases.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How is a prism named?", options:["According to its colour","According to the shape of its base","According to its total number of faces only","This concept has no connection to geometry"], answer:1},
+     {q:"What shape are the bases of a triangular prism?", options:["Triangles","Circles","Hexagons","Squares"], answer:0},
+     {q:"What connects the two matching bases of a prism?", options:["Triangular faces only","This concept has no relevance to prisms","Rectangular faces","Curved surfaces"], answer:2},
+     {q:"How many triangular faces does a hexagonal prism have?", options:["6","0, since its side faces are rectangles","2","4"], answer:1},
+     {q:"Why might identifying the shape of a prisms base be the fastest way to classify it?", options:["Every prism has exactly the same base shape","The base shape determines the prisms name and much of its structure","This concept has no relevance to geometry","The base shape has no connection to how a prism is classified"], answer:1}
+   ]},
+  {subject:"Science", title:"Blood Types and the Science of Blood Donation", summary:"Grade 5 Science strand: human blood is grouped into different types, such as A, B, AB, and O, and understanding blood types helps ensure that a blood donation is safely matched to a recipient.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What are the main human blood types?", options:["A, B, AB, and O","Red, blue, green, and yellow","Fast, slow, thick, and thin","This concept has no connection to science"], answer:0},
+     {q:"Why does blood type matter during a blood donation?", options:["Every blood type can always be mixed with any other blood type with no risk","Blood type has no effect on how a donation is used","This concept has no relevance to science","It helps ensure the donated blood is safely matched to the recipient"], answer:3},
+     {q:"What could happen if a person receives a blood transfusion with an incompatible blood type?", options:["Their immune system could react in a dangerous way","This concept has no connection to blood donation","The blood types would immediately become identical","Nothing would happen at all"], answer:0},
+     {q:"Why might hospitals keep a supply of several different blood types on hand?", options:["Hospitals never need more than one blood type","All patients can always safely receive any blood type","Different patients need blood types that match their own for a safe transfusion","This concept has no relevance to science"], answer:2},
+     {q:"Why is blood donation considered an important way people can help their community?", options:["Donated blood can be used to treat patients who need transfusions for surgery, illness, or injury","Donated blood is never actually used by hospitals","This concept has no relevance to science","Blood donation has no connection to helping others"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Responsible Government — How Canada Gained Self-Rule", summary:"Grade 5 Social Studies strand: responsible government means that the elected representatives, rather than an appointed governor, hold the real power to make decisions, a principle Canada gradually achieved during the 1800s.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does responsible government mean?", options:["This concept has no connection to Canadian history","Elected representatives, rather than an appointed governor, hold the real power to make decisions","A government controlled entirely by a foreign monarch","A government with no elected representatives at all"], answer:1},
+     {q:"Roughly when did Canada gradually achieve responsible government?", options:["This concept has no relevance to Canadian history","During the 1800s","During the 1960s","During the 1600s"], answer:1},
+     {q:"Before responsible government, who held much of the real decision-making power in the colonies?", options:["This concept has no connection to social studies","An appointed governor","Ordinary citizens through public votes","The elected assembly alone"], answer:1},
+     {q:"Why might colonists have pushed for responsible government?", options:["They wanted elected representatives, who were accountable to voters, to hold real decision-making power","They had no interest in how their colony was governed","This concept has no relevance to Canadian history","They wanted an appointed governor to have even more power"], answer:0},
+     {q:"Why is responsible government considered an important step toward modern Canadian democracy?", options:["This concept has no relevance to social studies","It shifted real political power to representatives accountable to the people","It had no effect on how Canada is governed today","It removed all elected representatives from government"], answer:1}
+   ]},
+]},
+{day:183, label:"Day 183 — Wed", subjects:[
+  {subject:"Language", title:"Media Literacy: Recognizing Deepfakes and Manipulated Media", summary:"Grade 5 Language strand: a deepfake is a digitally altered video or image made to look real using technology, and recognizing manipulated media helps readers and viewers think critically about what they see online.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a deepfake?", options:["This concept has no connection to media literacy","A handwritten letter from a real person","A traditional printed newspaper article","A digitally altered video or image made to look real using technology"], answer:3},
+     {q:"Why is it important to think critically about media that might be a deepfake?", options:["Every video seen online is guaranteed to be real","Deepfakes are always obviously fake and easy to spot","This concept has no relevance to media literacy","Manipulated media can look convincing but may not show something that actually happened"], answer:3},
+     {q:"What might be one clue that a video could be manipulated?", options:["This concept has no connection to media literacy","Unnatural movements or mismatched audio and video","Manipulated videos never contain any people at all","A video is always considered real if it has sound"], answer:1},
+     {q:"Why might checking a claim against other trusted sources help someone evaluate a suspicious video?", options:["Comparing information across reliable sources can reveal whether a video is accurate","Checking other sources never provides any useful information","A single video is always more reliable than multiple trusted sources","This concept has no relevance to media literacy"], answer:0},
+     {q:"Why is media literacy especially important as technology for creating manipulated media improves?", options:["Manipulated media has become impossible to create with modern technology","Improved technology has no effect on how believable manipulated media appears","This concept has no relevance to media literacy","More realistic manipulated media makes careful, critical thinking increasingly necessary"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing Frequency Polygons", summary:"Grade 5 Math strand: a frequency polygon is a line graph formed by plotting the midpoint of each interval in a set of grouped data and connecting the points, giving a visual picture of how the data is distributed.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a frequency polygon?", options:["A bar graph showing individual data values","A circle graph showing percentages","A line graph formed by plotting the midpoint of each interval in grouped data and connecting the points","This concept has no connection to data management"], answer:2},
+     {q:"What point from each interval is plotted when constructing a frequency polygon?", options:["The midpoint of the interval","The largest value in the interval only","The smallest value in the interval only","This concept has no relevance to frequency polygons"], answer:0},
+     {q:"What do the plotted points on a frequency polygon get connected with?", options:["They are never connected","Straight lines","This concept has no connection to data management","Curved dotted lines only"], answer:1},
+     {q:"Why might a frequency polygon be useful for comparing two different sets of grouped data?", options:["This concept has no relevance to data management","Two frequency polygons can be drawn on the same graph to compare their shapes directly","Frequency polygons can never be compared to each other","Only one frequency polygon can ever exist on a single graph"], answer:1},
+     {q:"Why might a frequency polygon give a clearer picture of a datas overall shape than a table of numbers alone?", options:["A frequency polygon never shows any useful information about data","The visual line shows trends and patterns that can be harder to see in a table","A table of numbers always shows patterns more clearly than any graph","This concept has no connection to math"], answer:1}
+   ]},
+  {subject:"Science", title:"Vaccines and How They Help the Immune System", summary:"Grade 5 Science strand: a vaccine trains the immune system to recognize and fight a specific germ by introducing a safe, weakened, or inactive version of it, helping the body build protection before a real infection occurs.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does a vaccine train the body to do?", options:["Recognize and fight a specific germ","Digest food more efficiently","Grow taller more quickly","This concept has no connection to science"], answer:0},
+     {q:"What does a vaccine typically introduce into the body?", options:["This concept has no relevance to vaccines","A safe, weakened, or inactive version of a germ","A large dose of the full, active illness","A completely unrelated substance with no connection to any germ"], answer:1},
+     {q:"When does a vaccine help build protection compared to a real infection?", options:["This concept has no connection to the immune system","Before a real infection occurs","Only after a person has already become seriously ill","Vaccines never build any protection"], answer:1},
+     {q:"Why might a vaccinated persons immune system respond more quickly to a real infection later on?", options:["The immune system already learned to recognize that germ from the vaccine","Vaccines have no effect on how the immune system responds to germs","A vaccinated persons immune system forgets the germ immediately","This concept has no relevance to science"], answer:0},
+     {q:"Why are vaccines considered an important tool in public health?", options:["This concept has no relevance to science","Vaccines always make diseases spread more quickly","Vaccines have no connection to preventing the spread of disease","They can help prevent the spread of serious diseases within a community"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Role in the Cold War", summary:"Grade 5 Social Studies strand: during the Cold War, a long period of tension between the United States and the Soviet Union after the Second World War, Canada joined alliances such as NATO and contributed to efforts like NORAD to help defend North America.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What was the Cold War?", options:["This concept has no connection to social studies","A short battle fought only in Canada","A war fought entirely with weather and climate technology","A long period of tension between the United States and the Soviet Union after the Second World War"], answer:3},
+     {q:"Which alliance did Canada join partly in response to Cold War tensions?", options:["The World Trade Organization","NATO","This concept has no relevance to the Cold War","The Commonwealth of Nations only"], answer:1},
+     {q:"What was NORAD, which Canada contributed to during this period?", options:["A joint effort with the United States to help defend North American airspace","A Canadian sports league","This concept has no connection to Canadian history","A Canadian trade agreement with Europe"], answer:0},
+     {q:"Why might Canada have joined alliances like NATO during the Cold War?", options:["To cooperate with other countries for collective defence and security","Alliances like NATO had no connection to the Cold War","This concept has no relevance to social studies","Canada had no interest in international defence during this period"], answer:0},
+     {q:"Why is understanding the Cold War useful for learning about twentieth-century Canadian foreign policy?", options:["Canada was never involved in any international alliances during this period","It shows how global tensions shaped Canadas alliances and defence decisions","The Cold War had no effect on Canadian foreign policy","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:184, label:"Day 184 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Anthropomorphism in Stories", summary:"Grade 5 Language strand: anthropomorphism is when an author gives human qualities, such as speech or emotions, to animals or objects in a story, a technique often used in fables and fantasy writing.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is anthropomorphism?", options:["Describing only real historical events","This concept has no connection to reading","Writing a story with no characters at all","Giving human qualities to animals or objects in a story"], answer:3},
+     {q:"Which human qualities might an author give to an animal character through anthropomorphism?", options:["This concept has no relevance to reading","A complete absence of any personality","The ability to photosynthesize","Speech or emotions"], answer:3},
+     {q:"In which type of story is anthropomorphism often used?", options:["This concept has no connection to reading","Strictly factual news reports only","Fables and fantasy writing","Anthropomorphism is never used in any type of story"], answer:2},
+     {q:"Why might an author use anthropomorphism to teach a lesson in a fable?", options:["Fables never include any animal characters","This concept has no relevance to reading","Giving animals human behaviour can make a moral lesson more engaging and relatable","Anthropomorphism never helps convey a lesson in a story"], answer:2},
+     {q:"Why might readers of all ages find anthropomorphic characters, like a talking fox, appealing?", options:["Talking animal characters are always confusing and unappealing to readers","Human-like animal characters can feel familiar while still being imaginative and fun","This concept has no relevance to reading","Anthropomorphism removes all imagination from a story"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Insurance Basics", summary:"Grade 5 Math strand: insurance is a way of managing financial risk, where a person pays a regular amount called a premium so that the insurance company helps cover the cost if an unexpected loss or accident occurs.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is insurance?", options:["This concept has no connection to financial literacy","A free service with no cost involved","A type of tax collected by the government","A way of managing financial risk by paying a regular premium for coverage against unexpected loss"], answer:3},
+     {q:"What is the regular payment for insurance called?", options:["A discount","A deduction","A premium","A dividend"], answer:2},
+     {q:"What might an insurance company help cover if an unexpected accident occurs?", options:["Some or all of the resulting cost","This concept has no relevance to insurance","Only costs related to groceries","None of the cost under any circumstance"], answer:0},
+     {q:"Why might a family choose to pay for home insurance even if they never experience an accident?", options:["Insurance always costs more than any possible loss it could cover","This concept has no relevance to financial literacy","It helps protect them financially from the risk of a costly, unexpected event","Home insurance has no connection to managing financial risk"], answer:2},
+     {q:"Why is understanding insurance considered a useful financial literacy skill?", options:["Insurance has no connection to financial planning","Unexpected costs never need to be planned for in any way","This concept has no relevance to math","It helps people understand how to plan for and manage unexpected financial risks"], answer:3}
+   ]},
+  {subject:"Science", title:"Nuclear Fusion — How the Sun Produces Energy", summary:"Grade 5 Science strand: nuclear fusion occurs when two atomic nuclei combine under extreme heat and pressure to form a heavier nucleus, releasing enormous amounts of energy, which is the process that powers the Sun.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What happens during nuclear fusion?", options:["A single nucleus splits apart into two smaller pieces","Two liquids are physically mixed together","Two atomic nuclei combine under extreme heat and pressure to form a heavier nucleus","This concept has no connection to science"], answer:2},
+     {q:"What does nuclear fusion release as it combines nuclei?", options:["Enormous amounts of energy","Cold air only","This concept has no relevance to nuclear fusion","A small amount of water"], answer:0},
+     {q:"What process powers the Sun?", options:["Reflection of light from nearby stars","Nuclear fusion","Burning of fossil fuels","This concept has no connection to the Sun"], answer:1},
+     {q:"Why is extreme heat and pressure needed for nuclear fusion to occur?", options:["These conditions force atomic nuclei close enough together to combine","This concept has no relevance to science","Nuclear fusion always happens at very low temperatures","Heat and pressure have no effect on whether fusion occurs"], answer:0},
+     {q:"Why might scientists be interested in developing nuclear fusion as a future energy source on Earth?", options:["This concept has no relevance to science","Fusion energy has already completely replaced every other energy source on Earth","It could potentially provide a large amount of energy with very low emissions","Nuclear fusion has no connection to producing energy"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Royal Canadian Mint and How Coins Are Made", summary:"Grade 5 Social Studies strand: the Royal Canadian Mint is the Crown corporation responsible for producing Canadas circulating coins, using metal blanks that are stamped with official designs before being distributed for use.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Royal Canadian Mint responsible for?", options:["Printing Canadas paper currency","This concept has no connection to social studies","Producing Canadas circulating coins","Setting interest rates for Canadian banks"], answer:2},
+     {q:"What type of organization is the Royal Canadian Mint?", options:["A private international bank","A branch of a foreign government","This concept has no relevance to Canadian currency","A Crown corporation"], answer:3},
+     {q:"What are metal blanks stamped with during the coin-making process?", options:["This concept has no connection to the Royal Canadian Mint","Random unrelated patterns","Nothing at all","Official designs"], answer:3},
+     {q:"Why might the design stamped on a Canadian coin be considered important?", options:["It can represent national symbols, history, or important events","Every Canadian coin has always used the exact same single design forever","Coin designs have no meaning or purpose at all","This concept has no relevance to social studies"], answer:0},
+     {q:"Why does Canada rely on a dedicated Crown corporation to produce its coins?", options:["This concept has no relevance to social studies","A dedicated organization can ensure coins are produced consistently, securely, and to an official standard","Coins in Canada are never produced by any official organization","Coin production has no connection to how a countrys currency works"], answer:1}
+   ]},
+]},
+{day:185, label:"Day 185 — Fri", subjects:[
+  {subject:"Language", title:"Grammar: Using Parentheses for Extra Information", summary:"Grade 5 Language strand: parentheses are punctuation marks used to add extra information, an explanation, or a side comment to a sentence without changing its main meaning.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What are parentheses used for in a sentence?", options:["Adding extra information, an explanation, or a side comment","Ending every sentence in a paragraph","This concept has no connection to grammar","Replacing a subject in a sentence"], answer:0},
+     {q:"What happens to the main meaning of a sentence when parentheses are used correctly?", options:["It stays the same, since the parentheses add extra, non-essential information","The sentence loses its subject entirely","This concept has no relevance to grammar","It always changes completely"], answer:0},
+     {q:"Which of these sentences correctly uses parentheses?", options:["My dog Max who is three years old loves to run (.)","My dog Max (who is three years old) loves to run.","My dog Max who is (three) years old loves to run.","My dog (Max who is three years old loves to run."], answer:1},
+     {q:"Why might a writer choose parentheses instead of starting a brand-new sentence for extra information?", options:["Parentheses always make a sentence more confusing than starting a new one","Extra information can never be added to an existing sentence","This concept has no connection to grammar","Parentheses let the writer add a brief detail without interrupting the flow of the main sentence"], answer:3},
+     {q:"Why might a reader be able to skip the text inside parentheses and still understand the main sentence?", options:["This concept has no relevance to grammar","Information in parentheses is usually additional detail rather than essential meaning","Text inside parentheses is always the most important part of a sentence","A sentence can never be understood if any part of it is skipped"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Multiplying by 11 — Mental Math Tricks", summary:"Grade 5 Math strand: multiplying a two-digit number by 11 can often be done mentally by adding the two digits together and placing the sum between them, a shortcut that builds flexible number sense.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What mental math shortcut can help with multiplying a two-digit number by 11?", options:["This concept has no connection to number sense","Always doubling the number twice","Adding the two digits together and placing the sum between them","Subtracting the digits from each other"], answer:2},
+     {q:"Using the shortcut, what is 23 multiplied by 11?", options:["243","223","233","253"], answer:3},
+     {q:"Using the shortcut, what is 42 multiplied by 11?", options:["452","424","442","462"], answer:3},
+     {q:"Why might this shortcut for multiplying by 11 need an extra adjustment when the two digits add up to 10 or more?", options:["The sum would not fit in a single digit, so an extra ten needs to be carried over","Multiplying by 11 never produces a sum greater than 9","The shortcut always works exactly the same way with no exceptions","This concept has no relevance to number sense"], answer:0},
+     {q:"Why can practising mental math shortcuts like this one be useful in everyday life?", options:["Mental math shortcuts never provide any real benefit","This concept has no relevance to math","Calculators are always required for any multiplication problem","It can help with quick calculations without needing a calculator"], answer:3}
+   ]},
+  {subject:"Science", title:"The Process of Fossilization — How Fossils Form", summary:"Grade 5 Science strand: fossilization is the slow process by which the remains or traces of an organism are preserved in rock over thousands or millions of years, usually after being quickly buried by sediment.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is fossilization?", options:["This concept has no connection to science","The instant transformation of a living animal into a rock","The slow process by which the remains or traces of an organism are preserved in rock","A process that only happens to plants, never animals"], answer:2},
+     {q:"What often needs to happen quickly for an organism to begin fossilizing?", options:["It needs to be placed directly in water with no burial at all","It needs to be left completely exposed to the open air","It needs to be buried by sediment","This concept has no relevance to fossilization"], answer:2},
+     {q:"About how long can the fossilization process take?", options:["This concept has no connection to fossilization","A few minutes","Thousands or millions of years","A single day"], answer:2},
+     {q:"Why might scientists study fossils to learn about Earths history?", options:["Fossils are always exactly the same age as the rock surrounding them","Fossils never provide any information about the past","Fossils can reveal information about organisms and environments from long ago","This concept has no relevance to science"], answer:2},
+     {q:"Why are fossils considered rare, even though many organisms have lived on Earth?", options:["Every organism that has ever lived automatically becomes a fossil","This concept has no relevance to science","Very specific conditions, like quick burial, are usually needed for fossilization to occur","Fossilization happens to every living thing within a few hours of death"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Understanding GST, PST, and HST in Canada", summary:"Grade 5 Social Studies strand: Canadians pay different sales taxes depending on their province, including the federal Goods and Services Tax, provincial sales taxes, and the Harmonized Sales Tax, which combines federal and provincial tax into one rate.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does GST stand for?", options:["General Spending Tax","Government Savings Trust","This concept has no connection to social studies","Goods and Services Tax"], answer:3},
+     {q:"What does the Harmonized Sales Tax, or HST, do?", options:["Removes all sales tax entirely","This concept has no relevance to sales tax","Combines the federal and provincial tax into one rate","Applies only to international purchases"], answer:2},
+     {q:"What is a provincial sales tax, sometimes called PST, collected by?", options:["A foreign government only","A private company with no government connection","This concept has no connection to Canadian taxes","A provincial government"], answer:3},
+     {q:"Why might sales tax amounts differ depending on which province a purchase is made in?", options:["Provinces have no role in setting any taxes at all","Sales tax is always exactly the same amount in every province","Provinces can set their own provincial tax rates, which combine differently with federal tax","This concept has no relevance to social studies"], answer:2},
+     {q:"Why is understanding sales tax useful when planning a purchase?", options:["Tax is never added to the price of an item in Canada","This concept has no relevance to social studies","Sales tax never affects the total cost of a purchase","It helps a person estimate the total cost, including tax, before buying something"], answer:3}
+   ]},
+]},
+{day:186, label:"Day 186 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Writing a Radio Play Script", summary:"Grade 5 Language strand: a radio play script is written to be performed using only sound, so writers rely on dialogue, sound effects, and narration to help listeners picture the setting and action without any visuals.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a radio play script written to be performed using?", options:["Only sound","Only silent visuals with no sound","This concept has no connection to writing","A combination of sound and video with no dialogue"], answer:0},
+     {q:"What might a radio play script use to help listeners picture a thunderstorm?", options:["Sound effects, such as thunder and rain","A detailed painted backdrop","This concept has no relevance to writing","Radio plays never include any sound effects"], answer:0},
+     {q:"Why is dialogue especially important in a radio play script?", options:["This concept has no connection to writing","Listeners rely on spoken words, since they cannot see the characters","Listeners can already see the characters, so dialogue is unnecessary","Dialogue is never included in a radio play script"], answer:1},
+     {q:"Why might a narrator be used in a radio play to describe a setting?", options:["A narrator can describe details that listeners would otherwise only get from seeing them","A narrator is never included in a radio play","Settings never need to be described in a radio play","This concept has no relevance to writing"], answer:0},
+     {q:"Why does writing a radio play script require different skills than writing a script for a television show?", options:["Television scripts never include any dialogue at all","Radio scripts and television scripts always rely on identical techniques","This concept has no relevance to writing","A radio script must convey every visual detail through sound and words alone"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Sum of Exterior Angles of a Polygon", summary:"Grade 5 Math strand: the exterior angles of any convex polygon, one at each vertex, always add up to 360 degrees, regardless of how many sides the polygon has.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What do the exterior angles of any convex polygon always add up to?", options:["360 degrees","540 degrees","180 degrees","90 degrees"], answer:0},
+     {q:"Does the sum of exterior angles change depending on the number of sides a polygon has?", options:["No, it always stays at 360 degrees","This concept has no relevance to geometry","Yes, it always decreases with more sides","Yes, it always increases with more sides"], answer:0},
+     {q:"What is the measure of each exterior angle of a regular polygon with 4 equal sides?", options:["180 degrees","90 degrees","45 degrees","360 degrees"], answer:1},
+     {q:"Why might knowing that exterior angles always sum to 360 degrees be useful when finding the measure of one angle in a regular polygon?", options:["Exterior angles are never useful when studying regular polygons","This concept has no relevance to geometry","Dividing 360 by the number of sides gives the measure of each equal exterior angle","This total has no connection to finding individual exterior angles"], answer:2},
+     {q:"Why is the constant sum of exterior angles considered a useful geometric pattern?", options:["The sum of exterior angles is never the same for any two polygons","This concept has no relevance to math","It applies to every convex polygon, no matter how many sides it has","It only applies to a single specific polygon and no others"], answer:2}
+   ]},
+  {subject:"Science", title:"The Physics of Rainbows — How Light Disperses into Colour", summary:"Grade 5 Science strand: a rainbow forms when sunlight enters raindrops and is refracted, reflected, and dispersed into its different wavelengths, spreading white light into the familiar band of colours.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What happens to sunlight as it enters a raindrop to form a rainbow?", options:["It instantly turns into a solid","It is completely absorbed with no light escaping","It is refracted, reflected, and dispersed into its different wavelengths","This concept has no connection to science"], answer:2},
+     {q:"What does dispersing white light into different wavelengths produce?", options:["A single, unchanged colour","A band of separate colours","Complete darkness","This concept has no relevance to rainbows"], answer:1},
+     {q:"Why is a rainbow more likely to appear after rain when the Sun comes out?", options:["This concept has no connection to science","Rainbows only ever appear at night","Rain always blocks every bit of sunlight completely","Raindrops in the air can refract and disperse the sunlight"], answer:3},
+     {q:"Why does a rainbow always appear as a curved band rather than a straight line?", options:["Raindrops never bend light in any particular pattern","Rainbows are always perfectly straight lines","This concept has no relevance to science","Light bends at a specific angle within each raindrop, creating a curved pattern of colour"], answer:3},
+     {q:"Why might understanding refraction, from earlier lessons on lenses, help explain how a rainbow forms?", options:["The same bending of light that happens in a lens also happens as light passes through a raindrop","Refraction has no connection to how a rainbow forms","This concept has no relevance to science","Rainbows form through a process completely unrelated to light bending"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canada as a Founding Member of the United Nations", summary:"Grade 5 Social Studies strand: Canada was one of the original member countries when the United Nations was formed in 1945, and it has continued to support the organizations goals of international peace, cooperation, and human rights.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"When was Canada one of the original member countries of the United Nations?", options:["1960","1982","1867","1945"], answer:3},
+     {q:"What is one goal of the United Nations that Canada has continued to support?", options:["Removing every countrys individual government","International peace, cooperation, and human rights","Ending all international trade between countries","This concept has no connection to social studies"], answer:1},
+     {q:"What kind of organization is the United Nations?", options:["A private company that sells goods internationally","A single countrys national government","This concept has no relevance to the United Nations","An international organization made up of member countries"], answer:3},
+     {q:"Why might a country choose to become a founding member of an organization like the United Nations?", options:["To help shape international cooperation on shared global challenges from the very beginning","This concept has no relevance to social studies","Founding membership has no effect on international cooperation","Countries never choose to join international organizations"], answer:0},
+     {q:"Why might Canadas long membership in the United Nations be considered part of its global identity?", options:["Membership in the United Nations has no connection to a countrys global identity","Canada has never been involved with the United Nations in any way","It reflects a long-standing commitment to international cooperation and human rights","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:187, label:"Day 187 — Tue", subjects:[
+  {subject:"Language", title:"Language Review: Capstone — Poetry, Vocabulary, Media Literacy, and Reading", summary:"Grade 5 Language strand review, and the capstone lesson of the full 187-day program: students revisit writing a limerick, neologisms, recognizing deepfakes and manipulated media, anthropomorphism, and using parentheses.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"How many lines does a limerick have?", options:["4","7","5","3"], answer:2},
+     {q:"What is a neologism?", options:["A newly coined word or phrase that enters a language","A word that has completely disappeared from use","A word borrowed directly from an ancient language","This concept has no connection to vocabulary"], answer:0},
+     {q:"What is a deepfake?", options:["A digitally altered video or image made to look real using technology","A handwritten letter from a real person","This concept has no connection to media literacy","A traditional printed newspaper article"], answer:0},
+     {q:"What is anthropomorphism?", options:["Writing a story with no characters at all","Describing only real historical events","Giving human qualities to animals or objects in a story","This concept has no connection to reading"], answer:2},
+     {q:"What are parentheses used for in a sentence?", options:["Ending every sentence in a paragraph","Adding extra information, an explanation, or a side comment","Replacing a subject in a sentence","This concept has no connection to grammar"], answer:1}
+   ]},
+  {subject:"Math", title:"Math Review: Capstone — Number Sense, Geometry, Data Management, and Financial Literacy", summary:"Grade 5 Math strand review, and the capstone lesson of the full 187-day program: students revisit triangular numbers, classifying prisms by their bases, constructing frequency polygons, understanding insurance basics, and multiplying by 11.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a triangular number?", options:["A number that is always divisible by 3","A number that can be arranged into an equilateral triangle of dots","A number that can never be added to another number","A number with exactly three digits"], answer:1},
+     {q:"How is a prism named?", options:["According to its total number of faces only","According to its colour","This concept has no connection to geometry","According to the shape of its base"], answer:3},
+     {q:"What is a frequency polygon?", options:["This concept has no connection to data management","A circle graph showing percentages","A line graph formed by plotting the midpoint of each interval in grouped data and connecting the points","A bar graph showing individual data values"], answer:2},
+     {q:"What is insurance?", options:["This concept has no connection to financial literacy","A type of tax collected by the government","A free service with no cost involved","A way of managing financial risk by paying a regular premium for coverage against unexpected loss"], answer:3},
+     {q:"What mental math shortcut can help with multiplying a two-digit number by 11?", options:["Always doubling the number twice","This concept has no connection to number sense","Adding the two digits together and placing the sum between them","Subtracting the digits from each other"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Review: Capstone — Diffusion, Human Biology, and Earth Science", summary:"Grade 5 Science strand review, and the capstone lesson of the full 187-day program: students revisit diffusion, blood types and blood donation, vaccines, nuclear fusion, and the process of fossilization.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is diffusion?", options:["This concept has no connection to science","The bending of light through a lens","The freezing of a liquid into a solid","The movement of particles from an area of higher concentration to lower concentration"], answer:3},
+     {q:"What are the main human blood types?", options:["A, B, AB, and O","Fast, slow, thick, and thin","This concept has no connection to science","Red, blue, green, and yellow"], answer:0},
+     {q:"What does a vaccine train the body to do?", options:["Grow taller more quickly","Digest food more efficiently","Recognize and fight a specific germ","This concept has no connection to science"], answer:2},
+     {q:"What happens during nuclear fusion?", options:["Two liquids are physically mixed together","This concept has no connection to science","Two atomic nuclei combine under extreme heat and pressure to form a heavier nucleus","A single nucleus splits apart into two smaller pieces"], answer:2},
+     {q:"What is fossilization?", options:["A process that only happens to plants, never animals","The slow process by which the remains or traces of an organism are preserved in rock","This concept has no connection to science","The instant transformation of a living animal into a rock"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"SocialStudies Review: Capstone — Rights, Government History, and Global Citizenship", summary:"Grade 5 Social Studies strand review, and the capstone lesson of the full 187-day program: students revisit the Canadian Bill of Rights of 1960, responsible government, Canadas role in the Cold War, the Royal Canadian Mint, and GST, PST, and HST.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What was the Canadian Bill of Rights?", options:["A law that created the Supreme Court of Canada","A treaty between Canada and another country","This concept has no connection to Canadian history","An early federal law protecting basic rights and freedoms"], answer:3},
+     {q:"What does responsible government mean?", options:["A government controlled entirely by a foreign monarch","This concept has no connection to Canadian history","Elected representatives, rather than an appointed governor, hold the real power to make decisions","A government with no elected representatives at all"], answer:2},
+     {q:"What was the Cold War?", options:["A short battle fought only in Canada","This concept has no connection to social studies","A long period of tension between the United States and the Soviet Union after the Second World War","A war fought entirely with weather and climate technology"], answer:2},
+     {q:"What is the Royal Canadian Mint responsible for?", options:["Printing Canadas paper currency","This concept has no connection to social studies","Setting interest rates for Canadian banks","Producing Canadas circulating coins"], answer:3},
+     {q:"What does GST stand for?", options:["Government Savings Trust","Goods and Services Tax","General Spending Tax","This concept has no connection to social studies"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
