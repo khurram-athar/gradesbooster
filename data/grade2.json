@@ -50364,5 +50364,1699 @@
         ]
       }
     ]
+  },
+  {
+    "day": 181,
+    "label": "Day 181 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Collective Nouns: A Herd, a Flock, a Pack",
+        "summary": "Grade 2 Language strand: a collective noun names a group of people, animals, or things acting as one unit, such as a herd of cows, a flock of birds, or a pack of wolves.",
+        "resourceLabel": "YouTube: Collective Nouns: A Herd, a Flock, a Pack",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Collective%20Nouns%3A%20A%20Herd%2C%20a%20Flock%2C%20a%20Pack%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a collective noun name?",
+            "options": [
+              "A single object only",
+              "A silent letter",
+              "A group of people, animals, or things acting as one unit",
+              "A type of punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a collective noun for a group of birds?",
+            "options": [
+              "Slice",
+              "Corner",
+              "Puddle",
+              "Flock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which collective noun describes a group of wolves?",
+            "options": [
+              "Herd",
+              "Team",
+              "Pack",
+              "Choir"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses a collective noun correctly?",
+            "options": [
+              "A herd of cow grazed in the field",
+              "A cow of herds grazed in the field",
+              "Herd a of cows grazed",
+              "A herd of cows grazed in the field"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are collective nouns useful in writing?",
+            "options": [
+              "They let a writer name a whole group with one word",
+              "They cannot describe animals",
+              "They remove all nouns from a sentence",
+              "They only work with numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Introducing the 24-Hour Clock",
+        "summary": "Grade 2 Math strand: the 24-hour clock numbers the hours from 0 to 23 across a full day, so afternoon and evening times continue counting past 12 instead of starting over.",
+        "resourceLabel": "YouTube: Time: Introducing the 24-Hour Clock",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Introducing%20the%2024-Hour%20Clock%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many hours does the 24-hour clock count across a full day?",
+            "options": [
+              "60",
+              "12",
+              "100",
+              "24"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a 24-hour clock, what hour comes right after 12?",
+            "options": [
+              "0",
+              "24",
+              "1",
+              "13"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What time on a 12-hour clock matches 15:00 on a 24-hour clock?",
+            "options": [
+              "3:00 AM",
+              "1:00 PM",
+              "5:00 PM",
+              "3:00 PM"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might schedules like train timetables use the 24-hour clock?",
+            "options": [
+              "It avoids confusing morning and afternoon times",
+              "It removes the need for numbers",
+              "It only shows the date, not the time",
+              "It only works for counting minutes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On the 24-hour clock, midnight is usually shown as ___.",
+            "options": [
+              "00:00",
+              "12:00",
+              "24:24",
+              "6:00"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sloths: Slow-Moving Rainforest Mammals",
+        "summary": "Grade 2 Science strand: sloths are mammals that live in rainforest trees, move very slowly to save energy, and often have algae growing in their fur for extra camouflage.",
+        "resourceLabel": "YouTube: Sloths: Slow-Moving Rainforest Mammals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sloths%3A%20Slow-Moving%20Rainforest%20Mammals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where do sloths mainly live?",
+            "options": [
+              "In frozen arctic ice",
+              "In rainforest trees",
+              "In dry desert sand",
+              "In deep ocean water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do sloths move so slowly?",
+            "options": [
+              "Because they cannot see",
+              "To save energy",
+              "Because they are always asleep",
+              "Because they have no legs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can often be found growing in a sloths fur?",
+            "options": [
+              "Algae",
+              "Feathers",
+              "Moss made of glass",
+              "Coral"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of animal is a sloth?",
+            "options": [
+              "An insect",
+              "A fish",
+              "A reptile",
+              "A mammal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might growing algae help a sloth?",
+            "options": [
+              "It adds extra camouflage in the trees",
+              "It makes the sloth move faster",
+              "It helps the sloth fly",
+              "It has no effect at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Shield: Ancient Rock Beneath Our Feet",
+        "summary": "Grade 2 Social Studies strand: the Canadian Shield is a huge area of very old, hard rock that covers much of central and eastern Canada and is rich in minerals.",
+        "resourceLabel": "YouTube: The Canadian Shield: Ancient Rock Beneath Our Feet",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Shield%3A%20Ancient%20Rock%20Beneath%20Our%20Feet%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Canadian Shield mostly made of?",
+            "options": [
+              "Soft sand only",
+              "Very old, hard rock",
+              "Ice that never melts",
+              "Ocean water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which parts of Canada does the Canadian Shield mostly cover?",
+            "options": [
+              "Only the ocean floor",
+              "Only a small island",
+              "Much of central and eastern Canada",
+              "Another country entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What natural resource is the Canadian Shield known for containing?",
+            "options": [
+              "Tropical fruit",
+              "Minerals",
+              "Sand dunes only",
+              "Coral"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How old is the rock of the Canadian Shield generally considered to be?",
+            "options": [
+              "Newer than most rock on Earth",
+              "Formed yesterday",
+              "Very old, among the oldest rock on Earth",
+              "Formed only last year"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Canadian Shield is an example of a ___.",
+            "options": [
+              "National holiday",
+              "Geographic landform",
+              "Kind of currency",
+              "Type of government"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "label": "Day 182 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Silent e: How Adding e Changes a Vowel Sound",
+        "summary": "Grade 2 Language strand: adding a silent e to the end of a word often changes a short vowel sound into a long vowel sound, such as turning cap into cape or kit into kite.",
+        "resourceLabel": "YouTube: Silent e: How Adding e Changes a Vowel Sound",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20e%3A%20How%20Adding%20e%20Changes%20a%20Vowel%20Sound%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a silent e at the end of a word often do?",
+            "options": [
+              "Changes a short vowel sound into a long vowel sound",
+              "Adds a new syllable you can hear",
+              "Makes the word disappear",
+              "Removes all vowels from the word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Adding a silent e to cap changes it into which word?",
+            "options": [
+              "Cap",
+              "Cup",
+              "Cape",
+              "Cop"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Adding a silent e to kit changes it into which word?",
+            "options": [
+              "Kit",
+              "Kite",
+              "Kite is wrong",
+              "Knot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the final e in words like cape or kite pronounced out loud?",
+            "options": [
+              "It is pronounced as a short a sound",
+              "No, it is silent",
+              "It is pronounced as a long e sound",
+              "Yes, it is always loud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word shows the silent e pattern changing a short vowel to a long vowel?",
+            "options": [
+              "Cube",
+              "Sit",
+              "Run",
+              "Cub"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Introduction to Volume with Unit Cubes",
+        "summary": "Grade 2 Math strand: volume measures how much space a solid shape takes up, and one way to measure it is by counting how many small unit cubes fit exactly inside the shape.",
+        "resourceLabel": "YouTube: Measurement: Introduction to Volume with Unit Cubes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Introduction%20to%20Volume%20with%20Unit%20Cubes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does volume measure?",
+            "options": [
+              "How long an object is",
+              "How much space a solid shape takes up",
+              "How heavy an object is",
+              "How loud a sound is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one way to measure the volume of a box?",
+            "options": [
+              "Counting how many unit cubes fit inside it",
+              "Timing how fast it falls",
+              "Weighing it on a scale",
+              "Measuring only its colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a box is filled exactly with 12 unit cubes, what is its volume?",
+            "options": [
+              "12 metres",
+              "12 minutes",
+              "12 cubic units",
+              "12 grams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could you find the volume of?",
+            "options": [
+              "A shadow",
+              "A cardboard box",
+              "A sound",
+              "A colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are unit cubes useful for measuring volume?",
+            "options": [
+              "They cannot be counted at all",
+              "They are a consistent size that can be counted",
+              "They change size every time",
+              "They melt when placed in a box"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wolves: Pack Hunters of the Forest",
+        "summary": "Grade 2 Science strand: wolves are wild relatives of dogs that live and hunt together in groups called packs, working as a team to find food and protect their territory.",
+        "resourceLabel": "YouTube: Wolves: Pack Hunters of the Forest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wolves%3A%20Pack%20Hunters%20of%20the%20Forest%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a group of wolves called?",
+            "options": [
+              "A pack",
+              "A herd",
+              "A flock",
+              "A school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do wolves usually hunt?",
+            "options": [
+              "By flying above their prey",
+              "Completely alone with no help",
+              "By staying underwater",
+              "Together as a team in a pack"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What animal are wolves closely related to?",
+            "options": [
+              "Dogs",
+              "Birds",
+              "Fish",
+              "Cats"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might hunting in a pack help wolves?",
+            "options": [
+              "It makes hunting impossible",
+              "It only helps them sleep",
+              "It helps them find and catch food more successfully",
+              "It has no effect on hunting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides hunting, what else might a wolf pack work together to do?",
+            "options": [
+              "Protect their territory",
+              "Fly south for winter",
+              "Grow plants",
+              "Build underwater nests"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Arctic Ocean: Canadas Northern Coastline",
+        "summary": "Grade 2 Social Studies strand: the Arctic Ocean is the icy ocean that borders northern Canada, home to sea ice, unique wildlife, and northern communities.",
+        "resourceLabel": "YouTube: The Arctic Ocean: Canadas Northern Coastline",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Arctic%20Ocean%3A%20Canadas%20Northern%20Coastline%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which part of Canada does the Arctic Ocean border?",
+            "options": [
+              "Only inland lakes",
+              "Northern Canada",
+              "No part of Canada",
+              "Southern Canada only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often covers large parts of the Arctic Ocean?",
+            "options": [
+              "Rainforest canopy",
+              "Sea ice",
+              "Sand dunes",
+              "Tropical coral"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of ocean is the Arctic Ocean generally?",
+            "options": [
+              "Located underground",
+              "Cold and icy",
+              "Made entirely of fresh water",
+              "Warm and tropical"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might be found in or near the Arctic Ocean?",
+            "options": [
+              "Northern communities and unique wildlife",
+              "Rainforest monkeys",
+              "Coral reef fish only",
+              "Desert cactus plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Arctic Ocean is an example of a Canadian ___.",
+            "options": [
+              "Kind of currency",
+              "Geographic feature",
+              "National holiday",
+              "Type of government"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "label": "Day 183 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "R-Controlled Vowels: ar, or, and er",
+        "summary": "Grade 2 Language strand: when a vowel is followed by the letter r, the r changes how the vowel sounds, as in the ar of car, the or of for, and the er of her.",
+        "resourceLabel": "YouTube: R-Controlled Vowels: ar, or, and er",
+        "resourceUrl": "https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20ar%2C%20or%2C%20and%20er%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does an r-controlled vowel mean?",
+            "options": [
+              "The vowel becomes a consonant",
+              "The r is never pronounced",
+              "The vowel is always silent",
+              "The letter r changes how the vowel sounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which r-controlled pattern is found in the word car?",
+            "options": [
+              "Ir",
+              "Or",
+              "Er",
+              "Ar"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which r-controlled pattern is found in the word for?",
+            "options": [
+              "Er",
+              "Or",
+              "Ur",
+              "Ar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word contains the er r-controlled sound?",
+            "options": [
+              "Her",
+              "Car",
+              "Cat",
+              "For"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might r-controlled vowels be tricky for young readers?",
+            "options": [
+              "They only appear at the start of a sentence",
+              "They are always completely silent",
+              "They never appear in real words",
+              "The r changes the vowel sound in a way that is not obvious from spelling alone"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Benchmark Fractions — Zero, One-Half, and One",
+        "summary": "Grade 2 Math strand: benchmark fractions like zero, one-half, and one are useful reference points that help estimate whether another fraction is close to none, half, or a whole.",
+        "resourceLabel": "YouTube: Fractions: Benchmark Fractions — Zero, One-Half, and One",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Benchmark%20Fractions%20%E2%80%94%20Zero%2C%20One-Half%2C%20and%20One%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are benchmark fractions used for?",
+            "options": [
+              "Multiplying whole numbers only",
+              "Measuring temperature",
+              "Helping estimate how close another fraction is to a reference point",
+              "Telling time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which three benchmark fractions are commonly used?",
+            "options": [
+              "Zero, one-half, and one",
+              "Ten, twenty, and thirty",
+              "Two, four, and six",
+              "One-third, two-thirds, and one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is three-eighths closer to zero or one-half?",
+            "options": [
+              "One",
+              "Zero",
+              "It cannot be estimated",
+              "One-half"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is five-sixths closer to one-half or one whole?",
+            "options": [
+              "Zero",
+              "One whole",
+              "One-half",
+              "It cannot be estimated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are benchmark fractions helpful before doing exact calculations?",
+            "options": [
+              "They make fractions impossible to compare",
+              "They give a quick way to estimate the size of a fraction",
+              "They remove the need for numerators",
+              "They only work with whole numbers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Elephants: The Largest Land Animals",
+        "summary": "Grade 2 Science strand: elephants are the largest land animals on Earth, known for their long trunks, large ears, and strong family bonds within their herds.",
+        "resourceLabel": "YouTube: Elephants: The Largest Land Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Elephants%3A%20The%20Largest%20Land%20Animals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are elephants known for being?",
+            "options": [
+              "The largest land animals on Earth",
+              "Animals that live only underwater",
+              "The smallest land animals on Earth",
+              "Animals with no legs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What body part do elephants use to grab food and drink water?",
+            "options": [
+              "Their tusks only",
+              "Their trunk",
+              "Their tail",
+              "Their ears"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might an elephants large ears help it do?",
+            "options": [
+              "Help it change colour",
+              "Help release heat and cool down",
+              "Help it fly",
+              "Help it breathe underwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Elephants are known for living together in groups called ___.",
+            "options": [
+              "Herds",
+              "Packs",
+              "Schools",
+              "Flocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean that elephants have strong family bonds?",
+            "options": [
+              "Elephants live completely alone",
+              "Elephants forget their families quickly",
+              "Elephants never interact with other elephants",
+              "Elephant families stay close and care for one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Traditional Indigenous Homes: Longhouses, Tipis, and Igloos",
+        "summary": "Grade 2 Social Studies strand: Indigenous peoples across Canada traditionally built different kinds of homes suited to their environment, including longhouses, tipis, and igloos.",
+        "resourceLabel": "YouTube: Traditional Indigenous Homes: Longhouses, Tipis, and Igloos",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Traditional%20Indigenous%20Homes%3A%20Longhouses%2C%20Tipis%2C%20and%20Igloos%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a longhouse?",
+            "options": [
+              "A kind of bridge",
+              "A modern apartment building",
+              "A type of boat",
+              "A long traditional home shared by several families"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a tipi traditionally made from?",
+            "options": [
+              "Glass panels",
+              "Poles covered with animal hides",
+              "Steel beams",
+              "Solid brick walls"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an igloo traditionally built from?",
+            "options": [
+              "Blocks of packed snow or ice",
+              "Wood planks",
+              "Clay bricks",
+              "Woven grass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did different Indigenous groups build different kinds of homes?",
+            "options": [
+              "Homes were suited to their local environment and resources",
+              "Homes were chosen randomly with no reason",
+              "Home styles had no connection to environment",
+              "All Indigenous groups built identical homes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Longhouses, tipis, and igloos are all examples of ___.",
+            "options": [
+              "Forms of government",
+              "Traditional Indigenous homes",
+              "Types of vehicles",
+              "Kinds of food"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "label": "Day 184 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Diphthongs: The Sounds of oi, oy, ou, and ow",
+        "summary": "Grade 2 Language strand: a diphthong is a vowel sound made by gliding from one vowel sound to another within the same syllable, as in the oi of coin, the oy of boy, the ou of cloud, and the ow of cow.",
+        "resourceLabel": "YouTube: Diphthongs: The Sounds of oi, oy, ou, and ow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Diphthongs%3A%20The%20Sounds%20of%20oi%2C%20oy%2C%20ou%2C%20and%20ow%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a diphthong?",
+            "options": [
+              "A silent consonant",
+              "A type of sentence",
+              "A punctuation mark",
+              "A vowel sound made by gliding between two vowel sounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which diphthong is found in the word coin?",
+            "options": [
+              "Oo",
+              "Ay",
+              "Ee",
+              "Oi"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which diphthong is found in the word boy?",
+            "options": [
+              "Er",
+              "Ar",
+              "Oy",
+              "Ea"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which diphthong is found in the word cloud?",
+            "options": [
+              "Ee",
+              "Igh",
+              "Ou",
+              "Oi"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word contains the ow diphthong sound heard in cow?",
+            "options": [
+              "Snow",
+              "Now",
+              "Low",
+              "Grow"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Prisms and Pyramids — Comparing 3D Shapes",
+        "summary": "Grade 2 Math strand: a prism has two matching flat ends connected by rectangular sides, while a pyramid has one flat base and triangular sides that meet at a single point.",
+        "resourceLabel": "YouTube: Geometry: Prisms and Pyramids — Comparing 3D Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Prisms%20and%20Pyramids%20%E2%80%94%20Comparing%203D%20Shapes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What shape do the two matching ends of a prism usually have?",
+            "options": [
+              "A prism has no ends",
+              "They are always triangles only",
+              "They are always circles only",
+              "They match each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What connects the two ends of a prism?",
+            "options": [
+              "A single point",
+              "Nothing connects them",
+              "Rectangular sides",
+              "Curved lines only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many flat bases does a pyramid have?",
+            "options": [
+              "One",
+              "Six",
+              "Zero",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What shape are the sides of a pyramid, and where do they meet?",
+            "options": [
+              "Rectangles that never meet",
+              "Circles that meet at two points",
+              "Triangles that meet at a single point",
+              "Ovals with no point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a pyramid shape?",
+            "options": [
+              "A can-shaped object with two circle ends",
+              "A shape with no faces at all",
+              "A flat rectangle with no height",
+              "A shape with a square base and four triangle sides meeting at a point"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Kelp Forests: Underwater Forests of the Sea",
+        "summary": "Grade 2 Science strand: kelp forests are underwater habitats made of tall seaweed called kelp that grows from the ocean floor toward the surface, providing shelter and food for many sea animals.",
+        "resourceLabel": "YouTube: Kelp Forests: Underwater Forests of the Sea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Kelp%20Forests%3A%20Underwater%20Forests%20of%20the%20Sea%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is kelp?",
+            "options": [
+              "A type of coral",
+              "A land plant",
+              "A tall seaweed that grows in the ocean",
+              "A kind of rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does kelp typically grow?",
+            "options": [
+              "From the ocean floor toward the surface",
+              "In the desert sand",
+              "Inside caves with no water",
+              "On top of mountains"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can a kelp forest provide for sea animals?",
+            "options": [
+              "Only a place to freeze",
+              "Shelter and food",
+              "Nothing useful at all",
+              "Only sunlight with no shelter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A kelp forest is best described as an underwater ___.",
+            "options": [
+              "Habitat",
+              "Volcano",
+              "City street",
+              "Desert"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals might you expect to find living in a kelp forest?",
+            "options": [
+              "Penguins living only on ice",
+              "Desert lizards",
+              "Fish and sea otters",
+              "Camels"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Victoria Day: Celebrating in Late May",
+        "summary": "Grade 2 Social Studies strand: Victoria Day is a Canadian holiday celebrated on a Monday in late May, marking the unofficial start of summer with community events and fireworks.",
+        "resourceLabel": "YouTube: Victoria Day: Celebrating in Late May",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Victoria%20Day%3A%20Celebrating%20in%20Late%20May%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In which month is Victoria Day celebrated?",
+            "options": [
+              "July",
+              "October",
+              "May",
+              "December"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On what day of the week does Victoria Day usually fall?",
+            "options": [
+              "A Sunday",
+              "A Wednesday",
+              "A Saturday",
+              "A Monday"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Victoria Day mark the unofficial start of?",
+            "options": [
+              "Autumn",
+              "Winter",
+              "The school year",
+              "Summer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might communities hold to celebrate Victoria Day?",
+            "options": [
+              "Fireworks and community events",
+              "A day with no celebrations at all",
+              "A snow sculpture contest only",
+              "A silent day with no activities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Victoria Day is an example of a Canadian ___.",
+            "options": [
+              "Type of currency",
+              "Holiday",
+              "Landform",
+              "Sport"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "label": "Day 185 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Cinquain Poems: Five Lines Building an Idea",
+        "summary": "Grade 2 Language strand: a cinquain is a five-line poem that often follows a pattern of word counts or types on each line, building a clear picture of one topic.",
+        "resourceLabel": "YouTube: Cinquain Poems: Five Lines Building an Idea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cinquain%20Poems%3A%20Five%20Lines%20Building%20an%20Idea%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many lines does a cinquain poem have?",
+            "options": [
+              "Five",
+              "Two",
+              "One",
+              "Ten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a cinquain poem often build a picture of?",
+            "options": [
+              "One clear topic",
+              "A list of random numbers",
+              "No topic at all",
+              "Ten unrelated topics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a cinquain poem follow to organize its lines?",
+            "options": [
+              "A pattern based on colours only",
+              "A pattern of word counts or types",
+              "No pattern of any kind",
+              "A pattern of only punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could be a good topic for a cinquain poem?",
+            "options": [
+              "A math equation",
+              "A silent letter",
+              "A blank page",
+              "A favourite animal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a poet choose the short cinquain form?",
+            "options": [
+              "To avoid describing anything",
+              "To describe a single idea clearly and concisely",
+              "To write as many unrelated ideas as possible",
+              "Cinquains must always be very long"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Estimating Total Cost by Rounding to the Nearest Dollar",
+        "summary": "Grade 2 Math strand: rounding each item price to the nearest dollar before adding them together gives a quick estimate of the total cost of several items.",
+        "resourceLabel": "YouTube: Money: Estimating Total Cost by Rounding to the Nearest Dollar",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Estimating%20Total%20Cost%20by%20Rounding%20to%20the%20Nearest%20Dollar%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does rounding prices to the nearest dollar help you find quickly?",
+            "options": [
+              "The shape of an item",
+              "The exact colour of an item",
+              "An estimate of the total cost",
+              "The weight of an item"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an item costs 2.85 dollars, what is that rounded to the nearest dollar?",
+            "options": [
+              "5 dollars",
+              "10 dollars",
+              "2 dollars",
+              "3 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an item costs 4.10 dollars, what is that rounded to the nearest dollar?",
+            "options": [
+              "3 dollars",
+              "10 dollars",
+              "5 dollars",
+              "4 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone estimate a total cost before checking out at a store?",
+            "options": [
+              "To make sure they have enough money",
+              "To make the prices disappear",
+              "Estimating costs has no real use",
+              "To avoid ever paying for anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two items are estimated at about 3 dollars each, about how much would both items cost together?",
+            "options": [
+              "About 1 dollar",
+              "About 20 dollars",
+              "About 0 dollars",
+              "About 6 dollars"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ladybugs: Helpful Garden Insects",
+        "summary": "Grade 2 Science strand: ladybugs are small, round insects with spotted wing covers that help gardens by eating plant pests such as aphids.",
+        "resourceLabel": "YouTube: Ladybugs: Helpful Garden Insects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ladybugs%3A%20Helpful%20Garden%20Insects%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What type of animal is a ladybug?",
+            "options": [
+              "A bird",
+              "A mammal",
+              "An insect",
+              "A reptile"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do ladybug wing covers usually look like?",
+            "options": [
+              "Square and plain",
+              "Long and striped",
+              "Round and spotted",
+              "Covered in fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do ladybugs help gardens?",
+            "options": [
+              "By blocking sunlight",
+              "By making soil disappear",
+              "By eating plant pests such as aphids",
+              "By destroying every plant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ladybugs are an example of an insect that is considered ___ by gardeners.",
+            "options": [
+              "Poisonous to plants",
+              "Dangerous to touch",
+              "Helpful",
+              "Useless"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides its wing covers, what other insect body parts might a ladybug have?",
+            "options": [
+              "Fur and hooves",
+              "Gills and fins",
+              "Legs and antennae",
+              "Feathers and a beak"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada at the Olympics: Winter and Summer Games",
+        "summary": "Grade 2 Social Studies strand: Canadian athletes compete at both the Winter and Summer Olympic Games, representing Canada in sports from hockey and skating to swimming and track.",
+        "resourceLabel": "YouTube: Canada at the Olympics: Winter and Summer Games",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20at%20the%20Olympics%3A%20Winter%20and%20Summer%20Games%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In which two kinds of Olympic Games do Canadian athletes compete?",
+            "options": [
+              "Only Spring Games",
+              "Only Autumn Games",
+              "Neither kind of Games",
+              "Winter and Summer Games"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a Canadian athlete wear or carry to show which country they represent?",
+            "options": [
+              "A random flag with no meaning",
+              "A blank sign",
+              "The Canadian flag or team uniform",
+              "Nothing that shows their country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a Winter Olympic sport Canada is known for?",
+            "options": [
+              "Surfing",
+              "Desert racing",
+              "Beach volleyball only",
+              "Hockey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might people watch the Olympics to support their countrys athletes?",
+            "options": [
+              "Only athletes are allowed to watch",
+              "Olympics have no connection to countries",
+              "To cheer on athletes representing their country",
+              "People never watch the Olympics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Olympics is best described as an international ___.",
+            "options": [
+              "National holiday",
+              "Kind of currency",
+              "Type of government",
+              "Sporting event"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "label": "Day 186 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Readers Theatre: Reading Scripts Aloud Together",
+        "summary": "Grade 2 Language strand: readers theatre is a way of reading a script aloud with expression as a group, with each person reading a different character part instead of acting it out with costumes or props.",
+        "resourceLabel": "YouTube: Readers Theatre: Reading Scripts Aloud Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Readers%20Theatre%3A%20Reading%20Scripts%20Aloud%20Together%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is readers theatre?",
+            "options": [
+              "Reading a script aloud with expression as a group",
+              "A silent activity with no talking",
+              "A way of drawing pictures only",
+              "A type of math worksheet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In readers theatre, what does each person usually read?",
+            "options": [
+              "A different character part",
+              "The exact same line as everyone else",
+              "Only stage directions",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do readers theatre performers usually need costumes and props?",
+            "options": [
+              "Only shoes are required",
+              "No, they read with expression instead",
+              "Only masks are required",
+              "Yes, elaborate costumes are required"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might readers theatre help build reading skills?",
+            "options": [
+              "It gives practice reading aloud with fluency and expression",
+              "It removes the need to read any words",
+              "It has no connection to reading",
+              "It only involves silent reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a script written for a readers theatre performance?",
+            "options": [
+              "A grocery list",
+              "A single math equation",
+              "A blank page with no words",
+              "A short play with lines for different characters"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Calculating Age in Years and Months",
+        "summary": "Grade 2 Math strand: to find someones age in years and months, compare their birth date to todays date, counting full years first and then the remaining months.",
+        "resourceLabel": "YouTube: Time: Calculating Age in Years and Months",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Calculating%20Age%20in%20Years%20and%20Months%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What two dates do you compare to calculate someones age?",
+            "options": [
+              "Their birth date and todays date",
+              "Only the current month",
+              "Two random unrelated dates",
+              "Only the current year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a child was born in March and it is now June of the same year, how many months old are they?",
+            "options": [
+              "3 months",
+              "1 month",
+              "9 months",
+              "6 months"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should you count first when calculating age in years and months?",
+            "options": [
+              "Only days",
+              "Full years",
+              "Only seconds",
+              "Only the current month"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If someone turned 8 years old two months ago, how would you describe their age?",
+            "options": [
+              "10 years old",
+              "6 years old",
+              "8 years and 2 months old",
+              "8 years and 12 months old"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might knowing someones exact age in years and months be useful?",
+            "options": [
+              "It replaces the need for a birth date",
+              "Months have no connection to age",
+              "It gives a more precise picture of how old someone is",
+              "Age never needs to be precise"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Tsunamis: Giant Waves Caused by Earth Movement",
+        "summary": "Grade 2 Science strand: a tsunami is a series of giant ocean waves usually caused by an earthquake or other sudden movement under the sea, capable of causing major flooding when it reaches land.",
+        "resourceLabel": "YouTube: Tsunamis: Giant Waves Caused by Earth Movement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Tsunamis%3A%20Giant%20Waves%20Caused%20by%20Earth%20Movement%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a tsunami?",
+            "options": [
+              "A type of cloud",
+              "A gentle ripple in a pond",
+              "A series of giant ocean waves",
+              "A kind of desert wind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What often causes a tsunami?",
+            "options": [
+              "A light breeze",
+              "An earthquake or sudden movement under the sea",
+              "A change in leaf colour",
+              "A single raindrop"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can a tsunami cause when it reaches land?",
+            "options": [
+              "A drought",
+              "A snowstorm",
+              "No effect at all",
+              "Major flooding"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do tsunamis begin?",
+            "options": [
+              "In the desert",
+              "On top of a mountain",
+              "Inside a cave",
+              "Under the sea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Tsunamis are an example of a natural ___.",
+            "options": [
+              "Hazard connected to ocean movement",
+              "Type of government",
+              "Kind of currency",
+              "National holiday"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Curling: A Canadian Winter Tradition",
+        "summary": "Grade 2 Social Studies strand: curling is a winter sport played on ice where teams slide heavy stones toward a target, using brooms to help guide the stones path, and is a popular Canadian pastime.",
+        "resourceLabel": "YouTube: Curling: A Canadian Winter Tradition",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Curling%3A%20A%20Canadian%20Winter%20Tradition%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What surface is curling played on?",
+            "options": [
+              "Water",
+              "Grass",
+              "Sand",
+              "Ice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do curling players slide toward a target?",
+            "options": [
+              "Wooden blocks",
+              "Heavy stones",
+              "Small balls",
+              "Balloons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tool do curling players use to help guide the stones path?",
+            "options": [
+              "A paddle",
+              "A hockey stick",
+              "A racket",
+              "A broom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Curling is best described as a popular Canadian ___.",
+            "options": [
+              "Winter sport",
+              "Type of government",
+              "Summer sport only",
+              "Kind of currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might sweeping the ice with a broom affect how a curling stone moves?",
+            "options": [
+              "Sweeping has no effect on the stone",
+              "It changes the colour of the stone",
+              "It can change the speed and path of the sliding stone",
+              "It stops the stone completely every time"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "label": "Day 187 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Poetry, and Word Study — A Final Grade Two Celebration",
+        "summary": "Grade 2 Language strand review, and the final Language lesson of the full 187-day Grade 2 curriculum: students revisit collective nouns, silent e, r-controlled vowels, diphthongs, cinquain poems, and readers theatre.",
+        "resourceLabel": "YouTube: Language Review: Grammar, Poetry, and Word Study — A Final Grade Two Celebration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Grammar%2C%20Poetry%2C%20and%20Word%20Study%20%E2%80%94%20A%20Final%20Grade%20Two%20Celebration%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a collective noun name?",
+            "options": [
+              "A type of punctuation",
+              "A silent letter",
+              "A group of people, animals, or things acting as one unit",
+              "A single object only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a silent e at the end of a word often do?",
+            "options": [
+              "Changes a short vowel sound into a long vowel sound",
+              "Adds a new syllable you can hear",
+              "Makes the word disappear",
+              "Removes all vowels from the word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an r-controlled vowel mean?",
+            "options": [
+              "The letter r changes how the vowel sounds",
+              "The r is never pronounced",
+              "The vowel becomes a consonant",
+              "The vowel is always silent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a diphthong?",
+            "options": [
+              "A punctuation mark",
+              "A silent consonant",
+              "A vowel sound made by gliding between two vowel sounds",
+              "A type of sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is readers theatre?",
+            "options": [
+              "A silent activity with no talking",
+              "Reading a script aloud with expression as a group",
+              "A type of math worksheet",
+              "A way of drawing pictures only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Time, Measurement, Fractions, and Geometry — A Final Grade Two Celebration",
+        "summary": "Grade 2 Math strand review, and the final Math lesson of the full 187-day Grade 2 curriculum: students revisit the 24-hour clock, volume with unit cubes, benchmark fractions, prisms and pyramids, estimating cost by rounding, and calculating age in years and months.",
+        "resourceLabel": "YouTube: Math Review: Time, Measurement, Fractions, and Geometry — A Final Grade Two Celebration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Time%2C%20Measurement%2C%20Fractions%2C%20and%20Geometry%20%E2%80%94%20A%20Final%20Grade%20Two%20Celebration%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many hours does the 24-hour clock count across a full day?",
+            "options": [
+              "12",
+              "24",
+              "100",
+              "60"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does volume measure?",
+            "options": [
+              "How heavy an object is",
+              "How long an object is",
+              "How loud a sound is",
+              "How much space a solid shape takes up"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which three benchmark fractions are commonly used?",
+            "options": [
+              "One-third, two-thirds, and one",
+              "Ten, twenty, and thirty",
+              "Zero, one-half, and one",
+              "Two, four, and six"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many flat bases does a pyramid have?",
+            "options": [
+              "Six",
+              "Two",
+              "Zero",
+              "One"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two dates do you compare to calculate someones age?",
+            "options": [
+              "Two random unrelated dates",
+              "Only the current month",
+              "Their birth date and todays date",
+              "Only the current year"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Animals, Habitats, and Earth Events — A Final Grade Two Celebration",
+        "summary": "Grade 2 Science strand review, and the final Science lesson of the full 187-day Grade 2 curriculum: students revisit sloths, wolves, elephants, kelp forests, ladybugs, and tsunamis.",
+        "resourceLabel": "YouTube: Science Review: Animals, Habitats, and Earth Events — A Final Grade Two Celebration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Habitats%2C%20and%20Earth%20Events%20%E2%80%94%20A%20Final%20Grade%20Two%20Celebration%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where do sloths mainly live?",
+            "options": [
+              "In dry desert sand",
+              "In frozen arctic ice",
+              "In deep ocean water",
+              "In rainforest trees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a group of wolves called?",
+            "options": [
+              "A pack",
+              "A flock",
+              "A school",
+              "A herd"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are elephants known for being?",
+            "options": [
+              "The smallest land animals on Earth",
+              "Animals that live only underwater",
+              "The largest land animals on Earth",
+              "Animals with no legs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does kelp typically grow?",
+            "options": [
+              "In the desert sand",
+              "Inside caves with no water",
+              "From the ocean floor toward the surface",
+              "On top of mountains"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What often causes a tsunami?",
+            "options": [
+              "A change in leaf colour",
+              "An earthquake or sudden movement under the sea",
+              "A single raindrop",
+              "A light breeze"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Geography, Culture, and Canadian Life — A Final Grade Two Celebration",
+        "summary": "Grade 2 Social Studies strand review, and the final Social Studies lesson of the full 187-day Grade 2 curriculum: students revisit the Canadian Shield, the Arctic Ocean, traditional Indigenous homes, Victoria Day, the Olympics in Canada, and curling.",
+        "resourceLabel": "YouTube: Social Studies Review: Geography, Culture, and Canadian Life — A Final Grade Two Celebration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Geography%2C%20Culture%2C%20and%20Canadian%20Life%20%E2%80%94%20A%20Final%20Grade%20Two%20Celebration%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Canadian Shield mostly made of?",
+            "options": [
+              "Soft sand only",
+              "Ice that never melts",
+              "Ocean water",
+              "Very old, hard rock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which part of Canada does the Arctic Ocean border?",
+            "options": [
+              "No part of Canada",
+              "Only inland lakes",
+              "Northern Canada",
+              "Southern Canada only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a longhouse?",
+            "options": [
+              "A modern apartment building",
+              "A kind of bridge",
+              "A long traditional home shared by several families",
+              "A type of boat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which month is Victoria Day celebrated?",
+            "options": [
+              "July",
+              "October",
+              "December",
+              "May"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What surface is curling played on?",
+            "options": [
+              "Grass",
+              "Ice",
+              "Sand",
+              "Water"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
