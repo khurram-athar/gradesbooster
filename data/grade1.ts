@@ -2881,19 +2881,20 @@ const curriculum: DayContent[] = [
      {prompt:"If you drop a ball, does gravity pull it up or down?", answers:["down"]},
      {prompt:"Name one object that gravity pulls down when you drop it, like a ball or a book.", answers:["a ball","a book","a toy"]}
    ]},
-  {subject:"SocialStudies", title:"Community Activities Through the Seasons", summary:"Students learn that communities offer different activities depending on the season, such as skating in winter and swimming in summer, and that people plan events around the weather.",
-   resourceLabel:"YouTube: Community Activities Through the Seasons", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Activities%20Through%20the%20Seasons%20grade%201%20educational",
+  {subject:"SocialStudies", title:"Community Helpers and the Jobs They Do", summary:"Students learn that community helpers, such as firefighters, doctors, and mail carriers, each have an important job that helps keep the community safe and running smoothly.",
+   resourceLabel:"YouTube: Community Helpers and the Jobs They Do", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%20and%20the%20Jobs%20They%20Do%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jt2q1cHsH6E",
    quiz:[
-     {q:"Which activity would a community more likely plan for winter?", options:["Skating on an outdoor rink","Planting a garden","Swimming at an outdoor pool","A beach picnic"], answer:0},
-     {q:"Which activity would a community more likely plan for summer?", options:["Sledding","A snowman building contest","Ice skating","A splash pad or pool day"], answer:3},
-     {q:"Why do communities plan different activities for different seasons?", options:["Weather changes what activities are safe and fun","Communities do not plan activities","Activities are always the same all year","The season never changes anything"], answer:0},
-     {q:"Which season might a community host an outdoor harvest festival?", options:["Only winter","No season","Only summer","Fall"], answer:3},
-     {q:"Planning community events around the seasons helps people ___.", options:["Ignore the weather completely","Avoid all activities","Enjoy activities that fit the weather","Stay indoors all year"], answer:2}
+     {q:"Who helps put out fires in a community?", options:["A firefighter","A mail carrier","A doctor","A librarian"], answer:0},
+     {q:"What job does a doctor do to help a community?", options:["Delivers mail","Helps keep people healthy","Puts out fires","Teaches students"], answer:1},
+     {q:"Which community helper delivers letters and packages?", options:["A firefighter","A doctor","A mail carrier","A police officer"], answer:2},
+     {q:"Why are community helpers important?", options:["They are not important","They only work one day a year","They never help anyone","Each one has a job that helps the community"], answer:3},
+     {q:"A person whose job helps keep a community safe or running smoothly is called a ___.", options:["Stranger","Visitor","Community helper","Tourist"], answer:2}
    ],
    worksheet:[
-     {prompt:"Name one activity people might do in a community during winter, like skating.", answers:["skating","sledding","playing in the snow"]},
-     {prompt:"Name one activity people might do in a community during summer, like swimming.", answers:["swimming","playing outside","having a picnic"]},
-     {prompt:"Do communities plan different activities depending on the season?", answers:["yes"]}
+     {prompt:"Name one job a community helper might do.", answers:["put out fires","deliver mail","help people stay healthy"]},
+     {prompt:"Who delivers letters and packages to homes?", answers:["a mail carrier","mail carrier"]},
+     {prompt:"Why are community helpers important?", answers:["they help the community","they have jobs that help others"]}
    ]},
 ]},
 {day:57, label:"Day 57 — Tue", subjects:[

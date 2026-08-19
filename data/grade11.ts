@@ -2318,17 +2318,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:56, label:"Day 56 — Mon", subjects:[
-  {subject:"English", title:"Literature: The Graphic Novel as Literary Form", summary:"Grade 11 English strand: a graphic novel conveys narrative through the interaction of images and text, using visual techniques like panel layout and framing to shape pacing and meaning in ways unique to the medium.",
+  {subject:"English", title:"Literature: Understanding Comics — Visual Language and Sequential Art", summary:"Grade 11 English strand: comics and graphic novels build meaning through sequential art, using techniques like panel-to-panel transitions and the reader-supplied “closure” between images to construct narrative in ways unique to the visual medium.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=fXYckRgsdjI",
    quiz:[
-     {q:"A graphic novel conveys its narrative through the interaction of ___.", options:["Only images, with no written text at all","Images and text","A concept unrelated to graphic novels","Only text, with no visual component"], answer:1},
-     {q:"In a graphic novel, a “panel” refers to ___.", options:["A single framed image that represents one moment in the narrative","The entire book from beginning to end","Only the written dialogue, with no connection to images","A concept unrelated to graphic novels"], answer:0},
-     {q:"Why might the size or shape of a panel affect the pacing of a graphic novel?", options:["Panel size can control how quickly or slowly a reader’s eye moves through a sequence of events","All panels in a graphic novel are always identical in size and shape","Panel size has no connection to how a reader experiences pacing","Pacing in a graphic novel is determined only by the written dialogue"], answer:0},
-     {q:"Why might a graphic novel be considered a distinct literary form rather than simply an illustrated version of a prose novel?", options:["A graphic novel is always identical in form and function to a prose novel","Images in a graphic novel serve no purpose beyond decoration","It relies on the specific interplay between images and text to construct meaning, not just illustration","This medium has no unique qualities that distinguish it from other literary forms"], answer:2},
-     {q:"Why might analyzing a graphic novel require different critical skills than analyzing a purely prose-based text?", options:["Graphic novels require no unique analytical skills compared to prose texts","This type of analysis has no connection to literary study","Readers must interpret visual elements, like framing and layout, alongside written language","Visual elements in a graphic novel carry no meaning of their own"], answer:2}
+     {q:"Comics create meaning through ___ — a sequence of images placed in deliberate order.", options:["Sequential art","Random noise","A single static image","Only spoken dialogue"], answer:0},
+     {q:"The mental process readers use to connect the action between two panels is called ___.", options:["Foreshadowing","Closure","Alliteration","Exposition"], answer:1},
+     {q:"Why might the size or shape of a panel affect the pacing of a comic?", options:["Panel size has no connection to pacing","All panels are always identical in size and shape","Panel size can control how quickly or slowly a reader’s eye moves through events","Pacing is determined only by the written dialogue"], answer:2},
+     {q:"Why might a comic be considered a distinct literary form rather than simply an illustrated story?", options:["It relies on the interplay between images and text to construct meaning, not just illustration","A comic is always identical in form to a prose novel","Images in a comic serve no purpose beyond decoration","This medium has no unique qualities"], answer:0},
+     {q:"Why might analyzing a graphic novel require different critical skills than analyzing prose?", options:["Graphic novels require no unique analytical skills","This type of analysis has no connection to literary study","Readers must interpret visual elements, like framing and panel transitions, alongside written language","Visual elements carry no meaning of their own"], answer:2}
    ]},
   {subject:"Functions", title:"Functions: Solving Radical Equations and Extraneous Roots", summary:"Grade 11 Functions strand: solving a radical equation typically involves isolating the radical and squaring both sides, a process that can introduce an extraneous root — a solution that satisfies the resulting equation but not the original one.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=ZXWAruNQVzU",
    quiz:[
      {q:"Solving a radical equation typically involves isolating the radical and then ___.", options:["Dividing both sides by the radical term itself","Squaring both sides of the equation","A step unrelated to solving radical equations","Adding the same value to both sides with no other steps"], answer:1},
      {q:"An extraneous root is a solution that ___.", options:["Always satisfies both the original equation and the squared equation","Satisfies the squared equation but not the original radical equation","Can never occur when solving a radical equation","A concept unrelated to solving radical equations"], answer:1},
@@ -2338,6 +2340,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Antibiotic Resistance and Microbial Evolution", summary:"Grade 11 Biology strand: antibiotic resistance develops when bacteria undergo mutations or exchange genetic material that allow them to survive exposure to antibiotics, a clear example of natural selection acting on a microbial population.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=znnp-Ivj2ek",
    quiz:[
      {q:"Antibiotic resistance develops when bacteria ___.", options:["Undergo mutations or exchange genetic material that allow them to survive antibiotic exposure","Are completely destroyed by every antibiotic with no exceptions","Lose all ability to reproduce after antibiotic exposure","A concept unrelated to bacterial survival"], answer:0},
      {q:"Antibiotic resistance is often described as a clear real-world example of ___.", options:["A random event with no connection to survival or reproduction","A process entirely unrelated to evolutionary biology","A phenomenon that never occurs in bacterial populations","Natural selection acting on a microbial population"], answer:3},
@@ -2347,6 +2350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Colloids, Emulsions, and Suspensions", summary:"Grade 11 Chemistry strand: mixtures can be classified as colloids, emulsions, or suspensions based on particle size and stability, distinguishing them from true solutions in which particles are fully dissolved and do not settle out.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=QAH-cCK1bS8",
    quiz:[
      {q:"Unlike a true solution, a suspension contains particles that ___.", options:["A concept unrelated to suspensions","Cannot be seen or detected under any circumstances","Are large enough to eventually settle out of the mixture","Are fully dissolved and never settle out"], answer:2},
      {q:"A colloid is best described as a mixture in which ___.", options:["Small particles are dispersed throughout another substance without settling out or fully dissolving","No particles of any kind are present","A concept unrelated to colloids","All particles are fully dissolved, identical to a true solution"], answer:0},

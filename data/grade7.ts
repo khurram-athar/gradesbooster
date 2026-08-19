@@ -2317,6 +2317,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Media Literacy: Evaluating Online Sources for Credibility", summary:"Grade 7 Language strand: evaluating an online source for credibility involves checking its author, publication date, purpose, and whether its claims are supported by reliable evidence.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=RJRfnZydB8k",
    quiz:[
      {q:"Evaluating an online source for credibility involves checking its ___.", options:["A concept unrelated to media literacy","Author, publication date, purpose, and supporting evidence","Font style and background colour only","Number of images used on the page"], answer:1},
      {q:"Why is it important to check who authored an online source?", options:["A reason unrelated to evaluating sources","Every author is equally credible regardless of their background","The author of a source never affects its credibility","It helps determine whether the author has relevant expertise or potential bias"], answer:3},
@@ -2326,6 +2327,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Complementary Events", summary:"Grade 7 Math strand: complementary events are two outcomes where exactly one must occur, and their probabilities always add up to 1 (or 100%).",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=0T-CaQCiSf4",
    quiz:[
      {q:"Complementary events are two outcomes where ___.", options:["Neither outcome can ever occur","Exactly one of the two must occur","A concept unrelated to complementary events","Both outcomes must occur at the same time"], answer:1},
      {q:"The probabilities of two complementary events always add up to ___.", options:["A value unrelated to complementary events","1 (or 100%)","2 (or 200%)","0"], answer:1},
@@ -2335,6 +2337,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fossil Formation and the Geologic Time Scale", summary:"Grade 7 Science strand: fossils form when the remains or traces of living things are preserved in rock over long periods of time, and the geologic time scale organizes Earth’s history into different eras and periods.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=q0665X2oOvI",
    quiz:[
      {q:"Fossils typically form when ___.", options:["A concept unrelated to fossil formation","Rocks form with no connection to living things at all","The remains or traces of living things are preserved in rock over time","A living thing is preserved instantly with no time required"], answer:2},
      {q:"The geologic time scale organizes Earth’s history into ___.", options:["Only the years since human history began","A single unbroken block of time","A concept unrelated to the geologic time scale","Different eras and periods"], answer:3},
@@ -2344,6 +2347,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s National Parks and Environmental Policy", summary:"Grade 7 Social Studies strand: Canada’s national parks protect significant natural areas, and environmental policy shapes how the country balances conservation with development and resource use.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WTAC2t-Bsas",
    quiz:[
      {q:"Canada’s national parks are primarily established to ___.", options:["Protect significant natural areas and biodiversity","A concept unrelated to national parks","Encourage unrestricted development in natural areas","Remove all public access to natural areas"], answer:0},
      {q:"Environmental policy generally aims to balance ___.", options:["A concept unrelated to environmental policy","Conservation with development and resource use","Conservation alone, with no consideration for the economy","Development alone, with no consideration for the environment"], answer:1},

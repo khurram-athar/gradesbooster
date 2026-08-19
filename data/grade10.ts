@@ -2318,17 +2318,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:56, label:"Day 56 — Mon", subjects:[
-  {subject:"English", title:"Reading: Analyzing Epistolary Narratives (Letters and Diaries)", summary:"Grade 10 English strand: an epistolary narrative tells a story through a series of documents, such as letters or diary entries, offering an intimate, first-person perspective shaped by the format itself.",
+  {subject:"English", title:"Reading: Point of View — First, Second, and Third Person", summary:"Grade 10 English strand: point of view determines who is telling a story and how much readers know, ranging from an intimate first-person narrator to an all-knowing third-person perspective, and each choice shapes how readers experience the narrative.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=B5vEfuLS2Qc",
    quiz:[
-     {q:"An epistolary narrative tells a story through a series of ___.", options:["A single uninterrupted scene with no separate documents","Only third-person, objective narration","A concept unrelated to narrative structure","Documents, such as letters or diary entries"], answer:3},
-     {q:"Why might an epistolary format create a particularly intimate reading experience?", options:["A concept unrelated to narrative perspective","The epistolary format has no effect on how a reader experiences a story","This format always creates emotional distance between the reader and the character","It presents a first-person perspective that can feel like a direct, personal window into a character’s thoughts"], answer:3},
-     {q:"Which of these is a potential limitation of an epistolary narrative?", options:["This format always provides complete, objective information about every event","A limitation unrelated to epistolary narratives","Readers only know what a character chooses to include in their letters or entries","Epistolary narratives have no potential limitations at all"], answer:2},
-     {q:"Why might multiple correspondents’ letters be used together in a single epistolary novel?", options:["A reason unrelated to epistolary narratives","It allows readers to see different perspectives on the same events","Using multiple correspondents never adds any additional perspective","This technique only works with a single narrator throughout"], answer:1},
-     {q:"Why do some contemporary novels use modern formats, like text messages or emails, in an epistolary style?", options:["They can update the traditional letter-based format to reflect how people communicate today","Contemporary novels never experiment with narrative format","Modern communication formats can never be used in an epistolary narrative","This technique has no connection to the original epistolary tradition"], answer:0}
+     {q:"A story told using ‘I’ and ‘we’ is written in ___ person.", options:["First","Second","Third","Fourth"], answer:0},
+     {q:"Which point of view addresses the reader directly as ‘you’?", options:["First person","Second person","Third person limited","Third person omniscient"], answer:1},
+     {q:"A third-person omniscient narrator ___.", options:["Never knows more than one character","Can only describe their own thoughts","Always speaks directly to the reader as ‘you’","Knows the thoughts and feelings of multiple characters"], answer:3},
+     {q:"Why might an author choose a first-person point of view?", options:["First person is never used in fiction","To describe events with no perspective at all","To create an intimate, personal connection with one character’s thoughts","To prevent readers from understanding any character"], answer:2},
+     {q:"A narrator who only knows one character’s thoughts, using ‘he’ or ‘she’, is writing in ___.", options:["First person","Third person limited","Second person","An unrelated point of view"], answer:1}
    ]},
   {subject:"Math", title:"Systems of Equations with Three Variables", summary:"Grade 10 Algebra strand (extension): a system of equations with three variables can be solved by systematically eliminating variables through substitution or elimination until a single variable’s value is found.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=0JQeo0yC9OQ",
    quiz:[
      {q:"A system of equations with three variables requires finding values that satisfy ___.", options:["None of the equations in the system","A concept unrelated to systems of equations","Only one of the equations, with no connection to the others","All of the equations in the system simultaneously"], answer:3},
      {q:"Solving a three-variable system often involves systematically ___.", options:["Adding a fourth variable to simplify the system","Eliminating variables until a single variable’s value is found","A method unrelated to solving systems of equations","Ignoring two of the three variables entirely"], answer:1},
@@ -2338,6 +2340,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth Science: Weathering and Erosion Processes", summary:"Grade 10 Earth Science strand: weathering breaks down rock and minerals in place, while erosion transports the resulting sediment elsewhere, together gradually reshaping Earth’s surface over time.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=QJUs4e2X5Uo",
    quiz:[
      {q:"Weathering refers to the process of ___.", options:["Transporting sediment from one location to another","A concept unrelated to Earth’s surface","Breaking down rock and minerals in place","Forming entirely new rock with no connection to existing material"], answer:2},
      {q:"Erosion refers to the process of ___.", options:["Breaking down rock and minerals in place, with no transportation involved","Forming mountains with no connection to sediment movement","Transporting sediment from one location to another","A concept unrelated to weathering"], answer:2},
@@ -2347,6 +2350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Same-Sex Marriage Legalization in Canada", summary:"Grade 10 History strand: Canada legalized same-sex marriage nationwide in 2005 through the Civil Marriage Act, making it one of the first countries in the world to do so, following a series of provincial court rulings.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=6xQS2QYyXxE",
    quiz:[
      {q:"Canada legalized same-sex marriage nationwide in which year?", options:["2005","1970","1945","1990"], answer:0},
      {q:"Same-sex marriage in Canada was legalized nationwide through ___.", options:["A law that had no connection to LGBTQ rights","An act entirely unrelated to marriage rights","The Civil Marriage Act","A decision made with no formal legislation at all"], answer:2},

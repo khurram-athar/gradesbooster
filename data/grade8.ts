@@ -2327,6 +2327,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Simplifying Complex Radical Expressions", summary:"Grade 8 Math strand (pre-high-school extension): simplifying a radical expression involves factoring out perfect squares from under the radical sign and combining like radical terms.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=xyTuFgcb4Yk",
    quiz:[
      {q:"Simplifying a radical expression often involves factoring out ___.", options:["The entire expression with no factoring at all","Perfect squares from under the radical sign","A concept unrelated to simplifying radicals","Only prime numbers with no other factors"], answer:1},
      {q:"Simplify: √50.", options:["A value unrelated to the calculation","5√2","10√5","25√2"], answer:1},
@@ -2336,6 +2337,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Periodic Table: Trends and Organization", summary:"Grade 8 Science strand: the periodic table organizes elements by increasing atomic number into rows called periods and columns called groups, with elements in the same group sharing similar chemical properties.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=hePb00CqvP0",
    quiz:[
      {q:"The periodic table organizes elements by ___.", options:["A concept unrelated to the periodic table","Random order with no organizing pattern","Increasing atomic number","Alphabetical order of their names"], answer:2},
      {q:"A row on the periodic table is called a ___.", options:["Isotope","Group","A term unrelated to the periodic table","Period"], answer:3},
@@ -2345,6 +2347,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The National Energy Program and Western Alienation", summary:"Grade 8 History strand: the National Energy Program of 1980 was a federal policy aimed at increasing Canadian control over the oil industry, which fuelled resentment in Western provinces and heightened feelings of Western alienation.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=CAOPn8UU7GU",
    quiz:[
      {q:"The National Energy Program was introduced in ___.", options:["1980","A year unrelated to the National Energy Program","1867","2005"], answer:0},
      {q:"The National Energy Program aimed to ___.", options:["A goal unrelated to the National Energy Program","Increase Canadian control over the oil industry","Transfer full control of resources to foreign companies","Eliminate the oil industry entirely"], answer:1},

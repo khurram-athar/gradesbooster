@@ -2313,14 +2313,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:56, label:"Day 56 — Mon", subjects:[
-  {subject:"Language", title:"Writing: Writing a Book Review", summary:"Grade 3 Language strand: a book review shares a reader’s opinion about a book, including what they liked or disliked, and gives reasons to support that opinion so others can decide if they might enjoy it too.",
+  {subject:"Language", title:"Writing: Giving Your Opinion with Strong Reasons", summary:"Grade 3 Language strand: strong opinion writing states a clear opinion and then supports it with specific reasons and examples, helping readers understand and consider the writer’s point of view.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=EwlYUBmoe8U",
    quiz:[
-     {q:"A book review shares a reader’s ___ about a book.", options:["Only the exact number of pages","Opinion","A completely factual summary with no personal opinion at all","A concept unrelated to a reader’s thoughts on a book"], answer:1},
-     {q:"A book review should include reasons that support the reader’s ___.", options:["The price of the book only","Favourite colour, with no connection to the book","A concept unrelated to explaining their view","Opinion"], answer:3},
-     {q:"Why might a book review help other readers decide whether to read a book?", options:["A book review never provides any useful information to other readers","This concept has no connection to helping others make reading choices","It offers an honest opinion and specific reasons that can help others predict if they would enjoy it too","Readers should never consider another person’s opinion about a book"], answer:2},
-     {q:"Which is an example of a reason that might support a positive book review?", options:["A reason entirely unrelated to the book’s content","A sentence with no connection to the reader’s opinion","The characters felt relatable and the story kept me interested","Simply saying “it was fine” with no further explanation"], answer:2},
-     {q:"Why is it helpful for a book review to be specific, rather than vague?", options:["Specificity has no connection to how useful a book review is","Specific details help the reader understand exactly what the reviewer liked or disliked and why","Vague reviews are always more helpful than specific ones","This concept has no relevance to writing an effective review"], answer:1}
+     {q:"A strong opinion piece states a clear ___ and then supports it with reasons.", options:["Opinion","Recipe","Weather report","Math problem"], answer:0},
+     {q:"Which is an example of a specific reason that supports an opinion?", options:["A sentence about the weather","A completely unrelated fact","The story was exciting because the characters felt real","A description of a math equation"], answer:2},
+     {q:"Why do writers include reasons in an opinion piece?", options:["Reasons are never needed","To confuse the reader","To make the writing longer with no purpose","To help readers understand and consider their point of view"], answer:3},
+     {q:"Which opinion statement includes a reason?", options:["I liked the book.","I liked the book because the ending surprised me.","Books are objects.","The book has pages."], answer:1},
+     {q:"A weak opinion statement is one that ___.", options:["Gives no reasons to support it","Explains a clear reason","Uses specific examples","Helps the reader understand the writer’s view"], answer:0}
    ]},
   {subject:"Math", title:"Measurement: Converting Units of Length", summary:"Grade 3 Math strand: converting units of length involves changing a measurement from one unit, like centimetres, to another, like metres, using the relationship between the two units.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",

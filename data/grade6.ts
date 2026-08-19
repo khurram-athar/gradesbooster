@@ -2315,17 +2315,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:56, label:"Day 56 — Mon", subjects:[
-  {subject:"Language", title:"Media Literacy: Understanding Clickbait and Headlines", summary:"Grade 6 Language strand: clickbait uses sensational or misleading headlines designed to attract clicks, often exaggerating or leaving out important information from a story.",
+  {subject:"Language", title:"Media Literacy: Spotting Fake News Online", summary:"Grade 6 Language strand: fake news is false or misleading information presented as if it were real news, and media-literate readers learn to check sources, compare reports, and look for evidence before believing or sharing a story.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=D0Cd9-eJ-No",
    quiz:[
-     {q:"Clickbait headlines are designed to ___.", options:["Give a completely accurate summary of every detail in a story","Provide no information about the article at all","Attract clicks, often through sensational or exaggerated wording","A concept unrelated to media literacy"], answer:2},
-     {q:"Which is a common feature of a clickbait headline?", options:["Using only plain, unemotional language","A concept unrelated to clickbait","Providing a full and accurate summary of the story","Leaving out key information to create curiosity"], answer:3},
-     {q:"Why should readers be cautious of clickbait headlines?", options:["Headlines never affect how a reader understands a story","A reason unrelated to media literacy","They can be misleading and may not accurately represent the full story","Clickbait headlines are always completely accurate"], answer:2},
-     {q:"What is one strategy for evaluating a headline before sharing an article?", options:["Reading the full article to check whether the headline is accurate","Assuming every headline is completely truthful","A concept unrelated to media literacy","Sharing the article immediately without reading it"], answer:0},
-     {q:"Why do some websites rely on clickbait headlines?", options:["Websites are required by law to use clickbait headlines","A reason unrelated to media literacy","Clickbait headlines never attract any additional attention","Sensational headlines can attract more clicks and views"], answer:3}
+     {q:"Fake news is ___ presented as if it were real news.", options:["False or misleading information","A completely accurate report","An eyewitness photograph","A verified scientific study"], answer:0},
+     {q:"Which is a good strategy for checking whether a story is true?", options:["Believing the first headline you see","Comparing the story with other trusted sources","Sharing it immediately","Ignoring where the story came from"], answer:1},
+     {q:"Why might someone create fake news?", options:["Fake news is never created on purpose","To provide only accurate information","To attract attention or spread a false idea","To help readers stay informed"], answer:2},
+     {q:"Which of these is a sign a story might not be trustworthy?", options:["It has no author and no sources","It cites named, verifiable sources","It matches reports from other reliable outlets","It was written by a known journalist"], answer:0},
+     {q:"Before sharing a story online, a media-literate reader should ___.", options:["Share it right away without reading it","Assume all online stories are true","Ignore who published it","Check whether the information is accurate first"], answer:3}
    ]},
   {subject:"Math", title:"Venn Diagrams and Set Notation (Intro)", summary:"Grade 6 Math strand: a Venn diagram uses overlapping circles to show relationships between sets, such as items that belong to one group, another group, or both.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=xZELQc11ACY",
    quiz:[
      {q:"A Venn diagram uses overlapping circles to show ___.", options:["A concept unrelated to Venn diagrams","A list with no visual organization at all","Relationships between different sets of items","A single unrelated number"], answer:2},
      {q:"The overlapping section of two circles in a Venn diagram represents ___.", options:["Items that belong to both sets","Items that belong to neither set","A concept unrelated to Venn diagrams","Items that appear only outside both circles"], answer:0},
@@ -2335,6 +2337,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classification of Matter: Elements, Compounds, and Mixtures", summary:"Grade 6 Science strand: matter can be classified as an element (a single pure substance), a compound (two or more elements chemically combined), or a mixture (substances combined without a chemical reaction).",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=SRsorIm-5Bk",
    quiz:[
      {q:"An element is best described as ___.", options:["A substance found only in outer space","A concept unrelated to matter","A combination of two or more different substances","A single pure substance made of only one type of atom"], answer:3},
      {q:"A compound is formed when ___.", options:["A concept unrelated to compounds","Substances are physically combined with no chemical reaction","A single element exists completely on its own","Two or more elements are chemically combined"], answer:3},
@@ -2344,6 +2347,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Berlin Wall and a Divided Germany", summary:"Grade 6 Social Studies strand: the Berlin Wall was built in 1961 to divide East and West Berlin during the Cold War, becoming a powerful symbol of a divided Germany until it fell in 1989.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=A9fQPzZ1-hg",
    quiz:[
      {q:"The Berlin Wall was built to divide ___.", options:["East and West Berlin","Two cities located in Canada","North and South Korea","A division unrelated to the Berlin Wall"], answer:0},
      {q:"The Berlin Wall was built during the historical period known as ___.", options:["The Industrial Revolution","The Renaissance","The Cold War","A period unrelated to the Berlin Wall"], answer:2},

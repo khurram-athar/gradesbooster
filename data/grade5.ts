@@ -2317,6 +2317,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Figurative Language: Alliteration and Assonance", summary:"Grade 5 Language strand: alliteration repeats consonant sounds at the start of nearby words, while assonance repeats vowel sounds within nearby words, both creating rhythm and emphasis.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=6dACXPirT3s",
    quiz:[
      {q:"Alliteration repeats ___.", options:["The same word over and over with no variation","A concept unrelated to figurative language","Consonant sounds at the start of nearby words","Vowel sounds within nearby words"], answer:2},
      {q:"Assonance repeats ___.", options:["Consonant sounds at the start of nearby words","A concept unrelated to figurative language","Only the final letter of a word","Vowel sounds within nearby words"], answer:3},
@@ -2326,6 +2327,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing and Ordering Integers", summary:"Grade 5 Math strand: integers can be compared and ordered on a number line, where numbers further to the right are greater than numbers further to the left.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=2FbafvAGhZ0",
    quiz:[
      {q:"On a number line, a number further to the right is ___.", options:["A concept unrelated to comparing integers","Exactly equal to every other number","Greater than a number to its left","Always smaller than a number to its left"], answer:2},
      {q:"Which integer is greater: -3 or 2?", options:["2","-3","They are equal","A value unrelated to the comparison"], answer:0},
@@ -2335,6 +2337,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Static Electricity and Charge", summary:"Grade 5 Science strand: static electricity occurs when electric charges build up on the surface of an object, often from friction, and can cause objects to attract or repel each other.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=JkIcKEjh-rU",
    quiz:[
      {q:"Static electricity often builds up because of ___.", options:["A concept unrelated to static electricity","The temperature of the air alone","Friction between two objects","Water flowing through a pipe"], answer:2},
      {q:"Objects with the same type of electric charge will ___ each other.", options:["Attract","Have no effect on","Repel","An interaction unrelated to charge"], answer:2},
@@ -2344,6 +2347,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Population Distribution and Density in Canada", summary:"Grade 5 Social Studies strand: Canada’s population is unevenly distributed, with most people living in southern regions near the border, resulting in varying population density across the country.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=3XsKRPF1zUA",
    quiz:[
      {q:"Population density refers to ___.", options:["A concept unrelated to population","The total land area of a country","The number of people living in a given area","The number of cities in a country"], answer:2},
      {q:"Most of Canada’s population lives ___.", options:["Equally spread across every region of the country","A location unrelated to population distribution","In southern regions, close to the border with the United States","In the far northern Arctic regions"], answer:2},

@@ -2315,6 +2315,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Figurative Language: Hyperbole", summary:"Grade 4 Language strand: hyperbole is an extreme exaggeration used for effect, such as saying “I have a million things to do.”",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=GUBNBCUTpvs",
    quiz:[
      {q:"Hyperbole is a figure of speech that uses ___.", options:["Extreme exaggeration for effect","Comparisons using “like” or “as”","A concept unrelated to figurative language","Only literal, exact statements"], answer:0},
      {q:"Which sentence contains a hyperbole?", options:["I had a sandwich for lunch today.","I am so hungry I could eat a horse.","I ate a small snack this afternoon.","A sentence unrelated to hyperbole"], answer:1},
@@ -2344,6 +2345,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Fur Trade in Canadian History", summary:"Grade 4 Social Studies strand: the fur trade was a major economic activity in early Canadian history, involving Indigenous peoples and European traders exchanging goods such as furs, tools, and cloth.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=dL2mvcydRYQ",
    quiz:[
      {q:"The fur trade primarily involved the exchange of ___.", options:["Furs for European tools, cloth, and other goods","A concept unrelated to the fur trade","Only gold and silver coins","Modern manufactured electronics"], answer:0},
      {q:"Which group played a central role in the fur trade as both trappers and traders?", options:["Only settlers who arrived after the fur trade ended","A group unrelated to the fur trade","People with no connection to the fur trade at all","Indigenous peoples"], answer:3},

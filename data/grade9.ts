@@ -2317,6 +2317,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Literary Analysis Thesis and Outline", summary:"Grade 9 Writing strand: a literary analysis thesis presents a specific, arguable claim about a text, and an outline organizes supporting evidence and reasoning into a clear structure before drafting the full essay.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=Fb8UzvGGqR4",
    quiz:[
      {q:"A literary analysis thesis should present ___.", options:["A list of random facts with no central claim","A concept unrelated to literary analysis","A simple summary of the text’s plot","A specific, arguable claim about a text"], answer:3},
      {q:"An outline for a literary analysis essay is used to ___.", options:["List unrelated ideas with no connection to the thesis","A step that is never useful before writing an essay","Organize supporting evidence and reasoning before drafting the full essay","Replace the need for any evidence in the final essay"], answer:2},
@@ -2326,6 +2327,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Piecewise Functions", summary:"Grade 9 Algebra strand (non-linear relations): a piecewise function is defined by different expressions over different intervals of its domain, allowing it to model situations that change behaviour under different conditions.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=tedzsRH0Jas",
    quiz:[
      {q:"A piecewise function is defined by ___.", options:["An expression with no defined domain at all","A single expression that applies to its entire domain with no exceptions","A concept unrelated to functions","Different expressions over different intervals of its domain"], answer:3},
      {q:"Piecewise functions are especially useful for modelling situations that ___.", options:["Change behaviour under different conditions","Always behave in exactly the same way regardless of input","A concept unrelated to real-world modelling","Never change under any circumstances"], answer:0},
@@ -2335,6 +2337,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound Waves and the Doppler Effect", summary:"Grade 9 Science Physics strand: the Doppler effect describes the change in a sound wave’s perceived frequency when its source is moving relative to an observer, such as a siren sounding higher-pitched as it approaches.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=w8gXEfbdEIY",
    quiz:[
      {q:"The Doppler effect describes a change in a wave’s perceived ___ due to relative motion between source and observer.", options:["A property unrelated to sound waves","Colour","Frequency","Only its speed of light"], answer:2},
      {q:"As a sound source moves toward an observer, the perceived pitch typically ___.", options:["Remains completely unaffected by the motion","Becomes completely silent","Increases","Decreases"], answer:2},
@@ -2344,6 +2347,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Geography of International Trade Agreements", summary:"Grade 9 Social Studies (Geography) strand: international trade agreements establish rules for economic exchange between countries, often shaped by geographic factors such as shared borders, transportation routes, and regional proximity.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=uEgTFdXYHQ8",
    quiz:[
      {q:"An international trade agreement establishes rules for ___.", options:["The complete elimination of all trade between countries","Economic exchange between countries","A concept unrelated to international relationships","Only cultural exchange, with no economic component"], answer:1},
      {q:"Which geographic factor might influence which countries form a trade agreement together?", options:["The countries involved must always be on opposite sides of the world","A factor entirely unrelated to geography","Shared borders or close regional proximity","Trade agreements never consider geographic factors"], answer:2},

@@ -2323,6 +2323,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"English", title:"Writing: The Academic Book Review", summary:"Grade 12 English strand: an academic book review summarizes a text’s central argument, evaluates its evidence and methodology, and situates the work within a broader field of scholarship, going beyond a simple opinion or summary.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=IhYF3v3zTeo",
    quiz:[
      {q:"An academic book review summarizes a text’s central ___.", options:["Cover design and page count exclusively","Author’s personal biography only, with no connection to the text’s content","Argument","A concept unrelated to reviewing a text"], answer:2},
      {q:"An academic book review evaluates a text’s evidence and ___.", options:["A concept unrelated to academic evaluation","Number of chapters exclusively, with no connection to content","Font choice, with no connection to the quality of the work","Methodology"], answer:3},
@@ -2342,6 +2343,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Volumes by Cross-Sections (Non-Revolution Solids)", summary:"Grade 12 Calculus strand: the cross-sections method finds the volume of a solid by integrating the area of its cross-sections along an axis, applicable even when the solid is not formed by revolving a curve around an axis.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=qMXPnfx2MQM",
    quiz:[
      {q:"The cross-sections method finds the volume of a solid by integrating the ___ of its cross-sections along an axis.", options:["Colour, with no connection to any geometric property","Perimeter exclusively, with no connection to area","A concept unrelated to finding volume","Area"], answer:3},
      {q:"The cross-sections method is applicable even when a solid is not formed by ___ a curve around an axis.", options:["Drawing, in any form whatsoever","A concept unrelated to how a solid is constructed","Revolving","Measuring, with no connection to how the solid is generated"], answer:2},
@@ -2351,6 +2353,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Lenses and Optical Instruments (Telescopes and Microscopes)", summary:"Grade 12 Physics strand: lenses refract light to form images, and combining multiple lenses in optical instruments like telescopes and microscopes can magnify distant or tiny objects beyond what a single lens could achieve.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=SddBPTcmqOk",
    quiz:[
      {q:"Lenses form images by ___ light.", options:["Reflecting exclusively, with no refraction involved","A concept unrelated to how lenses function","Refracting","Completely absorbing, with no light passing through"], answer:2},
      {q:"Combining multiple lenses in optical instruments can ___ distant or tiny objects beyond what a single lens could achieve.", options:["Magnify","Completely hide from view, with no image produced","A concept unrelated to optical instruments","Shrink to an unusable, indistinguishable size"], answer:0},

@@ -13653,6 +13653,7 @@
         "summary": "Grade 12 English strand: an academic book review summarizes a text’s central argument, evaluates its evidence and methodology, and situates the work within a broader field of scholarship, going beyond a simple opinion or summary.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=IhYF3v3zTeo",
         "quiz": [
           {
             "q": "An academic book review summarizes a text’s central ___.",
@@ -13772,6 +13773,7 @@
         "summary": "Grade 12 Calculus strand: the cross-sections method finds the volume of a solid by integrating the area of its cross-sections along an axis, applicable even when the solid is not formed by revolving a curve around an axis.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=qMXPnfx2MQM",
         "quiz": [
           {
             "q": "The cross-sections method finds the volume of a solid by integrating the ___ of its cross-sections along an axis.",
@@ -13831,6 +13833,7 @@
         "summary": "Grade 12 Physics strand: lenses refract light to form images, and combining multiple lenses in optical instruments like telescopes and microscopes can magnify distant or tiny objects beyond what a single lens could achieve.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=SddBPTcmqOk",
         "quiz": [
           {
             "q": "Lenses form images by ___ light.",
