@@ -43820,5 +43820,1699 @@
         ]
       }
     ]
+  },
+  {
+    "day": 181,
+    "label": "Day 181 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: The Subjunctive Mood and Its Uses",
+        "summary": "Grade 6 Language strand: the subjunctive mood expresses a wish, suggestion, or a condition that is not currently true, often appearing in clauses such as if I were you or the teacher suggested that he arrive early.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does the subjunctive mood typically express?",
+            "options": [
+              "A command given to a group",
+              "A wish, suggestion, or a condition that is not currently true",
+              "A question about the past",
+              "A simple statement of fact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses the subjunctive mood correctly?",
+            "options": [
+              "If I was taller, I would join the team.",
+              "If I will be taller, I would join the team.",
+              "If I am taller, I would join the team.",
+              "If I were taller, I would join the team."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word in the sentence The coach suggested that she practice every day signals the subjunctive mood?",
+            "options": [
+              "Practice, the base form used instead of practices",
+              "Coach",
+              "Every day",
+              "Suggested"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does English use were instead of was in subjunctive statements like If I were you?",
+            "options": [
+              "Were is only used when talking about more than one person",
+              "The special verb form signals that the statement describes a hypothetical or unreal situation",
+              "Was is grammatically incorrect in every sentence",
+              "The subjunctive mood has no connection to hypothetical situations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose subjunctive phrasing such as I wish I were rather than a simple statement?",
+            "options": [
+              "The subjunctive mood cannot be used to express wishes",
+              "Simple statements always convey hypothetical ideas more clearly than the subjunctive",
+              "Subjunctive phrasing always makes a sentence factually true",
+              "It clearly signals that the wish describes something not currently true, adding precision to the sentences meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Introduction to Modular Arithmetic (Clock Math)",
+        "summary": "Grade 6 Math strand: modular arithmetic finds the remainder after dividing one number by another, often called clock math because a 12-hour clock cycles back to 1 after reaching 12, similar to counting modulo 12.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does modular arithmetic calculate?",
+            "options": [
+              "The average of a list of numbers",
+              "The sum of two numbers",
+              "The square root of a number",
+              "The remainder after dividing one number by another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 14 mod 5?",
+            "options": [
+              "4",
+              "9",
+              "2",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a 12-hour clock, what time is 3 hours after 11:00?",
+            "options": [
+              "14:00",
+              "1:00",
+              "2:00",
+              "3:00"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a 12-hour clock a useful real-world example of modular arithmetic?",
+            "options": [
+              "Clock times cycle back to 1 after reaching 12, matching how modular arithmetic wraps numbers around after reaching a fixed value",
+              "Modular arithmetic has no connection to how time is measured",
+              "A 12-hour clock counts upward forever without ever resetting",
+              "Clocks never repeat any numbers throughout the day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might modular arithmetic be useful in fields such as computer science, beyond telling time?",
+            "options": [
+              "Computers never need to work with repeating or cyclical patterns",
+              "It provides a systematic way to work with numbers that cycle or repeat in a fixed pattern, useful for tasks such as scheduling or encoding data",
+              "Modular arithmetic removes the need for any other type of calculation",
+              "Modular arithmetic can only be used to calculate exact, non-repeating totals"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Crystal Formation and Crystallization",
+        "summary": "Grade 6 Science strand: crystallization occurs when a dissolved substance separates from a solution and its particles arrange themselves into a repeating geometric pattern, forming a solid crystal, a process that can be sped up by cooling or evaporating a solution.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is crystallization?",
+            "options": [
+              "A process that only occurs inside living cells",
+              "The complete disappearance of a dissolved substance",
+              "A process in which a dissolved substance separates from a solution and forms a solid with a repeating geometric pattern",
+              "A process that turns a solid directly into a gas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can speed up the crystallization process in a solution?",
+            "options": [
+              "Removing all dissolved substance from the solution",
+              "Adding more solvent to the solution",
+              "Cooling or evaporating the solution",
+              "Keeping the solution at a constant warm temperature indefinitely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What repeating structure do the particles in a crystal typically form?",
+            "options": [
+              "A gaseous cloud with no particles",
+              "A liquid structure with no fixed shape",
+              "A completely random, unrepeated arrangement",
+              "A repeating geometric pattern"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do crystals often form specific geometric shapes, such as cubes or hexagons?",
+            "options": [
+              "The particles arrange themselves in a repeating pattern determined by how they bond together at a molecular level",
+              "Crystals never have any predictable shape at all",
+              "Crystal shapes are chosen randomly with no connection to particle arrangement",
+              "All crystals form the exact same shape regardless of their particles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might scientists grow crystals slowly in a laboratory rather than quickly?",
+            "options": [
+              "The speed of crystallization has no effect on the size of the resulting crystals",
+              "Crystals can only form correctly when cooled instantly",
+              "Growing crystals slowly always produces smaller, weaker crystals",
+              "Slower crystallization generally allows larger, more well formed crystals to develop, since the particles have more time to arrange into an orderly pattern"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Nellie McClung and the Fight for Womens Suffrage in Canada",
+        "summary": "Grade 6 Social Studies strand: Nellie McClung was a Canadian author and activist who campaigned for womens right to vote, helping Manitoba become the first province to grant women suffrage in 1916.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What cause did Nellie McClung campaign for?",
+            "options": [
+              "Free international trade agreements",
+              "Womens right to vote",
+              "Lower taxes for farmers",
+              "The construction of new railways"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which province became the first in Canada to grant women the right to vote, largely due to activists like McClung?",
+            "options": [
+              "Manitoba",
+              "British Columbia",
+              "Quebec",
+              "Ontario"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did Manitoba grant women the right to vote?",
+            "options": [
+              "1949",
+              "1929",
+              "1867",
+              "1916"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might activists like Nellie McClung have used writing and public speaking to advance their cause?",
+            "options": [
+              "Writing and speaking had no effect on public opinion at the time",
+              "Only government officials were permitted to discuss voting laws",
+              "Activists were legally required to remain silent about their views",
+              "Public writing and speaking could reach and persuade a wide audience, building support for changing unfair laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the history of the womens suffrage movement in Canada still studied today?",
+            "options": [
+              "The movement had no lasting impact on Canadian law",
+              "Voting rights in Canada have never changed since Confederation",
+              "It highlights how organized advocacy can lead to meaningful legal change and expanded rights over time",
+              "Studying past advocacy movements has no relevance to understanding rights today"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "label": "Day 182 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Motifs in Literature",
+        "summary": "Grade 6 Language strand: a motif is a recurring image, symbol, or idea that appears repeatedly throughout a literary work, helping to reinforce its central themes.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a motif?",
+            "options": [
+              "A recurring image, symbol, or idea that appears repeatedly throughout a literary work",
+              "A type of punctuation used in dialogue",
+              "The title of a book",
+              "A single event that happens only once in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one purpose of a motif in a story?",
+            "options": [
+              "It has no connection to a storys meaning",
+              "It replaces the need for a plot",
+              "It helps reinforce the storys central themes",
+              "It only appears one single time in a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could serve as a motif if it appeared repeatedly throughout a novel?",
+            "options": [
+              "The font used in printing",
+              "A page number",
+              "The books total word count",
+              "A particular colour, object, or phrase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author repeat a specific image, such as a caged bird, throughout a story?",
+            "options": [
+              "A repeated image can never be connected to a storys theme",
+              "Authors never repeat images or ideas within a single story",
+              "Repetition can draw attention to an idea, such as a feeling of being trapped, and connect it to a larger theme",
+              "Repeating an image always confuses readers with no benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recognizing motifs useful for a reader analyzing a novels deeper meaning?",
+            "options": [
+              "A novels deeper meaning can only be found in its title",
+              "Motifs never reveal anything about an authors intended themes",
+              "Recognizing patterns in a text always distracts from its meaning",
+              "Noticing patterns that repeat can reveal ideas the author wants to emphasize beyond the surface events of the plot"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems of Two Linear Equations by Graphing",
+        "summary": "Grade 6 Math strand: a system of two linear equations can be solved by graphing both lines on the same coordinate plane and identifying the point where they intersect, which represents the solution that satisfies both equations.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does the point of intersection of two graphed lines represent in a system of equations?",
+            "options": [
+              "The starting point of the first line only",
+              "The steepest point on either line",
+              "A point that satisfies neither equation",
+              "The solution that satisfies both equations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many solutions does a system of two linear equations typically have if the lines intersect at exactly one point?",
+            "options": [
+              "One solution",
+              "No solution",
+              "Infinite solutions",
+              "Two solutions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean if two lines in a system never intersect?",
+            "options": [
+              "The system has no solution",
+              "The system has infinite solutions",
+              "The lines are the same line",
+              "The system has exactly one solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does graphing provide a visual way to solve a system of two linear equations?",
+            "options": [
+              "The intersection point can be seen directly on the graph, showing the values that make both equations true at the same time",
+              "A graph can only display a single equation at once",
+              "Graphing never shows where two equations share a common solution",
+              "Intersection points on a graph have no connection to solving equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might graphing be less precise than other methods for solving a system of equations with a solution that includes fractions?",
+            "options": [
+              "Graphing always gives a more precise answer than any other method",
+              "Fractional solutions can never be estimated using a graph",
+              "Graphing and algebraic methods always produce identical levels of precision",
+              "Reading exact fractional coordinates from a hand-drawn graph can be difficult, making the graphical method better suited for estimating or checking a solution"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Earths Magnetic Field and How a Compass Works",
+        "summary": "Grade 6 Science strand: Earth behaves like a giant magnet with a magnetic field that stretches from pole to pole, and a compass needle aligns itself with this field to point toward magnetic north.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does Earth behave like, according to scientists studying magnetism?",
+            "options": [
+              "A giant magnet with a magnetic field",
+              "A magnet only at its exact center",
+              "An object with no magnetic properties at all",
+              "A completely non-magnetic sphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a compass needle align itself with?",
+            "options": [
+              "The nearest large body of water",
+              "Earths magnetic field",
+              "The position of the sun only",
+              "The direction of the wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Toward what does a compass needle typically point?",
+            "options": [
+              "The nearest mountain",
+              "The equator",
+              "Magnetic north",
+              "The center of Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why has a compass been such a useful navigation tool throughout history?",
+            "options": [
+              "It provides a reliable way to determine direction using Earths magnetic field, even when other landmarks are not visible",
+              "A compass only works when landmarks are already clearly visible",
+              "Earths magnetic field has no connection to how a compass functions",
+              "Compasses have never been useful for navigation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a compass give an inaccurate reading if held too close to a strong magnet or large piece of metal?",
+            "options": [
+              "Nearby metal objects always make a compass more accurate",
+              "Compass needles are never affected by nearby magnetic materials",
+              "Earths magnetic field becomes stronger near metal objects",
+              "A nearby magnetic source can interfere with the compass needles alignment to Earths much weaker magnetic field"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Equalization Payments Between Canadian Provinces",
+        "summary": "Grade 6 Social Studies strand: equalization payments are funds transferred by the federal government to less wealthy provinces so that all provinces can provide reasonably similar levels of public services at reasonably similar levels of taxation.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What are equalization payments?",
+            "options": [
+              "Fees charged to municipalities for road repairs",
+              "Funds transferred by the federal government to less wealthy provinces",
+              "Loans that provinces must repay to private banks",
+              "Taxes collected exclusively from foreign visitors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main goal of the equalization payment system?",
+            "options": [
+              "To help all provinces provide reasonably similar levels of public services",
+              "To replace provincial taxes entirely",
+              "To fund only one province permanently",
+              "To eliminate all provincial governments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which level of government provides equalization payments to provinces?",
+            "options": [
+              "Foreign governments",
+              "Municipal governments",
+              "The federal government",
+              "Private companies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country like Canada choose to redistribute funds between provinces of differing wealth?",
+            "options": [
+              "Redistribution can help ensure that residents across the country have access to comparable services such as healthcare and education, regardless of where they live",
+              "Redistributing funds always reduces the quality of services in every province",
+              "Provinces are never permitted to have differing levels of wealth",
+              "Equalization payments have no connection to public services"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can equalization payments sometimes be a source of political debate between provinces?",
+            "options": [
+              "Every province receives the exact same amount regardless of wealth",
+              "All provinces always agree completely on how equalization payments should work",
+              "Provinces receiving fewer payments may feel their contributions outweigh what they receive back, while others may depend on the funding to maintain public services",
+              "Equalization payments are never discussed in Canadian politics"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "label": "Day 183 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Speech of Introduction",
+        "summary": "Grade 6 Language strand: a speech of introduction presents a guest speaker to an audience by briefly highlighting their background and achievements, building excitement and credibility before they begin speaking.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a speech of introduction typically present?",
+            "options": [
+              "A guest speaker to an audience",
+              "An unrelated news story",
+              "A list of upcoming school events",
+              "A detailed weather forecast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a speech of introduction usually highlight about the speaker?",
+            "options": [
+              "A detailed weather forecast",
+              "An unrelated news story",
+              "The introducers own opinions on unrelated topics",
+              "Their background and achievements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one goal of a speech of introduction?",
+            "options": [
+              "Building excitement and credibility before the speaker begins",
+              "Replacing the guest speakers entire presentation",
+              "Making the audience forget about the guest speaker",
+              "Discouraging the audience from listening further"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should a speech of introduction remain relatively brief?",
+            "options": [
+              "Length has no effect on how an audience responds to an introduction",
+              "A brief introduction always fails to properly welcome a guest speaker",
+              "Longer introductions are always more effective than shorter ones",
+              "A concise introduction keeps the audiences focus on the guest speaker rather than the person introducing them"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might including a specific accomplishment or credential in an introduction help the audience?",
+            "options": [
+              "General statements always build more trust than specific details",
+              "Credentials have no effect on how an audience perceives a speaker",
+              "Specific details can establish why the speaker is worth listening to, building trust and interest before they even begin",
+              "Specific details always make an introduction less credible"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Calculating Percentiles in a Data Set",
+        "summary": "Grade 6 Math strand: a percentile indicates the percentage of values in a data set that fall below a particular value, helping compare an individual score to the rest of a group.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a percentile indicate about a value in a data set?",
+            "options": [
+              "The exact average of the entire data set",
+              "The percentage of values in the data set that fall below it",
+              "The total number of values in the data set",
+              "The largest value found anywhere in the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a students test score is at the 80th percentile, what does that mean?",
+            "options": [
+              "The student scored in the bottom 20 percent",
+              "The student answered exactly 80 percent of questions correctly",
+              "About 80 percent of scores in the data set are below that students score",
+              "80 students took the test"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What percentile represents the median of a data set?",
+            "options": [
+              "The 50th percentile",
+              "The 25th percentile",
+              "The 100th percentile",
+              "The 0th percentile"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are percentiles useful for comparing an individual result to a larger group?",
+            "options": [
+              "Percentiles cannot be used to compare individual results at all",
+              "Percentiles always hide how an individual compares to a group",
+              "They show relative standing within the group rather than just a raw score, making comparisons easier to interpret",
+              "Raw scores always provide more useful comparisons than percentiles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might two data sets with different total numbers of values still be compared fairly using percentiles?",
+            "options": [
+              "Percentiles always require identical sample sizes to be meaningful",
+              "Data sets of different sizes can never be compared in any way",
+              "Percentiles can only be calculated when two data sets have the exact same number of values",
+              "Percentiles are based on relative position within each data set, so they allow meaningful comparisons regardless of how many values each set contains"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Maillard Reaction — The Chemistry of Browning Food",
+        "summary": "Grade 6 Science strand: the Maillard reaction is a chemical reaction between amino acids and sugars that occurs when food is heated, producing the browned colour and rich flavour found in foods such as toasted bread and seared meat.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What two substances react with each other during the Maillard reaction?",
+            "options": [
+              "Oil and vinegar",
+              "Water and salt",
+              "Oxygen and carbon dioxide",
+              "Amino acids and sugars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition is needed for the Maillard reaction to occur in food?",
+            "options": [
+              "The food must be heated",
+              "The food must be frozen",
+              "The food must be left in complete darkness",
+              "The food must be soaked in water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What visible change does the Maillard reaction typically produce in food?",
+            "options": [
+              "No visible change at all",
+              "A transparent appearance",
+              "A browned colour",
+              "A bright blue colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does toasted bread taste and look different from untoasted bread?",
+            "options": [
+              "Toasting bread removes all of its flavour compounds",
+              "Heating triggers the Maillard reaction, producing new flavour compounds and a browned colour that are not present in the unheated bread",
+              "The Maillard reaction only occurs in liquids, never in bread",
+              "Heat has no effect on the flavour or colour of bread"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a cook sear meat at a high temperature before finishing it in a lower-temperature oven?",
+            "options": [
+              "The high heat triggers the Maillard reaction on the surface, developing a browned crust and rich flavour that a lower temperature alone would not produce",
+              "Searing meat always removes its flavour entirely",
+              "High heat prevents any chemical reactions from occurring in food",
+              "The Maillard reaction only happens at very low temperatures"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The White Paper of 1969 and First Nations Opposition",
+        "summary": "Grade 6 Social Studies strand: the 1969 White Paper was a federal government policy proposal that would have eliminated the Indian Act and existing treaty rights, but it was withdrawn after strong opposition from First Nations leaders and communities across Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What government document is known as the White Paper of 1969?",
+            "options": [
+              "A federal policy proposal that would have eliminated the Indian Act and existing treaty rights",
+              "A treaty signed between Canada and another country",
+              "A provincial budget report",
+              "A report on Canadian trade with Europe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did First Nations leaders and communities respond to the White Paper?",
+            "options": [
+              "They were not informed of the proposal",
+              "They strongly opposed it",
+              "They had no reaction to the proposal at all",
+              "They immediately approved it with no concerns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happened to the White Paper after facing this opposition?",
+            "options": [
+              "It was withdrawn",
+              "It was immediately passed into law",
+              "It became a permanent part of the constitution unchanged",
+              "It was expanded to apply to more countries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might First Nations leaders have opposed a policy that removed the Indian Act and treaty rights, even though the Indian Act itself contained many discriminatory provisions?",
+            "options": [
+              "The Indian Act contained no provisions related to land or governance",
+              "Treaty rights and existing legal recognition were seen as important protections, and removing them without proper consultation could have eliminated hard-won rights rather than improving them",
+              "Removing legal recognition was expected to immediately improve conditions for First Nations peoples",
+              "First Nations leaders had no concerns about losing treaty rights"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the response to the White Paper considered an important moment in the history of Indigenous political organizing in Canada?",
+            "options": [
+              "The response had no lasting effect on government policy",
+              "It demonstrated the impact of unified political action and helped shape future government consultation with Indigenous peoples",
+              "The White Paper was never discussed or opposed by any First Nations leaders",
+              "Indigenous political organizing began for the first time after this event"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "label": "Day 184 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Malapropisms and Word Confusion",
+        "summary": "Grade 6 Language strand: a malapropism occurs when a speaker mistakenly uses a word that sounds similar to the intended word but has a very different, often humorous, meaning.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A word with exactly one correct pronunciation",
+              "A word that has no other similar-sounding words",
+              "The mistaken use of a word that sounds similar to the intended word but has a different meaning",
+              "A formal word used only in legal documents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect does a malapropism often have on a sentence?",
+            "options": [
+              "It is always used intentionally for formal writing",
+              "It always makes the sentence perfectly accurate",
+              "It creates an unintended and often humorous meaning",
+              "It removes all meaning from a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these phrases contains a malapropism?",
+            "options": [
+              "For all intents and purposes, we should leave now.",
+              "We should leave now, for good reason.",
+              "For all intensive purposes, we should leave now.",
+              "We should leave immediately without hesitation."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do malapropisms often occur between words that sound alike?",
+            "options": [
+              "Malapropisms are always planned in advance before speaking",
+              "Malapropisms only occur between words with completely different sounds",
+              "Similar-sounding words can be easily confused in memory or in quick speech, leading a speaker to substitute the wrong one",
+              "Speakers never confuse words that sound similar to each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might authors sometimes use malapropisms intentionally when writing dialogue for a character?",
+            "options": [
+              "Malapropisms never reveal anything about a characters personality",
+              "Intentional malapropisms always make dialogue less realistic",
+              "Intentional malapropisms can add humour and reveal something about a characters personality or level of confidence",
+              "Authors are never permitted to use incorrect word choices in dialogue"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Conditional Probability and Real-World Applications",
+        "summary": "Grade 6 Math strand: conditional probability is the likelihood of an event occurring given that another event has already happened, and it is often used to make more accurate predictions when extra information is available.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does conditional probability measure?",
+            "options": [
+              "The likelihood of an event that has no connection to any other event",
+              "The likelihood of an event occurring given that another event has already happened",
+              "The total number of outcomes in a sample space",
+              "The average of all possible outcomes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If it is known that a card drawn from a deck is a face card, how does this information affect the probability of it being a king?",
+            "options": [
+              "It changes the probability, since only face cards are now being considered",
+              "It has no effect on the probability at all",
+              "It always makes the probability equal to one",
+              "It always makes the probability equal to zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one everyday example where conditional probability could be used?",
+            "options": [
+              "Counting the total number of days in a year",
+              "Estimating the chance of rain given that it is already cloudy",
+              "Calculating the area of a rectangle",
+              "Measuring the length of a table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does having extra information often change a probability calculation?",
+            "options": [
+              "Probability calculations always ignore any new information provided",
+              "Extra information always makes a probability calculation less accurate",
+              "Extra information can narrow down the possible outcomes being considered, making the estimate more specific and accurate",
+              "Additional information never changes the outcomes being considered"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might conditional probability be useful in fields such as medicine, such as interpreting the result of a medical test?",
+            "options": [
+              "Medical test results have no connection to probability of any kind",
+              "Conditional probability cannot be applied to any real-world situation",
+              "It helps estimate the likelihood of a condition being present given a specific test result, providing more meaningful information than considering the test result alone",
+              "Test results always provide complete certainty with no need for probability"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Sonar Technology and Mapping the Ocean Floor",
+        "summary": "Grade 6 Science strand: sonar uses sound waves to detect objects and measure distances underwater, sending out a pulse of sound and calculating distance based on how long the echo takes to return.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sonar use to detect objects underwater?",
+            "options": [
+              "Visible light only",
+              "Sound waves",
+              "Radio signals only",
+              "Magnetic fields"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does sonar calculate the distance to an object?",
+            "options": [
+              "By measuring how long it takes for an echo to return after a sound pulse is sent out",
+              "By measuring the colour of the water",
+              "By counting the number of waves on the surface",
+              "By measuring the water temperature only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one major use of sonar technology?",
+            "options": [
+              "Mapping the ocean floor",
+              "Predicting earthquakes on land",
+              "Measuring air temperature",
+              "Growing crops more efficiently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is sonar especially useful for exploring the deep ocean, where light cannot easily reach?",
+            "options": [
+              "Light travels farther through water than sound does",
+              "Sonar only works in shallow water near the surface",
+              "Sound waves cannot travel through water at all",
+              "Sound waves can travel effectively through water even in complete darkness, unlike light, which is quickly absorbed or scattered at depth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a longer time delay between sending a sonar pulse and receiving its echo indicate a greater distance to an object?",
+            "options": [
+              "Sound travels at a fairly consistent speed through water, so a longer delay means the sound had to travel farther before reflecting back",
+              "Sonar echoes have no connection to the distance of an object",
+              "The speed of sound through water constantly changes with no consistent pattern",
+              "A longer delay always means the object is closer to the sonar source"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The CBC — Canadas Public Broadcaster",
+        "summary": "Grade 6 Social Studies strand: the Canadian Broadcasting Corporation, or CBC, is a federally funded public broadcaster that provides radio and television programming across the country, including news, entertainment, and content in both English and French.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does the acronym CBC stand for?",
+            "options": [
+              "The Canadian Business Council",
+              "The Canadian Broadcasting Corporation",
+              "The Canadian Bilingual Congress",
+              "The Central Broadcast Committee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the CBC primarily funded?",
+            "options": [
+              "It receives no funding of any kind",
+              "Through federal government funding",
+              "Entirely through private foreign investors",
+              "Through provincial lottery revenue only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which two languages does the CBC provide programming?",
+            "options": [
+              "English and French",
+              "Only French",
+              "Only English",
+              "Spanish and Portuguese"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country choose to fund a public broadcaster like the CBC rather than relying only on privately owned media companies?",
+            "options": [
+              "A publicly funded broadcaster can provide programming that serves the public interest, including news and content that might not always be profitable for private companies",
+              "Funding a public broadcaster has no connection to serving public interest",
+              "Public broadcasters are never able to provide news programming",
+              "Private companies always provide the exact same content as public broadcasters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for the CBC to provide programming in both English and French?",
+            "options": [
+              "Canada has two official languages, and offering content in both helps serve and represent both English-speaking and French-speaking communities across the country",
+              "The CBC broadcasts only in languages other than English or French",
+              "Canada has only one official language, so a second language is unnecessary",
+              "Providing content in two languages has no benefit to Canadian communities"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "label": "Day 185 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Infographics",
+        "summary": "Grade 6 Language strand: an infographic combines images, charts, and brief text to present information visually, and analyzing one critically involves checking the accuracy of its data and considering how its design might influence a viewers interpretation.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does an infographic combine to present information?",
+            "options": [
+              "Images, charts, and brief text",
+              "Only handwritten notes with no images",
+              "A list of unrelated numbers with no visuals",
+              "Only a single unlabelled photograph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one important step when critically analyzing an infographic?",
+            "options": [
+              "Assuming every infographic is entirely accurate",
+              "Checking the accuracy of its data",
+              "Only reading the title and nothing else",
+              "Ignoring all of the images it contains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might the design of an infographic influence?",
+            "options": [
+              "The number of people who created it",
+              "The actual accuracy of the underlying data",
+              "A viewers interpretation of the information",
+              "The length of the original research study"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poorly designed infographic mislead a viewer even if the underlying data is accurate?",
+            "options": [
+              "A well-designed infographic can never be misleading in any way",
+              "Infographic design has no effect on how a viewer interprets information",
+              "Choices such as exaggerated chart scales or misleading images can distort how the information is perceived, even without changing the actual numbers",
+              "Poor design always makes the underlying data itself inaccurate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to check the original source of the data used in an infographic?",
+            "options": [
+              "Infographics never include data that comes from an outside source",
+              "Verifying the source helps confirm that the information is reliable and has not been taken out of context or altered",
+              "Checking a source always makes an infographic less trustworthy",
+              "The original source of data has no connection to its reliability"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Exterior Angles of Polygons",
+        "summary": "Grade 6 Math strand: an exterior angle of a polygon is formed by extending one side of the polygon, and the sum of the exterior angles of any convex polygon, one at each vertex, always equals 360 degrees.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How is an exterior angle of a polygon formed?",
+            "options": [
+              "By connecting two opposite vertices",
+              "By measuring the area of the polygon",
+              "By extending one side of the polygon",
+              "By drawing a line through the center of the polygon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the sum of the exterior angles of any convex polygon, taking one at each vertex?",
+            "options": [
+              "720 degrees",
+              "90 degrees",
+              "180 degrees",
+              "360 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the measure of each exterior angle of a regular hexagon?",
+            "options": [
+              "45 degrees",
+              "60 degrees",
+              "90 degrees",
+              "120 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the sum of the exterior angles remain 360 degrees regardless of how many sides a convex polygon has?",
+            "options": [
+              "A polygon with more sides always has a larger total of exterior angles",
+              "Walking around the entire shape and returning to the starting point and direction always requires turning through a full 360-degree rotation",
+              "Exterior angles of a polygon never add up to a consistent total",
+              "The number of sides always changes the total turning angle needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is knowing that exterior angles sum to 360 degrees useful for finding the exterior angle of a regular polygon with many sides?",
+            "options": [
+              "Exterior angles of a regular polygon can never be calculated using this total",
+              "The number of sides has no connection to the size of each exterior angle",
+              "Dividing 360 degrees by the number of sides only works for irregular polygons",
+              "It allows the measure of each equal exterior angle to be found quickly by dividing 360 degrees by the number of sides"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Ozone Layer and Its Protective Role",
+        "summary": "Grade 6 Science strand: the ozone layer is a region high in Earths atmosphere that absorbs most of the suns harmful ultraviolet radiation, protecting living things on the surface below.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the ozone layer absorb?",
+            "options": [
+              "Sound waves travelling through the atmosphere",
+              "Most of Earths visible sunlight",
+              "Most of the suns harmful ultraviolet radiation",
+              "All forms of precipitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is the ozone layer located?",
+            "options": [
+              "At the bottom of the ocean",
+              "Inside Earths core",
+              "Deep underground",
+              "High in Earths atmosphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the ozone layer protect living things from?",
+            "options": [
+              "Harmful ultraviolet radiation from the sun",
+              "Ordinary visible sunlight of any kind",
+              "All forms of precipitation",
+              "Changes in wind speed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was the thinning of the ozone layer, once caused by certain chemicals, considered a serious environmental concern?",
+            "options": [
+              "The ozone layer has no connection to protecting life on Earth",
+              "A thinner ozone layer allows more harmful ultraviolet radiation to reach Earths surface, increasing risks to living things",
+              "A thinner ozone layer has no effect on the amount of radiation reaching Earth",
+              "Ultraviolet radiation is completely harmless to all living things"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is international cooperation, such as agreements to reduce ozone-depleting chemicals, important for protecting the ozone layer?",
+            "options": [
+              "Because the atmosphere circulates globally, chemicals released in one country can affect the ozone layer worldwide, so coordinated action is more effective than isolated efforts",
+              "International agreements have no effect on atmospheric chemical levels",
+              "Chemicals released in one country never affect the atmosphere anywhere else",
+              "The ozone layer can be fully protected by a single country acting alone"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Mission in Afghanistan",
+        "summary": "Grade 6 Social Studies strand: Canada took part in a multinational military and reconstruction mission in Afghanistan beginning in 2001, contributing troops and aid as part of an international effort following the September 11 attacks.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did Canadas mission in Afghanistan begin?",
+            "options": [
+              "2010",
+              "1945",
+              "2001",
+              "1989"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of mission did Canada take part in Afghanistan?",
+            "options": [
+              "A mission with no international partners",
+              "A trade negotiation mission only",
+              "A multinational military and reconstruction mission",
+              "A purely academic research exchange"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What global event was closely connected to the start of the mission in Afghanistan?",
+            "options": [
+              "The fall of the Berlin Wall",
+              "The September 11 attacks",
+              "The signing of the Treaty of Versailles",
+              "The Cuban Missile Crisis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might Canada have chosen to contribute troops and aid to a multinational mission rather than acting alone?",
+            "options": [
+              "Acting alone is always easier than working with international partners",
+              "Multinational missions never involve sharing responsibilities or resources",
+              "Working with international partners can share the responsibilities and resources needed for a large and complex mission",
+              "Canada is never permitted to participate in missions with other countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does Canadas involvement in Afghanistan continue to be studied and discussed today?",
+            "options": [
+              "International military commitments never raise questions worth studying",
+              "The mission had no lasting effects worth studying",
+              "It raises important questions about the goals, costs, and lasting effects of Canadas international military commitments",
+              "Canadas involvement in Afghanistan is no longer discussed by historians"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "label": "Day 186 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Non-Verbal Communication and Body Language",
+        "summary": "Grade 6 Language strand: non-verbal communication includes body language, facial expressions, gestures, and posture, which can convey meaning and emotion alongside or even instead of spoken words.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is non-verbal communication?",
+            "options": [
+              "Communication that occurs only over the telephone",
+              "Communication that uses only written text",
+              "Communication that includes body language, facial expressions, gestures, and posture",
+              "Communication that uses only numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can non-verbal communication convey alongside spoken words?",
+            "options": [
+              "Only written text",
+              "Meaning and emotion",
+              "Nothing beyond the spoken words themselves",
+              "Only mathematical data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of non-verbal communication?",
+            "options": [
+              "Reading a book silently",
+              "Typing a text message",
+              "Writing an email",
+              "Crossing your arms while speaking"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a listener pay attention to a speakers body language in addition to their words?",
+            "options": [
+              "A speakers body language has no connection to their true feelings",
+              "Body language can reveal additional information about a speakers true feelings or confidence, sometimes clarifying or even contradicting the spoken message",
+              "Spoken words always contain all of the information a listener needs",
+              "Body language never provides any additional information to a listener"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for a public speaker to be aware of their own non-verbal communication during a presentation?",
+            "options": [
+              "Being aware of body language always weakens a presentation",
+              "Non-verbal communication has no effect on how a presentation is received",
+              "A speakers posture and gestures are never noticed by an audience",
+              "Their gestures, posture, and expressions can strengthen or undermine the intended message, so being aware of them helps ensure the presentation is received as intended"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying and Dividing Numbers in Scientific Notation",
+        "summary": "Grade 6 Math strand: numbers in scientific notation are multiplied or divided by first multiplying or dividing the decimal parts and then adding or subtracting the exponents on the powers of ten.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When multiplying two numbers in scientific notation, what happens to the exponents on the powers of ten?",
+            "options": [
+              "They stay exactly the same",
+              "They are multiplied together",
+              "They are subtracted",
+              "They are added together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2 times 10 to the power of 3, multiplied by 3 times 10 to the power of 2, in scientific notation?",
+            "options": [
+              "5 x 10 to the power of 5",
+              "6 x 10 to the power of 6",
+              "6 x 10 to the power of 1",
+              "6 x 10 to the power of 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When dividing two numbers in scientific notation, what happens to the exponents on the powers of ten?",
+            "options": [
+              "They stay exactly the same",
+              "They are subtracted",
+              "They are added together",
+              "They are multiplied together"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does multiplying numbers in scientific notation involve adding the exponents rather than multiplying them?",
+            "options": [
+              "Exponents on powers of ten are never affected by multiplication",
+              "Adding exponents always produces an incorrect result when multiplying",
+              "Multiplying numbers in scientific notation always requires subtracting the exponents instead",
+              "Multiplying powers of ten with the same base combines the total number of factors of ten, which corresponds to adding their exponents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is scientific notation especially useful when multiplying or dividing very large or very small numbers?",
+            "options": [
+              "It keeps the calculation manageable by separating the decimal part from the power of ten, avoiding long strings of zeros",
+              "Very large or very small numbers can never be expressed in scientific notation",
+              "Scientific notation removes the need to track any exponents at all",
+              "Scientific notation always makes calculations more difficult to manage"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Colour Mixing — Additive versus Subtractive Colour",
+        "summary": "Grade 6 Science strand: additive colour mixing combines coloured light, such as red, green, and blue, to create new colours including white, while subtractive colour mixing combines pigments, which absorb light and produce new colours by removing wavelengths.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does additive colour mixing combine?",
+            "options": [
+              "Magnetic fields of different strengths",
+              "Coloured light",
+              "Sound waves of different frequencies",
+              "Solid pigments only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What three colours of light are commonly combined in additive colour mixing?",
+            "options": [
+              "Orange, purple, and green",
+              "Red, green, and blue",
+              "Black, white, and gray",
+              "Red, yellow, and blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does subtractive colour mixing combine?",
+            "options": [
+              "Sound waves of different frequencies",
+              "Pigments, which absorb light",
+              "Magnetic fields of different strengths",
+              "Gases of different densities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does combining all three primary colours of light in additive mixing produce white light?",
+            "options": [
+              "Combining coloured light always produces black instead of white",
+              "Combining red, green, and blue light at full intensity includes the full range of visible light wavelengths, which the eye perceives as white",
+              "Only a single colour of light can ever be produced through mixing",
+              "Light mixing has no connection to how colour is perceived"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do mixing paints, which use subtractive colour mixing, produce darker colours as more colours are combined, unlike mixing light?",
+            "options": [
+              "Each added pigment absorbs more wavelengths of light, so less light is reflected back, making the resulting colour appear darker",
+              "Subtractive and additive colour mixing always produce identical results",
+              "Pigments reflect every wavelength of light regardless of how many are combined",
+              "Adding more paint colours always makes the mixture appear brighter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Indian Act — History and Impact",
+        "summary": "Grade 6 Social Studies strand: the Indian Act, first passed in 1876, is federal legislation that has governed many aspects of registered First Nations peoples lives, including status, land, and governance, and it remains a significant and controversial part of Canadian law.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was the Indian Act first passed?",
+            "options": [
+              "1876",
+              "1949",
+              "1931",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Indian Act govern for registered First Nations peoples?",
+            "options": [
+              "Only matters related to international trade",
+              "Only the design of the national flag",
+              "Aspects of their lives including status, land, and governance",
+              "Only matters related to space exploration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of legislation is the Indian Act?",
+            "options": [
+              "An international treaty between two countries",
+              "A provincial bylaw only",
+              "A municipal parking regulation",
+              "Federal legislation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Indian Act often described as controversial?",
+            "options": [
+              "The legislation was created entirely by First Nations leaders themselves",
+              "It has historically imposed significant control over First Nations peoples lives without their full consent, including policies that caused lasting harm",
+              "The Indian Act contains no provisions related to governance or land",
+              "The Indian Act has never had any effect on First Nations peoples lives"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many advocates today call for reform or replacement of the Indian Act?",
+            "options": [
+              "The Indian Act has already been fully replaced with new legislation",
+              "They argue that greater self-governance and control over their own affairs would better respect First Nations rights and better reflect modern relationships between First Nations and the Canadian government",
+              "Self-governance has no connection to respecting First Nations rights",
+              "Advocates believe the Indian Act requires no changes of any kind"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "label": "Day 187 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: The Final Chapter — Grammar, Vocabulary, and Communication Skills",
+        "summary": "Grade 6 Language strand review: as the capstone lesson completing the full 187-day Grade 6 curriculum, students revisit the subjunctive mood, motifs in literature, writing a speech of introduction, malapropisms, and analyzing infographics.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does the subjunctive mood typically express?",
+            "options": [
+              "A question about the past",
+              "A command given to a group",
+              "A simple statement of fact",
+              "A wish, suggestion, or a condition that is not currently true"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a motif?",
+            "options": [
+              "The title of a book",
+              "A type of punctuation used in dialogue",
+              "A recurring image, symbol, or idea that appears repeatedly throughout a literary work",
+              "A single event that happens only once in a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a speech of introduction typically present?",
+            "options": [
+              "A guest speaker to an audience",
+              "A list of upcoming school events",
+              "An unrelated news story",
+              "A detailed weather forecast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A formal word used only in legal documents",
+              "A word with exactly one correct pronunciation",
+              "A word that has no other similar-sounding words",
+              "The mistaken use of a word that sounds similar to the intended word but has a different meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does an infographic combine to present information?",
+            "options": [
+              "Images, charts, and brief text",
+              "A list of unrelated numbers with no visuals",
+              "Only a single unlabelled photograph",
+              "Only handwritten notes with no images"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: The Final Chapter — Number Systems, Geometry, and Probability",
+        "summary": "Grade 6 Math strand review: as the capstone lesson completing the full 187-day Grade 6 curriculum, students revisit modular arithmetic, solving systems of equations by graphing, percentiles, conditional probability, and exterior angles of polygons.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does modular arithmetic calculate?",
+            "options": [
+              "The square root of a number",
+              "The average of a list of numbers",
+              "The sum of two numbers",
+              "The remainder after dividing one number by another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the point of intersection of two graphed lines represent in a system of equations?",
+            "options": [
+              "The steepest point on either line",
+              "The starting point of the first line only",
+              "The solution that satisfies both equations",
+              "A point that satisfies neither equation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a percentile indicate about a value in a data set?",
+            "options": [
+              "The total number of values in the data set",
+              "The exact average of the entire data set",
+              "The largest value found anywhere in the data set",
+              "The percentage of values in the data set that fall below it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does conditional probability measure?",
+            "options": [
+              "The average of all possible outcomes",
+              "The likelihood of an event occurring given that another event has already happened",
+              "The likelihood of an event that has no connection to any other event",
+              "The total number of outcomes in a sample space"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is an exterior angle of a polygon formed?",
+            "options": [
+              "By drawing a line through the center of the polygon",
+              "By connecting two opposite vertices",
+              "By measuring the area of the polygon",
+              "By extending one side of the polygon"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: The Final Chapter — Chemistry, Earth Science, and Technology",
+        "summary": "Grade 6 Science strand review: as the capstone lesson completing the full 187-day Grade 6 curriculum, students revisit crystallization, Earths magnetic field, the Maillard reaction, sonar technology, and the ozone layer.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is crystallization?",
+            "options": [
+              "A process that turns a solid directly into a gas",
+              "A process that only occurs inside living cells",
+              "A process in which a dissolved substance separates from a solution and forms a solid with a repeating geometric pattern",
+              "The complete disappearance of a dissolved substance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Earth behave like, according to scientists studying magnetism?",
+            "options": [
+              "An object with no magnetic properties at all",
+              "A giant magnet with a magnetic field",
+              "A completely non-magnetic sphere",
+              "A magnet only at its exact center"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two substances react with each other during the Maillard reaction?",
+            "options": [
+              "Oil and vinegar",
+              "Amino acids and sugars",
+              "Water and salt",
+              "Oxygen and carbon dioxide"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sonar use to detect objects underwater?",
+            "options": [
+              "Radio signals only",
+              "Magnetic fields",
+              "Visible light only",
+              "Sound waves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the ozone layer absorb?",
+            "options": [
+              "Most of Earths visible sunlight",
+              "Most of the suns harmful ultraviolet radiation",
+              "All forms of precipitation",
+              "Sound waves travelling through the atmosphere"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: The Final Chapter — Government, Rights, and Canadian History",
+        "summary": "Grade 6 Social Studies strand review: as the capstone lesson completing the full 187-day Grade 6 curriculum, students revisit Nellie McClung and womens suffrage, equalization payments, the White Paper of 1969, the CBC, and Canadas mission in Afghanistan.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What cause did Nellie McClung campaign for?",
+            "options": [
+              "Free international trade agreements",
+              "Lower taxes for farmers",
+              "The construction of new railways",
+              "Womens right to vote"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are equalization payments?",
+            "options": [
+              "Loans that provinces must repay to private banks",
+              "Taxes collected exclusively from foreign visitors",
+              "Funds transferred by the federal government to less wealthy provinces",
+              "Fees charged to municipalities for road repairs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What government document is known as the White Paper of 1969?",
+            "options": [
+              "A treaty signed between Canada and another country",
+              "A report on Canadian trade with Europe",
+              "A federal policy proposal that would have eliminated the Indian Act and existing treaty rights",
+              "A provincial budget report"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the acronym CBC stand for?",
+            "options": [
+              "The Canadian Bilingual Congress",
+              "The Canadian Business Council",
+              "The Central Broadcast Committee",
+              "The Canadian Broadcasting Corporation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year did Canadas mission in Afghanistan begin?",
+            "options": [
+              "1989",
+              "1945",
+              "2010",
+              "2001"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
