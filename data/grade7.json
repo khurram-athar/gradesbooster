@@ -14074,10 +14074,11 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Grammar: Using Semicolons, Colons, and Dashes",
-        "summary": "Grade 7 Language strand: semicolons join related independent clauses, colons introduce lists or explanations, and dashes can be used to add emphasis or set off extra information.",
+        "title": "Grammar: Using Semicolons and Colons",
+        "summary": "Grade 7 Language strand: semicolons join related independent clauses, and colons introduce lists or explanations, both helping writers combine or organize ideas within a sentence.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=zI_EQONU0WM",
         "quiz": [
           {
             "q": "A semicolon can be used to ___.",
@@ -14100,14 +14101,14 @@
             "answer": 0
           },
           {
-            "q": "A dash can be used to ___.",
+            "q": "Which sentence correctly uses a semicolon?",
             "options": [
-              "Indicate the end of a paragraph",
-              "A concept unrelated to punctuation",
-              "Add emphasis or set off extra information",
-              "Replace all punctuation in a sentence"
+              "A sentence unrelated to semicolon use",
+              "I love hiking; it helps me clear my mind.",
+              "I love hiking, it helps me clear my mind.",
+              "I love hiking: it helps me clear my mind."
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Which sentence correctly uses a colon?",
@@ -14120,12 +14121,12 @@
             "answer": 1
           },
           {
-            "q": "Why might a writer choose a dash instead of a comma to set off extra information?",
+            "q": "Why might a writer choose a semicolon instead of starting a new sentence?",
             "options": [
               "A reason unrelated to punctuation",
-              "A dash can create a stronger emphasis or a more dramatic pause",
-              "Dashes always weaken the emphasis of a sentence",
-              "Dashes are never used to set off extra information"
+              "To show that two closely related ideas belong together",
+              "Semicolons always weaken the connection between two ideas",
+              "Semicolons are never used to connect ideas"
             ],
             "answer": 1
           }
@@ -14137,6 +14138,7 @@
         "summary": "Grade 7 Math strand: a box-and-whisker plot displays a data set’s minimum, first quartile, median, third quartile, and maximum, helping to visualize its spread and central tendency.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hESCSoTmTbQ",
         "quiz": [
           {
             "q": "A box-and-whisker plot displays a data set’s ___.",
@@ -14196,6 +14198,7 @@
         "summary": "Grade 7 Science strand: nuclear energy is produced through fission, a process where atomic nuclei split apart and release large amounts of energy, which can be used to generate electricity.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=rcOFV4y5z8c",
         "quiz": [
           {
             "q": "Nuclear fission occurs when ___.",
@@ -14255,6 +14258,7 @@
         "summary": "Grade 7 Social Studies strand: urban sprawl refers to the rapid, spread-out expansion of a city into surrounding areas, creating challenges for transportation, infrastructure, and city planning.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=O7AvbakSpwQ",
         "quiz": [
           {
             "q": "Urban sprawl refers to ___.",

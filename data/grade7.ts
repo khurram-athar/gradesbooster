@@ -2398,17 +2398,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:58, label:"Day 58 — Wed", subjects:[
-  {subject:"Language", title:"Grammar: Using Semicolons, Colons, and Dashes", summary:"Grade 7 Language strand: semicolons join related independent clauses, colons introduce lists or explanations, and dashes can be used to add emphasis or set off extra information.",
+  {subject:"Language", title:"Grammar: Using Semicolons and Colons", summary:"Grade 7 Language strand: semicolons join related independent clauses, and colons introduce lists or explanations, both helping writers combine or organize ideas within a sentence.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=zI_EQONU0WM",
    quiz:[
      {q:"A semicolon can be used to ___.", options:["Replace every comma in a sentence","A concept unrelated to punctuation","End a sentence in place of a period","Join two closely related independent clauses"], answer:3},
      {q:"A colon is often used to ___.", options:["Introduce a list or explanation","A concept unrelated to punctuation","Replace a question mark","Separate every word in a sentence"], answer:0},
-     {q:"A dash can be used to ___.", options:["Indicate the end of a paragraph","A concept unrelated to punctuation","Add emphasis or set off extra information","Replace all punctuation in a sentence"], answer:2},
+     {q:"Which sentence correctly uses a semicolon?", options:["A sentence unrelated to semicolon use","I love hiking; it helps me clear my mind.","I love hiking, it helps me clear my mind.","I love hiking: it helps me clear my mind."], answer:1},
      {q:"Which sentence correctly uses a colon?", options:["A sentence unrelated to colon use","She packed three things: a map, water, and snacks.","She packed three things; a map, water, and snacks.","She packed three things, a map, water, and snacks."], answer:1},
-     {q:"Why might a writer choose a dash instead of a comma to set off extra information?", options:["A reason unrelated to punctuation","A dash can create a stronger emphasis or a more dramatic pause","Dashes always weaken the emphasis of a sentence","Dashes are never used to set off extra information"], answer:1}
+     {q:"Why might a writer choose a semicolon instead of starting a new sentence?", options:["A reason unrelated to punctuation","To show that two closely related ideas belong together","Semicolons always weaken the connection between two ideas","Semicolons are never used to connect ideas"], answer:1}
    ]},
   {subject:"Math", title:"Box-and-Whisker Plots (Intro)", summary:"Grade 7 Math strand: a box-and-whisker plot displays a data set’s minimum, first quartile, median, third quartile, and maximum, helping to visualize its spread and central tendency.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=hESCSoTmTbQ",
    quiz:[
      {q:"A box-and-whisker plot displays a data set’s ___.", options:["Only the average of the data set","Only the maximum value in the data set","A concept unrelated to box-and-whisker plots","Minimum, quartiles, median, and maximum"], answer:3},
      {q:"The line inside the box of a box-and-whisker plot typically represents the ___.", options:["Maximum","A value unrelated to box-and-whisker plots","Range","Median"], answer:3},
@@ -2418,6 +2420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nuclear Energy: Fission and Power Generation", summary:"Grade 7 Science strand: nuclear energy is produced through fission, a process where atomic nuclei split apart and release large amounts of energy, which can be used to generate electricity.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=rcOFV4y5z8c",
    quiz:[
      {q:"Nuclear fission occurs when ___.", options:["An atom disappears with no reaction at all","Two atomic nuclei combine into one","An atomic nucleus splits apart, releasing energy","A process unrelated to nuclear fission"], answer:2},
      {q:"Nuclear power plants use fission to ___.", options:["Generate heat that is used to produce electricity","A process unrelated to nuclear power","Cool down surrounding areas with no energy production","Directly power vehicles with no electricity involved"], answer:0},
@@ -2427,6 +2430,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urban Sprawl and City Planning Challenges", summary:"Grade 7 Social Studies strand: urban sprawl refers to the rapid, spread-out expansion of a city into surrounding areas, creating challenges for transportation, infrastructure, and city planning.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=O7AvbakSpwQ",
    quiz:[
      {q:"Urban sprawl refers to ___.", options:["A city shrinking in population and size","The rapid, spread-out expansion of a city into surrounding areas","A concept unrelated to urban sprawl","A city that never grows or changes over time"], answer:1},
      {q:"Which of these is a common challenge associated with urban sprawl?", options:["A significant reduction in the need for transportation","A concept unrelated to urban sprawl","Increased dependence on cars and longer commute times","A city with no transportation challenges at all"], answer:2},
