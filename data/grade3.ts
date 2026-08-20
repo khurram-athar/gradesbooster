@@ -2399,6 +2399,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Reading: Skimming and Scanning for Information", summary:"Grade 3 Language strand: skimming means quickly looking over a text to get a general idea of what it is about, while scanning means quickly searching for a specific piece of information within a text.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=t3F8pQLtY_Q",
    quiz:[
      {q:"Skimming means quickly looking over a text to get a ___ idea of what it is about.", options:["Completely incorrect, with no useful information at all","General","Extremely detailed, word-by-word","A concept unrelated to reading quickly"], answer:1},
      {q:"Scanning means quickly searching for a ___ within a text.", options:["Specific piece of information","The exact number of words in the entire text","A concept unrelated to finding information","Completely unrelated topic"], answer:0},
@@ -2408,6 +2409,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Comparing Prices and Value", summary:"Grade 3 Math strand: comparing prices and value involves looking at cost alongside quantity or quality to determine which option gives the best overall value for money.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=zvmCAww91eY",
    quiz:[
      {q:"Comparing prices and value involves looking at cost alongside ___.", options:["Only the colour of the packaging","A concept unrelated to making a purchasing decision","The exact time of day an item was purchased","Quantity or quality"], answer:3},
      {q:"If two bags of apples cost the same but one has more apples, which is generally the better value?", options:["The bag with more apples","The bag with fewer apples","Both bags always provide exactly the same value","Value cannot be determined in this situation"], answer:0},
@@ -2415,17 +2417,19 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to consider quality, not just price, when comparing value?", options:["Quality never has any connection to an item’s overall value","Price is always the only factor that matters when comparing value","This concept has no relevance to making informed purchasing decisions","A cheaper item that does not work well or last long may not actually be the better overall value"], answer:3},
      {q:"If a $10 toy breaks quickly but a $15 toy lasts much longer, which might be considered the better value over time?", options:["Value can never be determined in this type of situation","The $15 toy, since it lasts longer","The $10 toy, regardless of how quickly it breaks","Both toys always provide exactly the same value"], answer:1}
    ]},
-  {subject:"Science", title:"Science: Forces in Sports and Play", summary:"Grade 3 Science strand: forces like push, pull, and friction play an important role in everyday sports and play activities, affecting how objects like balls move, speed up, slow down, or change direction.",
+  {subject:"Science", title:"Science: Balanced and Unbalanced Forces", summary:"Grade 3 Science strand: when the forces acting on an object are balanced, the object stays still or keeps moving at a steady speed, but when forces are unbalanced, the object speeds up, slows down, or changes direction.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=_-yzCNniwuw",
    quiz:[
-     {q:"Forces like push, pull, and friction play an important role in everyday ___ activities.", options:["Only activities that involve no movement whatsoever","Situations with no connection to forces at all","Sports and play","A concept entirely unrelated to physical activity"], answer:2},
-     {q:"These forces can affect how a ball ___.", options:["Always stays perfectly still with no movement at all","Changes into a completely different object","Moves, speeds up, slows down, or changes direction","A concept unrelated to how objects behave"], answer:2},
-     {q:"Which is an example of a push force used in a sport?", options:["A concept unrelated to force or motion","A situation where no object is set in motion","An action that involves no physical force whatsoever","Kicking a soccer ball"], answer:3},
-     {q:"Why might friction cause a rolling ball to eventually slow down and stop?", options:["Friction has no effect on the motion of a rolling ball","Friction between the ball and the surface it rolls on acts as a resisting force against its motion","A ball would roll forever with no force ever causing it to stop","This concept has no connection to how forces affect motion"], answer:1},
-     {q:"Why might understanding forces be useful for someone trying to improve their performance in a sport like basketball?", options:["Forces have no connection to how well someone might perform in a sport","Understanding how forces affect a ball’s motion can help a player make more accurate and controlled shots","Understanding physics never has any practical application in sports","This concept has no relevance to playing or improving at a sport"], answer:1}
+     {q:"When forces acting on an object are balanced, the object ___.", options:["Always changes into a different object entirely","Stays still or keeps moving at a steady speed","A concept unrelated to balanced forces","Immediately disappears from view"], answer:1},
+     {q:"When forces acting on an object are unbalanced, the object ___.", options:["Speeds up, slows down, or changes direction","Always remains perfectly still with no movement at all","This concept has no connection to how objects move","Never experiences any change in its motion"], answer:0},
+     {q:"If two people push a box with equal force from opposite sides, what happens to the box?", options:["The box moves twice as fast in one direction","The forces are balanced, so the box does not move", "A concept unrelated to balanced and unbalanced forces","The box changes into a completely different shape"], answer:1},
+     {q:"Why does a moving object eventually slow down when an unbalanced force like friction acts on it?", options:["Friction has no effect on a moving object's speed","The unbalanced force works against the object's motion, slowing it down","This concept has no connection to how forces affect motion","A moving object always speeds up when friction is present"], answer:1},
+     {q:"Why is it useful to know the difference between balanced and unbalanced forces?", options:["This concept has no practical use in everyday life","It helps explain and predict why objects stay still, move steadily, or change their motion","Balanced and unbalanced forces always produce exactly the same result","Understanding forces never helps explain how objects behave"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Social Studies: How Ontario Uses Its Resources", summary:"Grade 3 Social Studies strand: Ontario uses its natural resources, such as forests, minerals, and freshwater, to support industries and communities, while also facing the responsibility of managing these resources sustainably.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=yAQ8Y3UiMcg",
    quiz:[
      {q:"Ontario uses natural resources like forests, minerals, and freshwater to support ___.", options:["Nothing at all, since these resources have no practical use","Industries and communities","A concept unrelated to how resources are used","Only industries in other provinces, with no benefit to Ontario"], answer:1},
      {q:"Along with using its resources, Ontario also faces the responsibility of managing them ___.", options:["In a way that has no connection to long-term planning","Sustainably","Without any consideration for the future","A concept unrelated to responsible resource use"], answer:1},
