@@ -2365,6 +2365,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"English", title:"Oral Communication: Facilitating a Panel Discussion", summary:"Grade 12 English strand: facilitating a panel discussion involves guiding multiple speakers through a structured conversation, balancing airtime, asking clarifying questions, and keeping the discussion focused on its central topic.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=PJgAOkaUrcw",
    quiz:[
      {q:"Facilitating a panel discussion involves guiding multiple speakers through a ___ conversation.", options:["Completely unplanned, with no guidance from a facilitator","A concept unrelated to oral communication","Silent, with no spoken conversation at all","Structured"], answer:3},
      {q:"A skilled facilitator balances ___ among panelists.", options:["A concept unrelated to facilitating group discussion","Only the opinions of a single panelist, ignoring all others","Background noise, with no connection to speaker participation","Airtime"], answer:3},
@@ -2374,6 +2375,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Number Theory: Modular Arithmetic and Applications", summary:"Grade 12 Advanced Functions strand: modular arithmetic describes a system where numbers wrap around after reaching a fixed value called the modulus, with wide applications in areas such as cryptography and scheduling.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Eg6CTCu8iio",
    quiz:[
      {q:"Modular arithmetic describes a system where numbers wrap around after reaching a fixed value called the ___.", options:["Coefficient, with no connection to how numbers wrap around","A concept unrelated to this number system","Modulus","Determinant, a concept unrelated to modular arithmetic"], answer:2},
      {q:"Modular arithmetic has wide applications in areas such as cryptography and ___.", options:["A field entirely unrelated to any practical application","Scheduling","A concept unrelated to modular arithmetic’s uses","Only purely decorative art, with no mathematical or practical use"], answer:1},
@@ -2383,6 +2385,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Center of Mass and Centroids", summary:"Grade 12 Calculus strand: the center of mass of an object is the point at which its mass can be considered concentrated, and for a region with uniform density, this point (the centroid) can be found using integration.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=SWu_i-19Rn0",
    quiz:[
      {q:"The center of mass of an object is the point at which its ___ can be considered concentrated.", options:["Mass","Colour, with no connection to a physical property","A concept unrelated to an object’s physical properties","Surface temperature exclusively, with no connection to mass"], answer:0},
      {q:"For a region with uniform density, the center of mass is also known as the ___.", options:["A concept unrelated to describing a region’s geometry","Vertex, with no connection to a region’s balance point","Centroid","Determinant, a concept unrelated to center of mass"], answer:2},
@@ -2392,6 +2395,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Simple Machines and Mechanical Advantage", summary:"Grade 12 Physics strand: a simple machine, such as a lever or pulley, changes the size or direction of an applied force, and its mechanical advantage describes the ratio between the output force and the input force.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=SPTNKnCqlW4",
    quiz:[
      {q:"A simple machine, such as a lever or pulley, changes the size or ___ of an applied force.", options:["Direction","Colour, with no connection to how force is applied","Chemical composition, with no connection to mechanical force","A concept unrelated to simple machines"], answer:0},
      {q:"Mechanical advantage describes the ratio between the output force and the ___ force.", options:["A completely unrelated, external force with no connection to the machine","Gravitational force exclusively, regardless of the machine involved","A concept unrelated to mechanical advantage","Input"], answer:3},

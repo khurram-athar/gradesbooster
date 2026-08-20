@@ -2372,6 +2372,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Permutations and Combinations: Advanced Applications", summary:"Grade 10 Data Management strand (extension): a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=tnF9f3zCCKI",
    quiz:[
      {q:"A permutation counts the number of ways items can be arranged when ___.", options:["Only a single item is being arranged","Order matters","Order does not matter at all","A concept unrelated to counting arrangements"], answer:1},
      {q:"A combination counts the number of ways items can be selected when ___.", options:["Order does not matter","A concept unrelated to counting selections","Order always matters","No items are actually being selected"], answer:0},
@@ -2381,6 +2382,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Simple Harmonic Motion (Pendulums and Springs)", summary:"Grade 10 Physics strand: simple harmonic motion describes a repeating back-and-forth movement, such as a swinging pendulum or an oscillating spring, where the restoring force is proportional to the displacement from equilibrium.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=tNpuTx7UQbw",
    quiz:[
      {q:"Simple harmonic motion describes a repeating movement that is best characterized as ___.", options:["A completely random, unpredictable movement","Back-and-forth around a central equilibrium point","A concept unrelated to periodic motion","A motion that only ever occurs in a single direction with no repetition"], answer:1},
      {q:"Which of these is a common example of simple harmonic motion?", options:["An object that remains completely stationary","A concept unrelated to simple harmonic motion","An object moving in a perfectly straight line with no repeating pattern","A pendulum swinging back and forth"], answer:3},

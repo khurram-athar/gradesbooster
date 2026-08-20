@@ -2362,6 +2362,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"English", title:"Writing: The Rhetorical Analysis of a Historical Speech", summary:"Grade 11 English strand: a rhetorical analysis of a historical speech examines how a speaker used specific persuasive techniques and appeals, within the context of their historical moment, to influence an audience.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=Wj3_2AeJMpE",
    quiz:[
      {q:"A rhetorical analysis of a historical speech examines how a speaker used ___.", options:["Specific persuasive techniques and appeals to influence an audience","Only the exact date the speech was delivered","A concept unrelated to rhetorical analysis","A completely random selection of unrelated words"], answer:0},
      {q:"Why is understanding a speech’s historical context important when conducting a rhetorical analysis?", options:["A rhetorical analysis should never consider a speech’s historical context","Every audience throughout history responds to speeches in an identical way","The context can reveal why certain appeals or arguments would have been especially persuasive to that audience","Historical context has no connection to how a speech was received"], answer:2},
@@ -2371,6 +2372,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Statistics: Sampling Methods and Bias", summary:"Grade 11 Functions strand (Data Management): the way a sample is selected from a population — through methods like simple random, stratified, or convenience sampling — can introduce bias that affects how accurately the sample represents the larger population.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Rf-fIpB4D50",
    quiz:[
      {q:"A sample is best described as ___.", options:["A subset of a population selected for study","The entire population being studied, with no subset involved","A concept unrelated to statistics","A value calculated only after all data has been collected"], answer:0},
      {q:"In a simple random sample, every member of the population ___.", options:["A concept unrelated to random sampling","Has an equal chance of being selected","Has no chance of ever being selected","Is guaranteed to be selected"], answer:1},
@@ -2380,6 +2382,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Animal Reproduction — Strategies and Adaptations", summary:"Grade 11 Biology strand: animal species have evolved diverse reproductive strategies, from producing many offspring with little parental care to producing few offspring with extensive care, each adapted to different environmental pressures.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=fhiqKZCT6OA",
    quiz:[
      {q:"A reproductive strategy involving many offspring with relatively little parental care is often associated with species that ___.", options:["A concept unrelated to reproductive strategies","Produce exactly one offspring at a time with no exceptions","Face high offspring mortality in their environment","Always provide extensive parental care to every offspring"], answer:2},
      {q:"A reproductive strategy involving few offspring with extensive parental care is often associated with species that ___.", options:["A concept unrelated to reproductive strategies","Provide no parental care of any kind","Always produce the maximum number of offspring possible","Invest heavily in ensuring each offspring survives"], answer:3},
@@ -2389,6 +2392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Electroplating and Corrosion Prevention", summary:"Grade 11 Chemistry strand: electroplating uses an electrolytic cell to coat an object with a thin layer of metal, a process closely related to methods like cathodic protection that are used to prevent corrosion in structures such as pipelines and ships.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=PQS_xFG7lpw",
    quiz:[
      {q:"Electroplating uses an electrolytic cell to ___.", options:["Melt an object completely with no coating applied","Coat an object with a thin layer of metal","Remove all metal coatings from an object","A concept unrelated to electroplating"], answer:1},
      {q:"Corrosion, such as the rusting of iron, is best described as a ___.", options:["Process that has no connection to chemical reactions","Chemical reaction that gradually deteriorates a metal, often through oxidation","A concept unrelated to metal degradation","Reaction that only occurs in the complete absence of oxygen"], answer:1},
