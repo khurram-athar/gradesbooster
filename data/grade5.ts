@@ -2401,6 +2401,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Reading: Evaluating Arguments and Counterarguments", summary:"Grade 5 Language strand: evaluating an argument means judging whether the reasons and evidence support the claim, while a counterargument presents an opposing point of view.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=iMC1i5foRzM",
    quiz:[
      {q:"Evaluating an argument means judging whether ___.", options:["The argument is written in complete sentences","The text is a certain length","A concept unrelated to reading","The reasons and evidence actually support the claim"], answer:3},
      {q:"A counterargument presents ___.", options:["A concept unrelated to argumentation","A summary of the entire text","The exact same point of view as the main argument","An opposing point of view to the main argument"], answer:3},
@@ -2410,6 +2411,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Line Plots and Stem-and-Leaf Plots", summary:"Grade 5 Math strand: a line plot displays data using marks above a number line, while a stem-and-leaf plot organizes numerical data by splitting each value into a “stem” and a “leaf.”",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=wUcTsX6JNk8",
    quiz:[
      {q:"A line plot displays data using ___.", options:["Bars of different heights only","Slices of a circle","A concept unrelated to line plots","Marks placed above a number line"], answer:3},
      {q:"In a stem-and-leaf plot, the “stem” usually represents ___.", options:["The exact value of a single data point","The total number of data points","The leading digit(s) of a number","A concept unrelated to stem-and-leaf plots"], answer:2},
@@ -2419,6 +2421,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Materials Engineering and Testing", summary:"Grade 5 Science strand: engineers test different materials for strength, flexibility, and durability to determine the best choice for building a stable structure.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=CMxMHT3UvBk",
    quiz:[
      {q:"Materials engineering involves testing materials for qualities such as ___.", options:["Their price alone, with no other testing","Strength, flexibility, and durability","Only their colour and appearance","A concept unrelated to engineering"], answer:1},
      {q:"Why might an engineer test a material’s flexibility before using it in a structure?", options:["Flexibility has no connection to how a structure performs","To see whether it can bend without breaking under stress","Flexibility testing is never done in engineering","A reason unrelated to materials engineering"], answer:1},
@@ -2428,6 +2431,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Land Acknowledgements and Treaty Territories", summary:"Grade 5 Social Studies strand: a land acknowledgement recognizes the Indigenous peoples who have traditionally lived on and cared for a particular territory, often defined by historic treaties.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=KoO3NKdfFis",
    quiz:[
      {q:"A land acknowledgement recognizes ___.", options:["A country’s entire history, with no focus on any specific group","The Indigenous peoples who have traditionally lived on a territory","A concept unrelated to Indigenous history","A modern boundary with no historical significance"], answer:1},
      {q:"A treaty territory is often defined by ___.", options:["A concept unrelated to treaties","A boundary drawn with no historical basis","A historic agreement between Indigenous nations and the government","A region that has never had any agreements in place"], answer:2},
