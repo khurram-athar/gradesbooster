@@ -2359,6 +2359,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Deepfakes and Synthetic Media", summary:"Grade 9 Media Literacy strand: a deepfake is synthetic media created using artificial intelligence to convincingly alter or fabricate images, audio, or video, raising concerns about misinformation and trust in digital content.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=W631WArdFOs",
    quiz:[
      {q:"A deepfake is best described as ___.", options:["A completely unedited, original video with no alterations","A term for any video shared on social media","Synthetic media created using artificial intelligence to alter or fabricate content","A concept unrelated to digital media"], answer:2},
      {q:"Deepfakes are most commonly created using ___.", options:["Artificial intelligence techniques","Traditional hand-drawn illustration","Simple text editing software only","A process unrelated to technology"], answer:0},
@@ -2368,6 +2369,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Amortization and Loans", summary:"Grade 9 Financial Literacy strand: amortization is the process of paying off a loan over time through regular payments that cover both principal and interest, with the interest portion typically decreasing as the loan balance is paid down.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=-2yXZZOROug",
    quiz:[
      {q:"Amortization refers to the process of ___.", options:["A concept unrelated to loans or borrowing","Immediately paying off an entire loan in a single payment","Increasing a loan’s total balance with no payments made","Paying off a loan over time through regular payments"], answer:3},
      {q:"Each regular loan payment in an amortized loan typically covers ___.", options:["Neither principal nor interest","Both principal and interest","Only interest, with no reduction of the principal","Only principal, with no interest included"], answer:1},
@@ -2377,6 +2379,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Soil Science and Nutrient Cycling in Agriculture", summary:"Grade 9 Science Biology strand: healthy soil relies on nutrient cycling, where organic matter decomposes and returns essential nutrients like nitrogen and phosphorus to the soil, supporting plant growth in agricultural systems.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=NVhY4ssMtbI",
    quiz:[
      {q:"Nutrient cycling in soil involves ___.", options:["Organic matter decomposing and returning nutrients to the soil","Only water moving through soil, with no nutrient involvement","Nutrients disappearing permanently once used by a plant","A concept unrelated to soil health"], answer:0},
      {q:"Which of these is an essential nutrient commonly cycled through healthy soil?", options:["Nitrogen","A substance unrelated to plant growth","Oxygen gas exclusively, with no other nutrients involved","Helium"], answer:0},
@@ -2386,6 +2389,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Self-Government and Land Governance in Canada", summary:"Grade 9 Social Studies (Geography) strand: Indigenous self-government refers to the authority of Indigenous communities in Canada to govern their own affairs, including decisions related to land use and management within their territories.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Pco_xElw99o",
    quiz:[
      {q:"Indigenous self-government refers to the authority of Indigenous communities to ___.", options:["A concept unrelated to governance","Be governed entirely by decisions made outside their communities","Govern their own affairs, including matters related to their land","Have no role in decisions affecting their own communities"], answer:2},
      {q:"Land governance in the context of Indigenous self-government often involves decisions about ___.", options:["A topic entirely unrelated to land or territory","Only land located outside of Canada","Land use and resource management within Indigenous territories","Land that has no connection to any Indigenous community"], answer:2},

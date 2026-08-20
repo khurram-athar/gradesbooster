@@ -2362,6 +2362,7 @@ const curriculum: DayContent[] = [
 {day:57, label:"Day 57 — Tue", subjects:[
   {subject:"English", title:"Writing: The Extended Definition Essay", summary:"Grade 10 English strand: an extended definition essay explores the full meaning of a complex or abstract term by using examples, comparisons, and context beyond a simple dictionary definition.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=jijVt_KhAjk",
    quiz:[
      {q:"An extended definition essay explores the full meaning of a term by using ___.", options:["Only a single, brief dictionary definition with no further explanation","A definition with no connection to the term’s actual meaning","A concept unrelated to defining a term","Examples, comparisons, and context"], answer:3},
      {q:"Why might a writer choose to write an extended definition essay about an abstract term, like “courage” or “success”?", options:["Abstract terms never require any further explanation","This type of essay only works for simple, concrete terms","Abstract terms have no meaning worth exploring in an essay","Abstract terms often have complex, personal, or contested meanings that benefit from deeper exploration"], answer:3},
@@ -2389,6 +2390,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The National Energy Program and Federal-Provincial Tension", summary:"Grade 10 History strand: the 1980 National Energy Program was a federal policy aimed at increasing Canadian control over the oil industry, which created significant tension with western provinces, particularly Alberta.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=vuigsKNMDQ0",
    quiz:[
      {q:"The National Energy Program was introduced in which year?", options:["1919","1980","1945","1995"], answer:1},
      {q:"The National Energy Program was primarily aimed at increasing Canadian control over the ___.", options:["A sector entirely unrelated to energy policy","Oil industry","Automotive manufacturing industry","Fishing industry, with no connection to energy"], answer:1},

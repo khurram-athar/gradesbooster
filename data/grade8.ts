@@ -2369,6 +2369,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Weighted Averages", summary:"Grade 8 Math strand: a weighted average accounts for the varying importance, or weight, of each value in a data set, unlike a simple average where every value counts equally.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=LdrBNhWw9AM",
    quiz:[
      {q:"A weighted average differs from a simple average because it ___.", options:["Ignores every value except the highest one","A concept unrelated to weighted averages","Accounts for the varying importance, or weight, of each value","Treats every value in a data set with equal importance"], answer:2},
      {q:"If a test is worth 70% of a grade and a project is worth 30%, this is an example of ___.", options:["A concept unrelated to weighted averages","A calculation with no connection to grades","Weighted averaging","A simple average with no weighting involved"], answer:2},
@@ -2378,6 +2379,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Homeostasis and the Endocrine System", summary:"Grade 8 Science strand: homeostasis is the body’s process of maintaining a stable internal environment, and the endocrine system uses hormones released into the bloodstream to help regulate processes like growth, metabolism, and mood.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=iuxaJKwDdGA",
    quiz:[
      {q:"Homeostasis refers to the body’s process of ___.", options:["Shutting down all bodily systems","Maintaining a stable internal environment","A concept unrelated to homeostasis","Constantly changing its internal environment with no regulation"], answer:1},
      {q:"The endocrine system regulates the body using ___.", options:["Electrical signals sent only through nerves","No chemical messengers of any kind","A concept unrelated to the endocrine system","Hormones released into the bloodstream"], answer:3},
