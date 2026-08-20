@@ -2404,6 +2404,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"English", title:"Oral Communication: Impromptu Speaking Skills", summary:"Grade 10 English strand: impromptu speaking involves organizing and delivering a coherent response to a topic with little or no preparation time, relying on quick thinking and a clear structure.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=SehA30-v-nM",
    quiz:[
      {q:"Impromptu speaking involves delivering a response to a topic ___.", options:["A concept unrelated to public speaking","After extensive research and days of preparation","With little or no preparation time","Only when a full written script is available in advance"], answer:2},
      {q:"Why might a speaker use a simple structure, such as stating a point and then giving a supporting reason, during an impromptu speech?", options:["Structure is never useful when speaking without preparation","Impromptu speeches are always more effective with no structure at all","A reason unrelated to impromptu speaking","A clear structure helps organize thoughts quickly and keeps the response coherent under time pressure"], answer:3},
@@ -2413,6 +2414,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Polynomial Division and the Remainder Theorem", summary:"Grade 10 Number strand (extension): polynomial division follows a process similar to long division with numbers, and the remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to the polynomial evaluated at a.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=p1lSRAeEMR0",
    quiz:[
      {q:"Polynomial division follows a process similar to ___.", options:["Simple multiplication with no connection to division","Long division with numbers","A process that only applies to single-term expressions","A method entirely unrelated to division"], answer:1},
      {q:"The remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to ___.", options:["A concept unrelated to polynomial division","The polynomial evaluated at a","Zero, in every possible case","The value of a alone, with no connection to the polynomial"], answer:1},
@@ -2422,6 +2424,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Gas Laws (Boyle’s, Charles’s, Combined)", summary:"Grade 10 Chemistry strand: gas laws describe the mathematical relationships between a gas’s pressure, volume, and temperature, including Boyle’s law (pressure and volume) and Charles’s law (volume and temperature).",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=MXDpM7gt8TI",
    quiz:[
      {q:"Boyle’s law describes the relationship between a gas’s ___.", options:["Pressure and volume","Only its chemical formula, with no physical properties involved","A relationship unrelated to gas behaviour","Mass and colour"], answer:0},
      {q:"Charles’s law describes the relationship between a gas’s ___.", options:["Volume and temperature","A relationship unrelated to gas behaviour","Colour and density","Pressure and mass"], answer:0},
@@ -2431,6 +2434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Japanese Canadian Internment: Redress and Legacy", summary:"Grade 10 History strand: following the forced internment of Japanese Canadians during World War II, the Canadian government issued a formal apology and financial redress in 1988, acknowledging the injustice of these wartime policies.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=C8TQTuMqM9g",
    quiz:[
      {q:"The Canadian government issued a formal apology and financial redress for Japanese Canadian internment in which year?", options:["1970","1988","1945","1919"], answer:1},
      {q:"The redress for Japanese Canadian internment acknowledged the injustice of policies enacted during ___.", options:["World War I","World War II","The Cold War","A conflict entirely unrelated to internment"], answer:1},

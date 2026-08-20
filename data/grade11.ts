@@ -2413,6 +2413,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Solving Systems of Linear-Quadratic Equations", summary:"Grade 11 Functions strand: a linear-quadratic system consists of one linear and one quadratic equation, and its solution — the points where a line and a parabola intersect — can be found algebraically through substitution or graphically.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=g1-zG0eNKTM",
    quiz:[
      {q:"A linear-quadratic system consists of ___.", options:["Two linear equations, with no quadratic equation involved","One linear equation and one quadratic equation","Two quadratic equations, with no linear equation involved","A concept unrelated to systems of equations"], answer:1},
      {q:"The solution to a linear-quadratic system represents ___.", options:["A concept unrelated to solving systems of equations","The vertex of the parabola exclusively, with no connection to the line","The point or points where a line and a parabola intersect","A single point unrelated to either equation in the system"], answer:2},
@@ -2431,6 +2432,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Mass Spectrometry and Molecular Identification", summary:"Grade 11 Chemistry strand: mass spectrometry identifies a molecule by ionizing a sample and measuring the mass-to-charge ratio of the resulting fragments, producing a distinctive pattern that can reveal a compound’s structure and molecular mass.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=CyJaxr6FXAE",
    quiz:[
      {q:"Mass spectrometry identifies a molecule by ionizing a sample and measuring its ___.", options:["Mass-to-charge ratio","A concept unrelated to mass spectrometry","Colour when exposed to light","Boiling point exclusively, with no connection to ionization"], answer:0},
      {q:"The pattern of fragments produced during mass spectrometry can help reveal a compound’s ___.", options:["Structure and molecular mass","A concept unrelated to molecular identification","Exact temperature at the time of testing","Colour, with no connection to its structure"], answer:0},

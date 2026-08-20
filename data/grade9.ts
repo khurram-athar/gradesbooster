@@ -2401,6 +2401,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Correlative Conjunctions and Sentence Balance", summary:"Grade 9 Writing strand: correlative conjunctions, such as “either…or” and “not only…but also,” work in pairs to connect balanced grammatical elements within a sentence.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=R74Ly00UygU",
    quiz:[
      {q:"Correlative conjunctions work in ___ to connect elements within a sentence.", options:["Pairs","Groups of three or more only","Isolation, with no connection to other words","A concept unrelated to conjunctions"], answer:0},
      {q:"Which of these is an example of a correlative conjunction pair?", options:["A pair unrelated to correlative conjunctions","Either…or","And…and","But…but"], answer:1},
@@ -2410,6 +2411,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometric Sequences and Series (Intro)", summary:"Grade 9 Number/Algebra strand: a geometric sequence is a list of numbers where each term is found by multiplying the previous term by a constant ratio, and a geometric series is the sum of the terms in such a sequence.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=pXo0bG4iAyg",
    quiz:[
      {q:"A geometric sequence is formed by ___.", options:["Adding a constant value to each term to find the next term","Randomly generating each term with no consistent pattern","A concept unrelated to sequences","Multiplying each term by a constant ratio to find the next term"], answer:3},
      {q:"In the geometric sequence 2, 6, 18, 54, the common ratio is ___.", options:["3","4","A value unrelated to this sequence","6"], answer:0},
@@ -2419,6 +2421,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electric Fields and Static Discharge", summary:"Grade 9 Science Physics strand: an electric field surrounds a charged object and exerts a force on other charges within it, and static discharge occurs when built-up static electricity suddenly transfers between objects.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=dcleFSS4BWw",
    quiz:[
      {q:"An electric field surrounds a charged object and exerts a force on ___.", options:["Other charges within that field","Nothing, as electric fields exert no force","A concept unrelated to electricity","Only objects with no charge at all"], answer:0},
      {q:"Static discharge occurs when ___.", options:["Built-up static electricity suddenly transfers between objects","A concept unrelated to static electricity","An object loses all electrical properties permanently","Electric charge is permanently trapped with no possible transfer"], answer:0},
@@ -2428,6 +2431,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Natural Disaster Preparedness and Resilience", summary:"Grade 9 Social Studies (Geography) strand: disaster preparedness involves planning and infrastructure designed to reduce harm from natural hazards, and resilience refers to a community’s ability to recover and adapt after a disaster occurs.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=-FBq5lE1Kz0",
    quiz:[
      {q:"Disaster preparedness involves planning and infrastructure designed to ___.", options:["Reduce harm from natural hazards","Prevent any need for future infrastructure planning","A concept unrelated to natural disasters","Increase the impact of natural hazards on a community"], answer:0},
      {q:"Resilience, in the context of natural disasters, refers to a community’s ability to ___.", options:["Remain completely unaffected by any disaster","A concept unrelated to disaster response","Recover and adapt after a disaster occurs","Avoid all natural disasters permanently"], answer:2},
