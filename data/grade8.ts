@@ -2401,6 +2401,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Modifiers and Misplaced Modifiers", summary:"Grade 8 Language strand: a modifier describes or adds detail to another word in a sentence, and a misplaced modifier is positioned so far from the word it describes that it creates confusion or an unintended meaning.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=M6AzQ99bYO8",
    quiz:[
      {q:"A modifier is a word or phrase that ___.", options:["Has no connection to any other word in a sentence","A concept unrelated to modifiers","Always functions as the main verb of a sentence","Describes or adds detail to another word in a sentence"], answer:3},
      {q:"A misplaced modifier occurs when ___.", options:["A modifier is positioned so it creates confusion or an unintended meaning","A concept unrelated to misplaced modifiers","A modifier is placed directly next to the word it describes","A sentence contains no modifiers of any kind"], answer:0},
@@ -2410,6 +2411,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Rational Equations", summary:"Grade 8 Math strand (pre-high-school extension): solving a rational equation involves eliminating the denominators, often by finding a common denominator or cross-multiplying, then solving the resulting equation.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=1fR_9ke5-n8",
    quiz:[
      {q:"A rational equation is an equation that contains ___.", options:["Only whole numbers with no variables","No fractions of any kind","A concept unrelated to rational equations","At least one fraction with a variable in the denominator"], answer:3},
      {q:"A common first step in solving a rational equation is to ___.", options:["Immediately ignore all denominators in the equation","A step unrelated to solving rational equations","Add the numerators without addressing the denominators","Eliminate the denominators by finding a common denominator or cross-multiplying"], answer:3},
@@ -2419,6 +2421,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biomes and Global Ecosystems", summary:"Grade 8 Science strand: a biome is a large geographic region characterized by a distinct climate and the plant and animal communities adapted to survive there, such as deserts, rainforests, and tundra.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=GWlPYupCT48",
    quiz:[
      {q:"A biome is best described as ___.", options:["A region with no connection to climate at all","A single organism living in isolation","A large geographic region with a distinct climate and adapted living things","A concept unrelated to biomes"], answer:2},
      {q:"Which of these is an example of a biome?", options:["Tundra","A concept unrelated to biomes","A single species of animal","A single backyard garden"], answer:0},
@@ -2428,6 +2431,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Role in the Korean War", summary:"Grade 8 History strand: Canada contributed troops and naval support to the United Nations forces during the Korean War (1950-1953), marking one of Canada’s significant military commitments after the Second World War.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=9hpZxjsGdi4",
    quiz:[
      {q:"Canada contributed troops and naval support to ___ during the Korean War.", options:["The opposing side against the United Nations","United Nations forces","A group unrelated to the Korean War","Only its own domestic defence, with no international involvement"], answer:1},
      {q:"The Korean War took place primarily between ___.", options:["A time period unrelated to the Korean War","1914 and 1918","1950 and 1953","1980 and 1985"], answer:2},
