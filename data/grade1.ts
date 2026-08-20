@@ -2961,6 +2961,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Making Inferences While Reading", summary:"Students learn to make inferences, using clues from a story along with what they already know, to figure out something the author does not say directly.",
    resourceLabel:"YouTube: Making Inferences While Reading", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Inferences%20While%20Reading%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M3ZKbnBw7NY",
    quiz:[
      {q:"What is an inference?", options:["A type of punctuation","A made-up word","Using clues and what we already know to figure something out","A kind of picture"], answer:2},
      {q:"If a character is holding an umbrella and wearing boots, what might you infer?", options:["It is sunny and hot","It is snowing indoors","It is raining","It is nighttime"], answer:2},
@@ -2975,6 +2976,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Estimating: More, Fewer, and About How Many", summary:"Students practise estimating, making a sensible guess about how many objects there are without counting each one exactly.",
    resourceLabel:"YouTube: Estimating: More, Fewer, and About How Many", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%3A%20More%2C%20Fewer%2C%20and%20About%20How%20Many%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xnUkIsdvfGY",
    quiz:[
      {q:"What does it mean to estimate?", options:["Measure with a ruler","Make a sensible guess without counting exactly","Count every single item slowly","Draw a picture"], answer:1},
      {q:"If one jar looks like it has many more candies than another jar, the first jar likely has ___ candies.", options:["Zero","The exact same amount","Fewer","More"], answer:3},
@@ -2989,6 +2991,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Coverings: Fur, Feathers, and Scales", summary:"Students compare different animal body coverings, such as fur on mammals, feathers on birds, and scales on fish and reptiles, and how each covering helps the animal.",
    resourceLabel:"YouTube: Animal Coverings: Fur, Feathers, and Scales", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Coverings%3A%20Fur%2C%20Feathers%2C%20and%20Scales%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NHPE2-6hB80",
    quiz:[
      {q:"Which animal covering helps keep many mammals warm?", options:["Feathers","Fur","Shells","Scales"], answer:1},
      {q:"Which body covering helps many birds fly and stay warm?", options:["Scales","Fins","Feathers","Fur"], answer:2},
@@ -3003,6 +3006,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Museums: Learning About the Past", summary:"Students learn that a museum is a community place where people can see and learn about objects from the past, such as old tools, artwork, and artifacts.",
    resourceLabel:"YouTube: Museums: Learning About the Past", resourceUrl:"https://www.youtube.com/results?search_query=Museums%3A%20Learning%20About%20the%20Past%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mIJUtMdKMlk",
    quiz:[
      {q:"What is a museum?", options:["A place where people can see and learn about objects from the past","A place to buy groceries","A place to mail letters","A place to swim"], answer:0},
      {q:"Which of these might you see displayed at a museum?", options:["Fresh vegetables for sale","Swimming pools","Old tools and artwork","Mail being sorted"], answer:2},

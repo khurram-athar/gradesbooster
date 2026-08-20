@@ -2962,6 +2962,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Story Problems: What Went Wrong", summary:"Students learn that many stories include a problem the characters must solve, and practise identifying the problem and how the characters try to fix it.",
    resourceLabel:"YouTube: Story Problems: What Went Wrong", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Problems%3A%20What%20Went%20Wrong%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=U0bztiOXtyY",
    quiz:[
      {q:"What is a problem in a story?", options:["The title of the book","The last word","A challenge the character must solve","A picture on the cover"], answer:2},
      {q:"If a character is lost in the woods, what is the story problem?", options:["Taking a nap","Being lost","Eating lunch","Singing a song"], answer:1},
@@ -2976,6 +2977,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Halves and Quarters: Cutting Shapes", summary:"Students explore cutting shapes into two equal halves or four equal quarters, building on earlier fraction ideas by comparing halves to quarters.",
    resourceLabel:"YouTube: Halves and Quarters: Cutting Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Halves%20and%20Quarters%3A%20Cutting%20Shapes%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6pSAbELKrX0",
    quiz:[
      {q:"If you cut a circle into two equal parts, each part is called a ___.", options:["Quarter","Third","Half","Whole"], answer:2},
      {q:"If you cut a circle into four equal parts, each part is called a ___.", options:["Half","Double","Whole","Quarter"], answer:3},
@@ -2990,6 +2992,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Clouds in the Sky: Watching the Weather", summary:"Students observe clouds in the sky and learn that clouds can look different, such as fluffy white clouds on a sunny day or dark grey clouds before rain.",
    resourceLabel:"YouTube: Clouds in the Sky: Watching the Weather", resourceUrl:"https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Watching%20the%20Weather%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Uo8lbeVVb4M",
    quiz:[
      {q:"What do we call the fluffy shapes we see in the sky?", options:["Stars","Clouds","Puddles","Rainbows"], answer:1},
      {q:"What colour might clouds be right before it rains?", options:["Dark grey","Bright yellow","Green","Pink"], answer:0},
@@ -3004,6 +3007,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Signs Around Us: Reading Everyday Symbols", summary:"Students learn to recognize common signs and symbols in their community, such as a stop sign, a washroom sign, or an exit sign, and what each one means.",
    resourceLabel:"YouTube: Signs Around Us: Reading Everyday Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Signs%20Around%20Us%3A%20Reading%20Everyday%20Symbols%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cEPqHPO07jk",
    quiz:[
      {q:"What shape is a stop sign?", options:["Circle","Triangle","Square","Octagon"], answer:3},
      {q:"What colour is a stop sign?", options:["Red","Green","Blue","Yellow"], answer:0},
