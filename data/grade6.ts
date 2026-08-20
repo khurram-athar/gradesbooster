@@ -2401,6 +2401,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Correcting Sentence Fragments and Run-On Sentences", summary:"Grade 6 Language strand: a sentence fragment is an incomplete thought missing a subject or verb, while a run-on sentence incorrectly joins two or more complete sentences without proper punctuation.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=GJZzAaexLd4",
    quiz:[
      {q:"A sentence fragment is ___.", options:["A complete sentence with proper punctuation","Always longer than a complete sentence","A concept unrelated to grammar","An incomplete thought missing a subject or verb"], answer:3},
      {q:"A run-on sentence incorrectly joins ___.", options:["Two or more complete sentences without proper punctuation","Only fragments, never complete sentences","A single word with no other words at all","A concept unrelated to run-on sentences"], answer:0},
@@ -2410,6 +2411,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Negative Number Operations in Real-World Contexts", summary:"Grade 6 Math strand: negative numbers can represent real-world situations such as temperatures below zero, debts, or elevations below sea level, and operations with them follow the same integer rules.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ZDUGNrzgMi4",
    quiz:[
      {q:"A temperature of -5°C could be represented using ___.", options:["A fraction with no connection to temperature","A concept unrelated to negative numbers","Only a positive number","A negative number"], answer:3},
      {q:"If a person owes $20, this debt could be represented as ___.", options:["20","A value unrelated to representing debt","0","-20"], answer:3},
@@ -2419,6 +2421,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Magnetism and Electromagnets", summary:"Grade 6 Science strand: magnetism is a force that attracts certain metals, and an electromagnet is created when an electric current flows through a coiled wire, producing a controllable magnetic field.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=tHIchO1pbFA",
    quiz:[
      {q:"Magnetism is a force that ___.", options:["Attracts every material equally","Has no effect on any type of material","A concept unrelated to magnetism","Attracts certain metals, such as iron"], answer:3},
      {q:"An electromagnet is created when ___.", options:["A permanent magnet is heated to a high temperature","Two magnets are placed far apart from each other","An electric current flows through a coiled wire","A concept unrelated to electromagnets"], answer:2},
@@ -2428,6 +2431,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Peacekeeping Missions Abroad", summary:"Grade 6 Social Studies strand: Canada has a long history of contributing peacekeeping forces to United Nations missions aimed at maintaining stability in regions affected by conflict.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=M1xHm5FFohU",
    quiz:[
      {q:"Canada has historically contributed forces to peacekeeping missions organized by ___.", options:["Only its own domestic government","A group unrelated to peacekeeping","No international organization at all","The United Nations"], answer:3},
      {q:"The main goal of a peacekeeping mission is generally to ___.", options:["Start new conflicts in a region","Help maintain stability in regions affected by conflict","A concept unrelated to peacekeeping","Remove all international involvement from a conflict"], answer:1},
