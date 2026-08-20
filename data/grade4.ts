@@ -2399,6 +2399,7 @@ const curriculum: DayContent[] = [
 {day:58, label:"Day 58 — Wed", subjects:[
   {subject:"Language", title:"Writing: Personal Narratives and Journals", summary:"Grade 4 Language strand: a personal narrative tells a true story from the writer’s own life, often written in first person and organized in the order events happened.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=z0uXjL2IdeU",
    quiz:[
      {q:"A personal narrative tells a story that is ___.", options:["A concept unrelated to writing","Always completely fictional","True and based on the writer’s own life","Written about someone the writer has never met"], answer:2},
      {q:"A personal narrative is usually written in ___.", options:["First person, using “I”","Second person only, using “you”","A point of view unrelated to personal narratives","Third person only, using “they”"], answer:0},
@@ -2408,6 +2409,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Circle Graphs (Pie Charts)", summary:"Grade 4 Math strand: a circle graph, or pie chart, shows data as slices of a circle, where each slice represents a proportion of the whole.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=bgOeGO9K53I",
    quiz:[
      {q:"A circle graph shows data as ___.", options:["Slices of a circle representing proportions of a whole","A concept unrelated to circle graphs","A list of numbers with no visual representation","A single straight line"], answer:0},
      {q:"In a circle graph, a larger slice represents ___.", options:["A concept unrelated to circle graphs","A smaller proportion of the total data","No data at all","A greater proportion of the total data"], answer:3},
@@ -2417,6 +2419,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Sun and Its Role in Our Solar System", summary:"Grade 4 Science strand: the Sun is a star at the centre of our solar system, providing the light and heat energy that supports life on Earth.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=vQSECrMIygg",
    quiz:[
      {q:"The Sun is best described as a ___.", options:["A concept unrelated to space","Moon that orbits another planet","Star at the centre of our solar system","Planet that orbits the Earth"], answer:2},
      {q:"The Sun provides Earth with ___.", options:["Only darkness","Light and heat energy","No energy of any kind","A concept unrelated to the Sun"], answer:1},
@@ -2426,6 +2429,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Urban, Suburban, and Rural Communities", summary:"Grade 4 Social Studies strand: communities can be classified as urban (city), suburban (residential areas near a city), or rural (countryside), each with different features and ways of life.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=YRxNQPmj1-8",
    quiz:[
      {q:"An urban community is best described as ___.", options:["An area with very few people and mostly farmland","A densely populated city area","A concept unrelated to communities","A community found only in the far north"], answer:1},
      {q:"A rural community is best described as ___.", options:["A countryside area often used for farming, with a lower population","A densely populated downtown core","An area with no land used for any purpose","A concept unrelated to communities"], answer:0},
