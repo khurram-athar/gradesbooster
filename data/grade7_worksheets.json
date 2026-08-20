@@ -1,0 +1,6282 @@
+[
+  {
+    "subject": "Language",
+    "number": 1,
+    "title": "Parts of Speech and Sentence Patterns",
+    "questions": [
+      {
+        "q": "In the sentence The bright red kite soared high above the field, which word is an adjective describing colour?",
+        "options": [
+          "Soared",
+          "Field",
+          "Kite",
+          "Red"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which word functions as the main verb in the sentence The dolphins leaped gracefully out of the water?",
+        "options": [
+          "Water",
+          "Leaped",
+          "Dolphins",
+          "Gracefully"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Identify the adverb in the sentence The mechanic repaired the engine skillfully.",
+        "options": [
+          "Skillfully",
+          "Repaired",
+          "Mechanic",
+          "Engine"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which word is a coordinating conjunction in the sentence Maria wanted tea, but James preferred coffee?",
+        "options": [
+          "Preferred",
+          "But",
+          "Wanted",
+          "Tea"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which word is a preposition in the sentence The hikers walked along the winding trail?",
+        "options": [
+          "Trail",
+          "Along",
+          "Walked",
+          "Hikers"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these nouns is abstract rather than concrete?",
+        "options": [
+          "Bicycle",
+          "Mountain",
+          "Courage",
+          "Notebook"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which word in the sentence Everyone should bring their own supplies is an indefinite pronoun?",
+        "options": [
+          "Their",
+          "Own",
+          "Everyone",
+          "Supplies"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these words is a collective noun?",
+        "options": [
+          "Runs",
+          "Herd",
+          "Green",
+          "Quickly"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Identify the two adjectives that describe the noun bridge in the sentence The old wooden bridge creaked loudly.",
+        "options": [
+          "Bridge and loudly",
+          "Old and wooden",
+          "Old and creaked",
+          "Creaked and loudly"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which word is a subordinating conjunction in the sentence We stayed inside because the storm was fierce?",
+        "options": [
+          "Because",
+          "Inside",
+          "Fierce",
+          "Stayed"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence demonstrates correct use of a relative pronoun?",
+        "options": [
+          "The book that I borrowed was overdue.",
+          "The book whom I borrowed was overdue.",
+          "The book I borrowed it was overdue.",
+          "The book what I borrowed was overdue."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which word functions as a demonstrative pronoun in the sentence This is the assignment we must submit?",
+        "options": [
+          "Assignment",
+          "Submit",
+          "This",
+          "Is"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In the sentence Quietly, the librarian reshelved the returned books, which part of speech is quietly?",
+        "options": [
+          "Adverb",
+          "Adjective",
+          "Noun",
+          "Verb"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which word is a possessive adjective in the sentence Please hand me your notebook?",
+        "options": [
+          "Hand",
+          "Please",
+          "Notebook",
+          "Your"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these sentences contains a compound subject?",
+        "options": [
+          "Mia finished it.",
+          "Mia and Noah finished the project early.",
+          "Mia finished the project early.",
+          "The project was finished early."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 2,
+    "title": "Clauses and Sentence Structure",
+    "questions": [
+      {
+        "q": "What is a group of words containing a subject and a verb that can stand alone as a sentence called?",
+        "options": [
+          "A phrase",
+          "A dependent clause",
+          "An independent clause",
+          "A fragment"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a clause that cannot stand alone and depends on another clause called?",
+        "options": [
+          "A dependent clause",
+          "A phrase",
+          "An independent clause",
+          "A run-on sentence"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence is a complex sentence?",
+        "options": [
+          "Although it was late, the team kept practicing.",
+          "It was late.",
+          "The team was tired and late.",
+          "The team practiced late."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence is a compound sentence?",
+        "options": [
+          "The rain stopped and we.",
+          "We went outside because it stopped.",
+          "The rain stopped.",
+          "The rain stopped, so we went outside."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence is a simple sentence with a compound predicate?",
+        "options": [
+          "The team practiced; they won.",
+          "Although the team practiced, they lost.",
+          "Because they practiced, they won.",
+          "The team practiced hard and won the match."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which word could begin a dependent clause in a complex sentence?",
+        "options": [
+          "Quickly",
+          "Green",
+          "Although",
+          "Bridge"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence contains a run-on error that should be corrected?",
+        "options": [
+          "I finished my homework I went outside to play.",
+          "I finished my homework, so I went outside to play.",
+          "After I finished my homework, I went outside.",
+          "I finished my homework, and then I went outside."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence corrects a comma splice properly?",
+        "options": [
+          "I love reading it helps me relax.",
+          "I love reading, it helps me relax.",
+          "I love reading; it helps me relax.",
+          "I love reading helps me relax."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a group of words missing a subject or a verb that is punctuated as if it were a full sentence?",
+        "options": [
+          "A paragraph",
+          "A phrase",
+          "A fragment",
+          "A clause"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence uses a subordinating conjunction correctly to form a complex sentence?",
+        "options": [
+          "The bus was late, missed class.",
+          "The bus was late we missed class.",
+          "Since the bus was late, we missed the first class.",
+          "Missed class the bus late."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a noun clause?",
+        "options": [
+          "Quickly and quietly.",
+          "Under the bridge.",
+          "What she said surprised everyone.",
+          "Running down the street."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Identify the independent clause in the sentence Because the power went out, we lit candles.",
+        "options": [
+          "We lit candles",
+          "Because the power went out",
+          "Went out we",
+          "Candles we lit"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence contains an adjective clause?",
+        "options": [
+          "I read a book last week.",
+          "Reading last week was fun.",
+          "The book that I read last week was excellent.",
+          "Last week I read."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which conjunction correctly joins these two independent clauses: She studied hard ___ she still felt nervous?",
+        "options": [
+          "although and",
+          "because",
+          "so because",
+          "but"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of sentence contains at least one independent clause and at least one dependent clause?",
+        "options": [
+          "A compound sentence",
+          "A simple sentence",
+          "A fragment",
+          "A complex sentence"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 3,
+    "title": "Reading Comprehension and Story Elements",
+    "questions": [
+      {
+        "q": "What term describes the underlying message or insight about life that a story conveys?",
+        "options": [
+          "Setting",
+          "Theme",
+          "Mood",
+          "Plot"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when a reader draws a conclusion using text evidence and prior knowledge?",
+        "options": [
+          "Predicting",
+          "Paraphrasing",
+          "Making an inference",
+          "Skimming"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the struggle between opposing forces that drives a story forward?",
+        "options": [
+          "Exposition",
+          "Setting",
+          "Conflict",
+          "Resolution"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which type of conflict involves a character struggling against society or its rules?",
+        "options": [
+          "Character versus nature",
+          "Character versus character",
+          "Character versus society",
+          "Character versus self"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when an author compares two things directly within a text to highlight their differences?",
+        "options": [
+          "Repetition",
+          "Contrast",
+          "Foreshadowing",
+          "Flashback"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a narrator whose account of events may not be fully trustworthy?",
+        "options": [
+          "A reliable narrator",
+          "An omniscient narrator",
+          "A first-person narrator",
+          "An unreliable narrator"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for restating information in your own words while keeping the original meaning?",
+        "options": [
+          "Paraphrasing",
+          "Skimming",
+          "Predicting",
+          "Quoting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the central topic of a nonfiction text usually called?",
+        "options": [
+          "The climax",
+          "The rising action",
+          "The main idea",
+          "The resolution"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What are details that support the main idea in a nonfiction text called?",
+        "options": [
+          "Motifs",
+          "Themes",
+          "Settings",
+          "Supporting details"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a recurring idea or symbol that appears throughout a text called?",
+        "options": [
+          "A synonym",
+          "A citation",
+          "A motif",
+          "A prefix"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a reader identifies cause and effect relationships in a text?",
+        "options": [
+          "Skimming",
+          "Analyzing text structure",
+          "Rhyming",
+          "Predicting"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for comparing similarities and differences between two texts or characters?",
+        "options": [
+          "Problem and solution",
+          "Chronological order",
+          "Cause and effect",
+          "Compare and contrast"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which text structure organizes information by presenting a problem and then a possible answer?",
+        "options": [
+          "Description",
+          "Problem and solution",
+          "Sequence",
+          "Compare and contrast"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when an author uses a character or object to represent a larger idea?",
+        "options": [
+          "Onomatopoeia",
+          "Symbolism",
+          "Alliteration",
+          "Assonance"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What should a reader do when encountering an unfamiliar word while reading closely?",
+        "options": [
+          "Skip the entire paragraph",
+          "Ignore the rest of the sentence",
+          "Stop reading immediately",
+          "Use context clues to infer its meaning"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 4,
+    "title": "Figurative Language and Poetic Devices",
+    "questions": [
+      {
+        "q": "What figure of speech compares two unlike things using like or as?",
+        "options": [
+          "Personification",
+          "A simile",
+          "Hyperbole",
+          "A metaphor"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What figure of speech states that one thing is another without using like or as?",
+        "options": [
+          "Onomatopoeia",
+          "A metaphor",
+          "Alliteration",
+          "A simile"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes giving human traits to an animal or object?",
+        "options": [
+          "Hyperbole",
+          "A metaphor",
+          "A simile",
+          "Personification"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes extreme exaggeration used for emphasis?",
+        "options": [
+          "Understatement",
+          "Assonance",
+          "Hyperbole",
+          "Simile"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the repetition of initial consonant sounds in nearby words called?",
+        "options": [
+          "Alliteration",
+          "Onomatopoeia",
+          "Rhyme",
+          "Assonance"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a word that imitates a sound, such as buzz or hiss?",
+        "options": [
+          "Metaphor",
+          "Simile",
+          "Alliteration",
+          "Onomatopoeia"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is an extended metaphor that runs throughout an entire poem or passage called?",
+        "options": [
+          "A refrain",
+          "An extended metaphor",
+          "A pun",
+          "A simile"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a play on words that uses multiple meanings for humorous effect?",
+        "options": [
+          "A simile",
+          "Personification",
+          "Hyperbole",
+          "A pun"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the repeated pattern of stressed and unstressed syllables in a poem called?",
+        "options": [
+          "Alliteration",
+          "Meter break",
+          "Rhyme scheme",
+          "Rhythm"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a line or group of lines repeated throughout a poem, often at the end of stanzas, called?",
+        "options": [
+          "A couplet",
+          "A metaphor",
+          "A refrain",
+          "A stanza"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the repetition of vowel sounds within nearby words?",
+        "options": [
+          "Consonance",
+          "Onomatopoeia",
+          "Alliteration",
+          "Assonance"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which line best demonstrates personification?",
+        "options": [
+          "The clock is old.",
+          "It was midnight.",
+          "The clock struck twelve.",
+          "The old clock groaned as midnight arrived."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a two line stanza that often rhymes called?",
+        "options": [
+          "A sonnet",
+          "A couplet",
+          "A refrain",
+          "A quatrain"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a comparison implied throughout an entire poem rather than stated once?",
+        "options": [
+          "Onomatopoeia",
+          "Hyperbole",
+          "Symbolism",
+          "Alliteration"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which phrase best demonstrates alliteration?",
+        "options": [
+          "She sang a song",
+          "Whispering winds wandered west",
+          "The dog ran fast",
+          "The bright red car"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 5,
+    "title": "Verb Tenses and Subject-Verb Agreement",
+    "questions": [
+      {
+        "q": "Which sentence correctly uses the past perfect tense?",
+        "options": [
+          "By the time we arrived, the movie had already started.",
+          "By the time we arrived, the movie already started.",
+          "By the time we arrived, the movie has started.",
+          "By the time we arrive, the movie had start."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly uses the future perfect tense?",
+        "options": [
+          "By next June, she will have graduated.",
+          "By next June, she has graduated.",
+          "By next June, she will graduate already.",
+          "By next June, she will graduated."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence shows correct subject-verb agreement with a compound subject joined by and?",
+        "options": [
+          "Mia and Leo be attending the concert.",
+          "Mia and Leo are attending the concert.",
+          "Mia and Leo is attending the concert.",
+          "Mia and Leo attending the concert."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence demonstrates correct agreement with an indefinite pronoun subject?",
+        "options": [
+          "Everyone finish the assignment.",
+          "Everyone has finished the assignment.",
+          "Everyone finishing the assignment.",
+          "Everyone have finished the assignment."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the past tense of the irregular verb to bring?",
+        "options": [
+          "Brought",
+          "Bringed",
+          "Bring",
+          "Brung"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly uses the present perfect progressive tense?",
+        "options": [
+          "She is been studying all afternoon.",
+          "She have been studying all afternoon.",
+          "She has study all afternoon.",
+          "She has been studying all afternoon."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence uses the passive voice correctly?",
+        "options": [
+          "The team awarding the trophy.",
+          "The trophy was awarded to the winning team.",
+          "The team was award the trophy.",
+          "The trophy award the team."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence correctly matches a collective noun with a singular verb when it acts as one unit?",
+        "options": [
+          "The jury are reaches verdict today.",
+          "The jury reaching verdict today.",
+          "The jury reach its verdict today.",
+          "The jury reaches its verdict today."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these verbs is irregular in the past tense?",
+        "options": [
+          "Swam",
+          "Walked",
+          "Cleaned",
+          "Jumped"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly uses a modal verb to express possibility?",
+        "options": [
+          "It might raining later this afternoon.",
+          "It mighting rain later this afternoon.",
+          "It might rain later this afternoon.",
+          "It might rains later this afternoon."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence contains a verb tense error?",
+        "options": [
+          "Yesterday, she finished her project.",
+          "She had finished her project by yesterday.",
+          "She finished her project yesterday.",
+          "Yesterday, she will finish her project."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence uses the correct verb form after the modal should?",
+        "options": [
+          "He should completing the form today.",
+          "He should completes the form today.",
+          "He should completed the form today.",
+          "He should complete the form today."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence demonstrates correct agreement when the subject follows the verb, as in sentences beginning with there?",
+        "options": [
+          "There is three books on the table.",
+          "There are three books on the table.",
+          "There was three books on the table now.",
+          "There be three books on the table."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which verb correctly completes the sentence: Neither the coach nor the players ___ ready for the game?",
+        "options": [
+          "was",
+          "were",
+          "be",
+          "is"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence correctly uses the second conditional tense?",
+        "options": [
+          "If it rained, we would stay inside.",
+          "If it rain, we would stayed inside.",
+          "If it rained, we will stay inside.",
+          "If it rains, we would stay inside."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 6,
+    "title": "Vocabulary: Context Clues and Word Parts",
+    "questions": [
+      {
+        "q": "What are hints in the surrounding text that help a reader determine the meaning of an unfamiliar word called?",
+        "options": [
+          "Footnotes",
+          "Context clues",
+          "Citations",
+          "Captions"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In the sentence The taciturn student rarely spoke in class, what does taciturn most likely mean?",
+        "options": [
+          "Loud",
+          "Quiet",
+          "Angry",
+          "Friendly"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of context clue restates the meaning of a word directly in the sentence?",
+        "options": [
+          "An example clue",
+          "A contrast clue",
+          "An inference clue",
+          "A definition clue"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of context clue signals the opposite meaning of an unfamiliar word?",
+        "options": [
+          "An example clue",
+          "A synonym clue",
+          "A definition clue",
+          "A contrast clue"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the sentence The tenacious climber refused to give up despite the storm, what does tenacious most likely mean?",
+        "options": [
+          "Fearful",
+          "Determined",
+          "Careless",
+          "Weak"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a word part attached to the beginning of a root word that changes its meaning called?",
+        "options": [
+          "A prefix",
+          "A synonym",
+          "A suffix",
+          "An antonym"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a word part attached to the end of a root word that changes its meaning called?",
+        "options": [
+          "A root",
+          "A homophone",
+          "A suffix",
+          "A prefix"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the prefix bi- usually mean, as in the word bicycle?",
+        "options": [
+          "None",
+          "Many",
+          "Two",
+          "One"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the suffix -ful usually mean, as in the word joyful?",
+        "options": [
+          "Before",
+          "Without",
+          "Full of",
+          "Again"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the root word bio mean, as in biology and biography?",
+        "options": [
+          "Life",
+          "Light",
+          "Earth",
+          "Water"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the base meaningful part of a word, without prefixes or suffixes, called?",
+        "options": [
+          "The stem clue",
+          "The synonym",
+          "The root",
+          "The context"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Two words that are spelled the same but have different meanings depending on context, such as bark, are called what?",
+        "options": [
+          "Antonyms",
+          "Homographs",
+          "Synonyms",
+          "Homophones"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What resource groups words by similar meaning, useful for finding synonyms?",
+        "options": [
+          "A glossary of terms only",
+          "An atlas",
+          "A dictionary index",
+          "A thesaurus"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the sentence The benevolent donor gave generously to the shelter, what does benevolent most likely mean?",
+        "options": [
+          "Kind and generous",
+          "Cruel and selfish",
+          "Anxious and shy",
+          "Confused and lost"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the prefix mis- usually mean, as in the word misunderstand?",
+        "options": [
+          "Wrongly",
+          "Again",
+          "Before",
+          "Together"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 7,
+    "title": "Persuasive and Argumentative Writing",
+    "questions": [
+      {
+        "q": "What is the main purpose of argumentative writing?",
+        "options": [
+          "To give a set of numbered instructions",
+          "To convince the reader using logic and evidence",
+          "To describe a scene in vivid detail",
+          "To simply narrate a personal story"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a claim supported by reasoning and evidence called?",
+        "options": [
+          "An argument",
+          "A summary",
+          "A caption",
+          "A citation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What are facts, statistics, or expert opinions used to support a claim called?",
+        "options": [
+          "Fragments",
+          "Motifs",
+          "Themes",
+          "Evidence"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What persuasive appeal relies on logic and reasoning?",
+        "options": [
+          "Diction",
+          "Ethos",
+          "Pathos",
+          "Logos"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What persuasive appeal relies on emotion?",
+        "options": [
+          "Pathos",
+          "Syntax",
+          "Logos",
+          "Ethos"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What persuasive appeal relies on the credibility of the writer or speaker?",
+        "options": [
+          "Tone",
+          "Logos",
+          "Ethos",
+          "Pathos"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a writer addresses an opposing viewpoint before responding to it?",
+        "options": [
+          "A citation",
+          "A counterargument",
+          "A thesis statement",
+          "A conclusion"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What sentence usually states the main argument of an essay?",
+        "options": [
+          "The counterargument",
+          "The citation",
+          "The hook",
+          "The thesis statement"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is an error in reasoning that weakens an argument called?",
+        "options": [
+          "A citation",
+          "A thesis statement",
+          "A counterargument",
+          "A logical fallacy"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these is a logical fallacy that attacks a person rather than their argument?",
+        "options": [
+          "A citation",
+          "An ad hominem attack",
+          "A counterargument",
+          "A statistic"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is citing a credible source important in argumentative writing?",
+        "options": [
+          "It makes the essay longer with no real benefit",
+          "It replaces the need for evidence entirely",
+          "It has no real effect on persuasiveness",
+          "It strengthens the credibility of the claim being made"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for specific word choices that influence how a reader feels about a topic?",
+        "options": [
+          "Setting",
+          "Diction",
+          "Rhyme",
+          "Plot"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence is an opinion rather than a fact?",
+        "options": [
+          "The new park covers ten acres.",
+          "The new park opened in June.",
+          "The new park is the best addition to our town.",
+          "The new park has three playgrounds."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What should a strong concluding paragraph of an argumentative essay do?",
+        "options": [
+          "Restate the argument and leave a lasting impression",
+          "Introduce a completely new unrelated topic",
+          "Simply repeat the title of the essay word for word",
+          "Avoid mentioning the argument at all"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is it called when a writer only presents one side of an issue and ignores counterevidence?",
+        "options": [
+          "A counterargument",
+          "A balanced argument",
+          "A biased argument",
+          "A citation"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 8,
+    "title": "Punctuation and Capitalization",
+    "questions": [
+      {
+        "q": "What punctuation mark is used to join two closely related independent clauses without a conjunction?",
+        "options": [
+          "A comma",
+          "A question mark",
+          "A hyphen",
+          "A semicolon"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What punctuation mark introduces a list, quotation, or explanation?",
+        "options": [
+          "A colon",
+          "A comma",
+          "A dash",
+          "A semicolon"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence uses commas correctly in a series?",
+        "options": [
+          "We packed apples, oranges, and grapes.",
+          "We packed apples, oranges and grapes,.",
+          "We packed, apples oranges and, grapes.",
+          "We packed apples oranges and grapes."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What punctuation mark is used to show possession or to form contractions?",
+        "options": [
+          "A colon",
+          "An apostrophe",
+          "A comma",
+          "A hyphen"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence uses capitalization correctly?",
+        "options": [
+          "We Travelled to ottawa Last winter.",
+          "we travelled to ottawa last winter.",
+          "We travelled to Ottawa last winter.",
+          "we Travelled to Ottawa last Winter."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What punctuation mark joins two words to form a compound adjective, such as well known author?",
+        "options": [
+          "A semicolon",
+          "A hyphen",
+          "A colon",
+          "A dash"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which title is capitalized correctly for a novel?",
+        "options": [
+          "the Watcher of the woods",
+          "the watcher of the woods",
+          "The Watcher of the Woods",
+          "The watcher of the Woods"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What punctuation mark is used to set off a direct quotation from the rest of a sentence?",
+        "options": [
+          "A semicolon",
+          "A colon",
+          "A hyphen",
+          "Quotation marks"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence correctly uses a comma after an introductory phrase?",
+        "options": [
+          "After, the long hike the group rested.",
+          "After the long hike the group, rested.",
+          "After the long hike the group rested by the lake.",
+          "After the long hike, the group rested by the lake."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What punctuation mark shows a sudden break or strong emphasis in informal writing?",
+        "options": [
+          "A dash",
+          "A colon",
+          "A comma",
+          "A period"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly capitalizes proper nouns?",
+        "options": [
+          "My teacher, Mr Lopez, was born in Peru.",
+          "my Teacher, Mr Lopez, was born in peru.",
+          "my teacher, mr lopez, was born in peru.",
+          "My teacher, mr Lopez, was born in Peru."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for punctuation marks used in pairs to add extra, non-essential information to a sentence?",
+        "options": [
+          "Colons",
+          "Parentheses",
+          "Hyphens",
+          "Ellipses"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What punctuation mark is used to indicate an omission of words from a quoted passage?",
+        "options": [
+          "An ellipsis",
+          "A dash",
+          "A hyphen",
+          "A colon"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly punctuates a compound sentence joined by a coordinating conjunction?",
+        "options": [
+          "The bus was late so we, walked to school.",
+          "The bus was late, so we walked to school.",
+          "The bus was late, so, we walked to school.",
+          "The bus was late so, we walked to school."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence correctly capitalizes a season used as part of a proper title, while leaving a general season lowercase?",
+        "options": [
+          "We attend the Winter Festival every winter.",
+          "We attend the Winter Festival Every Winter.",
+          "we attend the Winter festival every winter.",
+          "We attend the winter Festival every Winter."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 9,
+    "title": "Narrative Writing and Point of View",
+    "questions": [
+      {
+        "q": "What point of view uses pronouns such as I and we to narrate the story?",
+        "options": [
+          "First-person point of view",
+          "Second-person point of view",
+          "Third-person point of view",
+          "Omniscient point of view"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What point of view allows the narrator to know the thoughts and feelings of every character?",
+        "options": [
+          "Omniscient point of view",
+          "Second-person point of view",
+          "First-person point of view",
+          "Limited point of view"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What point of view uses pronouns such as he, she, and they, but reveals only one characters thoughts?",
+        "options": [
+          "First-person point of view",
+          "Omniscient point of view",
+          "Third-person limited point of view",
+          "Second-person point of view"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a writer hints at events that will happen later in a story?",
+        "options": [
+          "Foreshadowing",
+          "Exposition",
+          "Flashback",
+          "Resolution"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a scene that interrupts the present action to reveal an earlier event called?",
+        "options": [
+          "Foreshadowing",
+          "The climax",
+          "A flashback",
+          "The resolution"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes showing a characters personality through actions and dialogue rather than stating it directly?",
+        "options": [
+          "Exposition",
+          "Foreshadowing",
+          "Showing rather than telling",
+          "Flashback"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the part of a narrative where the main conflict reaches its highest point of tension called?",
+        "options": [
+          "The rising action",
+          "The exposition",
+          "The resolution",
+          "The climax"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the part of a narrative where loose ends are tied up called?",
+        "options": [
+          "The rising action",
+          "The climax",
+          "The resolution",
+          "The exposition"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the emotional atmosphere created for the reader by a piece of writing?",
+        "options": [
+          "Mood",
+          "Theme",
+          "Tone",
+          "Plot"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the attitude a writer takes toward their subject or characters?",
+        "options": [
+          "Tone",
+          "Theme",
+          "Setting",
+          "Mood"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might a writer choose first-person point of view for a narrative?",
+        "options": [
+          "To remove any sense of character voice",
+          "To describe events with no narrator at all",
+          "To create a close, personal connection with a single characters experience",
+          "To reveal every characters thoughts at once"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a detailed outline used to plan the events of a story before writing it called?",
+        "options": [
+          "A bibliography",
+          "A rubric",
+          "A story map",
+          "A thesis statement"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What literary term describes an object, person, or place that represents a deeper meaning?",
+        "options": [
+          "A synonym",
+          "A citation",
+          "A caption",
+          "A symbol"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why do writers often include sensory details in narrative writing?",
+        "options": [
+          "To help readers vividly imagine the scene",
+          "To avoid describing the setting",
+          "To remove the need for characters",
+          "To make the story shorter overall"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is it called when the order of events in a narrative does not follow strict chronological order?",
+        "options": [
+          "Cause and effect structure",
+          "Chronological structure",
+          "Compare and contrast structure",
+          "Nonlinear structure"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 10,
+    "title": "Media Literacy and Critical Reading",
+    "questions": [
+      {
+        "q": "What is it called when a reader identifies the purpose behind a piece of media, such as an advertisement?",
+        "options": [
+          "Summarizing the plot",
+          "Skimming the text",
+          "Analyzing the purpose",
+          "Predicting the ending"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What persuasive technique in advertising uses a well known figure to promote a product?",
+        "options": [
+          "A statistic",
+          "A testimonial technique",
+          "A citation",
+          "A bandwagon technique"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What persuasive technique suggests that everyone else is already using a product?",
+        "options": [
+          "The testimonial technique",
+          "The bandwagon technique",
+          "A statistic",
+          "A counterargument"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What should a careful reader check before trusting information found online?",
+        "options": [
+          "Only how recently the page was created",
+          "Nothing, since all websites are accurate",
+          "Whether the source is reliable and credible",
+          "Only the number of pictures on the page"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a headline exaggerates a story to attract attention?",
+        "options": [
+          "A summary",
+          "A citation",
+          "A thesis",
+          "Clickbait"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is bias in a media source?",
+        "options": [
+          "A completely balanced and neutral viewpoint",
+          "A tendency to favour one perspective over others",
+          "A type of punctuation mark",
+          "A summary of a text"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it useful to compare multiple news sources when researching a topic?",
+        "options": [
+          "It helps reveal different perspectives and check accuracy",
+          "It always makes research take less time",
+          "Comparing sources never changes understanding",
+          "News sources always report identical information"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the difference between a fact and an opinion?",
+        "options": [
+          "A fact and an opinion are always the same",
+          "A fact can be proven true, while an opinion reflects a belief",
+          "An opinion can always be proven false",
+          "A fact is always shorter than an opinion"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What visual media technique uses charts and images to present data quickly?",
+        "options": [
+          "An infographic",
+          "A bibliography",
+          "A thesis statement",
+          "A citation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does it mean to evaluate the credibility of an author?",
+        "options": [
+          "To ignore who wrote the piece entirely",
+          "To consider whether the author has expertise and is trustworthy",
+          "To count how many words the author used",
+          "To judge a text only by its length"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is propaganda?",
+        "options": [
+          "Information, often biased, spread to promote a viewpoint",
+          "A type of punctuation used in formal writing",
+          "A citation format used in essays",
+          "A completely neutral summary of events"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why should a reader be cautious about information shared widely on social media?",
+        "options": [
+          "It is not always verified or accurate before being shared",
+          "Social media information is always fact checked automatically",
+          "Sharing information widely always guarantees accuracy",
+          "Every post on social media is written by an expert"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the purpose of a call to action in an advertisement?",
+        "options": [
+          "To discourage the viewer from taking any action",
+          "To describe unrelated historical events",
+          "To encourage the viewer to do something, such as buy a product",
+          "To provide a neutral summary of the product only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is it helpful to ask who created a piece of media and why?",
+        "options": [
+          "Asking this question always makes media more confusing",
+          "Media creators never have a particular purpose",
+          "This question is never relevant to understanding media",
+          "Understanding the source and purpose helps judge reliability and bias"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the intended group of people a piece of media is created for?",
+        "options": [
+          "The thesis statement",
+          "The bibliography",
+          "The citation",
+          "The target audience"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 1,
+    "title": "Integers and Order of Operations",
+    "questions": [
+      {
+        "q": "What is the value of -8 + 5?",
+        "options": [
+          "-13",
+          "-3",
+          "13",
+          "3"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of 6 - (-4)?",
+        "options": [
+          "2",
+          "-2",
+          "-10",
+          "10"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of -3 x -7?",
+        "options": [
+          "21",
+          "-10",
+          "10",
+          "-21"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of -20 divided by 4?",
+        "options": [
+          "5",
+          "-16",
+          "16",
+          "-5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Using order of operations, what is the value of 3 + 4 x 2?",
+        "options": [
+          "9",
+          "11",
+          "14",
+          "10"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Using order of operations, what is the value of (3 + 4) x 2?",
+        "options": [
+          "14",
+          "9",
+          "10",
+          "11"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of 2 to the power of 3 plus 5?",
+        "options": [
+          "10",
+          "13",
+          "16",
+          "11"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of 10 - 2 x 3 + 1?",
+        "options": [
+          "6",
+          "23",
+          "5",
+          "17"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the absolute value of -12?",
+        "options": [
+          "0",
+          "-12",
+          "12",
+          "1"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of -5 + -9?",
+        "options": [
+          "4",
+          "-4",
+          "-14",
+          "14"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of 18 divided by -3?",
+        "options": [
+          "15",
+          "-15",
+          "6",
+          "-6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Using order of operations, what is the value of 5 + 3 squared?",
+        "options": [
+          "14",
+          "11",
+          "25",
+          "64"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of -6 x (2 + 3)?",
+        "options": [
+          "30",
+          "-30",
+          "-11",
+          "11"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of 100 divided by (-4 x -5)?",
+        "options": [
+          "5",
+          "20",
+          "-20",
+          "-5"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of -15 + 20 - 8?",
+        "options": [
+          "-3",
+          "3",
+          "43",
+          "-43"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 2,
+    "title": "Fractions Decimals and Percents",
+    "questions": [
+      {
+        "q": "What is three fourths written as a decimal?",
+        "options": [
+          "0.7",
+          "0.34",
+          "0.75",
+          "0.43"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 0.6 written as a percent?",
+        "options": [
+          "0.6 percent",
+          "600 percent",
+          "60 percent",
+          "6 percent"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 45 percent written as a decimal?",
+        "options": [
+          "0.045",
+          "0.45",
+          "45",
+          "4.5"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one half plus one third?",
+        "options": [
+          "One fifth",
+          "Five sixths",
+          "Three fifths",
+          "Two fifths"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is two thirds minus one sixth?",
+        "options": [
+          "One half",
+          "Five sixths",
+          "One third",
+          "One sixth"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is three fifths multiplied by two thirds?",
+        "options": [
+          "One half",
+          "Five ninths",
+          "Six eighths",
+          "Two fifths"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is four fifths divided by two?",
+        "options": [
+          "One tenth",
+          "Two fifths",
+          "Eight fifths",
+          "Four tenths"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which fraction is equivalent to 0.25?",
+        "options": [
+          "One fifth",
+          "One third",
+          "One half",
+          "One fourth"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 30 percent of 90?",
+        "options": [
+          "30",
+          "24",
+          "27",
+          "33"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 150 percent written as a fraction in simplest form?",
+        "options": [
+          "Two thirds",
+          "One and one fourth",
+          "Three halves",
+          "Five fourths"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these fractions is greater than one half?",
+        "options": [
+          "Two fifths",
+          "Three eighths",
+          "One third",
+          "Five eighths"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the simplest form of the fraction twelve eighteenths?",
+        "options": [
+          "Two thirds",
+          "Six ninths",
+          "Three fourths",
+          "Four sixths"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 0.125 written as a fraction in simplest form?",
+        "options": [
+          "One tenth",
+          "One eighth",
+          "One fourth",
+          "One fifth"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If a shirt originally priced at 40 dollars is on sale for 25 percent off, what is the sale price?",
+        "options": [
+          "32 dollars",
+          "35 dollars",
+          "10 dollars",
+          "30 dollars"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which list correctly orders these values from least to greatest: 0.4, three fifths, 35 percent?",
+        "options": [
+          "0.4, three fifths, 35 percent",
+          "0.4, 35 percent, three fifths",
+          "35 percent, 0.4, three fifths",
+          "three fifths, 0.4, 35 percent"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 3,
+    "title": "Ratios Rates and Proportions",
+    "questions": [
+      {
+        "q": "A recipe uses 3 cups flour to 2 cups sugar. What is the ratio of flour to sugar?",
+        "options": [
+          "3:5",
+          "5:3",
+          "3:2",
+          "2:3"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A car travels 300 km in 5 hours. What is its average speed?",
+        "options": [
+          "50 km/h",
+          "55 km/h",
+          "60 km/h",
+          "65 km/h"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which ratio is equivalent to 4:6?",
+        "options": [
+          "6:4",
+          "4:3",
+          "3:4",
+          "2:3"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If 8 pencils cost 4 dollars, what is the unit rate per pencil?",
+        "options": [
+          "0.50 dollars",
+          "0.25 dollars",
+          "1 dollar",
+          "2 dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Solve for x in the proportion 3/4 = x/12.",
+        "options": [
+          "16",
+          "10",
+          "9",
+          "8"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A map has a scale of 1 cm to 50 km. How many kilometers does 3 cm represent?",
+        "options": [
+          "200 km",
+          "50 km",
+          "150 km",
+          "100 km"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If the ratio of boys to girls in a class is 3:4 and there are 12 boys, how many girls are there?",
+        "options": [
+          "20",
+          "9",
+          "15",
+          "16"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these represents a rate rather than a ratio?",
+        "options": [
+          "80 km per hour",
+          "3 red marbles to 5 blue marbles",
+          "5 apples to 2 oranges",
+          "2 cats to 1 dog"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Two quantities are in direct proportion if their ratio stays what?",
+        "options": [
+          "Random",
+          "Increasing",
+          "Decreasing",
+          "Constant"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If 5 workers can build a fence in 4 days, how many days would 10 workers take at the same rate?",
+        "options": [
+          "2 days",
+          "4 days",
+          "6 days",
+          "8 days"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "A store sells 3 shirts for 45 dollars. What is the cost of 5 shirts at the same rate?",
+        "options": [
+          "90 dollars",
+          "60 dollars",
+          "75 dollars",
+          "70 dollars"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the ratio 20:25 reduced to simplest form?",
+        "options": [
+          "5:2",
+          "5:4",
+          "2:5",
+          "4:5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "On a scale drawing, 2 cm represents 8 m in real life. What does 5 cm represent?",
+        "options": [
+          "10 m",
+          "20 m",
+          "16 m",
+          "25 m"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If a car uses 6 litres of fuel to travel 90 km, how many litres are needed to travel 150 km at the same rate?",
+        "options": [
+          "10 litres",
+          "12 litres",
+          "15 litres",
+          "8 litres"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If 4 apples cost 8 dollars, what proportion finds the cost x of 6 apples at the same rate?",
+        "options": [
+          "8/6 = 4/x",
+          "4/6 = 8/x",
+          "6/8 = x/4",
+          "4/8 = 6/x"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 4,
+    "title": "Algebraic Expressions and Equations",
+    "questions": [
+      {
+        "q": "What is the value of the expression 3x + 5 when x equals 4?",
+        "options": [
+          "12",
+          "9",
+          "20",
+          "17"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Simplify the expression 4x + 3x.",
+        "options": [
+          "7x",
+          "x",
+          "12x",
+          "7"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Simplify the expression 5y - 2y + 3.",
+        "options": [
+          "2y + 3",
+          "5y + 3",
+          "3y",
+          "3y + 3"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Solve for x: x + 7 = 15.",
+        "options": [
+          "7",
+          "8",
+          "22",
+          "9"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Solve for x: 3x = 21.",
+        "options": [
+          "24",
+          "7",
+          "3",
+          "18"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Solve for x: 2x + 4 = 14.",
+        "options": [
+          "9",
+          "7",
+          "10",
+          "5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of the expression 2(x + 3) when x equals 5?",
+        "options": [
+          "16",
+          "11",
+          "13",
+          "10"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which expression represents five more than twice a number n?",
+        "options": [
+          "n + 10",
+          "2n + 5",
+          "2(n + 5)",
+          "5n + 2"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Solve for x: x/4 = 6.",
+        "options": [
+          "24",
+          "1.5",
+          "2",
+          "10"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Simplify the expression 6x - 2(x + 3).",
+        "options": [
+          "4x - 6",
+          "4x + 6",
+          "6x - 6",
+          "4x - 3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Solve for x: 3x - 5 = 10.",
+        "options": [
+          "5",
+          "1",
+          "3",
+          "15"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the coefficient of the variable in the term -7y?",
+        "options": [
+          "y",
+          "-1",
+          "-7",
+          "7"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a linear equation in one variable?",
+        "options": [
+          "2x + 3 = 11",
+          "2x + y = 11",
+          "x squared + 3 = 11",
+          "2xy = 11"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Solve for x in the equation 4(x - 2) = 16.",
+        "options": [
+          "2",
+          "8",
+          "6",
+          "4"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which value of x makes the equation 5x + 1 = 3x + 9 true?",
+        "options": [
+          "8",
+          "2",
+          "5",
+          "4"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 5,
+    "title": "Geometry: Angles and Polygons",
+    "questions": [
+      {
+        "q": "What is the sum of the interior angles of a triangle?",
+        "options": [
+          "180 degrees",
+          "90 degrees",
+          "270 degrees",
+          "360 degrees"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the sum of the interior angles of a quadrilateral?",
+        "options": [
+          "540 degrees",
+          "360 degrees",
+          "270 degrees",
+          "180 degrees"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of angle measures exactly 90 degrees?",
+        "options": [
+          "A straight angle",
+          "A right angle",
+          "An acute angle",
+          "An obtuse angle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of angle measures less than 90 degrees?",
+        "options": [
+          "An obtuse angle",
+          "An acute angle",
+          "A reflex angle",
+          "A right angle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of angle measures more than 90 degrees but less than 180 degrees?",
+        "options": [
+          "A straight angle",
+          "An acute angle",
+          "An obtuse angle",
+          "A right angle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes two angles that add up to 90 degrees?",
+        "options": [
+          "Vertical angles",
+          "Complementary angles",
+          "Adjacent angles",
+          "Supplementary angles"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes two angles that add up to 180 degrees?",
+        "options": [
+          "Alternate angles",
+          "Supplementary angles",
+          "Corresponding angles",
+          "Complementary angles"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A regular polygon has all sides and angles what?",
+        "options": [
+          "Different",
+          "Equal",
+          "Curved",
+          "Undefined"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How many sides does a hexagon have?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for two angles opposite each other when two lines cross?",
+        "options": [
+          "Supplementary angles",
+          "Vertical angles",
+          "Adjacent angles",
+          "Complementary angles"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If two angles of a triangle measure 50 degrees and 60 degrees, what is the measure of the third angle?",
+        "options": [
+          "90 degrees",
+          "70 degrees",
+          "60 degrees",
+          "80 degrees"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the measure of each interior angle of a regular hexagon?",
+        "options": [
+          "135 degrees",
+          "90 degrees",
+          "108 degrees",
+          "120 degrees"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of triangle has all three sides of different lengths?",
+        "options": [
+          "A scalene triangle",
+          "An equilateral triangle",
+          "A right triangle",
+          "An isosceles triangle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of triangle has exactly two sides of equal length?",
+        "options": [
+          "An obtuse triangle",
+          "A scalene triangle",
+          "An isosceles triangle",
+          "An equilateral triangle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a line that intersects two parallel lines, creating pairs of equal angles?",
+        "options": [
+          "A perpendicular bisector",
+          "A transversal",
+          "A diagonal",
+          "A tangent"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 6,
+    "title": "Perimeter Area and Volume",
+    "questions": [
+      {
+        "q": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+        "options": [
+          "26 cm",
+          "40 cm",
+          "13 cm",
+          "20 cm"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+        "options": [
+          "13 square cm",
+          "40 square cm",
+          "20 square cm",
+          "26 square cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the area of a triangle with a base of 10 cm and a height of 6 cm?",
+        "options": [
+          "60 square cm",
+          "16 square cm",
+          "20 square cm",
+          "30 square cm"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the circumference of a circle with a radius of 7 cm, using pi as approximately 22/7?",
+        "options": [
+          "49 cm",
+          "44 cm",
+          "154 cm",
+          "22 cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the area of a circle with a radius of 7 cm, using pi as approximately 22/7?",
+        "options": [
+          "44 square cm",
+          "154 square cm",
+          "49 square cm",
+          "22 square cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the volume of a rectangular prism with length 4 cm, width 3 cm, and height 5 cm?",
+        "options": [
+          "20 cubic cm",
+          "60 cubic cm",
+          "12 cubic cm",
+          "35 cubic cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the volume of a cube with a side length of 4 cm?",
+        "options": [
+          "64 cubic cm",
+          "16 cubic cm",
+          "12 cubic cm",
+          "48 cubic cm"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula is used to calculate the area of a parallelogram?",
+        "options": [
+          "Length plus width",
+          "Base times height",
+          "Half of base times height",
+          "Two times length plus width"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the surface area of a cube with a side length of 3 cm?",
+        "options": [
+          "54 square cm",
+          "27 square cm",
+          "36 square cm",
+          "18 square cm"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the perimeter of a square with a side length of 9 cm?",
+        "options": [
+          "18 cm",
+          "36 cm",
+          "81 cm",
+          "27 cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the area of a trapezoid with parallel sides of 6 cm and 10 cm and a height of 4 cm?",
+        "options": [
+          "16 square cm",
+          "40 square cm",
+          "64 square cm",
+          "32 square cm"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If a rectangular garden has an area of 48 square metres and a width of 6 metres, what is its length?",
+        "options": [
+          "54 metres",
+          "42 metres",
+          "8 metres",
+          "6 metres"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What unit would most appropriately measure the volume of a swimming pool?",
+        "options": [
+          "Cubic metres",
+          "Metres",
+          "Square metres",
+          "Grams"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to the area of a square if the length of each side is doubled?",
+        "options": [
+          "The area becomes half as large",
+          "The area doubles",
+          "The area becomes four times as large",
+          "The area stays the same"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm, using pi as approximately 3.14?",
+        "options": [
+          "30 cubic cm",
+          "94.2 cubic cm",
+          "188.4 cubic cm",
+          "282.6 cubic cm"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 7,
+    "title": "Data Management and Probability",
+    "questions": [
+      {
+        "q": "What is the term for the middle value in a set of ordered data?",
+        "options": [
+          "The median",
+          "The range",
+          "The mean",
+          "The mode"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the value that appears most often in a data set?",
+        "options": [
+          "The median",
+          "The range",
+          "The mode",
+          "The mean"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the sum of all values divided by the number of values?",
+        "options": [
+          "The median",
+          "The mean",
+          "The range",
+          "The mode"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for the difference between the highest and lowest values in a data set?",
+        "options": [
+          "The mean",
+          "The median",
+          "The range",
+          "The mode"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the probability of rolling a 4 on a standard six-sided die?",
+        "options": [
+          "One half",
+          "One third",
+          "One sixth",
+          "One fourth"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the probability of flipping a coin and getting heads?",
+        "options": [
+          "One sixth",
+          "One fourth",
+          "One third",
+          "One half"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "A bag contains 3 red marbles and 7 blue marbles. What is the probability of picking a red marble?",
+        "options": [
+          "One third",
+          "Three tenths",
+          "Seven tenths",
+          "Three sevenths"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of graph is best suited for showing changes in a value over time?",
+        "options": [
+          "A pictograph",
+          "A line graph",
+          "A pie chart",
+          "A stem and leaf plot"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of graph uses slices to represent parts of a whole?",
+        "options": [
+          "A pie chart",
+          "A line graph",
+          "A scatter plot",
+          "A bar graph"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for an event that is certain to happen, expressed as a probability?",
+        "options": [
+          "A probability of 1",
+          "A probability of 0",
+          "A probability of one half",
+          "A probability that cannot be measured"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for an event that cannot possibly happen, expressed as a probability?",
+        "options": [
+          "A probability of one fourth",
+          "A probability of 1",
+          "A probability of one half",
+          "A probability of 0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If a data set is 2, 4, 4, 6, 9, what is the mode?",
+        "options": [
+          "9",
+          "6",
+          "4",
+          "5"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If a data set is 3, 7, 8, 10, 12, what is the median?",
+        "options": [
+          "10",
+          "8",
+          "7",
+          "9"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for a graph that shows the relationship between two sets of numerical data using points?",
+        "options": [
+          "A pictograph",
+          "A pie chart",
+          "A bar graph",
+          "A scatter plot"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If two six-sided dice are rolled, what is the probability of both showing a 6?",
+        "options": [
+          "One twelfth",
+          "One thirty sixth",
+          "One sixth",
+          "One eighteenth"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 8,
+    "title": "Patterning and Linear Relations",
+    "questions": [
+      {
+        "q": "What is the next term in the pattern 3, 7, 11, 15, ...?",
+        "options": [
+          "19",
+          "21",
+          "23",
+          "17"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the rule for the pattern 2, 4, 8, 16, ...?",
+        "options": [
+          "Add 4",
+          "Multiply by 4",
+          "Multiply by 2",
+          "Add 2"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term number 10 in the pattern that starts at 5 and increases by 3 each time?",
+        "options": [
+          "30",
+          "35",
+          "32",
+          "27"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which equation represents the relationship where y is always 4 more than x?",
+        "options": [
+          "y = 4 - x",
+          "y = 4x",
+          "y = x + 4",
+          "y = x - 4"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In the linear relation y = 3x + 2, what is the value of y when x equals 5?",
+        "options": [
+          "13",
+          "15",
+          "11",
+          "17"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a fixed amount added or subtracted between terms in an arithmetic sequence?",
+        "options": [
+          "The common ratio",
+          "The coefficient",
+          "The variable",
+          "The common difference"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a fixed amount each term is multiplied by in a geometric sequence?",
+        "options": [
+          "The constant",
+          "The common difference",
+          "The coefficient",
+          "The common ratio"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these represents a linear relation when graphed?",
+        "options": [
+          "A straight line",
+          "A random scatter",
+          "A parabola",
+          "A circle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the y-intercept of the line represented by the equation y = 2x + 7?",
+        "options": [
+          "7",
+          "2",
+          "9",
+          "0"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the slope of the line represented by the equation y = 5x - 3?",
+        "options": [
+          "5",
+          "-5",
+          "-3",
+          "3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which table of values matches the rule y equals x squared for x equals 1, 2, 3?",
+        "options": [
+          "1, 2, 3",
+          "2, 4, 6",
+          "1, 3, 5",
+          "1, 4, 9"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What shape is most likely to continue the repeating pattern square, circle, triangle, square, circle, triangle, square, ...?",
+        "options": [
+          "Triangle",
+          "Hexagon",
+          "Circle",
+          "Square"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If a pattern rule is start at 100 and subtract 8 each time, what is the fourth term?",
+        "options": [
+          "92",
+          "84",
+          "68",
+          "76"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which equation correctly models a relation where the total cost y equals 5 dollars plus 2 dollars per item x?",
+        "options": [
+          "y = 5x + 2",
+          "y = 2x - 5",
+          "y = 2x + 5",
+          "y = 5x - 2"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a linear relation, what does a constant rate of change indicate about the graph?",
+        "options": [
+          "The graph forms a curve",
+          "The graph forms a straight line",
+          "The graph forms a circle",
+          "The graph has no pattern at all"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 9,
+    "title": "Number Sense: Exponents and Square Roots",
+    "questions": [
+      {
+        "q": "What is the value of 2 to the power of 5?",
+        "options": [
+          "32",
+          "25",
+          "10",
+          "16"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of the square root of 81?",
+        "options": [
+          "41",
+          "8",
+          "9",
+          "10"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of 3 to the power of 4?",
+        "options": [
+          "12",
+          "64",
+          "81",
+          "27"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of the square root of 144?",
+        "options": [
+          "12",
+          "11",
+          "72",
+          "14"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of 5 squared plus 2 cubed?",
+        "options": [
+          "27",
+          "33",
+          "31",
+          "35"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of 10 to the power of 0?",
+        "options": [
+          "10",
+          "0",
+          "100",
+          "1"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these numbers is a perfect square?",
+        "options": [
+          "50",
+          "48",
+          "49",
+          "45"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of 2 to the power of 3 times 2 to the power of 2?",
+        "options": [
+          "16",
+          "8",
+          "32",
+          "64"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the approximate value of the square root of 50, rounded to the nearest whole number?",
+        "options": [
+          "6",
+          "5",
+          "8",
+          "7"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of 4 to the power of negative 1?",
+        "options": [
+          "One fourth",
+          "Negative 4",
+          "4",
+          "One half"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is an irrational number?",
+        "options": [
+          "The square root of 4",
+          "The square root of 16",
+          "The square root of 9",
+          "The square root of 2"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of the cube root of 27?",
+        "options": [
+          "3",
+          "9",
+          "27",
+          "6"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which list correctly orders these values from least to greatest: 2 cubed, 3 squared, 4 squared?",
+        "options": [
+          "2 cubed, 3 squared, 4 squared",
+          "2 cubed, 4 squared, 3 squared",
+          "4 squared, 3 squared, 2 cubed",
+          "3 squared, 2 cubed, 4 squared"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of 6 squared minus 4 squared?",
+        "options": [
+          "20",
+          "36",
+          "4",
+          "16"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does a negative exponent indicate about a number?",
+        "options": [
+          "A negative result always",
+          "The number is undefined",
+          "The reciprocal of the base raised to the positive exponent",
+          "The number is doubled"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 10,
+    "title": "Financial Literacy and Percent Applications",
+    "questions": [
+      {
+        "q": "If an item costs 60 dollars and is marked up by 20 percent, what is the new price?",
+        "options": [
+          "72 dollars",
+          "62 dollars",
+          "70 dollars",
+          "80 dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If a 50 dollar item is discounted by 10 percent, what is the sale price?",
+        "options": [
+          "40 dollars",
+          "45 dollars",
+          "55 dollars",
+          "48 dollars"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is 15 percent of 200 dollars?",
+        "options": [
+          "20 dollars",
+          "25 dollars",
+          "15 dollars",
+          "30 dollars"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If simple interest is calculated at a rate of 5 percent per year on 200 dollars, how much interest accrues after one year?",
+        "options": [
+          "15 dollars",
+          "10 dollars",
+          "20 dollars",
+          "5 dollars"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes money earned on both the original amount and previously earned interest?",
+        "options": [
+          "Simple interest",
+          "Sales tax",
+          "Compound interest",
+          "Discount"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the total cost of an item priced at 80 dollars with a sales tax of 13 percent?",
+        "options": [
+          "90.40 dollars",
+          "93 dollars",
+          "88 dollars",
+          "81.30 dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If a savings account balance grows from 500 dollars to 550 dollars in a year, what percent did it grow by?",
+        "options": [
+          "50 percent",
+          "15 percent",
+          "5 percent",
+          "10 percent"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a budget primarily used for?",
+        "options": [
+          "Measuring angles",
+          "Finding the median of a data set",
+          "Calculating square roots",
+          "Planning and tracking income and expenses"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If an original price is 120 dollars and the sale price is 90 dollars, what percent discount was applied?",
+        "options": [
+          "30 percent",
+          "20 percent",
+          "33 percent",
+          "25 percent"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What does it mean to pay for an item in instalments?",
+        "options": [
+          "Paying the full amount immediately",
+          "Paying with only cash",
+          "Paying smaller amounts over time instead of all at once",
+          "Receiving a full refund"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If a persons net income is their income after deductions, what is typically deducted first?",
+        "options": [
+          "Vacation costs",
+          "Entertainment costs",
+          "Taxes",
+          "Dining out costs"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the extra amount charged by a government on purchases?",
+        "options": [
+          "Interest",
+          "Sales tax",
+          "Commission",
+          "Discount"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If an investment of 400 dollars earns 8 percent simple interest per year, how much interest is earned after 2 years?",
+        "options": [
+          "32 dollars",
+          "48 dollars",
+          "16 dollars",
+          "64 dollars"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the main advantage of saving money in an account that earns compound interest over time?",
+        "options": [
+          "The balance never changes",
+          "The bank charges no fees ever",
+          "Interest is earned on both the principal and previously earned interest",
+          "The money guarantees no risk at all times"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If a person spends 25 percent of a 2000 dollar monthly income on rent, how much do they spend on rent?",
+        "options": [
+          "250 dollars",
+          "400 dollars",
+          "550 dollars",
+          "500 dollars"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 1,
+    "title": "Ecosystems and Food Webs",
+    "questions": [
+      {
+        "q": "What is a community of living organisms interacting with their physical environment called?",
+        "options": [
+          "An ecosystem",
+          "A habitat only",
+          "A biome",
+          "A population"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes organisms that make their own food using sunlight?",
+        "options": [
+          "Predators",
+          "Consumers",
+          "Producers",
+          "Decomposers"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes organisms that eat other organisms to obtain energy?",
+        "options": [
+          "Producers",
+          "Decomposers",
+          "Consumers",
+          "Autotrophs"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes organisms that break down dead plants and animals?",
+        "options": [
+          "Decomposers",
+          "Predators",
+          "Producers",
+          "Herbivores"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a diagram that shows a single path of energy transfer from one organism to another called?",
+        "options": [
+          "A nutrient cycle",
+          "A carbon cycle",
+          "A food chain",
+          "A food web"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a diagram showing multiple interconnected food chains called?",
+        "options": [
+          "A food web",
+          "A biome map",
+          "A food chain",
+          "A population graph"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes an animal that eats only plants?",
+        "options": [
+          "A carnivore",
+          "A herbivore",
+          "A decomposer",
+          "An omnivore"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes an animal that eats both plants and animals?",
+        "options": [
+          "A herbivore",
+          "An omnivore",
+          "A producer",
+          "A carnivore"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the amount of usable energy as it moves up each level of a food chain?",
+        "options": [
+          "It stays exactly the same",
+          "It increases at each level",
+          "It decreases at each level",
+          "It disappears completely at once"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the role an organism plays within its ecosystem, including what it eats and where it lives?",
+        "options": [
+          "Its population",
+          "Its habitat",
+          "Its niche",
+          "Its biome"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What could happen to a food web if a keystone predator species disappeared?",
+        "options": [
+          "The ecosystem would become larger",
+          "Nothing would change at all",
+          "The balance of the ecosystem could be disrupted",
+          "Only plants would be affected"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes all the organisms of one species living in a particular area?",
+        "options": [
+          "A population",
+          "An ecosystem",
+          "A community",
+          "A biome"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes all the different populations living together in an area?",
+        "options": [
+          "A community",
+          "An organism",
+          "A population",
+          "A biome"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these is an abiotic factor in an ecosystem?",
+        "options": [
+          "A tree",
+          "Sunlight",
+          "A fungus",
+          "A rabbit"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the physical place where an organism naturally lives called?",
+        "options": [
+          "A community",
+          "A biome",
+          "A habitat",
+          "A niche"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 2,
+    "title": "Biodiversity and Interdependence",
+    "questions": [
+      {
+        "q": "What term describes the variety of living organisms found in an ecosystem?",
+        "options": [
+          "A food web",
+          "Population density",
+          "Biodiversity",
+          "A biome"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is biodiversity important to the stability of an ecosystem?",
+        "options": [
+          "Biodiversity always weakens an ecosystem",
+          "A wider variety of species helps an ecosystem adapt to change",
+          "Biodiversity has no effect on ecosystem stability",
+          "Fewer species always means a stronger ecosystem"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a relationship between two species where both benefit?",
+        "options": [
+          "Predation",
+          "Competition",
+          "Mutualism",
+          "Parasitism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a relationship where one organism benefits and the other is harmed?",
+        "options": [
+          "Parasitism",
+          "Mutualism",
+          "Symbiosis only",
+          "Commensalism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a relationship where one organism benefits and the other is unaffected?",
+        "options": [
+          "Commensalism",
+          "Parasitism",
+          "Predation",
+          "Mutualism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is it called when two species compete for the same limited resource?",
+        "options": [
+          "Parasitism",
+          "Commensalism",
+          "Competition",
+          "Mutualism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes species that are found only in a specific region and nowhere else?",
+        "options": [
+          "Invasive species",
+          "Endemic species",
+          "Keystone species",
+          "Migratory species"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a non-native species that spreads rapidly and harms an ecosystem?",
+        "options": [
+          "A keystone species",
+          "An endemic species",
+          "A native species",
+          "An invasive species"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a species considered vital to maintaining the structure of an ecosystem called?",
+        "options": [
+          "An endemic species",
+          "A migratory species",
+          "An invasive species",
+          "A keystone species"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these is an example of a mutualistic relationship?",
+        "options": [
+          "Bees pollinating flowers while feeding on nectar",
+          "A tick feeding on a deer",
+          "A lion hunting a zebra",
+          "Two wolves competing for the same prey"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes species that are at risk of disappearing entirely?",
+        "options": [
+          "Invasive species",
+          "Endangered species",
+          "Keystone species",
+          "Native species"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How does interdependence among species affect an ecosystem?",
+        "options": [
+          "Species rely on each other, so changes to one can affect many others",
+          "Only predators depend on other species",
+          "Interdependence always destroys ecosystems",
+          "Species never interact with each other in an ecosystem"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes preserving genetic variety within and among species?",
+        "options": [
+          "Population decline",
+          "Habitat loss",
+          "Genetic diversity",
+          "Extinction"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might scientists want to protect wetlands that support many species?",
+        "options": [
+          "Wetlands often support high biodiversity and filter water",
+          "Protecting wetlands always harms ecosystems",
+          "Wetlands only support a single species",
+          "Wetlands have no ecological value"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes efforts to protect species and their habitats from disappearing?",
+        "options": [
+          "Pollution",
+          "Migration",
+          "Extinction",
+          "Conservation"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 3,
+    "title": "Human Impact on Ecosystems",
+    "questions": [
+      {
+        "q": "What term describes the destruction of forests, often for farming or development?",
+        "options": [
+          "Reforestation",
+          "Cultivation",
+          "Deforestation",
+          "Conservation"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How does pollution most directly affect the health of an ecosystem?",
+        "options": [
+          "It only affects the air, never water or soil",
+          "It can harm or kill organisms and disrupt food webs",
+          "It has no measurable effect on ecosystems",
+          "It always improves the health of organisms"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes bringing native plants or animals back to an area where they once lived?",
+        "options": [
+          "Invasion",
+          "Reintroduction",
+          "Extinction",
+          "Pollution"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one major human activity that contributes to habitat loss?",
+        "options": [
+          "Recycling programs",
+          "Urban development",
+          "Planting native gardens",
+          "Wildlife conservation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes using resources in a way that meets present needs without harming future generations?",
+        "options": [
+          "Deforestation",
+          "Sustainability",
+          "Overconsumption",
+          "Extinction"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How can overfishing affect an ocean ecosystem?",
+        "options": [
+          "It can reduce fish populations and disrupt food webs",
+          "It always increases fish populations",
+          "It only affects fishers, not the ecosystem",
+          "It has no effect on other ocean species"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes gases that trap heat in the atmosphere and contribute to climate change?",
+        "options": [
+          "Inert gases",
+          "Noble gases",
+          "Greenhouse gases",
+          "Trace minerals"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is one way individuals can reduce their impact on local ecosystems?",
+        "options": [
+          "Ignoring conservation efforts",
+          "Removing native plants",
+          "Increasing pollution output",
+          "Reducing waste and conserving resources"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes chemicals used to kill insects that can also harm beneficial species?",
+        "options": [
+          "Pesticides",
+          "Decomposers",
+          "Nutrients",
+          "Fertilizers"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How can invasive species negatively affect a local ecosystem?",
+        "options": [
+          "They only affect abiotic factors",
+          "They always help native species thrive",
+          "They can outcompete native species for resources",
+          "They have no effect on native food webs"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes protecting land specifically to preserve habitats and species?",
+        "options": [
+          "An industrial zone",
+          "A landfill",
+          "A conservation area",
+          "An urban zone"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How does water pollution most commonly enter rivers and lakes?",
+        "options": [
+          "Only from natural rainfall with no chemicals",
+          "Runoff carrying chemicals and waste from land",
+          "Exclusively from ocean currents",
+          "It cannot enter rivers or lakes at all"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes restoring a damaged ecosystem back to a healthier state?",
+        "options": [
+          "Extinction",
+          "Ecological restoration",
+          "Deforestation",
+          "Urbanization"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is monitoring indicator species useful to scientists studying ecosystem health?",
+        "options": [
+          "Indicator species are always invasive",
+          "Indicator species have no connection to ecosystem health",
+          "Only predators can act as indicator species",
+          "Changes in these species can reveal broader problems in the ecosystem"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is one benefit of creating wildlife corridors between habitats?",
+        "options": [
+          "They only benefit a single species",
+          "They always increase pollution levels",
+          "They eliminate the need for any other conservation efforts",
+          "They allow animals to move safely between fragmented habitats"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 4,
+    "title": "Structures and Forces",
+    "questions": [
+      {
+        "q": "What term describes the ability of a structure to support a load without collapsing?",
+        "options": [
+          "Structural mass",
+          "Structural volume",
+          "Structural strength",
+          "Structural density"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a structures ability to keep its shape and remain balanced under a load?",
+        "options": [
+          "Density",
+          "Stability",
+          "Elasticity",
+          "Flexibility"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What shape is commonly used in structures because it distributes force evenly and resists deformation?",
+        "options": [
+          "A rectangle only",
+          "An irregular shape",
+          "A triangle",
+          "A circle only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a force that pulls or stretches a structure?",
+        "options": [
+          "Compression",
+          "Tension",
+          "Torsion",
+          "Shear"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a force that pushes or squeezes a structure?",
+        "options": [
+          "Compression",
+          "Tension",
+          "Torsion",
+          "Shear"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the point where a structure meets the ground and transfers force to it?",
+        "options": [
+          "The truss",
+          "The load",
+          "The foundation",
+          "The beam"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a rigid frame made of triangular units used to support bridges and roofs called?",
+        "options": [
+          "A truss",
+          "A foundation",
+          "A column",
+          "A beam"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the external force applied to a structure, such as wind or weight?",
+        "options": [
+          "A foundation",
+          "A load",
+          "A truss",
+          "A beam"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why do engineers often widen the base of a tall structure?",
+        "options": [
+          "A wider base has no effect on stability",
+          "A wider base always increases the height",
+          "A wider base reduces the materials needed",
+          "A wider base increases stability and lowers the centre of gravity"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a vertical structural member that supports weight, such as a pillar?",
+        "options": [
+          "A beam",
+          "A foundation",
+          "A truss",
+          "A column"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a horizontal structural member that supports a load across a span?",
+        "options": [
+          "A truss",
+          "A beam",
+          "A foundation",
+          "A column"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might a structure fail under a heavy load?",
+        "options": [
+          "The forces on it exceed what its materials and design can withstand",
+          "All structures are equally strong no matter the design",
+          "Structures never fail regardless of load",
+          "Failure only occurs due to extreme heat"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a twisting force applied to a structure?",
+        "options": [
+          "Compression",
+          "Gravity",
+          "Tension",
+          "Torsion"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How does the shape of an arch help distribute weight in a structure?",
+        "options": [
+          "It concentrates all the weight at a single point",
+          "It spreads the load outward and down along its curve",
+          "It only works for very small structures",
+          "It has no effect on how weight is distributed"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for materials that return to their original shape after being deformed by a force?",
+        "options": [
+          "Brittle materials",
+          "Elastic materials",
+          "Dense materials",
+          "Rigid materials"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 5,
+    "title": "Mechanical Advantage and Simple Machines",
+    "questions": [
+      {
+        "q": "What term describes how much a simple machine multiplies an applied force?",
+        "options": [
+          "Mechanical advantage",
+          "Elasticity",
+          "Density",
+          "Structural strength"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which simple machine is a bar that pivots around a fixed point called a fulcrum?",
+        "options": [
+          "A pulley",
+          "A wedge",
+          "A screw",
+          "A lever"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which simple machine consists of a wheel with a groove that holds a rope or cable?",
+        "options": [
+          "A lever",
+          "A pulley",
+          "A wedge",
+          "An inclined plane"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which simple machine is a sloped surface used to raise objects with less force?",
+        "options": [
+          "A screw",
+          "A lever",
+          "A pulley",
+          "An inclined plane"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which simple machine is essentially an inclined plane wrapped around a cylinder?",
+        "options": [
+          "A wheel and axle",
+          "A screw",
+          "A wedge",
+          "A lever"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which simple machine consists of two circular objects of different sizes attached and rotating together?",
+        "options": [
+          "A wheel and axle",
+          "A wedge",
+          "A pulley",
+          "A screw"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which simple machine is formed by two inclined planes joined together, often used for cutting or splitting?",
+        "options": [
+          "A wedge",
+          "A screw",
+          "A pulley",
+          "A lever"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In a first class lever, where is the fulcrum located relative to the load and effort?",
+        "options": [
+          "At the same point as the effort",
+          "At the same point as the load",
+          "Between the load and the effort",
+          "Beyond both the load and the effort"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which everyday tool is an example of a wedge?",
+        "options": [
+          "A ramp",
+          "A see-saw",
+          "An axe",
+          "A pulley system"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why do machines with a high mechanical advantage require less effort force?",
+        "options": [
+          "They only work with electrical energy",
+          "They allow a smaller force to move a larger load over a greater distance",
+          "They eliminate the need for any force at all",
+          "They always use less energy overall"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which simple machine is used in a flagpole to raise and lower a flag?",
+        "options": [
+          "A screw",
+          "A pulley",
+          "A lever",
+          "A wedge"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a machine made of two or more simple machines working together called?",
+        "options": [
+          "A compound machine",
+          "A single machine",
+          "A motor",
+          "An engine"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In a wheelbarrow, which simple machine is the wheel considered to be?",
+        "options": [
+          "A pulley",
+          "A screw",
+          "A wheel and axle",
+          "A wedge"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which class of lever has the load between the fulcrum and the effort, such as a wheelbarrow?",
+        "options": [
+          "A fourth class lever",
+          "A third class lever",
+          "A first class lever",
+          "A second class lever"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What happens to the amount of force needed as the length of an inclined plane increases for the same height?",
+        "options": [
+          "More force is always needed",
+          "No force is needed at all",
+          "The force needed stays exactly the same",
+          "Less force is needed, though over a longer distance"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 6,
+    "title": "Pure Substances and Mixtures",
+    "questions": [
+      {
+        "q": "What term describes matter made up of only one type of particle throughout?",
+        "options": [
+          "A solution",
+          "A pure substance",
+          "A suspension",
+          "A mixture"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes matter made up of two or more substances combined physically?",
+        "options": [
+          "A mixture",
+          "A pure substance",
+          "A compound only",
+          "An element"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of mixture has particles evenly distributed so it looks the same throughout?",
+        "options": [
+          "A heterogeneous mixture",
+          "A pure element",
+          "A pure compound",
+          "A homogeneous mixture"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of mixture has visibly different parts or uneven distribution?",
+        "options": [
+          "A heterogeneous mixture",
+          "A homogeneous mixture",
+          "A pure substance",
+          "A solution"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is another common term for a homogeneous mixture of a solid dissolved in a liquid?",
+        "options": [
+          "An element",
+          "A solution",
+          "A colloid",
+          "A suspension"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the substance being dissolved in a solution?",
+        "options": [
+          "The solvent",
+          "The filtrate",
+          "The residue",
+          "The solute"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the substance that does the dissolving in a solution?",
+        "options": [
+          "The solute",
+          "The residue",
+          "The filtrate",
+          "The solvent"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What separation technique uses differences in boiling point to separate substances in a mixture?",
+        "options": [
+          "Magnetism",
+          "Filtration",
+          "Sieving",
+          "Distillation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What separation technique uses a porous material to separate solids from liquids?",
+        "options": [
+          "Distillation",
+          "Magnetism",
+          "Evaporation",
+          "Filtration"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What separation technique would best separate salt dissolved in water?",
+        "options": [
+          "Magnetism",
+          "Sieving",
+          "Filtration",
+          "Evaporation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a mixture where larger particles are suspended and will eventually settle if left undisturbed?",
+        "options": [
+          "A pure substance",
+          "A suspension",
+          "A solution",
+          "An element"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the smallest unit of a pure substance that still has the properties of that substance?",
+        "options": [
+          "A mixture",
+          "A particle or atom",
+          "A solvent",
+          "A suspension"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is an example of a pure substance rather than a mixture?",
+        "options": [
+          "Distilled water",
+          "Muddy river water",
+          "Salt water",
+          "Fruit salad"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a mixture with particles that are larger than a solution but do not settle out, such as milk?",
+        "options": [
+          "A solute",
+          "A pure substance",
+          "A suspension only",
+          "A colloid"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why might a scientist use a centrifuge to separate a mixture?",
+        "options": [
+          "It always dissolves solids completely",
+          "Spinning quickly separates substances of different densities",
+          "It changes solids into pure elements",
+          "It has no effect on separating mixtures"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 7,
+    "title": "Physical and Chemical Changes",
+    "questions": [
+      {
+        "q": "What term describes a change that alters the form of matter without creating a new substance?",
+        "options": [
+          "A nuclear change",
+          "A chemical change",
+          "A physical change",
+          "An irreversible change"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a change that produces one or more new substances with different properties?",
+        "options": [
+          "A reversible change only",
+          "A phase change only",
+          "A chemical change",
+          "A physical change"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a physical change?",
+        "options": [
+          "Burning wood into ash",
+          "Baking a cake",
+          "Rusting metal",
+          "Melting ice into water"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these is an example of a chemical change?",
+        "options": [
+          "Burning paper",
+          "Folding paper",
+          "Tearing paper",
+          "Cutting paper"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one common sign that a chemical change has occurred?",
+        "options": [
+          "The temperature always stays exactly the same",
+          "The substance simply changes shape",
+          "The production of gas bubbles or a colour change",
+          "The substance simply changes size"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the change of state from a liquid to a gas?",
+        "options": [
+          "Sublimation",
+          "Evaporation",
+          "Freezing",
+          "Condensation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the change of state from a gas directly to a liquid?",
+        "options": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Freezing"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the change of state from a solid directly to a gas without becoming a liquid?",
+        "options": [
+          "Condensation",
+          "Freezing",
+          "Evaporation",
+          "Sublimation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Are changes of state, such as melting and freezing, generally considered physical or chemical changes?",
+        "options": [
+          "Chemical changes",
+          "Nuclear changes",
+          "Physical changes",
+          "Neither type of change"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a chemical change that releases heat energy?",
+        "options": [
+          "A neutral reaction",
+          "An endothermic reaction",
+          "A physical reaction",
+          "An exothermic reaction"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a chemical change that absorbs heat energy from its surroundings?",
+        "options": [
+          "A physical reaction",
+          "An exothermic reaction",
+          "An endothermic reaction",
+          "A neutral reaction"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is rusting considered a chemical change rather than a physical change?",
+        "options": [
+          "It forms a new substance, iron oxide, with different properties",
+          "It only changes the shape of the metal",
+          "It is easily reversed by simply reheating the metal",
+          "It does not involve any new substances forming"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which observation would most strongly suggest a chemical change has taken place?",
+        "options": [
+          "The object becomes slightly colder",
+          "A new odour and a colour change occur together",
+          "The object becomes slightly smaller",
+          "The object changes shape slightly"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Is dissolving sugar in water generally considered a physical or chemical change?",
+        "options": [
+          "A physical change, since no new substance forms",
+          "Neither a physical nor chemical change",
+          "Both a physical and chemical change equally",
+          "A chemical change, since a new substance forms"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why are chemical changes generally more difficult to reverse than physical changes?",
+        "options": [
+          "There is no real difference between the two types",
+          "Chemical changes never actually alter matter",
+          "New substances form with different chemical properties",
+          "Physical changes always involve heat while chemical changes never do"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 8,
+    "title": "Heat Transfer and Thermal Energy",
+    "questions": [
+      {
+        "q": "What term describes the transfer of heat through direct contact between particles?",
+        "options": [
+          "Convection",
+          "Conduction",
+          "Radiation",
+          "Insulation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the transfer of heat through the movement of a fluid, such as air or water?",
+        "options": [
+          "Conduction",
+          "Radiation",
+          "Insulation",
+          "Convection"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the transfer of heat through electromagnetic waves, without requiring particles?",
+        "options": [
+          "Radiation",
+          "Convection",
+          "Insulation",
+          "Conduction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which material would most likely be a good conductor of heat?",
+        "options": [
+          "Metal",
+          "Air",
+          "Wood",
+          "Plastic foam"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which material would most likely be a good insulator of heat?",
+        "options": [
+          "Plastic foam",
+          "Aluminum",
+          "Metal",
+          "Copper"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to most substances as their temperature increases?",
+        "options": [
+          "Their particles stop moving completely",
+          "They always contract regardless of temperature",
+          "They expand as their particles move faster and spread apart",
+          "Their mass increases significantly"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the measure of the average kinetic energy of particles in a substance?",
+        "options": [
+          "Density",
+          "Heat",
+          "Temperature",
+          "Pressure"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the total thermal energy transferred between objects of different temperatures?",
+        "options": [
+          "Volume",
+          "Pressure",
+          "Heat",
+          "Temperature"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In which direction does heat naturally flow between two objects?",
+        "options": [
+          "From the warmer object to the cooler object",
+          "Heat does not flow between objects",
+          "Equally in both directions at once",
+          "From the cooler object to the warmer object"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do many pots and pans have handles made of plastic or wood?",
+        "options": [
+          "These materials have no thermal properties at all",
+          "These materials are poor conductors and stay cooler to hold",
+          "These materials conduct heat extremely well",
+          "These materials melt at low temperatures for safety"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an example of heat transfer mainly by convection?",
+        "options": [
+          "Sunlight warming the surface of the Earth",
+          "Warm air rising in a heated room",
+          "A metal spoon heating up in hot soup",
+          "A blanket keeping a person warm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an example of heat transfer mainly by radiation?",
+        "options": [
+          "Water boiling in a covered pot",
+          "Sunlight warming the surface of the Earth",
+          "Warm air rising in a heated room",
+          "A metal spoon heating up in hot soup"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an example of heat transfer mainly by conduction?",
+        "options": [
+          "A metal spoon heating up in hot soup",
+          "Warm air rising above a heater",
+          "Sunlight warming the surface of the Earth",
+          "A hot air balloon rising into the sky"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a material designed to reduce the transfer of heat?",
+        "options": [
+          "A conductor",
+          "A catalyst",
+          "A solvent",
+          "An insulator"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why does a thermos keep drinks hot or cold for a longer period of time?",
+        "options": [
+          "It removes all thermal energy instantly",
+          "It actively generates new heat energy",
+          "It uses insulating layers to reduce heat transfer",
+          "It has no effect on temperature at all"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 9,
+    "title": "Climate and the Atmosphere",
+    "questions": [
+      {
+        "q": "What term describes the layer of gases surrounding the Earth?",
+        "options": [
+          "The biosphere",
+          "The lithosphere",
+          "The atmosphere",
+          "The hydrosphere"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the most abundant gas in the atmosphere of Earth?",
+        "options": [
+          "Argon",
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the average weather conditions in a region over a long period of time?",
+        "options": [
+          "Climate",
+          "Weather",
+          "Temperature",
+          "Humidity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the condition of the atmosphere at a specific place and time?",
+        "options": [
+          "Biome",
+          "Climate",
+          "Season",
+          "Weather"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the primary source of energy that drives weather and climate on Earth?",
+        "options": [
+          "Ocean currents alone",
+          "The Moon",
+          "Volcanic activity alone",
+          "The Sun"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes gases such as carbon dioxide that trap heat in the atmosphere?",
+        "options": [
+          "Greenhouse gases",
+          "Noble gases",
+          "Inert gases",
+          "Trace gases only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What natural process keeps the Earth warm enough to support life by trapping some heat in the atmosphere?",
+        "options": [
+          "The rock cycle",
+          "The greenhouse effect",
+          "The carbon cycle",
+          "The water cycle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the long-term rise in the average temperature of the Earth, partly linked to human activity?",
+        "options": [
+          "Seasonal change",
+          "Global cooling",
+          "Local weather",
+          "Global warming"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which human activity most contributes to increased greenhouse gases in the atmosphere?",
+        "options": [
+          "Burning fossil fuels",
+          "Planting trees",
+          "Conserving water",
+          "Recycling paper"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the continuous movement of water between the atmosphere, land, and oceans?",
+        "options": [
+          "The nitrogen cycle",
+          "The water cycle",
+          "The carbon cycle",
+          "The rock cycle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the layer of the atmosphere closest to the surface of the Earth, where most weather occurs, called?",
+        "options": [
+          "The stratosphere",
+          "The thermosphere",
+          "The mesosphere",
+          "The troposphere"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the region high in the atmosphere that contains a layer that absorbs harmful ultraviolet radiation?",
+        "options": [
+          "The stratosphere",
+          "The mesosphere",
+          "The exosphere",
+          "The troposphere"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How do large bodies of water, such as oceans, generally affect the climate of nearby land?",
+        "options": [
+          "They always make temperatures more extreme",
+          "They tend to moderate temperatures, keeping them milder",
+          "They only affect precipitation, never temperature",
+          "They have no measurable effect on climate"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes weather patterns that repeat with the seasons of the year?",
+        "options": [
+          "Seasonal patterns",
+          "Ocean currents only",
+          "Air pressure systems only",
+          "Climate zones only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might scientists study ice cores from glaciers to understand past climate?",
+        "options": [
+          "Ice cores only reveal information about ocean currents",
+          "Ice cores preserve trapped air and data about past atmospheric conditions",
+          "Ice cores contain no useful climate information",
+          "Ice cores can only be studied for their age, not climate"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 10,
+    "title": "Scientific Inquiry and the Method",
+    "questions": [
+      {
+        "q": "What is the first step typically taken when beginning a scientific investigation?",
+        "options": [
+          "Publishing the results",
+          "Writing the final conclusion",
+          "Skipping directly to data analysis",
+          "Asking a testable question"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes an educated guess about the outcome of an experiment that can be tested?",
+        "options": [
+          "A control",
+          "A variable",
+          "A hypothesis",
+          "A conclusion"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the factor that a scientist deliberately changes in an experiment?",
+        "options": [
+          "The dependent variable",
+          "The constant",
+          "The controlled variable",
+          "The independent variable"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the factor that is measured or observed as a result of changes in an experiment?",
+        "options": [
+          "The dependent variable",
+          "The independent variable",
+          "The controlled variable",
+          "The hypothesis"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes factors that are kept the same throughout an experiment to ensure a fair test?",
+        "options": [
+          "Dependent variables",
+          "Independent variables",
+          "Controlled variables",
+          "Random variables"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is it important to change only one variable at a time during an experiment?",
+        "options": [
+          "It is only important for very complex experiments",
+          "It has no real effect on experimental accuracy",
+          "It makes the experiment take much longer",
+          "It ensures the results can be attributed to that single variable"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a trial in an experiment where no change is applied, used for comparison?",
+        "options": [
+          "An experimental group",
+          "A dependent group",
+          "A control group",
+          "A test group"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes repeating an experiment multiple times to check the reliability of results?",
+        "options": [
+          "Observation",
+          "Hypothesis testing",
+          "Data collection",
+          "Replication"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the purpose of recording data carefully during an experiment?",
+        "options": [
+          "To make the experiment appear longer than it was",
+          "To avoid needing to form a hypothesis at all",
+          "Recording data is optional and rarely useful",
+          "To accurately analyze results and draw valid conclusions"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a statement summarizing what was learned from an experiment based on the data collected?",
+        "options": [
+          "A procedure",
+          "A hypothesis",
+          "A conclusion",
+          "A variable"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might scientists use graphs to present experimental data?",
+        "options": [
+          "Graphs remove the need for accurate measurements",
+          "Graphs are only used in mathematics, never science",
+          "Graphs always make data harder to understand",
+          "Graphs make patterns and trends in data easier to identify"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What should a scientist do if experimental results do not support the original hypothesis?",
+        "options": [
+          "Ignore the unexpected results entirely",
+          "Stop investigating the question permanently",
+          "Revise the hypothesis and consider further investigation",
+          "Change the data to match the hypothesis"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes tools such as rulers, thermometers, and scales used to collect accurate data?",
+        "options": [
+          "Conclusions",
+          "Hypotheses",
+          "Control groups",
+          "Measuring instruments"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is peer review important in the scientific community?",
+        "options": [
+          "It only applies to research in medicine",
+          "It allows other scientists to check the validity of research findings",
+          "It replaces the need for any experimentation",
+          "It guarantees that all research is automatically correct"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a widely accepted explanation of some aspect of the natural world, supported by extensive evidence?",
+        "options": [
+          "A scientific theory",
+          "A single observation",
+          "An unproven hypothesis",
+          "A random guess"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 1,
+    "title": "New France and Early Settlement",
+    "questions": [
+      {
+        "q": "Which European country established the colony known as New France?",
+        "options": [
+          "Britain",
+          "Spain",
+          "France",
+          "Portugal"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What was the primary economic activity that drove early settlement in New France?",
+        "options": [
+          "Gold mining",
+          "Oil production",
+          "The fur trade",
+          "Textile manufacturing"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Along which major river did the first settlements of New France develop?",
+        "options": [
+          "The Mississippi River",
+          "The Nile River",
+          "The Amazon River",
+          "The Saint Lawrence River"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which Indigenous peoples were key trading partners with French settlers in the fur trade?",
+        "options": [
+          "Distant Pacific coast nations only",
+          "The Huron-Wendat and allied nations",
+          "Only Europeans traded with each other",
+          "No Indigenous peoples were involved"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What was the name given to French colonial farmers who settled along the Saint Lawrence River?",
+        "options": [
+          "Coureurs des bois only",
+          "Loyalists",
+          "Habitants",
+          "Voyageurs only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes French fur traders who traveled deep into the interior to trade, often without official licenses?",
+        "options": [
+          "Loyalists",
+          "Habitants",
+          "Seigneurs",
+          "Coureurs des bois"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What system organized land along the Saint Lawrence River into long narrow strips granted to settlers?",
+        "options": [
+          "The township system",
+          "The homestead system",
+          "The seigneurial system",
+          "The reservation system"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What role did the Catholic Church play in early New France?",
+        "options": [
+          "It played a major role in education, health care, and daily life",
+          "It only existed in France, not the colony",
+          "It had no presence in the colony",
+          "It focused solely on military matters"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Who governed New France on behalf of the French king?",
+        "options": [
+          "An elected mayor",
+          "A parliament of settlers",
+          "A council of Indigenous leaders",
+          "A royal governor"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What was one major challenge faced by early settlers in New France?",
+        "options": [
+          "No access to any waterways",
+          "Constant tropical heat",
+          "A total absence of natural resources",
+          "Harsh winters and a short growing season"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why was the Saint Lawrence River important to the growth of New France?",
+        "options": [
+          "It was too dangerous for any travel",
+          "It provided a route for trade, transportation, and settlement",
+          "It had no connection to the fur trade",
+          "It only connected small isolated villages"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What was Quebec City originally established as?",
+        "options": [
+          "A capital of British North America",
+          "A modern industrial city",
+          "A purely agricultural village",
+          "A fortified trading post"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What good was most highly valued in the fur trade between Europeans and Indigenous peoples?",
+        "options": [
+          "Sugar cane",
+          "Gold nuggets",
+          "Cotton cloth",
+          "Beaver pelts"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How did alliances with Indigenous nations benefit French traders?",
+        "options": [
+          "They gained access to furs, trade routes, and local knowledge",
+          "Alliances provided no benefit to French traders",
+          "Alliances prevented any trade from occurring",
+          "They only gained access to European goods"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one lasting impact of French settlement on the culture of the region?",
+        "options": [
+          "The complete disappearance of French language",
+          "The continued presence of the French language and traditions",
+          "The replacement of French culture with Spanish culture",
+          "No lasting cultural impact at all"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 2,
+    "title": "The Seven Years War and Change of Power",
+    "questions": [
+      {
+        "q": "Which two European powers were the main rivals during the Seven Years War in North America?",
+        "options": [
+          "Spain and Portugal",
+          "Britain and Spain",
+          "France and the Netherlands",
+          "Britain and France"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What was the outcome of the Seven Years War for control of New France?",
+        "options": [
+          "France retained full control of the colony",
+          "Spain took control of the colony",
+          "The colony became fully independent",
+          "Britain gained control of the former French colony"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What treaty officially ended the Seven Years War in 1763?",
+        "options": [
+          "The Treaty of Ghent",
+          "The Treaty of Paris",
+          "The Treaty of Versailles",
+          "The Treaty of Utrecht"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "On what battlefield near Quebec City did a decisive battle of the war take place in 1759?",
+        "options": [
+          "The Plains of Manitoba",
+          "The Plains of Ontario",
+          "The Plains of Abraham",
+          "The Plains of Superior"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which document, passed by Britain in 1774, recognized French civil law and the Catholic faith in the colony?",
+        "options": [
+          "The Quebec Act",
+          "The Royal Proclamation",
+          "The Constitution Act",
+          "The Treaty of Paris"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one major goal of the Royal Proclamation of 1763?",
+        "options": [
+          "To ban all trade with Indigenous nations",
+          "To remove all French residents from the colony",
+          "To grant full independence to the colony",
+          "To organize newly acquired British territory and regulate settlement"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How did many French-speaking residents react to coming under British rule?",
+        "options": [
+          "Many were concerned about preserving their language, religion, and laws",
+          "No residents had any concerns at all",
+          "All residents left the colony immediately",
+          "Most residents were entirely unaffected by the change"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why did Britain want control of New France during this period?",
+        "options": [
+          "Britain had no interest in North America",
+          "To give the colony to another European power",
+          "To immediately abandon the colony",
+          "To expand its territory and control valuable trade resources"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What impact did the Seven Years War have on relationships between European powers and Indigenous nations?",
+        "options": [
+          "Alliances shifted, and Indigenous nations faced new challenges under British rule",
+          "All Indigenous nations disappeared from the region",
+          "European powers ended all contact with Indigenous nations",
+          "Indigenous nations were completely unaffected"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one significant provision of the Quebec Act regarding land?",
+        "options": [
+          "It expanded the boundaries of the province of Quebec",
+          "It banned all settlement within Quebec",
+          "It transferred Quebec to French control again",
+          "It eliminated the province of Quebec entirely"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is the Quebec Act considered an important turning point in the history of the colony?",
+        "options": [
+          "It allowed French civil law and Catholic practice to continue under British rule",
+          "It had no lasting effect on the colony",
+          "It transferred the colony back to France",
+          "It ended all French cultural practices immediately"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the transfer of a colony from one ruling power to another, as happened after the war?",
+        "options": [
+          "An election",
+          "A treaty of neutrality",
+          "A revolution",
+          "A change of power"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How did the outcome of the Seven Years War affect the balance of power in North America?",
+        "options": [
+          "It significantly increased British territorial control",
+          "It significantly increased French territorial control",
+          "It ended all European claims to North America",
+          "It had no effect on territorial control"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which colonial power lost the most North American territory as a result of the Seven Years War?",
+        "options": [
+          "Britain",
+          "France",
+          "The Netherlands",
+          "Spain"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might historians consider 1763 a pivotal year in Canadian history?",
+        "options": [
+          "It marked the formal transfer of New France to British control",
+          "It marked the independence of Canada",
+          "It marked the end of all European colonization",
+          "It marked the founding of New France"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 3,
+    "title": "The Loyalists and Migration to British North America",
+    "questions": [
+      {
+        "q": "Who were the Loyalists during the American Revolution?",
+        "options": [
+          "French settlers who supported France",
+          "Colonists who remained loyal to the British crown",
+          "Colonists who fought for American independence",
+          "Indigenous groups who supported Spain"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Where did many Loyalists relocate after the American Revolution?",
+        "options": [
+          "France",
+          "The Caribbean only",
+          "British North America",
+          "The southern United States"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What was one major reason Loyalists left the newly independent United States?",
+        "options": [
+          "They were forced to leave by the British government",
+          "They were seeking warmer weather",
+          "They wanted to join the French colonies",
+          "They feared persecution for their loyalty to Britain"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of support did the British government offer Loyalists who resettled in British North America?",
+        "options": [
+          "No support of any kind",
+          "Only military weapons",
+          "Permanent housing in Britain",
+          "Land grants and supplies"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How did the arrival of Loyalists affect the population of British North America?",
+        "options": [
+          "It decreased the population significantly",
+          "It significantly increased the population and diversity of settlers",
+          "It caused the population to relocate to France",
+          "It had no impact on the population at all"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What later became a new colony partly due to the large influx of Loyalist settlers?",
+        "options": [
+          "New Brunswick",
+          "Newfoundland",
+          "British Columbia",
+          "Yukon"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which group of Loyalists included formerly enslaved people who had been promised freedom for supporting the British?",
+        "options": [
+          "Black Loyalists",
+          "White Loyalists only",
+          "French Loyalists only",
+          "Indigenous Loyalists only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How did the arrival of Loyalists affect relationships with Indigenous nations already living in the region?",
+        "options": [
+          "It had no effect on Indigenous lands",
+          "Loyalist settlement often increased pressure on Indigenous lands",
+          "Indigenous nations left the continent as a result",
+          "It reduced settler demand for Indigenous lands entirely"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes people who are forced to leave their home region due to conflict or persecution?",
+        "options": [
+          "Diplomats",
+          "Merchants",
+          "Refugees",
+          "Explorers"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might the arrival of Loyalists have contributed to demands for new colonial governments?",
+        "options": [
+          "No new colonies were ever created afterward",
+          "The growing population needed new administrative structures",
+          "Loyalists had no interest in colonial government",
+          "The existing government structures were never affected"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What role did the Crown play in supporting Loyalist resettlement in the colonies?",
+        "options": [
+          "It refused to provide any assistance whatsoever",
+          "It required Loyalists to pay for their own land in full",
+          "It exiled Loyalists to a different continent entirely",
+          "It provided land and resources to encourage resettlement"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How did the Loyalist migration influence the cultural makeup of British North America?",
+        "options": [
+          "It had no lasting cultural influence at all",
+          "It only affected the economy, not culture",
+          "It eliminated all existing cultural traditions",
+          "It introduced new communities with strong ties to British traditions"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which region became a major destination for Loyalist settlement due to its available farmland?",
+        "options": [
+          "The Arctic tundra",
+          "The Caribbean islands",
+          "The Pacific coast rainforest",
+          "The area that later became Ontario"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What challenge did many Loyalist settlers face when first arriving in British North America?",
+        "options": [
+          "Clearing land and establishing new farms in an unfamiliar environment",
+          "No challenges at all upon arrival",
+          "An abundance of pre-built housing everywhere",
+          "Immediate access to modern transportation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is the story of the Loyalists an important part of the history of British North America?",
+        "options": [
+          "It marked the end of British influence in North America",
+          "It shaped settlement patterns and the growth of new colonies",
+          "It had no lasting significance for the region",
+          "It only affected events in the United States"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 4,
+    "title": "Government and Society in Early British North America",
+    "questions": [
+      {
+        "q": "What term describes the system in which a governor appointed by Britain held significant power in a colony?",
+        "options": [
+          "Direct democracy",
+          "Self-government",
+          "A republic",
+          "Colonial government"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What was the purpose of an elected legislative assembly introduced in some colonies?",
+        "options": [
+          "To transfer full power to Indigenous nations",
+          "To allow colonists some representation in decision making",
+          "To eliminate all colonial governments",
+          "To replace the monarchy entirely"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which act of 1791 divided the province of Quebec into Upper Canada and Lower Canada?",
+        "options": [
+          "The Quebec Act",
+          "The Constitutional Act",
+          "The Treaty of Paris",
+          "The Royal Proclamation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What was Upper Canada mainly settled by following its creation?",
+        "options": [
+          "English-speaking Loyalists and settlers",
+          "Only Spanish settlers",
+          "Only Indigenous peoples",
+          "Only French-speaking settlers"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was Lower Canada mainly composed of following the Constitutional Act?",
+        "options": [
+          "A largely Indigenous only population",
+          "A largely Dutch-speaking population",
+          "A largely French-speaking population",
+          "A largely Spanish-speaking population"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What role did a colonial governor typically play in early British North America?",
+        "options": [
+          "Serving as an elected representative of the people",
+          "Leading a fully independent republic",
+          "Representing the Crown and holding executive power",
+          "Having no political authority at all"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What limitation did the elected assemblies in early British North America often face?",
+        "options": [
+          "They were entirely abolished immediately",
+          "They had unlimited power over the colony",
+          "They had more power than the governor",
+          "Real power often remained with the appointed governor and council"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What was one common source of tension in colonial society during this era?",
+        "options": [
+          "Disputes over who should hold real political power",
+          "No tension existed within colonial society",
+          "Complete agreement on every political issue",
+          "A total absence of any government structure"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a small group of powerful, often wealthy, individuals who controlled much of colonial government?",
+        "options": [
+          "A democratic assembly",
+          "An elite ruling group",
+          "A labour union",
+          "An Indigenous council"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why did some colonists begin to call for greater representation in government during this period?",
+        "options": [
+          "They wanted more control over decisions affecting their daily lives",
+          "They had no interest in political representation",
+          "They wanted power to shift entirely to Britain",
+          "They wanted to abolish all forms of government"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one major economic activity in Upper Canada during this era?",
+        "options": [
+          "Large scale manufacturing of automobiles",
+          "Deep sea fishing exclusively",
+          "Farming and the export of agricultural products",
+          "Oil extraction"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How were land grants typically distributed to settlers in early British North America?",
+        "options": [
+          "Only through a lottery with no government involvement",
+          "Through government programs that assigned parcels of land",
+          "Settlers were never permitted to own land",
+          "Only through purchase from Indigenous nations"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the laws and system used to govern French-speaking Lower Canada, distinct from English common law?",
+        "options": [
+          "French civil law",
+          "No legal system at all",
+          "British common law only",
+          "Indigenous law exclusively"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one social division present in colonies such as Upper and Lower Canada?",
+        "options": [
+          "Complete social and economic equality for all residents",
+          "Divisions along lines of wealth, language, and political power",
+          "Divisions based solely on climate preference",
+          "No divisions of any kind existed"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is understanding early colonial government important to understanding later Canadian political development?",
+        "options": [
+          "Only military history matters for this period",
+          "It laid the foundation for later demands for responsible government",
+          "It has no connection to later Canadian political history",
+          "Colonial government structures were never changed afterward"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 5,
+    "title": "Conflict and Challenges in Early Canada",
+    "questions": [
+      {
+        "q": "What conflict fought between 1812 and 1814 involved British North America and the United States?",
+        "options": [
+          "The War of 1812",
+          "The Seven Years War",
+          "The American Revolution",
+          "The Rebellion of 1837"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one major cause of the War of 1812?",
+        "options": [
+          "Disputes over trade and territorial expansion",
+          "A disagreement over control of New France",
+          "A conflict over control of the Arctic",
+          "A dispute over fishing rights in the Pacific Ocean"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which Indigenous leader played a significant role allying with the British during the War of 1812?",
+        "options": [
+          "Tecumseh",
+          "Jacques Cartier",
+          "John Cabot",
+          "Samuel de Champlain"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one significant outcome of the War of 1812?",
+        "options": [
+          "The United States gained full control of British North America",
+          "Borders between British North America and the United States remained largely unchanged",
+          "Britain lost all of its North American colonies",
+          "France regained control of the region"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What were the Rebellions of 1837 primarily a response to?",
+        "options": [
+          "Frustration over limited representation in colonial government",
+          "A foreign invasion by another European power",
+          "A natural disaster affecting the colonies",
+          "A disagreement over religious holidays"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Who led the rebellion in Upper Canada in 1837?",
+        "options": [
+          "Louis-Joseph Papineau",
+          "Tecumseh",
+          "Samuel de Champlain",
+          "William Lyon Mackenzie"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Who led the rebellion in Lower Canada in 1837?",
+        "options": [
+          "Louis-Joseph Papineau",
+          "William Lyon Mackenzie",
+          "Tecumseh",
+          "John Cabot"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What was one long-term political result of the Rebellions of 1837?",
+        "options": [
+          "Increased pressure for responsible government reforms",
+          "No political changes of any kind",
+          "The immediate independence of the colonies",
+          "The permanent end of British rule"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What report, written after the rebellions, recommended changes to colonial governance?",
+        "options": [
+          "The Treaty of Paris",
+          "The Quebec Act",
+          "The Royal Proclamation",
+          "The Durham Report"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What system of government did reformers eventually seek, giving elected assemblies more control over decisions?",
+        "options": [
+          "Direct rule from a foreign power",
+          "Responsible government",
+          "No government at all",
+          "Absolute monarchy"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How did the War of 1812 affect the identity of people living in British North America?",
+        "options": [
+          "It ended all sense of community among colonists",
+          "It had no effect on identity at all",
+          "It contributed to a growing sense of shared identity and pride",
+          "It caused colonists to feel closer ties to another country entirely"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What was one challenge faced by colonial governments in responding to the rebellions of 1837?",
+        "options": [
+          "Balancing demands for reform with maintaining control",
+          "Complete agreement between all political groups",
+          "An overwhelming lack of any public concern",
+          "No challenges were faced at all"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What role did economic hardship play in fueling unrest in the colonies during this period?",
+        "options": [
+          "There was no economic hardship at any point",
+          "Economic struggles increased frustration with the existing government",
+          "Economic hardship had no connection to political unrest",
+          "Economic conditions were perfect for everyone at the time"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How did the recommendations following the rebellions eventually influence the union of the Canadas?",
+        "options": [
+          "They caused the colonies to become fully independent immediately",
+          "They had no influence on any later political decisions",
+          "They led to the permanent separation of all colonies",
+          "They contributed to the decision to unite Upper and Lower Canada"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is the period of conflict and challenge in the early 1800s considered important to Canadian history?",
+        "options": [
+          "It caused Canada to lose all of its territory",
+          "It had no lasting significance for Canadian history",
+          "It set the stage for later movements toward self-government",
+          "It marked the end of all colonial settlement"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 6,
+    "title": "Physical Geography and Landforms of the World",
+    "questions": [
+      {
+        "q": "What term describes the natural features of the Earth surface, such as mountains, valleys, and plains?",
+        "options": [
+          "Climate zones",
+          "Trade routes",
+          "Landforms",
+          "Population centres"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a large, flat area of land often used for farming?",
+        "options": [
+          "A delta",
+          "A plateau",
+          "A plain",
+          "A canyon"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes an elevated area of relatively flat land, higher than the surrounding terrain?",
+        "options": [
+          "A basin",
+          "A valley",
+          "A plain",
+          "A plateau"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a landform created where a river deposits sediment as it enters a larger body of water?",
+        "options": [
+          "A delta",
+          "A plateau",
+          "A glacier",
+          "A canyon"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a deep, narrow valley with steep sides, often carved by a river?",
+        "options": [
+          "A plain",
+          "A plateau",
+          "A canyon",
+          "A delta"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a large area of land surrounded almost entirely by water, connected by a narrow strip of land?",
+        "options": [
+          "An island",
+          "A peninsula",
+          "An archipelago",
+          "A continent"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a chain or group of islands?",
+        "options": [
+          "A plateau",
+          "A peninsula",
+          "An archipelago",
+          "A continent"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What natural feature forms when tectonic plates collide and push land upward over long periods of time?",
+        "options": [
+          "A desert basin",
+          "A coastal plain",
+          "A river delta",
+          "A mountain range"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the imaginary lines used to measure distance north or south of the equator?",
+        "options": [
+          "Time zones",
+          "Lines of longitude",
+          "Lines of latitude",
+          "Contour lines"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the imaginary lines used to measure distance east or west of the prime meridian?",
+        "options": [
+          "Lines of latitude",
+          "Elevation lines",
+          "Lines of longitude",
+          "Time zones"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of map uses contour lines to show changes in elevation?",
+        "options": [
+          "A topographic map",
+          "A climate map",
+          "A population density map",
+          "A political map"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the natural process by which wind, water, and ice gradually wear away land over time?",
+        "options": [
+          "Precipitation",
+          "Deposition",
+          "Elevation",
+          "Erosion"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a large body of slowly moving ice that shapes the land as it moves?",
+        "options": [
+          "A delta",
+          "A canyon",
+          "A plateau",
+          "A glacier"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why do many major cities develop along rivers or coastlines?",
+        "options": [
+          "Cities always avoid water for safety reasons",
+          "Rivers make transportation impossible",
+          "Access to water supports transportation, trade, and agriculture",
+          "Rivers and coastlines have no practical benefits"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the entire system of physical features that shape a region, including landforms and bodies of water?",
+        "options": [
+          "Economic geography only",
+          "Population geography only",
+          "Physical geography",
+          "Political geography"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 7,
+    "title": "Climate Zones and Natural Vegetation",
+    "questions": [
+      {
+        "q": "What term describes the pattern of temperature and precipitation typical of a region over many years?",
+        "options": [
+          "Weather",
+          "Elevation",
+          "Season",
+          "Climate"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What climate zone is characterized by hot temperatures and heavy rainfall year round, supporting dense rainforests?",
+        "options": [
+          "A tropical climate",
+          "A tundra climate",
+          "A polar climate",
+          "A desert climate"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What climate zone is characterized by very cold temperatures and little precipitation, found near the poles?",
+        "options": [
+          "A desert climate",
+          "A polar climate",
+          "A tropical climate",
+          "A temperate climate"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What climate zone typically experiences four distinct seasons and moderate rainfall?",
+        "options": [
+          "A temperate climate",
+          "A desert climate",
+          "A tropical climate",
+          "A polar climate"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What climate zone is defined by very low precipitation and extreme temperature ranges?",
+        "options": [
+          "A tropical climate",
+          "A temperate climate",
+          "A desert climate",
+          "A polar climate"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the plant life that naturally grows in a particular region?",
+        "options": [
+          "Land use",
+          "Natural vegetation",
+          "Population density",
+          "Urban development"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of natural vegetation would most likely be found in a tropical rainforest climate?",
+        "options": [
+          "Cacti and sparse shrubs",
+          "Frozen tundra with no vegetation",
+          "Coniferous forests only",
+          "Dense, broadleaf evergreen forests"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of vegetation typically grows in a desert climate?",
+        "options": [
+          "Dense tropical rainforest trees",
+          "Lush wetland vegetation",
+          "Thick coniferous forests",
+          "Drought-resistant plants such as cacti"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a treeless, cold biome with permanently frozen ground beneath the surface?",
+        "options": [
+          "Grassland",
+          "Tundra",
+          "Savanna",
+          "Rainforest"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a large open area of grassland with scattered trees, often found in warmer climates?",
+        "options": [
+          "A desert",
+          "A tundra",
+          "A savanna",
+          "A rainforest"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How does elevation typically affect the climate of a mountainous region?",
+        "options": [
+          "Elevation has no effect on climate at all",
+          "Higher elevations tend to be colder than surrounding lowlands",
+          "Elevation only affects precipitation, never temperature",
+          "Higher elevations are always warmer than lowlands"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why do ocean currents influence the climate of nearby coastal regions?",
+        "options": [
+          "Currents only affect climate far from any coastline",
+          "Currents only influence precipitation, never temperature",
+          "Currents carry warm or cold water that affects nearby air temperatures",
+          "Ocean currents have no connection to climate"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the layer of vegetation and soil that supports plant and animal life in a region?",
+        "options": [
+          "A population centre",
+          "A time zone",
+          "An ecosystem or biome",
+          "A political boundary"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How might a change in climate over time affect the natural vegetation of a region?",
+        "options": [
+          "Only human settlements are affected by climate change",
+          "Vegetation always stays exactly the same regardless of climate",
+          "It would have no effect on plant or animal life",
+          "It could cause shifts in which plants and animals can survive there"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is understanding climate zones useful when studying global patterns of agriculture?",
+        "options": [
+          "Climate has no connection to agriculture at all",
+          "All crops can be grown equally well in every climate",
+          "Climate strongly influences which crops can be grown in a region",
+          "Agriculture depends only on soil colour, not climate"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 8,
+    "title": "Natural Resources and Sustainability",
+    "questions": [
+      {
+        "q": "What term describes materials found in nature that are used to meet human needs?",
+        "options": [
+          "Currency",
+          "Natural resources",
+          "Services",
+          "Manufactured goods"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a resource that can be replenished naturally over a relatively short period of time?",
+        "options": [
+          "A nonrenewable resource",
+          "A manufactured resource",
+          "A synthetic resource",
+          "A renewable resource"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a resource that takes millions of years to form and cannot be quickly replaced?",
+        "options": [
+          "A manufactured resource",
+          "A renewable resource",
+          "A nonrenewable resource",
+          "A synthetic resource"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a renewable resource?",
+        "options": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these is an example of a nonrenewable resource?",
+        "options": [
+          "Wind energy",
+          "Petroleum",
+          "Solar energy",
+          "Fresh water from rainfall"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes using resources in a way that meets present needs without harming the ability of future generations to meet theirs?",
+        "options": [
+          "Depletion",
+          "Overconsumption",
+          "Extraction",
+          "Sustainability"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is one consequence of overusing a nonrenewable resource?",
+        "options": [
+          "The resource becomes a renewable resource instead",
+          "There are never any consequences to overuse",
+          "The resource could eventually become scarce or run out",
+          "The resource automatically renews itself instantly"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes managing forests to ensure trees are replanted and regrown over time?",
+        "options": [
+          "Sustainable forestry",
+          "Overharvesting",
+          "Urban development",
+          "Deforestation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is fresh water sometimes considered a limited resource despite covering much of the Earth surface?",
+        "options": [
+          "Only a small percentage of the water on Earth is fresh and accessible",
+          "Fresh water can never be polluted or contaminated",
+          "All water on Earth is equally usable for drinking",
+          "Fresh water is found only underground"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one strategy used to conserve natural resources for future generations?",
+        "options": [
+          "Increasing unnecessary consumption",
+          "Ignoring environmental regulations",
+          "Recycling and reducing waste",
+          "Avoiding any resource management planning"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How can the extraction of natural resources, such as mining, affect the environment?",
+        "options": [
+          "It can disrupt ecosystems and cause pollution if not managed carefully",
+          "It always improves environmental health",
+          "It only affects underground water, never the surface",
+          "It has no effect on surrounding ecosystems"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes energy sources such as wind, solar, and hydroelectric power that produce fewer emissions?",
+        "options": [
+          "Fossil fuel energy",
+          "Synthetic energy",
+          "Nonrenewable energy only",
+          "Clean or renewable energy"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why might countries invest in renewable energy sources instead of relying solely on fossil fuels?",
+        "options": [
+          "There is no difference between the two energy types",
+          "Renewable sources always cost more with no benefits",
+          "Fossil fuels never run out and cause no pollution",
+          "Renewable sources can reduce pollution and are less likely to run out"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes land or resources that are protected from development to preserve their natural state?",
+        "options": [
+          "A shopping district",
+          "A protected or conservation area",
+          "An industrial zone",
+          "A landfill site"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is international cooperation often important when managing shared natural resources, such as rivers that cross borders?",
+        "options": [
+          "Cooperation always harms resource management",
+          "Shared resources never require any cooperation",
+          "Countries never share natural resources",
+          "Resources shared across borders require coordinated management to be sustainable"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 9,
+    "title": "Population and Settlement Patterns",
+    "questions": [
+      {
+        "q": "What term describes the number of people living within a specific area?",
+        "options": [
+          "Population density",
+          "Natural vegetation",
+          "Land use",
+          "Climate zone"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the movement of people from one region or country to another to live?",
+        "options": [
+          "Erosion",
+          "Migration",
+          "Deposition",
+          "Trade"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one common reason people migrate to a new region?",
+        "options": [
+          "To seek better economic opportunities",
+          "Migration never occurs for any reason",
+          "To avoid every type of climate",
+          "To avoid all forms of employment"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes areas with a high concentration of people living close together, often cities?",
+        "options": [
+          "Rural areas",
+          "Urban areas",
+          "Uninhabited areas",
+          "Protected areas"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes areas with fewer people, often characterized by farmland or open space?",
+        "options": [
+          "Rural areas",
+          "Industrial zones",
+          "Metropolitan areas",
+          "Urban areas"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do many settlements historically develop near rivers or coastlines?",
+        "options": [
+          "Settlements always avoid water sources",
+          "Water provides transportation, trade, and access to resources",
+          "Water access has no benefit to early settlements",
+          "Rivers and coastlines make farming impossible"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the process of population growth in cities, often due to migration from rural areas?",
+        "options": [
+          "Ruralization",
+          "Urbanization",
+          "Deforestation",
+          "Erosion"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What factor often influences where people choose to settle in a region with harsh terrain?",
+        "options": [
+          "Random selection with no consideration of the environment",
+          "Avoidance of any resource-rich areas",
+          "Access to flatter land, water, and resources",
+          "A preference for extreme elevation with no water access"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a map that shows how densely or sparsely populated different areas are?",
+        "options": [
+          "A climate map",
+          "A population density map",
+          "A topographic map",
+          "A political map"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one challenge that can result from rapid urban population growth?",
+        "options": [
+          "No challenges of any kind",
+          "A permanent decrease in population",
+          "Strain on housing, infrastructure, and services",
+          "An automatic improvement in every service"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might a region with a harsh climate, such as extreme cold, have a lower population density?",
+        "options": [
+          "Harsh conditions can make settlement and farming more difficult",
+          "Harsh climates always attract the largest populations",
+          "Cold regions always have the highest population density",
+          "Climate has no influence on where people settle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the pattern in which settlements are spaced out and connected by transportation routes?",
+        "options": [
+          "A natural resource map",
+          "A settlement pattern",
+          "A climate zone",
+          "A vegetation zone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How can transportation infrastructure, such as roads and railways, influence settlement patterns?",
+        "options": [
+          "Transportation infrastructure has no effect on settlement",
+          "Roads and railways always reduce population in an area",
+          "Better transportation can encourage growth along its routes",
+          "Settlement patterns never depend on transportation"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the study of how human populations are distributed and why?",
+        "options": [
+          "Population geography",
+          "Economic geography only",
+          "Physical geography only",
+          "Political geography only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do government planners study population trends when planning future infrastructure, such as schools and hospitals?",
+        "options": [
+          "Population trends have no connection to infrastructure planning",
+          "Infrastructure planning never considers population size",
+          "Only weather patterns are relevant to infrastructure planning",
+          "Understanding population trends helps plan for future community needs"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 10,
+    "title": "Citizenship, Rights and Responsibilities",
+    "questions": [
+      {
+        "q": "What term describes a person who is a legally recognized member of a particular country?",
+        "options": [
+          "A diplomat only",
+          "A citizen",
+          "A refugee only",
+          "A tourist"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one responsibility often associated with citizenship in a democratic society?",
+        "options": [
+          "Avoiding all civic participation",
+          "Ignoring local laws",
+          "Voting in elections",
+          "Refusing to pay any taxes"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the basic freedoms and protections guaranteed to individuals under the law?",
+        "options": [
+          "Regulations",
+          "Duties",
+          "Rights",
+          "Taxes"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What Canadian document outlines fundamental rights and freedoms protected under the constitution?",
+        "options": [
+          "The Treaty of Paris",
+          "The Canadian Charter of Rights and Freedoms",
+          "The Quebec Act",
+          "The Royal Proclamation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the duty to follow the laws of the community or country a person lives in?",
+        "options": [
+          "An optional custom",
+          "A personal preference",
+          "A civic responsibility",
+          "A foreign policy"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is participating in local community activities considered an important part of citizenship?",
+        "options": [
+          "Community participation is discouraged in a democracy",
+          "It helps build and support a healthy, functioning community",
+          "It has no benefit to the community at all",
+          "Only elected officials should participate in community life"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the right of citizens to elect representatives to make decisions on their behalf?",
+        "options": [
+          "The right to vote",
+          "The right to own property only",
+          "The right to travel freely only",
+          "The right to remain silent"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one example of a responsibility shared by all members of a community, regardless of citizenship status?",
+        "options": [
+          "Respecting the rights of others",
+          "Ignoring public safety guidelines",
+          "Avoiding contact with all neighbours",
+          "Refusing to follow any local rules"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the process by which an immigrant becomes an official citizen of a new country?",
+        "options": [
+          "Colonization",
+          "Deportation",
+          "Naturalization",
+          "Migration"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might active citizenship, such as volunteering, benefit a community?",
+        "options": [
+          "Only government workers should help their communities",
+          "It helps address local needs and strengthens community connections",
+          "It has no measurable impact on a community",
+          "Volunteering always weakens community ties"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes equal treatment and protection under the law for all individuals?",
+        "options": [
+          "Selective enforcement",
+          "Preferential treatment",
+          "Discrimination",
+          "Equality before the law"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What responsibility do citizens typically have regarding paying for public services, such as roads and schools?",
+        "options": [
+          "Only wealthy citizens are expected to pay taxes",
+          "Refusing to contribute to any public service",
+          "Paying taxes to help fund public services",
+          "Public services require no funding at all"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How can citizens participate in shaping government decisions beyond voting in elections?",
+        "options": [
+          "Citizens are legally prevented from expressing opinions",
+          "Citizens have no ability to influence government decisions",
+          "By contacting representatives, attending meetings, and advocating for causes",
+          "Only elected officials can influence government decisions"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the protection of an individuals personal information and freedom from unreasonable interference?",
+        "options": [
+          "The right to unlimited surveillance",
+          "The right to privacy",
+          "A government requirement only for officials",
+          "A responsibility of businesses alone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is understanding rights and responsibilities important for young people preparing to become active citizens?",
+        "options": [
+          "Rights and responsibilities only apply to adults over 65",
+          "It has no relevance to their future participation in society",
+          "Only elected officials need to understand these concepts",
+          "It helps them participate thoughtfully and responsibly in society"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+]

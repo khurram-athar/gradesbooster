@@ -1,0 +1,6282 @@
+[
+  {
+    "subject": "English",
+    "number": 1,
+    "title": "Literary Devices and Figurative Language",
+    "questions": [
+      {
+        "q": "What literary device compares two unlike things using like or as?",
+        "options": [
+          "Metaphor",
+          "Hyperbole",
+          "Simile",
+          "Personification"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What literary device compares two unlike things without using like or as?",
+        "options": [
+          "Metaphor",
+          "Simile",
+          "Onomatopoeia",
+          "Alliteration"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes giving human qualities to a nonhuman object or idea?",
+        "options": [
+          "Symbolism",
+          "Personification",
+          "Simile",
+          "Irony"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes an extreme exaggeration used for emphasis?",
+        "options": [
+          "Hyperbole",
+          "Understatement",
+          "Litotes",
+          "Metonymy"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What device uses words that imitate the sound they describe?",
+        "options": [
+          "Onomatopoeia",
+          "Assonance",
+          "Consonance",
+          "Alliteration"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the repetition of initial consonant sounds in nearby words called?",
+        "options": [
+          "Assonance",
+          "Rhyme",
+          "Repetition",
+          "Alliteration"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names an object, person, or place standing for something beyond its literal meaning?",
+        "options": [
+          "Allusion",
+          "Symbol",
+          "Motif",
+          "Theme"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an indirect reference to another work, person, or event called?",
+        "options": [
+          "Symbol",
+          "Allusion",
+          "Foreshadowing",
+          "Flashback"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a hint about events that will happen later in a narrative?",
+        "options": [
+          "Foreshadowing",
+          "Flashback",
+          "Irony",
+          "Symbolism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a scene that interrupts the present action to show an earlier event?",
+        "options": [
+          "Foreshadowing",
+          "Frame narrative",
+          "Flashback",
+          "Digression"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when the outcome of a situation is the opposite of what was expected?",
+        "options": [
+          "Verbal irony",
+          "Cosmic irony",
+          "Dramatic irony",
+          "Situational irony"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of irony occurs when the audience knows something a character does not know?",
+        "options": [
+          "Structural irony",
+          "Situational irony",
+          "Dramatic irony",
+          "Verbal irony"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes saying the opposite of what is truly meant?",
+        "options": [
+          "Situational irony",
+          "Verbal irony",
+          "Paradox",
+          "Dramatic irony"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a statement that seems contradictory but reveals a deeper truth?",
+        "options": [
+          "Analogy",
+          "Oxymoron",
+          "Irony",
+          "Paradox"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names a figure of speech combining two contradictory terms, such as deafening silence?",
+        "options": [
+          "Antithesis",
+          "Euphemism",
+          "Oxymoron",
+          "Paradox"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 2,
+    "title": "Poetic Forms and Meter",
+    "questions": [
+      {
+        "q": "How many lines does a traditional sonnet contain?",
+        "options": [
+          "Sixteen",
+          "Fourteen",
+          "Ten",
+          "Twelve"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a unit of rhythm made of a stressed and unstressed syllable pattern?",
+        "options": [
+          "Verse",
+          "Stanza",
+          "Foot",
+          "Line"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What metrical foot consists of one unstressed syllable followed by one stressed syllable?",
+        "options": [
+          "Dactyl",
+          "Iamb",
+          "Trochee",
+          "Anapest"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What metrical foot consists of one stressed syllable followed by one unstressed syllable?",
+        "options": [
+          "Iamb",
+          "Anapest",
+          "Spondee",
+          "Trochee"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a line of poetry with five metrical feet?",
+        "options": [
+          "Trimeter",
+          "Pentameter",
+          "Hexameter",
+          "Tetrameter"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for unrhymed lines written in iambic pentameter?",
+        "options": [
+          "Blank verse",
+          "Free verse",
+          "Heroic couplet",
+          "Ballad meter"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is poetry without a fixed meter or rhyme scheme called?",
+        "options": [
+          "Free verse",
+          "Villanelle",
+          "Sonnet",
+          "Blank verse"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What Italian sonnet form divides into an octave and a sestet?",
+        "options": [
+          "Spenserian sonnet",
+          "Shakespearean sonnet",
+          "Petrarchan sonnet",
+          "Miltonic sonnet"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What sonnet form organizes into three quatrains and a closing couplet?",
+        "options": [
+          "Petrarchan sonnet",
+          "Italian sonnet",
+          "Free verse sonnet",
+          "Shakespearean sonnet"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What nineteen-line form uses two repeating refrains across five tercets and a closing quatrain?",
+        "options": [
+          "Sestina",
+          "Villanelle",
+          "Ballad",
+          "Sonnet"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a group of lines forming a unit within a poem, similar to a paragraph?",
+        "options": [
+          "Foot",
+          "Canto",
+          "Refrain",
+          "Stanza"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names a line repeated at intervals throughout a poem, often at the end of a stanza?",
+        "options": [
+          "Meter",
+          "Enjambment",
+          "Refrain",
+          "Stanza"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a sentence or phrase continuing past the end of a line with no pause?",
+        "options": [
+          "Enjambment",
+          "Caesura",
+          "End-stopped line",
+          "Refrain"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a pause occurring in the middle of a line of poetry?",
+        "options": [
+          "Enjambment",
+          "Stanza break",
+          "Caesura",
+          "Refrain"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What narrative poem form tells a story, often with a repeated refrain and simple rhyme scheme?",
+        "options": [
+          "Ballad",
+          "Epic",
+          "Elegy",
+          "Ode"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 3,
+    "title": "Elements of Fiction: Plot and Structure",
+    "questions": [
+      {
+        "q": "What term names the introductory part of a plot that establishes setting and characters?",
+        "options": [
+          "Resolution",
+          "Exposition",
+          "Rising action",
+          "Climax"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names the section of a plot where tension builds toward the turning point?",
+        "options": [
+          "Rising action",
+          "Denouement",
+          "Falling action",
+          "Exposition"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the highest point of tension or the turning point in a plot?",
+        "options": [
+          "Exposition",
+          "Climax",
+          "Rising action",
+          "Resolution"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names the events that occur after the climax as tension decreases?",
+        "options": [
+          "Climax",
+          "Exposition",
+          "Falling action",
+          "Rising action"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the final resolution of a plot where loose ends are tied together?",
+        "options": [
+          "Denouement",
+          "Inciting incident",
+          "Climax",
+          "Exposition"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the event that sets the main conflict of a story into motion?",
+        "options": [
+          "Climax",
+          "Inciting incident",
+          "Falling action",
+          "Denouement"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a struggle between opposing forces that drives a narrative?",
+        "options": [
+          "Conflict",
+          "Motif",
+          "Theme",
+          "Setting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of conflict involves a character struggling against another character?",
+        "options": [
+          "Character versus nature",
+          "Character versus society",
+          "Character versus character",
+          "Character versus self"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of conflict involves a character struggling with their own doubts or emotions?",
+        "options": [
+          "Character versus fate",
+          "Character versus character",
+          "Character versus society",
+          "Character versus self"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the time and place in which a story occurs?",
+        "options": [
+          "Plot",
+          "Setting",
+          "Tone",
+          "Theme"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names the central message or underlying idea of a literary work?",
+        "options": [
+          "Motif",
+          "Setting",
+          "Theme",
+          "Plot"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names a recurring element or idea that supports the central theme of a work?",
+        "options": [
+          "Theme",
+          "Allusion",
+          "Motif",
+          "Symbol"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the order in which events of a story are presented to the reader?",
+        "options": [
+          "Narrative structure",
+          "Tone",
+          "Point of view",
+          "Diction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a plot structure that begins in the middle of the action?",
+        "options": [
+          "Chronological structure",
+          "Denouement",
+          "Frame narrative",
+          "In medias res"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names a story contained within another story?",
+        "options": [
+          "Flashback",
+          "Subplot",
+          "In medias res",
+          "Frame narrative"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 4,
+    "title": "Characterization and Point of View",
+    "questions": [
+      {
+        "q": "What term describes a character who undergoes significant internal change during a story?",
+        "options": [
+          "Static character",
+          "Dynamic character",
+          "Flat character",
+          "Foil"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a character who remains essentially unchanged throughout a story?",
+        "options": [
+          "Static character",
+          "Antagonist",
+          "Round character",
+          "Dynamic character"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a character with complex, multifaceted traits and motivations?",
+        "options": [
+          "Round character",
+          "Static character",
+          "Flat character",
+          "Stock character"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a character defined by one or two simple traits with little depth?",
+        "options": [
+          "Dynamic character",
+          "Protagonist",
+          "Flat character",
+          "Round character"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names a character whose traits contrast with another character to highlight qualities?",
+        "options": [
+          "Narrator",
+          "Stock character",
+          "Foil",
+          "Antagonist"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the main character around whom a story centres?",
+        "options": [
+          "Protagonist",
+          "Narrator",
+          "Antagonist",
+          "Foil"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the character or force that opposes the main character?",
+        "options": [
+          "Protagonist",
+          "Confidant",
+          "Antagonist",
+          "Foil"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What point of view uses pronouns such as I and we to narrate events?",
+        "options": [
+          "Third person limited",
+          "Third person omniscient",
+          "Second person point of view",
+          "First person point of view"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What point of view allows the narrator to know the thoughts of every character?",
+        "options": [
+          "Third person omniscient",
+          "Third person limited",
+          "Second person",
+          "First person"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What point of view restricts the narrator to the thoughts of a single character?",
+        "options": [
+          "Third person omniscient",
+          "Second person",
+          "Third person limited",
+          "First person"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a narrator whose account of events cannot be fully trusted?",
+        "options": [
+          "Objective narrator",
+          "Unreliable narrator",
+          "Reliable narrator",
+          "Omniscient narrator"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes revealing character through direct statements by the narrator?",
+        "options": [
+          "Foil",
+          "Motif",
+          "Indirect characterization",
+          "Direct characterization"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes revealing character through actions, dialogue, and thoughts rather than direct statement?",
+        "options": [
+          "Direct characterization",
+          "Indirect characterization",
+          "Denouement",
+          "Exposition"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a minor character in whom the protagonist confides?",
+        "options": [
+          "Antagonist",
+          "Narrator",
+          "Foil",
+          "Confidant"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes an author choice of words and their connotations in a text?",
+        "options": [
+          "Tone",
+          "Diction",
+          "Style",
+          "Syntax"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 5,
+    "title": "Literary Theory and Critical Lenses",
+    "questions": [
+      {
+        "q": "What critical lens examines a text through the lived experience and social roles of women?",
+        "options": [
+          "Formalist criticism",
+          "Feminist criticism",
+          "Marxist criticism",
+          "Postcolonial criticism"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What critical lens focuses on class struggle and economic power within a text?",
+        "options": [
+          "Marxist criticism",
+          "New historicism",
+          "Feminist criticism",
+          "Psychoanalytic criticism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What critical lens examines the legacy of colonization and its effects on identity and culture?",
+        "options": [
+          "Postcolonial criticism",
+          "Marxist criticism",
+          "Reader-response criticism",
+          "Feminist criticism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What critical lens applies psychological concepts such as the unconscious to interpret character and motive?",
+        "options": [
+          "New criticism",
+          "Formalist criticism",
+          "Psychoanalytic criticism",
+          "Marxist criticism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What critical lens focuses closely on the words, structure, and form of a text itself?",
+        "options": [
+          "Formalist criticism",
+          "New historicism",
+          "Postcolonial criticism",
+          "Reader-response criticism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What critical lens argues that meaning is created through the interaction between text and reader?",
+        "options": [
+          "Structuralism",
+          "New criticism",
+          "Reader-response criticism",
+          "Formalist criticism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What critical lens situates a text within the social and historical conditions of its production?",
+        "options": [
+          "Structuralism",
+          "Formalist criticism",
+          "New historicism",
+          "Deconstruction"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What critical lens focuses on underlying binary structures and systems of meaning within a text?",
+        "options": [
+          "Postcolonial criticism",
+          "Formalism",
+          "Deconstruction",
+          "Structuralism"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What critical lens seeks to expose contradictions and unstable meanings within a text?",
+        "options": [
+          "Deconstruction",
+          "Reader-response criticism",
+          "Structuralism",
+          "New criticism"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What critical lens examines representation of the natural world and human relationships to environment?",
+        "options": [
+          "Ecofeminism",
+          "Ecocriticism",
+          "Marxist criticism",
+          "Postcolonial criticism"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What critical lens combines environmental concern with attention to gender?",
+        "options": [
+          "Ecocriticism",
+          "Ecofeminism",
+          "Marxist criticism",
+          "Feminist criticism"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What critical lens examines representation and identity through the lens of race and racial power?",
+        "options": [
+          "Postcolonial criticism",
+          "New historicism",
+          "Critical race theory",
+          "Marxist criticism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What critical lens focuses on the representation of sexuality and challenges to fixed identity categories?",
+        "options": [
+          "Feminist criticism",
+          "Psychoanalytic criticism",
+          "Structuralism",
+          "Queer theory"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What critical approach close reads a text in isolation without regard to historical or biographical context?",
+        "options": [
+          "New historicism",
+          "Postcolonial criticism",
+          "Reader-response criticism",
+          "New criticism"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes applying more than one critical lens together to interpret a single text?",
+        "options": [
+          "Deconstruction",
+          "Eclectic criticism",
+          "Structuralism",
+          "Formalist criticism"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 6,
+    "title": "Rhetoric and Persuasive Techniques",
+    "questions": [
+      {
+        "q": "What rhetorical appeal relies on the credibility and character of the speaker?",
+        "options": [
+          "Kairos",
+          "Pathos",
+          "Logos",
+          "Ethos"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What rhetorical appeal relies on emotional response from the audience?",
+        "options": [
+          "Antithesis",
+          "Pathos",
+          "Logos",
+          "Ethos"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What rhetorical appeal relies on logic and reasoned argument?",
+        "options": [
+          "Logos",
+          "Pathos",
+          "Ethos",
+          "Kairos"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the sense of timing or opportune moment in a persuasive argument?",
+        "options": [
+          "Kairos",
+          "Pathos",
+          "Ethos",
+          "Logos"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names an argument that draws a general conclusion from specific examples?",
+        "options": [
+          "Inductive reasoning",
+          "Analogical reasoning",
+          "Deductive reasoning",
+          "Circular reasoning"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names an argument that applies a general principle to reach a specific conclusion?",
+        "options": [
+          "Rhetorical question",
+          "Deductive reasoning",
+          "Inductive reasoning",
+          "Fallacious reasoning"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a flawed piece of reasoning that undermines the logic of an argument?",
+        "options": [
+          "Syllogism",
+          "Rhetorical question",
+          "Logical fallacy",
+          "Antithesis"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What fallacy attacks the character of an opponent rather than addressing their argument?",
+        "options": [
+          "Slippery slope",
+          "Ad hominem",
+          "Straw man",
+          "False dilemma"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What fallacy misrepresents an opponent argument in order to more easily refute it?",
+        "options": [
+          "Bandwagon",
+          "False dilemma",
+          "Straw man",
+          "Ad hominem"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What fallacy presents only two options when more possibilities actually exist?",
+        "options": [
+          "Ad hominem",
+          "False dilemma",
+          "Straw man",
+          "Slippery slope"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What fallacy claims one small step will inevitably lead to a chain of negative events?",
+        "options": [
+          "Straw man",
+          "False dilemma",
+          "Bandwagon",
+          "Slippery slope"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names a question asked for effect rather than to receive an answer?",
+        "options": [
+          "Rhetorical question",
+          "Syllogism",
+          "Antithesis",
+          "Logical fallacy"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes placing two contrasting ideas in balanced opposition for emphasis?",
+        "options": [
+          "Repetition",
+          "Analogy",
+          "Antithesis",
+          "Parallelism"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes repeating grammatical structure across a series of phrases or clauses?",
+        "options": [
+          "Anaphora",
+          "Antithesis",
+          "Repetition",
+          "Parallelism"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes repeating the same word or phrase at the beginning of successive clauses?",
+        "options": [
+          "Antithesis",
+          "Parallelism",
+          "Anaphora",
+          "Epistrophe"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 7,
+    "title": "Drama and Theatrical Conventions",
+    "questions": [
+      {
+        "q": "What term names a speech delivered by a character alone on stage revealing inner thoughts?",
+        "options": [
+          "Soliloquy",
+          "Aside",
+          "Dialogue",
+          "Monologue"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names a speech delivered by one character to others, without interruption?",
+        "options": [
+          "Aside",
+          "Monologue",
+          "Chorus",
+          "Soliloquy"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a remark made directly to the audience that other characters do not hear?",
+        "options": [
+          "Soliloquy",
+          "Aside",
+          "Monologue",
+          "Prologue"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a tragic flaw or error in judgment that leads to a heros downfall?",
+        "options": [
+          "Peripeteia",
+          "Catharsis",
+          "Hubris",
+          "Hamartia"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names excessive pride that often leads a tragic hero toward downfall?",
+        "options": [
+          "Catharsis",
+          "Hamartia",
+          "Anagnorisis",
+          "Hubris"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the emotional release an audience experiences at the end of a tragedy?",
+        "options": [
+          "Hamartia",
+          "Peripeteia",
+          "Hubris",
+          "Catharsis"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the moment of reversal of fortune in a dramatic plot?",
+        "options": [
+          "Catharsis",
+          "Hubris",
+          "Peripeteia",
+          "Anagnorisis"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the moment of critical discovery or recognition by the protagonist?",
+        "options": [
+          "Catharsis",
+          "Hamartia",
+          "Anagnorisis",
+          "Peripeteia"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What Renaissance courtly form combined dance, music, costume, and allegorical poetry for a single occasion?",
+        "options": [
+          "Closet drama",
+          "Revenge tragedy",
+          "Masque",
+          "Morality play"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What early dramatic form staged an allegorical struggle between virtue and vice for moral instruction?",
+        "options": [
+          "Morality play",
+          "Masque",
+          "Revenge tragedy",
+          "Closet drama"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names a play written to be read rather than performed on stage?",
+        "options": [
+          "Melodrama",
+          "Morality play",
+          "Closet drama",
+          "Masque"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What genre of drama centres on a protagonist seeking vengeance for a past wrong?",
+        "options": [
+          "Revenge tragedy",
+          "Morality play",
+          "Comedy of manners",
+          "Masque"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names a group of performers who comment on the action in classical drama?",
+        "options": [
+          "Cast",
+          "Chorus",
+          "Ensemble",
+          "Troupe"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the physical movement and positioning of actors on stage?",
+        "options": [
+          "Blocking",
+          "Choreography",
+          "Staging directions",
+          "Set design"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names written instructions in a script describing action, setting, or delivery?",
+        "options": [
+          "Chorus",
+          "Stage directions",
+          "Blocking",
+          "Prologue"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 8,
+    "title": "Nonfiction and the Essay Form",
+    "questions": [
+      {
+        "q": "What term names a brief nonfiction composition exploring a single subject from a personal viewpoint?",
+        "options": [
+          "Novella",
+          "Essay",
+          "Biography",
+          "Memoir"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a nonfiction account of a specific period or aspect of a life, written by the subject?",
+        "options": [
+          "Autobiography",
+          "Essay",
+          "Memoir",
+          "Biography"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names a full account of a life written by another person?",
+        "options": [
+          "Memoir",
+          "Essay",
+          "Biography",
+          "Autobiography"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names an account of a life written by the subject about their entire life?",
+        "options": [
+          "Biography",
+          "Autobiography",
+          "Memoir",
+          "Essay"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What essay type aims mainly to explain a process or provide information to the reader?",
+        "options": [
+          "Descriptive essay",
+          "Narrative essay",
+          "Persuasive essay",
+          "Expository essay"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What essay type aims mainly to convince the reader of a particular position?",
+        "options": [
+          "Expository essay",
+          "Narrative essay",
+          "Persuasive essay",
+          "Reflective essay"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What essay type tells a true story from the writer own experience?",
+        "options": [
+          "Persuasive essay",
+          "Expository essay",
+          "Narrative essay",
+          "Descriptive essay"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What essay type creates a vivid sensory picture of a person, place, or object?",
+        "options": [
+          "Descriptive essay",
+          "Expository essay",
+          "Argumentative essay",
+          "Narrative essay"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes an essay that examines similarities and differences between two subjects?",
+        "options": [
+          "Definition essay",
+          "Process essay",
+          "Cause and effect essay",
+          "Compare and contrast essay"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes an essay that explains why something happens and what results follow?",
+        "options": [
+          "Cause and effect essay",
+          "Narrative essay",
+          "Definition essay",
+          "Compare and contrast essay"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the central position or claim an argumentative essay sets out to prove?",
+        "options": [
+          "Thesis statement",
+          "Topic sentence",
+          "Conclusion",
+          "Hook"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the opening sentence or device meant to capture reader interest?",
+        "options": [
+          "Transition",
+          "Thesis statement",
+          "Topic sentence",
+          "Hook"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the sentence introducing the main idea of a body paragraph?",
+        "options": [
+          "Topic sentence",
+          "Hook",
+          "Thesis statement",
+          "Conclusion"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes evidence a writer gathers from personal observation or experiment?",
+        "options": [
+          "Citation",
+          "Primary source",
+          "Tertiary source",
+          "Secondary source"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a source that interprets or analyzes information from primary sources?",
+        "options": [
+          "Tertiary source",
+          "Secondary source",
+          "Bibliography",
+          "Primary source"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 9,
+    "title": "Media Literacy and Visual Texts",
+    "questions": [
+      {
+        "q": "What term describes the intended group of viewers, readers, or listeners for a text?",
+        "options": [
+          "Protagonist",
+          "Narrator",
+          "Critic",
+          "Target audience"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the underlying commercial or persuasive intent behind an advertisement?",
+        "options": [
+          "Diction",
+          "Tone",
+          "Purpose",
+          "Genre"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the overall attitude a text conveys toward its subject?",
+        "options": [
+          "Tone",
+          "Mood",
+          "Purpose",
+          "Style"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the emotional atmosphere a text creates for its audience?",
+        "options": [
+          "Mood",
+          "Purpose",
+          "Theme",
+          "Tone"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What science fiction subgenre combines advanced technology with a gritty corporate urban setting?",
+        "options": [
+          "Space opera",
+          "Cyberpunk",
+          "Steampunk",
+          "Climate fiction"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What subgenre of speculative fiction centres on near-future consequences of environmental change?",
+        "options": [
+          "Space opera",
+          "Cyberpunk",
+          "Climate fiction",
+          "Dystopian fiction"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What audio storytelling form tells a complete story using only sound and no visuals, common in early broadcasting?",
+        "options": [
+          "Podcast",
+          "Radio drama",
+          "Documentary film",
+          "Video essay"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What contemporary audiovisual form uses narration, footage, and editing to build an analytical argument?",
+        "options": [
+          "Radio drama",
+          "Video essay",
+          "Vlog",
+          "Podcast"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a series of episodic audio recordings distributed for on-demand digital listening?",
+        "options": [
+          "Podcast",
+          "Radio drama",
+          "Video essay",
+          "Webcast"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the specific angle and distance from which a camera frames a shot?",
+        "options": [
+          "Editing",
+          "Mise en scene",
+          "Camera angle",
+          "Voiceover"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names all the visual elements arranged within a single film frame?",
+        "options": [
+          "Montage",
+          "Soundtrack",
+          "Mise en scene",
+          "Camera angle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the technique of assembling separate shots into a sequence during production?",
+        "options": [
+          "Mise en scene",
+          "Camera angle",
+          "Framing",
+          "Editing"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names spoken narration heard over footage without the speaker appearing on screen?",
+        "options": [
+          "Dialogue",
+          "Aside",
+          "Soundtrack",
+          "Voiceover"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes how a visual text is designed to influence viewer perception or opinion?",
+        "options": [
+          "Genre",
+          "Bias",
+          "Format",
+          "Layout"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes evaluating the credibility, purpose, and reliability of a media source?",
+        "options": [
+          "Media literacy",
+          "Genre analysis",
+          "Media production",
+          "Media distribution"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "number": 10,
+    "title": "The Writing Process and Style",
+    "questions": [
+      {
+        "q": "What stage of the writing process involves gathering ideas before drafting begins?",
+        "options": [
+          "Editing",
+          "Drafting",
+          "Prewriting",
+          "Revising"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What stage of the writing process involves producing a first full version of the text?",
+        "options": [
+          "Drafting",
+          "Publishing",
+          "Revising",
+          "Prewriting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What stage of the writing process focuses on improving organization, content, and clarity?",
+        "options": [
+          "Revising",
+          "Editing",
+          "Drafting",
+          "Proofreading"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What stage of the writing process focuses on correcting grammar, spelling, and punctuation?",
+        "options": [
+          "Editing",
+          "Drafting",
+          "Revising",
+          "Prewriting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names the arrangement of words into phrases, clauses, and sentences?",
+        "options": [
+          "Tone",
+          "Syntax",
+          "Voice",
+          "Diction"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the distinctive way an author combines diction, syntax, and tone?",
+        "options": [
+          "Form",
+          "Structure",
+          "Genre",
+          "Style"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the personality or attitude that comes through in a piece of writing?",
+        "options": [
+          "Diction",
+          "Voice",
+          "Style",
+          "Tone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names a sentence combining an independent clause with at least one dependent clause?",
+        "options": [
+          "Compound sentence",
+          "Simple sentence",
+          "Complex sentence",
+          "Fragment"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names a sentence joining two independent clauses with a coordinating conjunction?",
+        "options": [
+          "Run-on sentence",
+          "Compound sentence",
+          "Simple sentence",
+          "Complex sentence"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term names an incomplete sentence lacking a subject, verb, or complete thought?",
+        "options": [
+          "Compound sentence",
+          "Complex sentence",
+          "Run-on sentence",
+          "Sentence fragment"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names two or more independent clauses joined without proper punctuation or conjunction?",
+        "options": [
+          "Compound sentence",
+          "Complex sentence",
+          "Run-on sentence",
+          "Sentence fragment"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a word or phrase used in place of a more explicit or unpleasant expression?",
+        "options": [
+          "Euphemism",
+          "Hyperbole",
+          "Understatement",
+          "Oxymoron"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes deliberately expressing an idea as less significant than it really is?",
+        "options": [
+          "Euphemism",
+          "Irony",
+          "Hyperbole",
+          "Understatement"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the process of reviewing a final draft for surface errors before submission?",
+        "options": [
+          "Drafting",
+          "Proofreading",
+          "Revising",
+          "Editing"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes writing intended to be read aloud with careful attention to rhythm and sound?",
+        "options": [
+          "Academic style",
+          "Formal style",
+          "Oral style",
+          "Technical style"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 1,
+    "title": "Polynomial Functions and End Behaviour",
+    "questions": [
+      {
+        "q": "What is the degree of the polynomial f(x) = 3x^5 - 2x^3 + x - 7?",
+        "options": [
+          "7",
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the leading coefficient of f(x) = -4x^6 + 2x^2 - 1?",
+        "options": [
+          "-1",
+          "4",
+          "-4",
+          "2"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "For a polynomial of odd degree with positive leading coefficient, what is the end behaviour?",
+        "options": [
+          "Up on both ends",
+          "Down to the left and up to the right",
+          "Up to the left and down to the right",
+          "Down on both ends"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "For a polynomial of even degree with negative leading coefficient, what is the end behaviour?",
+        "options": [
+          "Down on the left and up on the right",
+          "Down on both ends",
+          "Up on the left and down on the right",
+          "Up on both ends"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the maximum number of turning points a degree n polynomial can have?",
+        "options": [
+          "n plus one",
+          "n",
+          "Two n",
+          "n minus one"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the maximum number of real zeros a degree n polynomial can have?",
+        "options": [
+          "n plus one",
+          "n minus one",
+          "n",
+          "Two n"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If a polynomial function has a zero of even multiplicity at x = a, how does the graph behave there?",
+        "options": [
+          "It crosses the x axis",
+          "It touches the x axis and turns around",
+          "It has a vertical asymptote",
+          "It has a hole"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If a polynomial function has a zero of odd multiplicity at x = a, how does the graph behave there?",
+        "options": [
+          "It touches the x axis and turns around",
+          "It is undefined there",
+          "It approaches an asymptote",
+          "It crosses the x axis"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a polynomial function written as a product of its factors?",
+        "options": [
+          "Standard form",
+          "Vertex form",
+          "Factored form",
+          "Expanded form"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the y-intercept of f(x) = 2x^3 - 5x^2 + 4?",
+        "options": [
+          "4",
+          "-5",
+          "0",
+          "2"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What family name describes a degree 2 polynomial function?",
+        "options": [
+          "Quadratic function",
+          "Linear function",
+          "Quartic function",
+          "Cubic function"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What family name describes a degree 3 polynomial function?",
+        "options": [
+          "Quadratic function",
+          "Quartic function",
+          "Cubic function",
+          "Linear function"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What family name describes a degree 4 polynomial function?",
+        "options": [
+          "Quartic function",
+          "Quadratic function",
+          "Quintic function",
+          "Cubic function"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the domain of every polynomial function?",
+        "options": [
+          "All real numbers",
+          "All positive real numbers",
+          "All integers",
+          "All nonzero real numbers"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What tool uses sign changes in a table of values to estimate real zero locations of a polynomial?",
+        "options": [
+          "Remainder theorem",
+          "Location theorem",
+          "Change of base formula",
+          "Factor theorem"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 2,
+    "title": "Factor Theorem and Polynomial Division",
+    "questions": [
+      {
+        "q": "What theorem states that x minus a is a factor of P(x) if and only if P(a) equals zero?",
+        "options": [
+          "Factor theorem",
+          "Location theorem",
+          "Remainder theorem",
+          "Rational root theorem"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What theorem states that the remainder of P(x) divided by x minus a equals P(a)?",
+        "options": [
+          "Binomial theorem",
+          "Location theorem",
+          "Factor theorem",
+          "Remainder theorem"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What method divides a polynomial by a linear binomial using only coefficients?",
+        "options": [
+          "Factoring by grouping",
+          "Long division",
+          "Synthetic division",
+          "Completing the square"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "When dividing a polynomial by a linear divisor, what is the degree of the remainder at most?",
+        "options": [
+          "One",
+          "Zero",
+          "Two",
+          "Equal to the divisor degree"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the remainder when P(x) = x^3 - 2x^2 + x - 5 is divided by x - 1?",
+        "options": [
+          "-3",
+          "5",
+          "-5",
+          "0"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "According to the rational root theorem, possible rational roots of a polynomial are ratios of what?",
+        "options": [
+          "The degree over the leading coefficient",
+          "Factors of the leading coefficient over the constant term",
+          "Factors of the constant term over factors of the leading coefficient",
+          "The sum of coefficients over the degree"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the result of dividing a polynomial P(x) by one of its factors called?",
+        "options": [
+          "Quotient",
+          "Remainder",
+          "Dividend",
+          "Divisor"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If P(x) divided by x - 2 gives remainder zero, what conclusion follows?",
+        "options": [
+          "x minus 2 is not a factor of P(x)",
+          "P(x) has no real roots",
+          "P(2) is undefined",
+          "x minus 2 is a factor of P(x)"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What technique factors a polynomial by pairing terms and pulling out common factors?",
+        "options": [
+          "Synthetic division",
+          "Factoring by grouping",
+          "Difference of squares",
+          "Completing the square"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What special factoring pattern applies to a cubed minus b cubed?",
+        "options": [
+          "Difference of cubes",
+          "Perfect square trinomial",
+          "Sum of cubes",
+          "Difference of squares"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What special factoring pattern applies to a cubed plus b cubed?",
+        "options": [
+          "Sum of cubes",
+          "Perfect square trinomial",
+          "Difference of cubes",
+          "Difference of squares"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a value of x that makes a polynomial equal to zero?",
+        "options": [
+          "Asymptote",
+          "Zero or root",
+          "Leading coefficient",
+          "Y intercept"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How many times must the factor theorem be applied to fully factor a cubic with three distinct rational roots?",
+        "options": [
+          "Four times",
+          "Three times",
+          "Once",
+          "Twice"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the quotient when x^2 - 9 is divided by x - 3?",
+        "options": [
+          "x + 9",
+          "x - 3",
+          "x + 3",
+          "x - 9"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names an equation set equal to zero and solved to find a function zeros?",
+        "options": [
+          "Polynomial inequality",
+          "Rational equation",
+          "Polynomial identity",
+          "Polynomial equation"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 3,
+    "title": "Rational Functions and Asymptotes",
+    "questions": [
+      {
+        "q": "What is a rational function defined as?",
+        "options": [
+          "A quotient of two polynomial functions",
+          "A polynomial with irrational coefficients",
+          "A sum of two polynomial functions",
+          "A product of two exponential functions"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "A vertical asymptote of a rational function occurs where",
+        "options": [
+          "The function reaches its maximum",
+          "Both numerator and denominator equal zero",
+          "The denominator equals zero and the numerator does not",
+          "The numerator equals zero"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What occurs at an x value where both numerator and denominator equal zero, after common factors are cancelled?",
+        "options": [
+          "A vertical asymptote",
+          "An oblique asymptote",
+          "A hole in the graph",
+          "A horizontal asymptote"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If the degree of the numerator is less than the degree of the denominator, what is the horizontal asymptote?",
+        "options": [
+          "y = 1",
+          "y = 0",
+          "There is no horizontal asymptote",
+          "x = 0"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If the degree of numerator equals degree of denominator, how is the horizontal asymptote found?",
+        "options": [
+          "Degree of the denominator",
+          "Sum of all coefficients",
+          "Ratio of the constant terms",
+          "Ratio of the leading coefficients"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If the degree of the numerator is exactly one more than the denominator, what type of asymptote results?",
+        "options": [
+          "Oblique asymptote",
+          "No asymptote",
+          "Vertical asymptote",
+          "Horizontal asymptote"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term names a rational function value that the graph approaches but never reaches?",
+        "options": [
+          "Zero",
+          "Hole",
+          "Intercept",
+          "Asymptote"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the domain restriction of f(x) = 1 over (x - 4)?",
+        "options": [
+          "x cannot equal -4",
+          "x cannot equal 4",
+          "x can be any real number",
+          "x cannot equal 0"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the vertical asymptote of f(x) = 3 over (x + 5)?",
+        "options": [
+          "x = 3",
+          "x = 5",
+          "x = -5",
+          "x = 0"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the horizontal asymptote of f(x) = (2x + 1) over (x - 3)?",
+        "options": [
+          "y = 1",
+          "y = -3",
+          "y = 2",
+          "y = 3"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes behaviour of a graph as x approaches positive or negative infinity?",
+        "options": [
+          "End behaviour",
+          "Local behaviour",
+          "Point of discontinuity",
+          "Concavity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "A rational function graph with a point of discontinuity but no vertical asymptote at that point has what feature?",
+        "options": [
+          "A horizontal asymptote",
+          "A removable hole",
+          "A jump discontinuity",
+          "An oblique asymptote"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must be true for a rational function to have no vertical asymptotes at all?",
+        "options": [
+          "The numerator has no real zeros",
+          "The denominator has no real zeros",
+          "The function is undefined everywhere",
+          "The degree of numerator exceeds denominator"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the y-intercept found by evaluating in a rational function?",
+        "options": [
+          "The function value at x = 1",
+          "The horizontal asymptote location",
+          "The vertical asymptote location",
+          "The function value at x = 0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What describes the reciprocal of a linear function, such as f(x) = 1 over x?",
+        "options": [
+          "A rational function with one vertical and one horizontal asymptote",
+          "A quadratic function opening upward",
+          "A polynomial function with one zero",
+          "An exponential function with one asymptote"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 4,
+    "title": "Exponential Functions and Growth",
+    "questions": [
+      {
+        "q": "What is the general form of an exponential function?",
+        "options": [
+          "f(x) = a over x",
+          "f(x) = a times b to the power x",
+          "f(x) = a x plus b",
+          "f(x) = a x squared plus b x plus c"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In f(x) = a b^x, what condition on b produces exponential growth?",
+        "options": [
+          "b is greater than one",
+          "b is between zero and one",
+          "b equals one",
+          "b is negative"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In f(x) = a b^x, what condition on b produces exponential decay?",
+        "options": [
+          "b is greater than one",
+          "b equals zero",
+          "b is negative",
+          "b is between zero and one, and positive"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the horizontal asymptote of a basic exponential function f(x) = b^x?",
+        "options": [
+          "There is no asymptote",
+          "x = 0",
+          "y = 1",
+          "y = 0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the y-intercept of f(x) = 5 times 2^x?",
+        "options": [
+          "5",
+          "0",
+          "2",
+          "10"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the constant ratio between consecutive equally spaced outputs of an exponential function?",
+        "options": [
+          "Slope",
+          "Common ratio",
+          "Common difference",
+          "Rate of change"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What irrational number is commonly used as the base for continuous growth models?",
+        "options": [
+          "e, Eulers number",
+          "The square root of two",
+          "The golden ratio",
+          "Pi"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula models continuous exponential growth of an initial amount P at rate r over time t?",
+        "options": [
+          "A = P times (1 plus rt)",
+          "A = P e to the power rt",
+          "A = P plus rt",
+          "A = P times r times t"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the variable P represent in an exponential growth model A = P e to the power rt?",
+        "options": [
+          "The time elapsed",
+          "The growth rate",
+          "The initial amount",
+          "The final amount"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What happens to the graph of an exponential decay function as x increases without bound?",
+        "options": [
+          "It becomes negative",
+          "It oscillates",
+          "It approaches zero but never reaches it",
+          "It increases without bound"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What transformation does adding a constant k to f(x) = b^x + k apply to the graph?",
+        "options": [
+          "A vertical stretch",
+          "A horizontal shift",
+          "A vertical shift",
+          "A reflection"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What transformation does replacing x with x - h in f(x) = b^(x-h) apply to the graph?",
+        "options": [
+          "A horizontal stretch",
+          "A reflection",
+          "A vertical shift",
+          "A horizontal shift"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is doubling time in an exponential growth context?",
+        "options": [
+          "The time required for a quantity to halve",
+          "The initial value of a quantity",
+          "The time required for a quantity to double in value",
+          "The growth rate itself"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is half-life in an exponential decay context?",
+        "options": [
+          "The time required for a quantity to double",
+          "The time required for a quantity to reduce to half its value",
+          "The total lifespan of a substance",
+          "The decay rate itself"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which real-world situation is best modeled by exponential growth rather than linear growth?",
+        "options": [
+          "Compound interest on an investment",
+          "A car depreciating by a fixed dollar amount each year",
+          "A bathtub draining at a constant rate",
+          "A person walking at constant speed"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 5,
+    "title": "Logarithmic Functions and Properties",
+    "questions": [
+      {
+        "q": "What is the logarithmic form of b^x = y?",
+        "options": [
+          "Log base y of b equals x",
+          "Log base b of y equals x",
+          "Log base x of b equals y",
+          "Log base b of x equals y"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the domain of a basic logarithmic function log base b of x?",
+        "options": [
+          "All real numbers",
+          "x greater than or equal to zero",
+          "x greater than zero",
+          "x not equal to zero"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the vertical asymptote of f(x) = log base b of x?",
+        "options": [
+          "y = 0",
+          "x = 1",
+          "y = 1",
+          "x = 0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of log base b of 1, for any valid base b?",
+        "options": [
+          "1",
+          "Undefined",
+          "0",
+          "b"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of log base b of b?",
+        "options": [
+          "Undefined",
+          "b",
+          "1",
+          "0"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What law of logarithms states that log of xy equals log x plus log y?",
+        "options": [
+          "Power law",
+          "Product law",
+          "Quotient law",
+          "Change of base law"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What law of logarithms states that log of x over y equals log x minus log y?",
+        "options": [
+          "Change of base law",
+          "Product law",
+          "Quotient law",
+          "Power law"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What law of logarithms states that log of x to the power n equals n times log x?",
+        "options": [
+          "Product law",
+          "Change of base law",
+          "Quotient law",
+          "Power law"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What formula converts a logarithm from one base to another?",
+        "options": [
+          "Change of base formula",
+          "Power law",
+          "Product law",
+          "Inverse property"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the relationship between exponential and logarithmic functions with the same base?",
+        "options": [
+          "They are both linear",
+          "They are inverse functions of each other",
+          "They are identical functions",
+          "They are unrelated functions"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a common logarithm, written simply as log(x)?",
+        "options": [
+          "A logarithm with base 10",
+          "A logarithm with base 1",
+          "A logarithm with base e",
+          "A logarithm with base 2"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a natural logarithm, written as ln(x)?",
+        "options": [
+          "A logarithm with base 1",
+          "A logarithm with base e",
+          "A logarithm with base 10",
+          "A logarithm with base 2"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the graph of a logarithmic function compared to its inverse exponential function?",
+        "options": [
+          "A reflection across the x axis",
+          "An identical graph",
+          "A vertical stretch",
+          "A reflection across the line y = x"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is log base b of a negative number undefined for real numbers?",
+        "options": [
+          "No real power of a positive base produces a negative result",
+          "Negative numbers are always undefined in math",
+          "Logarithms only accept even inputs",
+          "The base must be negative"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What real-world scale uses logarithms to measure earthquake magnitude?",
+        "options": [
+          "The Richter scale",
+          "The Fahrenheit scale",
+          "The Kelvin scale",
+          "The Celsius scale"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 6,
+    "title": "Solving Exponential and Logarithmic Equations",
+    "questions": [
+      {
+        "q": "What technique solves 2^x = 8 without logarithms?",
+        "options": [
+          "Taking the square root of both sides",
+          "Rewriting both sides with a common base",
+          "Graphing only",
+          "Cross multiplying"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the solution to 2^x = 8?",
+        "options": [
+          "6",
+          "3",
+          "4",
+          "2"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the first step in solving 3^x = 20 when a common base is not possible?",
+        "options": [
+          "Square both sides",
+          "Divide both sides by 3",
+          "Take the logarithm of both sides",
+          "Add 3 to both sides"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What property allows you to bring the exponent down when solving log equations?",
+        "options": [
+          "The product law of logarithms",
+          "The zero product law",
+          "The quotient law of logarithms",
+          "The power law of logarithms"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What must you check after solving a logarithmic equation?",
+        "options": [
+          "That each solution keeps all logarithm arguments positive",
+          "That each solution is a whole number",
+          "That each solution is negative",
+          "That each solution equals zero"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the solution to log base 2 of x = 5?",
+        "options": [
+          "25",
+          "10",
+          "32",
+          "7"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "The equation log(x) + log(x - 3) = 1 simplifies to x^2 - 3x - 10 = 0. What is the valid solution?",
+        "options": [
+          "3",
+          "5",
+          "-2",
+          "10"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "When solving an exponential equation such as 5^(2x) = 5^(x+3), what can you do given equal bases?",
+        "options": [
+          "Take the square root of each side",
+          "Add the exponents",
+          "Set the exponents equal to each other",
+          "Set the bases equal to each other"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the solution to 5^(2x) = 5^(x+3)?",
+        "options": [
+          "3",
+          "1",
+          "5",
+          "-3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes an equation where the variable appears in the exponent?",
+        "options": [
+          "Polynomial equation",
+          "Rational equation",
+          "Logarithmic equation",
+          "Exponential equation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes an equation where the variable appears inside a logarithm?",
+        "options": [
+          "Logarithmic equation",
+          "Exponential equation",
+          "Radical equation",
+          "Rational equation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What extraneous outcome can arise when solving logarithmic equations by combining logs?",
+        "options": [
+          "A solution that makes a logarithm argument zero or negative",
+          "A solution that is always positive",
+          "A solution that satisfies the original equation exactly",
+          "A solution equal to the base"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What method solves an exponential equation whose bases cannot be matched, using natural log?",
+        "options": [
+          "Taking the square of both sides",
+          "Graphing the equation only",
+          "Taking the natural logarithm of both sides",
+          "Factoring the exponent"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Given log base 4 of 30 is about 2.45, what is the approximate solution to 4^x = 30, rounded to two decimal places?",
+        "options": [
+          "3.00",
+          "2.00",
+          "1.45",
+          "2.45"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the first step in solving log(2x + 1) = log(x + 7)?",
+        "options": [
+          "Exponentiate both sides with base 2",
+          "Set the arguments equal since the logs share the same base",
+          "Square both arguments",
+          "Divide both sides by log"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 7,
+    "title": "Trigonometric Functions and Radian Measure",
+    "questions": [
+      {
+        "q": "What is the radian measure equivalent to 180 degrees?",
+        "options": [
+          "Pi radians",
+          "360 radians",
+          "Pi over two radians",
+          "Two pi radians"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the radian measure equivalent to 90 degrees?",
+        "options": [
+          "Pi over two radians",
+          "Two pi radians",
+          "Pi radians",
+          "Pi over four radians"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the formula to convert degrees to radians?",
+        "options": [
+          "Divide degrees by pi",
+          "Multiply degrees by 180 over pi",
+          "Multiply degrees by two pi",
+          "Multiply degrees by pi over 180"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the period of the basic sine function y = sin(x)?",
+        "options": [
+          "Pi",
+          "Pi over two",
+          "Four pi",
+          "Two pi"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the period of the basic tangent function y = tan(x)?",
+        "options": [
+          "Four pi",
+          "Two pi",
+          "Pi",
+          "Pi over two"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the amplitude of y = 3 sin(x)?",
+        "options": [
+          "3",
+          "6",
+          "9",
+          "1"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the range of the basic cosine function y = cos(x)?",
+        "options": [
+          "All real numbers",
+          "From negative one to one, inclusive",
+          "From negative infinity to infinity",
+          "From zero to one, inclusive"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In the unit circle, what does the y-coordinate of a point at angle theta represent?",
+        "options": [
+          "Cosine of theta",
+          "Sine of theta",
+          "Tangent of theta",
+          "Secant of theta"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In the unit circle, what does the x-coordinate of a point at angle theta represent?",
+        "options": [
+          "Tangent of theta",
+          "Cosecant of theta",
+          "Cosine of theta",
+          "Sine of theta"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of sin(pi over two)?",
+        "options": [
+          "1",
+          "0",
+          "One half",
+          "-1"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of cos(0)?",
+        "options": [
+          "-1",
+          "0",
+          "1",
+          "Undefined"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What transformation does the parameter k in y = sin(kx) apply to the period?",
+        "options": [
+          "It adds k to the period",
+          "It divides the period by k",
+          "It multiplies the period by k",
+          "It has no effect on the period"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a reciprocal trigonometric function of sine?",
+        "options": [
+          "Cotangent",
+          "Cosecant",
+          "Secant",
+          "Cosine"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a reciprocal trigonometric function of cosine?",
+        "options": [
+          "Cosecant",
+          "Sine",
+          "Cotangent",
+          "Secant"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term names the horizontal shift applied to a trigonometric graph?",
+        "options": [
+          "Amplitude",
+          "Period",
+          "Phase shift",
+          "Vertical shift"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 8,
+    "title": "Trigonometric Identities and Equations",
+    "questions": [
+      {
+        "q": "What is the Pythagorean identity relating sine and cosine?",
+        "options": [
+          "Sin squared theta minus cos squared theta equals one",
+          "Sin theta plus cos theta equals one",
+          "Sin squared theta plus cos squared theta equals one",
+          "Sin theta times cos theta equals one"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What identity expresses tan(theta) in terms of sine and cosine?",
+        "options": [
+          "Tan theta equals sin theta over cos theta",
+          "Tan theta equals sin theta times cos theta",
+          "Tan theta equals cos theta over sin theta",
+          "Tan theta equals one over sin theta"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the double angle identity for sin(2 theta)?",
+        "options": [
+          "2 sin theta cos theta",
+          "Sin squared theta minus cos squared theta",
+          "Cos squared theta minus sin squared theta",
+          "2 cos squared theta minus one"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one form of the double angle identity for cos(2 theta)?",
+        "options": [
+          "Sin theta plus cos theta",
+          "Cos squared theta minus sin squared theta",
+          "Sin squared theta minus cos squared theta",
+          "2 sin theta cos theta"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What identity relates cosecant and sine?",
+        "options": [
+          "Cosecant theta equals sine theta",
+          "Cosecant theta equals one over cosine theta",
+          "Cosecant theta equals cosine theta",
+          "Cosecant theta equals one over sine theta"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the sum identity for sin(A + B)?",
+        "options": [
+          "Cos A sin B minus sin A cos B",
+          "Sin A cos B minus cos A sin B",
+          "Cos A cos B minus sin A sin B",
+          "Sin A cos B plus cos A sin B"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the sum identity for cos(A + B)?",
+        "options": [
+          "Sin A sin B minus cos A cos B",
+          "Cos A cos B plus sin A sin B",
+          "Sin A cos B plus cos A sin B",
+          "Cos A cos B minus sin A sin B"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes an equation that is true for all values of the variable within its domain?",
+        "options": [
+          "Identity",
+          "Inequality",
+          "Conditional equation",
+          "Function"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a trigonometric equation that is true only for specific values of the variable?",
+        "options": [
+          "Identity",
+          "Conditional equation",
+          "Asymptote",
+          "Function"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the general approach for solving sin(x) = one half over a full period?",
+        "options": [
+          "Divide both sides by cosine",
+          "Graph only the tangent function",
+          "Find the reference angle and apply symmetry to locate all solutions in the interval",
+          "Square both sides and solve algebraically"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What identity allows sin squared theta to be rewritten using cos(2 theta)?",
+        "options": [
+          "The sum identity",
+          "The power reducing identity",
+          "The reciprocal identity",
+          "The cofunction identity"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the cofunction identity relating sine and cosine?",
+        "options": [
+          "Sin theta equals cos theta",
+          "Sin theta equals cos of (pi over two minus theta)",
+          "Sin theta equals tan of (pi over two minus theta)",
+          "Sin theta equals negative cos theta"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What identity relates cotangent to tangent?",
+        "options": [
+          "Cotangent theta equals one over tangent theta",
+          "Cotangent theta equals sine over cosine",
+          "Cotangent theta equals secant theta",
+          "Cotangent theta equals tangent theta"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "When verifying a trigonometric identity, what is a common first strategy?",
+        "options": [
+          "Substitute a random numeric value only",
+          "Square both sides immediately",
+          "Rewrite every function in terms of sine and cosine",
+          "Cross multiply both sides"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What identity results from dividing the Pythagorean identity by cos squared theta?",
+        "options": [
+          "Sin squared theta plus one equals csc squared theta",
+          "Tan squared theta minus one equals sec squared theta",
+          "Tan squared theta plus one equals sec squared theta",
+          "One plus cot squared theta equals sin squared theta"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 9,
+    "title": "Transformations and Function Combinations",
+    "questions": [
+      {
+        "q": "What transformation does f(x) + k apply to a function graph, for a positive constant k?",
+        "options": [
+          "A horizontal shift left",
+          "A vertical shift downward",
+          "A vertical shift upward",
+          "A horizontal shift right"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What transformation does f(x - h) apply to a function graph, for a positive constant h?",
+        "options": [
+          "A reflection over the x axis",
+          "A horizontal shift to the left",
+          "A vertical shift upward",
+          "A horizontal shift to the right"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What transformation does -f(x) apply to a function graph?",
+        "options": [
+          "A reflection over the x axis",
+          "A vertical stretch",
+          "A horizontal compression",
+          "A reflection over the y axis"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What transformation does f(-x) apply to a function graph?",
+        "options": [
+          "A horizontal shift",
+          "A vertical shift",
+          "A reflection over the y axis",
+          "A reflection over the x axis"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What transformation does a times f(x), where a is greater than one, apply to a function graph?",
+        "options": [
+          "A vertical stretch",
+          "A horizontal compression",
+          "A horizontal stretch",
+          "A vertical compression"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What transformation does f(bx), where b is greater than one, apply to a function graph?",
+        "options": [
+          "A horizontal stretch",
+          "A horizontal compression",
+          "A vertical compression",
+          "A vertical stretch"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What operation on two functions f and g produces (f + g)(x)?",
+        "options": [
+          "f(x) plus g(x)",
+          "f(g(x))",
+          "f(x) divided by g(x)",
+          "f(x) times g(x)"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What operation on two functions f and g produces the composite function f of g of x?",
+        "options": [
+          "f(x) plus g(x)",
+          "f(g(x))",
+          "f(x) times g(x)",
+          "g(f(x)), which always matches f(g(x))"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must be true of the output of g for the composite f(g(x)) to be defined at a point?",
+        "options": [
+          "The output of g must always be positive",
+          "The output of g must equal zero",
+          "The output of g at that point must lie in the domain of f",
+          "The domain of f must be all real numbers"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the domain of a sum function (f + g)(x)?",
+        "options": [
+          "The intersection of the domains of f and g",
+          "The domain of g only",
+          "The union of the domains of f and g",
+          "The domain of f only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is an even function symmetric about?",
+        "options": [
+          "The line y = x",
+          "The y axis",
+          "The origin",
+          "The x axis"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an odd function symmetric about?",
+        "options": [
+          "The y axis",
+          "The line y = x",
+          "The x axis",
+          "The origin"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What test determines whether a function is even, using f(-x)?",
+        "options": [
+          "f(-x) is undefined",
+          "f(-x) equals zero for all x",
+          "f(-x) equals f(x) for all x in the domain",
+          "f(-x) equals negative f(x) for all x in the domain"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What test determines whether a function is odd, using f(-x)?",
+        "options": [
+          "f(-x) equals one",
+          "f(-x) is undefined",
+          "f(-x) equals f(x) for all x in the domain",
+          "f(-x) equals negative f(x) for all x in the domain"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How is the inverse of a function found algebraically?",
+        "options": [
+          "Multiplying the function by negative one",
+          "Swapping x and y and solving for y",
+          "Taking the derivative",
+          "Reflecting only the domain"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "AdvancedFunctions",
+    "number": 10,
+    "title": "Rates of Change and Sequences",
+    "questions": [
+      {
+        "q": "What term describes the average rate of change of a function between two points?",
+        "options": [
+          "The y intercept of the function",
+          "The slope of the tangent line at one point",
+          "The second derivative",
+          "The slope of the secant line connecting the two points"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the instantaneous rate of change of a function at a single point?",
+        "options": [
+          "The slope of the tangent line at that point",
+          "The slope of the secant line between two points",
+          "The domain of the function",
+          "The average value of the function"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula calculates average rate of change between x = a and x = b?",
+        "options": [
+          "f(a) minus f(b), divided by a minus b squared",
+          "f(b) minus f(a), divided by b minus a",
+          "f(b) times f(a), divided by b minus a",
+          "f(b) plus f(a), divided by two"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a list of numbers arranged in a definite order following a rule?",
+        "options": [
+          "Set",
+          "Sequence",
+          "Function",
+          "Series"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the sum of the terms of a sequence?",
+        "options": [
+          "Function",
+          "Series",
+          "Sequence",
+          "Term"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of sequence has a constant difference between consecutive terms?",
+        "options": [
+          "Arithmetic sequence",
+          "Harmonic sequence",
+          "Quadratic sequence",
+          "Geometric sequence"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of sequence has a constant ratio between consecutive terms?",
+        "options": [
+          "Harmonic sequence",
+          "Geometric sequence",
+          "Quadratic sequence",
+          "Arithmetic sequence"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the formula for the general term of an arithmetic sequence with first term a and common difference d?",
+        "options": [
+          "a times (n minus one) plus d squared",
+          "a plus n times d",
+          "a plus (n minus one) times d",
+          "a times d to the power n minus one"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the formula for the general term of a geometric sequence with first term a and common ratio r?",
+        "options": [
+          "a plus r to the power n",
+          "a plus (n minus one) times r",
+          "a times r to the power n minus one",
+          "a times n times r"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the sum of the first n terms of an arithmetic sequence called?",
+        "options": [
+          "Common difference",
+          "Geometric series sum",
+          "Sequence limit",
+          "Arithmetic series sum"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What condition must the common ratio satisfy for an infinite geometric series to converge to a finite sum?",
+        "options": [
+          "The absolute value of the common ratio is less than one",
+          "The common ratio is greater than one",
+          "The common ratio equals one",
+          "The common ratio is negative"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What are finite differences used to identify in a table of values?",
+        "options": [
+          "The base of an exponential function",
+          "The domain of the function",
+          "The degree of the polynomial that models the data",
+          "The amplitude of a trigonometric function"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What indicates that a table of values represents a quadratic function, using finite differences?",
+        "options": [
+          "The second differences are constant",
+          "The ratios are constant",
+          "The first differences are constant",
+          "The third differences are constant"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What indicates that a table of values represents an exponential function, using finite differences?",
+        "options": [
+          "The second differences are constant",
+          "The first differences are constant",
+          "The ratios of consecutive terms are constant",
+          "The third differences are constant"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names the rate of change of a rate of change, describing how quickly the rate of change itself is changing?",
+        "options": [
+          "The average rate of change",
+          "The domain of the function",
+          "The y intercept",
+          "The second derivative, related to concavity"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 1,
+    "title": "Limits and Continuity",
+    "questions": [
+      {
+        "q": "What does the notation lim x approaches a of f(x) represent?",
+        "options": [
+          "The average rate of change near a",
+          "The value that f(x) approaches as x gets close to a",
+          "The derivative of f at x = a",
+          "The value of f(x) exactly at x = a"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What condition must hold for a limit to exist at x = a?",
+        "options": [
+          "The left hand limit and right hand limit must be equal",
+          "The function must be continuous everywhere",
+          "The derivative must exist at a",
+          "The function must be defined at a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of lim x approaches 2 of (x^2 - 4)/(x - 2)?",
+        "options": [
+          "2",
+          "0",
+          "Undefined",
+          "4"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a limit where the function value grows without bound as x approaches a?",
+        "options": [
+          "A one sided limit",
+          "An infinite limit",
+          "A removable limit",
+          "A finite limit"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes evaluating a limit as x approaches positive or negative infinity?",
+        "options": [
+          "An infinite limit",
+          "A removable limit",
+          "A limit at infinity",
+          "A one sided limit"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What three conditions are required for a function to be continuous at x = a?",
+        "options": [
+          "The function is a polynomial",
+          "f(a) is defined, the limit at a exists, and the limit equals f(a)",
+          "f(a) is defined and positive",
+          "The derivative exists at a and is continuous"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of discontinuity occurs when a factor cancels from a rational function, leaving a gap in the graph?",
+        "options": [
+          "Removable discontinuity, or hole",
+          "Jump discontinuity",
+          "Infinite discontinuity",
+          "Oscillating discontinuity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of discontinuity occurs when the left and right limits at a point are different finite values?",
+        "options": [
+          "Essential discontinuity",
+          "Removable discontinuity",
+          "Infinite discontinuity",
+          "Jump discontinuity"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of discontinuity occurs at a vertical asymptote?",
+        "options": [
+          "Removable discontinuity",
+          "Jump discontinuity",
+          "Infinite discontinuity",
+          "Oscillating discontinuity"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What algebraic technique is often used to evaluate a limit that initially gives zero over zero?",
+        "options": [
+          "Factoring and cancelling common factors",
+          "Adding the same constant to numerator and denominator",
+          "Graphing only",
+          "Taking the square root of both sides"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of lim x approaches 0 of sin(x)/x?",
+        "options": [
+          "0",
+          "Undefined",
+          "1",
+          "Infinity"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of lim x approaches infinity of 1/x?",
+        "options": [
+          "Undefined",
+          "Infinity",
+          "1",
+          "0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a limit that must be evaluated separately from the left and from the right?",
+        "options": [
+          "An infinite limit",
+          "A two sided limit",
+          "A one sided limit",
+          "A continuous limit"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does it mean if the left hand limit at a does not equal the right hand limit at a?",
+        "options": [
+          "The function is continuous at a",
+          "The overall limit at a does not exist",
+          "The function has a removable discontinuity at a",
+          "The function is differentiable at a"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What key property must a continuous function on a closed interval satisfy, according to the Intermediate Value Theorem?",
+        "options": [
+          "It takes on every value between f(a) and f(b) on that interval",
+          "It must have a constant derivative on that interval",
+          "It must be an odd function on that interval",
+          "It must be a straight line on that interval"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 2,
+    "title": "Derivatives from First Principles and Differentiability",
+    "questions": [
+      {
+        "q": "What is the definition of the derivative of f at x using first principles?",
+        "options": [
+          "f(x) divided by x",
+          "The limit as h approaches zero of (f(x+h) minus f(x)), divided by h",
+          "The limit as x approaches zero of f(x+h) times h",
+          "The limit as h approaches zero of f(x) divided by h"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the derivative of a function represent geometrically?",
+        "options": [
+          "The area under the curve",
+          "The slope of the secant line between two points",
+          "The y intercept of the function",
+          "The slope of the tangent line at a point"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What notation, alongside f prime of x, is commonly used for the derivative of y with respect to x?",
+        "options": [
+          "y over x",
+          "dy over dx",
+          "dx over dy",
+          "delta y over delta x"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must be true for a function to be differentiable at a point?",
+        "options": [
+          "The function must simply be defined there",
+          "The function must be positive there",
+          "The function must be continuous there and have no sharp corner or vertical tangent",
+          "The function must be a polynomial"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What happens at a sharp corner on a graph regarding differentiability?",
+        "options": [
+          "The derivative equals zero there",
+          "The function is not differentiable at that point",
+          "The function is differentiable with a large derivative",
+          "The function is discontinuous there"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is true about every differentiable function with respect to continuity?",
+        "options": [
+          "Every continuous function is differentiable",
+          "Differentiability has no relation to continuity",
+          "Every differentiable function is discontinuous",
+          "Every differentiable function is continuous"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of a constant function f(x) = c?",
+        "options": [
+          "c",
+          "1",
+          "x",
+          "0"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Using first principles, what is the derivative of f(x) = x^2?",
+        "options": [
+          "2x",
+          "2",
+          "x^2",
+          "x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the derivative evaluated at a specific point, giving a numeric slope?",
+        "options": [
+          "The antiderivative",
+          "Instantaneous rate of change",
+          "The second derivative",
+          "Average rate of change"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does it mean if f prime of x is positive on an interval?",
+        "options": [
+          "The function is increasing on that interval",
+          "The function is concave up on that interval",
+          "The function has a maximum on that interval",
+          "The function is decreasing on that interval"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does it mean if f prime of x is negative on an interval?",
+        "options": [
+          "The function is increasing on that interval",
+          "The function is concave down on that interval",
+          "The function is decreasing on that interval",
+          "The function has a minimum on that interval"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a critical number of a function?",
+        "options": [
+          "A value in the domain where the derivative is zero or undefined",
+          "The largest value in the domain",
+          "A value where the function is undefined",
+          "A value where the second derivative is zero"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What symbol represents the second derivative of y with respect to x?",
+        "options": [
+          "y prime",
+          "d over dx",
+          "d squared y over dx squared",
+          "dy over dx"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the second derivative of a position function represent in motion?",
+        "options": [
+          "Acceleration",
+          "Displacement",
+          "Velocity",
+          "Jerk"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the first derivative of a position function represent in motion?",
+        "options": [
+          "Acceleration",
+          "Jerk",
+          "Velocity",
+          "Displacement"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 3,
+    "title": "Derivative Rules: Power, Product, and Quotient",
+    "questions": [
+      {
+        "q": "What does the power rule state for the derivative of x^n?",
+        "options": [
+          "x to the power n minus one",
+          "n minus one times x to the power n",
+          "n times x to the power n minus one",
+          "n times x to the power n"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = 5x^3?",
+        "options": [
+          "15x^3",
+          "5x^2",
+          "3x^2",
+          "15x^2"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What rule is used to find the derivative of a sum of two functions?",
+        "options": [
+          "The sum rule, adding the derivatives of each term",
+          "The product rule",
+          "The quotient rule",
+          "The chain rule"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the product rule state for the derivative of f(x) times g(x)?",
+        "options": [
+          "f prime of x times g(x), plus f(x) times g prime of x",
+          "f prime of x times g prime of x",
+          "f prime of x plus g prime of x",
+          "f(x) times g(x), differentiated as a single term"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the quotient rule state for the derivative of f(x) over g(x)?",
+        "options": [
+          "f prime of x times g(x), divided by g(x) squared",
+          "g(x) times f prime of x, minus f(x) times g prime of x, all divided by g(x) squared",
+          "f(x) times g prime of x, minus g(x) times f prime of x, all divided by g(x) squared",
+          "f prime of x divided by g prime of x"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of a constant multiplied by a function, using the constant multiple rule?",
+        "options": [
+          "The derivative of the constant times the function",
+          "Zero",
+          "The constant times the derivative of the function",
+          "The constant plus the derivative of the function"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = x^4 + 3x^2 - 7?",
+        "options": [
+          "4x^3 + 3x",
+          "x^3 + 6x",
+          "4x^3 + 6x",
+          "4x^3 + 6x - 7"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = (2x + 1)(x - 3)?",
+        "options": [
+          "2x - 3",
+          "2x - 5",
+          "4x - 3",
+          "4x - 5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of f(x) = x over (x + 1), using the quotient rule?",
+        "options": [
+          "-1 over (x+1) squared",
+          "1 over (x+1) squared",
+          "x over (x+1) squared",
+          "1 over (x+1)"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of the reciprocal function f(x) = 1 over x?",
+        "options": [
+          "Negative one over x squared",
+          "One over x squared",
+          "Negative x",
+          "One over x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of a square root function f(x) = the square root of x, written as x to the power one half?",
+        "options": [
+          "x to the power negative one half",
+          "One half times x to the power negative one half",
+          "Two times x to the power one half",
+          "One half times x"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = x^(-2)?",
+        "options": [
+          "2x^(-3)",
+          "-2x^(-3)",
+          "-2x^(-1)",
+          "x^(-3)"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must you do first before applying the power rule to a function like f(x) = 1 over x cubed?",
+        "options": [
+          "Multiply through by x",
+          "Take the square root of the function",
+          "Rewrite the function using a negative exponent",
+          "Apply the quotient rule only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = x^3 + x^2 + x?",
+        "options": [
+          "3x^2 + x + 1",
+          "x^2 + x + 1",
+          "3x^2 + 2x",
+          "3x^2 + 2x + 1"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why can the product rule not be replaced by simply multiplying the derivatives of each factor?",
+        "options": [
+          "Because the derivative of a product is not the product of the derivatives",
+          "Because the chain rule always applies instead",
+          "Because multiplication is not defined for derivatives",
+          "Because only polynomials can be multiplied"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 4,
+    "title": "Chain Rule and Implicit Differentiation",
+    "questions": [
+      {
+        "q": "What does the chain rule allow you to differentiate?",
+        "options": [
+          "A constant function",
+          "A composite function",
+          "A sum of functions",
+          "A product of two independent functions"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the chain rule formula for the derivative of f(g(x))?",
+        "options": [
+          "f prime of x times g prime of x",
+          "f prime of g(x) plus g prime of x",
+          "f prime of g(x), times g prime of x",
+          "f(x) times g prime of x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = (3x + 1)^5, using the chain rule?",
+        "options": [
+          "15 times (3x + 1)^4",
+          "5 times (3x + 1)^4",
+          "15 times (3x + 1)^5",
+          "3 times (3x + 1)^4"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = sin(2x), using the chain rule?",
+        "options": [
+          "2 cos(2x)",
+          "-2 cos(2x)",
+          "2 sin(2x)",
+          "cos(2x)"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What are the outer function and inner function when differentiating f(x) = the square root of (x^2 + 1)?",
+        "options": [
+          "Both are the same function",
+          "There is no inner function here",
+          "Outer is x squared, inner is the square root function",
+          "Outer is the square root function, inner is x squared plus one"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What technique differentiates an equation like x^2 + y^2 = 25, where y is not isolated?",
+        "options": [
+          "The power rule alone",
+          "Explicit differentiation",
+          "Implicit differentiation",
+          "Separation of variables"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "When using implicit differentiation, what must be applied every time you differentiate a term containing y?",
+        "options": [
+          "The quotient rule only",
+          "The product rule only",
+          "The chain rule, multiplying by dy over dx",
+          "Nothing extra is needed"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Using implicit differentiation on x^2 + y^2 = 25, what is dy over dx?",
+        "options": [
+          "Negative y over x",
+          "x over y",
+          "Negative x over y",
+          "y over x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a relationship between x and y that is not solved explicitly for y?",
+        "options": [
+          "An explicit function",
+          "A piecewise function",
+          "A parametric equation",
+          "An implicit relation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What rule combines with the chain rule when differentiating a term like x times y in an implicit equation?",
+        "options": [
+          "The product rule",
+          "The sum rule alone",
+          "The quotient rule",
+          "The power rule alone"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = (x^2 + 3)^4, using the chain rule?",
+        "options": [
+          "4x times (x^2 + 3)^3",
+          "8x times (x^2 + 3)^3",
+          "8x times (x^2 + 3)^4",
+          "4 times (x^2 + 3)^3"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = cos(x^3), using the chain rule?",
+        "options": [
+          "Negative sin(x cubed)",
+          "Negative 3x squared times sin(x cubed)",
+          "3x squared times cos(x cubed)",
+          "3x squared times sin(x cubed)"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is implicit differentiation necessary for a curve like x^3 + y^3 = 6xy, the folium of Descartes?",
+        "options": [
+          "The curve is not continuous",
+          "The equation cannot be easily solved explicitly for y in terms of x",
+          "y does not depend on x in this equation",
+          "The curve has no derivative anywhere"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the chain rule extension called when differentiating a composite of three or more functions?",
+        "options": [
+          "The product rule",
+          "The sum rule",
+          "The reciprocal rule",
+          "The generalized chain rule"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In related rates problems, what role does the chain rule play?",
+        "options": [
+          "It relates the rate of change of one quantity to the rate of change of another through a shared variable, usually time",
+          "It only applies to trigonometric quantities",
+          "It converts the problem into an algebra only problem",
+          "It eliminates the need for derivatives entirely"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 5,
+    "title": "Curve Sketching and the Derivative Tests",
+    "questions": [
+      {
+        "q": "What does the first derivative test use to classify critical points?",
+        "options": [
+          "The sign change of f prime around the critical point",
+          "The sign of f itself at the critical point",
+          "The domain of the function",
+          "The value of the second derivative only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does a change from positive to negative in f prime indicate at a critical point?",
+        "options": [
+          "A local minimum",
+          "A local maximum",
+          "A vertical asymptote",
+          "An inflection point"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does a change from negative to positive in f prime indicate at a critical point?",
+        "options": [
+          "A local minimum",
+          "An inflection point",
+          "A horizontal asymptote",
+          "A local maximum"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the second derivative test use to classify a critical point?",
+        "options": [
+          "The domain of the function",
+          "The sign of the first derivative at that point",
+          "The value of the function at that point",
+          "The sign of the second derivative at that point"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If f double prime of a critical point is positive, what does the second derivative test conclude?",
+        "options": [
+          "The point is an inflection point",
+          "The test is inconclusive",
+          "The point is a local minimum",
+          "The point is a local maximum"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If f double prime of a critical point is negative, what does the second derivative test conclude?",
+        "options": [
+          "The point is an inflection point",
+          "The point is a local minimum",
+          "The test is inconclusive",
+          "The point is a local maximum"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If f double prime of a critical point equals zero, what does the second derivative test conclude?",
+        "options": [
+          "The test is inconclusive and another method is needed",
+          "The point is always a local maximum",
+          "The point is always a local minimum",
+          "The function is undefined there"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes an interval where the graph of a function curves upward, like a cup?",
+        "options": [
+          "Decreasing",
+          "Increasing",
+          "Concave up",
+          "Concave down"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes an interval where the graph of a function curves downward, like a frown?",
+        "options": [
+          "Decreasing",
+          "Increasing",
+          "Concave down",
+          "Concave up"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term names a point where the concavity of a function changes?",
+        "options": [
+          "A local extremum",
+          "A vertical asymptote",
+          "A critical point",
+          "An inflection point"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is true of the second derivative at an inflection point?",
+        "options": [
+          "It is always positive",
+          "It equals zero or is undefined there, and changes sign",
+          "It equals the function value",
+          "It is always negative"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What information do vertical asymptotes provide when sketching a rational function curve?",
+        "options": [
+          "The y intercept of the function",
+          "Values excluded from the domain where the function grows without bound",
+          "The maximum value of the function",
+          "The period of the function"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What information does the first derivative provide about the overall shape of a curve?",
+        "options": [
+          "The location of vertical asymptotes",
+          "The intervals where the function is concave up or down",
+          "The intervals where the function increases or decreases",
+          "The domain of the function"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a recommended order of steps for a full curve sketch of a rational or polynomial function?",
+        "options": [
+          "Guess the shape and check with a graphing calculator only",
+          "Find domain, intercepts, asymptotes, critical points, and concavity in turn",
+          "Find only the y intercept and stop",
+          "Find the second derivative only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the highest point in a local neighbourhood of a graph, though not necessarily the highest overall?",
+        "options": [
+          "Local maximum",
+          "Critical number",
+          "Inflection point",
+          "Global maximum"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 6,
+    "title": "Optimization and Related Rates",
+    "questions": [
+      {
+        "q": "What is the general goal of an optimization problem in calculus?",
+        "options": [
+          "To find the maximum or minimum value of a quantity subject to given constraints",
+          "To compute an indefinite integral",
+          "To determine whether a function is continuous",
+          "To find every zero of a function"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the first step commonly taken in solving an optimization problem?",
+        "options": [
+          "Write an equation for the quantity to be optimized in terms of one variable",
+          "Graph the function on a calculator",
+          "Guess and check numeric values",
+          "Take the second derivative immediately"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "After finding critical numbers in an optimization problem, what confirms a maximum or minimum?",
+        "options": [
+          "Simply choosing the largest critical number",
+          "Checking that the critical number is positive",
+          "The first or second derivative test applied to the critical numbers",
+          "Checking that the function is a polynomial"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In an optimization problem with a fixed perimeter, what tool relates two dimensions like length and width?",
+        "options": [
+          "The second derivative test alone",
+          "A constraint equation derived from the fixed perimeter",
+          "The mean value theorem",
+          "The chain rule alone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does a related rates problem typically ask you to find?",
+        "options": [
+          "How fast one quantity is changing given the rate of change of a related quantity",
+          "The exact value of a function at one instant",
+          "The domain of a function",
+          "The area under a curve"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the key equation-building step in a related rates problem?",
+        "options": [
+          "Solving the equation for a constant",
+          "Finding the second derivative of the equation",
+          "Writing an equation relating the variables, then differentiating with respect to time",
+          "Graphing the variables against each other"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a related rates problem, what does dV over dt represent for a changing volume V?",
+        "options": [
+          "The average volume over an interval",
+          "The rate of change of volume with respect to time",
+          "The value of volume at time t",
+          "The derivative of volume with respect to radius"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In a classic ladder sliding down a wall problem, what physical quantities are related through the Pythagorean theorem?",
+        "options": [
+          "The time and the temperature",
+          "The height on the wall and the distance from the wall along the ground",
+          "The angle and the length of the ladder only",
+          "The weight and the height only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must be true about all rates in a related rates problem before differentiating the constraint equation?",
+        "options": [
+          "All rates must be equal to each other",
+          "All rates must be positive",
+          "The equation must be linear",
+          "The constraint equation itself must hold true at every instant of time"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In an optimization problem, what does checking the endpoints of a closed interval ensure?",
+        "options": [
+          "That the function is always increasing",
+          "That no critical numbers exist",
+          "That the derivative is always zero",
+          "That the absolute maximum or minimum is not missed if it occurs at a boundary"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What real-world example commonly uses optimization to minimize the material used for a fixed volume?",
+        "options": [
+          "Finding the period of a pendulum",
+          "Finding the area under a curve",
+          "Designing a can or box with minimum surface area",
+          "Finding the velocity of a falling object"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the value(s) that make the derivative of the objective function equal to zero in an optimization problem?",
+        "options": [
+          "Intercepts",
+          "Inflection values only",
+          "Asymptotes",
+          "Critical numbers"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In related rates, what is typically the first step after identifying all given rates?",
+        "options": [
+          "Identify the equation relating the changing quantities",
+          "Take the second derivative",
+          "Solve for the unknown rate immediately without an equation",
+          "Substitute numeric values before differentiating"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why must known numeric values be substituted only after differentiating in a related rates problem?",
+        "options": [
+          "Because it changes the units of the answer",
+          "Because differentiation only works with variables greater than zero",
+          "To avoid treating a changing quantity as if it were constant during differentiation",
+          "Because numeric values cannot be differentiated at all"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the term objective function refer to in an optimization problem?",
+        "options": [
+          "The derivative of the constraint",
+          "The quantity being maximized or minimized",
+          "The constraint equation",
+          "The domain restriction"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 7,
+    "title": "Derivatives of Exponential and Logarithmic Functions",
+    "questions": [
+      {
+        "q": "What is the derivative of f(x) = e^x?",
+        "options": [
+          "e^x",
+          "x e^(x-1)",
+          "e",
+          "1"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = b^x for a general base b?",
+        "options": [
+          "x b^(x-1)",
+          "b^x divided by the natural logarithm of b",
+          "b^x times the natural logarithm of b",
+          "b^x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = the natural logarithm of x?",
+        "options": [
+          "The natural logarithm of x",
+          "One over x squared",
+          "One over x",
+          "x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = log base b of x for a general base b?",
+        "options": [
+          "One over x",
+          "The natural logarithm of b divided by x",
+          "b divided by x",
+          "One over (x times the natural logarithm of b)"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of f(x) = e^(3x), using the chain rule?",
+        "options": [
+          "e^(3x)",
+          "3 e^(3x)",
+          "3x e^(3x)",
+          "e^(3x) divided by three"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = the natural logarithm of (x^2 + 1), using the chain rule?",
+        "options": [
+          "2x over (x squared plus one)",
+          "2x times the natural logarithm of (x squared plus one)",
+          "2x",
+          "One over (x squared plus one)"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What growth property makes e^x unique among exponential functions with respect to differentiation?",
+        "options": [
+          "Its derivative is always negative",
+          "Its derivative equals zero",
+          "Its derivative equals its inverse function",
+          "Its derivative equals itself"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of f(x) = 5 e^(2x), applying the constant multiple and chain rules?",
+        "options": [
+          "2 e^(2x)",
+          "5 e^(2x)",
+          "10 e^(2x)",
+          "10x e^(2x)"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What technique differentiates a function like f(x) = x^x, where the base and exponent both contain the variable?",
+        "options": [
+          "Implicit differentiation only",
+          "The quotient rule",
+          "The power rule directly",
+          "Logarithmic differentiation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the first step of logarithmic differentiation?",
+        "options": [
+          "Square both sides of the equation",
+          "Take the natural logarithm of both sides of the equation",
+          "Substitute x equals one",
+          "Take the derivative directly using the power rule"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = the natural logarithm of (sin x), using the chain rule?",
+        "options": [
+          "Cos x over sin x",
+          "Sin x over cos x",
+          "One over sin x",
+          "Negative cos x over sin x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = e^(x^2), using the chain rule?",
+        "options": [
+          "x squared times e to the power x squared",
+          "2x times e to the power x squared",
+          "2 times e to the power x squared",
+          "e to the power x squared"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why does the natural logarithm function have derivative one over x rather than a formula involving logarithms itself?",
+        "options": [
+          "Because logarithms are always linear functions",
+          "Because it arises as the inverse of e to the x, whose own derivative is itself",
+          "Because natural log has no defined derivative",
+          "Because the derivative of any logarithm is always constant"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of a product like f(x) = x times e^x, using the product rule?",
+        "options": [
+          "e^x plus x times e^x",
+          "x times e^x",
+          "e^x times e^x",
+          "e^x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In continuous growth and decay models using A = P e^(kt), what does differentiating with respect to t reveal?",
+        "options": [
+          "The rate of change is always zero",
+          "The rate of change is inversely proportional to time",
+          "The rate of change of the quantity is proportional to the quantity itself",
+          "The rate of change is always constant"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 8,
+    "title": "Derivatives of Trigonometric Functions",
+    "questions": [
+      {
+        "q": "What is the derivative of f(x) = sin x?",
+        "options": [
+          "cos x",
+          "-cos x",
+          "sin x",
+          "-sin x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = cos x?",
+        "options": [
+          "cos x",
+          "Negative sin x",
+          "-cos x",
+          "sin x"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = tan x?",
+        "options": [
+          "-sec squared x",
+          "sec x tan x",
+          "sec squared x",
+          "csc squared x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = sec x?",
+        "options": [
+          "-sec x tan x",
+          "sec squared x",
+          "csc x cot x",
+          "sec x tan x"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of f(x) = csc x?",
+        "options": [
+          "csc x cot x",
+          "csc squared x",
+          "sec x tan x",
+          "Negative csc x cot x"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the derivative of f(x) = cot x?",
+        "options": [
+          "csc squared x",
+          "Negative csc squared x",
+          "-sec x tan x",
+          "sec squared x"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the derivative of f(x) = sin(3x), using the chain rule?",
+        "options": [
+          "3 cos(3x)",
+          "-3 cos(3x)",
+          "3 sin(3x)",
+          "cos(3x)"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = x squared times sin x, using the product rule?",
+        "options": [
+          "2x cos x",
+          "x squared cos x",
+          "2x sin x plus x squared cos x",
+          "2x sin x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the derivative of f(x) = cos(x) divided by x, using the quotient rule?",
+        "options": [
+          "sin x divided by x squared",
+          "Negative x sin x minus cos x, all divided by x squared",
+          "cos x divided by x squared",
+          "Negative sin x divided by one"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What identity is often used to simplify derivatives involving sec squared and tan?",
+        "options": [
+          "The Pythagorean identity for tangent and secant",
+          "The cofunction identity",
+          "The sum identity",
+          "The double angle identity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = sin squared x, using the chain rule?",
+        "options": [
+          "2 cos x",
+          "sin x cos x",
+          "2 sin x cos x",
+          "cos squared x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In simple harmonic motion, what does the derivative of a sinusoidal position function represent?",
+        "options": [
+          "The displacement of the object",
+          "The velocity of the oscillating object",
+          "The period of the oscillation",
+          "The amplitude of the oscillation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the second derivative of f(x) = sin x?",
+        "options": [
+          "Negative sin x",
+          "cos x",
+          "sin x",
+          "-cos x"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the derivative of f(x) = the square root of (sin x), using the chain rule?",
+        "options": [
+          "cos x divided by sin x",
+          "The square root of cos x",
+          "cos x, divided by twice the square root of sin x",
+          "One over the square root of sin x"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why must angles be measured in radians rather than degrees when differentiating trigonometric functions in calculus?",
+        "options": [
+          "Degrees cannot be graphed",
+          "Degrees are never valid units in mathematics",
+          "Radians make the function values larger",
+          "The standard derivative formulas, such as the derivative of sine equal to cosine, only hold when angles are in radians"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 9,
+    "title": "Vectors in Two and Three Dimensions",
+    "questions": [
+      {
+        "q": "What two properties define a vector?",
+        "options": [
+          "Slope and intercept",
+          "Magnitude only",
+          "Magnitude and direction",
+          "Length and colour"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a vector with magnitude one?",
+        "options": [
+          "A scalar",
+          "A position vector",
+          "A unit vector",
+          "A zero vector"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the magnitude of a vector with components (3, 4)?",
+        "options": [
+          "12",
+          "5",
+          "7",
+          "25"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What operation combines two vectors to produce a scalar, related to the angle between them?",
+        "options": [
+          "Vector addition",
+          "The cross product",
+          "The dot product",
+          "Scalar multiplication"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What operation combines two three dimensional vectors to produce a new vector perpendicular to both?",
+        "options": [
+          "The dot product",
+          "The cross product",
+          "Scalar multiplication",
+          "Vector addition"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does a dot product of zero indicate about two nonzero vectors?",
+        "options": [
+          "The vectors are perpendicular",
+          "The vectors have zero magnitude",
+          "The vectors are equal",
+          "The vectors are parallel"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula gives the dot product of vectors (a1, a2, a3) and (b1, b2, b3)?",
+        "options": [
+          "a1 b1 plus a2 b2 plus a3 b3",
+          "(a1 plus b1) times (a2 plus b2)",
+          "The square root of (a1 b1 plus a2 b2)",
+          "a1 b1 minus a2 b2 minus a3 b3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What geometric quantity does the magnitude of the cross product of two vectors represent?",
+        "options": [
+          "The length of the sum vector",
+          "The angle between the vectors directly",
+          "The volume of a rectangular box",
+          "The area of the parallelogram formed by the two vectors"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes two vectors pointing in exactly the same or exactly opposite directions?",
+        "options": [
+          "Orthogonal vectors",
+          "Parallel vectors",
+          "Unit vectors",
+          "Perpendicular vectors"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the formula for the magnitude of a vector with components (x, y, z)?",
+        "options": [
+          "x plus y plus z",
+          "x squared plus y squared plus z squared",
+          "The square root of (x plus y plus z)",
+          "The square root of (x squared plus y squared plus z squared)"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What does scalar multiplication of a vector by a negative number do to its direction?",
+        "options": [
+          "It leaves the direction unchanged",
+          "It makes the vector undefined",
+          "It reverses the direction of the vector",
+          "It rotates the vector ninety degrees"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a position vector?",
+        "options": [
+          "A vector that starts at the origin and ends at a given point",
+          "A vector used only in two dimensions",
+          "A vector with negative components only",
+          "A vector of magnitude one"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the vector formed by subtracting the coordinates of a starting point from an ending point?",
+        "options": [
+          "A normal vector",
+          "A zero vector",
+          "A unit vector",
+          "A displacement vector"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What condition on vectors u and v makes u cross v equal to the zero vector?",
+        "options": [
+          "u and v are parallel",
+          "u and v are perpendicular",
+          "u and v are unit vectors",
+          "u and v are equal in magnitude only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How is the angle between two vectors found using the dot product formula?",
+        "options": [
+          "The angle equals the dot product directly",
+          "Cosine of the angle equals the dot product divided by the product of the magnitudes",
+          "Sine of the angle equals the dot product divided by the magnitudes",
+          "Cosine of the angle equals the cross product divided by the magnitudes"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Calculus",
+    "number": 10,
+    "title": "Lines and Planes in Three Dimensions",
+    "questions": [
+      {
+        "q": "What information is needed to write the vector equation of a line in three dimensions?",
+        "options": [
+          "Three points not on the same line",
+          "A point on the line and a direction vector",
+          "Two direction vectors only",
+          "A normal vector only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the general form of a vector equation of a line, using position vector r0 and direction vector m?",
+        "options": [
+          "r equals r0 times m",
+          "r equals r0 minus t divided by m",
+          "r equals r0 plus t times m",
+          "r equals t plus m"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What are parametric equations of a line derived from?",
+        "options": [
+          "The cross product of two direction vectors",
+          "The components of the vector equation of the line, expressed individually",
+          "The normal vector of a plane",
+          "The dot product of two points"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What information is needed to write the scalar equation of a plane?",
+        "options": [
+          "Three unrelated direction vectors",
+          "Two points on the plane only",
+          "A point on the plane and a normal vector",
+          "A direction vector only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the scalar equation of a plane with normal vector (a, b, c) passing through point (x0, y0, z0)?",
+        "options": [
+          "a(x minus x0) plus b(y minus y0) plus c(z minus z0) equals zero",
+          "a(x plus x0) plus b(y plus y0) equals zero",
+          "a x0 plus b y0 plus c z0 equals zero, always",
+          "ax plus by plus cz equals x0 plus y0 plus z0"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How can a normal vector to a plane be found from two nonparallel direction vectors lying in that plane?",
+        "options": [
+          "By adding the two direction vectors",
+          "By taking the cross product of the two direction vectors",
+          "By taking the dot product of the two direction vectors",
+          "By finding the magnitude of each direction vector"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does it mean if the dot product of the direction vectors of two lines equals zero?",
+        "options": [
+          "The lines are perpendicular",
+          "The lines are identical",
+          "The lines are parallel",
+          "The lines do not intersect"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does it mean if the direction vectors of two lines are scalar multiples of each other?",
+        "options": [
+          "The lines are perpendicular",
+          "The lines are skew",
+          "The lines are parallel",
+          "The lines intersect at a right angle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes two lines in three dimensions that are neither parallel nor intersecting?",
+        "options": [
+          "Skew lines",
+          "Coincident lines",
+          "Collinear lines",
+          "Perpendicular lines"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What condition determines whether two planes are parallel?",
+        "options": [
+          "Their normal vectors are perpendicular",
+          "Their direction vectors are equal",
+          "They share exactly one point",
+          "Their normal vectors are scalar multiples of each other"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What geometric object results from the intersection of two nonparallel planes in three dimensions?",
+        "options": [
+          "An empty set, always",
+          "A point",
+          "A plane",
+          "A line"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What formula finds the distance from a point to a plane using the normal vector?",
+        "options": [
+          "The absolute value of the plane equation evaluated at the point, divided by the magnitude of the normal vector",
+          "The cross product of the point and the normal vector",
+          "The dot product of the point and the normal vector alone",
+          "The sum of the coordinates of the point"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What system of equations results from setting two lines equal to find their point of intersection?",
+        "options": [
+          "A system involving only the normal vectors",
+          "A system relating the parametric equations of both lines",
+          "An equation with no variables",
+          "A single quadratic equation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does it mean geometrically if the cross product of two direction vectors of a plane equals the zero vector?",
+        "options": [
+          "The plane is perpendicular to the x axis",
+          "The plane passes through the origin",
+          "The two direction vectors are perpendicular",
+          "The two direction vectors are parallel, and cannot define a plane by themselves"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the name for the plane equation a x plus b y plus c z plus d equals zero?",
+        "options": [
+          "Scalar equation of a line",
+          "Parametric equation of a plane",
+          "Cartesian equation of a plane",
+          "Vector equation of a plane"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 1,
+    "title": "Kinematics in One and Two Dimensions",
+    "questions": [
+      {
+        "q": "What quantity describes the rate of change of displacement with respect to time?",
+        "options": [
+          "Acceleration",
+          "Speed alone",
+          "Momentum",
+          "Velocity"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What quantity describes the rate of change of velocity with respect to time?",
+        "options": [
+          "Force",
+          "Velocity",
+          "Displacement",
+          "Acceleration"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the difference between speed and velocity?",
+        "options": [
+          "Speed is measured in different units than velocity",
+          "Speed includes direction while velocity does not",
+          "They are identical quantities in every case",
+          "Velocity includes direction while speed does not"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the SI unit of acceleration?",
+        "options": [
+          "Metres per second squared",
+          "Newtons",
+          "Metres per second",
+          "Metres"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What kinematics equation relates final velocity, initial velocity, acceleration, and time?",
+        "options": [
+          "v final equals v initial plus a times t",
+          "v final equals a divided by t",
+          "v final equals v initial times a times t",
+          "v final equals v initial minus a divided by t"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What kinematics equation relates displacement, initial velocity, acceleration, and time?",
+        "options": [
+          "Displacement equals v initial plus a t squared",
+          "Displacement equals a t squared",
+          "Displacement equals v initial t plus one half a t squared",
+          "Displacement equals v initial divided by a t"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the acceleration due to gravity near the surface of Earth, approximately?",
+        "options": [
+          "9.8 metres per second squared",
+          "6.67 metres per second squared",
+          "3.8 metres per second squared",
+          "10.8 metres per second squared"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In projectile motion with no air resistance, what happens to the horizontal velocity component throughout the flight?",
+        "options": [
+          "It decreases steadily",
+          "It becomes zero at the peak",
+          "It remains constant",
+          "It increases steadily"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In projectile motion, what happens to the vertical velocity component at the peak of the trajectory?",
+        "options": [
+          "It reverses sign before the peak",
+          "It equals zero momentarily",
+          "It remains constant throughout",
+          "It reaches its maximum value"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What shape does the path of a projectile launched at an angle typically trace?",
+        "options": [
+          "A hyperbola",
+          "A straight line",
+          "A parabola",
+          "A circle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the total distance travelled divided by the total time taken?",
+        "options": [
+          "Instantaneous velocity",
+          "Average acceleration",
+          "Average speed",
+          "Displacement"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the straight line distance and direction from a starting point to an ending point?",
+        "options": [
+          "Speed",
+          "Displacement",
+          "Velocity magnitude only",
+          "Distance"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "On a position versus time graph, what does the slope at any point represent?",
+        "options": [
+          "The velocity at that instant",
+          "The average speed over the whole graph",
+          "The displacement at that instant",
+          "The acceleration at that instant"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "On a velocity versus time graph, what does the area under the curve over an interval represent?",
+        "options": [
+          "The acceleration during that interval",
+          "The displacement during that interval",
+          "The total distance travelled ignoring direction",
+          "The average velocity only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "On a velocity versus time graph, what does the slope at any point represent?",
+        "options": [
+          "The displacement at that instant",
+          "The acceleration at that instant",
+          "The position at that instant",
+          "The velocity at that instant"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 2,
+    "title": "Dynamics and Newtons Laws of Motion",
+    "questions": [
+      {
+        "q": "What does Newtons first law state about an object with no net external force?",
+        "options": [
+          "It remains at rest or continues at constant velocity",
+          "It always accelerates",
+          "It always comes to rest",
+          "It experiences increasing force over time"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula does Newtons second law give, relating force, mass, and acceleration?",
+        "options": [
+          "Net force equals mass divided by acceleration",
+          "Net force equals acceleration divided by mass",
+          "Net force equals mass times acceleration",
+          "Net force equals mass plus acceleration"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does Newtons third law state about forces between two interacting objects?",
+        "options": [
+          "For every action force there is an equal and opposite reaction force",
+          "Only the larger object exerts a force",
+          "Forces always cancel to zero within one object",
+          "Action and reaction forces act on the same object"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the SI unit of force?",
+        "options": [
+          "The joule",
+          "The pascal",
+          "The newton",
+          "The watt"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the force that opposes relative motion between two surfaces in contact?",
+        "options": [
+          "Tension",
+          "Friction",
+          "Normal force",
+          "Gravity"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the force exerted by a surface perpendicular to an object resting on it?",
+        "options": [
+          "Friction",
+          "Normal force",
+          "Applied force",
+          "Tension"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the pulling force transmitted through a string, rope, or cable?",
+        "options": [
+          "Friction",
+          "Gravity",
+          "Normal force",
+          "Tension"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the formula for the force of gravity, weight, acting on an object of mass m?",
+        "options": [
+          "Weight equals mass times gravitational acceleration",
+          "Weight equals mass plus gravitational acceleration",
+          "Weight equals mass divided by gravitational acceleration",
+          "Weight equals gravitational acceleration divided by mass"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the property of matter that resists changes in its state of motion?",
+        "options": [
+          "Momentum",
+          "Weight",
+          "Inertia",
+          "Tension"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of friction acts on an object that is already moving relative to a surface?",
+        "options": [
+          "Centripetal friction",
+          "Kinetic friction",
+          "Static friction",
+          "Rolling friction only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of friction must be overcome to start an object moving from rest?",
+        "options": [
+          "Rolling friction only",
+          "Centripetal friction",
+          "Kinetic friction",
+          "Static friction"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In a free body diagram, what does each arrow typically represent?",
+        "options": [
+          "The total displacement of the object",
+          "The velocity of the object",
+          "The acceleration vector only",
+          "An individual force acting on the object"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What happens to the acceleration of an object if the net force acting on it doubles while mass stays constant?",
+        "options": [
+          "The acceleration quadruples",
+          "The acceleration doubles",
+          "The acceleration is halved",
+          "The acceleration stays the same"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the acceleration of an object if its mass doubles while net force stays constant?",
+        "options": [
+          "The acceleration stays the same",
+          "The acceleration doubles",
+          "The acceleration is halved",
+          "The acceleration quadruples"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "On an inclined frictionless surface, what component of gravity acts along the surface causing acceleration?",
+        "options": [
+          "mg sine of the angle of incline",
+          "mg alone",
+          "mg tangent of the angle of incline",
+          "mg cosine of the angle of incline"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 3,
+    "title": "Circular Motion and Gravitation",
+    "questions": [
+      {
+        "q": "What term describes the acceleration directed toward the centre of a circular path?",
+        "options": [
+          "Angular acceleration",
+          "Centripetal acceleration",
+          "Gravitational acceleration",
+          "Tangential acceleration"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the formula for centripetal acceleration in terms of speed v and radius r?",
+        "options": [
+          "v divided by r squared",
+          "v squared times r",
+          "v times r",
+          "v squared divided by r"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the formula for centripetal force in terms of mass m, speed v, and radius r?",
+        "options": [
+          "m v squared times r",
+          "m v squared divided by r",
+          "m r divided by v squared",
+          "m v divided by r squared"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What direction does centripetal force always point relative to the circular path?",
+        "options": [
+          "Away from the centre of the circle",
+          "Tangent to the circle",
+          "Toward the centre of the circle",
+          "Parallel to the velocity vector"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What provides the centripetal force for a satellite orbiting Earth?",
+        "options": [
+          "Gravitational force from Earth",
+          "The normal force from the atmosphere",
+          "The tension of an orbital cable",
+          "Friction with the upper atmosphere"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the formula for the gravitational force between two masses m1 and m2 separated by distance r?",
+        "options": [
+          "G times (m1 plus m2), divided by r",
+          "G times m1 times m2, divided by r",
+          "G times m1 times m2, divided by r squared",
+          "G divided by (m1 m2 r squared)"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What happens to the gravitational force between two objects if the distance between them doubles?",
+        "options": [
+          "The force doubles",
+          "The force stays the same",
+          "The force is halved",
+          "The force decreases to one quarter of its original value"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the constant speed of an object moving along a circular path, when only the direction changes?",
+        "options": [
+          "Simple harmonic motion",
+          "Uniform circular motion",
+          "Projectile motion",
+          "Nonuniform circular motion"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the time required for one complete revolution around a circular path?",
+        "options": [
+          "Angular velocity",
+          "Frequency",
+          "Period",
+          "Centripetal acceleration"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes the number of complete revolutions per unit time?",
+        "options": [
+          "Frequency",
+          "Angular displacement",
+          "Period",
+          "Centripetal force"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the relationship between period T and frequency f?",
+        "options": [
+          "T equals f squared",
+          "T equals f",
+          "T equals two times f",
+          "T equals one over f"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What keeps a car moving safely around a level curved road at speed, providing the centripetal force?",
+        "options": [
+          "The normal force from the road surface alone",
+          "Air resistance",
+          "Friction between the tires and the road",
+          "The weight of the car"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the purpose of banking a curved roadway at an angle?",
+        "options": [
+          "To provide part of the centripetal force through the normal force, reducing reliance on friction",
+          "To increase the weight of vehicles on the curve",
+          "To reduce the speed of vehicles automatically",
+          "To eliminate the need for tires"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "According to Keplers third law, how does the square of a planet orbital period relate to its average distance from the Sun?",
+        "options": [
+          "It is unrelated to the average distance",
+          "It is proportional to the cube of the average distance",
+          "It is inversely proportional to the average distance",
+          "It is proportional to the average distance itself"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the condition where an object experiences apparent weightlessness while in free fall or orbit?",
+        "options": [
+          "Weightlessness, or a free fall condition",
+          "Equilibrium point",
+          "Terminal velocity",
+          "Escape velocity"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 4,
+    "title": "Work, Energy, and Power",
+    "questions": [
+      {
+        "q": "What is the formula for work done by a constant force acting in the direction of displacement?",
+        "options": [
+          "Force divided by displacement",
+          "Force times time",
+          "Force plus displacement",
+          "Force times displacement"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the SI unit of work and energy?",
+        "options": [
+          "The watt",
+          "The joule",
+          "The pascal",
+          "The newton"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What formula gives the kinetic energy of an object with mass m and speed v?",
+        "options": [
+          "One half m v squared",
+          "m v squared",
+          "m v",
+          "One half m v"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula gives the gravitational potential energy of an object at height h above a reference point?",
+        "options": [
+          "One half m g h",
+          "m h divided by g",
+          "m g h",
+          "m g divided by h"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the work energy theorem state about the net work done on an object?",
+        "options": [
+          "It equals the change in potential energy of the object",
+          "It always equals zero",
+          "It equals the change in the kinetic energy of the object",
+          "It equals the total mechanical energy"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What principle states that the total mechanical energy of an isolated system remains constant if only conservative forces act?",
+        "options": [
+          "The work energy theorem",
+          "Conservation of mechanical energy",
+          "Conservation of charge",
+          "Conservation of momentum"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the SI unit of power?",
+        "options": [
+          "The newton",
+          "The joule",
+          "The volt",
+          "The watt"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the formula for power in terms of work and time?",
+        "options": [
+          "Time divided by work",
+          "Work times time",
+          "Work plus time",
+          "Work divided by time"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes energy associated with the motion of an object?",
+        "options": [
+          "Elastic energy",
+          "Kinetic energy",
+          "Potential energy",
+          "Thermal energy"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes energy stored due to an object position or configuration?",
+        "options": [
+          "Potential energy",
+          "Kinetic energy",
+          "Radiant energy",
+          "Sound energy"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What formula gives the elastic potential energy stored in an ideal spring compressed or stretched a distance x, with spring constant k?",
+        "options": [
+          "One half k x squared",
+          "k x",
+          "One half k x",
+          "k x squared"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to mechanical energy in a system with friction acting on the moving object?",
+        "options": [
+          "Mechanical energy converts entirely to kinetic energy",
+          "Some mechanical energy converts to thermal energy and is not conserved as mechanical energy",
+          "Mechanical energy increases without bound",
+          "Mechanical energy is always perfectly conserved"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the alternate unit of energy commonly used for electrical energy billing, equal to one kilowatt used for one hour?",
+        "options": [
+          "Newton metre",
+          "Joule second",
+          "Kilowatt hour",
+          "Watt second"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a roller coaster with no friction, what happens to kinetic energy as the car rises to a higher point on the track?",
+        "options": [
+          "Kinetic energy increases as potential energy increases",
+          "Both kinetic and potential energy increase together",
+          "Kinetic energy decreases as potential energy increases",
+          "Both kinetic and potential energy decrease together"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What quantity is delivered at a higher rate when a motor does the same amount of work in less time?",
+        "options": [
+          "Power",
+          "Force",
+          "Energy",
+          "Work"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 5,
+    "title": "Momentum and Collisions",
+    "questions": [
+      {
+        "q": "What is the formula for the linear momentum of an object with mass m and velocity v?",
+        "options": [
+          "One half m v squared",
+          "m v",
+          "m divided by v",
+          "m v squared"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the SI unit of momentum?",
+        "options": [
+          "Kilogram metres per second squared",
+          "Kilogram metres per second",
+          "Newton seconds squared",
+          "Joules per second"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the law of conservation of momentum state for an isolated system with no external forces?",
+        "options": [
+          "The total momentum before an interaction equals the total momentum after",
+          "Momentum is only conserved in elastic collisions",
+          "Momentum always increases after a collision",
+          "Total kinetic energy is always conserved"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a collision in which the total kinetic energy is conserved?",
+        "options": [
+          "Inertial collision",
+          "Perfectly inelastic collision",
+          "Inelastic collision",
+          "Elastic collision"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a collision in which kinetic energy is not conserved, though momentum still is?",
+        "options": [
+          "Inelastic collision",
+          "Isolated collision",
+          "Conservative collision",
+          "Elastic collision"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes a collision in which the two objects stick together after impact?",
+        "options": [
+          "Conservative collision",
+          "Partially elastic collision",
+          "Elastic collision",
+          "Perfectly inelastic collision"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is impulse defined as in terms of force and time?",
+        "options": [
+          "The ratio of force to time",
+          "The product of mass and acceleration",
+          "The product of the average net force and the time interval it acts",
+          "The change in kinetic energy over time"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What theorem relates impulse to the change in momentum of an object?",
+        "options": [
+          "The work energy theorem",
+          "Newtons third law directly",
+          "The conservation of energy theorem",
+          "The impulse momentum theorem"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the SI unit of impulse, equivalent to the unit of momentum?",
+        "options": [
+          "Newton seconds",
+          "Watt seconds",
+          "Joule seconds",
+          "Newton metres"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do airbags reduce injury during a collision, in terms of impulse?",
+        "options": [
+          "They reduce the total change in momentum to zero",
+          "They extend the time over which the momentum change occurs, reducing the average force",
+          "They increase the force applied to the passenger",
+          "They eliminate the need for momentum conservation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In a two object collision with no external forces, what is true about the momentum lost by one object?",
+        "options": [
+          "It equals the momentum gained by the other object",
+          "It is always converted into heat only",
+          "It doubles for the other object",
+          "It disappears from the system entirely"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the total momentum of a system before an explosion if the system starts at rest?",
+        "options": [
+          "Undefined",
+          "Equal to the total kinetic energy released",
+          "Zero",
+          "Equal to the total mass of the system"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a perfectly inelastic collision between two objects, what quantity is always conserved even though kinetic energy is not?",
+        "options": [
+          "Total impulse experienced by each object separately",
+          "Total mechanical energy",
+          "Total momentum",
+          "Total kinetic energy"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does a larger mass generally require, for the same velocity change, in terms of impulse needed?",
+        "options": [
+          "A smaller impulse",
+          "A larger impulse",
+          "No impulse at all",
+          "The same impulse regardless of mass"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What must be considered separately along perpendicular axes in a two dimensional collision?",
+        "options": [
+          "Only the total mass",
+          "Only the total kinetic energy",
+          "The components of momentum along each axis",
+          "Only the scalar speed"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 6,
+    "title": "Electric Fields and Forces",
+    "questions": [
+      {
+        "q": "What does Coulomb law describe?",
+        "options": [
+          "The force on a charge moving through a magnetic field",
+          "The gravitational force between two masses",
+          "The electric force between two point charges",
+          "The magnetic force between two current carrying wires"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the formula for the electric force between two point charges q1 and q2 separated by distance r?",
+        "options": [
+          "k times q1 times q2, divided by r",
+          "k times q1 times q2, divided by r squared",
+          "k divided by (q1 q2 r squared)",
+          "k times (q1 plus q2), divided by r"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the electric force between two charges if the distance between them is tripled?",
+        "options": [
+          "The force stays the same",
+          "The force decreases to one ninth of its original value",
+          "The force triples",
+          "The force decreases to one third of its original value"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the region around a charged object where another charge would experience a force?",
+        "options": [
+          "Electric field",
+          "Gravitational field",
+          "Magnetic field",
+          "Potential field only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the formula relating electric field strength E, force F, and test charge q?",
+        "options": [
+          "E equals F times q",
+          "E equals q divided by F",
+          "E equals F divided by q",
+          "E equals F plus q"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What direction does the electric field point relative to a positive point charge?",
+        "options": [
+          "Always parallel to nearby field lines only",
+          "Radially inward toward the charge",
+          "Tangent to a circle around the charge",
+          "Radially outward from the charge"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the work done per unit charge to move a charge between two points in an electric field?",
+        "options": [
+          "Electric field strength",
+          "Electric potential difference, or voltage",
+          "Capacitance",
+          "Electric current"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the SI unit of electric potential difference?",
+        "options": [
+          "The farad",
+          "The ohm",
+          "The ampere",
+          "The volt"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a device that stores electric charge and energy in an electric field between two conductive plates?",
+        "options": [
+          "Inductor",
+          "Resistor",
+          "Capacitor",
+          "Transformer"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the formula for the capacitance of a capacitor in terms of charge Q and voltage V?",
+        "options": [
+          "C equals Q divided by V",
+          "C equals Q plus V",
+          "C equals V divided by Q",
+          "C equals Q times V"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the path that a small positive test charge would follow through an electric field, drawn as a directional curve?",
+        "options": [
+          "A current line",
+          "A flux line only",
+          "An equipotential line",
+          "A field line"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a surface where every point has the same electric potential?",
+        "options": [
+          "An equipotential surface",
+          "A conductive surface",
+          "A field line",
+          "A grounded surface"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to excess charge placed on an isolated conductor at electrostatic equilibrium?",
+        "options": [
+          "It immediately leaks away regardless of insulation",
+          "It moves to the exact centre of the conductor",
+          "It distributes itself on the outer surface of the conductor",
+          "It remains uniformly spread through the entire volume"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the electric field like inside a conductor at electrostatic equilibrium?",
+        "options": [
+          "Zero",
+          "Undefined",
+          "Equal to the field just outside the surface",
+          "At its maximum value"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the number of electric field lines passing through a given surface?",
+        "options": [
+          "Capacitance",
+          "Electric flux",
+          "Electric current",
+          "Electric potential"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 7,
+    "title": "Electric Circuits",
+    "questions": [
+      {
+        "q": "What is the formula relating current I, voltage V, and resistance R, known as Ohms law?",
+        "options": [
+          "V equals I divided by R",
+          "V equals I plus R",
+          "V equals I times R",
+          "V equals R divided by I"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the SI unit of electric current?",
+        "options": [
+          "The volt",
+          "The ampere",
+          "The ohm",
+          "The watt"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the SI unit of electric resistance?",
+        "options": [
+          "The volt",
+          "The farad",
+          "The ohm",
+          "The ampere"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a series circuit, how does the current compare at every point along the single loop?",
+        "options": [
+          "The current is zero at every point",
+          "The current is the same at every point",
+          "The current is different at every point",
+          "The current only flows near the battery"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In a series circuit, how do the individual resistances combine to give total resistance?",
+        "options": [
+          "Their reciprocals add to give the reciprocal of the total resistance",
+          "They multiply to give the total resistance",
+          "Only the largest resistance matters",
+          "They add directly to give the total resistance"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In a parallel circuit, how do the individual resistances combine to give total resistance?",
+        "options": [
+          "Only the smallest resistance matters",
+          "They multiply to give the total resistance",
+          "Their reciprocals add to give the reciprocal of the total resistance",
+          "They add directly to give the total resistance"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a parallel circuit, how does the voltage compare across each branch?",
+        "options": [
+          "Only one branch has voltage",
+          "The voltage is different across each branch",
+          "The voltage is zero across each branch",
+          "The voltage is the same across each branch"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What formula gives electric power dissipated by a resistor in terms of current I and resistance R?",
+        "options": [
+          "I times R",
+          "I divided by R squared",
+          "R divided by I squared",
+          "I squared times R"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a component designed to oppose the flow of current, converting electrical energy to heat?",
+        "options": [
+          "Capacitor",
+          "Resistor",
+          "Transformer",
+          "Inductor"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What device provides the electromotive force that drives current through a circuit?",
+        "options": [
+          "A battery or power source",
+          "A resistor",
+          "A fuse",
+          "A switch"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What safety device breaks a circuit automatically when current exceeds a safe level?",
+        "options": [
+          "A fuse or circuit breaker",
+          "A transformer",
+          "A capacitor",
+          "A diode"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the total charge passing a point per unit time?",
+        "options": [
+          "Electric current",
+          "Resistance",
+          "Electric potential",
+          "Capacitance"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to the total resistance of a parallel combination compared to the smallest individual resistor in that combination?",
+        "options": [
+          "The total resistance is always greater than the smallest individual resistor",
+          "The total resistance is always less than the smallest individual resistor",
+          "The total resistance is unrelated to the individual resistors",
+          "The total resistance equals the smallest individual resistor"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What instrument is used to measure current in a circuit, and how must it be connected?",
+        "options": [
+          "An ammeter, connected in series",
+          "A voltmeter, connected in series",
+          "A voltmeter, connected in parallel",
+          "An ammeter, connected in parallel"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What instrument is used to measure voltage across a component, and how must it be connected?",
+        "options": [
+          "An ammeter, connected in series",
+          "A voltmeter, connected in series",
+          "A voltmeter, connected in parallel",
+          "An ammeter, connected in parallel"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 8,
+    "title": "Magnetism and Electromagnetic Induction",
+    "questions": [
+      {
+        "q": "What term describes the region around a magnet or current carrying wire where a magnetic force can be detected?",
+        "options": [
+          "Magnetic field",
+          "Electric field",
+          "Potential field",
+          "Gravitational field"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What rule predicts the direction of the magnetic field around a straight current carrying wire?",
+        "options": [
+          "The left hand rule",
+          "The law of reflection",
+          "The right hand rule",
+          "The Pythagorean rule"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What happens to a moving charged particle when it moves through a magnetic field at an angle to the field lines?",
+        "options": [
+          "It experiences a force parallel to its velocity",
+          "It experiences a force parallel to the magnetic field only",
+          "It experiences no force at all",
+          "It experiences a force perpendicular to both its velocity and the magnetic field"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the formula for the magnitude of the magnetic force on a charge q moving with speed v at angle theta to a magnetic field B?",
+        "options": [
+          "q v B cosine theta",
+          "q v B sine theta",
+          "q v divided by B",
+          "q v B"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What law describes how a changing magnetic flux through a loop induces an electromotive force?",
+        "options": [
+          "Coulombs law",
+          "Faradays law of electromagnetic induction",
+          "Ohms law",
+          "Newtons law of gravitation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What law describes the direction of an induced current so that it opposes the change causing it?",
+        "options": [
+          "Lenzs law",
+          "Amperes law",
+          "Ohms law",
+          "Faradays law"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What device uses electromagnetic induction to convert mechanical energy into electrical energy?",
+        "options": [
+          "A transformer",
+          "A generator",
+          "A resistor",
+          "A motor"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What device uses electromagnetic principles to convert electrical energy into mechanical energy?",
+        "options": [
+          "A transformer",
+          "A motor",
+          "A capacitor",
+          "A generator"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What device uses electromagnetic induction to change the voltage level of an alternating current?",
+        "options": [
+          "A rectifier",
+          "A motor",
+          "A generator",
+          "A transformer"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the measure of the total magnetic field passing through a given area?",
+        "options": [
+          "Magnetic flux",
+          "Magnetic permeability",
+          "Magnetic force",
+          "Electromotive force"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to the induced electromotive force in a coil if the rate of change of magnetic flux through it increases?",
+        "options": [
+          "The induced electromotive force stays the same",
+          "No electromotive force is induced",
+          "The induced electromotive force increases",
+          "The induced electromotive force decreases"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a material that is strongly attracted to magnets and can be magnetized itself?",
+        "options": [
+          "Nonmagnetic material",
+          "Diamagnetic material",
+          "Paramagnetic material, only weakly attracted",
+          "Ferromagnetic material"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What happens to magnetic field lines just outside the poles of a bar magnet?",
+        "options": [
+          "They emerge equally from both poles simultaneously in straight lines",
+          "They remain entirely inside the magnet",
+          "They emerge from the north pole and curve around into the south pole",
+          "They form closed loops only inside the magnet with none outside"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the direction of the force on a current carrying wire placed in an external magnetic field, found using a hand rule?",
+        "options": [
+          "Perpendicular to both the current direction and the magnetic field",
+          "Parallel to the magnetic field",
+          "Opposite to the current direction always",
+          "Parallel to the current direction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What principle underlies the operation of an electric generator producing alternating current?",
+        "options": [
+          "Magnetic flux must remain constant to produce current",
+          "A stationary coil in a constant magnetic field produces current",
+          "A coil rotating within a magnetic field induces a continuously changing electromotive force",
+          "Direct current is produced by any spinning magnet"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 9,
+    "title": "Waves and Sound",
+    "questions": [
+      {
+        "q": "What term describes a wave in which the medium oscillates parallel to the direction of wave travel?",
+        "options": [
+          "Electromagnetic wave",
+          "Transverse wave",
+          "Longitudinal wave",
+          "Standing wave"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes a wave in which the medium oscillates perpendicular to the direction of wave travel?",
+        "options": [
+          "Sound wave",
+          "Longitudinal wave",
+          "Transverse wave",
+          "Standing wave"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What formula relates wave speed v, frequency f, and wavelength lambda?",
+        "options": [
+          "v equals f plus lambda",
+          "v equals f divided by lambda",
+          "v equals f times lambda",
+          "v equals lambda divided by f"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of wave is sound, in terms of how the medium particles move?",
+        "options": [
+          "A standing wave only",
+          "A longitudinal wave",
+          "A transverse wave",
+          "An electromagnetic wave"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the observed frequency of a sound source moving toward a stationary listener?",
+        "options": [
+          "The observed frequency increases",
+          "The observed frequency becomes zero",
+          "The observed frequency decreases",
+          "The observed frequency stays the same"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the name for the apparent change in frequency of a wave due to relative motion between source and observer?",
+        "options": [
+          "The Doppler effect",
+          "Resonance",
+          "Interference",
+          "Diffraction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the phenomenon where two or more waves overlap and combine their displacements?",
+        "options": [
+          "Interference",
+          "Resonance",
+          "Diffraction",
+          "Refraction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes constructive interference occurring when waves are perfectly in phase?",
+        "options": [
+          "Diffraction spreading the wave",
+          "Destructive interference, producing a smaller amplitude",
+          "Refraction bending the wave path",
+          "Constructive interference, producing a larger amplitude"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes destructive interference occurring when waves are perfectly out of phase?",
+        "options": [
+          "Reflection reversing the wave",
+          "Destructive interference, producing a reduced or zero amplitude",
+          "Constructive interference, producing a larger amplitude",
+          "Resonance amplifying the wave"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the bending of waves as they pass through an opening or around an obstacle?",
+        "options": [
+          "Reflection",
+          "Refraction",
+          "Interference",
+          "Diffraction"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the bending of a wave as it passes from one medium into another with a different wave speed?",
+        "options": [
+          "Reflection",
+          "Refraction",
+          "Diffraction",
+          "Polarization"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a wave pattern formed when two identical waves travel in opposite directions and interfere, forming fixed nodes and antinodes?",
+        "options": [
+          "Transverse wave only",
+          "Standing wave",
+          "Travelling wave",
+          "Longitudinal wave only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes points of zero displacement along a standing wave?",
+        "options": [
+          "Antinodes",
+          "Troughs",
+          "Nodes",
+          "Crests"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes points of maximum displacement along a standing wave?",
+        "options": [
+          "Wavelength markers",
+          "Nodes",
+          "Equilibrium points",
+          "Antinodes"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the natural tendency of a system to oscillate with greater amplitude at certain driving frequencies?",
+        "options": [
+          "Resonance",
+          "Interference",
+          "Diffraction",
+          "The Doppler effect"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "number": 10,
+    "title": "Modern Physics: Relativity and Quantum Theory",
+    "questions": [
+      {
+        "q": "What does special relativity assume about the speed of light in a vacuum?",
+        "options": [
+          "It varies depending on the speed of the observer",
+          "It depends on the wavelength of the light",
+          "It is the same constant value for all observers, regardless of their relative motion",
+          "It is infinite for all observers"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What phenomenon in special relativity describes a moving clock running slower relative to a stationary observer?",
+        "options": [
+          "Time dilation",
+          "Mass energy equivalence",
+          "Length contraction",
+          "Simultaneity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What phenomenon in special relativity describes an object length appearing shorter along its direction of motion to a stationary observer?",
+        "options": [
+          "Time dilation",
+          "Mass energy equivalence",
+          "Length contraction",
+          "Rest frame expansion"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What famous equation expresses the equivalence of mass and energy?",
+        "options": [
+          "E equals m c squared",
+          "E equals m divided by c squared",
+          "E equals m c",
+          "E equals m squared c"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the smallest discrete packet of electromagnetic energy?",
+        "options": [
+          "A neutron",
+          "A proton",
+          "An electron",
+          "A photon"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What effect demonstrated that light can behave as discrete particles by ejecting electrons from a metal surface?",
+        "options": [
+          "The Doppler effect",
+          "The Zeeman effect",
+          "The scattering effect of light off electrons",
+          "The photoelectric effect"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What formula relates the energy of a photon to its frequency f, using Plancks constant h?",
+        "options": [
+          "E equals f divided by h",
+          "E equals h divided by f",
+          "E equals h f",
+          "E equals h plus f"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What principle states that a particle such as an electron can exhibit both wave-like and particle-like behaviour?",
+        "options": [
+          "The exclusion principle",
+          "Wave particle duality",
+          "The uncertainty principle",
+          "The correspondence principle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What principle states a fundamental limit to how precisely both position and momentum of a particle can be known simultaneously?",
+        "options": [
+          "The correspondence principle",
+          "The Pauli exclusion principle",
+          "The Heisenberg uncertainty principle",
+          "The equivalence principle"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What model of the atom proposed that electrons occupy only certain fixed energy levels?",
+        "options": [
+          "The Bohr model",
+          "The quark model",
+          "The classical planetary model with continuous orbits",
+          "The plum pudding model"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the minimum energy needed to eject an electron from a particular metal surface in the photoelectric effect?",
+        "options": [
+          "The stopping potential",
+          "The work function",
+          "The threshold frequency measured directly in energy units",
+          "The binding energy of the nucleus"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What experiment demonstrated the wave nature of electrons through an interference pattern?",
+        "options": [
+          "The photoelectric effect experiment",
+          "The double slit experiment",
+          "The gold foil experiment",
+          "The oil drop experiment"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a particle of matter and its corresponding antiparticle with opposite charge and the same mass?",
+        "options": [
+          "A hybrid pair",
+          "An antimatter pair",
+          "An isotope pair",
+          "An ion pair"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "According to special relativity, what happens to the energy required to accelerate an object as its speed approaches the speed of light?",
+        "options": [
+          "It increases without bound, approaching infinity",
+          "It decreases toward zero",
+          "It becomes negative",
+          "It stays constant"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the process in which a heavy unstable nucleus splits into two lighter nuclei, releasing energy?",
+        "options": [
+          "Nuclear fusion",
+          "Radioactive decay only",
+          "Electron capture",
+          "Nuclear fission"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+]

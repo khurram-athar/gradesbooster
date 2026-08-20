@@ -1,0 +1,6282 @@
+[
+  {
+    "subject": "Language",
+    "number": 1,
+    "title": "Parts of Speech in Action",
+    "questions": [
+      {
+        "q": "Which word in the sentence The curious cat crept quietly is an adjective?",
+        "options": [
+          "Curious",
+          "Crept",
+          "Quietly",
+          "Cat"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which word is a verb in the sentence The children laughed loudly at the show?",
+        "options": [
+          "Show",
+          "Loudly",
+          "Laughed",
+          "Children"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which part of speech is the word quickly in the sentence She ran quickly?",
+        "options": [
+          "Adverb",
+          "Noun",
+          "Adjective",
+          "Pronoun"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "In the sentence Tom and Jerry ran home, which word is a conjunction?",
+        "options": [
+          "Ran",
+          "Jerry",
+          "And",
+          "Tom"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which word functions as a pronoun in the sentence She gave him the book?",
+        "options": [
+          "She",
+          "Gave",
+          "The",
+          "Book"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Identify the preposition in the sentence The cat sat under the table.",
+        "options": [
+          "Sat",
+          "Under",
+          "Table",
+          "Cat"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is a common noun?",
+        "options": [
+          "Toronto",
+          "City",
+          "James",
+          "Canada"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is a proper noun?",
+        "options": [
+          "Mountain",
+          "City",
+          "River",
+          "Ottawa"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which word is an interjection in the sentence Wow, that was an amazing goal?",
+        "options": [
+          "That",
+          "Goal",
+          "Was",
+          "Wow"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the sentence The tall boy jumped high, which word describes how the boy jumped?",
+        "options": [
+          "Tall",
+          "Jumped",
+          "High",
+          "Boy"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence uses a plural noun correctly?",
+        "options": [
+          "The dogs ran in the park.",
+          "The dogs run in park.",
+          "The dog ran in the parks.",
+          "Dog run park."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which word is a possessive pronoun?",
+        "options": [
+          "Tall",
+          "Under",
+          "Their",
+          "Quickly"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Identify the verb in the sentence Birds fly south for the winter.",
+        "options": [
+          "Birds",
+          "Winter",
+          "South",
+          "Fly"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these words is an adjective describing size?",
+        "options": [
+          "Run",
+          "Quickly",
+          "Enormous",
+          "Under"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which word in the sentence He carefully painted the fence is an adverb?",
+        "options": [
+          "Carefully",
+          "Fence",
+          "He",
+          "Painted"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 2,
+    "title": "Sentence Types and Structure",
+    "questions": [
+      {
+        "q": "Which type of sentence expresses strong emotion and ends with an exclamation mark?",
+        "options": [
+          "Imperative",
+          "Declarative",
+          "Interrogative",
+          "Exclamatory"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence is an example of an interrogative sentence?",
+        "options": [
+          "Close the door.",
+          "The sky is blue.",
+          "Where did you put the keys?",
+          "What a great day!"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence is a command, known as an imperative sentence?",
+        "options": [
+          "The bus arrived late.",
+          "Are you ready?",
+          "Please sit down.",
+          "What a surprise!"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A sentence that simply states a fact is called what type of sentence?",
+        "options": [
+          "Exclamatory",
+          "Interrogative",
+          "Declarative",
+          "Imperative"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is a compound sentence?",
+        "options": [
+          "I studied hard, and I passed the test.",
+          "Study hard now.",
+          "I studied hard.",
+          "Did I study hard."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the main clause of a sentence also called?",
+        "options": [
+          "Subordinate clause",
+          "Independent clause",
+          "Fragment",
+          "Dependent clause"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is a complete sentence rather than a fragment?",
+        "options": [
+          "The dog barked loudly.",
+          "Running down the street.",
+          "Under the old bridge.",
+          "Because it was raining."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which conjunction best completes the sentence: I wanted to go outside, ___ it started raining?",
+        "options": [
+          "And",
+          "But",
+          "So",
+          "Because"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence contains a dependent clause?",
+        "options": [
+          "We kept working.",
+          "We stopped working.",
+          "It was late.",
+          "Although it was late, we kept working."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What punctuation mark usually ends an interrogative sentence?",
+        "options": [
+          "An exclamation mark",
+          "A period",
+          "A comma",
+          "A question mark"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence correctly uses a semicolon to join two related independent clauses?",
+        "options": [
+          "I finished; my homework then watched.",
+          "I finished my homework then I watched television.",
+          "I finished my homework; then I watched television.",
+          "I finished my homework, then, I watched."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Identify the subject in the sentence The tall oak tree swayed in the wind.",
+        "options": [
+          "Swayed",
+          "In the wind",
+          "The tall oak tree",
+          "The wind"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Identify the predicate in the sentence The children played soccer after school.",
+        "options": [
+          "After school",
+          "Played soccer after school",
+          "Soccer",
+          "The children"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence is grammatically correct?",
+        "options": [
+          "She and me went the store.",
+          "Me and her went to store.",
+          "She and I went to the store.",
+          "Her and me went to the store."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a group of words that looks like a sentence but is missing a subject or verb called?",
+        "options": [
+          "A clause",
+          "A fragment",
+          "A phrase",
+          "A paragraph"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 3,
+    "title": "Reading Comprehension Strategies",
+    "questions": [
+      {
+        "q": "What is the term for the central message or lesson of a story?",
+        "options": [
+          "Theme",
+          "Character",
+          "Plot",
+          "Setting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the sequence of events in a story called?",
+        "options": [
+          "Setting",
+          "Theme",
+          "Mood",
+          "Plot"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes where and when a story takes place?",
+        "options": [
+          "Plot",
+          "Setting",
+          "Climax",
+          "Theme"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when a reader uses clues from the text to figure out something not directly stated?",
+        "options": [
+          "Summarizing",
+          "Predicting",
+          "Skimming",
+          "Making an inference"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a brief restatement of the main points of a text?",
+        "options": [
+          "Citation",
+          "Prediction",
+          "Inference",
+          "Summary"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which strategy involves guessing what will happen next based on clues in the text?",
+        "options": [
+          "Inferring",
+          "Skimming",
+          "Summarizing",
+          "Predicting"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the highest point of tension in a story called?",
+        "options": [
+          "The resolution",
+          "The setting",
+          "The climax",
+          "The exposition"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the part of a story where the conflict is resolved?",
+        "options": [
+          "The climax",
+          "The resolution",
+          "The exposition",
+          "The rising action"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the main problem or struggle in a story called?",
+        "options": [
+          "The conflict",
+          "The resolution",
+          "The setting",
+          "The theme"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which term describes a story told from the perspective of a character using I and we?",
+        "options": [
+          "First-person point of view",
+          "Second-person point of view",
+          "Third-person point of view",
+          "Omniscient point of view"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is it called when an author gives hints about events that will happen later in the story?",
+        "options": [
+          "Resolution",
+          "Climax",
+          "Flashback",
+          "Foreshadowing"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a scene that interrupts the present action to show an earlier event called?",
+        "options": [
+          "The resolution",
+          "The climax",
+          "Foreshadowing",
+          "A flashback"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the emotional atmosphere a story creates in the reader?",
+        "options": [
+          "Setting",
+          "Mood",
+          "Plot",
+          "Tone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for the authors attitude toward the subject of a text?",
+        "options": [
+          "Setting",
+          "Mood",
+          "Tone",
+          "Theme"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What reading strategy involves quickly looking over a text to get a general idea before reading closely?",
+        "options": [
+          "Inferring",
+          "Summarizing",
+          "Predicting",
+          "Skimming"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 4,
+    "title": "Figurative Language and Poetic Devices",
+    "questions": [
+      {
+        "q": "What figure of speech compares two unlike things using like or as?",
+        "options": [
+          "A metaphor",
+          "Personification",
+          "Hyperbole",
+          "A simile"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What figure of speech directly states that one thing is another, without using like or as?",
+        "options": [
+          "Alliteration",
+          "Onomatopoeia",
+          "A metaphor",
+          "A simile"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when human qualities are given to a non-human object or animal?",
+        "options": [
+          "Personification",
+          "A metaphor",
+          "A simile",
+          "Hyperbole"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes extreme exaggeration used for effect?",
+        "options": [
+          "Hyperbole",
+          "Understatement",
+          "Simile",
+          "Metaphor"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence uses a simile?",
+        "options": [
+          "Sunshine smiled.",
+          "She smiled brightly.",
+          "Her smile was as bright as the sun.",
+          "Her smile was sunshine."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence contains an example of personification?",
+        "options": [
+          "The wind whispered through the trees.",
+          "The wind was strong.",
+          "The trees are tall.",
+          "The trees swayed."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the repetition of the same beginning consonant sound in nearby words called?",
+        "options": [
+          "Assonance",
+          "Onomatopoeia",
+          "Rhyme",
+          "Alliteration"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a word that imitates the sound it represents, such as buzz or crash?",
+        "options": [
+          "Onomatopoeia",
+          "Simile",
+          "Alliteration",
+          "Metaphor"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a short, memorable saying that expresses a general truth called?",
+        "options": [
+          "A proverb",
+          "A metaphor",
+          "A simile",
+          "An ode"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which line best demonstrates hyperbole?",
+        "options": [
+          "Your room needs cleaning.",
+          "I have told you twice to clean your room.",
+          "I have told you a million times to clean your room.",
+          "Please clean your room."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the repeated pattern of stressed and unstressed syllables in a poem called?",
+        "options": [
+          "Rhythm",
+          "Alliteration",
+          "Rhyme",
+          "Simile"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is it called when the last words of two or more lines of a poem sound alike?",
+        "options": [
+          "Rhythm",
+          "Rhyme",
+          "Alliteration",
+          "Assonance"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In the phrase the classroom was a zoo, what figure of speech is being used?",
+        "options": [
+          "A simile",
+          "A metaphor",
+          "Onomatopoeia",
+          "Alliteration"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a group of lines forming a unit in a poem, similar to a paragraph?",
+        "options": [
+          "A verse line",
+          "A stanza",
+          "A refrain",
+          "A rhyme scheme"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which phrase is an example of alliteration?",
+        "options": [
+          "She sang a song",
+          "Slippery silver snakes slid silently",
+          "The bright red car",
+          "The dog ran fast"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 5,
+    "title": "Grammar: Verb Tenses and Agreement",
+    "questions": [
+      {
+        "q": "Which sentence correctly uses the past tense of the verb to run?",
+        "options": [
+          "She runs to the store yesterday.",
+          "She run to the store yesterday.",
+          "She ran to the store yesterday.",
+          "She running to the store yesterday."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence correctly uses the future tense?",
+        "options": [
+          "They travelled to Ottawa next summer.",
+          "They traveling to Ottawa next summer.",
+          "They will travel to Ottawa next summer.",
+          "They travel to Ottawa next summer."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which sentence shows correct subject-verb agreement?",
+        "options": [
+          "The students are studying for the test.",
+          "The students studying for the test.",
+          "The student are studying for the test.",
+          "The students is studying for the test."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence uses the present perfect tense correctly?",
+        "options": [
+          "She finish her homework.",
+          "She finishing her homework.",
+          "She have finished her homework.",
+          "She has finished her homework."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the past tense form of the irregular verb go?",
+        "options": [
+          "Went",
+          "Goed",
+          "Going",
+          "Gone"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly uses a helping verb?",
+        "options": [
+          "He is playing soccer this afternoon.",
+          "He plays is soccer this afternoon.",
+          "He playing soccer this afternoon.",
+          "He soccer is playing this afternoon."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence demonstrates correct subject-verb agreement with a collective noun?",
+        "options": [
+          "The teams practices every Tuesday.",
+          "The team are practices every Tuesday.",
+          "The team practice every Tuesday.",
+          "The team practices every Tuesday."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which verb form correctly completes the sentence: By next year, she ___ here for a decade?",
+        "options": [
+          "will living",
+          "will have lived",
+          "living",
+          "have lived"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence uses the past progressive tense correctly?",
+        "options": [
+          "I was reading when the phone rang.",
+          "I read when the phone was ringing rang.",
+          "I reading when the phone rang.",
+          "I am reading when the phone rang."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Identify the correctly conjugated verb: She ___ to school every day.",
+        "options": [
+          "walks",
+          "walk",
+          "walked to",
+          "walking"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence contains a verb in the present tense?",
+        "options": [
+          "He has played the guitar every evening.",
+          "He plays the guitar every evening.",
+          "He played the guitar every evening.",
+          "He will play the guitar every evening."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence correctly matches a plural subject with a plural verb?",
+        "options": [
+          "The books is on the shelf.",
+          "The books are on the shelf.",
+          "The book are on the shelf.",
+          "The books was on the shelf."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for a verb that does not follow the standard -ed pattern in the past tense?",
+        "options": [
+          "An irregular verb",
+          "A regular verb",
+          "A linking verb",
+          "A helping verb"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly uses the verb to be in agreement with its subject?",
+        "options": [
+          "We am excited about the trip.",
+          "We is excited about the trip.",
+          "We be excited about the trip.",
+          "We are excited about the trip."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence uses a linking verb correctly?",
+        "options": [
+          "The soup smell delicious.",
+          "The soup to smell delicious.",
+          "The soup smells delicious.",
+          "The soup smelling delicious."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 6,
+    "title": "Vocabulary Building: Context Clues",
+    "questions": [
+      {
+        "q": "What are hints within a sentence that help a reader figure out the meaning of an unfamiliar word called?",
+        "options": [
+          "Footnotes",
+          "Captions",
+          "Citations",
+          "Context clues"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the sentence The arid desert had almost no rainfall, what does arid most likely mean?",
+        "options": [
+          "Rocky",
+          "Dry",
+          "Cold",
+          "Wet"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of context clue provides a word that means almost the same as the unfamiliar word?",
+        "options": [
+          "A synonym clue",
+          "An example clue",
+          "An antonym clue",
+          "A definition clue"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What type of context clue provides a word that means the opposite of the unfamiliar word?",
+        "options": [
+          "A synonym clue",
+          "An antonym clue",
+          "An example clue",
+          "A definition clue"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In the sentence Unlike his gregarious brother, Sam was shy and quiet, what does gregarious most likely mean?",
+        "options": [
+          "Sociable",
+          "Silent",
+          "Angry",
+          "Tired"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a word that has the same or almost the same meaning as another word called?",
+        "options": [
+          "A synonym",
+          "A homophone",
+          "A prefix",
+          "An antonym"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a word that means the opposite of another word called?",
+        "options": [
+          "A suffix",
+          "A homophone",
+          "A synonym",
+          "An antonym"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What are word parts added to the beginning of a word to change its meaning called?",
+        "options": [
+          "Suffixes",
+          "Synonyms",
+          "Prefixes",
+          "Roots"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What are word parts added to the end of a word to change its meaning called?",
+        "options": [
+          "Roots",
+          "Prefixes",
+          "Antonyms",
+          "Suffixes"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the word unhappiness, which part is the prefix?",
+        "options": [
+          "Un",
+          "Ness",
+          "Happy",
+          "Happi"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the prefix re- usually mean, as in the word rewrite?",
+        "options": [
+          "Before",
+          "Under",
+          "Not",
+          "Again"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What does the suffix -less usually mean, as in the word fearless?",
+        "options": [
+          "Before",
+          "Again",
+          "Without",
+          "Full of"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Two words that sound alike but have different meanings and spellings, such as their and there, are called what?",
+        "options": [
+          "Prefixes",
+          "Synonyms",
+          "Antonyms",
+          "Homophones"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "In the sentence The meticulous editor checked every single detail carefully, what does meticulous most likely mean?",
+        "options": [
+          "Extremely fast",
+          "Very forgetful",
+          "Very lazy",
+          "Extremely careful"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What resource is most useful for finding the precise definition of an unfamiliar word?",
+        "options": [
+          "A calculator",
+          "A calendar",
+          "A dictionary",
+          "An atlas"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 7,
+    "title": "Persuasive Writing Techniques",
+    "questions": [
+      {
+        "q": "What is the main goal of persuasive writing?",
+        "options": [
+          "To entertain with a fictional story",
+          "To simply describe an event",
+          "To give step by step instructions",
+          "To convince the reader to agree with a viewpoint"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a claim supported by evidence and reasoning in persuasive writing called?",
+        "options": [
+          "A summary",
+          "A setting",
+          "A plot",
+          "An argument"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What are facts, statistics, or examples used to support a claim called?",
+        "options": [
+          "Opinions",
+          "Themes",
+          "Evidence",
+          "Fragments"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What persuasive technique appeals to the readers emotions?",
+        "options": [
+          "Syntax",
+          "Logos",
+          "Pathos",
+          "Ethos"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What persuasive technique appeals to logic and reasoning?",
+        "options": [
+          "Pathos",
+          "Ethos",
+          "Diction",
+          "Logos"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What persuasive technique appeals to the credibility or trustworthiness of the writer?",
+        "options": [
+          "Logos",
+          "Tone",
+          "Ethos",
+          "Pathos"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a writer acknowledges an opposing viewpoint before responding to it?",
+        "options": [
+          "A counterargument",
+          "A conclusion",
+          "A thesis statement",
+          "A summary"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the sentence that states the main argument of a persuasive essay usually called?",
+        "options": [
+          "A counterargument",
+          "A thesis statement",
+          "A hook",
+          "A citation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an opening sentence designed to grab the readers attention called?",
+        "options": [
+          "A citation",
+          "A hook",
+          "A summary",
+          "A thesis"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is an example of a strong persuasive claim rather than a fact?",
+        "options": [
+          "The school day begins at nine.",
+          "The school has four hundred students.",
+          "Schools should start later in the morning.",
+          "There are twelve months in a year."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is it called when a writer uses biased or misleading reasoning to persuade?",
+        "options": [
+          "A thesis statement",
+          "A counterargument",
+          "A logical fallacy",
+          "A citation"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is citing a reliable source important in persuasive writing?",
+        "options": [
+          "It has no effect on how convincing an essay is",
+          "It replaces the need for a clear argument",
+          "It strengthens the credibility of the argument being made",
+          "It makes the essay longer with no real benefit"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the specific word choices a writer makes to influence the reader?",
+        "options": [
+          "Rhyme",
+          "Diction",
+          "Plot",
+          "Setting"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which sentence is written objectively rather than persuasively?",
+        "options": [
+          "The library is clearly the best place in town.",
+          "Everyone should visit the library more often.",
+          "The library is open from nine to five.",
+          "You must visit the library today."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What should the concluding paragraph of a persuasive essay typically do?",
+        "options": [
+          "Restate the main argument and leave a lasting impression",
+          "Simply repeat the title of the essay",
+          "Avoid mentioning the main argument at all",
+          "Introduce a brand new unrelated argument"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 8,
+    "title": "Punctuation and Capitalization Rules",
+    "questions": [
+      {
+        "q": "What punctuation mark is used to end a declarative sentence?",
+        "options": [
+          "A period",
+          "A colon",
+          "An exclamation mark",
+          "A question mark"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What punctuation mark separates items in a list?",
+        "options": [
+          "A question mark",
+          "A period",
+          "A comma",
+          "A hyphen"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What punctuation mark is used to show possession, as in the dogs bone?",
+        "options": [
+          "A semicolon",
+          "A comma",
+          "A colon",
+          "An apostrophe"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence uses capitalization correctly?",
+        "options": [
+          "we Visited Toronto last spring.",
+          "we visited toronto last spring.",
+          "We visited Toronto last spring.",
+          "We Visited toronto Last Spring."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What punctuation mark introduces a list or explanation, as in the sentence Bring these items: a pencil, a notebook, and a ruler?",
+        "options": [
+          "A colon",
+          "A dash",
+          "A comma",
+          "A semicolon"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these words should always begin with a capital letter?",
+        "options": [
+          "Mountain",
+          "Canada",
+          "City",
+          "River"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What punctuation mark is used inside a sentence to join two closely related independent clauses?",
+        "options": [
+          "A question mark",
+          "A semicolon",
+          "A colon",
+          "A comma"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which title is capitalized correctly for a book?",
+        "options": [
+          "The Lion King",
+          "the Lion king",
+          "The lion King",
+          "the lion king"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the punctuation mark used to join two words into a compound word, such as well-known?",
+        "options": [
+          "A semicolon",
+          "A colon",
+          "A dash",
+          "A hyphen"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which sentence demonstrates correct capitalization of a proper noun?",
+        "options": [
+          "My favourite subject is Mathematics, taught by Mr Chen.",
+          "my favourite Subject is Mathematics taught by Mr chen.",
+          "my favourite subject is mathematics, taught by mr chen.",
+          "My Favourite subject is mathematics, taught by mr Chen."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What punctuation mark is typically used at the end of an abbreviation such as Dr or Mr?",
+        "options": [
+          "A comma",
+          "A colon",
+          "A period",
+          "A question mark"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these sentences correctly uses a comma after an introductory phrase?",
+        "options": [
+          "After the game the team celebrated together.",
+          "After the game the team, celebrated together.",
+          "After the game, the team celebrated together.",
+          "After, the game the team celebrated together."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for punctuation marks used in pairs to set off extra information, such as parentheses?",
+        "options": [
+          "Parentheses",
+          "Semicolons",
+          "Colons",
+          "Hyphens"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which sentence correctly capitalizes the days of the week and months?",
+        "options": [
+          "We will meet on Monday in the month of june.",
+          "we will meet on monday in the month of June.",
+          "We will meet on Monday in the month of June.",
+          "We will meet on monday in the month of june."
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What punctuation mark shows a strong break or pause, often used for emphasis in informal writing?",
+        "options": [
+          "A dash",
+          "A colon",
+          "A period",
+          "A comma"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 9,
+    "title": "Narrative Writing Elements",
+    "questions": [
+      {
+        "q": "What is the introduction of a narrative that sets up characters and setting called?",
+        "options": [
+          "The exposition",
+          "The climax",
+          "The resolution",
+          "The falling action"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the series of events that build tension leading up to the climax called?",
+        "options": [
+          "The resolution",
+          "The falling action",
+          "The rising action",
+          "The exposition"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the series of events that occur after the climax, leading toward the resolution, called?",
+        "options": [
+          "The rising action",
+          "The exposition",
+          "The climax",
+          "The falling action"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the main character of a story?",
+        "options": [
+          "The narrator",
+          "The protagonist",
+          "The antagonist",
+          "The setting"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes the character or force that opposes the main character?",
+        "options": [
+          "The antagonist",
+          "The narrator",
+          "The protagonist",
+          "The theme"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is dialogue used for in a narrative?",
+        "options": [
+          "To describe the setting only",
+          "To show conversation between characters",
+          "To state the theme directly",
+          "To list events in order"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when a writer shows a characters traits through actions and dialogue rather than stating them directly?",
+        "options": [
+          "Flashback",
+          "Foreshadowing",
+          "Exposition",
+          "Showing rather than telling"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the person telling the story called?",
+        "options": [
+          "The antagonist",
+          "The narrator",
+          "The author",
+          "The protagonist"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes a struggle between a character and nature, such as surviving a storm?",
+        "options": [
+          "Character versus self",
+          "Character versus character",
+          "Character versus nature",
+          "Character versus society"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What term describes an internal struggle within a characters own mind?",
+        "options": [
+          "Character versus nature",
+          "Character versus self",
+          "Character versus character",
+          "Character versus society"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why do writers often include sensory details in a narrative?",
+        "options": [
+          "To help the reader imagine the scene vividly",
+          "To avoid describing the setting",
+          "To remove the need for characters",
+          "To make the story shorter"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a brief outline of the events in a story used for planning called?",
+        "options": [
+          "A rubric",
+          "A story map",
+          "A thesis statement",
+          "A bibliography"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What point of view uses pronouns such as he, she, and they to describe the action?",
+        "options": [
+          "Instructional point of view",
+          "First-person point of view",
+          "Third-person point of view",
+          "Second-person point of view"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the order in which events happen in a story?",
+        "options": [
+          "Cause and effect",
+          "Chronological order",
+          "Compare and contrast",
+          "Problem and solution"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might an author choose to end a narrative with an unresolved conflict?",
+        "options": [
+          "Because narratives are never allowed to end with tension",
+          "To leave the reader thinking or to set up a sequel",
+          "To confuse the reader with no purpose",
+          "Because the story has no theme"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Language",
+    "number": 10,
+    "title": "Media Literacy and Critical Reading",
+    "questions": [
+      {
+        "q": "What is the term for identifying the purpose behind a piece of media, such as a commercial?",
+        "options": [
+          "Predicting the ending",
+          "Analyzing the authors purpose",
+          "Skimming the text",
+          "Summarizing the plot"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when an advertisement uses a celebrity to promote a product?",
+        "options": [
+          "A citation",
+          "A testimonial technique",
+          "A statistic",
+          "A bandwagon technique"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What persuasive advertising technique suggests that everyone else is already using a product?",
+        "options": [
+          "A counterargument",
+          "The bandwagon technique",
+          "The testimonial technique",
+          "A statistic"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What should a careful reader do before trusting information found on a website?",
+        "options": [
+          "Only look at the pictures on the page",
+          "Check whether the source is reliable and credible",
+          "Ignore where the information came from",
+          "Assume every website is completely accurate"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is it called when a headline exaggerates or misrepresents a story to attract clicks?",
+        "options": [
+          "A summary",
+          "A thesis",
+          "A citation",
+          "Clickbait"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is bias in a media source?",
+        "options": [
+          "A summary of a text",
+          "A completely balanced and neutral viewpoint",
+          "A type of punctuation mark",
+          "A tendency to favour one perspective over others"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is it useful to compare multiple news sources when researching a topic?",
+        "options": [
+          "News sources always report identical information",
+          "It helps reveal different perspectives and check for accuracy",
+          "Comparing sources never changes understanding of a topic",
+          "It always makes research take less time"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the difference between a fact and an opinion?",
+        "options": [
+          "An opinion can always be proven true or false",
+          "A fact and an opinion are always exactly the same",
+          "A fact is always shorter than an opinion",
+          "A fact can be proven true, while an opinion reflects a personal belief"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What visual media technique uses charts and images to present data quickly?",
+        "options": [
+          "An infographic",
+          "A thesis statement",
+          "A bibliography",
+          "A citation"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might advertisers use bright colours and exciting music in a commercial?",
+        "options": [
+          "To ensure viewers ignore the product entirely",
+          "Bright colours and music have no effect on viewers",
+          "To make the commercial harder to understand",
+          "To create positive emotions connected to their product"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What does it mean to evaluate the credibility of an author?",
+        "options": [
+          "To count how many words the author used",
+          "To ignore who wrote the piece entirely",
+          "To judge a text only by its length",
+          "To consider whether the author has expertise and is trustworthy"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is propaganda?",
+        "options": [
+          "A completely neutral summary of events",
+          "Information, often biased, spread to promote a particular viewpoint",
+          "A type of punctuation used in formal writing",
+          "A citation format used in essays"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why should a reader be cautious about information shared widely on social media?",
+        "options": [
+          "Social media information is always fact-checked automatically",
+          "Sharing information widely always guarantees it is true",
+          "Every post on social media is written by an expert",
+          "It is not always verified or accurate before being shared"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the purpose of a call to action in an advertisement?",
+        "options": [
+          "To describe unrelated historical events",
+          "To encourage the viewer to do something, such as buy a product",
+          "To discourage the viewer from taking any action",
+          "To provide a neutral summary of the product only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it helpful to ask who created a piece of media and why?",
+        "options": [
+          "Media creators never have any particular purpose in mind",
+          "Understanding the source and purpose helps judge its reliability and bias",
+          "Asking this question always makes media more confusing",
+          "This question is never relevant to understanding media"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 1,
+    "title": "Place Value and Whole Number Operations",
+    "questions": [
+      {
+        "q": "What is the value of the digit 7 in the number 472,981?",
+        "options": [
+          "700,000",
+          "7,000",
+          "70,000",
+          "7"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 3,482 + 5,769?",
+        "options": [
+          "9,251",
+          "9,151",
+          "8,251",
+          "9,351"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 8,004 - 2,567?",
+        "options": [
+          "6,437",
+          "5,437",
+          "5,347",
+          "5,537"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is 236 x 4?",
+        "options": [
+          "844",
+          "934",
+          "964",
+          "944"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 1,458 divided by 6?",
+        "options": [
+          "243",
+          "233",
+          "234",
+          "253"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Round 48,672 to the nearest thousand.",
+        "options": [
+          "49,000",
+          "48,000",
+          "50,000",
+          "48,700"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which number is written correctly in expanded form for 5,309?",
+        "options": [
+          "5,000 + 30 + 9",
+          "5,000 + 300 + 9",
+          "5,000 + 300 + 90",
+          "500 + 300 + 9"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the product of 15 and 12?",
+        "options": [
+          "170",
+          "190",
+          "160",
+          "180"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the quotient when 936 is divided by 8?",
+        "options": [
+          "107",
+          "116",
+          "127",
+          "117"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of these numbers is a multiple of 9?",
+        "options": [
+          "63",
+          "70",
+          "46",
+          "52"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these numbers is a factor of 48?",
+        "options": [
+          "8",
+          "10",
+          "9",
+          "14"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the greatest common factor of 18 and 24?",
+        "options": [
+          "6",
+          "12",
+          "9",
+          "3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the least common multiple of 4 and 6?",
+        "options": [
+          "8",
+          "12",
+          "24",
+          "10"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "In order of operations, which operation should be completed first in the expression 6 + 3 x 2?",
+        "options": [
+          "Subtraction",
+          "Multiplication",
+          "Division",
+          "Addition"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of the expression 5 + 3 x 2 - 4?",
+        "options": [
+          "8",
+          "6",
+          "9",
+          "7"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 2,
+    "title": "Fractions Fundamentals",
+    "questions": [
+      {
+        "q": "Which fraction is equivalent to 3/4?",
+        "options": [
+          "3/8",
+          "8/3",
+          "4/3",
+          "6/8"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 1/3 + 1/6?",
+        "options": [
+          "2/3",
+          "1/2",
+          "1/6",
+          "1/9"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is 3/5 - 1/5?",
+        "options": [
+          "4/5",
+          "1/5",
+          "2/5",
+          "3/10"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 2/3 of 12?",
+        "options": [
+          "6",
+          "9",
+          "8",
+          "4"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which fraction is greater, 5/6 or 3/4?",
+        "options": [
+          "3/4",
+          "They are equal",
+          "Cannot be determined",
+          "5/6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the simplest form of 12/16?",
+        "options": [
+          "3/4",
+          "2/3",
+          "6/8",
+          "4/3"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 1/2 x 2/3?",
+        "options": [
+          "3/4",
+          "1/6",
+          "2/3",
+          "1/3"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 4/5 divided by 2?",
+        "options": [
+          "2/5",
+          "1/5",
+          "8/5",
+          "4/5"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What mixed number is equivalent to 11/4?",
+        "options": [
+          "2 1/4",
+          "3 1/4",
+          "1 3/4",
+          "2 3/4"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Convert the improper fraction 17/5 to a mixed number.",
+        "options": [
+          "3 1/5",
+          "2 2/5",
+          "4 2/5",
+          "3 2/5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is an improper fraction?",
+        "options": [
+          "1/2",
+          "3/4",
+          "9/4",
+          "2/5"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the reciprocal of 3/7?",
+        "options": [
+          "3/7",
+          "7/3",
+          "7/4",
+          "4/7"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which fraction represents the shaded portion if 5 out of 8 equal parts of a shape are shaded?",
+        "options": [
+          "3/8",
+          "5/3",
+          "8/5",
+          "5/8"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 3/4 + 1/2?",
+        "options": [
+          "1 1/2",
+          "1 1/4",
+          "3/6",
+          "5/6"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Order these fractions from least to greatest: 1/4, 1/2, 3/8.",
+        "options": [
+          "1/2, 3/8, 1/4",
+          "1/4, 3/8, 1/2",
+          "1/2, 1/4, 3/8",
+          "3/8, 1/4, 1/2"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 3,
+    "title": "Decimals Operations",
+    "questions": [
+      {
+        "q": "What is 3.45 + 2.7?",
+        "options": [
+          "6.05",
+          "6.25",
+          "5.15",
+          "6.15"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 8.6 - 3.29?",
+        "options": [
+          "5.21",
+          "5.31",
+          "4.31",
+          "5.41"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is 4.2 x 3?",
+        "options": [
+          "12.2",
+          "14.2",
+          "12.6",
+          "10.6"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 9.6 divided by 4?",
+        "options": [
+          "3.4",
+          "1.4",
+          "2.4",
+          "2.6"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which decimal is equivalent to the fraction 3/4?",
+        "options": [
+          "0.34",
+          "0.75",
+          "0.25",
+          "0.43"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Round 6.278 to the nearest tenth.",
+        "options": [
+          "6.2",
+          "6.3",
+          "6.0",
+          "6.28"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which decimal is greatest: 0.45, 0.5, 0.405, 0.045?",
+        "options": [
+          "0.405",
+          "0.5",
+          "0.45",
+          "0.045"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of the digit 6 in the number 24.361?",
+        "options": [
+          "Six ones",
+          "Six thousandths",
+          "Six hundredths",
+          "Six tenths"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is 0.6 written as a fraction in simplest form?",
+        "options": [
+          "6/10",
+          "3/10",
+          "6/5",
+          "3/5"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is 5.25 rounded to the nearest whole number?",
+        "options": [
+          "5",
+          "5.3",
+          "4",
+          "6"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 12.5 x 10?",
+        "options": [
+          "12.5",
+          "125",
+          "1.25",
+          "1250"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is 0.08 x 100?",
+        "options": [
+          "800",
+          "8",
+          "0.8",
+          "80"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is equal to 2 and 3 tenths?",
+        "options": [
+          "0.23",
+          "23",
+          "2.03",
+          "2.3"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the sum of 1.5, 2.25, and 0.75?",
+        "options": [
+          "4.25",
+          "3.5",
+          "4.5",
+          "4.05"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which decimal has the same value as 7/10?",
+        "options": [
+          "0.7",
+          "0.007",
+          "0.07",
+          "7.0"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 4,
+    "title": "Ratios Rates and Percent",
+    "questions": [
+      {
+        "q": "In a class of 20 students, 8 are boys. What is the ratio of boys to girls?",
+        "options": [
+          "8:20",
+          "2:3",
+          "3:2",
+          "2:5"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A recipe uses 2 cups of flour for every 3 cups of sugar. What is the ratio of flour to sugar?",
+        "options": [
+          "3:2",
+          "2:3",
+          "2:5",
+          "1:3"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If a car travels 240 kilometres in 4 hours, what is its speed in kilometres per hour?",
+        "options": [
+          "40 km per hour",
+          "70 km per hour",
+          "60 km per hour",
+          "50 km per hour"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What percent is equivalent to the fraction 1/4?",
+        "options": [
+          "25%",
+          "14%",
+          "40%",
+          "20%"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 50% of 80?",
+        "options": [
+          "40",
+          "45",
+          "35",
+          "50"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 25% of 60?",
+        "options": [
+          "20",
+          "25",
+          "15",
+          "10"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "If 3 out of 10 students in a class walk to school, what percent walk to school?",
+        "options": [
+          "13%",
+          "30%",
+          "3%",
+          "70%"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Express the ratio 15 to 25 in simplest form.",
+        "options": [
+          "5:3",
+          "3:5",
+          "1:5",
+          "15:25"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A store sells 4 apples for 2 dollars. What is the unit rate in dollars per apple?",
+        "options": [
+          "0.5 dollars per apple",
+          "4 dollars per apple",
+          "1 dollar per apple",
+          "2 dollars per apple"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 10% of 250?",
+        "options": [
+          "15",
+          "20",
+          "35",
+          "25"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "If a shirt originally costs 40 dollars and is on sale for 25% off, what is the discount amount?",
+        "options": [
+          "10 dollars",
+          "15 dollars",
+          "20 dollars",
+          "30 dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which ratio is equivalent to 4:6?",
+        "options": [
+          "6:4",
+          "4:3",
+          "2:3",
+          "3:4"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A survey shows 45 out of 60 people prefer tea over coffee. What percent prefer tea?",
+        "options": [
+          "75%",
+          "60%",
+          "45%",
+          "80%"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If the ratio of cats to dogs at a shelter is 3:5 and there are 15 cats, how many dogs are there?",
+        "options": [
+          "25",
+          "20",
+          "30",
+          "15"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is 75% written as a fraction in simplest form?",
+        "options": [
+          "3/5",
+          "75/10",
+          "3/4",
+          "7/5"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 5,
+    "title": "Geometry: Angles and Shapes",
+    "questions": [
+      {
+        "q": "What is the sum of the interior angles of a triangle?",
+        "options": [
+          "270 degrees",
+          "180 degrees",
+          "90 degrees",
+          "360 degrees"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the sum of the interior angles of a quadrilateral?",
+        "options": [
+          "90 degrees",
+          "360 degrees",
+          "270 degrees",
+          "180 degrees"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of angle measures exactly 90 degrees?",
+        "options": [
+          "A straight angle",
+          "An acute angle",
+          "An obtuse angle",
+          "A right angle"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of angle measures less than 90 degrees?",
+        "options": [
+          "An obtuse angle",
+          "An acute angle",
+          "A right angle",
+          "A reflex angle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of angle measures more than 90 degrees but less than 180 degrees?",
+        "options": [
+          "An obtuse angle",
+          "A straight angle",
+          "An acute angle",
+          "A right angle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a triangle with all three sides of equal length?",
+        "options": [
+          "An equilateral triangle",
+          "A right triangle",
+          "A scalene triangle",
+          "An isosceles triangle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a triangle with exactly two sides of equal length?",
+        "options": [
+          "An equilateral triangle",
+          "An isosceles triangle",
+          "An obtuse triangle",
+          "A scalene triangle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for a triangle with no sides of equal length?",
+        "options": [
+          "An isosceles triangle",
+          "A scalene triangle",
+          "A right triangle",
+          "An equilateral triangle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How many sides does a hexagon have?",
+        "options": [
+          "8",
+          "7",
+          "5",
+          "6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How many sides does an octagon have?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "6"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for two angles that add up to 90 degrees?",
+        "options": [
+          "Supplementary angles",
+          "Adjacent angles",
+          "Vertical angles",
+          "Complementary angles"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for two angles that add up to 180 degrees?",
+        "options": [
+          "Complementary angles",
+          "Corresponding angles",
+          "Supplementary angles",
+          "Vertical angles"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a quadrilateral with exactly one pair of parallel sides called?",
+        "options": [
+          "A trapezoid",
+          "A parallelogram",
+          "A rectangle",
+          "A rhombus"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a quadrilateral with four equal sides and four right angles called?",
+        "options": [
+          "A trapezoid",
+          "A rhombus",
+          "A rectangle",
+          "A square"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes two shapes that have the same shape and size?",
+        "options": [
+          "Parallel",
+          "Symmetrical",
+          "Congruent",
+          "Similar"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 6,
+    "title": "Measurement: Perimeter Area and Volume",
+    "questions": [
+      {
+        "q": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+        "options": [
+          "13 cm",
+          "20 cm",
+          "40 cm",
+          "26 cm"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the area of a rectangle with length 9 cm and width 4 cm?",
+        "options": [
+          "26 square cm",
+          "13 square cm",
+          "40 square cm",
+          "36 square cm"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the area of a triangle with a base of 10 cm and a height of 6 cm?",
+        "options": [
+          "24 square cm",
+          "30 square cm",
+          "16 square cm",
+          "60 square cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the perimeter of a square with side length 7 cm?",
+        "options": [
+          "14 cm",
+          "21 cm",
+          "28 cm",
+          "49 cm"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the area of a square with side length 6 cm?",
+        "options": [
+          "12 square cm",
+          "24 square cm",
+          "36 square cm",
+          "30 square cm"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What unit is most appropriate for measuring the volume of a shoebox?",
+        "options": [
+          "Centimetres",
+          "Kilograms",
+          "Cubic centimetres",
+          "Square centimetres"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the volume of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?",
+        "options": [
+          "60 cubic cm",
+          "35 cubic cm",
+          "20 cubic cm",
+          "12 cubic cm"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "How many centimetres are in one metre?",
+        "options": [
+          "10000",
+          "1000",
+          "10",
+          "100"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "How many millimetres are in one centimetre?",
+        "options": [
+          "10",
+          "1",
+          "1000",
+          "100"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the formula for the area of a circle, where r is the radius?",
+        "options": [
+          "Pi times diameter",
+          "Pi times r squared",
+          "r squared only",
+          "2 times pi times r"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the formula for the circumference of a circle, where d is the diameter?",
+        "options": [
+          "d squared",
+          "2 times d",
+          "Pi times d",
+          "Pi times r squared"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the approximate area of a circle with a radius of 3 cm, using pi as approximately 3.14?",
+        "options": [
+          "About 9.4 square cm",
+          "About 28.3 square cm",
+          "About 18.8 square cm",
+          "About 56.5 square cm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the perimeter of a rectangular garden that is 12 metres long and 7 metres wide?",
+        "options": [
+          "19 metres",
+          "38 metres",
+          "84 metres",
+          "42 metres"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If a cube has a side length of 4 cm, what is its volume?",
+        "options": [
+          "16 cubic cm",
+          "48 cubic cm",
+          "64 cubic cm",
+          "12 cubic cm"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which unit would best measure the capacity of a bathtub?",
+        "options": [
+          "Litres",
+          "Square metres",
+          "Millimetres",
+          "Grams"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 7,
+    "title": "Patterning and Algebraic Thinking",
+    "questions": [
+      {
+        "q": "What is the next number in the pattern 3, 6, 9, 12, ___?",
+        "options": [
+          "14",
+          "18",
+          "16",
+          "15"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the missing number in the pattern 2, 4, 8, 16, ___?",
+        "options": [
+          "32",
+          "24",
+          "20",
+          "30"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of x in the equation x + 7 = 15?",
+        "options": [
+          "9",
+          "8",
+          "7",
+          "22"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the value of y in the equation 3y = 21?",
+        "options": [
+          "6",
+          "8",
+          "7",
+          "18"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of n in the equation n - 5 = 12?",
+        "options": [
+          "7",
+          "22",
+          "17",
+          "12"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which expression represents the phrase five more than a number x?",
+        "options": [
+          "5 - x",
+          "5x",
+          "x + 5",
+          "x - 5"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the rule for the pattern 5, 10, 15, 20?",
+        "options": [
+          "Subtract 5 each time",
+          "Add 5 each time",
+          "Multiply by 2 each time",
+          "Add 10 each time"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "If the pattern rule is start at 4 and add 3 each time, what are the first four terms?",
+        "options": [
+          "4, 7, 10, 13",
+          "4, 8, 12, 16",
+          "3, 6, 9, 12",
+          "4, 7, 11, 15"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of the expression 4a + 3 when a equals 2?",
+        "options": [
+          "14",
+          "10",
+          "11",
+          "9"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Solve for x: 2x + 4 = 14.",
+        "options": [
+          "4",
+          "5",
+          "7",
+          "6"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of the following is a variable in the expression 3x + 5?",
+        "options": [
+          "+",
+          "5",
+          "3",
+          "x"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a rule that describes how a pattern grows or shrinks?",
+        "options": [
+          "A pattern rule",
+          "A constant",
+          "An equation",
+          "A variable"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If a pattern starts at 20 and decreases by 4 each time, what is the fifth term?",
+        "options": [
+          "8",
+          "0",
+          "12",
+          "4"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which equation correctly represents the statement a number doubled is 18?",
+        "options": [
+          "2x = 18",
+          "x - 2 = 18",
+          "x + 2 = 18",
+          "x divided by 2 = 18"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the missing term in the pattern 1, 4, 9, 16, ___, representing square numbers?",
+        "options": [
+          "25",
+          "36",
+          "24",
+          "20"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 8,
+    "title": "Data Management and Probability",
+    "questions": [
+      {
+        "q": "What is the term for the middle value in a set of ordered data?",
+        "options": [
+          "The median",
+          "The mode",
+          "The mean",
+          "The range"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the value that appears most often in a data set?",
+        "options": [
+          "The median",
+          "The mean",
+          "The range",
+          "The mode"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the average of a set of numbers?",
+        "options": [
+          "The median",
+          "The mode",
+          "The range",
+          "The mean"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the difference between the highest and lowest values in a data set?",
+        "options": [
+          "The mode",
+          "The median",
+          "The mean",
+          "The range"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the mean of the numbers 4, 8, 6, 10, and 2?",
+        "options": [
+          "7",
+          "5",
+          "8",
+          "6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the median of the numbers 3, 7, 9, 2, 5?",
+        "options": [
+          "5",
+          "9",
+          "3",
+          "7"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the mode of the data set 4, 6, 6, 8, 9, 6?",
+        "options": [
+          "6",
+          "4",
+          "8",
+          "9"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If a coin is flipped once, what is the probability of it landing on heads?",
+        "options": [
+          "1 out of 2",
+          "1 out of 3",
+          "1 out of 4",
+          "1 out of 6"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "If a standard die is rolled once, what is the probability of rolling a 4?",
+        "options": [
+          "1 out of 4",
+          "1 out of 3",
+          "1 out of 6",
+          "1 out of 2"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of graph uses bars to compare quantities across categories?",
+        "options": [
+          "A scatter plot",
+          "A bar graph",
+          "A line graph",
+          "A circle graph"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of graph is best for showing change over time?",
+        "options": [
+          "A bar graph",
+          "A line graph",
+          "A circle graph",
+          "A pictograph"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of graph shows data as slices of a whole?",
+        "options": [
+          "A bar graph",
+          "A pictograph",
+          "A circle graph",
+          "A line graph"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "In a bag with 3 red marbles and 7 blue marbles, what is the probability of picking a red marble?",
+        "options": [
+          "3 out of 3",
+          "3 out of 7",
+          "7 out of 10",
+          "3 out of 10"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for an event that is certain to happen?",
+        "options": [
+          "Unlikely",
+          "Impossible",
+          "Certain",
+          "Likely"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for an event that cannot happen at all?",
+        "options": [
+          "Impossible",
+          "Certain",
+          "Unlikely",
+          "Likely"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 9,
+    "title": "Integers and Number Lines",
+    "questions": [
+      {
+        "q": "What is the value of -5 + 3?",
+        "options": [
+          "Positive 2",
+          "Positive 8",
+          "Negative 8",
+          "Negative 2"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of -8 - 4?",
+        "options": [
+          "Positive 4",
+          "Positive 12",
+          "Negative 12",
+          "Negative 4"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the value of 6 + -9?",
+        "options": [
+          "Negative 3",
+          "Negative 15",
+          "Positive 3",
+          "Positive 15"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of -7 x 3?",
+        "options": [
+          "Positive 10",
+          "Positive 21",
+          "Negative 10",
+          "Negative 21"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of -12 divided by -4?",
+        "options": [
+          "Negative 8",
+          "Positive 3",
+          "Negative 3",
+          "Positive 4"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which integer is greater, -3 or -8?",
+        "options": [
+          "Negative 8",
+          "Cannot be determined",
+          "Negative 3",
+          "They are equal"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the opposite of the integer -6?",
+        "options": [
+          "-6",
+          "0",
+          "-12",
+          "6"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the absolute value of -9?",
+        "options": [
+          "9",
+          "18",
+          "0",
+          "-9"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "On a number line, which integer is located three units to the left of 0?",
+        "options": [
+          "Positive 3",
+          "Positive 4",
+          "Negative 4",
+          "Negative 3"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of -4 + -6?",
+        "options": [
+          "Positive 10",
+          "Negative 2",
+          "Negative 10",
+          "Positive 2"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which list correctly orders the integers from least to greatest: -5, 2, -1, 0?",
+        "options": [
+          "Negative 5, negative 1, 0, 2",
+          "Negative 1, negative 5, 0, 2",
+          "0, negative 1, negative 5, 2",
+          "2, 0, negative 1, negative 5"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "A submarine is at negative 120 metres relative to sea level. If it rises 45 metres, what is its new position?",
+        "options": [
+          "Negative 165 metres",
+          "Negative 45 metres",
+          "Positive 75 metres",
+          "Negative 75 metres"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the value of 15 + -20?",
+        "options": [
+          "Negative 35",
+          "Negative 5",
+          "Positive 35",
+          "Positive 5"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which temperature is colder, negative 10 degrees or negative 3 degrees?",
+        "options": [
+          "Negative 10 degrees",
+          "Cannot be determined",
+          "Negative 3 degrees",
+          "They are equal"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the value of -9 x -2?",
+        "options": [
+          "Positive 18",
+          "Negative 11",
+          "Negative 18",
+          "Positive 11"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Math",
+    "number": 10,
+    "title": "Problem Solving with Multi-Step Word Problems",
+    "questions": [
+      {
+        "q": "A bakery sells 24 muffins in the morning and 18 in the afternoon. How many muffins did it sell in total?",
+        "options": [
+          "32",
+          "46",
+          "42",
+          "36"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Maria has 45 dollars. She spends 12 dollars on a book and 9 dollars on lunch. How much money does she have left?",
+        "options": [
+          "24 dollars",
+          "33 dollars",
+          "21 dollars",
+          "27 dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "A school has 6 classes with 25 students in each class. How many students are there in total?",
+        "options": [
+          "155",
+          "120",
+          "130",
+          "150"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "A train travels 60 kilometres per hour for 3 hours. How far does it travel in total?",
+        "options": [
+          "200 kilometres",
+          "160 kilometres",
+          "180 kilometres",
+          "150 kilometres"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Jamal buys 3 packs of pencils with 8 pencils in each pack, then gives away 6 pencils. How many pencils does he have left?",
+        "options": [
+          "20",
+          "16",
+          "18",
+          "24"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A rectangular field is 40 metres long and 25 metres wide. What is its area?",
+        "options": [
+          "800 square metres",
+          "1,100 square metres",
+          "1,000 square metres",
+          "900 square metres"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A recipe that serves 4 people needs 2 cups of rice. How many cups of rice are needed to serve 10 people?",
+        "options": [
+          "6 cups",
+          "8 cups",
+          "5 cups",
+          "4 cups"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Sam saves 15 dollars a week. How many weeks will it take him to save 120 dollars?",
+        "options": [
+          "10 weeks",
+          "8 weeks",
+          "6 weeks",
+          "9 weeks"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A store had 200 shirts. It sold 35% of them. How many shirts were sold?",
+        "options": [
+          "65",
+          "75",
+          "70",
+          "60"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Three friends share 96 dollars equally. How much does each friend receive?",
+        "options": [
+          "30 dollars",
+          "28 dollars",
+          "32 dollars",
+          "36 dollars"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "A movie starts at 3:45 pm and lasts 2 hours and 20 minutes. What time does it end?",
+        "options": [
+          "6:15 pm",
+          "6:05 pm",
+          "5:55 pm",
+          "6:00 pm"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A gardener plants 8 rows of 12 flowers each. How many flowers are planted in total?",
+        "options": [
+          "88",
+          "104",
+          "84",
+          "96"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "A car uses 6 litres of fuel to travel 90 kilometres. How many kilometres can it travel on 1 litre?",
+        "options": [
+          "12 kilometres",
+          "15 kilometres",
+          "10 kilometres",
+          "20 kilometres"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "A charity raised 3,200 dollars from 4 fundraising events, roughly equal at each. About how much was raised per event?",
+        "options": [
+          "700 dollars",
+          "900 dollars",
+          "750 dollars",
+          "800 dollars"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "A box contains 144 crayons packed equally into 12 smaller boxes. How many crayons are in each smaller box?",
+        "options": [
+          "14",
+          "16",
+          "12",
+          "10"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 1,
+    "title": "Biodiversity and Ecosystems Basics",
+    "questions": [
+      {
+        "q": "What does the term biodiversity refer to?",
+        "options": [
+          "The variety of living things in an area",
+          "The number of humans in a city",
+          "The study of rocks and minerals",
+          "The distance between planets"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a group of different species living and interacting in the same area called?",
+        "options": [
+          "A cell",
+          "An organism",
+          "A community",
+          "A population"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a habitat?",
+        "options": [
+          "A type of rock formation",
+          "A unit of measurement",
+          "A tool used by scientists",
+          "The natural place where an organism lives"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following best describes an ecosystem?",
+        "options": [
+          "Only the animals found in a desert",
+          "A single organism living alone",
+          "Only the plants found in a forest",
+          "Living and nonliving things interacting in an environment"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes all the members of one species living in the same area?",
+        "options": [
+          "A community",
+          "A biome",
+          "A population",
+          "An ecosystem"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is biodiversity important to an ecosystem?",
+        "options": [
+          "It has no effect on ecosystems",
+          "It makes ecosystems less stable",
+          "It only matters for endangered species",
+          "It helps ecosystems stay balanced and resilient"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is an invasive species?",
+        "options": [
+          "A species introduced to an area where it does not naturally belong",
+          "A species that only lives in water",
+          "A species found only in cold climates",
+          "A species that has gone extinct"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which human activity is most likely to reduce biodiversity?",
+        "options": [
+          "Destroying natural habitats",
+          "Planting native species",
+          "Creating wildlife reserves",
+          "Reducing pollution"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a food chain?",
+        "options": [
+          "A sequence showing how energy passes from one organism to another",
+          "A list of foods eaten by humans",
+          "A type of weather pattern",
+          "A method of classifying rocks"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the role of a producer in a food chain?",
+        "options": [
+          "It eats only meat",
+          "It breaks down dead organisms",
+          "It eats both plants and animals",
+          "It makes its own food using sunlight"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for an animal that eats only plants?",
+        "options": [
+          "A decomposer",
+          "A carnivore",
+          "A herbivore",
+          "An omnivore"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for an organism that breaks down dead plants and animals?",
+        "options": [
+          "A predator",
+          "A producer",
+          "A consumer",
+          "A decomposer"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What might happen to an ecosystem if one species becomes extinct?",
+        "options": [
+          "Nothing would change at all",
+          "Every other species would also go extinct",
+          "The balance of the food chain could be disrupted",
+          "The ecosystem would immediately improve"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of the following is an example of a natural habitat?",
+        "options": [
+          "A factory",
+          "A wetland",
+          "A parking lot",
+          "A shopping mall"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one way humans can help protect biodiversity?",
+        "options": [
+          "Increasing pollution in rivers",
+          "Clearing more forests for development",
+          "Creating protected natural areas",
+          "Introducing more invasive species"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 2,
+    "title": "Classification of Living Things",
+    "questions": [
+      {
+        "q": "What is the science of classifying living things called?",
+        "options": [
+          "Taxonomy",
+          "Geology",
+          "Meteorology",
+          "Astronomy"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these is a characteristic shared by all living things?",
+        "options": [
+          "They all live in water",
+          "They are all green",
+          "They grow and reproduce",
+          "They all have fur"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What are the two main kingdoms traditionally used to classify most familiar organisms?",
+        "options": [
+          "Rocks and minerals",
+          "Solids and liquids",
+          "Plants and animals",
+          "Stars and planets"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a vertebrate?",
+        "options": [
+          "A worm",
+          "A fish",
+          "A jellyfish",
+          "An insect"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is an example of an invertebrate?",
+        "options": [
+          "A spider",
+          "A snake",
+          "A bird",
+          "A dog"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for animals that are able to regulate their own body temperature?",
+        "options": [
+          "Decomposers",
+          "Producers",
+          "Cold-blooded animals",
+          "Warm-blooded animals"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for animals whose body temperature changes with their environment?",
+        "options": [
+          "Warm-blooded animals",
+          "Carnivores",
+          "Cold-blooded animals",
+          "Herbivores"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which group of animals is typically covered in feathers?",
+        "options": [
+          "Amphibians",
+          "Reptiles",
+          "Birds",
+          "Mammals"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which group of animals typically has fur or hair and feeds young with milk?",
+        "options": [
+          "Fish",
+          "Mammals",
+          "Amphibians",
+          "Birds"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a defining feature of amphibians?",
+        "options": [
+          "They can only live underwater",
+          "They can only live in trees",
+          "They can live both in water and on land",
+          "They have no skeleton"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of the following is classified as a reptile?",
+        "options": [
+          "A frog",
+          "A trout",
+          "A snake",
+          "A robin"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What structure do fish use to breathe underwater?",
+        "options": [
+          "Gills",
+          "Feathers",
+          "Lungs",
+          "Fur"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do scientists classify living things into groups?",
+        "options": [
+          "To change the way organisms reproduce",
+          "To eliminate the need for further research",
+          "To organize and study organisms based on shared traits",
+          "To make organisms grow faster"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a plant adaptation for survival?",
+        "options": [
+          "Fur to stay warm in winter",
+          "Wings to fly to new habitats",
+          "Gills to breathe underwater",
+          "Deep roots to find water in dry soil"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes a trait that helps an organism survive in its environment?",
+        "options": [
+          "A habitat",
+          "A population",
+          "An adaptation",
+          "A classification"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 3,
+    "title": "Flight and Aerodynamics",
+    "questions": [
+      {
+        "q": "What force pulls an aircraft down toward the ground?",
+        "options": [
+          "Drag",
+          "Gravity",
+          "Lift",
+          "Thrust"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What force pushes an aircraft forward through the air?",
+        "options": [
+          "Gravity",
+          "Drag",
+          "Lift",
+          "Thrust"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What force allows an aircraft to rise into the air?",
+        "options": [
+          "Weight",
+          "Lift",
+          "Drag",
+          "Gravity"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What force acts against the forward motion of an aircraft through the air?",
+        "options": [
+          "Thrust",
+          "Lift",
+          "Gravity",
+          "Drag"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the curved shape of an airplane wing called?",
+        "options": [
+          "A fuselage",
+          "A propeller",
+          "A rudder",
+          "An airfoil"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following best explains why birds can fly?",
+        "options": [
+          "Gravity pushes them upward",
+          "Their wings and light bodies help generate lift",
+          "Their heavy bodies help them float",
+          "They have no need for lift or thrust"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What part of an airplane controls its up and down movement, called pitch?",
+        "options": [
+          "The wheels",
+          "The windows",
+          "The rudder",
+          "The elevators"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What part of an airplane controls its left and right turning, called yaw?",
+        "options": [
+          "The elevators",
+          "The wing flaps",
+          "The rudder",
+          "The landing gear"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why do airplane wings need to be shaped a certain way to generate lift?",
+        "options": [
+          "The shape affects how air flows above and below the wing",
+          "Wings only work if they are completely flat",
+          "The shape only affects how the plane looks",
+          "Wing shape has no effect on lift"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to lift when an aircraft increases its speed, all else being equal?",
+        "options": [
+          "Lift disappears completely",
+          "Lift generally increases",
+          "Lift always decreases",
+          "Lift stays exactly the same"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is a natural example of flight adaptation?",
+        "options": [
+          "Long tails to increase drag only",
+          "Thick fur to increase weight",
+          "Large heavy skulls in birds",
+          "Hollow bones in birds to reduce weight"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What do propellers or jet engines primarily provide to an aircraft?",
+        "options": [
+          "Lift",
+          "Weight",
+          "Thrust",
+          "Gravity"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these best describes a glider?",
+        "options": [
+          "A machine that only generates gravity",
+          "An aircraft that flies without an engine, using air currents",
+          "An aircraft that can only fly underwater",
+          "A type of bird with no wings"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why are parachutes designed with a large surface area?",
+        "options": [
+          "To eliminate gravity entirely",
+          "To increase speed while falling",
+          "To reduce air resistance completely",
+          "To increase drag and slow a fall"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is an example of a human-made flying structure inspired by nature?",
+        "options": [
+          "A boat inspired by tree roots",
+          "A car inspired by fish gills",
+          "An airplane wing inspired by bird wings",
+          "A bridge inspired by cloud shapes"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 4,
+    "title": "Simple Machines and Forces",
+    "questions": [
+      {
+        "q": "What is a simple machine that consists of a bar that pivots on a fixed point called?",
+        "options": [
+          "A pulley",
+          "A lever",
+          "A screw",
+          "A wedge"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the fixed point on a lever called?",
+        "options": [
+          "The incline",
+          "The fulcrum",
+          "The axle",
+          "The wedge"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What simple machine is a wheel with a rope or chain running along a groove?",
+        "options": [
+          "A wedge",
+          "A pulley",
+          "An inclined plane",
+          "A lever"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What simple machine is a flat surface set at an angle, used to raise objects?",
+        "options": [
+          "A screw",
+          "An inclined plane",
+          "A pulley",
+          "A wheel and axle"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What simple machine is essentially an inclined plane wrapped around a cylinder?",
+        "options": [
+          "A screw",
+          "A pulley",
+          "A lever",
+          "A wedge"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What simple machine is made of two inclined planes joined together, often used for cutting or splitting?",
+        "options": [
+          "A lever",
+          "A wedge",
+          "A pulley",
+          "A screw"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What force must be overcome to start moving an object resting on a surface?",
+        "options": [
+          "Friction",
+          "Lift",
+          "Gravity",
+          "Thrust"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a push or pull that can cause an object to move, stop, or change direction?",
+        "options": [
+          "A force",
+          "An adaptation",
+          "A habitat",
+          "An ecosystem"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which simple machine would be most useful for lifting a heavy flag up a pole?",
+        "options": [
+          "A pulley",
+          "A lever alone",
+          "A wedge",
+          "A screw"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why do machines like ramps make it easier to move heavy objects?",
+        "options": [
+          "They increase gravity on the object",
+          "They make the object weigh less permanently",
+          "They reduce the force needed by increasing the distance moved",
+          "They eliminate the need for any force at all"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is mechanical advantage?",
+        "options": [
+          "The speed at which a machine breaks down",
+          "The benefit gained by using a machine to reduce the effort needed",
+          "The total weight of a machine",
+          "The colour of a machine"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of the following is an example of a wheel and axle in everyday life?",
+        "options": [
+          "A knife",
+          "A doorknob",
+          "A ramp",
+          "A seesaw"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the amount of force needed when you use a longer lever arm?",
+        "options": [
+          "The lever stops working",
+          "The force needed stays exactly the same",
+          "The force needed always increases",
+          "The force needed generally decreases"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which simple machine would best help someone split a log into pieces?",
+        "options": [
+          "A wedge",
+          "A lever alone",
+          "A pulley",
+          "A wheel and axle"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is friction?",
+        "options": [
+          "A type of simple machine",
+          "A force that resists motion between two surfaces",
+          "A force that always pulls objects downward",
+          "A force that only exists in space"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 5,
+    "title": "Electricity Fundamentals",
+    "questions": [
+      {
+        "q": "What is the flow of electric charge through a conductor called?",
+        "options": [
+          "A sound wave",
+          "An electric current",
+          "A chemical reaction",
+          "A magnetic field"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What material allows electricity to pass through it easily?",
+        "options": [
+          "A resistor",
+          "An insulator",
+          "A conductor",
+          "A magnet"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What material does not allow electricity to pass through it easily?",
+        "options": [
+          "An insulator",
+          "A switch",
+          "A conductor",
+          "A battery"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is a good conductor of electricity?",
+        "options": [
+          "Copper",
+          "Rubber",
+          "Wood",
+          "Plastic"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is a good insulator of electricity?",
+        "options": [
+          "Iron",
+          "Aluminum",
+          "Rubber",
+          "Copper"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What device stores chemical energy and converts it into electrical energy?",
+        "options": [
+          "A magnet",
+          "A switch",
+          "A battery",
+          "A resistor"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the unit used to measure electric current?",
+        "options": [
+          "The metre",
+          "The watt",
+          "The ampere",
+          "The volt"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the unit used to measure electrical potential difference, or voltage?",
+        "options": [
+          "The volt",
+          "The watt",
+          "The ampere",
+          "The ohm"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is static electricity?",
+        "options": [
+          "A type of magnetic field",
+          "A buildup of electric charge on the surface of an object",
+          "A form of light energy",
+          "The continuous flow of electricity through a wire"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What device is used to open or close an electrical circuit?",
+        "options": [
+          "A switch",
+          "A capacitor",
+          "A magnet",
+          "A resistor"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is it dangerous to touch electrical wires with wet hands?",
+        "options": [
+          "Water has no effect on electrical safety",
+          "Water is a conductor and increases the risk of shock",
+          "Water always insulates against electricity completely",
+          "Wet hands make electricity disappear"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to a light bulb in a circuit if the circuit is broken or open?",
+        "options": [
+          "The bulb changes colour",
+          "The bulb gets brighter",
+          "Nothing changes at all",
+          "The bulb turns off because current cannot flow"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which everyday object commonly uses electrical energy to produce light?",
+        "options": [
+          "A wooden spoon",
+          "A lamp",
+          "A cotton shirt",
+          "A rock"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What safety precaution should be taken before working with electrical devices?",
+        "options": [
+          "Touch exposed wires to test them",
+          "Make sure the device is unplugged and hands are dry",
+          "Never turn off any electrical devices",
+          "Always work with wet hands for safety"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for the path that electric current follows?",
+        "options": [
+          "A conductor",
+          "A resistor",
+          "A magnet",
+          "A circuit"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 6,
+    "title": "Electrical Circuits and Safety",
+    "questions": [
+      {
+        "q": "What is a series circuit?",
+        "options": [
+          "A circuit with no components at all",
+          "A circuit where all parts are connected in a single loop",
+          "A circuit that never allows current to flow",
+          "A circuit with multiple separate loops for current"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a parallel circuit?",
+        "options": [
+          "A circuit with no battery",
+          "A circuit with more than one path for current to flow",
+          "A circuit that cannot be closed",
+          "A circuit with only a single path for current"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What happens to the other bulbs in a series circuit if one bulb burns out?",
+        "options": [
+          "All the bulbs stop working",
+          "Only that one bulb stops working, others stay lit",
+          "Nothing happens to any bulb",
+          "All the bulbs get brighter"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens to the other bulbs in a parallel circuit if one bulb burns out?",
+        "options": [
+          "The battery immediately stops working",
+          "The other bulbs generally continue to work",
+          "The circuit becomes an insulator",
+          "All the bulbs stop working"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What are the three basic parts needed to make a simple electrical circuit?",
+        "options": [
+          "A battery, a magnet, and a rock",
+          "An insulator, a rock, and glass",
+          "A switch, a rock, and a rubber band",
+          "A power source, a conductor, and a load"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a load in an electrical circuit?",
+        "options": [
+          "A type of insulator only",
+          "A component that uses electrical energy, such as a light bulb",
+          "A component that always blocks electricity",
+          "A device that generates gravity"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why should electrical outlets never be touched with wet hands?",
+        "options": [
+          "Wet hands make outlets safer",
+          "Water has no relationship to electrical safety",
+          "Water conducts electricity and increases the risk of electric shock",
+          "Water always stops electricity completely"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of these is an example of a renewable source used to generate electricity?",
+        "options": [
+          "Solar energy",
+          "Coal",
+          "Natural gas",
+          "Oil"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the purpose of a fuse or circuit breaker in a household circuit?",
+        "options": [
+          "To create a magnetic field only",
+          "To increase the voltage in a circuit permanently",
+          "To make lights brighter automatically",
+          "To stop current flow if the circuit becomes overloaded"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why might an electrician use rubber-handled tools?",
+        "options": [
+          "Rubber insulates against electric shock",
+          "Rubber conducts electricity efficiently",
+          "Rubber attracts electric current",
+          "Rubber has no protective properties"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What happens when a circuit is described as open?",
+        "options": [
+          "The circuit becomes a conductor permanently",
+          "The circuit has too much voltage",
+          "Current cannot flow because the path is broken",
+          "Current flows freely without interruption"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What happens when a circuit is described as closed?",
+        "options": [
+          "Current can flow because the path is complete",
+          "The circuit becomes an insulator",
+          "Current is permanently blocked",
+          "The circuit has no power source"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following symbols would typically represent a battery in a circuit diagram?",
+        "options": [
+          "A zigzag line",
+          "Two parallel lines of different lengths",
+          "A single straight line",
+          "A circle with an X"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it important to never overload an electrical outlet with too many devices?",
+        "options": [
+          "It has no effect on safety",
+          "Overloading always makes devices run more efficiently",
+          "It can cause overheating and increase fire risk",
+          "Outlets can never be overloaded"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What should you do if you see a downed power line?",
+        "options": [
+          "Stay far away and alert an adult or authorities",
+          "Touch it carefully to check if it is safe",
+          "Ignore it completely and walk under it",
+          "Move it out of the way yourself"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 7,
+    "title": "Space: The Solar System",
+    "questions": [
+      {
+        "q": "What is the name of the star at the centre of our solar system?",
+        "options": [
+          "Sirius",
+          "The Moon",
+          "The Sun",
+          "Polaris"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How many planets are in our solar system?",
+        "options": [
+          "Nine",
+          "Seven",
+          "Eight",
+          "Ten"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which planet is closest to the Sun?",
+        "options": [
+          "Mars",
+          "Venus",
+          "Mercury",
+          "Earth"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which planet is known as the Red Planet?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Mars",
+          "Venus"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which planet is the largest in our solar system?",
+        "options": [
+          "Saturn",
+          "Earth",
+          "Jupiter",
+          "Neptune"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which planet is known for its prominent ring system?",
+        "options": [
+          "Saturn",
+          "Venus",
+          "Mercury",
+          "Earth"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a large body of rock and metal that orbits the Sun, often found in a belt between Mars and Jupiter?",
+        "options": [
+          "A satellite",
+          "An asteroid",
+          "A comet",
+          "A star"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a comet mostly made of?",
+        "options": [
+          "Only liquid water",
+          "Only metal",
+          "Ice, dust, and rock",
+          "Only gas with no solid parts"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a natural object that orbits a planet, such as the Moon orbiting Earth?",
+        "options": [
+          "A moon or satellite",
+          "A comet",
+          "An asteroid belt",
+          "A star"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Approximately how long does it take Earth to complete one orbit around the Sun?",
+        "options": [
+          "About one year",
+          "About ten years",
+          "About one month",
+          "About one day"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Approximately how long does it take Earth to complete one full rotation on its axis?",
+        "options": [
+          "About one week",
+          "About one year",
+          "About one day",
+          "About one hour"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What causes the different phases of the Moon as seen from Earth?",
+        "options": [
+          "The Sun disappearing at night",
+          "The Moon changing shape physically",
+          "The Moon moving closer to Earth each night",
+          "Changing amounts of the sunlit half of the Moon that are visible"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which planet is farthest from the Sun in our solar system?",
+        "options": [
+          "Mercury",
+          "Neptune",
+          "Mars",
+          "Earth"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the closest star to Earth other than the Sun called?",
+        "options": [
+          "The Moon",
+          "Polaris",
+          "Venus",
+          "Proxima Centauri"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What term describes the path a planet follows around the Sun?",
+        "options": [
+          "An orbit",
+          "An eclipse",
+          "A constellation",
+          "A rotation"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 8,
+    "title": "Space: Earth Moon and Sun",
+    "questions": [
+      {
+        "q": "What causes day and night on Earth?",
+        "options": [
+          "The Sun moving around Earth",
+          "The Moon blocking the Sun",
+          "Earth orbiting the Sun",
+          "The rotation of Earth on its axis"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What causes the four seasons on Earth?",
+        "options": [
+          "The Moon changing position each season",
+          "Earth spinning faster in summer",
+          "The distance between Earth and the Moon",
+          "The tilt of Earths axis as it orbits the Sun"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a solar eclipse?",
+        "options": [
+          "When the Sun disappears permanently",
+          "When the Moon passes between the Sun and Earth, blocking sunlight",
+          "When the Moon turns completely dark every night",
+          "When Earth passes between the Sun and the Moon"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a lunar eclipse?",
+        "options": [
+          "When Earth and the Moon collide",
+          "When the Sun blocks the Moon directly",
+          "When the Moon passes between the Sun and Earth",
+          "When Earth passes between the Sun and the Moon"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What causes ocean tides on Earth?",
+        "options": [
+          "The gravitational pull of the Moon and Sun",
+          "Changes in ocean temperature only",
+          "Wind blowing across the ocean surface only",
+          "Earthquakes under the ocean floor"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the imaginary line Earth spins around?",
+        "options": [
+          "Its equator",
+          "Its axis",
+          "Its orbit",
+          "Its horizon"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why does the Moon appear to shine at night?",
+        "options": [
+          "It absorbs starlight and releases it",
+          "It produces its own light like a star",
+          "It reflects light from other planets only",
+          "It reflects sunlight toward Earth"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the imaginary line dividing Earth into the Northern and Southern hemispheres?",
+        "options": [
+          "The axis",
+          "The prime meridian",
+          "The equator",
+          "The horizon"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Approximately how long does it take the Moon to orbit Earth once?",
+        "options": [
+          "About one day",
+          "About one month",
+          "About one year",
+          "About one week"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why do we always see approximately the same side of the Moon from Earth?",
+        "options": [
+          "The Moon rotates at the same rate it orbits Earth",
+          "Earth does not rotate",
+          "The Moon does not rotate at all",
+          "The Moon is much larger than Earth"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What term describes the layer of gases surrounding Earth?",
+        "options": [
+          "The atmosphere",
+          "The crust",
+          "The mantle",
+          "The core"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of these best explains why the Sun appears much brighter than other stars in the sky?",
+        "options": [
+          "The Sun is the largest star in the universe",
+          "The Sun is the only star visible from Earth",
+          "Other stars produce no light at all",
+          "The Sun is far closer to Earth than other stars"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the point on Earth farthest north?",
+        "options": [
+          "The prime meridian",
+          "The equator",
+          "The North Pole",
+          "The South Pole"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of the following best describes a constellation?",
+        "options": [
+          "A recognizable pattern of stars in the night sky",
+          "A type of planet",
+          "A moon orbiting a planet",
+          "A single very bright star"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is it important for astronauts to wear specialized suits in space?",
+        "options": [
+          "Space lacks breathable air and has extreme temperatures",
+          "Space suits prevent astronauts from seeing",
+          "Space suits are only used for fashion",
+          "Space has too much oxygen without a suit"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 9,
+    "title": "Scientific Inquiry and the Scientific Method",
+    "questions": [
+      {
+        "q": "What is the first step typically taken in the scientific method?",
+        "options": [
+          "Building a working model",
+          "Asking a question or identifying a problem",
+          "Writing a final conclusion",
+          "Publishing the results"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a hypothesis?",
+        "options": [
+          "A summary of final results only",
+          "A random guess with no reasoning",
+          "A testable prediction about the outcome of an investigation",
+          "A proven scientific law"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for the factor that a scientist deliberately changes in an experiment?",
+        "options": [
+          "The independent variable",
+          "The constant",
+          "The dependent variable",
+          "The control"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the factor that is measured or observed as a result of changes in an experiment?",
+        "options": [
+          "The independent variable",
+          "The hypothesis",
+          "The constant",
+          "The dependent variable"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a controlled variable in an experiment?",
+        "options": [
+          "A random unpredictable factor",
+          "A factor kept the same throughout the experiment",
+          "A factor that is always changed",
+          "The final result of the experiment"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it important to repeat an experiment multiple times?",
+        "options": [
+          "To check whether results are consistent and reliable",
+          "Repetition is never useful in science",
+          "To make the experiment take longer for no reason",
+          "To ensure the hypothesis is always proven true"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What tool would a scientist use to measure the mass of an object?",
+        "options": [
+          "A balance or scale",
+          "A ruler",
+          "A stopwatch",
+          "A thermometer"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What tool would a scientist use to measure temperature?",
+        "options": [
+          "A balance",
+          "A graduated cylinder",
+          "A ruler",
+          "A thermometer"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What tool is commonly used to measure the volume of a liquid?",
+        "options": [
+          "A ruler",
+          "A graduated cylinder",
+          "A thermometer",
+          "A balance"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the purpose of a control group in an experiment?",
+        "options": [
+          "To eliminate the need for observations",
+          "To always change every variable at once",
+          "To make the experiment more confusing",
+          "To provide a baseline for comparison with the test group"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What should a scientist do if their results do not support their hypothesis?",
+        "options": [
+          "Change the data to match the hypothesis",
+          "Record the results honestly and reconsider the hypothesis",
+          "Stop the investigation without recording anything",
+          "Ignore the unexpected results completely"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the purpose of recording detailed observations during an experiment?",
+        "options": [
+          "To replace the need for a hypothesis",
+          "To make the report longer with no purpose",
+          "To avoid needing any data at all",
+          "To provide accurate evidence for analysis and conclusions"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a scientific theory, as distinguished from a simple guess?",
+        "options": [
+          "An unproven random idea",
+          "A rule that can never be tested",
+          "A single unchecked observation",
+          "A well-supported explanation based on repeated evidence"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why do scientists share their results with other researchers?",
+        "options": [
+          "So others can verify and build upon the findings",
+          "Sharing results is not part of scientific practice",
+          "To avoid any further testing",
+          "To keep discoveries completely secret"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is an example of a qualitative observation?",
+        "options": [
+          "The liquid had a mass of 50 grams",
+          "The container held 100 millilitres",
+          "The temperature was 22 degrees Celsius",
+          "The liquid turned a bright shade of blue"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "number": 10,
+    "title": "Human Impact and Sustainability",
+    "questions": [
+      {
+        "q": "What is the term for using resources in a way that meets present needs without harming future generations?",
+        "options": [
+          "Sustainability",
+          "Deforestation",
+          "Extinction",
+          "Pollution"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for cutting down large areas of forest?",
+        "options": [
+          "Conservation",
+          "Sustainability",
+          "Recycling",
+          "Deforestation"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the contamination of air, water, or soil with harmful substances?",
+        "options": [
+          "Conservation",
+          "Sustainability",
+          "Biodiversity",
+          "Pollution"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is a renewable energy source?",
+        "options": [
+          "Coal",
+          "Natural gas",
+          "Oil",
+          "Wind energy"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is a nonrenewable energy source?",
+        "options": [
+          "Hydropower",
+          "Solar energy",
+          "Wind energy",
+          "Coal"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the process of collecting and reprocessing materials for reuse called?",
+        "options": [
+          "Recycling",
+          "Deforestation",
+          "Pollution",
+          "Extinction"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one major effect of deforestation on ecosystems?",
+        "options": [
+          "Increased biodiversity for all species",
+          "Improved air quality with no downsides",
+          "No change to the surrounding environment",
+          "Loss of habitat for many species"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a species that no longer exists anywhere on Earth?",
+        "options": [
+          "Extinct",
+          "Endangered",
+          "Native",
+          "Invasive"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a species at serious risk of becoming extinct?",
+        "options": [
+          "Invasive",
+          "Endangered",
+          "Dominant",
+          "Extinct"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one simple way individuals can help reduce pollution?",
+        "options": [
+          "Using more single-use plastic",
+          "Increasing car emissions",
+          "Reducing, reusing, and recycling materials",
+          "Littering in natural areas"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why is protecting wetlands important for the environment?",
+        "options": [
+          "Wetlands increase pollution levels",
+          "Wetlands only exist to be drained for farmland",
+          "Wetlands filter water and provide habitat for many species",
+          "Wetlands have no ecological value"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the greenhouse effect?",
+        "options": [
+          "A type of renewable energy source",
+          "A method for growing plants indoors only",
+          "A process that cools the entire planet",
+          "The trapping of heat in the atmosphere by certain gases"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which human activity contributes most directly to air pollution from vehicles?",
+        "options": [
+          "Using public transit instead of cars",
+          "Burning fossil fuels for transportation",
+          "Riding a bicycle to school",
+          "Planting trees along roadways"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is conservation?",
+        "options": [
+          "The process of causing extinction",
+          "The protection and careful use of natural resources",
+          "A term unrelated to the environment",
+          "The complete use of all resources at once"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might a community choose to build a wildlife corridor connecting two natural areas?",
+        "options": [
+          "To prevent animals from ever migrating",
+          "To reduce biodiversity intentionally",
+          "To help animals move safely between habitats",
+          "To increase pollution in natural areas"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 1,
+    "title": "Canadian Government Structure",
+    "questions": [
+      {
+        "q": "What is the name of Canadas system of government, where citizens elect representatives?",
+        "options": [
+          "A representative democracy",
+          "An absolute monarchy",
+          "A theocracy",
+          "A dictatorship"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the title of the head of the Canadian federal government?",
+        "options": [
+          "The Mayor",
+          "The Governor",
+          "The Prime Minister",
+          "The President"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What are the three levels of government in Canada?",
+        "options": [
+          "National, regional, and global",
+          "Federal, state, and county only",
+          "Federal, provincial or territorial, and municipal",
+          "Local, national, and international"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which level of government is responsible for issues like national defence and foreign affairs?",
+        "options": [
+          "The provincial government",
+          "The school board",
+          "The municipal government",
+          "The federal government"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which level of government is typically responsible for services like local roads and garbage collection?",
+        "options": [
+          "The national government",
+          "The federal government",
+          "The provincial government",
+          "The municipal government"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the elected leader of a municipal government usually called?",
+        "options": [
+          "The premier",
+          "The governor general",
+          "The mayor",
+          "The prime minister"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the elected leader of a provincial government usually called?",
+        "options": [
+          "The chief justice",
+          "The prime minister",
+          "The premier",
+          "The mayor"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the name of the building where the Canadian federal government meets in Ottawa?",
+        "options": [
+          "The Senate Chamber alone",
+          "Parliament",
+          "City Hall",
+          "The Legislature"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the process called when citizens choose their representatives by voting?",
+        "options": [
+          "A referendum only",
+          "A ceremony",
+          "A census",
+          "An election"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "At what age can Canadian citizens typically begin voting in federal elections?",
+        "options": [
+          "Twenty-one",
+          "Eighteen",
+          "Fourteen",
+          "Sixteen"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the role of a member of parliament?",
+        "options": [
+          "To lead a single citys police department",
+          "To manage only international trade deals",
+          "To only manage local garbage collection",
+          "To represent their constituents and help create laws"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What document outlines the fundamental rights and freedoms of Canadians?",
+        "options": [
+          "The Declaration of Independence",
+          "The Magna Carta",
+          "The Canadian Charter of Rights and Freedoms",
+          "The Treaty of Versailles"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a formal written law passed by a government?",
+        "options": [
+          "A statute",
+          "A summary",
+          "A ceremony",
+          "A census"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which part of the federal government is responsible for reviewing and debating proposed laws known as bills?",
+        "options": [
+          "A local court alone",
+          "The municipal council",
+          "The school board",
+          "Parliament"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is it important for citizens to participate in elections?",
+        "options": [
+          "Voting allows citizens to influence decisions that affect their community",
+          "Voting has no effect on government decisions",
+          "Only government officials are allowed to vote",
+          "Elections are only symbolic with no real outcome"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 2,
+    "title": "Rights and Responsibilities of Citizens",
+    "questions": [
+      {
+        "q": "What is a right that all Canadian citizens are guaranteed under law?",
+        "options": [
+          "The right to prevent others from voting",
+          "The right to ignore all laws",
+          "Freedom of expression",
+          "The right to avoid paying any taxes"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a responsibility expected of Canadian citizens?",
+        "options": [
+          "Following the law",
+          "Refusing to pay any taxes",
+          "Avoiding all community involvement",
+          "Ignoring the rights of others"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for a formal request asking the government to take action on an issue?",
+        "options": [
+          "A treaty",
+          "A ballot",
+          "A census",
+          "A petition"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why are jury duty and voting considered civic responsibilities in Canada?",
+        "options": [
+          "They have no connection to civic life",
+          "They are optional activities with no real purpose",
+          "They are reserved only for government officials",
+          "They allow citizens to participate directly in the justice and political systems"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the purpose of paying taxes in a community?",
+        "options": [
+          "To fund public services such as schools and roads",
+          "To fund only private businesses",
+          "To eliminate the need for elections",
+          "To reduce the number of citizens in a country"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does freedom of expression allow citizens to do?",
+        "options": [
+          "Avoid listening to any other viewpoints",
+          "Share their opinions and ideas openly, within legal limits",
+          "Prevent others from expressing their opinions",
+          "Say anything at all with no consequences ever"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for treating all people fairly and without discrimination?",
+        "options": [
+          "Equality",
+          "Isolation",
+          "Censorship",
+          "Exclusion"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might a community hold a public consultation before making a major decision?",
+        "options": [
+          "To make decisions without any citizen involvement",
+          "To avoid hearing from citizens entirely",
+          "To gather input and opinions from citizens who will be affected",
+          "To eliminate the need for future elections"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is one way young people can be responsible and active citizens before they can vote?",
+        "options": [
+          "Avoiding all group activities",
+          "Refusing to follow any school rules",
+          "Ignoring local issues completely",
+          "Volunteering in their community"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for the fair and equal treatment of people under the law?",
+        "options": [
+          "Discrimination",
+          "Isolation",
+          "Exclusion",
+          "Justice"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is respecting diversity considered an important part of Canadian citizenship?",
+        "options": [
+          "All citizens are expected to share identical beliefs",
+          "Respecting diversity is discouraged by law",
+          "Canada is home to people from many different cultures and backgrounds",
+          "Diversity has no relevance to citizenship"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is civic engagement?",
+        "options": [
+          "A term used only for elected officials",
+          "Avoiding all contact with government",
+          "Active participation in the life and governance of a community",
+          "A type of tax paid by citizens"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What responsibility do citizens have toward public property, such as parks?",
+        "options": [
+          "To ignore public spaces entirely",
+          "To help take care of and respect shared spaces",
+          "To claim public property as personal property",
+          "To damage public property whenever possible"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why do many communities value volunteerism among citizens?",
+        "options": [
+          "Volunteering has no benefit to communities",
+          "Volunteering is required by federal law for everyone",
+          "Volunteers help support programs and people in need",
+          "Volunteers are paid large salaries for their work"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the relationship between rights and responsibilities in a democratic society?",
+        "options": [
+          "Rights come with responsibilities that help maintain a fair society",
+          "Only responsibilities matter, rights are unnecessary",
+          "Only rights matter, responsibilities are optional",
+          "Rights and responsibilities are unrelated concepts"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 3,
+    "title": "Canadas Geography and Regions",
+    "questions": [
+      {
+        "q": "How many provinces does Canada have?",
+        "options": [
+          "Thirteen",
+          "Eight",
+          "Ten",
+          "Twelve"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How many territories does Canada have?",
+        "options": [
+          "Three",
+          "Two",
+          "Five",
+          "Ten"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the capital city of Canada?",
+        "options": [
+          "Montreal",
+          "Toronto",
+          "Ottawa",
+          "Vancouver"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which province is located on the west coast of Canada?",
+        "options": [
+          "Quebec",
+          "Nova Scotia",
+          "British Columbia",
+          "Ontario"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which region of Canada includes the provinces of Nova Scotia, New Brunswick, and Prince Edward Island?",
+        "options": [
+          "The Pacific region",
+          "The Arctic region",
+          "The Atlantic region",
+          "The Prairie region"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which region of Canada is known for its large flat farmland areas and includes provinces such as Saskatchewan?",
+        "options": [
+          "The Arctic region",
+          "The Central region",
+          "The Atlantic region",
+          "The Prairie region"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following oceans borders Canada to the east?",
+        "options": [
+          "The Indian Ocean",
+          "The Pacific Ocean",
+          "The Atlantic Ocean",
+          "The Southern Ocean"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of the following oceans borders Canada to the north?",
+        "options": [
+          "The Pacific Ocean",
+          "The Arctic Ocean",
+          "The Atlantic Ocean",
+          "The Indian Ocean"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the largest province in Canada by land area?",
+        "options": [
+          "Manitoba",
+          "Ontario",
+          "British Columbia",
+          "Quebec"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which Canadian territory is located in the far north and known for its Inuit population?",
+        "options": [
+          "Alberta",
+          "Prince Edward Island",
+          "Nova Scotia",
+          "Nunavut"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What natural landform runs through much of western Canada, known for its high peaks?",
+        "options": [
+          "The Canadian Shield",
+          "The Prairies",
+          "The Rocky Mountains",
+          "The Great Lakes"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the term for a large geographic area made up of similar landforms, climate, and vegetation?",
+        "options": [
+          "A constituency",
+          "A region",
+          "A parliament",
+          "A municipality"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which body of water forms part of the border between Ontario and the United States?",
+        "options": [
+          "Hudson Bay",
+          "The Pacific Ocean",
+          "The Great Lakes",
+          "The Arctic Ocean"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the Canadian Shield?",
+        "options": [
+          "A mountain range in British Columbia",
+          "A large area of ancient rock covering much of central and eastern Canada",
+          "A type of government building",
+          "A river that flows through Quebec"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why does climate vary so much across different regions of Canada?",
+        "options": [
+          "Canada is a very small country with no climate variation",
+          "All regions of Canada have identical weather year round",
+          "Canada spans a huge area with different latitudes and landforms",
+          "Climate in Canada never changes by season"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 4,
+    "title": "Canadas Natural Resources",
+    "questions": [
+      {
+        "q": "What is a natural resource?",
+        "options": [
+          "A material found in nature that people use",
+          "A product made only in factories",
+          "A type of government document",
+          "A form of currency"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is an example of a renewable natural resource?",
+        "options": [
+          "Coal",
+          "Fresh water",
+          "Oil",
+          "Natural gas"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of the following is an example of a nonrenewable natural resource?",
+        "options": [
+          "Sunlight",
+          "Fresh water",
+          "Oil",
+          "Wind"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which Canadian industry relies heavily on cutting and processing trees?",
+        "options": [
+          "The film industry",
+          "The airline industry",
+          "The banking industry",
+          "The forestry industry"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which natural resource is closely tied to Canadas fishing industry on both coasts?",
+        "options": [
+          "Diamonds",
+          "Natural gas",
+          "Coal",
+          "Fish and seafood"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which province is well known for oil sands production?",
+        "options": [
+          "Alberta",
+          "Nova Scotia",
+          "Prince Edward Island",
+          "Manitoba"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why are natural resources important to the Canadian economy?",
+        "options": [
+          "They have no connection to the economy",
+          "They are never traded internationally",
+          "They are only used for decoration",
+          "They provide jobs and materials for trade and industry"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for using natural resources carefully so they last for future generations?",
+        "options": [
+          "Conservation",
+          "Extraction only",
+          "Deforestation",
+          "Overharvesting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which resource is mined in Canada and used to make jewellery and industrial tools?",
+        "options": [
+          "Fish",
+          "Diamonds",
+          "Maple syrup",
+          "Wheat"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which Canadian province or territory is a major producer of potash, used in fertilizer?",
+        "options": [
+          "Prince Edward Island",
+          "Nunavut",
+          "Nova Scotia",
+          "Saskatchewan"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What natural resource is used to produce Canadas well-known maple syrup?",
+        "options": [
+          "Wheat from prairie farms",
+          "Sap from maple trees",
+          "Salt from mines",
+          "Oil from wells"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might overharvesting a natural resource, such as fish, cause problems?",
+        "options": [
+          "It has no effect on future availability",
+          "It always increases the resource supply",
+          "It can lead to shortages and damage ecosystems",
+          "It automatically improves the environment"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is hydroelectric power generated from?",
+        "options": [
+          "Solar panels only",
+          "The energy of moving water",
+          "Wind turbines only",
+          "Burning coal"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which natural resource found in the Prairie provinces is a major agricultural export for Canada?",
+        "options": [
+          "Diamonds",
+          "Fish",
+          "Oil sands",
+          "Wheat"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why do many Canadian communities depend economically on the resource sector, such as mining or forestry?",
+        "options": [
+          "Communities never rely on natural resources",
+          "These industries have no relationship to local economies",
+          "Resource industries never create employment",
+          "These industries provide jobs and income for local residents"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 5,
+    "title": "Global Trade and Economic Connections",
+    "questions": [
+      {
+        "q": "What is international trade?",
+        "options": [
+          "The exchange of goods and services between countries",
+          "A type of government election",
+          "A law passed by parliament",
+          "A festival celebrated in Canada"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is an export?",
+        "options": [
+          "A good or service sold to another country",
+          "A form of government",
+          "A type of tax on citizens",
+          "A good or service bought from another country"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is an import?",
+        "options": [
+          "A good or service bought from another country",
+          "A good or service sold to another country",
+          "A law passed by the government",
+          "A type of natural resource"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which country is Canadas largest trading partner?",
+        "options": [
+          "Germany",
+          "Japan",
+          "The United States",
+          "Brazil"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why do countries trade with one another?",
+        "options": [
+          "To eliminate the need for any local industry",
+          "To access goods and resources they may not produce themselves",
+          "To avoid using their own natural resources at all",
+          "Trade has no real economic benefit"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for an agreement between countries that reduces barriers to trade?",
+        "options": [
+          "A trade agreement",
+          "A census",
+          "A constitution",
+          "A referendum"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What might happen to the price of a product if a country places a tax on imported goods, called a tariff?",
+        "options": [
+          "The product becomes completely free",
+          "The price of the imported product always decreases",
+          "Tariffs never affect prices",
+          "The price of the imported product often increases"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is a major Canadian export?",
+        "options": [
+          "Only handmade crafts",
+          "Only fresh fruit",
+          "Only bottled water",
+          "Oil and natural resources"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is globalization?",
+        "options": [
+          "A festival celebrated only in Canada",
+          "A term describing isolated economies with no trade",
+          "The increasing connection and interdependence of countries worldwide",
+          "A type of Canadian government structure"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "How can international trade affect the variety of products available to Canadian consumers?",
+        "options": [
+          "It eliminates the need for stores",
+          "Trade has no effect on product variety",
+          "It reduces the variety of goods to only local products",
+          "It increases the variety of goods available from around the world"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is a container ship most commonly used for?",
+        "options": [
+          "Conducting scientific research only",
+          "Transporting large amounts of goods across oceans",
+          "Transporting a small number of passengers only",
+          "Providing electricity to coastal cities"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might a Canadian company choose to manufacture products in another country?",
+        "options": [
+          "To reduce production costs or access specific resources",
+          "Companies never manufacture products outside Canada",
+          "Manufacturing abroad always costs more money",
+          "It is required by international law in all cases"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What organization helps regulate and encourage international trade rules between countries?",
+        "options": [
+          "A local school board",
+          "The World Trade Organization",
+          "The United Nations Childrens Fund",
+          "A municipal council"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is transportation infrastructure, such as ports and railways, important for trade?",
+        "options": [
+          "Infrastructure has no impact on trade efficiency",
+          "It allows goods to move efficiently between countries and regions",
+          "Ports are used only for tourism",
+          "Trade never requires any transportation"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "How might a global event, such as a natural disaster in another country, affect Canadian trade?",
+        "options": [
+          "Trade in Canada is completely independent of world events",
+          "It could disrupt the supply of certain imported goods",
+          "Global events never influence trade in Canada",
+          "It would have no impact on prices or availability"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 6,
+    "title": "Canada and International Organizations",
+    "questions": [
+      {
+        "q": "What does the abbreviation UN stand for?",
+        "options": [
+          "United Neighbours",
+          "United Nationalities",
+          "United Nations",
+          "Universal Network"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the main purpose of the United Nations?",
+        "options": [
+          "To replace national governments",
+          "To control the economy of a single country",
+          "To eliminate international trade",
+          "To promote peace, security, and cooperation among countries"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which organization does Canada belong to that focuses on global health issues?",
+        "options": [
+          "A local hospital association",
+          "A single provincial health board",
+          "The National Hockey League",
+          "The World Health Organization"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is peacekeeping?",
+        "options": [
+          "A term for national elections",
+          "A type of local sports activity",
+          "Helping maintain peace in areas of conflict, often through international cooperation",
+          "A form of trade agreement only"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might Canada send peacekeepers to another country?",
+        "options": [
+          "To take control of that countrys government",
+          "To prevent that country from trading with others",
+          "To help maintain stability and support peace efforts",
+          "To eliminate the countrys population"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is humanitarian aid?",
+        "options": [
+          "A trade agreement between two countries",
+          "A method of generating electricity",
+          "A type of tax collected by governments",
+          "Assistance provided to people in need, such as after a disaster"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which of the following is an example of Canada participating in the global community?",
+        "options": [
+          "Sending aid after an international natural disaster",
+          "Withdrawing from all international agreements",
+          "Closing all of its borders permanently",
+          "Refusing to communicate with any other country"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is diplomacy?",
+        "options": [
+          "A type of natural resource",
+          "A method of taxing citizens",
+          "The practice of managing relationships and communication between countries",
+          "A form of military conflict"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why do countries often work together through international organizations rather than acting entirely alone?",
+        "options": [
+          "International organizations have no real purpose",
+          "Cooperation can help solve problems that cross national borders",
+          "Acting alone is always more effective for every country",
+          "Cooperation is against international law"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is an ambassador?",
+        "options": [
+          "An official who represents their country in another nation",
+          "A local city councillor",
+          "A type of Canadian currency",
+          "A type of natural resource"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might Canada participate in international environmental agreements?",
+        "options": [
+          "International agreements have no effect on the environment",
+          "Canada is not affected by global environmental issues",
+          "Environmental issues never cross national borders",
+          "To help address global issues like climate change cooperatively"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the purpose of an embassy?",
+        "options": [
+          "To sell goods exclusively to tourists",
+          "To represent a countrys government and support its citizens abroad",
+          "To serve as a museum only",
+          "To act as a local school"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which of these is an example of international cooperation in sports?",
+        "options": [
+          "A local town parade",
+          "A neighbourhood picnic",
+          "A school field trip",
+          "The Olympic Games"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is it valuable for Canadian students to learn about global organizations like the United Nations?",
+        "options": [
+          "Global organizations have no relevance to daily life",
+          "It helps them understand how countries work together on shared issues",
+          "These organizations do not affect Canada at all",
+          "Learning about them is discouraged in schools"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What term describes Canadas overall approach of engaging with and supporting other nations?",
+        "options": [
+          "International cooperation",
+          "Complete isolation",
+          "Total self-sufficiency",
+          "Economic independence only"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 7,
+    "title": "Immigration and Cultural Diversity in Canada",
+    "questions": [
+      {
+        "q": "What is immigration?",
+        "options": [
+          "The process of leaving a country permanently forever",
+          "The process of moving to a new country to live there",
+          "A type of government election",
+          "A form of international trade"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a refugee?",
+        "options": [
+          "A person forced to leave their country due to danger, such as war",
+          "A person who travels for tourism only",
+          "A person who has never left their home country",
+          "A government official representing a country"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why has Canada historically welcomed many immigrants?",
+        "options": [
+          "Immigration has no economic impact",
+          "Canada has never allowed any immigration",
+          "To build a diverse population and support economic growth",
+          "Only Canadian-born citizens are permitted in Canada"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is multiculturalism?",
+        "options": [
+          "The presence and acceptance of many different cultures within a society",
+          "A policy that bans cultural diversity",
+          "A term for a single dominant culture only",
+          "A type of trade agreement"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one benefit that cultural diversity can bring to a community?",
+        "options": [
+          "A wider variety of traditions, foods, and perspectives",
+          "Communities become less interesting overall",
+          "Diversity always causes division with no benefits",
+          "It eliminates the need for community events"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a cultural tradition?",
+        "options": [
+          "A type of government law",
+          "A form of international trade",
+          "A custom or practice passed down within a community",
+          "A type of natural resource"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might newcomers to Canada join community organizations after arriving?",
+        "options": [
+          "Newcomers are discouraged from joining any groups",
+          "These organizations only serve long-term citizens",
+          "Community organizations are not available to newcomers",
+          "To find support and connect with others in their new community"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is the term for a persons sense of belonging to a particular culture or group?",
+        "options": [
+          "A referendum",
+          "A census",
+          "Cultural identity",
+          "A tariff"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Which of the following is an example of celebrating cultural diversity in a community?",
+        "options": [
+          "A policy discouraging community gatherings",
+          "A rule banning all cultural celebrations",
+          "A multicultural festival featuring different foods and traditions",
+          "An event open to only one cultural group"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What challenges might a newcomer family face when settling in a new country?",
+        "options": [
+          "There are no differences between countries at all",
+          "Learning a new language and adjusting to a new culture",
+          "Newcomers never face any challenges",
+          "Settling in a new country is always instant and easy"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it important for schools to be inclusive of students from different cultural backgrounds?",
+        "options": [
+          "Diversity in schools should be avoided",
+          "It helps all students feel welcome and supports learning for everyone",
+          "Inclusion has no impact on student learning",
+          "Schools should only include one cultural group"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What role do settlement services play for new immigrants to Canada?",
+        "options": [
+          "They prevent immigrants from finding employment",
+          "They help newcomers access housing, language classes, and other support",
+          "They discourage immigrants from settling in Canada",
+          "They are only available to Canadian-born citizens"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is one way that immigration has shaped Canadian communities historically?",
+        "options": [
+          "It has contributed to a wide variety of languages, foods, and customs",
+          "All Canadian communities share identical traditions",
+          "Immigration has had no effect on Canadian culture",
+          "Canadian communities have never changed over time"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might understanding different cultures help build stronger communities?",
+        "options": [
+          "Cultural understanding has no social benefit",
+          "Communities are stronger when everyone is identical",
+          "It encourages respect, empathy, and cooperation among residents",
+          "Understanding other cultures weakens communities"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is a landmark Canadian policy that officially recognizes and promotes cultural diversity?",
+        "options": [
+          "A ban on cultural celebrations",
+          "A policy limiting free expression",
+          "The Canadian Multiculturalism Policy",
+          "A rule restricting community gatherings"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 8,
+    "title": "Indigenous Peoples and Communities in Canada",
+    "questions": [
+      {
+        "q": "What term is used to describe the original inhabitants of what is now Canada and their descendants?",
+        "options": [
+          "Recent immigrants",
+          "Indigenous peoples",
+          "Foreign visitors",
+          "Government officials only"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What are the three constitutionally recognized groups of Indigenous peoples in Canada?",
+        "options": [
+          "Provinces, territories, and cities",
+          "Settlers, colonists, and explorers",
+          "Farmers, miners, and traders",
+          "First Nations, Inuit, and Metis"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Which Indigenous group traditionally lives primarily in the northern Arctic regions of Canada?",
+        "options": [
+          "Metis",
+          "Inuit",
+          "New immigrants",
+          "Provincial officials"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a treaty, in the context of Indigenous and government relations in Canada?",
+        "options": [
+          "A formal agreement between Indigenous nations and the government",
+          "A type of school assignment",
+          "A type of natural resource",
+          "A form of currency"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the term for the traditional knowledge and practices passed down through generations in Indigenous communities?",
+        "options": [
+          "A census",
+          "Traditional knowledge",
+          "A referendum",
+          "A tariff"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is it important to learn about the history and culture of Indigenous peoples in Canada?",
+        "options": [
+          "It helps build understanding, respect, and reconciliation",
+          "Indigenous history should not be studied in schools",
+          "This history has no relevance to modern Canada",
+          "It is unrelated to Canadian identity"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the term reconciliation refer to in the context of Indigenous relations in Canada?",
+        "options": [
+          "The process of repairing relationships and addressing past harms",
+          "A method of collecting taxes",
+          "A type of trade agreement between countries",
+          "A form of international peacekeeping only"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a land acknowledgement?",
+        "options": [
+          "A statement recognizing the traditional Indigenous territory of an area",
+          "A type of municipal tax",
+          "A legal document transferring land ownership",
+          "A form used for voting"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which of the following is an example of Indigenous self-government in Canada?",
+        "options": [
+          "A city council managing a large urban area",
+          "A national trade agreement",
+          "A First Nation making decisions about its own community affairs",
+          "An international peacekeeping mission"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why do many Indigenous communities value the protection of their traditional languages?",
+        "options": [
+          "Protecting languages is discouraged by most communities",
+          "Languages carry cultural knowledge, identity, and history",
+          "Language has no connection to identity",
+          "Traditional languages have no cultural significance"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What role did residential schools play in Canadian history, as recognized by the government today?",
+        "options": [
+          "They were entirely positive experiences for all involved",
+          "They caused significant harm to Indigenous children and communities",
+          "They are unrelated to Canadian history",
+          "They had no lasting impact on Indigenous communities"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the Metis Nation generally known as?",
+        "options": [
+          "A type of municipal council",
+          "A branch of the federal government",
+          "A group of recent immigrants only",
+          "A distinct Indigenous people with mixed First Nations and European ancestry"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why might Indigenous communities in Canada seek greater control over their own natural resources?",
+        "options": [
+          "To support self-determination and economic development for their communities",
+          "Resource control has no connection to self-determination",
+          "This issue is unrelated to Indigenous rights",
+          "Indigenous communities have no interest in resource management"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one example of Indigenous contributions to Canadian society?",
+        "options": [
+          "This topic has no place in social studies",
+          "Only non-Indigenous groups have shaped Canadian culture",
+          "Indigenous peoples have made no contributions to Canada",
+          "Traditional ecological knowledge that supports environmental stewardship"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is learning about treaties important for understanding the relationship between Indigenous peoples and the Canadian government?",
+        "options": [
+          "Treaties outline rights, responsibilities, and historical agreements",
+          "Treaties are unrelated to government relationships",
+          "Treaties have no ongoing relevance today",
+          "This history is not part of Canadian studies"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 9,
+    "title": "Maps Charts and Geographic Tools",
+    "questions": [
+      {
+        "q": "What is the purpose of a map legend or key?",
+        "options": [
+          "To explain the symbols and colours used on a map",
+          "To show the exact population of a country",
+          "To display the current weather forecast",
+          "To list the names of every country in the world"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What tool on a map shows direction, usually pointing to north?",
+        "options": [
+          "A legend",
+          "A scale bar",
+          "A compass rose",
+          "A grid line"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is the purpose of a scale bar on a map?",
+        "options": [
+          "To display population statistics",
+          "To show the relationship between map distance and real distance",
+          "To show the temperature of a region",
+          "To show the time zone of an area"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What are lines of latitude used to measure?",
+        "options": [
+          "Distance north or south of the equator",
+          "Elevation above sea level",
+          "Distance east or west of the prime meridian",
+          "Average yearly rainfall"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What are lines of longitude used to measure?",
+        "options": [
+          "Population density",
+          "Temperature across regions",
+          "Distance east or west of the prime meridian",
+          "Distance north or south of the equator"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What type of map would best show the different landforms and elevations of a region?",
+        "options": [
+          "A weather map",
+          "A political map",
+          "A population map",
+          "A physical map"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What type of map would best show the borders between countries or provinces?",
+        "options": [
+          "A climate map",
+          "A political map",
+          "A road map only",
+          "A physical map"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is a globe?",
+        "options": [
+          "A flat paper map only",
+          "A three-dimensional model of Earth",
+          "A tool for measuring temperature",
+          "A type of weather instrument"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for a chart that displays information using bars of different lengths?",
+        "options": [
+          "A bar graph",
+          "A flow chart",
+          "A map legend",
+          "A pie chart"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why might a geographer use a population density map?",
+        "options": [
+          "To show the direction of ocean currents",
+          "To show how crowded or sparse an area is with people",
+          "To measure the height of mountains",
+          "To display international trade routes"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the term elevation refer to on a map?",
+        "options": [
+          "The height of land above sea level",
+          "The distance between two cities",
+          "The population of a region",
+          "The direction of a river"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is satellite imagery used for in geography?",
+        "options": [
+          "Capturing images of Earths surface from space for study",
+          "Measuring the temperature of the ocean only",
+          "Recording historical events only",
+          "Predicting elections"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is the prime meridian?",
+        "options": [
+          "The line of longitude set at zero degrees, used as a reference point",
+          "The line of latitude at the equator",
+          "A term for the North Pole",
+          "A line marking the border of Canada"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why is it useful to compare historical maps with modern maps of the same region?",
+        "options": [
+          "Maps never change over time",
+          "It shows how borders, cities, and land use have changed over time",
+          "Historical maps are never useful for comparison",
+          "Comparing maps has no educational value"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What type of geographic tool would best help someone plan a driving route between two cities?",
+        "options": [
+          "A climate map",
+          "A road map",
+          "A historical map",
+          "A population density map"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "SocialStudies",
+    "number": 10,
+    "title": "Global Citizenship and Current Issues",
+    "questions": [
+      {
+        "q": "What is a global citizen?",
+        "options": [
+          "A person who has never travelled abroad",
+          "A person who only cares about local issues",
+          "A government official representing one country",
+          "A person who understands and cares about issues affecting the whole world"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is climate change?",
+        "options": [
+          "A single days weather forecast",
+          "A form of international trade",
+          "A type of natural resource",
+          "A long-term shift in global temperatures and weather patterns"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is climate change considered a global issue rather than a local one?",
+        "options": [
+          "Climate change only affects a single country",
+          "Climate change has no measurable effects",
+          "Its effects, such as rising temperatures, impact countries worldwide",
+          "It is unrelated to environmental science"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What is one action individuals can take to help address environmental issues?",
+        "options": [
+          "Refusing to recycle any materials",
+          "Ignoring environmental issues completely",
+          "Increasing the use of single-use plastics",
+          "Reducing waste and conserving energy"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is poverty, in a global context?",
+        "options": [
+          "A form of international trade agreement",
+          "A lack of resources needed to meet basic living needs",
+          "A type of government structure",
+          "An excess of natural resources in a country"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why might countries work together to address global poverty?",
+        "options": [
+          "Cooperation can help provide resources and support to those in need",
+          "Poverty is not a global concern",
+          "Addressing poverty requires no cooperation",
+          "Countries never cooperate on social issues"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is a nongovernmental organization, often called an NGO?",
+        "options": [
+          "A type of international trade agreement",
+          "A group that works independently of government to address social or environmental issues",
+          "A local school board",
+          "A branch of the federal government"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is access to clean water considered an important global issue?",
+        "options": [
+          "Every community in the world already has clean water",
+          "This issue is unrelated to global citizenship",
+          "Clean water access has no connection to health",
+          "Many communities worldwide lack reliable access to safe drinking water"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is sustainable development?",
+        "options": [
+          "A term unrelated to environmental issues",
+          "A type of government election",
+          "Development that uses all resources without any planning",
+          "Growth that meets present needs without harming future generations"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why might students learn about global issues such as hunger and inequality in social studies class?",
+        "options": [
+          "To build awareness and understanding of challenges facing people worldwide",
+          "Global issues have no connection to Canada",
+          "These topics are unrelated to social studies",
+          "Learning about global issues discourages good citizenship"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What is one way schools can promote global citizenship among students?",
+        "options": [
+          "Discouraging any discussion of world events",
+          "Encouraging service projects and awareness of world issues",
+          "Focusing only on local issues with no global context",
+          "Avoiding topics related to other countries"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why is cooperation between countries often necessary to solve issues like pandemics?",
+        "options": [
+          "Health issues have no connection to global citizenship",
+          "Health issues can spread across borders and require coordinated responses",
+          "Pandemics only ever affect a single country",
+          "Countries never need to cooperate on health issues"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What is the term for working together toward a shared goal that benefits many countries?",
+        "options": [
+          "Complete isolation",
+          "Total self-sufficiency",
+          "International cooperation",
+          "Economic independence"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why might raising awareness about an issue, such as ocean pollution, lead to positive change?",
+        "options": [
+          "Raising awareness always makes problems worse",
+          "Awareness has no impact on how people behave",
+          "People never respond to awareness campaigns",
+          "Awareness can inspire people and organizations to take action"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What is one example of a global issue that requires both local and international action?",
+        "options": [
+          "Climate change",
+          "A neighbourhood clean-up day only",
+          "A local school fundraiser",
+          "A single citys traffic pattern"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]
