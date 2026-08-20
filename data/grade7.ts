@@ -202,7 +202,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Early Canada and Geography", summary:"Mixed review of New France, conflicts 1800-1850, physical patterns, and natural resources.",
    resourceLabel:"YouTube: Review: Early Canada and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Geography%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
+   videoUrl:"https://www.youtube.com/watch?v=oLUyKrXwVKo",
+   videoUrls:[{label:"New France and the Seven Years War", url:"https://www.youtube.com/watch?v=oLUyKrXwVKo"},{label:"Rebellions of 1837-38", url:"https://www.youtube.com/watch?v=RdGy5dHgkCU"},{label:"Climate Zones", url:"https://www.youtube.com/watch?v=5tC8OOxOFEk"}],
    quiz:[
      {q:"New France came under British control after...", options:["World War I","Confederation","The War of 1812","The Seven Years' War"], answer:3},
      {q:"The Rebellions of 1837–38 sought...", options:["More responsible government","Independence from trade","Less self-government","Nothing in particular"], answer:0},
