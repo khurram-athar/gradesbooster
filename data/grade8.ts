@@ -2502,7 +2502,7 @@ const curriculum: DayContent[] = [
         "summary": "Students find, evaluate, and ethically integrate source material into a research essay. They practise paraphrasing, quoting, and citing sources.",
         "resourceLabel": "YouTube: Writing: The Research Essay — Sources and Integration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Research%20Essay%20%E2%80%94%20Sources%20and%20Integration%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Z0-V25IEZqE",
+        "videoUrl": "https://www.youtube.com/watch?v=B-HENBXQlOs",
         "quiz": [
           {
             "q": "Plagiarism is ___.",
@@ -4921,59 +4921,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "History",
-        "title": "Canada's Environmental History and Policy",
-        "summary": "Students examine key environmental milestones — creation of national parks, environmental legislation, climate commitments, and Indigenous land stewardship.",
-        "resourceLabel": "YouTube: Canada's Environmental History and Policy",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20and%20Policy%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ped-vegY6WA",
+        "title": "The Creation of Banff: Canada's First National Park",
+        "summary": "Students examine the history of Banff National Park — from railway workers' 1883 discovery of hot springs through tourism, Indigenous displacement, and Canada's evolving approach to conservation.",
+        "resourceLabel": "YouTube: The Creation of Banff: Canada's First National Park",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Creation%20of%20Banff%20Canada%27s%20First%20National%20Park%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UUCiE1_zgHc",
         "quiz": [
           {
-            "q": "Banff National Park (1885) was Canada's first national park, established primarily to ___.",
+            "q": "Banff National Park (1885) was Canada's first national park, established primarily after ___.",
             "options": [
-              "attract tourists to the hot springs",
-              "provide housing for workers",
-              "protect Indigenous territory",
-              "mine the Rocky Mountains"
+              "railway workers discovered hot springs on Sulphur Mountain in 1883",
+              "a group of settlers demanded protected housing",
+              "Indigenous leaders requested federal protection",
+              "a mining company abandoned the site"
             ],
             "answer": 0
           },
           {
-            "q": "The Canadian Environmental Protection Act (CEPA) ___.",
+            "q": "The Canadian Pacific Railway helped Banff grow by ___.",
             "options": [
-              "bans all industrial activity",
-              "federal law regulating toxic substances",
-              "only applies to provinces",
-              "has no enforcement powers"
+              "banning all visitors from the area",
+              "investing in tourism, including the Banff Springs Hotel",
+              "relocating the park somewhere else",
+              "refusing to build any track nearby"
             ],
             "answer": 1
           },
           {
-            "q": "Canada's commitment to the Paris Agreement (2015) involves ___.",
+            "q": "Early Banff park management is now criticized because it ___.",
             "options": [
-              "ignoring carbon emissions",
-              "cutting emissions to limit warming",
-              "only reforestation",
-              "withdrawing from all climate targets"
+              "excluded Indigenous peoples from traditional activities and presence",
+              "gave Indigenous peoples full control of the park",
+              "focused entirely on wildlife protection from the start",
+              "banned all tourism immediately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The National Parks Act of 1930 marked a turning point by ___.",
+            "options": [
+              "ending federal involvement in parks",
+              "formally centering conservation as the purpose of parks",
+              "opening parks exclusively to industry",
+              "removing legal protection for wildlife"
             ],
             "answer": 1
           },
           {
-            "q": "Indigenous land stewardship is increasingly recognised as important to conservation because ___.",
+            "q": "Modern Banff management addresses issues like automobile tourism and town growth through ___.",
             "options": [
-              "it is only a political claim",
-              "their led conservation works well",
-              "Indigenous peoples have no connection to land stewardship",
-              "only Western science understands ecology"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The concept of 'seventh generation' in some Indigenous traditions relates to ___.",
-            "options": [
-              "a religious practice",
-              "considering impacts far into the future",
-              "a type of government",
-              "voting every seven years"
+              "removing all development limits",
+              "wildlife crossings and long-term sustainability planning",
+              "ignoring environmental strain entirely",
+              "closing the park permanently"
             ],
             "answer": 1
           }
@@ -6162,7 +6162,7 @@ const curriculum: DayContent[] = [
         "summary": "Students synthesise Canadian history from New France to the present, examining recurring themes and their relevance to contemporary Canada.",
         "resourceLabel": "YouTube: Year-End History Synthesis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year-End%20History%20Synthesis%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=CDGdqoCyAtw",
+        "videoUrl": "https://www.youtube.com/watch?v=MtbL8HZ4hGM",
         "quiz": [
           {
             "q": "Which recurring theme links Indigenous history from colonial times to today?",
@@ -6348,7 +6348,7 @@ const curriculum: DayContent[] = [
         "summary": "Students preview the Grade 9 science curriculum (biology, chemistry, physics, earth science) and connect Grade 8 learning to what comes next.",
         "resourceLabel": "YouTube: Science: Looking Ahead to Grade 9",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Looking%20Ahead%20to%20Grade%209%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tZE_fQFK8EY",
+        "videoUrl": "https://www.youtube.com/watch?v=LjnXiMQ0MLc",
         "quiz": [
           {
             "q": "Grade 9 Science includes which four broad areas?",
@@ -7088,7 +7088,7 @@ const curriculum: DayContent[] = [
         "summary": "Students review all four Grade 8 science strands and connect learning to Grade 9 and beyond.",
         "resourceLabel": "YouTube: Science: Year Review and Looking Forward",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Year%20Review%20and%20Looking%20Forward%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=lYYilc-O_v4",
+        "videoUrl": "https://www.youtube.com/watch?v=Ldt5WT5fduQ",
         "quiz": [
           {
             "q": "Which Grade 8 science topic is most directly extended in Grade 9 biology?",
@@ -7148,7 +7148,7 @@ const curriculum: DayContent[] = [
         "summary": "Students write a final historical reflection, identifying the most significant idea they will carry forward from Grade 8 History.",
         "resourceLabel": "YouTube: Grade 8 History: Final Reflection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%208%20History%3A%20Final%20Reflection%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=SzWgn9pR-r0",
+        "videoUrl": "https://www.youtube.com/watch?v=HsM2FZfVkFI",
         "quiz": [
           {
             "q": "The most important question in historical thinking is ___.",

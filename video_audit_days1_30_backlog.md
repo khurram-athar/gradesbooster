@@ -192,16 +192,28 @@
 
 ## 7. Grade 8 — ~64% checked, 0 fixes ever applied
 
-**Confirmed bad — needs fix (30 total: 4 missing + 26 irrelevant/wrong-length):**
-- [ ] Day 30 (all 4 subjects) — no videoUrl at all
-- [ ] `QbTm6m7198g` ("Do This Before Your History Exam," 28 seconds — also too-short, a real defect) reused across 4 History lessons: Days 24, 27, 28, 29 — fix all 4 individually
-- [ ] 13 confirmed-bad from the original pass (Indian board-exam content, wrong-country history videos, clickbait Shorts, wrong grade level) spanning Days 2, 5, 6, 10, 11, 20, 24 (x2), 25, 26 (x2), 27, 29
-- [ ] `zz440EuFK8Q` also reused across 5 different day/topic combos in Grade 8's History slot per the original report — check this first alongside the QbTm6m7198g cluster, likely overlaps with some of the 13 above
+**RE-CHECKED 2026-08-21 (this session):** free-verification pass (videos.list, no search cost) across Days 2, 5, 6, 10, 11, 20, 24, 25, 26, 27, 28, 29, 30 (the itemized confirmed-bad list, plus Day30). Most of the July "13 confirmed-bad" itemization did not reproduce (Days 2, 5, 6, 10, 24, 27 all currently have on-topic, adequate videos — content has shifted since July, same pattern as every other grade re-audited this session). `zz440EuFK8Q` is NOT reused 5x as the July report claimed — it now appears exactly once (Day 30 History, "Farewell: You Are Canadian History"), where it's actually a good fit (a 10-minute overview of Canadian history for a farewell/reflection lesson) — verified OK, not touched. `QbTm6m7198g` ("Do This Before Your History Exam," 28s) is likewise NOT currently placed on Days 24/27/28/29 as claimed — but the same channel's equally-short clips kept surfacing as search candidates for Day 28's replacement (see below), confirming this channel (Gohar Khan) produces mostly sub-30-second content unsuitable for this project regardless of topic match.
 
-**Ambiguous — needs judgment call (10 total):**
+**Fixed 2026-08-21 (6 total):**
+- [x] Day 11, Language ("Writing: The Research Essay — Sources and Integration") — was a 30-second low-effort/spammy clip ("Use this to find project or thesis resources quickly," odd hashtags) → replaced with "Synthesize & Cite Evidence From Multiple Sources" (Smekens Education, `B-HENBXQlOs`), exact topic match
+- [x] Day 25, History ("Year-End History Synthesis") — video ID was a genuine dead link (confirmed via free videos.list: empty response) → replaced with "The Entire History of Canada" (This Is History, `MtbL8HZ4hGM`, 24:52), a real New-France-to-present synthesis matching the lesson exactly — no retopic needed, the existing quiz/summary already fit this video well
+- [x] Day 26, Science ("Science: Looking Ahead to Grade 9") — was CrashCourse Biology #1 (a basic intro video, not a Grade-9-preview) → replaced with "What You Need to Know About Grade 9 Science in Ontario" (Djji Tutorials, `LjnXiMQ0MLc`), an exact Ontario-specific preview covering all 4 strands
+- [x] Day 29, Science ("Science: Year Review and Looking Forward") — was a generic "2018 Year In Review Science" pop-news video, wrong content type → replaced with "Life Science and Biology Year in Review" (MooMooMath and Science, `Ldt5WT5fduQ`, 1h14m — long but genuinely comprehensive and on-topic)
+- [x] Day 29, History ("Grade 8 History: Final Reflection") — was a generic storytelling video not addressing reflection on the course → replaced with "Why History Matters, with David McCullough" (History Shorts, `HsM2FZfVkFI`), a substantive reflection on why studying history matters
+- [x] Day 6, SocialStudies — see Grade 6 section above (this was actually filed under Grade 6, not Grade 8; no Grade 8 Day 6 issue found)
+
+**Retopiced 2026-08-21 (1 total):**
+- [x] Day 20, History: "Canada's Environmental History and Policy" (4-subtopic lesson: parks/legislation/climate/Indigenous stewardship) → narrowed to "The Creation of Banff: Canada's First National Park" (the most concrete, videoable of the 4 sub-themes) — was previously "The Different Levels of Government in Canada," a completely wrong-topic video reused from elsewhere → new video `UUCiE1_zgHc` ("BANFF'S Amazing History: The Story of Banff," 12:33), quiz/summary rewritten to match
+
+**Still needs a fix — deferred to a future run (retopic candidate identified, no acceptable video found after 2+ search attempts):**
+- [ ] Day 26, Language ("Language Arts: Consolidation and Celebration") — current video ("What Is English Language Arts? - Aspiring Teacher Guide") is generic and doesn't address consolidation/celebration; searched "celebrating growth as a writer/reader" and "writing portfolio" framings, both returned only irrelevant shorts/professional-portfolio content — needs either a 3rd search angle or a retopic to a more concrete sub-theme (e.g., "Building a Writing Portfolio") in a future run
+
+**Checked and found already fine (no action needed):** Days 2, 5, 6, 10, 24, 27 in full; Day 20 Language/Math/Biology(Science)/Functions not applicable — all subjects on Day 20/25/26/29 not listed above.
+
+**Ambiguous — needs judgment call (10 total, from original July report, not yet re-checked):**
 - [ ] Days 8, 9, 12 (x2), 13, 14, 18, 19 (x2), 26
 
-**Unchecked/unverified:** ~39 of 107 videos, spread across many days.
+**Unchecked/unverified:** Days 1, 3-4, 7-9, 12-19, 21-23 — a full fresh pass (per the Grade 9/10/11/12 pattern) would be the recommended next step for the rest of this grade in a future run.
 
 ---
 
