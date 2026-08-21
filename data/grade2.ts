@@ -3586,7 +3586,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of compound words, contractions, synonyms, and antonyms.",
         "resourceLabel": "YouTube: Review: Compound Words, Contractions, Synonyms & Antonyms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Compound%20Words%2C%20Contractions%2C%20Synonyms%20%26%20Antonyms%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=PDI2xlOBcM4",
+        "videoUrl": "https://www.youtube.com/watch?v=82G-ZWzUHhU",
+        "videoUrls": [{"label":"Compound Words","url":"https://www.youtube.com/watch?v=82G-ZWzUHhU"},{"label":"Contractions","url":"https://www.youtube.com/watch?v=gubPH3WEurg"},{"label":"Synonyms and Antonyms","url":"https://www.youtube.com/watch?v=PDI2xlOBcM4"}],
         "quiz": [
           {
             "q": "Which word is a compound word?",
@@ -3646,7 +3647,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of two-digit addition, two-digit subtraction, counting coins, and measuring with non-standard units.",
         "resourceLabel": "YouTube: Review: Addition, Subtraction, Coins & Measuring",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Addition%2C%20Subtraction%2C%20Coins%20%26%20Measuring%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=BxrzwF6oV6s",
+        "videoUrl": "https://www.youtube.com/watch?v=c4xw9DqOKH4",
+        "videoUrls": [{"label":"Addition Within 100","url":"https://www.youtube.com/watch?v=c4xw9DqOKH4"},{"label":"Subtraction Within 100","url":"https://www.youtube.com/watch?v=Ds226Vh7epg"},{"label":"Counting Coins","url":"https://www.youtube.com/watch?v=BxrzwF6oV6s"}],
         "quiz": [
           {
             "q": "34 + 23 = ?",
@@ -3706,7 +3708,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of what plants need, animal habitats, the five senses, and inclined planes.",
         "resourceLabel": "YouTube: Review: Plants, Habitats, Senses & Ramps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Plants%2C%20Habitats%2C%20Senses%20%26%20Ramps%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=kBL9-RFhnbM",
+        "videoUrl": "https://www.youtube.com/watch?v=u46A0WKp2nk",
+        "videoUrls": [{"label":"What Plants Need to Grow","url":"https://www.youtube.com/watch?v=u46A0WKp2nk"},{"label":"Animal Habitats","url":"https://www.youtube.com/watch?v=Xj1ASC-TlsI"},{"label":"The Five Senses","url":"https://www.youtube.com/watch?v=q1xNuU7gaAQ"}],
         "quiz": [
           {
             "q": "What do plants need to grow?",
@@ -3766,7 +3769,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of Canadian symbols, Indigenous peoples, how communities change, and needs vs. wants.",
         "resourceLabel": "YouTube: Review: Canada Symbols, Indigenous Peoples, Change & Needs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Canada%20Symbols%2C%20Indigenous%20Peoples%2C%20Change%20%26%20Needs%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=glSIDAyyPJA",
+        "videoUrl": "https://www.youtube.com/watch?v=38BGXJ572Y8",
+        "videoUrls": [{"label":"Symbols of Canada","url":"https://www.youtube.com/watch?v=38BGXJ572Y8"},{"label":"Indigenous Peoples and First Nations of Canada","url":"https://www.youtube.com/watch?v=Qo7aTFHyhPE"},{"label":"How Communities Change Over Time","url":"https://www.youtube.com/watch?v=FnF5I3_q0H4"}],
         "quiz": [
           {
             "q": "What leaf is on the Canadian flag?",
@@ -4830,7 +4834,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of story elements, plural nouns, possessive nouns, and question words.",
         "resourceLabel": "YouTube: Review: Story Elements, Plurals, Possessives & Question Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Story%20Elements%2C%20Plurals%2C%20Possessives%20%26%20Question%20Words%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=h7_aNX-wj9A",
+        "videoUrl": "https://www.youtube.com/watch?v=1M0pFLXegG0",
+        "videoUrls": [{"label":"Story Elements","url":"https://www.youtube.com/watch?v=1M0pFLXegG0"},{"label":"Plural Nouns","url":"https://www.youtube.com/watch?v=lD1OaD4FBqM"},{"label":"Possessive Nouns","url":"https://www.youtube.com/watch?v=h7_aNX-wj9A"}],
         "quiz": [
           {
             "q": "The 'setting' of a story is...",
@@ -4890,7 +4895,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of growing/shrinking patterns, fractions, reading graphs, and equal groups.",
         "resourceLabel": "YouTube: Review: Patterns, Fractions, Graphs & Equal Groups",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Patterns%2C%20Fractions%2C%20Graphs%20%26%20Equal%20Groups%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=gzFbUZ8VjEg",
+        "videoUrl": "https://www.youtube.com/watch?v=JcNCfb0c8nc",
+        "videoUrls": [{"label":"Growing and Shrinking Patterns","url":"https://www.youtube.com/watch?v=JcNCfb0c8nc"},{"label":"Fractions: Halves and Quarters","url":"https://www.youtube.com/watch?v=362JVVvgYPE"},{"label":"Reading Graphs","url":"https://www.youtube.com/watch?v=zF_dBk8EPDk"}],
         "quiz": [
           {
             "q": "What comes next: 4, 8, 12, 16, __?",
@@ -4950,7 +4956,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of properties of materials, day/night/shadows, light and sound, and the human body.",
         "resourceLabel": "YouTube: Review: Materials, Shadows, Light & Body",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Materials%2C%20Shadows%2C%20Light%20%26%20Body%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=lOIGOT88Aqc",
+        "videoUrl": "https://www.youtube.com/watch?v=veUUii1U8-o",
+        "videoUrls": [{"label":"Properties of Materials","url":"https://www.youtube.com/watch?v=veUUii1U8-o"},{"label":"Day, Night, and Shadows","url":"https://www.youtube.com/watch?v=3ydqMIvAWz4"},{"label":"Light and Sound as Forms of Energy","url":"https://www.youtube.com/watch?v=cDaWohR_DVo"}],
         "quiz": [
           {
             "q": "Which word describes the feel of sandpaper?",
@@ -5010,7 +5017,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of money and trading, continents and oceans, caring for the environment, and good citizenship.",
         "resourceLabel": "YouTube: Review: Money, Continents, Environment & Citizenship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=FVQhFIF2-tI",
+        "videoUrl": "https://www.youtube.com/watch?v=Z7hwaeaDk-I",
+        "videoUrls": [{"label":"How Money and Trading Work","url":"https://www.youtube.com/watch?v=Z7hwaeaDk-I"},{"label":"The Seven Continents and Five Oceans","url":"https://www.youtube.com/watch?v=K6DSMZ8b3LE"},{"label":"Caring for the Environment","url":"https://www.youtube.com/watch?v=X2YgM1Zw4_E"}],
         "quiz": [
           {
             "q": "What is bartering?",
