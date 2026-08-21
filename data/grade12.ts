@@ -14336,6 +14336,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: rational exponents express roots and powers together in a single notation, allowing radical expressions to be simplified and manipulated using the same rules that apply to integer exponents.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Llrngdh3Rrg",
         "quiz": [
           {
             "q": "Rational exponents express roots and powers together in a single ___.",
@@ -14396,6 +14397,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: when a force applied to an object changes over distance, the total work done can be found by integrating the force function with respect to displacement, rather than using a single multiplication.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=TLw8xbmnY3c",
         "quiz": [
           {
             "q": "When a force applied to an object changes over distance, the total work done can be found by ___ the force function with respect to displacement.",
