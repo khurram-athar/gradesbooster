@@ -148,17 +148,26 @@
 
 **Already fixed 2026-07-21/22 (4 total, verify still good):** exact days not preserved from the eod summary line — spot-check broadly since this grade's fix list wasn't itemized.
 
-**Confirmed bad — needs fix:**
-- [ ] Day 1, Math — clickbait Short "Did you know this trick?" — not real content
-- [ ] Day 6, SocialStudies — "Alberta Social Studies 9" video (wrong grade AND wrong province) for "Canadian Citizenship and Identity"
-- [ ] Day 16, SocialStudies — "Levels of Government" video reused for a Territories/geography lesson
-- [ ] Day 26, Science — a Grade 4 Social Studies video used for "Renewable vs. Non-Renewable Resources" (wrong subject entirely)
-- [ ] Day 30 (all 4 subjects) — no videoUrl at all, genuine gap
-- [ ] ~15 more issues (duration outliers + a few mismatches) across Days 6, 7, 9, 10, 15, 17, 20, 21, 22, 23, 25 per the eod summary — not individually itemized, needs a fresh per-day check
+**RE-CHECKED 2026-08-21 (this session):** free-verification pass (videos.list, no search cost) on the 5 itemized "confirmed bad" days below, against current lesson content.
 
-**Ambiguous — needs judgment call:**
-- [ ] Day 3 Science, Day 4 Science, Day 7 SocialStudies, Day 8 Math, Day 15 Math, Day 20 Math, Day 21 SocialStudies, Day 24 SocialStudies, Day 25 Math — each covers only part of a multi-topic lesson/review day
+- [x] VERIFIED OK 2026-08-21 — Day 1, Math ("Multiplication Facts and Strategies") — now "Multiplying Whole Numbers (Part 1) | 5th Grade Math" (Math with Mr. J), on-topic; the July "clickbait Short" is not reproduced, content has changed
+- [x] VERIFIED OK 2026-08-21 — Day 6, SocialStudies ("Canadian Citizenship and Identity") — now "What Makes Canada, Canada? Understanding Canadian Identity," exact match; the July "Alberta Social Studies 9, wrong province" video is not reproduced
+- [x] VERIFIED OK 2026-08-21 — Day 16, SocialStudies ("Canada's Territories") — now "Canada's Provinces, Territories, and Capital Cities," on-topic; the July "Levels of Government" mismatch is not reproduced
+- [x] VERIFIED OK 2026-08-21 — Day 26, Science ("Renewable vs. Non-Renewable Resources Revisited") — now "Grade 5 - Natural Sciences - Renewable and Non-Renewable Energy" (WorksheetCloud), exact match; the July "Grade 4 Social Studies video, wrong subject" mismatch is not reproduced
+- [x] FIXED 2026-08-21 — Day 30 (all 4 subjects) — the July "no videoUrl at all" gap is not reproduced (all 4 now have a videoUrl), BUT each was a "Final Review: A, B, C, D" combo lesson with only ONE narrow single-topic video covering just 1 of its 4 subtopics (same systemic pattern flagged for Grade 9's review lessons) — given combo/multi-video treatment, reusing already-good videos from Days 26-29 at zero extra search cost: Language → Comparing Texts (`TSPz9YOpLgU`, Day26) + Sequence (`_B_ZHOjUrDs`, Day27) + Editing (`cqebXUsZShU`, Day28); Math → Money (`cYGiipJOiLg`, Day26) + Patterns (`z2IBSAuImyk`, Day27) + Rounding (`m41qWPjSUdw`, Day28); Science → Resources (`tUmZ9djDHh8`, Day26) + Stewardship (`QSM5N5R9PP4`, Day27) + Moon Phases (`Ie2WRraxdPs`, Day28); SocialStudies → Environment (`YwiTKzbF85c`, Day26) + Historical Figures (`J04aoVjtsBo`, Day27) + Rural/Urban Life (`YRxNQPmj1-8`, Day28)
+
+**Also found and fixed 2026-08-21 (same systemic narrow-single-video-on-a-combo-lesson pattern, discovered via spot-check, zero extra search cost — reusing already-good videos from the days each review lesson reviews):**
+- [x] FIXED 2026-08-21 — Day 15 (all 4 subjects, "Review: Idioms/Word Meanings/Purpose", "Review: Numbers/Operations/Fractions", "Review: Machines/Water Cycle/Classification", "Review: Fur Trade/Underground Railroad/Immigration") — all 4 given combo treatment, reusing Days 11-14's videos, 3/3 subtopics each
+- [x] FIXED 2026-08-21 — Day 20 (all 4 subjects, "Review: Inferences/Text Features/Persuasion", "Review: Fractions/Ratios/Grids/Angles", "Review: Light/Sound/Rocks/Matter", "Review: Territories/Arctic/Provinces/Rights") — all 4 given combo treatment, reusing Days 16-19's videos, 3/3 subtopics each
+- [x] FIXED 2026-08-21 — Day 25 (all 4 subjects, "Review: Description/POV/Transitions/Genre", "Review: Probability/Shapes/Transformations/Graphs", "Review: Circuits/Digestion/Food Chains/Adaptations", "Review: Voting/Great Lakes/Trade/Local Government") — all 4 given combo treatment, reusing Days 21-24's videos, 3/3 subtopics each
+
+**Systemic note:** Grade 5's every-5th-day "Review: A, B, C, D" lessons (Days 5, 10, 15, 20, 25, 30 — Day 5 and Day 10 not yet checked) follow the exact same pattern found in Grade 9: a single narrow video covering only one of several review subtopics. Since each subtopic already has a good individual video sitting on its own day earlier in the file, resolving any remaining instances (Day 5, Day 10) is a cheap, zero-search-cost task for a future run — same reuse-the-existing-good-videos approach used above.
+
+**Ambiguous — needs judgment call (from the original July report, superseded by the above where overlapping):**
+- [ ] Day 3 Science, Day 4 Science, Day 7 SocialStudies, Day 8 Math, Day 21 SocialStudies, Day 24 SocialStudies — each covers only part of a multi-topic lesson/review day (Day 15 Math and Day 25 Math items above are now resolved via combo treatment)
 - [ ] 16 more ambiguous flags per the eod summary, days not individually itemized
+
+**Unchecked/unverified:** Days 2, 5, 9, 10, 11, 13, 14, 17, 18, 27 entirely (Day 5 and Day 10 flagged above as likely needing the same combo treatment), plus partial gaps elsewhere.
 
 **Unchecked/unverified:** Days 10, 11, 13, 14, 17, 18, 27 entirely, plus partial gaps elsewhere — lowest-confidence grade in the whole backlog, budget a full fresh pass once the itemized list above is cleared.
 
