@@ -54,13 +54,23 @@
 
 ## 2. Grade 12
 
-**Confirmed bad — needs fix (20 total):**
-- [ ] Days 2, 10 (x2), 12, 13, 15 (x3), 16, 20, 21, 22, 23, 25, 28, 29 (x2), 30 (x3 — includes 2 dead/404 videos, so at least 2 of Day 30's blocks have literally broken links, priority-fix these first)
+**RE-AUDITED FROM SCRATCH 2026-08-21 (this session):** same as Grade 10 above — did a full fresh free-verification pass (videos.list, no search-budget cost) across all 120 Grade 12 Day1-30 blocks against current lesson content, then fixed everything actually confirmed bad. The July "20 confirmed bad / 3 dead links" itemization could not be reliably mapped to current days/subjects (no dead/404 links were found in the current data — likely already fixed), so this pass supersedes it entirely rather than trying to reconcile line-by-line.
 
-**Ambiguous — needs judgment call (14 total):**
-- [ ] Days 2, 3, 5, 6, 9, 11, 13, 14, 15, 24 (x2), 26, 28, 29
+**Fixed 2026-08-21 (8 total, all verified against current lesson content, current videos):**
+- [x] Day 5, English ("Media Analysis: Digital Media and Political Communication") — was a generic ESL-flavored "what is mass media" lecture, weak/off-topic → replaced with CrashCourse "Introduction to Media Literacy" (`AD7N-1Mj-DU`)
+- [x] Day 6, English ("Literature: Poetry — The Lyric Tradition") — was GCSE-labeled poetry-essay-writing video, wrong curriculum + wrong focus → replaced with "Taylor Swift and the Lyric Tradition" (`H-wDC1EeSFQ`), exact phrase match
+- [x] Day 12, English ("Media: Creating a Digital Portfolio") — was 49s, too short → replaced with "Create Digital Portfolios in Google Sites" (New EdTech Classroom, `gN1BWKy2Up0`)
+- [x] Day 14, English ("Grade 12 English: Culminating Preparation") — was a 1:19 OSSD-course-intro ad, too short + wrong purpose → replaced with "English Essay: How to Write about ANY Essay Topic" (`GNL1_tNTqpw`)
+- [x] Day 15, Calculus ("Calculus: Looking Back and Forward") — was a regular Lesson-1 calculus content video, wrong content type for a reflection day → replaced with Eddie Woo "Introduction to Calculus (Seeing the big picture)" (`tt2DGYOi3hc`)
+- [x] Day 16, English ("Postcolonial Literature: Writing Back to Empire") — was 1:31, too short → replaced with "The Empire Writes Back | Things Fall Apart by Chinua Achebe Explained" (`vpux_CD082k`)
+- [x] Day 29, Calculus ("Calculus: Final Reflection and University Preparation") — was "Calculus made EASY! 5 Concepts you MUST KNOW before taking calculus," wrong audience direction (pre-calc primer, not post-Grade-12 reflection) → replaced with Oxford Mathematics "Introductory Calculus: 1st Year Student Lecture" (`I3GWzXRectE`), a genuine "what university calculus is like" preview
+- [x] Day 30, AdvancedFunctions ("Grade 12 Mathematics: Final Day Celebration") — was Khan Academy "Introduction to limits," a regular early-course lesson, wrong for a final-day theme → replaced with Domain of Science "The Map of Mathematics" (`OmJ-4B-mS-Y`), a fitting companion to Day30 Physics's existing "Map of Physics" video
 
-**Unchecked/unverified:** none reported — treat as fully classified, same caveat as Grade 10 about exact subject/title not preserved from the prose report; re-pull current title/description per flagged day via free oembed/snippet call before searching for a replacement.
+**Checked and found already fine (no action needed) during the same fresh pass:** Days 1-4, 7-11, 13, 17-28 — all currently have on-topic, adequate-length, non-banned-keyword videos (several are generous partial-topic matches rather than exact, e.g. missing one sub-clause of a multi-part title, but none violate the quality rules). Day 20 Physics (`HOk4Zt2vZrA`, "Class 12" Indian-channel framing, no explicit banned keyword) and a few reused generic review-video IDs (`WsQQvHm4lSw`, `5NadGZg4lfI`, `CwkhvFlNFp0`, `MhZXHA4BWgk` across multiple review/reflection days) were noted as lower-confidence/acceptable-reuse rather than fixed — spot-check further in a future run if desired.
+
+**Original July itemization (could not be reliably reconciled with current data — superseded by the 2026-08-21 re-audit above):**
+~~Confirmed bad — needs fix (20 total): Days 2, 10 (x2), 12, 13, 15 (x3), 16, 20, 21, 22, 23, 25, 28, 29 (x2), 30 (x3, incl. 2 dead links) — no dead/404 links found in the 2026-08-21 pass, content has clearly shifted~~
+~~Ambiguous — needs judgment call (14 total): Days 2, 3, 5, 6, 9, 11, 13, 14, 15, 24 (x2), 26, 28, 29~~
 
 ---
 

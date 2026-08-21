@@ -172,7 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Media Analysis: Digital Media and Political Communication", summary:"Students analyse how digital platforms — social media, podcasts, algorithmic news — have transformed political communication and citizenship.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
+   videoUrl:"https://www.youtube.com/watch?v=AD7N-1Mj-DU",
    quiz:[
      {q:"Political communication via social media differs from broadcast media in ___.", options:["its interactive, many-to-many architecture","it has no political influence","it reaches fewer people","it is always more accurate"], answer:0},
      {q:"Algorithmic curation of political content can affect democracy by ___.", options:["creating filter bubbles that limit opposing views","eliminating all political bias in media","only increasing voter turnout","always improving the quality of political debate"], answer:0},
@@ -214,7 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Literature: Poetry — The Lyric Tradition", summary:"Students study the development of the lyric poem from the Romantics through Modernism to contemporary practice, examining how lyric poetry constructs a speaking self and addresses fundamental human questions.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=eRq5PkcLqn8",
+   videoUrl:"https://www.youtube.com/watch?v=H-wDC1EeSFQ",
    quiz:[
      {q:"The lyric poem is distinguished by ___.", options:["personal feeling voiced by an 'I'","always being short","always rhyming","always being about nature"], answer:0},
      {q:"Romanticism's influence on lyric poetry includes ___.", options:["avoidance of personal feeling","imagination and emotional authenticity","strict adherence to rational argument","rejection of all nature imagery"], answer:1},
@@ -466,7 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Media: Creating a Digital Portfolio", summary:"Students curate, design, and reflect on a digital portfolio of their best work across Grade 12, developing skills in curation, self-presentation, and digital literacy.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=eCmNTrgmzdk",
+   videoUrl:"https://www.youtube.com/watch?v=gN1BWKy2Up0",
    quiz:[
      {q:"A digital portfolio differs from a print portfolio in that ___.", options:["it can include only digital work","it can be hyperlinked and multimedia","it is always better","it never includes reflection"], answer:1},
      {q:"Curating a portfolio requires ___.", options:["including everything you've produced","only including the most recent work","only including error-free work","selecting pieces that show your range"], answer:3},
@@ -550,7 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Grade 12 English: Culminating Preparation", summary:"Students prepare for their culminating essay and exam, reviewing the year's literary works and refining their analytical approaches.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=sRkOWvR8mNA",
+   videoUrl:"https://www.youtube.com/watch?v=GNL1_tNTqpw",
    quiz:[
      {q:"The Grade 12 culminating essay should demonstrate ___.", options:["only correct grammar","your best analytical thinking","only breadth of reading","only length"], answer:1},
      {q:"Preparing for a literary exam involves ___.", options:["only re-reading all the texts","only memorising quotations","understanding each text's key themes","only reviewing the plot of each text"], answer:2},
@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Looking Back and Forward", summary:"Students reflect on the year's learning in calculus and its connections to the mathematical sciences.",
    resourceLabel:"Khan Academy: Calculus Bridge to University", resourceUrl:"https://www.youtube.com/watch?v=WUvTyaaNkzM",
-   videoUrl:"https://www.youtube.com/watch?v=BRU-hh31JVk",
+   videoUrl:"https://www.youtube.com/watch?v=tt2DGYOi3hc",
    quiz:[
      {q:"The Fundamental Theorem of Calculus is profound because ___.", options:["it is the most complex theorem in mathematics","it reveals that differentiation and integration","it makes integration easier to compute","only because it involves two operations"], answer:1},
      {q:"Calculus was developed independently by ___.", options:["Descartes and Fermat","Gauss and Euler","Newton and Leibniz in the 17th century","Euclid and Archimedes"], answer:2},
@@ -634,7 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Postcolonial Literature: Writing Back to Empire", summary:"Students examine postcolonial theory and its application to literary texts — how writers from formerly colonised nations rewrite colonial narratives.",
    resourceLabel:"Sarath Krishnan: Writing Back in Postcolonialism", resourceUrl:"https://www.youtube.com/watch?v=cPXxQKc0OoQ",
-   videoUrl:"https://www.youtube.com/watch?v=cPXxQKc0OoQ",
+   videoUrl:"https://www.youtube.com/watch?v=vpux_CD082k",
    quiz:[
      {q:"The term 'writing back' (Ashcroft et al.) refers to ___.", options:["only protest poetry","authors responding to publisher rejections","rewriting colonial canonical texts","only African literature"], answer:2},
      {q:"Chinua Achebe's critique of Conrad's Heart of Darkness argues ___.", options:["Conrad makes Africa a mere backdrop","the novel is flawless","the novel is primarily about navigation","Conrad was not a racist"], answer:0},
@@ -1199,8 +1199,8 @@ const curriculum: DayContent[] = [
      {q:"Looking back on Grade 12 mathematics, the most valuable habit of mind developed is ___.", options:["test-taking strategy","speed at calculation","mathematical curiosity","memorisation of formulas"], answer:2}
    ]},
   {subject:"Calculus", title:"Calculus: Final Reflection and University Preparation", summary:"Students reflect on Calculus learning and prepare for university calculus courses.",
-   resourceLabel:"Dr Ji Tutoring: 5 Concepts You Must Know Before Taking Calculus", resourceUrl:"https://www.youtube.com/watch?v=AKmuk0OM-DM",
-   videoUrl:"https://www.youtube.com/watch?v=AKmuk0OM-DM",
+   resourceLabel:"Oxford Mathematics: Introductory Calculus, 1st Year Student Lecture", resourceUrl:"https://www.youtube.com/watch?v=I3GWzXRectE",
+   videoUrl:"https://www.youtube.com/watch?v=I3GWzXRectE",
    quiz:[
      {q:"The two most important ideas in Calculus are ___.", options:["the product rule and chain rule","derivatives and integrals as separate topics","the derivative and integral (inverses)","limits and power rule"], answer:2},
      {q:"University calculus (Calculus I, II) will build on your Grade 12 learning by ___.", options:["not requiring any Grade 12 preparation","being much easier","adding multivariable calc and series","starting completely from scratch"], answer:2},
@@ -1231,8 +1231,8 @@ const curriculum: DayContent[] = [
      {q:"The best preparation for university and adult life that Grade 12 has provided is ___.", options:["achieving the highest possible marks","only having specific skills","knowing all the curriculum content","the experience of sustained intellectual effort"], answer:3}
    ]},
   {subject:"AdvancedFunctions", title:"Grade 12 Mathematics: Final Day Celebration", summary:"Students celebrate completing two of Ontario's most rigorous mathematics courses and look ahead with confidence.",
-   resourceLabel:"Khan Academy: Encouragement for Math Students", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
-   videoUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
+   resourceLabel:"Domain of Science: The Map of Mathematics", resourceUrl:"https://www.youtube.com/watch?v=OmJ-4B-mS-Y",
+   videoUrl:"https://www.youtube.com/watch?v=OmJ-4B-mS-Y",
    quiz:[
      {q:"Completing both Advanced Functions and Calculus in Grade 12 demonstrates ___.", options:["nothing about future capabilities","genuine mathematical maturity","only good test-taking strategy","only that you like mathematics"], answer:1},
      {q:"The discipline of solving a difficult mathematics problem translates to ___.", options:["nothing outside mathematics","only to science and engineering","any field needing persistence and rigor","only future mathematics problems"], answer:2},
