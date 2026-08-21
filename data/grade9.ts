@@ -34,7 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Introduction to Geographic Inquiry", summary:"CGC1W begins with geographic inquiry — asking questions, gathering geographic data, and analyzing spatial patterns.",
    resourceLabel:"YouTube: Introduction to Geographic Inquiry", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Geographic%20Inquiry%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=haL91JLuJxI",
+   videoUrl:"https://www.youtube.com/watch?v=RdO7DfMiIHo",
    quiz:[
      {q:"Geographic inquiry typically begins with...", options:["Avoiding data","Asking a geographic question","Only memorizing maps","Skipping research entirely"], answer:1},
      {q:"Spatial patterns refer to...", options:["How things are arranged across space","Government structures","Only population numbers","Currency exchange rates"], answer:0},
@@ -172,7 +172,8 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Sentences, Essays, and Devices", summary:"Mixed review of clauses, thesis statements, persuasive analysis, and literary devices.",
    resourceLabel:"YouTube: Review: Sentences, Essays, and Devices", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Sentences%2C%20Essays%2C%20and%20Devices%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
+   videoUrl:"https://www.youtube.com/watch?v=smgyeUomfyA",
+   videoUrls:[{label:"Complex Sentences", url:"https://www.youtube.com/watch?v=smgyeUomfyA"},{label:"Thesis Statements", url:"https://www.youtube.com/watch?v=DFp1uGTXo4Q"},{label:"Literary Devices", url:"https://www.youtube.com/watch?v=OY2zPFQsKSI"}],
    quiz:[
      {q:"A complex sentence contains an independent clause and...", options:["No other clauses","At least one dependent clause","Only a verb","Only a noun"], answer:1},
      {q:"A thesis statement should be...", options:["A question","Vague","Clear and arguable","Irrelevant"], answer:2},
@@ -192,7 +193,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Ecosystems, Matter, and Electricity", summary:"Mixed review of sustainable ecosystems, atomic theory, chemical reactions, and electricity.",
    resourceLabel:"YouTube: Review: Ecosystems, Matter, and Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Electricity%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=TitrRpMUt0I",
+   videoUrl:"https://www.youtube.com/watch?v=QlBVAc46I5U",
+   videoUrls:[{label:"Sustainable Ecosystems", url:"https://www.youtube.com/watch?v=QlBVAc46I5U"},{label:"Atomic Theory", url:"https://www.youtube.com/watch?v=e9GuJUaX0UM"},{label:"Current Electricity", url:"https://www.youtube.com/watch?v=enuNdK426Wo"}],
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","Soil type only","Water levels only","A single species"], answer:0},
      {q:"Protons carry what charge?", options:["Positive","Negative","Neutral","Variable"], answer:0},
@@ -360,7 +362,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Chemistry, Electricity, and Earth Science", summary:"Mixed review of atomic theory, chemical reactions, circuits, and the solar system.",
    resourceLabel:"YouTube: Review: Chemistry, Electricity, and Earth Science", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Electricity%2C%20and%20Earth%20Science%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=eYFYHyYSitI",
+   videoUrl:"https://www.youtube.com/watch?v=Lvbm8horG1U",
+   videoUrls:[{label:"Chemical Reactions", url:"https://www.youtube.com/watch?v=Lvbm8horG1U"},{label:"Circuits and Electrical Safety", url:"https://www.youtube.com/watch?v=HkjVNqyYAbo"},{label:"The Solar System", url:"https://www.youtube.com/watch?v=TKM0P3XlMNA"}],
    quiz:[
      {q:"Protons are found in the...", options:["Nucleus","Outer shell only","Only in compounds","Nowhere in an atom"], answer:0},
      {q:"The substances formed in a reaction are called...", options:["Catalysts","Products","Mixtures only","Reactants"], answer:1},
@@ -466,7 +469,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Comparing Print and Digital Media Texts", summary:"Compare how print and digital texts present information differently and consider the effects on the audience (ENL1W Strand C).",
    resourceLabel:"YouTube: Comparing Print and Digital Media Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Print%20and%20Digital%20Media%20Texts%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
+   videoUrl:"https://www.youtube.com/watch?v=GMAOlUVjggs",
    quiz:[
      {q:"One key difference between print and digital media is that digital texts can include...", options:["Only still images","Hyperlinks and interactive multimedia","Longer paragraphs only","Never include data"], answer:1},
      {q:"When comparing two texts on the same topic, a reader should consider...", options:["Only which text is longer","The font choice alone","Only which text was published first","Purpose, audience, and evidence used"], answer:3},
@@ -580,7 +583,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Water Resources and Access Issues", summary:"Examine the distribution of fresh water globally, the concept of water scarcity, and geographic factors affecting water access (CGC1W).",
    resourceLabel:"YouTube: Global Water Resources and Access Issues", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Water%20Resources%20and%20Access%20Issues%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=sIM0PGv8h08",
+   videoUrl:"https://www.youtube.com/watch?v=otrpxtAmDAk",
    quiz:[
      {q:"Approximately what percentage of Earth's water is fresh water?", options:["About 50%","About 70%","About 25%","About 3%"], answer:3},
      {q:"Water scarcity means that...", options:["Water scarcity never occurs in developed countries","A region has too much rain","A region lacks enough clean fresh water","Only ocean water is unavailable"], answer:2},
@@ -718,7 +721,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Visual and Multimodal Texts", summary:"Critically analyze how visual elements (images, layout, colour, typography) in infographics and memes create meaning and influence the audience (ENL1W Strand C).",
    resourceLabel:"YouTube: Analyzing Visual and Multimodal Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Visual%20and%20Multimodal%20Texts%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=se3G8LV40gg",
+   videoUrl:"https://www.youtube.com/watch?v=saf8lzA4QCs",
    quiz:[
      {q:"A multimodal text is one that combines...", options:["Only spoken language","Two or more modes, like text and image","Only written words with no visuals","Images with no text ever"], answer:1},
      {q:"In an infographic, colour is often used to...", options:["Make the infographic harder to read","Organize info and guide the eye","Have no communicative purpose","Replace all written text"], answer:1},
@@ -748,7 +751,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Energy Resources and Consumption Patterns", summary:"Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
    resourceLabel:"YouTube: Global Energy Resources and Consumption Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=1N4Hs4Tsh0U",
+   videoUrl:"https://www.youtube.com/watch?v=-RSrviqvAmY",
    quiz:[
      {q:"Fossil fuels include...", options:["Solar, wind, and hydro","Biomass and tidal only","Coal, oil, and natural gas","Nuclear and geothermal"], answer:2},
      {q:"Renewable energy sources are those that...", options:["Are always more expensive than fossil fuels","Only work in tropical climates","Replenished naturally, e.g. solar","Will run out in decades"], answer:2},
@@ -1032,7 +1035,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", summary:"Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
    resourceLabel:"YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=TKM0P3XlMNA",
+   videoUrl:"https://www.youtube.com/watch?v=2_e0PuPl9js",
+   videoUrls:[{label:"Plate Tectonics", url:"https://www.youtube.com/watch?v=2_e0PuPl9js"},{label:"Rock Cycle", url:"https://www.youtube.com/watch?v=VByCLpj-I_s"},{label:"Life Cycle of Stars", url:"https://www.youtube.com/watch?v=BG-ukUB_sQU"}],
    quiz:[
      {q:"Continental drift theory proposes that continents were once joined in a supercontinent called...", options:["Laurasia only","Atlantis","Gondwana only","Pangaea"], answer:3},
      {q:"Which rock type would most likely contain fossils?", options:["None — rocks cannot contain fossils","Metamorphic","Sedimentary","Igneous"], answer:2},

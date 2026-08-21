@@ -76,17 +76,32 @@
 
 ## 3. Grade 9
 
-**Already fixed 2026-07-21 (verify these are still good, don't re-spend budget unless verification fails):**
-- [x] Day 5, SocialStudies ("Review: Geography and Resources") — fixed to a Natural Resources in Canada (CGC1W) video
-- [x] Day 6, SocialStudies ("Careers Related to Geography") — fixed to a geography-careers-specific video
-- [x] Day 27, SocialStudies ("Geography of Public Health and Disease Spread") — fixed to Crash Course Geography's "How Does Disease Move?"
-- [x] Day 29, SocialStudies ("Geographic Inquiry Project Design") — fixed to an Ontario Teachers' Federation geo-inquiry video
+**Already fixed 2026-07-21 (re-verified 2026-08-21, still good):**
+- [x] Day 5, SocialStudies ("Review: Geography and Resources") — Natural Resources in Canada (CGC1W) video, confirmed good
+- [x] Day 6, SocialStudies ("Careers Related to Geography") — geography-careers-specific video, confirmed good
+- [x] Day 27, SocialStudies ("Geography of Public Health and Disease Spread") — Crash Course Geography's "How Does Disease Move?", confirmed good
+- [x] Day 29, SocialStudies ("Geographic Inquiry Project Design") — Ontario Teachers' Federation geo-inquiry video, confirmed good
 
-**Confirmed bad — needs fix (~20 total, mostly elementary-level "Dr Binocs"/"Rock N Learn" content, UK GCSE videos, one Hindi-language video):**
-- [ ] Days 1, 2, 6, 7, 9, 10, 13, 15 (x3), 19, 20 (x3), 23, 24, 25, 26, 28
+**RE-AUDITED FROM SCRATCH 2026-08-21 (this session):** same fresh full-pass approach as Grades 10/12 above. The July "~20 confirmed bad, mostly Dr Binocs/GCSE/Hindi" itemization did not match what's actually in the current data (no Dr Binocs, GCSE, or Hindi-language videos were found in Grade 9's current Days 1-30) — content has clearly shifted since July. This pass supersedes the July itemization.
 
-**Ambiguous — needs judgment call (10 total):**
-- [ ] Days 5, 7, 9, 12, 18, 21 (x2), 26, 29 (x2)
+**Fixed 2026-08-21 (9 total):**
+- [x] Day 1, SocialStudies ("Introduction to Geographic Inquiry") — was a generic CGC1W course-intro video, not inquiry-skill-specific → replaced with "Geographic Inquiry" (Eric Lavergne, `RdO7DfMiIHo`)
+- [x] Day 5, Language ("Review: Sentences, Essays, and Devices") — was 13s, way too short → this is a combo/review lesson (3 subtopics), resolved 3/3 by reusing Day1/2/4's own already-good videos: Complex Sentences (`smgyeUomfyA`), Thesis Statements (`DFp1uGTXo4Q`), Literary Devices (`OY2zPFQsKSI`)
+- [x] Day 5, Science ("Review: Ecosystems, Matter, and Electricity") — was narrow (only covered ecosystems, missing matter/electricity) → combo, resolved 3/3 by reusing Day1/2/4's videos: Sustainable Ecosystems (`QlBVAc46I5U`), Atomic Theory (`e9GuJUaX0UM`), Current Electricity (`enuNdK426Wo`)
+- [x] Day 9, Science ("Review: Chemistry, Electricity, and Earth Science") — was narrow (only electrical-principles) → combo, resolved 3/3 by reusing Day3/6/7's videos: Chemical Reactions (`Lvbm8horG1U`), Circuits and Electrical Safety (`HkjVNqyYAbo`), The Solar System (`TKM0P3XlMNA`)
+- [x] Day 12, Language ("Comparing Print and Digital Media Texts") — was a generic/weak mass-media lecture → replaced with "Comparing Digital and Print Text Structure" (`GMAOlUVjggs`)
+- [x] Day 14, SocialStudies ("Global Water Resources and Access Issues") — was a generic natural-resources video, not water-specific → replaced with TED-Ed "Fresh water scarcity: An introduction to the problem" (`otrpxtAmDAk`)
+- [x] Day 18, SocialStudies ("Global Energy Resources and Consumption Patterns") — was 5 SECONDS long, essentially broken → replaced with Canadian Geographic "Global Energy Demand" (`-RSrviqvAmY`)
+- [x] Day 18, Language ("Analyzing Visual and Multimodal Texts") — was 1:46, too short → replaced with "Media & Multimodal Texts Visual Literacy - Deconstructing the Image" (`saf8lzA4QCs`)
+- [x] Day 25, Science ("Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy") — was just the Day7 solar-system video reused, missing all 4 review subtopics → combo, resolved 3/3 (capped at 3 per policy) by reusing Day21/22/23's videos: Plate Tectonics (`2_e0PuPl9js`), Rock Cycle (`VByCLpj-I_s`), Life Cycle of Stars (`BG-ukUB_sQU`)
+
+**Known systemic pattern found but NOT fixed this run (deprioritized — flag for a future combo-treatment sweep):** several other "Review: A, B, C, D" lessons (quad-topic reviews, e.g. Days 15, 20, 25 Language/Math/SocialStudies) currently have a single narrow video covering only 1 of the 3-4 subtopics being reviewed — same underlying issue as the 3 Science/Language combos fixed above, just not yet resolved for every instance. Since each of these days' component subtopics already has a good individual video sitting on its own day earlier in the file (same reuse-the-existing-good-videos approach used above), resolving the rest should be cheap (near-zero search cost) in a future run — this is a good first task for the next Grade 9 pass. Specific known instances: Day 15 Language/Math, Day 20 Language/Math/Science/SocialStudies, Day 25 Language/Math/SocialStudies, Day 30 Science/SocialStudies.
+
+**Checked and found already fine (no action needed):** all other Days 1-30 blocks not listed above — on-topic, adequate length, no banned keywords (several are generous partial-topic matches, not exact, but none violate the quality rules).
+
+**Original July itemization (could not be reconciled with current data — superseded by the 2026-08-21 re-audit above):**
+~~Confirmed bad — needs fix (~20 total, mostly Dr Binocs/GCSE/Hindi): Days 1, 2, 6, 7, 9, 10, 13, 15 (x3), 19, 20 (x3), 23, 24, 25, 26, 28 — none of these patterns (Dr Binocs, GCSE, Hindi) were found in the 2026-08-21 pass~~
+~~Ambiguous — needs judgment call (10 total): Days 5, 7, 9, 12, 18, 21 (x2), 26, 29 (x2)~~
 
 ---
 
