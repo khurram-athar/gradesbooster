@@ -208,6 +208,9 @@
 **Still needs a fix — deferred to a future run (retopic candidate identified, no acceptable video found after 2+ search attempts):**
 - [ ] Day 26, Language ("Language Arts: Consolidation and Celebration") — current video ("What Is English Language Arts? - Aspiring Teacher Guide") is generic and doesn't address consolidation/celebration; searched "celebrating growth as a writer/reader" and "writing portfolio" framings, both returned only irrelevant shorts/professional-portfolio content — needs either a 3rd search angle or a retopic to a more concrete sub-theme (e.g., "Building a Writing Portfolio") in a future run
 
+**Also fixed 2026-08-21 (resolved a previously-unresolved gap from the earlier pass this run):**
+- [x] Day 28, History ("History Exam Preparation and Reflection") — video was "How to Study Effectively: Simple Exam Tips" (Doctor Mike, 4:37), a generic study-tips video with zero history-specific content → after 2 failed search attempts for exam-prep framings (Gohar Khan clips, too short; AP/DBQ and philosophy-of-history videos, off-topic), a 3rd query ("six historical thinking concepts explained significance evidence continuity change") found an exact match → replaced with "A Basic Introduction to Historical Thinking Concepts" (Clay Mcleod, `_m4FjeJ7SPs`, 7:41) — directly covers the 6 historical thinking concepts (significance, evidence, cause/consequence, continuity/change, etc.) already reflected in the lesson's existing quiz; title/summary/quiz left as-is since they already matched the new video's content well, so this was a video-only fix, not a full retopic
+
 **Checked and found already fine (no action needed):** Days 2, 5, 6, 10, 24, 27 in full; Day 20 Language/Math/Biology(Science)/Functions not applicable — all subjects on Day 20/25/26/29 not listed above.
 
 **Ambiguous — needs judgment call (10 total, from original July report, not yet re-checked):**
