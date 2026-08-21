@@ -61,7 +61,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -121,7 +122,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -181,7 +183,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Structures, Materials & Engineering"
       },
       {
         "subject": "History",
@@ -241,7 +244,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "New France & Early Canada"
       }
     ]
   },
@@ -307,7 +311,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -367,7 +372,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -427,7 +433,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "History",
@@ -553,7 +560,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -613,7 +621,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -673,7 +682,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reproduction & Development"
       },
       {
         "subject": "History",
@@ -799,7 +809,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -859,7 +870,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -979,7 +991,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -1045,7 +1058,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -1105,7 +1119,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Linear Relations"
       },
       {
         "subject": "Science",
@@ -1225,7 +1240,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -1291,7 +1307,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -1351,7 +1368,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -1411,7 +1429,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -1471,7 +1490,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -1537,7 +1557,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing: Process & Editing"
       },
       {
         "subject": "Math",
@@ -1597,7 +1618,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -1783,7 +1805,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Oral Communication & Presentation"
       },
       {
         "subject": "Math",
@@ -1843,7 +1866,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -1903,7 +1927,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -1963,7 +1988,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -2089,7 +2115,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -2149,7 +2176,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Biotechnology"
       },
       {
         "subject": "History",
@@ -2209,7 +2237,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World War I"
       }
     ]
   },
@@ -2275,7 +2304,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Independent Reading"
       },
       {
         "subject": "Math",
@@ -2335,7 +2365,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -2521,7 +2552,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -2581,7 +2613,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -2641,7 +2674,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -2701,7 +2735,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World War II"
       }
     ]
   },
@@ -2767,7 +2802,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -2827,7 +2863,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -2887,7 +2924,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -2947,7 +2985,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -3013,7 +3052,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -3073,7 +3113,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -3133,7 +3174,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -3193,7 +3235,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -3319,7 +3362,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -3505,7 +3549,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -3565,7 +3610,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -3751,7 +3797,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -3811,7 +3858,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -3871,7 +3919,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -3931,7 +3980,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World War II"
       }
     ]
   },
@@ -3997,7 +4047,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -4057,7 +4108,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -4243,7 +4295,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -4303,7 +4356,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -4363,7 +4417,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -4423,7 +4478,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -4549,7 +4605,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -4669,7 +4726,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -4735,7 +4793,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -4795,7 +4854,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -4915,7 +4975,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Environment & Sustainability (Social Studies)"
       }
     ]
   },
@@ -5473,7 +5534,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -5533,7 +5595,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -5593,7 +5656,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -5719,7 +5783,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Poetry"
       },
       {
         "subject": "Math",
@@ -5779,7 +5844,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -6025,7 +6091,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -6703,7 +6770,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -6763,7 +6831,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -7195,7 +7264,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing: Process & Editing"
       },
       {
         "subject": "Math",
@@ -7315,7 +7385,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -7441,7 +7512,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -7501,7 +7573,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -7561,7 +7634,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -7687,7 +7761,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -7747,7 +7822,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -7807,7 +7883,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Evolution"
       },
       {
         "subject": "History",
@@ -7933,7 +8010,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -7993,7 +8071,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -8053,7 +8132,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -8179,7 +8259,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -8239,7 +8320,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -8299,7 +8381,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -8425,7 +8508,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -8485,7 +8569,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Measurement: Perimeter & Area"
       },
       {
         "subject": "Science",
@@ -8605,7 +8690,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World War II"
       }
     ]
   },
@@ -8671,7 +8757,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -8731,7 +8818,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Science",
@@ -8791,7 +8879,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -8851,7 +8940,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -8917,7 +9007,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -8977,7 +9068,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Combinatorics"
       },
       {
         "subject": "Science",
@@ -9037,7 +9129,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -9163,7 +9256,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -9343,7 +9437,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -9409,7 +9504,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -9469,7 +9565,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -9655,7 +9752,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -9715,7 +9813,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -9775,7 +9874,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Biotechnology"
       },
       {
         "subject": "History",
@@ -9901,7 +10001,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -9961,7 +10062,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -10021,7 +10123,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "History",
@@ -10147,7 +10250,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -10207,7 +10311,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -10267,7 +10372,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "History",
@@ -10327,7 +10433,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -10393,7 +10500,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -10453,7 +10561,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -10513,7 +10622,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -10573,7 +10683,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World War II"
       }
     ]
   },
@@ -10639,7 +10750,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -10699,7 +10811,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -10759,7 +10872,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Biotechnology"
       },
       {
         "subject": "History",
@@ -10885,7 +10999,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -11005,7 +11120,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Scientific Inquiry & Skills"
       },
       {
         "subject": "History",
@@ -11065,7 +11181,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -11131,7 +11248,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Genre Studies"
       },
       {
         "subject": "Math",
@@ -11191,7 +11309,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Science",
@@ -11251,7 +11370,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -11377,7 +11497,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -11437,7 +11558,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -11557,7 +11679,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -11623,7 +11746,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -11683,7 +11807,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -11743,7 +11868,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -11803,7 +11929,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -11869,7 +11996,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -11929,7 +12057,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -11989,7 +12118,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -12049,7 +12179,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -12115,7 +12246,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -12391,7 +12523,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -12451,7 +12584,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -12511,7 +12645,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -12637,7 +12772,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -12757,7 +12893,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -12817,7 +12954,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Rebellions & Political Change (pre-1900)"
       }
     ]
   },
@@ -12883,7 +13021,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -12943,7 +13082,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -13003,7 +13143,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -13129,7 +13270,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -13189,7 +13331,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -13249,7 +13392,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -13375,7 +13519,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -13435,7 +13580,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -13495,7 +13641,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "History",
@@ -13621,7 +13768,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -13681,7 +13829,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Science",
@@ -13741,7 +13890,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "History",
@@ -13867,7 +14017,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -14113,7 +14264,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -14173,7 +14325,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -14233,7 +14386,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -14358,7 +14512,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -14417,7 +14572,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Science",
@@ -14476,7 +14632,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -14535,7 +14692,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Culture, Diversity & Multiculturalism"
       }
     ]
   },
@@ -14842,7 +15000,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -14901,7 +15060,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Analytic & Coordinate Geometry"
       },
       {
         "subject": "Science",
@@ -14960,7 +15120,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -15019,7 +15180,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -15084,7 +15246,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -15143,7 +15306,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -15261,7 +15425,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -15326,7 +15491,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -15385,7 +15551,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -15444,7 +15611,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -15503,7 +15671,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -15568,7 +15737,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -15627,7 +15797,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -15810,7 +15981,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -15869,7 +16041,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -15928,7 +16101,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -15987,7 +16161,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -16052,7 +16227,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -16111,7 +16287,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -16170,7 +16347,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "History",
@@ -16229,7 +16407,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -16294,7 +16473,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -16353,7 +16533,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -16536,7 +16717,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Genre Studies"
       },
       {
         "subject": "Math",
@@ -16595,7 +16777,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -16778,7 +16961,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -16837,7 +17021,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -16896,7 +17081,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -16955,7 +17141,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -17262,7 +17449,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -17321,7 +17509,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -17380,7 +17569,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Structures, Materials & Engineering"
       },
       {
         "subject": "History",
@@ -17504,7 +17694,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Formal Writing & Letters"
       },
       {
         "subject": "Math",
@@ -17563,7 +17754,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -17622,7 +17814,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "History",
@@ -17746,7 +17939,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -17805,7 +17999,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -17864,7 +18059,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -17988,7 +18184,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -18047,7 +18244,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -18106,7 +18304,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -18165,7 +18364,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -18230,7 +18430,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -18289,7 +18490,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -18348,7 +18550,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -18472,7 +18675,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -18531,7 +18735,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -18590,7 +18795,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -18649,7 +18855,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -18714,7 +18921,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -18773,7 +18981,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -18832,7 +19041,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -18956,7 +19166,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -19015,7 +19226,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -19198,7 +19410,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -19257,7 +19470,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -19316,7 +19530,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -19682,7 +19897,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -19800,7 +20016,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -19859,7 +20076,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -19924,7 +20142,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -20166,7 +20385,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -20225,7 +20445,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Probability Distributions"
       },
       {
         "subject": "Science",
@@ -20284,7 +20505,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -20408,7 +20630,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -20650,7 +20873,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -20892,7 +21116,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -21010,7 +21235,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "History",
@@ -21134,7 +21360,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -21193,7 +21420,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -21376,7 +21604,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -21435,7 +21664,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -21618,7 +21848,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -21736,7 +21967,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -21795,7 +22027,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -22102,7 +22335,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -22161,7 +22395,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Functions: Exponential & Logarithmic"
       },
       {
         "subject": "Science",
@@ -22220,7 +22455,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "History",
@@ -22344,7 +22580,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -22403,7 +22640,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -22586,7 +22824,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -22828,7 +23067,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -22887,7 +23127,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -22946,7 +23187,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -23070,7 +23312,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -23129,7 +23372,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -23312,7 +23556,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -23371,7 +23616,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Functions: General/Intro"
       },
       {
         "subject": "Science",
@@ -23430,7 +23676,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -23554,7 +23801,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -23613,7 +23861,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -23672,7 +23921,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Interactions in Nature"
       },
       {
         "subject": "History",
@@ -23796,7 +24046,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -23855,7 +24106,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -23914,7 +24166,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -24038,7 +24291,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -24097,7 +24351,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -24522,7 +24777,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -24640,7 +24896,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -24764,7 +25021,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -24823,7 +25081,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -25006,7 +25265,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -25183,7 +25443,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -25248,7 +25509,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -25307,7 +25569,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Angles"
       },
       {
         "subject": "Science",
@@ -25366,7 +25629,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Classification of Living Things"
       },
       {
         "subject": "History",
@@ -25425,7 +25689,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -25490,7 +25755,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -25549,7 +25815,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Decimals"
       },
       {
         "subject": "Science",
@@ -25608,7 +25875,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -25732,7 +26000,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -25791,7 +26060,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -25850,7 +26120,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -25974,7 +26245,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -26151,7 +26423,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -26216,7 +26489,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -26275,7 +26549,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -26334,7 +26609,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -26393,7 +26669,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -26458,7 +26735,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -26635,7 +26913,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -26942,7 +27221,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -27001,7 +27281,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -27060,7 +27341,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "History",
@@ -27119,7 +27401,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World War I"
       }
     ]
   },
@@ -27184,7 +27467,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -27243,7 +27527,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -27361,7 +27646,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -27426,7 +27712,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -27485,7 +27772,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -27668,7 +27956,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -27727,7 +28016,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -27910,7 +28200,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -27969,7 +28260,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -28028,7 +28320,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -28152,7 +28445,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -28270,7 +28564,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "History",
@@ -28394,7 +28689,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -28453,7 +28749,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Calculus: Limits & Rates of Change"
       },
       {
         "subject": "Science",
@@ -28512,7 +28809,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -28636,7 +28934,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -28878,7 +29177,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -28937,7 +29237,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -28996,7 +29297,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -29362,7 +29664,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -29421,7 +29724,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -29480,7 +29784,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -29539,7 +29844,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -29604,7 +29910,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -29663,7 +29970,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -29846,7 +30154,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -29905,7 +30214,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -29964,7 +30274,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -30088,7 +30399,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -30147,7 +30459,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Science",
@@ -30206,7 +30519,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -30265,7 +30579,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -30330,7 +30645,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -30389,7 +30705,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -30448,7 +30765,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -30507,7 +30825,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -30572,7 +30891,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -30631,7 +30951,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -30690,7 +31011,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -30749,7 +31071,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -30814,7 +31137,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -30873,7 +31197,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -30991,7 +31316,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -31056,7 +31382,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -31115,7 +31442,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -31174,7 +31502,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "History",
@@ -31233,7 +31562,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Transportation & Infrastructure"
       }
     ]
   },
@@ -31298,7 +31628,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -31357,7 +31688,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -31416,7 +31748,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "History",
@@ -31475,7 +31808,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -31782,7 +32116,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -31841,7 +32176,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Calculus: Integrals"
       },
       {
         "subject": "Science",
@@ -31900,7 +32236,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "History",
@@ -31959,7 +32296,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -32024,7 +32362,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -32083,7 +32422,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -32201,7 +32541,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -32266,7 +32607,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -32325,7 +32667,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -32508,7 +32851,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -32685,7 +33029,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -32750,7 +33095,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -32809,7 +33155,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -32868,7 +33215,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -32992,7 +33340,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -33051,7 +33400,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -33110,7 +33460,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -33234,7 +33585,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -33293,7 +33645,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -33411,7 +33764,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -33476,7 +33830,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -33535,7 +33890,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -33594,7 +33950,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -33777,7 +34134,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -33836,7 +34194,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -33895,7 +34254,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -34202,7 +34562,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -34444,7 +34805,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -34503,7 +34865,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -34562,7 +34925,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "History",
@@ -34621,7 +34985,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -34686,7 +35051,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -34745,7 +35111,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -34804,7 +35171,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "History",
@@ -34863,7 +35231,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -34928,7 +35297,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -34987,7 +35357,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -35046,7 +35417,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -35105,7 +35477,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -35170,7 +35543,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -35229,7 +35603,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -35288,7 +35663,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -35412,7 +35788,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -35471,7 +35848,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -35654,7 +36032,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -35713,7 +36092,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -35772,7 +36152,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "History",
@@ -35831,7 +36212,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -35896,7 +36278,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -35955,7 +36338,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -36014,7 +36398,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -36138,7 +36523,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -36256,7 +36642,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -36622,7 +37009,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -36681,7 +37069,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -36864,7 +37253,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -36923,7 +37313,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -36982,7 +37373,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -37106,7 +37498,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -37165,7 +37558,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -37224,7 +37618,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "History",
@@ -37348,7 +37743,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -37466,7 +37862,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -37525,7 +37922,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -37590,7 +37988,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -37649,7 +38048,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -37708,7 +38108,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -37832,7 +38233,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -37891,7 +38293,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -38074,7 +38477,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -38133,7 +38537,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -38192,7 +38597,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "History",
@@ -38316,7 +38722,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -38434,7 +38841,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "History",
@@ -38558,7 +38966,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -38676,7 +39085,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Evolution"
       },
       {
         "subject": "History",
@@ -38735,7 +39145,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -39042,7 +39453,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -39101,7 +39513,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -39160,7 +39573,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "History",
@@ -39284,7 +39698,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -39343,7 +39758,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -39526,7 +39942,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -39585,7 +40002,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -39644,7 +40062,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -39703,7 +40122,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -39768,7 +40188,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -39827,7 +40248,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -39945,7 +40367,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -40010,7 +40433,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -40069,7 +40493,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -40128,7 +40553,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -40252,7 +40678,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -40311,7 +40738,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -40429,7 +40857,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -40494,7 +40923,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -40553,7 +40983,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -40612,7 +41043,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reproduction & Development"
       },
       {
         "subject": "History",
@@ -40671,7 +41103,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -40736,7 +41169,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -40795,7 +41229,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -40978,7 +41413,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -41037,7 +41473,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -41096,7 +41533,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "History",
@@ -41462,7 +41900,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -41521,7 +41960,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -41704,7 +42144,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -41763,7 +42204,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -41822,7 +42264,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "History",
@@ -41946,7 +42389,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -42005,7 +42449,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -42064,7 +42509,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "History",
@@ -42188,7 +42634,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -42247,7 +42694,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -42430,7 +42878,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -42489,7 +42938,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -42548,7 +42998,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -42607,7 +43058,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Rights & Social Movements"
       }
     ]
   },
@@ -42672,7 +43124,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -42731,7 +43184,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -42914,7 +43368,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -42973,7 +43428,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -43156,7 +43612,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -43215,7 +43672,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -43274,7 +43732,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "History",
@@ -43398,7 +43857,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -43457,7 +43917,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -43516,7 +43977,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "History",
@@ -43575,7 +44037,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -43882,7 +44345,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -43941,7 +44405,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -44124,7 +44589,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -44183,7 +44649,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -44366,7 +44833,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -44425,7 +44893,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -44484,7 +44953,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "History",
@@ -44608,7 +45078,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -44667,7 +45138,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -44726,7 +45198,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "History",
@@ -44850,7 +45323,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -44909,7 +45383,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -44968,7 +45443,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "History",
@@ -45027,7 +45503,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -45092,7 +45569,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -45151,7 +45629,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -45269,7 +45748,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },

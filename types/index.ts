@@ -82,6 +82,9 @@ export interface SubjectContent {
   videoUrls?: VideoRef[];   // optional multiple videos for multi-topic/review lessons, one per subtopic.
                              // When present, videoUrl is also set to videoUrls[0].url for backward
                              // compatibility with any renderer that only reads the singular field.
+  topic?: string;         // static, offline-classified topic tag used for item 11's
+                           // cross-grade foundational-lesson suggestion feature (rule-based
+                           // adaptive learning MVP). Absent on review/uncategorizable lessons.
   quiz: QuizQuestion[];
 }
 

@@ -164,7 +164,8 @@
               "twenty"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -247,7 +248,8 @@
               "changes"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -328,7 +330,8 @@
               "meal"
             ]
           }
-        ]
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -514,7 +517,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -574,7 +578,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -700,7 +705,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -760,7 +766,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -886,7 +893,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Phonics & Word Recognition"
       },
       {
         "subject": "Math",
@@ -946,7 +954,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -1006,7 +1015,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -1066,7 +1076,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -1132,7 +1143,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -1192,7 +1204,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -1252,7 +1265,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -1378,7 +1392,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -1438,7 +1453,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -1498,7 +1514,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -1558,7 +1575,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -1684,7 +1702,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -1744,7 +1763,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "SocialStudies",
@@ -1804,7 +1824,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -1870,7 +1891,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -1930,7 +1952,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -2050,7 +2073,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -2176,7 +2200,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -2296,7 +2321,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -2362,7 +2388,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -2422,7 +2449,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -2482,7 +2510,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -2542,7 +2571,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -2608,7 +2638,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -2728,7 +2759,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -2854,7 +2886,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -2914,7 +2947,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -2974,7 +3008,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -3034,7 +3069,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -3160,7 +3196,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -3220,7 +3257,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -3346,7 +3384,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -3406,7 +3445,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -3466,7 +3506,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -3526,7 +3567,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -3592,7 +3634,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -3652,7 +3695,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -3712,7 +3756,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -3772,7 +3817,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Culture, Diversity & Multiculturalism"
       }
     ]
   },
@@ -3838,7 +3884,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -3898,7 +3945,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -3958,7 +4006,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -4018,7 +4067,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -4084,7 +4134,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -4144,7 +4195,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -4204,7 +4256,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -4264,7 +4317,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -4390,7 +4444,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -4450,7 +4505,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -4510,7 +4566,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -4636,7 +4693,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -4696,7 +4754,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -4756,7 +4815,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -4882,7 +4942,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -4942,7 +5003,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -5002,7 +5064,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -5128,7 +5191,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -5188,7 +5252,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -5374,7 +5439,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -5494,7 +5560,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -5560,7 +5627,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Poetry"
       },
       {
         "subject": "Math",
@@ -5620,7 +5688,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -5680,7 +5749,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -5740,7 +5810,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Environment & Sustainability (Social Studies)"
       }
     ]
   },
@@ -5806,7 +5877,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -6544,7 +6616,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -6790,7 +6863,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Spelling"
       },
       {
         "subject": "Math",
@@ -6970,7 +7044,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -7632,7 +7707,8 @@
               "ninety nine"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -7717,7 +7793,8 @@
               "warmer"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -7800,7 +7877,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -7892,7 +7970,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -8057,7 +8136,8 @@
               "picnic"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -8141,7 +8221,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Economy, Trade & Currency"
       }
     ]
   },
@@ -8234,7 +8315,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -8315,7 +8397,8 @@
               "the same"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -8400,7 +8483,8 @@
               "three"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -8485,7 +8569,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -8656,7 +8741,8 @@
               "smaller"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -8738,7 +8824,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -8823,7 +8910,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Media, Technology & Communication"
       }
     ]
   },
@@ -8917,7 +9005,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Phonics & Word Recognition"
       },
       {
         "subject": "Math",
@@ -9000,7 +9089,8 @@
               "the teacup"
             ]
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -9081,7 +9171,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -9165,7 +9256,8 @@
               "dad"
             ]
           }
-        ]
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -9334,7 +9426,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -9503,7 +9596,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Media, Technology & Communication"
       }
     ]
   },
@@ -9594,7 +9688,8 @@
               "space"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -9761,7 +9856,8 @@
               "cheese"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -9844,7 +9940,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -10015,7 +10112,8 @@
               "dime"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -10095,7 +10193,8 @@
               "touch"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -10176,7 +10275,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -10347,7 +10447,8 @@
               "the 6"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -10431,7 +10532,8 @@
               "butter"
             ]
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -10515,7 +10617,8 @@
               "natural wonder"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -10609,7 +10712,8 @@
               "instantly"
             ]
           }
-        ]
+        ],
+        "topic": "Phonics & Word Recognition"
       },
       {
         "subject": "Math",
@@ -10693,7 +10797,8 @@
               "faster to count groups"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -10784,7 +10889,8 @@
               "water and food"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -10864,7 +10970,8 @@
               "french"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -11034,7 +11141,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -11122,7 +11230,8 @@
               "to feel better"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -11377,7 +11486,8 @@
               "eight"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -11464,7 +11574,8 @@
               "to grow strong"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -11546,7 +11657,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -11718,7 +11830,8 @@
               "nine"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -11800,7 +11913,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -11883,7 +11997,8 @@
               "bills"
             ]
           }
-        ]
+        ],
+        "topic": "Economy, Trade & Currency"
       }
     ]
   },
@@ -12055,7 +12170,8 @@
               "five"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -12219,7 +12335,8 @@
               "for later"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -12309,7 +12426,8 @@
               "more than one"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -12558,7 +12676,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -12644,7 +12763,8 @@
               "a"
             ]
           }
-        ]
+        ],
+        "topic": "Phonics & Word Recognition"
       },
       {
         "subject": "Math",
@@ -12726,7 +12846,8 @@
               "15 minutes"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -12807,7 +12928,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -12891,7 +13013,8 @@
               "a fire drill"
             ]
           }
-        ]
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -12978,7 +13101,8 @@
               "the most of all"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -13061,7 +13185,8 @@
               "20"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -13481,7 +13606,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -13565,7 +13691,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Media, Technology & Communication"
       }
     ]
   },
@@ -13653,7 +13780,8 @@
               "friday"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -13904,7 +14032,8 @@
               "red"
             ]
           }
-        ]
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -14546,7 +14675,8 @@
               "dry"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -14632,7 +14762,8 @@
               "traffic"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -14803,7 +14934,8 @@
               "twelve"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -14885,7 +15017,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -14965,7 +15098,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Famous Canadians & History (Basic)"
       }
     ]
   },
@@ -15060,7 +15194,8 @@
               "red"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -15143,7 +15278,8 @@
               "a third"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -15227,7 +15363,8 @@
               "milk"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -15311,7 +15448,8 @@
               "to share with others"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -15566,7 +15704,8 @@
               "a cloud"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -15652,7 +15791,8 @@
               "packages"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -15823,7 +15963,8 @@
               "to the right"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -15906,7 +16047,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -15990,7 +16132,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -16157,7 +16300,8 @@
               "blue"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -16239,7 +16383,8 @@
               "a toy"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -16323,7 +16468,8 @@
               "they have jobs that help others"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -16412,7 +16558,8 @@
               "period"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -16493,7 +16640,8 @@
               "AB pattern"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -16574,7 +16722,8 @@
               "egg"
             ]
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -16656,7 +16805,8 @@
               "no"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -16745,7 +16895,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -16907,7 +17058,8 @@
               "scales"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -16990,7 +17142,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Famous Canadians & History (Basic)"
       }
     ]
   },
@@ -17162,7 +17315,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -17244,7 +17398,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -17326,7 +17481,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -17826,7 +17982,8 @@
               "february"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -17908,7 +18065,8 @@
               "web"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -18162,7 +18320,8 @@
               "20"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -18245,7 +18404,8 @@
               "geese"
             ]
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -18327,7 +18487,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -18495,7 +18656,8 @@
               "a half"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -18660,7 +18822,8 @@
               "nice try"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -18831,7 +18994,8 @@
               "10"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -18913,7 +19077,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -18995,7 +19160,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -19166,7 +19332,8 @@
               "twelve"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -19247,7 +19414,8 @@
               "evening"
             ]
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -19330,7 +19498,8 @@
               "teachers"
             ]
           }
-        ]
+        ],
+        "topic": "Media, Technology & Communication"
       }
     ]
   },
@@ -19581,7 +19750,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -19663,7 +19833,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -19833,7 +20004,8 @@
               "zero"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -19915,7 +20087,8 @@
               "sheep"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -19997,7 +20170,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -20084,7 +20258,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -20248,7 +20423,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -20330,7 +20506,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -20417,7 +20594,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -20580,7 +20758,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -20661,7 +20840,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -21165,7 +21345,8 @@
               "fourteen"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -21249,7 +21430,8 @@
               "gray"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -21334,7 +21516,8 @@
               "a whistle"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -21586,7 +21769,8 @@
               "spinach"
             ]
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "SocialStudies",
@@ -21669,7 +21853,8 @@
               "nurse"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -21842,7 +22027,8 @@
               "zero"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -22008,7 +22194,8 @@
               "no"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -22095,7 +22282,8 @@
               "to make writing smoother"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -22176,7 +22364,8 @@
               "a rectangle"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -22263,7 +22452,8 @@
               "purple"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -22347,7 +22537,8 @@
               "for safety"
             ]
           }
-        ]
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -22517,7 +22708,8 @@
               "25"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -22599,7 +22791,8 @@
               "camel"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -22684,7 +22877,8 @@
               "a home"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -22855,7 +23049,8 @@
               "subtract"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -22939,7 +23134,8 @@
               "cold"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -23021,7 +23217,8 @@
               "faster"
             ]
           }
-        ]
+        ],
+        "topic": "Transportation & Infrastructure"
       }
     ]
   },
@@ -23276,7 +23473,8 @@
               "grow better"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -23360,7 +23558,8 @@
               "because of the weather"
             ]
           }
-        ]
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -23452,7 +23651,8 @@
               "touch"
             ]
           }
-        ]
+        ],
+        "topic": "Writing: Descriptive"
       },
       {
         "subject": "Math",
@@ -23536,7 +23736,8 @@
               "afternoon"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -23618,7 +23819,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -23872,7 +24074,8 @@
               "chart"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -23954,7 +24157,8 @@
               "omnivore"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -24037,7 +24241,8 @@
               "so people in the future can learn about today"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -24546,7 +24751,8 @@
               "sixteen"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -24626,7 +24832,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -24708,7 +24915,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -24794,7 +25002,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -24955,7 +25164,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -25036,7 +25246,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Environment & Sustainability (Social Studies)"
       }
     ]
   },
@@ -25122,7 +25333,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -25202,7 +25414,8 @@
               "bigger"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -25281,7 +25494,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -25361,7 +25575,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -25606,7 +25821,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -25686,7 +25902,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -25852,7 +26069,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -25931,7 +26149,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -26010,7 +26229,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -26178,7 +26398,8 @@
               "thirteen"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -26259,7 +26480,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -26424,7 +26646,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -26506,7 +26729,8 @@
               "five"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -26587,7 +26811,8 @@
               "limited"
             ]
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -26666,7 +26891,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -26752,7 +26978,8 @@
               "raining hard"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -26833,7 +27060,8 @@
               "two"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -26913,7 +27141,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -27080,7 +27309,8 @@
               "vocabulary"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -27162,7 +27392,8 @@
               "one hundred"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -27242,7 +27473,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -27322,7 +27554,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -27826,7 +28059,8 @@
               "greater"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -27905,7 +28139,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -27986,7 +28221,8 @@
               "respect"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -28233,7 +28469,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -28477,7 +28714,8 @@
               "unlikely"
             ]
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -28556,7 +28794,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -28638,7 +28877,8 @@
               "a book"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -28807,7 +29047,8 @@
               "1,3,5,7"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -28887,7 +29128,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -28968,7 +29210,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -29053,7 +29296,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -29134,7 +29378,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -29213,7 +29458,8 @@
               "no"
             ]
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -29382,7 +29628,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -29464,7 +29711,8 @@
               "so each person gets the same amount"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -29543,7 +29791,8 @@
               "hair"
             ]
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -29625,7 +29874,8 @@
               "home"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -29795,7 +30045,8 @@
               "one"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -29876,7 +30127,8 @@
               "lifting"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -29956,7 +30208,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -30043,7 +30296,8 @@
               "frat"
             ]
           }
-        ]
+        ],
+        "topic": "Phonics & Word Recognition"
       },
       {
         "subject": "Math",
@@ -30124,7 +30378,8 @@
               "the same"
             ]
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -30205,7 +30460,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -30285,7 +30541,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -30371,7 +30628,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -30452,7 +30710,8 @@
               "doubles"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -30531,7 +30790,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -30612,7 +30872,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Environment & Sustainability (Social Studies)"
       }
     ]
   },
@@ -31028,7 +31289,8 @@
               "my friends bag"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -31110,7 +31372,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -31192,7 +31455,8 @@
               "pain"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -31277,7 +31541,8 @@
               "for health"
             ]
           }
-        ]
+        ],
+        "topic": "Local Community & Civic Participation"
       }
     ]
   },
@@ -31367,7 +31632,8 @@
               "then"
             ]
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -31449,7 +31715,8 @@
               "ones digits"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -31530,7 +31797,8 @@
               "predator"
             ]
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -31612,7 +31880,8 @@
               "the north"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -31701,7 +31970,8 @@
               "I love this!"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -31783,7 +32053,8 @@
               "ones digits"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -31862,7 +32133,8 @@
               "echolocation"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -31943,7 +32215,8 @@
               "trading wood for food"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -32035,7 +32308,8 @@
               "-ock"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -32117,7 +32391,8 @@
               "three"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -32196,7 +32471,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -32278,7 +32554,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -32368,7 +32645,8 @@
               "to help us imagine the place"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -32452,7 +32730,8 @@
               "cylinder"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -32533,7 +32812,8 @@
               "cold"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -32615,7 +32895,8 @@
               "to celebrate together"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -32873,7 +33154,8 @@
               "it turns on"
             ]
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -32956,7 +33238,8 @@
               "at the store"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -33043,7 +33326,8 @@
               "proper"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -33125,7 +33409,8 @@
               "one hundred one"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -33207,7 +33492,8 @@
               "moving clouds"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -33288,7 +33574,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Culture, Diversity & Multiculturalism"
       }
     ]
   },
@@ -33539,7 +33826,8 @@
               "mud"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -33622,7 +33910,8 @@
               "it makes them feel part of the group"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -34379,7 +34668,8 @@
               "loudly is the adverb"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -34461,7 +34751,8 @@
               "23"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -34544,7 +34835,8 @@
               "light"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -34627,7 +34919,8 @@
               "they are all part of Canadas history"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -34717,7 +35010,8 @@
               "the ell sound"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -34799,7 +35093,8 @@
               "35"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -34881,7 +35176,8 @@
               "to get energy"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -34963,7 +35259,8 @@
               "to protect people near water"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -35133,7 +35430,8 @@
               "two circles the same size"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -35215,7 +35513,8 @@
               "Mars"
             ]
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -35297,7 +35596,8 @@
               "a long border"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -35385,7 +35685,8 @@
               "the chapters and pages"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -35467,7 +35768,8 @@
               "10, 8, 6, 4"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -35549,7 +35851,8 @@
               "dissolving"
             ]
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -35631,7 +35934,8 @@
               "get help"
             ]
           }
-        ]
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -35719,7 +36023,8 @@
               "split it into two sentences"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -35801,7 +36106,8 @@
               "a second"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -35883,7 +36189,8 @@
               "its shell"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -36053,7 +36360,8 @@
               "no just the important parts"
             ]
           }
-        ]
+        ],
+        "topic": "Reading Comprehension"
       },
       {
         "subject": "Math",
@@ -36217,7 +36525,8 @@
               "permanent teeth"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -36299,7 +36608,8 @@
               "run or walk to raise money"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -36469,7 +36779,8 @@
               "12 because 3+3+3+3"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -36552,7 +36863,8 @@
               "a car"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -36635,7 +36947,8 @@
               "trading"
             ]
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -36805,7 +37118,8 @@
               "7"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -36887,7 +37201,8 @@
               "usually slowly"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -36970,7 +37285,8 @@
               "to learn from their contributions"
             ]
           }
-        ]
+        ],
+        "topic": "Famous Canadians & History (Basic)"
       }
     ]
   },
@@ -37058,7 +37374,8 @@
               "the way the problem gets solved"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -37140,7 +37457,8 @@
               "8"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -37222,7 +37540,8 @@
               "to survive the cold"
             ]
           }
-        ]
+        ],
+        "topic": "Evolution"
       },
       {
         "subject": "SocialStudies",
@@ -37305,7 +37624,8 @@
               "we can communicate easily"
             ]
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -37728,7 +38048,8 @@
               "compares without like or as"
             ]
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -37892,7 +38213,8 @@
               "our brain"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -37974,7 +38296,8 @@
               "a stop sign"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -38064,7 +38387,8 @@
               "ownership"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -38146,7 +38470,8 @@
               "tens and ones added together"
             ]
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -38228,7 +38553,8 @@
               "a wheelbarrow"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -38311,7 +38637,8 @@
               "a bird"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -38399,7 +38726,8 @@
               "enormous is more precise"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -38481,7 +38809,8 @@
               "twenty"
             ]
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -38565,7 +38894,8 @@
               "how cold or warm it is"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -38647,7 +38977,8 @@
               "fixing things"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -38736,7 +39067,8 @@
               "make it clearer"
             ]
           }
-        ]
+        ],
+        "topic": "Writing: Process & Editing"
       },
       {
         "subject": "Math",
@@ -38818,7 +39150,8 @@
               "four"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -38900,7 +39233,8 @@
               "they give birth to live young"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -38982,7 +39316,8 @@
               "listen to the driver"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -39235,7 +39570,8 @@
               "to send messages to other birds"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -39318,7 +39654,8 @@
               "Canadas history and values"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -39406,7 +39743,8 @@
               "the back of the book"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -39488,7 +39826,8 @@
               "a holiday"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -39570,7 +39909,8 @@
               "along the coast"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -39652,7 +39992,8 @@
               "yes it is mostly ceremonial"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -39822,7 +40163,8 @@
               "fifty cents"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -39904,7 +40246,8 @@
               "very slowly, over a long time"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -39986,7 +40329,8 @@
               "they affect how we share the land"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -40074,7 +40418,8 @@
               "a difference"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -40238,7 +40583,8 @@
               "they work together"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -40320,7 +40666,8 @@
               "no it was formed over time"
             ]
           }
-        ]
+        ],
+        "topic": "Confederation & Government Formation"
       }
     ]
   },
@@ -40408,7 +40755,8 @@
               "penguins live in cold places"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -40490,7 +40838,8 @@
               "apples are more"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -40572,7 +40921,8 @@
               "power"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -41161,7 +41511,8 @@
               "one hundred eighty"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -41243,7 +41594,8 @@
               "in the ocean"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -41325,7 +41677,8 @@
               "leads and supports the school"
             ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -41577,7 +41930,8 @@
               "staying cool in the heat"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -41659,7 +42013,8 @@
               "a huge area"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -41747,7 +42102,8 @@
               "how an action happened"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -41829,7 +42185,8 @@
               "skip count by 5"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -41911,7 +42268,8 @@
               "core"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -42081,7 +42439,8 @@
               "help readers understand faster"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -42245,7 +42604,8 @@
               "a rain gauge"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -42497,7 +42857,8 @@
               "five"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -42579,7 +42940,8 @@
               "move different ways"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -42661,7 +43023,8 @@
               "other goods"
             ]
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -42749,7 +43112,8 @@
               "She read a book."
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -42913,7 +43277,8 @@
               "a large rodent"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -43245,7 +43610,8 @@
               "yes it does"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -43327,7 +43693,8 @@
               "yes it is"
             ]
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -43579,7 +43946,8 @@
               "mostly on land"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -43831,7 +44199,8 @@
               "forty seven"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -43995,7 +44364,8 @@
               "people worked together to help others"
             ]
           }
-        ]
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -44570,7 +44940,8 @@
               "two"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -44652,7 +45023,8 @@
               "keeps books in good shape"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -44822,7 +45194,8 @@
               "easier for close numbers"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -44904,7 +45277,8 @@
               "they help each other survive"
             ]
           }
-        ]
+        ],
+        "topic": "Interactions in Nature"
       },
       {
         "subject": "SocialStudies",
@@ -45074,7 +45448,8 @@
               "kindness"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -45156,7 +45531,8 @@
               "yes they are equal"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -45238,7 +45614,8 @@
               "help us see how nature is connected"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -45320,7 +45697,8 @@
               "supports countries in need"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -45408,7 +45786,8 @@
               "show importance"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -45490,7 +45869,8 @@
               "count by ones for minutes"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -45572,7 +45952,8 @@
               "flowers"
             ]
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "SocialStudies",
@@ -45742,7 +46123,8 @@
               "my birthday"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -45824,7 +46206,8 @@
               "useful for buying things"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -45906,7 +46289,8 @@
               "inside a building"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -46076,7 +46460,8 @@
               "shows us what makes each character special"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -46238,7 +46623,8 @@
               "they are important predators"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -46320,7 +46706,8 @@
               "to learn about the place"
             ]
           }
-        ]
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -46408,7 +46795,8 @@
               "the est sound"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -46572,7 +46960,8 @@
               "bumpy skin"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -46742,7 +47131,8 @@
               "nonfiction is real"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -46824,7 +47214,8 @@
               "around 20"
             ]
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -46906,7 +47297,8 @@
               "a parrot"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -46988,7 +47380,8 @@
               "supports fair treatment of workers"
             ]
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -47158,7 +47551,8 @@
               "it increases"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -47240,7 +47634,8 @@
               "to be safe for people and vehicles"
             ]
           }
-        ]
+        ],
+        "topic": "Structures, Materials & Engineering"
       },
       {
         "subject": "SocialStudies",
@@ -47733,7 +48128,8 @@
               "cloudy"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -47897,7 +48293,8 @@
               "carries what we need to live"
             ]
           }
-        ]
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -47979,7 +48376,8 @@
               "play games together"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -48149,7 +48547,8 @@
               "no it is not"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -48231,7 +48630,8 @@
               "a basement or interior room"
             ]
           }
-        ]
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -48483,7 +48883,8 @@
               "it is AM"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -48565,7 +48966,8 @@
               "they hunt seals"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -48734,7 +49136,8 @@
               "Snow White"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -48816,7 +49219,8 @@
               "five dollars"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -48898,7 +49302,8 @@
               "provides shelter and food"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -49065,7 +49470,8 @@
               "children"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -49145,7 +49551,8 @@
               "depends on the size of the object"
             ]
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -49226,7 +49633,8 @@
               "to hide or show feelings"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -49396,7 +49804,8 @@
               "a joining word"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -49478,7 +49887,8 @@
               "a lot more"
             ]
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -49558,7 +49968,8 @@
               "the ocean"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -49640,7 +50051,8 @@
               "helps us call or visit at the right time"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -49809,7 +50221,8 @@
               "organizes information clearly"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -49890,7 +50303,8 @@
               "help the soil"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -50057,7 +50471,8 @@
               "to share interesting extra facts"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -50137,7 +50552,8 @@
               "adds more detail"
             ]
           }
-        ]
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -50217,7 +50633,8 @@
               "strong memory"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -50297,7 +50714,8 @@
               "look at nature"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -50384,7 +50802,8 @@
               "it is fun and creative"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Poetry"
       },
       {
         "subject": "Math",
@@ -50466,7 +50885,8 @@
               "rectangle"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -50545,7 +50965,8 @@
               "leaves"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -51117,7 +51538,8 @@
               "580 590 600"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -51199,7 +51621,8 @@
               "water plants"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -51450,7 +51873,8 @@
               "no it is not"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -51532,7 +51956,8 @@
               "dark fur around the eyes"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -51614,7 +52039,8 @@
               "on lakes"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -51784,7 +52210,8 @@
               "four"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -51866,7 +52293,8 @@
               "keeps it safe"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -52117,7 +52545,8 @@
               "eight dollars"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -52199,7 +52628,8 @@
               "the ocean floor"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -52451,7 +52881,8 @@
               "ball"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -52533,7 +52964,8 @@
               "a crane"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -52615,7 +53047,8 @@
               "a school"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -52785,7 +53218,8 @@
               "the ones digits"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -52867,7 +53301,8 @@
               "the sky"
             ]
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -52948,7 +53383,8 @@
               "a red maple leaf"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -53118,7 +53554,8 @@
               "the ones digits"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -53199,7 +53636,8 @@
               "hardness"
             ]
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -53450,7 +53888,8 @@
               "compare more categories at once"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -53531,7 +53970,8 @@
               "store fat for energy"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -53613,7 +54053,8 @@
               "give food or volunteer"
             ]
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -53701,7 +54142,8 @@
               "helps us see patterns in words"
             ]
           }
-        ]
+        ],
+        "topic": "Spelling"
       },
       {
         "subject": "Math",
@@ -53783,7 +54225,8 @@
               "four hundred"
             ]
           }
-        ]
+        ],
+        "topic": "Number Sense: Place Value & Operations"
       },
       {
         "subject": "Science",
@@ -53865,7 +54308,8 @@
               "to communicate with each other"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -54520,7 +54964,8 @@
               "a mammal"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -54771,7 +55216,8 @@
               "five"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -55023,7 +55469,8 @@
               "a grocery list"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -55105,7 +55552,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -55187,7 +55635,8 @@
               "holding wood together"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -55357,7 +55806,8 @@
               "no we should think about it"
             ]
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -55439,7 +55889,8 @@
               "yes it is"
             ]
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -55521,7 +55972,8 @@
               "rubbing your hands together"
             ]
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -55603,7 +56055,8 @@
               "to share and celebrate culture"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -55773,7 +56226,8 @@
               "seventeen dollars"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -55936,7 +56390,8 @@
               "the start of summer"
             ]
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -56106,7 +56561,8 @@
               "no they show the same time"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -56187,7 +56643,8 @@
               "to hunt together"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -56269,7 +56726,8 @@
               "stops garbage from piling up"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -56357,7 +56815,8 @@
               "no they should wait"
             ]
           }
-        ]
+        ],
+        "topic": "Oral Communication & Presentation"
       },
       {
         "subject": "Math",
@@ -56439,7 +56898,8 @@
               "six"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -56520,7 +56980,8 @@
               "when threatened"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -56601,7 +57062,8 @@
               "a drugstore"
             ]
           }
-        ]
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -56771,7 +57233,8 @@
               "a circle"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -57022,7 +57485,8 @@
               "after the first draft"
             ]
           }
-        ]
+        ],
+        "topic": "Writing: Process & Editing"
       },
       {
         "subject": "Math",
@@ -57104,7 +57568,8 @@
               "the ones digits"
             ]
           }
-        ]
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -57185,7 +57650,8 @@
               "antlers"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -57265,7 +57731,8 @@
               "use flashlights"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -57839,7 +58306,8 @@
               "a mammal"
             ]
           }
-        ]
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -58008,7 +58476,8 @@
               "easier to follow what characters say"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Non-Fiction & Informational Text"
       },
       {
         "subject": "Math",
@@ -58090,7 +58559,8 @@
               "seven"
             ]
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -58252,7 +58722,8 @@
               "late winter"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -58343,7 +58814,8 @@
               "excited"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -58424,7 +58896,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -58506,7 +58979,8 @@
               "to stay safe"
             ]
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -58587,7 +59061,8 @@
               "provide bread and treats"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -58675,7 +59150,8 @@
               "Sunny and warm"
             ]
           }
-        ]
+        ],
+        "topic": "Reading: Poetry"
       },
       {
         "subject": "Math",
@@ -58757,7 +59233,8 @@
               "fifty dollars"
             ]
           }
-        ]
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -59086,7 +59563,8 @@
               "answers vary"
             ]
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -59168,7 +59646,8 @@
               "help new plants grow"
             ]
           }
-        ]
+        ],
+        "topic": "Interactions in Nature"
       },
       {
         "subject": "SocialStudies",
@@ -59249,7 +59728,8 @@
               "answers vary"
             ]
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -59337,7 +59817,8 @@
               "The dog ran in the park"
             ]
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -59419,7 +59900,8 @@
               "two"
             ]
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -59584,7 +60066,8 @@
               "take part and learn"
             ]
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },

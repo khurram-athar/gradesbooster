@@ -61,7 +61,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -189,7 +190,7 @@
         "summary": "CGC1W begins with geographic inquiry — asking questions, gathering geographic data, and analyzing spatial patterns.",
         "resourceLabel": "YouTube: Introduction to Geographic Inquiry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Geographic%20Inquiry%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RdO7DfMiIHo",
+        "videoUrl": "https://www.youtube.com/watch?v=haL91JLuJxI",
         "quiz": [
           {
             "q": "Geographic inquiry typically begins with...",
@@ -367,7 +368,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Linear Relations"
       },
       {
         "subject": "Science",
@@ -427,7 +429,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "SocialStudies",
@@ -487,7 +490,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -553,7 +557,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -613,7 +618,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -673,7 +679,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "SocialStudies",
@@ -799,7 +806,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -859,7 +867,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Linear Relations"
       },
       {
         "subject": "Science",
@@ -919,7 +928,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -979,7 +989,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -994,21 +1005,7 @@
         "summary": "Mixed review of clauses, thesis statements, persuasive analysis, and literary devices.",
         "resourceLabel": "YouTube: Review: Sentences, Essays, and Devices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sentences%2C%20Essays%2C%20and%20Devices%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
-        "videoUrls": [
-          {
-            "label": "Complex Sentences",
-            "url": "https://www.youtube.com/watch?v=smgyeUomfyA"
-          },
-          {
-            "label": "Thesis Statements",
-            "url": "https://www.youtube.com/watch?v=DFp1uGTXo4Q"
-          },
-          {
-            "label": "Literary Devices",
-            "url": "https://www.youtube.com/watch?v=OY2zPFQsKSI"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
         "quiz": [
           {
             "q": "A complex sentence contains an independent clause and...",
@@ -1128,21 +1125,7 @@
         "summary": "Mixed review of sustainable ecosystems, atomic theory, chemical reactions, and electricity.",
         "resourceLabel": "YouTube: Review: Ecosystems, Matter, and Electricity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Electricity%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=QlBVAc46I5U",
-        "videoUrls": [
-          {
-            "label": "Sustainable Ecosystems",
-            "url": "https://www.youtube.com/watch?v=QlBVAc46I5U"
-          },
-          {
-            "label": "Atomic Theory",
-            "url": "https://www.youtube.com/watch?v=e9GuJUaX0UM"
-          },
-          {
-            "label": "Current Electricity",
-            "url": "https://www.youtube.com/watch?v=enuNdK426Wo"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TitrRpMUt0I",
         "quiz": [
           {
             "q": "Biodiversity refers to...",
@@ -1320,7 +1303,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -1380,7 +1364,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -1440,7 +1425,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -1500,7 +1486,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Government Careers & Public Health"
       }
     ]
   },
@@ -1566,7 +1553,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -1626,7 +1614,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -1686,7 +1675,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -1746,7 +1736,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -1812,7 +1803,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Research Skills"
       },
       {
         "subject": "Math",
@@ -1872,7 +1864,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -1932,7 +1925,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -1992,7 +1986,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -2058,7 +2053,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Oral Communication & Presentation"
       },
       {
         "subject": "Math",
@@ -2126,21 +2122,7 @@
         "summary": "Mixed review of atomic theory, chemical reactions, circuits, and the solar system.",
         "resourceLabel": "YouTube: Review: Chemistry, Electricity, and Earth Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Electricity%2C%20and%20Earth%20Science%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Lvbm8horG1U",
-        "videoUrls": [
-          {
-            "label": "Chemical Reactions",
-            "url": "https://www.youtube.com/watch?v=Lvbm8horG1U"
-          },
-          {
-            "label": "Circuits and Electrical Safety",
-            "url": "https://www.youtube.com/watch?v=HkjVNqyYAbo"
-          },
-          {
-            "label": "The Solar System",
-            "url": "https://www.youtube.com/watch?v=TKM0P3XlMNA"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eYFYHyYSitI",
         "quiz": [
           {
             "q": "Protons are found in the...",
@@ -2565,7 +2547,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -2625,7 +2608,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -2685,7 +2669,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -2759,7 +2744,7 @@
         "summary": "Compare how print and digital texts present information differently and consider the effects on the audience (ENL1W Strand C).",
         "resourceLabel": "YouTube: Comparing Print and Digital Media Texts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Print%20and%20Digital%20Media%20Texts%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=GMAOlUVjggs",
+        "videoUrl": "https://www.youtube.com/watch?v=NefOesTl1iQ",
         "quiz": [
           {
             "q": "One key difference between print and digital media is that digital texts can include...",
@@ -2871,7 +2856,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Algebraic Expressions"
       },
       {
         "subject": "Science",
@@ -2931,7 +2917,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -2991,7 +2978,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -3057,7 +3045,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -3117,7 +3106,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -3177,7 +3167,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -3237,7 +3228,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Climate & Weather (Social Studies)"
       }
     ]
   },
@@ -3303,7 +3295,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -3363,7 +3356,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Science",
@@ -3431,7 +3425,7 @@
         "summary": "Examine the distribution of fresh water globally, the concept of water scarcity, and geographic factors affecting water access (CGC1W).",
         "resourceLabel": "YouTube: Global Water Resources and Access Issues",
         "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Water%20Resources%20and%20Access%20Issues%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=otrpxtAmDAk",
+        "videoUrl": "https://www.youtube.com/watch?v=sIM0PGv8h08",
         "quiz": [
           {
             "q": "Approximately what percentage of Earth's water is fresh water?",
@@ -3483,7 +3477,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -3796,7 +3791,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -3856,7 +3852,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -3976,7 +3973,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -4042,7 +4040,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing: Informational/Expository"
       },
       {
         "subject": "Math",
@@ -4102,7 +4101,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -4162,7 +4162,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "SocialStudies",
@@ -4222,7 +4223,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -4236,7 +4238,7 @@
         "summary": "Critically analyze how visual elements (images, layout, colour, typography) in infographics and memes create meaning and influence the audience (ENL1W Strand C).",
         "resourceLabel": "YouTube: Analyzing Visual and Multimodal Texts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analyzing%20Visual%20and%20Multimodal%20Texts%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=saf8lzA4QCs",
+        "videoUrl": "https://www.youtube.com/watch?v=se3G8LV40gg",
         "quiz": [
           {
             "q": "A multimodal text is one that combines...",
@@ -4348,7 +4350,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -4408,7 +4411,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -4416,7 +4420,7 @@
         "summary": "Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
         "resourceLabel": "YouTube: Global Energy Resources and Consumption Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=-RSrviqvAmY",
+        "videoUrl": "https://www.youtube.com/watch?v=1N4Hs4Tsh0U",
         "quiz": [
           {
             "q": "Fossil fuels include...",
@@ -4468,7 +4472,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -4534,7 +4539,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -4594,7 +4600,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Measurement: Perimeter & Area"
       },
       {
         "subject": "Science",
@@ -4654,7 +4661,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -5027,7 +5035,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -5087,7 +5096,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -5147,7 +5157,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -5207,7 +5218,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -5273,7 +5285,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Poetry"
       },
       {
         "subject": "Math",
@@ -5333,7 +5346,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -5393,7 +5407,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -5453,7 +5468,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -5579,7 +5595,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -5639,7 +5656,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -5699,7 +5717,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -5825,7 +5844,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -5885,7 +5905,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -6080,21 +6101,7 @@
         "summary": "Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
         "resourceLabel": "YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=2_e0PuPl9js",
-        "videoUrls": [
-          {
-            "label": "Plate Tectonics",
-            "url": "https://www.youtube.com/watch?v=2_e0PuPl9js"
-          },
-          {
-            "label": "Rock Cycle",
-            "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"
-          },
-          {
-            "label": "Life Cycle of Stars",
-            "url": "https://www.youtube.com/watch?v=BG-ukUB_sQU"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TKM0P3XlMNA",
         "quiz": [
           {
             "q": "Continental drift theory proposes that continents were once joined in a supercontinent called...",
@@ -6332,7 +6339,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Analytic & Coordinate Geometry"
       },
       {
         "subject": "Science",
@@ -6392,7 +6400,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -6452,7 +6461,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -6578,7 +6588,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -6698,7 +6709,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Government Careers & Public Health"
       }
     ]
   },
@@ -6764,7 +6776,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing: Process & Editing"
       },
       {
         "subject": "Math",
@@ -6824,7 +6837,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -6884,7 +6898,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -6944,7 +6959,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -7010,7 +7026,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -7070,7 +7087,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -7503,7 +7521,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -7563,7 +7582,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Science",
@@ -7749,7 +7769,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -7809,7 +7830,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -7869,7 +7891,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -7929,7 +7952,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -7995,7 +8019,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -8055,7 +8080,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -8115,7 +8141,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -8175,7 +8202,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -8241,7 +8269,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -8301,7 +8330,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -8361,7 +8391,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -8421,7 +8452,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -8487,7 +8519,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -8547,7 +8580,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Analytic & Coordinate Geometry"
       },
       {
         "subject": "Science",
@@ -8607,7 +8641,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -8667,7 +8702,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -8733,7 +8769,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -8793,7 +8830,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Calculus: Applications"
       },
       {
         "subject": "Science",
@@ -8853,7 +8891,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "SocialStudies",
@@ -8913,7 +8952,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -8979,7 +9019,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -9039,7 +9080,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -9099,7 +9141,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -9159,7 +9202,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -9225,7 +9269,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -9285,7 +9330,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -9471,7 +9517,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -9531,7 +9578,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -9591,7 +9639,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -9651,7 +9700,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -9717,7 +9767,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -9777,7 +9828,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -9897,7 +9949,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -9963,7 +10016,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -10023,7 +10077,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -10083,7 +10138,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "SocialStudies",
@@ -10143,7 +10199,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -10209,7 +10266,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -10329,7 +10387,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -10389,7 +10448,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -10455,7 +10515,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -10515,7 +10576,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -10635,7 +10697,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -10701,7 +10764,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -10761,7 +10825,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -10821,7 +10886,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -10881,7 +10947,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -10947,7 +11014,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -11007,7 +11075,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -11067,7 +11136,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -11193,7 +11263,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -11253,7 +11324,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -11313,7 +11385,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -11373,7 +11446,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -11439,7 +11513,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -11559,7 +11634,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -11619,7 +11695,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -11685,7 +11762,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -11745,7 +11823,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -11805,7 +11884,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -11865,7 +11945,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -11931,7 +12012,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -11991,7 +12073,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
@@ -12177,7 +12260,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -12461,7 +12545,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -12521,7 +12606,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Transformations"
       },
       {
         "subject": "Science",
@@ -12641,7 +12727,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -12707,7 +12794,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -12767,7 +12855,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -12887,7 +12976,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -12953,7 +13043,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -13013,7 +13104,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -13073,7 +13165,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -13133,7 +13226,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -13199,7 +13293,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -13319,7 +13414,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -13379,7 +13475,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Economics & Trade"
       }
     ]
   },
@@ -13445,7 +13542,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -13505,7 +13603,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -13565,7 +13664,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -13691,7 +13791,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
@@ -13751,7 +13852,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Functions: General/Intro"
       },
       {
         "subject": "Science",
@@ -13811,7 +13913,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -13871,7 +13974,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -13937,7 +14041,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -13997,7 +14102,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -14057,7 +14163,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -14117,7 +14224,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -14183,7 +14291,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -14243,7 +14352,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -14303,7 +14413,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -14363,7 +14474,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -14428,7 +14540,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -14487,7 +14600,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -14605,7 +14719,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -14912,7 +15027,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -14971,7 +15087,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Science",
@@ -15030,7 +15147,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "SocialStudies",
@@ -15154,7 +15272,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -15213,7 +15332,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -15272,7 +15392,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -15331,7 +15452,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -15396,7 +15518,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -15455,7 +15578,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -15514,7 +15638,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -15573,7 +15698,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -15638,7 +15764,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -15815,7 +15942,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -15880,7 +16008,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -15939,7 +16068,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Measurement: Perimeter & Area"
       },
       {
         "subject": "Science",
@@ -15998,7 +16128,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -16057,7 +16188,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -16122,7 +16254,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -16181,7 +16314,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -16299,7 +16433,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -16364,7 +16499,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Formal Writing & Letters"
       },
       {
         "subject": "Math",
@@ -16423,7 +16559,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -16482,7 +16619,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -16541,7 +16679,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -16606,7 +16745,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -16665,7 +16805,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -16783,7 +16924,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "New France & Early Canada"
       }
     ]
   },
@@ -16848,7 +16990,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -16907,7 +17050,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -17025,7 +17169,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -17332,7 +17477,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -17391,7 +17537,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -17450,7 +17597,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -17509,7 +17657,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Regions"
       }
     ]
   },
@@ -17574,7 +17723,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -17633,7 +17783,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -17692,7 +17843,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -17816,7 +17968,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -17934,7 +18087,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -18058,7 +18212,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -18117,7 +18272,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -18176,7 +18332,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -18235,7 +18392,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -18300,7 +18458,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -18359,7 +18518,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Combinatorics"
       },
       {
         "subject": "Science",
@@ -18418,7 +18578,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -18542,7 +18703,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -18601,7 +18763,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -18660,7 +18823,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -18719,7 +18883,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -18843,7 +19008,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -18902,7 +19068,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -18961,7 +19128,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -19026,7 +19194,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -19085,7 +19254,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -19144,7 +19314,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -19203,7 +19374,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -19268,7 +19440,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -19445,7 +19618,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -19752,7 +19926,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -19811,7 +19986,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -19870,7 +20046,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -19929,7 +20106,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -19994,7 +20172,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing: Persuasive/Opinion"
       },
       {
         "subject": "Math",
@@ -20053,7 +20232,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -20171,7 +20351,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -20236,7 +20417,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -20295,7 +20477,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -20413,7 +20596,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -20478,7 +20662,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -20537,7 +20722,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -20655,7 +20841,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -20720,7 +20907,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -20779,7 +20967,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -20897,7 +21086,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -20962,7 +21152,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -21021,7 +21212,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -21080,7 +21272,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -21139,7 +21332,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -21204,7 +21398,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -21381,7 +21576,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -21446,7 +21642,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -21505,7 +21702,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -21623,7 +21821,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -21688,7 +21887,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -21806,7 +22006,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -21865,7 +22066,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -22172,7 +22374,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -22231,7 +22434,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -22349,7 +22553,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Economics & Trade"
       }
     ]
   },
@@ -22414,7 +22619,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -22473,7 +22679,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Science",
@@ -22532,7 +22739,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -22591,7 +22799,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -22656,7 +22865,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -22715,7 +22925,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -22774,7 +22985,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Classification of Living Things"
       },
       {
         "subject": "SocialStudies",
@@ -22833,7 +23045,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -22898,7 +23111,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -22957,7 +23171,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -23016,7 +23231,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -23075,7 +23291,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -23140,7 +23357,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -23199,7 +23417,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -23258,7 +23477,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -23317,7 +23537,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -23382,7 +23603,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -23441,7 +23663,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -23500,7 +23723,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -23559,7 +23783,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -23624,7 +23849,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -23683,7 +23909,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -23742,7 +23969,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -23801,7 +24029,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -23866,7 +24095,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -23925,7 +24155,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -24043,7 +24274,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -24108,7 +24340,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -24167,7 +24400,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -24226,7 +24460,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -24285,7 +24520,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -24592,7 +24828,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -24651,7 +24888,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Science",
@@ -24710,7 +24948,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -24834,7 +25073,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -24893,7 +25133,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -24952,7 +25193,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -25011,7 +25253,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -25076,7 +25319,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -25135,7 +25379,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -25194,7 +25439,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -25253,7 +25499,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -25318,7 +25565,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -25436,7 +25684,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -25495,7 +25744,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Economy, Trade & Currency"
       }
     ]
   },
@@ -25560,7 +25810,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -25619,7 +25870,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -25678,7 +25930,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "SocialStudies",
@@ -25737,7 +25990,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -25802,7 +26056,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -25979,7 +26234,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Economics & Trade"
       }
     ]
   },
@@ -26044,7 +26300,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -26103,7 +26360,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -26162,7 +26420,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -26221,7 +26480,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -26286,7 +26546,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -26345,7 +26606,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -26528,7 +26790,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -26587,7 +26850,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Science",
@@ -26646,7 +26910,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -26705,7 +26970,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -27012,7 +27278,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -27189,7 +27456,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -27254,7 +27522,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -27313,7 +27582,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -27431,7 +27701,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -27496,7 +27767,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -27673,7 +27945,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -27738,7 +28011,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -27856,7 +28130,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Interactions in Nature"
       },
       {
         "subject": "SocialStudies",
@@ -27915,7 +28190,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -27980,7 +28256,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -28039,7 +28316,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -28157,7 +28435,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -28222,7 +28501,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -28281,7 +28561,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -28340,7 +28621,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Scientific Inquiry & Skills"
       },
       {
         "subject": "SocialStudies",
@@ -28399,7 +28681,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -28464,7 +28747,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -28523,7 +28807,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -28582,7 +28867,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -28641,7 +28927,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -28706,7 +28993,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -28765,7 +29053,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -28883,7 +29172,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -28948,7 +29238,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -29007,7 +29298,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -29066,7 +29358,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -29125,7 +29418,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -29432,7 +29726,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -29491,7 +29786,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Science",
@@ -29609,7 +29905,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -29674,7 +29971,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -29733,7 +30031,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -29792,7 +30091,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Chemical Reactions"
       },
       {
         "subject": "SocialStudies",
@@ -29851,7 +30151,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -29916,7 +30217,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -29975,7 +30277,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -30034,7 +30337,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -30093,7 +30397,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -30158,7 +30463,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -30217,7 +30523,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -30276,7 +30583,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -30335,7 +30643,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -30400,7 +30709,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -30459,7 +30769,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -30518,7 +30829,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
@@ -30577,7 +30889,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -30642,7 +30955,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -30819,7 +31133,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -30884,7 +31199,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -30943,7 +31259,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -31002,7 +31319,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -31061,7 +31379,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -31126,7 +31445,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -31185,7 +31505,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -31244,7 +31565,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "SocialStudies",
@@ -31303,7 +31625,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -31368,7 +31691,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -31427,7 +31751,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Calculus: Limits & Rates of Change"
       },
       {
         "subject": "Science",
@@ -31486,7 +31811,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -31545,7 +31871,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -31852,7 +32179,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -31911,7 +32239,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Science",
@@ -32029,7 +32358,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -32094,7 +32424,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -32153,7 +32484,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -32271,7 +32603,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -32336,7 +32669,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -32395,7 +32729,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -32454,7 +32789,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       },
       {
         "subject": "SocialStudies",
@@ -32513,7 +32849,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -32578,7 +32915,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -32637,7 +32975,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -32755,7 +33094,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -32820,7 +33160,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -32879,7 +33220,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -32938,7 +33280,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -32997,7 +33340,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -33062,7 +33406,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -33121,7 +33466,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -33239,7 +33585,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -33304,7 +33651,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -33363,7 +33711,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -33422,7 +33771,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Matter & Materials"
       },
       {
         "subject": "SocialStudies",
@@ -33481,7 +33831,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -33546,7 +33897,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -33664,7 +34016,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -33723,7 +34076,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -33788,7 +34142,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -33847,7 +34202,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -33965,7 +34321,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -34272,7 +34629,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -34331,7 +34689,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Science",
@@ -34449,7 +34808,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -34514,7 +34874,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -34573,7 +34934,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -34691,7 +35053,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -34756,7 +35119,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -34815,7 +35179,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -34874,7 +35239,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reproduction & Development"
       },
       {
         "subject": "SocialStudies",
@@ -34933,7 +35299,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -34998,7 +35365,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -35057,7 +35425,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -35116,7 +35485,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -35175,7 +35545,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -35240,7 +35611,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -35299,7 +35671,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -35358,7 +35731,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -35417,7 +35791,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -35482,7 +35857,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -35541,7 +35917,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -35600,7 +35977,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -35659,7 +36037,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -35724,7 +36103,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -35783,7 +36163,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -35901,7 +36282,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -35966,7 +36348,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -36025,7 +36408,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Calculus: Integrals"
       },
       {
         "subject": "Science",
@@ -36084,7 +36468,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -36143,7 +36528,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -36208,7 +36594,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -36267,7 +36654,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -36385,7 +36773,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -36692,7 +37081,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -36751,7 +37141,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -36869,7 +37260,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -36934,7 +37326,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -36993,7 +37386,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -37052,7 +37446,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -37111,7 +37506,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -37176,7 +37572,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -37235,7 +37632,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -37294,7 +37692,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       },
       {
         "subject": "SocialStudies",
@@ -37353,7 +37752,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -37418,7 +37818,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -37477,7 +37878,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -37536,7 +37938,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Earth Systems"
       },
       {
         "subject": "SocialStudies",
@@ -37595,7 +37998,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -37660,7 +38064,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -37719,7 +38124,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -37778,7 +38184,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -37837,7 +38244,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -37902,7 +38310,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -37961,7 +38370,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -38079,7 +38489,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -38144,7 +38555,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -38203,7 +38615,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -38262,7 +38675,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -38321,7 +38735,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -38386,7 +38801,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Math",
@@ -38504,7 +38920,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "SocialStudies",
@@ -38563,7 +38980,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -38628,7 +39046,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -38687,7 +39106,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -38746,7 +39166,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -38805,7 +39226,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -39112,7 +39534,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -39171,7 +39594,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -39289,7 +39713,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -39354,7 +39779,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -39413,7 +39839,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -39472,7 +39899,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -39531,7 +39959,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -39596,7 +40025,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -39655,7 +40085,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -39714,7 +40145,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -39773,7 +40205,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -39838,7 +40271,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -39897,7 +40331,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -39956,7 +40391,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -40015,7 +40451,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -40080,7 +40517,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -40139,7 +40577,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -40198,7 +40637,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -40257,7 +40697,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -40322,7 +40763,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -40381,7 +40823,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -40499,7 +40942,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -40564,7 +41008,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -40623,7 +41068,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -40741,7 +41187,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -40806,7 +41253,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -40865,7 +41313,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Science",
@@ -40924,7 +41373,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Plants & Photosynthesis"
       },
       {
         "subject": "SocialStudies",
@@ -40983,7 +41433,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -41048,7 +41499,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -41107,7 +41559,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -41166,7 +41619,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -41225,7 +41679,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -41532,7 +41987,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -41591,7 +42047,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Science",
@@ -41709,7 +42166,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -41774,7 +42232,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Parts of Speech"
       },
       {
         "subject": "Math",
@@ -41833,7 +42292,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -41892,7 +42352,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -41951,7 +42412,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -42016,7 +42478,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -42075,7 +42538,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -42193,7 +42657,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -42258,7 +42723,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -42317,7 +42783,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -42376,7 +42843,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Weather, Climate & Atmosphere"
       },
       {
         "subject": "SocialStudies",
@@ -42435,7 +42903,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -42500,7 +42969,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -42559,7 +43029,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -42618,7 +43089,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -42677,7 +43149,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -42742,7 +43215,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -42801,7 +43275,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -42919,7 +43394,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -42984,7 +43460,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -43043,7 +43520,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Science",
@@ -43102,7 +43580,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -43161,7 +43640,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -43226,7 +43706,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -43285,7 +43766,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -43344,7 +43826,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -43403,7 +43886,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -43468,7 +43952,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -43527,7 +44012,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Science",
@@ -43586,7 +44072,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -43645,7 +44132,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -43952,7 +44440,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -44011,7 +44500,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Science",
@@ -44129,7 +44619,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
@@ -44194,7 +44685,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -44253,7 +44745,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -44371,7 +44864,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -44436,7 +44930,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -44495,7 +44990,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -44613,7 +45109,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -44678,7 +45175,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Math",
@@ -44796,7 +45294,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       },
       {
         "subject": "SocialStudies",
@@ -44855,7 +45354,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -44920,7 +45420,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Media Literacy"
       },
       {
         "subject": "Math",
@@ -44979,7 +45480,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -45038,7 +45540,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -45097,7 +45600,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -45162,7 +45666,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -45221,7 +45726,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Science",
@@ -45339,7 +45845,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Population & Urbanization"
       }
     ]
   },
