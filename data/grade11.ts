@@ -11,7 +11,7 @@ const curriculum: DayContent[] = [
         "summary": "Students develop arguable, specific, sophisticated thesis statements that go beyond observation to make an interpretive claim about a text.",
         "resourceLabel": "YouTube: Literary Analysis: Developing Advanced Thesis Statements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Developing%20Advanced%20Thesis%20Statements%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5hltJomQUcg",
+        "videoUrl": "https://www.youtube.com/watch?v=4tGb2zPF4eo",
         "quiz": [
           {
             "q": "An advanced thesis statement in Grade 11 must be ___.",
@@ -259,7 +259,7 @@ const curriculum: DayContent[] = [
         "summary": "Students read and analyse a Canadian novel or short story collection, examining Canadian identity, landscape, and social themes.",
         "resourceLabel": "YouTube: Independent Reading: Canadian Literature",
         "resourceUrl": "https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Canadian%20Literature%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=c9fqaQBdbzI",
+        "videoUrl": "https://www.youtube.com/watch?v=y8J7maerDHk",
         "quiz": [
           {
             "q": "What makes a work 'distinctly Canadian' in literature?",
@@ -1504,61 +1504,61 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Non-Fiction: The Essay Tradition",
-        "summary": "Students examine the essay as a literary form — from Montaigne and Francis Bacon to contemporary essayists — and write their own personal/reflective essay.",
-        "resourceLabel": "YouTube: Non-Fiction: The Essay Tradition",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Non-Fiction%3A%20The%20Essay%20Tradition%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=UKRHXI4mz-c",
+        "title": "Personal Narrative: Writing Your Own True Story",
+        "summary": "Students learn the techniques of personal narrative writing — establishing voice, selecting meaningful detail, and shaping a true story for a reader — and draft their own personal narrative.",
+        "resourceLabel": "YouTube: Personal Narrative: Writing Your Own True Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Personal%20Narrative%20Writing%20Your%20Own%20True%20Story%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=z0uXjL2IdeU",
         "quiz": [
           {
-            "q": "The essay as a literary form originated with ___.",
+            "q": "A personal narrative is best described as ___.",
             "options": [
-              "Greek philosophy",
-              "newspaper opinion columns",
-              "academic journals",
-              "Montaigne in 16th-century France"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The personal essay is literary in that ___.",
-            "options": [
-              "it must be fictional",
-              "it only describes personal events",
-              "it uses literary techniques",
-              "it avoids argumentation"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A contemporary essayist like James Baldwin or Ta-Nehisi Coates uses personal experience to ___.",
-            "options": [
-              "provide autobiographical facts only",
-              "reveal social and political realities",
-              "avoid political topics",
-              "only entertain readers"
+              "a fictional story with invented characters",
+              "a true story shaped from the writer's own experience",
+              "a summary of someone else's biography",
+              "a set of unconnected facts about the writer"
             ],
             "answer": 1
           },
           {
-            "q": "The difference between a personal essay and a diary entry is ___.",
+            "q": "Selecting meaningful detail in a personal narrative means ___.",
             "options": [
-              "personal essays use no personal experience",
-              "a diary entry is literary; personal essays are not",
-              "essays are shaped for an audience",
-              "only length"
+              "including every detail you can remember",
+              "choosing details that reveal insight or feeling, not just facts",
+              "avoiding all sensory description",
+              "focusing only on dialogue"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "When writing your own personal essay, the key challenge is ___.",
+            "q": "Voice in a personal narrative refers to ___.",
             "options": [
-              "including enough facts",
-              "matching the teacher's personal style",
-              "writing about the most dramatic event possible",
-              "connecting detail to broader insight"
+              "the volume at which the essay is read aloud",
+              "the distinctive way the writer's personality comes through in the writing",
+              "a strict grammar rule",
+              "the narrator always being someone other than the writer"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "A strong personal narrative usually moves from ___.",
+            "options": [
+              "a specific moment or experience toward a broader reflection or realization",
+              "a general statement toward no conclusion",
+              "dialogue only, with no narration",
+              "a list of achievements toward a resume"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The key challenge when drafting your own personal narrative is ___.",
+            "options": [
+              "including as many events as possible",
+              "matching a teacher's personal writing style",
+              "connecting a specific true moment to a broader, honest insight",
+              "writing about the single most dramatic event you can think of"
+            ],
+            "answer": 2
           }
         ],
         "topic": "Reading: Fiction & Story Elements"
@@ -2255,7 +2255,7 @@ const curriculum: DayContent[] = [
         "summary": "Students read and analyse a 20th or 21st century Canadian or international play, examining dramatic technique, theatrical conventions, and thematic concerns.",
         "resourceLabel": "YouTube: Drama: Studying a Contemporary Play",
         "resourceUrl": "https://www.youtube.com/results?search_query=Drama%3A%20Studying%20a%20Contemporary%20Play%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=y2f726TyGNM",
+        "videoUrl": "https://www.youtube.com/watch?v=7eKUhHjnQVc",
         "quiz": [
           {
             "q": "Dramatic irony in theatre differs from dramatic irony in prose in that ___.",
@@ -3063,7 +3063,7 @@ const curriculum: DayContent[] = [
         "summary": "Students apply sequences, series, and exponential functions to advanced financial calculations: mortgages, annuities, and investment planning.",
         "resourceLabel": "YouTube: Discrete Structures: Financial Mathematics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Discrete%20Structures%3A%20Financial%20Mathematics%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=OixshZzH8t0",
+        "videoUrl": "https://www.youtube.com/watch?v=mMkVx_jPUPk",
         "quiz": [
           {
             "q": "An annuity is ___.",
@@ -3372,7 +3372,7 @@ const curriculum: DayContent[] = [
         "summary": "Students connect the major themes of Grade 11 Biology — cell biology, genetics, evolution, ecology, and physiology — into a unified understanding of life.",
         "resourceLabel": "YouTube: Biology Synthesis: Connections Across Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%20Synthesis%3A%20Connections%20Across%20Strands%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=oefAI2x2CQM",
+        "videoUrl": "https://www.youtube.com/watch?v=7xeFP0SEDdc",
         "quiz": [
           {
             "q": "The connection between cell biology and genetics is ___.",
@@ -3499,7 +3499,6 @@ const curriculum: DayContent[] = [
         "summary": "Students reflect on their growth as readers, writers, and thinkers in Grade 11 and set meaningful goals for Grade 12 and beyond.",
         "resourceLabel": "YouTube: English: Year in Review and Looking Ahead to Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=olgDaGLZXx8",
         "quiz": [
           {
             "q": "The most significant shift in Grade 11 English from Grade 10 is ___.",
@@ -5238,11 +5237,11 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Media Production: Creating a Literary Magazine",
-        "summary": "Students plan, write, edit, and design a class literary magazine, integrating writing, editing, visual design, and publishing skills.",
-        "resourceLabel": "YouTube: Media Production: Creating a Literary Magazine",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Production%3A%20Creating%20a%20Literary%20Magazine%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=z_x8ZbsCU4c",
+        "title": "The Publishing Process: From Draft to Print",
+        "summary": "Students learn the real stages a piece of writing goes through on its way to publication — editorial review, copyediting, design, and production — and apply these stages to preparing their own class literary magazine.",
+        "resourceLabel": "YouTube: The Publishing Process: From Draft to Print",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Publishing%20Process%3A%20From%20Draft%20to%20Print%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L623vxbbp_w",
         "quiz": [
           {
             "q": "The editorial process in publishing involves ___.",
@@ -5265,14 +5264,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Visual design in a literary magazine should ___.",
+            "q": "In the publishing process, design and production come ___.",
             "options": [
-              "compete with the text for attention",
-              "have no relationship to content",
-              "always use the same layout",
-              "complement the written content"
+              "before any writing exists",
+              "after the manuscript has been edited and finalized",
+              "instead of editing",
+              "only if the publisher has extra time"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
             "q": "Working as an editor on another student's work requires ___.",
@@ -5423,7 +5422,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine how chemistry contributes to solving global challenges — clean energy, medicine, clean water, and sustainable materials.",
         "resourceLabel": "YouTube: Chemistry Culminating: Chemistry for a Better World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Chemistry%20for%20a%20Better%20World%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5iTOphGnCtg",
+        "videoUrl": "https://www.youtube.com/watch?v=5nGHBHCwyFk",
         "quiz": [
           {
             "q": "Green chemistry solutions to plastic pollution include ___.",
@@ -6045,7 +6044,7 @@ const curriculum: DayContent[] = [
         "summary": "Students reflect on the coherence of the Grade 11 Functions course and preview Grade 12 Advanced Functions.",
         "resourceLabel": "YouTube: Functions: Exploring Connections and Preparing for Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Exploring%20Connections%20and%20Preparing%20for%20Grade%2012%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=52tpYl2tTqk",
+        "videoUrl": "https://www.youtube.com/watch?v=0f5KL8qRdnI",
         "quiz": [
           {
             "q": "The most important thing Grade 11 Functions teaches beyond specific techniques is ___.",
@@ -6105,7 +6104,7 @@ const curriculum: DayContent[] = [
         "summary": "Students preview Grade 12 Biology (SBI4U) and understand how Grade 11 knowledge connects to advanced study.",
         "resourceLabel": "YouTube: Biology: Looking Ahead to Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=6EDBlowVST0",
+        "videoUrl": "https://www.youtube.com/watch?v=Xs3-ZqRgjH0",
         "quiz": [
           {
             "q": "Grade 12 Biology extends genetics to ___.",
@@ -6165,7 +6164,7 @@ const curriculum: DayContent[] = [
         "summary": "Students preview Grade 12 Chemistry (SCH4U) and understand how Grade 11 knowledge is extended.",
         "resourceLabel": "YouTube: Chemistry: Looking Ahead to Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5iTOphGnCtg",
+        "videoUrl": "https://www.youtube.com/watch?v=hs09ZBpKBd4",
         "quiz": [
           {
             "q": "Grade 12 Chemistry extends stoichiometry to ___.",
@@ -6537,21 +6536,21 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions: Culminating Activity and Reflection",
-        "summary": "Students complete a culminating problem-solving or application task and reflect on their mathematical development in Grade 11.",
-        "resourceLabel": "YouTube: Functions: Culminating Activity and Reflection",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Culminating%20Activity%20and%20Reflection%20grade%2011%20educational",
+        "title": "Mathematical Modelling: Using Functions to Represent Real-World Situations",
+        "summary": "Students learn what mathematical modelling is and how functions are used to represent, analyse, and make predictions about real-world situations, then apply this process to their own culminating task.",
+        "resourceLabel": "YouTube: Mathematical Modelling: Using Functions to Represent Real-World Situations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mathematical%20Modelling%20Using%20Functions%20grade%2011%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=xHtsuOB-TPw",
         "quiz": [
           {
-            "q": "A functions culminating task might ask you to ___.",
+            "q": "A mathematical model is best described as ___.",
             "options": [
-              "only describe a function without calculating",
-              "only graph without analysing",
-              "modelling a real-world situation",
-              "only compute a single answer"
+              "a physical replica built from clay or plastic",
+              "a function or set of equations that represents a real-world situation",
+              "a random guess about an outcome",
+              "only a graph with no equation"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "The most important thing you can communicate in your mathematical work is ___.",
@@ -6564,14 +6563,14 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Grade 11 Functions has changed how you think about ___.",
+            "q": "A key step in building a mathematical model is ___.",
             "options": [
-              "only mathematics coursework",
-              "no aspects of daily thinking",
-              "seeing the world in terms of functions",
-              "only graphing"
+              "choosing a function family that fits the pattern in the data",
+              "picking any function at random",
+              "avoiding the use of graphs entirely",
+              "skipping verification against real data"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
             "q": "Connecting mathematics to other subjects is ___.",
@@ -6661,7 +6660,7 @@ const curriculum: DayContent[] = [
         "summary": "Students complete their final chemistry assessment and reflect on the year.",
         "resourceLabel": "YouTube: Chemistry Culminating: Final Assessment and Reflection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=FSyAehMdpyI",
+        "videoUrl": "https://www.youtube.com/watch?v=cQ4mxWeQCQU",
         "quiz": [
           {
             "q": "The central insight of chemistry is ___.",

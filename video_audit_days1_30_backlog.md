@@ -114,11 +114,33 @@
 - [x] Day 20, Biology ("Human Reproduction: Reproductive Technologies") — fixed to TED-Ed's IVF explainer
 - [x] Day 23, Biology ("Reproductive System and Development Review") — fixed to a reproductive-system-specific video
 
-**Confirmed bad — needs fix (~15 total, clickbait Shorts, wrong-subject videos, generic study-tips content):**
-- [ ] Days 13, 14, 15, 20, 21, 22, 24 (x2), 25, 26, 27 (x2), 29 (x3)
+**RE-AUDITED 2026-08-21 (this session):** ran a fresh free-verification pass (videos.list, no search cost) across every Days 1-30 block flagged confirmed-bad or ambiguous below, against current lesson content. As with Grades 9/10/12, much of the July itemization did not reproduce (content has shifted) — several flagged days (20, 21, 24, 26) checked out fine on re-inspection. Real defects found were mostly video-ID reuse across dissimilar "culminating/looking-ahead/reflection" lessons (e.g. the same generic `5iTOphGnCtg` chemistry-review video and the same basic `52tpYl2tTqk` Math Antics video reused on lessons they didn't actually fit) plus a few genuine wrong-topic mismatches.
 
-**Ambiguous — needs judgment call (18 total):**
-- [ ] Days 1, 2, 6, 7 (x2), 8, 10, 11, 12, 13, 14, 15, 20, 22 (x2), 23, 25 (x2), 26, 29
+**Fixed 2026-08-21 (10 total, all verified against current lesson content, current videos):**
+- [x] Day 1, English ("Literary Analysis: Developing Advanced Thesis Statements") — was a GCSE-labeled UK exam-revision video, wrong curriculum → replaced with "How to Write an Advanced Literary Thesis" (Ms. Peer Editor, `4tGb2zPF4eo`)
+- [x] Day 2, English ("Independent Reading: Canadian Literature") — was a Pre-K/K/1st-grade "Writer's Workshop" teacher resource, wrong grade level entirely → replaced with "Margaret Atwood's Death by Landscape Explained" (Dr. Whitney Kosters, `y8J7maerDHk`), a genuine Canadian short story on identity/landscape/trauma
+- [x] Day 10, English ("Drama: Studying a Contemporary Play") — was a juvenile Powtoon-animated "Elements of Drama" clip, wrong rigor level → replaced with "NSW Y11-12 English: Analysing Drama in Theory: Techniques" (Atomi, `7eKUhHjnQVc`)
+- [x] Day 13, Functions ("Discrete Structures: Financial Mathematics") — was a discrete-math-functions video with zero financial content, wrong topic entirely → replaced with "Financial Applications (Unit 8 Review) - Gr 11 Functions" (Hamilton Math, `mMkVx_jPUPk`), exact MCR3U match
+- [x] Day 14, Biology ("Biology Synthesis: Connections Across Strands") — was Amoeba Sisters "Protein Synthesis," a coincidental title-word match (same false-positive pattern flagged for Grade 10 Day22 Science) → replaced with Amoeba Sisters "Stroll Through the Playlist (a Biology Review)" (`7xeFP0SEDdc`), which genuinely strolls across all biology strands
+- [x] Day 22, Chemistry ("Chemistry Culminating: Chemistry for a Better World") — was the generic reused `5iTOphGnCtg` chemistry-review video, doesn't address the "better world" theme → replaced with Scripps Research "Six ways chemistry impacts everyday life" (`5nGHBHCwyFk`)
+- [x] Day 25, Functions ("Functions: Exploring Connections and Preparing for Grade 12") — was the reused basic Math Antics "What Are Functions?" video (same video as Day 1's intro-level content), wrong rigor for a Grade-12-preview lesson → replaced with "Grade 12 Advanced Functions - MHF4U1 - Characteristics and Properties of Functions (grade 11 review)" (Tarulli Tutoring, `0f5KL8qRdnI`), literally the first video of a new MHF4U series reviewing Grade 11 content
+- [x] Day 25, Biology ("Biology: Looking Ahead to Grade 12") — was Amoeba Sisters "Enzyme Examples," wrong topic (not a Grade-12-preview) → replaced with "SBI4U Grade 12 Biology Course Description" (Ontario Virtual School, `Xs3-ZqRgjH0`)
+- [x] Day 25, Chemistry ("Chemistry: Looking Ahead to Grade 12") — was the reused generic `5iTOphGnCtg` review video, doesn't address "looking ahead" → replaced with "Grade 12 Chemistry – SCH4U Course Description" (Ontario Virtual School, `hs09ZBpKBd4`)
+- [x] Day 27, Chemistry ("Chemistry Culminating: Final Assessment and Reflection") — was CrashCourse Chemistry #1 "The Nucleus" (the very first episode of an intro series), wrong for a final-assessment culminating lesson → replaced with "Grade 11 University Chemistry Exam Review" (Physics Teacher, `cQ4mxWeQCQU`)
+
+**Retopiced 2026-08-21 (3 total, single-topic lessons unfindable after 2 search attempts each):**
+- [x] Day 7, English: "Non-Fiction: The Essay Tradition" → "Personal Narrative: Writing Your Own True Story" (no findable video on the essay-as-literary-tradition/Montaigne framing after 2 attempts) — new video `z0uXjL2IdeU`, quiz and summary rewritten
+- [x] Day 22, English: "Media Production: Creating a Literary Magazine" → "The Publishing Process: From Draft to Print" (searches returned only CBSE school-project craft-shorts, nothing on running a class literary magazine) — new video `L623vxbbp_w` (Penguin Random House's real publishing-process explainer), quiz/summary lightly adjusted
+- [x] Day 27, Functions: "Functions: Culminating Activity and Reflection" → "Mathematical Modelling: Using Functions to Represent Real-World Situations" (abstract reflection theme had no findable video after 2 attempts) — kept the existing video `xHtsuOB-TPw` ("What is Math Modeling?"), which fits the new, more concrete topic perfectly; quiz/summary rewritten
+
+**Combo lesson, left blank 2026-08-21 (per Multi-video policy — do not retopic, do not force a mismatch):**
+- [x] Day 15, English: "English: Year in Review and Looking Ahead to Grade 12" — title contains "review," so multi-video policy applies; searched for a fitting reflection/goal-setting video, found nothing but generic motivational content — videoUrl removed entirely (was a coincidental "Literary Analysis" title-match, wrong topic) rather than leaving a wrong video or force-retopicing a review lesson
+
+**Checked and found already fine (no action needed) during the same fresh pass:** Days 3-6, 8, 9, 11, 12, 20, 21, 23, 24, 26, 28, 29, 30, plus all subjects on Days 1/2/7/10/13/14/22/25/27 not listed as fixed above — on-topic, adequate length, no banned keywords (several are generous partial-topic matches, not exact, but none violate the quality rules). Day 29 Biology ("Test Your Knowledge in BIOLOGY — 50 Biology Questions") is a weak quiz-only match for "End-of-Year Celebration" but no better candidate was found after a search attempt; left as-is (not clearly rule-violating).
+
+**Original July itemization (STALE, superseded by the 2026-08-21 re-audit above — kept for history only, do not re-work):**
+~~Confirmed bad — needs fix (~15 total, clickbait Shorts, wrong-subject videos, generic study-tips content): Days 13, 14, 15, 20, 21, 22, 24 (x2), 25, 26, 27 (x2), 29 (x3)~~
+~~Ambiguous — needs judgment call (18 total): Days 1, 2, 6, 7 (x2), 8, 10, 11, 12, 13, 14, 15, 20, 22 (x2), 23, 25 (x2), 26, 29~~
 
 ---
 
