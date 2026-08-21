@@ -189,7 +189,7 @@
         "summary": "Students examine the causes of WWII — rise of fascism, appeasement, Nazi aggression — and Canada's declaration of war and early contributions.",
         "resourceLabel": "YouTube: Canada and World War II: Causes and Outbreak",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20World%20War%20II%3A%20Causes%20and%20Outbreak%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=aZbpVsQzBeU",
+        "videoUrl": "https://www.youtube.com/watch?v=_uk_6vfqwTA",
         "quiz": [
           {
             "q": "The policy of appeasement pursued by Britain and France in the 1930s meant ___.",
@@ -681,7 +681,7 @@
         "summary": "Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
         "resourceLabel": "YouTube: Canada's Home Front in WWII",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=7e5oygzUrs4",
+        "videoUrl": "https://www.youtube.com/watch?v=IicFIxmRroQ",
         "quiz": [
           {
             "q": "The internment of Japanese Canadians during WWII involved ___.",
@@ -989,59 +989,59 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Independent Reading: Novel Selection and Response",
-        "summary": "Students select a Canadian novel or a world novel in English translation and write analytical reading journal entries tracking theme, character, and author's craft.",
-        "resourceLabel": "YouTube: Independent Reading: Novel Selection and Response",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Selection%20and%20Response%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=eEtEYw9soK8",
+        "title": "Independent Reading: Writing a Reader Response Journal",
+        "summary": "Students learn how to write an analytical reader response journal entry for their independent novel, capturing personal reactions, textual evidence, and thematic connections as they read.",
+        "resourceLabel": "YouTube: Independent Reading: Writing a Reader Response Journal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Writing%20a%20Reader%20Response%20Journal%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tj3abhQZEBs",
         "quiz": [
           {
-            "q": "When selecting a novel for independent study, you should consider ___.",
+            "q": "A strong reader response journal entry goes beyond summary by ___.",
             "options": [
-              "only genre",
-              "whether the novel offers complexity",
-              "only page count",
-              "only how popular it is"
+              "listing every event in order",
+              "only counting pages read",
+              "explaining personal reactions and connections to the text",
+              "copying quotations without comment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When citing evidence in a response entry, students should ___.",
+            "options": [
+              "avoid using quotations",
+              "paraphrase without ever quoting",
+              "quote or paraphrase specific moments to support their reaction",
+              "only mention the author's name"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Tracking a theme across a journal entry means ___.",
+            "options": [
+              "naming the theme once with no evidence",
+              "examining how details across the reading develop that theme",
+              "only describing the setting",
+              "listing chapter titles"
             ],
             "answer": 1
           },
           {
-            "q": "A reading response that analyses theme goes beyond plot by ___.",
+            "q": "A reflective question a reader might ask while journaling is ___.",
             "options": [
-              "only describing the ending",
-              "examining how details develop the theme",
-              "listing chapter summaries",
-              "counting characters"
+              "'How many chapters are left?'",
+              "'Why did the character make that choice, and how does it change my view of them?'",
+              "'What font is the book printed in?'",
+              "'How long did I read for?'"
             ],
             "answer": 1
           },
           {
-            "q": "Tracking character arc means ___.",
+            "q": "An analytical journal entry differs from a plot summary by ___.",
             "options": [
-              "only tracking the protagonist",
-              "listing every action a character takes",
-              "noting physical descriptions only",
-              "examining how a character changes through the story"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Reading a Canadian novel specifically can develop ___.",
-            "options": [
-              "only grammar skills",
-              "understanding of Canadian history and voices",
-              "only French-language knowledge",
-              "awareness of Canadian geography"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "An analytical journal entry differs from a summary by ___.",
-            "options": [
-              "asking 'why' and 'how'",
-              "having no plot references",
-              "being longer",
-              "using more quotations"
+              "asking 'why' and 'how' instead of just 'what happened'",
+              "having no plot references at all",
+              "being written in point form only",
+              "avoiding all personal opinion"
             ],
             "answer": 0
           }
@@ -2403,7 +2403,7 @@
         "summary": "Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
         "resourceLabel": "YouTube: Canada's Environmental History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=XJasV-itdoc",
+        "videoUrl": "https://www.youtube.com/watch?v=41AxYTqmhnM",
         "quiz": [
           {
             "q": "Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.",
@@ -4125,7 +4125,7 @@
         "summary": "Students examine Canada's foreign policy — peacekeeping, the G7, NAFTA, and humanitarian commitments — in the late 20th century.",
         "resourceLabel": "YouTube: Canada and International Relations: 1970-2000",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20International%20Relations%3A%201970-2000%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=35FPo8Z6f6Y",
+        "videoUrl": "https://www.youtube.com/watch?v=nPJ2NSWWy50",
         "quiz": [
           {
             "q": "Canada's peacekeeping role, established by Lester Pearson's Suez Crisis proposal (1956), meant ___.",
@@ -5295,7 +5295,21 @@
         "summary": "Students synthesise all three Grade 10 science strands — chemistry, biology, and physics — and their interconnections.",
         "resourceLabel": "YouTube: Science: Review and Synthesis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Review%20and%20Synthesis%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=oefAI2x2CQM",
+        "videoUrl": "https://www.youtube.com/watch?v=S_k0kr2eZSQ",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=S_k0kr2eZSQ"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=7xeFP0SEDdc"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=GJjikpQj9vQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Chemical bonding concepts explain ___.",
@@ -5601,7 +5615,7 @@
         "summary": "Students apply the six historical thinking concepts to a contemporary Canadian issue, demonstrating the relevance of historical reasoning to present-day problems.",
         "resourceLabel": "YouTube: Historical Thinking: Applying Concepts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Historical%20Thinking%3A%20Applying%20Concepts%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=426r5-jkGnY",
+        "videoUrl": "https://www.youtube.com/watch?v=TlJwiRz-t0A",
         "quiz": [
           {
             "q": "Applying historical significance to a contemporary issue means asking ___.",
@@ -5973,7 +5987,7 @@
         "summary": "Students apply transformations (stretch, compress, reflect, shift) to parent functions, building intuition for Grade 11 Functions.",
         "resourceLabel": "YouTube: Functions and Graphs: Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%20and%20Graphs%3A%20Transformations%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ctVr9NpSiL4",
+        "videoUrl": "https://www.youtube.com/watch?v=MkP1LJR2PyM",
         "quiz": [
           {
             "q": "The transformation y = f(x) + 3 shifts the graph ___.",
@@ -6219,7 +6233,7 @@
         "summary": "Students learn about the three Grade 11 math pathways — Functions (MCR3U), Functions and Applications (MCF3M), and Foundations for College (MBF3C) — and make informed choices.",
         "resourceLabel": "YouTube: Looking Ahead: Grade 11 Mathematics Pathways",
         "resourceUrl": "https://www.youtube.com/results?search_query=Looking%20Ahead%3A%20Grade%2011%20Mathematics%20Pathways%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=j3jRpnJT_Ic",
+        "videoUrl": "https://www.youtube.com/watch?v=f6BC9aNoC84",
         "quiz": [
           {
             "q": "MCR3U (Grade 11 Functions) is the pathway for students planning ___.",
@@ -6275,11 +6289,11 @@
       },
       {
         "subject": "Science",
-        "title": "Science: Looking Forward to Grade 11",
-        "summary": "Students preview Grade 11 science pathways — Biology, Chemistry, Physics — and understand how Grade 10 learning connects.",
-        "resourceLabel": "YouTube: Science: Looking Forward to Grade 11",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Looking%20Forward%20to%20Grade%2011%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tGqPl-wfueE",
+        "title": "Course Planning: Choosing Your Grade 11 Science Pathway",
+        "summary": "Students learn how to plan their Grade 11 course selections, focusing on how to choose the right science pathway — Biology, Chemistry, Physics — based on their Grade 10 learning and future interests.",
+        "resourceLabel": "YouTube: Course Planning: Choosing Your Grade 11 Science Pathway",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Course%20Planning%3A%20Choosing%20Your%20Grade%2011%20Science%20Pathway%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VDzrVKvq_pE",
         "quiz": [
           {
             "q": "Grade 11 Biology extends Grade 10 knowledge of ___.",
@@ -6405,7 +6419,7 @@
         "summary": "Students analyse how social media platforms construct and perform identity, and examine the mental health, social, and political implications.",
         "resourceLabel": "YouTube: Media: Social Media and Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%3A%20Social%20Media%20and%20Identity%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Z1BpYDkGoAs",
+        "videoUrl": "https://www.youtube.com/watch?v=GGGDfciqyvw",
         "quiz": [
           {
             "q": "Social media platforms are ___.",
@@ -6465,7 +6479,7 @@
         "summary": "Students apply math to real personal finance scenarios — tax filing, credit, mortgages, insurance — relevant to their near future.",
         "resourceLabel": "YouTube: Personal Finance: Practical Mathematics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Personal%20Finance%3A%20Practical%20Mathematics%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ytVneQUA5-c",
+        "videoUrl": "https://www.youtube.com/watch?v=AKU4lSQvrnI",
         "quiz": [
           {
             "q": "A credit score measures ___.",
@@ -7077,7 +7091,7 @@
         "summary": "Students practise a 45-minute historical essay, applying all historical thinking skills to a significant Canadian history question.",
         "resourceLabel": "YouTube: History Exam: Practise Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=History%20Exam%3A%20Practise%20Essay%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=QbTm6m7198g",
+        "videoUrl": "https://www.youtube.com/watch?v=p1x6pQK-Luo",
         "quiz": [
           {
             "q": "A strong history essay begins with ___.",

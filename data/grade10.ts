@@ -34,7 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and World War II: Causes and Outbreak", summary:"Students examine the causes of WWII — rise of fascism, appeasement, Nazi aggression — and Canada's declaration of war and early contributions.",
    resourceLabel:"YouTube: Canada and World War II: Causes and Outbreak", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20World%20War%20II%3A%20Causes%20and%20Outbreak%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=aZbpVsQzBeU",
+   videoUrl:"https://www.youtube.com/watch?v=_uk_6vfqwTA",
    quiz:[
      {q:"The policy of appeasement pursued by Britain and France in the 1930s meant ___.", options:["supporting Germany's expansion","imposing economic sanctions only","confronting Hitler's aggression immediately","making concessions to Hitler to avoid war"], answer:3},
      {q:"Canada declared war on Germany in September 1939 ___.", options:["only after Japan attacked Pearl Harbor","before Britain, showing independence","a week after Britain, showing growing autonomy","the same day as Britain, showing full dependence"], answer:2},
@@ -118,7 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Home Front in WWII", summary:"Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
    resourceLabel:"YouTube: Canada's Home Front in WWII", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7e5oygzUrs4",
+   videoUrl:"https://www.youtube.com/watch?v=IicFIxmRroQ",
    quiz:[
      {q:"The internment of Japanese Canadians during WWII involved ___.", options:["voluntary relocation for safety","about 100 people","forced removal and property seizure","immediate restoration of rights after the war"], answer:2},
      {q:"Women's roles changed during WWII because ___.", options:["women were prohibited from wartime work","only nursing was available","women entered the industrial workforce in large numbers","nothing changed significantly"], answer:2},
@@ -170,15 +170,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
-  {subject:"English", title:"Independent Reading: Novel Selection and Response", summary:"Students select a Canadian novel or a world novel in English translation and write analytical reading journal entries tracking theme, character, and author's craft.",
-   resourceLabel:"YouTube: Independent Reading: Novel Selection and Response", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Selection%20and%20Response%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=eEtEYw9soK8",
+  {subject:"English", title:"Independent Reading: Writing a Reader Response Journal", summary:"Students learn how to write an analytical reader response journal entry for their independent novel, capturing personal reactions, textual evidence, and thematic connections as they read.",
+   resourceLabel:"YouTube: Independent Reading: Writing a Reader Response Journal", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Writing%20a%20Reader%20Response%20Journal%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tj3abhQZEBs",
    quiz:[
-     {q:"When selecting a novel for independent study, you should consider ___.", options:["only genre","whether the novel offers complexity","only page count","only how popular it is"], answer:1},
-     {q:"A reading response that analyses theme goes beyond plot by ___.", options:["only describing the ending","examining how details develop the theme","listing chapter summaries","counting characters"], answer:1},
-     {q:"Tracking character arc means ___.", options:["only tracking the protagonist","listing every action a character takes","noting physical descriptions only","examining how a character changes through the story"], answer:3},
-     {q:"Reading a Canadian novel specifically can develop ___.", options:["only grammar skills","understanding of Canadian history and voices","only French-language knowledge","awareness of Canadian geography"], answer:1},
-     {q:"An analytical journal entry differs from a summary by ___.", options:["asking 'why' and 'how'","having no plot references","being longer","using more quotations"], answer:0}
+     {q:"A strong reader response journal entry goes beyond summary by ___.", options:["listing every event in order","only counting pages read","explaining personal reactions and connections to the text","copying quotations without comment"], answer:2},
+     {q:"When citing evidence in a response entry, students should ___.", options:["avoid using quotations","paraphrase without ever quoting","quote or paraphrase specific moments to support their reaction","only mention the author's name"], answer:2},
+     {q:"Tracking a theme across a journal entry means ___.", options:["naming the theme once with no evidence","examining how details across the reading develop that theme","only describing the setting","listing chapter titles"], answer:1},
+     {q:"A reflective question a reader might ask while journaling is ___.", options:["'How many chapters are left?'","'Why did the character make that choice, and how does it change my view of them?'","'What font is the book printed in?'","'How long did I read for?'"], answer:1},
+     {q:"An analytical journal entry differs from a plot summary by ___.", options:["asking 'why' and 'how' instead of just 'what happened'","having no plot references at all","being written in point form only","avoiding all personal opinion"], answer:0}
    ]},
   {subject:"Math", title:"Quadratics: Revenue, Profit, and Projectile Problems", summary:"Students apply quadratic models to real-world situations: projectile motion, revenue and profit maximisation, area optimisation.",
    resourceLabel:"YouTube: Quadratics: Revenue, Profit, and Projectile Problems", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Revenue%2C%20Profit%2C%20and%20Projectile%20Problems%20grade%2010%20educational",
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Environmental History", summary:"Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
    resourceLabel:"YouTube: Canada's Environmental History", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=XJasV-itdoc",
+   videoUrl:"https://www.youtube.com/watch?v=41AxYTqmhnM",
    quiz:[
      {q:"Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.", options:["serve purely ecological goals","protect Indigenous territory","attract tourists and protect scenery","protect endangered species"], answer:2},
      {q:"The Kyoto Protocol (1997) committed Canada to ___.", options:["cutting emissions below 1990 levels","only renewable energy","no specific emissions targets","only monitoring emissions"], answer:0},
@@ -706,7 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and International Relations: 1970-2000", summary:"Students examine Canada's foreign policy — peacekeeping, the G7, NAFTA, and humanitarian commitments — in the late 20th century.",
    resourceLabel:"YouTube: Canada and International Relations: 1970-2000", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20International%20Relations%3A%201970-2000%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=35FPo8Z6f6Y",
+   videoUrl:"https://www.youtube.com/watch?v=nPJ2NSWWy50",
    quiz:[
      {q:"Canada's peacekeeping role, established by Lester Pearson's Suez Crisis proposal (1956), meant ___.", options:["Canada joining UN peacekeeping","Canada staying neutral in all conflicts","Canada avoiding all international commitments","Canada sending troops to fight in all wars"], answer:0},
      {q:"NAFTA (North American Free Trade Agreement, 1994) ___.", options:["was rejected by Canada","only applied to Mexico and the US","eliminated most tariffs among them","had no impact on Canadian employment"], answer:2},
@@ -906,7 +906,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Review and Synthesis", summary:"Students synthesise all three Grade 10 science strands — chemistry, biology, and physics — and their interconnections.",
    resourceLabel:"YouTube: Science: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Review%20and%20Synthesis%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=oefAI2x2CQM",
+   videoUrl:"https://www.youtube.com/watch?v=S_k0kr2eZSQ",
+   videoUrls:[{label:"Chemistry", url:"https://www.youtube.com/watch?v=S_k0kr2eZSQ"},{label:"Biology", url:"https://www.youtube.com/watch?v=7xeFP0SEDdc"},{label:"Physics", url:"https://www.youtube.com/watch?v=GJjikpQj9vQ"}],
    quiz:[
      {q:"Chemical bonding concepts explain ___.", options:["only ionic compounds","only why acids are sour","only laboratory reactions","properties of water, DNA, and metals"], answer:3},
      {q:"Evolution (biology) connects to chemistry through ___.", options:["only protein structure","only fossil records","no connection exists","mutation being a chemical process"], answer:3},
@@ -958,7 +959,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Historical Thinking: Applying Concepts", summary:"Students apply the six historical thinking concepts to a contemporary Canadian issue, demonstrating the relevance of historical reasoning to present-day problems.",
    resourceLabel:"YouTube: Historical Thinking: Applying Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Historical%20Thinking%3A%20Applying%20Concepts%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=426r5-jkGnY",
+   videoUrl:"https://www.youtube.com/watch?v=TlJwiRz-t0A",
    quiz:[
      {q:"Applying historical significance to a contemporary issue means asking ___.", options:["why does it matter, and who's affected?","is this in the news?","is this event recent?","how many people are affected?"], answer:0},
      {q:"Using cause and consequence thinking about climate policy means ___.", options:["assuming one cause","only considering future consequences","only looking at economic causes","tracing causes and effects broadly"], answer:3},
@@ -1022,7 +1023,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Functions and Graphs: Transformations", summary:"Students apply transformations (stretch, compress, reflect, shift) to parent functions, building intuition for Grade 11 Functions.",
    resourceLabel:"YouTube: Functions and Graphs: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Functions%20and%20Graphs%3A%20Transformations%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ctVr9NpSiL4",
+   videoUrl:"https://www.youtube.com/watch?v=MkP1LJR2PyM",
    quiz:[
      {q:"The transformation y = f(x) + 3 shifts the graph ___.", options:["up 3 units","down 3 units","left 3 units","right 3 units"], answer:0},
      {q:"The transformation y = f(x − 2) shifts the graph ___.", options:["right 2 units","left 2 units","down 2 units","up 2 units"], answer:0},
@@ -1064,7 +1065,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Looking Ahead: Grade 11 Mathematics Pathways", summary:"Students learn about the three Grade 11 math pathways — Functions (MCR3U), Functions and Applications (MCF3M), and Foundations for College (MBF3C) — and make informed choices.",
    resourceLabel:"YouTube: Looking Ahead: Grade 11 Mathematics Pathways", resourceUrl:"https://www.youtube.com/results?search_query=Looking%20Ahead%3A%20Grade%2011%20Mathematics%20Pathways%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=j3jRpnJT_Ic",
+   videoUrl:"https://www.youtube.com/watch?v=f6BC9aNoC84",
    quiz:[
      {q:"MCR3U (Grade 11 Functions) is the pathway for students planning ___.", options:["a direct path to the workforce","programs needing advanced math","all Grade 12 courses equally","college-level programs not requiring advanced math"], answer:1},
      {q:"Functions in Grade 11 extend Grade 10 quadratics to ___.", options:["polynomial and trig functions","geometry only","financial math only","linear equations only"], answer:0},
@@ -1072,9 +1073,9 @@ const curriculum: DayContent[] = [
      {q:"The most important preparation for Grade 11 Functions is ___.", options:["solid Grade 10 quadratics and geometry","avoiding all math over summer","memorising all quadratic formulas","only practising graphing"], answer:0},
      {q:"Mathematics beyond high school is used in ___.", options:["only engineering","nearly every professional field today","only science","only pure math careers"], answer:1}
    ]},
-  {subject:"Science", title:"Science: Looking Forward to Grade 11", summary:"Students preview Grade 11 science pathways — Biology, Chemistry, Physics — and understand how Grade 10 learning connects.",
-   resourceLabel:"YouTube: Science: Looking Forward to Grade 11", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Forward%20to%20Grade%2011%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=tGqPl-wfueE",
+  {subject:"Science", title:"Course Planning: Choosing Your Grade 11 Science Pathway", summary:"Students learn how to plan their Grade 11 course selections, focusing on how to choose the right science pathway — Biology, Chemistry, Physics — based on their Grade 10 learning and future interests.",
+   resourceLabel:"YouTube: Course Planning: Choosing Your Grade 11 Science Pathway", resourceUrl:"https://www.youtube.com/results?search_query=Course%20Planning%3A%20Choosing%20Your%20Grade%2011%20Science%20Pathway%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VDzrVKvq_pE",
    quiz:[
      {q:"Grade 11 Biology extends Grade 10 knowledge of ___.", options:["only evolution","atomic theory","only cells","cellular topics into greater depth"], answer:3},
      {q:"Grade 11 Chemistry builds directly on ___.", options:["only physics concepts","atomic theory, chemical bonding, and reaction types from Grade 10 — extending to stoichiometry (quantitative reactions), solution chemistry, and gas laws","only biology","no Grade 10 content"], answer:3},
@@ -1096,7 +1097,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Media: Social Media and Identity", summary:"Students analyse how social media platforms construct and perform identity, and examine the mental health, social, and political implications.",
    resourceLabel:"YouTube: Media: Social Media and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Social%20Media%20and%20Identity%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Z1BpYDkGoAs",
+   videoUrl:"https://www.youtube.com/watch?v=GGGDfciqyvw",
    quiz:[
      {q:"Social media platforms are ___.", options:["only entertainment","neutral tools that reflect real life","shaped by algorithms and monetisation","always harmful"], answer:2},
      {q:"The 'performance of self' on social media means ___.", options:["everyone acts completely natural online","social media shows the real you always","only celebrities perform identity online","users curate a self for their audience"], answer:3},
@@ -1106,7 +1107,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Personal Finance: Practical Mathematics", summary:"Students apply math to real personal finance scenarios — tax filing, credit, mortgages, insurance — relevant to their near future.",
    resourceLabel:"YouTube: Personal Finance: Practical Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Personal%20Finance%3A%20Practical%20Mathematics%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ytVneQUA5-c",
+   videoUrl:"https://www.youtube.com/watch?v=AKU4lSQvrnI",
    quiz:[
      {q:"A credit score measures ___.", options:["your income","your creditworthiness","how much money you have","your tax bracket"], answer:1},
      {q:"Compound interest on debt (like a credit card at 20% APR) is ___.", options:["easy to pay off","irrelevant if you make minimum payments","extremely expensive over time","beneficial to the borrower"], answer:2},
@@ -1210,7 +1211,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History Exam: Practise Essay", summary:"Students practise a 45-minute historical essay, applying all historical thinking skills to a significant Canadian history question.",
    resourceLabel:"YouTube: History Exam: Practise Essay", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%3A%20Practise%20Essay%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=p1x6pQK-Luo",
    quiz:[
      {q:"A strong history essay begins with ___.", options:["a question restated verbatim","a clear thesis stating your argument","a general statement about history","a list of facts"], answer:1},
      {q:"Historical evidence in an essay should ___.", options:["include only dates","only come from memory","be specific and support your argument","be as general as possible"], answer:2},

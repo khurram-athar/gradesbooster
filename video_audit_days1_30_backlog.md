@@ -22,17 +22,33 @@
 
 ## 1. Grade 10 — HIGHEST PRIORITY
 
-**Confirmed bad — needs fix (34 total):**
-- [ ] Day 9, English ("Novel Study: Contemporary Canadian Novel") — UK GCSE video, wrong curriculum
-- [ ] Day 12, English ("Poetry — Voice, Identity, and Social Justice") — random amateur student poem, unrelated
-- [ ] `zz440EuFK8Q` ("The history of Canada explained in 10 minutes," a generic overview) reused 8x in the History slot — confirmed via oembed. Fix EACH of these 8 individually with a lesson-specific video: Day 2, Day 5, Day 6, Day 10, Day 12, Day 17, Day 21, Day 24 (all History)
-- [ ] 5 blocks with NO videoUrl at all: Day 28 History, and all of Day 30 (English, Math, Science, History)
-- [ ] 19 more spread across Days 11, 15, 16, 18, 19 (x2 — two subjects that day), 20, 22, 23, 24, 25, 26, 27, 28 — wrong-country history videos, elementary-level content, banned-keyword (CBSE/BYJU) hits, clickbait, topic mismatches. Exact subject/title not preserved from the original report — look up each day's full lesson set in `data/grade10.json`, re-run the oembed/snippet free check on every Day 1-30 History/English/Math/Science block for this grade to identify which specific ones are still bad (the 8x-reused ID and the 2 named above are already confirmed; the remaining ~19 need a fresh title/description pull to pinpoint).
+**RE-AUDITED FROM SCRATCH 2026-08-21 (this session):** the July itemization below (34 confirmed-bad, keyed to specific days) turned out to be almost entirely stale — content has shifted significantly since July (the notorious `zz440EuFK8Q` 8x-reuse and the "5 blocks with no videoUrl" were both already gone/fixed by the time of this check; Day9/Day12 English's specific flagged issues had also changed). Per the file's own instructions ("always work from current data"), this session did a full fresh free-verification pass (videos.list, no search-budget cost) across all 120 Grade 10 Day1-30 blocks, then fixed every video actually confirmed bad against CURRENT lesson content. Original July prose left below (struck via note) for history; do not re-work it — treat Grade 10 Days 1-30 as re-audited and the items below as the authoritative record of this pass.
 
-**Ambiguous — needs judgment call (10 total):**
-- [ ] Days 3, 5, 7, 10, 14, 16, 17, 20, 21, 28 — mostly right-general-topic-but-wrong-angle or wrong-country videos flagged in July; re-check each against current lesson content and decide keep/replace.
+**Fixed 2026-08-21 (13 total, all verified against current lesson content, current videos):**
+- [x] Day 1, History ("Canada and World War II: Causes and Outbreak") — was Dr. Binocs kids' Hitler-bio clip (elementary-level, not Canada-focused) → replaced with OverSimplified "WW2 Part 1" (`_uk_6vfqwTA`)
+- [x] Day 3, History ("Canada's Home Front in WWII") — was "Rationing in WWII (British Homefront)," wrong country → replaced with Canadian War Museum "What roles did Canadians play in the Second World War?" (`IicFIxmRroQ`)
+- [x] Day 5, English ("Independent Reading: Novel Selection and Response") — was "Tips for Essay," 18s, irrelevant → RETOPICED (2 search attempts both yielded zero relevant candidates) to "Independent Reading: Writing a Reader Response Journal" with matching new quiz, video `tj3abhQZEBs`
+- [x] Day 10, History ("Canada's Environmental History") — was TED-Ed's US Yosemite/national-parks video, wrong country → replaced with Parks Canada "Why Conservation Matters—for All of Us" (`41AxYTqmhnM`)
+- [x] Day 17, History ("Canada and International Relations: 1970-2000") — was "Canada's Role in Peacekeeping and the Suez Crisis" (1956, wrong era) → replaced with "Canada and the Cold War—A Nation Transformed" (`nPJ2NSWWy50`)
+- [x] Day 22, Science ("Science: Review and Synthesis") — was Amoeba Sisters "Protein Synthesis" (coincidental title-word match to "synthesis," wrong topic entirely) → this is a review-titled lesson, given Multi-video/combo treatment per policy: Chemistry (`S_k0kr2eZSQ`), Biology (`7xeFP0SEDdc`), Physics (`GJjikpQj9vQ`), all 3/3 subtopics found
+- [x] Day 23, History ("Historical Thinking: Applying Concepts") — was an 82-second course-intro clip, too short + off-topic → replaced with "How to analyse a historical source" (History Skills channel, `TlJwiRz-t0A`)
+- [x] Day 25, Math ("Functions and Graphs: Transformations") — was GCSE-labeled (wrong curriculum) → replaced with Professor Dave Explains "Transforming Algebraic Functions" (`MkP1LJR2PyM`)
+- [x] Day 26, Math ("Looking Ahead: Grade 11 Mathematics Pathways") — was 51s, too short → replaced with "How to Plan Your High School Math Courses in Ontario" (`f6BC9aNoC84`)
+- [x] Day 26, Science ("Science: Looking Forward to Grade 11") — was a 30s BYJU'S #shorts about floating/sinking, wholly off-topic + banned keyword → RETOPICED (2 attempts found no science-pathway-specific video) to "Course Planning: Choosing Your Grade 11 Science Pathway," video `VDzrVKvq_pE`
+- [x] Day 27, English ("Media: Social Media and Identity") — was 85s, too short → replaced with Common Sense Media "Social Media, Social Life: Teens Reveal Their Experiences" (`GGGDfciqyvw`)
+- [x] Day 27, Math ("Personal Finance: Practical Mathematics") — was a TEDx talk about math TEACHING philosophy, wrong topic → replaced with "Financial Maths Grade 10 | Simple Interest Introduction" (`AKU4lSQvrnI`)
+- [x] Day 29, History ("History Exam: Practise Essay") — was 28s "Do This Before Your History Exam" clip (same offending clip flagged for Grade 8 too) → replaced with Nottingham Trent University "How to Write a history essay: Advice and Tips" (`p1x6pQK-Luo`)
 
-**Unchecked/unverified:** none — Grade 10 was 100% checked (topic-relevance) in July, this list above IS the full known-issue set. Duration was also checked in the same pass.
+**Checked and found already fine (no action needed) during the same fresh pass:** Days 1-2, 4, 6-9 (English topic-consolation accepted for the unfindable "contemporary Canadian novel" framing), 11-16, 18-21, 24, 26 (English/History), 28, 30 — all currently have on-topic, adequate-length, non-banned-keyword videos. A handful are weak/generic-but-acceptable matches (e.g. Day7 English, Day16 English, Day20 English, Day21 Science/History, Day23 Math/Science, Day24 History, Day26 English/Math(orig), Day28 English/Math) — not clearly rule-violating, left as ambiguous-but-acceptable rather than spending budget on marginal upgrades.
+
+**Original July itemization (STALE, superseded by the 2026-08-21 re-audit above — kept for history only, do not re-work):**
+~~**Confirmed bad — needs fix (34 total):**~~
+~~- Day 9, English ("Novel Study: Contemporary Canadian Novel") — UK GCSE video, wrong curriculum~~
+~~- Day 12, English ("Poetry — Voice, Identity, and Social Justice") — random amateur student poem, unrelated~~
+~~- `zz440EuFK8Q` reused 8x in the History slot — NOT reproduced in the 2026-08-21 check; content has changed~~
+~~- 5 blocks with NO videoUrl at all: Day 28 History, and all of Day 30 — NOT reproduced in the 2026-08-21 check; all now have videos~~
+~~- 19 more spread across Days 11, 15, 16, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28 — superseded by the itemized fix list above~~
+~~**Ambiguous — needs judgment call (10 total):** Days 3, 5, 7, 10, 14, 16, 17, 20, 21, 28 — superseded by the fresh pass above~~
 
 ---
 
