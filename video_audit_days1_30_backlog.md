@@ -219,16 +219,18 @@
 
 ## 8. Grade 7 — re-verification pass (previously marked "complete", proven unreliable)
 
-**Confirmed fixed 2026-08-20 (this session, do not re-check):**
+**Confirmed fixed 2026-08-20 (prior session, do not re-check):**
 - [x] Day 5, SocialStudies ("Review: Early Canada and Geography") — was a single mismatched "Introducing the Regions of Canada" video on a 4-topic review lesson (New France/Seven Years War, Rebellions of 1837-38, climate zones, natural resources) → replaced with a proper 3-video combo per the Multi-video policy (New France/Seven Years War, Rebellions of 1837-38, Climate Zones)
 
-**From the original (pre-"complete") July 21 partial pass — verify these are still actually fixed, since the later "complete" claim turned out not to be fully trustworthy:**
-- [ ] Day 2, SocialStudies — was flagged as a Confederation video used for an 1800-1850 conflict lesson (mixed up with Day 6). Check current state.
-- [ ] Day 14, SocialStudies — was flagged as a Seven Years' War video used for a WWI lesson (mixed up with Day 1). Check current state.
-- [ ] Day 3, Language — was flagged as covering only "tone," not "theme" (ambiguous). Check current state.
-- [ ] Day 29, SocialStudies and all of Day 30 — were flagged as having no videoUrl at all. Check current state (may have been filled by the "complete" 2026-07-22 pass, or may still be genuinely missing).
+**RE-CHECKED 2026-08-21 (this session):** free-verification pass (videos.list, no search cost) on all 4 remaining itemized July flags below, against current lesson content.
 
-**Everything else (Days 1, 4-13, 15-28, all subjects not listed above):** never itemized as bad in either report, and the eod file claims a full audit completed 2026-07-22 with all 12 found issues fixed. Given the Day 5 slip-through, do a light spot-check (pull title/description via free oembed/snippet call for a sample of ~10-15 blocks not already covered above, compare to lesson content) before fully trusting this grade is clean. If the spot-check turns up more misses, escalate to a full re-check of the grade like the others above.
+- [x] VERIFIED OK 2026-08-21 — Day 2, SocialStudies — current video is on-topic for its actual lesson content; the July "Confederation video mixed up with Day 6" mismatch is not reproduced, content has shifted since July
+- [x] VERIFIED OK 2026-08-21 — Day 14, SocialStudies — current video is on-topic; the July "Seven Years' War video mixed up with a WWI lesson" mismatch is not reproduced
+- [x] VERIFIED OK 2026-08-21 — Day 29, SocialStudies (and all of Day 29's other 3 subjects) — the July "no videoUrl at all" gap is not reproduced; all 4 subjects currently have a videoUrl
+- [x] FIXED 2026-08-21 — Day 3, Language ("Theme and Tone" — a 2-subtopic lesson, not "review"-titled so not strictly combo-policy-eligible, but structurally identical: only "Tone" was covered, "Theme" entirely missing) — resolved via the same `videoUrl`+`videoUrls[]` mechanism used for combo lessons (a judgment-call precedent, flagged for the user): added Khan Academy "Understanding theme" (`MAu3e5GZo4k`, 6:18, 1 new search spent) alongside the existing, still-good Tone video (`TnpwyZLyUJE`)
+- [x] FIXED 2026-08-21 — Day 30 (all 4 subjects, "Year-End Review: A, B, C, D" combo lessons) — same systemic narrow-single-video-on-a-combo-lesson pattern found in Grades 5/9 — all 4 given combo treatment, reusing Days 26-29's own already-good videos at zero extra search cost: Language → Setting and Mood (`SQq7XZ_Im34`, Day26/27) + Sentence Variety (`IgEN9iKcZ5s`) + Peer Editing and Feedback (`dvxEoW2waac`); Math → Coordinate Geometry: Distance Between Points (`rpMu98yRk40`) + Negative Number Applications (`OAoLCXpao6s`) + Probability: Independent Events (`jcggUGY3vIg`); Science → pH and Acids/Bases (`Xeuyc55LqiY`) + Ecosystems and Energy Flow (`-oVavgmveyY`) + Technological Design Process (`W-eqjMc1Efs`); SocialStudies → The Structure of Canadian Government (`7C8uDuhLqvg`) + Canada's Relationship with the United States (`wyS5-hSfx8o`) + Sustainable Development Goals (`7dzFbP2AgFo`)
+
+**Everything else (Days 1, 4-13, 15-28, all subjects not listed above):** never itemized as bad in either report. All 4 originally-flagged July items are now resolved (2 verified stale/OK, 2 fixed). Given the Day 5 slip-through history, a light spot-check of ~10-15 further blocks not yet covered is still recommended in a future run before fully trusting this grade end-to-end, but the itemized backlog for Grade 7 is now clear.
 
 ---
 

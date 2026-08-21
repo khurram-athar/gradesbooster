@@ -508,7 +508,17 @@
         "summary": "Theme is the central message or idea of a text; tone is the author's attitude conveyed through word choice.",
         "resourceLabel": "YouTube: Theme and Tone",
         "resourceUrl": "https://www.youtube.com/results?search_query=Theme%20and%20Tone%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=TnpwyZLyUJE",
+        "videoUrl": "https://www.youtube.com/watch?v=MAu3e5GZo4k",
+        "videoUrls": [
+          {
+            "label": "Theme",
+            "url": "https://www.youtube.com/watch?v=MAu3e5GZo4k"
+          },
+          {
+            "label": "Tone",
+            "url": "https://www.youtube.com/watch?v=TnpwyZLyUJE"
+          }
+        ],
         "quiz": [
           {
             "q": "Theme refers to...",
@@ -7235,7 +7245,21 @@
         "summary": "Mixed review of setting and mood, varying sentence length, peer editing, and oral presentation skills.",
         "resourceLabel": "YouTube: Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Setting%2FMood%2C%20Sentence%20Variety%2C%20Feedback%2C%20Presentation%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=wtl5UrrgU8c",
+        "videoUrl": "https://www.youtube.com/watch?v=SQq7XZ_Im34",
+        "videoUrls": [
+          {
+            "label": "Setting and Mood",
+            "url": "https://www.youtube.com/watch?v=SQq7XZ_Im34"
+          },
+          {
+            "label": "Sentence Variety",
+            "url": "https://www.youtube.com/watch?v=IgEN9iKcZ5s"
+          },
+          {
+            "label": "Peer Editing and Feedback",
+            "url": "https://www.youtube.com/watch?v=dvxEoW2waac"
+          }
+        ],
         "quiz": [
           {
             "q": "Setting refers to...",
@@ -7295,7 +7319,21 @@
         "summary": "Mixed review of distance between points, negative number applications, independent events, and metric conversions.",
         "resourceLabel": "YouTube: Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Negative%20Numbers%2C%20Probability%2C%20Unit%20Conversions%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
+        "videoUrl": "https://www.youtube.com/watch?v=rpMu98yRk40",
+        "videoUrls": [
+          {
+            "label": "Coordinate Geometry: Distance Between Points",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
+          },
+          {
+            "label": "Negative Number Applications",
+            "url": "https://www.youtube.com/watch?v=OAoLCXpao6s"
+          },
+          {
+            "label": "Probability: Independent Events",
+            "url": "https://www.youtube.com/watch?v=jcggUGY3vIg"
+          }
+        ],
         "quiz": [
           {
             "q": "The distance between (2,3) and (2,7) is...",
@@ -7355,7 +7393,21 @@
         "summary": "Mixed review of acids/bases, food pyramids and energy flow, the technological design process, and environmental impact assessments.",
         "resourceLabel": "YouTube: Final Review: pH, Energy Flow, Design Process, Environmental Assessment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20pH%2C%20Energy%20Flow%2C%20Design%20Process%2C%20Environmental%20Assessment%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=EhUpsq2i6k0",
+        "videoUrl": "https://www.youtube.com/watch?v=Xeuyc55LqiY",
+        "videoUrls": [
+          {
+            "label": "pH and Acids/Bases",
+            "url": "https://www.youtube.com/watch?v=Xeuyc55LqiY"
+          },
+          {
+            "label": "Ecosystems and Energy Flow",
+            "url": "https://www.youtube.com/watch?v=-oVavgmveyY"
+          },
+          {
+            "label": "Technological Design Process",
+            "url": "https://www.youtube.com/watch?v=W-eqjMc1Efs"
+          }
+        ],
         "quiz": [
           {
             "q": "A pH of 7 is considered...",
@@ -7415,7 +7467,21 @@
         "summary": "Mixed review of Canadian government levels, Canada's relationship with the U.S., the Sustainable Development Goals, and geographic inquiry skills.",
         "resourceLabel": "YouTube: Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Government%20Structure%2C%20Canada-US%20Relations%2C%20SDGs%2C%20Geographic%20Inquiry%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=WYhqg3VVmQw",
+        "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
+        "videoUrls": [
+          {
+            "label": "The Structure of Canadian Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Canada's Relationship with the United States",
+            "url": "https://www.youtube.com/watch?v=wyS5-hSfx8o"
+          },
+          {
+            "label": "Sustainable Development Goals",
+            "url": "https://www.youtube.com/watch?v=7dzFbP2AgFo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which level of government is responsible for national defence?",
