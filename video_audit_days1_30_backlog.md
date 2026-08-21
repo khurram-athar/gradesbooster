@@ -177,20 +177,16 @@
 
 **Already fixed (2 total, days not preserved — spot-check).**
 
-**Confirmed bad — needs fix:**
-- [ ] Day 1, SocialStudies ("Canada's Place in the World") — got Day 2's video by mistake (Day 2's own lesson uses it correctly — do NOT touch Day 2)
-- [ ] Day 30 (all 4 subjects) — no videoUrl at all
-- [ ] 3 more "irrelevant" per the eod summary, days not itemized
+**RE-CHECKED 2026-08-21 (this session):** free-verification pass (videos.list, no search cost) on all itemized items below, against current lesson content.
 
-**Low priority (likely non-issues under the current too-long-is-fine quality rule, verify relevance only, don't replace purely for length):**
-- [ ] 4 "too-long" flags (21-42 min) — per the standing quality rule, length alone is not disqualifying; only replace if also off-topic
+- [x] VERIFIED OK 2026-08-21 — Day 1, SocialStudies ("Canada's Place in the World") — now "1. Canada's Global Connections - Intro - Ontario Grade 6 Social Studies Curriculum Strand B," a good match; Day 2 SocialStudies now has its own distinct, correct video ("Introducing the Regions of Canada!") — the July "got Day 2's video by mistake" mixup is not reproduced, content has changed
+- [x] VERIFIED OK 2026-08-21 — Day 30 (all 4 subjects) — the July "no videoUrl at all" gap is not reproduced; all 4 now have a videoUrl and, unlike Grade 5's Day 30 (an enumerated "A, B, C, D" combo lesson), these are simple single-topic "Grade 6 [Subject] Year Review" titles that a single whole-course review video legitimately covers — Language: "Goal-Setting for Achievement in Reading" (a reasonable, if slightly narrow, fit for "reflecting on learning"), Math: "6th Grade Math Assessment Practice Day 1", Science: "Ace Your Grade 6 Science Test!", SocialStudies: "Grade 6 Social Studies Review" — all acceptable, no combo treatment needed here
+- [x] FIXED 2026-08-21 — Day 6, SocialStudies ("Mesopotamia and Egypt: Comparing Civilizations") — was a Mesopotamia-only video (Egypt half of the comparison entirely missing, confirming the ambiguous flag below) → replaced with "Unit 2 Part 1 - Comparing Egypt and Mesopotamia" (burnerdom, `14EHlqd0hG0`), which directly compares the geography of both river valleys
+- [x] VERIFIED OK 2026-08-21 — Day 5, Language ("Reading Strategies: Inference and Text Evidence") — video is labeled "Reading Strategies for Grades 3-5," which is a minor grade-label mismatch, not a topic/duration violation — content (inference + citing evidence) is exactly on-topic and the skill is commonly taught across this grade band; left as-is per judgment call
 
-**Ambiguous — needs judgment call:**
-- [ ] Day 5, Language (labeled "Grades 3-5," not 6 specifically — judge whether content is still grade-appropriate)
-- [ ] Day 6, SocialStudies (covers only half the lesson's comparison topic)
-- [ ] 8 more ambiguous flags per the eod summary, days not itemized
+**Ambiguous flags not individually itemized in the original July report (8 more) and the "3 more irrelevant"/"4 too-long" flags:** not reproducible against current data without a full fresh pass (same pattern as every other grade re-audited this session — content has shifted significantly since July). Given Grade 6's itemized flags are now fully resolved, these un-itemized leftovers are superseded; a full fresh pass (like the one done for Grades 9/10/11/12) would be needed to find whatever issues currently exist, rather than chasing July's specific (and mostly stale) descriptions.
 
-**Unchecked/unverified:** Days 7-29 almost entirely (the original agent's bash tools were down for its whole run) — largest unverified gap in the backlog after Grade 5.
+**Unchecked/unverified:** Days 2-4, 7-29 almost entirely (the original agent's bash tools were down for its whole run) — largest unverified gap in the backlog after Grade 5. A full fresh pass (per the Grade 9/10/11/12 pattern) is the recommended next step for this grade in a future run, rather than continuing to hunt for July's specific stale flags.
 
 ---
 
