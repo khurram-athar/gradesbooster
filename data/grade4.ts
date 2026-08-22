@@ -14477,6 +14477,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: graphic organizers, such as Venn diagrams and story maps, help readers visually organize information and ideas from a text.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=U3GF5Lv3Zu8",
         "quiz": [
           {
             "q": "A graphic organizer helps readers ___.",
@@ -14537,6 +14538,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the mean is the average of a set of numbers, the median is the middle value when numbers are ordered, and the mode is the value that appears most often.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=oatwXlZBPw0",
         "quiz": [
           {
             "q": "The mean of a set of numbers is found by ___.",
@@ -14597,6 +14599,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: many everyday devices transform energy from one form to another, such as a toaster changing electrical energy into heat energy.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VhIBReUVSk8",
         "quiz": [
           {
             "q": "Energy transformation means energy ___.",
@@ -14657,6 +14660,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada is home to people from many different cultural backgrounds, and multiculturalism celebrates and protects this diversity as an official policy.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=UYElf0rSEvc",
         "quiz": [
           {
             "q": "Multiculturalism is a policy that ___.",
