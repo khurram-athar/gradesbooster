@@ -14491,6 +14491,7 @@
         "summary": "Grade 3 Language strand: retelling a story involves summarizing the key events in the correct order, using your own words while still including the most important details from the original story.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=JNemQATWt2E",
         "quiz": [
           {
             "q": "Retelling a story involves summarizing the key events in ___.",
@@ -14551,6 +14552,7 @@
         "summary": "Grade 3 Math strand: the area of an irregular shape can be estimated by breaking it into smaller, more familiar shapes, like squares and rectangles, and adding their areas together.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=GWylTH3FsQ0",
         "quiz": [
           {
             "q": "The area of an irregular shape can be estimated by breaking it into smaller, more familiar shapes like ___.",
@@ -14611,6 +14613,7 @@
         "summary": "Grade 3 Science strand: a mixture combines two or more substances that keep their own properties, and a solution is a special type of mixture where one substance dissolves completely into another.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Ki8N_eVmM5Q",
         "quiz": [
           {
             "q": "A mixture combines two or more substances that ___.",
@@ -14671,6 +14674,21 @@
         "summary": "Grade 3 Social Studies strand review: this lesson revisits local government decision-making, community helpers, trade between communities, and Ontario’s use of natural resources.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=bKIGBcAtVfQ",
+        "videoUrls": [
+          {
+            "label": "Local Government Decision-Making",
+            "url": "https://www.youtube.com/watch?v=bKIGBcAtVfQ"
+          },
+          {
+            "label": "Trade Between Communities",
+            "url": "https://www.youtube.com/watch?v=OSKArnFOnZo"
+          },
+          {
+            "label": "Community Helpers",
+            "url": "https://www.youtube.com/watch?v=9Wzqrp4iMrg"
+          }
+        ],
         "quiz": [
           {
             "q": "Local, or municipal, governments make decisions about community services like ___.",

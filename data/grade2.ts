@@ -17233,6 +17233,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the parts of a friendly letter, including the greeting, body, closing, and signature, used to write a personal message to someone.",
         "resourceLabel": "YouTube: Writing a Friendly Letter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Friendly%20Letter%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ctCaLQDWs1Q",
         "quiz": [
           {
             "q": "What part of a friendly letter greets the person you are writing to?",
@@ -17315,6 +17316,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the mode of a data set is the number or item that appears most often, helping to summarize information collected in a survey or chart.",
         "resourceLabel": "YouTube: Finding the Mode in a Data Set",
         "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20the%20Mode%20in%20a%20Data%20Set%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xObCUytIVMo",
         "quiz": [
           {
             "q": "What do we call the number or item that appears most often in a data set?",
@@ -17397,6 +17399,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that energy can come from natural sources such as the sun, wind, and moving water, which can be used to create electricity and power homes.",
         "resourceLabel": "YouTube: Where Energy Comes From: Sun, Wind, and Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Energy%20Comes%20From%3A%20Sun%2C%20Wind%2C%20and%20Water%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ViXtT8c4z-c",
         "quiz": [
           {
             "q": "Which of these is a natural source of energy?",
@@ -17481,6 +17484,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that museums and historical sites help people learn about the past by displaying old objects, artifacts, and stories from earlier times.",
         "resourceLabel": "YouTube: Museums and Historical Sites: Learning About the Past",
         "resourceUrl": "https://www.youtube.com/results?search_query=Museums%20and%20Historical%20Sites%3A%20Learning%20About%20the%20Past%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mIJUtMdKMlk",
         "quiz": [
           {
             "q": "What do we call a place that displays old objects and artifacts for people to learn from?",
