@@ -14263,18 +14263,19 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Oral Communication: Active Listening and Constructive Feedback",
-        "summary": "Grade 11 English strand: active listening involves fully concentrating on and engaging with a speaker’s message, and it forms the foundation for giving constructive feedback that is specific, respectful, and genuinely useful to the listener.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Oral Communication: The Art of Active Listening",
+        "summary": "Grade 11 English strand: active listening involves fully concentrating on and engaging with a speaker's message using both verbal and nonverbal cues, asking good questions, and giving an informed response — the foundation of effective communication.",
+        "resourceLabel": "YouTube: Oral Communication: The Art of Active Listening",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Active%20Listening%20Skills%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7wUCyjiyXdg",
         "quiz": [
           {
             "q": "Active listening involves ___.",
             "options": [
-              "Fully concentrating on and engaging with a speaker’s message",
+              "Fully concentrating on and engaging with a speaker's message",
               "A concept unrelated to communication",
-              "Waiting silently only until it is one’s turn to speak",
-              "Ignoring a speaker’s message entirely while planning a response"
+              "Waiting silently only until it is one's turn to speak",
+              "Ignoring a speaker's message entirely while planning a response"
             ],
             "answer": 0
           },
@@ -14289,24 +14290,24 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Why is specificity considered an important quality of constructive feedback?",
+            "q": "Active listening combines which two types of cues?",
             "options": [
-              "A reason unrelated to giving feedback",
-              "Specific feedback always confuses the listener with no benefit",
-              "Vague feedback is always more useful than specific feedback",
-              "Specific feedback gives the listener clear, actionable information they can use to improve"
+              "A pairing unrelated to active listening",
+              "Verbal and nonverbal cues",
+              "Only written cues, with no spoken component",
+              "Only visual cues, with no attention paid to words"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might active listening be considered a necessary foundation for giving effective feedback?",
+            "q": "Why might asking good questions be an important part of active listening?",
             "options": [
-              "Effective feedback can be given with no attention paid to the original message",
-              "Active listening has no connection to the quality of feedback given afterward",
-              "Fully understanding a speaker’s message allows feedback to directly address what was actually communicated",
-              "This skill has no relevance to oral communication"
+              "Questions have no role in demonstrating engagement with a speaker",
+              "Good questions show genuine engagement and help clarify or deepen understanding of the message",
+              "Asking questions always distracts from what the speaker is saying",
+              "This concept has no relevance to oral communication"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Why is active listening considered a valuable skill beyond the classroom, such as in future workplace settings?",
@@ -14384,10 +14385,11 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Biology",
-        "title": "Biology: Animal Migration — Patterns and Physiological Triggers",
-        "summary": "Grade 11 Biology strand: animal migration is the seasonal movement of a species between different geographic regions, often triggered by physiological cues such as changing day length or hormone levels, and is critical for accessing food, breeding grounds, or favourable climates.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Bird Migration: A Perilous Journey",
+        "summary": "Grade 11 Biology strand: bird migration is a case study in animal migration — the seasonal movement of a species between different geographic regions, often triggered by physiological cues such as changing day length or hormone levels, and critical (but dangerous) for accessing food, breeding grounds, or favourable climates.",
+        "resourceLabel": "YouTube: Bird Migration: A Perilous Journey",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bird%20Migration%20a%20Perilous%20Journey%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Q-mMMpl_T80",
         "quiz": [
           {
             "q": "Animal migration is best described as ___.",

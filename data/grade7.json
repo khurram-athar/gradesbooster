@@ -14249,10 +14249,11 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Arab Spring and Its Global Impact",
-        "summary": "Grade 7 Social Studies strand: the Arab Spring was a wave of pro-democracy protests and uprisings that spread across several Middle Eastern and North African countries beginning in 2010 and 2011.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "title": "The Syrian Civil War: How the Arab Spring Sparked a Decade of Conflict",
+        "summary": "Grade 7 Social Studies strand: the Arab Spring was a wave of pro-democracy protests and uprisings that spread across several Middle Eastern and North African countries beginning in 2010 and 2011 — in Syria, this uprising escalated into a devastating civil war that has displaced millions.",
+        "resourceLabel": "YouTube: The Syrian Civil War: How the Arab Spring Sparked a Decade of Conflict",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20Caused%20the%20Syrian%20Civil%20War%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=K5H5w3_QTG0",
         "quiz": [
           {
             "q": "The Arab Spring was a wave of ___.",
@@ -14275,32 +14276,32 @@
             "answer": 2
           },
           {
-            "q": "Which of these was a common demand of protesters during the Arab Spring?",
+            "q": "In Syria, the Arab Spring protests escalated into ___.",
             "options": [
               "A demand unrelated to the Arab Spring",
-              "A return to stricter authoritarian governments",
-              "Greater political freedom and an end to authoritarian rule",
-              "The complete removal of all elections"
+              "An immediate and peaceful transition to democracy",
+              "A prolonged and devastating civil war",
+              "No change to the government at all"
             ],
             "answer": 2
           },
           {
-            "q": "Why did the Arab Spring have such a widespread impact across the region?",
+            "q": "Why did the Syrian Civil War have such a widespread global impact?",
             "options": [
-              "The events in one country had no effect on any other country",
-              "The protests were limited to a single city with no broader impact",
-              "A reason unrelated to the Arab Spring",
-              "Similar political and economic frustrations existed in multiple countries at the same time"
+              "The conflict had no effect on any country beyond Syria's borders",
+              "It caused almost no disruption to daily life inside Syria",
+              "A reason unrelated to the conflict",
+              "It caused a massive refugee crisis and drew in outside powers, affecting the wider region and beyond"
             ],
             "answer": 3
           },
           {
-            "q": "Why do historians and social studies students continue to study the Arab Spring?",
+            "q": "Why do historians and social studies students continue to study the Arab Spring and its aftermath in Syria?",
             "options": [
               "A reason unrelated to its historical significance",
-              "The events of the Arab Spring have been completely forgotten",
-              "It offers insight into how citizen movements can influence political change",
-              "The Arab Spring had no lasting effect on the region"
+              "The events have had no lasting global consequences",
+              "It offers insight into how a citizen uprising can lead to very different outcomes across different countries",
+              "The Syrian Civil War had no lasting effect on the region"
             ],
             "answer": 2
           }

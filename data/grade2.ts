@@ -16876,6 +16876,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a theme is the main lesson or message of a story, often about kindness, honesty, or working hard, that readers can apply to their own lives.",
         "resourceLabel": "YouTube: Story Theme: The Lesson Behind a Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Theme%3A%20The%20Lesson%20Behind%20a%20Story%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QD_jKGySIzs",
         "quiz": [
           {
             "q": "What do we call the main lesson or message of a story?",
@@ -17131,10 +17132,11 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Community Recreation: Parks, Rinks, and Playgrounds",
-        "summary": "Students learn that communities build recreation spaces, such as parks, skating rinks, and playgrounds, so people can exercise, play, and spend time together.",
-        "resourceLabel": "YouTube: Community Recreation: Parks, Rinks, and Playgrounds",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Recreation%3A%20Parks%2C%20Rinks%2C%20and%20Playgrounds%20grade%202%20educational",
+        "title": "Playgrounds: Why Communities Build Them",
+        "summary": "Students learn that communities build recreation spaces, such as parks, skating rinks, and playgrounds, so people can exercise, play, and spend time together — and see how a new playground can transform a neighbourhood.",
+        "resourceLabel": "YouTube: Playgrounds: Why Communities Build Them",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Playgrounds%20Can%20Improve%20a%20Community%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ABjGw0c92EM",
         "quiz": [
           {
             "q": "Which of these is an example of a community recreation space?",

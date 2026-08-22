@@ -14270,58 +14270,59 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: Dystopian and Utopian Fiction in Dialogue",
-        "summary": "Grade 12 English strand: dystopian and utopian fiction imagine radically different societies, and reading these genres together reveals how authors use imagined worlds to critique or idealize aspects of their own historical moment.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Comparing Dystopian Visions: Brave New World vs. Nineteen Eighty-Four",
+        "summary": "Grade 12 English strand: Aldous Huxley's Brave New World and George Orwell's Nineteen Eighty-Four imagine two very different dystopias — a plastic, consumerist pleasure-state versus a surveillance state built on fear and propaganda — and comparing them reveals how each captures different anxieties about control.",
+        "resourceLabel": "YouTube: Comparing Dystopian Visions: Brave New World vs. Nineteen Eighty-Four",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Brave%20New%20World%20vs%20Nineteen%20Eighty-Four%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=31CcclqEiZw",
         "quiz": [
           {
-            "q": "Dystopian and utopian fiction imagine ___ societies.",
+            "q": "Nineteen Eighty-Four imagines a dystopia primarily built on ___.",
             "options": [
-              "Entirely identical to the author’s own contemporary society, with no imaginative change",
-              "A concept unrelated to speculative or imaginative fiction",
-              "Radically different",
-              "Societies with no connection to any real-world concerns"
+              "A concept unrelated to Orwell's novel",
+              "Government surveillance, propaganda, and control of information",
+              "Unlimited personal freedom with no government presence",
+              "A society with no leadership of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Brave New World imagines a dystopia primarily built on ___.",
+            "options": [
+              "A concept unrelated to Huxley's novel",
+              "Open rebellion against a corrupt government",
+              "Engineered pleasure, consumerism, and distraction rather than fear",
+              "The complete absence of technology"
             ],
             "answer": 2
           },
           {
-            "q": "Reading dystopian and utopian fiction together reveals how authors use imagined worlds to critique or ___ aspects of their own historical moment.",
+            "q": "Why do critics often argue Nineteen Eighty-Four feels newly relevant in the era of state surveillance and 'fake news'?",
             "options": [
-              "A concept unrelated to how these genres function",
-              "Erase entirely, with no reflection of any real-world concerns",
-              "Completely ignore, with no connection to their own historical moment",
-              "Idealize"
+              "The novel has no connection to contemporary concerns about surveillance or misinformation",
+              "Orwell's imagined control of information and truth echoes real debates about propaganda and surveillance today",
+              "This concept has no relevance to how the novel is read today",
+              "Nineteen Eighty-Four is set entirely in the past with no future-facing themes"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which is a common feature of dystopian fiction?",
+            "q": "Why do critics often argue Brave New World feels newly relevant in an era of consumerism and engineered distraction?",
             "options": [
-              "A story set entirely in the past, with no imagined future elements",
-              "A society with no flaws, conflicts, or forms of control whatsoever",
-              "A society governed by oppressive control, often disguised as order or perfection",
-              "A concept unrelated to dystopian fiction"
+              "Huxley's vision of comfort, entertainment, and consumerism as tools of control echoes concerns about modern media and technology",
+              "The novel has no connection to modern consumer culture",
+              "This concept has no relevance to how the novel is read today",
+              "Brave New World predicted no aspect of technological or social change"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might a dystopian novel and a utopian novel be understood as two sides of a similar imaginative project?",
+            "q": "Comparing these two dystopias helps readers understand that ___.",
             "options": [
-              "These two genres never engage with any of the same underlying societal concerns",
-              "This concept has no connection to how speculative fiction functions",
-              "Both genres extrapolate present-day values and anxieties to imagine how a society might evolve, whether toward collapse or improvement",
-              "Dystopian and utopian fiction have no meaningful relationship to one another"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might comparing dystopian and utopian visions from different historical periods reveal something about changing societal concerns?",
-            "options": [
-              "These genres never reflect the specific societal concerns of the time period in which they were written",
-              "The specific anxieties or hopes reflected in these imagined worlds often mirror the pressing issues of the era in which they were written",
-              "This concept has no relevance to understanding literature within its historical context",
-              "Dystopian and utopian fiction are unrelated to the broader historical moment of their creation"
+              "Only one vision of dystopia has ever been considered valid",
+              "Control over a society can take very different forms — through fear and force, or through comfort and distraction",
+              "Dystopian fiction has no relevance to understanding real societies",
+              "Brave New World and Nineteen Eighty-Four describe identical societies"
             ],
             "answer": 1
           }
@@ -14455,6 +14456,7 @@
         "summary": "Grade 12 Physics strand: the uncertainty principle states that certain pairs of properties, such as a particle’s position and momentum, cannot both be known with arbitrary precision at the same time, a fundamental limit rather than a measurement flaw.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=TQKELOE9eY4",
         "quiz": [
           {
             "q": "The uncertainty principle states that certain pairs of properties cannot both be known with ___ at the same time.",
