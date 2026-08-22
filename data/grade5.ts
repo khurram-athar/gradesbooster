@@ -1019,7 +1019,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of parts of speech, sentence types, context clues, and cause/effect.",
         "resourceLabel": "YouTube: Review: Grammar and Comprehension",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Grammar%20and%20Comprehension%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RFZQMaGupaU",
+        "videoUrl": "https://www.youtube.com/watch?v=7zRih61HCZs",
+        "videoUrls": [
+          {"label": "Parts of Speech", "url": "https://www.youtube.com/watch?v=7zRih61HCZs"},
+          {"label": "Sentence Types", "url": "https://www.youtube.com/watch?v=SlU6oo-oHxw"},
+          {"label": "Context Clues", "url": "https://www.youtube.com/watch?v=eHCpJ86XDY4"}
+        ],
         "quiz": [
           {
             "q": "In 'The exhausted but determined runner pushed through the final kilometre,' which word is an adjective describing 'runner'?",
@@ -1079,7 +1084,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of multiplication, division, and fraction operations.",
         "resourceLabel": "YouTube: Review: Multiplication, Division, and Fractions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Multiplication%2C%20Division%2C%20and%20Fractions%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=7EWPkw_R-MA",
+        "videoUrl": "https://www.youtube.com/watch?v=0MqP7aeTszM",
+        "videoUrls": [
+          {"label": "Multiplication", "url": "https://www.youtube.com/watch?v=0MqP7aeTszM"},
+          {"label": "Long Division", "url": "https://www.youtube.com/watch?v=6Ij98BwDcOg"},
+          {"label": "Equivalent Fractions", "url": "https://www.youtube.com/watch?v=hnIxLf8KLUY"}
+        ],
         "quiz": [
           {
             "q": "A baker makes 6 batches of 9 muffins each, then sells 14. How many muffins remain?",
@@ -1139,7 +1149,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of forces on structures, properties of matter, and conservation of energy.",
         "resourceLabel": "YouTube: Review: Structures, Matter, and Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Structures%2C%20Matter%2C%20and%20Energy%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=YSFR7ByqTps",
+        "videoUrl": "https://www.youtube.com/watch?v=MyFRTBisBLA",
+        "videoUrls": [
+          {"label": "Forces Acting on Structures", "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"},
+          {"label": "Properties of Matter", "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"},
+          {"label": "Energy Transformations", "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"}
+        ],
         "quiz": [
           {
             "q": "Why might engineers choose triangular supports over square ones in a bridge design?",
@@ -1199,7 +1214,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of early encounters, Indigenous peoples, government levels, and physical regions.",
         "resourceLabel": "YouTube: Review: Early Canada and Government",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Government%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ped-vegY6WA",
+        "videoUrl": "https://www.youtube.com/watch?v=Bzzu1DDFtxI",
+        "videoUrls": [
+          {"label": "Early Encounters and New France", "url": "https://www.youtube.com/watch?v=Bzzu1DDFtxI"},
+          {"label": "First Nations, Métis, and Inuit Peoples", "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"},
+          {"label": "Government in Canada", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"}
+        ],
         "quiz": [
           {
             "q": "Why is it inaccurate to describe all Indigenous peoples in Canada as a single group?",
@@ -2145,6 +2165,10 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Human Body and Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Human%20Body%20and%20Energy%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=0JDCViWGn-0",
+        "videoUrls": [
+          {"label": "Human Body Systems", "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"},
+          {"label": "Energy Transformations", "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"}
+        ],
         "quiz": [
           {
             "q": "Which correctly pairs a body system with a related everyday activity?",
@@ -2272,7 +2296,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of parts of speech, fact/opinion, figurative language, and paragraph structure.",
         "resourceLabel": "YouTube: Final Review: Language Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RFZQMaGupaU",
+        "videoUrl": "https://www.youtube.com/watch?v=MCr_osJSy9w",
+        "videoUrls": [
+          {"label": "Fact vs. Opinion", "url": "https://www.youtube.com/watch?v=MCr_osJSy9w"},
+          {"label": "Figurative Language", "url": "https://www.youtube.com/watch?v=YlfzDvrhzuU"},
+          {"label": "Paragraph Structure", "url": "https://www.youtube.com/watch?v=kw9GOUqSc5M"}
+        ],
         "quiz": [
           {
             "q": "'The stars winked at us from the velvet sky' uses which figurative technique?",
@@ -2332,7 +2361,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of fractions, decimals, area/perimeter, and volume.",
         "resourceLabel": "YouTube: Final Review: Math Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=2UEUWC313QY",
+        "videoUrl": "https://www.youtube.com/watch?v=KG6ILNOiMgM",
+        "videoUrls": [
+          {"label": "Decimal Place Value", "url": "https://www.youtube.com/watch?v=KG6ILNOiMgM"},
+          {"label": "Area and Perimeter", "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"},
+          {"label": "Volume", "url": "https://www.youtube.com/watch?v=NohkEnzkaN0"}
+        ],
         "quiz": [
           {
             "q": "A rectangle has an area of 30 cm² and a width of 5 cm. What is its length?",
@@ -2392,7 +2426,12 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of structures, matter, energy, and the human body.",
         "resourceLabel": "YouTube: Final Review: Science Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=DyKU6TmN4CE",
+        "videoUrl": "https://www.youtube.com/watch?v=MyFRTBisBLA",
+        "videoUrls": [
+          {"label": "Forces Acting on Structures", "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"},
+          {"label": "Properties of Matter", "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"},
+          {"label": "Human Body Systems", "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"}
+        ],
         "quiz": [
           {
             "q": "Which scenario involves compression?",
@@ -2453,6 +2492,11 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Social Studies Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=WDbjZm3RD3E",
+        "videoUrls": [
+          {"label": "First Nations, Métis, and Inuit Peoples", "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"},
+          {"label": "Government in Canada", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"},
+          {"label": "Canada's Physical Regions", "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"}
+        ],
         "quiz": [
           {
             "q": "Which three groups make up Indigenous peoples in Canada, and how do they differ?",
