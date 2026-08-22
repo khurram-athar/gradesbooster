@@ -631,7 +631,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Science strand: matter has measurable properties like mass, volume, density, and the ability to dissolve.",
         "resourceLabel": "YouTube: Properties of Matter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Matter%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=MrTxRn9MNWM",
+        "videoUrl": "https://www.youtube.com/watch?v=t8a2Ys8a6r4",
         "quiz": [
           {
             "q": "Two objects have the same volume, but Object A is heavier than Object B. What can you conclude?",
@@ -881,6 +881,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Conservation of Energy and Resources",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20and%20Resources%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=YSFR7ByqTps",
+        "videoUrls": [
+          {
+            "label": "Energy Transformations",
+            "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"
+          },
+          {
+            "label": "Renewable and Non-Renewable Resources",
+            "url": "https://www.youtube.com/watch?v=H1Vm0W-IP8U"
+          }
+        ],
         "quiz": [
           {
             "q": "A dam converts flowing water's energy into electricity. What does conservation of energy say happens to the total energy?",
@@ -1685,7 +1695,7 @@ const curriculum: DayContent[] = [
         "summary": "Different regions of Canada have different natural resources (like forests, minerals, fish, and farmland) that shape how people live and work there.",
         "resourceLabel": "YouTube: Natural Resources Across Canada's Regions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Natural%20Resources%20Across%20Canada%27s%20Regions%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
+        "videoUrl": "https://www.youtube.com/watch?v=7P6bCpzP0UE",
         "quiz": [
           {
             "q": "A community built around a large fishing industry is most likely located in which type of region?",
@@ -1814,6 +1824,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Area and Perimeter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=AAY1bsazcgM",
+        "videoUrls": [
+          {
+            "label": "Perimeter",
+            "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"
+          },
+          {
+            "label": "Area",
+            "url": "https://www.youtube.com/watch?v=xCdxURXMdFY"
+          }
+        ],
         "quiz": [
           {
             "q": "A rectangular garden has a perimeter of 24 m. If its width is 4 m, what is its length?",

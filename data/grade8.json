@@ -1753,7 +1753,7 @@
         "summary": "Students plan and deliver a formal presentation. They apply skills in organisation, eye contact, voice projection, pacing, and responding to questions.",
         "resourceLabel": "YouTube: Oral Communication: Formal Presentation Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Formal%20Presentation%20Skills%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=9cHOAxj7LQE",
+        "videoUrl": "https://www.youtube.com/watch?v=1sOgYNgq88E",
         "quiz": [
           {
             "q": "Effective formal presentations include ___.",
@@ -1936,7 +1936,7 @@
         "summary": "Students examine waves of immigration to Canada, the experiences of newcomers, discriminatory policies, and cultural changes in the late 19th and early 20th century.",
         "resourceLabel": "YouTube: Immigration and Social Change 1867–1914",
         "resourceUrl": "https://www.youtube.com/results?search_query=Immigration%20and%20Social%20Change%201867%E2%80%931914%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=IBUBzIcj4g8",
+        "videoUrl": "https://www.youtube.com/watch?v=5GIsfYDWR7U",
         "quiz": [
           {
             "q": "The Canadian government encouraged immigration in the late 1800s primarily to ___.",
@@ -2185,7 +2185,7 @@
         "summary": "Students examine Canada's military contributions, the home front, the conscription crisis, and how WWI changed Canada's international standing.",
         "resourceLabel": "YouTube: World War I: Canada's Experience",
         "resourceUrl": "https://www.youtube.com/results?search_query=World%20War%20I%3A%20Canada%27s%20Experience%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=-GsolnXOiBg",
+        "videoUrl": "https://www.youtube.com/watch?v=b-sTWJkmqpM",
         "quiz": [
           {
             "q": "Canada's most celebrated military achievement of WWI was ___.",
@@ -3250,7 +3250,7 @@
         "summary": "Students plan and write a script for a short informational podcast episode. They learn to write for the ear — using conversational language, clear structure, and engaging hooks.",
         "resourceLabel": "YouTube: Media Creation: Podcast Script",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Creation%3A%20Podcast%20Script%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Vznd5vRz9_A",
+        "videoUrl": "https://www.youtube.com/watch?v=CgQ-BlpvyoA",
         "quiz": [
           {
             "q": "Writing for a podcast differs from writing an essay because ___.",
@@ -3371,7 +3371,21 @@
         "summary": "Students connect the four Grade 8 science strands (cells, fluids, mechanical systems, optics) and see their real-world and technological applications.",
         "resourceLabel": "YouTube: Review: Science Connections Grade 8",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20Grade%208%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Xq1spZxsbI4",
+        "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8",
+        "videoUrls": [
+          {
+            "label": "Cells: Structure and Function",
+            "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+          },
+          {
+            "label": "Fluids: Properties and Pressure",
+            "url": "https://www.youtube.com/watch?v=TpHv-sGE_Dk"
+          },
+          {
+            "label": "Mechanical Systems in Action",
+            "url": "https://www.youtube.com/watch?v=JnYVz1TSmBQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Which science strand best explains how vaccines work?",
@@ -4494,6 +4508,16 @@
         "resourceLabel": "YouTube: Grammar Review: Clauses, Phrases, and Usage",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%20Review%3A%20Clauses%2C%20Phrases%2C%20and%20Usage%20grade%208%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=-a80_xFsh9w",
+        "videoUrls": [
+          {
+            "label": "Phrases vs. Clauses",
+            "url": "https://www.youtube.com/watch?v=-a80_xFsh9w"
+          },
+          {
+            "label": "Dangling and Misplaced Modifiers (Usage)",
+            "url": "https://www.youtube.com/watch?v=SjunMcrXgE0"
+          }
+        ],
         "quiz": [
           {
             "q": "A phrase is ___.",
@@ -4674,7 +4698,7 @@
         "summary": "Students examine how globalisation affects Canada — trade, immigration, cultural exchange, and environmental interdependence.",
         "resourceLabel": "YouTube: Canada and Globalisation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20Globalisation%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=JJ0nFD19eT8",
+        "videoUrl": "https://www.youtube.com/watch?v=aBH3QjGLBhw",
         "quiz": [
           {
             "q": "Globalisation refers to ___.",
@@ -6222,11 +6246,11 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Language Arts: Consolidation and Celebration",
-        "summary": "Students reflect on their growth as readers, writers, and communicators in Grade 8. They celebrate achievements and set goals for high school.",
-        "resourceLabel": "YouTube: Language Arts: Consolidation and Celebration",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Arts%3A%20Consolidation%20and%20Celebration%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=fyWoESIUUyE",
+        "title": "Reflective Writing: Looking Back on Your Growth as a Reader and Writer",
+        "summary": "Students learn the structure of a reflective essay and use it to reflect on their growth as readers, writers, and communicators in Grade 8, celebrating achievements and setting goals for high school.",
+        "resourceLabel": "YouTube: Reflective Writing: Looking Back on Your Growth as a Reader and Writer",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20to%20Write%20a%20Reflective%20Essay%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AeQpEGDry2M",
         "quiz": [
           {
             "q": "Growth as a writer means ___.",
@@ -6286,7 +6310,21 @@
         "summary": "Students review all major Grade 8 math strands.",
         "resourceLabel": "YouTube: Grade 8 Math: Comprehensive Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Comprehensive%20Review%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mza6QYH3oEw",
+        "videoUrl": "https://www.youtube.com/watch?v=bXkewQ7WEdI",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Powers and Scientific Notation",
+            "url": "https://www.youtube.com/watch?v=bXkewQ7WEdI"
+          },
+          {
+            "label": "Linear Equations: Solving Multi-Step",
+            "url": "https://www.youtube.com/watch?v=XCWkBAUiBxM"
+          },
+          {
+            "label": "Geometry: Pythagorean Theorem",
+            "url": "https://www.youtube.com/watch?v=nCD-bAEbB3I"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve: 5(x − 2) = 3x + 6",
