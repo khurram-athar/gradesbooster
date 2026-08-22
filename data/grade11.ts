@@ -14577,6 +14577,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a function’s symmetry can be classified as even (symmetric about the y-axis), odd (symmetric about the origin), or neither, based on how the function behaves when its input is replaced with its negative.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=vD9CrRudJEE",
         "quiz": [
           {
             "q": "A function is classified as even if its graph is symmetric about the ___.",
@@ -14637,6 +14638,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: Charles Darwin and Alfred Russel Wallace independently developed the theory of evolution by natural selection, drawing on observations from their travels, and their combined work fundamentally reshaped the scientific understanding of how species change over time.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=8X5aDyGUKjE",
         "quiz": [
           {
             "q": "Charles Darwin and Alfred Russel Wallace independently developed the theory of ___.",
@@ -14697,6 +14699,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: water hardness is caused by dissolved calcium and magnesium ions, and understanding water chemistry, including methods like ion exchange softening, is important for both household and industrial applications.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=ebygQes5Wig",
         "quiz": [
           {
             "q": "Water hardness is primarily caused by dissolved ___ ions.",

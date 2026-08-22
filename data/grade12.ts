@@ -14524,6 +14524,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: skilled use of the semicolon and colon shapes the rhythm and emphasis of a sentence, allowing a writer to connect closely related ideas or build toward a climactic point with precision.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=V5ksKf2NDdA",
         "quiz": [
           {
             "q": "Skilled use of the semicolon and colon shapes the rhythm and ___ of a sentence.",
@@ -14584,6 +14585,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a graph in discrete mathematics is a structure made up of vertices connected by edges, used to model relationships or connections between objects in networks, maps, and scheduling problems.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=5u2ipk6GiQc",
         "quiz": [
           {
             "q": "A graph in discrete mathematics is a structure made up of vertices connected by ___.",
@@ -14644,6 +14646,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: finding the area enclosed by a polar curve involves integrating a formula based on the square of the radius function over a given angular interval, rather than using standard Cartesian area methods.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ZR_Se1XjqI8",
         "quiz": [
           {
             "q": "Finding the area enclosed by a polar curve involves integrating a formula based on the square of the ___ function.",
@@ -14704,6 +14707,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: cosmic rays are high-energy particles originating from outer space that collide with molecules in Earth’s atmosphere, producing cascades of secondary particles that can be detected and studied from the ground.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=Z2vI52k49sE",
         "quiz": [
           {
             "q": "Cosmic rays are high-energy particles originating from ___.",

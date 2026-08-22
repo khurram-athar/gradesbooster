@@ -14578,6 +14578,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Functions strand (extension): the average rate of change measures how a quantity changes over an interval, while the instantaneous rate of change estimates how a quantity is changing at a single specific point.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hSK7f4durxI",
         "quiz": [
           {
             "q": "The average rate of change measures how a quantity changes ___.",
@@ -14638,6 +14639,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Biology strand: community ecology examines how different species interact within a shared environment, including symbiotic relationships such as mutualism, commensalism, and parasitism, and how these interactions shape overall ecosystem structure.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=yGYnwMSflBU",
         "quiz": [
           {
             "q": "Community ecology examines how different species ___.",

@@ -14551,6 +14551,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra strand: an absolute value represents a number’s distance from zero, so solving an absolute value equation or inequality typically requires considering both a positive and a negative case.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=3LN0IDooaIE",
         "quiz": [
           {
             "q": "Absolute value represents a number’s ___.",
@@ -14611,6 +14612,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: ecological succession is the gradual process by which an ecosystem’s species composition changes over time, often beginning with pioneer species and progressing toward a more stable community.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=uqEUzgVAF6g",
         "quiz": [
           {
             "q": "Ecological succession describes the gradual process by which ___.",

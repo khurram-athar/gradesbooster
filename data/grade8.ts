@@ -14561,6 +14561,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand (pre-high-school extension): transformations of a quadratic function, such as y = a(x - h)² + k, shift, stretch, or reflect its graph compared to the parent function y = x².",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=7PQcVnLa5pA",
         "quiz": [
           {
             "q": "In the equation y = a(x - h)² + k, the value of h shifts the graph ___.",
@@ -14621,6 +14622,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: energy can be transformed from one form to another, such as chemical energy into kinetic energy, and the law of conservation of energy states that energy is never created or destroyed, only converted.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=T9RL-GSr2Ns",
         "quiz": [
           {
             "q": "The law of conservation of energy states that energy ___.",
@@ -14681,6 +14683,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Canadian Multiculturalism Act of 1988 formally recognized and promoted multiculturalism as a defining feature of Canadian identity, affirming the value of cultural diversity within a unified nation.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE",
         "quiz": [
           {
             "q": "The Canadian Multiculturalism Act was passed in ___.",
