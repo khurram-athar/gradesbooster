@@ -17202,6 +17202,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the names of the seven days of the week in order, and practise identifying today, yesterday, and tomorrow on a simple calendar.",
         "resourceLabel": "YouTube: Calendar Basics: Days of the Week",
         "resourceUrl": "https://www.youtube.com/results?search_query=Calendar%20Basics%3A%20Days%20of%20the%20Week%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XKnRahzQiKc",
         "quiz": [
           {
             "q": "What day comes right after Monday?",
@@ -17284,6 +17285,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that birds have special features, such as wings and feathers, that help them fly, and compare birds to other animals that cannot fly.",
         "resourceLabel": "YouTube: Floating in Air: How Birds Fly",
         "resourceUrl": "https://www.youtube.com/results?search_query=Floating%20in%20Air%3A%20How%20Birds%20Fly%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lgGxLo2Fkno",
         "quiz": [
           {
             "q": "What body part helps a bird fly?",
@@ -17363,6 +17365,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare different types of homes people live in, such as houses, apartments, and townhouses, and learn that families live in many different kinds of homes.",
         "resourceLabel": "YouTube: Comparing Homes: Apartments and Houses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Homes%3A%20Apartments%20and%20Houses%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=h6sKbXkQe4s",
         "quiz": [
           {
             "q": "Which of these is a type of home?",

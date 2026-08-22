@@ -17160,6 +17160,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise sorting words into categories, groups that share something in common, such as sorting animal words separately from food words.",
         "resourceLabel": "YouTube: Sorting Words into Categories",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20Words%20into%20Categories%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8zxY2oEhnqA",
         "quiz": [
           {
             "q": "Which word belongs in the category of animals?",
@@ -17245,6 +17246,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to read a digital clock, which shows the hour and minutes using numbers, such as 3:00 for three o clock.",
         "resourceLabel": "YouTube: Digital Time: Reading Digital Clocks",
         "resourceUrl": "https://www.youtube.com/results?search_query=Digital%20Time%3A%20Reading%20Digital%20Clocks%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YmKYDHMMauw",
         "quiz": [
           {
             "q": "On a digital clock, which numbers come first?",
