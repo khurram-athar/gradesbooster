@@ -2562,7 +2562,7 @@ const curriculum: DayContent[] = [
         "summary": "An idiom is a phrase whose meaning is different from the literal meaning of the words, like 'break the ice.'",
         "resourceLabel": "YouTube: Idioms and Expressions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Idioms%20and%20Expressions%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ffl2C1ogD58",
+        "videoUrl": "https://www.youtube.com/watch?v=_s_CH4yXXHQ",
         "quiz": [
           {
             "q": "A character says 'I'm feeling under the weather today.' What does this idiom most likely mean?",
@@ -2684,7 +2684,7 @@ const curriculum: DayContent[] = [
         "summary": "Simple machines (like levers, pulleys, and ramps) make work easier; complex machines combine two or more simple machines.",
         "resourceLabel": "YouTube: Simple and Complex Machines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LSfNYpCprw4",
+        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "quiz": [
           {
             "q": "Which combination of simple machines works together in a pair of scissors?",
@@ -2744,7 +2744,7 @@ const curriculum: DayContent[] = [
         "summary": "The fur trade was central to the economy of New France, connecting French settlers and First Nations through trade networks and alliances.",
         "resourceLabel": "YouTube: The Fur Trade and the Economy of New France",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fur%20Trade%20and%20the%20Economy%20of%20New%20France%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=iaAx6V7NMCw",
+        "videoUrl": "https://www.youtube.com/watch?v=PPEkKOoSXC0",
         "quiz": [
           {
             "q": "Why were beaver pelts especially valuable to European traders?",
@@ -3559,8 +3559,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of idioms, multiple-meaning words, author's purpose, and summarizing.",
         "resourceLabel": "YouTube: Review: Idioms, Word Meanings, and Purpose",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Idioms%2C%20Word%20Meanings%2C%20and%20Purpose%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ffl2C1ogD58",
-        "videoUrls": [{"label":"Idioms","url":"https://www.youtube.com/watch?v=ffl2C1ogD58"},{"label":"Multiple-Meaning Words","url":"https://www.youtube.com/watch?v=LoOzJRXrCMU"},{"label":"Author's Purpose","url":"https://www.youtube.com/watch?v=Sr9MU0xuW5M"}],
+        "videoUrl": "https://www.youtube.com/watch?v=_s_CH4yXXHQ",
+        "videoUrls": [{"label":"Idioms","url":"https://www.youtube.com/watch?v=_s_CH4yXXHQ"},{"label":"Multiple-Meaning Words","url":"https://www.youtube.com/watch?v=LoOzJRXrCMU"},{"label":"Author's Purpose","url":"https://www.youtube.com/watch?v=Sr9MU0xuW5M"}],
         "quiz": [
           {
             "q": "A story describes a character 'burning the midnight oil' before a big test. What does this reveal about the character?",
@@ -3681,8 +3681,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of simple machines, the water cycle, and classifying living things.",
         "resourceLabel": "YouTube: Review: Machines, Water Cycle, and Classification",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Machines%2C%20Water%20Cycle%2C%20and%20Classification%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LSfNYpCprw4",
-        "videoUrls": [{"label":"Simple and Complex Machines","url":"https://www.youtube.com/watch?v=LSfNYpCprw4"},{"label":"The Water Cycle","url":"https://www.youtube.com/watch?v=DoZDDN0fwlM"},{"label":"Classification of Living Things","url":"https://www.youtube.com/watch?v=SIbFuiCfkr8"}],
+        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
+        "videoUrls": [{"label":"Simple and Complex Machines","url":"https://www.youtube.com/watch?v=8GHRZabpsQE"},{"label":"The Water Cycle","url":"https://www.youtube.com/watch?v=DoZDDN0fwlM"},{"label":"Classification of Living Things","url":"https://www.youtube.com/watch?v=SIbFuiCfkr8"}],
         "quiz": [
           {
             "q": "A see-saw at a playground is an example of which simple machine, and what does it do?",
@@ -3742,8 +3742,8 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of the fur trade economy, the Underground Railroad, immigration, and multiculturalism.",
         "resourceLabel": "YouTube: Review: Fur Trade, Underground Railroad, and Immigration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Fur%20Trade%2C%20Underground%20Railroad%2C%20and%20Immigration%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=iaAx6V7NMCw",
-        "videoUrls": [{"label":"The Fur Trade","url":"https://www.youtube.com/watch?v=iaAx6V7NMCw"},{"label":"The Underground Railroad and Canada","url":"https://www.youtube.com/watch?v=5zmOwgqkcec"},{"label":"Immigration Patterns to Canada","url":"https://www.youtube.com/watch?v=cX02bJ1pyw4"}],
+        "videoUrl": "https://www.youtube.com/watch?v=PPEkKOoSXC0",
+        "videoUrls": [{"label":"The Fur Trade","url":"https://www.youtube.com/watch?v=PPEkKOoSXC0"},{"label":"The Underground Railroad and Canada","url":"https://www.youtube.com/watch?v=5zmOwgqkcec"},{"label":"Immigration Patterns to Canada","url":"https://www.youtube.com/watch?v=cX02bJ1pyw4"}],
         "quiz": [
           {
             "q": "Why were beaver pelts the most valuable resource in the fur trade, rather than something like corn?",

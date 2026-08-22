@@ -2373,7 +2373,8 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Electricity strand: electrical safety involves understanding hazards like overloaded circuits and water near outlets. Conserving electricity reduces energy use, costs, and environmental impact.",
         "resourceLabel": "YouTube: Electrical Safety and Energy Conservation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electrical%20Safety%20and%20Energy%20Conservation%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Dx3RpXdJw2k",
+        "videoUrl": "https://www.youtube.com/watch?v=Pr9YntO7V1U",
+        "videoUrls": [{"label":"Electrical Safety","url":"https://www.youtube.com/watch?v=Pr9YntO7V1U"},{"label":"Energy Conservation","url":"https://www.youtube.com/watch?v=covYNhyNGyo"}],
         "quiz": [
           {
             "q": "Why should you never use electrical appliances near water?",
@@ -3619,7 +3620,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Mechanical Advantage strand: compound machines combine two or more simple machines. Gears, pulleys, and levers work together in mechanical systems to transfer and multiply forces efficiently.",
         "resourceLabel": "YouTube: Compound Machines and Mechanical Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Machines%20and%20Mechanical%20Systems%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LSfNYpCprw4",
+        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "quiz": [
           {
             "q": "A compound machine is:",
@@ -5861,7 +5862,7 @@ const curriculum: DayContent[] = [
         "summary": "Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
         "resourceLabel": "YouTube: Simple and Complex Machines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LSfNYpCprw4",
+        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "quiz": [
           {
             "q": "A screw is essentially ___.",
