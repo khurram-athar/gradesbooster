@@ -3121,7 +3121,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Space Exploration strand: Canada has made significant contributions to space exploration, including the Canadarm robotic arm, the RADARSAT satellite, and Canadian astronauts aboard the International Space Station.",
         "resourceLabel": "YouTube: Canada's Contributions to Space Exploration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Contributions%20to%20Space%20Exploration%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=3JuKR7jf46o",
+        "videoUrl": "https://www.youtube.com/watch?v=-xORnDksHW4",
         "quiz": [
           {
             "q": "The Canadarm is a Canadian-designed robotic arm that was used on:",
@@ -5115,7 +5115,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how light behaves with mirrors. They learn the law of reflection (angle of incidence = angle of reflection) and how concave/convex mirrors form images.",
         "resourceLabel": "YouTube: Optics: Light and Mirrors",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optics%3A%20Light%20and%20Mirrors%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=jtTBOMVMSYM",
+        "videoUrl": "https://www.youtube.com/watch?v=wTMh3xmovEs",
         "quiz": [
           {
             "q": "The law of reflection states that ___.",
@@ -5740,7 +5740,7 @@ const curriculum: DayContent[] = [
         "summary": "Students write a personal memoir — a piece of narrative non-fiction drawn from their own life experiences. They use vivid detail, reflection, and a clear focus.",
         "resourceLabel": "YouTube: Writing: Memoir",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Memoir%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=3gBbTamB9aM",
+        "videoUrl": "https://www.youtube.com/watch?v=CCYx4qp2LTU",
         "quiz": [
           {
             "q": "A memoir is ___.",
