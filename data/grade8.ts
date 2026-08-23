@@ -693,7 +693,7 @@ const curriculum: DayContent[] = [
         "summary": "Students examine why the American Revolution occurred, who the Loyalists were, and how their migration to Canada shaped British North America.",
         "resourceLabel": "YouTube: Loyalists and the American Revolution",
         "resourceUrl": "https://www.youtube.com/results?search_query=Loyalists%20and%20the%20American%20Revolution%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=gzALIXcY4pg",
+        "videoUrl": "https://www.youtube.com/watch?v=Mgdvfq0FsJk",
         "quiz": [
           {
             "q": "Loyalists were ___.",
@@ -5016,7 +5016,7 @@ const curriculum: DayContent[] = [
         "summary": "Students write a formal self-assessment of their learning and growth throughout the year, applying metacognitive skills to evaluate strengths and areas for continued development.",
         "resourceLabel": "YouTube: Writing: Reflection and Self-Assessment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Reflection%20and%20Self-Assessment%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=IRmEkry7alY",
+        "videoUrl": "https://www.youtube.com/watch?v=zdvoo2g8CXA",
         "quiz": [
           {
             "q": "Metacognition means ___.",
@@ -5076,7 +5076,21 @@ const curriculum: DayContent[] = [
         "summary": "Students consolidate Grade 8 algebra and geometry — equations, polynomials, graphing, systems, and geometric formulas.",
         "resourceLabel": "YouTube: Review: Algebra and Analytic Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Analytic%20Geometry%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Pd4hwS8qHms",
+        "videoUrl": "https://www.youtube.com/watch?v=ffLLmV4mZwU",
+        "videoUrls": [
+          {
+            "label": "Algebra: Polynomials Introduction",
+            "url": "https://www.youtube.com/watch?v=ffLLmV4mZwU"
+          },
+          {
+            "label": "Algebra: Factoring",
+            "url": "https://www.youtube.com/watch?v=jO8pANH1pEA"
+          },
+          {
+            "label": "Geometry: Angle Relationships",
+            "url": "https://www.youtube.com/watch?v=wYxWigTefwY"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve: 2(3x − 4) = 16",
@@ -5136,7 +5150,21 @@ const curriculum: DayContent[] = [
         "summary": "Students connect all four Grade 8 science strands and reflect on how scientific knowledge evolves and intersects with ethical and social questions.",
         "resourceLabel": "YouTube: Review: Science Synthesis Grade 8",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Science%20Synthesis%20Grade%208%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=qQBZbinoOrI",
+        "videoUrl": "https://www.youtube.com/watch?v=_jBpv9fYSU4",
+        "videoUrls": [
+          {
+            "label": "Cells: The Immune System",
+            "url": "https://www.youtube.com/watch?v=_jBpv9fYSU4"
+          },
+          {
+            "label": "Mechanical Systems: Efficiency and Energy",
+            "url": "https://www.youtube.com/watch?v=qTaaErZJJHI"
+          },
+          {
+            "label": "Cells: Organ Systems in Detail",
+            "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"
+          }
+        ],
         "quiz": [
           {
             "q": "Which strand explains how a vaccine trains your immune system?",
@@ -5322,7 +5350,17 @@ const curriculum: DayContent[] = [
         "summary": "Students consolidate measurement (surface area, volume of 3D solids) and data management (scatter plots, probability) from Grade 8.",
         "resourceLabel": "YouTube: Review: Measurement and Data",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Measurement%20and%20Data%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=hcgThf5mv38",
+        "videoUrl": "https://www.youtube.com/watch?v=eBAq_caikJ4",
+        "videoUrls": [
+          {
+            "label": "Measurement: Surface Area and Volume",
+            "url": "https://www.youtube.com/watch?v=eBAq_caikJ4"
+          },
+          {
+            "label": "Data Management: Scatter Plots and Correlations",
+            "url": "https://www.youtube.com/watch?v=AxY7nTkgR6M"
+          }
+        ],
         "quiz": [
           {
             "q": "A cone has radius 4 cm and height 9 cm. Volume = ? (π ≈ 3.14)",
