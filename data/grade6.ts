@@ -2185,7 +2185,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Social Studies — Medieval Societies: the Catholic Church was the dominant institution in medieval Europe, shaping education, art, politics, and daily life. Monasteries preserved knowledge during this period.",
         "resourceLabel": "YouTube: The Role of the Church in Medieval Society",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Church%20in%20Medieval%20Society%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=yHughcfloZM",
+        "videoUrl": "https://www.youtube.com/watch?v=2KwBFRfzNnE",
         "quiz": [
           {
             "q": "Medieval monasteries were important because they:",
@@ -2435,7 +2435,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Social Studies — Medieval Societies: as trade expanded along routes like the Silk Road and Mediterranean sea lanes, medieval towns grew into busy centres of commerce. Guilds controlled craft production and trade.",
         "resourceLabel": "YouTube: Medieval Trade and the Growth of Towns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Medieval%20Trade%20and%20the%20Growth%20of%20Towns%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=yq3q7KMlvw0",
+        "videoUrl": "https://www.youtube.com/watch?v=XLqR-GLsasY",
         "quiz": [
           {
             "q": "The Silk Road was:",
@@ -6172,7 +6172,17 @@ const curriculum: DayContent[] = [
         "summary": "Students study Canada's contributions to WWI (Vimy Ridge, Passchendaele), the impact on the home front, conscription crisis, and how the war shaped Canadian identity.",
         "resourceLabel": "YouTube: Canada in World War I",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20in%20World%20War%20I%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=BYmj1HXvU44",
+        "videoUrl": "https://www.youtube.com/watch?v=mJnXQU1QDLg",
+        "videoUrls": [
+          {
+            "label": "Canada's Role in WWI: Vimy Ridge",
+            "url": "https://www.youtube.com/watch?v=mJnXQU1QDLg"
+          },
+          {
+            "label": "Life on the Home Front",
+            "url": "https://www.youtube.com/watch?v=-SZXndAdcbw"
+          }
+        ],
         "quiz": [
           {
             "q": "Canada's most celebrated WWI military achievement is ___.",
@@ -6485,11 +6495,11 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Independent Novel Study",
-        "summary": "Students read a self-selected novel and demonstrate comprehension through journal responses, tracking plot structure, character development, and thematic connections.",
-        "resourceLabel": "YouTube: Reading: Independent Novel Study",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Independent%20Novel%20Study%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=vjCDisQElZA",
+        "title": "Writing a Book Report: Plot, Characters, and Theme",
+        "summary": "Students write a book report on a self-selected novel, demonstrating comprehension by summarizing the plot structure, describing character development, and connecting the story's themes to real life.",
+        "resourceLabel": "YouTube: Writing a Book Report: Plot, Characters, and Theme",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Book%20Report%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oMc6JBVP3Lk",
         "quiz": [
           {
             "q": "A reading journal helps you ___.",
@@ -6672,7 +6682,17 @@ const curriculum: DayContent[] = [
         "summary": "Students examine Canada's political maturation (Statute of Westminster 1931), economic boom and crash (1929), and rise of Social Credit and Co-operative Commonwealth Federation.",
         "resourceLabel": "YouTube: Canada Between the Wars (1919–1939)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20Between%20the%20Wars%20%281919%E2%80%931939%29%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=vrYhLNQMRro",
+        "videoUrl": "https://www.youtube.com/watch?v=kg4yBQjr9Wk",
+        "videoUrls": [
+          {
+            "label": "Canada's Growing Political Autonomy in the 1920s",
+            "url": "https://www.youtube.com/watch?v=kg4yBQjr9Wk"
+          },
+          {
+            "label": "The Great Depression in Canada",
+            "url": "https://www.youtube.com/watch?v=Rhe0xu-82Aw"
+          }
+        ],
         "quiz": [
           {
             "q": "The Statute of Westminster (1931) ___.",
@@ -7109,7 +7129,21 @@ const curriculum: DayContent[] = [
         "summary": "Students connect the science strands studied in Grade 6 — biodiversity, flight, electricity, optics, and Earth systems — and see how they relate to real-world issues and careers.",
         "resourceLabel": "YouTube: Review: Science Connections",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=YGeOwKo6blQ",
+        "videoUrl": "https://www.youtube.com/watch?v=Gg0TXNXgz-w",
+        "videoUrls": [
+          {
+            "label": "Flight: Structures, Wings, and Propellers",
+            "url": "https://www.youtube.com/watch?v=Gg0TXNXgz-w"
+          },
+          {
+            "label": "Electricity and Circuits",
+            "url": "https://www.youtube.com/watch?v=HOFp8bHTN30"
+          },
+          {
+            "label": "Optics: Light and Mirrors",
+            "url": "https://www.youtube.com/watch?v=wTMh3xmovEs"
+          }
+        ],
         "quiz": [
           {
             "q": "Which science strand explains why an eagle can be seen as a keystone species?",
@@ -7169,7 +7203,17 @@ const curriculum: DayContent[] = [
         "summary": "Students explore Canada's post-WWII social changes: the baby boom, immigration, multiculturalism, the welfare state (Medicare, CPP), and the growth of suburbs.",
         "resourceLabel": "YouTube: Canada After WWII: Social and Political Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20After%20WWII%3A%20Social%20and%20Political%20Change%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
+        "videoUrl": "https://www.youtube.com/watch?v=mDbigrTb8bI",
+        "videoUrls": [
+          {
+            "label": "The Birth of Medicare and Canada's Welfare State",
+            "url": "https://www.youtube.com/watch?v=mDbigrTb8bI"
+          },
+          {
+            "label": "The Post-War Baby Boom",
+            "url": "https://www.youtube.com/watch?v=4PhwkuRD-Es"
+          }
+        ],
         "quiz": [
           {
             "q": "The 'baby boom' after WWII referred to ___.",
