@@ -3495,7 +3495,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of theme and conflict, comparing media texts, persuasive speech, and point of view.",
         "resourceLabel": "YouTube: Review: Story Analysis, Media, Speech, and Narrators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Story%20Analysis%2C%20Media%2C%20Speech%2C%20and%20Narrators%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=dI34pqtNRHA",
+        "videoUrl": "https://www.youtube.com/watch?v=ir7I_dbJCqo",
+        "videoUrls": [
+          {
+            "label": "Story Analysis (Theme and Conflict)",
+            "url": "https://www.youtube.com/watch?v=ir7I_dbJCqo"
+          },
+          {
+            "label": "Media Texts",
+            "url": "https://www.youtube.com/watch?v=NefOesTl1iQ"
+          },
+          {
+            "label": "Persuasive Speech Writing",
+            "url": "https://www.youtube.com/watch?v=Q4K0SnRlik0"
+          }
+        ],
         "quiz": [
           {
             "q": "The theme of a story is best described as...",
@@ -3555,7 +3569,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of inequalities on a number line, expanding with the distributive property, GCF factoring, and difference of squares.",
         "resourceLabel": "YouTube: Review: Inequalities, Distributive Property, GCF, and Factoring Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Inequalities%2C%20Distributive%20Property%2C%20GCF%2C%20and%20Factoring%20Patterns%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=v-6MShC82ow",
+        "videoUrl": "https://www.youtube.com/watch?v=DrZJKdXlZ3I",
+        "videoUrls": [
+          {
+            "label": "Inequalities",
+            "url": "https://www.youtube.com/watch?v=DrZJKdXlZ3I"
+          },
+          {
+            "label": "Distributive Property",
+            "url": "https://www.youtube.com/watch?v=v-6MShC82ow"
+          },
+          {
+            "label": "Greatest Common Factor",
+            "url": "https://www.youtube.com/watch?v=pnr5ELAj7Zk"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve: 3x + 1 > 10",
@@ -3615,7 +3643,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of cell organelles, photosynthesis/respiration, periodic trends, and ionic vs covalent bonds.",
         "resourceLabel": "YouTube: Review: Cells, Photosynthesis, Periodic Table, and Bonding",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Photosynthesis%2C%20Periodic%20Table%2C%20and%20Bonding%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=QnQe0xW_JY4",
+        "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8",
+        "videoUrls": [
+          {
+            "label": "Cell Structure and Organelles",
+            "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+          },
+          {
+            "label": "Photosynthesis and Cellular Respiration",
+            "url": "https://www.youtube.com/watch?v=eJ9Zjc-jdys"
+          },
+          {
+            "label": "The Periodic Table",
+            "url": "https://www.youtube.com/watch?v=ds-s59DrvIk"
+          }
+        ],
         "quiz": [
           {
             "q": "The organelle that controls cell activities and contains DNA is the...",
@@ -3675,7 +3717,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of geographic risk, globalization, climate zones and biomes, and global water access.",
         "resourceLabel": "YouTube: Review: Natural Hazards, Globalization, Climate Zones, and Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Natural%20Hazards%2C%20Globalization%2C%20Climate%20Zones%2C%20and%20Water%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=SZ7BbtWg_Tc",
+        "videoUrl": "https://www.youtube.com/watch?v=-FBq5lE1Kz0",
+        "videoUrls": [
+          {
+            "label": "Natural Hazards",
+            "url": "https://www.youtube.com/watch?v=-FBq5lE1Kz0"
+          },
+          {
+            "label": "Globalization",
+            "url": "https://www.youtube.com/watch?v=9MpVjxxpExM"
+          },
+          {
+            "label": "Climate Zones",
+            "url": "https://www.youtube.com/watch?v=SZ7BbtWg_Tc"
+          }
+        ],
         "quiz": [
           {
             "q": "Earthquakes most commonly occur along...",
@@ -4739,7 +4795,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of context clues, formal report structure, multimodal text analysis, and pronoun-antecedent agreement.",
         "resourceLabel": "YouTube: Review: Vocabulary, Formal Reports, Visual Texts, and Pronouns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Vocabulary%2C%20Formal%20Reports%2C%20Visual%20Texts%2C%20and%20Pronouns%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=1hmJZh74qFw",
+        "videoUrl": "https://www.youtube.com/watch?v=CiNggzdWkIo",
+        "videoUrls": [
+          {
+            "label": "Vocabulary and Context Clues",
+            "url": "https://www.youtube.com/watch?v=CiNggzdWkIo"
+          },
+          {
+            "label": "Formal Report Writing",
+            "url": "https://www.youtube.com/watch?v=T3CZe5Rj_bI"
+          },
+          {
+            "label": "Visual and Multimodal Texts",
+            "url": "https://www.youtube.com/watch?v=se3G8LV40gg"
+          }
+        ],
         "quiz": [
           {
             "q": "A contrast context clue reveals meaning through...",
@@ -4799,7 +4869,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of right-triangle calculations, similarity, SOH-CAH-TOA, and composite area/volume.",
         "resourceLabel": "YouTube: Review: Pythagorean Theorem, Similar Triangles, Trig Ratios, and Composite Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Pythagorean%20Theorem%2C%20Similar%20Triangles%2C%20Trig%20Ratios%2C%20and%20Composite%20Shapes%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=d8EA5TxGzcY",
+        "videoUrl": "https://www.youtube.com/watch?v=nCD-bAEbB3I",
+        "videoUrls": [
+          {
+            "label": "Pythagorean Theorem",
+            "url": "https://www.youtube.com/watch?v=nCD-bAEbB3I"
+          },
+          {
+            "label": "Similar Triangles and Trig Ratios",
+            "url": "https://www.youtube.com/watch?v=YiFwvAFk-xs"
+          },
+          {
+            "label": "Composite Shapes",
+            "url": "https://www.youtube.com/watch?v=rBpsauKXPfs"
+          }
+        ],
         "quiz": [
           {
             "q": "In a right triangle with legs 5 and 12, the hypotenuse is...",
@@ -4859,7 +4943,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of balancing equations, reaction classification, Ohm's Law calculations, and the electromagnetic spectrum.",
         "resourceLabel": "YouTube: Review: Balancing Equations, Reaction Types, Ohm's Law, and EM Spectrum",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Balancing%20Equations%2C%20Reaction%20Types%2C%20Ohm%27s%20Law%2C%20and%20EM%20Spectrum%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=iUARzSxcKzk",
+        "videoUrl": "https://www.youtube.com/watch?v=kY1Qeju6JKI",
+        "videoUrls": [
+          {
+            "label": "Balancing Chemical Equations",
+            "url": "https://www.youtube.com/watch?v=kY1Qeju6JKI"
+          },
+          {
+            "label": "Types of Chemical Reactions",
+            "url": "https://www.youtube.com/watch?v=Lvbm8horG1U"
+          },
+          {
+            "label": "Ohm's Law",
+            "url": "https://www.youtube.com/watch?v=_rSHqvjDksg"
+          }
+        ],
         "quiz": [
           {
             "q": "When balancing chemical equations, you adjust...",
@@ -4919,7 +5017,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of agricultural geography, transportation and trade, global energy, and HDI.",
         "resourceLabel": "YouTube: Review: Food Security, Transport Networks, Energy Resources, and Development Indicators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Food%20Security%2C%20Transport%20Networks%2C%20Energy%20Resources%2C%20and%20Development%20Indicators%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=KzAONF02xnY",
+        "videoUrl": "https://www.youtube.com/watch?v=8c5ZN7BseNA",
+        "videoUrls": [
+          {
+            "label": "Food Security",
+            "url": "https://www.youtube.com/watch?v=8c5ZN7BseNA"
+          },
+          {
+            "label": "Transportation Networks",
+            "url": "https://www.youtube.com/watch?v=Q7xp1-VvtZ0"
+          },
+          {
+            "label": "Energy Resources",
+            "url": "https://www.youtube.com/watch?v=1N4Hs4Tsh0U"
+          }
+        ],
         "quiz": [
           {
             "q": "Food security means people have...",
@@ -5983,7 +6095,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of agreement rules, poetry analysis, satire/parody, and annotation strategies.",
         "resourceLabel": "YouTube: Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Subject-Verb%20Agreement%2C%20Symbolism%2C%20Satire%2C%20and%20Close%20Reading%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=d12vWaSiDaM",
+        "videoUrl": "https://www.youtube.com/watch?v=zfbUzWqsH74",
+        "videoUrls": [
+          {
+            "label": "Subject-Verb Agreement",
+            "url": "https://www.youtube.com/watch?v=zfbUzWqsH74"
+          },
+          {
+            "label": "Symbolism",
+            "url": "https://www.youtube.com/watch?v=o3x-g5qRCYw"
+          },
+          {
+            "label": "Satire and Parody",
+            "url": "https://www.youtube.com/watch?v=udA1MVU59LQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Which sentence is correct?",
@@ -6043,7 +6169,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of direct variation, interest calculations, scatter plot interpretation, and combined probability.",
         "resourceLabel": "YouTube: Review: Rate of Change, Simple/Compound Interest, Scatter Plots, and Probability",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Rate%20of%20Change%2C%20Simple%2FCompound%20Interest%2C%20Scatter%20Plots%2C%20and%20Probability%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=11c9cs6WpJU",
+        "videoUrl": "https://www.youtube.com/watch?v=vh8Bs1iSrag",
+        "videoUrls": [
+          {
+            "label": "Rate of Change",
+            "url": "https://www.youtube.com/watch?v=vh8Bs1iSrag"
+          },
+          {
+            "label": "Simple and Compound Interest",
+            "url": "https://www.youtube.com/watch?v=T2u2vTn4shM"
+          },
+          {
+            "label": "Scatter Plots and Trend Lines",
+            "url": "https://www.youtube.com/watch?v=DmGLQkUm-4g"
+          }
+        ],
         "quiz": [
           {
             "q": "In a direct variation y = kx, the graph passes through...",
@@ -6103,7 +6243,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
         "resourceLabel": "YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=TKM0P3XlMNA",
+        "videoUrl": "https://www.youtube.com/watch?v=2_e0PuPl9js",
+        "videoUrls": [
+          {
+            "label": "Plate Tectonics",
+            "url": "https://www.youtube.com/watch?v=2_e0PuPl9js"
+          },
+          {
+            "label": "The Rock Cycle",
+            "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"
+          },
+          {
+            "label": "Life Cycle of Stars",
+            "url": "https://www.youtube.com/watch?v=BG-ukUB_sQU"
+          }
+        ],
         "quiz": [
           {
             "q": "Continental drift theory proposes that continents were once joined in a supercontinent called...",
@@ -6163,7 +6317,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of language/religion distribution, push/pull migration factors, resource tensions, and GPS/GIS tools.",
         "resourceLabel": "YouTube: Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Cultural%20Geography%2C%20Migration%2C%20Resources%2FTensions%2C%20and%20Geospatial%20Tech%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5Z55k7CqZ0c",
+        "videoUrl": "https://www.youtube.com/watch?v=0ZvYJmzvgLo",
+        "videoUrls": [
+          {
+            "label": "Cultural Geography",
+            "url": "https://www.youtube.com/watch?v=0ZvYJmzvgLo"
+          },
+          {
+            "label": "Migration Patterns",
+            "url": "https://www.youtube.com/watch?v=cV4zCTZV7EM"
+          },
+          {
+            "label": "Geography of Resources and Tensions",
+            "url": "https://www.youtube.com/watch?v=brV0zpaV8qo"
+          }
+        ],
         "quiz": [
           {
             "q": "A lingua franca is a language used as...",
@@ -7225,7 +7393,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of essay structures, audience/purpose, revision strategies, and integrating counter-arguments.",
         "resourceLabel": "YouTube: Final Review: Compare/Contrast, Audience, Revising, and Argument Structure",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Compare%2FContrast%2C%20Audience%2C%20Revising%2C%20and%20Argument%20Structure%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=hvMSeg1s7uc",
+        "videoUrl": "https://www.youtube.com/watch?v=2m0wWi1UCGk",
+        "videoUrls": [
+          {
+            "label": "Compare-and-Contrast Essay Writing",
+            "url": "https://www.youtube.com/watch?v=2m0wWi1UCGk"
+          },
+          {
+            "label": "Audience and Purpose in Writing",
+            "url": "https://www.youtube.com/watch?v=h9S6-2vqYsY"
+          },
+          {
+            "label": "Revising for Clarity and Conciseness",
+            "url": "https://www.youtube.com/watch?v=hhVic18H4u4"
+          }
+        ],
         "quiz": [
           {
             "q": "In a point-by-point compare-and-contrast essay, each paragraph focuses on...",
@@ -7285,7 +7467,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of midpoint and distance, unit rates, proportions, fraction equations, and combined probability.",
         "resourceLabel": "YouTube: Final Review: Coordinate Geometry, Rates, Fractions in Algebra, and Probability",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Rates%2C%20Fractions%20in%20Algebra%2C%20and%20Probability%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=A_zfwH1oto8",
+        "videoUrl": "https://www.youtube.com/watch?v=vZZD43NlDwE",
+        "videoUrls": [
+          {
+            "label": "Coordinate Geometry",
+            "url": "https://www.youtube.com/watch?v=vZZD43NlDwE"
+          },
+          {
+            "label": "Proportions and Rates",
+            "url": "https://www.youtube.com/watch?v=em7jSY16_NY"
+          },
+          {
+            "label": "Integer and Fraction Operations in Algebra",
+            "url": "https://www.youtube.com/watch?v=NybHckSEQBI"
+          }
+        ],
         "quiz": [
           {
             "q": "The midpoint of the segment from (0, 2) to (6, 8) is...",
@@ -7345,7 +7541,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of heredity, biogeochemical cycles, pollution types, and experimental design.",
         "resourceLabel": "YouTube: Final Review: DNA, Carbon/Nitrogen Cycles, Pollution, and Scientific Method",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20DNA%2C%20Carbon%2FNitrogen%20Cycles%2C%20Pollution%2C%20and%20Scientific%20Method%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=UY1VMqc_OQ0",
+        "videoUrl": "https://www.youtube.com/watch?v=8m6hHRlKwxY",
+        "videoUrls": [
+          {
+            "label": "DNA Structure and Heredity",
+            "url": "https://www.youtube.com/watch?v=8m6hHRlKwxY"
+          },
+          {
+            "label": "Carbon and Nitrogen Cycles",
+            "url": "https://www.youtube.com/watch?v=NHqEthRCqQ4"
+          },
+          {
+            "label": "Pollution Types and Effects",
+            "url": "https://www.youtube.com/watch?v=Zk1J2EW-nmQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Genes are segments of DNA that carry instructions for...",
@@ -7405,7 +7615,21 @@ const curriculum: DayContent[] = [
         "summary": "Mixed review of protected areas, disease geography, waste management, and geographic inquiry project design.",
         "resourceLabel": "YouTube: Final Review: Conservation, Public Health Geography, Circular Economy, and Inquiry Design",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Conservation%2C%20Public%20Health%20Geography%2C%20Circular%20Economy%2C%20and%20Inquiry%20Design%20grade%209%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=zCRKvDyyHmI",
+        "videoUrl": "https://www.youtube.com/watch?v=Ur13eMfF024",
+        "videoUrls": [
+          {
+            "label": "Conservation Areas and Protected Ecosystems",
+            "url": "https://www.youtube.com/watch?v=Ur13eMfF024"
+          },
+          {
+            "label": "Geography of Public Health",
+            "url": "https://www.youtube.com/watch?v=DaHTOFphlMY"
+          },
+          {
+            "label": "Circular Economy and Waste Management",
+            "url": "https://www.youtube.com/watch?v=K6ppCC3lboU"
+          }
+        ],
         "quiz": [
           {
             "q": "National parks are established primarily to...",
