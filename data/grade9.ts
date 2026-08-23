@@ -15214,6 +15214,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Reading strand: setting refers to the time and place in which a story occurs, and it can shape mood, influence character behaviour, and reinforce a story’s themes.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Gf6MmdzhubI",
         "quiz": [
           {
             "q": "A story’s setting refers to ___.",
@@ -15274,6 +15275,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Number/Algebra strand: simplifying a radical involves factoring out perfect square factors from beneath a square root sign to express the value in its simplest radical form.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=G3ucF7dMXY4",
         "quiz": [
           {
             "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
@@ -15334,6 +15336,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Chemistry strand: a solution forms when a solute dissolves in a solvent, concentration describes the amount of solute relative to solvent, and a saturated solution has dissolved the maximum amount of solute possible at a given temperature.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=cHBlDVg9nR8",
         "quiz": [
           {
             "q": "A solution forms when a ___ dissolves in a solvent.",
@@ -15394,6 +15397,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a map projection is a method of representing the curved surface of the Earth on a flat map, and every projection introduces some distortion in shape, area, distance, or direction.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HyQM6uBB9_8",
         "quiz": [
           {
             "q": "A map projection is best described as ___.",

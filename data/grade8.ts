@@ -15039,6 +15039,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Reading strand: foreshadowing is when an author hints at events that will happen later in a story, while flashback interrupts the present narrative to show an earlier moment, both shaping how readers understand plot and character.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IL2_SD3Sc50",
         "quiz": [
           {
             "q": "Foreshadowing is a literary technique in which ___.",
@@ -15099,6 +15100,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: the midpoint formula finds the point exactly halfway between two coordinates, while the distance formula, derived from the Pythagorean theorem, calculates the straight-line distance between two points on a coordinate plane.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=kz8uVnk95xc",
         "quiz": [
           {
             "q": "The midpoint formula finds ___.",
@@ -15159,6 +15161,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: a watershed is an area of land where all water drains into a common river, lake, or ocean, and the water cycle describes the continuous movement of water through evaporation, condensation, precipitation, and collection.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Vp1Eq5lQyGw",
         "quiz": [
           {
             "q": "A watershed is best described as ___.",
@@ -15219,6 +15222,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: the Red River Resistance of 1869-70 was led by Louis Riel and the Métis to protect their land and rights as Canada moved to annex the Red River Settlement, ultimately leading to the creation of Manitoba.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=baqnC9S45Wk",
         "quiz": [
           {
             "q": "The Red River Resistance was led primarily by ___.",
