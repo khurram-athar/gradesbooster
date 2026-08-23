@@ -17534,6 +17534,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Language skills: adjectives, alphabetical order, print concepts, onset and rime, story characters, story setting, middle sounds, story problems, and story feelings.",
         "resourceLabel": "YouTube: Language Review: Describing, Stories, and Sounds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Describing%2C%20Stories%2C%20and%20Sounds%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-NqnQJjDmB0",
+        "videoUrls": [{"label": "Describing Words", "url": "https://www.youtube.com/watch?v=-NqnQJjDmB0"}, {"label": "Story Feelings", "url": "https://www.youtube.com/watch?v=s0U_CaZeuw8"}, {"label": "Middle Sounds", "url": "https://www.youtube.com/watch?v=f21moJ3tNEU"}],
         "quiz": [
           {
             "q": "Which word is an adjective in the phrase a big red apple?",
@@ -17614,6 +17616,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Math skills: comparing groups, even and odd numbers, counting rows, comparing lengths, comparing numbers, shapes, halves and quarters, and days of the week.",
         "resourceLabel": "YouTube: Math Review: Comparing, Shapes, and Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Comparing%2C%20Shapes%2C%20and%20Time%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yDlHjcAb1o0",
+        "videoUrls": [{"label": "Comparing Groups", "url": "https://www.youtube.com/watch?v=yDlHjcAb1o0"}, {"label": "Shapes", "url": "https://www.youtube.com/watch?v=24Uv8Cl5hvI"}, {"label": "Telling Time", "url": "https://www.youtube.com/watch?v=oRMsWNaDZIE"}],
         "quiz": [
           {
             "q": "A group has 6 balls and another has 3 balls. Which group has more?",
@@ -17696,6 +17700,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: body parts, food sources, hot and cold, baby animals, our ears, clouds, and how birds fly.",
         "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Weather",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Weather%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lf_2PetBDjY",
+        "videoUrls": [{"label": "Our Bodies", "url": "https://www.youtube.com/watch?v=lf_2PetBDjY"}, {"label": "Baby Animals", "url": "https://www.youtube.com/watch?v=3U0efIdE940"}, {"label": "Weather", "url": "https://www.youtube.com/watch?v=Uo8lbeVVb4M"}],
         "quiz": [
           {
             "q": "How many ears does a person usually have?",
@@ -17776,6 +17782,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Social Studies topics: personal safety, waiting patiently, respecting seniors, culture, home safety, volunteering, community signs, and comparing homes.",
         "resourceLabel": "YouTube: Social Studies Review: Safety, Kindness, and Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Safety%2C%20Kindness%2C%20and%20Community%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PJKoGkmtNyI",
+        "videoUrls": [{"label": "Personal Safety", "url": "https://www.youtube.com/watch?v=PJKoGkmtNyI"}, {"label": "Kindness", "url": "https://www.youtube.com/watch?v=BNNcpAcF0GM"}, {"label": "Community", "url": "https://www.youtube.com/watch?v=wP_IbZSxhEs"}],
         "quiz": [
           {
             "q": "If something feels unsafe, what should you do?",

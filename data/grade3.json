@@ -14814,6 +14814,21 @@
         "summary": "Grade 3 Math strand review: this lesson revisits multiplying and dividing 2-digit numbers, classifying 2D shapes, converting units of length, and finding the area of irregular shapes.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
+        "videoUrls": [
+          {
+            "label": "Multiplication",
+            "url": "https://www.youtube.com/watch?v=PZjIT9CH6bM"
+          },
+          {
+            "label": "Division",
+            "url": "https://www.youtube.com/watch?v=7ydIF4UmXnE"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=Y-AFX5cq4U0"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 23 × 3?",
@@ -14873,6 +14888,21 @@
         "summary": "Grade 3 Science strand review: this lesson revisits the rock cycle, simple circuits, renewable energy, camouflage, and the basic needs of living things.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=L9j8N6WKprY",
+        "videoUrls": [
+          {
+            "label": "Rocks",
+            "url": "https://www.youtube.com/watch?v=L9j8N6WKprY"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=1kUE0BZtTRc"
+          },
+          {
+            "label": "Living Things",
+            "url": "https://www.youtube.com/watch?v=l7mXl-4TXmQ"
+          }
+        ],
         "quiz": [
           {
             "q": "The rock cycle describes how rocks slowly ___ over long periods of time.",

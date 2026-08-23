@@ -14911,6 +14911,21 @@
         "summary": "Grade 4 Math strand: this review lesson revisits key ideas from Days 51-60, including multiplying fractions, angles, ratios, transformations, and mean/median/mode.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=WWGTeutbW2U",
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=WWGTeutbW2U"
+          },
+          {
+            "label": "Decimals",
+            "url": "https://www.youtube.com/watch?v=KrAQneGhyuE"
+          },
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=vV7C7bXm4VI"
+          }
+        ],
         "quiz": [
           {
             "q": "Multiplying a fraction by a whole number is the same as ___.",
@@ -14970,6 +14985,21 @@
         "summary": "Grade 4 Science strand: this review lesson revisits key ideas from Days 51-60, including ecosystems, rock classification, sound, circuits, balanced forces, states of matter, and energy transformations.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=rnlHxAYwCbg",
+        "videoUrls": [
+          {
+            "label": "Forces",
+            "url": "https://www.youtube.com/watch?v=rnlHxAYwCbg"
+          },
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=mBHJtWbsiaA"
+          },
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=vQSECrMIygg"
+          }
+        ],
         "quiz": [
           {
             "q": "Interdependence in an ecosystem means living things ___.",

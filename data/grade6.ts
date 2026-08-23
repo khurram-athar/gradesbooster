@@ -14855,6 +14855,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: this review lesson revisits key ideas from Days 51-60, including exponents, square roots, inequalities, scale drawings, and graphing linear relationships.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=QMWifyZa4SY",
+        "videoUrls": [{"label": "Exponents", "url": "https://www.youtube.com/watch?v=QMWifyZa4SY"}, {"label": "Inequalities", "url": "https://www.youtube.com/watch?v=Odf2TzlZYNI"}, {"label": "Graphing", "url": "https://www.youtube.com/watch?v=5xzLht5_BNc"}],
         "quiz": [
           {
             "q": "An exponent shows ___.",
@@ -14914,6 +14916,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: this review lesson revisits key ideas from Days 51-60, including density, acids and bases, erosion, energy transfer, and the skeletal, muscular, and nervous systems.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SRsorIm-5Bk",
+        "videoUrls": [{"label": "Matter", "url": "https://www.youtube.com/watch?v=SRsorIm-5Bk"}, {"label": "Energy", "url": "https://www.youtube.com/watch?v=PDJ6ws7NZ-I"}, {"label": "Body Systems", "url": "https://www.youtube.com/watch?v=XtHucs6VDYU"}],
         "quiz": [
           {
             "q": "Density describes ___.",
@@ -14973,6 +14977,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 51-60, including the Industrial Revolution, women’s suffrage, the Berlin Wall, apartheid, and post-war reconstruction.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zjK7PWmRRyg",
+        "videoUrls": [{"label": "Industrial Revolution", "url": "https://www.youtube.com/watch?v=zjK7PWmRRyg"}, {"label": "Human Rights", "url": "https://www.youtube.com/watch?v=5RR4VXNX3jA"}, {"label": "Global Climate Change", "url": "https://www.youtube.com/watch?v=hO9RrG6Skkk"}],
         "quiz": [
           {
             "q": "The Industrial Revolution brought major changes to how ___.",

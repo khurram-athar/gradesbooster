@@ -14789,6 +14789,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: this review lesson revisits key ideas from Days 51-59, including symbolism, active and passive voice, editorials, connotation versus denotation, irony, personal narratives, advertising techniques, misplaced modifiers, and comparing perspectives.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=qNPzq-WW_gI",
+        "videoUrls": [{"label": "Symbolism", "url": "https://www.youtube.com/watch?v=qNPzq-WW_gI"}, {"label": "Active and Passive Voice", "url": "https://www.youtube.com/watch?v=RV8PHPVBlBM"}, {"label": "Editorials", "url": "https://www.youtube.com/watch?v=3GkN4qul82Y"}],
         "quiz": [
           {
             "q": "Symbolism is a literary device in which ___.",
@@ -14848,6 +14850,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand review: this lesson revisits systems of linear inequalities, the discriminant, exponential growth and decay, direct and partial variation, and transformations of quadratic functions from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=FWbcKade3rw",
+        "videoUrls": [{"label": "Linear Inequalities", "url": "https://www.youtube.com/watch?v=FWbcKade3rw"}, {"label": "The Discriminant", "url": "https://www.youtube.com/watch?v=n4riwmh-9Xw"}, {"label": "Exponential Growth and Decay", "url": "https://www.youtube.com/watch?v=sn15zjUpx7E"}],
         "quiz": [
           {
             "q": "In a system of linear inequalities, the solution region is ___.",
@@ -14907,6 +14911,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand review: this lesson revisits plate tectonics, the rock cycle, electromagnetism, circuits, chemical reactions, the periodic table, homeostasis, biomes, and energy transformations from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=FbbwaAIMvvs",
+        "videoUrls": [{"label": "Plate Tectonics", "url": "https://www.youtube.com/watch?v=FbbwaAIMvvs"}, {"label": "The Rock Cycle", "url": "https://www.youtube.com/watch?v=Vp_S3BDiR-I"}, {"label": "Electromagnetism", "url": "https://www.youtube.com/watch?v=f-6FbdpJPTA"}],
         "quiz": [
           {
             "q": "Earthquakes are typically caused by ___.",
@@ -14966,6 +14972,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand review: this lesson revisits the Acadian Expulsion, the Rebellions of 1837-38, the Chinese Head Tax, the Komagata Maru incident, the Oka Crisis, the Korean War, and the Multiculturalism Act from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zAg-E4-ZvMs",
+        "videoUrls": [{"label": "The Acadian Expulsion", "url": "https://www.youtube.com/watch?v=zAg-E4-ZvMs"}, {"label": "The Rebellions of 1837-38", "url": "https://www.youtube.com/watch?v=RdGy5dHgkCU"}, {"label": "The Chinese Head Tax", "url": "https://www.youtube.com/watch?v=_67q992HVPg"}],
         "quiz": [
           {
             "q": "The Acadian Expulsion refers to the forced removal of ___.",

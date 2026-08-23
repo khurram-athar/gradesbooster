@@ -14880,6 +14880,21 @@
         "summary": "Grade 7 Math strand: this review lesson revisits key ideas from Days 51-60, including polynomials, the Pythagorean theorem, spheres, and box-and-whisker plots.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ffLLmV4mZwU",
+        "videoUrls": [
+          {
+            "label": "Polynomials",
+            "url": "https://www.youtube.com/watch?v=ffLLmV4mZwU"
+          },
+          {
+            "label": "Pythagorean Applications",
+            "url": "https://www.youtube.com/watch?v=FdnH3GPYOQA"
+          },
+          {
+            "label": "Data Displays",
+            "url": "https://www.youtube.com/watch?v=B1HEzNTGeZ4"
+          }
+        ],
         "quiz": [
           {
             "q": "A polynomial is an expression made up of ___.",
@@ -14939,6 +14954,21 @@
         "summary": "Grade 7 Science strand: this review lesson revisits key ideas from Days 51-60, including Newton’s laws, sound waves, structures, symbiosis, and the skeletal and muscular systems.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xMmFTA9AThw",
+        "videoUrls": [
+          {
+            "label": "Motion",
+            "url": "https://www.youtube.com/watch?v=xMmFTA9AThw"
+          },
+          {
+            "label": "Sound",
+            "url": "https://www.youtube.com/watch?v=YQ2JrOL-7fs"
+          },
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=PsHmXEsk47k"
+          }
+        ],
         "quiz": [
           {
             "q": "Newton’s first law of motion describes ___.",
@@ -14998,6 +15028,17 @@
         "summary": "Grade 7 Social Studies strand: this review lesson revisits key ideas from Days 51-60, including the League of Nations, Canadian immigration policy, decolonization, the Non-Aligned Movement, and the Arab Spring.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=25bwiSikRsI",
+        "videoUrls": [
+          {
+            "label": "International Relations",
+            "url": "https://www.youtube.com/watch?v=25bwiSikRsI"
+          },
+          {
+            "label": "Canadian Immigration Policy",
+            "url": "https://www.youtube.com/watch?v=KY4eYH3Uer0"
+          }
+        ],
         "quiz": [
           {
             "q": "The League of Nations was formed after ___.",

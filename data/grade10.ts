@@ -14519,6 +14519,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: war literature and testimony present firsthand or fictionalized accounts of conflict, often exploring themes of trauma, survival, and the human cost of war through personal perspective.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=G2q2lGtDa18",
         "quiz": [
           {
             "q": "War literature and testimony often present ___.",
@@ -14700,6 +14701,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: Canada participated in the military mission in Afghanistan from 2001 to 2014 as part of an international coalition, a commitment that involved significant Canadian casualties and public debate.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=nMyiTRMDp_c",
         "quiz": [
           {
             "q": "Canada’s military mission in Afghanistan lasted approximately from ___.",
@@ -14765,6 +14767,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: this review lesson revisits the bildungsroman, rhetorical devices, absurdist fiction, documentary technique, epistolary narratives, and war literature covered across Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4PqGPZtyFtw",
+        "videoUrls": [{"label": "Narrative Forms", "url": "https://www.youtube.com/watch?v=4PqGPZtyFtw"}, {"label": "Rhetoric", "url": "https://www.youtube.com/watch?v=CC_7h6jHIzQ"}, {"label": "War Literature", "url": "https://www.youtube.com/watch?v=G2q2lGtDa18"}],
         "quiz": [
           {
             "q": "A bildungsroman is best described as a novel that traces ___.",
@@ -14824,6 +14828,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand review: this lesson revisits logarithmic equations, rational functions, three-dimensional vectors, the binomial theorem, piecewise functions, and permutations and combinations covered across Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0",
+        "videoUrls": [{"label": "Logarithms", "url": "https://www.youtube.com/watch?v=mQTWzLpCcW0"}, {"label": "Rational Functions", "url": "https://www.youtube.com/watch?v=fy45qX8cUwQ"}, {"label": "Counting Methods", "url": "https://www.youtube.com/watch?v=tnF9f3zCCKI"}],
         "quiz": [
           {
             "q": "Solving a logarithmic equation often involves rewriting it in ___.",
@@ -14883,6 +14889,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand review: this lesson revisits colligative properties, Mendelian genetics, projectile motion, polymer chemistry, the nervous system, weathering and erosion, simple harmonic motion, gas laws, and community ecology covered across Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw",
+        "videoUrls": [{"label": "Chemistry", "url": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw"}, {"label": "Biology", "url": "https://www.youtube.com/watch?v=VitFvNvRIIY"}, {"label": "Physics Applications", "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"}],
         "quiz": [
           {
             "q": "Colligative properties depend primarily on ___.",
@@ -14942,6 +14950,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand review: this lesson revisits the Halifax Explosion, the Korean War, the Avro Arrow, the Suez Crisis, the Employment Equity Act, same-sex marriage legalization, the National Energy Program, Japanese Canadian redress, and Canada’s role in Afghanistan covered across Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=FucZpJGZe6A",
+        "videoUrls": [{"label": "The Halifax Explosion", "url": "https://www.youtube.com/watch?v=FucZpJGZe6A"}, {"label": "The Suez Crisis and Peacekeeping", "url": "https://www.youtube.com/watch?v=SDm4qX0UGe0"}, {"label": "Japanese Canadian Internment", "url": "https://www.youtube.com/watch?v=C8TQTuMqM9g"}],
         "quiz": [
           {
             "q": "The Halifax Explosion was caused by ___.",

@@ -14515,6 +14515,7 @@
         "summary": "Grade 11 English strand: a tone shift occurs when a writer’s attitude toward a subject changes over the course of a text, often signalled by changes in word choice, sentence structure, or imagery, and recognizing these shifts deepens a reader’s interpretation.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=NsnRs7WSElU",
         "quiz": [
           {
             "q": "A tone shift occurs when a writer’s attitude toward a subject ___.",
@@ -14763,6 +14764,21 @@
         "summary": "Grade 11 English strand review: this lesson revisits the anti-hero, the braided essay, nominalization, frame narratives and metafiction, algorithmic bias, the graphic novel, rhetorical analysis, active listening, and tone shifts.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=MEjgDeSnBMs",
+        "videoUrls": [
+          {
+            "label": "Anti-Heroes",
+            "url": "https://www.youtube.com/watch?v=MEjgDeSnBMs"
+          },
+          {
+            "label": "Braided Essays",
+            "url": "https://www.youtube.com/watch?v=X8VqVsIFWiI"
+          },
+          {
+            "label": "Rhetorical Analysis",
+            "url": "https://www.youtube.com/watch?v=Wj3_2AeJMpE"
+          }
+        ],
         "quiz": [
           {
             "q": "An anti-hero is best described as a central character who ___.",
@@ -14822,6 +14838,21 @@
         "summary": "Grade 11 Functions strand review: this lesson revisits exponential and logarithmic equations, rational inequalities, the sine and cosine laws, mathematical induction, radical equations, sampling methods, linear-quadratic systems, and function symmetry.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=10I_TVuYLkQ",
+        "videoUrls": [
+          {
+            "label": "Equations",
+            "url": "https://www.youtube.com/watch?v=10I_TVuYLkQ"
+          },
+          {
+            "label": "Trigonometry",
+            "url": "https://www.youtube.com/watch?v=nA-lGOWJ0g8"
+          },
+          {
+            "label": "Discrete Mathematics",
+            "url": "https://www.youtube.com/watch?v=Tm2PJPvAULs"
+          }
+        ],
         "quiz": [
           {
             "q": "To solve an equation like 2 to the power of x equals 8 using logarithms, a useful first step is to ___.",
@@ -14881,6 +14912,21 @@
         "summary": "Grade 11 Biology strand review: this lesson revisits the lymphatic system, osmosis and cell transport, circadian rhythms, vision and the eye, the integumentary system, antibiotic resistance, animal reproduction, animal migration, and the history of evolutionary theory.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY",
+        "videoUrls": [
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
+          },
+          {
+            "label": "Senses",
+            "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM"
+          },
+          {
+            "label": "Evolutionary History",
+            "url": "https://www.youtube.com/watch?v=8X5aDyGUKjE"
+          }
+        ],
         "quiz": [
           {
             "q": "The lymphatic system’s primary role in fluid balance is to ___.",
@@ -14940,6 +14986,21 @@
         "summary": "Grade 11 Chemistry strand review: this lesson revisits inorganic nomenclature, metallic bonding and alloys, chromatography, crystal lattice types, amines, colloids, electroplating and corrosion, mass spectrometry, and water hardness.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=tRKkGRBndto",
+        "videoUrls": [
+          {
+            "label": "Bonding",
+            "url": "https://www.youtube.com/watch?v=tRKkGRBndto"
+          },
+          {
+            "label": "Separation",
+            "url": "https://www.youtube.com/watch?v=iHrKsfw827c"
+          },
+          {
+            "label": "Applied Chemistry",
+            "url": "https://www.youtube.com/watch?v=PQS_xFG7lpw"
+          }
+        ],
         "quiz": [
           {
             "q": "The systematic naming of inorganic compounds follows rules established by ___.",

@@ -14713,6 +14713,7 @@
         "summary": "Grade 9 Reading strand: bias in a text reflects a particular perspective or slant, and evaluating bias in both historical and contemporary texts involves considering the author’s background, purpose, and the historical or social context in which the text was created.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=5D0nZ3nC2bw",
         "quiz": [
           {
             "q": "Bias in a text reflects ___.",
@@ -14894,6 +14895,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: refugee settlement patterns are shaped by factors such as proximity to conflict zones, existing community networks, and the policies of host countries, resulting in varied geographic distributions.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5Z55k7CqZ0c",
         "quiz": [
           {
             "q": "Refugee settlement patterns are shaped by factors such as ___.",
@@ -14960,6 +14962,21 @@
         "summary": "Grade 9 Reading and Writing strands review: this lesson revisits foil characters, the personal essay, conditional sentences, frame narratives, deepfakes, correlative conjunctions, and evaluating bias from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=9k7pOZNIxZQ",
+        "videoUrls": [
+          {
+            "label": "Foil Characters",
+            "url": "https://www.youtube.com/watch?v=9k7pOZNIxZQ"
+          },
+          {
+            "label": "Personal Essays",
+            "url": "https://www.youtube.com/watch?v=E5SmMV9-UbM"
+          },
+          {
+            "label": "Frame Narratives",
+            "url": "https://www.youtube.com/watch?v=e9_Ize7ZDwg"
+          }
+        ],
         "quiz": [
           {
             "q": "A foil character is best described as ___.",
@@ -15019,6 +15036,21 @@
         "summary": "Grade 9 Algebra strand review: this lesson revisits function transformations, quadratic inequalities, rational functions, systems of linear/quadratic equations, piecewise functions, and geometric sequences from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk",
+        "videoUrls": [
+          {
+            "label": "Functions",
+            "url": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
+          },
+          {
+            "label": "Inequalities",
+            "url": "https://www.youtube.com/watch?v=VKpr311IZfg"
+          },
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=NGPRtXxrinI"
+          }
+        ],
         "quiz": [
           {
             "q": "A vertical shift of a function’s graph is represented by adding a constant ___.",
@@ -15078,6 +15110,21 @@
         "summary": "Grade 9 Science strand review: this lesson revisits Archimedes’ principle, redox reactions, kinetic/potential energy, the Doppler effect, genetic engineering, and ecological succession from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=16HDJNoXQII",
+        "videoUrls": [
+          {
+            "label": "Buoyancy",
+            "url": "https://www.youtube.com/watch?v=16HDJNoXQII"
+          },
+          {
+            "label": "Redox Reactions",
+            "url": "https://www.youtube.com/watch?v=DvYs1HILq1g"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=lnbfPlpAKx0"
+          }
+        ],
         "quiz": [
           {
             "q": "Archimedes’ principle states that a submerged object experiences a buoyant force equal to ___.",
@@ -15137,6 +15184,21 @@
         "summary": "Grade 9 Social Studies (Geography) review: this lesson revisits coastal geography and sea level rise, the demographic transition model, international trade agreements, Indigenous self-government, and refugee settlement patterns from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=j9d6n_uUfFo",
+        "videoUrls": [
+          {
+            "label": "Coastal Geography",
+            "url": "https://www.youtube.com/watch?v=j9d6n_uUfFo"
+          },
+          {
+            "label": "Governance",
+            "url": "https://www.youtube.com/watch?v=Pco_xElw99o"
+          },
+          {
+            "label": "Refugee Settlement",
+            "url": "https://www.youtube.com/watch?v=5Z55k7CqZ0c"
+          }
+        ],
         "quiz": [
           {
             "q": "Coastal geography examines the physical features and human activity found ___.",

@@ -17569,6 +17569,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Language skills: consonant and silent-letter digraphs, word families, vowel teams, r-controlled vowels, homophones, sentence types, inferences, and sorting words into categories.",
         "resourceLabel": "YouTube: Language Review: Digraphs, Vowel Teams, and Sentence Types",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Digraphs%2C%20Vowel%20Teams%2C%20and%20Sentence%20Types%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d4PKjUFyyoM",
+        "videoUrls": [{"label": "Consonant Digraphs", "url": "https://www.youtube.com/watch?v=d4PKjUFyyoM"}, {"label": "Vowel Teams", "url": "https://www.youtube.com/watch?v=Cwpbr-uNCQ4"}, {"label": "Sentence Types", "url": "https://www.youtube.com/watch?v=13FaGPggCg8"}],
         "quiz": [
           {
             "q": "Which word has the ph digraph making the f sound?",
@@ -17649,6 +17651,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Math skills: numbers to 120, skip counting by 4s, fractions of thirds, adding and subtracting tens, number lines, bar graphs, repeating patterns, estimating, and digital time.",
         "resourceLabel": "YouTube: Math Review: Numbers, Patterns, and Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Patterns%2C%20and%20Time%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hbfYqz3huyU",
+        "videoUrls": [{"label": "Numbers to 120", "url": "https://www.youtube.com/watch?v=hbfYqz3huyU"}, {"label": "Repeating Patterns", "url": "https://www.youtube.com/watch?v=jMsTvH6gTGk"}, {"label": "Digital Time", "url": "https://www.youtube.com/watch?v=YmKYDHMMauw"}],
         "quiz": [
           {
             "q": "What number comes right after 100?",
@@ -17731,6 +17735,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: reptiles, amphibians, mammals, the water cycle, day and night, gravity, the butterfly life cycle, animal coverings, and ocean animals.",
         "resourceLabel": "YouTube: Science Review: Animals, Water, and Sky",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Water%2C%20and%20Sky%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8adtdg0N2-g",
+        "videoUrls": [{"label": "Ocean Animals", "url": "https://www.youtube.com/watch?v=8adtdg0N2-g"}, {"label": "The Water Cycle", "url": "https://www.youtube.com/watch?v=hlgfZcGfJ9o"}, {"label": "Day and Night", "url": "https://www.youtube.com/watch?v=qtjLFVHDVds"}],
         "quiz": [
           {
             "q": "What covers the skin of most reptiles?",
@@ -17810,6 +17816,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Social Studies topics: rural and urban communities, Canadian inventions, libraries, mail delivery, national parks, seasonal activities, fair group choices, museums, and grocery stores.",
         "resourceLabel": "YouTube: Social Studies Review: Places, Inventions, and Fair Choices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Places%2C%20Inventions%2C%20and%20Fair%20Choices%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iwxkwPA8c68",
+        "videoUrls": [{"label": "Places We Visit", "url": "https://www.youtube.com/watch?v=iwxkwPA8c68"}, {"label": "Canadian Inventions", "url": "https://www.youtube.com/watch?v=w2k1Nqwm6Cs"}, {"label": "Fair Choices", "url": "https://www.youtube.com/watch?v=Kl8jhIU-w2g"}],
         "quiz": [
           {
             "q": "What do we call a busy community with many tall buildings and people?",

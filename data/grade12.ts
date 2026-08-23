@@ -14774,6 +14774,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand review: this lesson revisits existentialist philosophy in the novel, media literacy around synthetic media, diasporic identity, and the stylistic use of semicolons and colons from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=MZ_6u7JbvU0",
+        "videoUrls": [{"label": "Existentialist Philosophy", "url": "https://www.youtube.com/watch?v=MZ_6u7JbvU0"}, {"label": "Synthetic Media", "url": "https://www.youtube.com/watch?v=q5_PrTvNypY"}, {"label": "Diasporic Identity", "url": "https://www.youtube.com/watch?v=tCVN2-KrI0w"}],
         "quiz": [
           {
             "q": "Existentialist literature explores themes of individual freedom and the necessity of creating ___ in a universe without inherent purpose.",
@@ -14833,6 +14835,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand review: this lesson revisits eigenvalues and eigenvectors, the normal distribution, rational exponents, and graph theory basics from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=h1RQw7yaoGM",
+        "videoUrls": [{"label": "Eigenvalues and Eigenvectors", "url": "https://www.youtube.com/watch?v=h1RQw7yaoGM"}, {"label": "Normal Distribution", "url": "https://www.youtube.com/watch?v=Pn03dfOz-Cs"}, {"label": "Rational Exponents", "url": "https://www.youtube.com/watch?v=Llrngdh3Rrg"}],
         "quiz": [
           {
             "q": "An eigenvector of a matrix is a nonzero vector whose ___ remains unchanged when the matrix is applied to it.",
@@ -14892,6 +14896,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand review: this lesson revisits the Squeeze Theorem, hyperbolic functions, center of mass, and area enclosed by polar curves from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=igJdDN-DPgA",
+        "videoUrls": [{"label": "The Squeeze Theorem", "url": "https://www.youtube.com/watch?v=igJdDN-DPgA"}, {"label": "Hyperbolic Functions", "url": "https://www.youtube.com/watch?v=Q6-QZxUDfE0"}, {"label": "Center of Mass", "url": "https://www.youtube.com/watch?v=SWu_i-19Rn0"}],
         "quiz": [
           {
             "q": "The Squeeze Theorem determines the limit of a function by trapping it between ___.",
@@ -14951,6 +14957,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand review: this lesson revisits the Bohr model and atomic spectra, neutron stars, simple machines, and the uncertainty principle from Days 51-59.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=mXxsT1ut35Q",
+        "videoUrls": [{"label": "The Bohr Model", "url": "https://www.youtube.com/watch?v=mXxsT1ut35Q"}, {"label": "Neutron Stars", "url": "https://www.youtube.com/watch?v=4xIQGbYur9Q"}, {"label": "The Uncertainty Principle", "url": "https://www.youtube.com/watch?v=TQKELOE9eY4"}],
         "quiz": [
           {
             "q": "The Bohr model describes electrons orbiting the nucleus in ___.",

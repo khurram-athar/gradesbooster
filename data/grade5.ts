@@ -14889,6 +14889,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: this review lesson revisits key ideas from Days 51-60, including integers, scale drawings, surface area, algebraic expressions, and stem-and-leaf plots.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=GJjbq1C0MaA",
+        "videoUrls": [{"label": "Integers", "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"}, {"label": "Algebra", "url": "https://www.youtube.com/watch?v=OF2GtIinL_s"}, {"label": "Data Displays", "url": "https://www.youtube.com/watch?v=hcgThf5mv38"}],
         "quiz": [
           {
             "q": "An integer can be ___.",
@@ -14948,6 +14950,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: this review lesson revisits key ideas from Days 51-60, including the immune system, bridges, static electricity, plant pollination, and natural disasters.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PSRJfaAYkW4",
+        "videoUrls": [{"label": "Body Systems", "url": "https://www.youtube.com/watch?v=PSRJfaAYkW4"}, {"label": "Structures", "url": "https://www.youtube.com/watch?v=x3BlGFwAzZY"}, {"label": "Earth Processes", "url": "https://www.youtube.com/watch?v=YUb_d3gxIrQ"}],
         "quiz": [
           {
             "q": "The immune system’s main job is to ___.",

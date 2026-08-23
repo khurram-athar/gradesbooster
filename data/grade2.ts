@@ -17574,6 +17574,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review Language skills from Days 51 to 59: past tense verbs, capitalization, multiple-meaning words, context clues, onomatopoeia, text features, purpose for writing, story theme, and friendly letters.",
         "resourceLabel": "YouTube: Final Review: Language Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=39mPS4fnJn0",
+        "videoUrls": [{"label": "Past Tense Verbs", "url": "https://www.youtube.com/watch?v=39mPS4fnJn0"}, {"label": "Capitalization", "url": "https://www.youtube.com/watch?v=bnRfLdFPHQI"}, {"label": "Multiple-Meaning Words", "url": "https://www.youtube.com/watch?v=CNMj-4giv6c"}],
         "quiz": [
           {
             "q": "What ending do we usually add to a verb to show something already happened?",
@@ -17655,6 +17657,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review Math skills from Days 51 to 59: skip counting by 3s and 4s, division, probability, number lines, measuring mass and capacity, comparing money, sorting 3D objects, and finding the mode.",
         "resourceLabel": "YouTube: Final Review: Math Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_D6IPnvX0dY",
+        "videoUrls": [{"label": "Skip Counting", "url": "https://www.youtube.com/watch?v=_D6IPnvX0dY"}, {"label": "Division", "url": "https://www.youtube.com/watch?v=IAIi92Rrn_U"}, {"label": "Probability", "url": "https://www.youtube.com/watch?v=lYXDQ5-I7Qk"}],
         "quiz": [
           {
             "q": "Skip count by 4s: 4, 8, 12, ___",
@@ -17737,6 +17741,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review Science topics from Days 51 to 59: animal camouflage, butterfly metamorphosis, bones and muscles, moon phases, erosion, static electricity, endangered animals, dental care, and energy sources.",
         "resourceLabel": "YouTube: Final Review: Science Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YOIRci0CKzg",
+        "videoUrls": [{"label": "Animal Camouflage", "url": "https://www.youtube.com/watch?v=YOIRci0CKzg"}, {"label": "Butterfly Metamorphosis", "url": "https://www.youtube.com/watch?v=BH3SH42a9h4"}, {"label": "Bones and Muscles", "url": "https://www.youtube.com/watch?v=fbmD0Y8_OWE"}],
         "quiz": [
           {
             "q": "Why might an animal use camouflage?",
@@ -17817,6 +17823,8 @@ const curriculum: DayContent[] = [
         "summary": "Students review Social Studies topics from Days 51 to 59: notable Canadians, Canadian inventions, water systems, homes around the world, Canadian sports, settlement patterns, the history of money, community recreation, and museums.",
         "resourceLabel": "YouTube: Final Review: Social Studies Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KKm4H6LxgnU",
+        "videoUrls": [{"label": "Terry Fox", "url": "https://www.youtube.com/watch?v=KKm4H6LxgnU"}, {"label": "Canadian Inventions", "url": "https://www.youtube.com/watch?v=g76h6PE9y70"}, {"label": "Water Systems", "url": "https://www.youtube.com/watch?v=5Ssty1ejoek"}],
         "quiz": [
           {
             "q": "Which sport was invented by a Canadian named James Naismith?",
