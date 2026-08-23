@@ -15103,6 +15103,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: an analogy compares two pairs of words that share the same kind of relationship, such as hot is to cold as up is to down.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ZrBBylNNf6A",
         "quiz": [
           {
             "q": "An analogy compares two pairs of words that share the same ___.",
@@ -15163,6 +15164,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: place value to 10,000 describes the value of each digit in a number based on its position -- ones, tens, hundreds, and thousands.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XhNHrtipltM",
         "quiz": [
           {
             "q": "In the number 6,482, the digit 4 represents ___.",
@@ -15223,6 +15225,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: Canada contains several distinct biomes, including forests, wetlands, and tundra, each with its own climate, plants, and animals.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=CvQP7hI9UvM",
         "quiz": [
           {
             "q": "A biome is best described as a large region with a distinct ___.",
@@ -15282,6 +15285,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the ancient Maya built cities in Central America between about 2000 BCE and 1500 CE, known for their pyramids, writing system, and knowledge of astronomy.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=iaKofHyZ00c",
         "quiz": [
           {
             "q": "The ancient Maya civilization was located in ___.",

@@ -15079,6 +15079,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: bias occurs when a text presents information in a one-sided way, favouring a particular opinion instead of presenting facts fairly.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=6R6-2_8m4Co",
         "quiz": [
           {
             "q": "Bias in a text means the writing ___.",
@@ -15139,6 +15140,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: adding and subtracting decimals requires lining up the decimal points and place values before combining or comparing the digits.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=sob2L2gkYvY",
         "quiz": [
           {
             "q": "When adding decimals, it is important to first ___.",
@@ -15199,6 +15201,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: magnets create an invisible force field that attracts certain metals and can either pull objects together or push them apart, depending on their poles.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=IgtIdttfGVw",
         "quiz": [
           {
             "q": "A magnet has two poles, called the ___.",
@@ -15259,6 +15262,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Confederation in 1867 united several British colonies into the Dominion of Canada, creating a new country with its own federal government.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
         "quiz": [
           {
             "q": "Confederation in 1867 united several British colonies to form ___.",
