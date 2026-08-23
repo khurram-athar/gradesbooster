@@ -14747,6 +14747,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: using a checklist while editing and proofreading helps writers systematically check their work for issues like spelling, punctuation, capitalization, and complete sentences before sharing it.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=SyxUme6DpCk",
         "quiz": [
           {
             "q": "Using a checklist while editing and proofreading helps writers ___ their work.",
@@ -14929,6 +14930,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: this lesson celebrates and extends the Days 51-60 learning about local government, community helpers, trade, national parks, Indigenous contributions, immigration, and Ontario’s resources.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=WpJSP2q5-M4",
+        "videoUrls": [{"label": "Local Government", "url": "https://www.youtube.com/watch?v=WpJSP2q5-M4"}, {"label": "Indigenous Contributions", "url": "https://www.youtube.com/watch?v=glSIDAyyPJA"}, {"label": "Immigration Stories", "url": "https://www.youtube.com/watch?v=cX02bJ1pyw4"}],
         "quiz": [
           {
             "q": "Why is it valuable for students to understand how local government decisions are made?",

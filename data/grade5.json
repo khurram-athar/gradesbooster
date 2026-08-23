@@ -15113,6 +15113,7 @@
         "summary": "Grade 5 Language strand: a semicolon can join two related independent clauses, while a colon is often used to introduce a list, explanation, or quotation.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=zI_EQONU0WM",
         "quiz": [
           {
             "q": "A semicolon can be used to ___.",
@@ -15321,6 +15322,21 @@
         "summary": "Grade 5 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about residential schools, peacekeeping, the Métis Nation, and Canadian government to build a timeline of significant milestones.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=VFgNI1lfe0A",
+        "videoUrls": [
+          {
+            "label": "Residential Schools",
+            "url": "https://www.youtube.com/watch?v=VFgNI1lfe0A"
+          },
+          {
+            "label": "Peacekeeping",
+            "url": "https://www.youtube.com/watch?v=M1xHm5FFohU"
+          },
+          {
+            "label": "The Metis Nation",
+            "url": "https://www.youtube.com/watch?v=YIxJ7I8vRzU"
+          }
+        ],
         "quiz": [
           {
             "q": "Why might a student include residential schools on a timeline of Canadian milestones?",

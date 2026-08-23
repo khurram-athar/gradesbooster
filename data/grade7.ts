@@ -14761,6 +14761,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a eulogy or tribute speech honours a person by sharing meaningful memories, qualities, and the impact they had on others, often organized around specific stories or themes.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=8aagl7Op77o",
         "quiz": [
           {
             "q": "A eulogy or tribute speech is written to ___.",

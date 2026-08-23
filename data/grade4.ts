@@ -14853,6 +14853,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: capitalization rules include starting every sentence with a capital letter, capitalizing proper nouns, and capitalizing the pronoun “I.”",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=nz_BbYwy3VI",
         "quiz": [
           {
             "q": "Every sentence should begin with ___.",
@@ -15035,6 +15036,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about mapping, government, industries, settlement, and diversity to design a model community.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=RgI2qoF4DEg",
+        "videoUrls": [{"label": "Mapping Skills", "url": "https://www.youtube.com/watch?v=RgI2qoF4DEg"}, {"label": "Comparing Government Systems", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"}, {"label": "Cultural Diversity", "url": "https://www.youtube.com/watch?v=UYElf0rSEvc"}],
         "quiz": [
           {
             "q": "Why might a student consider access to fresh water when designing a model community?",
