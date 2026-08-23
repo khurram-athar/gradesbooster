@@ -17395,6 +17395,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about animals that live in the ocean, such as fish, whales, and octopuses, and how the deep salty water of the ocean is their home.",
         "resourceLabel": "YouTube: Ocean Animals: Creatures of the Sea",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Animals%3A%20Creatures%20of%20the%20Sea%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8adtdg0N2-g",
         "quiz": [
           {
             "q": "Which of these animals lives in the ocean?",
@@ -17478,6 +17479,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that grocery stores are community places where people buy food grown on farms or made in factories, and that workers stock shelves and help customers.",
         "resourceLabel": "YouTube: Grocery Stores and Where We Buy Our Food",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grocery%20Stores%20and%20Where%20We%20Buy%20Our%20Food%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QNGxlv5X-Oo",
         "quiz": [
           {
             "q": "What is a grocery store?",

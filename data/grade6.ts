@@ -14546,6 +14546,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: print and digital texts can present the same information differently, with digital texts often including hyperlinks, videos, and interactive features not found in print.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=eCc8hDGou4A",
         "quiz": [
           {
             "q": "One key difference between print and digital texts is that digital texts often include ___.",

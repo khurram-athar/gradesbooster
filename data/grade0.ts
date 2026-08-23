@@ -17198,6 +17198,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to notice how a story character feels, such as happy, sad, scared, or excited, by looking at clues in the pictures and words.",
         "resourceLabel": "YouTube: Story Feelings: How Characters Feel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Feelings%3A%20How%20Characters%20Feel%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s0U_CaZeuw8",
         "quiz": [
           {
             "q": "If a character is smiling and laughing, how do they likely feel?",
