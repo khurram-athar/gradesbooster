@@ -17871,6 +17871,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that two consonants can blend together at the start of a word, such as bl in black or st in stop, and practise hearing both sounds.",
         "resourceLabel": "YouTube: Letter Sounds Review: Consonant Blends",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20Sounds%20Review%3A%20Consonant%20Blends%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6n656GWy6ew",
         "quiz": [
           {
             "q": "Which word begins with the blend st?",
@@ -17950,6 +17951,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to read and match the written number words for eleven through twenty, such as eleven, fifteen, and twenty, to their matching numerals.",
         "resourceLabel": "YouTube: Number Words 11 to 20",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Words%2011%20to%2020%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m_ZF1G5Sb6o",
         "quiz": [
           {
             "q": "Which number word matches the numeral 12?",
@@ -18030,6 +18032,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that eyes help us see colours, shapes, and light, and explore how our two eyes work together to help us see the world around us.",
         "resourceLabel": "YouTube: Our Eyes: Seeing Colours and Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Eyes%3A%20Seeing%20Colours%20and%20Shapes%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=su1CzbO3pRw",
         "quiz": [
           {
             "q": "What body part helps us see colours and shapes?",
@@ -18114,6 +18117,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the job of a postal worker, who delivers letters and packages to homes and businesses in the community every day.",
         "resourceLabel": "YouTube: Our Postal Worker: Delivering Mail",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Postal%20Worker%3A%20Delivering%20Mail%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nTXhCXASgLQ",
         "quiz": [
           {
             "q": "What does a postal worker deliver?",

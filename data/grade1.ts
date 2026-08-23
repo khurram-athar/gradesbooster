@@ -17906,6 +17906,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn beginning consonant blends where two consonants join and both sounds are heard, such as sc in scarf, sk in skate, sl in slide, and tw in twin.",
         "resourceLabel": "YouTube: Consonant Blends: sc, sk, sl, tw",
         "resourceUrl": "https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20sc%2C%20sk%2C%20sl%2C%20tw%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i9kINwIoT1w",
         "quiz": [
           {
             "q": "Which word begins with the sc blend?",
@@ -17991,6 +17992,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the names and order of the seven days of the week and the twelve months of the year, building an understanding of how a calendar is organized.",
         "resourceLabel": "YouTube: Time: Days of the Week and Months of the Year",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Days%20of%20the%20Week%20and%20Months%20of%20the%20Year%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xkUYTmRDSko",
         "quiz": [
           {
             "q": "Which day comes right after Monday?",
@@ -18072,6 +18074,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that spiders are small creatures with eight legs that are not insects, and that many small creatures like spiders help control the number of other bugs.",
         "resourceLabel": "YouTube: Spiders and Other Small Creatures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Spiders%20and%20Other%20Small%20Creatures%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a2ilmR8kg5E",
         "quiz": [
           {
             "q": "How many legs does a spider have?",
@@ -18155,6 +18158,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that people choose different clothing depending on the weather and season, such as wearing a warm coat in winter and light clothing in summer.",
         "resourceLabel": "YouTube: Weather and Clothing: Dressing for the Season",
         "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20and%20Clothing%3A%20Dressing%20for%20the%20Season%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m-g3QmRXnXY",
         "quiz": [
           {
             "q": "Which clothing would be best on a cold winter day?",

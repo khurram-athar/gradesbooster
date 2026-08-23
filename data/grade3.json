@@ -15044,6 +15044,7 @@
         "summary": "Grade 3 Language strand: an idiom is a group of words whose meaning is different from what the words say on their own, like “it’s raining cats and dogs,” which really means it is raining hard.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_s_CH4yXXHQ",
         "quiz": [
           {
             "q": "An idiom is a group of words whose meaning is ___.",
@@ -15104,6 +15105,7 @@
         "summary": "Grade 3 Math strand: when a number cannot be divided evenly, the amount left over is called the remainder, and it must always be smaller than the number you are dividing by.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EfU8kA1CWdw",
         "quiz": [
           {
             "q": "When a number cannot be divided evenly, the amount left over is called the ___.",
@@ -15164,6 +15166,17 @@
         "summary": "Grade 3 Science strand: a screw is a simple machine made from an inclined plane wrapped around a pole, and a wedge is a simple machine made from two inclined planes joined together to push things apart.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=h3AfKj37mbo",
+        "videoUrls": [
+          {
+            "label": "Screw",
+            "url": "https://www.youtube.com/watch?v=h3AfKj37mbo"
+          },
+          {
+            "label": "Wedge",
+            "url": "https://www.youtube.com/watch?v=z-MOrUvjNm8"
+          }
+        ],
         "quiz": [
           {
             "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
@@ -15224,6 +15237,7 @@
         "summary": "Grade 3 Social Studies strand: Canada is made up of ten provinces and three territories, and each province has its own capital city where its provincial government meets.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "quiz": [
           {
             "q": "Canada is made up of ten provinces and ___ territories.",
