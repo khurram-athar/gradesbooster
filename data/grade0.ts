@@ -7170,7 +7170,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review life science (plants, animals), earth science (seasons, weather), and physical science (forces, materials).",
         "resourceLabel": "YouTube: Science Review: All Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=yPqRqjM8MOQ",
+        "videoUrl": "https://www.youtube.com/watch?v=Gy60BqCnTG4",
+        "videoUrls": [
+          {
+            "label": "Living and Non-Living Things",
+            "url": "https://www.youtube.com/watch?v=Gy60BqCnTG4"
+          },
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=yPqRqjM8MOQ"
+          },
+          {
+            "label": "Push and Pull: Forces",
+            "url": "https://www.youtube.com/watch?v=ZLDUrPaLQWE"
+          }
+        ],
         "quiz": [
           {
             "q": "Plants make food using ___, water, and carbon dioxide.",
@@ -7230,7 +7244,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review communities, Canadian geography, symbols, seasons, and citizenship topics covered through the year.",
         "resourceLabel": "YouTube: Social Studies Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=puarPOoJUy8",
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
+        "videoUrls": [
+          {
+            "label": "Community Helpers",
+            "url": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
+          },
+          {
+            "label": "Canadian Symbols",
+            "url": "https://www.youtube.com/watch?v=38BGXJ572Y8"
+          },
+          {
+            "label": "Rights and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=TafvHxXFzUM"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the capital city of Canada?",
@@ -7297,6 +7325,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Alphabet Review and Simple Reading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Alphabet%20Review%20and%20Simple%20Reading%20kindergarten%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=tKsIi1MH4lw",
+        "videoUrls": [
+          {
+            "label": "Alphabet Sounds",
+            "url": "https://www.youtube.com/watch?v=tKsIi1MH4lw"
+          },
+          {
+            "label": "Short Vowel Sounds / Simple Reading",
+            "url": "https://www.youtube.com/watch?v=RUSCz41aDug"
+          }
+        ],
         "quiz": [
           {
             "q": "How many letters are in the English alphabet?",
@@ -7356,7 +7394,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review all Kindergarten math concepts: counting, shapes, patterns, measurement, and addition/subtraction.",
         "resourceLabel": "YouTube: Year Review: Math",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Math%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=7J1OkxuyLD0",
+        "videoUrl": "https://www.youtube.com/watch?v=mKSNQuQrsm0",
+        "videoUrls": [
+          {
+            "label": "Counting",
+            "url": "https://www.youtube.com/watch?v=mKSNQuQrsm0"
+          },
+          {
+            "label": "2D Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          },
+          {
+            "label": "Addition and Subtraction",
+            "url": "https://www.youtube.com/watch?v=7J1OkxuyLD0"
+          }
+        ],
         "quiz": [
           {
             "q": "Count: How many in 3 + 4?",
@@ -7416,7 +7468,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review all Kindergarten science: living and non-living, plants, animals, seasons, weather, forces, and materials.",
         "resourceLabel": "YouTube: Year Review: Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=4HeeCYVqf3U",
+        "videoUrl": "https://www.youtube.com/watch?v=Gy60BqCnTG4",
+        "videoUrls": [
+          {
+            "label": "Living and Non-Living Things",
+            "url": "https://www.youtube.com/watch?v=Gy60BqCnTG4"
+          },
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=yPqRqjM8MOQ"
+          },
+          {
+            "label": "The Four Seasons",
+            "url": "https://www.youtube.com/watch?v=4HeeCYVqf3U"
+          }
+        ],
         "quiz": [
           {
             "q": "A plant is a ___ thing.",
@@ -7476,7 +7542,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review community helpers, Canadian symbols, rights and responsibilities, celebrations, and caring for the Earth.",
         "resourceLabel": "YouTube: Year Review: Social Studies and Citizenship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20and%20Citizenship%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=bxTWLZK5gU0",
+        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
+        "videoUrls": [
+          {
+            "label": "Community Helpers",
+            "url": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
+          },
+          {
+            "label": "Canadian Symbols",
+            "url": "https://www.youtube.com/watch?v=38BGXJ572Y8"
+          },
+          {
+            "label": "Rights and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=TafvHxXFzUM"
+          }
+        ],
         "quiz": [
           {
             "q": "Who helps keep you healthy by giving check-ups?",

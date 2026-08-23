@@ -5867,7 +5867,21 @@
         "summary": "Grade 4 Science strand review: habitats, rocks, energy (light, sound, electricity), weather, and space.",
         "resourceLabel": "YouTube: Year Review: Science Concepts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20Concepts%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=g75auSHWRH4",
+        "videoUrl": "https://www.youtube.com/watch?v=p3PX1x6scbA",
+        "videoUrls": [
+          {
+            "label": "Habitats and Communities",
+            "url": "https://www.youtube.com/watch?v=p3PX1x6scbA"
+          },
+          {
+            "label": "Rock Cycle",
+            "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"
+          },
+          {
+            "label": "Electric Circuits",
+            "url": "https://www.youtube.com/watch?v=wYE24otiwVQ"
+          }
+        ],
         "quiz": [
           {
             "q": "A food web shows ___.",
@@ -5927,7 +5941,21 @@
         "summary": "Grade 4 Social Studies review: ancient civilizations, Canadian history, geography, government, economics, and citizenship.",
         "resourceLabel": "YouTube: Social Studies Year Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=FHs1E7d0PwQ",
+        "videoUrl": "https://www.youtube.com/watch?v=zYxC14pCaJ0",
+        "videoUrls": [
+          {
+            "label": "Ancient Egypt",
+            "url": "https://www.youtube.com/watch?v=zYxC14pCaJ0"
+          },
+          {
+            "label": "Human Rights",
+            "url": "https://www.youtube.com/watch?v=AGcy-tP3YOQ"
+          },
+          {
+            "label": "Canadian Geography: Provinces and Territories",
+            "url": "https://www.youtube.com/watch?v=WEGw4IdHEqQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Which ancient civilization developed democracy?",
@@ -5994,6 +6022,20 @@
         "resourceLabel": "YouTube: Vocabulary Review and Word Study",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%20Review%20and%20Word%20Study%20grade%204%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=YLyakGWuwhU",
+        "videoUrls": [
+          {
+            "label": "Context Clues",
+            "url": "https://www.youtube.com/watch?v=YLyakGWuwhU"
+          },
+          {
+            "label": "Synonyms and Antonyms",
+            "url": "https://www.youtube.com/watch?v=PDI2xlOBcM4"
+          },
+          {
+            "label": "Prefixes and Suffixes",
+            "url": "https://www.youtube.com/watch?v=yRwmr7CqnrY"
+          }
+        ],
         "quiz": [
           {
             "q": "The prefix 'un-' in 'unhappy' means ___.",
@@ -6115,6 +6157,20 @@
         "resourceLabel": "YouTube: Review: Ecosystems and Life Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%20and%20Life%20Systems%20grade%204%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=SNF8b7KKJ2I",
+        "videoUrls": [
+          {
+            "label": "Ecosystems Basics",
+            "url": "https://www.youtube.com/watch?v=SNF8b7KKJ2I"
+          },
+          {
+            "label": "Human Impact on Ecosystems",
+            "url": "https://www.youtube.com/watch?v=Um-bo2MWDsQ"
+          },
+          {
+            "label": "Biodiversity",
+            "url": "https://www.youtube.com/watch?v=rVZktiOxsww"
+          }
+        ],
         "quiz": [
           {
             "q": "All the organisms in a shared habitat form a ___.",
@@ -6175,6 +6231,20 @@
         "resourceLabel": "YouTube: Review: Government and Citizenship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Government%20and%20Citizenship%20grade%204%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=S2bxkt3Nbpk",
+        "videoUrls": [
+          {
+            "label": "The Purpose of Government",
+            "url": "https://www.youtube.com/watch?v=S2bxkt3Nbpk"
+          },
+          {
+            "label": "Human Rights",
+            "url": "https://www.youtube.com/watch?v=AGcy-tP3YOQ"
+          },
+          {
+            "label": "Citizenship: Rights and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=FWwEMFSY1r0"
+          }
+        ],
         "quiz": [
           {
             "q": "A democracy is a government where ___.",
@@ -6734,7 +6804,21 @@
         "summary": "Grade 4 Language strand comprehensive grammar review: parts of speech, sentence types, punctuation, and sentence construction.",
         "resourceLabel": "YouTube: Grammar Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%20Review%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=askbs77a_zI",
+        "videoUrl": "https://www.youtube.com/watch?v=ZqLeGm4k6CU",
+        "videoUrls": [
+          {
+            "label": "Parts of Speech",
+            "url": "https://www.youtube.com/watch?v=ZqLeGm4k6CU"
+          },
+          {
+            "label": "Adverbs",
+            "url": "https://www.youtube.com/watch?v=r66DZ5MOzBg"
+          },
+          {
+            "label": "Conjunctions",
+            "url": "https://www.youtube.com/watch?v=dGAEvyDdYQA"
+          }
+        ],
         "quiz": [
           {
             "q": "Which sentence is a compound sentence?",
@@ -6794,7 +6878,21 @@
         "summary": "Grade 4 Mathematics comprehensive review covering number, geometry, measurement, patterning, and data.",
         "resourceLabel": "YouTube: Math Review: All Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20All%20Strands%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=jNVle8CKk9A",
+        "videoUrl": "https://www.youtube.com/watch?v=EI2qZC1vUGk",
+        "videoUrls": [
+          {
+            "label": "Multiplication Facts",
+            "url": "https://www.youtube.com/watch?v=EI2qZC1vUGk"
+          },
+          {
+            "label": "Fractions: Equal Parts",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Geometry: Angles",
+            "url": "https://www.youtube.com/watch?v=aOipc02LUpo"
+          }
+        ],
         "quiz": [
           {
             "q": "7 × 9 = ?",
@@ -6854,7 +6952,21 @@
         "summary": "Grade 4 Science comprehensive review across life, earth, materials, and energy strands.",
         "resourceLabel": "YouTube: Science Review: All Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=g75auSHWRH4",
+        "videoUrl": "https://www.youtube.com/watch?v=QVyOrRDsD38",
+        "videoUrls": [
+          {
+            "label": "Adaptations",
+            "url": "https://www.youtube.com/watch?v=QVyOrRDsD38"
+          },
+          {
+            "label": "Properties of Light: Reflection",
+            "url": "https://www.youtube.com/watch?v=DzpHXtnXFCI"
+          },
+          {
+            "label": "Forces: Gravity and Friction",
+            "url": "https://www.youtube.com/watch?v=I0XeLVK9p0I"
+          }
+        ],
         "quiz": [
           {
             "q": "What is biodiversity?",
@@ -6914,7 +7026,21 @@
         "summary": "Grade 4 Social Studies comprehensive review across heritage, identity, government, and geography strands.",
         "resourceLabel": "YouTube: Social Studies Review: All Topics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20All%20Topics%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=FHs1E7d0PwQ",
+        "videoUrl": "https://www.youtube.com/watch?v=Kepp9g9Ccqk",
+        "videoUrls": [
+          {
+            "label": "Ancient Civilizations Overview",
+            "url": "https://www.youtube.com/watch?v=Kepp9g9Ccqk"
+          },
+          {
+            "label": "Government: Democracy and Monarchy",
+            "url": "https://www.youtube.com/watch?v=hLzXOA6FBX8"
+          },
+          {
+            "label": "First Nations Treaties in Canada",
+            "url": "https://www.youtube.com/watch?v=5EyYhs_bhhg"
+          }
+        ],
         "quiz": [
           {
             "q": "Which ancient civilization developed the Olympic Games?",

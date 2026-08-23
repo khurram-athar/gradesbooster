@@ -6135,6 +6135,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Patterns and Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Patterns%20and%20Shapes%20grade%201%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Js45cR_7wFE",
+        "videoUrls": [
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=Js45cR_7wFE"
+          },
+          {
+            "label": "2D Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          }
+        ],
         "quiz": [
           {
             "q": "Which 2D shape has three sides?",
@@ -6320,7 +6330,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Reading and Writing strands review: students apply understanding of story structure (characters, setting, problem, solution) to read and write stories.",
         "resourceLabel": "YouTube: Story Structure Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Structure%20Review%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=CthhGIti2og",
+        "videoUrl": "https://www.youtube.com/watch?v=ZW1yY3CoWWU",
         "quiz": [
           {
             "q": "What are the five main story elements?",
@@ -7121,7 +7131,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Number strand review: students review counting, place value, addition, subtraction, fractions, and money.",
         "resourceLabel": "YouTube: Review: Number Sense",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=LcSTTVmIUus",
+        "videoUrl": "https://www.youtube.com/watch?v=bGetqbqDVaA",
         "quiz": [
           {
             "q": "4 tens + 7 ones = ?",
@@ -7307,7 +7317,21 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Language strand comprehensive review: students demonstrate reading, writing, and oral communication skills developed throughout the year.",
         "resourceLabel": "YouTube: Year Review: Language Arts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=U2l3BFthsD0",
+        "videoUrl": "https://www.youtube.com/watch?v=xJGQIYU_xhs",
+        "videoUrls": [
+          {
+            "label": "Reading: Main Idea",
+            "url": "https://www.youtube.com/watch?v=xJGQIYU_xhs"
+          },
+          {
+            "label": "Writing Complete Sentences",
+            "url": "https://www.youtube.com/watch?v=DuubQG3gFb8"
+          },
+          {
+            "label": "Grammar: Nouns, Verbs, Adjectives",
+            "url": "https://www.youtube.com/watch?v=U2l3BFthsD0"
+          }
+        ],
         "quiz": [
           {
             "q": "A noun names a ___.",
@@ -7368,6 +7392,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Year Review: Mathematics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%201%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=8WJ64t8ekEk",
+        "videoUrls": [
+          {
+            "label": "Number Sense: Addition/Subtraction/Place Value",
+            "url": "https://www.youtube.com/watch?v=8WJ64t8ekEk"
+          },
+          {
+            "label": "2D Shapes",
+            "url": "https://www.youtube.com/watch?v=Ux_kLd7qAcY"
+          },
+          {
+            "label": "Measuring Length",
+            "url": "https://www.youtube.com/watch?v=2wUsdsae0ro"
+          }
+        ],
         "quiz": [
           {
             "q": "3 tens + 5 ones = ?",
@@ -7427,7 +7465,21 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Science comprehensive review covering life systems, earth and space, matter, and physical science.",
         "resourceLabel": "YouTube: Year Review: Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=H9YMgx5T9Sk",
+        "videoUrl": "https://www.youtube.com/watch?v=F5C-rRvaQVQ",
+        "videoUrls": [
+          {
+            "label": "Animals and Their Young",
+            "url": "https://www.youtube.com/watch?v=F5C-rRvaQVQ"
+          },
+          {
+            "label": "The Sun",
+            "url": "https://www.youtube.com/watch?v=sePqPIXMsAc"
+          },
+          {
+            "label": "Materials: Solid, Liquid, Gas",
+            "url": "https://www.youtube.com/watch?v=MrTxRn9MNWM"
+          }
+        ],
         "quiz": [
           {
             "q": "Living things need ___.",
@@ -7487,7 +7539,21 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 1 Social Studies comprehensive review covering family, community, Canada, and civic values.",
         "resourceLabel": "YouTube: Year Review: Social Studies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%201%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=puarPOoJUy8",
+        "videoUrl": "https://www.youtube.com/watch?v=FHaObkHEkHQ",
+        "videoUrls": [
+          {
+            "label": "My Family",
+            "url": "https://www.youtube.com/watch?v=FHaObkHEkHQ"
+          },
+          {
+            "label": "Rules and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=5dtuZkposkk"
+          },
+          {
+            "label": "Canadian Symbols",
+            "url": "https://www.youtube.com/watch?v=38BGXJ572Y8"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the capital of Canada?",
