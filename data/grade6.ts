@@ -15045,6 +15045,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a prepositional phrase begins with a preposition and ends with a noun or pronoun, adding detail about location, time, or direction to a sentence.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=-bAHvHTSYUE",
         "quiz": [
           {
             "q": "A prepositional phrase begins with a preposition and ends with a ___.",
@@ -15105,6 +15106,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: adding and subtracting decimals uses the same place-value rules as whole numbers, so digits must be lined up by their decimal point before combining them.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-SUKE9oibIo",
         "quiz": [
           {
             "q": "To add or subtract decimals correctly, you must first ___.",
@@ -15165,6 +15167,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: an adaptation is a physical feature or behaviour that helps an organism survive and reproduce in its specific environment.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=6pwCkEZE7rA",
         "quiz": [
           {
             "q": "An adaptation is best described as ___.",
@@ -15225,6 +15228,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Indus Valley Civilization was one of the world’s earliest urban societies, known for its advanced city planning, trade networks, and still-undeciphered writing system.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=n7ndRwqJYDM",
         "quiz": [
           {
             "q": "The Indus Valley Civilization is known for its advanced ___.",

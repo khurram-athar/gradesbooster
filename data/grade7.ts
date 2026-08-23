@@ -15011,6 +15011,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: analyzing an author’s purpose and craft means identifying why a writer chose specific words, structures, or techniques to inform, persuade, or entertain readers.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=R_bgo8j6jxc",
         "quiz": [
           {
             "q": "An author’s purpose for writing is often to ___.",
@@ -15071,6 +15072,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: adding or subtracting fractions with unlike denominators requires finding a common denominator before combining the numerators.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XsW8HJutIgM",
         "quiz": [
           {
             "q": "To add or subtract fractions with unlike denominators, you must first ___.",
@@ -15131,6 +15133,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the nervous system, made up of the brain, spinal cord, and neurons, controls the body by sending and receiving electrical signals to coordinate actions and responses.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=RNLceVI8jcc",
         "quiz": [
           {
             "q": "The nervous system is primarily made up of the brain, spinal cord, and ___.",
@@ -15191,6 +15194,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the fur trade was an early economic system in Canada built on the exchange of furs, which relied heavily on partnerships and knowledge shared between Indigenous peoples and European settlers.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=mbDXjEISWPE",
         "quiz": [
           {
             "q": "The fur trade was primarily built on the exchange of ___.",
