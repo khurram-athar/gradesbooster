@@ -15024,6 +15024,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: magical realism is a literary mode in which fantastical or supernatural events are presented within an otherwise realistic setting as an unremarkable part of everyday life, often used to explore cultural, political, or historical truths.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=8YDcUuz8dhs",
         "quiz": [
           {
             "q": "Magical realism presents fantastical or supernatural events within an otherwise ___ setting.",
@@ -15084,6 +15085,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: complex analysis extends algebraic operations on complex numbers into geometric transformations on the complex plane, where multiplication corresponds to a combined rotation and scaling.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=DMGdNoI91_k",
         "quiz": [
           {
             "q": "In complex analysis, multiplying two complex numbers corresponds geometrically to a combined rotation and ___ on the complex plane.",
@@ -15143,6 +15145,11 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: connecting the convergence behaviour of improper integrals to that of infinite series highlights a shared underlying question -- whether an unbounded accumulation process settles toward a finite value.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ND9cEdfCFr0",
+        "videoUrls": [
+          { "label": "Improper Integrals", "url": "https://www.youtube.com/watch?v=ND9cEdfCFr0" },
+          { "label": "Infinite Series", "url": "https://www.youtube.com/watch?v=0YeON4p0ogw" }
+        ],
         "quiz": [
           {
             "q": "Both improper integrals and infinite series raise the shared question of whether an unbounded accumulation process settles toward a ___ value.",
@@ -15203,6 +15210,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: the de Broglie hypothesis proposes that all matter, not only light, exhibits wave-like properties, with a particle’s wavelength inversely related to its momentum.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=ZqspDsQSZuI",
         "quiz": [
           {
             "q": "The de Broglie hypothesis proposes that all matter exhibits ___ properties, not only light.",

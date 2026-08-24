@@ -15016,6 +15016,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: an epistolary novel tells its story through documents such as letters, diary entries, or emails, letting readers piece together plot and character directly from a narrator’s own words without an external narrating voice.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=n5aNAIzy-EY",
         "quiz": [
           {
             "q": "An epistolary novel tells its story primarily through ___.",
@@ -15075,6 +15076,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand (Discrete Mathematics): a set is a well-defined collection of distinct objects, and Venn diagrams visually represent relationships between sets, including union, intersection, and complement.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=xZELQc11ACY",
         "quiz": [
           {
             "q": "A set is best described as ___.",
@@ -15196,6 +15198,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: atomic radius, ionization energy, and electronegativity all change in predictable patterns across a period and down a group of the periodic table, reflecting how nuclear charge and electron shielding shift with atomic structure.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=hePb00CqvP0",
         "quiz": [
           {
             "q": "Atomic radius generally ___ across a period from left to right.",

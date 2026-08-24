@@ -15063,60 +15063,61 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Anti-Hero in Modern Fiction",
-        "summary": "Grade 10 English strand: an anti-hero is a central character who lacks conventional heroic qualities, such as moral clarity or courage, yet still drives the narrative and often earns the reader’s sympathy.",
+        "title": "Characterization: How Authors Build Complex Characters",
+        "summary": "Grade 10 English strand: authors reveal character through direct description as well as indirect methods -- speech, actions, thoughts, and how other characters react -- and skilled characterization builds figures complex enough to feel like real people.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=43Vrnaz8fYU",
         "quiz": [
           {
-            "q": "An anti-hero is best described as a central character who ___.",
+            "q": "Characterization is best described as ___.",
             "options": [
-              "Never appears as the main character of a story",
-              "Is identical to a traditional villain in every way",
-              "Lacks conventional heroic qualities but still drives the narrative",
-              "Always displays perfect moral clarity and courage"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might readers still sympathize with an anti-hero despite their flaws?",
-            "options": [
-              "Their flaws and struggles can feel more relatable and human than a flawless traditional hero",
-              "Sympathy has no connection to how a character is portrayed",
-              "Readers never sympathize with any flawed character",
-              "Anti-heroes are always portrayed as entirely unlikeable"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which is a common trait of an anti-hero?",
-            "options": [
-              "A trait unrelated to characterization",
-              "A morally ambiguous or ethically inconsistent set of choices",
-              "A complete absence of any internal conflict",
-              "A consistently selfless and noble set of actions"
+              "A process unrelated to storytelling",
+              "The process authors use to create and build believable characters",
+              "Only the physical description of a character's appearance",
+              "A technique used exclusively in nonfiction writing"
             ],
             "answer": 1
           },
           {
-            "q": "Why might an author choose to centre a story on an anti-hero rather than a traditional hero?",
+            "q": "Which is an example of INDIRECT characterization?",
             "options": [
-              "Anti-heroes never add complexity to a narrative",
-              "A reason unrelated to character development",
-              "It can create more complex, realistic tension around questions of morality and choice",
-              "Traditional heroes are always a more effective narrative choice"
+              "The narrator directly states a character is kind",
+              "A character's actions, speech, and thoughts reveal their personality to the reader",
+              "A method unrelated to how readers understand characters",
+              "A list of a character's traits given at the story's start"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do authors often prefer showing a character's traits through actions rather than telling readers directly?",
+            "options": [
+              "Showing traits through actions creates a more engaging, believable impression of the character",
+              "There is no difference between showing and telling in fiction",
+              "Telling is always the stronger technique",
+              "Showing traits through action is never used by skilled writers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How a character reacts to other characters in a story can reveal ___.",
+            "options": [
+              "Nothing useful about either character",
+              "Only information about the story's setting",
+              "Important details about both characters' personalities and relationships",
+              "Details unrelated to characterization"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the anti-hero considered a useful figure for exploring modern themes like moral ambiguity?",
+            "q": "Why is strong characterization important to a story's overall impact?",
             "options": [
-              "This character type is only ever used in unrealistic fantasy stories",
-              "The anti-hero has no connection to real-world moral questions",
-              "Their contradictions can mirror the complicated, imperfect choices people face in real life",
-              "Modern literature never explores morally complex themes"
+              "Complex, believable characters help readers connect emotionally and invest in the narrative",
+              "Characterization has no effect on how readers experience a story",
+              "Only plot matters to a story's success, not character",
+              "Believable characters make a story less engaging"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "topic": "Reading: Fiction & Story Elements"
@@ -15127,6 +15128,7 @@
         "summary": "Grade 10 Functions strand (extension): an inverse function reverses the effect of the original function, mapping each output value back to its corresponding input value.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k",
         "quiz": [
           {
             "q": "An inverse function reverses the effect of the original function by ___.",
@@ -15187,6 +15189,7 @@
         "summary": "Grade 10 Chemistry strand: a redox (reduction-oxidation) reaction involves the transfer of electrons between substances, with oxidation numbers used to track how each atom’s charge changes during the reaction.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dF5lB7gRtcA",
         "quiz": [
           {
             "q": "A redox reaction involves the transfer of ___ between substances.",

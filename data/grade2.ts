@@ -18316,6 +18316,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a complete sentence has a subject and a verb and expresses a full thought, while a sentence fragment is missing a part and does not express a complete thought.",
         "resourceLabel": "YouTube: Sentence Fragments vs Complete Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Fragments%20vs%20Complete%20Sentences%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PIDQ5CZebK0",
         "quiz": [
           {
             "q": "What two parts does a complete sentence need?",
@@ -18399,6 +18400,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn strategies for adding three one-digit numbers together, such as looking for a ten first or adding two numbers before adding the third.",
         "resourceLabel": "YouTube: Adding Three One-Digit Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20Three%20One-Digit%20Numbers%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=F6N2zE9SJ8A",
         "quiz": [
           {
             "q": "What is 2 + 3 + 4?",
@@ -18481,6 +18483,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that fossils are the preserved remains or traces of ancient plants and animals found in rock, giving scientists clues about life on earth long ago.",
         "resourceLabel": "YouTube: Fossils: Clues from the Past",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fossils%3A%20Clues%20from%20the%20Past%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HubmDAQSo64",
         "quiz": [
           {
             "q": "What word describes the preserved remains or traces of ancient living things?",
@@ -18566,6 +18569,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare what schools were like long ago, such as one-room schoolhouses with fewer supplies, to schools today, which often have computers, libraries, and many more resources.",
         "resourceLabel": "YouTube: Schools Long Ago and Today",
         "resourceUrl": "https://www.youtube.com/results?search_query=Schools%20Long%20Ago%20and%20Today%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PgnUcVJKfoI",
         "quiz": [
           {
             "q": "What did many schools look like long ago, especially in small communities?",

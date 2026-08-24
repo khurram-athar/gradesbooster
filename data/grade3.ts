@@ -15253,6 +15253,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a contraction is a shortened form of two words joined together, using an apostrophe to show where letters have been left out, such as “don’t” for “do not.”",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gubPH3WEurg",
         "quiz": [
           {
             "q": "A contraction is a shortened form of two words joined together using ___.",
@@ -15313,6 +15314,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: multiplying a number by a multiple of ten, like 20 or 30, can be done by multiplying the basic fact first and then adding a zero to the answer.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=lY7q52L3yN0",
         "quiz": [
           {
             "q": "Multiplying a number by a multiple of ten can be done by multiplying the basic fact first and then ___.",
