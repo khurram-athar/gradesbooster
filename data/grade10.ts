@@ -15264,6 +15264,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: setting establishes the time and place of a story, while atmosphere is the emotional mood created through descriptive details, both shaping how readers experience a narrative.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=40g0Cib7iIE",
         "quiz": [
           {
             "q": "Setting establishes the ___ of a story.",
@@ -15324,6 +15325,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Functions strand (extension): a radical function contains a variable inside a root, such as a square root, and solving a radical equation typically involves isolating the radical and raising both sides to a power.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=SLV600BpHpE",
+        "videoUrls": ["https://www.youtube.com/watch?v=SLV600BpHpE", "https://www.youtube.com/watch?v=0gicD4STzpg"],
         "quiz": [
           {
             "q": "A radical function contains a variable inside a ___.",
@@ -15384,6 +15387,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Biology strand: the endocrine system uses glands to release hormones directly into the bloodstream, regulating body processes such as growth, metabolism, and the response to stress over a longer timescale than the nervous system.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
         "quiz": [
           {
             "q": "The endocrine system regulates the body using ___.",
@@ -15443,6 +15447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: in 1914, the ship Komagata Maru carrying South Asian passengers was denied entry to Canada under discriminatory immigration laws, an incident that remains a significant example of exclusionary policy in Canadian history.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=eZyvg_87e6o",
         "quiz": [
           {
             "q": "The Komagata Maru incident took place in which year?",

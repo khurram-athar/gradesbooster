@@ -15261,60 +15261,61 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: The Persuasive Manifesto",
-        "summary": "Grade 11 English strand: a manifesto is a public declaration of beliefs and intentions, using bold, direct language and a clear call to action to rally an audience around a cause or vision for change.",
+        "title": "Writing: The Persuasive Editorial",
+        "summary": "Grade 11 English strand: an editorial is a piece of opinion writing published by a news outlet that takes a clear stance on an issue, using a strong argument, supporting evidence, and a focused structure to persuade readers.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=3GkN4qul82Y",
         "quiz": [
           {
-            "q": "A manifesto is best described as a public declaration of ___.",
+            "q": "An editorial is best described as a piece of writing that ___.",
             "options": [
-              "A concept unrelated to persuasive writing",
-              "Beliefs and intentions",
-              "A private, confidential opinion never meant to be shared",
-              "Purely factual, statistical data with no viewpoint expressed"
+              "Reports events with no viewpoint expressed",
+              "Takes a clear stance on an issue and argues for it",
+              "Is always written anonymously by a single unnamed reader",
+              "Contains only statistics with no argument"
             ],
             "answer": 1
           },
           {
-            "q": "Which is a stylistic feature commonly associated with a manifesto?",
+            "q": "Which is an important step in writing an effective editorial?",
             "options": [
-              "Long, purely descriptive passages with no argument at all",
-              "A cautious, hedging tone that avoids taking any position",
-              "Bold, direct language and a clear call to action",
-              "A feature entirely unrelated to persuasive writing"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a manifesto use short, declarative sentences rather than lengthy, qualified ones?",
-            "options": [
-              "A manifesto should never attempt to convey urgency of any kind",
-              "Short, direct statements can convey conviction and urgency to an audience",
-              "Short sentences always weaken a piece of persuasive writing",
-              "Sentence length has no connection to how persuasive a text feels"
+              "Avoiding any clear position on the issue",
+              "Choosing a focused, specific topic rather than a vague, broad one",
+              "Leaving out supporting evidence entirely",
+              "Writing as long as possible regardless of clarity"
             ],
             "answer": 1
           },
           {
-            "q": "Why is a clear call to action considered an essential element of a manifesto?",
+            "q": "Why do strong editorials typically rely on evidence and examples?",
             "options": [
-              "A call to action always weakens a manifesto’s persuasive power",
-              "This element has no connection to the purpose of a manifesto",
-              "It directs the audience toward a specific response or change, rather than leaving the message abstract",
-              "Manifestos are never intended to prompt any response from an audience"
+              "Evidence has no effect on how convincing an argument is",
+              "Concrete evidence and examples make an argument more credible and persuasive",
+              "Editorials should never include any facts",
+              "Examples always weaken the writer's position"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might students study historical and contemporary manifestos as models for persuasive writing?",
+            "q": "Why is editing down to the essential argument considered valuable when writing an editorial?",
             "options": [
-              "This form of writing has no historical or contemporary relevance",
-              "A reason unrelated to studying persuasive techniques",
-              "Manifestos have no useful lessons for other forms of persuasive writing",
-              "They demonstrate how bold, structured language can rally an audience around a shared cause"
+              "Tightening the writing keeps the argument focused and easier for readers to follow",
+              "Padding an editorial with extra words always makes it more persuasive",
+              "Editing has no connection to how persuasive a piece of writing is",
+              "Editorials are more effective the longer and more repetitive they are"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "Why might students study editorials as models for persuasive writing?",
+            "options": [
+              "Editorials have no useful lessons for other forms of persuasive writing",
+              "This form of writing has no real-world relevance",
+              "They show how a clear stance, evidence, and focused structure can persuade an audience",
+              "A reason unrelated to studying persuasive techniques"
+            ],
+            "answer": 2
           }
         ],
         "topic": "Writing: Persuasive/Opinion"
@@ -15325,6 +15326,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand (Discrete Mathematics): a graph is a mathematical structure made of vertices (points) connected by edges (lines), used to model relationships and networks such as road systems or social connections.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=C7YrMRdLkqo",
         "quiz": [
           {
             "q": "In graph theory, a vertex is best described as a ___.",
