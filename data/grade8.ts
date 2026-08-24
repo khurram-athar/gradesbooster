@@ -15411,6 +15411,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: groundwater is water stored beneath Earth’s surface in soil and rock, and an aquifer is a layer of permeable rock or sediment that can store and transmit significant amounts of groundwater.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=te9kXOkrqxc",
         "quiz": [
           {
             "q": "Groundwater is water that is stored ___.",
@@ -15470,6 +15471,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: completed in 1885, the Canadian Pacific Railway connected the country from coast to coast, fulfilling a promise made to British Columbia and relying heavily on the labour of Chinese workers who faced dangerous conditions and discrimination.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "The Canadian Pacific Railway was completed in ___.",

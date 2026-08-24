@@ -15513,6 +15513,17 @@
         "summary": "Grade 9 Writing strand: a narrative essay tells a true, personal story using vivid scenes and sensory detail, and the “show, don’t tell” technique conveys emotion and meaning through concrete action and imagery rather than direct statement.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Fo1Csn-xBS8",
+        "videoUrls": [
+          {
+            "label": "The Narrative Essay",
+            "url": "https://www.youtube.com/watch?v=Fo1Csn-xBS8"
+          },
+          {
+            "label": "Show, Don't Tell",
+            "url": "https://www.youtube.com/watch?v=-U1pBoBOj9w"
+          }
+        ],
         "quiz": [
           {
             "q": "The “show, don’t tell” technique conveys emotion and meaning through ___.",
@@ -15573,6 +15584,7 @@
         "summary": "Grade 9 Number/Algebra strand: a rational exponent expresses a root using exponent notation, such as x to the power of one-half being equivalent to the square root of x.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=dLLaPvND6rQ",
         "quiz": [
           {
             "q": "A rational exponent expresses a root using ___.",
@@ -15633,6 +15645,7 @@
         "summary": "Grade 9 Science Biology strand: the immune system defends the body against pathogens, such as bacteria and viruses, using barriers, white blood cells, and antibodies that recognize and respond to specific invaders.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=aq-F4rNuj3Y",
         "quiz": [
           {
             "q": "A pathogen is best described as ___.",
@@ -15693,6 +15706,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: the Earth is divided into time zones based on longitude, and this system allows regions around the world to keep local time roughly aligned with the position of the sun.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=uWZNqSvbS74",
         "quiz": [
           {
             "q": "Time zones are primarily based on divisions of ___.",
