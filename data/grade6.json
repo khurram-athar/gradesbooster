@@ -15462,6 +15462,11 @@
         "summary": "Grade 6 Science strand: the Moon’s phases result from its changing position relative to Earth and the Sun, and eclipses occur when the Sun, Earth, and Moon align in specific ways.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
+        "videoUrls": [
+          "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
+          "https://www.youtube.com/watch?v=qJqGg3Xe4iE"
+        ],
         "quiz": [
           {
             "q": "The Moon’s phases are caused by ___.",
@@ -15522,6 +15527,7 @@
         "summary": "Grade 6 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through control of gold and salt trade routes across the Sahara.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=hwbZ-HsH0EY",
         "quiz": [
           {
             "q": "The West African kingdoms of Ghana, Mali, and Songhai grew powerful largely through control of ___.",

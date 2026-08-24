@@ -15387,6 +15387,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: population genetics studies how allele frequencies change within a population over time, and the Hardy-Weinberg principle describes the theoretical conditions under which those frequencies remain stable across generations.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=7S4WMwesMts",
         "quiz": [
           {
             "q": "Population genetics primarily studies how ___ change within a population over time.",
@@ -15447,6 +15448,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: an empirical formula shows the simplest whole-number ratio of atoms in a compound, while a molecular formula shows the actual number of each atom present, and the molecular formula can be found from the empirical formula using the compound’s molar mass.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=wnRaBWvhYKY",
         "quiz": [
           {
             "q": "An empirical formula shows ___.",

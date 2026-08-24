@@ -15277,6 +15277,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: an epistolary or archival narrative tells a story through documents such as letters, diary entries, or records, requiring readers to piece together plot, character, and reliability from fragmented, first-person sources.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=mj40J8lFu7E",
         "quiz": [
           {
             "q": "An epistolary or archival narrative tells a story through documents such as letters, diary entries, or ___.",
@@ -15337,6 +15338,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: spherical coordinates locate a point in three-dimensional space using a radial distance and two angles, offering an alternative to Cartesian coordinates that is especially useful for problems with a natural centre point.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=hLqexFPSV-w",
         "quiz": [
           {
             "q": "Spherical coordinates locate a point in three-dimensional space using a radial distance and ___ angles.",
@@ -15396,6 +15398,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: the Laplace transform converts a function of time into a function of a complex frequency variable, often turning certain differential equations into more manageable algebraic equations.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=KqokoYr_h1A",
         "quiz": [
           {
             "q": "The Laplace transform converts a function of time into a function of a complex ___ variable.",
@@ -15455,6 +15458,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: the Standard Model describes each fundamental force as being mediated by an exchange of specific particles called gauge bosons, such as the photon for electromagnetism and gluons for the strong force.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=ovegZifmo94",
         "quiz": [
           {
             "q": "The Standard Model describes each fundamental force as being mediated by an exchange of specific particles called ___.",
