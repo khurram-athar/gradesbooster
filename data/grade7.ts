@@ -15261,6 +15261,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a business letter of complaint or request uses formal language and a clear structure to address an issue or ask for action from a company or organization.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gMMaDoBacoU",
         "quiz": [
           {
             "q": "A business letter of complaint should use ___.",
@@ -15321,6 +15322,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: multiplying fractions involves multiplying numerators and denominators directly, while dividing fractions involves multiplying by the reciprocal of the divisor.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=q2nLRHjwZ5k",
         "quiz": [
           {
             "q": "To multiply two fractions, you ___.",
@@ -15381,6 +15383,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: volcanoes and earthquakes are often caused by the movement of tectonic plates, releasing built-up pressure and energy that can dramatically reshape the Earth’s surface.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0SK-jYdEgfE",
         "quiz": [
           {
             "q": "Volcanoes and earthquakes are often caused by ___.",
@@ -15441,6 +15444,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the War of 1812 was fought between the United States and Britain (with its colonies, including present-day Canada), shaping early Canadian identity and border relations.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=efNVeGxLdCg",
         "quiz": [
           {
             "q": "The War of 1812 was fought between the United States and ___.",

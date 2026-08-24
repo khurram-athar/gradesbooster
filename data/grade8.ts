@@ -15289,6 +15289,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Writing strand: a compare-and-contrast essay examines the similarities and differences between two subjects, organized using either a point-by-point or block structure to help readers see clear connections.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2m0wWi1UCGk",
         "quiz": [
           {
             "q": "A compare-and-contrast essay examines ___.",
@@ -15349,6 +15350,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: mean, median, and mode are measures of central tendency that describe a typical value in a data set, while range describes the spread between the highest and lowest values.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=e3uY2LraXts",
         "quiz": [
           {
             "q": "The mean of a data set is calculated by ___.",
