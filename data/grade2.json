@@ -1103,7 +1103,21 @@
         "summary": "Mixed review of short/long vowels, nouns, and action verbs.",
         "resourceLabel": "YouTube: Review: Vowel Sounds, Nouns & Verbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Vowel%20Sounds%2C%20Nouns%20%26%20Verbs%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=_II6ySgUtWc",
+        "videoUrl": "https://www.youtube.com/watch?v=-EbzKgs6Aiw",
+        "videoUrls": [
+          {
+            "label": "Vowel Sounds",
+            "url": "https://www.youtube.com/watch?v=-EbzKgs6Aiw"
+          },
+          {
+            "label": "Nouns",
+            "url": "https://www.youtube.com/watch?v=3K5vg_QsKCc"
+          },
+          {
+            "label": "Action Verbs",
+            "url": "https://www.youtube.com/watch?v=iwfUZAYyqR0"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word has a long vowel sound?",
@@ -1163,7 +1177,21 @@
         "summary": "Mixed review of counting to 50, addition and subtraction within 20, and place value.",
         "resourceLabel": "YouTube: Review: Numbers, Addition & Subtraction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Addition%20%26%20Subtraction%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=7J1OkxuyLD0",
+        "videoUrl": "https://www.youtube.com/watch?v=9XZypM2Z3Ro",
+        "videoUrls": [
+          {
+            "label": "Numbers to 50",
+            "url": "https://www.youtube.com/watch?v=9XZypM2Z3Ro"
+          },
+          {
+            "label": "Addition Within 20",
+            "url": "https://www.youtube.com/watch?v=ZgzpTx-s9Zo"
+          },
+          {
+            "label": "Subtraction Within 20",
+            "url": "https://www.youtube.com/watch?v=Ds226Vh7epg"
+          }
+        ],
         "quiz": [
           {
             "q": "8 + 7 = ?",
@@ -1223,7 +1251,21 @@
         "summary": "Mixed review of living/nonliving things, animal life cycles, solids/liquids, and simple machines.",
         "resourceLabel": "YouTube: Review: Living Things, Matter & Movement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Matter%20%26%20Movement%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=kBL9-RFhnbM",
+        "videoUrl": "https://www.youtube.com/watch?v=QmQvdUaH7hE",
+        "videoUrls": [
+          {
+            "label": "Living vs. Nonliving Things",
+            "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE"
+          },
+          {
+            "label": "Properties of Liquids and Solids",
+            "url": "https://www.youtube.com/watch?v=qYzjg5nRMOg"
+          },
+          {
+            "label": "Structures and Mechanisms: Movement",
+            "url": "https://www.youtube.com/watch?v=1R6MxJpEjfs"
+          }
+        ],
         "quiz": [
           {
             "q": "Which is a living thing?",
@@ -1284,6 +1326,20 @@
         "resourceLabel": "YouTube: Review: Community, Traditions & Maps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Community%2C%20Traditions%20%26%20Maps%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=lGC0zxgRNJQ",
+        "videoUrls": [
+          {
+            "label": "My Family and Community",
+            "url": "https://www.youtube.com/watch?v=lGC0zxgRNJQ"
+          },
+          {
+            "label": "Traditions and Celebrations",
+            "url": "https://www.youtube.com/watch?v=pD8dTo4NxHM"
+          },
+          {
+            "label": "Maps and Globes",
+            "url": "https://www.youtube.com/watch?v=KS6R6xSV9Vc"
+          }
+        ],
         "quiz": [
           {
             "q": "A community is a group of people who...",
@@ -2346,6 +2402,20 @@
         "summary": "Mixed review of vowels, nouns, verbs, adjectives, main idea, sequencing, and rhyming.",
         "resourceLabel": "YouTube: Final Review: Language Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%202%20educational",
+        "videoUrls": [
+          {
+            "label": "Adjectives",
+            "url": "https://www.youtube.com/watch?v=5ZkMbLkGims"
+          },
+          {
+            "label": "Main Idea",
+            "url": "https://www.youtube.com/watch?v=xJGQIYU_xhs"
+          },
+          {
+            "label": "Sequencing Events",
+            "url": "https://www.youtube.com/watch?v=4AMptAmS_xM"
+          }
+        ],
         "videoUrl": "https://www.youtube.com/watch?v=o73GnZotE_Y",
         "quiz": [
           {
@@ -2406,6 +2476,20 @@
         "summary": "Mixed review of addition, subtraction, place value, skip counting, comparing numbers, time, and shapes.",
         "resourceLabel": "YouTube: Final Review: Math Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%202%20educational",
+        "videoUrls": [
+          {
+            "label": "Place Value: Tens and Ones",
+            "url": "https://www.youtube.com/watch?v=_dHu5TFxPtk"
+          },
+          {
+            "label": "Skip Counting by 2s, 5s, and 10s",
+            "url": "https://www.youtube.com/watch?v=DS3W9WLIxlQ"
+          },
+          {
+            "label": "Telling Time to the Hour and Half Hour",
+            "url": "https://www.youtube.com/watch?v=MaVgBjVh4b8"
+          }
+        ],
         "videoUrl": "https://www.youtube.com/watch?v=joHaCejRnmo",
         "quiz": [
           {
@@ -2466,6 +2550,20 @@
         "summary": "Mixed review of living things, life cycles, matter, forces, weather, and air/water.",
         "resourceLabel": "YouTube: Final Review: Science Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%202%20educational",
+        "videoUrls": [
+          {
+            "label": "Growth and Changes in Animals",
+            "url": "https://www.youtube.com/watch?v=LHcQWk1dHzk"
+          },
+          {
+            "label": "Pushes and Pulls",
+            "url": "https://www.youtube.com/watch?v=zI-vmLrBQzU"
+          },
+          {
+            "label": "Weather and Seasons",
+            "url": "https://www.youtube.com/watch?v=4HeeCYVqf3U"
+          }
+        ],
         "videoUrl": "https://www.youtube.com/watch?v=4VapPTbbGkA",
         "quiz": [
           {
@@ -2526,6 +2624,20 @@
         "summary": "Mixed review of community, traditions, maps, rules, jobs, and types of communities.",
         "resourceLabel": "YouTube: Final Review: Social Studies Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%202%20educational",
+        "videoUrls": [
+          {
+            "label": "Rules and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=5dtuZkposkk"
+          },
+          {
+            "label": "Jobs and Community Helpers",
+            "url": "https://www.youtube.com/watch?v=wlBC2ljoGAk"
+          },
+          {
+            "label": "Finding Directions on a Map",
+            "url": "https://www.youtube.com/watch?v=mtsx8V3mE8o"
+          }
+        ],
         "videoUrl": "https://www.youtube.com/watch?v=4Ub0dIC4ezw",
         "quiz": [
           {
@@ -6184,7 +6296,21 @@
         "summary": "Mixed review of alphabetical order, punctuation marks, types of sentences, and making predictions.",
         "resourceLabel": "YouTube: Review: Alphabetical Order, Punctuation, Sentence Types & Predictions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Alphabetical%20Order%2C%20Punctuation%2C%20Sentence%20Types%20%26%20Predictions%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=o3zwyUbBi6w",
+        "videoUrl": "https://www.youtube.com/watch?v=z9tqxFdmx5k",
+        "videoUrls": [
+          {
+            "label": "Alphabetical Order",
+            "url": "https://www.youtube.com/watch?v=z9tqxFdmx5k"
+          },
+          {
+            "label": "Punctuation in Context",
+            "url": "https://www.youtube.com/watch?v=LdCOswMeXFQ"
+          },
+          {
+            "label": "Types of Sentences",
+            "url": "https://www.youtube.com/watch?v=g9_DQOwETMo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word comes first in alphabetical order: dog, ant, cat?",
@@ -6244,7 +6370,21 @@
         "summary": "Mixed review of position words, doubles facts, estimating, and comparing capacity and mass.",
         "resourceLabel": "YouTube: Review: Position Words, Doubles, Estimation & Capacity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Position%20Words%2C%20Doubles%2C%20Estimation%20%26%20Capacity%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=joHaCejRnmo",
+        "videoUrl": "https://www.youtube.com/watch?v=HnlJzWhsNnw",
+        "videoUrls": [
+          {
+            "label": "Position Words",
+            "url": "https://www.youtube.com/watch?v=HnlJzWhsNnw"
+          },
+          {
+            "label": "Estimation Then Counting to Check",
+            "url": "https://www.youtube.com/watch?v=xnUkIsdvfGY"
+          },
+          {
+            "label": "Doubles Facts",
+            "url": "https://www.youtube.com/watch?v=qaqLjzMyyHI"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word describes where something is below another object?",
@@ -6304,7 +6444,21 @@
         "summary": "Mixed review of living vs. non-living, animal adaptations, science tools, and using senses to observe.",
         "resourceLabel": "YouTube: Review: Living Things, Animal Adaptations, Tools & Senses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Animal%20Adaptations%2C%20Tools%20%26%20Senses%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=m2MibjJgyjs",
+        "videoUrl": "https://www.youtube.com/watch?v=QmQvdUaH7hE",
+        "videoUrls": [
+          {
+            "label": "Living vs. Non-Living Things",
+            "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE"
+          },
+          {
+            "label": "Using Tools: Thermometers and Magnifying Glasses",
+            "url": "https://www.youtube.com/watch?v=AmrFkCwd1Lc"
+          },
+          {
+            "label": "The Five Senses in Science Observations",
+            "url": "https://www.youtube.com/watch?v=q1xNuU7gaAQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Which is a characteristic of all living things?",
@@ -6364,7 +6518,21 @@
         "summary": "Mixed review of transportation history, world celebrations, Canadian communities, and caring for the environment.",
         "resourceLabel": "YouTube: Review: Transportation, Celebrations, Canadian Communities & Environment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Transportation%2C%20Celebrations%2C%20Canadian%20Communities%20%26%20Environment%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=NR7z9FbUf5k",
+        "videoUrl": "https://www.youtube.com/watch?v=7WME-lWSbDw",
+        "videoUrls": [
+          {
+            "label": "Transportation Long Ago vs. Today",
+            "url": "https://www.youtube.com/watch?v=7WME-lWSbDw"
+          },
+          {
+            "label": "Celebrations and Traditions Around the World",
+            "url": "https://www.youtube.com/watch?v=RwSYrsjTiW4"
+          },
+          {
+            "label": "Alphabetical Review: Canadian Communities",
+            "url": "https://www.youtube.com/watch?v=Qo7aTFHyhPE"
+          }
+        ],
         "quiz": [
           {
             "q": "Long ago, how did most people travel on land?",

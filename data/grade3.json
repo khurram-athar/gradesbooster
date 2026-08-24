@@ -3626,7 +3626,17 @@
         "summary": "Students review Ontario habitats and learn that biodiversity — the variety of living things — is essential for healthy ecosystems.",
         "resourceLabel": "YouTube: Habitats Review and Biodiversity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Habitats%20Review%20and%20Biodiversity%20grade%203%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=rVZktiOxsww",
+        "videoUrl": "https://www.youtube.com/watch?v=Xj1ASC-TlsI",
+        "videoUrls": [
+          {
+            "label": "Habitats",
+            "url": "https://www.youtube.com/watch?v=Xj1ASC-TlsI"
+          },
+          {
+            "label": "Biodiversity",
+            "url": "https://www.youtube.com/watch?v=rVZktiOxsww"
+          }
+        ],
         "quiz": [
           {
             "q": "Biodiversity means ___.",
