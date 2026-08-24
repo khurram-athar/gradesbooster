@@ -18661,6 +18661,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that quotation marks are punctuation marks placed before and after the exact spoken words of a character in a story, helping readers know exactly what was said aloud.",
         "resourceLabel": "YouTube: Using Quotation Marks in Dialogue",
         "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Quotation%20Marks%20in%20Dialogue%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s8a19kuole0",
         "quiz": [
           {
             "q": "What do we call the punctuation marks placed before and after the exact words a character speaks?",
@@ -18742,6 +18743,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve equations with a missing number, such as 5 plus a missing number equals 9, by using their knowledge of addition and subtraction facts.",
         "resourceLabel": "YouTube: Missing Number Addition and Subtraction Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Number%20Addition%20and%20Subtraction%20Sentences%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Mvm0y1Qr_JQ",
         "quiz": [
           {
             "q": "What number makes this true: 5 + ___ = 9?",
@@ -18825,6 +18827,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a wheel and axle is a simple machine made of a wheel attached to a rod called an axle, which turns together to help move objects with less effort.",
         "resourceLabel": "YouTube: Wheels and Axles: Making Work Easier",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wheels%20and%20Axles%3A%20Making%20Work%20Easier%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ymvSy5vniCM",
         "quiz": [
           {
             "q": "What do we call the rod that a wheel turns around?",
@@ -18910,6 +18913,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about Canadian money, including the one dollar coin called the loonie, the two dollar coin called the toonie, and paper bills used to pay for goods and services.",
         "resourceLabel": "YouTube: Canadian Currency: The Loonie, Toonie, and Bills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20The%20Loonie%2C%20Toonie%2C%20and%20Bills%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GayRX_u4G2Q",
         "quiz": [
           {
             "q": "What is the name of the Canadian one dollar coin?",
