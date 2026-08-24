@@ -15351,6 +15351,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: alliteration is the repetition of the same beginning consonant sound in a series of nearby words, such as slippery snakes slither silently.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=5_b845Lxtq4",
         "quiz": [
           {
             "q": "Alliteration is the repetition of the same ___ in nearby words.",
@@ -15411,6 +15412,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: multiplying a 2-digit number by another 2-digit number involves breaking each factor into tens and ones, then adding the partial products together.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
         "quiz": [
           {
             "q": "When multiplying 2-digit numbers, each factor can be broken into ___.",
@@ -15471,6 +15473,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: camouflage helps an animal blend into its surroundings, while mimicry occurs when one species evolves to resemble another species, both as strategies for survival.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=UzmH1mHdLcA",
         "quiz": [
           {
             "q": "Camouflage helps an animal ___.",
@@ -15531,6 +15534,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: ancient Nubia, home to the Kingdom of Kush, was located along the Nile River south of Egypt and became known for its skilled ironworkers, pyramids, and trade in gold.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=lnoqlCV__z4",
         "quiz": [
           {
             "q": "The ancient Kingdom of Kush was located ___.",

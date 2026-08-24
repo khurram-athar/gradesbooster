@@ -15652,6 +15652,7 @@
         "summary": "Grade 5 Language strand: a prepositional phrase begins with a preposition, such as “in,” “on,” or “under,” and ends with a noun or pronoun, adding detail about location, time, or direction.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2diHLxIdRPY",
         "quiz": [
           {
             "q": "A prepositional phrase begins with a ___.",
@@ -15712,6 +15713,7 @@
         "summary": "Grade 5 Math strand: prime factorization breaks a number down into the prime numbers that multiply together to make it, often shown using a factor tree.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XBnUWjo3TgM",
         "quiz": [
           {
             "q": "Prime factorization breaks a number down into ___.",
@@ -15772,6 +15774,7 @@
         "summary": "Grade 5 Science strand: the Earth is made up of several layers -- the crust, mantle, outer core, and inner core -- each with different properties and depths.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PFzTZJHKkZE",
         "quiz": [
           {
             "q": "The outermost layer of the Earth is called the ___.",
@@ -15828,60 +15831,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Inventions and Innovators",
-        "summary": "Grade 5 Social Studies strand: Canadians have contributed many important inventions and innovations, from basketball to insulin, that have had a lasting impact on the world.",
+        "title": "The Invention of Basketball: A Canadian's Gift to the World",
+        "summary": "Grade 5 Social Studies strand: in 1891, Canadian physical education teacher James Naismith invented the game of basketball at a YMCA training school in Massachusetts, and the sport has since grown into one of the most popular games in the world.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=rwUR1fEO1us",
         "quiz": [
           {
-            "q": "Which of these was invented by a Canadian?",
+            "q": "Basketball was invented by ___.",
             "options": [
-              "Basketball",
-              "The bicycle",
-              "The telephone book",
-              "A concept unrelated to Canadian inventions"
+              "A person unrelated to sports history",
+              "James Naismith, a Canadian physical education teacher",
+              "A group of American football coaches",
+              "An inventor from outside North America"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is it important to study Canadian inventors and innovators?",
+            "q": "James Naismith invented basketball in what year?",
             "options": [
-              "It highlights the contributions Canadians have made to the world",
-              "Canadian inventors have made no notable contributions",
-              "A reason unrelated to Canadian history",
-              "Only inventions from other countries matter"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Insulin, a treatment for diabetes, was discovered by a research team working in ___.",
-            "options": [
-              "A country unrelated to this discovery",
-              "A country that has never contributed to medicine",
-              "Only outside of North America",
-              "Canada"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these best describes an innovator?",
-            "options": [
-              "A concept unrelated to innovation",
-              "Someone with no interest in solving problems",
-              "Someone who creates a new idea, product, or way of doing something",
-              "Someone who only repeats ideas that already exist"
+              "1776",
+              "1950",
+              "1891",
+              "A year unrelated to this invention"
             ],
             "answer": 2
           },
           {
-            "q": "Why might Canadian inventions be a source of national pride?",
+            "q": "Why did Naismith create basketball?",
             "options": [
-              "A reason unrelated to Canadian identity",
-              "National pride has no connection to accomplishments",
-              "They show how Canadians have contributed valuable ideas that benefit others",
-              "Inventions have no connection to how a country sees itself"
+              "He needed an indoor game his students could play during the winter",
+              "A reason unrelated to physical education",
+              "He wanted to replace an existing outdoor sport",
+              "He was asked to invent a game with no rules"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Why is Naismith's invention considered a source of Canadian pride?",
+            "options": [
+              "It has no connection to how Canadians view their history",
+              "A Canadian created a game that grew into one of the most popular sports in the world",
+              "Basketball has never become popular outside Canada",
+              "This achievement is unrelated to Canadian identity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the story of basketball's invention show about innovators?",
+            "options": [
+              "Innovators never solve everyday problems",
+              "A single practical idea can grow into something with a lasting, worldwide impact",
+              "New ideas have no lasting effect on the world",
+              "A concept unrelated to innovation"
+            ],
+            "answer": 1
           }
         ],
         "topic": "Famous Canadians & History (Basic)"

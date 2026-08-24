@@ -15294,6 +15294,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: descriptive writing uses sensory detail and imagery — appealing to sight, sound, smell, taste, and touch — to help readers vividly picture a scene.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=l8nvlajm-DQ",
         "quiz": [
           {
             "q": "Descriptive writing often appeals to the reader’s ___.",
@@ -15354,6 +15355,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional figure, helping visualize the faces that make up a solid.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=LzcbTPwTOuw",
         "quiz": [
           {
             "q": "A net is best described as ___.",
