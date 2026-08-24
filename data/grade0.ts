@@ -18542,6 +18542,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that adding the letter s to the end of many words makes them mean more than one, such as changing cat to cats or dog to dogs.",
         "resourceLabel": "YouTube: Making New Words: Adding an S",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20an%20S%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=174ycaguljc",
         "quiz": [
           {
             "q": "Add an s to the word hat. What new word do you make?",
@@ -18621,6 +18622,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise counting aloud from 1 to 50 by ones, and recognize written numerals up to 50, extending their counting range beyond 30.",
         "resourceLabel": "YouTube: Counting to 50",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20to%2050%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OXGaGttahxY",
         "quiz": [
           {
             "q": "What number comes right after 29?",
@@ -18704,6 +18706,7 @@ const curriculum: DayContent[] = [
         "summary": "Students sort common fruits and vegetables by colour, such as red apples, orange carrots, and green broccoli, and learn that eating many colours helps keep our bodies healthy.",
         "resourceLabel": "YouTube: Fruits and Vegetables: Eating the Rainbow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fruits%20and%20Vegetables%3A%20Eating%20the%20Rainbow%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L1StpMfMwXY",
         "quiz": [
           {
             "q": "Which of these fruits is usually red?",
@@ -18784,6 +18787,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the grocery store as a community place where families go to buy food and other everyday items they need.",
         "resourceLabel": "YouTube: Our Grocery Store: Where Food Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Grocery%20Store%3A%20Where%20Food%20Comes%20From%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WazK8e88axE",
         "quiz": [
           {
             "q": "Where do many families buy food?",
