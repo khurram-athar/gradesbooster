@@ -18878,6 +18878,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the title of a book is its name, usually found on the cover, and practise identifying and talking about story titles.",
         "resourceLabel": "YouTube: Story Titles: What a Book Is Called",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Titles%3A%20What%20a%20Book%20Is%20Called%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eh-jShPYixA",
         "quiz": [
           {
             "q": "What is the title of a book?",
@@ -18959,6 +18960,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to recognize and name shapes with more than four sides, such as a pentagon with five sides and a hexagon with six sides.",
         "resourceLabel": "YouTube: Shapes with Many Sides: Pentagon and Hexagon",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shapes%20with%20Many%20Sides%3A%20Pentagon%20and%20Hexagon%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pRiOQHgVP6c",
         "quiz": [
           {
             "q": "How many sides does a pentagon have?",
@@ -19041,6 +19043,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that some animals, such as geese and monarch butterflies, travel long distances called migration to find warmer weather or food during the year.",
         "resourceLabel": "YouTube: Migration: Animals on the Move",
         "resourceUrl": "https://www.youtube.com/results?search_query=Migration%3A%20Animals%20on%20the%20Move%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hMAS4SdPj-w",
         "quiz": [
           {
             "q": "What is migration?",
@@ -19124,6 +19127,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the bakery as a community place where bakers make bread, cakes, and other baked goods for people to buy and enjoy.",
         "resourceLabel": "YouTube: Our Bakery: Where Bread Is Made",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Bakery%3A%20Where%20Bread%20Is%20Made%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t6qiC4kE0hg",
         "quiz": [
           {
             "q": "What does a baker make?",

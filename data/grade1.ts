@@ -18930,6 +18930,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the suffixes -ed and -es can be added to the end of a word, with -ed often showing something happened in the past, and -es often showing more than one.",
         "resourceLabel": "YouTube: Suffixes: -ed and -es",
         "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20-ed%20and%20-es%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nzXAASiSrDs",
         "quiz": [
           {
             "q": "Which word shows something happened in the past?",
@@ -19013,6 +19014,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise number bonds to 20, pairs of numbers that add together to make 20, such as 12 and 8, to build strong addition and subtraction skills.",
         "resourceLabel": "YouTube: Number Bonds to 20",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%20to%2020%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5z3Xo4C_Ibw",
         "quiz": [
           {
             "q": "What number added to 12 makes 20?",
@@ -19096,6 +19098,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that fossils are the preserved remains or traces of ancient plants and animals, and that scientists study fossils to learn what life was like long ago.",
         "resourceLabel": "YouTube: Fossils: Clues from the Past",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fossils%3A%20Clues%20from%20the%20Past%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PUW0aF7ideg",
         "quiz": [
           {
             "q": "What is a fossil?",
@@ -19179,6 +19182,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that family members can help at home by doing chores, such as tidying toys or setting the table, and that sharing tasks helps the whole family.",
         "resourceLabel": "YouTube: Helping at Home: Chores and Family Responsibilities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Helping%20at%20Home%3A%20Chores%20and%20Family%20Responsibilities%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JwZeAJZjBkE",
         "quiz": [
           {
             "q": "Which of these is an example of a chore at home?",
