@@ -15544,6 +15544,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a fact can be proven true or false with evidence, while an opinion expresses a personal belief, feeling, or judgment that cannot be proven.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Gs9ZGW_1oMM",
         "quiz": [
           {
             "q": "A fact is a statement that ___.",
@@ -15604,6 +15605,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: quadrilaterals are four-sided polygons classified by their side lengths, angles, and parallel sides, including squares, rectangles, rhombuses, trapezoids, and parallelograms.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=BKmbom7CCzE",
         "quiz": [
           {
             "q": "A quadrilateral is a polygon with ___.",
@@ -15664,6 +15666,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a constellation is a recognizable pattern of stars that people have used for centuries to tell stories, mark seasons, and navigate.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=BD3cnBr6KwA",
         "quiz": [
           {
             "q": "A constellation is best described as ___.",
@@ -15723,6 +15726,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Maya civilization, centred in present-day Mexico and Central America, developed advanced achievements in mathematics, astronomy, and writing.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=iaKofHyZ00c",
         "quiz": [
           {
             "q": "The Maya civilization was centred in present-day ___.",

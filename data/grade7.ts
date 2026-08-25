@@ -15511,6 +15511,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a run-on sentence incorrectly joins two independent clauses with no punctuation, while a comma splice incorrectly joins them with only a comma; both can be fixed with a period, semicolon, or conjunction.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Fh45mhVsZrU",
         "quiz": [
           {
             "q": "A run-on sentence occurs when ___.",
@@ -15571,6 +15572,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the order of operations (BEDMAS) determines the sequence for evaluating expressions with brackets, exponents, division, multiplication, addition, and subtraction, including those with integers.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=JhxfMbvXcvE",
         "quiz": [
           {
             "q": "BEDMAS stands for the order: ___.",
@@ -15631,6 +15633,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: magnetism is a force that attracts certain materials, such as iron, and an electromagnet is a temporary magnet created when electric current flows through a coiled wire.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SOi9jW5XlaQ",
         "quiz": [
           {
             "q": "Magnetism is a force that attracts materials such as ___.",
@@ -15691,6 +15694,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Red River Resistance was led by Louis Riel and the Métis people to protect their land, rights, and way of life as Canada expanded westward in the late 1800s.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YIxJ7I8vRzU",
         "quiz": [
           {
             "q": "The Red River Resistance was led by ___.",

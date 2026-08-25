@@ -15538,6 +15538,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: conditional sentences express a condition and its result using if-clauses, and the subjunctive mood expresses wishes, hypothetical situations, or statements contrary to fact.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=prD8n_h7f2w",
         "quiz": [
           {
             "q": "A conditional sentence expresses ___.",
@@ -15598,6 +15599,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand (pre-high-school extension): an absolute value equation can have two possible solutions, since the expression inside the absolute value bars can be either positive or negative and still produce the same result.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_cHbhzQVd7Y",
         "quiz": [
           {
             "q": "The absolute value of a number represents ___.",
@@ -15658,6 +15660,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: water pollution occurs when harmful substances such as chemicals, waste, or excess nutrients enter water systems, and conservation practices like reducing water use and preventing runoff help protect water quality.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=A3rLfrIUzY4",
         "quiz": [
           {
             "q": "Water pollution occurs when ___.",
@@ -15718,6 +15721,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: residential schools were government-funded, church-run institutions that forcibly separated Indigenous children from their families in an effort to assimilate them, causing lasting intergenerational harm that Canada continues to address through truth and reconciliation efforts.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=IWeH_SDhEYU",
         "quiz": [
           {
             "q": "Residential schools were institutions that ___.",
