@@ -15515,6 +15515,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: in the active voice the subject performs the action, while in the passive voice the subject receives the action, a distinction that affects clarity, emphasis, and tone in writing.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4xS2BgkjsFg",
         "quiz": [
           {
             "q": "In the active voice, the subject of a sentence ___.",
@@ -15575,6 +15576,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Data Management strand (extension): expected value is the long-run average outcome of a probability experiment, calculated by summing each outcome multiplied by its probability, and a probability distribution organizes all possible outcomes and their likelihoods.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=VeLixT2JIB8",
         "quiz": [
           {
             "q": "Expected value represents the ___ of a probability experiment.",
@@ -15635,6 +15637,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Physics strand: electromagnetic induction occurs when a changing magnetic field produces an electric current in a nearby conductor, a principle that underlies how electrical generators convert motion into electricity.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
         "quiz": [
           {
             "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",
@@ -15695,6 +15698,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: as Premier of Saskatchewan, Tommy Douglas introduced North America’s first universal public health insurance program in 1962, laying the foundation for Canada’s national Medicare system.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=JzzhoB_AGFs",
         "quiz": [
           {
             "q": "Tommy Douglas served as Premier of which province?",
