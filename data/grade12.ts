@@ -15525,6 +15525,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a bildungsroman traces a protagonist’s psychological and moral development from youth to maturity, typically structured around a series of formative experiences, setbacks, and realizations that shape adult identity.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Kvk2KGXGzp8",
         "quiz": [
           {
             "q": "A bildungsroman traces a protagonist’s psychological and moral development from youth to ___.",
@@ -15584,6 +15585,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: an oblique (slant) asymptote occurs when the degree of a rational function’s numerator exceeds the degree of its denominator by exactly one, and polynomial division reveals the linear function the curve approaches.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=ymU0bCf8M3U",
         "quiz": [
           {
             "q": "An oblique asymptote occurs when the degree of a rational function’s numerator exceeds the degree of its denominator by exactly ___.",
@@ -15644,6 +15646,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: finding the absolute maximum and minimum of a continuous function on a closed interval requires comparing the function’s value at all critical points within the interval to its value at both endpoints.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=3wrXDw5ETh4",
         "quiz": [
           {
             "q": "Finding the absolute maximum and minimum of a continuous function on a closed interval requires comparing its value at all critical points to its value at both ___.",
@@ -15704,6 +15707,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: superfluidity is a state of matter, observed in liquid helium at extremely low temperatures, in which the fluid flows with effectively zero viscosity, allowing it to exhibit striking behaviours impossible for ordinary liquids.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=J2jMjWUIDDc",
         "quiz": [
           {
             "q": "Superfluidity is a state of matter observed in liquid helium at extremely low ___.",
