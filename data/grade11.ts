@@ -3499,6 +3499,8 @@ const curriculum: DayContent[] = [
         "summary": "Students reflect on their growth as readers, writers, and thinkers in Grade 11 and set meaningful goals for Grade 12 and beyond.",
         "resourceLabel": "YouTube: English: Year in Review and Looking Ahead to Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lfx7ukqc3qw",
+        "videoUrls": [{"label": "Reflecting on Growth", "url": "https://www.youtube.com/watch?v=Lfx7ukqc3qw"}],
         "quiz": [
           {
             "q": "The most significant shift in Grade 11 English from Grade 10 is ___.",

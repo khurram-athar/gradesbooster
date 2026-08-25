@@ -15902,6 +15902,13 @@
         "summary": "Grade 5 Language strand: a book review summarizes a text and shares the writer’s opinion of it, supported by specific reasons and examples from the book.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=q7QfdKpJgxs",
+        "videoUrls": [
+          {
+            "label": "Writing a Book Review",
+            "url": "https://www.youtube.com/watch?v=q7QfdKpJgxs"
+          }
+        ],
         "quiz": [
           {
             "q": "A book review typically includes a summary and ___.",
@@ -15961,6 +15968,7 @@
         "summary": "Grade 5 Math strand: an exponent shows how many times a number, called the base, is multiplied by itself, such as 2 cubed meaning 2 x 2 x 2.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=yQ3SZgdqb7I",
         "quiz": [
           {
             "q": "An exponent tells you ___.",
@@ -16021,6 +16029,7 @@
         "summary": "Grade 5 Science strand: volcanoes form when molten rock, gas, and ash escape from beneath the Earth’s surface, and different volcano types are shaped by how they erupt.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=sd8cVCtIRO4",
         "quiz": [
           {
             "q": "A volcano forms when molten rock, called magma, escapes from ___.",
@@ -16081,6 +16090,7 @@
         "summary": "Grade 5 Social Studies strand: Canada’s economy includes primary industries that gather raw materials, secondary industries that manufacture goods, and tertiary industries that provide services.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TWVhE_wlBLs",
         "quiz": [
           {
             "q": "A primary industry is one that ___.",

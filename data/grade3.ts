@@ -15686,6 +15686,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canada is so wide that it is divided into six time zones, meaning the time of day can be different in different parts of the country at the very same moment.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=m6gnEcMQsZg",
         "quiz": [
           {
             "q": "Canada is divided into six ___, meaning the time of day can differ across the country.",
