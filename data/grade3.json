@@ -15814,6 +15814,7 @@
         "summary": "Grade 3 Language strand: a postcard is a short piece of writing that describes a place or an experience, usually including a greeting, a few interesting details, and a friendly closing.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cpGTQ9DCTac",
         "quiz": [
           {
             "q": "A postcard is a short piece of writing that describes ___.",
@@ -15874,6 +15875,7 @@
         "summary": "Grade 3 Math strand: sorting and classifying objects means grouping them by a shared attribute, such as colour, shape, or size, which helps organize information before it is displayed in a chart or graph.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=HSj9Y157OBs",
         "quiz": [
           {
             "q": "Sorting and classifying objects means grouping them by a shared ___.",
@@ -15934,6 +15936,7 @@
         "summary": "Grade 3 Science strand: many living things build natural structures, such as spider webs, bird nests, and beehives, that are specially suited to keep them safe and help them survive.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SRmx5f-Ro8Q",
         "quiz": [
           {
             "q": "Natural structures like spider webs, bird nests, and beehives are specially suited to help living things ___.",
@@ -15990,60 +15993,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Starting a Small Business: Entrepreneurs in the Community",
-        "summary": "Grade 3 Social Studies strand: an entrepreneur is a person who starts their own business, taking on the risk of the idea in the hope of providing a helpful product or service to the community.",
+        "title": "Social Studies: Goods and Services in the Community",
+        "summary": "Grade 3 Social Studies strand: goods are things people make or grow, like food or clothing, while services are jobs people do to help others, like teaching or fixing cars, and both are provided by workers in a community.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=OT32ZFq3G9I",
         "quiz": [
           {
-            "q": "An entrepreneur is a person who ___.",
+            "q": "A good is something that ___.",
             "options": [
-              "Only works for someone else’s existing business",
-              "Never takes any risks with a new idea",
-              "A concept unrelated to starting a business",
-              "Starts their own business"
+              "Is made or grown, like food or clothing",
+              "A concept unrelated to what people buy",
+              "Can never be bought or sold",
+              "Is always a job someone does for you"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A service is ___.",
+            "options": [
+              "A concept unrelated to helping others",
+              "Only something you can hold in your hands",
+              "A job someone does to help other people, like teaching or fixing cars",
+              "The same thing as a good"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a service, not a good?",
+            "options": [
+              "A loaf of bread",
+              "A pair of shoes",
+              "A haircut from a barber",
+              "A concept unrelated to goods or services"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do communities need both goods and services?",
+            "options": [
+              "This concept has no connection to how communities work",
+              "Communities only ever need goods, never services",
+              "People need both things they can use and jobs others do to help them",
+              "Communities only ever need services, never goods"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A person who works in a community, like a doctor or a mechanic, is providing a ___.",
+            "options": [
+              "A concept unrelated to community workers",
+              "Good",
+              "Neither a good nor a service",
+              "Service"
             ],
             "answer": 3
-          },
-          {
-            "q": "An entrepreneur takes on the risk of a new idea in the hope of providing a helpful ___ to the community.",
-            "options": [
-              "Nothing at all, since businesses provide no benefit",
-              "Product or service",
-              "A concept unrelated to what a business offers",
-              "Only entertainment, with no other possible purpose"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which is an example of something an entrepreneur might do to start a business?",
-            "options": [
-              "Ignore whether the community needs the product or service",
-              "Wait for someone else to start the business for them",
-              "Come up with an idea and figure out how to sell it",
-              "A concept unrelated to starting a business"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might starting a small business be considered a risk for an entrepreneur?",
-            "options": [
-              "This concept has no connection to understanding how businesses start",
-              "Entrepreneurs are always guaranteed success with no possible risk",
-              "There is no guarantee the business will succeed, so the entrepreneur could lose money or time",
-              "Starting a business is never risky in any way"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a small business started by an entrepreneur benefit the local community?",
-            "options": [
-              "This concept has no connection to understanding local economies",
-              "Small businesses never provide any benefit to a community",
-              "It can provide new products, services, or jobs that help meet community needs",
-              "A small business always has a negative effect on its community"
-            ],
-            "answer": 2
           }
         ],
         "topic": "Communities & Community Helpers"

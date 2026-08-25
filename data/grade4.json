@@ -15886,6 +15886,7 @@
         "summary": "Grade 4 Language strand: the theme of a story is its central message or lesson about life, which is different from the plot, or the events that happen.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=QD_jKGySIzs",
         "quiz": [
           {
             "q": "The theme of a story is its ___.",
@@ -15946,6 +15947,17 @@
         "summary": "Grade 4 Math strand: estimating products and quotients involves rounding numbers before multiplying or dividing to quickly predict a reasonable answer.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=RILEY1MWXLI",
+        "videoUrls": [
+          {
+            "label": "Estimating Products",
+            "url": "https://www.youtube.com/watch?v=RILEY1MWXLI"
+          },
+          {
+            "label": "Estimating Quotients",
+            "url": "https://www.youtube.com/watch?v=9VkvqQ5hcsQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Estimating a product or quotient means ___.",
@@ -16005,6 +16017,7 @@
         "summary": "Grade 4 Science strand: whether an object floats or sinks in water depends on its buoyancy, which compares the object’s weight to the weight of the water it displaces.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=nMlXU97E-uQ",
         "quiz": [
           {
             "q": "Buoyancy refers to the ability of an object to ___.",
@@ -16065,6 +16078,7 @@
         "summary": "Grade 4 Social Studies strand: early societies organized leadership in different ways, from kings and pharaohs to councils of elders, to make decisions and maintain order.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_j6-Jxx_d9M",
         "quiz": [
           {
             "q": "Many early societies were led by a single powerful ruler, such as a ___.",
