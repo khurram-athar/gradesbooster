@@ -15967,6 +15967,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Language strand: etymology is the study of a word’s origin and historical development, and recognizing common Greek and Latin roots can help readers determine the meaning of unfamiliar words.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cSAW4FSA8Dg",
         "quiz": [
           {
             "q": "Etymology is best described as the study of ___.",

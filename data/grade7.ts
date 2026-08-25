@@ -15760,6 +15760,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: homophones are words that sound alike but have different meanings and spellings, while homographs are spelled the same but may have different meanings and pronunciations.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_fTf8zbEqcQ",
         "quiz": [
           {
             "q": "Homophones are words that ___.",
@@ -15820,6 +15821,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the volume of a pyramid or cone is one-third the volume of a prism or cylinder with the same base and height, and their surface area includes the base plus the slanted lateral surface.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=x8wEnG4GURQ",
+        "videoUrls": [{"label": "Volume and Surface Area of Pyramids", "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"}, {"label": "Volume and Surface Area of Cones", "url": "https://www.youtube.com/watch?v=crxFsKRGEqk"}],
         "quiz": [
           {
             "q": "The volume of a pyramid or cone is ___ the volume of a prism or cylinder with the same base and height.",
@@ -15880,6 +15883,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the greenhouse effect occurs when gases in the atmosphere trap heat from the sun, and an increase in these gases from human activity is linked to global climate change.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=YpfxiDktSoI",
         "quiz": [
           {
             "q": "The greenhouse effect occurs when gases in the atmosphere ___.",

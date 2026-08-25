@@ -15848,6 +15848,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: currency exchange rates determine how much one currency is worth in another, while unit pricing calculates the cost per single unit of an item, helping consumers compare value between different package sizes.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=JRf7_RKF3uA",
+        "videoUrls": [{"label": "Currency Exchange Rates", "url": "https://www.youtube.com/watch?v=JRf7_RKF3uA"}, {"label": "Unit Pricing", "url": "https://www.youtube.com/watch?v=kFNEqLWy1P4"}],
         "quiz": [
           {
             "q": "A currency exchange rate determines ___.",
@@ -15908,6 +15910,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: water treatment facilities use processes such as filtration, sedimentation, and disinfection to remove contaminants and make water safe for drinking and other uses.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=KsVfshmK0Ak",
         "quiz": [
           {
             "q": "Filtration in water treatment involves ___.",
