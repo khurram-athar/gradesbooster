@@ -15829,6 +15829,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a prefix is added to the beginning of a word to change its meaning, while a suffix is added to the end, and both help readers figure out unfamiliar words.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=H2Z4p0au1yk",
         "quiz": [
           {
             "q": "A prefix is added to the ___ of a word.",
@@ -15889,6 +15890,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: divisibility rules are quick tests that show whether a number can be divided evenly by another number, without doing long division.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=uiSDZ3zB_d4",
         "quiz": [
           {
             "q": "A number is divisible by 2 if it ___.",
@@ -15949,6 +15951,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: pollution includes air, water, and land pollution caused by human activity, and each type can harm living things and the environment.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Ww3d23tr_4w",
         "quiz": [
           {
             "q": "Air pollution can be caused by ___.",
@@ -16008,6 +16011,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: taxes are payments collected by governments from citizens and businesses, used to fund public services such as schools, roads, and healthcare.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HJV7SbkeC60",
         "quiz": [
           {
             "q": "Taxes are payments collected by governments to fund ___.",

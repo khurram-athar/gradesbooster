@@ -15792,6 +15792,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a root word carries a word’s core meaning, a prefix is added to the beginning to change that meaning, and a suffix is added to the end, often changing its part of speech.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=60IcoXhBouU",
         "quiz": [
           {
             "q": "A root word is best described as ___.",
@@ -15852,6 +15853,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a composite 2D shape is made of two or more simple shapes joined together, and finding its perimeter or area involves breaking it into familiar parts.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=rBpsauKXPfs",
         "quiz": [
           {
             "q": "To find the area of a composite 2D shape, you generally ___.",
@@ -15912,6 +15914,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: gravity is a force of attraction between objects with mass, and it is what keeps planets in orbit around the Sun and moons in orbit around planets.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=H9YMgx5T9Sk",
         "quiz": [
           {
             "q": "Gravity is best described as ___.",
@@ -15972,6 +15975,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the French Revolution began in 1789 as widespread inequality and financial crisis led citizens to overthrow the monarchy and reshape France’s government.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=lTTvKwCylFY",
         "quiz": [
           {
             "q": "A major cause of the French Revolution was ___.",
