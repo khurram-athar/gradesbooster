@@ -16011,6 +16011,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: internal conflict is a struggle within a character’s own mind, while external conflict is a struggle between a character and an outside force, such as another character or nature.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IvMpBN0YTiw",
         "quiz": [
           {
             "q": "Internal conflict is a struggle ___.",
@@ -16071,6 +16072,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hJRXKq2GEo8",
         "quiz": [
           {
             "q": "A permutation counts arrangements where ___.",
@@ -16131,6 +16133,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: density is the amount of mass in a given volume of a substance, and buoyancy explains why objects less dense than a fluid float while denser objects sink.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VDSYXmvjg6M",
         "quiz": [
           {
             "q": "Density is defined as ___.",
@@ -16190,6 +16193,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Universal Declaration of Human Rights outlines fundamental rights meant to be protected for all people, and Canada upholds many of these rights through its own laws and protections.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=AGcy-tP3YOQ",
         "quiz": [
           {
             "q": "The Universal Declaration of Human Rights outlines rights meant to be protected for ___.",

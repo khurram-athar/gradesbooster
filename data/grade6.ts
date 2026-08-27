@@ -16041,6 +16041,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: a cause and effect essay explains why something happened (the cause) and what resulted from it (the effect), often using clear transition words to show these relationships.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=MFCk4wLEzLQ",
         "quiz": [
           {
             "q": "A cause and effect essay explains ___.",
@@ -16101,6 +16102,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: comparing and ordering rational numbers means placing integers, fractions, and decimals on a common number line to determine their relative size.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=33_Gx-dof7I",
         "quiz": [
           {
             "q": "To compare a fraction and a decimal, it often helps to first ___.",
@@ -16161,6 +16163,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: engineers design structures to withstand different types of loads and forces, using shapes and materials that provide stability and strength.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=MnuUTKxqg3g",
         "quiz": [
           {
             "q": "In structural design, a load refers to ___.",
@@ -16221,6 +16224,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the American Revolution (1775-1783) saw the Thirteen Colonies gain independence from Britain, an event that also shaped migration and politics in British North America, including present-day Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BZ4hyttwzFY",
         "quiz": [
           {
             "q": "The American Revolution resulted in the Thirteen Colonies gaining independence from ___.",
