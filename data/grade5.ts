@@ -16257,58 +16257,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Agriculture and Farming Regions of Canada",
-        "summary": "Grade 5 Social Studies strand: Canada’s different regions support different types of farming, shaped by climate, soil, and land, from prairie grain farms to Ontario’s fruit orchards.",
+        "title": "Canada’s Regions: How Geography Shapes Where People Live and Work",
+        "summary": "Grade 5 Social Studies strand: Canada is made up of distinct regions, each with its own climate, landforms, and natural resources, and these differences shape where communities settle and the kinds of farming, industry, and jobs found there.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=daS9lwNft9A",
         "quiz": [
           {
-            "q": "The Prairie provinces are well known for growing ___.",
+            "q": "What is a “region” in the context of geography?",
             "options": [
-              "Grain crops such as wheat",
-              "Only tropical fruit",
-              "A concept unrelated to Prairie agriculture",
-              "No crops at all"
+              "An area that shares similar physical features, such as climate, landforms, or natural resources",
+              "A concept unrelated to geography",
+              "A single city with no surrounding land",
+              "An area where every location looks and behaves identically to every other place on Earth"
             ],
             "answer": 0
           },
           {
-            "q": "Why might southern Ontario be suitable for growing fruit such as peaches and grapes?",
+            "q": "Why do different regions of Canada support different types of farming and industry?",
             "options": [
-              "Southern Ontario has no farmland at all",
-              "A reason unrelated to agriculture",
-              "It has a milder climate and fertile soil suited to fruit growing",
-              "Climate and soil have no connection to farming"
+              "A reason unrelated to Canadian geography",
+              "Differences in climate, soil, and landforms shape what people can grow and do in each region",
+              "All regions of Canada have exactly the same climate and land",
+              "Farming and industry have no connection to geography"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Which factor most affects what crops can be grown in a Canadian region?",
-            "options": [
-              "A factor unrelated to agriculture",
-              "The colour of the provincial flag",
-              "The size of the region’s cities",
-              "Climate and soil conditions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is agriculture an important part of Canada’s economy?",
-            "options": [
-              "Agriculture has no connection to Canada’s economy",
-              "A reason unrelated to farming",
-              "It provides food and supports jobs across many regions",
-              "Farming no longer takes place anywhere in Canada"
-            ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "Why might farming be more limited in Canada’s northern territories?",
             "options": [
-              "Colder climates and shorter growing seasons make large-scale farming difficult",
               "The north has the best possible climate for farming",
+              "Colder climates and shorter growing seasons make large-scale farming difficult",
               "A reason unrelated to Canadian geography",
               "Farming is equally easy in every region of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one reason communities in Canada are spread out differently across regions?",
+            "options": [
+              "Population has no connection to geography or resources",
+              "Access to resources, climate, and land shapes where communities grow",
+              "Every region of Canada has identical population density",
+              "A reason unrelated to where Canadians live"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which best describes how Canada’s regions differ from one another?",
+            "options": [
+              "Each region has its own mix of landforms, climate, and natural resources",
+              "Every Canadian region looks and feels exactly the same",
+              "A description unrelated to Canada’s regions",
+              "Canada has no meaningful regional differences"
             ],
             "answer": 0
           }
