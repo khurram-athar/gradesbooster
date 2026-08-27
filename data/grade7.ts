@@ -15944,6 +15944,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: Canada’s provinces and territories joined Confederation at different times, gradually expanding the country’s borders from the original four provinces in 1867 to the ten provinces and three territories of today.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=uCaTbrJ8fdM",
         "quiz": [
           {
             "q": "Canada began Confederation in 1867 with how many original provinces?",

@@ -15826,6 +15826,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand (Data Management): measures of central tendency, such as the mean, median, and mode, describe a typical value in a data set, while measures of spread, such as range and interquartile range, describe how varied the data actually is.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=_Pyi12dn4Kw",
         "quiz": [
           {
             "q": "The mean of a data set is calculated by ___.",
@@ -15886,6 +15887,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: extremophiles are organisms, primarily microorganisms, that thrive in conditions once thought too harsh for life, such as extreme heat, cold, pressure, or acidity, expanding scientific understanding of where and how life can exist.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=ppJQOePUO08",
         "quiz": [
           {
             "q": "An extremophile is best described as an organism that ___.",
@@ -15945,6 +15947,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: acid rain forms when sulphur dioxide and nitrogen oxides released by burning fossil fuels react with water vapour in the atmosphere to produce sulphuric and nitric acid, lowering the pH of precipitation and damaging ecosystems.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=P4I-abHPa-I",
         "quiz": [
           {
             "q": "Acid rain primarily forms when sulphur dioxide and nitrogen oxides react with ___ in the atmosphere.",
