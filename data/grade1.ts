@@ -19272,6 +19272,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the prefixes pre- and dis- can be added to the beginning of a word to change its meaning, with pre- meaning before and dis- often meaning not or opposite.",
         "resourceLabel": "YouTube: Prefixes: pre- and dis-",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20pre-%20and%20dis-%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CgWj4e2AdLI",
         "quiz": [
           {
             "q": "What does the prefix pre- usually mean?",
@@ -19355,6 +19356,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise skip counting by 6s, saying the numbers 6, 12, 18, 24, and so on, to build number sense and recognize patterns.",
         "resourceLabel": "YouTube: Skip Counting by 6s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%206s%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1PzW8LwH7CU",
         "quiz": [
           {
             "q": "When skip counting by 6s, what number comes after 6?",
@@ -19438,6 +19440,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a shadow forms when an object blocks light, and that shadows can change in size and shape depending on where the light comes from.",
         "resourceLabel": "YouTube: Shadows: Light and Dark",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shadows%3A%20Light%20and%20Dark%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SJeiifQw9sk",
         "quiz": [
           {
             "q": "What is a shadow?",
@@ -19520,6 +19523,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare how schools looked and worked long ago with how schools look and work today, noticing changes in buildings, tools, and technology.",
         "resourceLabel": "YouTube: Schools Then and Now",
         "resourceUrl": "https://www.youtube.com/results?search_query=Schools%20Then%20and%20Now%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n4lFPv82M_s",
         "quiz": [
           {
             "q": "Which tool is commonly used in schools today that was not common long ago?",

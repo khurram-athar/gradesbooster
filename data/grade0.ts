@@ -19217,6 +19217,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that some sentences tell us something and end with a period, while other sentences ask a question and end with a question mark.",
         "resourceLabel": "YouTube: Sentence Types: Telling and Asking",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Types%3A%20Telling%20and%20Asking%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g9_DQOwETMo",
         "quiz": [
           {
             "q": "What punctuation mark ends a telling sentence?",
@@ -19298,6 +19299,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve simple word problems within 10 by acting them out or drawing pictures, connecting real situations to addition and subtraction.",
         "resourceLabel": "YouTube: Addition and Subtraction Stories to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Stories%20to%2010%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C229LUk380Q",
         "quiz": [
           {
             "q": "You have 5 stickers and get 3 more. How many stickers do you have now?",
@@ -19381,6 +19383,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that bees visit flowers to collect nectar and, in doing so, carry pollen that helps new flowers and fruits grow, a process called pollination.",
         "resourceLabel": "YouTube: Bees and Pollination: Helping Flowers Grow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bees%20and%20Pollination%3A%20Helping%20Flowers%20Grow%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5SuEig9lQSg",
         "quiz": [
           {
             "q": "Which insect is well known for helping pollinate flowers?",
@@ -19462,6 +19465,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn what it means to share fairly, such as splitting a snack or toys equally so that everyone gets a turn or an equal amount.",
         "resourceLabel": "YouTube: Fair Sharing: Splitting Things Equally",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fair%20Sharing%3A%20Splitting%20Things%20Equally%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fsNlmZ3jkvc",
         "quiz": [
           {
             "q": "If two friends split a snack fairly, what happens?",
