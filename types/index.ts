@@ -92,6 +92,8 @@ export interface DayContent {
   day: number;
   label: string;
   reviewNote?: string;
+  isPracticeDay?: boolean;  // true for auto-generated practice/recap days (Day 188+),
+                            // distinct from the real 1-187 curriculum sequence
   subjects: SubjectContent[];
 }
 
