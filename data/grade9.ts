@@ -16215,6 +16215,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Reading strand: direct characterization occurs when a narrator explicitly states a character’s traits, while indirect characterization reveals traits through a character’s actions, dialogue, thoughts, and how other characters respond to them.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=KWYPzVveuKY",
         "quiz": [
           {
             "q": "Direct characterization occurs when ___.",
@@ -16275,6 +16276,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Measurement strand: the surface area and volume of a sphere or cone can be calculated using specific formulas involving the radius, and, for a cone, its height and slant height.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=2ZfjME7lTek",
         "quiz": [
           {
             "q": "The volume of a sphere can be calculated using a formula involving its ___.",
@@ -16335,6 +16337,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: the circulatory system transports blood, oxygen, and nutrients throughout the body via the heart and blood vessels, while the respiratory system brings oxygen into the body and removes carbon dioxide through the lungs.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=9fxm85Fy4sQ",
         "quiz": [
           {
             "q": "The circulatory system is primarily responsible for ___.",
@@ -16395,6 +16398,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: political geography examines how administrative boundaries, such as Canada’s federal, provincial, and municipal levels, divide authority and responsibility across different regions of a country.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=-oxAojygZLA",
         "quiz": [
           {
             "q": "Political geography examines how administrative boundaries divide ___.",
