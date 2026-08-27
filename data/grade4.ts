@@ -16099,6 +16099,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a newspaper report presents factual information about a recent event, answering the questions who, what, where, when, why, and how in a clear headline and opening paragraph.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=T6C8N-lRd4o",
         "quiz": [
           {
             "q": "A newspaper report is mainly meant to ___.",
@@ -16159,6 +16160,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: polygons are classified by their number of sides and angles, and can be described as regular (equal sides and angles) or irregular (unequal sides and angles).",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-HovCOsuKm8",
         "quiz": [
           {
             "q": "A polygon is classified based on its number of ___.",
@@ -16219,6 +16221,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: clouds form in different shapes and heights, and identifying cloud types, such as cumulus, stratus, and cirrus, can help predict upcoming weather.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=FMagDRCpJ14",
         "quiz": [
           {
             "q": "Clouds form when water vapour in the air ___.",
@@ -16279,6 +16282,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and northern Canada, shaped by glaciers and known for its lakes, forests, and mineral deposits.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=lQ0VSa6XLlo",
         "quiz": [
           {
             "q": "The Canadian Shield is best described as a vast region of ___.",

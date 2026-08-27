@@ -16003,6 +16003,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: making a prediction means using clues from the text, pictures, or prior knowledge to make a sensible guess about what might happen next in a story.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=cIhRCMeDz6k",
         "quiz": [
           {
             "q": "Making a prediction means using clues to make a sensible ___ about what might happen next.",
@@ -16063,6 +16064,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a calendar organizes days into weeks and months, helping people track dates, plan events, and figure out how many days are between two events.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=7erKXLtM-ww",
         "quiz": [
           {
             "q": "A calendar organizes days into weeks and ___.",
@@ -16123,6 +16125,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: many animals use sound to communicate, such as birds singing to attract a mate or warn of danger, and whales calling to one another across long distances underwater.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Er0lHlXVCIE",
         "quiz": [
           {
             "q": "Many animals use sound to ___.",
@@ -16183,6 +16186,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: public transportation, such as buses, subways, and trains, helps move many people around a community at once, reducing the number of cars on the road.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=hD1bs6MIV0A",
         "quiz": [
           {
             "q": "Public transportation, such as buses and trains, helps move many people around a community ___.",
