@@ -19633,6 +19633,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use a simple balance scale to compare the weight of two objects, learning that the heavier object makes its side of the balance go down.",
         "resourceLabel": "YouTube: Measurement: Comparing Weight with a Balance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Weight%20with%20a%20Balance%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=W-YeD2LpFZs",
         "quiz": [
           {
             "q": "On a balance scale, which way does the heavier side move?",
@@ -19714,6 +19715,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that lungs help our body breathe in fresh air and breathe out air we do not need, and practise taking slow, calm breaths.",
         "resourceLabel": "YouTube: Our Lungs: Breathing In and Out",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Lungs%3A%20Breathing%20In%20and%20Out%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TME0rMROIrY",
         "quiz": [
           {
             "q": "What body part helps us breathe air in and out?",
@@ -19797,6 +19799,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare different ways children get to school, such as walking, riding the bus, biking, or being driven, and discuss safe habits for each.",
         "resourceLabel": "YouTube: Getting to School: Different Ways We Travel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Getting%20to%20School%3A%20Different%20Ways%20We%20Travel%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YDalx7Lld4Q",
         "quiz": [
           {
             "q": "Which of these is a way children might get to school?",
