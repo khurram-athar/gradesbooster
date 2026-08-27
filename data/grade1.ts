@@ -19614,6 +19614,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that some words, called multiple-meaning words, have more than one meaning, such as bat, which can be a flying animal or something used to hit a ball.",
         "resourceLabel": "YouTube: Multiple-Meaning Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiple-Meaning%20Words%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p-UEY_0WQzg",
         "quiz": [
           {
             "q": "Which word can mean both a flying animal and something used to hit a ball?",
@@ -19697,6 +19698,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise sharing a set of objects into equal groups, learning that dividing items fairly means each group gets the same amount.",
         "resourceLabel": "YouTube: Making Equal Groups: Sharing Fairly",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Equal%20Groups%3A%20Sharing%20Fairly%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FStsGPKrFpk",
         "quiz": [
           {
             "q": "If you share 6 apples equally between 2 friends, how many does each friend get?",
