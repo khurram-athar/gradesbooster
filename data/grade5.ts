@@ -16078,6 +16078,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a flashback is a writing technique where the story pauses to show an event that happened earlier, before returning to the present moment of the story.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=27swTdNKRy8",
         "quiz": [
           {
             "q": "A flashback shows an event that happened ___.",
@@ -16138,6 +16139,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a square number is the result of multiplying a whole number by itself, and its square root is the number that was multiplied to produce it.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=B4zejSI8zho",
         "quiz": [
           {
             "q": "A square number is the result of ___.",
@@ -16198,6 +16200,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: many animals go through distinct life cycle stages, and some, such as butterflies and frogs, undergo metamorphosis, a dramatic change in body form.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=upJLAHzrI7k",
         "quiz": [
           {
             "q": "Metamorphosis is a process in which an animal ___.",
