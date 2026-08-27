@@ -16136,6 +16136,7 @@
         "summary": "Grade 12 Advanced Functions strand: a continued fraction expresses a number as a whole number plus a fraction whose denominator is itself a sum involving another fraction, offering an alternative way to represent and approximate real numbers.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=LMExZRUhv64",
         "quiz": [
           {
             "q": "A continued fraction expresses a number as a whole number plus a fraction whose denominator is itself a sum involving another ___.",
@@ -16196,6 +16197,7 @@
         "summary": "Grade 12 Calculus strand: the Mean Value Theorem for Integrals guarantees that a continuous function on a closed interval attains its average value at least once within that interval, connecting the definite integral to a specific function value.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=bLeglo-c5Tw",
         "quiz": [
           {
             "q": "The Mean Value Theorem for Integrals guarantees that a continuous function on a closed interval attains its ___ value at least once within that interval.",
@@ -16256,6 +16258,7 @@
         "summary": "Grade 12 Physics strand: beta decay is a type of radioactive decay in which a neutron transforms into a proton, releasing an electron and an antineutrino, a process mediated by the weak nuclear force.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=LpU-pDrlRxQ",
         "quiz": [
           {
             "q": "In beta decay, a neutron transforms into a proton, releasing an electron and an ___.",
