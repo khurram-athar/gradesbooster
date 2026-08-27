@@ -16037,6 +16037,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Reading strand: an allegory is a narrative in which characters, settings, and events symbolically represent a deeper moral, political, or social meaning beyond the literal story.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=EXzmYeD3Ixc",
         "quiz": [
           {
             "q": "An allegory is a narrative in which ___.",
@@ -16097,6 +16098,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: theoretical probability is calculated using known possible outcomes, while experimental probability is calculated from the actual results of repeated trials, and the two often converge as the number of trials increases.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Ay5pnC-0bVI",
         "quiz": [
           {
             "q": "Theoretical probability is calculated using ___.",
@@ -16157,6 +16159,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: a simple machine, such as a lever, pulley, or inclined plane, makes work easier by changing the amount or direction of force needed, and mechanical advantage compares the output force to the input force.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SPTNKnCqlW4",
         "quiz": [
           {
             "q": "A simple machine makes work easier by ___.",
@@ -16217,6 +16220,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: Pier 21 in Halifax served as a major immigration gateway to Canada from 1928 to 1971, welcoming hundreds of thousands of newcomers, especially refugees and immigrants arriving after the Second World War.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=rrT5tdqDKuc",
         "quiz": [
           {
             "q": "Pier 21 was located in ___.",
