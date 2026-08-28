@@ -16375,6 +16375,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: light can come from natural sources, like the sun and fire, or from artificial sources, like lightbulbs and flashlights that people have created.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=pIFKfKsvE3I",
         "quiz": [
           {
             "q": "Light can come from natural sources or from ___ sources that people have created.",
@@ -16431,23 +16432,24 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Community Infrastructure: Roads, Water, and Power",
-        "summary": "Grade 3 Social Studies strand: community infrastructure includes systems like roads, water pipes, and power lines that work together behind the scenes to keep a community running smoothly.",
+        "title": "Social Studies: How Electricity Powers Our Community",
+        "summary": "Grade 3 Social Studies strand: electricity travels from power plants through a network of wires and power lines to reach homes, schools, and businesses, working behind the scenes to keep a community running smoothly.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Dx3RpXdJw2k",
         "quiz": [
           {
-            "q": "Community infrastructure includes systems like roads, water pipes, and ___ that keep a community running.",
+            "q": "Electricity travels from power plants to homes and schools through a network of ___.",
             "options": [
-              "A concept unrelated to how a community functions",
-              "Nothing at all, since infrastructure has no real purpose",
+              "A concept unrelated to how a community gets electricity",
+              "Nothing at all, since electricity has no real path to travel",
               "Only decorations, with no connection to essential services",
-              "Power lines"
+              "Wires and power lines"
             ],
             "answer": 3
           },
           {
-            "q": "Infrastructure systems often work ___ to keep a community running smoothly.",
+            "q": "The system that brings electricity to a community often works ___ so that people rarely think about it.",
             "options": [
               "Behind the scenes",
               "Only during special community events, with no ongoing purpose",
@@ -16457,9 +16459,9 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Which is an example of community infrastructure?",
+            "q": "Which is an example of infrastructure that brings electricity to a community?",
             "options": [
-              "A water pipe system bringing clean water to homes",
+              "A power plant and the lines that carry electricity to homes",
               "A concept unrelated to community infrastructure",
               "An event held once a year, with no ongoing structure",
               "A single person’s personal opinion, with no connection to infrastructure"
@@ -16467,21 +16469,21 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Why might a community struggle if its roads were poorly maintained?",
+            "q": "Why might a community struggle if its electrical system were poorly maintained?",
             "options": [
-              "A community can function perfectly well with no roads or infrastructure at all",
-              "Roads have no connection to how well a community functions",
+              "A community can function perfectly well with no electricity or infrastructure at all",
+              "Electricity has no connection to how well a community functions",
               "This concept has no relevance to understanding community needs",
-              "Poorly maintained roads could make it harder and less safe to travel, deliver goods, or reach services"
+              "A poorly maintained system could make it harder to power homes, schools, and businesses safely"
             ],
             "answer": 3
           },
           {
-            "q": "Why is infrastructure like power lines important, even though many people rarely think about it?",
+            "q": "Why is the system that delivers electricity important, even though many people rarely think about it?",
             "options": [
               "This concept has no relevance to social studies learning",
-              "It provides an essential service, like electricity, that many parts of daily life depend on",
-              "Infrastructure is never actually necessary for a community to function",
+              "It provides an essential service that many parts of daily life depend on",
+              "Electricity is never actually necessary for a community to function",
               "Power lines have no connection to daily life in a community"
             ],
             "answer": 1
