@@ -16328,6 +16328,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: personification gives human qualities to something non-human, while a metaphor directly compares two unlike things without using “like” or “as.”",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=NegoYIuXoEA",
         "quiz": [
           {
             "q": "Personification gives ___.",
@@ -16388,6 +16389,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a pictograph displays data using pictures or symbols, where each symbol represents a set number of items, along with a key explaining its value.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=2a5OuENTZUg",
         "quiz": [
           {
             "q": "A pictograph displays data using ___.",
@@ -16448,6 +16450,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: a balanced diet includes a variety of foods from different groups, such as vegetables and fruits, grains, and protein foods, each providing different nutrients the body needs.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=pmgkj01uUTw",
         "quiz": [
           {
             "q": "A balanced diet includes foods from ___.",
@@ -16508,6 +16511,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canada is a member of international alliances, such as NATO, that bring countries together to support mutual defence and cooperation.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=nHgeFm9kfog",
         "quiz": [
           {
             "q": "NATO is an alliance that brings countries together to support ___.",
