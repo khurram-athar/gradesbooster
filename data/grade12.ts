@@ -16267,58 +16267,59 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Frame Narrative and Nested Storytelling",
-        "summary": "Grade 12 English strand: a frame narrative encloses one or more inner stories within an outer, framing story, a structure used to control perspective, create thematic resonance between levels of narrative, and comment on the act of storytelling itself.",
+        "title": "Literature: Unreliable Narrators and Reader Trust",
+        "summary": "Grade 12 English strand: an unreliable narrator is one whose account of events a reader has reason to doubt, whether through limited knowledge, bias, or deliberate deception, forcing readers to read between the lines to reconstruct a more accurate version of events.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=n0eqEZ7jQa0",
         "quiz": [
           {
-            "q": "A frame narrative encloses one or more inner stories within an outer, ___ story.",
+            "q": "An unreliable narrator is best described as a narrator whose account of events ___.",
             "options": [
-              "Framing",
-              "Deleted, meaning no outer story remains in the final text",
-              "A concept unrelated to this narrative structure",
-              "Entirely unrelated, with no connection to the inner stories at all"
+              "A reader has reason to doubt",
+              "Is always completely trustworthy with no exceptions",
+              "A concept unrelated to narrative technique",
+              "Can never be questioned by a careful reader"
             ],
             "answer": 0
           },
           {
-            "q": "The frame narrative structure can be used to create thematic resonance between different ___ of narrative.",
+            "q": "A narrator may become unreliable due to ___.",
             "options": [
-              "Levels",
-              "Page numbers exclusively, with no connection to narrative meaning",
-              "A concept unrelated to how nested stories relate to each other",
-              "Fonts, a formatting choice unrelated to narrative structure"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A frame narrative can be used by an author to comment on the act of ___ itself.",
-            "options": [
-              "Storytelling",
-              "Punctuation exclusively, with no connection to narrative technique",
-              "A concept unrelated to how a frame narrative functions",
-              "Printing, a technical process unrelated to storytelling"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might an author use a frame narrative to present a story that might otherwise seem implausible if told directly?",
-            "options": [
-              "A frame narrative always makes an implausible story seem less believable to a reader",
-              "Presenting the story as being recounted by a character within a frame can add a layer of narrative distance that makes an extraordinary tale feel more credible",
-              "This narrative structure has no effect on how a reader perceives the credibility of a story",
-              "This concept has no connection to how narrative framing shapes reader response"
+              "Page numbering conventions, unrelated to narration",
+              "Limited knowledge, personal bias, or a deliberate intent to deceive",
+              "A concept unrelated to how narrators function",
+              "The font used to print the text"
             ],
             "answer": 1
           },
           {
-            "q": "Why is analyzing the relationship between an outer frame and its inner story considered a sophisticated literary skill at the Grade 12 level?",
+            "q": "When reading an unreliable narrator's account, a careful reader must ___.",
             "options": [
-              "The outer frame of a narrative never has any meaningful relationship to its inner story",
+              "Accept every statement in the text at face value with no further thought",
+              "Punctuation exclusively, with no connection to narrative technique",
+              "A concept unrelated to how narration functions",
+              "Read between the lines to reconstruct a more accurate version of events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author choose to tell a story through an unreliable narrator rather than a trustworthy one?",
+            "options": [
+              "An unreliable narrator always makes a story easier for readers to follow",
+              "This narrative choice has no effect on how a reader perceives the story",
+              "It can create dramatic irony and invite readers to actively question and interpret events themselves",
+              "This concept has no connection to how narrative choices shape reader response"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is identifying the signs of an unreliable narrator considered a sophisticated literary skill at the Grade 12 level?",
+            "options": [
+              "A narrator's reliability never has any meaningful effect on how a story should be interpreted",
               "This concept has no relevance to advanced literary analysis",
-              "It requires tracking how meaning shifts and echoes between narrative levels, recognizing that the frame itself can be as significant as the story it contains",
-              "This type of analysis requires no attention to structure or narrative levels"
+              "It requires tracking inconsistencies, gaps, and biases in the text to judge how much of the narrator's account to trust",
+              "This type of analysis requires no attention to a narrator's perspective or credibility"
             ],
             "answer": 2
           }
@@ -16331,6 +16332,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: the logistic function models growth that starts nearly exponential but slows and levels off as it approaches a maximum sustainable value, producing a distinctive S-shaped curve.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=iMoi1wHF2y0",
         "quiz": [
           {
             "q": "The logistic function models growth that starts nearly exponential but slows and levels off as it approaches a maximum sustainable ___.",
@@ -16391,6 +16393,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: Torricelli’s Trumpet is a solid of revolution with a finite volume but an infinite surface area, a classic example illustrating that convergence and divergence of related integrals do not always align intuitively.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=SR2uKgBWOCU",
         "quiz": [
           {
             "q": "Torricelli’s Trumpet is a solid of revolution with a finite volume but an ___ surface area.",
@@ -16451,6 +16454,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: the Casimir effect is a measurable attractive force between two closely spaced, uncharged conductive plates, arising from restrictions on the quantum vacuum fluctuations permitted in the narrow gap between them.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=OgJj49ws478",
         "quiz": [
           {
             "q": "The Casimir effect is a measurable attractive force between two closely spaced, ___ conductive plates.",

@@ -16263,6 +16263,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: cohesion refers to how sentences and paragraphs are grammatically and lexically linked using devices like transitions and pronouns, while coherence refers to how logically and clearly the overall ideas in a piece of writing connect and flow.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=3EzJICqv3WY",
         "quiz": [
           {
             "q": "Cohesion in writing refers to how sentences and paragraphs are ___.",
@@ -16323,6 +16324,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: an equation can be solved algebraically by manipulating symbols to isolate a variable, or graphically by finding where a function’s graph crosses the x-axis or where two graphs intersect, with each approach offering different advantages.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=R0bGxNzgL2o",
         "quiz": [
           {
             "q": "Solving an equation graphically typically involves finding where a graph ___.",
@@ -16383,6 +16385,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: bioinformatics combines biology with computer science to analyze large sets of biological data, particularly DNA sequences, allowing researchers to compare genomes, identify genes, and study evolutionary relationships at a molecular level.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=MvuYATh7Y74",
+        "videoUrls": [{"label": "DNA Sequencing", "url": "https://www.youtube.com/watch?v=MvuYATh7Y74"}, {"label": "Bioinformatics", "url": "https://www.youtube.com/watch?v=W-Ov2cUaYQY"}],
         "quiz": [
           {
             "q": "Bioinformatics combines biology with ___.",
@@ -16443,6 +16447,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: a flame test identifies certain metal ions by the characteristic colour they produce when heated, a result of electrons absorbing energy, jumping to a higher energy level, and then releasing that energy as light of a specific wavelength when they fall back down.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=6RbbbzPl9Ow",
+        "videoUrls": [{"label": "Flame Tests", "url": "https://www.youtube.com/watch?v=6RbbbzPl9Ow"}, {"label": "Atomic Emission", "url": "https://www.youtube.com/watch?v=IZK_HjQFA24"}],
         "quiz": [
           {
             "q": "A flame test identifies certain metal ions based on the ___ they produce when heated.",

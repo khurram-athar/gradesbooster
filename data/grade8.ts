@@ -16287,6 +16287,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Writing strand: a resume summarizes a person’s skills, experience, and education in a structured format, while a cover letter introduces the applicant and explains why they are suited to a specific opportunity.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=989pgg4iXDY",
         "quiz": [
           {
             "q": "A resume is a document that summarizes ___.",
@@ -16347,6 +16348,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand (pre-high-school extension): a literal equation contains multiple variables, and solving it for a specific variable involves isolating that variable using the same inverse operations used in solving numerical equations.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_KRBOMwkIBE",
         "quiz": [
           {
             "q": "A literal equation is an equation that contains ___.",
@@ -16407,6 +16409,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: density is the amount of mass contained in a given volume, and Archimedes’ principle explains that an object floats or sinks depending on whether it displaces a weight of fluid greater than, equal to, or less than its own weight.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=16HDJNoXQII",
         "quiz": [
           {
             "q": "Density is best described as ___.",
@@ -16467,6 +16470,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: in 1982, Canada patriated its Constitution, gaining full authority to amend it without approval from Britain, and simultaneously introduced the Canadian Charter of Rights and Freedoms, guaranteeing fundamental rights to all Canadians.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=7OEOSImz5po",
         "quiz": [
           {
             "q": "Patriating the Constitution in 1982 meant that Canada ___.",

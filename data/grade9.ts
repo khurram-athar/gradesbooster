@@ -16465,6 +16465,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Media Literacy strand: advertisements use persuasive techniques, such as appeals to emotion, celebrity endorsement, and bandwagon appeal, to influence a consumer’s attitudes and purchasing decisions.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=mss1kiD2GRw",
         "quiz": [
           {
             "q": "Advertisements often use persuasive techniques to influence a consumer’s ___.",
@@ -16525,6 +16526,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Financial Literacy strand: currency exchange rates determine how much one country’s currency is worth in terms of another, and purchasing power describes how much a given amount of money can actually buy.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=D41EuDh3epI",
         "quiz": [
           {
             "q": "A currency exchange rate determines ___.",
@@ -16585,6 +16587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Chemistry/Physics strand: radioactive decay occurs when an unstable atomic nucleus releases energy and particles over time, and an isotope’s half-life is the time it takes for half of a radioactive sample to decay.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=V4PFQpCCqzk",
         "quiz": [
           {
             "q": "Radioactive decay occurs when ___.",
@@ -16644,6 +16647,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: a cultural landscape reflects the interaction between people and their environment over time, and heritage sites are recognized and protected for their historical, cultural, or natural significance.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=y-5K09CDjuM",
         "quiz": [
           {
             "q": "A cultural landscape reflects ___.",

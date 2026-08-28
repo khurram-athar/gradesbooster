@@ -16264,6 +16264,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: historical fiction blends invented characters and plot with real historical settings and events, allowing writers to explore the past while illuminating universal human experiences.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=nkFhEfvtam0",
         "quiz": [
           {
             "q": "Historical fiction blends invented characters and plot with ___.",
@@ -16324,6 +16325,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Trigonometry strand (extension): a trigonometric identity is an equation involving trigonometric ratios that holds true for all valid angle values, such as the Pythagorean identity relating sine and cosine.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Ql7ducUjiG0",
         "quiz": [
           {
             "q": "A trigonometric identity is an equation that holds true for ___.",
@@ -16384,6 +16386,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Biology strand: the immune system defends the body against pathogens using barriers, white blood cells, and antibodies, with the immune response becoming faster and more effective after repeated exposure to a specific pathogen.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=9_uTdCHp7vI",
         "quiz": [
           {
             "q": "The immune system primarily defends the body against ___.",
@@ -16444,6 +16447,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: Africville was a historic Black community in Halifax, Nova Scotia, that was demolished by the city in the 1960s despite residents’ objections, an event now widely recognized as an example of systemic racial injustice.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=iTtNtVWTEo8",
         "quiz": [
           {
             "q": "Africville was a historic Black community located in which city?",
