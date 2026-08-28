@@ -15821,6 +15821,17 @@
         "summary": "Grade 11 English strand: an effective rebuttal directly addresses an opponent’s argument with evidence and logical reasoning, while cross-examination uses targeted questions to expose weaknesses in an opponent’s position during a structured debate.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Was6whYtbC8",
+        "videoUrls": [
+          {
+            "label": "Debate Rebuttal",
+            "url": "https://www.youtube.com/watch?v=Was6whYtbC8"
+          },
+          {
+            "label": "Cross-Examination",
+            "url": "https://www.youtube.com/watch?v=n9qO4O4ihbQ"
+          }
+        ],
         "quiz": [
           {
             "q": "An effective rebuttal directly addresses an opponent’s argument using ___.",
