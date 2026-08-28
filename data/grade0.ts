@@ -19889,6 +19889,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the author is the person who writes the words of a book and the illustrator is the person who draws the pictures, and that sometimes one person does both jobs.",
         "resourceLabel": "YouTube: Story Author and Illustrator",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Author%20and%20Illustrator%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ANCBSXjn_qc",
         "quiz": [
           {
             "q": "What does an author do?",
@@ -19968,6 +19969,7 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and extend repeating patterns that use three different elements, such as an ABC pattern of circle, square, triangle, circle, square, triangle.",
         "resourceLabel": "YouTube: Repeating Patterns with Three Elements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Three%20Elements%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Js45cR_7wFE",
         "quiz": [
           {
             "q": "In the pattern star, moon, sun, star, moon, ___, what comes next?",
@@ -20049,6 +20051,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that bones inside our body form a skeleton that helps us stand up, move, and protect important parts like the brain and heart.",
         "resourceLabel": "YouTube: Our Skeleton: Bones That Hold Us Up",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Skeleton%3A%20Bones%20That%20Hold%20Us%20Up%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vRuh9aBwUdM",
         "quiz": [
           {
             "q": "What is a skeleton?",
@@ -20130,6 +20133,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a team can often solve a problem better than one person alone, and practise working together on a small classroom task.",
         "resourceLabel": "YouTube: Working Together to Solve a Problem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Working%20Together%20to%20Solve%20a%20Problem%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GdCQFuWaV2g",
         "quiz": [
           {
             "q": "Why might a problem be easier to solve with a team?",
