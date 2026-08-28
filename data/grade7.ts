@@ -16260,6 +16260,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: memes use images, text, and humour to quickly spread ideas online, and analyzing them involves considering their intended message, audience, and potential impact.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=N2FPDCPnkGo",
         "quiz": [
           {
             "q": "A meme typically combines ___.",
@@ -16320,6 +16321,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: solving equations involving fractions or decimals often involves multiplying through by a common denominator or power of ten to clear the fractions or decimals before isolating the variable.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=NDytTAJX6RM",
         "quiz": [
           {
             "q": "One strategy for solving an equation with fractions is to ___.",
@@ -16380,6 +16382,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: an invasive species is a non-native organism introduced to an ecosystem, often causing harm by outcompeting native species for resources.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=gYNAtw1c7hI",
         "quiz": [
           {
             "q": "An invasive species is a ___.",
@@ -16440,6 +16443,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: Canada’s electoral system allows citizens to vote for representatives in federal, provincial, and municipal elections, playing a key role in how government leaders are chosen.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TTWi3HjzsxI",
         "quiz": [
           {
             "q": "Canada’s electoral system allows citizens to ___.",

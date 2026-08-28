@@ -16413,6 +16413,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a conductor allows electric current to flow easily through it, while an insulator resists the flow of electric current, a property that shapes how circuits and everyday devices are designed.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=qZjDMQbn3a0",
         "quiz": [
           {
             "q": "A conductor is a material that ___.",
@@ -16473,6 +16474,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada’s government is organized into three levels — municipal, provincial, and federal — each with distinct responsibilities for serving citizens.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=WYhqg3VVmQw",
         "quiz": [
           {
             "q": "Canada’s government is organized into which three levels?",
