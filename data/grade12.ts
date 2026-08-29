@@ -10900,63 +10900,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: General Relativity -- Curved Spacetime",
-        "summary": "Grade 12 Physics strand: general relativity describes gravity not as a force but as the curvature of spacetime caused by the presence of mass, with massive objects warping the space around them.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=H6Nk8fxRltw",
+        "title": "Biology: Cellular Respiration and Photosynthesis in Depth",
+        "summary": "Grade 10 Biology strand: cellular respiration and photosynthesis are complementary processes -- photosynthesis captures and stores energy from sunlight, while cellular respiration releases that stored energy for cells to use.",
+        "resourceLabel": "YouTube: Biology: Cellular Respiration and Photosynthesis in Depth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Cellular%20Respiration%20and%20Photosynthesis%20in%20Depth%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xmfhKbmQhq0",
         "quiz": [
           {
-            "q": "General relativity describes gravity as ___.",
+            "q": "Photosynthesis captures and stores energy from ___.",
             "options": [
-              "A completely separate, unrelated force with no connection to mass",
-              "A force that behaves identically to electromagnetism in every way",
-              "The curvature of spacetime caused by mass",
-              "A concept entirely unrelated to the structure of the universe"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "According to general relativity, massive objects ___ the space around them.",
-            "options": [
-              "Warp",
-              "Completely erase",
-              "Have no effect whatsoever on",
-              "A relationship entirely unrelated to mass and space"
+              "Sunlight",
+              "Sound waves",
+              "A source unrelated to light energy",
+              "Only heat, with no connection to light"
             ],
             "answer": 0
           },
           {
-            "q": "Why might light bend as it passes near a very massive object, like a star?",
+            "q": "Cellular respiration releases energy stored in ___.",
             "options": [
-              "Massive objects have no measurable effect on the space around them",
-              "This phenomenon has no connection to the theory of general relativity",
-              "The star’s mass curves the surrounding spacetime, altering the path that light follows",
-              "Light is never affected in any way by the presence of massive objects"
+              "A source unrelated to stored chemical energy",
+              "Glucose",
+              "Only water, with no connection to glucose",
+              "Oxygen alone, with no other molecules involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are photosynthesis and cellular respiration considered complementary processes?",
+            "options": [
+              "These processes always occur completely independently with no connection",
+              "The products of one process are often used as inputs for the other",
+              "Only plants perform either process",
+              "They have no relationship to each other"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which gas is released during photosynthesis and used during cellular respiration?",
+            "options": [
+              "A gas unrelated to either process",
+              "Helium",
+              "Oxygen",
+              "Nitrogen"
             ],
             "answer": 2
           },
           {
-            "q": "Why was general relativity a significant departure from earlier, classical understandings of gravity?",
+            "q": "Why is understanding the relationship between these two processes important in biology?",
             "options": [
-              "General relativity is identical in every way to earlier classical theories of gravity",
-              "Classical theories of gravity already fully described the curvature of spacetime",
-              "This theory made no meaningful change to how gravity was understood",
-              "It reconceived gravity as a geometric property of spacetime rather than a direct force acting between objects"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is general relativity important for the accuracy of technologies like GPS satellites?",
-            "options": [
-              "GPS satellites never require any adjustment based on relativistic effects",
-              "Differences in spacetime curvature at different altitudes affect time measurement, which must be accounted for in GPS calculations",
-              "This concept has no connection to how satellite-based positioning systems function",
-              "General relativity has no practical application in modern technology"
+              "These processes have no connection to energy flow in ecosystems",
+              "It helps explain how energy flows through living systems, from producers to consumers",
+              "This relationship has no scientific significance",
+              "Only one of these processes is relevant to understanding energy flow"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       }
     ]
   },
@@ -11149,61 +11150,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Quark Confinement and the Strong Force",
-        "summary": "Grade 12 Physics strand: quarks are fundamental particles bound together by the strong force, and quark confinement describes the observation that individual quarks are never found isolated in nature.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=WvFIYSrQVgM",
+        "title": "Physics: Circular Motion and Gravitation",
+        "summary": "Grade 10 Physics strand: an object in circular motion experiences a centripetal force directed toward the centre of the circle, and gravitation describes the attractive force between objects with mass.",
+        "resourceLabel": "YouTube: Physics: Circular Motion and Gravitation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Circular%20Motion%20and%20Gravitation%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bpFK2VCRHUs",
         "quiz": [
           {
-            "q": "Quarks are fundamental particles bound together by the ___.",
+            "q": "Centripetal force in circular motion is directed ___.",
             "options": [
-              "Strong force",
-              "Force of gravity exclusively, with no other force involved",
-              "Electromagnetic force exclusively, with no other force involved",
-              "A concept entirely unrelated to fundamental particles"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Quark confinement describes the observation that individual quarks ___.",
-            "options": [
-              "Do not actually exist as fundamental particles",
-              "Are commonly found existing completely independently",
-              "A concept unrelated to how quarks exist in nature",
-              "Are never found isolated in nature"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why does the strong force behave differently from gravity as the distance between particles increases?",
-            "options": [
-              "The strong force actually increases in strength as quarks are pulled apart, unlike gravity, which weakens with distance",
-              "The strong force always weakens in exactly the same way as gravity does",
-              "This concept has no connection to how fundamental forces operate",
-              "Distance has no effect on the behaviour of the strong force"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which is an example of a composite particle made up of quarks bound together?",
-            "options": [
-              "A particle entirely unrelated to the strong force",
-              "A proton",
-              "An electron, which is not made up of quarks",
-              "A photon, which carries no quark structure"
+              "Away from the centre of the circle",
+              "Toward the centre of the circle",
+              "In a direction unrelated to the object’s motion",
+              "In a straight line with no connection to the circle"
             ],
             "answer": 1
           },
           {
-            "q": "Why is understanding quark confinement important for a complete picture of the Standard Model of particle physics?",
+            "q": "Gravitation describes the attractive force between ___.",
             "options": [
-              "Quark confinement has no relevance to understanding the Standard Model",
-              "This concept has no significance in modern particle physics",
-              "The Standard Model of particle physics has no connection to the behaviour of quarks",
-              "It explains a fundamental and distinctive behaviour of one of the basic forces governing how matter is structured"
+              "Objects with mass",
+              "Only objects with no mass",
+              "A force unrelated to mass",
+              "Objects that repel each other, never attract"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does an object moving in a circular path require a continuous centripetal force?",
+            "options": [
+              "Circular motion requires no force to be maintained",
+              "Objects naturally curve without any applied force",
+              "Centripetal force has no connection to circular motion",
+              "Without it, the object would move in a straight line rather than curve around the circle"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which is an example of circular motion influenced by gravitation?",
+            "options": [
+              "An object at complete rest with no motion",
+              "A planet orbiting the Sun",
+              "A ball rolling in a straight line on flat ground",
+              "A situation with no connection to gravity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding gravitation important for explaining planetary orbits?",
+            "options": [
+              "Gravitation has no connection to planetary motion",
+              "Gravitational attraction between the Sun and planets provides the force that keeps them in orbit",
+              "Planets orbit with no force acting upon them",
+              "This concept has no relevance to astronomy or physics"
+            ],
+            "answer": 1
           }
         ],
         "topic": "Forces & Motion"
@@ -15394,124 +15395,125 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Laplace Transform -- A First Look",
-        "summary": "Grade 12 Calculus strand: the Laplace transform converts a function of time into a function of a complex frequency variable, often turning certain differential equations into more manageable algebraic equations.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=KqokoYr_h1A",
+        "title": "Introduction to Rational Functions",
+        "summary": "Grade 10 Functions strand: a rational function is a fraction where the numerator and denominator are polynomials, often producing graphs with asymptotes where the function is undefined.",
+        "resourceLabel": "YouTube: Introduction to Rational Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Rational%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XjnSuz5iswQ",
         "quiz": [
           {
-            "q": "The Laplace transform converts a function of time into a function of a complex ___ variable.",
+            "q": "A rational function is best described as ___.",
             "options": [
-              "Frequency",
-              "Colour, with no connection to time or frequency",
-              "A concept unrelated to the Laplace transform",
-              "Volume, with no connection to this transformation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Laplace transform often turns certain differential equations into more manageable ___ equations.",
-            "options": [
-              "A concept unrelated to simplifying differential equations",
-              "Equations that are always impossible to solve by any method",
-              "Purely geometric equations, with no connection to algebra",
-              "Algebraic"
+              "A linear equation with no fractional component",
+              "A function with no fractions involved",
+              "A function that is always undefined",
+              "A fraction where the numerator and denominator are polynomials"
             ],
             "answer": 3
           },
           {
-            "q": "The Laplace transform is defined using an ___ that integrates a function multiplied by a decaying exponential.",
+            "q": "An asymptote on a rational function’s graph represents ___.",
             "options": [
-              "Improper integral",
-              "Only a simple derivative, with no integral involved",
-              "A concept unrelated to how the Laplace transform is calculated",
-              "A finite sum, with no integral involved whatsoever"
+              "A value the graph approaches but never actually reaches",
+              "A point where the graph always crosses the x-axis",
+              "The exact centre of the graph",
+              "A value unrelated to the function’s behaviour"
             ],
             "answer": 0
           },
           {
-            "q": "Why might engineers prefer to convert a differential equation into an algebraic equation using the Laplace transform, before eventually transforming back?",
+            "q": "A rational function is undefined at any x-value where ___.",
             "options": [
-              "Algebraic equations are often significantly easier to manipulate and solve than differential equations, simplifying complex system analysis",
-              "This concept has no relevance to practical applications of calculus",
-              "Differential equations are always easier to solve directly than any algebraic equation",
-              "The Laplace transform never simplifies any calculation involving differential equations"
+              "The numerator equals zero",
+              "The denominator equals zero",
+              "The function has no real connection to x-values",
+              "Both the numerator and denominator equal one"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is the Laplace transform considered a valuable bridge between calculus studied in Grade 12 and further study in engineering or applied mathematics?",
+            "q": "Why might a rational function’s graph have a vertical asymptote?",
             "options": [
-              "This transformation technique is never used in any engineering or applied mathematics context",
-              "This concept has no connection to preparing students for further mathematical study",
-              "It introduces the powerful idea of transforming a problem into a different, more manageable mathematical domain, a technique used throughout advanced applied fields",
-              "The Laplace transform has no further relevance beyond a single introductory calculus lesson"
+              "The graph always crosses through a vertical asymptote",
+              "The function becomes undefined at that x-value, causing the graph to approach infinity",
+              "This feature has no connection to the denominator",
+              "Vertical asymptotes never occur in rational functions"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Why are rational functions useful for modelling certain real-world situations, like rates?",
+            "options": [
+              "They can represent relationships involving division, such as rates that change based on other values",
+              "Rational functions can never model real-world situations",
+              "These functions only apply to whole numbers, not real-world rates",
+              "This type of function has no practical use"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Physics",
-        "title": "Physics: Gauge Bosons and the Fundamental Forces",
-        "summary": "Grade 12 Physics strand: the Standard Model describes each fundamental force as being mediated by an exchange of specific particles called gauge bosons, such as the photon for electromagnetism and gluons for the strong force.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=ovegZifmo94",
+        "title": "Chemistry: Reaction Rates and Equilibrium",
+        "summary": "Grade 10 Chemistry strand: reaction rate describes how quickly a chemical reaction occurs, and chemical equilibrium occurs when the rates of the forward and reverse reactions become equal.",
+        "resourceLabel": "YouTube: Chemistry: Reaction Rates and Equilibrium",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Reaction%20Rates%20and%20Equilibrium%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g5wNg_dKsYY",
         "quiz": [
           {
-            "q": "The Standard Model describes each fundamental force as being mediated by an exchange of specific particles called ___.",
+            "q": "Reaction rate describes ___.",
             "options": [
-              "A concept unrelated to the Standard Model",
-              "Gauge bosons",
-              "Neutrinos, which do not mediate fundamental forces in this way",
-              "Protons, which are not force-carrying particles"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The photon is the gauge boson associated with the ___ force.",
-            "options": [
-              "Electromagnetic",
-              "Strong force exclusively, with no connection to electromagnetism",
-              "A concept unrelated to describing fundamental forces",
-              "Gravitational force, which has no confirmed gauge boson in the Standard Model"
+              "How quickly a chemical reaction occurs",
+              "The exact colour of a chemical reaction",
+              "A concept unrelated to chemical reactions",
+              "The total mass of reactants only"
             ],
             "answer": 0
           },
           {
-            "q": "Gluons are the gauge bosons associated with the ___ force.",
+            "q": "Chemical equilibrium occurs when ___.",
             "options": [
-              "Electromagnetic force, which is mediated by the photon instead",
-              "Strong",
-              "Weak force exclusively, with no connection to gluons",
-              "A concept unrelated to the Standard Model"
+              "A reaction stops completely with no further activity",
+              "The rates of the forward and reverse reactions become equal",
+              "Only the forward reaction occurs, with no reverse reaction",
+              "A concept unrelated to reaction rates"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the photon considered the “carrier” of the electromagnetic force between two charged particles?",
+            "q": "Which factor can generally increase the rate of a chemical reaction?",
             "options": [
-              "This concept has no relevance to understanding fundamental forces in modern physics",
-              "Photons have no established role in mediating any interaction between charged particles",
-              "In the Standard Model, the exchange of photons between charged particles is understood as the mechanism producing the electromagnetic interaction between them",
-              "The electromagnetic force operates with no need for any exchanged particle at all"
+              "Removing all reactants from the reaction",
+              "Increasing the temperature",
+              "A factor unrelated to reaction conditions",
+              "Decreasing the concentration of reactants to zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding reaction rates be important in industrial chemistry?",
+            "options": [
+              "Industrial processes never consider reaction speed",
+              "This concept only applies to theoretical chemistry",
+              "It helps optimize processes for efficiency, safety, and cost",
+              "Reaction rates have no practical relevance to industry"
             ],
             "answer": 2
           },
           {
-            "q": "Why is understanding gauge bosons considered essential to the Standard Model’s explanation of how particles interact?",
+            "q": "At equilibrium, the concentrations of reactants and products ___.",
             "options": [
-              "This concept has no relevance to modern particle physics",
-              "The Standard Model’s explanation of particle interactions has no connection to these carrier particles",
-              "Gauge bosons have no role in explaining any interaction between fundamental particles",
-              "They provide the underlying mechanism proposed for how the fundamental forces are transmitted between particles at the subatomic level"
+              "Remain constant, though the reactions continue to occur",
+              "No longer change because all chemical activity has stopped",
+              "Are always exactly equal to each other",
+              "Become completely unpredictable"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Chemical Reactions"
       }
     ]
   },
@@ -15703,63 +15705,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Superfluidity and Extreme Low-Temperature Phenomena",
-        "summary": "Grade 12 Physics strand: superfluidity is a state of matter, observed in liquid helium at extremely low temperatures, in which the fluid flows with effectively zero viscosity, allowing it to exhibit striking behaviours impossible for ordinary liquids.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=J2jMjWUIDDc",
+        "title": "Biology: Biotechnology and Genetic Engineering",
+        "summary": "Grade 10 Biology strand: biotechnology uses biological systems and organisms to develop products and technologies, with genetic engineering involving the direct manipulation of an organism’s DNA for specific purposes.",
+        "resourceLabel": "YouTube: Biology: Biotechnology and Genetic Engineering",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Biotechnology%20and%20Genetic%20Engineering%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OVf_ASEGuns",
         "quiz": [
           {
-            "q": "Superfluidity is a state of matter observed in liquid helium at extremely low ___.",
+            "q": "Biotechnology involves using biological systems to ___.",
             "options": [
-              "Pressures exclusively, with no connection to temperature",
-              "Temperatures",
-              "Densities exclusively, with no connection to temperature",
-              "A concept unrelated to superfluid behaviour"
+              "A field unrelated to any practical application",
+              "Develop products and technologies",
+              "A process entirely unrelated to biology",
+              "Only artistic creation, with no scientific basis"
             ],
             "answer": 1
           },
           {
-            "q": "A superfluid flows with effectively zero ___.",
+            "q": "Genetic engineering involves the direct manipulation of an organism’s ___.",
             "options": [
-              "Electrical resistance exclusively, a property associated with superconductivity instead",
-              "Mass, which a superfluid still clearly possesses",
-              "Viscosity",
-              "A concept unrelated to fluid behaviour"
+              "Diet, with no connection to genetics",
+              "External appearance only, with no genetic changes",
+              "DNA",
+              "A factor unrelated to biology"
             ],
             "answer": 2
           },
           {
-            "q": "Superfluidity allows liquid helium to exhibit striking behaviours, such as flowing up and over the walls of its ___.",
+            "q": "Which is an example of a real-world application of biotechnology?",
             "options": [
-              "Source of heat exclusively, with no connection to its physical container",
-              "A concept unrelated to superfluid behaviour",
-              "Original measuring instrument, with no connection to its container",
-              "Container"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why does a superfluid’s effectively zero viscosity allow it to flow through extremely narrow channels that would completely block an ordinary liquid?",
-            "options": [
-              "Viscosity has no connection to how easily a fluid can pass through narrow spaces",
-              "Without internal friction resisting its motion, a superfluid can pass through microscopic gaps that would otherwise dissipate the flow of a normal viscous fluid",
-              "A superfluid always has significantly higher viscosity than an ordinary liquid, making narrow-channel flow more difficult",
-              "This concept has no relevance to understanding the unusual behaviour of superfluids"
+              "A concept unrelated to agriculture or medicine",
+              "Developing crops with improved resistance to pests",
+              "Technology that has no connection to biological organisms",
+              "A field with no real-world applications"
             ],
             "answer": 1
           },
           {
-            "q": "Why do physicists study superfluidity as an example of a macroscopic quantum phenomenon?",
+            "q": "Why does genetic engineering raise ethical considerations?",
             "options": [
-              "Superfluidity has no connection to quantum mechanics of any kind",
-              "Quantum phenomena are never observable at any macroscopic, everyday scale",
-              "This concept has no relevance to the study of low-temperature physics",
-              "Superfluid behaviour arises from quantum effects that become observable at a large, everyday scale rather than remaining confined to individual particles"
+              "This technology has no connection to living organisms",
+              "Ethical considerations are irrelevant to scientific research",
+              "It has the potential to significantly alter living organisms, raising questions about appropriate use",
+              "Genetic engineering has no ethical implications at all"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "Why is biotechnology considered an important and growing field?",
+            "options": [
+              "It has the potential to address challenges in medicine, agriculture, and other industries",
+              "This field has no connection to modern science",
+              "Biotechnology only applies to a single, narrow application",
+              "Biotechnology has no real-world significance"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Genetics & Heredity"
       }
     ]
   },
@@ -16450,59 +16453,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Casimir Effect and Vacuum Energy",
-        "summary": "Grade 12 Physics strand: the Casimir effect is a measurable attractive force between two closely spaced, uncharged conductive plates, arising from restrictions on the quantum vacuum fluctuations permitted in the narrow gap between them.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "videoUrl": "https://www.youtube.com/watch?v=OgJj49ws478",
+        "title": "Physics: Thermodynamics -- Heat Transfer and Entropy",
+        "summary": "Grade 10 Physics strand: thermodynamics studies heat and energy transfer, including the concept of entropy, which describes the tendency of energy to spread out and become more disordered over time.",
+        "resourceLabel": "YouTube: Physics: Thermodynamics -- Heat Transfer and Entropy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Thermodynamics%20--%20Heat%20Transfer%20and%20Entropy%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DWiCaDPM7Hk",
         "quiz": [
           {
-            "q": "The Casimir effect is a measurable attractive force between two closely spaced, ___ conductive plates.",
+            "q": "Thermodynamics primarily studies ___.",
             "options": [
-              "Strongly positively charged, an inaccurate description of this effect",
-              "Strongly negatively charged, an inaccurate description of this effect",
-              "Uncharged",
-              "A concept unrelated to this quantum phenomenon"
+              "Only light, with no connection to thermal energy",
+              "A field unrelated to energy",
+              "Heat and energy transfer",
+              "Only sound waves, with no connection to heat"
             ],
             "answer": 2
           },
           {
-            "q": "The Casimir effect arises from restrictions on the quantum vacuum ___ permitted in the narrow gap between two plates.",
+            "q": "Entropy describes ___.",
             "options": [
-              "Temperature, a property unrelated to the origin of this effect",
-              "A concept unrelated to explaining the Casimir effect",
-              "Particles exclusively, a concept distinct from vacuum fluctuations",
-              "Fluctuations"
+              "A process where energy always becomes more concentrated over time",
+              "A concept unrelated to energy or disorder",
+              "The tendency of energy to spread out and become more disordered",
+              "The complete absence of any energy transfer"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "As the gap between two plates exhibiting the Casimir effect narrows, the attractive force between them generally ___.",
+            "q": "Heat transfer generally occurs from ___.",
             "options": [
-              "Reverses direction, becoming a repulsive force at any narrower gap",
-              "A concept unrelated to how this force depends on the gap’s width",
-              "Disappears entirely, with no force present at a narrower gap",
-              "Increases"
+              "An area of higher temperature to an area of lower temperature",
+              "A process unrelated to temperature differences",
+              "An area of lower temperature to an area of higher temperature, with no exceptions",
+              "No particular direction, occurring completely randomly"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why does restricting the space between two conductive plates lead to a net attractive force, according to the explanation offered by quantum field theory?",
+            "q": "Which is an everyday example of heat transfer?",
             "options": [
-              "Restricting the space between two plates always increases the number of permitted fluctuation modes within the gap",
-              "This concept has no relevance to understanding forces that arise at extremely small scales",
-              "The Casimir effect has no connection to quantum field theory or vacuum fluctuations",
-              "Fewer vacuum fluctuation modes are permitted within the narrow gap compared to the unrestricted space outside, creating a pressure imbalance that pushes the plates together"
+              "An object that never changes temperature under any conditions",
+              "A process unrelated to thermal energy",
+              "A hot cup of coffee cooling down as it sits on a table",
+              "A situation where heat transfer never actually occurs"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is the Casimir effect considered significant experimental evidence relevant to quantum field theory?",
+            "q": "Why is understanding thermodynamics important in engineering, such as designing engines?",
             "options": [
-              "Vacuum fluctuations have never been connected to any measurable physical force",
-              "This concept has no relevance to modern theoretical physics",
-              "The Casimir effect provides no experimental support for any prediction made by quantum field theory",
-              "It demonstrates a measurable, real-world physical consequence of the vacuum fluctuations predicted by quantum field theory, connecting abstract theory to observable force"
+              "This field of physics has no connection to energy efficiency",
+              "Heat transfer has no relevance to engine design",
+              "Thermodynamics has no real-world engineering applications",
+              "It helps engineers understand how energy can be transferred and used efficiently"
             ],
             "answer": 3
           }
@@ -16637,122 +16640,124 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Gamma Function -- Extending the Factorial",
-        "summary": "Grade 12 Calculus strand: the Gamma function extends the factorial operation, normally defined only for non-negative integers, to a broader domain using an improper integral, so that non-integer and even complex inputs produce a meaningful result.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Optimization Problems in Three Dimensions",
+        "summary": "Grade 10 Measurement strand: three-dimensional optimization problems involve finding the dimensions that maximize or minimize a measurement, such as volume or surface area, often subject to given constraints.",
+        "resourceLabel": "YouTube: Optimization Problems in Three Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%20Problems%20in%20Three%20Dimensions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xOQKS7Xsorc",
         "quiz": [
           {
-            "q": "The Gamma function extends the factorial operation to a broader domain using an ___.",
+            "q": "A 3D optimization problem might involve finding dimensions that maximize ___.",
             "options": [
-              "A concept unrelated to defining the Gamma function",
-              "Only basic multiplication, with no integral involved",
-              "Improper integral",
-              "A finite sum, with no integral involved whatsoever"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The factorial operation is normally defined only for non-negative ___.",
-            "options": [
-              "A concept unrelated to the standard definition of factorial",
-              "Integers",
-              "Irrational numbers exclusively, with no connection to the standard factorial",
-              "Negative numbers exclusively, which the standard factorial does not include"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Gamma function allows non-integer and even ___ inputs to produce a meaningful result.",
-            "options": [
-              "Undefined, meaning no meaningful result is produced at all",
-              "Only negative even integers, an inaccurate description of this extension",
-              "A concept unrelated to the extended domain of the Gamma function",
-              "Complex"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is an improper integral, rather than a simple repeated multiplication, needed to extend the factorial to non-integer values?",
-            "options": [
-              "This concept has no relevance to understanding the Gamma function’s definition",
-              "Repeated multiplication only makes direct sense for whole-number counts, while an integral-based definition can be evaluated continuously across a much broader range of inputs",
-              "An improper integral has no connection to extending mathematical operations beyond their original domain",
-              "Repeated multiplication already works perfectly well for extending the factorial to any non-integer input"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Gamma function considered an important bridge between the introductory calculus studied in Grade 12 and more advanced mathematical topics?",
-            "options": [
-              "It shows how a familiar, elementary operation can be meaningfully generalized using integral calculus, a pattern of extension that recurs throughout more advanced mathematics",
-              "Generalizing familiar operations using calculus is never a useful or recurring theme in advanced mathematics",
-              "This concept has no relevance to preparing for further mathematical study",
-              "The Gamma function has no further relevance beyond a single specific calculation involving factorials"
-            ],
-            "answer": 0
-          }
-        ]
-      },
-      {
-        "subject": "Physics",
-        "title": "Physics: Bose-Einstein Condensates -- A Fifth State of Matter",
-        "summary": "Grade 12 Physics strand: a Bose-Einstein condensate forms when a dilute gas of certain particles is cooled to temperatures near absolute zero, causing a large fraction of the particles to occupy the same lowest-energy quantum state simultaneously.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "quiz": [
-          {
-            "q": "A Bose-Einstein condensate forms when a dilute gas is cooled to temperatures near ___.",
-            "options": [
-              "The boiling point of water, a temperature far too high for this phenomenon",
-              "Absolute zero",
-              "Room temperature, a temperature far too high for this phenomenon to occur",
-              "A concept unrelated to this state of matter"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In a Bose-Einstein condensate, a large fraction of particles occupy the same lowest-energy quantum ___ simultaneously.",
-            "options": [
-              "State",
-              "A concept unrelated to describing this state of matter",
-              "Location exclusively, a description that does not fully capture this quantum phenomenon",
-              "Charge, a property unrelated to this collective quantum behaviour"
+              "Volume, subject to a given constraint",
+              "A completely random, unrelated value",
+              "Only colour, with no connection to measurement",
+              "Nothing measurable at all"
             ],
             "answer": 0
           },
           {
-            "q": "A Bose-Einstein condensate is sometimes described as a distinctive additional state of matter beyond solid, liquid, gas, and ___.",
+            "q": "Why might a company want to minimize the surface area of packaging while maintaining a fixed volume?",
             "options": [
-              "A concept unrelated to classifying states of matter",
-              "Crystal, a description of solid structure rather than a distinct state of matter",
-              "Vacuum, which is not typically classified as a state of matter",
-              "Plasma"
+              "Minimizing surface area always increases the volume needed",
+              "Minimizing surface area can reduce material costs while still holding the required amount of product",
+              "This type of optimization has no real-world application",
+              "Surface area has no connection to packaging material costs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solving a 3D optimization problem typically involves ___.",
+            "options": [
+              "Ignoring all mathematical relationships between dimensions",
+              "A process unrelated to measurement or geometry",
+              "Guessing dimensions with no calculation involved",
+              "Setting up an equation relating the dimensions and then finding a maximum or minimum value"
             ],
             "answer": 3
           },
           {
-            "q": "Why does achieving a Bose-Einstein condensate require cooling particles to such extraordinarily low temperatures?",
+            "q": "Why might real-world design challenges, like container design, be modelled as optimization problems?",
             "options": [
-              "Temperature has no meaningful connection to which quantum energy states particles occupy",
-              "This concept has no relevance to understanding this exotic state of matter",
-              "At higher temperatures, particles have enough thermal energy to occupy many different energy states, so extreme cooling is needed to make the shared lowest-energy state dominate",
-              "A Bose-Einstein condensate can form just as easily at room temperature as near absolute zero"
+              "They often involve balancing multiple factors, like cost and capacity, which optimization can help address",
+              "Design challenges never involve any mathematical modelling",
+              "This type of problem only applies to purely theoretical situations",
+              "3D optimization problems have no real-world design applications"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why do physicists consider Bose-Einstein condensates valuable for studying quantum mechanical behaviour?",
+            "q": "Why is understanding 3D optimization valuable for engineers and designers?",
             "options": [
-              "This concept has no relevance to modern experimental physics",
-              "Quantum behaviour is always equally observable regardless of temperature or particle number",
-              "Bose-Einstein condensates provide no useful opportunity to observe or study quantum mechanical behaviour",
-              "Because a large number of particles behave coherently as a single quantum entity, effects that are normally confined to individual particles become observable on a larger, more accessible scale"
+              "3D optimization has no practical value for engineering or design",
+              "This mathematical skill has no connection to design work",
+              "Engineers never need to consider efficient use of materials",
+              "It helps them make efficient use of materials and space in real-world designs"
             ],
             "answer": 3
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Calculus: Applications"
+      },
+      {
+        "subject": "Physics",
+        "title": "Nuclear Reactions: Fission and Fusion",
+        "summary": "Grade 9 Science Physics strand: nuclear fission splits a large atomic nucleus into smaller parts, while nuclear fusion combines small nuclei into a larger one, both releasing significant amounts of energy.",
+        "resourceLabel": "YouTube: Nuclear Reactions: Fission and Fusion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Reactions%3A%20Fission%20and%20Fusion%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fES21E0qebw",
+        "quiz": [
+          {
+            "q": "Nuclear fission involves ___.",
+            "options": [
+              "No release of energy whatsoever",
+              "A process unrelated to atomic nuclei",
+              "Splitting a large atomic nucleus into smaller parts",
+              "Combining small nuclei into a larger one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nuclear fusion involves ___.",
+            "options": [
+              "Combining small nuclei into a larger one",
+              "A process unrelated to nuclear reactions",
+              "Splitting a large nucleus into smaller parts",
+              "No release of energy whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which process powers the Sun?",
+            "options": [
+              "Nuclear fission",
+              "A process unrelated to nuclear reactions",
+              "Nuclear fusion",
+              "Simple chemical combustion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which process is used in traditional nuclear power plants to generate electricity?",
+            "options": [
+              "Nuclear fusion",
+              "A process unrelated to nuclear reactions",
+              "Simple chemical combustion",
+              "Nuclear fission"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do both fission and fusion release significant amounts of energy?",
+            "options": [
+              "These processes have no connection to energy production",
+              "Changes in the nucleus can convert a small amount of mass into a large amount of energy",
+              "Neither process actually releases any energy",
+              "Only chemical reactions can release significant energy"
+            ],
+            "answer": 1
+          }
+        ]
       }
     ]
   },
@@ -16941,60 +16946,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Quantum Entanglement and Non-Local Correlations",
-        "summary": "Grade 12 Physics strand: quantum entanglement is a phenomenon in which two or more particles become correlated such that measuring a property of one instantaneously determines the corresponding property of the other, regardless of the distance separating them.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Chemistry: Electrochemistry",
+        "summary": "Grade 10 Chemistry strand: electrochemistry studies the relationship between chemical reactions and electricity, including how batteries generate electric current through controlled chemical reactions.",
+        "resourceLabel": "YouTube: Chemistry: Electrochemistry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Electrochemistry%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2VT5rl8P84M",
         "quiz": [
           {
-            "q": "Quantum entanglement is a phenomenon in which measuring a property of one particle instantaneously determines the corresponding property of ___.",
+            "q": "Electrochemistry studies the relationship between ___.",
             "options": [
-              "An entirely unrelated particle with no established connection",
-              "The other particle",
-              "Only the measuring instrument itself, with no connection to any second particle",
-              "A concept unrelated to quantum entanglement"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The correlation between entangled particles holds regardless of the ___ separating them.",
-            "options": [
-              "A concept unrelated to describing entangled particles",
-              "Temperature, a property unrelated to the distance-independence of entanglement",
-              "Distance",
-              "Colour, a property unrelated to the distance-independence of entanglement"
+              "Only light, with no connection to chemistry",
+              "Only sound and chemistry, with no connection to electricity",
+              "Chemical reactions and electricity",
+              "A field unrelated to chemical reactions"
             ],
             "answer": 2
           },
           {
-            "q": "Quantum entanglement was famously discussed in a thought experiment questioning whether quantum mechanics could be a ___ theory.",
+            "q": "A battery generates electric current through ___.",
             "options": [
-              "Purely classical, a description inconsistent with quantum mechanics",
-              "Entirely disproven, an inaccurate description of the debate’s outcome",
-              "Complete",
-              "A concept unrelated to this historical debate"
+              "Only mechanical movement, with no chemical involvement",
+              "A method that requires no chemical reaction at all",
+              "A process entirely unrelated to chemistry",
+              "Controlled chemical reactions"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why does quantum entanglement raise questions about locality, the classical assumption that an object is only directly influenced by its immediate surroundings?",
+            "q": "Which is an example of a device that relies on electrochemistry?",
             "options": [
-              "Entangled particles have no correlated properties of any kind",
-              "Measuring one entangled particle appears to instantaneously affect the determined state of its distant partner, challenging the classical expectation that influences require time to travel across space",
-              "This concept has no relevance to understanding the foundational questions raised by quantum mechanics",
-              "Quantum entanglement fully confirms every assumption of classical locality with no challenge to those assumptions"
+              "A tool unrelated to electricity or chemistry",
+              "A battery",
+              "An object that generates no electric current",
+              "A device with no connection to chemical reactions"
             ],
             "answer": 1
           },
           {
-            "q": "Why is quantum entanglement considered foundational to emerging technologies such as quantum computing and quantum cryptography?",
+            "q": "Why is electrochemistry considered a practical application of chemistry?",
             "options": [
-              "The correlated, non-classical relationship between entangled particles can be harnessed to process or transmit information in ways not possible using purely classical systems",
-              "Quantum computing and quantum cryptography rely entirely on classical, non-quantum principles",
-              "Quantum entanglement has no practical application to any current or emerging technology",
-              "This concept has no relevance to modern applied physics research"
+              "This field of chemistry has no connection to everyday technology",
+              "Batteries have no connection to chemical reactions",
+              "Electrochemistry has no real-world applications",
+              "It underlies technologies like batteries that are essential to modern life"
             ],
-            "answer": 0
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists research new electrochemical technologies, such as improved batteries?",
+            "options": [
+              "Electrochemical research provides no benefit to energy technology",
+              "This research has no connection to energy storage",
+              "Improved batteries have no real-world significance",
+              "To develop more efficient and sustainable ways to store and use energy"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -17184,63 +17190,73 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Hawking Radiation and Black Hole Thermodynamics",
-        "summary": "Grade 12 Physics strand: Hawking radiation is theoretical thermal radiation predicted to be emitted by black holes due to quantum effects near the event horizon, suggesting that black holes are not perfectly black but instead slowly lose mass over time.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "quiz": [
+        "title": "Review: Chemistry, Physics, and Biology Applications",
+        "summary": "Grade 10 Science review: this lesson revisits solutions and concentration, circular motion, thermodynamics, electrochemistry, biotechnology, and microbiology covered across recent lessons.",
+        "resourceLabel": "YouTube: Review: Chemistry, Physics, and Biology Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Physics%2C%20and%20Biology%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5iTOphGnCtg",
+        "videoUrls": [
           {
-            "q": "Hawking radiation is theoretical thermal radiation predicted to be emitted by black holes due to quantum effects near the ___.",
-            "options": [
-              "Exact geometric centre of the black hole, an inaccurate location for this predicted effect",
-              "Outer edge of the observable universe, an inaccurate description unrelated to a black hole",
-              "A concept unrelated to this theoretical prediction",
-              "Event horizon"
-            ],
-            "answer": 3
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=5iTOphGnCtg"
           },
           {
-            "q": "Hawking radiation suggests that black holes slowly lose ___ over time.",
-            "options": [
-              "Electric charge exclusively, with no connection to mass loss",
-              "Angular momentum exclusively, with no connection to mass loss",
-              "Mass",
-              "A concept unrelated to this theoretical prediction"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Hawking radiation implies that black holes are not perfectly ___, contrary to their name.",
-            "options": [
-              "Round, a property Hawking radiation does not directly contradict",
-              "A concept unrelated to this theoretical prediction",
-              "Black",
-              "Massive, a property Hawking radiation does not directly contradict"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a smaller black hole be predicted to emit Hawking radiation more intensely than a much larger black hole?",
-            "options": [
-              "Hawking radiation intensity has no established theoretical relationship to a black hole’s mass or size",
-              "Larger black holes are always predicted to emit more intense Hawking radiation than smaller ones",
-              "This concept has no relevance to theoretical predictions about black hole behaviour",
-              "The predicted temperature associated with Hawking radiation increases as a black hole’s mass decreases, so smaller black holes are theorized to radiate more intensely and evaporate faster"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is Hawking radiation considered a significant theoretical bridge between general relativity and quantum mechanics?",
-            "options": [
-              "Hawking radiation has no connection to either general relativity or quantum mechanics",
-              "It emerges from applying quantum field theory concepts to the curved spacetime near a black hole’s event horizon, connecting two major branches of modern physics that are otherwise difficult to unify",
-              "General relativity and quantum mechanics have never been meaningfully connected through any theoretical prediction",
-              "This concept has no relevance to understanding major unresolved questions in modern physics"
-            ],
-            "answer": 1
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=b1t41Q3xRM8"
           }
         ],
-        "topic": "Forces & Motion"
+        "quiz": [
+          {
+            "q": "Concentration describes ___.",
+            "options": [
+              "The temperature of a solution only",
+              "How much solute is dissolved in a given amount of solvent",
+              "The exact colour of a solution",
+              "A property unrelated to dissolved substances"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Centripetal force in circular motion is directed ___.",
+            "options": [
+              "Away from the centre of the circle",
+              "Toward the centre of the circle",
+              "In a straight line with no connection to the circle",
+              "In a direction unrelated to the object’s motion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Entropy describes ___.",
+            "options": [
+              "A concept unrelated to energy or disorder",
+              "The complete absence of any energy transfer",
+              "The tendency of energy to spread out and become more disordered",
+              "A process where energy always becomes more concentrated over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pathogen is best described as ___.",
+            "options": [
+              "A part of the skeletal system",
+              "A vitamin found in food",
+              "A microorganism capable of causing disease",
+              "A type of healthy cell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to review chemistry, physics, and biology applications together?",
+            "options": [
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "These topics are entirely unrelated to each other",
+              "Each topic must always be studied in isolation",
+              "Review provides no benefit in science"
+            ],
+            "answer": 0
+          }
+        ]
       }
     ]
   },
@@ -17427,60 +17443,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Review: Grade 12 Physics -- Days 61-69 Synthesis",
-        "summary": "Grade 12 Physics strand review: this lesson revisits the de Broglie hypothesis, gauge bosons, superfluidity, Bose-Einstein condensates, and Hawking radiation from Days 61-69.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Chemistry: Titration and Quantitative Analysis",
+        "summary": "Grade 10 Chemistry strand: titration is a laboratory technique used to determine the concentration of an unknown solution by carefully reacting it with a solution of known concentration.",
+        "resourceLabel": "YouTube: Chemistry: Titration and Quantitative Analysis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Titration%20and%20Quantitative%20Analysis%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dLNsPqDGzms",
         "quiz": [
           {
-            "q": "The de Broglie hypothesis proposes that all matter exhibits ___ properties, not only light.",
+            "q": "Titration is used to determine ___.",
             "options": [
-              "Purely solid, with no wave-like behaviour whatsoever",
-              "Wave-like",
-              "A concept unrelated to the behaviour of matter",
-              "Only particle-like properties, with no wave component at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Standard Model describes each fundamental force as being mediated by an exchange of specific particles called ___.",
-            "options": [
-              "Neutrinos, which do not mediate fundamental forces in this way",
-              "A concept unrelated to the Standard Model",
-              "Gauge bosons",
-              "Protons, which are not force-carrying particles"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A superfluid flows with effectively zero ___.",
-            "options": [
-              "Electrical resistance exclusively, a property associated with superconductivity instead",
-              "Viscosity",
-              "A concept unrelated to fluid behaviour",
-              "Mass, which a superfluid still clearly possesses"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Hawking radiation suggests that black holes slowly lose ___ over time.",
-            "options": [
-              "Angular momentum exclusively, with no connection to mass loss",
-              "Electric charge exclusively, with no connection to mass loss",
-              "A concept unrelated to this theoretical prediction",
-              "Mass"
+              "The temperature of a solution only",
+              "A property unrelated to concentration",
+              "The colour of a solution only",
+              "The concentration of an unknown solution"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it useful to review the de Broglie hypothesis, gauge bosons, superfluidity, and Hawking radiation together?",
+            "q": "During a titration, a solution of known concentration is used to react with ___.",
             "options": [
-              "Review is never useful in physics",
-              "These related physics concepts reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other",
-              "Each topic must be studied with no connection to the others"
+              "Another solution of exactly the same known concentration",
+              "A solution of unknown concentration",
+              "A gas unrelated to the titration process",
+              "A solid with no connection to the reaction"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why is titration considered a form of quantitative analysis?",
+            "options": [
+              "It provides precise, measurable data about a solution’s concentration",
+              "Titration provides no measurable or precise data",
+              "This technique has no connection to quantitative measurement",
+              "Quantitative analysis never involves laboratory techniques like titration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which tool is commonly used to carefully add a measured volume of solution during a titration?",
+            "options": [
+              "A burette",
+              "A thermometer",
+              "A microscope",
+              "A tool unrelated to measuring volume"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is titration considered a valuable skill in fields like pharmaceuticals or environmental testing?",
+            "options": [
+              "This technique has no connection to real-world applications",
+              "These fields never require precise concentration measurements",
+              "Titration has no practical use outside of a classroom setting",
+              "Accurately determining concentration is essential for safety and quality in these fields"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -17611,123 +17628,125 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Introduction to Partial Derivatives -- Rates of Change in Multiple Directions",
-        "summary": "Grade 12 Calculus strand: a partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables constant, extending the familiar single-variable derivative to functions that depend on more than one input.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Introduction to Standard Deviation and Normal Distribution",
+        "summary": "Grade 9 Data Management strand: standard deviation measures the spread of data, and a normal distribution is a common, symmetric pattern where most data values cluster around the mean.",
+        "resourceLabel": "YouTube: Introduction to Standard Deviation and Normal Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Standard%20Deviation%20and%20Normal%20Distribution%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MRqtXL2WX2M",
         "quiz": [
           {
-            "q": "A partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables ___.",
+            "q": "Standard deviation measures ___.",
             "options": [
-              "Undefined, an inaccurate description of how the other variables are treated",
-              "A concept unrelated to how a partial derivative is calculated",
-              "Equal to zero exclusively, an inaccurate description of how the other variables are treated",
-              "Constant"
+              "The spread of data around the mean",
+              "The total number of values in a data set",
+              "The exact middle value of a data set",
+              "The most frequently occurring value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A normal distribution is characterized by ___.",
+            "options": [
+              "All values being exactly identical",
+              "A pattern with no discernible structure",
+              "Data that is always skewed heavily to one side",
+              "A symmetric pattern where most values cluster around the mean"
             ],
             "answer": 3
           },
           {
-            "q": "Partial derivatives extend the familiar single-variable derivative to functions that depend on more than one ___.",
+            "q": "In a normal distribution, most data values are located ___.",
             "options": [
-              "Output, an inaccurate description since a function may still have a single output despite multiple inputs",
-              "Colour, a property unrelated to how a function’s inputs are defined",
-              "Input",
-              "A concept unrelated to functions of several variables"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A partial derivative with respect to x measures how a function changes as x changes, while ___ variables remain fixed.",
-            "options": [
-              "Every, an inaccurate description that would leave nothing to vary",
-              "A concept unrelated to how a partial derivative isolates one variable’s effect",
-              "Other",
-              "No other, an inaccurate description that misrepresents functions of several variables"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is holding all other variables constant a necessary step when calculating the partial derivative of a function with respect to one particular variable?",
-            "options": [
-              "This concept has no relevance to understanding how functions of multiple variables behave",
-              "Isolating the effect of a single variable’s change requires treating the remaining variables as fixed, so the resulting rate of change reflects only that one variable’s influence on the function",
-              "A partial derivative can be meaningfully calculated without holding any of the other variables constant",
-              "Treating other variables as fixed has no bearing on what a partial derivative measures"
+              "Entirely at the extreme ends of the distribution",
+              "Close to the mean",
+              "Randomly scattered with no pattern at all",
+              "Far from the mean, with very few values near it"
             ],
             "answer": 1
           },
           {
-            "q": "Why are partial derivatives a natural and important extension of single-variable calculus for describing real-world quantities that depend on multiple factors, such as temperature depending on both location and time?",
+            "q": "Why might standard deviation be useful when analyzing test scores across a large group?",
             "options": [
-              "Many real quantities change simultaneously with respect to several different variables, and partial derivatives allow each variable’s individual contribution to that change to be analyzed separately",
-              "This concept has no relevance to extending calculus beyond functions of a single variable",
-              "Partial derivatives have no meaningful application to describing quantities that depend on multiple factors",
-              "Real-world quantities never depend on more than a single variable at a time"
+              "Standard deviation has no connection to analyzing test scores",
+              "It shows how consistent or varied the scores are relative to the average",
+              "It always equals the mean, providing no new information",
+              "This statistic should never be used with test score data"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "A normal distribution is often visually represented as a ___ shaped curve.",
+            "options": [
+              "Perfectly flat",
+              "Bell",
+              "Zigzag",
+              "Straight, diagonal"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Physics",
-        "title": "Physics: Gravitational Waves -- Ripples in Spacetime",
-        "summary": "Grade 12 Physics strand: gravitational waves are ripples in the curvature of spacetime, predicted by general relativity, that propagate outward from accelerating massive objects such as merging black holes, stretching and compressing space itself as they pass.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Earth Science: Plate Tectonics and Natural Hazards",
+        "summary": "Grade 10 Earth Science strand: plate tectonics describes the movement of large sections of Earth’s crust, which can result in natural hazards such as earthquakes and volcanic eruptions at plate boundaries.",
+        "resourceLabel": "YouTube: Earth Science: Plate Tectonics and Natural Hazards",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20Plate%20Tectonics%20and%20Natural%20Hazards%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oCPjgv2Pccc",
         "quiz": [
           {
-            "q": "Gravitational waves are ripples in the curvature of ___, predicted by general relativity.",
+            "q": "Plate tectonics describes the movement of ___.",
             "options": [
-              "The electromagnetic spectrum exclusively, an inaccurate description of what gravitational waves are",
-              "Spacetime",
-              "Only ordinary matter, an inaccurate description of what gravitational waves ripple through",
-              "A concept unrelated to this predicted phenomenon"
+              "Large sections of Earth’s crust",
+              "Only ocean currents, with no connection to the crust",
+              "Only the atmosphere, with no connection to the crust",
+              "A concept unrelated to Earth’s structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which natural hazard is commonly associated with plate boundaries?",
+            "options": [
+              "Tornadoes",
+              "A hazard unrelated to Earth’s crust",
+              "Blizzards",
+              "Earthquakes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do earthquakes often occur along plate boundaries?",
+            "options": [
+              "This hazard has no scientific explanation",
+              "Stress builds up as plates interact, and its release causes the ground to shake",
+              "Plate boundaries have no relationship to earthquake activity",
+              "Earthquakes occur completely randomly with no connection to plate boundaries"
             ],
             "answer": 1
           },
           {
-            "q": "Gravitational waves propagate outward from accelerating massive objects such as merging ___.",
+            "q": "Volcanic eruptions are often associated with ___.",
             "options": [
-              "Electrons, particles far too low in mass to be a typical source of gravitational waves",
-              "A concept unrelated to the typical sources of gravitational waves",
-              "Black holes",
-              "Photons, particles with no rest mass and not the typical source of gravitational waves"
+              "A process entirely unrelated to Earth’s crust",
+              "Locations with no connection to plate tectonics",
+              "Certain types of plate boundaries where magma can reach the surface",
+              "Areas with no geological activity at all"
             ],
             "answer": 2
           },
           {
-            "q": "Gravitational waves stretch and compress ___ itself as they pass.",
+            "q": "Why is studying plate tectonics important for understanding and preparing for natural hazards?",
             "options": [
-              "Only light exclusively, an inaccurate and overly narrow description of what a gravitational wave affects",
-              "Space",
-              "Only solid matter, an inaccurate and overly narrow description of what a gravitational wave affects",
-              "A concept unrelated to the physical effect of a passing gravitational wave"
+              "This field of study provides no useful information for hazard preparedness",
+              "Natural hazards occur with no connection to geological activity",
+              "Plate tectonics has no connection to natural hazards",
+              "It helps identify regions at higher risk, informing safety and preparedness efforts"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why do gravitational waves require an extraordinarily sensitive detector to observe directly, even though massive cosmic events are predicted to generate them?",
-            "options": [
-              "Detecting gravitational waves requires no particular sensitivity, since their effects are large and easily measured",
-              "The stretching and compressing of space caused by a gravitational wave reaching Earth is predicted to be exceedingly small, requiring detectors capable of measuring distance changes far smaller than the width of a proton",
-              "Gravitational waves are predicted to produce enormous, easily observed distortions of space upon reaching Earth",
-              "This concept has no relevance to understanding the observational challenge posed by gravitational waves"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why was the direct detection of gravitational waves considered a landmark confirmation of general relativity, even though the theory had already been supported by other evidence?",
-            "options": [
-              "Gravitational waves have no connection to any prediction made by general relativity",
-              "This concept has no relevance to understanding how theoretical predictions in physics are experimentally confirmed",
-              "Gravitational waves were one of general relativity’s key predictions that had not been directly observed for decades, so their detection provided striking, independent experimental confirmation of a fundamental aspect of the theory",
-              "General relativity had never made any prediction regarding ripples in spacetime prior to their detection"
-            ],
-            "answer": 2
+            "answer": 3
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Earth Systems"
       }
     ]
   },
@@ -17857,122 +17876,125 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Lagrange Multipliers -- Optimization Under a Constraint",
-        "summary": "Grade 12 Calculus strand: the method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific constraint equation, by introducing an auxiliary variable that relates the gradients of the original function and the constraint at the optimal point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Introduction to Logarithms",
+        "summary": "Grade 10 Functions strand (extension): a logarithm answers the question of what exponent a given base must be raised to in order to produce a certain number, making it the inverse operation of exponentiation.",
+        "resourceLabel": "YouTube: Introduction to Logarithms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Logarithms%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0",
         "quiz": [
           {
-            "q": "The method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific ___ equation.",
+            "q": "A logarithm answers the question of ___.",
             "options": [
-              "A concept unrelated to how this optimization method is defined",
-              "Quadratic, an inaccurate description of the type of equation involved in this method",
-              "Constraint",
-              "Trigonometric, an inaccurate description of the type of equation involved in this method"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The method of Lagrange multipliers introduces an auxiliary variable that relates the ___ of the original function and the constraint at the optimal point.",
-            "options": [
-              "Colours, a property unrelated to how this optimization method is defined",
-              "Areas, a property unrelated to how this optimization method identifies an optimal point",
-              "A concept unrelated to the relationship this method establishes",
-              "Gradients"
+              "A question unrelated to exponents",
+              "What number multiplied by itself equals zero",
+              "What the sum of two numbers equals",
+              "What exponent a base must be raised to in order to produce a given number"
             ],
             "answer": 3
           },
           {
-            "q": "Lagrange multipliers are used to optimize a function while ___ satisfying a given constraint.",
+            "q": "A logarithm is the inverse operation of ___.",
             "options": [
-              "A concept unrelated to how Lagrange multipliers are applied",
-              "Simultaneously",
-              "Only occasionally, an inaccurate description of how strictly the constraint must be honoured",
-              "Never, an inaccurate description that would defeat the purpose of a constrained optimization method"
+              "Addition",
+              "An operation unrelated to exponents",
+              "Exponentiation",
+              "Subtraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If log base 2 of 8 equals 3, this means ___.",
+            "options": [
+              "A relationship unrelated to exponents",
+              "2 raised to the power of 3 equals 8",
+              "2 multiplied by 3 equals 8",
+              "8 divided by 2 equals 3"
             ],
             "answer": 1
           },
           {
-            "q": "Why is a specialized method such as Lagrange multipliers needed to optimize a function subject to a constraint, rather than simply using ordinary derivative techniques alone?",
+            "q": "Why might logarithms be useful for solving equations where the unknown is an exponent?",
             "options": [
-              "Ordinary optimization techniques locate extrema of a function across its entire domain, but a constraint restricts the search to a smaller subset of that domain, requiring a method that accounts for the constraint directly",
-              "A constraint has no effect on where a function’s maximum or minimum value is located",
-              "Ordinary derivative techniques always find the correct constrained optimum without any need for a specialized method",
-              "This concept has no relevance to understanding constrained optimization problems"
+              "This type of equation cannot be solved using any method",
+              "Logarithms only apply to equations with no exponents",
+              "Logarithms can never be used to solve for an exponent",
+              "They allow you to isolate and directly solve for that exponent"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is the method of Lagrange multipliers considered a significant extension of single-variable optimization studied earlier in Grade 12 Calculus?",
+            "q": "Why are logarithms useful in fields like science for measuring things like earthquake intensity (the Richter scale)?",
             "options": [
-              "Lagrange multipliers have no meaningful connection to the optimization techniques studied earlier in the course",
-              "Constrained optimization problems involving multiple variables are never encountered in any practical application",
-              "This concept has no relevance to extending a student’s understanding of optimization",
-              "It generalizes the search for a maximum or minimum value to situations involving multiple variables linked by a constraint, a more realistic scenario for many practical optimization problems than optimizing a single unconstrained variable"
+              "Logarithms make large values impossible to measure or compare",
+              "Logarithms have no real-world scientific applications",
+              "This concept only applies to purely abstract mathematics",
+              "They can effectively represent very large ranges of values on a more manageable scale"
             ],
             "answer": 3
           }
         ],
-        "topic": "Calculus: Applications"
+        "topic": "Functions: Exponential & Logarithmic"
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Higgs Boson and the Origin of Mass",
-        "summary": "Grade 12 Physics strand: the Higgs boson is a particle associated with the Higgs field, a field permeating all of space that is theorized to give many fundamental particles their mass through the strength of their interaction with it.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Chemistry: Organic Compounds and Functional Groups",
+        "summary": "Grade 10 Chemistry strand: organic compounds are carbon-based molecules, and functional groups are specific arrangements of atoms within these molecules that determine their chemical properties and reactivity.",
+        "resourceLabel": "YouTube: Chemistry: Organic Compounds and Functional Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Organic%20Compounds%20and%20Functional%20Groups%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m9jM8lWxrAE",
         "quiz": [
           {
-            "q": "The Higgs boson is a particle associated with the Higgs ___, a field theorized to permeate all of space.",
+            "q": "Organic compounds are best described as ___.",
             "options": [
-              "Orbit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
-              "A concept unrelated to the Higgs boson’s theoretical basis",
-              "Circuit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
-              "Field"
+              "Molecules that contain no carbon at all",
+              "Carbon-based molecules",
+              "Only inorganic minerals",
+              "A category unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A functional group is best described as ___.",
+            "options": [
+              "A concept unrelated to chemical structure",
+              "A term with no connection to reactivity",
+              "A group of unrelated molecules with no shared structure",
+              "A specific arrangement of atoms that determines a molecule’s chemical properties"
             ],
             "answer": 3
           },
           {
-            "q": "The Higgs field is theorized to give many fundamental particles their ___ through the strength of their interaction with it.",
+            "q": "Why do different functional groups give organic compounds different chemical properties?",
             "options": [
-              "Mass",
-              "Electric charge, a property not primarily explained by the Higgs mechanism",
-              "A concept unrelated to what the Higgs field is theorized to explain",
-              "Colour, a property unrelated to the Higgs mechanism"
+              "The specific arrangement of atoms in a functional group influences how a molecule reacts",
+              "This concept has no connection to chemical reactivity",
+              "All organic compounds behave in an identical way regardless of structure",
+              "Functional groups have no effect on a molecule’s properties"
             ],
             "answer": 0
           },
           {
-            "q": "A particle’s mass, under this theory, depends on the strength of its ___ with the Higgs field.",
+            "q": "Which is an example of an organic compound found in everyday life?",
             "options": [
-              "Interaction",
-              "Colour, a property unrelated to the Higgs mechanism",
-              "Distance from the observable universe’s centre, a concept unrelated to how the Higgs mechanism assigns mass",
-              "A concept unrelated to how the Higgs field is theorized to give particles mass"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does the Higgs mechanism propose that different fundamental particles have different masses, rather than all interacting with the Higgs field in an identical way?",
-            "options": [
-              "This concept has no relevance to explaining why fundamental particles have different masses",
-              "The Higgs mechanism proposes that every fundamental particle interacts with the Higgs field in an identical way with no variation whatsoever",
-              "Fundamental particles have no established variation in mass according to the Standard Model",
-              "Each type of particle is theorized to interact with the Higgs field with a different characteristic strength, and this varying strength of interaction is what is theorized to produce the varying masses observed among fundamental particles"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why was the experimental discovery of the Higgs boson considered such a significant achievement for the Standard Model of particle physics?",
-            "options": [
-              "This concept has no relevance to understanding major achievements in modern particle physics",
-              "The Standard Model makes no prediction regarding how fundamental particles acquire their mass",
-              "It provided direct experimental evidence for a particle that had been theoretically predicted decades earlier as central to explaining how fundamental particles acquire mass, confirming a key piece of the Standard Model",
-              "The discovery of the Higgs boson had no connection to any previously predicted aspect of the Standard Model"
+              "A pure metal with no carbon content",
+              "A mineral with no organic origin",
+              "A sugar molecule",
+              "A substance entirely unrelated to carbon chemistry"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why is the study of organic compounds and functional groups important in fields like medicine?",
+            "options": [
+              "This field of study has no practical, real-world applications",
+              "Organic chemistry has no connection to medicine",
+              "Functional groups have no relevance to how medications work",
+              "Many medications are organic compounds whose function depends on specific functional groups"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       }
     ]
   },
@@ -18837,62 +18859,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Wallis Product -- An Infinite Product for Pi",
-        "summary": "Grade 12 Calculus strand: the Wallis Product expresses pi as the limit of an infinite product of fractions built from even and odd integers, offering a striking early example of how calculus techniques can connect infinite processes to a fundamental constant.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Logarithmic Functions and Their Graphs",
+        "summary": "Grade 10 Functions strand (extension): a logarithmic function is the inverse of an exponential function, and its graph increases slowly and has a vertical asymptote at x equals zero.",
+        "resourceLabel": "YouTube: Logarithmic Functions and Their Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Functions%20and%20Their%20Graphs%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-nptxS9rZNA",
         "quiz": [
           {
-            "q": "The Wallis Product expresses pi as the limit of an infinite product of fractions built from even and ___ integers.",
+            "q": "A logarithmic function is the inverse of ___.",
             "options": [
-              "Odd",
-              "Negative, an inaccurate description of the integers used in the Wallis Product",
-              "A concept unrelated to how the Wallis Product is constructed",
-              "Imaginary, an inaccurate description of the integers used in the Wallis Product"
+              "A linear function",
+              "A quadratic function",
+              "An exponential function",
+              "A function unrelated to exponents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The graph of a basic logarithmic function has a vertical asymptote at ___.",
+            "options": [
+              "x equals one",
+              "y equals zero",
+              "x equals zero",
+              "A point unrelated to the origin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Compared to an exponential function, a logarithmic function’s graph tends to increase ___.",
+            "options": [
+              "More slowly",
+              "In a completely unpredictable way",
+              "More quickly at every point",
+              "At an identical rate"
             ],
             "answer": 0
           },
           {
-            "q": "The Wallis Product offers an early example of how calculus techniques can connect infinite processes to a fundamental ___.",
+            "q": "Why is it useful to understand that logarithmic and exponential functions are inverses of one another?",
             "options": [
-              "A concept unrelated to the significance of the Wallis Product",
-              "Variable, an inaccurate description of the fixed quantity the Wallis Product converges toward",
-              "Constant",
-              "Function, an inaccurate description of the fixed numerical quantity the Wallis Product converges toward"
+              "Exponential and logarithmic functions can never be related to each other",
+              "It helps in converting between exponential and logarithmic forms when solving problems",
+              "Inverse functions have no practical use in mathematics",
+              "These two function types have no mathematical relationship"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "The Wallis Product converges toward its value as more and more ___ are included in the product.",
+            "q": "Why might a logarithmic scale be used on a graph representing a wide range of values?",
             "options": [
-              "Colours, a property unrelated to how convergence in the Wallis Product is achieved",
-              "Variables, an inaccurate description since the product is built from specific numerical terms",
-              "Terms",
-              "A concept unrelated to how the Wallis Product approaches its limiting value"
+              "It can make it easier to visually compare values that span several orders of magnitude",
+              "This type of scale has no practical use for representing data",
+              "Logarithmic graphs can never represent a wide range of values",
+              "Logarithmic scales make data harder to interpret in every situation"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why is convergence, rather than an exact finite calculation, the relevant concept for understanding how the Wallis Product produces a value related to pi?",
-            "options": [
-              "The Wallis Product can be calculated exactly using only a small, finite number of terms with no need to consider any limiting process",
-              "This concept has no relevance to understanding how infinite processes are evaluated in calculus",
-              "Convergence has no relevance to understanding an infinite product such as the Wallis Product",
-              "The product involves infinitely many terms, so its value is understood as the limit approached by multiplying together more and more of these terms, rather than a result obtained from a finite calculation"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might the Wallis Product be considered a historically significant result connecting elementary arithmetic to the fundamental constant pi?",
-            "options": [
-              "Pi can never be expressed or approximated using any kind of infinite process",
-              "This concept has no relevance to understanding the historical development of calculus",
-              "It shows that a value as fundamental as pi can emerge from a surprisingly simple pattern built entirely from ordinary integers, foreshadowing the deeper relationships between infinite processes and fundamental constants explored throughout calculus",
-              "The Wallis Product has no established mathematical or historical connection to the constant pi"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Functions: Exponential & Logarithmic"
       },
       {
         "subject": "Physics",
@@ -19080,122 +19104,123 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Divergence and Curl of a Vector Field",
-        "summary": "Grade 12 Calculus strand: divergence measures the extent to which a vector field spreads outward from a given point, while curl measures the extent to which a vector field rotates around that point, together describing two distinct local behaviours of a vector field.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Vectors in Two Dimensions",
+        "summary": "Grade 10 Geometry strand (extension): a vector represents a quantity with both magnitude and direction, often used to describe things like velocity or force in two-dimensional space.",
+        "resourceLabel": "YouTube: Vectors in Two Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Two%20Dimensions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iXdMpXMuEGI",
         "quiz": [
           {
-            "q": "Divergence measures the extent to which a vector field spreads ___ from a given point.",
+            "q": "A vector represents a quantity with ___.",
             "options": [
-              "Only inward, an inaccurate and incomplete description of what divergence measures",
-              "A concept unrelated to what divergence describes about a vector field",
-              "Sideways exclusively, an inaccurate description of what divergence measures",
-              "Outward"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Curl measures the extent to which a vector field ___ around a given point.",
-            "options": [
-              "Rotates",
-              "Disappears entirely, an inaccurate description of what curl measures",
-              "Spreads outward exclusively, a description of divergence rather than curl",
-              "A concept unrelated to what curl describes about a vector field"
+              "Both magnitude and direction",
+              "Only direction, with no magnitude",
+              "Neither magnitude nor direction",
+              "Only magnitude, with no direction"
             ],
             "answer": 0
           },
           {
-            "q": "Divergence and curl together describe two distinct ___ behaviours of a vector field.",
+            "q": "Which is an example of a quantity that could be represented as a vector?",
             "options": [
-              "Financial, a category unrelated to describing a vector field’s behaviour",
-              "Global, a description that does not capture the point-specific nature of these two measures",
-              "A concept unrelated to what divergence and curl describe",
-              "Local"
+              "A quantity unrelated to direction",
+              "Temperature",
+              "Mass",
+              "Velocity"
             ],
             "answer": 3
           },
           {
-            "q": "Why are divergence and curl considered two distinct, complementary measures of a vector field’s local behaviour, rather than two versions of the same idea?",
+            "q": "Why is direction an important component when representing a vector, unlike a plain number (scalar)?",
             "options": [
-              "Divergence and curl always describe exactly the same behaviour of a vector field at any given point",
-              "This concept has no relevance to understanding the different ways a vector field can behave locally",
-              "A vector field can only ever exhibit one of these two behaviours, never both simultaneously",
-              "Divergence captures a field’s tendency to expand from or converge toward a point, while curl captures its tendency to rotate around that point, two genuinely different geometric behaviours a vector field can exhibit"
+              "A scalar and a vector are always identical to one another",
+              "Vectors never involve any directional component",
+              "Direction has no relevance to how a vector is used",
+              "It provides essential information about which way a quantity is acting, not just how much"
             ],
             "answer": 3
           },
           {
-            "q": "Why might understanding divergence and curl be useful for describing physical phenomena such as fluid flow or electromagnetic fields?",
+            "q": "In two-dimensional space, a vector can be described using ___.",
             "options": [
-              "Divergence and curl have no established connection to describing physical phenomena such as fluid flow or electromagnetic fields",
-              "This concept has no relevance to applying vector calculus to physical systems",
-              "Physical fields such as fluid flow never exhibit any spreading or rotational behaviour worth describing mathematically",
-              "Divergence can indicate a source or sink of fluid or field lines at a point, while curl can indicate local rotational motion, both physically meaningful properties in fields such as fluid velocity or magnetic fields"
+              "Only a single number with no components",
+              "A description unrelated to direction or magnitude",
+              "Three components instead of two",
+              "Horizontal and vertical components"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why might vectors be useful for describing forces acting on an object in physics?",
+            "options": [
+              "Multiple forces with different directions can be combined and analyzed using vector operations",
+              "This concept only applies to purely abstract mathematics",
+              "Vectors have no practical use for describing physical forces",
+              "Forces never have a specific direction associated with them"
+            ],
+            "answer": 0
           }
         ]
       },
       {
         "subject": "Physics",
-        "title": "Physics: Magnetic Monopoles -- A Hypothetical Particle",
-        "summary": "Grade 12 Physics strand: a magnetic monopole is a hypothetical particle carrying an isolated north or south magnetic pole, unlike every magnet observed so far, which always has both poles together, and its predicted existence remains an open question actively pursued in experimental physics.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics: Applications of Radioactivity in Medicine",
+        "summary": "Grade 10 Physics strand: radioactive isotopes are used in medicine for both diagnostic imaging and treatment, taking advantage of their predictable decay properties to benefit patient care.",
+        "resourceLabel": "YouTube: Physics: Applications of Radioactivity in Medicine",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Applications%20of%20Radioactivity%20in%20Medicine%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=03f4Nhkd1Cw",
         "quiz": [
           {
-            "q": "A magnetic monopole is a hypothetical particle carrying an isolated north or south magnetic ___.",
+            "q": "Radioactive isotopes used in medicine take advantage of their ___.",
             "options": [
-              "Field line exclusively, an incomplete description of a magnetic monopole’s defining property",
-              "Charge exclusively, an inaccurate description that conflates magnetic and electric properties",
-              "Pole",
-              "A concept unrelated to what a magnetic monopole is theorized to carry"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Every magnet observed so far always has ___ poles together, unlike a hypothetical magnetic monopole.",
-            "options": [
-              "A concept unrelated to the defining property of ordinary magnets",
-              "No, an inaccurate description of ordinary observed magnets",
-              "Both",
-              "Neither, an inaccurate description of ordinary observed magnets"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The predicted existence of magnetic monopoles remains an ___ question actively pursued in experimental physics.",
-            "options": [
-              "Entirely irrelevant, an inaccurate description of the current scientific status of this question",
-              "A concept unrelated to the current status of this scientific question",
-              "Fully and permanently resolved, an inaccurate description of the current scientific status of this question",
-              "Open"
+              "Random, unpredictable behaviour with no scientific basis",
+              "Complete lack of any measurable properties",
+              "Properties unrelated to radioactivity",
+              "Predictable decay properties"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the hypothetical existence of a magnetic monopole considered surprising given how ordinary magnets behave?",
+            "q": "Which is an example of a medical use of radioactivity?",
             "options": [
-              "Ordinary magnets have never been observed to have both a north and a south pole simultaneously",
-              "This concept has no relevance to understanding why magnetic monopoles are considered a distinctive hypothetical particle",
-              "A magnetic monopole would behave in exactly the same way as every ordinary magnet observed so far",
-              "Every known magnet, no matter how many times it is divided, always produces a new pair of north and south poles rather than an isolated single pole, so a particle with only one pole would represent a genuinely new kind of magnetic behaviour"
+              "A process with no connection to isotopes",
+              "Diagnostic imaging",
+              "A use entirely unrelated to medicine",
+              "Only agricultural applications, with no medical use"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why do physicists continue to search experimentally for magnetic monopoles despite their consistent absence from observation so far?",
+            "q": "Why must medical professionals carefully control the dosage of radioactive materials used in treatment?",
             "options": [
-              "This concept has no relevance to how physicists evaluate predictions made by theoretical models",
-              "Some theoretical frameworks in physics predict that magnetic monopoles should exist, so their confirmed detection or continued absence provides valuable evidence for evaluating those broader theories",
-              "No theoretical framework in physics has ever predicted the possible existence of magnetic monopoles",
-              "Physicists have already conclusively proven that magnetic monopoles cannot exist under any theoretical framework"
+              "Dosage has no effect on how radioactive materials interact with the body",
+              "Radioactive materials can be harmful in excessive amounts, so careful control ensures patient safety",
+              "This factor has no connection to medical safety practices",
+              "Radioactive materials are always completely safe regardless of dosage"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are radioactive isotopes useful for diagnostic imaging in medicine?",
+            "options": [
+              "Diagnostic imaging never involves the use of radioactive materials",
+              "This application has no connection to how isotopes decay",
+              "They can be tracked within the body, helping visualize internal structures or processes",
+              "Radioactive isotopes have no useful medical applications"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding the science behind radioactivity important for professionals working in medical imaging?",
+            "options": [
+              "Medical professionals never need to understand radioactivity",
+              "It helps ensure the safe and effective use of these technologies for patient care",
+              "This field has no connection to patient safety",
+              "This scientific understanding has no relevance to medical imaging"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -19325,63 +19350,77 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Runge-Kutta Methods -- Numerical Solutions to Differential Equations",
-        "summary": "Grade 12 Calculus strand: Runge-Kutta methods approximate the solution of a differential equation by taking several intermediate slope estimates within each step, combining them into a weighted average that is generally far more accurate than the single-slope estimate used in Euler’s Method.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Review: Logarithms, Vectors, and Probability",
+        "summary": "Grade 10 Functions, Geometry, and Data Management strands review: this lesson revisits logarithms, logarithmic functions, vectors, combining functions, and conditional probability covered across recent lessons.",
+        "resourceLabel": "YouTube: Review: Logarithms, Vectors, and Probability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Logarithms%2C%20Vectors%2C%20and%20Probability%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Z5myJ8dg_rM",
+        "videoUrls": [
+          {
+            "label": "Logarithms",
+            "url": "https://www.youtube.com/watch?v=Z5myJ8dg_rM"
+          },
+          {
+            "label": "Vectors",
+            "url": "https://www.youtube.com/watch?v=iXdMpXMuEGI"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=sqDVrXq_eh0"
+          }
+        ],
         "quiz": [
           {
-            "q": "Runge-Kutta methods approximate the solution of a differential equation by taking several intermediate ___ estimates within each step.",
+            "q": "A logarithm answers the question of ___.",
             "options": [
-              "Colour, a property unrelated to how Runge-Kutta methods refine an approximation",
-              "A concept unrelated to how Runge-Kutta methods work",
-              "Slope",
-              "Distance, an inaccurate description of the quantity estimated at each intermediate stage"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Runge-Kutta methods combine several intermediate slope estimates into a ___ average.",
-            "options": [
-              "Random, an inaccurate description of how the intermediate estimates are combined",
-              "Unweighted, an inaccurate description that overlooks how these methods emphasize different estimates",
-              "Weighted",
-              "A concept unrelated to how Runge-Kutta methods combine their estimates"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Runge-Kutta methods are generally far more ___ than the single-slope estimate used in Euler’s Method.",
-            "options": [
-              "Accurate",
-              "Slow to converge, an inaccurate description of Runge-Kutta’s typical advantage over Euler’s Method",
-              "A concept unrelated to comparing Runge-Kutta methods to Euler’s Method",
-              "Complicated to apply by hand, a true but secondary characteristic rather than this method’s primary advantage"
+              "What exponent a base must be raised to in order to produce a given number",
+              "What number multiplied by itself equals zero",
+              "What the sum of two numbers equals",
+              "A question unrelated to exponents"
             ],
             "answer": 0
           },
           {
-            "q": "Why does taking multiple intermediate slope estimates within a single step, rather than just one, generally improve the accuracy of a Runge-Kutta approximation compared to Euler’s Method?",
+            "q": "A vector represents a quantity with ___.",
             "options": [
-              "The number of slope estimates taken within a step has no bearing on the accuracy of a numerical solution to a differential equation",
-              "Using multiple intermediate slope estimates within a step always produces a less accurate approximation than using a single slope estimate",
-              "This concept has no relevance to comparing different numerical methods for solving differential equations",
-              "Combining several estimates of how the slope changes across a step accounts for curvature within that step more effectively than relying on a single slope value calculated only at its starting point"
+              "Only direction, with no magnitude",
+              "Neither magnitude nor direction",
+              "Only magnitude, with no direction",
+              "Both magnitude and direction"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a more computationally intensive method such as Runge-Kutta be worth the additional calculation compared to the simpler Euler’s Method, especially for equations solved using a computer?",
+            "q": "A composite function applies ___.",
             "options": [
-              "A more computationally intensive method never provides any meaningful improvement in the accuracy of a numerical approximation",
-              "Euler’s Method always produces results at least as accurate as any more advanced numerical method",
-              "The improved accuracy from combining multiple slope estimates per step often allows Runge-Kutta methods to use larger step sizes while still producing a reliable approximation, a valuable tradeoff readily handled by computational tools",
-              "This concept has no relevance to choosing an appropriate numerical method for solving differential equations"
+              "Only a single function, with no combination involved",
+              "A method unrelated to functions",
+              "One function to the result of another function",
+              "Two completely unrelated, separate functions with no connection"
             ],
             "answer": 2
+          },
+          {
+            "q": "Two events are considered independent when ___.",
+            "options": [
+              "One event does not affect the probability of the other",
+              "One event always determines the outcome of the other",
+              "Neither event can ever occur",
+              "Both events always occur at the exact same time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review logarithms, vectors, and probability together?",
+            "options": [
+              "Each topic must be learned in complete isolation",
+              "These related math concepts reinforce each other for stronger overall understanding",
+              "Review is never useful in math",
+              "These topics have no connection to each other"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Physics",
@@ -19570,62 +19609,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Chain Rule for Multivariable Functions",
-        "summary": "Grade 12 Calculus strand: the multivariable chain rule extends the familiar single-variable chain rule to functions of several variables that each depend on one or more underlying variables, combining partial derivatives to determine how the overall function changes as those underlying variables change.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Solving Logarithmic Equations",
+        "summary": "Grade 10 Functions strand (extension): solving a logarithmic equation often involves using logarithm properties to combine terms, then rewriting the equation in exponential form to isolate the unknown variable.",
+        "resourceLabel": "YouTube: Solving Logarithmic Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fnhFneOz6n8",
         "quiz": [
           {
-            "q": "The multivariable chain rule extends the familiar single-variable chain rule to functions of several variables that each depend on one or more ___ variables.",
+            "q": "Solving a logarithmic equation often involves rewriting it in ___.",
             "options": [
-              "Financial, a category unrelated to how this rule’s variables are described",
-              "Underlying",
-              "A concept unrelated to how the multivariable chain rule is structured",
-              "Colour-coded, an inaccurate description of the variables involved in this extension"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The multivariable chain rule combines ___ derivatives to determine how the overall function changes.",
-            "options": [
-              "A concept unrelated to what the multivariable chain rule combines",
-              "Zero, an inaccurate description that would leave nothing to combine",
-              "Partial",
-              "Only ordinary single-variable, an inaccurate description that overlooks the role of partial derivatives in this rule"
+              "Fraction form with no connection to exponents",
+              "A form unrelated to exponents",
+              "Exponential form",
+              "Linear form only, with no other conversion possible"
             ],
             "answer": 2
           },
           {
-            "q": "The multivariable chain rule determines how the overall function changes as the underlying variables ___.",
+            "q": "If log base 2 of x equals 5, what is x?",
             "options": [
-              "A concept unrelated to the purpose of this rule",
-              "Change",
-              "Disappear entirely, an inaccurate description of how underlying variables behave",
-              "Remain exactly constant, an inaccurate description that would eliminate any need for a chain rule at all"
+              "25",
+              "A value unrelated to the equation",
+              "32",
+              "10"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why is the multivariable chain rule needed when a function depends on several variables that each, in turn, depend on a common underlying variable such as time?",
+            "q": "Why might logarithm properties, such as the product or quotient rule, be used before solving a logarithmic equation?",
             "options": [
-              "Each intermediate variable’s own rate of change with respect to the underlying variable must be accounted for and combined, since the overall function’s total rate of change results from the combined influence of every dependent variable",
-              "A single ordinary derivative is always sufficient to describe how such a function changes with respect to the underlying variable",
-              "This concept has no relevance to understanding how interconnected variables affect a function’s overall rate of change",
-              "The multivariable chain rule has no meaningful connection to functions whose variables each depend on a common underlying variable"
+              "They can combine multiple logarithmic terms into a single term, simplifying the equation",
+              "This step always makes an equation more difficult to solve",
+              "Logarithm properties have no connection to solving equations",
+              "These properties never simplify a logarithmic equation"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the multivariable chain rule considered a natural extension of ideas a Grade 12 Calculus student has already studied, such as partial derivatives and the single-variable chain rule?",
+            "q": "Why must the solution to a logarithmic equation be checked against the domain of the original logarithms?",
             "options": [
-              "The multivariable chain rule has no meaningful connection to either partial derivatives or the single-variable chain rule studied earlier",
-              "It combines the earlier idea of isolating one variable’s effect through a partial derivative with the established chain rule pattern of tracking how change propagates through dependent variables, extending both concepts to a more general setting",
-              "Extending previously studied calculus concepts to more general settings is never a meaningful or useful mathematical practice",
-              "This concept has no relevance to building a coherent understanding of calculus across different topics"
+              "Checking a solution never affects whether it is valid",
+              "A logarithm is only defined for positive arguments, so some solutions may be extraneous",
+              "This step has no connection to solving logarithmic equations",
+              "Logarithms are defined for every possible number, so no checking is required"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why are logarithmic equations useful for modelling situations like sound intensity or pH levels?",
+            "options": [
+              "These situations involve quantities that change across a very wide range, which logarithms can represent efficiently",
+              "Logarithmic equations have no real-world applications",
+              "Sound intensity and pH levels never involve any mathematical modelling",
+              "This concept only applies to purely abstract mathematics with no real-world use"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -19812,62 +19853,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Review: Grade 12 Calculus -- Days 71-79 Synthesis",
-        "summary": "Grade 12 Calculus strand review: this lesson revisits partial derivatives, Lagrange multipliers, Simpson’s Rule, and the Bisection Method from Days 71-79.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "title": "Rational Functions: Graphing and Asymptotes in Depth",
+        "summary": "Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
+        "resourceLabel": "YouTube: Rational Functions: Graphing and Asymptotes in Depth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Graphing%20and%20Asymptotes%20in%20Depth%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
         "quiz": [
           {
-            "q": "A partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables ___.",
+            "q": "A vertical asymptote of a rational function typically occurs where ___.",
             "options": [
-              "Undefined, an inaccurate description of how the other variables are treated",
-              "Constant",
-              "Equal to zero exclusively, an inaccurate description of how the other variables are treated",
-              "A concept unrelated to how a partial derivative is calculated"
+              "A location unrelated to the function’s denominator",
+              "The denominator equals zero",
+              "The numerator equals zero",
+              "The function crosses the x-axis"
             ],
             "answer": 1
           },
           {
-            "q": "The method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific ___ equation.",
+            "q": "An asymptote describes a value that a function ___.",
             "options": [
-              "Quadratic, an inaccurate description of the type of equation involved in this method",
-              "Constraint",
-              "A concept unrelated to how this optimization method is defined",
-              "Trigonometric, an inaccurate description of the type of equation involved in this method"
+              "Always reaches and crosses repeatedly",
+              "Approaches but never reaches",
+              "A concept unrelated to rational functions",
+              "Reaches only at a single specific point and no other"
             ],
             "answer": 1
           },
           {
-            "q": "Simpson’s Rule approximates a definite integral by fitting ___ curves through successive groups of points on a function.",
+            "q": "For the function f(x) = 1/(x - 3), where is the vertical asymptote located?",
             "options": [
-              "Parabolic",
-              "A concept unrelated to how Simpson’s Rule works",
-              "Circular, an inaccurate description of the curves used in Simpson’s Rule",
-              "Straight-line, a description of the Trapezoid Rule’s approach rather than Simpson’s Rule"
+              "x = 0",
+              "x = -3",
+              "x = 3",
+              "A location unrelated to this function"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
+            "q": "Why is it useful to identify a rational function’s asymptotes before graphing it?",
             "options": [
-              "Ignoring, an inaccurate description that would prevent the method from converging at all",
-              "Doubling, an inaccurate description of how the interval changes at each step",
-              "A concept unrelated to how the Bisection Method works",
-              "Halving"
+              "Graphing a function never requires identifying asymptotes",
+              "Asymptotes provide no useful information about a function’s graph",
+              "Rational functions never have any asymptotes",
+              "Asymptotes provide key information about the function’s behaviour and shape near those values"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it useful to review partial derivatives, Lagrange multipliers, Simpson’s Rule, and the Bisection Method together?",
+            "q": "Why might a rational function’s horizontal asymptote be useful in a real-world modelling context?",
             "options": [
-              "Each topic must be studied with no connection to the others",
-              "These related calculus techniques reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other",
-              "Review is never useful in calculus"
+              "Modelled quantities never approach a long-term limiting value",
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "It can represent a long-term value or limit that a modelled quantity approaches over time",
+              "Horizontal asymptotes have no real-world interpretation"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Physics",
@@ -20115,62 +20158,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: Neutrino Oscillations and Flavor Changing",
-        "summary": "Grade 12 Physics strand: neutrinos can change, or oscillate, between different types called flavors as they travel, a phenomenon that revealed neutrinos have a small but nonzero mass.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electromagnetism: Fields and Induction",
+        "summary": "Grade 9 Science Physics strand: electromagnetism describes the relationship between electricity and magnetism, including how a changing magnetic field can induce an electric current, a principle used in generators.",
+        "resourceLabel": "YouTube: Electromagnetism: Fields and Induction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetism%3A%20Fields%20and%20Induction%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
         "quiz": [
           {
-            "q": "What can neutrinos do as they travel, according to neutrino oscillation?",
+            "q": "Electromagnetism describes the relationship between ___.",
             "options": [
-              "Always remain in exactly the same unchanging state",
-              "Change between different types called flavors",
-              "Instantly disappear with no trace",
+              "Only sound and light, with no connection to electricity",
+              "Electricity and magnetism",
+              "Only heat, with no connection to magnetism",
               "A concept unrelated to physics"
             ],
             "answer": 1
           },
           {
-            "q": "Did the discovery of neutrino oscillations reveal that neutrinos have a nonzero mass?",
+            "q": "Electromagnetic induction occurs when ___.",
             "options": [
-              "Yes",
-              "A concept unrelated to neutrino oscillations",
-              "No, neutrino oscillations proved neutrinos have absolutely no mass",
-              "Mass has no connection to neutrino oscillation behaviour"
+              "A changing magnetic field induces an electric current",
+              "A concept unrelated to magnetism or electricity",
+              "A magnetic field has no effect on electric current",
+              "Electric current always exists with no external cause"
             ],
             "answer": 0
           },
           {
-            "q": "Are there multiple types, or flavors, of neutrinos?",
+            "q": "Which technology relies on the principle of electromagnetic induction?",
             "options": [
-              "A concept unrelated to neutrino physics",
-              "Flavor has no connection to how neutrinos are classified",
-              "Yes",
-              "No, only a single type of neutrino has ever been identified"
+              "A simple hand tool with no electrical components",
+              "An object with no connection to electricity or magnetism",
+              "A generator",
+              "A purely mechanical device with no electromagnetic components"
             ],
             "answer": 2
           },
           {
-            "q": "Why was the discovery of neutrino oscillation considered surprising to physicists who had assumed neutrinos were massless?",
+            "q": "Why is electromagnetism considered an important concept in physics and engineering?",
             "options": [
-              "Oscillation between flavors requires that neutrinos have some mass, contradicting earlier assumptions",
-              "The discovery confirmed exactly what physicists had already expected about neutrino mass",
-              "Neutrino oscillation has no connection to whether neutrinos have any mass",
-              "This concept has no connection to physics"
+              "Electromagnetism has no real-world applications",
+              "This concept has no connection to technology or engineering",
+              "Electricity and magnetism have no relationship to each other",
+              "It underlies many technologies that generate or use electricity"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why do physicists build large, specialized detectors deep underground to study neutrino oscillations?",
+            "q": "Why might moving a magnet near a coil of wire generate an electric current?",
             "options": [
-              "Neutrinos interact so strongly with matter that no special detection equipment is needed",
-              "This concept has no relevance to physics",
-              "Neutrinos interact very weakly with matter, so sensitive, shielded detectors are needed to observe rare interactions",
-              "Neutrino detectors are never built underground for any particular reason"
+              "This process requires no connection between magnetism and electricity",
+              "The changing magnetic field induces a current in the wire",
+              "Magnets have no effect on electric currents in nearby wires",
+              "A stationary magnet would produce the exact same effect"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       }
     ]
   },
@@ -20544,122 +20589,125 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Series Solutions to Differential Equations",
-        "summary": "Grade 12 Calculus strand: series solutions express the solution to a differential equation as an infinite power series, useful when the equation cannot be solved using elementary functions alone.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Rational Functions and Asymptotes (Intro)",
+        "summary": "Grade 9 Algebra strand (non-linear relations): a rational function is a ratio of two polynomials, and it can have a vertical asymptote where the denominator equals zero and a horizontal asymptote describing its end behaviour.",
+        "resourceLabel": "YouTube: Rational Functions and Asymptotes (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%20and%20Asymptotes%20%28Intro%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
         "quiz": [
           {
-            "q": "How do series solutions express the solution to a differential equation?",
+            "q": "A rational function is best described as ___.",
             "options": [
-              "As an infinite power series",
-              "Only as a single constant number",
-              "As a finite list of whole numbers",
-              "A concept unrelated to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Are series solutions useful when a differential equation cannot be solved using elementary functions?",
-            "options": [
-              "A concept unrelated to series solutions",
-              "Every differential equation can always be solved using elementary functions alone",
-              "Yes",
-              "No, series solutions are never useful in this situation"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Does finding a series solution typically involve assuming a general power series form and solving for its coefficients?",
-            "options": [
-              "No, coefficients are never involved in finding a series solution",
-              "A concept unrelated to series solutions",
-              "Yes",
-              "A power series form is never assumed when solving a differential equation this way"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a series solution be considered an approximation rather than an exact closed-form answer?",
-            "options": [
-              "A power series may need to be truncated after a certain number of terms to be practically useful for calculation",
-              "Series solutions have no connection to approximating a differential equation’s behaviour",
-              "A series solution always provides an exact, finite closed-form answer with no approximation involved",
-              "This concept has no connection to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are series solutions to differential equations especially valuable in physics and engineering applications?",
-            "options": [
-              "Every differential equation encountered in physics has a simple closed-form solution",
-              "Series solutions have no practical application in physics or engineering",
-              "This concept has no relevance to calculus",
-              "Many real-world differential equations lack simple closed-form solutions, making series methods a practical alternative"
+              "A single polynomial with no denominator",
+              "A function that never includes a fraction",
+              "A concept unrelated to algebra",
+              "A ratio of two polynomials"
             ],
             "answer": 3
+          },
+          {
+            "q": "A vertical asymptote of a rational function occurs where ___.",
+            "options": [
+              "A concept unrelated to rational functions",
+              "The numerator equals zero",
+              "The function’s value is always exactly one",
+              "The denominator equals zero"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A horizontal asymptote of a rational function describes ___.",
+            "options": [
+              "The function’s end behaviour as x becomes very large or very small",
+              "A concept unrelated to graphing",
+              "The function’s single highest point",
+              "The exact value of the function at x equals zero only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For the rational function y equals 1 over (x minus 3), where is the vertical asymptote?",
+            "options": [
+              "y equals 3",
+              "x equals negative 3",
+              "x equals 0",
+              "x equals 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is identifying asymptotes useful when graphing a rational function?",
+            "options": [
+              "Asymptotes only apply to linear functions, not rational ones",
+              "They reveal values the graph approaches but never actually reaches, shaping its overall behaviour",
+              "A rational function’s graph never approaches any particular value",
+              "Asymptotes have no connection to graphing rational functions"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Meissner Effect in Superconductors",
-        "summary": "Grade 12 Physics strand: the Meissner effect describes how a superconductor expels magnetic field lines from its interior when it transitions into the superconducting state.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Organic Chemistry: An Introduction to Carbon Compounds",
+        "summary": "Grade 9 Science Chemistry strand: organic chemistry is the study of carbon-based compounds, which form the basis of many essential molecules found in living organisms, such as carbohydrates and proteins.",
+        "resourceLabel": "YouTube: Organic Chemistry: An Introduction to Carbon Compounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20An%20Introduction%20to%20Carbon%20Compounds%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ULiLt2rtpAg",
         "quiz": [
           {
-            "q": "What does the Meissner effect describe a superconductor doing?",
+            "q": "Organic chemistry is the study of compounds based primarily on ___.",
             "options": [
-              "Absorbing all magnetic energy permanently with no expulsion",
-              "A concept unrelated to physics",
-              "Expelling magnetic field lines from its interior",
-              "Attracting magnetic field lines more strongly than any other material"
+              "Oxygen only",
+              "Carbon",
+              "Helium",
+              "A concept unrelated to any specific element"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Does the Meissner effect occur when a material transitions into the superconducting state?",
+            "q": "Carbon-based compounds form the basis of many molecules essential to ___.",
             "options": [
-              "Yes",
-              "A concept unrelated to the Meissner effect",
-              "No, the Meissner effect has no connection to superconductivity",
-              "Superconductors never expel any magnetic field lines"
+              "Nothing of scientific significance",
+              "Living organisms",
+              "A topic unrelated to biology or chemistry",
+              "Only non-living materials, with no connection to life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a carbon-based molecule essential to living organisms?",
+            "options": [
+              "Pure water, with no carbon involved",
+              "Carbohydrates",
+              "A molecule with no connection to carbon",
+              "Pure oxygen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is carbon particularly well-suited to forming a wide variety of complex molecules?",
+            "options": [
+              "This property has no connection to carbon’s chemical behaviour",
+              "Carbon cannot form bonds with other elements",
+              "Carbon is incapable of forming complex molecular structures",
+              "Carbon atoms can form multiple stable bonds with other atoms, including other carbon atoms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is organic chemistry considered foundational to understanding biology?",
+            "options": [
+              "Many biological molecules and processes are based on carbon chemistry",
+              "This field of study has no relevance to living organisms",
+              "Organic chemistry has no connection to biological processes",
+              "Biology never involves any carbon-based compounds"
             ],
             "answer": 0
-          },
-          {
-            "q": "Can the Meissner effect be demonstrated by a magnet appearing to float above a superconductor?",
-            "options": [
-              "Floating magnets have no connection to superconducting behaviour",
-              "Yes",
-              "No, magnets are never affected in any way by a superconductor",
-              "A concept unrelated to the Meissner effect"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does a magnet appear to levitate above a superconductor cooled below its critical temperature?",
-            "options": [
-              "Superconductors have no effect whatsoever on nearby magnets",
-              "The expelled magnetic field lines create a repulsive force that can support the magnet’s weight",
-              "This concept has no connection to physics",
-              "The magnet levitates due to an unrelated mechanical mechanism with no connection to magnetism"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Meissner effect considered an important piece of evidence that a material has truly become superconducting?",
-            "options": [
-              "Superconductivity can only ever be confirmed by measuring electrical resistance alone",
-              "It demonstrates a distinctive magnetic behaviour that occurs specifically in the superconducting state, beyond just zero electrical resistance",
-              "The Meissner effect provides no useful evidence about whether a material is superconducting",
-              "This concept has no relevance to physics"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Atoms, Elements & Compounds"
       }
     ]
   },
@@ -21275,121 +21323,124 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Divergence Theorem",
-        "summary": "Grade 12 Calculus strand: the divergence theorem relates the flow of a vector field out through a closed surface to the divergence of that field integrated over the enclosed volume.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors in Three Dimensions",
+        "summary": "Grade 10 Geometry strand (extension): a vector in three dimensions extends the two-dimensional concept by adding a third component, allowing magnitude and direction to be described in space rather than on a flat plane.",
+        "resourceLabel": "YouTube: Vectors in Three Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Three%20Dimensions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6-on6Ra0Elg",
         "quiz": [
           {
-            "q": "What does the divergence theorem relate the flow of a vector field through a closed surface to?",
+            "q": "A vector in three dimensions extends the two-dimensional concept by adding ___.",
             "options": [
-              "The area of a completely separate, unrelated shape",
-              "A single unrelated scalar number with no integral involved",
-              "The divergence of the field integrated over the enclosed volume",
-              "A concept unrelated to calculus"
+              "An entirely new type of number system",
+              "A third component",
+              "A fourth and fifth component simultaneously",
+              "A concept unrelated to vectors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A three-dimensional vector can be described using components along the ___.",
+            "options": [
+              "Only two axes, identical to a 2D vector",
+              "x, y, and z axes",
+              "x-axis only, with no other components",
+              "A description unrelated to spatial direction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might three-dimensional vectors be necessary for describing motion in real-world physical space?",
+            "options": [
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "Motion in physical space never involves more than two dimensions",
+              "Real-world motion often occurs across three spatial dimensions, not just a flat plane",
+              "Three-dimensional vectors have no practical use for describing motion"
             ],
             "answer": 2
           },
           {
-            "q": "Does the divergence theorem require the surface being considered to be closed?",
+            "q": "Why is it useful to calculate the magnitude of a three-dimensional vector?",
             "options": [
-              "No, the surface can be entirely open with no boundary at all",
-              "A concept unrelated to the divergence theorem",
-              "Yes",
-              "Closed surfaces have no connection to this theorem"
+              "It provides the overall length or size of the vector, regardless of its individual components",
+              "This calculation has no connection to describing vectors",
+              "Three-dimensional vectors never have a measurable magnitude",
+              "Magnitude has no meaning for a three-dimensional vector"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Does the divergence theorem connect a surface integral to a volume integral?",
+            "q": "Why might three-dimensional vectors be relevant to fields like engineering or computer graphics?",
             "options": [
-              "A concept unrelated to the divergence theorem",
-              "Yes",
-              "No, it only ever involves a single type of integral with no connection between them",
-              "Volume integrals are never involved in this theorem"
+              "Three-dimensional vectors have no application in engineering or computer graphics",
+              "These fields never require any mathematical modelling of space",
+              "This concept has no relevance outside of a mathematics classroom",
+              "These fields often require precisely modelling positions, forces, or movement in three-dimensional space"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why might the divergence theorem be useful for simplifying a difficult surface integral calculation?",
-            "options": [
-              "This concept has no connection to calculus",
-              "Converting the surface integral into a volume integral can sometimes make the calculation more straightforward",
-              "The divergence theorem never simplifies any type of integral calculation",
-              "Surface and volume integrals are never mathematically related to one another"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the divergence theorem considered useful in physics for describing fluid flow through a closed surface, like a balloon?",
-            "options": [
-              "The divergence theorem has no application in describing physical fluid flow",
-              "It relates the net outward flow through the surface to sources or sinks of the fluid contained within the enclosed volume",
-              "This concept has no relevance to calculus",
-              "Fluid flow through a closed surface can never be described using any calculus concept"
-            ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
       {
         "subject": "Physics",
-        "title": "Physics: Quark-Gluon Plasma",
-        "summary": "Grade 12 Physics strand: quark-gluon plasma is an extremely hot, dense state of matter in which quarks and gluons are no longer confined within individual protons and neutrons.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Earth Science: Astronomy -- The Life Cycle of Stars",
+        "summary": "Grade 10 Earth Science strand: stars go through a life cycle that includes formation from clouds of gas and dust, a stable main sequence phase, and an eventual end stage that depends on the star’s original mass.",
+        "resourceLabel": "YouTube: Earth Science: Astronomy -- The Life Cycle of Stars",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20Astronomy%20--%20The%20Life%20Cycle%20of%20Stars%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PM9CQDlQI0A",
         "quiz": [
           {
-            "q": "What are quarks and gluons no longer confined within, in a quark-gluon plasma?",
+            "q": "Stars form from clouds of ___.",
             "options": [
-              "A concept unrelated to physics",
-              "Only individual electrons",
-              "A completely empty vacuum with no particles present",
-              "Individual protons and neutrons"
+              "Pure water vapour",
+              "A material unrelated to space",
+              "Only solid rock, with no gas involved",
+              "Gas and dust"
             ],
             "answer": 3
           },
           {
-            "q": "Is quark-gluon plasma considered an extremely hot, dense state of matter?",
+            "q": "During the main sequence phase, a star is generally considered ___.",
             "options": [
-              "No, it is considered an extremely cold, low-density state",
-              "A concept unrelated to quark-gluon plasma",
-              "Yes",
-              "Temperature and density have no connection to this state of matter"
+              "In a constant state of explosive change",
+              "Stable",
+              "Completely inactive, with no processes occurring",
+              "A phase unrelated to a star’s life cycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A star’s eventual end stage largely depends on its ___.",
+            "options": [
+              "Colour, with no connection to any other factor",
+              "Distance from Earth only",
+              "Original mass",
+              "A factor unrelated to the star itself"
             ],
             "answer": 2
           },
           {
-            "q": "Do scientists believe quark-gluon plasma existed shortly after the beginning of the universe?",
+            "q": "Which is a possible end stage for a very massive star?",
             "options": [
-              "No, this state of matter has no connection to the early universe",
-              "A concept unrelated to quark-gluon plasma",
-              "Yes",
-              "The early universe never contained any unusual states of matter"
+              "A supernova explosion",
+              "An outcome unrelated to the star’s mass",
+              "A process identical to how all stars end, with no variation",
+              "A stage with no connection to a star’s life cycle"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why do physicists use powerful particle accelerators to try to recreate quark-gluon plasma in a laboratory?",
+            "q": "Why is studying the life cycle of stars important for understanding the broader universe?",
             "options": [
-              "Quark-gluon plasma can be easily created using ordinary laboratory equipment with no special conditions",
-              "This concept has no connection to physics",
-              "Particle accelerators have no connection to studying quark-gluon plasma",
-              "Extremely high-energy collisions can briefly reproduce the intense heat and density needed to free quarks and gluons from confinement"
+              "This topic has no relevance to astronomy",
+              "It helps explain the formation of elements and the ongoing evolution of galaxies",
+              "Stars have no meaningful life cycle to study",
+              "The life cycle of stars has no connection to understanding the universe"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why is studying quark-gluon plasma valuable for understanding the conditions of the early universe?",
-            "options": [
-              "The early universe has already been fully understood with no remaining scientific questions",
-              "This concept has no relevance to physics",
-              "Recreating this extreme state can help scientists understand what matter behaved like moments after the universe began",
-              "Quark-gluon plasma provides no useful information about the early universe"
-            ],
-            "answer": 2
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       }
     ]
   },
@@ -21518,117 +21569,134 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Stokes’ Theorem — An Introduction",
-        "summary": "Grade 12 Calculus strand: Stokes’ theorem relates a surface integral of the curl of a vector field over a surface to a line integral of the field around the surface’s boundary curve.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "The Binomial Theorem and Pascal’s Triangle",
+        "summary": "Grade 10 Number strand (extension): the binomial theorem provides a method for expanding expressions like (a + b) raised to a power, and Pascal’s triangle offers a visual way to determine the coefficients used in that expansion.",
+        "resourceLabel": "YouTube: The Binomial Theorem and Pascal’s Triangle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Binomial%20Theorem%20and%20Pascal%E2%80%99s%20Triangle%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s19dWIHficY",
         "quiz": [
           {
-            "q": "What does Stokes’ theorem relate a surface integral of curl to?",
+            "q": "The binomial theorem provides a method for expanding expressions like ___.",
             "options": [
-              "A concept unrelated to calculus",
-              "A single unrelated scalar with no integral of any kind",
-              "The area of an entirely separate, unrelated shape",
-              "A line integral around the surface’s boundary curve"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does Stokes’ theorem involve the curl of a vector field?",
-            "options": [
-              "A concept unrelated to Stokes’ theorem",
-              "Yes",
-              "No, curl has no connection to Stokes’ theorem",
-              "This theorem only ever involves a field with zero curl"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does Stokes’ theorem connect a surface integral to a line integral around the surface’s boundary?",
-            "options": [
-              "Line integrals are never involved in Stokes’ theorem",
-              "A concept unrelated to Stokes’ theorem",
-              "No, boundaries are never relevant to this theorem",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might Stokes’ theorem be useful for simplifying a difficult line integral calculation around a complicated boundary curve?",
-            "options": [
-              "Line and surface integrals are never mathematically related to each other",
-              "Stokes’ theorem never simplifies any type of integral calculation",
-              "This concept has no connection to calculus",
-              "Converting the line integral into a surface integral of the curl can sometimes make the calculation more manageable"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is Stokes’ theorem considered a generalization of concepts first introduced in a basic study of circulation and curl?",
-            "options": [
-              "This concept has no relevance to calculus",
-              "It extends the relationship between circulation around a curve and the rotational behaviour of a field across a broader class of surfaces",
-              "Stokes’ theorem has no connection to any earlier concept involving circulation or curl",
-              "Circulation and curl are entirely unrelated mathematical ideas with no connection to this theorem"
-            ],
-            "answer": 1
-          }
-        ]
-      },
-      {
-        "subject": "Physics",
-        "title": "Physics: The Aharonov-Bohm Effect",
-        "summary": "Grade 12 Physics strand: the Aharonov-Bohm effect shows that a charged particle can be affected by an electromagnetic field even in a region where the field strength itself is zero, revealing the deeper role of the field’s potential.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "quiz": [
-          {
-            "q": "Can a charged particle be affected by an electromagnetic field even where the field strength is zero, according to the Aharonov-Bohm effect?",
-            "options": [
-              "Field strength always determines every possible effect with no exceptions",
-              "A concept unrelated to physics",
-              "No, a particle is never affected by a field of zero strength",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does the Aharonov-Bohm effect reveal something significant about the role of the electromagnetic potential?",
-            "options": [
-              "Potential and field strength are always exactly equivalent concepts with no distinction",
-              "Yes",
-              "No, the electromagnetic potential has no connection to this effect",
-              "A concept unrelated to the Aharonov-Bohm effect"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Is the Aharonov-Bohm effect considered a quantum mechanical phenomenon?",
-            "options": [
-              "Yes",
-              "No, it is fully explained using only classical physics",
-              "Quantum mechanics has no connection to this effect",
-              "A concept unrelated to the Aharonov-Bohm effect"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why was the Aharonov-Bohm effect considered surprising when it was first proposed?",
-            "options": [
-              "The effect confirmed exactly what classical physics had already predicted with no surprises",
-              "This concept has no connection to physics",
-              "It suggested that particles could be influenced by potentials even in regions where no classical force from the field was present",
-              "Electromagnetic potentials were already known to have no possible physical effect on particles"
+              "Only expressions involving subtraction, with no addition",
+              "A concept unrelated to algebraic expansion",
+              "(a + b) raised to a power",
+              "A single variable with no exponent at all"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Aharonov-Bohm effect considered important for deepening our understanding of quantum mechanics?",
+            "q": "Pascal’s triangle can be used to determine the ___.",
             "options": [
-              "This concept has no relevance to physics",
-              "This effect has no relevance to how physicists understand quantum mechanical systems",
-              "Quantum mechanics was already fully understood before this effect was discovered",
-              "It challenged assumptions about which physical quantities directly cause observable effects on particles"
+              "Coefficients used in a binomial expansion",
+              "Exact roots of any polynomial equation",
+              "A concept unrelated to binomial expansion",
+              "Only the exponents in an expression, with no connection to coefficients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In Pascal’s triangle, each number is found by ___.",
+            "options": [
+              "Multiplying the two numbers directly above it",
+              "Subtracting the row number from itself",
+              "Adding the two numbers directly above it",
+              "A method unrelated to Pascal’s triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are the coefficients for the expansion of (a + b) squared?",
+            "options": [
+              "1, 2, 1",
+              "1, 1, 1",
+              "2, 2, 2",
+              "A set of values unrelated to this expansion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the binomial theorem be useful in fields like probability?",
+            "options": [
+              "This theorem only applies to purely abstract algebra with no other use",
+              "The binomial theorem has no connection to probability",
+              "It can help efficiently calculate the number of ways certain outcomes can occur",
+              "Probability calculations never involve expanding expressions"
+            ],
+            "answer": 2
+          }
+        ],
+        "topic": "Angles"
+      },
+      {
+        "subject": "Physics",
+        "title": "Review: Earth Science, Chemistry, and Physics Applications",
+        "summary": "Grade 10 Science review: this lesson revisits plate tectonics, organic compounds, radioactivity in medicine, the life cycle of stars, and stoichiometry covered across recent lessons.",
+        "resourceLabel": "YouTube: Review: Earth Science, Chemistry, and Physics Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Earth%20Science%2C%20Chemistry%2C%20and%20Physics%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7jbwX1Uvd18",
+        "videoUrls": [
+          {
+            "label": "Plate Tectonics",
+            "url": "https://www.youtube.com/watch?v=7jbwX1Uvd18"
+          },
+          {
+            "label": "Radioactivity in Medicine",
+            "url": "https://www.youtube.com/watch?v=qlvKhMJibPY"
+          },
+          {
+            "label": "Life Cycle of Stars",
+            "url": "https://www.youtube.com/watch?v=PM9CQDlQI0A"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Plate tectonics describes the movement of ___.",
+            "options": [
+              "A concept unrelated to Earth’s structure",
+              "Large sections of Earth’s crust",
+              "Only ocean currents, with no connection to the crust",
+              "Only the atmosphere, with no connection to the crust"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Organic compounds are best described as ___.",
+            "options": [
+              "Only inorganic minerals",
+              "Molecules that contain no carbon at all",
+              "Carbon-based molecules",
+              "A category unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A star’s eventual end stage largely depends on its ___.",
+            "options": [
+              "Colour, with no connection to any other factor",
+              "Distance from Earth only",
+              "A factor unrelated to the star itself",
+              "Original mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Stoichiometric calculations are based on ___.",
+            "options": [
+              "Random guesses with no mathematical basis",
+              "A method unrelated to chemical equations",
+              "Only the mass of the reactants, with no other consideration",
+              "Mole ratios from the balanced equation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review these connected science concepts together at the end of a unit?",
+            "options": [
+              "These concepts have no connection to each other",
+              "Review is never useful at the end of a unit",
+              "Each concept must be understood with no connection to the others",
+              "It reinforces how these scientific ideas relate to and build on one another"
             ],
             "answer": 3
           }
@@ -21761,63 +21829,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Fourier Transform — From Series to Transform",
-        "summary": "Grade 12 Calculus strand: the Fourier transform extends the idea of a Fourier series to non-periodic functions, decomposing a function into a continuous spectrum of frequencies rather than a discrete sum.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Permutations and Combinations: Advanced Applications",
+        "summary": "Grade 10 Data Management strand (extension): a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
+        "resourceLabel": "YouTube: Permutations and Combinations: Advanced Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Permutations%20and%20Combinations%3A%20Advanced%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tnF9f3zCCKI",
         "quiz": [
           {
-            "q": "What does the Fourier transform extend the idea of a Fourier series to?",
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
-              "Only functions with a single repeating value",
-              "Non-periodic functions",
-              "A concept unrelated to calculus",
-              "Functions defined solely on whole numbers"
+              "Only a single item is being arranged",
+              "Order matters",
+              "Order does not matter at all",
+              "A concept unrelated to counting arrangements"
             ],
             "answer": 1
           },
           {
-            "q": "Does the Fourier transform decompose a function into a continuous spectrum of frequencies?",
+            "q": "A combination counts the number of ways items can be selected when ___.",
             "options": [
-              "Yes",
-              "A concept unrelated to the Fourier transform",
-              "Frequencies have no connection to how a Fourier transform works",
-              "No, it never breaks a function down into any frequency information"
+              "Order does not matter",
+              "A concept unrelated to counting selections",
+              "Order always matters",
+              "No items are actually being selected"
             ],
             "answer": 0
           },
           {
-            "q": "Is a Fourier series generally associated with periodic functions, while the Fourier transform applies more broadly?",
+            "q": "Which of these situations would use a combination rather than a permutation?",
             "options": [
-              "A concept unrelated to the Fourier transform",
-              "No, both concepts only ever apply to the exact same type of function",
-              "Yes",
-              "Periodicity has no connection to the distinction between these two concepts"
+              "Arranging 3 different trophies in a specific order on a shelf",
+              "Selecting 3 students for a committee from a group of 10, with no distinct roles",
+              "A situation unrelated to counting outcomes",
+              "Assigning first, second, and third place in a race"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might the Fourier transform be useful for analyzing an audio signal that does not repeat in a perfectly periodic pattern?",
+            "q": "Why is it important to determine whether order matters before solving a counting problem?",
             "options": [
-              "The Fourier transform can only ever be applied to signals that repeat in a perfectly periodic way",
-              "This concept has no connection to calculus",
-              "Audio signals can never be analyzed using any frequency-based mathematical tool",
-              "It can decompose the signal into its underlying frequency components regardless of whether the original signal repeats exactly"
+              "Order never affects which counting method should be used",
+              "Permutations and combinations always produce identical results",
+              "This distinction has no relevance to solving counting problems",
+              "It determines whether a permutation or combination formula should be used, which can produce very different results"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Fourier transform considered a foundational tool in fields like signal processing and image compression?",
+            "q": "Why are permutations and combinations useful in real-world situations, such as determining possible outcomes in a lottery or scheduling?",
             "options": [
-              "The Fourier transform has no practical application in signal processing or image compression",
-              "This concept has no relevance to calculus",
-              "Signal processing never involves analyzing any kind of frequency information",
-              "It allows complex signals or images to be represented and manipulated in terms of their underlying frequency content"
+              "They provide an efficient way to count large numbers of possible outcomes without listing them all individually",
+              "Real-world scheduling and lottery problems never require any counting method",
+              "These concepts have no real-world counting applications",
+              "This concept only applies to purely abstract mathematics with no real-world use"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Combinatorics"
       },
       {
         "subject": "Physics",
@@ -22006,62 +22075,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Green’s Theorem in the Plane",
-        "summary": "Grade 12 Calculus strand: Green’s theorem relates a line integral around a closed curve in the plane to a double integral of the curve’s enclosed region, connecting circulation to a region’s interior behaviour.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Polynomial Division and the Remainder Theorem",
+        "summary": "Grade 10 Number strand (extension): polynomial division follows a process similar to long division with numbers, and the remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to the polynomial evaluated at a.",
+        "resourceLabel": "YouTube: Polynomial Division and the Remainder Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Division%20and%20the%20Remainder%20Theorem%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p1lSRAeEMR0",
         "quiz": [
           {
-            "q": "What does Green’s theorem relate a line integral around a closed curve to?",
+            "q": "Polynomial division follows a process similar to ___.",
             "options": [
-              "The volume of an entirely separate three-dimensional solid",
-              "A concept unrelated to calculus",
-              "A double integral over the curve’s enclosed region",
-              "A single unrelated point value with no integral involved"
+              "Simple multiplication with no connection to division",
+              "Long division with numbers",
+              "A process that only applies to single-term expressions",
+              "A method entirely unrelated to division"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to ___.",
+            "options": [
+              "A concept unrelated to polynomial division",
+              "The polynomial evaluated at a",
+              "Zero, in every possible case",
+              "The value of a alone, with no connection to the polynomial"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a polynomial p(x) is divided by (x - 2) and p(2) = 0, what does this indicate about the division?",
+            "options": [
+              "The remainder must be a very large number",
+              "The division is impossible to carry out",
+              "A conclusion unrelated to the remainder theorem",
+              "There is no remainder, meaning (x - 2) is a factor of the polynomial"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the remainder theorem a useful shortcut compared to performing full polynomial long division?",
+            "options": [
+              "This theorem has no connection to polynomial division",
+              "The remainder theorem never provides a shortcut for finding a remainder",
+              "It allows the remainder to be found quickly by substituting a single value, without completing the entire division process",
+              "Full long division is always faster than using the remainder theorem"
             ],
             "answer": 2
           },
           {
-            "q": "Does Green’s theorem apply to curves and regions located in a two-dimensional plane?",
+            "q": "Why is polynomial division useful when working with more complex polynomial expressions?",
             "options": [
-              "Yes",
-              "Two-dimensional regions have no connection to this theorem",
-              "No, Green’s theorem only ever applies to three-dimensional space",
-              "A concept unrelated to Green’s theorem"
+              "It can help simplify or factor expressions that would otherwise be difficult to work with directly",
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "Polynomial division has no useful application when working with complex expressions",
+              "Complex polynomial expressions never require any division or simplification"
             ],
             "answer": 0
-          },
-          {
-            "q": "Does Green’s theorem connect the idea of circulation around a boundary to behaviour within the enclosed interior?",
-            "options": [
-              "Yes",
-              "A concept unrelated to Green’s theorem",
-              "No, circulation has no connection to this theorem",
-              "The interior of a region is never relevant to Green’s theorem"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might Green’s theorem be useful for simplifying a difficult line integral calculation around a complicated closed curve?",
-            "options": [
-              "Converting the line integral into a double integral over the enclosed region can sometimes make the calculation more manageable",
-              "Line integrals and double integrals are never mathematically related to one another",
-              "Green’s theorem never simplifies any type of integral calculation",
-              "This concept has no connection to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is Green’s theorem often introduced as a foundational stepping stone toward understanding Stokes’ theorem in three dimensions?",
-            "options": [
-              "Two-dimensional and three-dimensional integral theorems are always entirely unrelated to one another",
-              "Green’s theorem represents a two-dimensional special case of the more general relationship expressed by Stokes’ theorem",
-              "This concept has no relevance to calculus",
-              "Green’s theorem has no mathematical connection to Stokes’ theorem in any way"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Physics",
@@ -22248,121 +22319,125 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Review: Advanced Integration and Vector Calculus (Days 81-89)",
-        "summary": "Grade 12 Calculus strand review: students revisit the epsilon-delta definition, numerical differentiation, series solutions, the integral test, the washer method, the divergence theorem, Stokes’ theorem, the Fourier transform, and Green’s theorem.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Rates of Change: Average vs Instantaneous (Intro to Calculus Concepts)",
+        "summary": "Grade 10 Functions strand (extension): the average rate of change measures how a quantity changes over an interval, while the instantaneous rate of change estimates how a quantity is changing at a single specific point.",
+        "resourceLabel": "YouTube: Rates of Change: Average vs Instantaneous (Intro to Calculus Concepts)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rates%20of%20Change%3A%20Average%20vs%20Instantaneous%20%28Intro%20to%20Calculus%20Concepts%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hSK7f4durxI",
         "quiz": [
           {
-            "q": "What does the epsilon-delta definition provide for the concept of a limit?",
+            "q": "The average rate of change measures how a quantity changes ___.",
             "options": [
-              "A concept unrelated to calculus",
-              "A rigorous, formal definition using precise inequalities",
-              "Only an informal, intuitive description with no precision",
-              "A definition that applies only to whole numbers"
+              "At a single specific point only",
+              "Over an interval",
+              "A concept unrelated to functions",
+              "Only when the quantity remains completely constant"
             ],
             "answer": 1
           },
           {
-            "q": "What kind of solid does the washer method calculate the volume of?",
+            "q": "The instantaneous rate of change estimates how a quantity is changing ___.",
             "options": [
-              "A flat, two-dimensional shape with no volume",
-              "A concept unrelated to calculus",
-              "A solid with absolutely no hole of any kind",
-              "A solid of revolution with a hole through its center"
+              "A concept unrelated to rates of change",
+              "Over an extremely long, unspecified interval",
+              "Only across the entire domain of the function, with no connection to a specific point",
+              "At a single specific point"
             ],
             "answer": 3
           },
           {
-            "q": "What does the divergence theorem relate the flow of a vector field through a closed surface to?",
+            "q": "The average rate of change between two points on a graph can be found using ___.",
             "options": [
-              "The divergence of the field integrated over the enclosed volume",
-              "The area of a completely separate, unrelated shape",
-              "A concept unrelated to calculus",
-              "A single unrelated scalar number with no integral involved"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the Fourier transform extend the idea of a Fourier series to?",
-            "options": [
-              "Functions defined solely on whole numbers",
-              "Non-periodic functions",
-              "A concept unrelated to calculus",
-              "Only functions with a single repeating value"
+              "Only the y-coordinate of a single point",
+              "The slope of the line connecting those two points",
+              "A method unrelated to average rate of change",
+              "The sum of both x-coordinates alone"
             ],
             "answer": 1
           },
           {
-            "q": "What does Green’s theorem relate a line integral around a closed curve to?",
+            "q": "Why might the instantaneous rate of change be approximated using very small intervals around a point?",
             "options": [
-              "A single unrelated point value with no integral involved",
-              "A concept unrelated to calculus",
-              "The volume of an entirely separate three-dimensional solid",
-              "A double integral over the curve’s enclosed region"
-            ],
-            "answer": 3
-          }
-        ]
-      },
-      {
-        "subject": "Physics",
-        "title": "Review: Particle, Quantum, and Astrophysical Phenomena (Days 81-89)",
-        "summary": "Grade 12 Physics strand review: students revisit neutrino oscillations, quantum tunneling, the Meissner effect, gravitational lensing, the Chandrasekhar limit, quark-gluon plasma, the Aharonov-Bohm effect, sonoluminescence, and the Fermi paradox.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "quiz": [
-          {
-            "q": "What can neutrinos do as they travel, according to neutrino oscillation?",
-            "options": [
-              "Change between different types called flavors",
-              "Always remain in exactly the same unchanging state",
-              "Instantly disappear with no trace",
-              "A concept unrelated to physics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does quantum tunneling describe?",
-            "options": [
-              "How particles always bounce off every barrier with no exception",
-              "A concept unrelated to physics",
-              "How particles disappear permanently upon striking a barrier",
-              "How a particle can pass through an energy barrier it classically should not overcome"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does gravitational lensing occur due to?",
-            "options": [
-              "The gravity of a massive object bending light from a distant source",
-              "A concept unrelated to physics",
-              "Only ordinary reflections off a mirror-like surface",
-              "Sound waves travelling through empty space"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the Chandrasekhar limit define?",
-            "options": [
-              "A concept unrelated to physics",
-              "The minimum temperature required for a star to form",
-              "The maximum mass a white dwarf star can have before further collapse",
-              "The exact colour every white dwarf star must appear"
+              "This method has no connection to estimating instantaneous rate of change",
+              "Smaller intervals never improve the accuracy of this type of estimate",
+              "Using increasingly smaller intervals can give a closer estimate of the rate of change at that exact point",
+              "Instantaneous rate of change can only ever be measured using a very large interval"
             ],
             "answer": 2
           },
           {
-            "q": "What does the Fermi paradox highlight an apparent contradiction between?",
+            "q": "Why are these introductory rate of change concepts considered a foundation for later calculus study?",
             "options": [
-              "The probability of extraterrestrial civilizations and the lack of confirmed evidence of them",
-              "The exact number of planets in our solar system",
-              "The distance between Earth and the moon",
-              "A concept unrelated to physics"
+              "They introduce the core idea of analyzing how a quantity changes, which calculus builds upon in greater depth",
+              "Calculus never involves analyzing rates of change",
+              "This topic has no relevance to higher-level mathematics",
+              "These concepts have no connection to calculus"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Calculus: Limits & Rates of Change"
+      },
+      {
+        "subject": "Physics",
+        "title": "Colligative Properties of Solutions",
+        "summary": "Grade 10 Chemistry strand: colligative properties, such as boiling point elevation and freezing point depression, depend on the number of dissolved particles in a solution rather than on the specific identity of the solute.",
+        "resourceLabel": "YouTube: Colligative Properties of Solutions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Colligative%20Properties%20of%20Solutions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=c8dDLe37ONg",
+        "quiz": [
+          {
+            "q": "Colligative properties depend primarily on ___.",
+            "options": [
+              "The exact identity of the solute alone, with no connection to particle count",
+              "The specific colour of the solute",
+              "A factor unrelated to dissolved particles",
+              "The number of dissolved particles in a solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Boiling point elevation refers to ___.",
+            "options": [
+              "A property that never changes when a solute is added",
+              "A decrease in a solution’s boiling point caused by a dissolved solute",
+              "An increase in a solution’s boiling point caused by a dissolved solute",
+              "A concept unrelated to colligative properties"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Freezing point depression refers to ___.",
+            "options": [
+              "A concept unrelated to colligative properties",
+              "An increase in a solution’s freezing point caused by a dissolved solute",
+              "A property unaffected by dissolved particles",
+              "A decrease in a solution’s freezing point caused by a dissolved solute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a real-world application of freezing point depression?",
+            "options": [
+              "Boiling water at a consistently higher temperature at high altitude",
+              "Cooling a liquid with no connection to any dissolved substance",
+              "An application unrelated to colligative properties",
+              "Spreading salt on icy roads to lower the freezing point of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are colligative properties useful for estimating the concentration of a solution?",
+            "options": [
+              "Colligative properties provide no information about a solution’s concentration",
+              "Measurable changes like boiling or freezing point shifts can be related back to the amount of dissolved particles",
+              "Concentration can never be estimated using any physical property",
+              "A reason unrelated to solution chemistry"
+            ],
+            "answer": 1
+          }
+        ],
+        "topic": "Matter & Materials"
       }
     ]
   },
@@ -22372,62 +22447,64 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Deconstruction and the Instability of Meaning",
-        "summary": "Grade 12 English strand: deconstruction is a critical approach, associated with Jacques Derrida, that examines the binary oppositions and internal contradictions within a text to show that meaning is unstable and continually deferred rather than fixed.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Writing: The Personal Essay (College-Style)",
+        "summary": "Grade 9 Writing strand: a college-style personal essay reflects on a meaningful experience or personal growth, using a specific narrative moment to reveal broader insight about the writer’s character or values.",
+        "resourceLabel": "YouTube: Writing: The Personal Essay (College-Style)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Essay%20%28College-Style%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E5SmMV9-UbM",
         "quiz": [
           {
-            "q": "What does a deconstructive reading of a text focus on examining?",
+            "q": "A college-style personal essay is centred on ___.",
             "options": [
-              "The font and page layout of the printed edition",
-              "Only the exact publication date of the text",
-              "The binary oppositions and internal contradictions within the text",
-              "A concept unrelated to literary theory"
+              "A concept unrelated to personal reflection",
+              "A fictional story with no connection to the writer",
+              "A meaningful experience or moment of personal growth",
+              "A purely factual, impersonal report"
             ],
             "answer": 2
           },
           {
-            "q": "According to deconstruction, is the meaning of a text considered fixed and singular?",
+            "q": "Why might a personal essay focus on one specific, narrow moment rather than a writer’s entire life story?",
             "options": [
-              "Meaning has no connection to how deconstruction reads a text",
-              "A concept unrelated to deconstruction",
-              "Yes, deconstruction insists every text has exactly one fixed meaning",
-              "No, meaning is considered unstable and continually deferred"
+              "A focused moment allows for deeper reflection and more vivid, meaningful detail",
+              "Personal essays should never include specific details",
+              "Broad, unfocused essays are always considered stronger",
+              "Focusing on a single moment always weakens a personal essay"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a strong opening for a personal essay about overcoming a challenge?",
+            "options": [
+              "The day my bike broke down miles from home, I learned something about asking for help.",
+              "Some things are difficult sometimes.",
+              "A sentence with no connection to a specific challenge.",
+              "This essay is about a challenge."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is reflection an essential part of a personal essay?",
+            "options": [
+              "Personal essays should only describe events with no insight",
+              "Growth and insight are never relevant to this type of essay",
+              "It shows how an experience shaped the writer’s understanding, values, or growth",
+              "Reflection has no role in personal essay writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a personal essay reveal broader insight about a writer’s character through a single narrative moment?",
+            "options": [
+              "A single moment can never reveal anything about a person’s character",
+              "Broader insight requires describing every event in a writer’s life",
+              "Personal essays never connect a specific moment to broader meaning",
+              "A well-chosen specific moment can illustrate larger patterns in a person’s values or personality"
             ],
             "answer": 3
-          },
-          {
-            "q": "Which of the following best describes an aim of a deconstructive literary analysis?",
-            "options": [
-              "Counting the total number of words used in a text",
-              "Summarizing the plot of a text in strict chronological order",
-              "Identifying only the historical setting in which a text was published",
-              "Revealing how a text undermines or contradicts its own apparent claims"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a deconstructive critic examine a hierarchical opposition within a text, such as speech versus writing, or reason versus emotion?",
-            "options": [
-              "This concept has no connection to literary theory",
-              "To show how the privileged term in the pair actually depends on, and is destabilized by, the term it is opposed to",
-              "Deconstruction always confirms that the privileged term is entirely independent of its opposite",
-              "Hierarchical oppositions are never examined by any form of literary theory"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why has deconstruction been influential, yet also controversial, as a mode of literary criticism?",
-            "options": [
-              "Deconstruction has never had any influence on how literary texts are interpreted",
-              "It challenges the idea that texts have a single, stable, author-intended meaning, unsettling more traditional approaches to interpretation",
-              "Traditional approaches to interpretation are never challenged by any critical theory",
-              "This concept has no relevance to literary theory"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "AdvancedFunctions",
@@ -22490,63 +22567,77 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Double Integrals — Volume Under a Surface",
-        "summary": "Grade 12 Calculus strand: a double integral of a positive function f(x,y) over a region R computes the volume of the solid lying under the surface z = f(x,y) and above that region, typically evaluated as an iterated integral.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Review: Logarithms, Rational Functions, and Counting Methods",
+        "summary": "Grade 10 Math strand review: this lesson revisits logarithmic equations, rational functions, three-dimensional vectors, the binomial theorem, piecewise functions, and permutations and combinations covered across Days 51-59.",
+        "resourceLabel": "YouTube: Review: Logarithms, Rational Functions, and Counting Methods",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Logarithms%2C%20Rational%20Functions%2C%20and%20Counting%20Methods%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0",
+        "videoUrls": [
+          {
+            "label": "Logarithms",
+            "url": "https://www.youtube.com/watch?v=mQTWzLpCcW0"
+          },
+          {
+            "label": "Rational Functions",
+            "url": "https://www.youtube.com/watch?v=fy45qX8cUwQ"
+          },
+          {
+            "label": "Counting Methods",
+            "url": "https://www.youtube.com/watch?v=tnF9f3zCCKI"
+          }
+        ],
         "quiz": [
           {
-            "q": "What does a double integral of a positive function f(x,y) over a region R compute?",
+            "q": "Solving a logarithmic equation often involves rewriting it in ___.",
             "options": [
-              "The perimeter of the region R with no reference to the surface",
-              "A concept unrelated to calculus",
-              "The slope of the surface at a single point only",
-              "The volume of the solid under the surface z = f(x,y) and above the region R"
+              "A form unrelated to exponents",
+              "Fraction form with no connection to exponents",
+              "Exponential form",
+              "Linear form only, with no other conversion possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A vertical asymptote of a rational function typically occurs where ___.",
+            "options": [
+              "A location unrelated to the function’s denominator",
+              "The numerator equals zero",
+              "The denominator equals zero",
+              "The function crosses the x-axis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Pascal’s triangle can be used to determine the ___.",
+            "options": [
+              "A concept unrelated to binomial expansion",
+              "Only the exponents in an expression, with no connection to coefficients",
+              "Exact roots of any polynomial equation",
+              "Coefficients used in a binomial expansion"
             ],
             "answer": 3
           },
           {
-            "q": "How is a double integral typically evaluated over a rectangular region?",
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
-              "As an iterated integral, integrating with respect to one variable at a time",
-              "By measuring the region’s area with a ruler and estimating visually",
-              "A concept unrelated to double integrals",
-              "By evaluating the function at a single corner point of the region"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the value of ∫₀¹ ∫₀² (x + y) dy dx?",
-            "options": [
-              "5",
-              "3",
-              "4",
-              "2"
+              "A concept unrelated to counting arrangements",
+              "Order matters",
+              "Only a single item is being arranged",
+              "Order does not matter at all"
             ],
             "answer": 1
           },
           {
-            "q": "Why does the order of integration (dx dy versus dy dx) generally not affect the value of a double integral over a rectangular region with a continuous integrand?",
+            "q": "Why is it valuable to review these connected mathematical concepts together?",
             "options": [
-              "The order of integration always changes the final numerical value of a double integral",
-              "Fubini’s theorem guarantees the two iterated integrals are equal in this case",
-              "This concept has no connection to calculus",
-              "Continuous integrands can never be integrated in more than one order"
+              "These concepts have no connection to each other",
+              "Each concept must be understood with no connection to the others",
+              "Review is never useful in math",
+              "It reinforces how these skills build on and relate to one another"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why are double integrals useful for computing quantities like the total mass of a flat plate with variable density?",
-            "options": [
-              "Variable density can never be incorporated into any integral calculation",
-              "This concept has no relevance to calculus",
-              "Integrating the density function over the plate’s region yields the total mass directly",
-              "Double integrals have no application to computing the mass of a physical object"
-            ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -22794,62 +22885,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Stern-Gerlach Experiment and Electron Spin",
-        "summary": "Grade 12 Physics strand: the Stern-Gerlach experiment passed silver atoms through a non-uniform magnetic field and observed the beam split into exactly two discrete spots, providing direct evidence for the quantization of electron spin.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics: Projectile Motion in Two Dimensions",
+        "summary": "Grade 10 Physics strand: projectile motion describes the curved path of an object launched into the air, combining constant horizontal velocity with the effect of vertical acceleration due to gravity.",
+        "resourceLabel": "YouTube: Physics: Projectile Motion in Two Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Projectile%20Motion%20in%20Two%20Dimensions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yYjnl_fj6IA",
         "quiz": [
           {
-            "q": "What did the Stern-Gerlach experiment pass a beam of silver atoms through?",
+            "q": "Projectile motion combines constant horizontal velocity with ___.",
             "options": [
-              "A vacuum containing no fields of any kind",
-              "An inhomogeneous (non-uniform) magnetic field",
-              "A concept unrelated to physics",
-              "A perfectly uniform electric field only"
+              "No vertical motion at all",
+              "A concept unrelated to motion in the air",
+              "Vertical acceleration due to gravity",
+              "A second, separate horizontal acceleration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The horizontal velocity of a projectile, ignoring air resistance, generally remains ___.",
+            "options": [
+              "Constant throughout its flight",
+              "A value unrelated to projectile motion",
+              "Zero throughout its entire flight",
+              "Constantly increasing throughout its flight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a projectile follow a curved, rather than straight-line, path?",
+            "options": [
+              "Gravity continuously accelerates the object downward while it also moves horizontally",
+              "This path has no connection to the forces acting on the object",
+              "Projectiles never experience the effect of gravity",
+              "A curved path only occurs when horizontal velocity is zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of projectile motion?",
+            "options": [
+              "A ball thrown at an angle into the air",
+              "An object sitting completely still on the ground",
+              "A concept unrelated to projectile motion",
+              "An object moving in a perfectly straight horizontal line with no vertical component"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding projectile motion useful in fields like sports science or engineering?",
+            "options": [
+              "These fields never involve analyzing the motion of objects",
+              "It helps predict and optimize the path of objects launched or thrown through the air",
+              "This concept only applies to purely theoretical physics problems",
+              "Projectile motion has no practical, real-world applications"
             ],
             "answer": 1
-          },
-          {
-            "q": "What was the key surprising observation in the Stern-Gerlach experiment?",
-            "options": [
-              "The beam passed through completely undeflected in every trial",
-              "The beam formed a perfectly continuous, unbroken band with no separation",
-              "A concept unrelated to the Stern-Gerlach experiment",
-              "The beam split into exactly two discrete spots rather than a continuous smear"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What quantized property of the electron does the Stern-Gerlach experiment provide evidence for?",
-            "options": [
-              "A concept unrelated to this experiment",
-              "The electron’s exact rest mass",
-              "Electron spin (intrinsic angular momentum)",
-              "The electron’s electric charge sign only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why did the classical expectation for the Stern-Gerlach experiment predict a continuous spread of deflection rather than two discrete spots?",
-            "options": [
-              "Classical physics predicted the atoms would experience no deflection whatsoever",
-              "Classical physics already predicted exactly two discrete spots before the experiment was performed",
-              "Classically, the atoms’ magnetic moments could point in any continuous range of directions, producing a continuous range of deflections",
-              "This concept has no connection to physics"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Stern-Gerlach experiment considered a foundational demonstration of quantization in quantum mechanics?",
-            "options": [
-              "The experiment showed that atomic properties are never quantized in any way",
-              "Quantization had already been fully confirmed through entirely different, unrelated experiments before this one",
-              "This concept has no relevance to physics",
-              "It showed directly, at a macroscopic detection level, that an atomic property could take only discrete values rather than a continuous range"
-            ],
-            "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       }
     ]
   },
@@ -22978,63 +23071,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Line Integrals of Vector Fields and Work",
-        "summary": "Grade 12 Calculus strand: the line integral of a vector field F along a curve C, written as the integral of F dot dr, computes the work done by a force field as an object moves along that path.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Probability Distributions and Expected Value",
+        "summary": "Grade 9 Data Management strand: a probability distribution shows all possible outcomes of an event along with their probabilities, and expected value is the long-run average outcome calculated by weighting each outcome by its probability.",
+        "resourceLabel": "YouTube: Probability Distributions and Expected Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%20Distributions%20and%20Expected%20Value%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What physical quantity does the line integral of a force field F along a path C typically represent?",
+            "q": "A probability distribution shows ___.",
             "options": [
-              "The work done by the force as an object moves along the path",
-              "The exact mass of the object being moved",
-              "The colour of the path being traced",
-              "A concept unrelated to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How is the line integral of F along a parametrized curve r(t) generally evaluated?",
-            "options": [
-              "A concept unrelated to line integrals",
-              "By evaluating the field F at a single random point along the curve",
-              "By substituting the parametrization and integrating F(r(t)) dot r′(t) over the parameter interval",
-              "By measuring the curve’s length with a ruler and stopping there"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "For a constant force field F = (3, 4) acting on an object moving in a straight line from (0,0) to (2,0), what is the work done, given by the line integral of F dot dr?",
-            "options": [
-              "8",
-              "10",
-              "6",
-              "14"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does a line integral of a vector field depend on the direction in which the curve is traversed?",
-            "options": [
-              "Reversing the direction of travel negates the dot product contribution at each point, flipping the integral’s sign",
-              "Line integrals always produce the exact same positive value regardless of direction",
-              "The direction of travel never has any effect on the value of a line integral",
-              "This concept has no connection to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is a vector field being described as conservative important for evaluating line integrals of work efficiently?",
-            "options": [
-              "The path taken always affects the result even in a conservative field",
-              "Conservative fields make line integrals impossible to evaluate by any method",
-              "This concept has no relevance to calculus",
-              "In a conservative field, the line integral depends only on the endpoints, not the specific path taken"
+              "The total number of trials conducted, with no connection to outcomes",
+              "Only the single most likely outcome, with no other information",
+              "A concept unrelated to probability",
+              "All possible outcomes of an event along with their probabilities"
             ],
             "answer": 3
+          },
+          {
+            "q": "Expected value is calculated by ___.",
+            "options": [
+              "Choosing the outcome with the highest individual probability only",
+              "Weighting each possible outcome by its probability and summing the results",
+              "Adding all outcomes together with no consideration of probability",
+              "A concept unrelated to probability distributions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a game gives a 50 percent chance of winning 10 dollars and a 50 percent chance of winning nothing, what is the expected value?",
+            "options": [
+              "0 dollars",
+              "10 dollars",
+              "A value unrelated to this probability distribution",
+              "5 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is expected value described as a long-run average rather than a guaranteed outcome for any single event?",
+            "options": [
+              "A single trial always matches the calculated expected value exactly",
+              "Expected value always guarantees the exact same result every single time",
+              "Expected value predicts the average result over many repeated trials, not any one specific outcome",
+              "This concept has no connection to probability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a business use expected value when deciding whether a risky investment is worthwhile?",
+            "options": [
+              "This concept has no connection to evaluating risk",
+              "Expected value has no practical application in business decisions",
+              "It helps estimate the average financial outcome across many possible scenarios",
+              "Businesses never use probability when making financial decisions"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Probability"
       },
       {
         "subject": "Physics",
@@ -23284,63 +23377,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Zeeman Effect — Magnetic Splitting of Spectral Lines",
-        "summary": "Grade 12 Physics strand: the Zeeman effect describes how a single atomic spectral line splits into multiple closely spaced lines when the emitting atoms are placed in an external magnetic field, revealing the quantization of angular momentum.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Genetic Engineering and Biotechnology Applications",
+        "summary": "Grade 9 Science Biology strand: genetic engineering involves directly modifying an organism’s DNA, and biotechnology applies these techniques in fields such as agriculture, medicine, and environmental science.",
+        "resourceLabel": "YouTube: Genetic Engineering and Biotechnology Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Genetic%20Engineering%20and%20Biotechnology%20Applications%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YNrGLjVuCso",
         "quiz": [
           {
-            "q": "What happens to a spectral line when the emitting atoms are placed in an external magnetic field, according to the Zeeman effect?",
+            "q": "Genetic engineering involves directly modifying an organism’s ___.",
             "options": [
-              "The spectral line disappears completely with no trace",
-              "The single spectral line splits into multiple closely spaced lines",
-              "The spectral line merges together with every other line in the spectrum",
-              "A concept unrelated to physics"
+              "A concept unrelated to biology",
+              "DNA",
+              "Physical appearance only, with no connection to DNA",
+              "Skeletal structure exclusively"
             ],
             "answer": 1
           },
           {
-            "q": "What atomic property interacting with the external magnetic field causes the Zeeman splitting of spectral lines?",
+            "q": "Which is an example of a biotechnology application in agriculture?",
             "options": [
-              "The atom’s total mass alone, with no reference to any magnetic property",
-              "The magnetic moment associated with the atom’s orbital and spin angular momentum",
-              "The colour of the light emitted before any field is applied",
-              "A concept unrelated to the Zeeman effect"
+              "Developing crops that are genetically modified for pest resistance",
+              "A technique with no connection to genetics or crops",
+              "A process unrelated to biotechnology",
+              "Removing all genetic modification techniques from farming entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might genetic engineering be used in medicine?",
+            "options": [
+              "This technique is used only in agriculture, never in medicine",
+              "To help develop treatments, such as producing insulin using modified bacteria",
+              "Genetic engineering has no medical applications",
+              "Medicine never involves biotechnology of any kind"
             ],
             "answer": 1
           },
           {
-            "q": "Does the amount of splitting observed in the Zeeman effect generally increase as the strength of the applied magnetic field increases?",
+            "q": "Why do some people raise ethical questions about genetic engineering?",
             "options": [
-              "No, the amount of splitting is always exactly the same regardless of field strength",
-              "Magnetic field strength has no connection to the amount of splitting observed",
-              "A concept unrelated to the Zeeman effect",
-              "Yes"
+              "Modifying DNA raises questions about safety, consent, and long-term ecological effects",
+              "This technology has no potential risks or considerations",
+              "Ethical questions have no connection to biotechnology",
+              "Genetic engineering raises no ethical questions of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is biotechnology considered an important and expanding field of science?",
+            "options": [
+              "This field has no connection to health or agriculture",
+              "Biotechnology has no real-world applications",
+              "Genetic engineering techniques are never used outside of theory",
+              "It offers new tools for addressing challenges in health, food production, and the environment"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why does the Zeeman effect provide evidence for the quantization of angular momentum within an atom?",
-            "options": [
-              "This concept has no connection to physics",
-              "Angular momentum has no relationship to how spectral lines are split by a magnetic field",
-              "The magnetic field splits an energy level into a discrete, finite set of separated sublevels rather than a continuous band",
-              "The Zeeman effect shows that angular momentum in an atom is always perfectly continuous"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Zeeman effect a valuable tool for astronomers studying magnetic fields on the surface of the sun or other stars?",
-            "options": [
-              "The Zeeman effect provides no useful information about magnetic fields on distant stars",
-              "The amount of splitting observed in a star’s spectral lines can be used to estimate the strength of its magnetic field",
-              "Astronomers have no way of measuring magnetic fields on objects they cannot physically visit",
-              "This concept has no relevance to physics"
-            ],
-            "answer": 1
           }
         ],
-        "topic": "Electricity & Magnetism"
+        "topic": "Genetics & Heredity"
       }
     ]
   },
@@ -23469,62 +23563,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Wronskian and Linear Independence of Solutions",
-        "summary": "Grade 12 Calculus strand: the Wronskian of two functions y₁ and y₂, defined as y₁y₂′ minus y₂y₁′, helps determine whether two solutions to a linear differential equation are linearly independent, which is required to form the general solution.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Combinations and Permutations (Intro)",
+        "summary": "Grade 9 Data Management strand: a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
+        "resourceLabel": "YouTube: Combinations and Permutations (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Combinations%20and%20Permutations%20%28Intro%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Wronskian of two functions help determine?",
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
             "options": [
-              "Whether the two functions are linearly independent",
-              "A concept unrelated to calculus",
-              "The exact maximum value either function ever reaches",
-              "The colour of each function’s graph"
+              "Order matters",
+              "Order does not matter at all",
+              "Only one item is available to arrange",
+              "A concept unrelated to counting methods"
             ],
             "answer": 0
           },
           {
-            "q": "What is the formula for the Wronskian of two functions y₁ and y₂?",
+            "q": "A combination counts the number of ways items can be selected when ___.",
             "options": [
-              "y₁ divided by y₂, with no derivatives involved",
-              "y₁ + y₂ with no derivatives involved",
-              "y₁y₂′ − y₂y₁′",
-              "A concept unrelated to the Wronskian"
+              "Order always matters",
+              "Every possible item must be selected",
+              "Order does not matter",
+              "A concept unrelated to counting methods"
             ],
             "answer": 2
           },
           {
-            "q": "What is the Wronskian of y₁ = eˣ and y₂ = e⁻ˣ, evaluated at a general value of x?",
+            "q": "Choosing 3 students from a class to serve on a committee, where each role is identical, is an example of a ___.",
             "options": [
-              "1 for every value of x",
-              "e^(2x), a function that grows without bound",
-              "0 for every value of x",
-              "−2 (a nonzero constant)"
+              "A probability distribution",
+              "Combination",
+              "A concept unrelated to this scenario",
+              "Permutation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Arranging 3 different books in a specific order on a shelf is an example of a ___.",
+            "options": [
+              "Combination",
+              "A concept unrelated to this scenario",
+              "Permutation",
+              "An expected value calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does choosing a class president, vice-president, and treasurer from a group of students involve permutations rather than combinations?",
+            "options": [
+              "This concept has no connection to permutations or combinations",
+              "The order in which students are assigned to roles never matters",
+              "Selecting students for distinct roles is always a combination, never a permutation",
+              "Each role is distinct, so the order in which students are assigned to positions matters"
             ],
             "answer": 3
-          },
-          {
-            "q": "Since the Wronskian of eˣ and e⁻ˣ is a nonzero constant, what does this indicate about these two solutions to a differential equation?",
-            "options": [
-              "A concept unrelated to this result",
-              "They are linearly independent",
-              "Linear independence cannot be determined from this result",
-              "They are linearly dependent on one another"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is establishing linear independence of solutions important when writing the general solution to a second-order linear differential equation?",
-            "options": [
-              "This concept has no relevance to calculus",
-              "Two linearly independent solutions are needed so that their combination can represent every possible solution to the equation",
-              "A single solution is always sufficient to represent every possible solution to any differential equation",
-              "Linear independence has no relevance to constructing a general solution"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Combinatorics"
       },
       {
         "subject": "Physics",
@@ -23774,62 +23869,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Josephson Effect and Superconducting Quantum Interference",
-        "summary": "Grade 12 Physics strand: the Josephson effect describes how a supercurrent can tunnel between two superconductors separated by a thin insulating barrier, a quantum tunneling effect involving Cooper pairs that underlies extremely sensitive magnetic field detectors.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics: Simple Harmonic Motion (Pendulums and Springs)",
+        "summary": "Grade 10 Physics strand: simple harmonic motion describes a repeating back-and-forth movement, such as a swinging pendulum or an oscillating spring, where the restoring force is proportional to the displacement from equilibrium.",
+        "resourceLabel": "YouTube: Physics: Simple Harmonic Motion (Pendulums and Springs)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Simple%20Harmonic%20Motion%20%28Pendulums%20and%20Springs%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tNpuTx7UQbw",
         "quiz": [
           {
-            "q": "What does the Josephson effect describe occurring between two superconductors separated by a thin insulating barrier?",
+            "q": "Simple harmonic motion describes a repeating movement that is best characterized as ___.",
             "options": [
-              "A concept unrelated to physics",
-              "All electrical current is permanently blocked from crossing the barrier",
-              "The barrier instantly becomes a perfect electrical insulator with zero current ever flowing",
-              "A supercurrent can tunnel across the barrier even with no applied voltage"
+              "A completely random, unpredictable movement",
+              "Back-and-forth around a central equilibrium point",
+              "A concept unrelated to periodic motion",
+              "A motion that only ever occurs in a single direction with no repetition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common example of simple harmonic motion?",
+            "options": [
+              "An object that remains completely stationary",
+              "A concept unrelated to simple harmonic motion",
+              "An object moving in a perfectly straight line with no repeating pattern",
+              "A pendulum swinging back and forth"
             ],
             "answer": 3
           },
           {
-            "q": "What quantum mechanical phenomenon allows current to cross the thin insulating barrier in a Josephson junction?",
+            "q": "In simple harmonic motion, the restoring force is proportional to ___.",
             "options": [
-              "Ordinary electrical conduction through an open circuit",
-              "A concept unrelated to the Josephson effect",
-              "Quantum tunneling of Cooper pairs",
-              "Simple mechanical vibration of the barrier material"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What are the paired charge carriers responsible for superconductivity, which tunnel across a Josephson junction, called?",
-            "options": [
-              "Individual free protons",
-              "A concept unrelated to superconductivity",
-              "Cooper pairs",
-              "Photon pairs"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Josephson effect useful for building extremely sensitive magnetic field detectors known as SQUIDs?",
-            "options": [
-              "SQUIDs measure magnetic fields using an entirely unrelated mechanical process",
-              "This concept has no relevance to physics",
-              "The Josephson effect has no practical application to detecting magnetic fields",
-              "The current through a Josephson junction is exquisitely sensitive to small changes in magnetic flux, allowing tiny fields to be measured"
+              "A factor unrelated to the object’s position",
+              "The colour of the oscillating object",
+              "The temperature of the surrounding environment",
+              "The displacement from equilibrium"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Josephson effect considered a striking demonstration of macroscopic quantum phenomena?",
+            "q": "Why does a pendulum eventually slow down and stop swinging in a real-world setting?",
             "options": [
-              "Quantum tunneling has no connection to any measurable macroscopic phenomenon",
-              "This concept has no relevance to physics",
-              "A quantum tunneling effect that would normally be confined to microscopic scales produces a measurable current at a macroscopic, laboratory scale",
-              "The Josephson effect only ever occurs at scales too small to be measured by any instrument"
+              "A pendulum’s motion has no connection to energy at all",
+              "A reason unrelated to simple harmonic motion",
+              "Pendulums never lose any energy while swinging",
+              "Friction and air resistance gradually remove energy from the system"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding simple harmonic motion useful for designing devices like clocks or shock absorbers?",
+            "options": [
+              "Simple harmonic motion has no practical, real-world applications",
+              "This concept only applies to purely theoretical physics problems",
+              "These devices never rely on any repeating or oscillating motion",
+              "It helps engineers predict and control repeating, oscillating movement in these devices"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       }
     ]
   },
@@ -23959,63 +24056,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Surface Integrals — Measuring Flux Across a Surface",
-        "summary": "Grade 12 Calculus strand: a surface integral of a vector field F over a surface S measures the flux of the field passing through that surface, using a vector element of surface area dS that points along the surface’s normal direction.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors: The Dot Product and Applications",
+        "summary": "Grade 10 Vectors strand (extension): the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and can be used to determine the angle between two vectors.",
+        "resourceLabel": "YouTube: Vectors: The Dot Product and Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Dot%20Product%20and%20Applications%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does a surface integral of a vector field F over a surface S typically measure?",
+            "q": "The dot product of two vectors produces a ___.",
             "options": [
-              "A concept unrelated to calculus",
-              "The exact perimeter of the surface’s boundary",
-              "The colour of the surface being measured",
-              "The flux of the field passing through the surface"
+              "A new vector, with no connection to a scalar",
+              "A concept unrelated to vectors",
+              "A matrix, with no connection to scalars",
+              "Single scalar value"
             ],
             "answer": 3
           },
           {
-            "q": "What does the quantity dS represent in a surface integral?",
+            "q": "The dot product of two vectors is calculated by ___.",
             "options": [
-              "A concept unrelated to surface integrals",
-              "A vector element of surface area, pointing in the direction normal to the surface",
-              "A single fixed point located anywhere on the surface",
-              "The total volume enclosed underneath the surface"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For a uniform field F = (0, 0, 5) passing through a flat horizontal surface of area 4 square units lying in the xy-plane, what is the flux ∫∫ₛ F · dS?",
-            "options": [
-              "9",
-              "4",
-              "5",
-              "20"
+              "Subtracting corresponding components from one another",
+              "Multiplying only the magnitudes of the two vectors, ignoring direction",
+              "A method unrelated to the dot product",
+              "Multiplying corresponding components and summing the results"
             ],
             "answer": 3
           },
           {
-            "q": "Why does the flux of a vector field through a surface depend on the angle between the field and the surface’s normal vector?",
+            "q": "If the dot product of two non-zero vectors equals zero, the vectors are ___.",
             "options": [
-              "Flux is always determined entirely by the surface’s area alone, regardless of the field’s direction",
-              "The angle between a field and a surface’s normal vector never affects the calculated flux",
-              "This concept has no connection to calculus",
-              "Only the component of the field aligned with the normal direction contributes to the flux, decreasing as the angle from the normal increases"
+              "Perpendicular to each other",
+              "A relationship unrelated to the dot product",
+              "Parallel to each other",
+              "Identical in both magnitude and direction"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why are surface integrals important for stating physical laws like Gauss’s law for electric fields?",
+            "q": "Why can the dot product be used to determine the angle between two vectors?",
             "options": [
-              "This concept has no relevance to calculus",
-              "Gauss’s law relates the total electric flux through a closed surface to the enclosed charge, so surface integrals underlie its formal definition",
-              "Gauss’s law has no mathematical connection to any surface integral",
-              "Electric flux through a surface can never be expressed using any type of integral"
+              "The dot product formula directly relates the vectors’ magnitudes and the cosine of the angle between them",
+              "A reason unrelated to vector operations",
+              "The angle between two vectors can never be calculated using any vector operation",
+              "The dot product has no connection to the angle between two vectors"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Why is the dot product useful in real-world applications, such as calculating the work done by a force?",
+            "options": [
+              "Work done by a force never involves any relationship between two vectors",
+              "The dot product has no real-world applications",
+              "A reason unrelated to vector operations",
+              "It captures how much one vector, like a force, acts in the direction of another, like displacement"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -24813,62 +24909,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Reader-Response Theory — The Reader’s Role in Making Meaning",
-        "summary": "Grade 12 English strand: reader-response theory, associated with critics like Wolfgang Iser and Stanley Fish, holds that a literary text’s meaning is not fixed within the words alone but is actively co-created through the individual reader’s interpretive experience.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Writing: The Bildungsroman — Coming-of-Age Narrative Elements",
+        "summary": "Grade 9 Language strand: a bildungsroman is a coming-of-age narrative that traces a young protagonist’s psychological and moral growth from youth to maturity, often through a formative experience or journey.",
+        "resourceLabel": "YouTube: Writing: The Bildungsroman — Coming-of-Age Narrative Elements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Bildungsroman%20%E2%80%94%20Coming-of-Age%20Narrative%20Elements%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "According to reader-response theory, where is a literary text’s meaning primarily located?",
+            "q": "What does a bildungsroman trace?",
             "options": [
-              "Solely in facts about the author’s biography",
-              "Exclusively fixed within the words of the text, with no role for the reader",
-              "In the interaction between the text and the individual reader’s interpretive experience",
-              "A concept unrelated to literary theory"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which critic is closely associated with the development of reader-response theory?",
-            "options": [
-              "Ferdinand Magellan",
-              "A concept unrelated to reader-response theory",
-              "Isaac Newton",
-              "Wolfgang Iser"
+              "The complete history of a fictional nation",
+              "A concept unrelated to writing",
+              "A detailed scientific report",
+              "A young protagonist’s psychological and moral growth from youth to maturity"
             ],
             "answer": 3
           },
           {
-            "q": "Why might two readers arrive at meaningfully different interpretations of the same passage, according to reader-response theory?",
+            "q": "Does a bildungsroman typically follow a formative experience or journey?",
             "options": [
-              "This concept has no connection to literary theory",
-              "Reader-response theory insists every reader must always reach an identical interpretation",
-              "Differences between readers are considered completely irrelevant to how a text is interpreted",
-              "Each reader fills textual gaps and ambiguities using their own experiences and expectations, producing different readings"
+              "A concept unrelated to bildungsroman",
+              "No, a bildungsroman never involves any kind of journey or experience",
+              "Formative experiences have no connection to this narrative form",
+              "Yes"
             ],
             "answer": 3
           },
           {
-            "q": "What does Iser mean by textual gaps that a reader must fill in through their imagination?",
+            "q": "Which of these best describes a bildungsroman’s central protagonist?",
             "options": [
-              "A concept unrelated to reader-response theory",
-              "Places where the text leaves details unstated or ambiguous, requiring the reader to actively supply connections",
-              "Sections of a text that have been physically torn out",
-              "Literal blank pages inserted into the middle of a printed book"
+              "A young character who grows and changes significantly over the story",
+              "A concept unrelated to writing",
+              "A fully mature adult who never changes throughout the story",
+              "A minor character with no role in the plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a coming-of-age story often include a mentor figure who guides the protagonist?",
+            "options": [
+              "Mentor figures never appear in coming-of-age stories",
+              "Mentors can provide wisdom or challenges that support the protagonist’s growth and self-discovery",
+              "A mentor always prevents a protagonist from growing or changing",
+              "This concept has no connection to writing"
             ],
             "answer": 1
           },
           {
-            "q": "Why has reader-response theory been influential in shifting classroom literary discussion?",
+            "q": "Why is the ending of a bildungsroman important for showing the protagonist’s development?",
             "options": [
-              "It has had no influence on how literature is discussed or taught",
-              "It legitimizes examining how a reader’s own position and reactions shape interpretation, not just searching for one authorially intended meaning",
-              "It insists that only the author’s intended meaning is ever valid in classroom discussion",
-              "This concept has no relevance to literary theory"
+              "It typically reveals how the character has matured or changed compared to who they were at the beginning",
+              "The ending of a bildungsroman never reflects any character growth",
+              "This concept has no relevance to writing",
+              "A bildungsroman’s protagonist is always exactly the same at the end as at the beginning"
             ],
-            "answer": 1
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "AdvancedFunctions",
@@ -25301,62 +25398,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Psychoanalytic Literary Criticism — Freud and the Unconscious in Text",
-        "summary": "Grade 12 English strand: psychoanalytic literary criticism applies Freudian concepts such as the unconscious, repression, and symbolic displacement to interpret a text’s characters, imagery, and underlying anxieties as expressions of unconscious desire or conflict.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Reading: Analyzing Tragic Heroes and the Concept of Hamartia",
+        "summary": "Grade 9 Language strand: a tragic hero is a protagonist of noble stature whose hamartia, or fatal flaw, leads to their downfall, a concept originating in classical drama and still shaping literature today.",
+        "resourceLabel": "YouTube: Reading: Analyzing Tragic Heroes and the Concept of Hamartia",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Tragic%20Heroes%20and%20the%20Concept%20of%20Hamartia%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What psychological concept is central to a psychoanalytic reading of a literary text?",
+            "q": "What is hamartia?",
             "options": [
-              "The font used in the original manuscript",
-              "The unconscious mind and its repressed desires or conflicts",
-              "The precise publication date of the printed edition",
-              "A concept unrelated to literary theory"
+              "A type of happy ending",
+              "A fatal flaw or error in judgment that leads to a tragic heros downfall",
+              "A rhyme scheme in poetry",
+              "A minor background character"
             ],
             "answer": 1
           },
           {
-            "q": "In psychoanalytic criticism, what might a recurring, seemingly minor image in a text be interpreted as?",
+            "q": "What is a defining trait of a tragic hero?",
             "options": [
-              "A symbolic displacement of a repressed desire or anxiety that the text does not state directly",
-              "Evidence that the author never revised the manuscript",
-              "A concept unrelated to psychoanalytic criticism",
-              "A meaningless printing error with no interpretive significance"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these would a psychoanalytic critic most likely focus on when analyzing a character’s troubling recurring dream within a novel?",
-            "options": [
-              "The exact number of words used to describe the dream",
-              "The font size used to print the dream sequence",
-              "The publication date of the edition containing the dream sequence",
-              "How the dream’s imagery might reveal unconscious fears or desires the character cannot consciously articulate"
+              "A character who is always victorious",
+              "Complete perfection with no flaws at all",
+              "A character who never faces any conflict",
+              "Noble stature combined with a flaw that ultimately causes their downfall"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a psychoanalytic critic examine tension between a character’s stated intentions and their actual behaviour in a text?",
+            "q": "In what type of drama did the concept of the tragic hero originate?",
             "options": [
-              "A character’s stated intentions and behaviour are always assumed to be identical in this approach",
-              "This concept has no connection to literary theory",
-              "Such a gap can be read as evidence of unconscious motivations conflicting with consciously acknowledged ones",
-              "Psychoanalytic criticism never examines any gap between what a character says and does"
+              "Modern science fiction only",
+              "Silent films",
+              "Classical Greek drama",
+              "Contemporary comic strips"
             ],
             "answer": 2
           },
           {
-            "q": "Why has psychoanalytic literary criticism been both influential and controversial as a mode of interpretation?",
+            "q": "Which is an example of a possible hamartia?",
             "options": [
-              "No literary critic has ever raised any objection to psychoanalytic interpretation",
-              "Psychoanalytic criticism has never had any influence on literary interpretation of any kind",
-              "This concept has no relevance to literary theory",
-              "It offers a rich framework for reading beneath a text’s surface, but critics debate whether it imposes a predetermined theory rather than emerging from the text itself"
+              "A characters kindness with no consequence at all",
+              "Excessive pride, or hubris, that blinds a character to danger",
+              "A characters lack of any personality",
+              "A characters physical height"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Why do tragic heroes remain a compelling subject in literature?",
+            "options": [
+              "They are always minor, forgettable characters",
+              "Their flaws make them relatable while their downfall evokes pity and reflection",
+              "Tragic heroes never evoke any emotion in readers",
+              "Their stories never involve any conflict"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "AdvancedFunctions",
@@ -25665,63 +25763,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Conservative Vector Fields and the Fundamental Theorem of Line Integrals",
-        "summary": "Grade 12 Calculus strand: a vector field F is conservative if it equals the gradient of some scalar potential function f, and the fundamental theorem of line integrals then shows that the line integral of F along any path depends only on the values of f at the path’s endpoints.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Polynomial Functions: Zeros, Factors, and End Behaviour",
+        "summary": "Grade 10 Functions strand (extension): the zeros of a polynomial function are the x-values where the function equals zero, directly corresponding to its factors, and a polynomial’s degree and leading coefficient determine its end behaviour.",
+        "resourceLabel": "YouTube: Polynomial Functions: Zeros, Factors, and End Behaviour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Zeros%2C%20Factors%2C%20and%20End%20Behaviour%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "A vector field F is called conservative if it can be written as what?",
+            "q": "The zeros of a polynomial function are the x-values where the function’s output equals ___.",
             "options": [
-              "The product of two unrelated scalar constants",
-              "The square of a completely different vector field",
-              "A concept unrelated to calculus",
-              "The gradient of some scalar potential function f"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to the fundamental theorem of line integrals, what does the line integral of a conservative field F = ∇f along a curve from point A to point B equal?",
-            "options": [
-              "The exact length of the curve connecting A and B",
-              "A concept unrelated to the fundamental theorem of line integrals",
-              "f(B) − f(A), the difference in the potential function’s values at the endpoints",
-              "Zero, regardless of the specific potential function f"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If f(x, y) = x²y is a potential function for a conservative field F, what is the line integral of F along any path from (0,0) to (2,3)?",
-            "options": [
-              "18",
+              "A value unrelated to finding zeros",
               "0",
-              "6",
-              "12"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why does the value of the line integral of a conservative field depend only on the path’s endpoints and not on the specific route taken between them?",
-            "options": [
-              "This concept has no connection to calculus",
-              "Because F = ∇f, the fundamental theorem reduces the integral to the potential function’s values at the endpoints alone, independent of the path",
-              "The line integral of any vector field always depends heavily on the exact shape of the path taken",
-              "Conservative fields never allow a line integral to be evaluated using a potential function"
+              "1",
+              "The function’s leading coefficient"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful, in practice, to first check whether a vector field is conservative before attempting to evaluate a line integral through it?",
+            "q": "If (x - 3) is a factor of a polynomial function, then the function must have a zero at ___.",
             "options": [
-              "Checking whether a field is conservative never simplifies the process of evaluating any line integral",
-              "This concept has no relevance to calculus",
-              "A line integral through a conservative field is always undefined and cannot be computed at all",
-              "If the field is conservative, finding a potential function makes the line integral trivial to evaluate using only the endpoints, avoiding a direct parametrization of the path"
+              "x = 3",
+              "x = 0",
+              "x = -3",
+              "A value unrelated to this factor"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "The end behaviour of a polynomial function is primarily determined by its ___.",
+            "options": [
+              "A concept unrelated to polynomial functions",
+              "Degree and leading coefficient",
+              "Y-intercept only, with no connection to degree",
+              "Constant term only, with no connection to degree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does an even-degree polynomial function with a positive leading coefficient rise on both ends of its graph?",
+            "options": [
+              "As x approaches positive or negative infinity, an even power always produces a large positive result, multiplied by the positive coefficient",
+              "The leading coefficient has no effect on a polynomial’s end behaviour",
+              "A reason unrelated to end behaviour",
+              "Even-degree polynomials always fall on both ends of the graph regardless of their leading coefficient"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying the zeros and factors of a polynomial function useful for sketching its graph?",
+            "options": [
+              "Zeros and factors provide no useful information for graphing a polynomial function",
+              "The zeros indicate where the graph crosses or touches the x-axis, helping outline the overall shape of the curve",
+              "A polynomial’s graph can never be sketched using its zeros or factors",
+              "A reason unrelated to polynomial functions"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Polynomials & Factoring"
       },
       {
         "subject": "Physics",
@@ -25790,62 +25888,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: New Historicism — Reading Literature Through Its Historical Moment",
-        "summary": "Grade 12 English strand: New Historicism reads a literary text alongside other cultural documents from its period, such as legal records or pamphlets, treating literature and history as mutually shaping discourses rather than viewing the text as either a passive mirror of, or fully separate from, its historical context.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literature: Postmodern Fiction and Metafiction",
+        "summary": "Grade 10 English strand: postmodern fiction often questions the reliability of narrative, blends genres, and uses metafiction, storytelling that draws attention to its own fictional nature, to challenge readers assumptions about truth, authorship, and the boundaries of a text.",
+        "resourceLabel": "YouTube: Literature: Postmodern Fiction and Metafiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Postmodern%20Fiction%20and%20Metafiction%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does a New Historicist reading typically place a literary text alongside?",
+            "q": "What is metafiction?",
             "options": [
-              "Nothing else; New Historicism examines a text in complete isolation",
-              "Other cultural and historical documents from the same period, such as legal records or pamphlets",
-              "Only later texts written centuries after the original",
-              "A concept unrelated to literary theory"
+              "A subgenre of poetry only",
+              "A purely factual, non-fictional report",
+              "Storytelling that draws attention to its own fictional nature",
+              "A story with no narrator or characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does postmodern fiction often question?",
+            "options": [
+              "The existence of grammar rules only",
+              "The length of chapters in a novel",
+              "The reliability of narrative and traditional assumptions about truth",
+              "The use of punctuation in dialogue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which technique might a metafictional novel use?",
+            "options": [
+              "A complete absence of any narrator",
+              "A strictly chronological, unbroken plot with no commentary",
+              "A narrator who directly addresses the reader and comments on the act of writing",
+              "A narrator who never acknowledges the reader exists"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Postmodern fiction often blends ___.",
+            "options": [
+              "Only nonfiction reporting techniques",
+              "Multiple genres and styles within a single text",
+              "Only one genre with no variation ever",
+              "Only classical poetic forms"
             ],
             "answer": 1
           },
           {
-            "q": "According to New Historicism, what is the relationship between literature and the historical discourses surrounding it?",
+            "q": "Why might an author use metafictional techniques?",
             "options": [
-              "Literature always determines historical events, with no influence flowing in the other direction",
-              "A concept unrelated to New Historicism",
-              "Literature and history are considered to have no relationship of any kind",
-              "They mutually shape one another, rather than literature simply reflecting a separate, external history"
+              "To make the plot entirely predictable",
+              "To avoid any interaction with the reader",
+              "To challenge readers assumptions about authorship and the boundaries of a text",
+              "To remove any thematic depth"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these approaches would a New Historicist critic most likely take when studying a Renaissance play?",
-            "options": [
-              "Focusing solely on the font used in a modern printed edition of the play",
-              "Analyzing only the exact number of lines spoken by each character",
-              "Ignoring entirely any historical document other than the play’s own text",
-              "Reading the play alongside contemporary legal documents and political pamphlets to see how they inform one another"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a New Historicist critic be skeptical of treating a literary text as a simple, transparent mirror of its historical period?",
-            "options": [
-              "A text actively participates in shaping the ideas and power structures of its time, rather than passively reflecting them from a neutral distance",
-              "A text can never be examined alongside any other kind of historical document",
-              "This concept has no connection to literary theory",
-              "New Historicist critics always insist that a text has no meaningful relationship to its historical period whatsoever"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is New Historicism considered a departure from earlier approaches that treated literary texts as largely autonomous from historical context?",
-            "options": [
-              "Earlier approaches to literature never made any claims about a text’s relationship to history",
-              "This concept has no relevance to literary theory",
-              "New Historicism argues that historical context is always completely irrelevant to interpreting a literary text",
-              "It insists that texts cannot be fully understood apart from the specific discourses, power relations, and other writings of their historical moment"
-            ],
-            "answer": 3
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "AdvancedFunctions",
@@ -25909,63 +26008,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Triple Integrals in Cylindrical Coordinates",
-        "summary": "Grade 12 Calculus strand: a triple integral over a solid region can often be simplified by switching to cylindrical coordinates (r, theta, z), where the volume element dV becomes r dr d(theta) dz, a natural choice for regions with rotational symmetry about the z-axis.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Introduction to Vectors",
+        "summary": "Grade 9 Geometry/Algebra strand (enrichment): a vector is a quantity that has both magnitude and direction, and vectors can be represented graphically as arrows or algebraically as ordered pairs of components.",
+        "resourceLabel": "YouTube: Introduction to Vectors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Vectors%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "In cylindrical coordinates, what does the volume element dV become when converted from Cartesian dV = dx dy dz?",
+            "q": "A vector is best described as a quantity that has ___.",
             "options": [
-              "r dr d(theta) dz",
-              "A concept unrelated to calculus",
-              "dr d(theta) dz with no factor of r",
-              "r² dr d(theta) dz"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "For what type of solid region are cylindrical coordinates particularly well suited for evaluating a triple integral?",
-            "options": [
-              "A region that exists in only one dimension",
-              "A region shaped like an irregular, asymmetric polyhedron with no axis of symmetry",
-              "A region with rotational symmetry about the z-axis, such as a cylinder or cone",
-              "A concept unrelated to triple integrals"
+              "A concept unrelated to geometry or algebra",
+              "Magnitude only, with no direction",
+              "Both magnitude and direction",
+              "Direction only, with no magnitude"
             ],
             "answer": 2
           },
           {
-            "q": "What is the value of the triple integral of the constant function 1 over the cylindrical region 0 ≤ r ≤ 2, 0 ≤ theta ≤ 2π, 0 ≤ z ≤ 3, using the cylindrical volume element r dr d(theta) dz?",
+            "q": "A vector can be represented graphically as ___.",
             "options": [
-              "4π",
-              "6π",
-              "24π",
-              "12π"
+              "A single point with no length or orientation",
+              "A circle with no defined direction",
+              "A concept unrelated to vectors",
+              "An arrow, where length indicates magnitude and orientation indicates direction"
             ],
             "answer": 3
           },
           {
-            "q": "Why does converting from Cartesian to cylindrical coordinates require multiplying by an extra factor of r in the volume element?",
+            "q": "Which of these is an example of a vector quantity in everyday life?",
             "options": [
-              "This concept has no connection to calculus",
-              "The factor of r accounts for how the area of a small angular wedge grows with distance from the z-axis, a Jacobian correction for the coordinate change",
-              "Cylindrical coordinates never require any adjustment to the volume element compared to Cartesian coordinates",
-              "The factor of r is included purely by convention and has no mathematical justification"
+              "The temperature of a room",
+              "The total mass of an object",
+              "A quantity unrelated to vectors",
+              "A car travelling 60 kilometres per hour due north"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is velocity considered a vector quantity while speed is not?",
+            "options": [
+              "Velocity and speed are identical concepts with no meaningful difference",
+              "Velocity includes both a magnitude (speed) and a specific direction, while speed only describes magnitude",
+              "Speed always includes a specific direction, unlike velocity",
+              "This concept has no connection to vectors"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a physicist computing the mass of a cylindrical object with density depending only on distance from its central axis prefer cylindrical coordinates over Cartesian coordinates?",
+            "q": "Why might vectors be represented algebraically using ordered pairs of components?",
             "options": [
-              "This concept has no relevance to calculus",
-              "The density function and the region’s boundaries both become much simpler to express in terms of r, greatly simplifying the resulting integral",
-              "The choice of coordinate system never affects how straightforward an integral is to evaluate",
-              "Cylindrical coordinates always make every integral more complicated than Cartesian coordinates would"
+              "Components allow a vector’s magnitude and direction to be broken down and calculated using coordinate geometry",
+              "Vectors can only ever be represented graphically, never algebraically",
+              "This concept has no relevance to working with vectors",
+              "Ordered pairs have no connection to representing a vector’s magnitude or direction"
             ],
-            "answer": 1
+            "answer": 0
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -26279,62 +26377,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Marxist Literary Criticism — Class and Ideology in the Text",
-        "summary": "Grade 12 English strand: Marxist literary criticism examines how a text reflects, reinforces, or challenges class relations and dominant ideology, attending to how economic structures and power shape both a text’s content and the conditions of its production.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Reading: Analyzing the Function of a Chorus or Narrator-Commentator",
+        "summary": "Grade 9 Language strand: a chorus or narrator-commentator figure stands outside the main action of a story to provide context, commentary, or moral reflection, a technique originating in ancient drama and still used in modern narratives.",
+        "resourceLabel": "YouTube: Reading: Analyzing the Function of a Chorus or Narrator-Commentator",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20the%20Function%20of%20a%20Chorus%20or%20Narrator-Commentator%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What social and economic structures does Marxist literary criticism primarily examine in a text?",
+            "q": "What role does a chorus or narrator-commentator typically play?",
             "options": [
-              "A concept unrelated to literary theory",
-              "Only the exact publication date of the printed edition",
-              "Class relations and the dominant ideology that shapes and is shaped by the text",
-              "The font and typeface chosen for a printed edition"
+              "Providing context, commentary, or moral reflection from outside the main action",
+              "Serving as the storys main antagonist",
+              "Replacing the need for any plot at all",
+              "Remaining completely silent throughout the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where did the use of a chorus as a narrative device originate?",
+            "options": [
+              "Modern social media",
+              "Ancient Greek drama",
+              "Twentieth century science fiction films",
+              "Contemporary video games only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author include a narrator-commentator figure?",
+            "options": [
+              "To confuse the audience with irrelevant information",
+              "To remove the need for any characters",
+              "To offer the audience insight or perspective the characters themselves may lack",
+              "To eliminate all perspective from the story"
             ],
             "answer": 2
           },
           {
-            "q": "According to Marxist criticism, what might a text do in relation to a society’s dominant ideology?",
+            "q": "How does a chorus typically relate to the main action of a story?",
             "options": [
-              "Reflect, reinforce, or actively challenge that dominant ideology",
-              "A concept unrelated to Marxist criticism",
-              "Exist entirely outside of any economic or social context",
-              "Have no possible relationship to any ideology of any kind"
+              "It is always the main character driving the plot",
+              "It only appears in the very last line of a story",
+              "It comments on events from outside the main action rather than participating directly",
+              "It has no connection to the story whatsoever"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Which of these questions would a Marxist literary critic most likely ask about a nineteenth-century industrial novel?",
+            "q": "Which is a modern example of a narrator-commentator technique?",
             "options": [
-              "How many total pages does the novel contain?",
-              "What font was used to print the first edition of the novel?",
-              "What colour is the cover of a modern paperback edition?",
-              "How does the novel represent the relationship between factory owners and workers, and whose interests does that representation serve?"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a Marxist critic be interested in the material conditions under which a literary text was produced and originally published?",
-            "options": [
-              "The material conditions of a text’s production are always considered completely irrelevant to Marxist criticism",
-              "Economic factors never have any influence on which texts get written or published",
-              "This concept has no connection to literary theory",
-              "Economic factors, such as who could afford to publish or read a text, can shape both its content and its reception, revealing underlying power structures"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why has Marxist literary criticism remained influential for examining how literature engages with issues of inequality and power?",
-            "options": [
-              "It provides a systematic framework for uncovering how class interests and economic structures are embedded within, and sometimes contested by, literary texts",
-              "Issues of inequality and power are never a meaningful subject for literary analysis",
-              "This concept has no relevance to literary theory",
-              "Marxist criticism has never been applied to the study of any literary text"
+              "A film narrator who provides background information and reflection between scenes",
+              "A blank page with no content",
+              "A silent background prop with no narrative role",
+              "A character who never speaks at all"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "AdvancedFunctions",
@@ -26398,63 +26497,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Frenet-Serret Formulas — Curvature and Torsion of Space Curves",
-        "summary": "Grade 12 Calculus strand: the Frenet-Serret formulas describe how a moving frame of unit tangent, normal, and binormal vectors changes along a space curve, expressing curvature as the rate the curve bends within its osculating plane and torsion as the rate it twists out of that plane.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Introduction to Modular Arithmetic",
+        "summary": "Grade 9 Math strand: modular arithmetic involves working with remainders after division, often described as clock arithmetic, since numbers wrap around after reaching a fixed value called the modulus.",
+        "resourceLabel": "YouTube: Introduction to Modular Arithmetic",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Modular%20Arithmetic%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What three vectors make up the moving frame used in the Frenet-Serret formulas to describe motion along a space curve?",
+            "q": "What does modular arithmetic involve working with?",
             "options": [
-              "A concept unrelated to calculus",
-              "Only a single, fixed position vector with no other vectors involved",
-              "The x-axis, y-axis, and z-axis of a fixed coordinate grid",
-              "The unit tangent, normal, and binormal vectors"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does curvature measure along a space curve, in the context of the Frenet-Serret formulas?",
-            "options": [
-              "A concept unrelated to the Frenet-Serret formulas",
-              "The rate at which the curve bends within its osculating plane",
-              "The total length of the curve from start to end",
-              "The exact height of the curve above the x-axis"
+              "Only whole, undivided numbers",
+              "Remainders after division",
+              "A concept unrelated to math",
+              "Only negative numbers"
             ],
             "answer": 1
           },
           {
-            "q": "What does torsion measure that curvature alone does not capture about a space curve?",
+            "q": "Why is modular arithmetic sometimes called clock arithmetic?",
             "options": [
-              "The average speed of a particle travelling along the curve",
-              "A concept unrelated to torsion",
-              "The total number of times the curve crosses the origin",
-              "The rate at which the curve twists out of its osculating plane, into the third dimension"
+              "Clocks and modular arithmetic have never been compared to each other",
+              "Modular arithmetic has no connection to clocks or wrapping numbers",
+              "This concept has no connection to math",
+              "Numbers wrap around after reaching a fixed value, similar to how a clock resets after 12"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the torsion of a curve that lies entirely within a single flat plane always equal to zero?",
+            "q": "What is 14 mod 5, meaning the remainder when 14 is divided by 5?",
             "options": [
-              "Torsion is never related in any way to whether a curve is planar or non-planar",
-              "Planar curves always have the maximum possible torsion at every point",
-              "This concept has no connection to calculus",
-              "A planar curve never twists out of its osculating plane, since the curve and its osculating plane coincide throughout"
+              "4",
+              "9",
+              "5",
+              "14"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why are curvature and torsion together considered sufficient to fully describe the shape of a space curve, up to its position and orientation in space?",
+            "q": "What is 20 mod 6, meaning the remainder when 20 is divided by 6?",
             "options": [
-              "This concept has no relevance to calculus",
-              "The fundamental theorem of space curves shows that specifying curvature and torsion as functions of arc length determines the curve’s shape uniquely, apart from rigid motion",
-              "Curvature and torsion provide no meaningful information about a space curve’s shape",
-              "A space curve’s shape can only ever be described using its exact Cartesian coordinates at every point"
+              "6",
+              "3",
+              "2",
+              "20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might modular arithmetic be useful for solving problems involving repeating cycles, like days of the week?",
+            "options": [
+              "Days of the week have no connection to modular arithmetic",
+              "It naturally models patterns that repeat after a fixed number of steps",
+              "This concept has no connection to math",
+              "Modular arithmetic never applies to any repeating or cyclical pattern"
             ],
             "answer": 1
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Physics",
@@ -26887,63 +26985,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Jacobians and Change of Variables in Multiple Integrals",
-        "summary": "Grade 12 Calculus strand: when substituting new variables into a double or triple integral, the Jacobian determinant of the transformation measures how the substitution stretches or shrinks area or volume, and it must multiply the integrand to keep the integral’s value correct.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Matrices: Determinants and Inverses of 2x2 Matrices",
+        "summary": "Grade 10 Math strand: the determinant of a 2x2 matrix is calculated as ad minus bc, and a matrix has an inverse only when its determinant is not zero.",
+        "resourceLabel": "YouTube: Matrices: Determinants and Inverses of 2x2 Matrices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Matrices%3A%20Determinants%20and%20Inverses%20of%202x2%20Matrices%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Jacobian determinant of a coordinate transformation measure?",
+            "q": "For a 2x2 matrix with entries a, b, c, d, how is the determinant calculated?",
             "options": [
-              "The colour used to plot the transformed region",
-              "A concept unrelated to calculus",
-              "How the transformation locally stretches or shrinks area (or volume)",
-              "The exact number of variables involved in the original integral"
+              "a plus d minus b minus c",
+              "ad minus bc",
+              "A concept unrelated to matrices",
+              "Always exactly zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a 2x2 matrix have an inverse when its determinant equals zero?",
+            "options": [
+              "Yes, every matrix always has an inverse",
+              "The determinant never affects whether an inverse exists",
+              "No",
+              "A concept unrelated to determinants"
             ],
             "answer": 2
           },
           {
-            "q": "When changing variables in a double integral, what must the original integrand be multiplied by to correctly account for the transformation?",
+            "q": "What is the determinant of the matrix with a=4, b=2, c=3, d=1?",
             "options": [
-              "The absolute value of the Jacobian determinant",
-              "The sum of the new variables, with no reference to any determinant",
-              "The square root of the original region’s area, with no reference to the transformation",
-              "A concept unrelated to change of variables"
+              "0",
+              "10",
+              "2",
+              "-2"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "For the transformation from Cartesian (x, y) to polar (r, theta), the Jacobian determinant is r. What does the area element dx dy become after this substitution?",
+            "q": "Why is checking the determinant an important first step before trying to find a matrix inverse?",
             "options": [
-              "r dr d(theta)",
-              "A concept unrelated to this transformation",
-              "dr d(theta), with no factor of r included",
-              "r² dr d(theta)"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does omitting the Jacobian factor when changing variables in a multiple integral typically produce an incorrect result?",
-            "options": [
-              "The new variables can stretch or compress the region non-uniformly, so failing to account for this distortion misrepresents the true area or volume being integrated over",
-              "The Jacobian factor is only ever relevant when no change of variables has actually taken place",
-              "Omitting the Jacobian factor never has any effect on the value of a transformed integral",
-              "This concept has no connection to calculus"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is switching to polar, cylindrical, or spherical coordinates, together with the correct Jacobian factor, often a useful strategy for evaluating a difficult multiple integral?",
-            "options": [
-              "The Jacobian factor always makes a transformed integral more difficult to evaluate than the original",
-              "A well-chosen coordinate system can make both the region of integration and the integrand far simpler to describe, even after accounting for the Jacobian",
-              "This concept has no relevance to calculus",
-              "Changing coordinate systems never simplifies any multiple integral, regardless of the region or integrand involved"
+              "Every matrix inverse can be found regardless of its determinant value",
+              "If the determinant is zero, the matrix has no inverse, so calculating further would be pointless",
+              "The determinant never has any connection to whether an inverse exists",
+              "This concept has no connection to math"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why are matrix inverses useful for solving systems of linear equations written in matrix form?",
+            "options": [
+              "This concept has no connection to matrices",
+              "Matrix inverses have no connection to solving systems of equations",
+              "Multiplying by the inverse matrix isolates the variable matrix, similar to dividing in ordinary algebra",
+              "Systems of equations can never be represented using matrices"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -27012,62 +27109,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Queer Theory and Literature — Reading Against Heteronormative Assumptions",
-        "summary": "Grade 12 English strand: queer theory examines how literary texts construct, reinforce, or destabilize normative categories of gender and sexuality, questioning assumptions often taken for granted in traditional literary interpretation.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Reading: Analyzing Stream of Consciousness Narration",
+        "summary": "Grade 9 Language strand: stream of consciousness is a narrative technique that presents a characters continuous flow of thoughts, feelings, and impressions in real time, often with looser sentence structure, to immerse the reader directly in the characters mind.",
+        "resourceLabel": "YouTube: Reading: Analyzing Stream of Consciousness Narration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Stream%20of%20Consciousness%20Narration%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What normative categories does queer theory primarily interrogate in its approach to literary texts?",
+            "q": "What does stream of consciousness narration attempt to capture?",
             "options": [
-              "The specific typeface used in a printed edition",
-              "Assumed, taken-for-granted categories of gender and sexuality",
-              "Only the exact number of chapters contained in a novel",
-              "A concept unrelated to literary theory"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What might a queer theory reading examine in a text that appears, on the surface, to present conventional heterosexual relationships?",
-            "options": [
-              "Nothing at all; queer theory only ever applies to texts that explicitly discuss same-sex relationships",
-              "Only the publication date of the specific edition being studied",
-              "Moments of ambiguity, subtext, or tension that complicate or destabilize that apparently straightforward presentation",
-              "A concept unrelated to queer theory"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of the following best describes an aim of a queer theory literary analysis?",
-            "options": [
-              "Identifying only the historical period in which a novel was originally published",
-              "Summarizing a novel’s plot without any interpretive commentary",
-              "Counting the exact number of characters who appear in a single chapter",
-              "Questioning assumptions about gender and sexuality that a text or its traditional interpretation may take for granted"
+              "A strict, chronological summary of an entire plot",
+              "Only a characters physical actions with no inner thought at all",
+              "A list of unrelated facts with no connection to any character",
+              "A characters continuous flow of thoughts and impressions as they occur"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a queer theory critic focus on close, seemingly minor textual details, such as an ambiguous relationship between two characters of the same gender?",
+            "q": "What stylistic feature often characterizes stream of consciousness writing?",
             "options": [
-              "Minor textual details are always considered completely irrelevant to a queer theory reading",
-              "Such details can reveal how a text subtly resists or complicates dominant heteronormative expectations, even without being explicitly stated",
-              "A queer theory reading never examines any relationship between characters of the same gender",
-              "This concept has no connection to literary theory"
+              "Strict, formally outlined paragraphs with no variation",
+              "Looser, less structured sentences that mimic the movement of thought",
+              "Only dialogue, with no narration of any kind",
+              "Numbered lists replacing all prose"
             ],
             "answer": 1
           },
           {
-            "q": "Why has queer theory been influential in expanding how literary scholars interpret canonical texts that predate contemporary understandings of sexuality and gender?",
+            "q": "Why might an author choose stream of consciousness over a more traditional narrative style?",
             "options": [
-              "This concept has no relevance to literary theory",
-              "Canonical texts have never been reexamined using any new critical framework",
-              "It offers new interpretive questions that can uncover meanings and tensions within older texts that earlier, more normative readings may have overlooked",
-              "Queer theory insists that texts written before a certain date can never be reinterpreted in any way"
+              "To remove any sense of character from the narrative",
+              "To make the story as impersonal and distant as possible",
+              "To immerse readers directly in a characters inner experience",
+              "To avoid ever describing a characters thoughts"
             ],
             "answer": 2
+          },
+          {
+            "q": "Stream of consciousness narration is most closely associated with representing which aspect of a character?",
+            "options": [
+              "Their internal, psychological experience",
+              "Their financial situation only",
+              "Their physical appearance only",
+              "Their family history exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can stream of consciousness passages sometimes feel challenging to read?",
+            "options": [
+              "These passages are always written with extremely simple vocabulary",
+              "They never include any emotional content whatsoever",
+              "They are always the shortest passages in a text",
+              "The thoughts may jump between ideas without the usual transitions of conventional narration"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "AdvancedFunctions",
@@ -27130,63 +27228,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Method of Frobenius — Series Solutions Near a Singular Point",
-        "summary": "Grade 12 Calculus strand: the method of Frobenius extends the power series approach to solving a differential equation near a regular singular point by assuming a solution of the form x^r times a power series, determining the exponent r from an indicial equation.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Trigonometric Identities: Double-Angle Formulas",
+        "summary": "Grade 10 Math strand: double-angle formulas express trigonometric functions of twice an angle, such as sin(2x) equals 2 sin(x) cos(x), in terms of functions of the original angle.",
+        "resourceLabel": "YouTube: Trigonometric Identities: Double-Angle Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%3A%20Double-Angle%20Formulas%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Near what type of point does the method of Frobenius extend the ordinary power series method for solving a differential equation?",
+            "q": "What does the double-angle formula for sine express?",
             "options": [
-              "A concept unrelated to calculus",
-              "A regular singular point",
-              "A point far away from any feature of the differential equation",
-              "Only points where the solution is already known exactly"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What form does the Frobenius method assume for a solution near a regular singular point?",
-            "options": [
-              "A solution that must always be a simple constant value",
-              "A concept unrelated to the Frobenius method",
-              "A solution containing no power series or exponent of any kind",
-              "x^r multiplied by a power series in x, for some exponent r to be determined"
+              "A concept unrelated to trigonometry",
+              "The area of a triangle",
+              "Only the value of x itself",
+              "sin(2x) in terms of sin(x) and cos(x)"
             ],
             "answer": 3
           },
           {
-            "q": "What equation is solved first, before finding the rest of the series solution, in order to determine the possible values of the exponent r in the Frobenius method?",
+            "q": "What is the double-angle identity for sine?",
             "options": [
-              "The indicial equation",
-              "A simple linear equation with no reference to r",
-              "A concept unrelated to this method",
-              "The original differential equation’s general antiderivative"
+              "sin(2x) = 2 sin(x) cos(x)",
+              "sin(2x) = 2 sin(x)",
+              "sin(2x) = cos(x) squared",
+              "sin(2x) = sin(x) + cos(x)"
             ],
             "answer": 0
           },
           {
-            "q": "Why does the ordinary power series method (assuming a solution as a simple power series starting at x⁰) often fail to work directly at a regular singular point?",
+            "q": "Can double-angle formulas help simplify a trigonometric expression involving 2x?",
             "options": [
-              "Regular singular points never cause any difficulty for solving a differential equation using series methods",
-              "The coefficients of the differential equation itself may become singular (undefined or infinite) there, so a more general form starting with x^r is needed to capture the true behaviour of the solution",
-              "This concept has no connection to calculus",
-              "The ordinary power series method always works perfectly at every singular point without any modification"
+              "Double-angle formulas only apply to angles smaller than 2x",
+              "No, double-angle formulas never simplify any expression",
+              "A concept unrelated to trigonometric identities",
+              "Yes"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why can the indicial equation for the Frobenius method sometimes produce two different roots for r, corresponding to two distinct series solutions?",
+            "q": "Why might a double-angle formula be useful when solving a trigonometric equation that contains both sin(x) and sin(2x)?",
             "options": [
-              "The indicial equation can never have more than a single possible root for r",
-              "This concept has no relevance to calculus",
-              "Two roots of the indicial equation always produce exactly the same series solution",
-              "The indicial equation is generally a quadratic in r, and its two roots can each generate a valid, independent Frobenius series solution to the differential equation"
+              "Double-angle formulas never help when solving equations with multiple angle measures",
+              "Equations with sin(2x) can never be simplified using any identity",
+              "This concept has no connection to math",
+              "Rewriting sin(2x) in terms of sin(x) and cos(x) allows the whole equation to be expressed using a single angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are trigonometric identities like the double-angle formulas useful tools in calculus and physics applications?",
+            "options": [
+              "Trigonometric identities have no application outside of pure geometry problems",
+              "Calculus and physics never involve any trigonometric expressions",
+              "This concept has no relevance to trigonometry",
+              "They allow complex trigonometric expressions to be rewritten in simpler, more manageable forms"
             ],
             "answer": 3
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Trigonometry"
       },
       {
         "subject": "Physics",
@@ -27255,62 +27353,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Structuralism and Semiotics",
-        "summary": "Grade 12 English strand: structuralism analyzes literature by examining underlying systems of signs and structures that generate meaning, drawing on semiotics, the study of how signs and symbols create meaning within a system.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Writing: Writing a Research Proposal",
+        "summary": "Grade 9 Language strand: a research proposal outlines a planned investigation before the work begins, stating a clear research question, explaining its significance, and describing the methods a writer intends to use to find an answer.",
+        "resourceLabel": "YouTube: Writing: Writing a Research Proposal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Research%20Proposal%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does structuralism examine in a text?",
+            "q": "What is the purpose of a research proposal?",
             "options": [
-              "Underlying systems of signs and structures that generate meaning",
-              "Only the authors personal biography",
-              "Only the historical period a text was written in",
-              "Only the emotional response of individual readers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is semiotics?",
-            "options": [
-              "A grammar rule about verb tense",
-              "The study of how signs and symbols create meaning within a system",
-              "The study of chemical reactions in nature",
-              "A method for citing sources in an essay"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "According to structuralist thinking, meaning in a text often arises from ___.",
-            "options": [
-              "Random chance with no underlying system",
-              "Relationships and patterns between elements, rather than the elements alone",
-              "The authors mood while writing",
-              "The physical weight of the book"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Structuralism was influenced by which field studying language systems?",
-            "options": [
-              "Geology",
-              "Linguistics",
-              "Astronomy",
-              "Chemistry"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a structuralist critic compare multiple myths or stories from different cultures?",
-            "options": [
-              "Structuralists never compare texts across cultures",
-              "To focus only on a single authors biography",
-              "To prove that all stories are entirely unrelated to one another",
-              "To identify shared underlying structures or patterns across narratives"
+              "To summarize research that was completed many years earlier",
+              "To criticize research conducted by other people",
+              "To replace the need for any research question",
+              "To outline a planned investigation before the research work begins"
             ],
             "answer": 3
+          },
+          {
+            "q": "What should a strong research proposal clearly state?",
+            "options": [
+              "An unrelated list of personal hobbies",
+              "The final answer before any research occurs",
+              "A summary of an entirely unrelated topic",
+              "A specific, focused research question"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do research proposals typically explain the significance of a topic?",
+            "options": [
+              "Significance is never a relevant consideration in research",
+              "To show readers why the investigation is worth pursuing",
+              "To avoid stating any purpose for the research",
+              "To make the proposal as confusing as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What part of a research proposal describes how the investigation will be carried out?",
+            "options": [
+              "The title page alone",
+              "The methods section",
+              "The index at the very end",
+              "The dedication page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a student write a research proposal before starting a larger project?",
+            "options": [
+              "To plan the scope and direction of the project and get feedback early",
+              "To guarantee an identical result to every other students project",
+              "Proposals are only ever written after a project is finished",
+              "Research proposals serve no planning purpose whatsoever"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "AdvancedFunctions",
@@ -27374,63 +27473,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Triple Integrals in Spherical Coordinates",
-        "summary": "Grade 12 Calculus strand: triple integrals in spherical coordinates use the variables rho, theta, and phi to describe points in three-dimensional space, making them especially useful for integrating over spheres and spherically symmetric regions.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Functions: Composition of Functions",
+        "summary": "Grade 10 Math strand: function composition combines two functions by applying one function to the output of another, written as f(g(x)), evaluating g(x) first.",
+        "resourceLabel": "YouTube: Functions: Composition of Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Composition%20of%20Functions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What three variables are used in spherical coordinates?",
+            "q": "In the composition f(g(x)), which function is evaluated first?",
             "options": [
-              "Only r and theta",
-              "Only length and width",
-              "Rho, theta, and phi",
-              "Only x, y, and z"
+              "A concept unrelated to function composition",
+              "f(x)",
+              "g(x)",
+              "Neither function is ever evaluated"
             ],
             "answer": 2
           },
           {
-            "q": "What does the variable rho typically represent in spherical coordinates?",
+            "q": "If f(x) = x + 3 and g(x) = 2x, what is f(g(2))?",
             "options": [
-              "The height above the xy-plane",
-              "The angle from the positive x-axis",
-              "The area of a cross-section",
-              "The distance from the origin to the point"
+              "7",
+              "5",
+              "4",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does function composition combine two functions by using the output of one as the input of the other?",
+            "options": [
+              "Yes",
+              "Composition always adds the two functions together instead",
+              "A concept unrelated to function composition",
+              "No, function composition never uses one function’s output as another’s input"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the order of functions important when evaluating a composition like f(g(x))?",
+            "options": [
+              "f(g(x)) and g(f(x)) always produce exactly the same result",
+              "This concept has no connection to math",
+              "The order of functions never affects the result of a composition",
+              "Changing the order can produce a completely different result, since g(x) is evaluated before applying f"
             ],
             "answer": 3
           },
           {
-            "q": "Why are spherical coordinates especially useful for certain triple integrals?",
+            "q": "Why might function composition be useful for modelling a real-world process with multiple sequential steps, such as a discount followed by a tax?",
             "options": [
-              "They can only be used for two-dimensional problems",
-              "They simplify integration over spheres and spherically symmetric regions",
-              "They make every integral more complicated with no benefit",
-              "They eliminate the need for any coordinate system"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What extra factor must be included in the integrand when converting to spherical coordinates?",
-            "options": [
-              "Only a factor of the radius squared with no other terms",
-              "No adjustment is ever needed",
-              "Only a factor of pi",
-              "The Jacobian factor, rho squared times sine of phi"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Triple integrals in spherical coordinates are commonly used to calculate ___.",
-            "options": [
-              "Only the slope of a line",
-              "Only a single point value with no volume",
-              "The volume or mass of spherical objects",
-              "Only the perimeter of a two-dimensional shape"
+              "Function composition has no application to modelling multi-step real-world processes",
+              "This concept has no connection to functions",
+              "Each function can represent one step, and composing them models applying the steps in the correct sequential order",
+              "Multi-step processes can never be represented using function composition"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -27618,62 +27716,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Beta Function — A Companion to the Gamma Function",
-        "summary": "Grade 12 Calculus strand: the Beta function is a special integral closely related to the Gamma function, often used to evaluate certain definite integrals and expressed in terms of Gamma function values.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Exponential and Logarithmic Equations: Solving Techniques",
+        "summary": "Grade 10 Math strand: exponential equations can be solved by matching bases or applying logarithms to both sides, while logarithmic equations are often solved by rewriting them in exponential form.",
+        "resourceLabel": "YouTube: Exponential and Logarithmic Equations: Solving Techniques",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20and%20Logarithmic%20Equations%3A%20Solving%20Techniques%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What is the Beta function closely related to?",
+            "q": "What is one method for solving an exponential equation when both sides can be written with the same base?",
             "options": [
-              "The exponential function only",
-              "A simple linear equation",
-              "The Gamma function",
-              "The sine function only"
+              "Always assuming the answer is zero",
+              "Ignoring the exponents completely",
+              "Matching bases and setting the exponents equal",
+              "A concept unrelated to exponential equations"
             ],
             "answer": 2
           },
           {
-            "q": "What can the Beta function help mathematicians do?",
+            "q": "Solve for x: 2 to the power of x equals 8.",
             "options": [
-              "Only solve basic linear equations",
-              "Only add two whole numbers together",
-              "Only measure the area of a rectangle",
-              "Evaluate certain definite integrals that would otherwise be difficult"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How is the Beta function typically expressed in relation to the Gamma function?",
-            "options": [
-              "Only as a sum of two prime numbers",
-              "As a ratio involving Gamma function values",
-              "Only as a whole number with no formula",
-              "As a function completely unrelated to the Gamma function"
+              "4",
+              "3",
+              "8",
+              "2"
             ],
             "answer": 1
           },
           {
-            "q": "The Beta function is defined using what kind of mathematical expression?",
+            "q": "What is one common method for solving a logarithmic equation?",
             "options": [
-              "A definite integral",
-              "A basic arithmetic operation only",
-              "A single geometric shape",
-              "A simple algebraic equation with no integral"
+              "Rewriting it in exponential form",
+              "Ignoring the logarithm entirely",
+              "Always assuming x equals one",
+              "A concept unrelated to logarithmic equations"
             ],
             "answer": 0
           },
           {
-            "q": "Where might the Beta function be applied in advanced mathematics?",
+            "q": "Why might applying a logarithm to both sides of an exponential equation be useful when the bases cannot easily be matched?",
             "options": [
-              "Only in simple counting problems",
-              "It has no real mathematical application",
-              "In probability theory and statistical distributions",
-              "Only in basic elementary arithmetic"
+              "This concept has no connection to math",
+              "Applying a logarithm never helps solve an exponential equation",
+              "Logarithms allow the variable exponent to be brought down and solved using regular algebraic steps",
+              "Exponential equations can only ever be solved by guessing and checking"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is checking a solution important after solving a logarithmic equation?",
+            "options": [
+              "This concept has no connection to logarithms",
+              "Every possible numerical solution is always valid for a logarithmic equation",
+              "Logarithms are undefined for zero or negative values, so a solution must be checked to ensure it is valid",
+              "Solutions to logarithmic equations never need to be checked for validity"
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Physics",
@@ -27742,62 +27841,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: Ecofeminism — Gender and the Environment in Text",
-        "summary": "Grade 12 English strand: ecofeminism examines the connections between the domination of women and the domination of nature within literature, exploring how texts represent gender and environmental exploitation as interconnected issues.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Reading: Analyzing the Doppelganger Motif in Literature",
+        "summary": "Grade 9 Language strand: a doppelganger is a characters double or look-alike, often used as a literary motif to explore hidden identity, inner conflict, or a characters darker impulses within a story.",
+        "resourceLabel": "YouTube: Reading: Analyzing the Doppelganger Motif in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20the%20Doppelganger%20Motif%20in%20Literature%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does ecofeminism examine in literature?",
+            "q": "What is a doppelganger in literature?",
             "options": [
-              "Only the physical setting of a story with no thematic analysis",
-              "Connections between the domination of women and the domination of nature",
-              "Only the historical publication date of a text",
-              "Only grammar and sentence structure"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What two forms of domination does ecofeminist criticism often connect?",
-            "options": [
-              "The domination of mathematics and the domination of art",
-              "The domination of animals and the domination of machines",
-              "The domination of language and the domination of music",
-              "The domination of women and the exploitation of the natural environment"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might an ecofeminist critic analyze how nature is described in a text?",
-            "options": [
-              "Ecofeminist critics never discuss the natural environment",
-              "To ignore gender entirely in the analysis",
-              "To explore parallels between how nature and women are represented or controlled",
-              "To focus solely on unrelated economic data"
+              "A punctuation mark used in dialogue",
+              "A minor character who appears only once with no significance",
+              "A characters double or look-alike, often symbolizing a hidden side of that character",
+              "A type of formal citation used in essays"
             ],
             "answer": 2
           },
           {
-            "q": "Ecofeminism combines which two broader areas of critical thought?",
+            "q": "What theme does the doppelganger motif often explore?",
             "options": [
-              "Only mathematics and physics",
-              "Feminist theory and environmental thought",
-              "Only ancient history and archaeology",
-              "Only music theory and visual art"
+              "A characters favourite hobbies with no deeper meaning",
+              "The exact geographic setting of a story",
+              "Hidden identity or inner conflict within a character",
+              "The history of a completely unrelated nation"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Which of these might an ecofeminist reading highlight in a novel?",
+            "q": "Why might an author introduce a doppelganger for a main character?",
             "options": [
-              "Only the price of the book when published",
-              "Language that frames land as something to be conquered, paralleling attitudes toward women",
-              "Only the number of chapters in the book",
-              "Only unrelated grammatical errors in the text"
+              "To remove the main character from the story entirely",
+              "To eliminate the need for any character development",
+              "To confuse readers with no narrative purpose at all",
+              "To externalize a struggle happening within the characters own mind"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "A doppelganger is best described as a type of what literary device?",
+            "options": [
+              "A formal citation format",
+              "A grammatical rule about sentence structure",
+              "A rhyme scheme used only in poetry",
+              "A recurring motif used to develop character and theme"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might a reader interpret the appearance of a doppelganger in a story?",
+            "options": [
+              "As a signal that the story is exploring duality or conflicting aspects of identity",
+              "As proof that the story takes place in outer space",
+              "As an indication that the story has ended",
+              "As a sign that the story has no thematic content at all"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "AdvancedFunctions",
@@ -27861,63 +27961,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Fubinis Theorem and Reversing the Order of Integration",
-        "summary": "Grade 12 Calculus strand: Fubinis Theorem states that under suitable conditions, a double integral over a rectangular region can be evaluated as an iterated integral in either order, allowing mathematicians to choose whichever order simplifies the calculation.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Review: Matrices, Trigonometry, Series, and Functions (Days 91-99)",
+        "summary": "Grade 10 Math strand review: students revisit matrix determinants, double-angle trig identities, geometric series, correlation versus causation, probability trees, function composition, similar triangles, exponential/logarithmic equations, and mortgages.",
+        "resourceLabel": "YouTube: Review: Matrices, Trigonometry, Series, and Functions (Days 91-99)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Matrices%2C%20Trigonometry%2C%20Series%2C%20and%20Functions%20%28Days%2091-99%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Fubinis Theorem allow for a double integral over a suitable region?",
+            "q": "For a 2x2 matrix with entries a, b, c, d, how is the determinant calculated?",
             "options": [
-              "Evaluating it as an iterated integral in either order",
-              "Eliminating the need to integrate at all",
-              "Only applying to integrals with no variables",
-              "Only evaluating it in one fixed, unchangeable order"
+              "A concept unrelated to matrices",
+              "Always exactly one",
+              "a plus d",
+              "ad minus bc"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a mathematician want to reverse the order of integration?",
+            "q": "What is the double-angle identity for sine?",
             "options": [
-              "Reversing the order is never useful for simplifying calculations",
-              "To simplify a calculation that is difficult in the original order",
-              "It always produces an incorrect final answer",
-              "Order never affects the difficulty of an integral"
+              "sin(2x) = sin(x) + cos(x)",
+              "sin(2x) = 2 sin(x) cos(x)",
+              "sin(2x) = cos(x) squared",
+              "A concept unrelated to trigonometry"
             ],
             "answer": 1
           },
           {
-            "q": "Under what general condition does Fubinis Theorem typically apply?",
+            "q": "Does correlation alone prove that one variable causes another to change?",
             "options": [
-              "It applies to every possible function with no conditions",
-              "When the function is well-behaved (such as continuous) over the region of integration",
-              "It never applies to any function",
-              "Only when the function equals zero everywhere"
+              "Causation can never be studied at all",
+              "No",
+              "Yes, correlation always proves causation",
+              "A concept unrelated to statistics"
             ],
             "answer": 1
           },
           {
-            "q": "Fubinis Theorem is especially useful when working with which type of integral?",
+            "q": "In the composition f(g(x)), which function is evaluated first?",
             "options": [
-              "Only integrals with no bounds",
-              "Only single-variable integrals",
-              "Double and triple integrals",
-              "Only integrals of constant functions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If reversing the order of integration under Fubinis Theorem, what generally must also change?",
-            "options": [
-              "The limits of integration, to correctly describe the same region",
-              "Nothing else needs to change at all",
-              "The function itself must be entirely replaced",
-              "The final answer will always become undefined"
+              "g(x)",
+              "Neither function is evaluated",
+              "A concept unrelated to function composition",
+              "f(x)"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is true of the corresponding sides in similar triangles?",
+            "options": [
+              "They are always exactly equal",
+              "They have no relationship to each other",
+              "A concept unrelated to geometry",
+              "They are proportional"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Physics",
@@ -28107,63 +28206,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: An Introduction to the Cauchy-Riemann Equations",
-        "summary": "Grade 12 Calculus strand: the Cauchy-Riemann equations are a pair of partial differential equations that a complex function must satisfy to be differentiable in the complex sense, forming a foundation for the study of complex analysis.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Analytic Geometry: Introduction to Conic Sections (Ellipses and Hyperbolas)",
+        "summary": "Grade 10 Math strand: conic sections are curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas, each with a distinct equation and shape.",
+        "resourceLabel": "YouTube: Analytic Geometry: Introduction to Conic Sections (Ellipses and Hyperbolas)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Introduction%20to%20Conic%20Sections%20%28Ellipses%20and%20Hyperbolas%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What must a complex function satisfy to be differentiable in the complex sense?",
+            "q": "What are conic sections?",
             "options": [
-              "No conditions are required at all",
-              "Only the Pythagorean theorem",
-              "The Cauchy-Riemann equations",
-              "Only the standard rules of real-number multiplication"
+              "Only straight lines drawn on a graph",
+              "A type of algebraic expression with no geometric meaning",
+              "A concept unrelated to geometry",
+              "Curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What type of equations are the Cauchy-Riemann equations?",
+            "q": "What shape does an ellipse resemble?",
             "options": [
-              "A pair of partial differential equations",
-              "A single linear equation with one variable",
-              "An equation with no variables at all",
-              "A basic arithmetic equation with whole numbers only"
+              "A stretched or squashed circle",
+              "A concept unrelated to conic sections",
+              "A single straight line",
+              "Two separate curves opening away from each other"
             ],
             "answer": 0
           },
           {
-            "q": "The Cauchy-Riemann equations form a foundation for which branch of mathematics?",
+            "q": "Does a hyperbola consist of two separate curves opening in opposite directions?",
             "options": [
-              "Elementary statistics",
-              "Complex analysis",
-              "Basic geometry",
-              "Financial mathematics"
+              "No, a hyperbola is always a single closed curve",
+              "Yes",
+              "A hyperbola is identical in shape to a circle",
+              "A concept unrelated to hyperbolas"
             ],
             "answer": 1
           },
           {
-            "q": "If a complex function satisfies the Cauchy-Riemann equations at a point, what can be said about that point?",
+            "q": "Why is it useful to recognize which conic section an equation represents before graphing it?",
             "options": [
-              "The function is complex differentiable there",
-              "The function has no real or imaginary parts",
-              "The function is undefined there",
-              "The function must be a constant with no variation"
+              "This concept has no connection to math",
+              "Identifying the conic type reveals its general shape and key features, making an accurate sketch much easier",
+              "All conic sections are graphed using the exact same method regardless of type",
+              "The type of conic section never affects how an equation should be graphed"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The Cauchy-Riemann equations relate the partial derivatives of a functions ___.",
+            "q": "Why do engineers and astronomers find ellipses and hyperbolas useful for modelling real-world phenomena, such as planetary orbits?",
             "options": [
-              "Only its domain and range",
-              "Only its numerator and denominator",
-              "Only its x and y intercepts",
-              "Real and imaginary parts"
+              "These curves accurately describe many natural paths and shapes, including the elliptical orbits of planets",
+              "Ellipses and hyperbolas have no real-world applications outside of pure mathematics",
+              "This concept has no relevance to geometry",
+              "Planetary orbits are always perfectly circular, never elliptical"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Analytic & Coordinate Geometry"
       },
       {
         "subject": "Physics",
@@ -28350,63 +28449,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Residue Theorem — An Introduction to Complex Integration",
-        "summary": "Grade 12 Calculus strand: the Residue Theorem provides a powerful method for evaluating certain complex integrals by summing the residues, or key coefficients, at the singular points enclosed within a contour.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Trigonometry: Sum and Difference Identities",
+        "summary": "Grade 10 Math strand: sum and difference identities express trigonometric functions of the sum or difference of two angles, such as sin(A+B) equals sin(A)cos(B) plus cos(A)sin(B), in terms of the original angles.",
+        "resourceLabel": "YouTube: Trigonometry: Sum and Difference Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Sum%20and%20Difference%20Identities%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Residue Theorem help evaluate?",
+            "q": "What do sum and difference identities express?",
             "options": [
-              "Only the slope of a straight line",
-              "Only simple real-number addition problems",
-              "Only the area of a basic rectangle",
-              "Certain complex integrals along a closed contour"
+              "Only the value of a single angle",
+              "A concept unrelated to trigonometry",
+              "Trigonometric functions of the sum or difference of two angles",
+              "The area of a triangle"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What is summed together when applying the Residue Theorem?",
+            "q": "What is the identity for sin(A+B)?",
             "options": [
-              "Only the real parts of a complex number",
-              "The residues at the singular points enclosed by the contour",
-              "Only positive integers less than ten",
-              "Only whole numbers with no complex component"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is a singular point of a complex function?",
-            "options": [
-              "A point located only on the real number line",
-              "A point where the function is not well-behaved or defined normally",
-              "A point where the function equals exactly one",
-              "A point that never affects any integral calculation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Residue Theorem considered powerful for certain integrals?",
-            "options": [
-              "It can simplify integrals that would be extremely difficult to evaluate using standard real-number methods",
-              "It cannot be applied to any complex function",
-              "It only applies to integrals that were already trivial to solve",
-              "It has no practical use in mathematics"
+              "sin(A)cos(B) + cos(A)sin(B)",
+              "sin(A)cos(B) - cos(A)sin(B)",
+              "sin(A) + sin(B)",
+              "cos(A)cos(B) - sin(A)sin(B)"
             ],
             "answer": 0
           },
           {
-            "q": "The Residue Theorem is a key tool within which area of mathematics?",
+            "q": "Can sum and difference identities help evaluate the exact trigonometric value of an angle like 75 degrees, using 45 and 30 degrees?",
             "options": [
-              "Elementary geometry",
-              "Complex analysis",
-              "Simple arithmetic",
-              "Basic algebra"
+              "A concept unrelated to sum and difference identities",
+              "Yes",
+              "Only a calculator can ever find such a value, with no formula available",
+              "No, sum and difference identities never help evaluate exact trigonometric values"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why are sum and difference identities useful when a trigonometric equation involves an angle that is not a common reference angle?",
+            "options": [
+              "These identities never help simplify equations involving uncommon angles",
+              "They allow an uncommon angle to be rewritten as a sum or difference of angles with known exact trigonometric values",
+              "This concept has no connection to math",
+              "Every angle already has a memorized exact trigonometric value without needing any identity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are sum and difference identities considered a foundation for deriving other identities, such as the double-angle formulas?",
+            "options": [
+              "Double-angle formulas were developed with no connection to any other identity",
+              "Sum and difference identities have no mathematical connection to double-angle formulas",
+              "This concept has no relevance to trigonometry",
+              "Setting the two angles equal to each other in a sum identity directly produces the corresponding double-angle formula"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Trigonometry"
       },
       {
         "subject": "Physics",
@@ -28475,60 +28574,60 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Drama: Artaud and the Theatre of Cruelty",
-        "summary": "Grade 12 English strand: Antonin Artauds Theatre of Cruelty sought to shock audiences out of complacency through intense, visceral sensory experiences, rejecting traditional narrative and dialogue in favour of raw physical and emotional impact.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literature: The Artist Novel and the Kunstlerroman",
+        "summary": "Grade 10 English strand: a Kunstlerroman, or artist novel, is a type of coming-of-age narrative that follows the development of an artist, writer, or musician from youth into creative maturity, closely related to the broader bildungsroman tradition.",
+        "resourceLabel": "YouTube: Literature: The Artist Novel and the Kunstlerroman",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Artist%20Novel%20and%20the%20Kunstlerroman%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Who developed the concept known as the Theatre of Cruelty?",
+            "q": "What is a Kunstlerroman?",
             "options": [
-              "Antonin Artaud",
-              "Henrik Ibsen",
-              "Bertolt Brecht",
-              "William Shakespeare"
+              "A coming-of-age narrative that follows the development of an artist from youth into creative maturity",
+              "A short poem with a strict rhyme scheme",
+              "A formal legal document used in court proceedings",
+              "A type of scientific research paper"
             ],
             "answer": 0
           },
           {
-            "q": "What was the main goal of the Theatre of Cruelty?",
+            "q": "What broader narrative tradition is the Kunstlerroman closely related to?",
             "options": [
-              "To avoid any emotional impact on the audience",
-              "To shock audiences out of complacency through intense sensory experience",
-              "To gently reassure audiences with familiar, comforting stories",
-              "To rely entirely on quiet, minimalist dialogue"
+              "The detective procedural",
+              "The bildungsroman",
+              "The captivity narrative",
+              "The epistolary novel"
             ],
             "answer": 1
           },
           {
-            "q": "What did Artauds approach often reject in favour of raw physical impact?",
+            "q": "What type of protagonist does a Kunstlerroman typically follow?",
             "options": [
-              "The use of any stage lighting",
-              "All forms of performance entirely",
-              "The presence of any actors on stage",
-              "Traditional narrative and conventional dialogue"
+              "A retired judge with no creative pursuits",
+              "A historical military general",
+              "An anonymous crowd with no individual characters",
+              "An artist, writer, or musician"
             ],
             "answer": 3
           },
           {
-            "q": "How does the Theatre of Cruelty differ from Brechtian alienation techniques?",
+            "q": "What does a Kunstlerroman typically trace across its plot?",
             "options": [
-              "It avoids any audience reaction whatsoever",
-              "It seeks to immerse and overwhelm the audience emotionally, rather than create critical distance",
-              "The two approaches are exactly identical with no differences",
-              "It focuses only on comedic elements, unlike Brechtian theatre"
+              "The construction of a large public building",
+              "The growth of the protagonists creative identity and craft",
+              "The history of a nations legal system",
+              "The migration patterns of a species of bird"
             ],
             "answer": 1
           },
           {
-            "q": "Why might the term cruelty in Artauds theory be considered misleading if taken too literally?",
+            "q": "Why might an author choose the Kunstlerroman form?",
             "options": [
-              "The term was used only to describe stage lighting",
-              "It refers more to intense sensory and emotional confrontation than to literal violence",
-              "Artaud intended the term to mean nothing at all",
-              "It refers only to physical violence with no other meaning"
+              "To focus exclusively on unrelated historical events",
+              "To avoid describing any character development at all",
+              "To eliminate any reference to art or creativity",
+              "To explore how artistic vision and personal identity develop together over time"
             ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -28594,62 +28693,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Dirac Delta Function",
-        "summary": "Grade 12 Calculus strand: the Dirac delta function is a special mathematical object used to model an idealized point source or impulse, defined so that it is zero everywhere except at a single point, yet integrates to one over the entire real line.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Probability: The Binomial Probability Distribution",
+        "summary": "Grade 10 Math strand: a binomial probability distribution models the number of successes in a fixed number of independent trials, each with the same probability of success, such as repeated coin flips.",
+        "resourceLabel": "YouTube: Probability: The Binomial Probability Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20The%20Binomial%20Probability%20Distribution%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Dirac delta function model in mathematics and physics?",
+            "q": "What does a binomial probability distribution model?",
             "options": [
-              "A gradual, smooth change over a wide interval",
-              "A function with no defined properties at all",
-              "A constant value with no variation",
-              "An idealized point source or impulse"
+              "A relationship between two unrelated variables",
+              "The average of a single continuous measurement",
+              "A concept unrelated to probability",
+              "The number of successes in a fixed number of independent trials"
             ],
             "answer": 3
           },
           {
-            "q": "Where is the Dirac delta function equal to zero?",
+            "q": "In a binomial setting, must each trial have the same probability of success?",
             "options": [
-              "Everywhere, with no exceptions",
-              "Only at the single point where it is centred",
-              "Nowhere, since it is never equal to zero",
-              "Everywhere except at a single point"
+              "No, each trial’s probability of success is always different",
+              "Probability of success never applies to a binomial trial",
+              "Yes",
+              "A concept unrelated to binomial distributions"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What is the total integral of the Dirac delta function over the entire real line?",
+            "q": "Which of these is a classic example of a binomial experiment?",
             "options": [
-              "Zero",
-              "Negative one",
-              "Infinity, with no finite value",
-              "One"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In what fields is the Dirac delta function commonly used?",
-            "options": [
-              "It has no practical applications at all",
-              "Only basic geometry, with no calculus application",
-              "Only elementary arithmetic, with no advanced application",
-              "Physics and engineering, to model instantaneous impulses"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Dirac delta function is often described as a ___.",
-            "options": [
-              "Generalized function or distribution, rather than a function in the traditional sense",
-              "An ordinary linear function",
-              "A simple polynomial function",
-              "A basic trigonometric function"
+              "Flipping a fair coin 10 times and counting the number of heads",
+              "A concept unrelated to binomial distributions",
+              "Measuring the exact height of every student in a class",
+              "Recording the colour of a single object one time only"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why must the trials in a binomial distribution be independent of one another?",
+            "options": [
+              "Independence ensures the outcome of one trial does not change the probability of success on another trial, keeping the model accurate",
+              "This concept has no connection to math",
+              "Independence between trials has no effect on whether a binomial model applies",
+              "A binomial distribution can be applied even when one trial always determines the outcome of the next"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the binomial distribution useful for quality control, such as estimating the number of defective items in a batch?",
+            "options": [
+              "The binomial distribution has no application to quality control processes",
+              "This concept has no relevance to probability",
+              "Defect rates can never be modelled using any probability distribution",
+              "It allows a company to estimate the probability of a certain number of defects, given a known defect rate and sample size"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Physics",
@@ -28838,63 +28938,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Heat Equation — Modelling Diffusion",
-        "summary": "Grade 12 Calculus strand: the heat equation is a partial differential equation that models how temperature or another diffusing quantity spreads through a region over time, connecting calculus to physical processes like heat conduction.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Matrices: Applications to Geometric Transformations",
+        "summary": "Grade 10 Math strand: transformation matrices can represent geometric operations such as rotations, reflections, and scaling, which are applied to coordinate points through matrix multiplication.",
+        "resourceLabel": "YouTube: Matrices: Applications to Geometric Transformations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Matrices%3A%20Applications%20to%20Geometric%20Transformations%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the heat equation model?",
+            "q": "What can transformation matrices represent?",
             "options": [
-              "A single, unchanging value with no variation over time",
-              "How temperature or another diffusing quantity spreads through a region over time",
-              "The exact colour of an object at a fixed moment",
-              "The total mass of an object with no time dependence"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What type of equation is the heat equation?",
-            "options": [
-              "A basic arithmetic equation with whole numbers",
-              "An equation with no variables at all",
-              "A partial differential equation",
-              "A simple linear equation with one variable"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The heat equation connects calculus to which real-world physical process?",
-            "options": [
-              "Heat conduction and diffusion",
-              "The motion of a planet around the sun",
-              "The reflection of light off a mirror",
-              "The vibration of a plucked string"
+              "Geometric operations such as rotations, reflections, and scaling",
+              "A concept unrelated to matrices",
+              "Only the temperature of a physical object",
+              "A single fixed number with no geometric meaning"
             ],
             "answer": 0
           },
           {
-            "q": "What does the heat equation typically involve, in terms of derivatives?",
+            "q": "How is a transformation matrix typically applied to a coordinate point?",
             "options": [
-              "Only a derivative with respect to space, with no time component",
-              "Derivatives with respect to both time and spatial position",
-              "No derivatives are involved in the heat equation",
-              "Only a derivative with respect to time, with no spatial component"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might engineers use the heat equation in practical applications?",
-            "options": [
-              "It can only describe objects that never change temperature",
-              "The heat equation has no practical engineering applications",
-              "To predict how heat will spread through materials over time",
-              "It is used exclusively for measuring sound waves"
+              "By adding the point to a random number",
+              "A concept unrelated to transformation matrices",
+              "Through matrix multiplication",
+              "By ignoring the coordinates entirely"
             ],
             "answer": 2
+          },
+          {
+            "q": "Can a scaling matrix be used to enlarge or shrink a shape on a coordinate plane?",
+            "options": [
+              "Scaling matrices only affect the colour of a shape",
+              "A concept unrelated to transformation matrices",
+              "No, scaling matrices never affect the size of a shape",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might representing a rotation as a matrix be useful when applying the same rotation to many different points?",
+            "options": [
+              "The same transformation matrix can be multiplied by each point’s coordinates, applying the rotation consistently and efficiently",
+              "Each point would need a completely different, unrelated calculation method",
+              "Representing a rotation as a matrix never simplifies applying it to multiple points",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are transformation matrices considered valuable tools in fields like computer graphics and animation?",
+            "options": [
+              "Transformation matrices have no application outside of pure mathematics",
+              "This concept has no relevance to matrices",
+              "Computer graphics never involve any geometric transformations",
+              "They allow complex sequences of rotations, reflections, and scalings to be combined and applied efficiently to digital objects"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Transformations"
       },
       {
         "subject": "Physics",
@@ -29084,63 +29184,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Wave Equation — Modelling Vibration",
-        "summary": "Grade 12 Calculus strand: the wave equation is a partial differential equation describing how disturbances, such as vibrations on a string or sound waves, propagate through space and time.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Foundations: Introduction to the Derivative and the Power Rule",
+        "summary": "Grade 10 Math strand: the derivative of a function represents its instantaneous rate of change, and the power rule provides a shortcut for finding derivatives of functions in the form x to the power of n.",
+        "resourceLabel": "YouTube: Calculus Foundations: Introduction to the Derivative and the Power Rule",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Foundations%3A%20Introduction%20to%20the%20Derivative%20and%20the%20Power%20Rule%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the wave equation model?",
+            "q": "What does the derivative of a function represent?",
             "options": [
-              "The exact colour of a material",
-              "The total mass of a stationary object",
-              "How disturbances, like vibrations, propagate through space and time",
-              "A single fixed value with no motion involved"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What type of equation is the wave equation?",
-            "options": [
-              "An equation with no variables at all",
-              "A partial differential equation",
-              "A simple linear equation with one variable",
-              "A basic arithmetic equation with whole numbers"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these physical phenomena can the wave equation help describe?",
-            "options": [
-              "The freezing point of water only",
-              "Vibrations on a string or the propagation of sound",
-              "The mass of a solid object at rest",
-              "The colour of visible light only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The wave equation typically involves derivatives with respect to which two quantities?",
-            "options": [
-              "Time and spatial position",
-              "Only mass and volume",
-              "Only temperature and pressure",
-              "Only colour and brightness"
+              "Its instantaneous rate of change",
+              "The total area under its graph",
+              "The exact value of the function at x equals zero only",
+              "A concept unrelated to calculus"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the wave equation an important tool in physics and engineering?",
+            "q": "According to the power rule, what is the derivative of x cubed?",
             "options": [
-              "It can only describe completely silent, motionless systems",
-              "It has no real-world scientific application",
-              "It only applies to objects that never move",
-              "It helps model and predict how waves behave and travel through different media"
+              "A concept unrelated to the power rule",
+              "3x squared",
+              "3x",
+              "x squared"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the power rule provide a shortcut for finding derivatives of functions like x to the power of n?",
+            "options": [
+              "No, the power rule has no connection to finding derivatives",
+              "The power rule only applies to functions with no exponents at all",
+              "A concept unrelated to derivatives",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding instantaneous rate of change useful for describing the speed of a moving object at a single exact moment?",
+            "options": [
+              "The derivative gives the exact rate of change at one instant, unlike an average rate calculated over an interval of time",
+              "This concept has no connection to math",
+              "Average rate of change and instantaneous rate of change always give identical results",
+              "Instantaneous rate of change has no connection to describing the motion of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the power rule considered a foundational tool before studying more advanced calculus techniques?",
+            "options": [
+              "The power rule has no practical use in later calculus topics",
+              "Polynomial functions can never be differentiated using any consistent rule",
+              "This concept has no relevance to calculus",
+              "It provides an efficient, reliable method for differentiating a wide range of polynomial functions used throughout calculus"
             ],
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -29329,60 +29429,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Brachistochrone Problem and the Calculus of Variations",
-        "summary": "Grade 12 Calculus strand: the brachistochrone problem asks for the curve along which a particle slides fastest between two points under gravity alone, famously solved to be a cycloid, and it helped launch the calculus of variations, a field concerned with finding functions that optimize a quantity.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors: The Cross Product and Applications",
+        "summary": "Grade 10 Math strand: the cross product of two three-dimensional vectors produces a new vector perpendicular to both original vectors, with a magnitude related to the area of the parallelogram they form.",
+        "resourceLabel": "YouTube: Vectors: The Cross Product and Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Cross%20Product%20and%20Applications%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the brachistochrone problem ask for?",
+            "q": "What does the cross product of two vectors produce?",
             "options": [
-              "A curve that never changes in shape",
-              "The curve with the largest possible area underneath it",
-              "The shortest possible straight-line distance between two points",
-              "The curve along which a particle slides fastest between two points"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What shape is the solution to the classic brachistochrone problem?",
-            "options": [
-              "A straight line",
-              "A perfect circle",
-              "A parabola",
-              "A cycloid"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What field of mathematics did the brachistochrone problem help establish?",
-            "options": [
-              "Elementary geometry",
-              "The calculus of variations",
-              "Basic arithmetic",
-              "Simple linear algebra"
+              "The exact sum of the two original vectors",
+              "A new vector perpendicular to both original vectors",
+              "A single scalar number with no direction",
+              "A concept unrelated to vectors"
             ],
             "answer": 1
           },
           {
-            "q": "What is the calculus of variations generally concerned with?",
+            "q": "Does the cross product apply to two-dimensional or three-dimensional vectors?",
             "options": [
-              "Only measuring simple, fixed lengths",
-              "Only counting whole numbers",
-              "Finding functions that optimize (maximize or minimize) a certain quantity",
-              "Only solving basic single-variable equations"
+              "Only vectors with a magnitude of exactly one",
+              "A concept unrelated to cross products",
+              "Only zero-dimensional points",
+              "Three-dimensional vectors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the magnitude of the cross product related to the area of the parallelogram formed by the two original vectors?",
+            "options": [
+              "No, the magnitude of the cross product has no geometric meaning at all",
+              "The cross product is always exactly zero regardless of the vectors used",
+              "Yes",
+              "A concept unrelated to the cross product"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a straight line not be the fastest path in the brachistochrone problem, even though it is the shortest?",
+            "q": "Why is the cross product useful for finding a vector that is perpendicular to a surface defined by two other vectors?",
             "options": [
-              "A curved path can allow the particle to gain speed more quickly under gravity",
-              "The particle never moves at all along a straight path",
-              "A straight line is always both the shortest and fastest path with no exception",
-              "Gravity has no effect on the speed of the particle"
+              "This concept has no connection to math",
+              "The cross product never produces a vector that is perpendicular to anything",
+              "Perpendicular vectors can never be found using vector operations",
+              "Since the cross product is always perpendicular to both input vectors, it directly identifies a normal direction to that surface"
             ],
-            "answer": 0
+            "answer": 3
+          },
+          {
+            "q": "Why might the cross product be a useful tool in physics for calculating torque, given a force applied at a distance from a pivot point?",
+            "options": [
+              "This concept has no relevance to vectors",
+              "Torque can never be calculated using any vector operation",
+              "The cross product has no application to calculating torque in physics",
+              "Torque depends on both the magnitude of the force and its perpendicular relationship to the position vector, which the cross product captures"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -29571,60 +29671,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Multivariable Techniques and Special Functions",
-        "summary": "Grade 12 Calculus strand review: students revisit triple integrals in spherical coordinates, the Beta function, Fubinis Theorem, the Cauchy-Riemann equations, the Residue Theorem, the Dirac delta function, the heat equation, the wave equation, and the brachistochrone problem.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Complex Numbers: The Complex Plane and Polar Form",
+        "summary": "Grade 10 Math strand: complex numbers can be plotted on the complex plane using a real and imaginary axis, and expressed in polar form using a magnitude and angle instead of standard rectangular coordinates.",
+        "resourceLabel": "YouTube: Complex Numbers: The Complex Plane and Polar Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Complex%20Numbers%3A%20The%20Complex%20Plane%20and%20Polar%20Form%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What three variables are used in spherical coordinates?",
+            "q": "What two axes make up the complex plane?",
             "options": [
-              "Only length and width",
-              "Only r and theta",
-              "Rho, theta, and phi",
-              "Only x, y, and z"
+              "A concept unrelated to complex numbers",
+              "A real axis and an imaginary axis",
+              "A single axis representing only magnitude",
+              "Two identical real axes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two values are used to express a complex number in polar form?",
+            "options": [
+              "A concept unrelated to polar form",
+              "The sum of the real and imaginary parts only",
+              "Only two real numbers with no imaginary component",
+              "A magnitude and an angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a complex number be represented as a point on the complex plane?",
+            "options": [
+              "A concept unrelated to the complex plane",
+              "No, complex numbers can never be represented graphically",
+              "Yes",
+              "Only real numbers can ever be plotted on any plane"
             ],
             "answer": 2
           },
           {
-            "q": "What does Fubinis Theorem allow for a double integral over a suitable region?",
+            "q": "Why might polar form be more convenient than rectangular form when multiplying two complex numbers?",
             "options": [
-              "Evaluating it as an iterated integral in either order",
-              "Only applying to integrals with no variables",
-              "Only evaluating it in one fixed, unchangeable order",
-              "Eliminating the need to integrate at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What must a complex function satisfy to be differentiable in the complex sense?",
-            "options": [
-              "Only the Pythagorean theorem",
-              "Only the standard rules of real-number multiplication",
-              "No conditions are required at all",
-              "The Cauchy-Riemann equations"
+              "This concept has no connection to math",
+              "Polar form never simplifies any operation involving complex numbers",
+              "Rectangular form and polar form always require identical calculation steps for multiplication",
+              "In polar form, magnitudes are multiplied and angles are added, which is often simpler than expanding rectangular expressions"
             ],
             "answer": 3
           },
           {
-            "q": "What does the Dirac delta function model in mathematics and physics?",
+            "q": "Why is visualizing complex numbers on the complex plane useful for understanding their magnitude and direction?",
             "options": [
-              "An idealized point source or impulse",
-              "A constant value with no variation",
-              "A gradual, smooth change over a wide interval",
-              "A function with no defined properties at all"
+              "Plotting a complex number as a point makes its distance from the origin and its angle immediately visible, similar to vectors",
+              "Visualizing complex numbers on a plane provides no useful information about them",
+              "Complex numbers have no meaningful magnitude or direction to visualize",
+              "This concept has no relevance to complex numbers"
             ],
             "answer": 0
-          },
-          {
-            "q": "What shape is the solution to the classic brachistochrone problem?",
-            "options": [
-              "A parabola",
-              "A perfect circle",
-              "A straight line",
-              "A cycloid"
-            ],
-            "answer": 3
           }
         ]
       },
@@ -29815,63 +29915,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Envelope Theorem in Constrained Optimization",
-        "summary": "Grade 12 Calculus strand: the envelope theorem describes how the optimal value of a constrained optimization problem changes as a parameter of the problem changes, showing that this rate of change can be computed directly from the partial derivative of the objective (or Lagrangian) function, without re-solving the entire optimization.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Review: Conics, Statistics, Matrices, and Number Systems (Days 101-109)",
+        "summary": "Grade 10 Math strand review: students revisit conic sections, sum and difference identities, sampling methods, the binomial distribution, matrix transformations, derivatives, the cross product, the complex plane, and modular arithmetic.",
+        "resourceLabel": "YouTube: Review: Conics, Statistics, Matrices, and Number Systems (Days 101-109)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Conics%2C%20Statistics%2C%20Matrices%2C%20and%20Number%20Systems%20%28Days%20101-109%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the envelope theorem describe?",
+            "q": "What are conic sections?",
             "options": [
-              "A method for graphing a single linear function",
-              "A rule for counting whole numbers only",
-              "How the optimal value of a constrained optimization problem changes as a parameter changes",
-              "The exact solution of any equation with no parameters"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "According to the envelope theorem, how can the rate of change of the optimal value often be found?",
-            "options": [
-              "By ignoring the constraint entirely",
-              "Only by re-solving the entire optimization problem from scratch every time",
-              "By measuring the problem with a physical ruler",
-              "Directly from the partial derivative of the objective or Lagrangian function"
+              "A type of algebraic expression with no geometric meaning",
+              "Only straight lines drawn on a graph",
+              "A concept unrelated to geometry",
+              "Curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas"
             ],
             "answer": 3
           },
           {
-            "q": "In what type of problem does the envelope theorem commonly appear?",
+            "q": "What is a sample in statistics?",
             "options": [
-              "Basic counting problems with no calculus involved",
-              "Constrained optimization problems, such as those using Lagrange multipliers",
-              "Simple single-variable arithmetic with no optimization",
-              "Problems with no parameters of any kind"
+              "A single number with no connection to a population",
+              "The entire population being studied",
+              "A subset of a population used to make inferences about the whole",
+              "A concept unrelated to statistics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the derivative of a function represent?",
+            "options": [
+              "The exact value of the function at x equals zero only",
+              "Its instantaneous rate of change",
+              "The total area under its graph",
+              "A concept unrelated to calculus"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the envelope theorem useful in economics and applied optimization?",
+            "q": "What does the cross product of two vectors produce?",
             "options": [
-              "It eliminates the need for any optimization at all",
-              "It has no application outside of pure mathematics",
-              "It always requires ignoring the objective function",
-              "It allows analysts to see how the optimal outcome responds to changing conditions without fully resolving the problem each time"
+              "A new vector perpendicular to both original vectors",
+              "A concept unrelated to vectors",
+              "A single scalar number with no direction",
+              "The exact sum of the two original vectors"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "The envelope theorem builds most directly on which earlier optimization technique from this course?",
+            "q": "What is modular arithmetic based on?",
             "options": [
-              "The trapezoid rule for numerical integration",
-              "The ratio test for series",
-              "Lagrange multipliers",
-              "The power rule for basic derivatives"
+              "Numbers wrapping around after reaching a fixed value called the modulus",
+              "A system with no repeating pattern at all",
+              "Numbers that always increase without any limit",
+              "A concept unrelated to number theory"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Calculus: Applications"
+        ]
       },
       {
         "subject": "Physics",
@@ -30060,122 +30159,123 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Hessian Matrix and the Second-Derivative Test for Multivariable Functions",
-        "summary": "Grade 12 Calculus strand: the Hessian matrix collects the second-order partial derivatives of a multivariable function, and examining its properties at a critical point extends the familiar single-variable second-derivative test to classify that point as a local maximum, local minimum, or saddle point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: An Introduction to the Binomial Theorem",
+        "summary": "Grade 9 Math strand: the Binomial Theorem provides a formula for expanding expressions of the form (a+b)^n without multiplying repeatedly, using coefficients from Pascals Triangle.",
+        "resourceLabel": "YouTube: Algebra: An Introduction to the Binomial Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20the%20Binomial%20Theorem%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Hessian matrix collect?",
+            "q": "What does the Binomial Theorem help you do?",
             "options": [
-              "A list of the functions input values",
-              "The constants found within the function",
-              "The second-order partial derivatives of a multivariable function",
-              "Only the first-order partial derivatives"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What can examining the Hessian matrix at a critical point help classify?",
-            "options": [
-              "The colour used in a graph of the function",
-              "The exact numerical value of the function everywhere",
-              "The domain of the function only",
-              "Whether the point is a local maximum, local minimum, or saddle point"
+              "Solve any linear equation instantly",
+              "Find the area of a circle",
+              "Simplify fractions only",
+              "Expand expressions of the form (a+b)^n without multiplying repeatedly"
             ],
             "answer": 3
           },
           {
-            "q": "What earlier single-variable concept does the Hessian-based test extend?",
+            "q": "What structure provides the coefficients used in the Binomial Theorem?",
             "options": [
-              "The trapezoid rule for numerical integration",
-              "The second-derivative test for concavity and extrema",
-              "The ratio test for series convergence",
-              "The chain rule for derivatives"
+              "A Venn diagram",
+              "Pascals Triangle",
+              "A number line",
+              "A coordinate plane"
             ],
             "answer": 1
           },
           {
-            "q": "What is a saddle point, as classified using the Hessian matrix?",
+            "q": "Using the Binomial Theorem, what is the expansion of (a+b)^2?",
             "options": [
-              "A critical point that is neither a local maximum nor a local minimum",
-              "A point that only occurs in one-variable functions",
-              "A point identical to a local maximum in every case",
-              "A point where the function is always undefined"
+              "a^2 + 2ab + b^2",
+              "a^2 + b^2",
+              "2a + 2b",
+              "a + b"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the Hessian matrix especially useful for functions of two or more variables?",
+            "q": "As the exponent n increases, what happens to the number of terms in the expansion of (a+b)^n?",
             "options": [
-              "A single derivative is always sufficient for any multivariable function",
-              "The Hessian matrix only applies to linear functions",
-              "Curvature in multiple directions must be considered simultaneously to classify a critical point",
-              "Multivariable functions never have critical points"
+              "It increases, with n+1 terms total",
+              "It becomes undefined",
+              "It always stays at exactly two terms",
+              "It decreases to zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Binomial Theorem is especially useful when expanding expressions with ___.",
+            "options": [
+              "Only single numbers with no addition",
+              "No variables at all",
+              "Large exponents that would be tedious to multiply out by hand",
+              "Only an exponent of zero"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Calculus: Derivatives"
+        ]
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Mössbauer Effect and Nuclear Resonance Fluorescence",
-        "summary": "Grade 12 Physics strand: the Mössbauer effect occurs when atomic nuclei bound within a solid crystal emit or absorb gamma rays without loss of energy to recoil, enabling extremely precise measurements of small energy shifts, including tests of gravitational redshift.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics: Electromagnetic Induction and Generators",
+        "summary": "Grade 10 Physics strand: electromagnetic induction occurs when a changing magnetic field produces an electric current in a nearby conductor, a principle that underlies how electrical generators convert motion into electricity.",
+        "resourceLabel": "YouTube: Physics: Electromagnetic Induction and Generators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetic%20Induction%20and%20Generators%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
         "quiz": [
           {
-            "q": "What does the Mössbauer effect involve?",
+            "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",
             "options": [
-              "Nuclei bound in a solid crystal emitting or absorbing gamma rays without energy loss to recoil",
-              "A magnetic field generated by a rotating nucleus",
-              "The complete absorption of all visible light by a crystal",
-              "A change in the mass of a nucleus over time"
+              "An electric current in a nearby conductor",
+              "A permanent change in the conductor’s colour",
+              "A change in the conductor’s mass",
+              "A phenomenon unrelated to magnetism"
             ],
             "answer": 0
           },
           {
-            "q": "Why is recoil normally a problem when a free nucleus emits a gamma ray?",
+            "q": "An electrical generator primarily converts ___ into electrical energy.",
             "options": [
-              "Recoil only affects visible light, never gamma rays",
-              "Recoil has no effect on emitted radiation whatsoever",
-              "Recoil carries away some of the gamma ray energy, shifting its frequency away from resonance",
-              "Recoil always increases the gamma ray energy without limit"
+              "Motion (mechanical energy)",
+              "A form of energy unrelated to generators",
+              "Chemical energy exclusively, with no connection to motion",
+              "Sound energy"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why does being bound within a crystal lattice reduce the effect of recoil?",
+            "q": "Which of these actions could induce a current in a coil of wire?",
             "options": [
-              "Being bound in a crystal has no effect on nuclear recoil",
-              "The recoil momentum is absorbed by the much more massive crystal as a whole rather than the single nucleus",
-              "Crystals eliminate gamma ray emission entirely",
-              "Crystals always increase the recoil energy of a nucleus"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What historic type of experiment famously used the Mössbauer effect to test a prediction of general relativity?",
-            "options": [
-              "A test of the charge of the electron",
-              "A test of Newtons third law",
-              "A test of the speed of sound in solids",
-              "A test of gravitational redshift"
+              "An action unrelated to electromagnetic induction",
+              "Holding a magnet perfectly still near the coil",
+              "Removing all magnets from the vicinity of the coil",
+              "Moving a magnet through the coil"
             ],
             "answer": 3
           },
           {
-            "q": "What makes the Mössbauer effect valuable for precision measurement?",
+            "q": "Why does moving a magnet more quickly through a coil typically increase the induced current?",
             "options": [
-              "It only works with visible light, never gamma rays",
-              "It removes the need for any precise measurement at all",
-              "It cannot detect any change in energy whatsoever",
-              "It allows extremely small shifts in gamma ray energy to be detected reliably"
+              "A faster-changing magnetic field induces a greater electromotive force in the coil",
+              "A reason unrelated to electromagnetic induction",
+              "The speed of the magnet’s motion has no effect on the induced current",
+              "Induced current only depends on the size of the magnet, not its speed"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "Why is electromagnetic induction considered essential to modern electricity generation?",
+            "options": [
+              "It provides the underlying principle that allows generators to convert mechanical motion into a usable electric current",
+              "Electricity generation never relies on magnetic fields",
+              "Electromagnetic induction has no connection to how electricity is generated",
+              "This concept only applies to purely theoretical physics problems"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       }
     ]
   },
@@ -30304,120 +30404,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Gradient Vectors and Directional Derivatives",
-        "summary": "Grade 12 Calculus strand: the gradient of a multivariable function is a vector of its partial derivatives that points in the direction of steepest increase, and the directional derivative measures the rate of change of the function along any chosen direction, computed as the dot product of the gradient with a unit vector.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Foundations: An Introduction to Limits",
+        "summary": "Grade 10 Math strand: a limit describes the value a function approaches as its input approaches a certain number, a foundational idea used to formally define the derivative and analyze function behaviour.",
+        "resourceLabel": "YouTube: Calculus Foundations: An Introduction to Limits",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Foundations%3A%20An%20Introduction%20to%20Limits%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the gradient vector of a function consist of?",
+            "q": "What does a limit describe in mathematics?",
             "options": [
-              "A vector of the functions partial derivatives",
-              "A list of the functions input variables only",
-              "A matrix of second-order derivatives",
-              "A single number representing the functions maximum value"
+              "The exact value of a function at every point",
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are limits considered foundational to calculus?",
+            "options": [
+              "They only apply to whole numbers",
+              "They are used to formally define the derivative",
+              "They have no connection to any other calculus concept",
+              "They eliminate the need to study functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As x approaches 3, if f(x) gets closer and closer to 9, what is the limit of f(x) as x approaches 3?",
+            "options": [
+              "9",
+              "3",
+              "Undefined in all cases",
+              "0"
             ],
             "answer": 0
           },
           {
-            "q": "In which direction does the gradient vector point?",
+            "q": "Can a limit exist at a point even if the function is undefined there?",
             "options": [
-              "The direction of steepest decrease of the function, always",
-              "The direction of steepest increase of the function",
-              "A fixed direction unrelated to the function",
-              "No particular direction at all"
+              "Yes, a limit can exist even if the function itself is undefined at that point",
+              "Limits are unrelated to function values",
+              "No, a limit only exists where the function is defined",
+              "Limits never exist for undefined functions under any circumstance"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What does a directional derivative measure?",
+            "q": "Understanding limits helps mathematicians analyze ___.",
             "options": [
-              "The total area under a curve",
-              "The rate of change of a function along a chosen direction",
-              "The maximum value a function can ever reach",
-              "The number of critical points of a function"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How is the directional derivative computed using the gradient?",
-            "options": [
-              "As the product of the gradient with itself",
-              "As the sum of every partial derivative with no direction considered",
-              "As the dot product of the gradient with a unit vector in the chosen direction",
-              "As the square root of the gradient vector"
+              "Only basic geometry",
+              "Only whole number arithmetic",
+              "How a function behaves as it approaches specific values",
+              "Only the colour of a graph"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is the gradient useful in optimization problems, such as gradient descent methods?",
-            "options": [
-              "Moving opposite to the gradient decreases the function most rapidly, guiding a search for a minimum",
-              "The gradient has no relevance to finding minimum or maximum values",
-              "The gradient always points toward the origin regardless of the function",
-              "Gradient-based methods cannot be applied to multivariable functions"
-            ],
-            "answer": 0
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Calculus: Limits & Rates of Change"
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Gibbs Paradox and the Entropy of Mixing",
-        "summary": "Grade 12 Physics strand: the Gibbs paradox arises in classical statistical mechanics when calculating the entropy of mixing two samples of the same gas, appearing to predict a nonzero increase in entropy even though mixing identical, indistinguishable gases should produce no real physical change, a puzzle resolved by properly accounting for particle indistinguishability.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Radioactivity and Half-Life",
+        "summary": "Grade 9 Science Chemistry/Physics strand: radioactive decay occurs when an unstable atomic nucleus releases energy and particles over time, and an isotope’s half-life is the time it takes for half of a radioactive sample to decay.",
+        "resourceLabel": "YouTube: Radioactivity and Half-Life",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Radioactivity%20and%20Half-Life%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=V4PFQpCCqzk",
         "quiz": [
           {
-            "q": "What situation gives rise to the Gibbs paradox?",
+            "q": "Radioactive decay occurs when ___.",
             "options": [
-              "Measuring the pressure of a vacuum",
-              "Calculating the entropy of two entirely different, distinguishable gases",
-              "Measuring the temperature of a single isolated particle",
-              "Calculating the entropy of mixing two samples of the same, identical gas"
+              "An atom becomes permanently stable with no further change",
+              "An unstable atomic nucleus releases energy and particles over time",
+              "A molecule dissolves completely in a solvent",
+              "A concept unrelated to atomic structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An isotope’s half-life refers to ___.",
+            "options": [
+              "A concept unrelated to radioactivity",
+              "The time it takes for half of a radioactive sample to decay",
+              "The total time before any decay begins",
+              "The complete lifespan of every atom in a sample"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If an isotope has a half-life of 10 years, how much of an original sample remains after 20 years?",
+            "options": [
+              "None of the original sample",
+              "Half of the original sample",
+              "One quarter of the original sample",
+              "A value unrelated to this half-life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a practical application of understanding radioactive half-life?",
+            "options": [
+              "Half-life calculations are never used outside of theoretical chemistry",
+              "An application unrelated to radioactivity",
+              "Radioactivity has no practical, real-world uses",
+              "Using radiocarbon dating to estimate the age of ancient organic materials"
             ],
             "answer": 3
           },
           {
-            "q": "What does the naive classical calculation in the Gibbs paradox seem to predict?",
+            "q": "Why is radioactive material considered potentially hazardous to living organisms?",
             "options": [
-              "An undefined entropy value with no numerical meaning",
-              "Zero change in entropy under all circumstances",
-              "A decrease in entropy when mixing any two gases",
-              "A nonzero increase in entropy even when mixing identical gases"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is this prediction considered paradoxical?",
-            "options": [
-              "Mixing identical, indistinguishable gas samples should produce no real physical change",
-              "The paradox has no connection to physical reasoning",
-              "Mixing identical gases always produces an obvious physical change",
-              "Entropy is never expected to change during any physical process"
+              "The energy and particles released during decay can damage living cells and tissue",
+              "Radioactive decay never has any effect on living organisms",
+              "This concept has no connection to radioactivity",
+              "Radioactive material is always completely harmless to living cells"
             ],
             "answer": 0
-          },
-          {
-            "q": "What key idea resolves the Gibbs paradox?",
-            "options": [
-              "Assuming that gases never actually mix",
-              "Assuming that all gas particles are entirely distinguishable from one another",
-              "Properly accounting for the indistinguishability of identical particles",
-              "Ignoring entropy calculations entirely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The Gibbs paradox is most closely associated with which branch of physics?",
-            "options": [
-              "Optics and the study of light",
-              "Electromagnetism and circuit theory",
-              "Statistical mechanics and thermodynamics",
-              "Nuclear physics and radioactive decay"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -30673,60 +30774,60 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Russian Formalism and Defamiliarization",
-        "summary": "Grade 12 English strand: Russian Formalism approached literature as a set of specific artistic devices and techniques, introducing the concept of defamiliarization, whereby familiar objects or experiences are presented in an unfamiliar way to renew perception.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literature: The Picaresque Novel",
+        "summary": "Grade 10 English strand: a picaresque novel is an episodic narrative that follows a resourceful, low-born hero known as a picaro through a loosely connected series of adventures, often using humour and social observation to satirize the customs of the society the picaro travels through.",
+        "resourceLabel": "YouTube: Literature: The Picaresque Novel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Picaresque%20Novel%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What did Russian Formalist critics focus on when studying literature?",
+            "q": "What type of hero does a picaresque novel typically follow?",
             "options": [
-              "Only the biography of the author",
-              "Only the historical period of publication",
-              "Specific artistic devices and techniques used within a text",
-              "Only the readers emotional response"
+              "A powerful monarch ruling over a vast empire",
+              "A retired scientist working alone in a laboratory",
+              "A committee of unnamed government officials",
+              "A resourceful, low-born hero known as a picaro"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the plot of a picaresque novel typically structured?",
+            "options": [
+              "As a single tightly plotted event with no digressions",
+              "As a strict step-by-step scientific procedure",
+              "As a loosely connected series of episodic adventures",
+              "As a formal legal argument with numbered clauses"
             ],
             "answer": 2
           },
           {
-            "q": "What is defamiliarization?",
+            "q": "What literary purpose does a picaresque novel often serve?",
             "options": [
-              "Presenting familiar objects or experiences in an unfamiliar way to renew perception",
-              "Making a text as familiar and predictable as possible",
-              "A term unrelated to literary technique",
-              "Removing all imagery from a text"
+              "Recording precise historical statistics with no characters",
+              "Providing a technical manual with no narrative content",
+              "Avoiding any commentary on society whatsoever",
+              "Satirizing the customs and social classes of the society the picaro travels through"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tone does a picaresque novel often adopt?",
+            "options": [
+              "A humorous and observational tone",
+              "A tone limited entirely to scientific terminology",
+              "A strictly formal legal tone",
+              "A tone with no emotional or descriptive content"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a Formalist critic value defamiliarization in literature?",
+            "q": "Why might a picaresque novel use a low-born protagonist rather than a noble one?",
             "options": [
-              "It guarantees a text will be forgettable",
-              "It disrupts habitual perception and makes readers notice a subject freshly",
-              "It removes all artistic devices from a text",
-              "It ensures readers never notice anything new"
+              "A low-born character cannot appear in any story according to literary convention",
+              "A low-born protagonist prevents any social commentary from appearing",
+              "A low-born wanderer can move freely across social classes, offering a wide view of society",
+              "A low-born protagonist eliminates the possibility of humour"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Russian Formalism was an important precursor to which later critical movement discussed elsewhere in this course?",
-            "options": [
-              "Medieval allegory",
-              "Romanticism",
-              "Victorian sentimentalism",
-              "Structuralism"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to Formalist thinking, what makes a text literary rather than ordinary language?",
-            "options": [
-              "A texts length alone determines its literariness",
-              "Only the authors fame determines literariness",
-              "Literary and ordinary language are considered identical",
-              "The deliberate, patterned use of devices that set it apart from everyday speech"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -31037,63 +31138,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Abels Theorem and the Boundary Behaviour of Power Series",
-        "summary": "Grade 12 Calculus strand: Abels Theorem addresses what happens at the boundary of a power series interval of convergence, showing that if a power series converges at an endpoint, its sum there equals the limit of the function as it is approached from within the interval.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: An Introduction to Complex Numbers",
+        "summary": "Grade 9 Math strand: a complex number combines a real part and an imaginary part, written as a+bi, where i represents the square root of negative one, extending the number system beyond real numbers.",
+        "resourceLabel": "YouTube: Algebra: An Introduction to Complex Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Complex%20Numbers%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Abels Theorem address?",
+            "q": "What is a complex number?",
             "options": [
-              "The behaviour of a power series far outside its interval of convergence",
-              "The radius of convergence of a geometric series alone",
-              "The derivative of a power series at its centre",
-              "The behaviour of a power series at the boundary of its interval of convergence"
+              "A number with no value",
+              "Only a negative number",
+              "Only a whole number",
+              "A number combining a real part and an imaginary part"
             ],
             "answer": 3
           },
           {
-            "q": "According to Abels Theorem, if a power series converges at an endpoint, what is true of its sum there?",
+            "q": "What does the symbol i represent in a complex number?",
             "options": [
-              "It is always undefined at that endpoint",
-              "It is always equal to zero regardless of the series",
-              "It bears no relationship to the function inside the interval",
-              "It equals the limit of the function approached from within the interval"
+              "The number ten",
+              "The square root of negative one",
+              "A type of fraction",
+              "A geometric shape"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What term describes the values at which a power series may or may not converge, situated exactly at the edge of its interval of convergence?",
+            "q": "How is a complex number typically written?",
             "options": [
-              "The centre of the interval of convergence",
-              "The derivative of the series",
-              "The radius of convergence itself",
-              "The endpoints of the interval of convergence"
+              "a times b",
+              "a divided by b",
+              "a + bi",
+              "a - b"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is boundary behaviour of a power series considered a subtle question in calculus?",
+            "q": "Why were complex numbers introduced into mathematics?",
             "options": [
-              "Power series never converge at their endpoints under any circumstances",
-              "Boundary behaviour is always identical to behaviour at the centre",
-              "Every power series behaves identically at every point within and beyond its interval",
-              "Convergence at an endpoint is not guaranteed by convergence within the open interval, and must be checked separately"
+              "To eliminate the need for real numbers entirely",
+              "To replace fractions completely",
+              "To allow solutions to equations that have no real number solutions",
+              "They serve no mathematical purpose"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Abels Theorem builds on which earlier calculus topic concerning infinite sums of terms involving powers of a variable?",
+            "q": "Complex numbers extend the real number system to include ___.",
             "options": [
-              "Power series and radius of convergence",
-              "The concept of a definite integral alone",
-              "The trapezoid rule for numerical integration",
-              "The chain rule for derivatives"
+              "Only numbers between zero and one",
+              "Only positive whole numbers",
+              "Nothing beyond whole numbers",
+              "Square roots of negative numbers"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Physics",
@@ -31529,123 +31629,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Bessel Functions and Solutions to Bessels Equation",
-        "summary": "Grade 12 Calculus strand: Bessel functions arise as solutions to Bessels differential equation, a second-order equation that appears when solving problems with cylindrical symmetry, such as vibrations of a circular drumhead, and are often found using the method of Frobenius near a singular point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: The Remainder Theorem and Factor Theorem",
+        "summary": "Grade 9 Math strand: the Remainder Theorem states that dividing a polynomial by (x-a) gives a remainder equal to the polynomial evaluated at a, and the Factor Theorem uses this to determine whether (x-a) is a factor.",
+        "resourceLabel": "YouTube: Algebra: The Remainder Theorem and Factor Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20The%20Remainder%20Theorem%20and%20Factor%20Theorem%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Bessel functions arise as solutions to which type of equation?",
+            "q": "What does the Remainder Theorem state?",
             "options": [
-              "A basic algebraic equation with no derivatives",
-              "An equation with no variables at all",
-              "Bessels differential equation, a second-order differential equation",
-              "A simple first-order linear equation with no special structure"
+              "The remainder is always zero for every polynomial",
+              "Polynomials cannot be divided by binomials",
+              "Dividing a polynomial by (x-a) gives a remainder equal to the polynomial evaluated at a",
+              "Every polynomial has no remainder when divided"
             ],
             "answer": 2
           },
           {
-            "q": "In what kind of physical problems does Bessels equation commonly appear?",
+            "q": "According to the Factor Theorem, when is (x-a) a factor of a polynomial?",
             "options": [
-              "Problems limited strictly to financial mathematics",
-              "Problems with cylindrical symmetry, such as vibrations of a circular drumhead",
-              "Problems involving only straight-line motion",
-              "Problems with no physical application whatsoever"
+              "Factors cannot be determined this way",
+              "Only when a is a negative number",
+              "When the polynomial evaluated at a equals one",
+              "When the polynomial evaluated at a equals zero"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What earlier method from this course is often used to find solutions to Bessels equation near a singular point?",
+            "q": "If P(3) = 0 for a polynomial P(x), what can you conclude?",
             "options": [
-              "The trapezoid rule for numerical integration",
-              "The method of Frobenius",
-              "Newtons method for root approximation",
-              "The ratio test for series convergence alone, with no series solution"
+              "P(x) has no factors at all",
+              "(x+3) is a factor of P(x)",
+              "(x-3) is a factor of P(x)",
+              "P(x) is undefined"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why are Bessel functions particularly useful for describing circularly symmetric systems?",
+            "q": "Why are the Remainder and Factor Theorems useful?",
             "options": [
-              "Their oscillatory, decaying behaviour matches vibrations and waves in circular or cylindrical geometries",
-              "Bessel functions cannot describe any oscillatory behaviour",
-              "They are limited strictly to describing straight-line motion",
-              "They apply only to systems with no symmetry at all"
+              "They provide a quicker way to test for factors without full division",
+              "They have no practical mathematical use",
+              "They only work for linear equations, never polynomials",
+              "They eliminate the need to ever factor a polynomial"
             ],
             "answer": 0
           },
           {
-            "q": "What order of differential equation is Bessels equation?",
+            "q": "The Remainder Theorem connects division of polynomials to ___.",
             "options": [
-              "Zero-order, meaning it contains no derivatives",
-              "First-order",
-              "Third-order",
-              "Second-order"
+              "Only measuring angles",
+              "Only simplifying fractions",
+              "Evaluating the polynomial at a specific value",
+              "Only graphing linear equations"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Physics",
-        "title": "Physics: Magnetohydrodynamics and the Behaviour of Plasma",
-        "summary": "Grade 12 Physics strand: magnetohydrodynamics studies the behaviour of electrically conducting fluids, such as plasma, as they interact with magnetic fields, describing phenomena from the confinement of plasma in fusion reactors to the dynamics of the solar wind.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: Epigenetics: Gene Expression and Environment",
+        "summary": "Grade 9 Science strand: epigenetics studies how environmental factors can influence whether specific genes are turned on or off, without altering the underlying DNA sequence itself.",
+        "resourceLabel": "YouTube: Science: Epigenetics: Gene Expression and Environment",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epigenetics%3A%20Gene%20Expression%20and%20Environment%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does magnetohydrodynamics study?",
+            "q": "What does epigenetics study?",
             "options": [
-              "The behaviour of solid crystals under mechanical stress",
-              "The behaviour of electrically conducting fluids interacting with magnetic fields",
-              "The behaviour of sound waves in a vacuum",
-              "The behaviour of light in a lens system"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which state of matter is most commonly studied within magnetohydrodynamics?",
-            "options": [
-              "Plasma",
-              "Solid crystal",
-              "Ideal gas with no charged particles",
-              "Ordinary liquid water"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What practical application relies on magnetohydrodynamic principles to contain extremely hot plasma?",
-            "options": [
-              "Standard incandescent light bulbs",
-              "Ordinary household refrigeration",
-              "Mechanical pendulum clocks",
-              "Magnetic confinement in fusion reactors"
+              "How cells divide during mitosis",
+              "A concept unrelated to biology",
+              "How DNA sequences are physically rewritten",
+              "How environmental factors influence whether genes are turned on or off"
             ],
             "answer": 3
           },
           {
-            "q": "What large-scale astrophysical phenomenon is often described using magnetohydrodynamics?",
+            "q": "Does epigenetics involve changing the underlying DNA sequence?",
             "options": [
-              "The vibration of a plucked guitar string",
-              "The dynamics of the solar wind",
-              "The refraction of light through glass",
-              "The freezing point of water"
+              "Yes, it always changes the DNA sequence",
+              "DNA sequence has no connection to epigenetics",
+              "No",
+              "A concept unrelated to epigenetics"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why must a fluid be electrically conducting for magnetohydrodynamic effects to apply?",
+            "q": "Name one environmental factor that could influence gene expression, such as diet.",
             "options": [
-              "Electrical conductivity has no relevance to magnetic interactions",
-              "Only a conducting fluid can carry currents that interact meaningfully with a magnetic field",
-              "Conductivity only matters for solids, never fluids",
-              "Magnetohydrodynamics applies equally to fluids that cannot conduct electricity"
+              "A favourite hobby",
+              "A concept unrelated to epigenetics",
+              "Diet",
+              "A random guess with no scientific basis"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why might identical twins, who share the same DNA, develop some different traits over their lives?",
+            "options": [
+              "This concept has no connection to epigenetics",
+              "Identical twins can never develop any different traits",
+              "DNA sequence alone always determines every trait with no other influence",
+              "Different environmental experiences could lead to different epigenetic changes affecting gene expression"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is epigenetics considered a valuable area of modern biological research?",
+            "options": [
+              "It helps explain how environment and genetics interact to influence health and traits",
+              "This concept has no relevance to science",
+              "Epigenetics has no connection to health or biology",
+              "Genes are the only factor that ever influences an organism’s traits"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Electricity & Magnetism"
+        "topic": "Ecosystems & Environment"
       }
     ]
   },
@@ -31774,63 +31873,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Leibniz Rule for Differentiating Under the Integral Sign",
-        "summary": "Grade 12 Calculus strand: the Leibniz rule allows the derivative of an integral whose integrand depends on a parameter to be found by differentiating the integrand with respect to that parameter and then integrating the result, turning some otherwise difficult integrals into more manageable differentiation problems.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: An Introduction to Parametric Equations",
+        "summary": "Grade 10 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing flexible descriptions of motion and curves.",
+        "resourceLabel": "YouTube: Algebra: An Introduction to Parametric Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Parametric%20Equations%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Leibniz rule allow a mathematician to find?",
+            "q": "What do parametric equations use to describe a curve?",
             "options": [
-              "The area under a curve with no reference to a parameter",
-              "The radius of convergence of a power series",
-              "The exact numerical value of any definite integral",
-              "The derivative of an integral whose integrand depends on a parameter"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to the Leibniz rule, in what order are differentiation and integration typically applied?",
-            "options": [
-              "Neither operation is actually needed",
-              "Integrate first, then differentiate the final numerical answer",
-              "Differentiate and integrate simultaneously with no defined order",
-              "Differentiate the integrand with respect to the parameter, then integrate the result"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might the Leibniz rule turn a difficult integral into a more manageable problem?",
-            "options": [
-              "It removes the parameter from the problem entirely with no benefit",
-              "Differentiating under the integral sign can simplify an integrand that was otherwise hard to integrate directly",
-              "It always makes every integral impossible to solve",
-              "It has no effect on the difficulty of an integral"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What must an integrand generally satisfy for the Leibniz rule to apply straightforwardly?",
-            "options": [
-              "The integrand must be a constant with no parameter at all",
-              "The integrand must have no variable of integration",
-              "Reasonable smoothness conditions, such as continuity, in both the variable of integration and the parameter",
-              "No conditions whatsoever, since the rule always applies universally"
+              "Only the slope of a line",
+              "Only whole numbers with no variables",
+              "Separate equations for x and y in terms of a third parameter",
+              "Only a single equation with no parameter"
             ],
             "answer": 2
           },
           {
-            "q": "The Leibniz rule is a useful technique in which broader area of mathematical practice?",
+            "q": "What is the third variable in parametric equations often called?",
             "options": [
-              "Evaluating parameter-dependent integrals in advanced calculus and physics",
-              "Simple counting and combinatorics alone",
-              "Elementary arithmetic with whole numbers only",
-              "Basic geometry with no calculus involved"
+              "The exponent",
+              "The coefficient",
+              "The determinant",
+              "The parameter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might parametric equations be useful for describing motion?",
+            "options": [
+              "They eliminate the need to track any position",
+              "They can only describe a single fixed point",
+              "They can show how both x and y positions change over time",
+              "They cannot be used to describe any motion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If x = t and y = t^2, what shape would this parametric equation likely trace?",
+            "options": [
+              "A parabola",
+              "A single point with no movement",
+              "A perfect circle",
+              "A straight horizontal line only"
             ],
             "answer": 0
+          },
+          {
+            "q": "Parametric equations are especially useful in fields such as ___.",
+            "options": [
+              "Only measuring temperature",
+              "Only simple counting problems",
+              "Physics, for describing the path of a moving object",
+              "Only basic arithmetic"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -32017,62 +32116,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Multivariable Extensions and Advanced Techniques",
-        "summary": "Grade 12 Calculus strand review: students revisit the envelope theorem, the Hessian matrix and second-derivative test, gradient vectors and directional derivatives, arc length of a polar curve, the limit comparison test, Abels Theorem, the midpoint rule, Bessel functions, and the Leibniz rule.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: An Introduction to Conic Sections — Ellipses and Hyperbolas",
+        "summary": "Grade 9 Math strand: conic sections are curves formed by slicing a cone at different angles, including circles, ellipses, parabolas, and hyperbolas, each with distinct equations and real-world applications.",
+        "resourceLabel": "YouTube: Geometry: An Introduction to Conic Sections — Ellipses and Hyperbolas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20Conic%20Sections%20%E2%80%94%20Ellipses%20and%20Hyperbolas%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the envelope theorem describe?",
+            "q": "What are conic sections?",
             "options": [
-              "A rule for counting whole numbers only",
-              "A method for graphing a single linear function",
-              "How the optimal value of a constrained optimization problem changes as a parameter changes",
-              "The exact solution of any equation with no parameters"
+              "A method for solving linear equations",
+              "A type of algebraic expression only",
+              "A type of matrix",
+              "Curves formed by slicing a cone at different angles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a type of conic section?",
+            "options": [
+              "An ellipse",
+              "A pentagon",
+              "A rhombus",
+              "A trapezoid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What shape does an ellipse resemble?",
+            "options": [
+              "A straight line",
+              "A triangle",
+              "A stretched or elongated circle",
+              "A perfect square"
             ],
             "answer": 2
           },
           {
-            "q": "What does the Hessian matrix collect?",
+            "q": "What distinguishes a hyperbola from an ellipse?",
             "options": [
-              "The second-order partial derivatives of a multivariable function",
-              "The constants found within the function",
-              "Only the first-order partial derivatives",
-              "A list of the functions input values"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the gradient vector of a function consist of?",
-            "options": [
-              "A list of the functions input variables only",
-              "A single number representing the functions maximum value",
-              "A matrix of second-order derivatives",
-              "A vector of the functions partial derivatives"
+              "A hyperbola is identical to a straight line",
+              "A hyperbola has no equation at all",
+              "A hyperbola is always a closed shape like a circle",
+              "A hyperbola consists of two separate curves that open away from each other"
             ],
             "answer": 3
           },
           {
-            "q": "What does the limit comparison test determine?",
+            "q": "Conic sections have real-world applications in fields such as ___.",
             "options": [
-              "Whether a series converges or diverges by comparing it to a series of known behaviour",
-              "The derivative of a series term by term",
-              "The exact numerical sum of any series",
-              "The domain of a function"
+              "Astronomy, describing the orbits of planets",
+              "Only cooking and recipes",
+              "Only music composition",
+              "Only language arts"
             ],
             "answer": 0
-          },
-          {
-            "q": "Bessel functions arise as solutions to which type of equation?",
-            "options": [
-              "An equation with no variables at all",
-              "A simple first-order linear equation with no special structure",
-              "A basic algebraic equation with no derivatives",
-              "Bessels differential equation, a second-order differential equation"
-            ],
-            "answer": 3
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
@@ -32503,63 +32603,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Line Integrals of Scalar Fields — Mass and Average Value Along a Curve",
-        "summary": "Grade 12 Calculus strand: the line integral of a scalar field integrates a function of position along a curve with respect to arc length, allowing calculations such as the total mass of a wire with variable density or the average value of a function along a path.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: An Introduction to the Derivative as a Rate of Change",
+        "summary": "Grade 9 Math strand: the derivative measures the instantaneous rate of change of a function at a given point, extending the idea of slope from straight lines to curves, a foundational concept in calculus.",
+        "resourceLabel": "YouTube: Calculus Preview: An Introduction to the Derivative as a Rate of Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20An%20Introduction%20to%20the%20Derivative%20as%20a%20Rate%20of%20Change%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the line integral of a scalar field integrate?",
+            "q": "What does a derivative measure?",
             "options": [
-              "A function of position along a curve with respect to arc length",
-              "The area enclosed by a curve",
-              "A vector field along a closed surface only",
-              "A constant with no relationship to a curve"
+              "The instantaneous rate of change of a function at a point",
+              "The total area under a curve",
+              "Only the maximum value of a function",
+              "A fixed value that never changes"
             ],
             "answer": 0
           },
           {
-            "q": "What physical quantity can a scalar line integral compute for a wire with variable density?",
+            "q": "The concept of a derivative extends which earlier idea?",
             "options": [
-              "Its exact colour",
-              "Its total mass",
-              "Its electric charge only, with no other application",
-              "Its temperature at a single fixed point"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does a line integral of a scalar field differ from a line integral of a vector field, such as one used to compute work?",
-            "options": [
-              "The two types of line integral are mathematically identical in every way",
-              "A scalar line integral never involves a curve",
-              "A vector line integral cannot be used to compute work under any circumstances",
-              "A scalar line integral integrates a scalar-valued function rather than a vector field along the curve"
+              "Only the concept of area",
+              "Only the concept of volume",
+              "Only basic addition",
+              "Slope, from straight lines to curves"
             ],
             "answer": 3
           },
           {
-            "q": "What does dividing a scalar line integral by the total arc length of the curve produce?",
+            "q": "Why is the derivative considered a foundational concept in calculus?",
             "options": [
-              "The exact maximum value of the function on the curve",
-              "The average value of the function along that curve",
-              "The total mass of the curve regardless of density",
-              "A value unrelated to the function being integrated"
+              "It has no connection to any other mathematical concept",
+              "It only applies to whole numbers",
+              "It provides a way to analyze how functions change at any given instant",
+              "It eliminates the need to study functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a functions derivative is positive at a point, what does this suggest?",
+            "options": [
+              "The function is undefined everywhere",
+              "The function is increasing at that point",
+              "The function is always decreasing everywhere",
+              "The function has no value at that point"
             ],
             "answer": 1
           },
           {
-            "q": "How does the scalar line integral build on the earlier study of arc length in this course?",
+            "q": "Derivatives are used in real-world contexts to analyze things like ___.",
             "options": [
-              "It replaces arc length with volume",
-              "Arc length and scalar line integrals are entirely unrelated concepts",
-              "It ignores arc length entirely in its calculation",
-              "It weights each small piece of arc length by the value of a function at that point before summing"
+              "Only the taste of food",
+              "Only the colour of an object",
+              "Velocity, which is the rate of change of position",
+              "Only historical dates"
             ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Physics",
@@ -32747,62 +32847,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Laplacian Operator and Harmonic Functions",
-        "summary": "Grade 12 Calculus strand: the Laplacian operator combines the second partial derivatives of a multivariable function, and a function whose Laplacian equals zero everywhere is called harmonic, a property central to describing steady-state temperature distributions and other equilibrium phenomena.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: An Introduction to Parametric Equations",
+        "summary": "Grade 9 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing more flexible descriptions of motion and curves than a single equation.",
+        "resourceLabel": "YouTube: Algebra: An Introduction to Parametric Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Parametric%20Equations%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Laplacian operator combine?",
+            "q": "What do parametric equations use to describe a curve?",
             "options": [
-              "A single first derivative with no other terms",
-              "The second partial derivatives of a multivariable function",
-              "Only the first partial derivatives of a function",
-              "The original function values with no derivatives at all"
+              "Only a single equation with no parameter",
+              "Separate equations for x and y in terms of a third parameter",
+              "Only whole numbers with no variables",
+              "Only the slope of a line"
             ],
             "answer": 1
           },
           {
-            "q": "What is a harmonic function?",
+            "q": "What is the third variable in parametric equations often called?",
             "options": [
-              "A function that is never differentiable",
-              "A function whose Laplacian equals zero everywhere in its domain",
-              "A function whose Laplacian is always equal to one",
-              "A function defined only at a single point"
+              "The exponent",
+              "The coefficient",
+              "The parameter",
+              "The determinant"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What kind of physical situation is commonly modelled using harmonic functions?",
+            "q": "Why might parametric equations be useful for describing motion?",
             "options": [
-              "A situation with no physical interpretation whatsoever",
-              "A steady-state temperature distribution or other equilibrium phenomenon",
-              "A situation with constant, rapid change and no equilibrium",
-              "A purely discrete, non-continuous process"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does the Laplacian operator relate to the earlier study of the divergence of a vector field in this course?",
-            "options": [
-              "The Laplacian eliminates the need for the concept of a gradient",
-              "The Laplacian and divergence share no mathematical relationship",
-              "Divergence only applies to scalar functions, never vector fields",
-              "The Laplacian of a function can be understood as the divergence of that functions gradient"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In which broader area of applied mathematics does the Laplacian operator commonly appear?",
-            "options": [
-              "The study of diffusion, heat flow, and other equilibrium processes",
-              "Elementary counting problems in combinatorics",
-              "Basic single-variable arithmetic with no derivatives",
-              "Simple linear equations with one variable"
+              "They can show how both x and y positions change over time",
+              "They eliminate the need to track any position",
+              "They cannot be used to describe any motion",
+              "They can only describe a single fixed point"
             ],
             "answer": 0
+          },
+          {
+            "q": "If x = t and y = t^2, what shape would this parametric equation likely trace?",
+            "options": [
+              "A straight horizontal line only",
+              "A parabola",
+              "A perfect circle",
+              "A single point with no movement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parametric equations are especially useful in fields such as ___.",
+            "options": [
+              "Only measuring temperature",
+              "Only simple counting problems",
+              "Physics, for describing the path of a moving object",
+              "Only basic arithmetic"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -32871,60 +32972,60 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "The Anti-Novel: Nouveau Roman and the Rejection of Convention",
-        "summary": "Grade 12 English strand: the anti-novel, most closely associated with the French Nouveau Roman movement, rejects traditional elements of fiction such as a clear plot, consistent characters, and an authoritative narrator, instead foregrounding perception, fragmentation, and the instability of meaning.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literature: The Mock-Epic and Satirical Verse",
+        "summary": "Grade 10 English strand: a mock-epic applies the grand style, conventions, and elevated language of classical epic poetry to a trivial or ordinary subject, creating satirical humour through the exaggerated mismatch between form and content.",
+        "resourceLabel": "YouTube: Literature: The Mock-Epic and Satirical Verse",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Mock-Epic%20and%20Satirical%20Verse%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the anti-novel typically reject?",
+            "q": "What does a mock-epic apply to a trivial or ordinary subject?",
             "options": [
-              "All use of written language",
-              "Every form of punctuation",
-              "The existence of any reader whatsoever",
-              "Traditional elements such as a clear plot, consistent characters, and an authoritative narrator"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which French literary movement is most closely associated with the anti-novel?",
-            "options": [
-              "The Romantic movement",
-              "Naturalism",
-              "Symbolist theatre alone",
-              "The Nouveau Roman"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the anti-novel often foreground instead of conventional plot?",
-            "options": [
-              "A strictly chronological, linear timeline",
-              "Perception, fragmentation, and the instability of meaning",
-              "An entirely predictable, formulaic structure",
-              "A single unambiguous moral lesson"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a Nouveau Roman writer avoid giving characters a stable, consistent identity?",
-            "options": [
-              "Because writing consistent characters is not technically possible",
-              "To challenge readers expectations about coherent selfhood and traditional characterization",
-              "Because readers always prefer inconsistent characters",
-              "Because publishers forbid consistent characters"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How might reading an anti-novel differ from reading a conventional realist novel?",
-            "options": [
-              "A reader must tolerate ambiguity and piece together meaning without a reliable guiding narrator",
-              "An anti-novel always provides more narrative certainty than a realist novel",
-              "The two reading experiences are identical in every way",
-              "Reading an anti-novel requires no interpretation at all"
+              "The grand style and conventions of classical epic poetry",
+              "A completely plain, unadorned style with no formal elements",
+              "A style with no connection to poetry at all",
+              "A strictly factual, journalistic style"
             ],
             "answer": 0
+          },
+          {
+            "q": "How does a mock-epic typically create humour?",
+            "options": [
+              "Through the exaggerated mismatch between elevated form and a trivial subject",
+              "By using no exaggeration of any kind",
+              "By avoiding any reference to epic conventions",
+              "By presenting the subject with complete seriousness and no irony"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of language does a mock-epic typically borrow from classical epic poetry?",
+            "options": [
+              "Language limited to legal terminology",
+              "Elevated, grand language",
+              "Language with no rhetorical elements",
+              "Extremely simple, childlike language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the general purpose of satirical verse such as a mock-epic?",
+            "options": [
+              "To criticize or poke fun at a subject through exaggeration and irony",
+              "To provide a completely neutral, unbiased account of a subject",
+              "To remove any critical perspective from the writing",
+              "To eliminate all humour from the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might exaggerated formality make a trivial subject seem humorous in a mock-epic?",
+            "options": [
+              "Mock-epics never use any form of irony",
+              "Formality always makes a subject seem more important with no comic effect",
+              "Trivial subjects cannot be paired with formal language",
+              "The contrast between serious tone and minor subject matter creates comic irony"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -32990,63 +33091,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Taylor Series for Functions of Two Variables",
-        "summary": "Grade 12 Calculus strand: the Taylor series of a function of two variables extends the single-variable Taylor expansion by using partial derivatives evaluated at a point, producing a polynomial approximation that incorporates the functions curvature in every direction near that point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: Synthetic Division of Polynomials",
+        "summary": "Grade 9 Math strand: synthetic division is a shortcut method for dividing a polynomial by a linear binomial of the form x-a, using only the coefficients to quickly find the quotient and remainder.",
+        "resourceLabel": "YouTube: Algebra: Synthetic Division of Polynomials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Synthetic%20Division%20of%20Polynomials%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the two-variable Taylor series use in place of ordinary derivatives from the single-variable case?",
+            "q": "What does synthetic division provide a shortcut for?",
             "options": [
-              "Random coefficients with no relation to the function",
-              "A single derivative taken with respect to one variable only",
-              "Only the original function values, with no derivatives",
-              "Partial derivatives evaluated at a given point"
+              "Multiplying two polynomials together",
+              "Finding the area of a triangle",
+              "Solving a system of linear equations",
+              "Dividing a polynomial by a linear binomial of the form x-a"
             ],
             "answer": 3
           },
           {
-            "q": "What does a two-variable Taylor approximation aim to capture near a given point?",
+            "q": "What does synthetic division primarily use in its calculations?",
             "options": [
-              "Only the functions behaviour infinitely far from the point",
-              "The functions curvature in every direction near that point",
-              "A single straight-line approximation with no curvature at all",
-              "The functions value at every point in its entire domain equally well"
+              "Only the variable names",
+              "Only the coefficients of the polynomial",
+              "Only the exponents of the polynomial",
+              "Only the constant term, with nothing else"
             ],
             "answer": 1
           },
           {
-            "q": "Which earlier multivariable concept from this course is directly used in constructing the second-order terms of a two-variable Taylor series?",
+            "q": "What two results does synthetic division produce?",
             "options": [
-              "The ratio test for series convergence",
-              "The trapezoid rule for numerical integration",
-              "The Hessian matrix of second-order partial derivatives",
-              "The concept of an indefinite integral alone"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the two-variable Taylor series generalize the single-variable Taylor and Maclaurin series studied earlier in this course?",
-            "options": [
-              "It extends the same idea of local polynomial approximation to functions depending on more than one variable",
-              "It has no relationship to the single-variable Taylor series",
-              "It removes the need for any derivatives whatsoever",
-              "It only applies to functions of exactly one variable"
+              "A quotient and a remainder",
+              "Only a single sum",
+              "Only an average",
+              "Only a product"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a two-variable Taylor approximation be useful near a critical point identified using the Hessian matrix?",
+            "q": "Synthetic division can only be used when dividing by a polynomial of what form?",
             "options": [
-              "Critical points cannot be approximated using Taylor series",
-              "It provides a more detailed local model of the functions shape than the Hessian classification alone",
-              "It always produces a less accurate result than a single point evaluation",
-              "It has no use near a critical point"
+              "A linear binomial, such as x-a",
+              "Only a quadratic expression",
+              "Any polynomial of any degree",
+              "Only a constant with no variable"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Why do students learn synthetic division alongside long division of polynomials?",
+            "options": [
+              "It replaces the need to ever multiply polynomials",
+              "It cannot be used to check any results",
+              "It offers a faster, more efficient method for a specific type of division",
+              "It always produces a different answer than long division"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Physics",
@@ -33235,63 +33336,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Gaussian Quadrature — Optimal Nodes for Numerical Integration",
-        "summary": "Grade 12 Calculus strand: Gaussian quadrature approximates a definite integral by evaluating the integrand at a small number of strategically chosen, unevenly spaced nodes, achieving greater accuracy for a given number of evaluations than evenly spaced methods such as the midpoint or trapezoid rule.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Foundations: The Product and Quotient Rules for Derivatives",
+        "summary": "Grade 10 Math strand: the product rule and quotient rule provide methods for differentiating a function formed by multiplying or dividing two other functions, extending the basic derivative rules introduced with limits and the power rule.",
+        "resourceLabel": "YouTube: Calculus Foundations: The Product and Quotient Rules for Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Foundations%3A%20The%20Product%20and%20Quotient%20Rules%20for%20Derivatives%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinguishes Gaussian quadrature from evenly spaced numerical integration methods?",
+            "q": "What does the product rule allow you to differentiate?",
             "options": [
-              "It evaluates the integrand at strategically chosen, unevenly spaced nodes",
-              "It requires evenly spaced nodes exactly like the trapezoid rule",
-              "It avoids evaluating the integrand at any point",
-              "It only works for functions with no curvature"
+              "Only a single constant term",
+              "A function formed by adding two constants",
+              "Only trigonometric ratios with no functions involved",
+              "A function formed by multiplying two other functions together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the quotient rule allow you to differentiate?",
+            "options": [
+              "Only whole numbers with no functions",
+              "A function formed by dividing one function by another",
+              "A function with no variables at all",
+              "A function multiplied by a constant only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The product and quotient rules build directly on which earlier calculus concept?",
+            "options": [
+              "The basic derivative and the power rule",
+              "Only basic arithmetic with no calculus involved",
+              "The quadratic formula",
+              "The Pythagorean Theorem"
             ],
             "answer": 0
           },
           {
-            "q": "What advantage does Gaussian quadrature typically offer over methods such as the midpoint or trapezoid rule?",
+            "q": "Why are the product and quotient rules necessary in calculus?",
             "options": [
-              "Greater accuracy for a given number of function evaluations",
-              "It always requires far more evaluations for the same accuracy",
-              "It cannot be applied to any polynomial function",
-              "It eliminates the need for a definite integral altogether"
+              "Many functions cannot be differentiated using the power rule alone",
+              "They replace the need to ever find a derivative",
+              "They eliminate the need for the power rule entirely",
+              "They only apply to functions with no variables"
             ],
             "answer": 0
           },
           {
-            "q": "How are the node locations in Gaussian quadrature typically determined?",
+            "q": "Using differentiation rules like the product and quotient rules helps mathematicians analyze ___.",
             "options": [
-              "Through the roots of a specific family of orthogonal polynomials",
-              "By evenly dividing the interval into equal pieces",
-              "By always using only the endpoints of the interval",
-              "By selecting points completely at random"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might an engineer prefer Gaussian quadrature when computational evaluations of a function are expensive?",
-            "options": [
-              "It can achieve high accuracy while minimizing the total number of function evaluations required",
-              "Gaussian quadrature cannot be used in engineering applications",
-              "Computational cost is irrelevant to choosing a numerical method",
-              "Gaussian quadrature always requires the most evaluations of any numerical method"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does Gaussian quadrature relate to the earlier numerical integration methods studied in this course, such as Simpsons rule?",
-            "options": [
-              "Simpsons rule requires no evaluation points at all",
-              "Gaussian quadrature can only be used when an antiderivative is already known",
-              "Both approximate a definite integral without requiring an explicit antiderivative, but choose evaluation points differently",
-              "The two methods share no mathematical relationship"
+              "Only basic geometry with no functions",
+              "Only whole number arithmetic",
+              "How more complex combined functions change and behave",
+              "Only the colour of a graph"
             ],
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -33539,60 +33640,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Physics: The Sagnac Effect and Ring Laser Gyroscopes",
-        "summary": "Grade 12 Physics strand: the Sagnac effect produces a measurable phase shift between two light beams travelling in opposite directions around a rotating closed loop, a principle exploited in ring laser gyroscopes to precisely detect rotation without any external reference point.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Chemistry: Le Chatelier’s Principle",
+        "summary": "Grade 10 Science strand: Le Chatelier’s principle states that when a system at equilibrium is disturbed, it shifts to counteract the disturbance and establish a new equilibrium.",
+        "resourceLabel": "YouTube: Chemistry: Le Chatelier’s Principle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Le%20Chatelier%E2%80%99s%20Principle%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Sagnac effect produce?",
+            "q": "What does Le Chatelier’s principle describe?",
             "options": [
-              "A measurable phase shift between two light beams travelling in opposite directions around a rotating loop",
-              "A sudden increase in the speed of light itself",
-              "A permanent change in the colour of light passing through a loop",
-              "A magnetic field generated by rotating light"
+              "How light travels through a vacuum",
+              "A concept unrelated to chemistry",
+              "How atoms are structured inside a nucleus",
+              "How a system at equilibrium shifts to counteract a disturbance"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What technology exploits the Sagnac effect to detect rotation?",
+            "q": "Does a system at equilibrium respond to a disturbance by shifting to a new equilibrium?",
             "options": [
-              "A simple mechanical compass",
-              "A piezoelectric sensor",
-              "A ring laser gyroscope",
-              "A barometer"
+              "No, systems at equilibrium never respond to any disturbance",
+              "A concept unrelated to Le Chatelier’s principle",
+              "Yes",
+              "Equilibrium always remains completely unchanged no matter what happens"
             ],
             "answer": 2
           },
           {
-            "q": "What is required to produce a Sagnac phase shift?",
+            "q": "If more reactant is added to a reaction at equilibrium, which direction does the reaction shift?",
             "options": [
-              "A loop made only of a non-conducting material",
-              "The complete absence of any light source",
-              "A loop that remains perfectly stationary at all times",
-              "Rotation of the closed loop through which the two counter-propagating light beams travel"
+              "Toward the reactants, away from the products",
+              "The reaction does not shift in any direction",
+              "Toward the products, to use up the added reactant",
+              "A concept unrelated to equilibrium"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is a ring laser gyroscope valuable for navigation systems, such as those in aircraft?",
+            "q": "Why might increasing the temperature of an exothermic reaction at equilibrium shift it toward the reactants?",
             "options": [
-              "It can precisely detect rotation without relying on any external reference point",
-              "It has no practical navigational application",
-              "It can only detect motion in a straight line, never rotation",
-              "It requires a constant external satellite signal to function at all"
+              "This concept has no connection to chemistry",
+              "Exothermic reactions never reach any state of equilibrium",
+              "Added heat acts like an extra product, so the system shifts to counteract that increase",
+              "Temperature changes never have any effect on a reaction at equilibrium"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Le Chatelier’s principle useful for industrial chemists producing a specific chemical?",
+            "options": [
+              "It helps them adjust conditions like pressure and temperature to maximize the yield of a desired product",
+              "Le Chatelier’s principle has no practical industrial application",
+              "Industrial processes never rely on chemical equilibrium at all",
+              "This concept has no relevance to chemistry"
             ],
             "answer": 0
-          },
-          {
-            "q": "How does the Sagnac effect connect to the broader study of light and relativity in this course?",
-            "options": [
-              "It shows that light behaves identically regardless of any rotation",
-              "It has no connection to the study of light or relativity",
-              "It disproves the constancy of the speed of light",
-              "It demonstrates a measurable optical consequence of rotation, connecting classical optics to relativistic reasoning about light propagation"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -33723,63 +33824,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Elliptic Integrals and the Pendulum Problem",
-        "summary": "Grade 12 Calculus strand: elliptic integrals arise when calculating quantities such as arc length along an ellipse or the exact period of a pendulum swinging through a large angle, and generally cannot be expressed using elementary functions, requiring specialized methods or numerical evaluation.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: Solving Systems of Equations in Three Variables",
+        "summary": "Grade 9 Math strand: a system of equations in three variables can be solved by systematically eliminating one variable at a time until the system reduces to two equations in two variables, then continuing to substitute back to find all three values.",
+        "resourceLabel": "YouTube: Algebra: Solving Systems of Equations in Three Variables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Systems%20of%20Equations%20in%20Three%20Variables%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "In what classic physical problem do elliptic integrals commonly arise?",
+            "q": "What is the goal when solving a system of three equations with three variables?",
             "options": [
-              "Finding the area of a perfect circle",
-              "Finding the volume of a rectangular box",
-              "Calculating a simple linear velocity",
-              "Finding the exact period of a pendulum swinging through a large angle"
+              "To ignore two of the three equations completely",
+              "To combine all equations into a single variable with no solution",
+              "To find the values of all three variables that satisfy every equation",
+              "To eliminate every variable entirely with no solution remaining"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a common first step in solving a three-variable system?",
+            "options": [
+              "Deleting one of the equations without using it",
+              "Multiplying all three equations by zero",
+              "Immediately guessing random values for each variable",
+              "Eliminating one variable to reduce the system to two equations in two variables"
             ],
             "answer": 3
           },
           {
-            "q": "What geometric quantity is also classically associated with elliptic integrals?",
+            "q": "How many independent equations are generally needed to solve for three unique variables?",
             "options": [
-              "The arc length along an ellipse",
-              "The area of a square",
-              "The volume of a sphere alone",
-              "The circumference of a perfect circle only"
+              "Exactly five equations",
+              "Only one equation",
+              "Three independent equations",
+              "No equations are needed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean if a three-variable system has no solution?",
+            "options": [
+              "The equations are inconsistent and their planes do not share a common intersection point",
+              "It means the system was solved incorrectly by definition",
+              "It means all three variables equal zero",
+              "The system always has infinitely many solutions instead"
             ],
             "answer": 0
           },
           {
-            "q": "Why are elliptic integrals considered mathematically special?",
+            "q": "Systems of equations in three variables can be used to model real-world situations involving ___.",
             "options": [
-              "They are identical to ordinary polynomial integrals",
-              "They can always be evaluated using basic algebra alone",
-              "They never require any numerical methods",
-              "They generally cannot be expressed using elementary functions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How are elliptic integrals typically evaluated in practice when no elementary closed form exists?",
-            "options": [
-              "They are always solved using only mental arithmetic",
-              "They are simply left unsolved with no approach at all",
-              "They require no calculation of any kind",
-              "Using specialized methods or numerical approximation"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the small-angle approximation for a pendulum relate to the need for elliptic integrals?",
-            "options": [
-              "A pendulums period never depends on its swing angle at all",
-              "The small-angle approximation also requires elliptic integrals",
-              "The small-angle approximation avoids elliptic integrals, but a large-angle pendulum requires them for an exact period",
-              "Elliptic integrals are needed regardless of the pendulums angle"
+              "Only situations involving geometry, never algebra",
+              "Situations with no numerical relationships at all",
+              "Three unknown quantities that are related by multiple conditions",
+              "Only situations with a single unknown quantity"
             ],
             "answer": 2
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -33968,63 +34069,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: The Existence and Uniqueness Theorem for Differential Equations",
-        "summary": "Grade 12 Calculus strand: the existence and uniqueness theorem gives conditions, typically involving continuity of the differential equation and its derivative with respect to the dependent variable, under which an initial value problem is guaranteed to have exactly one solution near the initial point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: An Introduction to the Dot Product of Vectors",
+        "summary": "Grade 9 Math strand: the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and it can reveal the angle between two vectors.",
+        "resourceLabel": "YouTube: Geometry: An Introduction to the Dot Product of Vectors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20the%20Dot%20Product%20of%20Vectors%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the existence and uniqueness theorem guarantee, when its conditions are met?",
+            "q": "What type of value does the dot product of two vectors produce?",
             "options": [
-              "That a differential equation has infinitely many unrelated solutions",
-              "That every equation has exactly zero solutions",
-              "That no differential equation can ever be solved",
-              "That an initial value problem has exactly one solution near the initial point"
+              "A complex number",
+              "A new vector with a different direction",
+              "A matrix",
+              "A single scalar value"
             ],
             "answer": 3
           },
           {
-            "q": "What kind of problem does the existence and uniqueness theorem typically address?",
+            "q": "How is the dot product of two vectors calculated?",
             "options": [
-              "A definite integral with no initial condition",
-              "A geometry problem involving only static shapes",
-              "An initial value problem for a differential equation",
-              "A basic algebraic equation with no derivatives"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What property of the differential equation is typically required for the theorem to apply?",
-            "options": [
-              "Continuity of the equation and its derivative with respect to the dependent variable",
-              "The equation must have no dependent variable at all",
-              "The equation must be discontinuous everywhere",
-              "The equation must always be exactly linear with no exceptions"
+              "By multiplying corresponding components and summing the results",
+              "By subtracting one vector from the other",
+              "By adding the magnitudes of each vector only",
+              "By dividing one vector by the other"
             ],
             "answer": 0
           },
           {
-            "q": "Why is a guarantee of uniqueness valuable when solving a real-world differential equation model?",
+            "q": "What can the dot product help determine about two vectors?",
             "options": [
-              "It confirms that the predicted solution is the only one consistent with the given initial condition, supporting confident interpretation",
-              "Uniqueness has no practical value in modelling",
-              "Uniqueness guarantees that no solution actually exists",
-              "A model is more useful when it has many contradictory solutions"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the existence and uniqueness theorem relate to earlier numerical methods for differential equations studied in this course, such as Eulers method?",
-            "options": [
-              "It proves that numerical methods can never approximate a real solution",
-              "It shows that Eulers method always produces an incorrect result",
-              "It provides theoretical assurance that the solution numerical methods approximate is well defined and unique",
-              "It has no connection to numerical solution methods"
+              "Their colour",
+              "Their location on a map",
+              "The angle between them",
+              "Only their individual lengths, never their relationship"
             ],
             "answer": 2
+          },
+          {
+            "q": "If the dot product of two nonzero vectors equals zero, what does this suggest?",
+            "options": [
+              "The vectors cannot be graphed",
+              "The vectors have no length at all",
+              "The vectors point in exactly the same direction",
+              "The vectors are perpendicular to each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The dot product is a useful tool in fields such as ___.",
+            "options": [
+              "Physics, for calculating work done by a force",
+              "Only music theory",
+              "Only literary analysis",
+              "Only culinary arts"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
@@ -34213,63 +34314,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Double Integrals in Polar Coordinates",
-        "summary": "Grade 12 Calculus strand: evaluating a double integral over a circular or annular region is often simplified by converting to polar coordinates, replacing the area element dx dy with r dr dtheta to account for how area scales with distance from the origin.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: An Introduction to Mathematical Proof by Induction",
+        "summary": "Grade 9 Math strand: mathematical induction proves a statement is true for all natural numbers by first establishing a base case and then showing that if the statement holds for one value, it must also hold for the next.",
+        "resourceLabel": "YouTube: Algebra: An Introduction to Mathematical Proof by Induction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20An%20Introduction%20to%20Mathematical%20Proof%20by%20Induction%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Why might a double integral be converted to polar coordinates?",
+            "q": "What does mathematical induction prove?",
             "options": [
-              "To avoid ever using an integral sign",
-              "To make every integral impossible to evaluate",
-              "To simplify integration over a circular or annular region",
-              "Polar coordinates can only be used for one-dimensional problems"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What replaces the area element dx dy when converting a double integral to polar coordinates?",
-            "options": [
-              "dx dy remains unchanged in polar coordinates",
-              "r dr dtheta",
-              "theta dr dx",
-              "A constant with no relationship to r or theta"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does the extra factor of r appear in the polar area element?",
-            "options": [
-              "It corrects for a units conversion between radians and degrees only",
-              "It has no mathematical justification",
-              "It accounts for how a small change in angle sweeps out more area farther from the origin",
-              "It is an arbitrary constant with no geometric meaning"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does converting to polar coordinates relate to the earlier study of double integrals in Cartesian coordinates?",
-            "options": [
-              "Polar and Cartesian double integrals compute entirely different quantities",
-              "The same idea of summing values over small area elements is retained, adapted to a coordinate system suited to circular symmetry",
-              "Cartesian double integrals can never be converted to polar form",
-              "Polar coordinates eliminate the need for double integrals"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For what type of region is a polar double integral especially well suited?",
-            "options": [
-              "A region with circular or radial symmetry, such as a disk or an annulus",
-              "A perfectly rectangular region with no curved boundary",
-              "A region with no defined boundary at all",
-              "A one-dimensional line segment"
+              "That a statement is true for all natural numbers",
+              "That a statement is false for every number",
+              "That every polynomial can be factored",
+              "That a single equation has no solution"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is the first step in a proof by induction called?",
+            "options": [
+              "The final conclusion",
+              "The remainder",
+              "The coefficient",
+              "The base case"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What must be shown in the inductive step of a proof by induction?",
+            "options": [
+              "That the statement is false for every value tested",
+              "That no base case is ever required",
+              "That if the statement holds for one value, it also holds for the next value",
+              "That the statement only applies to negative numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the base case an essential part of a proof by induction?",
+            "options": [
+              "It only applies to even numbers",
+              "It establishes the starting point that anchors the entire chain of reasoning",
+              "It has no importance to the overall proof",
+              "It replaces the need for an inductive step entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mathematical induction is often compared to which everyday image?",
+            "options": [
+              "A random guess with no logical structure",
+              "A single isolated event with no connections",
+              "A chain of falling dominoes, where each one knocks over the next",
+              "A flat, unchanging line with no pattern"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Calculus: Integrals"
+        ]
       },
       {
         "subject": "Physics",
@@ -34456,60 +34556,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Vector Calculus, Series, and Differential Equations",
-        "summary": "Grade 12 Calculus strand review: students revisit arc length of a parametric curve, line integrals of scalar fields, the Laplacian operator and harmonic functions, Taylor series for functions of two variables, and Gaussian quadrature.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors: Scalar and Vector Projections",
+        "summary": "Grade 10 Math strand: the scalar projection of one vector onto another measures how much of the first vector points in the direction of the second, while the vector projection expresses that amount as a vector itself, both calculated using the dot product.",
+        "resourceLabel": "YouTube: Vectors: Scalar and Vector Projections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Scalar%20and%20Vector%20Projections%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "How is a parametric curve typically defined?",
+            "q": "What does a scalar projection measure?",
             "options": [
-              "Only by a table of coordinates with no formula",
-              "By separate functions x of t and y of t, both depending on a parameter t",
-              "By a function that must always be linear",
-              "By a single equation with no parameter involved"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the line integral of a scalar field integrate?",
-            "options": [
-              "A vector field along a closed surface only",
-              "A function of position along a curve with respect to arc length",
-              "A constant with no relationship to a curve",
-              "The area enclosed by a curve"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the Laplacian operator combine?",
-            "options": [
-              "A single first derivative with no other terms",
-              "The second partial derivatives of a multivariable function",
-              "Only the first partial derivatives of a function",
-              "The original function values with no derivatives at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the two-variable Taylor series use in place of ordinary derivatives from the single-variable case?",
-            "options": [
-              "Random coefficients with no relation to the function",
-              "A single derivative taken with respect to one variable only",
-              "Only the original function values, with no derivatives",
-              "Partial derivatives evaluated at a given point"
+              "The angle between two lines only",
+              "The number of dimensions in a vector space",
+              "The total area between two vectors",
+              "How much of one vector points in the direction of another"
             ],
             "answer": 3
           },
           {
-            "q": "What distinguishes Gaussian quadrature from evenly spaced numerical integration methods?",
+            "q": "How does a vector projection differ from a scalar projection?",
             "options": [
-              "It requires evenly spaced nodes exactly like the trapezoid rule",
-              "It evaluates the integrand at strategically chosen, unevenly spaced nodes",
-              "It avoids evaluating the integrand at any point",
-              "It only works for functions with no curvature"
+              "A vector projection has no direction at all",
+              "A vector projection is always equal to zero",
+              "A vector projection expresses the projected amount as a vector, not just a magnitude",
+              "A vector projection ignores the direction of the original vector"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "What operation is used to calculate a projection between two vectors?",
+            "options": [
+              "The dot product",
+              "Division of the vectors magnitudes",
+              "The cross product only",
+              "Simple addition of the vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two vectors are perpendicular, what is the scalar projection of one onto the other?",
+            "options": [
+              "Equal to the magnitude of the longer vector",
+              "Always a negative number",
+              "Zero",
+              "Undefined in every case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Vector projections are useful in physics for calculating ___.",
+            "options": [
+              "The component of a force acting in a specific direction",
+              "The total colour of an object",
+              "The taste of a substance",
+              "The temperature of a system"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -34699,63 +34799,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Cauchy-Euler Equations and Variable-Coefficient Differential Equations",
-        "summary": "Grade 12 Calculus strand: a Cauchy-Euler equation is a linear differential equation whose coefficients are powers of the independent variable rather than constants, solved by substituting a trial solution of the form x raised to a power r to reduce the equation to a polynomial characteristic equation.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Data Management: An Introduction to Conditional Probability",
+        "summary": "Grade 9 Math strand: conditional probability calculates the likelihood of an event occurring given that another event has already happened, refining the probability estimate based on new information.",
+        "resourceLabel": "YouTube: Data Management: An Introduction to Conditional Probability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20An%20Introduction%20to%20Conditional%20Probability%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinguishes a Cauchy-Euler equation from the constant-coefficient equations studied earlier?",
+            "q": "What does conditional probability calculate?",
             "options": [
-              "It can only be solved numerically, never analytically",
-              "It has no derivatives of any kind",
-              "It is always a first-order equation",
-              "Its coefficients are powers of the independent variable rather than constants"
+              "The likelihood of an event occurring given that another event has already happened",
+              "The total number of possible outcomes only",
+              "The average of two unrelated probabilities",
+              "The probability of an event with no other information considered"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does new information affect a conditional probability calculation?",
+            "options": [
+              "It always makes an event impossible",
+              "New information never changes any probability calculation",
+              "It has no mathematical effect on probability",
+              "It can refine and change the probability estimate for the second event"
             ],
             "answer": 3
           },
           {
-            "q": "What trial solution is typically substituted to solve a Cauchy-Euler equation?",
+            "q": "If drawing a card from a standard deck, how might conditional probability apply?",
             "options": [
-              "A constant function with no variable",
-              "A trial solution is never used for this type of equation",
-              "x raised to an unknown power r",
-              "The sine of x only"
+              "Ignoring the type of card drawn entirely",
+              "Assuming every card has an identical fixed probability with no conditions",
+              "Calculating the probability of drawing a king, given that the card drawn is a face card",
+              "Calculating the probability without ever looking at the deck"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of equation for r results after substituting the trial solution into a Cauchy-Euler equation?",
+            "q": "Conditional probability is often written using what kind of notation?",
             "options": [
-              "A polynomial characteristic equation in r",
-              "A first-degree equation with no solutions",
-              "An equation with no relationship to r",
-              "A differential equation identical to the original"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a Cauchy-Euler equation arise in physical applications despite having variable coefficients?",
-            "options": [
-              "Certain physical systems, such as some involving radial symmetry, naturally produce equations with power-law coefficients",
-              "Cauchy-Euler equations only arise in purely abstract mathematics with no application",
-              "Every physical system produces exactly the same differential equation",
-              "Physical systems never produce variable-coefficient equations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does solving a Cauchy-Euler equation compare to solving a constant-coefficient linear equation studied earlier?",
-            "options": [
-              "Cauchy-Euler equations require no characteristic equation at all",
-              "Both reduce to finding roots of a characteristic equation, though the substitution differs",
-              "Constant-coefficient equations cannot be solved using a characteristic equation",
-              "The two methods share no similarities whatsoever"
+              "Roman numerals exclusively",
+              "P(A given B), showing the probability of A occurring given B",
+              "A single unlabeled percentage",
+              "Only whole numbers with no variables"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why is conditional probability useful in real-world contexts, like medical testing?",
+            "options": [
+              "It has no real-world applications",
+              "It always guarantees a certain outcome with no uncertainty",
+              "It helps estimate the likelihood of a condition given a specific test result",
+              "It is only theoretical with no practical use"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Probability"
       },
       {
         "subject": "Physics",
@@ -35429,63 +35529,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Romberg Integration and Richardson Extrapolation",
-        "summary": "Grade 12 Calculus strand: Romberg integration improves the accuracy of the trapezoid rule by combining successive trapezoid-rule estimates using Richardson extrapolation, systematically eliminating leading error terms to converge rapidly to the true value of a definite integral.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: An Introduction to Limits",
+        "summary": "Grade 9 Math strand: a limit describes the value a function approaches as its input gets closer to a specific point, forming the conceptual foundation for derivatives and the broader study of calculus.",
+        "resourceLabel": "YouTube: Calculus Preview: An Introduction to Limits",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20An%20Introduction%20to%20Limits%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What numerical integration method does Romberg integration build upon and improve?",
+            "q": "What does a limit describe?",
             "options": [
-              "The trapezoid rule",
-              "The bisection method for root-finding",
-              "The method of undetermined coefficients",
-              "Lagrange interpolation alone"
+              "The exact maximum value of any function",
+              "The value a function approaches as its input gets closer to a specific point",
+              "A fixed number that never changes across all functions",
+              "The total area under every curve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What foundational concept in calculus relies on the idea of a limit?",
+            "options": [
+              "Long division only",
+              "Simple counting",
+              "The derivative",
+              "Basic addition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a function have a limit at a point even if it is undefined at that exact point?",
+            "options": [
+              "Yes, a limit can exist even if the function itself is undefined there",
+              "Limits are unrelated to whether a function is defined",
+              "A function can never have any limit under any circumstance",
+              "No, a limit only exists if the function is defined at that exact point"
             ],
             "answer": 0
           },
           {
-            "q": "What technique combines successive estimates to improve accuracy in Romberg integration?",
+            "q": "As x approaches 2, what does the limit of the function f(x)=x+1 approach?",
             "options": [
-              "Random sampling of the integrand",
-              "A simple average with no weighting applied",
-              "Richardson extrapolation",
-              "Direct substitution with no combination of estimates"
+              "2",
+              "3",
+              "1",
+              "0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do mathematicians consider limits a foundational concept in calculus?",
+            "options": [
+              "They eliminate the need to study functions entirely",
+              "They only apply to whole numbers with no fractions",
+              "They provide a precise way to describe behaviour near a point without requiring the function be defined there",
+              "They have no connection to any other calculus concept"
             ],
             "answer": 2
-          },
-          {
-            "q": "What does Richardson extrapolation systematically eliminate in Romberg integration?",
-            "options": [
-              "The entire integral itself",
-              "All numerical estimates without producing a final result",
-              "The functions original definition",
-              "Leading error terms in the trapezoid-rule estimates"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does Romberg integrations accuracy typically compare to a single trapezoid-rule estimate?",
-            "options": [
-              "It is always less accurate than a single trapezoid estimate",
-              "It is always exactly as accurate and no more",
-              "It converges more rapidly to the true value of the integral",
-              "It cannot be compared to the trapezoid rule at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might Romberg integration be preferred over simply halving the step size repeatedly in the plain trapezoid rule?",
-            "options": [
-              "It requires no calculation of trapezoid-rule estimates whatsoever",
-              "It only works for a single, fixed step size",
-              "It produces a less accurate result than repeated halving",
-              "It combines estimates cleverly, achieving faster convergence than simple refinement alone"
-            ],
-            "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Calculus: Limits & Rates of Change"
       },
       {
         "subject": "Physics",
@@ -35674,58 +35774,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Inverse Laplace Transform and Solving Initial Value Problems",
-        "summary": "Grade 12 Calculus strand: the inverse Laplace transform converts a function of s back into a function of t, allowing a differential equation solved in the transformed domain using the Laplace transform to be translated back into its original time-domain solution.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Math Review: Advanced Algebra, Number Theory, and Calculus Preview",
+        "summary": "Grade 9 Math strand review: students revisit synthetic division, prime factorization, the Pythagorean trigonometric identity, three-variable systems, the dot product, mathematical induction, insurance and risk, conditional probability, and limits.",
+        "resourceLabel": "YouTube: Math Review: Advanced Algebra, Number Theory, and Calculus Preview",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Advanced%20Algebra%2C%20Number%20Theory%2C%20and%20Calculus%20Preview%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the inverse Laplace transform do?",
+            "q": "What does synthetic division provide a shortcut for?",
             "options": [
-              "Doubles the degree of a polynomial function",
-              "Converts a function of s back into a function of t",
-              "Converts a function of t into an unrelated function of x",
-              "Removes all variables from a function entirely"
+              "Finding the area of a triangle",
+              "Solving a system of linear equations",
+              "Dividing a polynomial by a linear binomial of the form x-a",
+              "Multiplying two polynomials together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Fundamental Theorem of Arithmetic state?",
+            "options": [
+              "Every integer has infinitely many different prime factorizations",
+              "Every integer greater than one has exactly one prime factorization, aside from order",
+              "Only even numbers can be factored into primes",
+              "Prime numbers do not exist"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the inverse Laplace transform applied after solving an equation in the s-domain?",
+            "q": "What does the Pythagorean trigonometric identity state?",
             "options": [
-              "To remove the s-domain solution without producing a final answer",
-              "To convert the solution into a purely graphical representation only",
-              "To eliminate the need for any differential equation entirely",
-              "To translate the solution back into its original time-domain form"
+              "Sine plus cosine always equals zero",
+              "Sine minus cosine always equals one",
+              "Tangent squared always equals negative one",
+              "Sine squared plus cosine squared of an angle equals one"
             ],
             "answer": 3
           },
           {
-            "q": "Which earlier-studied tool is the inverse Laplace transform paired with?",
+            "q": "What type of value does the dot product of two vectors produce?",
             "options": [
-              "The Laplace transform",
-              "The trapezoid rule",
-              "The bisection method",
-              "The chain rule for multivariable functions"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What type of problem is commonly solved using the Laplace transform and its inverse together?",
-            "options": [
-              "Problems involving only static, unchanging quantities",
-              "Problems with no reference to time at all",
-              "Purely geometric problems with no equations involved",
-              "Initial value problems for differential equations"
+              "A new vector with a different direction",
+              "A complex number",
+              "A matrix",
+              "A single scalar value"
             ],
             "answer": 3
           },
           {
-            "q": "Why can transforming a differential equation into the s-domain make it easier to solve?",
+            "q": "What does a limit describe?",
             "options": [
-              "It makes the equation impossible to solve by any method",
-              "It converts algebraic equations into differential equations instead",
-              "It removes all information about the original problem",
-              "It converts differential equations into algebraic equations, which are generally easier to manipulate"
+              "The total area under every curve",
+              "The exact maximum value of any function",
+              "A fixed number that never changes across all functions",
+              "The value a function approaches as its input gets closer to a specific point"
             ],
             "answer": 3
           }
@@ -35978,62 +36078,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "The Kerr Effect and Electro-Optic Modulation",
-        "summary": "Grade 12 Physics strand: the Kerr effect is a change in the refractive index of a material in response to an applied electric field, proportional to the square of the field strength, a property exploited in electro-optic modulators to control light using electrical signals.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Biology: Photosynthesis in Depth: Light and Dark Reactions",
+        "summary": "Grade 10 Science strand: photosynthesis consists of two stages, the light-dependent reactions that capture solar energy, and the light-independent (dark) reactions that use that energy to build sugars.",
+        "resourceLabel": "YouTube: Biology: Photosynthesis in Depth: Light and Dark Reactions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Photosynthesis%20in%20Depth%3A%20Light%20and%20Dark%20Reactions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Kerr effect describe?",
+            "q": "How many main stages does photosynthesis consist of?",
             "options": [
-              "A change in a materials colour with no relation to any field",
-              "The complete absorption of all electric fields by a material",
-              "A change in the refractive index of a material in response to an applied electric field",
-              "A change in the mass of a material when heated"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the change in refractive index in the Kerr effect relate to the applied field strength?",
-            "options": [
-              "It is proportional to the square of the field strength",
-              "It is entirely independent of the field strength",
-              "It decreases linearly as the field strength increases",
-              "It is proportional to the inverse of the field strength"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What technology exploits the Kerr effect to control light using electrical signals?",
-            "options": [
-              "Electro-optic modulators",
-              "Ordinary incandescent light bulbs",
-              "A simple mechanical shutter with no electrical component",
-              "A device with no relationship to electric fields"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the Kerr effect described as a nonlinear optical effect?",
-            "options": [
-              "It has no mathematical relationship to the applied field",
-              "Its response depends on the square rather than a simple direct proportion to field strength",
-              "It only occurs in the complete absence of any field",
-              "Its response is always exactly proportional to the field strength"
+              "One",
+              "Two",
+              "Five",
+              "A concept unrelated to biology"
             ],
             "answer": 1
           },
           {
-            "q": "What general category of physical effects does the Kerr effect belong to, alongside the Faraday effect studied earlier?",
+            "q": "What do the light-dependent reactions of photosynthesis capture?",
             "options": [
-              "Purely mechanical effects with no optical component",
-              "Effects with no connection to light at all",
-              "Electro-optic and magneto-optic effects",
-              "Nuclear decay processes"
+              "Solar energy",
+              "Nothing at all related to energy",
+              "A concept unrelated to photosynthesis",
+              "Only carbon dioxide from the air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do the light-independent, or dark, reactions use energy captured earlier to build sugars?",
+            "options": [
+              "A concept unrelated to photosynthesis",
+              "Sugars are never produced during photosynthesis",
+              "Yes",
+              "No, the dark reactions never use any captured energy"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why are the light-independent reactions sometimes called dark reactions, even though they can occur during the day?",
+            "options": [
+              "The dark reactions only ever occur at night, never during the day",
+              "This concept has no connection to photosynthesis",
+              "Dark reactions require intense direct sunlight at all times",
+              "They do not directly require light, unlike the light-dependent reactions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding both stages of photosynthesis important for understanding plant growth?",
+            "options": [
+              "The two stages of photosynthesis have no connection to how plants grow",
+              "Only one of the two stages actually contributes to a plant’s growth",
+              "This concept has no relevance to biology",
+              "Both stages work together to convert light energy into the chemical energy plants use to grow"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       }
     ]
   },
@@ -36163,120 +36264,120 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Variation of Parameters for Non-Homogeneous Differential Equations",
-        "summary": "Grade 12 Calculus strand: variation of parameters solves a non-homogeneous linear differential equation by replacing the constants in the homogeneous solution with unknown functions, determined by a system derived from the original equation, producing a particular solution even when undetermined coefficients does not apply cleanly.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: The Chain Rule for Derivatives",
+        "summary": "Grade 10 Math strand: the chain rule provides a method for differentiating a composite function, one function nested inside another, by multiplying the derivative of the outer function by the derivative of the inner function.",
+        "resourceLabel": "YouTube: Calculus: The Chain Rule for Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Chain%20Rule%20for%20Derivatives%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does variation of parameters replace in the homogeneous solution of a differential equation?",
+            "q": "What does the chain rule allow you to differentiate?",
             "options": [
-              "The constants, replacing them with unknown functions",
-              "The independent variable itself",
-              "The order of the differential equation",
-              "The entire homogeneous solution, discarding it completely"
+              "A composite function, one function nested inside another",
+              "Only whole numbers with no variables",
+              "Only a single constant term",
+              "Only a sum of two unrelated functions"
             ],
             "answer": 0
           },
           {
-            "q": "What type of differential equation does variation of parameters solve?",
+            "q": "How is the chain rule generally applied?",
             "options": [
-              "Only first-order separable equations",
-              "Equations with no solution of any kind",
-              "Non-homogeneous linear differential equations",
-              "Purely algebraic equations with no derivatives"
+              "By ignoring the inner function entirely",
+              "By dividing the outer function by the inner function",
+              "By adding the two functions together first",
+              "By multiplying the derivative of the outer function by the derivative of the inner function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of function most clearly requires the chain rule to differentiate?",
+            "options": [
+              "A function with no inner expression at all",
+              "A single constant with no variable",
+              "A composite function such as the square of a trigonometric expression",
+              "A simple linear function like y equals x"
             ],
             "answer": 2
           },
           {
-            "q": "How are the unknown functions in variation of parameters determined?",
+            "q": "The chain rule builds directly on which earlier differentiation rules?",
             "options": [
-              "By setting them all equal to zero automatically",
-              "By solving a system of equations derived from the original differential equation",
-              "By ignoring the original equation entirely",
-              "By guessing a constant value with no further calculation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What advantage does variation of parameters have over the method of undetermined coefficients?",
-            "options": [
-              "It cannot be used for any linear differential equation",
-              "It applies more generally, even in cases where undetermined coefficients does not work cleanly",
-              "It requires no knowledge of the homogeneous solution at all",
-              "It only works for a single, very specific type of equation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What must be found first before applying variation of parameters to a non-homogeneous equation?",
-            "options": [
-              "The Laplace transform of an unrelated function",
-              "The final numerical answer, before any other work is done",
-              "A random particular solution with no justification",
-              "The homogeneous solution to the associated equation"
+              "Only basic arithmetic with no calculus involved",
+              "Only the quadratic formula",
+              "Only the Pythagorean Theorem",
+              "The power rule and the basic derivative rules"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why is the chain rule essential in calculus?",
+            "options": [
+              "It eliminates the need for the power rule entirely",
+              "Many real functions are composite functions that cannot be differentiated with simpler rules alone",
+              "It replaces the need to ever find a derivative",
+              "It only applies to functions with no variables"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
-        "title": "The Larmor Formula and Radiation from Accelerating Charges",
-        "summary": "Grade 12 Physics strand: the Larmor formula gives the power radiated by a non-relativistic accelerating point charge, showing that acceleration, not merely motion, is required for a charged particle to emit electromagnetic radiation.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Physics: Torque and Rotational Equilibrium",
+        "summary": "Grade 10 Science strand: torque measures the turning effect of a force around a pivot point, and an object is in rotational equilibrium when the net torque acting on it is zero.",
+        "resourceLabel": "YouTube: Physics: Torque and Rotational Equilibrium",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Torque%20and%20Rotational%20Equilibrium%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Larmor formula calculate?",
+            "q": "What does torque measure?",
             "options": [
-              "The power radiated by an accelerating point charge",
-              "The total mass of a charged particle",
-              "The wavelength of visible light alone",
-              "The exact position of a charge at a given time"
+              "A concept unrelated to physics",
+              "The turning effect of a force around a pivot point",
+              "The temperature of an object",
+              "The total mass of an object"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What property of a charged particles motion is required for it to radiate, according to the Larmor formula?",
+            "q": "When is an object in rotational equilibrium?",
             "options": [
-              "A constant velocity with absolutely no acceleration",
-              "A fixed, unchanging position with no motion at all",
-              "A complete absence of any electric charge",
-              "Acceleration, not merely motion at a constant velocity"
+              "When it is moving at a constant speed in a straight line",
+              "When the net torque acting on it is zero",
+              "When no force acts on it at all",
+              "A concept unrelated to torque"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does increasing the distance from the pivot point increase the torque produced by a given force?",
+            "options": [
+              "No, distance from the pivot has no effect on torque",
+              "Torque only depends on the mass of an object",
+              "A concept unrelated to torque",
+              "Yes"
             ],
             "answer": 3
           },
           {
-            "q": "Why does a charge moving at a constant velocity not radiate energy according to this principle?",
+            "q": "Why might a longer wrench make it easier to loosen a tight bolt compared to a shorter one?",
             "options": [
-              "Constant velocity motion is physically impossible for a charge",
-              "Radiation requires acceleration, and uniform motion involves no acceleration",
-              "Radiation depends only on the charges mass, not its motion",
-              "Charges moving at constant velocity always radiate the most energy"
+              "This concept has no connection to physics",
+              "Wrench length never has any effect on the torque applied to a bolt",
+              "A shorter wrench always produces more torque than a longer one",
+              "A longer wrench increases the distance from the pivot, producing greater torque for the same applied force"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "To which kind of charge does the Larmor formula, in its basic form, strictly apply?",
+            "q": "Why is understanding rotational equilibrium important when designing a seesaw or balance scale?",
             "options": [
-              "A charge with absolutely no mass",
-              "A non-relativistic charge",
-              "A charge that is entirely stationary at all times",
-              "Only a charge moving at the speed of light"
+              "This concept has no relevance to physics",
+              "It helps ensure the torques on each side balance so the object remains stable and level",
+              "Rotational equilibrium has no connection to how a seesaw or balance scale works",
+              "Seesaws and balance scales never rely on any torque balance"
             ],
             "answer": 1
-          },
-          {
-            "q": "How does the Larmor formula connect to the study of electromagnetic waves earlier in this course?",
-            "options": [
-              "It explains the physical origin of electromagnetic radiation emitted by accelerating charges",
-              "It has no connection to electromagnetic waves whatsoever",
-              "It proves that radiation cannot be produced by any charge",
-              "It shows that electromagnetic waves can only be produced by magnets"
-            ],
-            "answer": 0
           }
         ]
       }
@@ -36895,62 +36996,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Differential Equations and Numerical Methods",
-        "summary": "Grade 12 Calculus strand review: students revisit Cauchy-Euler equations, exact differential equations, the secant method, Romberg integration, and the inverse Laplace transform.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Number Theory: The Euclidean Algorithm and Greatest Common Divisor",
+        "summary": "Grade 9 Math strand: the Euclidean algorithm finds the greatest common divisor of two integers by repeatedly dividing and taking remainders until a remainder of zero is reached, offering a faster method than listing every factor.",
+        "resourceLabel": "YouTube: Number Theory: The Euclidean Algorithm and Greatest Common Divisor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Theory%3A%20The%20Euclidean%20Algorithm%20and%20Greatest%20Common%20Divisor%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinguishes a Cauchy-Euler equation from the constant-coefficient equations studied earlier?",
+            "q": "What does the Euclidean algorithm calculate?",
             "options": [
-              "It is always a first-order equation",
-              "It can only be solved numerically, never analytically",
-              "Its coefficients are powers of the independent variable rather than constants",
-              "It has no derivatives of any kind"
+              "The sum of two unrelated fractions",
+              "The exact prime factorization of a single number",
+              "The greatest common divisor of two integers",
+              "The least common multiple of every integer"
             ],
             "answer": 2
           },
           {
-            "q": "What does it mean for a first-order differential equation to be exact?",
+            "q": "How does the Euclidean algorithm proceed?",
             "options": [
-              "It must always be solved using only numerical methods",
-              "It can be written as the differential of some underlying function",
-              "It has no solution under any circumstances",
-              "It requires no partial derivatives to analyze"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What line does the secant method use to generate its next root approximation?",
-            "options": [
-              "A vertical line through a single point",
-              "A line tangent to the curve at one point only",
-              "A line through two nearby points on the curve",
-              "A line with no relationship to the curve"
+              "By guessing an answer with no calculation involved",
+              "By multiplying the two numbers together repeatedly",
+              "By repeatedly dividing and taking remainders until a remainder of zero is reached",
+              "By listing every possible factor of both numbers first"
             ],
             "answer": 2
           },
           {
-            "q": "What numerical integration method does Romberg integration build upon and improve?",
+            "q": "What is the greatest common divisor of two numbers when the Euclidean algorithm stops?",
             "options": [
-              "The trapezoid rule",
-              "The method of undetermined coefficients",
-              "Lagrange interpolation alone",
-              "The bisection method for root-finding"
+              "Always the larger of the two original numbers",
+              "The sum of both original numbers",
+              "Always the number one, regardless of the inputs",
+              "The last nonzero remainder produced during the process"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the Euclidean algorithm be preferred over listing all factors of large numbers?",
+            "options": [
+              "It always produces an incorrect answer for large numbers",
+              "Listing factors is always faster for every possible number",
+              "It finds the greatest common divisor more quickly, especially for large integers",
+              "The Euclidean algorithm cannot be used on large numbers at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the greatest common divisor of 24 and 36, found using the Euclidean algorithm?",
+            "options": [
+              "12",
+              "4",
+              "18",
+              "6"
             ],
             "answer": 0
-          },
-          {
-            "q": "What does the inverse Laplace transform do?",
-            "options": [
-              "Doubles the degree of a polynomial function",
-              "Removes all variables from a function entirely",
-              "Converts a function of s back into a function of t",
-              "Converts a function of t into an unrelated function of x"
-            ],
-            "answer": 2
           }
-        ]
+        ],
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Physics",
@@ -37138,62 +37240,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Implicit Function Theorem",
-        "summary": "Grade 12 Calculus strand: the implicit function theorem gives conditions under which an equation relating several variables can be locally solved for one variable as a differentiable function of the others, even when the equation cannot be rearranged explicitly, and lets that functions derivative be computed directly from the original equation.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: Vector Projections and Scalar Components",
+        "summary": "Grade 9 Math strand: the projection of one vector onto another describes how much of the first vector points in the direction of the second, and it can be calculated using the dot product together with the magnitude of the vector being projected onto.",
+        "resourceLabel": "YouTube: Geometry: Vector Projections and Scalar Components",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Projections%20and%20Scalar%20Components%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the implicit function theorem allow, even when an equation cannot be explicitly rearranged?",
+            "q": "What does the projection of one vector onto another describe?",
             "options": [
-              "Locally solving for one variable as a differentiable function of the others",
-              "Removing all variables from an equation entirely",
-              "Guaranteeing a function has no derivative at any point",
-              "Solving every equation explicitly without exception"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of solution does the implicit function theorem guarantee, near a suitable point?",
-            "options": [
-              "A local solution, valid in a neighbourhood of that point",
-              "A solution with no relationship to the original equation",
-              "An explicit closed-form formula in every case",
-              "A single global solution valid everywhere at once"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How can the derivative of an implicitly defined function typically be found once the theorem applies?",
-            "options": [
-              "Directly from the original equation using implicit differentiation",
-              "By discarding the original equation entirely",
-              "Implicit functions can never be differentiated",
-              "Only by first solving the equation explicitly"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which earlier-studied technique does applying the implicit function theorem rely on in practice?",
-            "options": [
-              "Integration by parts",
-              "Implicit differentiation",
-              "The bisection method for root-finding",
-              "The ratio test for series convergence"
+              "The total length of both vectors added together",
+              "How much of the first vector points in the direction of the second",
+              "The colour associated with each vector",
+              "The number of dimensions a vector exists in"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the implicit function theorem useful for equations relating several variables that resist explicit rearrangement?",
+            "q": "What mathematical tool is used to calculate a vector projection?",
             "options": [
-              "It only applies when an equation is already solved explicitly",
-              "It still guarantees a well-behaved local function and derivative can be extracted, even without an explicit formula",
-              "It proves that no such equation can ever define a function",
-              "It removes the need to ever compute a derivative"
+              "The dot product, together with the magnitude of the vector being projected onto",
+              "A random number generator",
+              "Only the sum of the two vectors",
+              "Only the difference of the two vectors magnitudes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two vectors are perpendicular, what is the projection of one onto the other?",
+            "options": [
+              "Always a negative number",
+              "Zero, since perpendicular vectors have no component in each others direction",
+              "Undefined and impossible to calculate",
+              "Equal to the length of the longer vector"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The scalar component of a projection represents what kind of quantity?",
+            "options": [
+              "A count of how many vectors exist in a diagram",
+              "A magnitude with a sign, indicating size and direction along the target vector",
+              "A fixed constant that never changes between problems",
+              "A colour value with no numerical meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Vector projections are useful in physics for calculating what kind of quantity?",
+            "options": [
+              "The temperature of an object in motion",
+              "The component of a force acting in a specific direction",
+              "The name of the object being measured",
+              "The exact colour of a moving object"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
@@ -37381,63 +37484,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Improper Double Integrals Over Unbounded Regions",
-        "summary": "Grade 12 Calculus strand: an improper double integral extends double integration to unbounded regions or unbounded integrands, evaluated as a limit of proper double integrals over an expanding bounded region, generalizing the single-variable improper integral studied earlier.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Data Management: Bayes Theorem and Updating Probabilities",
+        "summary": "Grade 9 Math strand: Bayes Theorem provides a method for updating the probability of an event as new evidence becomes available, building directly on the idea of conditional probability introduced earlier in the course.",
+        "resourceLabel": "YouTube: Data Management: Bayes Theorem and Updating Probabilities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Bayes%20Theorem%20and%20Updating%20Probabilities%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What makes a double integral improper?",
+            "q": "What does Bayes Theorem allow you to do?",
             "options": [
-              "The integrand is a constant function",
-              "The region of integration or the integrand is unbounded",
-              "The integral involves only a single variable",
-              "The region of integration is a single point"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How is an improper double integral typically evaluated?",
-            "options": [
-              "By ignoring the unbounded part of the region entirely",
-              "By converting it into a single-variable integral with no limit process",
-              "As a limit of proper double integrals over an expanding bounded region",
-              "By always assigning it a value of zero automatically"
+              "Eliminate the need for probability altogether",
+              "Calculate the area of any triangle",
+              "Update the probability of an event based on new evidence",
+              "Determine the exact value of an unrelated variable"
             ],
             "answer": 2
           },
           {
-            "q": "Which earlier-studied concept does the improper double integral generalize?",
+            "q": "Bayes Theorem builds most directly on which earlier probability concept?",
             "options": [
-              "The derivative of a constant function",
-              "The improper integral of a single-variable function",
-              "The binomial theorem",
-              "The mean value theorem for integrals"
+              "The dot product of vectors",
+              "The Pythagorean Theorem",
+              "Conditional probability",
+              "Synthetic division"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What does it mean for an improper double integral to converge?",
+            "q": "In Bayes Theorem, what happens to an initial probability estimate once new evidence is considered?",
             "options": [
-              "The region of integration must first become bounded before any value exists",
-              "Convergence is not a meaningful concept for double integrals",
-              "The integral always equals infinity by definition",
-              "The limit of the proper integrals over the expanding region exists and is finite"
+              "It is revised to produce an updated, more informed probability",
+              "It is always discarded and replaced with zero",
+              "It remains completely unchanged regardless of new evidence",
+              "It is converted into an unrelated geometric shape"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why might a physicist or statistician need to evaluate an improper double integral over an unbounded region?",
+            "q": "Why is Bayes Theorem useful in fields such as medical testing?",
             "options": [
-              "Unbounded regions cannot be modelled mathematically at all",
-              "All applied double integrals are automatically bounded",
-              "Improper double integrals never arise in any applied context",
-              "Some probability densities and physical models are defined over an entire unbounded plane"
+              "It helps estimate the true likelihood of a condition after accounting for a test result",
+              "It eliminates the need for any medical testing altogether",
+              "It has no application to medicine or testing of any kind",
+              "It guarantees a test result is always accurate with no uncertainty"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "What is required before Bayes Theorem can be applied to a problem?",
+            "options": [
+              "A list of unrelated historical dates",
+              "A guarantee that the event in question is impossible",
+              "Some known or estimated probabilities relating the event and the evidence",
+              "A completed geometric proof with no probability involved"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Physics",
@@ -37625,119 +37728,120 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Method of Characteristics for First-Order PDEs",
-        "summary": "Grade 12 Calculus strand: the method of characteristics solves certain first-order partial differential equations by finding characteristic curves along which the PDE reduces to a simpler ordinary differential equation, transforming the problem of solving a PDE into solving a family of ODEs.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: Implicit Differentiation",
+        "summary": "Grade 10 Math strand: implicit differentiation is a technique for finding the derivative of a relation in which y is not isolated as a function of x, by differentiating both sides of an equation with respect to x and applying the chain rule to terms involving y.",
+        "resourceLabel": "YouTube: Calculus: Implicit Differentiation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Implicit%20Differentiation%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What type of equation does the method of characteristics primarily solve?",
+            "q": "When is implicit differentiation typically used?",
             "options": [
-              "Equations involving no partial derivatives whatsoever",
-              "Certain first-order partial differential equations",
-              "Purely algebraic equations with no derivatives",
-              "Second-order linear equations with constant coefficients only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What are characteristic curves, in the context of this method?",
-            "options": [
-              "Curves with no relationship to the original PDE at all",
-              "A single fixed point with no curve involved",
-              "Curves that only exist for algebraic equations",
-              "Curves along which the PDE reduces to a simpler ordinary differential equation"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of equation does solving along a characteristic curve reduce the original PDE to?",
-            "options": [
-              "A purely geometric problem with no equation involved",
-              "A more complicated partial differential equation",
-              "An ordinary differential equation",
-              "An equation with no solution of any kind"
+              "Only when working with whole numbers",
+              "Only when an equation has no variables at all",
+              "When y is not isolated as a function of x in an equation",
+              "Only when a function is already fully simplified for y"
             ],
             "answer": 2
           },
           {
-            "q": "How does the method of characteristics relate PDE-solving to techniques studied earlier in this course?",
+            "q": "What technique is applied to terms involving y during implicit differentiation?",
             "options": [
-              "It only applies to equations with no partial derivatives",
-              "It has no relationship whatsoever to ordinary differential equations",
-              "It transforms solving a PDE into solving a family of ODEs, reusing earlier ODE-solving techniques",
-              "It removes the need to solve any equation at all"
+              "Basic long division",
+              "The Pythagorean Theorem",
+              "The chain rule",
+              "The quadratic formula"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the method of characteristics considered a powerful technique for certain first-order PDEs?",
+            "q": "What is the general first step in implicit differentiation?",
             "options": [
-              "It converts an unfamiliar type of problem into a more familiar, already-solvable one",
-              "It guarantees a solution exists for every possible partial differential equation",
-              "It eliminates the need for any characteristic curve at all",
-              "It works only for equations with a known closed-form answer already provided"
+              "Differentiating both sides of the equation with respect to x",
+              "Solving the equation for y before differentiating anything",
+              "Ignoring one side of the equation entirely",
+              "Substituting a specific numerical value for x first"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why is implicit differentiation useful for curves like circles?",
+            "options": [
+              "Such curves are not easily written as a single function of x, so implicit methods are needed",
+              "Circles require no differentiation at all",
+              "Circles never have a defined derivative",
+              "Implicit differentiation only works for straight lines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Implicit differentiation is closely related to which other calculus rule?",
+            "options": [
+              "The Euclidean Algorithm",
+              "The Fundamental Theorem of Arithmetic",
+              "The chain rule",
+              "The Binomial Theorem"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
-        "title": "The Pound-Rebka Experiment and Gravitational Time Dilation",
-        "summary": "Grade 12 Physics strand: the Pound-Rebka experiment measured the tiny gravitational redshift of gamma rays travelling up a tower on Earth, confirming a prediction of general relativity that time runs slightly slower in a stronger gravitational field, an effect now routinely corrected for in satellite navigation.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: Introduction to Quantum Physics",
+        "summary": "Grade 8 Science strand: quantum physics studies the behaviour of extremely small particles, such as electrons, which can behave differently than larger objects described by everyday physics.",
+        "resourceLabel": "YouTube: Science: Introduction to Quantum Physics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Introduction%20to%20Quantum%20Physics%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What did the Pound-Rebka experiment measure?",
+            "q": "What does quantum physics study?",
             "options": [
-              "The magnetic field strength of the Earths core",
-              "The speed of light in a vacuum for the first time",
-              "The exact mass of the electron",
-              "The gravitational redshift of gamma rays travelling up a tower on Earth"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What prediction of general relativity did the Pound-Rebka experiment confirm?",
-            "options": [
-              "That light cannot travel through a gravitational field at all",
-              "That mass has no relationship to gravitational fields",
-              "That time runs slightly slower in a stronger gravitational field",
-              "That gravity has no effect on the passage of time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What kind of radiation did the Pound-Rebka experiment use to detect this tiny effect?",
-            "options": [
-              "Visible light only",
-              "Sound waves",
-              "Radio waves exclusively",
-              "Gamma rays"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Where in modern technology is gravitational time dilation, as confirmed by this experiment, routinely corrected for?",
-            "options": [
-              "Simple mechanical pendulum clocks",
-              "Ordinary household electrical wiring",
-              "Basic optical microscopes",
-              "Satellite navigation systems such as GPS"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why was detecting the effect measured by Pound and Rebka considered a significant experimental achievement?",
-            "options": [
-              "General relativity had already been fully confirmed by many stronger experiments before this one",
-              "The predicted gravitational time-dilation effect near Earths surface is extremely small and required precise measurement to confirm",
-              "The effect being measured was already enormous and easy to observe with the naked eye",
-              "The experiment required no precision instruments of any kind"
+              "Only objects that are visible to the naked eye",
+              "The behaviour of extremely small particles",
+              "A concept unrelated to science",
+              "The behaviour of extremely large objects only"
             ],
             "answer": 1
+          },
+          {
+            "q": "Name one example of a particle studied in quantum physics, such as an electron.",
+            "options": [
+              "A planet",
+              "A concept unrelated to quantum physics",
+              "A mountain",
+              "An electron"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can extremely small particles behave differently than larger, everyday objects?",
+            "options": [
+              "A concept unrelated to quantum physics",
+              "Particles never behave in any predictable pattern",
+              "No, small particles always behave exactly like large objects",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists need special theories, like quantum physics, to describe particles like electrons?",
+            "options": [
+              "The rules that govern everyday large objects do not fully apply at such a tiny scale",
+              "Everyday physics fully explains the behaviour of every particle",
+              "This concept has no connection to quantum physics",
+              "Electrons behave in exactly the same way as basketballs or cars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is quantum physics considered important for modern technology, like computer chips?",
+            "options": [
+              "Understanding particle behaviour at this scale has enabled advances in electronics and computing",
+              "Quantum physics has no connection to modern technology",
+              "This concept has no relevance to science",
+              "Computer chips are built with no reliance on quantum physics concepts"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -37868,62 +37972,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Greens Identities and Boundary Value Problems",
-        "summary": "Grade 12 Calculus strand: Greens identities are integral formulas relating a functions Laplacian over a region to boundary integrals of the function and its normal derivative, extending Greens theorem to higher dimensions and providing key tools for analyzing boundary value problems in physics and engineering.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Statistics: Z-Scores and Standardizing Data",
+        "summary": "Grade 9 Math strand: a z-score expresses how many standard deviations a data point lies above or below the mean of a data set, allowing values from different distributions to be compared on a common scale.",
+        "resourceLabel": "YouTube: Statistics: Z-Scores and Standardizing Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Z-Scores%20and%20Standardizing%20Data%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What operator do Greens identities relate to boundary integrals?",
+            "q": "What does a z-score measure?",
             "options": [
-              "The Laplacian of a function over a region",
-              "The factorial of an integer",
-              "The cross product of two vectors",
-              "The determinant of a matrix"
+              "The exact colour associated with a data point",
+              "The total number of data points in a set",
+              "How many standard deviations a data point lies above or below the mean",
+              "The name of the variable being studied"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A z-score of zero indicates what about a data point?",
+            "options": [
+              "The data point is exactly equal to the mean",
+              "The data point is the largest value in the entire data set",
+              "The data point is always negative",
+              "The data point does not exist in the data set"
             ],
             "answer": 0
           },
           {
-            "q": "Which earlier-studied theorem do Greens identities extend to higher dimensions?",
+            "q": "Why are z-scores useful when comparing values from two different data sets?",
             "options": [
-              "Greens theorem",
-              "The fundamental theorem of arithmetic",
-              "The binomial theorem",
-              "The intermediate value theorem"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of integrals appear on the boundary side of Greens identities?",
-            "options": [
-              "Integrals with no reference to the boundary at all",
-              "Integrals of the function and its normal derivative over the boundary",
-              "Integrals that ignore the functions derivative entirely",
-              "Only integrals of a constant function"
+              "Z-scores can only be calculated for a single data set at a time with no comparison allowed",
+              "They place values on a common, standardized scale for fair comparison",
+              "They make it impossible to ever compare two data sets",
+              "They eliminate the need to ever calculate a mean"
             ],
             "answer": 1
           },
           {
-            "q": "In which types of problems are Greens identities especially useful tools?",
+            "q": "What does a negative z-score indicate about a data point?",
             "options": [
-              "Boundary value problems in physics and engineering",
-              "Purely combinatorial counting problems",
-              "Problems with no boundary of any kind",
-              "Problems limited strictly to single-variable algebra"
+              "The data set contains no valid values at all",
+              "The data point is equal to the standard deviation",
+              "The data point lies above the mean of the data set",
+              "The data point lies below the mean of the data set"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why are Greens identities considered a bridge between a regions interior behaviour and its boundary behaviour?",
+            "q": "Calculating a z-score requires which two values from a data set?",
             "options": [
-              "They eliminate the need to ever consider a regions boundary",
-              "They provide no connection between a regions interior and its boundary",
-              "They directly relate an integral of the Laplacian over the interior to integrals evaluated only on the boundary",
-              "They apply only to regions with no interior points at all"
+              "The mean and the standard deviation",
+              "Only the total number of data points",
+              "Only the median value",
+              "Only the largest and smallest values"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Physics",
@@ -38112,63 +38217,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Dirichlet Test for Series Convergence",
-        "summary": "Grade 12 Calculus strand: the Dirichlet test establishes convergence of a series formed by the product of two sequences when the partial sums of one sequence stay bounded and the other sequence decreases monotonically to zero, extending the alternating series test to a broader class of series.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: An Introduction to Polar Coordinates",
+        "summary": "Grade 10 Math strand: the polar coordinate system locates a point using a distance from a fixed origin and an angle from a fixed direction, rather than the horizontal and vertical distances used in the Cartesian system, offering a natural way to describe curves with rotational symmetry.",
+        "resourceLabel": "YouTube: Geometry: An Introduction to Polar Coordinates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20An%20Introduction%20to%20Polar%20Coordinates%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of series does the Dirichlet test analyze for convergence?",
+            "q": "What two values define a point in the polar coordinate system?",
             "options": [
-              "A series with a single term repeated infinitely",
-              "Only a series consisting entirely of constant terms",
-              "A series formed by the product of two sequences",
-              "A series with no terms of any kind"
+              "Three separate coordinate values",
+              "Two perpendicular horizontal and vertical distances only",
+              "A distance from the origin and an angle from a fixed direction",
+              "A single value with no direction involved"
             ],
             "answer": 2
           },
           {
-            "q": "What condition must the partial sums of one sequence satisfy for the Dirichlet test to apply?",
+            "q": "How does the polar coordinate system differ from the Cartesian system?",
             "options": [
-              "They must be strictly negative at every step",
-              "They must always equal exactly zero",
-              "They must grow without any bound at all",
-              "They must remain bounded"
+              "It uses distance and angle instead of horizontal and vertical distances",
+              "It uses only negative numbers",
+              "It is identical to the Cartesian system in every way",
+              "It cannot represent any curves at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the fixed reference point in the polar coordinate system called?",
+            "options": [
+              "The y-intercept",
+              "The pole, or origin",
+              "The vertex of a triangle",
+              "The slope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Polar coordinates are especially useful for describing which type of curve?",
+            "options": [
+              "Only single isolated points with no curve at all",
+              "Only straight horizontal lines",
+              "Only straight vertical lines",
+              "Curves with rotational symmetry, such as spirals or circles"
             ],
             "answer": 3
           },
           {
-            "q": "What condition must the other sequence in the Dirichlet test satisfy?",
+            "q": "The angle in a polar coordinate is typically measured from ___.",
             "options": [
-              "It must increase without bound",
-              "It must alternate randomly with no consistent pattern",
-              "It must decrease monotonically to zero",
-              "It must remain constant and nonzero forever"
+              "The positive horizontal axis",
+              "A randomly chosen point with no fixed reference",
+              "The center of the y-axis only",
+              "The negative vertical axis only"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Which earlier-studied convergence test can be seen as a special case of the Dirichlet test?",
-            "options": [
-              "LHopitals rule",
-              "The alternating series test",
-              "The fundamental theorem of calculus",
-              "The power rule for derivatives"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Dirichlet test considered more general than the alternating series test studied earlier?",
-            "options": [
-              "It cannot be used to establish convergence of any series",
-              "It applies to a broader class of series beyond strictly alternating ones, as long as the boundedness and monotonic-decrease conditions hold",
-              "It only ever applies to alternating series and nothing else",
-              "It requires stricter conditions than the alternating series test in every case"
-            ],
-            "answer": 1
+            "answer": 0
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
@@ -38358,122 +38463,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Abel Summation and Summation by Parts",
-        "summary": "Grade 12 Calculus strand: Abel summation, or summation by parts, rewrites a sum of products of two sequences using partial sums of one sequence and differences of the other, serving as the discrete analogue of integration by parts and a key tool underlying tests such as the Dirichlet test.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Sequences and Series: Sigma Notation and Summation",
+        "summary": "Grade 9 Math strand: sigma notation provides a compact way to write the sum of a sequence of terms, using the Greek letter sigma along with an index that specifies the starting and ending values being added.",
+        "resourceLabel": "YouTube: Sequences and Series: Sigma Notation and Summation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%20and%20Series%3A%20Sigma%20Notation%20and%20Summation%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Abel summation, or summation by parts, rewrite?",
+            "q": "What does sigma notation provide a compact way to represent?",
             "options": [
-              "An integral with no discrete sum of any kind",
-              "A sum of products of two sequences, using partial sums of one and differences of the other",
-              "A single derivative with no sum involved",
-              "A sequence with only one term and no summation"
+              "The product of two unrelated fractions",
+              "The colour of a graphed function",
+              "The area of a random polygon",
+              "The sum of a sequence of terms"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which earlier-studied continuous technique is Abel summation considered the discrete analogue of?",
+            "q": "What symbol is used in sigma notation to represent a sum?",
             "options": [
-              "The chain rule for composite functions",
-              "Integration by parts",
-              "The bisection method",
-              "The power rule for derivatives"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which convergence test studied in this batch relies on the underlying idea behind Abel summation?",
-            "options": [
-              "The Dirichlet test",
-              "The p-series test alone, with no other test involved",
-              "The intermediate value theorem",
-              "A test that only applies to finite sums with no series involved"
+              "The Greek letter sigma",
+              "A question mark",
+              "The Greek letter pi",
+              "A plus sign repeated many times with no other symbol"
             ],
             "answer": 0
           },
           {
-            "q": "What two ingredients from one of the sequences does Abel summation make use of?",
+            "q": "In sigma notation, what do the numbers above and below the sigma symbol indicate?",
             "options": [
-              "Its partial sums",
-              "Its determinant",
-              "Its Laplace transform",
-              "Its second derivative"
+              "The number of variables used in an unrelated equation",
+              "The exact final answer of the summation",
+              "The starting and ending values of the index being summed",
+              "The colour of each term in the sequence"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is summation by parts a useful technique when analyzing a sum whose terms do not simplify directly?",
+            "q": "What does the expression below the sigma symbol typically represent?",
             "options": [
-              "It can transform the sum into a more manageable expression involving partial sums and differences",
-              "It eliminates the need to consider either of the two original sequences",
-              "It only applies to sums with exactly one term",
-              "It always makes a sum impossible to evaluate in any form"
+              "A constant that has no connection to the sum",
+              "The variable and starting value of the summation index",
+              "An unrelated geometric shape",
+              "The final answer to the entire summation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is sigma notation especially useful for long sequences and series?",
+            "options": [
+              "It allows a lengthy sum to be written concisely instead of listing every term",
+              "It removes the need for any numbers in a summation",
+              "It makes long sums impossible to calculate",
+              "It requires every term to be written out individually with no shortcuts"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Physics",
-        "title": "Laser Cooling and Trapping of Atoms",
-        "summary": "Grade 12 Physics strand: laser cooling slows the motion of atoms, and therefore lowers their effective temperature, by tuning laser light so that atoms preferentially absorb photons moving opposite to their own motion, with the resulting momentum transfer used alongside magnetic fields to trap atoms at extremely low temperatures.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: The Science of Vaccines and Immunology",
+        "summary": "Grade 8 Science strand: immunology studies how the immune system protects the body, and vaccines work by training this system to recognize specific pathogens before a real infection occurs.",
+        "resourceLabel": "YouTube: Science: The Science of Vaccines and Immunology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Science%20of%20Vaccines%20and%20Immunology%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does laser cooling reduce in a sample of atoms?",
+            "q": "What does immunology study?",
             "options": [
-              "Their electric charge entirely",
-              "Their exposure to any external magnetic field",
-              "Their total number of protons",
-              "Their motion, and therefore their effective temperature"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How is laser light tuned so that atoms preferentially absorb photons opposing their own motion?",
-            "options": [
-              "Using the Doppler effect, so atoms moving toward the laser see light shifted closer to the absorption frequency",
-              "By aiming the laser directly along the atoms motion with no angle involved",
-              "By removing all photons from the laser beam entirely",
-              "By using light with no defined frequency at all"
+              "How the immune system protects the body",
+              "How rocks are formed over time",
+              "How plants create their own food",
+              "A concept unrelated to biology"
             ],
             "answer": 0
           },
           {
-            "q": "What physical quantity is transferred to the atom during laser cooling, slowing its motion?",
+            "q": "What do vaccines train the immune system to do?",
             "options": [
-              "Momentum, through repeated photon absorption",
-              "Electric charge, transferred directly from the laser",
-              "Angular momentum with no linear component involved",
-              "Mass, transferred directly from the photon to the atom"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is typically combined with laser cooling to trap the slowed atoms in place?",
-            "options": [
-              "A solid container wall touching the atoms directly",
-              "A completely field-free vacuum with no trapping mechanism",
-              "Gravity alone, with no other field involved",
-              "Magnetic fields, forming a magneto-optical trap"
+              "Become permanently weaker",
+              "A concept unrelated to vaccines",
+              "Ignore all pathogens completely",
+              "Recognize specific pathogens"
             ],
             "answer": 3
           },
           {
-            "q": "Why are laser-cooled and trapped atoms useful for precision experiments, such as atomic clocks?",
+            "q": "Do vaccines typically work before a real infection occurs?",
             "options": [
-              "Trapped atoms cannot be used in any experimental apparatus",
-              "Extremely low temperatures reduce atomic motion, allowing far more precise measurements",
-              "Laser cooling has no application to precision measurement of any kind",
-              "Cooling atoms makes all measurements less precise than at room temperature"
+              "Vaccines have no connection to timing at all",
+              "A concept unrelated to vaccines",
+              "Yes",
+              "No, vaccines only work after a person is already sick"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why might a vaccine include a small, harmless piece of a pathogen rather than the full, dangerous version?",
+            "options": [
+              "It allows the immune system to learn and respond safely, without causing the actual illness",
+              "Vaccines always include the full, dangerous version of a pathogen",
+              "A harmless piece of a pathogen provides no useful immune response",
+              "This concept has no connection to immunology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is community-wide vaccination sometimes described as helping protect vulnerable individuals through herd immunity?",
+            "options": [
+              "Herd immunity has no connection to vaccination at all",
+              "This concept has no relevance to science",
+              "When enough people are immune, it becomes harder for a disease to spread, protecting those who cannot be vaccinated",
+              "Vaccinating a community never has any effect on how a disease spreads"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       }
     ]
   },
@@ -38603,120 +38708,119 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Cauchy Product of Two Series",
-        "summary": "Grade 12 Calculus strand: the Cauchy product combines two infinite series into a new series whose terms are formed by convolving the coefficients of the originals, and under suitable convergence conditions the resulting series converges to the product of the two original series sums.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: Related Rates",
+        "summary": "Grade 10 Math strand: related rates problems use implicit differentiation to determine how the rate of change of one quantity relates to the rate of change of another quantity, when both are connected by an equation and changing with respect to time.",
+        "resourceLabel": "YouTube: Calculus: Related Rates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Related%20Rates%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Cauchy product combine?",
+            "q": "What do related rates problems determine?",
             "options": [
-              "A series and a single constant number only",
-              "A single series with itself using no combination at all",
-              "Two finite sequences with no series involved",
-              "Two infinite series into a single new series"
+              "The exact value of a single unrelated quantity",
+              "The colour of an object in a diagram",
+              "Only the area of a fixed, unchanging shape",
+              "How the rate of change of one quantity relates to the rate of change of another"
             ],
             "answer": 3
           },
           {
-            "q": "How are the terms of the Cauchy product formed from the two original series?",
+            "q": "What technique is central to solving related rates problems?",
             "options": [
-              "By multiplying only the very first terms of each series",
-              "By ignoring the coefficients of one of the two series entirely",
-              "By convolving the coefficients of the two original series",
-              "By simply adding the two series term by term with no other operation"
+              "Implicit differentiation with respect to time",
+              "Measuring an object directly with a ruler only",
+              "Basic addition of two constants",
+              "Simple counting with no equations involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a related rates problem, quantities are typically connected by ___.",
+            "options": [
+              "A relationship involving only whole numbers",
+              "No mathematical relationship at all",
+              "An equation relating the two changing quantities",
+              "A relationship that never changes over time"
             ],
             "answer": 2
           },
           {
-            "q": "Under suitable convergence conditions, what does the Cauchy product series converge to?",
+            "q": "Why is time often the variable with respect to which related rates are differentiated?",
             "options": [
-              "The sum, rather than the product, of the two original series",
-              "A value entirely unrelated to either original series",
-              "The product of the two original series sums",
-              "Zero, regardless of the original series values"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why are convergence conditions important when working with the Cauchy product?",
-            "options": [
-              "Convergence conditions are never relevant to any series operation",
-              "Without suitable convergence, such as absolute convergence, the product series may not converge to the expected product",
-              "The Cauchy product always converges regardless of the original series behaviour",
-              "Convergence conditions only matter for series with exactly one term"
+              "Because time is always held constant in these problems",
+              "Because the quantities involved are described as changing over time",
+              "Because related rates problems never involve change",
+              "Because time never appears in these problems"
             ],
             "answer": 1
           },
           {
-            "q": "How does the Cauchy product relate to multiplying polynomials, an operation studied much earlier in this course?",
+            "q": "A classic example of a related rates problem involves ___.",
             "options": [
-              "It replaces polynomial multiplication with simple addition",
-              "It can only be applied to polynomials of degree zero",
-              "It generalizes polynomial multiplication, using the same convolution idea but applied to infinite series",
-              "It has no relationship whatsoever to multiplying polynomials"
+              "Finding how fast the radius of a balloon increases as it is inflated",
+              "Measuring the weight of a balloon at rest",
+              "Finding the exact colour of a balloon",
+              "Counting the total number of balloons in a room"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Physics",
-        "title": "The Quantum Zeno Effect",
-        "summary": "Grade 12 Physics strand: the quantum Zeno effect describes how frequent measurement of a quantum system can suppress its evolution, effectively freezing an unstable state in place, because each measurement collapses the system back toward its initial state before it can evolve significantly.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: The Physics of Black Holes",
+        "summary": "Grade 8 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape it, formed when a massive star collapses at the end of its life.",
+        "resourceLabel": "YouTube: Science: The Physics of Black Holes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Physics%20of%20Black%20Holes%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the quantum Zeno effect describe?",
+            "q": "What is a black hole?",
             "options": [
-              "A system entirely unaffected by any measurement performed on it",
-              "Frequent measurement suppressing the evolution of a quantum system",
-              "A purely classical effect with no connection to quantum measurement",
-              "A quantum system that evolves faster the more it is measured"
+              "A bright star that never changes",
+              "A region in space with gravity so strong nothing can escape it",
+              "A concept unrelated to astronomy",
+              "An empty area of space with no gravity at all"
             ],
             "answer": 1
           },
           {
-            "q": "What happens to an unstable quantum state under sufficiently frequent measurement, according to this effect?",
+            "q": "Can light escape from a black hole?",
             "options": [
-              "It decays instantly regardless of how often it is measured",
-              "Its evolution is effectively suppressed, freezing it closer to its initial state",
-              "It transforms immediately into a completely different particle",
-              "It becomes entirely undetectable to any measurement"
+              "No",
+              "Only some types of light can escape",
+              "A concept unrelated to black holes",
+              "Yes, light easily escapes a black hole"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why does each measurement tend to collapse the system back toward its initial state?",
+            "q": "How does a black hole typically form?",
             "options": [
-              "Measurement only affects classical systems, never quantum ones",
-              "Measurement in quantum mechanics has no effect on a systems state at all",
-              "Measurement in quantum mechanics collapses the systems state, resetting its subsequent evolution",
-              "Each measurement always pushes the system further from its initial state"
+              "When a planet cools down over time",
+              "A concept unrelated to black holes",
+              "When a massive star collapses at the end of its life",
+              "When a star is first formed from gas and dust"
             ],
             "answer": 2
           },
           {
-            "q": "After which ancient philosopher is the quantum Zeno effect named, referencing paradoxes about motion?",
+            "q": "Why can’t scientists directly see a black hole, even with powerful telescopes?",
             "options": [
-              "Zeno",
-              "Pythagoras",
-              "Euclid",
-              "Aristotle"
+              "This concept has no connection to how black holes work",
+              "A black hole itself emits no light, since even light cannot escape its gravity",
+              "Black holes are actually very easy to see directly with the naked eye",
+              "Black holes emit extremely bright light that can always be seen"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is the quantum Zeno effect considered a striking illustration of how measurement itself affects quantum systems?",
+            "q": "Why do scientists study the effects of black holes on nearby stars and matter?",
             "options": [
-              "It shows that the very act of observing a system can change its physical evolution, not just reveal a pre-existing outcome",
-              "It demonstrates that unstable states are entirely unaffected by any external interaction",
-              "It shows that quantum measurement never influences a systems evolution in any way",
-              "It proves that quantum mechanics behaves identically to classical mechanics in every case"
+              "Black holes have no measurable effect on their surroundings",
+              "This concept has no relevance to science",
+              "Nearby stars are never affected in any way by a black hole",
+              "Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"
             ],
-            "answer": 0
+            "answer": 3
           }
         ]
       }
@@ -38847,63 +38951,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Legendre Polynomials and Orthogonal Functions",
-        "summary": "Grade 12 Calculus strand: Legendre polynomials are a sequence of polynomials that arise as solutions to a particular differential equation and are mutually orthogonal with respect to integration over a fixed interval, letting other functions be expanded as a weighted sum of them, analogous to a Fourier series.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: Continuity of Functions",
+        "summary": "Grade 9 Math strand: a function is continuous at a point if its graph has no break, jump, or hole there, meaning the limit of the function as it approaches that point equals the actual value of the function at that point.",
+        "resourceLabel": "YouTube: Calculus Preview: Continuity of Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20Continuity%20of%20Functions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What differential equation are Legendre polynomials solutions to?",
+            "q": "What does it mean for a function to be continuous at a point?",
             "options": [
-              "An equation with no polynomial solutions whatsoever",
-              "The simple harmonic oscillator equation exclusively",
-              "A first-order equation with no boundary conditions of any kind",
-              "Legendres differential equation, a specific second-order linear equation"
+              "The graph must always be a straight line",
+              "The function only exists for negative numbers",
+              "The function is undefined at every single point",
+              "Its graph has no break, jump, or hole at that point"
             ],
             "answer": 3
           },
           {
-            "q": "What special relationship do different Legendre polynomials have with respect to integration over a fixed interval?",
+            "q": "For a function to be continuous at a point, its limit at that point must equal what?",
             "options": [
-              "They are always identical to one another",
-              "They are mutually orthogonal",
-              "They have no defined relationship to each other at all",
-              "They cancel each other out completely when added"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What can orthogonality of Legendre polynomials be used for, similar to a Fourier series studied earlier?",
-            "options": [
-              "Converting every function into a single constant value",
-              "Expanding other functions as a weighted sum of the Legendre polynomials",
-              "Eliminating the need for any function expansion at all",
-              "Making it impossible to represent any other function"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In which type of coordinate system do Legendre polynomials frequently appear in physics applications?",
-            "options": [
-              "Exclusively in purely time-based coordinate systems",
-              "Only in one-dimensional Cartesian coordinates with no angle involved",
-              "Spherical coordinates, such as in problems with spherical symmetry",
-              "Coordinate systems with no spatial meaning at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why are orthogonal function families like the Legendre polynomials useful tools in solving physical problems?",
-            "options": [
-              "They eliminate the need to ever solve a differential equation",
-              "They make every physical problem impossible to solve",
-              "They can only be applied to problems with no boundary conditions",
-              "They let complicated functions be decomposed into simpler, mutually independent building blocks"
+              "Zero, regardless of the function",
+              "The largest value the function ever reaches",
+              "A value chosen at random with no connection to the function",
+              "The actual value of the function at that point"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which of these would indicate a function is not continuous at a specific point?",
+            "options": [
+              "A hole or gap in the graph at that point",
+              "A smooth curve with no interruptions",
+              "A function defined everywhere with matching limits",
+              "A straight line with no breaks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the concept of continuity closely related to the concept of a limit?",
+            "options": [
+              "Continuity requires that a functions limit at a point actually match the functions value there",
+              "Continuity has no mathematical definition at all",
+              "Limits can only be calculated for continuous functions, never any other kind",
+              "Continuity and limits are entirely unrelated mathematical ideas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A function that is continuous over an entire interval can generally be drawn how?",
+            "options": [
+              "Without lifting a pen from the paper across that interval",
+              "Only by using a ruler with no curves allowed",
+              "Only if the function is a straight line",
+              "It is impossible to draw a continuous function at all"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Physics",
@@ -39093,58 +39196,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Airy Function and Turning Point Problems",
-        "summary": "Grade 12 Calculus strand: the Airy function is a special function that solves a simple-looking second-order differential equation whose solutions oscillate on one side of the origin and decay exponentially on the other, making it a key tool for analyzing turning point problems where a systems behaviour changes character.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Math Review: Algebra, Number Theory, Statistics, and Calculus Preview",
+        "summary": "Grade 9 Math strand review: students revisit radical equations, the Euclidean algorithm, Bayes Theorem, z-scores, and continuity of functions from Days 131-139.",
+        "resourceLabel": "YouTube: Math Review: Algebra, Number Theory, Statistics, and Calculus Preview",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Algebra%2C%20Number%20Theory%2C%20Statistics%2C%20and%20Calculus%20Preview%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What differential equation does the Airy function solve?",
+            "q": "What defines a radical equation?",
             "options": [
-              "A simple-looking second-order equation whose solution behaviour changes character at the origin",
-              "A purely algebraic equation unrelated to any differential equation",
-              "An equation with no differential structure at all",
-              "A first-order equation with only exponential solutions"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the Airy functions behaviour differ on either side of the origin?",
-            "options": [
-              "It oscillates on one side and decays exponentially on the other",
-              "It oscillates identically on both sides with no distinction",
-              "It is exactly zero everywhere on both sides",
-              "It grows without bound on both sides of the origin"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a turning point problem, in the context where the Airy function is applied?",
-            "options": [
-              "A purely geometric problem with no differential equation involved",
-              "A problem that only ever has a single constant solution",
-              "A problem with no defined behaviour at any point",
-              "A problem where a systems qualitative behaviour changes character at a particular point"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In which field of physics does the Airy function commonly arise when analyzing wave behaviour near a turning point?",
-            "options": [
-              "Ancient history with no connection to physics",
-              "Purely classical mechanics with no wave behaviour involved",
-              "Optics and quantum mechanics",
-              "A field entirely unrelated to any physical wave phenomenon"
+              "An equation that cannot be graphed",
+              "An equation with no variables of any kind",
+              "An equation in which a variable appears inside a radical, such as a square root",
+              "An equation that only involves whole number coefficients"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Airy function considered a useful special function beyond elementary functions like sine or the exponential?",
+            "q": "What does the Euclidean algorithm calculate?",
             "options": [
-              "Elementary functions can always fully replace it with no loss of behaviour",
-              "It captures behaviour, such as the transition between oscillation and decay, that elementary functions alone cannot represent",
-              "It has no distinguishing mathematical properties of its own",
-              "It behaves identically to the sine function in every situation"
+              "The exact prime factorization of a single number",
+              "The least common multiple of every integer",
+              "The sum of two unrelated fractions",
+              "The greatest common divisor of two integers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Bayes Theorem allow you to do?",
+            "options": [
+              "Determine the exact value of an unrelated variable",
+              "Eliminate the need for probability altogether",
+              "Update the probability of an event based on new evidence",
+              "Calculate the area of any triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a z-score measure?",
+            "options": [
+              "The total number of data points in a set",
+              "The exact colour associated with a data point",
+              "How many standard deviations a data point lies above or below the mean",
+              "The name of the variable being studied"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a function to be continuous at a point?",
+            "options": [
+              "The function only exists for negative numbers",
+              "Its graph has no break, jump, or hole at that point",
+              "The function is undefined at every single point",
+              "The graph must always be a straight line"
             ],
             "answer": 1
           }
@@ -39335,62 +39438,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Multivariable Theorems and Series Techniques",
-        "summary": "Grade 12 Calculus review: revisiting the implicit function theorem, improper double integrals, the method of characteristics, Greens identities, and the Dirichlet test from Days 151-155.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: Optimization Problems Using Derivatives",
+        "summary": "Grade 10 Math strand: optimization problems use derivatives to find the maximum or minimum value of a quantity, typically by setting the derivative of a function equal to zero to locate critical points and then testing which point yields the greatest or least value.",
+        "resourceLabel": "YouTube: Calculus: Optimization Problems Using Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Optimization%20Problems%20Using%20Derivatives%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the implicit function theorem allow, even when an equation cannot be explicitly rearranged?",
+            "q": "What do optimization problems in calculus typically find?",
             "options": [
-              "Locally solving for one variable as a differentiable function of the others",
-              "Removing all variables from an equation entirely",
-              "Guaranteeing a function has no derivative at any point",
-              "Solving every equation explicitly without exception"
+              "The maximum or minimum value of a quantity",
+              "The total number of variables in an equation",
+              "The exact colour of a graphed function",
+              "The name of the mathematician who first studied the function"
             ],
             "answer": 0
           },
           {
-            "q": "How is an improper double integral typically evaluated?",
+            "q": "What is the first step commonly used to locate a critical point?",
             "options": [
-              "By converting it into a single-variable integral with no limit process",
-              "By ignoring the unbounded part of the region entirely",
-              "By always assigning it a value of zero automatically",
-              "As a limit of proper double integrals over an expanding bounded region"
+              "Multiplying the function by a random constant",
+              "Graphing the function without calculating anything",
+              "Setting the derivative of the function equal to zero",
+              "Ignoring the function entirely and guessing an answer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a critical point in an optimization problem?",
+            "options": [
+              "A point defined only by its y-intercept",
+              "A point that never appears on a graph",
+              "A point where the function is always negative",
+              "A point where the derivative is zero or undefined"
             ],
             "answer": 3
           },
           {
-            "q": "What are characteristic curves, in the context of the method of characteristics?",
+            "q": "Why must a critical point be tested after it is found?",
             "options": [
-              "Curves along which the PDE reduces to a simpler ordinary differential equation",
-              "Curves with no relationship to the original PDE at all",
-              "A single fixed point with no curve involved",
-              "Curves that only exist for algebraic equations"
+              "To determine whether it represents a maximum, a minimum, or neither",
+              "Because testing a critical point is never necessary",
+              "Because critical points are always automatically the maximum",
+              "To convert the critical point into a whole number"
             ],
             "answer": 0
           },
           {
-            "q": "What operator do Greens identities relate to boundary integrals?",
+            "q": "Which real-world scenario is a classic example of an optimization problem?",
             "options": [
-              "The cross product of two vectors",
-              "The determinant of a matrix",
-              "The factorial of an integer",
-              "The Laplacian of a function over a region"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What condition must the partial sums of one sequence satisfy for the Dirichlet test to apply?",
-            "options": [
-              "They must always equal exactly zero",
-              "They must remain bounded",
-              "They must grow without any bound at all",
-              "They must be strictly negative at every step"
+              "Counting the total number of boxes in a warehouse",
+              "Finding the dimensions that minimize the material used to build a box of fixed volume",
+              "Determining the manufacturer of a randomly selected box",
+              "Measuring the exact colour of a box"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -39578,63 +39682,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Systems of Linear Differential Equations and the Matrix Exponential Approach",
-        "summary": "Grade 12 Calculus strand: a system of linear differential equations describes several interrelated quantities changing over time at once, and writing the system in matrix form lets its solution be expressed using the matrix exponential, built from the eigenvalues and eigenvectors of the coefficient matrix.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: The Cross Product of Vectors",
+        "summary": "Grade 9 Math strand: the cross product of two vectors produces a new vector that is perpendicular to both original vectors, with a magnitude equal to the area of the parallelogram they form, distinguishing it from the dot product, which produces a scalar.",
+        "resourceLabel": "YouTube: Geometry: The Cross Product of Vectors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20The%20Cross%20Product%20of%20Vectors%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does a system of linear differential equations describe?",
+            "q": "What kind of quantity results from taking the cross product of two vectors?",
             "options": [
-              "A single isolated quantity with no relationship to any other variable",
-              "Several interrelated quantities changing over time at once",
-              "A system with no matrix representation possible",
-              "A purely algebraic system with no rates of change involved"
+              "A new vector that is perpendicular to both original vectors",
+              "An angle measured in degrees only",
+              "A single number with no direction at all",
+              "A colour representing the vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the cross product differ from the dot product of two vectors?",
+            "options": [
+              "The cross product always produces zero, while the dot product never does",
+              "The cross product produces a vector, while the dot product produces a scalar",
+              "There is no difference between the two operations at all",
+              "The dot product produces a vector, while the cross product produces a scalar"
             ],
             "answer": 1
           },
           {
-            "q": "What mathematical object is used to express the solution of a linear system written in matrix form?",
+            "q": "What does the magnitude of the cross product of two vectors represent geometrically?",
             "options": [
-              "A single scalar constant with no matrix involved",
-              "A system with no defined solution of any kind",
-              "The determinant of the coefficient matrix alone",
-              "The matrix exponential"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which earlier-studied concepts are used to construct the matrix exponential for a given system?",
-            "options": [
-              "The mean and standard deviation of a data set",
-              "The eigenvalues and eigenvectors of the coefficient matrix",
-              "The trapezoid rule for numerical integration",
-              "The binomial theorem"
+              "The angle between the two vectors measured in radians",
+              "The area of the parallelogram formed by the two vectors",
+              "The volume of a sphere with no connection to the vectors",
+              "The length of a single straight line segment only"
             ],
             "answer": 1
           },
           {
-            "q": "How does this matrix approach relate to solving a single second-order linear differential equation with constant coefficients, studied earlier?",
+            "q": "In three-dimensional space, the cross product of two parallel vectors produces what result?",
             "options": [
-              "The two techniques share no mathematical connection whatsoever",
-              "The matrix exponential approach only applies to algebraic equations, not differential ones",
-              "Systems of differential equations can never be reduced to a single equation",
-              "A single higher-order equation can be rewritten as a system of first-order equations and solved the same way"
+              "A scalar equal to the sum of the two vectors",
+              "A zero vector, since there is no unique perpendicular direction",
+              "The same two original vectors unchanged",
+              "A vector with infinite magnitude"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why is expressing a coupled system in matrix form useful for analysis and computation?",
+            "q": "Which rule is commonly used to determine the direction of a cross product vector?",
             "options": [
-              "Matrix notation removes all information about how the equations are coupled",
-              "Matrix notation eliminates the need to ever compute eigenvalues",
-              "It organizes multiple interacting equations into a single structured object whose behaviour can be studied using linear algebra tools",
-              "Matrix form can only be used when the equations are completely unrelated to one another"
+              "The quadratic formula",
+              "The right-hand rule",
+              "The Pythagorean theorem",
+              "The order of operations"
             ],
-            "answer": 2
+            "answer": 1
           }
         ],
-        "topic": "Exponents & Powers"
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
@@ -39822,62 +39926,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Sturm-Liouville Theory and Eigenfunction Problems",
-        "summary": "Grade 12 Calculus strand: Sturm-Liouville theory studies a class of second-order differential equations whose solutions, under suitable boundary conditions, form an orthogonal family of eigenfunctions with associated eigenvalues, generalizing the framework behind Legendre polynomials and other special functions studied earlier.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Statistics: An Introduction to Confidence Intervals",
+        "summary": "Grade 9 Math strand: a confidence interval estimates a range of values likely to contain the true population parameter, and a stated confidence level, such as 95 percent, describes how often intervals built this way would capture the true value if the sampling process were repeated.",
+        "resourceLabel": "YouTube: Statistics: An Introduction to Confidence Intervals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Confidence%20Intervals%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of equation does Sturm-Liouville theory study?",
+            "q": "What does a confidence interval estimate?",
             "options": [
-              "A first-order equation with no boundary conditions of any kind",
-              "A purely algebraic equation with no derivatives involved",
-              "A class of second-order differential equations with associated boundary conditions",
-              "An equation with no possible eigenfunction solutions"
+              "The total number of people surveyed in a study",
+              "A range of values likely to contain the true population parameter",
+              "The exact, single true value of a population parameter with certainty",
+              "The colour associated with a particular data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a 95 percent confidence level generally indicate?",
+            "options": [
+              "The interval is guaranteed to be wrong 95 percent of the time",
+              "The result is true with absolutely no possibility of error",
+              "If the sampling process were repeated many times, about 95 percent of the resulting intervals would contain the true parameter",
+              "Exactly 95 percent of the population was directly surveyed"
             ],
             "answer": 2
           },
           {
-            "q": "What structure do the solutions of a Sturm-Liouville problem form, under suitable boundary conditions?",
+            "q": "What generally happens to a confidence interval as the sample size increases, all else equal?",
             "options": [
-              "A set of solutions unrelated to any eigenvalue",
-              "A family of solutions with no orthogonality property at all",
-              "An orthogonal family of eigenfunctions with associated eigenvalues",
-              "A single, unique solution with no other related solutions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which earlier-studied special functions fit within the general Sturm-Liouville framework?",
-            "options": [
-              "Legendre polynomials",
-              "The determinant of a matrix",
-              "The Fibonacci sequence",
-              "The binomial coefficients"
+              "The confidence interval becomes narrower",
+              "The confidence interval disappears entirely",
+              "The confidence interval becomes wider with no exceptions",
+              "Sample size has no effect on a confidence interval at all"
             ],
             "answer": 0
           },
           {
-            "q": "What can the orthogonal eigenfunctions from a Sturm-Liouville problem be used for, similar to a Fourier series?",
+            "q": "Why is a confidence interval more informative than a single point estimate alone?",
             "options": [
-              "Making it impossible to represent any other function",
-              "Eliminating the need for any function expansion",
-              "Expanding other functions as a weighted sum of the eigenfunctions",
-              "Converting every function into a single constant"
+              "It communicates the uncertainty and likely range around the estimated value",
+              "It guarantees the exact true value with no uncertainty at all",
+              "A confidence interval removes the need for any sample data",
+              "A point estimate always provides more information than any interval"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is Sturm-Liouville theory considered a unifying framework for several special functions studied across this course?",
+            "q": "Which statistical concept from an earlier lesson is directly used to construct many confidence intervals?",
             "options": [
-              "It only applies to a single special function with no broader generalization",
-              "It removes the need to ever consider boundary conditions",
-              "It shows that many previously separate special functions arise as eigenfunctions of the same general type of boundary value problem",
-              "It proves that special functions such as Legendre polynomials have no relationship to one another"
+              "Sigma notation alone, with no other concept involved",
+              "The distributive property",
+              "The Euclidean algorithm",
+              "The z-score, since it standardizes distance from the mean"
             ],
-            "answer": 2
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Physics",
@@ -40065,63 +40170,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Multistep Methods: The Adams-Bashforth Technique for Differential Equations",
-        "summary": "Grade 12 Calculus strand: the Adams-Bashforth method is a multistep numerical technique for solving differential equations that estimates each new value using several previously computed points rather than only the most recent one, often achieving greater accuracy than single-step methods like Eulers method for a comparable step size.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Sequences and Series: Infinite Geometric Series and Convergence",
+        "summary": "Grade 9 Math strand: an infinite geometric series converges to a finite sum, given by a divided by one minus r, whenever the absolute value of the common ratio r is less than one, and it diverges otherwise since the terms no longer shrink toward zero.",
+        "resourceLabel": "YouTube: Sequences and Series: Infinite Geometric Series and Convergence",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%20and%20Series%3A%20Infinite%20Geometric%20Series%20and%20Convergence%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinguishes a multistep method like Adams-Bashforth from a single-step method such as Eulers method?",
+            "q": "Under what condition does an infinite geometric series converge to a finite sum?",
             "options": [
-              "It estimates each new value using several previously computed points rather than only the most recent one",
-              "It requires recomputing the entire solution from scratch at every step",
-              "It can only ever be applied to algebraic equations, not differential ones",
-              "It uses no previous data of any kind at every step"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of problem is the Adams-Bashforth method designed to solve numerically?",
-            "options": [
-              "Static geometry problems with no rates of change",
-              "Problems with no numerical component whatsoever",
-              "Differential equations",
-              "Purely algebraic equations with no derivatives"
+              "When the first term of the series equals zero",
+              "When every term in the series is negative",
+              "When the absolute value of the common ratio is less than one",
+              "When the common ratio is exactly equal to ten"
             ],
             "answer": 2
           },
           {
-            "q": "What advantage can a multistep method like Adams-Bashforth offer compared to Eulers method for a similar step size?",
+            "q": "What is the formula for the sum of a convergent infinite geometric series with first term a and common ratio r?",
             "options": [
-              "Often greater accuracy, by making use of more information from earlier points",
-              "It always produces exactly the same accuracy as Eulers method in every case",
-              "It guarantees an error of exactly zero regardless of step size",
-              "It eliminates the need for any step size at all"
+              "a multiplied by r squared",
+              "a divided by (1 minus r)",
+              "a minus r multiplied by n",
+              "a plus r divided by two"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "How does the Adams-Bashforth method relate to the Runge-Kutta methods studied in an earlier batch?",
+            "q": "What happens to an infinite geometric series if the absolute value of the common ratio is greater than or equal to one?",
             "options": [
-              "Both are numerical techniques for approximating solutions to differential equations, though Runge-Kutta uses intermediate evaluations within a single step rather than several previous steps",
-              "Adams-Bashforth requires no numerical approximation of any kind",
-              "The two methods have no relationship to one another whatsoever",
-              "Runge-Kutta methods are a type of multistep method identical to Adams-Bashforth"
+              "The series always converges to exactly one",
+              "The series instantly becomes a finite arithmetic series",
+              "The series always converges to zero",
+              "The series diverges and has no finite sum"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a multistep method require special starting values before it can begin its normal iteration?",
+            "q": "What is the sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ...?",
             "options": [
-              "It needs several previous points to work from, which are not yet available at the very start of the computation",
-              "Multistep methods never require any starting information at all",
-              "A multistep method can begin using only a single arbitrary future point",
-              "Starting values are irrelevant to any numerical differential equation method"
+              "Infinity",
+              "1",
+              "2",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must the common ratio be strictly between negative one and one for convergence?",
+            "options": [
+              "Outside that range, the terms do not shrink toward zero, so the partial sums never settle on a finite value",
+              "A common ratio outside that range always produces a sum of exactly zero",
+              "Any common ratio always results in a convergent series",
+              "The common ratio has no effect whatsoever on convergence"
             ],
             "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Physics",
@@ -40555,63 +40660,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Gibbs Phenomenon and Convergence of Fourier Series",
-        "summary": "Grade 12 Calculus strand: the Gibbs phenomenon is a persistent overshoot that appears near a jump discontinuity when a Fourier series approximation of a function is truncated to finitely many terms, an overshoot that does not vanish as more terms are added, even though the series still converges to the function elsewhere.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Math Review: Exponential Equations, Cross Products, Markov Chains, and Series",
+        "summary": "Grade 9 Math strand review: students revisit solving exponential equations, the cross product of vectors, Markov chains, infinite geometric series, and the definite integral from Days 141-149.",
+        "resourceLabel": "YouTube: Math Review: Exponential Equations, Cross Products, Markov Chains, and Series",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Exponential%20Equations%2C%20Cross%20Products%2C%20Markov%20Chains%2C%20and%20Series%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What is the Gibbs phenomenon?",
+            "q": "What defines an exponential equation?",
             "options": [
-              "A persistent overshoot near a jump discontinuity in a truncated Fourier series approximation",
-              "A phenomenon that only occurs in functions with no discontinuities at all",
-              "A guarantee that a Fourier series always converges perfectly with no error at any point",
-              "A complete failure of the Fourier series to converge anywhere"
+              "An equation with no exponents of any kind",
+              "An equation that cannot be graphed",
+              "An equation that only involves whole number coefficients",
+              "An equation in which the variable appears in the exponent"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Where does the Gibbs phenomenon specifically appear in a functions Fourier approximation?",
+            "q": "What kind of quantity results from taking the cross product of two vectors?",
             "options": [
-              "Only at the single midpoint of the functions domain",
-              "Near a jump discontinuity in the function being approximated",
-              "Uniformly across the entire domain with no special location",
-              "Only at points where the function is perfectly smooth and continuous"
+              "A single number with no direction at all",
+              "A new vector that is perpendicular to both original vectors",
+              "An angle measured in degrees only",
+              "A colour representing the vectors"
             ],
             "answer": 1
           },
           {
-            "q": "What happens to the size of the Gibbs overshoot as more terms are added to the truncated Fourier series?",
+            "q": "What is a defining feature of a Markov chain?",
             "options": [
-              "The overshoot only appears if exactly one term is used",
-              "The overshoot disappears completely once even a few terms are included",
-              "The overshoot grows without bound as more terms are added",
-              "The overshoot persists at roughly the same height, even as more terms are added"
+              "A Markov chain can only ever have a single possible state",
+              "The probabilities in a Markov chain are always identical for every state",
+              "Every future state depends equally on all previous states combined",
+              "The probability of moving to the next state depends only on the current state, not on earlier history"
             ],
             "answer": 3
           },
           {
-            "q": "Which earlier-studied representation of a function does the Gibbs phenomenon specifically concern?",
+            "q": "Under what condition does an infinite geometric series converge to a finite sum?",
             "options": [
-              "The continued fraction expansion",
-              "The partial fraction decomposition",
-              "The Taylor series",
-              "The Fourier series"
+              "When the first term of the series equals zero",
+              "When the absolute value of the common ratio is less than one",
+              "When the common ratio is exactly equal to ten",
+              "When every term in the series is negative"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why is the Gibbs phenomenon an important practical consideration when using truncated Fourier series to model signals with sharp discontinuities?",
+            "q": "What does a definite integral generally represent geometrically?",
             "options": [
-              "It proves that Fourier series can never be used to approximate any function with a discontinuity",
-              "It shows that the Gibbs overshoot always vanishes entirely once the series converges",
-              "It has no practical relevance to any real signal or application",
-              "It shows that truncated approximations can retain a persistent, non-vanishing error near discontinuities, which matters for applications sensitive to overshoot"
+              "The area under a curve between two specified boundaries",
+              "The exact location of a single point on a graph",
+              "The slope of a single straight line",
+              "The perimeter of a triangle drawn on a coordinate plane"
             ],
-            "answer": 3
+            "answer": 0
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Physics",
@@ -40801,123 +40905,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Cesaro Summation and Assigning Values to Divergent Series",
-        "summary": "Grade 12 Calculus strand: Cesaro summation assigns a value to certain divergent series by taking the limit of the averages of their partial sums rather than the partial sums themselves, allowing a meaningful sum to be defined for series, such as the alternating series of ones and negative ones, that do not converge in the ordinary sense.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: The Second Derivative and Concavity",
+        "summary": "Grade 10 Math strand: the second derivative of a function measures how the rate of change itself is changing, and its sign indicates concavity, with a positive second derivative showing the graph curves upward and a negative second derivative showing the graph curves downward.",
+        "resourceLabel": "YouTube: Calculus: The Second Derivative and Concavity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Second%20Derivative%20and%20Concavity%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Cesaro summation compute, instead of taking the limit of a series partial sums directly?",
+            "q": "What does the second derivative of a function measure?",
             "options": [
-              "The limit of the individual terms of the series alone",
-              "The limit of the averages of the partial sums",
-              "The largest single partial sum in the entire sequence",
-              "The product, rather than any kind of average or sum, of the partial sums"
+              "The exact value of the function at a single point",
+              "How the rate of change of the function is itself changing",
+              "The total area under the graph of the function",
+              "The number of times the function crosses the x-axis"
             ],
             "answer": 1
           },
           {
-            "q": "What kind of series can Cesaro summation sometimes assign a meaningful value to?",
+            "q": "What does a positive second derivative indicate about a graph?",
             "options": [
-              "Only series with a single term and no further terms",
-              "Certain divergent series that do not converge in the ordinary sense",
-              "Only series that already converge in the ordinary sense",
-              "A series consisting entirely of zeros"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What value does Cesaro summation classically assign to a simple alternating series of ones and negative ones?",
-            "options": [
-              "The method assigns no value to this series at all",
-              "Exactly zero, with no averaging involved",
-              "One-half, from averaging its oscillating partial sums",
-              "Positive infinity, since the series never settles down"
+              "The graph has no defined slope anywhere",
+              "The graph is a perfectly straight line",
+              "The graph is concave up, curving upward",
+              "The graph is concave down, curving downward"
             ],
             "answer": 2
           },
           {
-            "q": "How does Cesaro summation relate to Abel summation, studied in an earlier batch?",
+            "q": "What does a negative second derivative indicate about a graph?",
             "options": [
-              "Abel summation and Cesaro summation have no shared purpose whatsoever",
-              "The two methods are identical in every technical detail",
-              "Cesaro summation can only be applied to convergent series, unlike Abel summation",
-              "Both are methods for assigning values to certain divergent series, though Abel summation and Cesaro summation use different underlying limiting procedures"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why must a summation method like Cesaro summation be consistent with ordinary convergence for series that do converge normally?",
-            "options": [
-              "It should reproduce the standard sum whenever a series already converges in the usual sense, so it extends rather than contradicts ordinary summation",
-              "Consistency with ordinary convergence is not a meaningful requirement for any summation method",
-              "Cesaro summation always contradicts the ordinary sum of a convergent series",
-              "A summation method must always disagree with the standard result whenever possible"
+              "The graph is concave down, curving downward",
+              "The function has no first derivative",
+              "The function is undefined at every point",
+              "The graph is concave up, curving upward"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is an inflection point?",
+            "options": [
+              "A point that only exists on a straight line",
+              "A point where a graph reaches its highest possible value forever",
+              "A point where the concavity of a graph changes from up to down or down to up",
+              "A point where a function is never continuous"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the second derivative typically calculated?",
+            "options": [
+              "By multiplying the function by zero",
+              "By evaluating the function at x equals zero only",
+              "By taking the derivative of the first derivative",
+              "By taking the square root of the original function"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
-        "title": "The Quantum Harmonic Oscillator and Energy Quantization",
-        "summary": "Grade 12 Physics strand: the quantum harmonic oscillator models a particle in a parabolic potential well and shows that, unlike a classical oscillator, it can only possess discrete, evenly spaced energy levels, including a nonzero minimum called the zero-point energy, illustrating a general feature of bound quantum systems.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: Black Holes and General Relativity Basics",
+        "summary": "Grade 9 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape, and its existence is explained by Einstein’s theory of general relativity.",
+        "resourceLabel": "YouTube: Science: Black Holes and General Relativity Basics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Black%20Holes%20and%20General%20Relativity%20Basics%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of potential does the quantum harmonic oscillator model a particle as moving within?",
+            "q": "What is a black hole?",
             "options": [
-              "A potential defined solely by electric charge with no spatial shape",
-              "A potential that exists only outside of any bound region",
-              "A completely flat potential with no variation at all",
-              "A parabolic potential well"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How do the allowed energy levels of the quantum harmonic oscillator differ from those of a classical oscillator?",
-            "options": [
-              "They are identical in every way to the continuous energies allowed classically",
-              "The quantum oscillator allows only a single fixed energy level with no others possible",
-              "Quantum energy levels are always spaced further apart at lower energies than at higher ones",
-              "They are discrete and evenly spaced, rather than forming a smooth continuous range"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the zero-point energy of a quantum harmonic oscillator?",
-            "options": [
-              "An energy value that only applies to classical, non-quantum oscillators",
-              "The maximum possible energy the oscillator can ever reach",
-              "An energy level equal to exactly zero in the lowest possible state",
-              "A nonzero minimum energy the system always retains, even in its lowest possible state"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the quantum harmonic oscillator illustrate a general feature shared with other bound quantum systems, such as the atom studied earlier?",
-            "options": [
-              "Bound quantum systems never display any quantization of energy",
-              "The quantum harmonic oscillator behaves identically to a completely free, unbound particle",
-              "Confinement leads to quantized, discrete energy levels rather than a continuous range of allowed energies",
-              "Energy quantization is a feature unique to the harmonic oscillator alone"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the quantum harmonic oscillator considered an especially important model system in quantum mechanics?",
-            "options": [
-              "It has no application to any physical system beyond a single idealized spring",
-              "Many more complicated physical systems can be approximated, near a stable equilibrium, by a harmonic oscillator potential",
-              "It is the only quantum system in which energy levels are ever quantized",
-              "The model applies exclusively to macroscopic, classical-scale objects"
+              "An empty area of space with no gravity at all",
+              "A region in space with gravity so strong nothing can escape it",
+              "A bright star that never changes",
+              "A concept unrelated to astronomy"
             ],
             "answer": 1
+          },
+          {
+            "q": "Can light escape from a black hole?",
+            "options": [
+              "No",
+              "Yes, light easily escapes a black hole",
+              "A concept unrelated to black holes",
+              "Only some types of light can escape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which scientific theory helps explain the existence of black holes?",
+            "options": [
+              "The theory of evolution",
+              "Einstein’s theory of general relativity",
+              "A concept unrelated to black holes",
+              "The germ theory of disease"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can’t scientists directly see a black hole, even with powerful telescopes?",
+            "options": [
+              "A black hole itself emits no light, since even light cannot escape its gravity",
+              "Black holes are actually very easy to see directly with the naked eye",
+              "Black holes emit extremely bright light that can always be seen",
+              "This concept has no connection to how black holes work"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do scientists study the effects of black holes on nearby stars and matter?",
+            "options": [
+              "This concept has no relevance to science",
+              "Black holes have no measurable effect on their surroundings",
+              "Nearby stars are never affected in any way by a black hole",
+              "Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Energy"
+        ]
       }
     ]
   },
@@ -41046,63 +41149,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Riemann Rearrangement Theorem and Conditionally Convergent Series",
-        "summary": "Grade 12 Calculus strand: the Riemann rearrangement theorem states that the terms of a conditionally convergent series, one that converges only because of cancellation between positive and negative terms rather than absolute convergence, can be reordered to converge to any chosen real number, or even to diverge entirely.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: Vector Equations of Lines",
+        "summary": "Grade 9 Math strand: a line in space can be described using a vector equation that combines a known point on the line with a direction vector scaled by a parameter, allowing every point on the line to be generated as that parameter varies.",
+        "resourceLabel": "YouTube: Geometry: Vector Equations of Lines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Vector%20Equations%20of%20Lines%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What surprising conclusion does the Riemann rearrangement theorem reach about certain series?",
+            "q": "What two pieces of information are needed to write the vector equation of a line?",
             "options": [
-              "Every series becomes divergent the moment its terms are reordered",
-              "Reordering the terms of any series always leaves its sum completely unchanged",
-              "Rearranging terms is never mathematically permitted for any type of series",
-              "Reordering the terms of a conditionally convergent series can change its sum to any chosen real number, or make it diverge"
+              "Only the colour used to draw the line",
+              "The area enclosed by the line and the x-axis",
+              "Only the length of the line, with no other information",
+              "A known point on the line and a direction vector parallel to the line"
             ],
             "answer": 3
           },
           {
-            "q": "What defines a conditionally convergent series, as distinct from an absolutely convergent one?",
+            "q": "In the vector equation r = r0 + t*d, what does the parameter t represent?",
             "options": [
-              "It never converges under any possible arrangement of its terms",
-              "It converges only because of cancellation between positive and negative terms, not because the series of absolute values converges",
-              "It contains only positive terms with no cancellation of any kind",
-              "It converges regardless of the order in which its terms are summed"
+              "The angle between the line and the x-axis",
+              "A scalar that varies to generate every different point along the line",
+              "A fixed constant that never changes for any point on the line",
+              "The exact length of the direction vector only"
             ],
             "answer": 1
           },
           {
-            "q": "Does the Riemann rearrangement theorem apply to absolutely convergent series in the same surprising way?",
+            "q": "What does the direction vector in a vector equation of a line indicate?",
             "options": [
-              "The theorem applies only to series with a single nonzero term",
-              "Absolutely convergent series can never be summed under any rearrangement",
-              "Yes, absolutely convergent series can also be rearranged to sum to any value",
-              "No, absolutely convergent series converge to the same sum regardless of how their terms are rearranged"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which earlier-studied convergence tests help distinguish conditional convergence from absolute convergence for an alternating series?",
-            "options": [
-              "The binomial theorem, with no connection to convergence testing",
-              "The pigeonhole principle, which addresses a different type of problem entirely",
-              "The alternating series test, together with a comparison of the series of absolute values",
-              "The quadratic formula, which has no bearing on infinite series"
+              "The exact starting point of the line only",
+              "The total distance from the origin to every point on the line",
+              "The orientation, or direction, in which the line extends through space",
+              "The colour used to represent the line on a graph"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Riemann rearrangement theorem considered a cautionary result about infinite series?",
+            "q": "Why can a vector equation describe a line in three-dimensional space more naturally than a single slope-intercept equation?",
             "options": [
-              "It proves that conditional convergence is mathematically impossible",
-              "It shows that no infinite series can ever be rearranged under any circumstances",
-              "It confirms that infinite sums always behave exactly like finite sums in every respect",
-              "It shows that some familiar rules of finite arithmetic, such as the order of addition not mattering, can fail dramatically for infinite series"
+              "Vector equations cannot be used to describe any line at all",
+              "Slope-intercept form works equally well in any number of dimensions",
+              "A vector equation only applies to curves, never to straight lines",
+              "A vector equation can represent direction and position in multiple dimensions, while slope-intercept form is limited to two dimensions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If two lines have direction vectors that are scalar multiples of each other, what can be concluded about the lines?",
+            "options": [
+              "The lines are necessarily perpendicular to each other",
+              "Nothing can be concluded about the relationship between the lines",
+              "The lines must always intersect at a single point",
+              "The lines are parallel, since their direction vectors point along the same or opposite direction"
             ],
             "answer": 3
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -41291,62 +41394,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Asymptotic Expansions and Approximating Functions for Large Arguments",
-        "summary": "Grade 12 Calculus strand: an asymptotic expansion approximates a function using a series that may not converge in the usual sense, yet whose early terms give an increasingly accurate approximation as the argument grows large, a technique especially valuable for functions with no simple closed form, such as certain special functions studied earlier.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors: Vector Equations of Lines and Planes",
+        "summary": "Grade 10 Math strand: a line in space can be described using a vector equation built from a known point and a direction vector, while a plane can be described using a known point and a normal vector, extending vector concepts to represent geometric objects algebraically.",
+        "resourceLabel": "YouTube: Vectors: Vector Equations of Lines and Planes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Vector%20Equations%20of%20Lines%20and%20Planes%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What is distinctive about an asymptotic expansion compared to a standard convergent series such as a Taylor series?",
+            "q": "What two pieces of information define the vector equation of a line?",
             "options": [
-              "It can only ever be used for functions with a simple closed form",
-              "It requires the argument to remain small rather than large",
-              "It always converges in exactly the same way as a Taylor series",
-              "It may not converge in the usual sense, yet its early terms still give an increasingly accurate approximation as the argument grows large"
+              "The colour used to draw the line on a graph",
+              "The name of the mathematician who first drew the line",
+              "Only the length of the line with no other information",
+              "A known point on the line and a direction vector"
             ],
             "answer": 3
           },
           {
-            "q": "In what regime, small or large arguments, is an asymptotic expansion typically most useful?",
+            "q": "What two pieces of information define the vector equation of a plane?",
             "options": [
-              "Only arguments that are exactly equal to one",
-              "Asymptotic expansions are never tied to any particular size of argument",
-              "Only arguments extremely close to zero",
-              "Large arguments"
+              "A single unrelated scalar with no direction",
+              "A known point on the plane and a normal vector",
+              "The temperature of the room where the plane is drawn",
+              "Only the area of the plane with no other information"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "For which kind of functions studied earlier in this course might an asymptotic expansion be especially valuable?",
+            "q": "What does a normal vector to a plane represent?",
             "options": [
-              "Special functions with no simple closed form, such as the Gamma function or Bessel functions",
-              "Only basic polynomial functions with an already simple closed form",
-              "Only constant functions with a single fixed value",
-              "Functions that already have an exact and simple algebraic formula"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the usefulness of an asymptotic expansion despite non-convergence compare to the behaviour of a divergent series studied in this batch, such as under Cesaro summation?",
-            "options": [
-              "An asymptotic expansion must always converge in the ordinary sense to be useful",
-              "Cesaro summation and asymptotic expansions apply exclusively to polynomial functions",
-              "Both situations show that a series need not converge in the ordinary sense to still carry meaningful, useful mathematical information",
-              "Asymptotic expansions and divergent series share no conceptual similarity whatsoever"
+              "A vector that lies flat within the plane itself",
+              "A vector that changes length depending on where it is measured",
+              "A vector that is perpendicular to every line lying within the plane",
+              "A vector with no defined direction"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a scientist or engineer prefer an asymptotic expansion over an exact but extremely complicated closed-form expression?",
+            "q": "What does a direction vector for a line indicate?",
             "options": [
-              "A truncated asymptotic expansion can give a simple, sufficiently accurate approximation for large arguments without needing to evaluate an unwieldy exact formula",
-              "Asymptotic expansions can only ever be used for purely theoretical purposes with no practical value",
-              "Asymptotic expansions are always less accurate than any exact closed-form expression",
-              "Exact closed-form expressions are never more complicated than an asymptotic approximation"
+              "The total number of points on the line",
+              "The exact colour of the line",
+              "The name of the plane containing the line",
+              "The direction in which the line extends through space"
             ],
-            "answer": 0
+            "answer": 3
+          },
+          {
+            "q": "Why are vector equations useful for describing lines and planes?",
+            "options": [
+              "They can only describe objects in exactly two dimensions",
+              "They have no connection to points or directions at all",
+              "They eliminate the need to ever graph a line or plane",
+              "They allow geometric objects in space to be represented and manipulated algebraically"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -41534,120 +41638,120 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Total Derivative and Differentiability in Several Variables",
-        "summary": "Grade 12 Calculus strand: the total derivative of a multivariable function captures how the function changes in response to small changes in all of its variables simultaneously, providing the precise formal criterion for differentiability in several variables that goes beyond simply having each individual partial derivative exist.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Number Theory: Perfect, Deficient, and Abundant Numbers",
+        "summary": "Grade 9 Math strand: a perfect number is equal to the sum of its proper divisors, a deficient number has a divisor sum less than the number itself, and an abundant number has a divisor sum greater than the number itself, offering a way to classify positive integers based on their divisors.",
+        "resourceLabel": "YouTube: Number Theory: Perfect, Deficient, and Abundant Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Theory%3A%20Perfect%2C%20Deficient%2C%20and%20Abundant%20Numbers%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the total derivative of a multivariable function capture?",
+            "q": "What is a perfect number?",
             "options": [
-              "How the function changes with respect to only a single variable, ignoring all others",
-              "How the function changes in response to small changes in all of its variables simultaneously",
-              "The average value of the function across its entire domain",
-              "The value of the function at a single isolated point, with no reference to change"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What formal mathematical role does the total derivative play for a multivariable function?",
-            "options": [
-              "It only applies to functions of a single variable",
-              "It has no connection to the concept of differentiability at all",
-              "It replaces the need to ever compute a partial derivative",
-              "It provides the precise criterion for differentiability in several variables"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is having each individual partial derivative exist not automatically sufficient for a multivariable function to be considered differentiable?",
-            "options": [
-              "Partial derivatives and differentiability are entirely unrelated concepts",
-              "Existence of partial derivatives is always completely sufficient for differentiability with no exceptions",
-              "The existence of individual partial derivatives alone does not guarantee the more demanding condition of a well-behaved linear approximation in every direction at once",
-              "A function can never have partial derivatives without also being fully differentiable"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the total derivative relate to the gradient vector and directional derivatives, studied in an earlier batch?",
-            "options": [
-              "The total derivative provides the underlying linear approximation from which directional derivatives, computed using the gradient, can be derived in any direction",
-              "The total derivative and the gradient vector describe completely unrelated mathematical objects",
-              "The gradient vector has no mathematical relationship to the total derivative",
-              "Directional derivatives can only be computed for functions of a single variable"
+              "A positive integer that is equal to the sum of its proper divisors",
+              "Any number that is divisible by exactly two",
+              "A number whose only divisor is itself",
+              "A positive integer with no divisors of any kind"
             ],
             "answer": 0
           },
           {
-            "q": "Why is a rigorous notion of the total derivative important for extending single-variable calculus concepts, such as the chain rule, to multivariable functions?",
+            "q": "What is the smallest perfect number, and what are its proper divisors?",
             "options": [
-              "Single-variable calculus concepts never need to be extended to multivariable functions",
-              "A rigorous total derivative has no bearing on how other calculus rules generalize",
-              "It gives the proper linear approximation framework needed to correctly generalize rules like the chain rule to functions of several variables",
-              "The total derivative removes any need for a chain rule in multivariable calculus"
+              "4, whose proper divisors sum to 3",
+              "28, whose proper divisors sum to 20",
+              "6, whose proper divisors 1, 2, and 3 sum to 6",
+              "10, whose proper divisors sum to 15"
             ],
             "answer": 2
+          },
+          {
+            "q": "What defines a deficient number?",
+            "options": [
+              "A positive integer whose proper divisors sum to exactly the number itself",
+              "A number that has no proper divisors whatsoever",
+              "A positive integer whose proper divisors sum to more than the number itself",
+              "A positive integer whose proper divisors sum to less than the number itself"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What defines an abundant number?",
+            "options": [
+              "A positive integer whose proper divisors sum to less than the number itself",
+              "A number that cannot be divided by any other number",
+              "A positive integer equal exactly to the sum of its proper divisors",
+              "A positive integer whose proper divisors sum to more than the number itself"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are perfect, deficient, and abundant numbers considered part of number theory rather than simple arithmetic?",
+            "options": [
+              "They are used exclusively to measure geometric shapes",
+              "These classifications only apply to negative numbers",
+              "They have no mathematical classification or pattern of any kind",
+              "They involve classifying integers based on properties of their divisors, a central theme of number theory"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Calculus: Derivatives"
+        "topic": "Place Value & Number Sense"
       },
       {
         "subject": "Physics",
-        "title": "Band Theory of Solids: Conductors, Insulators, and Semiconductors",
-        "summary": "Grade 12 Physics strand: band theory explains the electrical behaviour of solids by describing how the allowed energy levels of electrons in a crystal merge into continuous bands, with the size of the gap between a filled valence band and the next available conduction band determining whether a material behaves as a conductor, insulator, or semiconductor.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Science: Epidemiology: Tracking the Spread of Disease",
+        "summary": "Grade 8 Science strand: epidemiology is the study of how diseases spread through populations, helping scientists identify patterns, causes, and effective ways to control outbreaks.",
+        "resourceLabel": "YouTube: Science: Epidemiology: Tracking the Spread of Disease",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epidemiology%3A%20Tracking%20the%20Spread%20of%20Disease%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What structures does band theory describe forming from the allowed energy levels of electrons in a crystal?",
+            "q": "What does epidemiology study?",
             "options": [
-              "A single, isolated energy level with no surrounding structure",
-              "A structure identical for every possible material with no variation",
-              "A set of completely random, unrelated energy values",
-              "Continuous energy bands"
+              "How rocks form over millions of years",
+              "How plants convert sunlight into food",
+              "A concept unrelated to science",
+              "How diseases spread through populations"
             ],
             "answer": 3
           },
           {
-            "q": "What determines whether a material behaves as a conductor, insulator, or semiconductor, according to band theory?",
+            "q": "Can epidemiology help scientists identify patterns in how a disease spreads?",
             "options": [
-              "The materials temperature at the moment it was first formed",
-              "The size of the energy gap between the filled valence band and the next available conduction band",
-              "The exact physical shape into which the material has been cut",
-              "The colour of the material as seen by the human eye"
+              "No, epidemiology has no connection to identifying patterns",
+              "Yes",
+              "Diseases never spread in any identifiable pattern",
+              "A concept unrelated to epidemiology"
             ],
             "answer": 1
           },
           {
-            "q": "How does a conductor typically differ from an insulator in terms of this energy gap?",
+            "q": "Does epidemiology help find effective ways to control disease outbreaks?",
             "options": [
-              "The energy gap has no influence on whether a material conducts electricity",
-              "A conductor has little or no gap, allowing electrons to move into the conduction band easily, while an insulator has a large gap that strongly resists this",
-              "Conductors and insulators always have exactly the same size of energy gap",
-              "A conductor always has a larger energy gap than an insulator"
+              "A concept unrelated to epidemiology",
+              "No, epidemiology has no connection to controlling outbreaks",
+              "Yes",
+              "Outbreaks can never be controlled in any way"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "How does band theory provide a deeper explanation for the behaviour of semiconductors, studied in an earlier batch as a more applied topic?",
+            "q": "Why might epidemiologists track how quickly a disease spreads from person to person?",
             "options": [
-              "Band theory has no connection whatsoever to how semiconductors behave",
-              "It explains semiconductor behaviour in terms of a moderate energy gap that can be overcome under the right conditions, unlike the gaps in typical conductors or insulators",
-              "Band theory shows that semiconductors and insulators always behave in an identical way",
-              "Semiconductors are explained by band theory as having no energy gap of any kind"
+              "This concept has no connection to epidemiology",
+              "Diseases always spread at the exact same rate in every situation",
+              "Tracking disease spread never provides any useful information",
+              "This information helps predict future spread and guide public health responses"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is band theory considered a fundamental framework in condensed matter physics?",
+            "q": "Why is epidemiology considered an important field during a public health emergency?",
             "options": [
-              "It provides a unified quantum-mechanical explanation for the electrical behaviour of a very wide range of solid materials",
-              "It only applies to a single specific material with no broader application",
-              "It explains electrical behaviour without any reference to quantum mechanics at all",
-              "Band theory is limited exclusively to materials that conduct no electricity whatsoever"
+              "Epidemiology has no relevance during a public health emergency",
+              "It provides critical data to help guide decisions that protect public health",
+              "Public health emergencies never require any scientific data",
+              "This concept has no relevance to science"
             ],
-            "answer": 0
+            "answer": 1
           }
         ]
       }
@@ -41777,60 +41881,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Systems, Numerical Methods, and Series Behaviour",
-        "summary": "Grade 12 Calculus review: revisiting systems of linear differential equations, Sturm-Liouville theory, the Adams-Bashforth method, Monte Carlo integration, and the Gibbs phenomenon from Days 161-165.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: An Introduction to Related Rates",
+        "summary": "Grade 9 Math strand: related rates problems use the derivative to connect how the rates of change of two or more related quantities are linked to each other, often by differentiating an equation that relates the quantities with respect to time.",
+        "resourceLabel": "YouTube: Calculus Preview: An Introduction to Related Rates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20An%20Introduction%20to%20Related%20Rates%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does a system of linear differential equations describe?",
+            "q": "What is the general goal of a related rates problem?",
             "options": [
-              "A single isolated quantity with no relationship to any other variable",
-              "A purely algebraic system with no rates of change involved",
-              "A system with no matrix representation possible",
-              "Several interrelated quantities changing over time at once"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of equation does Sturm-Liouville theory study?",
-            "options": [
-              "A purely algebraic equation with no derivatives involved",
-              "A first-order equation with no boundary conditions of any kind",
-              "An equation with no possible eigenfunction solutions",
-              "A class of second-order differential equations with associated boundary conditions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What distinguishes a multistep method like Adams-Bashforth from a single-step method such as Eulers method?",
-            "options": [
-              "It can only ever be applied to algebraic equations, not differential ones",
-              "It uses no previous data of any kind at every step",
-              "It estimates each new value using several previously computed points rather than only the most recent one",
-              "It requires recomputing the entire solution from scratch at every step"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does Monte Carlo integration use to estimate the value of a definite integral?",
-            "options": [
-              "An entirely deterministic grid with no randomness involved",
-              "The exact algebraic antiderivative of the function",
-              "Randomly sampled points within a region",
-              "A single, exactly computed function value at one fixed point"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the Gibbs phenomenon?",
-            "options": [
-              "A guarantee that a Fourier series always converges perfectly with no error at any point",
-              "A persistent overshoot near a jump discontinuity in a truncated Fourier series approximation",
-              "A phenomenon that only occurs in functions with no discontinuities at all",
-              "A complete failure of the Fourier series to converge anywhere"
+              "To determine whether a function is continuous at a specific point",
+              "To determine how the rate of change of one quantity relates to the rate of change of another connected quantity",
+              "To calculate the greatest common divisor of two related integers",
+              "To find the exact area under a curve between two boundaries"
             ],
             "answer": 1
+          },
+          {
+            "q": "What mathematical tool is used to relate the rates of change of two connected quantities over time?",
+            "options": [
+              "Graphing a single point with no connection to any rate",
+              "Factoring a polynomial with no variables representing time",
+              "Differentiating an equation that relates the quantities, with respect to time",
+              "Simplifying a radical expression with no reference to time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a classic related rates problem involving a ladder sliding down a wall, what two rates are typically related?",
+            "options": [
+              "The angle of the sun and the height of the wall alone",
+              "The weight of the ladder and the temperature of the wall",
+              "The rate at which the base of the ladder slides away from the wall and the rate at which the top slides down the wall",
+              "The colour of the ladder and the length of the wall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the chain rule often essential when solving a related rates problem?",
+            "options": [
+              "It allows a quantity that depends on time to be differentiated correctly within a larger equation",
+              "The chain rule has no application to problems involving multiple related quantities",
+              "Related rates problems never require differentiating with respect to time",
+              "The chain rule can only be applied to problems involving whole numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which earlier calculus preview concept from this course is most directly built upon when studying related rates?",
+            "options": [
+              "The Pythagorean theorem",
+              "The Euclidean algorithm",
+              "Sigma notation for finite sums",
+              "The derivative as a rate of change"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -42266,62 +42370,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Adams-Moulton Method and Implicit Multistep Techniques",
-        "summary": "Grade 12 Calculus strand: the Adams-Moulton method is an implicit multistep numerical technique for solving differential equations that uses the yet-unknown new point along with several previous points, typically paired with an explicit method such as Adams-Bashforth in a predictor-corrector scheme to improve accuracy.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: Solving Systems of Nonlinear Equations",
+        "summary": "Grade 10 Math strand: a system of nonlinear equations includes at least one equation that is not linear, such as a quadratic or circle equation, and can be solved using substitution or graphing, often producing more than one solution where the curves intersect.",
+        "resourceLabel": "YouTube: Algebra: Solving Systems of Nonlinear Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Systems%20of%20Nonlinear%20Equations%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinguishes the Adams-Moulton method as an implicit multistep method?",
+            "q": "What makes a system of equations nonlinear?",
             "options": [
-              "It uses only the single most recent known point with no other information",
-              "It avoids using any information about the point currently being solved for",
-              "It never requires any previous computed points at all",
-              "It uses the yet-unknown new point, along with several previous points, in its formula"
+              "At least one equation in the system is not linear, such as a quadratic or circle equation",
+              "The system contains no equations at all",
+              "The system can only ever have exactly one variable",
+              "Every equation in the system must be a straight line"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What kind of explicit method is the Adams-Moulton method often paired with?",
+            "q": "Which method can be used to solve a system of nonlinear equations?",
             "options": [
-              "A method that requires no starting values whatsoever",
-              "A method such as Adams-Bashforth",
-              "A purely graphical method with no numerical computation",
-              "A method with no connection to multistep techniques at all"
+              "Ignoring one of the equations entirely",
+              "Substitution or graphing",
+              "Randomly guessing values with no verification",
+              "Converting every equation into an unrelated word problem"
             ],
             "answer": 1
           },
           {
-            "q": "What is the overall scheme called when an explicit and an implicit method are paired together in this way?",
+            "q": "How many solutions can a system involving a line and a circle potentially have?",
             "options": [
-              "A purely algebraic scheme with no numerical iteration",
-              "A single-step elimination scheme",
-              "A scheme that ignores previously computed points entirely",
-              "A predictor-corrector scheme"
+              "Always exactly one solution in every possible case",
+              "Exactly three solutions with no exceptions",
+              "Zero, one, or two solutions, depending on where the curves intersect",
+              "An infinite number of solutions in every possible case"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "How does the Adams-Moulton method relate to the Adams-Bashforth technique studied in an earlier batch?",
+            "q": "What does a solution to a system of nonlinear equations represent graphically?",
             "options": [
-              "Neither method makes use of previously computed points",
-              "Adams-Bashforth is implicit while Adams-Moulton is explicit",
-              "The two methods are identical in every technical respect",
-              "Both are multistep methods using several previous points, but Adams-Bashforth is explicit while Adams-Moulton is implicit"
+              "The exact centre of only one of the two curves",
+              "A point where the graphs of the equations intersect",
+              "A point where neither curve is defined",
+              "A point located far outside both graphed curves"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might combining an implicit method like Adams-Moulton with an explicit predictor improve accuracy?",
+            "q": "Why might solving a system of nonlinear equations produce more solutions than a similar linear system?",
             "options": [
-              "The explicit method provides an initial estimate that the implicit correction step can refine, often producing a more accurate result",
-              "Combining the two methods always produces a less accurate result than using either alone",
-              "An implicit correction step can never improve upon an initial explicit estimate",
-              "Predictor-corrector schemes eliminate the need for any numerical approximation"
+              "Every nonlinear system always has exactly zero solutions",
+              "Nonlinear equations can never intersect with any other equation",
+              "Curved graphs such as parabolas and circles can intersect a line at more than one point",
+              "Curves are not allowed to intersect straight lines under any circumstance"
             ],
-            "answer": 0
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Physics",
@@ -42509,63 +42614,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Stiff Differential Equations and Numerical Stability",
-        "summary": "Grade 12 Calculus strand: a stiff differential equation is one in which certain solution components change extremely rapidly compared to others, forcing standard explicit numerical methods to use impractically small step sizes for stability, a challenge that motivates specialized implicit numerical techniques.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus: Curve Sketching Using the First and Second Derivative Tests",
+        "summary": "Grade 10 Math strand: curve sketching uses the first derivative to locate increasing and decreasing intervals and turning points, and the second derivative to determine concavity and inflection points, combining both tests to produce an accurate graph of a function without plotting every point.",
+        "resourceLabel": "YouTube: Calculus: Curve Sketching Using the First and Second Derivative Tests",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Curve%20Sketching%20Using%20the%20First%20and%20Second%20Derivative%20Tests%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What characterizes a stiff differential equation?",
+            "q": "What does the first derivative test help locate on a graph?",
             "options": [
-              "All solution components change at exactly the same, constant rate",
-              "The equation contains no derivative terms at all",
-              "Certain solution components change extremely rapidly compared to others",
-              "The equation has no numerical solution of any kind"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What practical difficulty does stiffness create for standard explicit numerical methods?",
-            "options": [
-              "It has no effect whatsoever on the choice of step size",
-              "It removes the need for any step size to be chosen at all",
-              "It allows the use of arbitrarily large step sizes with no loss of stability",
-              "It forces the use of impractically small step sizes for numerical stability"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of numerical technique is often better suited to handling stiff differential equations?",
-            "options": [
-              "A purely graphical, non-numerical technique",
-              "Only the simplest explicit Eulers method",
-              "Specialized implicit numerical techniques",
-              "A technique that ignores the differential equation entirely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the challenge of stiffness relate to the Runge-Kutta methods studied in an earlier batch?",
-            "options": [
-              "Standard explicit Runge-Kutta methods can also require very small step sizes on stiff problems, motivating implicit variants designed for stability",
-              "Runge-Kutta methods are entirely unaffected by stiffness under all circumstances",
-              "Explicit Runge-Kutta methods always outperform implicit methods on stiff problems",
-              "Stiffness only affects methods unrelated to Runge-Kutta in any way"
+              "Increasing and decreasing intervals and turning points",
+              "The total number of variables in the function",
+              "The name of the mathematician who defined the function",
+              "The exact colour used to draw the graph"
             ],
             "answer": 0
           },
           {
-            "q": "Why is understanding stiffness important for choosing an appropriate numerical method in practice?",
+            "q": "What does the second derivative test help determine?",
             "options": [
-              "Applying an unsuitable explicit method to a stiff problem can require an impractically small step size or produce an unstable solution",
-              "Every numerical method performs identically well regardless of a problems stiffness",
-              "Stiffness has no bearing on which numerical method should be selected in practice",
-              "Stiff differential equations can never be solved by any numerical method"
+              "Concavity and inflection points",
+              "The domain of a completely unrelated function",
+              "The exact y-intercept only",
+              "The number of times a graph must be redrawn"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why might a mathematician sketch a curve using derivative tests rather than plotting many points?",
+            "options": [
+              "It guarantees the graph will contain no curves of any kind",
+              "Derivative tests remove the need for a graph to have any shape",
+              "It produces an accurate graph efficiently by identifying key features directly",
+              "Plotting points is always mathematically impossible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What indicates a local maximum when using the first derivative test?",
+            "options": [
+              "The derivative changes from positive to negative at that point",
+              "The function is undefined at every point nearby",
+              "The derivative changes from negative to more negative",
+              "The derivative remains zero across the entire domain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What combined information do the first and second derivative tests provide together?",
+            "options": [
+              "The colour scheme used in a textbook diagram",
+              "A complete picture of a functions shape, including turning points and concavity",
+              "A list of unrelated historical dates",
+              "The exact numeric value of every point on the graph"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -42755,122 +42860,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Shooting Method for Boundary Value Problems",
-        "summary": "Grade 12 Calculus strand: the shooting method solves a boundary value problem by converting it into a sequence of initial value problems, repeatedly guessing an unknown initial condition and adjusting the guess until the resulting solution satisfies the required condition at the far boundary.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Vectors: The Scalar Triple Product and Volume",
+        "summary": "Grade 10 Math strand: the scalar triple product combines the dot product and cross product of three vectors to produce a single number equal to the volume of the parallelepiped formed by those vectors, providing a way to test whether three vectors lie in the same plane.",
+        "resourceLabel": "YouTube: Vectors: The Scalar Triple Product and Volume",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20The%20Scalar%20Triple%20Product%20and%20Volume%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of problem does the shooting method aim to solve?",
+            "q": "What does the scalar triple product of three vectors produce?",
             "options": [
-              "A problem with no boundary conditions of any kind",
-              "A problem defined only at a single isolated point",
-              "A boundary value problem",
-              "A purely algebraic equation with no differential component"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the shooting method convert a boundary value problem into?",
-            "options": [
-              "A sequence of initial value problems",
-              "A single unsolvable algebraic equation",
-              "A problem with no numerical component whatsoever",
-              "A purely geometric construction with no differential equation involved"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What iterative process does the shooting method use to find the correct solution?",
-            "options": [
-              "Repeatedly guessing an unknown initial condition and adjusting it until the far boundary condition is satisfied",
-              "Ignoring the boundary condition at the far end entirely",
-              "Solving the equation algebraically with no need for any guess",
-              "Selecting a single fixed guess with no further adjustment"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the shooting method relate to Sturm-Liouville theory, studied in an earlier batch?",
-            "options": [
-              "The two concepts have no connection to boundary conditions at all",
-              "The shooting method never involves any boundary conditions",
-              "Sturm-Liouville theory is itself a numerical method identical to the shooting method",
-              "Both concern differential equations with boundary conditions, though Sturm-Liouville theory analyzes eigenfunction structure while the shooting method is a numerical strategy for finding a solution"
+              "A matrix with no numerical value",
+              "A new vector perpendicular to all three original vectors",
+              "A single point with no coordinates",
+              "A single number equal to the volume of the parallelepiped formed by the vectors"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the shooting method a practical strategy for solving boundary value problems numerically?",
+            "q": "Which two vector operations are combined to compute the scalar triple product?",
             "options": [
-              "Boundary value problems can never be approached using initial value problem techniques",
-              "It has no practical use for solving boundary value problems",
-              "It reduces an unfamiliar boundary value problem to repeated application of well-understood initial value problem solvers, such as Runge-Kutta methods",
-              "The method requires solving an infinite number of unrelated equations simultaneously"
+              "The dot product and the cross product",
+              "Multiplication by a scalar only",
+              "Addition and subtraction only",
+              "Division of two vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a scalar triple product equal to zero indicate about three vectors?",
+            "options": [
+              "The vectors cannot be graphed in three dimensions",
+              "The vectors are coplanar, lying in the same plane",
+              "The vectors form a perfect cube with maximum volume",
+              "The vectors are always perpendicular to one another"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What geometric shape is associated with the scalar triple product?",
+            "options": [
+              "A parallelepiped",
+              "A regular pentagon",
+              "A perfect sphere",
+              "A single straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the scalar triple product useful in three-dimensional geometry?",
+            "options": [
+              "It eliminates the need to ever use a cross product",
+              "It provides a way to calculate volume and test whether vectors are coplanar",
+              "It can only be used to measure angles in two dimensions",
+              "It has no connection to volume or coplanarity of any kind"
+            ],
+            "answer": 1
+          }
+        ],
+        "topic": "Measurement: Volume & Surface Area"
+      },
+      {
+        "subject": "Physics",
+        "title": "Science: Epidemiology and Disease Modelling",
+        "summary": "Grade 9 Science strand: epidemiology studies how diseases spread through populations, using mathematical models to predict outbreaks and help guide effective public health responses.",
+        "resourceLabel": "YouTube: Science: Epidemiology and Disease Modelling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epidemiology%20and%20Disease%20Modelling%20grade%2012%20educational",
+        "quiz": [
+          {
+            "q": "What does epidemiology study?",
+            "options": [
+              "How diseases spread through populations",
+              "How plants convert sunlight into food",
+              "How rocks form over millions of years",
+              "A concept unrelated to science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do epidemiologists use mathematical models to predict outbreaks?",
+            "options": [
+              "Yes",
+              "No, epidemiology never uses any mathematical models",
+              "A concept unrelated to epidemiology",
+              "Disease outbreaks can never be predicted in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can disease modelling help guide effective public health responses?",
+            "options": [
+              "Yes",
+              "A concept unrelated to epidemiology",
+              "Public health responses never rely on any scientific modelling",
+              "No, disease modelling has no connection to public health decisions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might epidemiologists track how quickly a disease spreads from person to person?",
+            "options": [
+              "This concept has no connection to epidemiology",
+              "Diseases always spread at the exact same rate in every situation",
+              "Tracking disease spread never provides any useful information",
+              "This information helps predict future spread and guide public health responses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is epidemiology considered an important field during a public health emergency?",
+            "options": [
+              "This concept has no relevance to science",
+              "Public health emergencies never require any scientific data",
+              "It provides critical data to help guide decisions that protect public health",
+              "Epidemiology has no relevance during a public health emergency"
             ],
             "answer": 2
           }
         ]
-      },
-      {
-        "subject": "Physics",
-        "title": "Maxwells Equations and the Unification of Electricity and Magnetism",
-        "summary": "Grade 12 Physics strand: Maxwells equations are a set of four fundamental equations that together describe how electric and magnetic fields are generated and how they interact, unifying electricity, magnetism, and optics by showing that light itself is an electromagnetic wave predicted directly by the equations.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
-        "quiz": [
-          {
-            "q": "How many fundamental equations make up the set known as Maxwells equations?",
-            "options": [
-              "Four",
-              "A number that changes depending on the material being studied",
-              "One",
-              "Ten"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do Maxwells equations together describe?",
-            "options": [
-              "Only the properties of solid crystal lattices",
-              "Only the behaviour of gases at constant temperature",
-              "How electric and magnetic fields are generated and how they interact",
-              "Only the motion of point masses under gravity, with no reference to fields"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What historically significant unification did Maxwells equations achieve?",
-            "options": [
-              "They unified only mechanics and thermodynamics, with no reference to electricity or magnetism",
-              "They showed that electricity and magnetism are entirely unrelated phenomena",
-              "They unified electricity, magnetism, and optics by showing that light is an electromagnetic wave",
-              "They eliminated the need to consider optics as a branch of physics at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How do Maxwells equations relate to the Poynting vector studied in an earlier batch?",
-            "options": [
-              "The Poynting vector predates and is entirely independent of Maxwells equations",
-              "Maxwells equations describe only static fields with no wave behaviour of any kind",
-              "The Poynting vector has no mathematical connection to Maxwells equations",
-              "The Poynting vector, which describes electromagnetic energy flow, is derived directly from the field relationships described by Maxwells equations"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why are Maxwells equations considered one of the foundational achievements of classical physics?",
-            "options": [
-              "They provide a complete, unified mathematical description of electromagnetism and directly predict the existence of electromagnetic waves, including light",
-              "Maxwells equations were developed after and independently of any understanding of electric or magnetic fields",
-              "They have been shown to have no connection to the behaviour of light",
-              "They apply only to a single isolated electrical device with no broader significance"
-            ],
-            "answer": 0
-          }
-        ],
-        "topic": "Electricity & Magnetism"
       }
     ]
   },
@@ -43000,63 +43105,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Perturbation Methods and Approximate Solutions to Differential Equations",
-        "summary": "Grade 12 Calculus strand: perturbation methods approximate the solution to a differential equation that is close to a simpler, exactly solvable equation by expressing the solution as a series in a small parameter, using the exactly solvable case as a starting point and successively correcting it.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Data Management: The Birthday Problem and Probability",
+        "summary": "Grade 9 Math strand: the birthday problem is a classic probability puzzle that calculates the surprisingly high likelihood that at least two people in a moderately sized group share the same birthday, illustrating how quickly probabilities can grow as the number of possible pairs in a group increases.",
+        "resourceLabel": "YouTube: Data Management: The Birthday Problem and Probability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20The%20Birthday%20Problem%20and%20Probability%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of differential equation do perturbation methods aim to approximate?",
+            "q": "What does the birthday problem calculate?",
             "options": [
-              "An equation containing no parameters of any kind",
-              "One that is close to a simpler, exactly solvable equation",
-              "An equation that already has a simple, exact closed-form solution",
-              "An equation with no relationship to any simpler solvable case"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How is the solution typically expressed in a perturbation method?",
-            "options": [
-              "As a series in a small parameter",
-              "As a finite polynomial of a fixed, predetermined degree",
-              "As a single constant with no dependence on any parameter",
-              "As a set of unrelated numerical values with no series structure"
+              "The probability that at least two people in a group share the same birthday",
+              "The probability that no person in the world has ever shared a birthday",
+              "The exact date on which the most people in the world were born",
+              "The average number of days between two peoples birthdays"
             ],
             "answer": 0
           },
           {
-            "q": "What serves as the starting point for a perturbation method?",
+            "q": "Why is the result of the birthday problem often described as surprising?",
             "options": [
-              "An arbitrary random guess with no mathematical basis",
-              "The exactly solvable simpler case",
-              "A numerical simulation with no analytic starting point",
-              "A completely unrelated equation with no connection to the original problem"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How do perturbation methods relate to asymptotic expansions, studied in an earlier batch?",
-            "options": [
-              "Both approximate a function or solution using a series that may not converge in the ordinary sense, with perturbation methods applying this to solutions near a solvable case",
-              "Asymptotic expansions can only be applied to purely algebraic equations",
-              "The two techniques have no conceptual relationship to one another",
-              "Perturbation methods always produce an exact, non-approximate solution"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are perturbation methods valuable for problems that cannot be solved exactly?",
-            "options": [
-              "They provide no useful information about problems lacking an exact solution",
-              "Perturbation methods require the original problem to already have a known exact solution",
-              "The technique can only ever be applied to a single specific equation",
-              "They provide a systematic way to build an increasingly accurate approximate solution by correcting a known, exactly solvable starting case"
+              "The birthday problem always produces a probability of exactly 100 percent",
+              "The probability of a shared birthday is always exactly zero in any group",
+              "A shared birthday is impossible unless a group contains at least 365 people",
+              "The probability of a shared birthday becomes quite high with a relatively small group, far fewer than 365 people"
             ],
             "answer": 3
+          },
+          {
+            "q": "With approximately 23 people in a room, what is roughly true about the probability that at least two share a birthday?",
+            "options": [
+              "The probability is less than 1 percent",
+              "The probability is just over 50 percent",
+              "The probability is exactly 0 percent",
+              "The probability is always exactly 23 percent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the number of possible pairs in a group grow quickly as more people are added?",
+            "options": [
+              "Adding more people to a group never changes the number of possible pairs",
+              "Pairs can only be formed between exactly two people in the entire group",
+              "The number of pairs in a group always increases at exactly the same rate as the number of people",
+              "Each new person can be paired with every other person already in the group, so the number of pairs increases much faster than the number of people"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the probability that at least two people share a birthday typically calculated?",
+            "options": [
+              "By first finding the probability that no two people share a birthday, then subtracting that value from one",
+              "By assuming every person in the group was born on the exact same day",
+              "The probability of a shared birthday cannot be calculated using any mathematical method",
+              "By directly counting every possible birthday combination for every person on Earth"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Probability"
       },
       {
         "subject": "Physics",
@@ -43304,63 +43409,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Spin-Orbit Coupling and Fine Structure in Atomic Spectra",
-        "summary": "Grade 12 Physics strand: spin-orbit coupling is the interaction between an electrons intrinsic spin and its orbital motion around the nucleus, producing a small splitting of atomic energy levels known as fine structure that appears as closely spaced lines in a high-resolution atomic spectrum.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Review: Physics, Biology, and Emerging Science (Days 81-89)",
+        "summary": "Grade 9 Science strand review: students revisit epigenetics, superconductivity, coral reef bleaching, quantum mechanics, immunology, bioplastics, black holes, epidemiology, and battery technology.",
+        "resourceLabel": "YouTube: Review: Physics, Biology, and Emerging Science (Days 81-89)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Physics%2C%20Biology%2C%20and%20Emerging%20Science%20%28Days%2081-89%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What two properties of an electron interact in spin-orbit coupling?",
+            "q": "What does epigenetics study?",
             "options": [
-              "Its temperature and its colour",
-              "Its position and its exact chemical identity",
-              "Its intrinsic spin and its orbital motion around the nucleus",
-              "Its mass and its electric charge, with no reference to spin or orbit"
+              "How DNA sequences are physically rewritten",
+              "A concept unrelated to biology",
+              "How environmental factors influence whether genes are turned on or off",
+              "How cells divide during mitosis"
             ],
             "answer": 2
           },
           {
-            "q": "What effect does spin-orbit coupling produce in an atoms energy levels?",
+            "q": "What can rising ocean temperatures cause in coral reefs?",
             "options": [
-              "A complete elimination of every atomic energy level",
-              "An effect that only appears in atoms with no electrons at all",
-              "A single, unified energy level with no splitting of any kind",
-              "A small splitting of atomic energy levels known as fine structure"
+              "Increased coral growth with no negative effects",
+              "Coral bleaching",
+              "No change of any kind",
+              "A concept unrelated to coral reefs"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "How does fine structure typically appear in a high-resolution atomic spectrum?",
+            "q": "What does quantum mechanics study?",
             "options": [
-              "As a single, perfectly uniform line with no splitting visible",
-              "As a complete absence of any spectral lines",
-              "As closely spaced lines",
-              "As lines that appear only in the infrared range with no other structure"
+              "The behaviour of extremely small particles",
+              "A concept unrelated to physics",
+              "The behaviour of extremely large objects only",
+              "Only objects visible to the naked eye"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which scientific theory helps explain the existence of black holes?",
+            "options": [
+              "The theory of evolution",
+              "A concept unrelated to black holes",
+              "Einstein’s theory of general relativity",
+              "The germ theory of disease"
             ],
             "answer": 2
           },
           {
-            "q": "How does spin-orbit coupling relate to the Zeeman effect, studied in an earlier batch?",
+            "q": "What type of energy do batteries store?",
             "options": [
-              "The Zeeman effect has no connection to atomic energy level splitting",
-              "Spin-orbit coupling requires an external magnetic field to occur, exactly like the Zeeman effect",
-              "Both involve subtle splitting of atomic energy levels, though the Zeeman effect arises from an externally applied magnetic field while spin-orbit coupling is an internal interaction",
-              "The two effects are identical, with no distinction between an external field and an internal interaction"
+              "Chemical energy",
+              "A concept unrelated to batteries",
+              "Only sound energy",
+              "Only light energy"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why is fine structure an important consideration in precision atomic spectroscopy?",
-            "options": [
-              "Precision spectroscopy never reveals any splitting of atomic energy levels",
-              "Fine structure has no relevance to understanding atomic structure",
-              "It reveals subtle internal interactions within the atom that a simpler energy-level model would miss",
-              "Fine structure only appears in atoms with no internal interactions of any kind"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       }
     ]
   },
@@ -43489,63 +43593,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Clairauts Equation and Singular Solutions",
-        "summary": "Grade 12 Calculus strand: Clairauts equation is a first-order differential equation of a special form involving the derivative both linearly and inside another function, whose general solution is a family of straight lines and which also possesses a singular solution, an additional solution not captured by that family, forming the envelope of the lines.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: Concavity and the Second Derivative",
+        "summary": "Grade 9 Math strand: the second derivative of a function measures how its rate of change is itself changing, and its sign indicates the concavity of the functions graph, with a positive second derivative corresponding to a graph curving upward and a negative second derivative corresponding to a graph curving downward.",
+        "resourceLabel": "YouTube: Calculus Preview: Concavity and the Second Derivative",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20Concavity%20and%20the%20Second%20Derivative%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "How does the derivative appear in Clairauts equation?",
+            "q": "What does the second derivative of a function measure?",
             "options": [
-              "It does not appear in the equation at all",
-              "Only inside a trigonometric function with no linear term",
-              "Only as a squared term with no other appearance",
-              "Linearly, and also inside another function"
+              "How the rate of change of the function is itself changing",
+              "The exact value of the function at a single point only",
+              "The slope of a straight line connecting two unrelated points",
+              "The total area under the functions graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a positive second derivative indicate about the shape of a functions graph?",
+            "options": [
+              "The graph is concave down, curving downward like an upside-down cup",
+              "The function has no defined value at that point",
+              "The graph is a perfectly straight horizontal line",
+              "The graph is concave up, curving upward like a cup"
             ],
             "answer": 3
           },
           {
-            "q": "What form does the general solution of Clairauts equation take?",
+            "q": "What does a negative second derivative indicate about the shape of a functions graph?",
             "options": [
-              "A family of circles centred at the origin",
-              "A family of straight lines",
-              "A single fixed curve with no family of solutions",
-              "A solution that cannot be expressed as any geometric curve"
+              "The graph is always increasing without any curvature",
+              "The graph is concave down, curving downward like an upside-down cup",
+              "The second derivative has no effect on the shape of a graph",
+              "The graph is concave up, curving upward like a cup"
             ],
             "answer": 1
           },
           {
-            "q": "What is a singular solution of Clairauts equation?",
+            "q": "What is a point called where the concavity of a graph changes from concave up to concave down, or vice versa?",
             "options": [
-              "A solution identical to every line in the general family",
-              "A solution that only exists when no derivative is present",
-              "A term used to describe an equation with no solution at all",
-              "An additional solution not captured by the general family of straight lines"
+              "An inflection point",
+              "A removable discontinuity",
+              "A vertical asymptote",
+              "A y-intercept"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "How does the singular solution of Clairauts equation relate to the envelope of a family of curves, studied in an earlier batch?",
+            "q": "How does the second derivative build on the concept of the first derivative studied earlier in this course?",
             "options": [
-              "The singular solution has no relationship whatsoever to the envelope of a family of curves",
-              "The envelope of a family of curves can never correspond to any solution of a differential equation",
-              "Clairauts equation has no general family of solutions to form an envelope from",
-              "The singular solution is precisely the envelope traced out by the general familys straight-line solutions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is Clairauts equation considered a notable example in the study of differential equations?",
-            "options": [
-              "It shows that every differential equation has exactly one solution with no exceptions",
-              "It shows that a differential equation can have solutions beyond its general family, illustrating a richer solution structure",
-              "It proves that singular solutions never occur in the study of differential equations",
-              "Clairauts equation has no distinguishing features compared to other first-order equations"
+              "Only the second derivative can be used to describe a functions rate of change",
+              "The first derivative measures the rate of change of the original function, while the second derivative measures the rate of change of that first derivative",
+              "The first and second derivatives always represent exactly the same information",
+              "The second derivative has no mathematical connection to the first derivative"
             ],
             "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -43735,119 +43839,120 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Curl Test and the Role of Simply Connected Domains",
-        "summary": "Grade 12 Calculus strand: the curl test checks whether a vector field is conservative by verifying that its curl is zero, a condition that guarantees a well-defined potential function only when the fields domain is simply connected, meaning it contains no holes that could trap a closed loop.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Geometry: The Distance from a Point to a Line Using Vectors",
+        "summary": "Grade 9 Math strand: the shortest distance from a point to a line in space can be found using vectors by constructing a vector from a known point on the line to the external point, then applying the cross product with the lines direction vector to calculate the perpendicular distance.",
+        "resourceLabel": "YouTube: Geometry: The Distance from a Point to a Line Using Vectors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20The%20Distance%20from%20a%20Point%20to%20a%20Line%20Using%20Vectors%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the curl test check to determine whether a vector field might be conservative?",
+            "q": "What does the shortest distance from a point to a line represent geometrically?",
             "options": [
-              "Whether the curl of the vector field is zero",
-              "Whether the vector field is defined at exactly one point",
-              "Whether the vector field has a nonzero divergence everywhere",
-              "Whether the vector fields magnitude is constant throughout its domain"
+              "The total length of the entire line itself",
+              "The angle formed between the point and the line",
+              "The distance between two completely unrelated points in space",
+              "The length of the perpendicular segment connecting the point to the line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What vector operation is commonly used to calculate the distance from a point to a line in three dimensions?",
+            "options": [
+              "The cross product of a connecting vector with the lines direction vector",
+              "Dividing the direction vector by its own magnitude only",
+              "The simple addition of two unrelated vectors",
+              "Multiplying the coordinates of the point by zero"
             ],
             "answer": 0
           },
           {
-            "q": "What additional condition on the domain is required for a zero curl to guarantee a well-defined potential function?",
+            "q": "Why is the perpendicular distance considered the shortest distance from a point to a line?",
             "options": [
-              "The domain must be simply connected",
-              "The domain must contain at least one hole",
-              "The domain must have an undefined boundary",
-              "The domain must be entirely one-dimensional"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does it mean for a domain to be simply connected, in this context?",
-            "options": [
-              "It consists of a single isolated point with no surrounding region",
-              "It contains infinitely many disconnected holes",
-              "It contains no holes that could trap a closed loop",
-              "It has no boundary of any kind"
+              "Distance from a point to a line has no single shortest value",
+              "A perpendicular segment can never be drawn to any line",
+              "Any other path from the point to the line would be longer than the perpendicular segment",
+              "The perpendicular distance is always longer than any other possible path"
             ],
             "answer": 2
           },
           {
-            "q": "How does the curl test relate to conservative vector fields, studied in an earlier batch?",
+            "q": "How does this method build on the vector equation of a line studied earlier in this course?",
             "options": [
-              "The curl test provides a practical computational check for the same conservative property studied earlier, though its guarantee depends on the domain being simply connected",
-              "Conservative vector fields always have a nonzero curl",
-              "A vector field with zero curl is automatically conservative on every possible domain with no exception",
-              "The curl test and conservative vector fields are entirely unrelated concepts"
+              "This method requires an entirely different, unrelated equation for the line",
+              "This method has no connection to the vector equation of a line",
+              "The vector equation of a line cannot be used to calculate any distance",
+              "It uses the same known point and direction vector that define the line to calculate distance from an external point"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why does the shape of a vector fields domain matter when applying the curl test?",
+            "q": "What type of quantity results from calculating the distance from a point to a line?",
             "options": [
-              "A domain with a hole can allow a zero-curl field to still fail to have a well-defined potential function around a loop enclosing that hole",
-              "Every domain, regardless of holes, guarantees a well-defined potential function",
-              "A hole in the domain always increases the curl of a vector field",
-              "The shape of the domain never affects whether a zero-curl field is conservative"
+              "A new vector pointing in a random direction",
+              "A single non-negative scalar value representing length",
+              "An angle measured in degrees only",
+              "A pair of coordinates with no numerical value"
             ],
-            "answer": 0
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Physics",
-        "title": "Phonons and the Quantization of Lattice Vibrations",
-        "summary": "Grade 12 Physics strand: a phonon is a quantum of vibrational energy in a crystal lattice, representing the quantized collective motion of atoms much as a photon represents a quantum of electromagnetic energy, and phonons play a central role in explaining how solids conduct heat and sound.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Chemistry: The Ideal Gas Law",
+        "summary": "Grade 10 Science strand: the ideal gas law, PV equals nRT, relates a gas’s pressure, volume, amount, and temperature, extending the individual gas laws into a single combined relationship.",
+        "resourceLabel": "YouTube: Chemistry: The Ideal Gas Law",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Ideal%20Gas%20Law%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does a phonon represent in a crystal lattice?",
+            "q": "What four quantities does the ideal gas law relate?",
             "options": [
-              "A quantum of electric charge stored in the lattice",
-              "A particle of light travelling through the crystal",
-              "A quantum of vibrational energy, representing quantized collective motion of atoms",
-              "A single, isolated atom with no connection to vibration"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "To which other quantized particle is the phonon often compared?",
-            "options": [
-              "The electron, considered purely as a charge carrier",
-              "A particle with no analogous role in any other area of physics",
-              "The neutron, a particle found in the atomic nucleus",
-              "The photon, a quantum of electromagnetic energy"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of motion does a phonon specifically quantize?",
-            "options": [
-              "The motion of electrons alone, with no reference to atomic vibration",
-              "The motion of a single free particle in empty space",
-              "The rotational motion of an entire crystal as a rigid body",
-              "The collective vibrational motion of atoms in a lattice"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the concept of the phonon relate to band theory of solids, studied in an earlier batch?",
-            "options": [
-              "Band theory has no connection to any process occurring within a solid material",
-              "Both are quantum-mechanical frameworks used to explain solids, with band theory describing electron energy levels and phonons describing quantized lattice vibration",
-              "Phonons and band theory describe exactly the same physical phenomenon with no distinction",
-              "Phonons apply only to gases and have no relevance to solids"
+              "Only mass and colour",
+              "Pressure, volume, amount of gas, and temperature",
+              "Only the size and shape of the container",
+              "A concept unrelated to chemistry"
             ],
             "answer": 1
           },
           {
-            "q": "Why are phonons important for explaining how solids conduct heat and sound?",
+            "q": "What does the letter R represent in the ideal gas law equation?",
             "options": [
-              "Phonons only apply to describing the optical properties of a crystal",
-              "Phonons have no role in explaining heat or sound conduction in solids",
-              "Heat and sound can only travel through a solid via the motion of free electrons, with no vibrational component",
-              "Heat and sound propagate through a solid largely via the quantized vibrations of its lattice, which phonons describe"
+              "The universal gas constant",
+              "The exact temperature of the gas",
+              "The mass of the gas sample",
+              "A concept unrelated to the ideal gas law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the ideal gas law combine relationships found in the individual gas laws, like Boyle’s and Charles’s laws?",
+            "options": [
+              "No, the ideal gas law has no connection to the individual gas laws",
+              "A concept unrelated to the ideal gas law",
+              "Yes",
+              "The individual gas laws are completely unrelated to pressure, volume, or temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the ideal gas law considered more broadly useful than any single individual gas law on its own?",
+            "options": [
+              "The ideal gas law is never more useful than the individual gas laws",
+              "This concept has no connection to chemistry",
+              "The ideal gas law can only be applied when every variable is already known",
+              "It allows multiple variables to be related and solved for at once, rather than holding all but two quantities constant"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why might real gases behave slightly differently from what the ideal gas law predicts under very high pressure or low temperature?",
+            "options": [
+              "This concept has no relevance to chemistry",
+              "Real gas particles have volume and intermolecular forces that the ideal gas law’s simplified assumptions do not fully account for",
+              "Real gases always behave in exactly the same way the ideal gas law predicts under every condition",
+              "Pressure and temperature never have any effect on how closely a gas follows the ideal gas law"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -43978,63 +44083,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "The Weierstrass M-Test and Uniform Convergence of Series",
-        "summary": "Grade 12 Calculus strand: the Weierstrass M-test provides a sufficient condition for a series of functions to converge uniformly, by comparing each term to a constant bound whose corresponding numerical series converges, a tool essential for justifying operations such as differentiating or integrating a series term by term.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Math Review: Statistics, Number Theory, and Probability (Days 161-169)",
+        "summary": "Grade 8 Math strand review: students revisit the Law of Large Numbers, twin primes, projective geometry, the Rational Root Theorem, and the Monty Hall Problem.",
+        "resourceLabel": "YouTube: Math Review: Statistics, Number Theory, and Probability (Days 161-169)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Statistics%2C%20Number%20Theory%2C%20and%20Probability%20%28Days%20161-169%29%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does the Weierstrass M-test provide a sufficient condition for?",
+            "q": "What does the Law of Large Numbers describe?",
             "options": [
-              "The divergence of every series to which it is applied",
-              "Uniform convergence of a series of functions",
-              "The existence of a single root of a polynomial",
-              "The exact numerical value of a convergent series"
+              "A rule for rounding decimals to the nearest whole number",
+              "How the average of repeated random trials tends toward the expected probability",
+              "How to calculate the area of a triangle",
+              "A method for factoring polynomials"
             ],
             "answer": 1
           },
           {
-            "q": "What does the Weierstrass M-test compare each term of a series to?",
+            "q": "What are twin primes?",
             "options": [
-              "The derivative of the original function at a single point",
-              "A term from a completely unrelated, divergent series",
-              "A constant bound whose corresponding numerical series converges",
-              "A bound that grows without limit as more terms are added"
+              "Any two even numbers next to each other",
+              "Pairs of prime numbers that are always identical",
+              "Pairs of numbers that add up to exactly ten",
+              "Pairs of prime numbers that differ by exactly two"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does projective geometry study?",
+            "options": [
+              "Only the exact area of a circle",
+              "The weight of a three-dimensional solid",
+              "The colour of a geometric figure",
+              "Properties of shapes that stay the same under projection"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Rational Root Theorem help find?",
+            "options": [
+              "The colour of a graphed function",
+              "A rule for rounding decimals",
+              "A list of possible rational roots of a polynomial equation",
+              "The exact area of a triangle"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of series does the Weierstrass M-test require to converge, alongside the original series of functions?",
+            "q": "What is the Monty Hall Problem based on?",
             "options": [
-              "A series with infinitely many negative terms and no defined bound",
-              "A series involving no numbers of any kind",
-              "A numerical series formed from the constant bounds",
-              "A series identical to the original series of functions"
+              "A card game played with a standard deck",
+              "A puzzle involving coin flips only",
+              "A dice game played by two players",
+              "A game show scenario involving choosing between doors"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why is establishing uniform convergence, as the Weierstrass M-test helps do, important for term-by-term differentiation or integration of a series?",
-            "options": [
-              "Term-by-term differentiation is always valid regardless of any convergence property",
-              "Uniform convergence justifies swapping the order of an infinite sum with a limiting operation like differentiation or integration",
-              "The Weierstrass M-test eliminates the need to ever differentiate or integrate a series",
-              "Uniform convergence has no bearing on whether term-by-term differentiation or integration is valid"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does the Weierstrass M-test relate to the ratio test and comparison test for series convergence, studied in an earlier batch?",
-            "options": [
-              "All three compare a series to a simpler, better-understood series or bound, though the M-test specifically targets uniform convergence of a series of functions",
-              "The Weierstrass M-test can only be applied to divergent series",
-              "The ratio test and comparison test both establish uniform convergence identically to the M-test",
-              "The tests are entirely unrelated in method and purpose"
-            ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Physics",
@@ -44222,62 +44326,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: Substitution, Multistep, and Boundary Techniques",
-        "summary": "Grade 12 Calculus review: revisiting homogeneous differential equations, the Adams-Moulton method, stiff differential equations, the shooting method, and perturbation methods from Days 171-175.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Statistics: An Introduction to Skewness and Distribution Shape",
+        "summary": "Grade 8 Math strand: skewness describes the asymmetry of a data distribution, with a right-skewed, or positively skewed, distribution having a longer tail toward higher values and a left-skewed distribution having a longer tail toward lower values.",
+        "resourceLabel": "YouTube: Statistics: An Introduction to Skewness and Distribution Shape",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Skewness%20and%20Distribution%20Shape%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What defining property does this type of homogeneous differential equation have?",
+            "q": "What does skewness describe about a data distribution?",
             "options": [
-              "It can never be written as a first-order equation",
-              "It contains no derivative of any kind",
-              "Its right-hand side depends only on the ratio of its variables",
-              "Its right-hand side is always equal to zero"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What distinguishes the Adams-Moulton method as an implicit multistep method?",
-            "options": [
-              "It never requires any previous computed points at all",
-              "It avoids using any information about the point currently being solved for",
-              "It uses the yet-unknown new point, along with several previous points, in its formula",
-              "It uses only the single most recent known point with no other information"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What characterizes a stiff differential equation?",
-            "options": [
-              "The equation contains no derivative terms at all",
-              "Certain solution components change extremely rapidly compared to others",
-              "The equation has no numerical solution of any kind",
-              "All solution components change at exactly the same, constant rate"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of problem does the shooting method aim to solve?",
-            "options": [
-              "A purely algebraic equation with no differential component",
-              "A boundary value problem",
-              "A problem with no boundary conditions of any kind",
-              "A problem defined only at a single isolated point"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of differential equation do perturbation methods aim to approximate?",
-            "options": [
-              "An equation that already has a simple, exact closed-form solution",
-              "An equation containing no parameters of any kind",
-              "An equation with no relationship to any simpler solvable case",
-              "One that is close to a simpler, exactly solvable equation"
+              "The units used to measure the data",
+              "The colour used to display a graph",
+              "The exact number of data points collected",
+              "Its asymmetry, or how unevenly the data is spread"
             ],
             "answer": 3
+          },
+          {
+            "q": "What does a right-skewed, or positively skewed, distribution look like?",
+            "options": [
+              "A shape with no tail on either side",
+              "A longer tail stretching toward higher values",
+              "A perfectly symmetrical shape",
+              "A longer tail stretching toward lower values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a left-skewed distribution look like?",
+            "options": [
+              "A distribution with only one possible value",
+              "A longer tail stretching toward lower values",
+              "An identical shape to a right-skewed distribution",
+              "A longer tail stretching toward higher values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a distribution with no skew, how do the mean and median typically compare?",
+            "options": [
+              "They can never be calculated for the same data set",
+              "The median is always much larger than the mean",
+              "They are approximately equal",
+              "The mean is always much larger than the median"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to check the skewness of a data set before choosing the mean or median to describe it?",
+            "options": [
+              "The mean is always the best choice regardless of skewness",
+              "A skewed distribution can make the mean a misleading measure of a typical value",
+              "Skewed data sets cannot have a mean or a median calculated",
+              "Skewness has no effect on which measure best describes a data set"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Physics",
@@ -44465,63 +44570,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Differential Equations: The Riccati Equation and Its Link to Linear Second-Order Equations",
-        "summary": "Grade 12 Calculus strand: a Riccati equation is a first-order differential equation containing a quadratic term in the unknown function, and a well-chosen substitution transforms it into a linear second-order differential equation, connecting a nonlinear first-order problem to more familiar linear theory.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Trigonometry: Graphing the Cosecant, Secant, and Cotangent Functions",
+        "summary": "Grade 9 Math strand: cosecant, secant, and cotangent are the reciprocal trigonometric functions of sine, cosine, and tangent respectively, and their graphs contain vertical asymptotes wherever the corresponding reciprocal function equals zero.",
+        "resourceLabel": "YouTube: Trigonometry: Graphing the Cosecant, Secant, and Cotangent Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Graphing%20the%20Cosecant%2C%20Secant%2C%20and%20Cotangent%20Functions%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinctive term appears in a Riccati equation that is not present in a standard linear first-order equation?",
+            "q": "What is the cosecant function defined as the reciprocal of?",
             "options": [
-              "A term that is always identically zero",
-              "A quadratic term in the unknown function",
-              "A term involving only the independent variable raised to the first power",
-              "A term involving no function of any kind"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of equation can a Riccati equation be transformed into using a well-chosen substitution?",
-            "options": [
-              "A purely algebraic equation with no derivative present",
-              "A linear second-order differential equation",
-              "A first-order equation with an identical quadratic term",
-              "An equation with no defined solution of any kind"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What broader benefit does transforming a Riccati equation into a linear second-order equation provide?",
-            "options": [
-              "It connects a nonlinear first-order problem to more familiar and well-developed linear theory",
-              "It eliminates the need to consider the equation as a differential equation at all",
-              "It shows that the Riccati equation never had a solution to begin with",
-              "It removes any possibility of finding a solution to the original equation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the Riccati equation compare to the Bernoulli differential equation studied in an earlier batch?",
-            "options": [
-              "Neither equation can be solved using any substitution technique",
-              "The Bernoulli equation always contains a quadratic term identical to the Riccati equation",
-              "The two equations require exactly the same substitution and produce the same type of resulting equation",
-              "Both are nonlinear first-order equations solved through a strategic substitution, though the Riccati equation is reduced to a linear second-order form while the Bernoulli equation is reduced to a linear first-order form"
+              "Cosecant has no relationship to any other trigonometric function",
+              "The tangent function",
+              "The cosine function",
+              "The sine function"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Riccati equation considered an important bridge between nonlinear and linear differential equation theory?",
+            "q": "What is the secant function defined as the reciprocal of?",
             "options": [
-              "It shows that a specific class of nonlinear equations can be fully understood through the well-established tools developed for linear equations",
-              "The Riccati equation has no known method of solution of any kind",
-              "It proves that nonlinear and linear differential equations can never be related to one another",
-              "It applies only to equations with no quadratic term present"
+              "Secant has no relationship to any other trigonometric function",
+              "The cosine function",
+              "The tangent function",
+              "The sine function"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Where do vertical asymptotes occur on the graph of y = csc(x)?",
+            "options": [
+              "The cosecant graph never contains any asymptotes",
+              "Wherever sine of x equals zero",
+              "At every integer value of x with no exceptions",
+              "Wherever cosine of x equals zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the cotangent function defined as the reciprocal of?",
+            "options": [
+              "Cotangent has no relationship to any other trigonometric function",
+              "The cosine function",
+              "The tangent function",
+              "The sine function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the graph of secant relate to the graph of cosine?",
+            "options": [
+              "Secant is always a straight horizontal line regardless of cosine",
+              "Secant has vertical asymptotes wherever cosine equals zero, and its curves open away from the x-axis near those points",
+              "Secant has vertical asymptotes wherever cosine reaches its maximum value",
+              "Secant and cosine have exactly identical graphs with no differences"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Trigonometry"
       },
       {
         "subject": "Physics",
@@ -44956,63 +45061,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Numerical Methods: Picard Iteration and Successive Approximation for Initial Value Problems",
-        "summary": "Grade 12 Calculus strand: Picard iteration approximates the solution to an initial value problem by converting the differential equation into an equivalent integral equation and repeatedly substituting an improving approximation into that integral, generating a sequence of functions that converges toward the exact solution.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Calculus Preview: Optimization Using Derivatives",
+        "summary": "Grade 9 Math strand: optimization problems use derivatives to find the maximum or minimum value of a function by locating points where the derivative equals zero or is undefined, then testing those critical points to determine whether they represent the best possible outcome within given constraints.",
+        "resourceLabel": "YouTube: Calculus Preview: Optimization Using Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%20Preview%3A%20Optimization%20Using%20Derivatives%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Picard iteration convert a differential equation into before beginning its approximation process?",
+            "q": "What is the goal of an optimization problem in calculus?",
             "options": [
-              "An equivalent integral equation",
-              "A system of unrelated equations with no connection to the original problem",
-              "A purely algebraic equation with no integral or derivative present",
-              "A differential equation of a strictly higher order"
+              "Optimization problems have no defined goal of any kind",
+              "To find every possible value a function could ever produce",
+              "To determine the exact colour of a functions graph",
+              "To find the maximum or minimum value of a function, often within given constraints"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition is typically true of the derivative at a critical point where a maximum or minimum may occur?",
+            "options": [
+              "The derivative equals zero or is undefined at that point",
+              "Critical points have no relationship to the value of the derivative",
+              "The derivative is always a very large positive number at that point",
+              "The derivative can never equal zero at any point on a function"
             ],
             "answer": 0
           },
           {
-            "q": "What does Picard iteration repeatedly do to generate successive approximations?",
+            "q": "After finding a critical point, what must be done to confirm whether it represents a maximum or a minimum?",
             "options": [
-              "Ignore the initial condition entirely at every step",
-              "Substitute an improving approximation into the integral equation",
-              "Discard every previous approximation and start from a new random guess",
-              "Differentiate the original equation repeatedly with no integration involved"
+              "No further testing is ever required after finding a critical point",
+              "Critical points are always automatically maximum values with no further testing",
+              "Test the critical point, often using the sign of the derivative or second derivative nearby",
+              "The value of the function at a critical point is always irrelevant"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What does the sequence of functions generated by Picard iteration do under suitable conditions?",
+            "q": "Why are optimization problems useful in real-world applications, such as business or engineering?",
             "options": [
-              "Oscillate forever with no defined limiting function",
-              "Converge toward the exact solution of the initial value problem",
-              "Diverge without bound regardless of the starting approximation",
-              "Remain fixed at the initial guess with no further change"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does Picard iteration relate to the existence and uniqueness theorem for differential equations studied in an earlier batch?",
-            "options": [
-              "Picard iteration provides a constructive method whose convergence underlies the proof of the existence and uniqueness theorem for a well-posed initial value problem",
-              "The two concepts have no relationship to one another",
-              "Picard iteration can only be applied to equations already known to have no solution",
-              "The existence and uniqueness theorem guarantees that Picard iteration will never converge"
+              "They help identify the most efficient or profitable choice within a set of practical constraints",
+              "Optimization problems always ignore any practical constraints",
+              "They are used only to calculate the area of abstract geometric shapes",
+              "Optimization problems have no real-world applications of any kind"
             ],
             "answer": 0
           },
           {
-            "q": "Why is Picard iteration a valuable theoretical tool, even though it is rarely used for direct numerical computation compared to methods such as Runge-Kutta?",
+            "q": "How does optimization build on the concept of concavity studied earlier in this course?",
             "options": [
-              "Picard iteration always converges instantly to the exact solution in a single step",
-              "The method is used exclusively for problems with no initial condition specified",
-              "It has no connection to justifying the existence of a solution",
-              "Its convergence argument helps justify that a solution to an initial value problem exists and is unique, providing a theoretical foundation for the numerical methods used in practice"
+              "Optimization has no connection whatsoever to the concept of concavity",
+              "Optimization problems can only be solved without any reference to concavity",
+              "Concavity is used only to calculate a functions domain, not its extreme values",
+              "The concavity of a function, determined by the second derivative, helps confirm whether a critical point is a maximum or a minimum"
             ],
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Calculus: Derivatives"
       },
       {
         "subject": "Physics",
@@ -45260,60 +45365,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Quantum Decoherence and the Quantum-to-Classical Transition",
-        "summary": "Grade 12 Physics strand: quantum decoherence describes how the fragile superposition of states in a quantum system becomes effectively lost through unavoidable interaction with its surrounding environment, offering a physical explanation for why everyday macroscopic objects do not display obvious quantum behaviour.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Biology: Protein Synthesis",
+        "summary": "Grade 10 Science strand: protein synthesis occurs through transcription, where DNA is copied into messenger RNA, and translation, where that RNA is used to assemble a specific sequence of amino acids into a protein.",
+        "resourceLabel": "YouTube: Biology: Protein Synthesis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Protein%20Synthesis%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does quantum decoherence describe happening to the superposition of states in a quantum system?",
+            "q": "What are the two main stages of protein synthesis?",
             "options": [
-              "It becomes permanently stronger the longer the system is left undisturbed",
-              "It instantly disappears the moment a quantum system is first created",
-              "It becomes effectively lost through unavoidable interaction with the surrounding environment",
-              "It has no relationship to any interaction with the surrounding environment"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is responsible for causing decoherence in a quantum system?",
-            "options": [
-              "A deliberate measurement performed only once, with no further interaction",
-              "A process that requires no interaction of any kind with anything external",
-              "The system being placed in a perfectly isolated vacuum with no environment present",
-              "Unavoidable interaction between the system and its surrounding environment"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What everyday observation does quantum decoherence help explain?",
-            "options": [
-              "Why classical physics has no relationship to quantum mechanics at all",
-              "Why every macroscopic object displays constant, obvious quantum superposition",
-              "Why quantum mechanics applies only to objects larger than a planet",
-              "Why everyday macroscopic objects do not display obvious quantum behaviour"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does quantum decoherence relate to quantum entanglement studied in an earlier batch?",
-            "options": [
-              "Both concern how quantum correlations between a system and its surroundings evolve, though entanglement describes correlated states while decoherence describes how environmental interaction destroys observable superposition",
-              "Decoherence has no relationship to any interaction between quantum systems",
-              "The two concepts describe exactly the same physical process with no distinction",
-              "Quantum entanglement is caused entirely by decoherence with no other mechanism involved"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is quantum decoherence considered important for understanding the boundary between quantum and classical physics?",
-            "options": [
-              "Decoherence proves that classical physics is entirely incorrect at every scale",
-              "It offers a physical mechanism explaining why quantum effects, though fundamental, are not directly observed in large everyday objects",
-              "It has no bearing on why macroscopic objects behave classically",
-              "It shows that quantum mechanics has no relevance to any physical system, large or small"
+              "Digestion and absorption",
+              "Transcription and translation",
+              "A concept unrelated to biology",
+              "Mitosis and meiosis"
             ],
             "answer": 1
+          },
+          {
+            "q": "What happens during transcription?",
+            "options": [
+              "A cell divides into two identical cells",
+              "DNA is copied into messenger RNA",
+              "A concept unrelated to protein synthesis",
+              "A protein is broken down into amino acids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does translation involve assembling amino acids into a protein based on an RNA sequence?",
+            "options": [
+              "Amino acids are assembled with no connection to RNA at all",
+              "Yes",
+              "A concept unrelated to translation",
+              "No, translation never involves assembling amino acids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the order of amino acids assembled during translation so important to a protein’s final function?",
+            "options": [
+              "Proteins function identically regardless of their amino acid sequence",
+              "The order of amino acids never has any effect on how a protein functions",
+              "This concept has no connection to biology",
+              "The specific sequence determines how the protein folds and functions, so errors can disrupt that function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding protein synthesis important for understanding how genetic mutations can affect an organism?",
+            "options": [
+              "A mutation in DNA can change the RNA sequence and ultimately the protein produced, potentially altering its function",
+              "Proteins are produced identically regardless of any change in the underlying DNA",
+              "Genetic mutations never have any connection to protein synthesis",
+              "This concept has no relevance to biology"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -45444,63 +45549,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Multivariable Calculus: Surface Area of a Parametric Surface",
-        "summary": "Grade 12 Calculus strand: the surface area of a parametric surface is found by integrating the magnitude of the cross product of its two partial derivative vectors over the parameter domain, a formula that extends the familiar idea of arc length to a two-dimensional surface embedded in three-dimensional space.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Algebra: The Rational Root Theorem",
+        "summary": "Grade 10 Math strand: the Rational Root Theorem provides a method for identifying possible rational roots of a polynomial equation with integer coefficients by comparing the factors of the constant term to the factors of the leading coefficient, narrowing down candidates before testing them directly.",
+        "resourceLabel": "YouTube: Algebra: The Rational Root Theorem",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20The%20Rational%20Root%20Theorem%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What two vectors are combined, using a cross product, to compute the surface area of a parametric surface?",
+            "q": "What does the Rational Root Theorem help identify?",
             "options": [
-              "The gradient vector and a vector with a magnitude of zero",
-              "Two vectors that are entirely unrelated to the surfaces parametrization",
-              "The two partial derivative vectors of the parametrization",
-              "A single vector multiplied by itself, with no second vector involved"
+              "The number of dimensions in a graph",
+              "The exact derivative of a polynomial function",
+              "The area under a polynomial curve",
+              "Possible rational roots of a polynomial equation with integer coefficients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two values does the Rational Root Theorem compare?",
+            "options": [
+              "The factors of the constant term and the factors of the leading coefficient",
+              "The degree of the polynomial and its y-intercept only",
+              "The exact colour and size of the graph",
+              "The number of variables and the number of constants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be true about the coefficients of a polynomial for the Rational Root Theorem to apply directly?",
+            "options": [
+              "They must all be equal to zero",
+              "They must all be irrational numbers",
+              "They must be integers",
+              "They must be expressed only as percentages"
             ],
             "answer": 2
           },
           {
-            "q": "What operation is performed on the magnitude of this cross product to find the total surface area?",
+            "q": "Why is the Rational Root Theorem useful before testing candidate roots directly?",
             "options": [
-              "Setting it equal to zero and solving for a constant",
-              "Differentiating it with respect to a third, unrelated variable",
-              "Integrating it over the parameter domain",
-              "Multiplying it by the number of parameters used in the surface"
+              "It narrows down a large set of possible roots to a smaller, manageable list",
+              "It proves that no polynomial can have any rational roots",
+              "It eliminates the need to ever solve a polynomial equation",
+              "It guarantees every real number is automatically a root"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "In what kind of space is a parametric surface, as described here, typically embedded?",
+            "q": "After identifying possible rational roots, what is typically done next?",
             "options": [
-              "A space defined using only a single parameter",
-              "A purely one-dimensional line",
-              "Three-dimensional space",
-              "A space with no dimensions at all"
+              "The candidates are immediately discarded without any testing",
+              "The equation is declared unsolvable with no further steps",
+              "The polynomial is redefined to remove all of its terms",
+              "Each candidate is tested, often using substitution or synthetic division, to confirm whether it is an actual root"
             ],
-            "answer": 2
-          },
-          {
-            "q": "How does this surface area formula relate to the arc length of a parametric curve, studied in an earlier batch?",
-            "options": [
-              "Surface area of a parametric surface requires no derivative of any kind",
-              "The two formulas are computed using exactly the same integral with no distinction",
-              "Both extend an integral-based length or area computation from a parametrization, with arc length integrating the magnitude of a single derivative vector along a curve, while surface area integrates the magnitude of a cross product of two derivative vectors across a surface",
-              "Arc length applies only to three-dimensional surfaces and never to a one-dimensional curve"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the cross product a natural tool for measuring the area swept out by two partial derivative vectors on a surface?",
-            "options": [
-              "The cross product has no connection to measuring area in any geometric context",
-              "Cross products can only be computed for vectors that point in the exact same direction",
-              "The magnitude of the cross product of two vectors gives the area of the parallelogram they span, providing a local measure of area that can be integrated across the whole surface",
-              "The magnitude of a cross product is always equal to zero for any two distinct vectors"
-            ],
-            "answer": 2
+            "answer": 3
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Physics",
@@ -45689,63 +45794,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Series: The Cauchy Condensation Test for Series Convergence",
-        "summary": "Grade 12 Calculus strand: the Cauchy condensation test determines the convergence of a series with positive, non-increasing terms by comparing it to a related, sparser condensed series built from terms at doubling indices, often turning a difficult series into one that is straightforward to analyze.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Probability: The Law of Large Numbers",
+        "summary": "Grade 10 Math strand: the law of large numbers states that as the number of trials in a random experiment increases, the experimental probability of an outcome tends to converge toward its theoretical probability, explaining why large samples tend to produce more reliable estimates than small ones.",
+        "resourceLabel": "YouTube: Probability: The Law of Large Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20The%20Law%20of%20Large%20Numbers%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What kind of series does the Cauchy condensation test apply to?",
+            "q": "What does the law of large numbers describe?",
             "options": [
-              "A series containing exactly one term in total",
-              "A series whose terms are always increasing without bound",
-              "A series with positive, non-increasing terms",
-              "A series with terms that alternate strictly between positive and negative values"
+              "How experimental probability converges toward theoretical probability as trials increase",
+              "A method for calculating the exact area of a triangle",
+              "A rule stating that every event has an equal chance of occurring",
+              "A law that applies only to numbers greater than one million"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to experimental probability as the number of trials in an experiment increases?",
+            "options": [
+              "It always becomes completely random with no pattern",
+              "It becomes impossible to calculate at all",
+              "It tends to converge toward the theoretical probability",
+              "It moves further away from the theoretical probability with every trial"
             ],
             "answer": 2
           },
           {
-            "q": "What does the Cauchy condensation test compare the original series to?",
+            "q": "Why do large samples tend to produce more reliable estimates than small samples?",
             "options": [
-              "An entirely unrelated series with no connection to the original terms",
-              "A related, sparser condensed series built from terms at doubling indices",
-              "A series consisting only of the number zero repeated indefinitely",
-              "The original series compared only to itself with no transformation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What practical benefit does forming the condensed series often provide?",
-            "options": [
-              "It removes the need to consider convergence at all",
-              "It guarantees that the original series has no defined terms remaining",
-              "It always makes a convergent series diverge instead",
-              "It can turn a difficult series into one that is straightforward to analyze"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the Cauchy condensation test relate to the comparison test and integral test studied in earlier batches?",
-            "options": [
-              "The comparison test can only be applied to a series with negative terms",
-              "The three tests are completely unrelated in their underlying strategy",
-              "The integral test requires forming a condensed series identical to the one used in the condensation test",
-              "All three establish convergence by relating a series to another, better-understood series or function, though the condensation test specifically exploits a non-increasing terms doubling-index structure"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the Cauchy condensation test a useful addition to the toolkit of series convergence tests?",
-            "options": [
-              "It can efficiently resolve the convergence of certain series, such as those involving logarithms, where other standard tests are awkward to apply directly",
-              "It is incapable of determining the convergence of any series whatsoever",
-              "The test can only be applied to series that are already known to diverge",
-              "It duplicates exactly the same information as every other convergence test with no distinct advantage"
+              "Random fluctuations tend to average out over a greater number of trials",
+              "Small samples always produce more accurate results than large samples",
+              "Large samples always eliminate the need for any probability calculation",
+              "Sample size has no effect on the reliability of an estimate"
             ],
             "answer": 0
+          },
+          {
+            "q": "Which scenario illustrates the law of large numbers?",
+            "options": [
+              "Calculating the area of a circle with a given radius",
+              "Rolling a die without recording any outcome at all",
+              "Flipping a coin exactly one time and recording the result",
+              "Flipping a coin many times and observing the proportion of heads approach one half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the law of large numbers relevant to fields such as insurance and gambling?",
+            "options": [
+              "It only applies to a single trial and no more",
+              "It guarantees an individual outcome with complete certainty every time",
+              "It helps explain why outcomes become more predictable in aggregate over many repeated trials",
+              "It has no relevance to any real-world application"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Probability"
       },
       {
         "subject": "Physics",
@@ -45933,58 +46038,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus Review: The Capstone Survey of Differential Equations and Numerical Methods",
-        "summary": "Grade 12 Calculus review: revisiting the Riccati equation, reduction of order, Picard iteration, Newton-Cotes quadrature, and surface area of a parametric surface from Days 181-185 -- the final Calculus review of the complete 187-day Grade 12 curriculum.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "title": "Math Review: Reciprocal Trig Functions, Wilsons Theorem, Payday Loans, and Optimization",
+        "summary": "Grade 9 Math strand review: students revisit graphing the cosecant, secant, and cotangent functions, Wilsons Theorem, payday loans and predatory lending, optimization using derivatives, and recursive versus explicit formulas from Days 171-179.",
+        "resourceLabel": "YouTube: Math Review: Reciprocal Trig Functions, Wilsons Theorem, Payday Loans, and Optimization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Reciprocal%20Trig%20Functions%2C%20Wilsons%20Theorem%2C%20Payday%20Loans%2C%20and%20Optimization%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What distinctive term appears in a Riccati equation that is not present in a standard linear first-order equation?",
+            "q": "What is the cosecant function defined as the reciprocal of?",
             "options": [
-              "A term involving only the independent variable raised to the first power",
-              "A term that is always identically zero",
-              "A term involving no function of any kind",
-              "A quadratic term in the unknown function"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does reduction of order require to already be known before it can be applied?",
-            "options": [
-              "One solution to the second-order linear differential equation",
-              "The exact numerical value of every constant in the equation",
-              "No information about the differential equation at all",
-              "Both solutions to the differential equation"
+              "The sine function",
+              "The tangent function",
+              "Cosecant has no relationship to any other trigonometric function",
+              "The cosine function"
             ],
             "answer": 0
           },
           {
-            "q": "What does Picard iteration convert a differential equation into before beginning its approximation process?",
+            "q": "What does Wilsons Theorem state about a number p greater than 1?",
             "options": [
-              "A purely algebraic equation with no integral or derivative present",
-              "A system of unrelated equations with no connection to the original problem",
-              "An equivalent integral equation",
-              "A differential equation of a strictly higher order"
+              "p is always prime regardless of any factorial calculation",
+              "p is prime only if p is an even number",
+              "p is prime if and only if p is divisible by 2",
+              "p is prime if and only if (p minus 1) factorial plus 1 is divisible by p"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a payday loan?",
+            "options": [
+              "A government benefit paid automatically to every worker",
+              "A type of loan that always charges no interest of any kind",
+              "A short-term, high-interest loan intended to be repaid by a borrowers next paycheque",
+              "A long-term, low-interest loan intended to fund the purchase of a home"
             ],
             "answer": 2
           },
           {
-            "q": "What does Newton-Cotes quadrature use to approximate a definite integral?",
+            "q": "What is the goal of an optimization problem in calculus?",
             "options": [
-              "An exact algebraic antiderivative with no approximation involved",
-              "A polynomial fitted through points that are never equally spaced",
-              "A polynomial fitted through equally spaced sample points",
-              "A single randomly chosen sample point with no polynomial fitting"
+              "To find the maximum or minimum value of a function, often within given constraints",
+              "To find every possible value a function could ever produce",
+              "To determine the exact colour of a functions graph",
+              "Optimization problems have no defined goal of any kind"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What two vectors are combined, using a cross product, to compute the surface area of a parametric surface?",
+            "q": "What does a recursive formula use to define a term in a sequence?",
             "options": [
-              "A single vector multiplied by itself, with no second vector involved",
-              "The two partial derivative vectors of the parametrization",
-              "The gradient vector and a vector with a magnitude of zero",
-              "Two vectors that are entirely unrelated to the surfaces parametrization"
+              "The final term of the sequence only",
+              "One or more previous terms in the sequence",
+              "Only the position number of the term, with no reference to any other term",
+              "A recursive formula never refers to any other term in the sequence"
             ],
             "answer": 1
           }

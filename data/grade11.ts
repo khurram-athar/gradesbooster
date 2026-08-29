@@ -7711,59 +7711,59 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: The University-Style Research Proposal",
-        "summary": "Grade 11 English strand: a research proposal outlines a planned area of inquiry, including a clear research question, its significance, and an initial approach for investigating it.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=166FXhGd9T4",
+        "title": "Writing: The Rhetorical Analysis Essay",
+        "summary": "Grade 9 Writing strand: a rhetorical analysis essay examines how a speaker or writer uses persuasive techniques, such as ethos, pathos, and logos, to achieve their purpose with a specific audience.",
+        "resourceLabel": "YouTube: Writing: The Rhetorical Analysis Essay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Rhetorical%20Analysis%20Essay%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ngrR1UhedpM",
         "quiz": [
           {
-            "q": "A research proposal outlines ___.",
+            "q": "A rhetorical analysis essay examines ___.",
             "options": [
-              "A topic entirely unrelated to research",
-              "A summary of someone else’s already-published research",
-              "A completed research project with no further steps planned",
-              "A planned area of inquiry, including a research question"
+              "Only the literal content of a text with no analysis of technique",
+              "A completely unrelated topic",
+              "The exact page count of a text",
+              "How a speaker or writer uses persuasive techniques to achieve their purpose"
             ],
             "answer": 3
           },
           {
-            "q": "Why should a research proposal clearly state its research question?",
+            "q": "Which are the three classical rhetorical appeals often analyzed in this type of essay?",
             "options": [
-              "It defines the specific focus and direction of the planned investigation",
-              "A research question is unnecessary in a proposal",
-              "Stating a clear question always makes a proposal weaker",
-              "Research proposals should never include a specific question"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a research proposal explain the significance of its topic?",
-            "options": [
-              "A proposal should never explain why its topic matters",
-              "Significance has no role in a research proposal",
-              "Explaining significance always weakens a proposal",
-              "It helps justify why the research is worth pursuing"
+              "Setting, plot, and character",
+              "Rhyme, rhythm, and meter",
+              "Subject, verb, and object",
+              "Ethos, pathos, and logos"
             ],
             "answer": 3
           },
           {
-            "q": "Which is an example of an appropriate initial approach described in a research proposal?",
+            "q": "Why might a rhetorical analysis essay consider the intended audience of a text?",
             "options": [
-              "A proposal with no plan for how the research will proceed",
-              "An outline of the sources and methods that will be used to investigate the question",
-              "A promise to avoid using any sources at all",
-              "A description entirely unrelated to research methodology"
+              "The audience has no connection to how a text is written",
+              "Persuasive techniques are often chosen specifically to appeal to that audience",
+              "Rhetorical analysis never considers audience",
+              "All audiences respond identically to persuasive techniques"
             ],
             "answer": 1
           },
           {
-            "q": "Why is developing skill in writing research proposals valuable for future academic work?",
+            "q": "A rhetorical analysis essay differs from a literary analysis essay in that it primarily focuses on ___.",
             "options": [
-              "This type of writing has no practical value",
-              "This skill has no connection to future academic work",
-              "It builds the ability to plan and justify an independent investigation, a skill needed at the university level",
-              "Research proposals are never used beyond a high school English class"
+              "Exactly the same elements as a literary analysis essay",
+              "A topic with no connection to writing techniques",
+              "Persuasive strategy and technique rather than literary themes",
+              "Only the physical appearance of the text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is analyzing rhetorical technique considered a valuable skill?",
+            "options": [
+              "This skill has no real-world application",
+              "Analyzing technique replaces the need to understand content",
+              "It helps readers understand how communication can be strategically shaped to persuade",
+              "Rhetorical technique has no connection to persuasion"
             ],
             "answer": 2
           }
@@ -13270,61 +13270,61 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Reading: Analyzing Frame Narratives and Metafiction",
-        "summary": "Grade 11 English strand: a frame narrative encloses one story within another, while metafiction draws attention to its own status as a constructed work of fiction, and both techniques invite readers to think critically about how stories are told.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=dWFEKZGwicY",
+        "title": "Reading: Analyzing Frame Narratives",
+        "summary": "Grade 9 Reading strand: a frame narrative is a story structure in which one story is told within the context of another, often using an outer story to introduce or provide perspective on an inner story.",
+        "resourceLabel": "YouTube: Reading: Analyzing Frame Narratives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Frame%20Narratives%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg",
         "quiz": [
           {
-            "q": "A frame narrative encloses ___.",
+            "q": "A frame narrative is best described as a structure in which ___.",
             "options": [
+              "Two completely unrelated stories are told with no connection",
+              "One story is told within the context of another",
               "A concept unrelated to narrative structure",
-              "A single story with no additional layers",
-              "Only factual, non-fictional accounts",
-              "One story within another"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Metafiction is best described as fiction that ___.",
-            "options": [
-              "A concept unrelated to metafiction",
-              "Draws attention to its own status as a constructed work of fiction",
-              "Always presents itself as a completely factual account",
-              "Never acknowledges that it is a work of fiction"
+              "A story contains only a single, uninterrupted narrative"
             ],
             "answer": 1
           },
           {
-            "q": "Which is an example of a technique used in metafiction?",
+            "q": "The outer story in a frame narrative often serves to ___.",
             "options": [
-              "A narrator directly addressing the reader about the act of writing the story",
-              "A narrative with no narrator present at all",
-              "A story that never acknowledges its own construction in any way",
-              "A technique entirely unrelated to metafiction"
+              "Introduce or provide context and perspective for the inner story",
+              "Have no connection to the inner story at all",
+              "Replace the need for an inner story entirely",
+              "Confuse the reader with no clear purpose"
             ],
             "answer": 0
           },
           {
-            "q": "Why might an author use a frame narrative to structure a story?",
+            "q": "Why might an author choose to use a frame narrative structure?",
             "options": [
-              "Frame narratives are never used to provide additional context",
-              "A frame narrative always removes any context from the inner story",
-              "This structure has no connection to how a story is understood",
-              "It can provide context or a specific perspective through which the inner story is understood"
+              "This structure is never used intentionally by authors",
+              "A frame narrative always removes meaning from a story",
+              "Frame narratives never add any meaning to a story",
+              "It can add an additional layer of meaning or perspective to the central story"
             ],
             "answer": 3
           },
           {
-            "q": "Why might metafiction challenge a reader’s usual expectations of a story?",
+            "q": "Which is an example of a frame narrative?",
             "options": [
-              "This technique has no effect on how a reader experiences a story",
-              "It disrupts the illusion that a story is a straightforward, self-contained reality",
-              "Readers never notice when a story draws attention to its own fictional nature",
-              "Metafiction always reinforces a reader’s usual expectations with no disruption"
+              "A story with only one plotline and no narrator",
+              "A concept unrelated to frame narratives",
+              "A grandparent telling a story about a past adventure to a grandchild in the present",
+              "A story told entirely in a single, unbroken scene"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why might recognizing a frame narrative help a reader understand a text’s deeper meaning?",
+            "options": [
+              "It reveals how the outer story’s perspective shapes the reader’s understanding of the inner story",
+              "Frame narratives have no connection to a text’s meaning",
+              "Recognizing this structure never helps with reading comprehension",
+              "The outer story in a frame narrative is always irrelevant to the inner one"
+            ],
+            "answer": 0
           }
         ],
         "topic": "Reading: Fiction & Story Elements"
@@ -13580,63 +13580,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Mathematical Induction (Introduction)",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): mathematical induction is a method of proof that establishes a statement is true for all natural numbers by proving it holds for a base case and then showing that if it holds for one case, it must hold for the next.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=Tm2PJPvAULs",
+        "title": "Introduction to Graphing Quadratic Functions",
+        "summary": "Grade 8 Algebra strand (pre-high-school extension): a quadratic function, such as y equals x squared, produces a U-shaped graph called a parabola, with a vertex representing its minimum or maximum point.",
+        "resourceLabel": "YouTube: Introduction to Graphing Quadratic Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Graphing%20Quadratic%20Functions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PjWrGpWFhkU",
         "quiz": [
           {
-            "q": "Mathematical induction is a method used to prove a statement is true for ___.",
+            "q": "The graph of a quadratic function is called a ___.",
             "options": [
-              "No numbers at all",
-              "A concept unrelated to proof techniques",
-              "Only a single specific number",
-              "All natural numbers"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The first step of a proof by mathematical induction is called the ___.",
-            "options": [
-              "A step unrelated to mathematical induction",
-              "Final case, with no earlier steps required",
-              "Base case",
-              "Conclusion"
+              "Triangle",
+              "Circle",
+              "Parabola",
+              "Straight line"
             ],
             "answer": 2
           },
           {
-            "q": "The second step of a proof by mathematical induction, which shows that if a statement holds for one case it must hold for the next, is called the ___.",
+            "q": "The vertex of a parabola represents ___.",
             "options": [
-              "Final answer",
-              "Base case, repeated a second time",
-              "A step unrelated to mathematical induction",
-              "Inductive step"
+              "A random unrelated point",
+              "The minimum or maximum point of the graph",
+              "The steepest possible slope",
+              "The starting point of the x-axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The graph of y equals x squared opens ___.",
+            "options": [
+              "In no particular direction",
+              "Sideways only",
+              "Downward only",
+              "Upward"
             ],
             "answer": 3
           },
           {
-            "q": "Why is mathematical induction often compared to a row of falling dominoes?",
+            "q": "If a quadratic function’s graph opens downward, its vertex represents a ___.",
             "options": [
-              "Proving the first domino falls and that each domino knocks over the next shows the entire row will fall",
-              "Mathematical induction only ever proves a single case, similar to one domino falling alone",
-              "Dominoes and mathematical induction share no meaningful similarity",
-              "This comparison has no connection to how mathematical induction works"
+              "The y-intercept only",
+              "Point with no significance",
+              "Maximum point",
+              "Minimum point"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is mathematical induction a useful proof technique in mathematics?",
+            "q": "Why might quadratic functions be used to model real-world situations, like the path of a thrown ball?",
             "options": [
-              "This technique has no practical use in proving mathematical statements",
-              "Mathematical induction has no connection to patterns or formulas",
-              "Mathematical induction can only ever prove a statement for a single case",
-              "It provides a rigorous way to prove that a pattern or formula holds true for an infinite set of cases"
+              "Parabolas have no practical applications",
+              "Only straight-line graphs can represent real-world motion",
+              "Quadratic functions can never model real-world situations",
+              "Their U-shaped graph can represent situations that rise and then fall, or vice versa"
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Biology",
@@ -15074,64 +15075,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Set Theory and Venn Diagrams",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): a set is a well-defined collection of distinct objects, and Venn diagrams visually represent relationships between sets, including union, intersection, and complement.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=xZELQc11ACY",
+        "title": "Introduction to Permutations and Combinations",
+        "summary": "Grade 8 Data Management strand (pre-high-school extension): a permutation counts arrangements where order matters, while a combination counts selections where order does not matter.",
+        "resourceLabel": "YouTube: Introduction to Permutations and Combinations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Permutations%20and%20Combinations%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hJRXKq2GEo8",
         "quiz": [
           {
-            "q": "A set is best described as ___.",
+            "q": "A permutation counts arrangements where ___.",
             "options": [
-              "A single object with no connection to a collection",
-              "A concept unrelated to discrete mathematics",
-              "A collection that may repeat the same object many times",
-              "A well-defined collection of distinct objects"
+              "Order matters",
+              "No arrangement is being counted",
+              "Only one arrangement is possible",
+              "Order never matters"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "In a Venn diagram, the overlapping region between two circles represents the ___ of the two sets.",
+            "q": "A combination counts selections where ___.",
             "options": [
-              "Complement, with no connection to overlap",
-              "Intersection",
-              "A region unrelated to set theory",
-              "Union, with no connection to overlap"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The union of two sets, A and B, contains ___.",
-            "options": [
-              "No elements at all, regardless of A and B",
-              "Every element that belongs to A, to B, or to both",
-              "A concept unrelated to combining sets",
-              "Only elements that belong to both A and B at once"
+              "Only a single item can be selected",
+              "Order does not matter",
+              "No selection is being made",
+              "Order always matters"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a Venn diagram be a useful tool for solving a problem involving overlapping survey categories, such as students who play two different sports?",
+            "q": "Choosing 3 students from a group of 5 to form an unordered team is an example of ___.",
             "options": [
-              "A reason unrelated to representing set relationships",
-              "This tool has no connection to solving problems about overlapping groups",
-              "It visually separates students in only one category from students counted in both, avoiding double-counting",
-              "Venn diagrams always cause every element to be counted twice"
+              "An operation unrelated to counting",
+              "Neither a permutation nor a combination",
+              "A combination",
+              "A permutation"
             ],
             "answer": 2
           },
           {
-            "q": "Why is set theory considered a foundational tool for the rest of discrete mathematics, including probability?",
+            "q": "Arranging 3 students from a group of 5 in a specific order for a race is an example of ___.",
             "options": [
-              "This concept only applies to purely abstract mathematics with no further use",
-              "Many probability and counting problems can be modelled precisely using the language of sets and their relationships",
-              "Probability problems can never be represented using sets",
-              "Set theory has no connection to probability or counting problems"
+              "An operation unrelated to counting",
+              "A permutation",
+              "A combination",
+              "Neither a permutation nor a combination"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why is it useful to distinguish between permutations and combinations?",
+            "options": [
+              "These two concepts are always identical in every situation",
+              "This distinction has no real mathematical significance",
+              "It helps determine the correct method for counting different types of outcomes",
+              "Order never matters in any counting problem"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Combinatorics"
       },
       {
         "subject": "Biology",
@@ -15324,64 +15325,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Introduction to Graph Theory",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): a graph is a mathematical structure made of vertices (points) connected by edges (lines), used to model relationships and networks such as road systems or social connections.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=C7YrMRdLkqo",
+        "title": "Introduction to Exponential Growth",
+        "summary": "Grade 9 Algebra strand (non-linear relations): exponential growth occurs when a quantity increases by a consistent percentage or factor over equal time periods, producing a curve that rises increasingly steeply.",
+        "resourceLabel": "YouTube: Introduction to Exponential Growth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Exponential%20Growth%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yjMv-OL7x2s",
         "quiz": [
           {
-            "q": "In graph theory, a vertex is best described as a ___.",
+            "q": "Exponential growth occurs when a quantity increases by ___.",
             "options": [
-              "Numerical value assigned to an entire graph",
-              "A concept unrelated to graph theory",
-              "Line connecting two points in the graph",
-              "Point in the graph, often representing an object or location"
+              "A fixed amount added each time period",
+              "A consistent percentage or factor over equal time periods",
+              "Nothing at all, since the quantity never changes",
+              "A completely random amount each time period"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "An edge in a graph represents ___.",
+            "q": "The graph of exponential growth typically ___.",
             "options": [
-              "A concept unrelated to graphs",
-              "The total number of vertices in the graph",
-              "A single isolated point with no connections",
-              "A connection or relationship between two vertices"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which is an example of a real-world situation that could be modelled using a graph?",
-            "options": [
-              "A network of roads connecting different cities",
-              "A situation entirely unrelated to connections or relationships",
-              "A list of items with no relationships between them",
-              "A single number with no connection to other values"
+              "Rises increasingly steeply over time",
+              "Forms a perfectly straight line",
+              "Decreases steadily over time",
+              "Remains completely flat"
             ],
             "answer": 0
           },
           {
-            "q": "In graph theory, the degree of a vertex refers to ___.",
+            "q": "Which is an example of a real-world situation that models exponential growth?",
             "options": [
-              "The total number of vertices in the entire graph",
-              "A concept unrelated to graph theory",
-              "The number of edges connected to that vertex",
-              "The exact physical distance between two vertices"
+              "A value that never changes over time",
+              "A quantity that decreases by a fixed amount each year",
+              "A straight-line increase by the same fixed amount each year",
+              "A population doubling every certain number of years"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is graph theory a useful tool for solving real-world optimization problems, such as finding the shortest delivery route?",
+            "q": "How does exponential growth differ from linear growth?",
             "options": [
-              "This concept only applies to purely abstract mathematics with no practical use",
-              "It provides a structured way to represent and analyze connections, distances, or costs between locations",
-              "Graph theory has no real-world application outside of pure mathematics",
-              "Optimization problems can never be represented using vertices and edges"
+              "Exponential growth never actually increases over time",
+              "Exponential growth increases by a percentage or factor, while linear growth increases by a fixed amount",
+              "Linear growth always increases faster than exponential growth",
+              "They are always identical patterns of growth"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why might exponential growth eventually become unsustainable in a real-world context, like population growth?",
+            "options": [
+              "Resources and space are often limited, which can eventually slow or limit growth",
+              "Exponential growth can continue indefinitely with no limiting factors",
+              "Real-world resources have no connection to population growth",
+              "This type of growth pattern never applies to real-world situations"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Biology",
@@ -17551,62 +17552,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Conic Sections: Ellipses and Hyperbolas",
-        "summary": "Grade 11 Functions strand: an ellipse is the set of all points where the sum of the distances to two fixed points, called foci, is constant, while a hyperbola is the set of all points where the difference of those distances is constant, extending the circle to a broader family of conic sections.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Simplifying Rational Expressions",
+        "summary": "Grade 9 Algebra strand: a rational expression is a fraction with polynomials in the numerator and denominator, and simplifying it involves factoring and cancelling common factors.",
+        "resourceLabel": "YouTube: Simplifying Rational Expressions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20Rational%20Expressions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uVpsz-xpnPo",
         "quiz": [
           {
-            "q": "An ellipse is defined as the set of all points for which the ___ of the distances to two fixed foci is constant.",
+            "q": "A rational expression is best described as ___.",
             "options": [
-              "A quantity unrelated to conic sections",
-              "Difference",
-              "Sum",
-              "Product"
+              "A fraction with polynomials in the numerator and denominator",
+              "A whole number with no fractions involved",
+              "An expression with no variables at all",
+              "A fraction that can never be simplified"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplifying a rational expression typically involves ___.",
+            "options": [
+              "Adding all terms together with no factoring",
+              "Ignoring the denominator entirely",
+              "Factoring and cancelling common factors",
+              "Multiplying the numerator by an unrelated number"
             ],
             "answer": 2
           },
           {
-            "q": "A hyperbola is defined as the set of all points for which the ___ of the distances to two fixed foci is constant.",
+            "q": "Simplify the rational expression (x squared minus 4) over (x minus 2).",
             "options": [
-              "Sum",
-              "Product",
-              "A quantity unrelated to conic sections",
-              "Difference"
+              "x squared minus 2",
+              "x + 2",
+              "4",
+              "x - 2"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why does an ellipse have two foci rather than a single centre point, unlike a circle?",
+            "q": "Why is it important to identify restrictions (values that make the denominator zero) when simplifying rational expressions?",
             "options": [
-              "Its defining property depends on the combined distance to two fixed points rather than a single fixed distance from one point",
-              "Foci have no connection to how an ellipse is defined",
-              "An ellipse and a circle are defined using an identical single-centre property",
-              "An ellipse can only be defined using three or more fixed points"
+              "Division by zero is undefined, so those values must be excluded from the domain",
+              "Simplifying never requires considering the denominator’s value",
+              "The denominator can always safely equal zero",
+              "Restrictions have no relevance to rational expressions"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a hyperbola consist of two separate curved branches rather than a single closed curve?",
+            "q": "Why might factoring be a necessary first step before simplifying a rational expression?",
             "options": [
-              "This shape has no connection to how a hyperbola is mathematically defined",
-              "A hyperbola always forms a single closed curve identical to an ellipse",
-              "Every conic section must form a single closed curve with no exceptions",
-              "Points satisfying a constant difference of distances split into two distinct regions on either side of the foci"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why are ellipses and hyperbolas considered part of the same family of curves as circles and parabolas?",
-            "options": [
-              "All four shapes can be produced by slicing a cone with a plane at different angles",
-              "A cone can only ever produce a circle, with no other possible cross-section",
-              "These shapes share no mathematical relationship to one another",
-              "This concept only applies to purely abstract mathematics with no real-world use"
+              "It reveals common factors in the numerator and denominator that can be cancelled",
+              "Common factors are never present in these expressions",
+              "Factoring has no connection to simplifying rational expressions",
+              "Rational expressions can only be simplified without factoring"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Biology",
@@ -17796,63 +17799,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Introduction to Matrices and Matrix Operations",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): a matrix is a rectangular array of numbers organized into rows and columns, and matrices can be added, subtracted, or multiplied according to specific rules, providing a compact way to organize and manipulate related sets of data.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Modular Arithmetic",
+        "summary": "Grade 8 Number strand (pre-high-school extension): modular arithmetic involves working with remainders after division, often used in real-world contexts like telling time on a 12-hour clock.",
+        "resourceLabel": "YouTube: Introduction to Modular Arithmetic",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Modular%20Arithmetic%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L6LYdv2bCKg",
         "quiz": [
           {
-            "q": "A matrix is best described as a rectangular array of numbers organized into ___.",
+            "q": "Modular arithmetic focuses on ___.",
             "options": [
-              "A single row with no columns at all",
-              "Rows and columns",
-              "A single column with no rows at all",
-              "A concept unrelated to discrete mathematics"
+              "The remainder after division",
+              "Only whole numbers with no remainders",
+              "Ignoring division entirely",
+              "A concept unrelated to division"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a 12-hour clock, 15 o’clock would correspond to which hour, using modular arithmetic?",
+            "options": [
+              "15 o’clock exactly, with no adjustment",
+              "3 o’clock",
+              "12 o’clock",
+              "5 o’clock"
             ],
             "answer": 1
           },
           {
-            "q": "The dimensions of a matrix are described using its number of rows and its number of ___.",
+            "q": "What is 17 mod 5 (the remainder when 17 is divided by 5)?",
             "options": [
-              "Determinants",
-              "Columns",
-              "A quantity unrelated to describing a matrix",
-              "Diagonals"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why can two matrices only be added together if they have the exact same dimensions?",
-            "options": [
-              "Dimensions have no connection to whether two matrices can be added",
-              "Matrices of any size can always be added together with no restrictions at all",
-              "Matrix addition never depends on the size of the matrices involved",
-              "Matrix addition combines corresponding entries position by position, which requires both matrices to have matching rows and columns"
+              "5",
+              "3",
+              "12",
+              "2"
             ],
             "answer": 3
           },
           {
-            "q": "Why is matrix multiplication not simply performed by multiplying corresponding entries, the way matrix addition is?",
+            "q": "Why is modular arithmetic useful for understanding clocks and calendars?",
             "options": [
-              "Multiplying corresponding entries is always the correct method for matrix multiplication",
-              "This distinction has no basis in how matrices are mathematically defined",
-              "Matrix multiplication is defined using a row-by-column combination that models a specific kind of transformation, not a simple entry-by-entry product",
-              "Matrix multiplication and matrix addition are always calculated using an identical method"
+              "Modular arithmetic has no real-world applications",
+              "Clocks and calendars have no connection to remainders",
+              "These systems repeat in cycles, similar to how remainders repeat in modular arithmetic",
+              "Time never involves any repeating patterns"
             ],
             "answer": 2
           },
           {
-            "q": "Why are matrices a useful tool for organizing and solving a system of several linear equations at once?",
+            "q": "What is 22 mod 7 (the remainder when 22 is divided by 7)?",
             "options": [
-              "Matrices have no practical connection to solving systems of linear equations",
-              "This concept only applies to purely abstract mathematics with no practical use",
-              "A matrix can compactly represent all the coefficients and constants in the system, allowing systematic methods to solve for every variable together",
-              "A system of equations can never be represented using a matrix"
+              "1",
+              "3",
+              "22",
+              "7"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Biology",
@@ -18041,62 +18044,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: The Pigeonhole Principle and Combinatorial Reasoning",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): the pigeonhole principle states that if more items are placed into containers than there are containers, at least one container must hold more than one item, a simple idea that can prove surprisingly powerful results in combinatorial reasoning.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to the Quadratic Formula",
+        "summary": "Grade 8 Algebra strand (pre-high-school extension): the quadratic formula, x equals negative b plus or minus the square root of b squared minus 4ac all over 2a, can be used to solve any quadratic equation in the form ax squared plus bx plus c equals zero.",
+        "resourceLabel": "YouTube: Introduction to the Quadratic Formula",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20the%20Quadratic%20Formula%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IlNAJl36-10",
         "quiz": [
           {
-            "q": "The pigeonhole principle states that if more items are placed into containers than there are containers, then ___.",
+            "q": "The quadratic formula is used to solve equations in the form ___.",
             "options": [
-              "No container can ever hold more than one item",
-              "A conclusion unrelated to combinatorial reasoning",
-              "At least one container must hold more than one item",
-              "Every container must hold exactly one item"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The pigeonhole principle is most directly used to prove that a certain outcome ___.",
-            "options": [
-              "Must occur, given the number of items and containers involved",
-              "A concept unrelated to the pigeonhole principle",
-              "Can never occur under any circumstances",
-              "Occurs only if every container is completely full"
+              "ax squared plus bx plus c equals zero",
+              "a plus b equals c",
+              "ax plus b equals zero",
+              "a divided by b equals c"
             ],
             "answer": 0
           },
           {
-            "q": "Why can the pigeonhole principle guarantee that at least two people in a group of 13 share the same birth month?",
+            "q": "In the quadratic formula, which symbol represents the coefficient of the x squared term?",
             "options": [
-              "With 13 people, it is always possible for every one of them to have a different birth month",
-              "This principle can never be applied to a real-world situation involving people",
-              "Birth months have no connection to how the pigeonhole principle can be applied",
-              "There are only 12 possible birth months, so placing 13 people into 12 containers forces at least one month to be shared"
+              "c",
+              "b",
+              "x",
+              "a"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the pigeonhole principle considered powerful despite being based on such a simple idea?",
+            "q": "The quadratic formula includes a square root of ___.",
             "options": [
-              "It can prove that certain outcomes are mathematically guaranteed without needing to check every individual case directly",
-              "This principle has no genuine mathematical applications beyond a simple thought experiment",
-              "Simple mathematical ideas can never lead to a powerful or useful conclusion",
-              "The pigeonhole principle can only ever be applied to problems involving pigeons"
+              "c squared minus a",
+              "b squared minus 4ac",
+              "a squared plus b squared",
+              "b plus c"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might the pigeonhole principle be considered a foundational tool within the broader study of combinatorics?",
+            "q": "Why is the quadratic formula considered a powerful tool in algebra?",
             "options": [
-              "Combinatorics never makes use of any reasoning based on containers or categories",
-              "This concept only applies to purely abstract mathematics with no further use",
-              "The pigeonhole principle has no connection to combinatorics or counting problems",
-              "It offers a straightforward way to reason about the certainty of an outcome, complementing other combinatorial counting techniques"
+              "The quadratic formula has no practical use in algebra",
+              "It only works for linear equations, not quadratics",
+              "It can only be used with equations that are already factored",
+              "It can solve any quadratic equation, even ones that are difficult to factor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For the equation x squared plus 3x plus 2 equals zero, what are the values of a, b, and c?",
+            "options": [
+              "a = 2, b = 1, c = 3",
+              "a = 3, b = 2, c = 1",
+              "a = 1, b = 2, c = 3",
+              "a = 1, b = 3, c = 2"
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Quadratic Relations"
       },
       {
         "subject": "Biology",
@@ -18286,60 +18291,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Logic and Proof: Direct, Indirect, and Proof by Contradiction",
-        "summary": "Grade 11 Functions strand (Discrete Mathematics): a direct proof establishes a statement by reasoning forward from known facts, while an indirect proof, including proof by contradiction, establishes a statement by assuming its opposite is true and showing that assumption leads to a logical impossibility.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Cubic Functions",
+        "summary": "Grade 9 Algebra strand (non-linear relations): a cubic function, such as y equals x cubed, produces a curved graph distinct from both linear and quadratic relations, often with an S-shaped or inflected pattern.",
+        "resourceLabel": "YouTube: Introduction to Cubic Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Cubic%20Functions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yOrXqvO2M1M",
         "quiz": [
           {
-            "q": "A direct proof establishes a statement by ___.",
+            "q": "A cubic function includes a variable raised to the power of ___.",
             "options": [
-              "Assuming the opposite of the statement is true",
-              "Reasoning forward from known facts to the conclusion",
-              "A method unrelated to mathematical proof",
-              "Testing only a single specific example"
+              "One",
+              "Zero",
+              "Two",
+              "Three"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "A proof by contradiction begins by ___.",
+            "q": "The graph of a basic cubic function, such as y equals x cubed, is often described as having a ___ shape.",
             "options": [
-              "Ignoring the statement entirely and proving something unrelated",
-              "Assuming the statement to be proven is already true",
-              "Assuming the opposite of the statement to be proven is true",
-              "A method unrelated to mathematical proof"
+              "A perfect circle",
+              "Perfectly straight",
+              "S-shaped or inflected",
+              "A simple U-shape identical to a parabola"
             ],
             "answer": 2
           },
           {
-            "q": "Why does reaching a logical impossibility during a proof by contradiction confirm that the original statement must be true?",
+            "q": "How does a cubic function’s graph generally differ from a quadratic function’s graph?",
             "options": [
-              "If assuming the statement’s opposite leads to an impossible result, that opposite assumption must be false, making the original statement true",
-              "A proof by contradiction can never actually establish that a statement is true",
-              "Logical impossibilities always indicate that the original statement is false",
-              "Reaching a logical impossibility has no connection to whether the original statement is true"
+              "Quadratic functions always have more complex graphs than cubic functions",
+              "They are always identical in shape",
+              "A cubic function never produces a curved graph",
+              "A cubic graph can have a different curve pattern, including an inflection point, unlike a parabola"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a mathematician choose an indirect proof, such as proof by contradiction, when a direct proof seems difficult to construct?",
+            "q": "What is the value of y when x equals 2 in the function y equals x cubed?",
             "options": [
-              "Assuming the opposite can sometimes reveal a contradiction more easily than reasoning forward directly toward the conclusion",
-              "This choice has no connection to the structure of the statement being proven",
-              "Indirect proofs are always more difficult to construct than direct proofs in every situation",
-              "A proof by contradiction can only ever be used for statements that are already known to be false"
+              "2",
+              "4",
+              "6",
+              "8"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is the classic proof that the square root of two is irrational considered a well-known example of proof by contradiction?",
+            "q": "Why might cubic functions be used to model certain real-world situations?",
             "options": [
-              "This proof directly calculates the decimal value of the square root of two with no assumption involved",
-              "It assumes the square root of two can be written as a fraction and shows that assumption leads to a logical impossibility",
-              "This example has no relevance to understanding proof techniques",
-              "Proof by contradiction has no connection to proving facts about irrational numbers"
+              "Cubic functions can never model any real-world situation",
+              "This type of function has no practical application",
+              "Some real-world relationships involve more complex curvature than linear or quadratic models can capture",
+              "All real-world relationships are always linear"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       },
@@ -19450,62 +19456,64 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: Paratext and the Epigraph — How Framing Shapes Reading",
-        "summary": "Grade 11 English strand: paratext refers to the material surrounding a text’s main content, such as a title, preface, or epigraph, and an epigraph — a brief quotation placed at the start of a work — can frame a reader’s expectations and suggest a thematic lens before the story itself even begins.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Writing: The Literary Analysis Thesis and Outline",
+        "summary": "Grade 9 Writing strand: a literary analysis thesis presents a specific, arguable claim about a text, and an outline organizes supporting evidence and reasoning into a clear structure before drafting the full essay.",
+        "resourceLabel": "YouTube: Writing: The Literary Analysis Thesis and Outline",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Analysis%20Thesis%20and%20Outline%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Fb8UzvGGqR4",
         "quiz": [
           {
-            "q": "Paratext refers to material surrounding a text’s main content, such as ___.",
+            "q": "A literary analysis thesis should present ___.",
             "options": [
-              "A title, preface, or epigraph",
-              "A concept unrelated to how a text is presented",
-              "The physical weight of the printed book alone",
-              "Only the final chapter of a work, with no connection to any other material"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "An epigraph is best described as a brief quotation placed ___.",
-            "options": [
-              "In the exact middle of a work, unconnected to its beginning or end",
-              "A concept unrelated to paratext",
-              "At the very end of a work, after the story has fully concluded",
-              "At the start of a work, to frame a reader’s expectations"
+              "A list of random facts with no central claim",
+              "A concept unrelated to literary analysis",
+              "A simple summary of the text’s plot",
+              "A specific, arguable claim about a text"
             ],
             "answer": 3
           },
           {
-            "q": "Why might an author select an epigraph from an entirely different work to introduce their own text?",
+            "q": "An outline for a literary analysis essay is used to ___.",
             "options": [
-              "The borrowed quotation can suggest a thematic connection or lens the author wants a reader to keep in mind while reading",
-              "This technique has no relevance to how a reader approaches a text",
-              "Selecting an epigraph from another work is never done by authors of published texts",
-              "An epigraph never has any thematic connection to the work it introduces"
+              "List unrelated ideas with no connection to the thesis",
+              "A step that is never useful before writing an essay",
+              "Organize supporting evidence and reasoning before drafting the full essay",
+              "Replace the need for any evidence in the final essay"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why might a reader’s interpretation of a novel’s opening chapter shift after they notice how it relates to the book’s epigraph?",
+            "q": "Which is an example of an arguable literary analysis thesis?",
             "options": [
-              "An epigraph never has any measurable effect on how a reader interprets a story",
-              "This concept has no relevance to literary interpretation",
-              "Paratextual elements like an epigraph are always entirely disconnected from a work’s themes",
-              "Recognizing that connection can reveal a thematic emphasis the author intended a reader to carry into the story"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is studying paratext, such as titles and epigraphs, considered a valuable part of close literary analysis?",
-            "options": [
-              "Titles and epigraphs are never included in analysis when studying a literary work",
-              "These framing elements can carry meaning and shape a reader’s expectations before the main text even begins",
-              "This concept has no relevance to developing strong literary analysis skills",
-              "Paratextual elements are always meaningless additions with no connection to a work’s content"
+              "This book was published in a particular year.",
+              "Through its use of symbolism, the novel critiques the dangers of unchecked ambition.",
+              "The novel has characters and a plot.",
+              "A statement with no arguable claim about the text."
             ],
             "answer": 1
+          },
+          {
+            "q": "Why should a literary analysis thesis avoid being simply a statement of fact?",
+            "options": [
+              "A thesis should never make any kind of claim",
+              "Facts are always considered strong, arguable theses",
+              "A factual statement alone provides nothing for the essay to argue or prove",
+              "This distinction has no effect on the strength of an essay"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is creating an outline before drafting a literary analysis essay considered good practice?",
+            "options": [
+              "Essays are always stronger when written with no planning at all",
+              "Outlines never improve the organization of an essay",
+              "It helps ensure the essay’s evidence and reasoning are logically organized in support of the thesis",
+              "An outline has no connection to how well-organized an essay is"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Functions",
@@ -19935,62 +19943,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Kunstlerroman — The Artist’s Coming-of-Age Novel",
-        "summary": "Grade 11 English strand: a Kunstlerroman is a novel that traces the development of an artist from childhood or youth into their mature creative identity.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Analyzing Epistolary Narratives",
+        "summary": "Grade 9 Language strand: an epistolary narrative tells a story through letters, diary entries, or other documents, giving readers a direct, personal window into a character’s voice and perspective.",
+        "resourceLabel": "YouTube: Reading: Analyzing Epistolary Narratives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Epistolary%20Narratives%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a Kunstlerroman trace the development of?",
+            "q": "What do we call a narrative told through letters or diary entries?",
             "options": [
-              "A concept unrelated to literature",
-              "A political leader’s rise to power",
-              "A scientific discovery over several decades",
-              "An artist, from youth into their mature creative identity"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is a Kunstlerroman a specific type of coming-of-age novel?",
-            "options": [
-              "A concept unrelated to the Kunstlerroman",
-              "No, it has no connection to coming-of-age narratives",
-              "Yes",
-              "It only ever describes a story with no central character"
+              "A recipe",
+              "A concept unrelated to reading",
+              "An epistolary narrative",
+              "A biography"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a Kunstlerroman focus heavily on a protagonist’s internal creative struggles?",
+            "q": "Does an epistolary narrative give readers a direct window into a character’s voice?",
             "options": [
-              "Artistic development is never relevant to this type of novel",
-              "The novel’s core interest is how the character develops as an artist, which requires exploring their inner life",
-              "A Kunstlerroman never focuses on any internal struggle",
-              "This concept has no connection to literature"
+              "This format only ever uses a third-person narrator",
+              "Yes",
+              "No, this format never reveals a character’s voice",
+              "A concept unrelated to epistolary narratives"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these would most likely appear in a Kunstlerroman?",
+            "q": "Why might an author choose an epistolary format to tell a story?",
             "options": [
-              "A detailed recipe for baking bread.",
-              "A user manual for assembling furniture.",
-              "A weather report for the upcoming week.",
-              "A young painter gradually finding her unique artistic voice despite early self-doubt."
+              "Epistolary narratives never create any sense of intimacy",
+              "This format always distances readers from the characters",
+              "This concept has no connection to literature",
+              "It can create intimacy and immediacy by presenting events directly through a character’s own words"
             ],
             "answer": 3
           },
           {
-            "q": "Why might readers interested in creativity and self-discovery be drawn to the Kunstlerroman genre?",
+            "q": "Why might reading multiple letters from different characters in an epistolary novel be useful?",
             "options": [
-              "The Kunstlerroman genre focuses only on unrelated historical events",
-              "It offers an intimate look at the challenges and growth involved in becoming an artist",
-              "This genre has no connection to themes of creativity or self-discovery",
-              "This concept has no relevance to literature"
+              "This concept has no connection to reading comprehension",
+              "Only one single perspective is ever possible in this format",
+              "It can reveal multiple perspectives on the same events",
+              "Multiple letters never add any new perspective to a story"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an epistolary structure?",
+            "options": [
+              "A novel told entirely through a character’s diary entries",
+              "A newspaper weather report",
+              "A textbook chapter on chemistry",
+              "A novel narrated by an all-knowing narrator"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Functions",
@@ -20914,62 +20923,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: Ecocriticism — Reading Nature and the Environment in Text",
-        "summary": "Grade 11 English strand: ecocriticism examines how literature represents nature and the environment, exploring the relationship between human culture and the natural world.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Writing: The Rhetorical Analysis Essay",
+        "summary": "Grade 8 Language strand: a rhetorical analysis essay examines how a writer or speaker uses persuasive techniques, such as ethos, pathos, and logos, to influence an audience.",
+        "resourceLabel": "YouTube: Writing: The Rhetorical Analysis Essay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Rhetorical%20Analysis%20Essay%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does ecocriticism examine in literature?",
+            "q": "What does a rhetorical analysis essay examine?",
             "options": [
-              "A concept unrelated to literary study",
-              "Only the grammar and punctuation used in a text",
-              "The exact publication date of a text",
-              "How literature represents nature and the environment"
+              "Only the length of a text",
+              "A concept unrelated to writing",
+              "Only the punctuation used in a text",
+              "How a writer or speaker uses persuasive techniques"
             ],
             "answer": 3
           },
           {
-            "q": "Does ecocriticism explore the relationship between human culture and the natural world?",
+            "q": "Name one persuasive technique a rhetorical analysis might examine, such as ethos or pathos.",
             "options": [
-              "Human culture and the natural world are never connected in this approach",
-              "A concept unrelated to ecocriticism",
+              "A math formula",
+              "A grocery list",
+              "Ethos",
+              "A concept unrelated to rhetorical analysis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does ethos refer to an appeal based on credibility and trustworthiness?",
+            "options": [
+              "No, ethos refers only to emotion",
+              "Ethos has no connection to persuasion",
               "Yes",
-              "No, ecocriticism never considers any relationship between culture and nature"
+              "A concept unrelated to rhetorical analysis"
             ],
             "answer": 2
           },
           {
-            "q": "Why might an ecocritical reading of a novel focus on how a character interacts with a natural landscape?",
+            "q": "Does pathos refer to an appeal based on emotion?",
             "options": [
-              "This concept has no connection to literature",
-              "Ecocriticism only ever focuses on characters, never on setting or landscape",
-              "These interactions can reveal deeper attitudes toward nature, and how humans understand their place within it",
-              "A character’s interaction with landscape is never significant in an ecocritical reading"
+              "Yes",
+              "No, pathos refers only to logic",
+              "A concept unrelated to rhetorical analysis",
+              "Pathos has no connection to persuasion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a rhetorical analysis essay be useful for understanding a political speech?",
+            "options": [
+              "This concept has no connection to writing",
+              "Political speeches never use any persuasive techniques",
+              "It can reveal the specific techniques used to persuade or influence listeners",
+              "Rhetorical analysis never reveals anything useful about a speech"
             ],
             "answer": 2
-          },
-          {
-            "q": "Which of these questions would an ecocritic likely ask about a text?",
-            "options": [
-              "How many chapters does this novel contain?",
-              "How does this novel portray humanity’s relationship with the natural environment?",
-              "What font was used in the original printed edition?",
-              "What year was the author born?"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might ecocriticism be considered an increasingly relevant approach to studying literature today?",
-            "options": [
-              "Environmental themes have never appeared in any literary work",
-              "Growing awareness of environmental issues has made how literature represents nature more significant to modern readers",
-              "Ecocriticism has no connection to any contemporary concerns or issues",
-              "This concept has no relevance to literature"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Writing"
       },
       {
         "subject": "Functions",
@@ -21338,60 +21348,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Superconductivity and Low-Temperature Chemistry",
-        "summary": "Grade 11 Chemistry strand: a superconductor conducts electricity with zero resistance when cooled below a critical temperature, a phenomenon studied within low-temperature chemistry and physics.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "The Mole Concept and Molar Mass",
+        "summary": "Grade 9 Science Chemistry strand: a mole is a unit used to count extremely large numbers of particles, such as atoms or molecules, and molar mass relates the mass of a substance to the number of moles present.",
+        "resourceLabel": "YouTube: The Mole Concept and Molar Mass",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Mole%20Concept%20and%20Molar%20Mass%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=74-X94OP2XI",
         "quiz": [
           {
-            "q": "What is a superconductor?",
+            "q": "A mole is a unit used to ___.",
             "options": [
-              "A concept unrelated to chemistry",
-              "A material that conducts electricity with zero resistance below a critical temperature",
-              "A material that always blocks electricity completely",
-              "A material that only conducts electricity at room temperature"
+              "Count extremely large numbers of particles, like atoms or molecules",
+              "Measure the volume of a solid object",
+              "Measure temperature",
+              "Count the number of chemical elements only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Molar mass relates ___.",
+            "options": [
+              "The mass of a substance to the number of moles present",
+              "A substance’s mass to its exact age",
+              "Only the colour of a substance",
+              "The temperature of a substance to its volume"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the mole considered a useful unit in chemistry?",
+            "options": [
+              "This unit is unrelated to counting particles",
+              "It allows chemists to work with manageable numbers when counting extremely small particles",
+              "The mole has no practical use in chemistry",
+              "It only applies to liquids, never solids or gases"
             ],
             "answer": 1
           },
           {
-            "q": "Does a superconductor need to be cooled below a certain temperature to achieve zero resistance?",
+            "q": "Molar mass is typically expressed in units of ___.",
             "options": [
-              "Yes",
-              "A concept unrelated to superconductors",
-              "No, superconductors work the same at any temperature",
-              "Temperature has no connection to superconductivity"
+              "Litres per second",
+              "Degrees Celsius",
+              "Grams per mole",
+              "Metres per mole"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Does electric current flow through a superconductor without losing energy?",
+            "q": "Why might chemists need to convert between grams and moles when working with a chemical reaction?",
             "options": [
-              "Yes",
-              "No, superconductors always lose significant energy",
-              "A concept unrelated to superconductors",
-              "Superconductors never actually conduct any electricity"
+              "Chemical reactions never require this type of conversion",
+              "Grams and moles are always exactly equal to each other",
+              "This conversion has no use in chemistry",
+              "It allows them to relate a measurable mass to the actual number of particles reacting"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why might superconducting magnets be used in medical MRI machines?",
-            "options": [
-              "They can generate strong, stable magnetic fields efficiently without energy loss from resistance",
-              "This concept has no relevance to chemistry",
-              "Superconductors have no connection to medical imaging technology",
-              "MRI machines never use any superconducting technology"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is finding a superconductor that works at higher, more practical temperatures an active area of chemical research?",
-            "options": [
-              "Superconductors already work perfectly at room temperature with no research needed",
-              "Current superconductors often require expensive, complex cooling systems to function",
-              "Cooling temperature has no connection to how superconductors are used",
-              "This concept has no relevance to chemistry"
-            ],
-            "answer": 1
+            "answer": 3
           }
         ]
       }
@@ -21463,62 +21474,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Introduction to Modular Arithmetic",
-        "summary": "Grade 11 Functions strand: modular arithmetic involves working with remainders after division, often described as clock arithmetic, since numbers wrap around after reaching a fixed value called the modulus.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Transformations of Functions (Vertical/Horizontal Shifts)",
+        "summary": "Grade 9 Algebra strand (non-linear relations): a function can be transformed by shifting its graph vertically or horizontally, such as y equals f(x) plus k for a vertical shift or y equals f(x minus h) for a horizontal shift.",
+        "resourceLabel": "YouTube: Transformations of Functions (Vertical/Horizontal Shifts)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Functions%20%28Vertical/Horizontal%20Shifts%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk",
         "quiz": [
           {
-            "q": "What does modular arithmetic involve working with?",
+            "q": "A vertical shift of a function’s graph is represented by adding a constant ___.",
             "options": [
-              "Only negative numbers",
-              "Only whole, undivided numbers",
-              "A concept unrelated to functions",
-              "Remainders after division"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is modular arithmetic sometimes called clock arithmetic?",
-            "options": [
-              "This concept has no connection to functions",
-              "Clocks and modular arithmetic have never been compared to each other",
-              "Modular arithmetic has no connection to clocks or wrapping numbers",
-              "Numbers wrap around after reaching a fixed value, similar to how a clock resets after 12"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is 23 mod 7, meaning the remainder when 23 is divided by 7?",
-            "options": [
-              "2",
-              "3",
-              "23",
-              "7"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 17 mod 5, meaning the remainder when 17 is divided by 5?",
-            "options": [
-              "2",
-              "3",
-              "5",
-              "17"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might modular arithmetic be useful for solving problems involving repeating cycles, like days of the week?",
-            "options": [
-              "Modular arithmetic never applies to any repeating or cyclical pattern",
-              "Days of the week have no connection to modular arithmetic",
-              "It naturally models patterns that repeat after a fixed number of steps",
-              "This concept has no connection to functions"
+              "Inside the function’s input only",
+              "By multiplying the entire function by zero",
+              "Outside the function, such as f(x) plus k",
+              "A change unrelated to the function’s graph"
             ],
             "answer": 2
+          },
+          {
+            "q": "A horizontal shift of a function’s graph is represented by changing the ___.",
+            "options": [
+              "The function’s domain to an empty set",
+              "Output value only, with no change to input",
+              "A value unrelated to the function’s graph",
+              "Input value, such as f(x minus h)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If y equals f(x) plus 3, the graph of f(x) shifts ___.",
+            "options": [
+              "Left by 3 units",
+              "A shift unrelated to the value 3",
+              "Up by 3 units",
+              "Down by 3 units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If y equals f(x minus 2), the graph of f(x) shifts ___.",
+            "options": [
+              "Right by 2 units",
+              "A shift unrelated to the value 2",
+              "Up by 2 units",
+              "Left by 2 units"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are function transformations useful for graphing related functions quickly?",
+            "options": [
+              "Transformations always require recalculating every point from scratch",
+              "They allow a new graph to be sketched based on a known graph’s shape, without recalculating every point",
+              "Function transformations have no connection to graphing",
+              "Every transformed function must be graphed as a completely unrelated shape"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Transformations"
       },
       {
         "subject": "Biology",
@@ -21647,63 +21660,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Reading: Analyzing Narrative Unreliability Through Free Indirect Discourse",
-        "summary": "Grade 11 English strand: free indirect discourse blends a character’s inner thoughts with the narrator’s voice, often making it harder for readers to fully trust the perspective being presented.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Grammar: Correlative Conjunctions and Parallelism",
+        "summary": "Grade 8 Language strand: correlative conjunctions, such as either/or and not only/but also, must be paired with parallel grammatical structures to sound clear and balanced.",
+        "resourceLabel": "YouTube: Grammar: Correlative Conjunctions and Parallelism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Correlative%20Conjunctions%20and%20Parallelism%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does free indirect discourse blend?",
+            "q": "Name one pair of correlative conjunctions, such as either/or.",
             "options": [
-              "A list of unrelated footnotes",
-              "A concept unrelated to reading",
-              "Only stage directions in a play",
-              "A character’s inner thoughts with the narrator’s voice"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can free indirect discourse make it harder for readers to fully trust the perspective being presented?",
-            "options": [
-              "A concept unrelated to free indirect discourse",
-              "No, this technique always makes a text’s perspective perfectly clear and reliable",
-              "Reader trust is never affected by this narrative technique",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might free indirect discourse blur the line between a character’s subjective view and objective narration?",
-            "options": [
-              "Free indirect discourse always keeps a character’s thoughts completely separate from the narration",
-              "This concept has no connection to reading comprehension",
-              "The technique merges a character’s thoughts into the narrative voice, without clearly marking them as separate",
-              "This technique never involves any blending of perspectives"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these best illustrates free indirect discourse?",
-            "options": [
-              "She said, I am walking home now.",
-              "She walked home slowly. Why did everyone always expect so much of her?",
-              "Chapter one begins with a description of the weather.",
-              "The character walked home at six o’clock."
+              "Run/jump",
+              "Either/or",
+              "A concept unrelated to grammar",
+              "Cat/dog"
             ],
             "answer": 1
           },
           {
-            "q": "Why is recognizing free indirect discourse important when analyzing an unreliable narrator?",
+            "q": "What must correlative conjunctions be paired with to sound clear and balanced?",
             "options": [
-              "It helps readers identify when a character’s biased perspective is shaping the narration itself",
-              "Free indirect discourse has no connection to analyzing narrator reliability",
-              "This concept has no relevance to reading comprehension",
-              "Unreliable narration never involves any blending of character and narrator perspective"
+              "A concept unrelated to correlative conjunctions",
+              "Parallel grammatical structures",
+              "Random, mismatched structures",
+              "No structure at all"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses parallel structure with correlative conjunctions?",
+            "options": [
+              "She sings not only but also dances she.",
+              "Not only she sings but also dancing.",
+              "She not only sings but also to dance.",
+              "She not only sings but also dances."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a sentence using either/or sound awkward if it lacks parallel structure?",
+            "options": [
+              "This concept has no connection to grammar",
+              "Parallel structure never affects how clear a sentence sounds",
+              "Correlative conjunctions never require any specific structure",
+              "Mismatched structures can make a sentence confusing or grammatically incorrect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses correlative conjunctions with correct parallel structure?",
+            "options": [
+              "Ready neither the teacher nor students were.",
+              "Neither the teacher nor were the students ready.",
+              "Neither ready nor the teacher the students were.",
+              "Neither the teacher nor the students were ready."
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Functions",
@@ -22376,63 +22389,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Postcolonial Novel and Writing Back to Empire",
-        "summary": "Grade 11 English strand: postcolonial literature examines the lasting cultural, political, and psychological effects of colonialism, often reclaiming narrative voice from the perspective of formerly colonized peoples.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Grammar: Nominalization and Formal Register",
+        "summary": "Grade 9 Language strand: nominalization turns a verb or adjective into a noun, such as changing analyze into analysis, often used to create a more formal, academic register in writing.",
+        "resourceLabel": "YouTube: Grammar: Nominalization and Formal Register",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Nominalization%20and%20Formal%20Register%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does postcolonial literature often examine?",
+            "q": "What does nominalization do to a verb or adjective?",
             "options": [
-              "A concept unrelated to literature",
-              "Only the geography of a fictional setting",
-              "The exact publication date of a novel",
-              "The lasting cultural, political, and psychological effects of colonialism"
+              "A concept unrelated to grammar",
+              "Turns it into a noun",
+              "Turns it into a question",
+              "Removes it from the sentence entirely"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Does postcolonial literature often reclaim narrative voice from the perspective of formerly colonized peoples?",
+            "q": "Which word is the nominalized form of the verb analyze?",
             "options": [
-              "A concept unrelated to postcolonial literature",
-              "No, postcolonial literature never considers whose perspective is centred",
-              "Yes",
-              "Colonialism has no connection to this genre of literature"
+              "Analyzed",
+              "Analytical",
+              "Analysis",
+              "Analyzing"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a postcolonial author retell a well-known story from the perspective of a colonized character rather than the colonizer?",
+            "q": "Is nominalization commonly associated with a formal or informal writing register?",
             "options": [
-              "Postcolonial authors never revisit existing stories or narratives",
-              "To challenge a dominant narrative and offer a perspective that had previously been silenced or marginalized",
-              "Retelling a story from a different perspective never changes its meaning",
-              "This concept has no connection to literature"
+              "An informal register only",
+              "Neither a formal nor an informal register",
+              "A formal register",
+              "A concept unrelated to nominalization"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Which of these would most likely appear in a postcolonial novel?",
+            "q": "Which sentence uses nominalization?",
             "options": [
-              "A detailed recipe for baking bread.",
-              "A user manual for assembling furniture.",
-              "A weather report for the upcoming week.",
-              "A character grappling with how colonial rule reshaped her homeland’s language, land, and identity."
+              "The team analyzed the data quickly.",
+              "They will analyze it tomorrow.",
+              "The team’s analysis revealed a surprising trend.",
+              "Analyzing takes a long time sometimes."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use nominalization in a formal academic essay?",
+            "options": [
+              "This concept has no connection to writing style",
+              "Nominalization always makes writing sound more casual",
+              "Formal essays never use any nominalized words",
+              "It can create a more objective, abstract, and formal tone"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why is postcolonial literature considered valuable for understanding global history?",
-            "options": [
-              "Colonialism has never had any lasting cultural or political effects",
-              "It offers perspectives often excluded from traditional historical accounts, deepening understanding of colonialism’s lasting impact",
-              "Postcolonial literature has no connection to understanding history",
-              "This concept has no relevance to literature"
-            ],
-            "answer": 1
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar"
       },
       {
         "subject": "Functions",
@@ -23046,63 +23059,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Materials Chemistry: Semiconductors and Doping",
-        "summary": "Grade 11 Chemistry strand: semiconductors are materials with electrical conductivity between that of conductors and insulators, and doping introduces small amounts of impurity atoms to precisely control that conductivity.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Work, Energy, and Power",
+        "summary": "Grade 9 Science Physics strand: work is done when a force causes an object to move, energy is the capacity to do work, and power measures how quickly work is done.",
+        "resourceLabel": "YouTube: Work, Energy, and Power",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Work%2C%20Energy%2C%20and%20Power%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
         "quiz": [
           {
-            "q": "Where does a semiconductor’s electrical conductivity typically fall?",
+            "q": "Work is done when ___.",
             "options": [
-              "Always exactly equal to that of a perfect conductor",
-              "Between that of a conductor and an insulator",
-              "A concept unrelated to chemistry",
-              "Always exactly equal to that of a perfect insulator"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does doping involve introducing small amounts of impurity atoms into a semiconductor?",
-            "options": [
-              "Yes",
-              "A concept unrelated to semiconductors",
-              "No, doping never involves adding any impurity atoms",
-              "Impurity atoms have no connection to a semiconductor’s properties"
+              "A force causes an object to move",
+              "No force is involved at all",
+              "An object remains completely stationary with no force applied",
+              "Energy is created from nothing"
             ],
             "answer": 0
           },
           {
-            "q": "Can doping be used to increase a semiconductor’s electrical conductivity?",
+            "q": "Energy is best described as ___.",
             "options": [
-              "A concept unrelated to doping",
-              "No, doping always decreases a semiconductor’s conductivity to zero",
-              "Conductivity is never affected by doping a semiconductor",
-              "Yes"
+              "The capacity to do work",
+              "A force unrelated to motion",
+              "A type of matter with no connection to work",
+              "A measurement of time only"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why might adding an impurity atom with an extra valence electron increase a semiconductor’s conductivity?",
+            "q": "Power measures ___.",
             "options": [
-              "Valence electrons have no relationship to how electrical current moves through a material",
-              "An extra valence electron never has any effect on conductivity",
-              "The additional electron is not needed for bonding and becomes free to move, carrying electrical current more readily",
-              "This concept has no connection to chemistry"
+              "How quickly work is done",
+              "The total distance an object travels",
+              "The temperature of an object",
+              "The colour of an object"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why are semiconductors, rather than pure conductors or insulators, essential to modern electronic devices?",
+            "q": "If two people lift the same weight to the same height, but one does it faster, which person has exerted more power?",
             "options": [
-              "Conductors and insulators are always more useful than semiconductors in every electronic application",
-              "Semiconductors have no practical application in modern electronic devices",
-              "This concept has no relevance to chemistry",
-              "Their conductivity can be precisely controlled through doping, allowing engineers to build components like transistors that switch and amplify signals"
+              "Power cannot be compared in this situation",
+              "The person who did it faster",
+              "The person who did it slower",
+              "Both exert exactly equal power regardless of time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are work, energy, and power considered closely connected concepts in physics?",
+            "options": [
+              "Work and power are identical concepts with no distinction",
+              "Only energy has any connection to physics",
+              "These three concepts have no relationship to each other",
+              "Energy enables work to be done, and power describes the rate at which that work occurs"
             ],
             "answer": 3
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Energy"
       }
     ]
   },
@@ -23171,62 +23185,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Matrices — Determinants and the Inverse of a 2×2 Matrix",
-        "summary": "Grade 11 Functions strand: the determinant of a 2×2 matrix is a single value calculated from its entries, and a matrix has an inverse only when its determinant is non-zero.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Solving Quadratic Inequalities",
+        "summary": "Grade 9 Algebra strand: solving a quadratic inequality involves finding the values of x for which a quadratic expression is greater than or less than zero, often using the roots of the related equation and a sign analysis.",
+        "resourceLabel": "YouTube: Solving Quadratic Inequalities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Quadratic%20Inequalities%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VKpr311IZfg",
         "quiz": [
           {
-            "q": "What is the determinant of a 2 by 2 matrix?",
+            "q": "Solving a quadratic inequality involves finding the values of x for which the expression is ___.",
             "options": [
-              "A single value calculated from the matrix’s entries",
-              "A concept unrelated to matrices",
-              "A completely new matrix with unrelated entries",
-              "Always equal to zero regardless of the matrix"
+              "Greater than or less than zero",
+              "Equal to exactly one specific value only",
+              "Always equal to zero",
+              "A concept unrelated to quadratic expressions"
             ],
             "answer": 0
           },
           {
-            "q": "Does a 2 by 2 matrix have an inverse only when its determinant is non-zero?",
+            "q": "A common first step in solving a quadratic inequality is to ___.",
             "options": [
-              "A concept unrelated to matrix determinants",
-              "A matrix’s inverse is never related to its determinant",
-              "Yes",
-              "No, every matrix has an inverse regardless of its determinant"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "For a 2 by 2 matrix with entries a and b in the top row and c and d in the bottom row, what is the formula for its determinant?",
-            "options": [
-              "ad plus bc",
-              "ac minus bd",
-              "ad minus bc",
-              "ab minus cd"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does a matrix with a determinant of zero fail to have an inverse?",
-            "options": [
-              "A zero determinant means the matrix inverse formula would require dividing by zero, which is undefined",
-              "This concept has no connection to matrices",
-              "A matrix with a determinant of zero always has an inverse just like any other matrix",
-              "Determinants have no relationship to whether a matrix inverse exists"
+              "Find the roots of the related quadratic equation",
+              "Add an unrelated constant to both sides",
+              "Ignore the quadratic expression entirely",
+              "Immediately assume there are no solutions"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the ability to find a matrix’s inverse useful for solving a system of linear equations written in matrix form?",
+            "q": "For the inequality x squared minus 4 greater than 0, which values of x are part of the solution?",
             "options": [
-              "A matrix inverse is never useful for solving any system of linear equations",
-              "Multiplying both sides of the matrix equation by the inverse isolates the variable matrix, revealing the solution",
-              "This concept has no relevance to functions",
-              "Systems of linear equations can never be represented using matrices"
+              "x between negative 2 and 2 only",
+              "Only x equals 2",
+              "x less than negative 2 or x greater than 2",
+              "All real numbers with no restriction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a sign analysis (testing intervals) be useful when solving a quadratic inequality?",
+            "options": [
+              "Every interval always satisfies a quadratic inequality equally",
+              "It helps determine which intervals between the roots satisfy the inequality",
+              "Testing intervals always produces an incorrect result",
+              "Sign analysis has no use in solving inequalities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the solution to a quadratic inequality be a range of values rather than a single number?",
+            "options": [
+              "Quadratic inequalities always have exactly one solution",
+              "A quadratic expression can be greater than or less than zero across a continuous interval",
+              "This concept has no connection to quadratic expressions",
+              "Ranges of values are never valid solutions to inequalities"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Biology",
@@ -23289,63 +23305,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Organic Chemistry: Chirality and Optical Isomers",
-        "summary": "Grade 11 Chemistry strand: a chiral molecule has a non-superimposable mirror image, producing optical isomers, called enantiomers, that can rotate plane-polarized light in opposite directions.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Genetic Mutations and Variation",
+        "summary": "Grade 9 Science Biology strand: a genetic mutation is a change in an organism’s DNA sequence, which can introduce new variation into a population and may be neutral, harmful, or beneficial.",
+        "resourceLabel": "YouTube: Genetic Mutations and Variation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Genetic%20Mutations%20and%20Variation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vl6Vlf2thvI",
         "quiz": [
           {
-            "q": "What does a chiral molecule have?",
+            "q": "A genetic mutation is best described as ___.",
             "options": [
-              "A concept unrelated to chemistry",
-              "An identical structure to every other molecule of its kind",
-              "No mirror image whatsoever",
-              "A non-superimposable mirror image"
+              "A change in an organism’s diet only",
+              "A change that always immediately kills the organism",
+              "A process unrelated to genetics",
+              "A change in an organism’s DNA sequence"
             ],
             "answer": 3
           },
           {
-            "q": "Are the two mirror-image forms of a chiral molecule called enantiomers?",
+            "q": "Mutations can introduce new ___ into a population.",
             "options": [
-              "No, mirror-image forms of a chiral molecule have no special name",
-              "A concept unrelated to chirality",
-              "Enantiomers have no connection to chiral molecules",
-              "Yes"
+              "Only harmful effects, with no other possible outcomes",
+              "Variation",
+              "Complete uniformity with no differences",
+              "A concept unrelated to genetics"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Can enantiomers rotate plane-polarized light in opposite directions from one another?",
+            "q": "A mutation that has no significant effect on an organism is considered ___.",
             "options": [
-              "No, enantiomers never have any effect on plane-polarized light",
-              "Enantiomers always rotate plane-polarized light in exactly the same direction",
-              "Yes",
-              "A concept unrelated to optical isomers"
+              "Always harmful",
+              "Impossible to occur",
+              "Neutral",
+              "Always beneficial"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a carbon atom bonded to four different groups typically create a chiral centre in a molecule?",
+            "q": "Why are mutations considered an important source of genetic variation?",
             "options": [
-              "This concept has no connection to chemistry",
-              "A carbon atom bonded to four different groups never creates a chiral centre",
-              "Such an arrangement usually has no internal symmetry, so its mirror image cannot be rotated to match the original",
-              "Chirality has no relationship to the arrangement of groups bonded to a carbon atom"
+              "Mutations have no connection to genetic variation",
+              "Variation in a population never comes from mutations",
+              "They introduce new traits that can be acted on by natural selection",
+              "Mutations always eliminate all variation in a population"
             ],
             "answer": 2
           },
           {
-            "q": "Why is chirality an important consideration in the development of pharmaceutical drugs?",
+            "q": "Why might some mutations be considered beneficial to an organism?",
             "options": [
-              "Chirality has no connection to how a pharmaceutical drug behaves in the body",
-              "This concept has no relevance to chemistry",
-              "Enantiomers of the same drug always have identical effects on the body",
-              "Two enantiomers of the same drug can have very different biological effects in the body, so their distinct behaviour must be tested separately"
+              "All mutations are always harmful, with no exceptions",
+              "Mutations have no connection to an organism’s environment",
+              "They may provide an advantage that improves survival or reproduction in a specific environment",
+              "Beneficial mutations have never actually occurred"
             ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "Organic Chemistry"
+        "topic": "Genetics & Heredity"
       }
     ]
   },
@@ -23415,63 +23432,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The Law of Large Numbers and Simulation",
-        "summary": "Grade 11 Functions strand: the law of large numbers states that as the number of trials in a random experiment increases, the experimental probability tends to converge toward the theoretical probability.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "The Law of Sines and Law of Cosines (Intro)",
+        "summary": "Grade 9 Measurement/Geometry strand: the Law of Sines and Law of Cosines are used to solve for unknown sides or angles in non-right triangles, extending beyond the basic trigonometric ratios used for right triangles.",
+        "resourceLabel": "YouTube: The Law of Sines and Law of Cosines (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Law%20of%20Sines%20and%20Law%20of%20Cosines%20%28Intro%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=T--nPHdS1Vo",
         "quiz": [
           {
-            "q": "What does the law of large numbers describe?",
+            "q": "The Law of Sines and Law of Cosines are primarily used to solve for unknown parts of ___.",
             "options": [
-              "How a single trial always determines the exact probability",
-              "A concept unrelated to statistics",
-              "How experimental probability tends to converge toward theoretical probability as trials increase",
-              "How theoretical probability changes with every single trial"
+              "Circles exclusively, with no connection to triangles",
+              "Non-right triangles",
+              "A shape unrelated to triangles",
+              "Only right triangles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Law of Sines relates the ratio of ___.",
+            "options": [
+              "Only two angles, with no connection to side lengths",
+              "A concept unrelated to triangle measurement",
+              "A side length to the sine of its opposite angle",
+              "The area of a triangle to its perimeter"
             ],
             "answer": 2
           },
           {
-            "q": "Does flipping a fair coin many more times generally bring the experimental proportion of heads closer to 50 percent?",
+            "q": "The Law of Cosines is especially useful when a triangle problem provides ___.",
             "options": [
-              "No, flipping a coin more times never brings the results closer to the theoretical probability",
-              "Yes",
-              "The number of coin flips never affects the observed proportion of heads",
-              "A concept unrelated to the law of large numbers"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Can a simulation be used to estimate a probability that would be difficult to calculate directly?",
-            "options": [
-              "A concept unrelated to simulation",
-              "No, simulations are never useful for estimating probabilities",
-              "Simulations only ever produce completely inaccurate probability estimates",
-              "Yes"
+              "No information about the triangle at all",
+              "A concept unrelated to solving triangles",
+              "Only the triangle’s area, with no side or angle values",
+              "Two sides and the included angle between them"
             ],
             "answer": 3
           },
           {
-            "q": "Why might the experimental probability from only 10 coin flips differ noticeably from the theoretical probability of 50 percent?",
+            "q": "Why are the Law of Sines and Law of Cosines needed in addition to basic right-triangle trig ratios like sine, cosine, and tangent?",
             "options": [
-              "This concept has no connection to statistics",
-              "With a small number of trials, random variation has a much larger relative effect on the observed results",
-              "Random variation never has any effect on the outcome of a small number of trials",
-              "A small number of trials always produces results identical to the theoretical probability"
+              "Basic trig ratios can always solve every possible triangle",
+              "Non-right triangles never require any trigonometric methods",
+              "These laws only apply to right triangles, just like basic trig ratios",
+              "Basic trig ratios alone cannot solve triangles that do not contain a right angle"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the law of large numbers an important justification for using simulations to estimate probabilities?",
+            "q": "Why might a surveyor use the Law of Sines or Law of Cosines in real-world work?",
             "options": [
-              "This concept has no relevance to statistics",
-              "The law of large numbers has no connection to why simulations are considered reliable",
-              "Simulations never become more accurate no matter how many trials are run",
-              "It shows that running a very large number of trials produces results that reliably approximate the true probability"
+              "Surveying never involves any triangles or angle measurements",
+              "These laws have no practical, real-world applications",
+              "This concept applies only to theoretical, non-applied mathematics",
+              "To calculate unknown distances or angles in irregularly shaped land areas"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -23535,63 +23552,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Materials Chemistry: Carbon Allotropes — Graphite, Diamond, and Graphene",
-        "summary": "Grade 11 Chemistry strand: carbon allotropes such as graphite, diamond, and graphene are composed entirely of carbon atoms, but their differing bonding arrangements give them dramatically different physical properties.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Waves: Properties and Behaviour",
+        "summary": "Grade 9 Science Physics strand: waves transfer energy through a medium or space, with properties such as wavelength, frequency, and amplitude describing their characteristics and behaviour.",
+        "resourceLabel": "YouTube: Waves: Properties and Behaviour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Waves%3A%20Properties%20and%20Behaviour%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BL2MtP7j-xk",
         "quiz": [
           {
-            "q": "What are carbon allotropes composed entirely of?",
+            "q": "Waves are best described as a way of transferring ___.",
             "options": [
-              "Only hydrogen and oxygen atoms",
-              "A concept unrelated to chemistry",
-              "Carbon atoms",
-              "A mixture of several different elements"
+              "Nothing at all",
+              "Matter permanently from one place to another",
+              "Only heat, with no other form of energy",
+              "Energy"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Do graphite, diamond, and graphene have dramatically different physical properties despite being made of the same element?",
+            "q": "Wavelength refers to ___.",
             "options": [
-              "No, these three carbon allotropes always have identical physical properties",
-              "Yes",
-              "A concept unrelated to carbon allotropes",
-              "Physical properties have no connection to how carbon atoms are bonded"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Is diamond, with its rigid three-dimensional bonding structure, extremely hard?",
-            "options": [
-              "A concept unrelated to diamond’s structure",
-              "Yes",
-              "No, diamond is actually one of the softest known materials",
-              "Hardness has no connection to a material’s bonding structure"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does graphite conduct electricity while diamond does not, despite both being pure carbon?",
-            "options": [
-              "Electrical conductivity has no relationship to how carbon atoms are bonded together",
-              "This concept has no connection to chemistry",
-              "Graphite’s layered structure includes delocalized electrons that can move freely, while diamond’s electrons are all locked into fixed covalent bonds",
-              "Graphite and diamond always conduct electricity in exactly the same way"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is graphene, a single layer of graphite, considered a material of significant scientific interest?",
-            "options": [
-              "Its unique two-dimensional structure gives it exceptional strength and electrical conductivity for its minimal thickness",
-              "This concept has no relevance to chemistry",
-              "Graphene has no unusual properties compared to ordinary graphite",
-              "A single layer of graphite is never considered scientifically significant"
+              "The distance between two corresponding points on a wave, like crest to crest",
+              "The speed of a wave only",
+              "The height of a wave only",
+              "A concept unrelated to waves"
             ],
             "answer": 0
+          },
+          {
+            "q": "Amplitude refers to ___.",
+            "options": [
+              "A concept unrelated to waves",
+              "The height of a wave from its resting position, related to its energy",
+              "The number of waves passing a point per second",
+              "The distance between two wave crests"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Frequency refers to ___.",
+            "options": [
+              "The exact height of a wave",
+              "The colour of a wave",
+              "A concept unrelated to wave behaviour",
+              "The number of waves passing a point in a given amount of time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding wave properties useful across many scientific fields, from sound to light?",
+            "options": [
+              "Sound and light have no connection to wave behaviour",
+              "This topic only applies to a single narrow scientific field",
+              "These properties help explain and predict how different types of waves behave",
+              "Wave properties have no real-world scientific applications"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Light & Sound"
       }
     ]
   },
@@ -23846,62 +23864,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Criticism: Introduction to Feminist Reading",
-        "summary": "Grade 11 English strand: a feminist reading of a text examines how gender roles, power dynamics, and the representation of women shape the story’s meaning, characters, and themes.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Analyzing Stream-of-Consciousness Narration",
+        "summary": "Grade 8 Language strand: stream-of-consciousness narration presents a character’s continuous flow of thoughts and feelings as they occur, often without traditional sentence structure or clear organization.",
+        "resourceLabel": "YouTube: Reading: Analyzing Stream-of-Consciousness Narration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Stream-of-Consciousness%20Narration%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a feminist reading of a text examine?",
+            "q": "What does stream-of-consciousness narration present?",
             "options": [
-              "The font and formatting used in a printed edition",
-              "How gender roles, power dynamics, and the representation of women shape the text’s meaning",
-              "Only the exact publication date of a text",
-              "A concept unrelated to literary criticism"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Might a feminist reading consider how female characters are represented compared to male characters?",
-            "options": [
-              "Yes",
-              "No, a feminist reading never compares how different characters are represented",
-              "A concept unrelated to feminist literary criticism",
-              "Character representation is never relevant to this critical approach"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Can a feminist reading of a historical text reveal assumptions about gender that reflect the era in which it was written?",
-            "options": [
-              "A concept unrelated to feminist reading",
-              "The era in which a text was written has no connection to its portrayal of gender",
-              "No, historical texts never reflect any assumptions about gender",
-              "Yes"
+              "A concept unrelated to reading",
+              "Only a strict, formal summary of events",
+              "A list of characters with no thoughts included",
+              "A character’s continuous flow of thoughts and feelings"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these questions would a feminist critic likely ask about a novel?",
+            "q": "Does stream-of-consciousness narration often follow traditional sentence structure?",
             "options": [
-              "How are the female characters’ choices and agency portrayed compared to the male characters?",
-              "What year was the author born?",
-              "What font was used in the original printed edition?",
-              "How many chapters does this novel contain?"
+              "No",
+              "This style never includes any thoughts at all",
+              "Yes, it always follows strict traditional structure",
+              "A concept unrelated to narration"
             ],
             "answer": 0
           },
           {
-            "q": "Why might feminist literary criticism be considered a valuable lens for re-examining classic works of literature?",
+            "q": "Why might an author use stream-of-consciousness narration to portray a character’s inner experience?",
             "options": [
-              "Feminist literary criticism has no connection to how gender roles are portrayed in literature",
-              "This concept has no relevance to literary criticism",
-              "Classic works of literature never contain any assumptions about gender worth examining",
-              "It can reveal previously overlooked assumptions about gender roles and power embedded within a text"
+              "This concept has no connection to literature",
+              "Stream-of-consciousness narration always feels distant and impersonal",
+              "It can create an intimate, realistic sense of how thoughts naturally occur",
+              "This style never reveals anything about a character’s inner experience"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might stream-of-consciousness writing be more challenging for readers to follow?",
+            "options": [
+              "Its lack of traditional structure can make the flow of ideas harder to track",
+              "Stream-of-consciousness writing never actually presents any complex ideas",
+              "This style is always easier to read than traditional narration",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes stream-of-consciousness narration?",
+            "options": [
+              "A perfectly organized list of events in chronological order",
+              "A formal essay with a clear thesis and structured paragraphs",
+              "A dictionary definition of a single word",
+              "A character’s thoughts flowing freely, jumping between ideas as they occur"
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Functions",
@@ -24394,63 +24413,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Prime Factorization and the Fundamental Theorem of Arithmetic",
-        "summary": "Grade 11 Functions strand: the fundamental theorem of arithmetic states that every integer greater than 1 can be expressed as a unique product of prime factors, forming the basis of prime factorization.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Piecewise Functions",
+        "summary": "Grade 9 Algebra strand (non-linear relations): a piecewise function is defined by different expressions over different intervals of its domain, allowing it to model situations that change behaviour under different conditions.",
+        "resourceLabel": "YouTube: Piecewise Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Piecewise%20Functions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tedzsRH0Jas",
         "quiz": [
           {
-            "q": "What does the fundamental theorem of arithmetic state?",
+            "q": "A piecewise function is defined by ___.",
             "options": [
-              "A concept unrelated to number theory",
-              "Prime numbers cannot be multiplied together under any circumstances",
-              "Every integer can be divided evenly by exactly two other numbers",
-              "Every integer greater than 1 can be expressed as a unique product of prime factors"
+              "An expression with no defined domain at all",
+              "A single expression that applies to its entire domain with no exceptions",
+              "A concept unrelated to functions",
+              "Different expressions over different intervals of its domain"
             ],
             "answer": 3
           },
           {
-            "q": "Is the prime factorization of a given integer unique, aside from the order of the factors?",
+            "q": "Piecewise functions are especially useful for modelling situations that ___.",
             "options": [
-              "A concept unrelated to prime factorization",
-              "No, a single integer can have many completely different prime factorizations",
-              "Yes",
-              "Prime factorization is never unique for any given integer"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the prime factorization of 60?",
-            "options": [
-              "2 squared times 3 times 5",
-              "2 times 3 times 5 squared",
-              "2 times 3 squared times 5",
-              "2 times 5 times 7"
+              "Change behaviour under different conditions",
+              "Always behave in exactly the same way regardless of input",
+              "A concept unrelated to real-world modelling",
+              "Never change under any circumstances"
             ],
             "answer": 0
           },
           {
-            "q": "Why is 1 excluded from being considered a prime number in the context of the fundamental theorem of arithmetic?",
+            "q": "Which is an example of a real-world situation that could be modelled by a piecewise function?",
             "options": [
-              "This concept has no connection to number theory",
-              "Excluding 1 from the primes has no effect on the uniqueness of prime factorization",
-              "Including 1 as a prime would allow infinitely many different factorizations of the same integer, violating the uniqueness of prime factorization",
-              "1 is always classified as the smallest prime number in every mathematical context"
+              "A situation involving no variation of any kind",
+              "A shipping cost that changes based on different weight ranges",
+              "A concept unrelated to piecewise functions",
+              "A cost that remains exactly the same regardless of any factors"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is prime factorization a useful tool for finding the greatest common factor of two integers?",
+            "q": "When graphing a piecewise function, it is important to consider ___.",
             "options": [
-              "Comparing the shared prime factors between two factorizations reveals the largest factor common to both integers",
-              "Prime factorization has no connection to finding a greatest common factor",
-              "The greatest common factor of two integers can never be determined using their prime factorizations",
-              "This concept has no relevance to functions"
+              "Only a single piece of the function, ignoring the others",
+              "The specific domain interval each piece of the function applies to",
+              "A factor unrelated to graphing piecewise functions",
+              "Removing all domain restrictions from the function"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Why might a piecewise function be more useful than a single equation for modelling tax brackets?",
+            "options": [
+              "Piecewise functions have no real-world modelling applications",
+              "Tax rates often change at specific income thresholds, matching the structure of a piecewise function",
+              "A single equation always models tax brackets more accurately",
+              "Tax brackets never involve any change in rate at different income levels"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Functions: General/Intro"
       },
       {
         "subject": "Biology",
@@ -24882,63 +24902,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: The Euclidean Algorithm and Greatest Common Divisor",
-        "summary": "Grade 11 Functions strand: the Euclidean algorithm finds the greatest common divisor of two integers by repeatedly applying the division algorithm, replacing the larger number with the remainder until a remainder of zero is reached.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Financial Literacy: Amortization and Loans",
+        "summary": "Grade 9 Financial Literacy strand: amortization is the process of paying off a loan over time through regular payments that cover both principal and interest, with the interest portion typically decreasing as the loan balance is paid down.",
+        "resourceLabel": "YouTube: Financial Literacy: Amortization and Loans",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Amortization%20and%20Loans%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-2yXZZOROug",
         "quiz": [
           {
-            "q": "What does the Euclidean algorithm find?",
+            "q": "Amortization refers to the process of ___.",
             "options": [
-              "The least common multiple of two integers only",
-              "The greatest common divisor of two integers",
-              "The exact prime factorization of a number",
-              "A concept unrelated to number theory"
+              "A concept unrelated to loans or borrowing",
+              "Immediately paying off an entire loan in a single payment",
+              "Increasing a loan’s total balance with no payments made",
+              "Paying off a loan over time through regular payments"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Each regular loan payment in an amortized loan typically covers ___.",
+            "options": [
+              "Neither principal nor interest",
+              "Both principal and interest",
+              "Only interest, with no reduction of the principal",
+              "Only principal, with no interest included"
             ],
             "answer": 1
           },
           {
-            "q": "Does the Euclidean algorithm involve repeatedly applying division and keeping track of remainders?",
+            "q": "As an amortized loan is paid down over time, the interest portion of each payment generally ___.",
             "options": [
-              "A concept unrelated to the Euclidean algorithm",
-              "Yes",
-              "Remainders have no connection to finding a greatest common divisor",
-              "No, the Euclidean algorithm never involves division or remainders"
+              "Increases",
+              "Remains exactly the same throughout the entire loan",
+              "Becomes completely unrelated to the loan balance",
+              "Decreases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding amortization be useful when comparing loan options, such as a mortgage?",
+            "options": [
+              "Loan payments are always identical regardless of amortization schedule",
+              "Amortization has no effect on the total cost of a loan",
+              "It helps borrowers understand the total cost of a loan and how payments are applied over time",
+              "This concept has no relevance to personal financial decisions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a longer loan term generally result in more interest paid overall, even with smaller monthly payments?",
+            "options": [
+              "Smaller monthly payments always reduce the total cost of a loan",
+              "Interest accumulates over a longer period, even if each individual payment is smaller",
+              "Loan term length has no connection to the total interest paid",
+              "A longer loan term always reduces the total interest paid"
             ],
             "answer": 1
-          },
-          {
-            "q": "Applying the Euclidean algorithm to 48 and 18, is the greatest common divisor 6?",
-            "options": [
-              "Yes",
-              "No, the greatest common divisor of 48 and 18 is not 6",
-              "A concept unrelated to the Euclidean algorithm",
-              "Greatest common divisors are never single, specific numbers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does the Euclidean algorithm stop once a remainder of zero is reached?",
-            "options": [
-              "A remainder of zero never signals anything meaningful about two integers",
-              "A remainder of zero indicates that the previous divisor evenly divides both original numbers, making it their greatest common divisor",
-              "The algorithm continues indefinitely even after reaching a remainder of zero",
-              "This concept has no connection to functions"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Euclidean algorithm considered more efficient than listing all factors of two large numbers to find their greatest common divisor?",
-            "options": [
-              "It requires only a small number of division steps, even for very large integers, rather than an exhaustive search through all possible factors",
-              "Listing all factors of a large number is always faster than applying the Euclidean algorithm",
-              "This concept has no relevance to functions",
-              "The Euclidean algorithm is never more efficient than listing all factors of a number"
-            ],
-            "answer": 0
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Biology",
@@ -25127,62 +25148,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Propositional Logic — Conditional Statements and Contrapositives",
-        "summary": "Grade 11 Functions strand: propositional logic analyzes conditional statements of the form if p then q, and every conditional statement has a logically equivalent contrapositive formed by negating and reversing its two parts.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Geometric Sequences and Series (Intro)",
+        "summary": "Grade 9 Number/Algebra strand: a geometric sequence is a list of numbers where each term is found by multiplying the previous term by a constant ratio, and a geometric series is the sum of the terms in such a sequence.",
+        "resourceLabel": "YouTube: Geometric Sequences and Series (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometric%20Sequences%20and%20Series%20%28Intro%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pXo0bG4iAyg",
         "quiz": [
           {
-            "q": "What does a conditional statement in propositional logic take the form of?",
+            "q": "A geometric sequence is formed by ___.",
             "options": [
-              "p multiplied by q",
-              "p is always equal to q",
-              "A concept unrelated to functions",
-              "If p then q"
+              "Adding a constant value to each term to find the next term",
+              "Randomly generating each term with no consistent pattern",
+              "A concept unrelated to sequences",
+              "Multiplying each term by a constant ratio to find the next term"
             ],
             "answer": 3
           },
           {
-            "q": "Is the contrapositive of a conditional statement formed by negating and reversing its two parts?",
+            "q": "In the geometric sequence 2, 6, 18, 54, the common ratio is ___.",
             "options": [
-              "No, a contrapositive has no connection to negating or reversing a statement’s parts",
-              "Yes",
-              "Contrapositives are never logically related to their original conditional statement",
-              "A concept unrelated to propositional logic"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Is a conditional statement always logically equivalent to its contrapositive?",
-            "options": [
-              "Logical equivalence has no connection to contrapositives",
-              "A concept unrelated to conditional statements",
-              "No, a conditional statement is never logically equivalent to its contrapositive",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the contrapositive of the statement, if it rains, then the ground is wet?",
-            "options": [
-              "The ground is always wet regardless of rain",
-              "If the ground is wet, then it rains",
-              "If it does not rain, then the ground is not wet",
-              "If the ground is not wet, then it did not rain"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding the contrapositive useful when trying to prove a conditional statement is true?",
-            "options": [
-              "Since a statement and its contrapositive are always logically equivalent, proving the contrapositive is sometimes an easier way to establish the same result",
-              "A conditional statement and its contrapositive can never both be proven using the same reasoning",
-              "This concept has no relevance to functions",
-              "The contrapositive of a statement is never useful for proving anything"
+              "3",
+              "4",
+              "A value unrelated to this sequence",
+              "6"
             ],
             "answer": 0
+          },
+          {
+            "q": "A geometric series refers to ___.",
+            "options": [
+              "A concept unrelated to geometric sequences",
+              "A single term within a geometric sequence",
+              "The sum of the terms in a geometric sequence",
+              "A sequence with no defined common ratio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the next term in the geometric sequence 5, 10, 20, 40, ___?",
+            "options": [
+              "A value unrelated to this sequence",
+              "60",
+              "45",
+              "80"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a geometric sequence be used to model situations like compound interest or population growth?",
+            "options": [
+              "Geometric sequences can never model real-world growth situations",
+              "Compound interest always follows a simple addition pattern instead",
+              "These situations often involve repeated multiplication by a consistent rate, matching a geometric pattern",
+              "This concept has no connection to modelling real-world change"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Biology",
@@ -25371,63 +25394,77 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: Confidence Intervals and Margin of Error",
-        "summary": "Grade 11 Functions strand: a confidence interval provides a range of values, built around a sample statistic, that is likely to contain the true population parameter, with the margin of error determining the width of that range.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Review: Functions, Inequalities, Systems, and Sequences",
+        "summary": "Grade 9 Algebra strand review: this lesson revisits function transformations, quadratic inequalities, rational functions, systems of linear/quadratic equations, piecewise functions, and geometric sequences from Days 51-59.",
+        "resourceLabel": "YouTube: Review: Functions, Inequalities, Systems, and Sequences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Functions%2C%20Inequalities%2C%20Systems%2C%20and%20Sequences%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk",
+        "videoUrls": [
+          {
+            "label": "Functions",
+            "url": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
+          },
+          {
+            "label": "Inequalities",
+            "url": "https://www.youtube.com/watch?v=VKpr311IZfg"
+          },
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=NGPRtXxrinI"
+          }
+        ],
         "quiz": [
           {
-            "q": "What does a confidence interval provide?",
+            "q": "A vertical shift of a function’s graph is represented by adding a constant ___.",
             "options": [
-              "A list of every value ever recorded in the sample",
-              "A concept unrelated to statistics",
-              "A single, exact value that always equals the population parameter",
-              "A range of values likely to contain the true population parameter"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does the margin of error determine the width of a confidence interval?",
-            "options": [
-              "A concept unrelated to confidence intervals",
-              "Confidence intervals are never affected by margin of error",
-              "No, the margin of error has no connection to the width of a confidence interval",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does increasing the sample size generally decrease the margin of error, producing a narrower confidence interval?",
-            "options": [
-              "No, increasing sample size always increases the margin of error",
-              "Yes",
-              "Sample size has no connection to a confidence interval’s width",
-              "A concept unrelated to margin of error"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a survey with only 20 respondents produce a much wider confidence interval than one with 2,000 respondents?",
-            "options": [
-              "This concept has no connection to functions",
-              "Sample size never has any relationship to the precision of a statistical estimate",
-              "A smaller sample provides less information about the population, increasing the uncertainty and widening the margin of error around the estimate",
-              "A smaller sample size never affects the width of a confidence interval"
+              "By multiplying the entire function by zero",
+              "A change unrelated to the function’s graph",
+              "Outside the function, such as f(x) plus k",
+              "Inside the function’s input only"
             ],
             "answer": 2
           },
           {
-            "q": "Why is reporting a confidence interval, rather than a single sample statistic alone, considered good statistical practice?",
+            "q": "Solving a quadratic inequality involves finding the values of x for which the expression is ___.",
             "options": [
-              "This concept has no relevance to functions",
-              "A single sample statistic is always exactly equal to the true population parameter",
-              "Reporting a confidence interval never provides any additional useful information beyond a single statistic",
-              "It communicates the level of uncertainty in an estimate, giving a more honest picture of how precisely the true population value is known"
+              "A concept unrelated to quadratic expressions",
+              "Always equal to zero",
+              "Equal to exactly one specific value only",
+              "Greater than or less than zero"
             ],
             "answer": 3
+          },
+          {
+            "q": "A rational function is best described as ___.",
+            "options": [
+              "A concept unrelated to algebra",
+              "A single polynomial with no denominator",
+              "A function that never includes a fraction",
+              "A ratio of two polynomials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A geometric sequence is formed by ___.",
+            "options": [
+              "A concept unrelated to sequences",
+              "Multiplying each term by a constant ratio to find the next term",
+              "Adding a constant value to each term to find the next term",
+              "Randomly generating each term with no consistent pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review functions, inequalities, systems, and sequences together?",
+            "options": [
+              "These related algebra concepts build on and reinforce one another for deeper understanding",
+              "These topics have no connection to each other",
+              "Review is never useful in mathematics",
+              "Each topic must be learned with no connection to the others"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -25862,63 +25899,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Graph Theory — Eulerian and Hamiltonian Paths",
-        "summary": "Grade 11 Functions strand: an Eulerian path traverses every edge of a graph exactly once, while a Hamiltonian path visits every vertex of a graph exactly once, and determining whether either type of path exists depends on distinct structural properties of the graph.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Rational Exponents and Radical Notation",
+        "summary": "Grade 9 Number/Algebra strand: a rational exponent expresses a root using exponent notation, such as x to the power of one-half being equivalent to the square root of x.",
+        "resourceLabel": "YouTube: Rational Exponents and Radical Notation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Exponents%20and%20Radical%20Notation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dLLaPvND6rQ",
         "quiz": [
           {
-            "q": "What does an Eulerian path traverse exactly once?",
+            "q": "A rational exponent expresses a root using ___.",
             "options": [
-              "No part of the graph whatsoever",
-              "A concept unrelated to functions",
-              "Every edge of a graph",
-              "Every vertex of a graph"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Does a Hamiltonian path visit every vertex of a graph exactly once?",
-            "options": [
-              "No, a Hamiltonian path never visits every vertex of a graph",
-              "Yes",
-              "Vertices have no connection to a Hamiltonian path",
-              "A concept unrelated to graph theory"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does a graph need every vertex to have an even degree, with at most two exceptions, to contain an Eulerian path?",
-            "options": [
-              "A concept unrelated to Eulerian paths",
-              "No, the degree of a graph’s vertices has no connection to whether an Eulerian path exists",
-              "Vertex degree is never relevant to determining whether an Eulerian path exists",
-              "Yes"
+              "A notation that never involves roots",
+              "A concept unrelated to algebra",
+              "Only radical notation, with no connection to exponents",
+              "Exponent notation"
             ],
             "answer": 3
           },
           {
-            "q": "Why is determining whether a Hamiltonian path exists in a graph generally considered more computationally difficult than determining whether an Eulerian path exists?",
+            "q": "x to the power of one-half is equivalent to ___.",
             "options": [
-              "This concept has no connection to functions",
-              "There is no simple, general rule for identifying a Hamiltonian path, unlike the well-defined vertex-degree condition that determines an Eulerian path’s existence",
-              "Hamiltonian paths and Eulerian paths are always determined using an identical, straightforward rule",
-              "Determining a Hamiltonian path’s existence is never more difficult than determining an Eulerian path’s existence"
+              "The square root of x",
+              "x squared",
+              "Half of x",
+              "A value unrelated to square roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "x to the power of one-third is equivalent to ___.",
+            "options": [
+              "The cube root of x",
+              "One third of x",
+              "A value unrelated to cube roots",
+              "x cubed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the equivalent radical form of x to the power of two-thirds?",
+            "options": [
+              "A form unrelated to x to the power of two-thirds",
+              "The cube root of x squared",
+              "The square root of x cubed",
+              "Two-thirds of the square root of x"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the distinction between Eulerian and Hamiltonian paths useful for solving real-world routing problems, such as delivery routes?",
+            "q": "Why are rational exponents useful when working with expressions that combine roots and powers?",
             "options": [
-              "This concept has no relevance to functions",
-              "This distinction has no relevance to solving real-world routing or delivery problems",
-              "Every routing problem can always be solved using the exact same approach regardless of its structure",
-              "Recognizing whether a problem is really about covering every edge or visiting every location clarifies which type of path-finding approach is appropriate to apply"
+              "They allow exponent rules to be applied consistently to both roots and powers",
+              "This notation has no connection to simplifying expressions",
+              "Roots and powers can never be expressed using the same notation",
+              "Rational exponents can never be combined with exponent rules"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Biology",
@@ -26106,60 +26144,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions: The Intermediate Value Theorem and Locating Roots",
-        "summary": "Grade 11 Functions strand: the intermediate value theorem states that if a continuous function takes on two values of opposite sign at the endpoints of an interval, it must have at least one root somewhere within that interval.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Function Notation, Domain, and Range",
+        "summary": "Grade 9 Algebra strand (non-linear relations): function notation, such as f(x), represents the output of a function for a given input x, while the domain is the set of all possible input values and the range is the set of all possible output values.",
+        "resourceLabel": "YouTube: Function Notation, Domain, and Range",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
         "quiz": [
           {
-            "q": "What does the intermediate value theorem guarantee about a continuous function that takes on opposite signs at the endpoints of an interval?",
+            "q": "Function notation, such as f(x), represents ___.",
             "options": [
-              "A concept unrelated to functions",
-              "That the function must be constant throughout the entire interval",
-              "That it has at least one root somewhere within that interval",
-              "That it has no roots anywhere within that interval"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Does the intermediate value theorem require the function being examined to be continuous over the interval in question?",
-            "options": [
-              "No, the intermediate value theorem never requires a function to be continuous",
-              "Continuity has no connection to whether the intermediate value theorem applies",
-              "A concept unrelated to the intermediate value theorem",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If a polynomial function is negative at x equals 1 and positive at x equals 2, does the intermediate value theorem guarantee a root exists between those two values?",
-            "options": [
-              "Yes",
-              "No, opposite signs at two points never guarantee a root exists between them",
-              "Sign changes have no connection to the existence of a root between two values",
-              "A concept unrelated to locating roots"
+              "The output of a function for a given input x",
+              "Only the input value, with no connection to output",
+              "A fixed constant that never changes",
+              "A concept unrelated to functions"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the intermediate value theorem useful for approximating a root of a polynomial that cannot be easily factored?",
+            "q": "The domain of a function refers to ___.",
             "options": [
-              "The intermediate value theorem never helps in approximating the location of a root",
-              "This concept has no connection to functions",
-              "Roots of a polynomial can only ever be found through exact factoring, never through approximation",
-              "It confirms that a root exists within a narrowing interval, allowing repeated testing of smaller subintervals to estimate the root’s location with increasing precision"
+              "The set of all possible input values",
+              "A concept unrelated to functions",
+              "The set of all possible output values",
+              "A single specific output value only"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why must a student confirm that a function is continuous before applying the intermediate value theorem to locate a root?",
+            "q": "The range of a function refers to ___.",
             "options": [
-              "The intermediate value theorem always applies regardless of whether a function is continuous",
-              "If the function is not continuous, it could jump between the two signs without actually passing through zero at any point in the interval",
-              "Continuity has no bearing on whether the intermediate value theorem’s guarantee actually holds",
-              "This concept has no relevance to functions"
+              "The set of all possible input values",
+              "The set of all possible output values",
+              "A single specific input value only",
+              "A concept unrelated to functions"
             ],
             "answer": 1
+          },
+          {
+            "q": "If f(x) equals x squared, what is f(3)?",
+            "options": [
+              "9",
+              "6",
+              "3",
+              "A value unrelated to this function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the domain of a function involving a square root be restricted to non-negative values?",
+            "options": [
+              "Square root functions never have any domain restrictions",
+              "Negative numbers always produce valid real outputs under a square root",
+              "The square root of a negative number is not a real number, so those inputs must be excluded",
+              "This concept has no connection to domain and range"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -26224,58 +26263,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Titration Types — Acid-Base, Redox, and Complexometric Titrations",
-        "summary": "Grade 11 Chemistry strand: titration is a general quantitative technique for determining the concentration of a solution, applied not only to acid-base reactions but also to redox reactions and complexometric reactions involving metal ions.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Physics: Calculating Work and Power",
+        "summary": "Grade 9 Science Physics strand: work is done when a force causes an object to move in the direction of that force, calculated as force multiplied by distance, and power measures the rate at which that work is performed.",
+        "resourceLabel": "YouTube: Physics: Calculating Work and Power",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Calculating%20Work%20and%20Power%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZqCMR7PjZRU",
         "quiz": [
           {
-            "q": "What is titration generally used to determine?",
+            "q": "Work is done on an object when ___.",
             "options": [
-              "A concept unrelated to chemistry",
-              "The concentration of a solution",
-              "The exact colour of a solid precipitate",
-              "The temperature at which a substance melts"
+              "A force causes the object to move in the direction of the force",
+              "An object simply sits still under a force",
+              "No force is applied at all",
+              "An object changes colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The formula for work is ___.",
+            "options": [
+              "Mass divided by volume",
+              "Force multiplied by distance",
+              "Distance divided by time",
+              "Force divided by time"
             ],
             "answer": 1
           },
           {
-            "q": "Can titration be applied to redox reactions in addition to acid-base reactions?",
+            "q": "Power measures ___.",
             "options": [
-              "Yes",
-              "A concept unrelated to titration types",
-              "No, titration can only ever be applied to acid-base reactions",
-              "Redox reactions have no connection to titration as a technique"
+              "The total distance an object travels",
+              "The mass of an object",
+              "The rate at which work is performed",
+              "The colour of the applied force"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Does a complexometric titration typically involve a reaction between a metal ion and a complexing agent?",
+            "q": "If two people do the same amount of work but one finishes faster, the faster person has ___.",
             "options": [
-              "Yes",
-              "No, complexometric titrations never involve metal ions",
-              "A concept unrelated to complexometric titration",
-              "Complexing agents have no connection to complexometric titration"
+              "Less power",
+              "No power at all",
+              "The same amount of work, but not power",
+              "More power"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a chemist choose a redox titration, rather than an acid-base titration, to determine the concentration of an oxidizing agent in a solution?",
+            "q": "Which is an example of work being done in the physics sense?",
             "options": [
-              "A redox titration relies on an oxidation-reduction reaction with a known reagent, allowing the concentration of the oxidizing agent to be calculated from the volume needed to reach the endpoint",
-              "This concept has no connection to chemistry",
-              "A redox titration is never useful for determining the concentration of an oxidizing agent",
-              "Acid-base titrations are always equally effective for measuring the concentration of an oxidizing agent"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is understanding multiple types of titration useful for analytical chemists working with a wide range of substances?",
-            "options": [
-              "Every titration type produces identical results regardless of the substance being analyzed",
-              "Different substances react through different types of chemical reactions, so having multiple titration methods allows concentration to be measured accurately across many contexts",
-              "Analytical chemists never need more than one method for determining a solution’s concentration",
-              "This concept has no relevance to chemistry"
+              "Straining to push against a wall that does not move",
+              "Pushing a box so that it slides across the floor",
+              "Holding a heavy bag without moving it",
+              "Standing still while holding a book"
             ],
             "answer": 1
           }
@@ -26594,63 +26634,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: Hypothesis Testing — An Introduction",
-        "summary": "Grade 11 Functions strand: hypothesis testing evaluates a claim about a population by comparing a null hypothesis of no effect or no difference against observed sample data, determining whether the results are unlikely enough to reject that null hypothesis.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Logarithms as Inverse of Exponents",
+        "summary": "Grade 9 Algebra strand (enrichment): a logarithm answers the question of what exponent a given base must be raised to in order to produce a certain number, making logarithms the inverse operation of exponentiation.",
+        "resourceLabel": "YouTube: Introduction to Logarithms as Inverse of Exponents",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Logarithms%20as%20Inverse%20of%20Exponents%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does hypothesis testing compare a null hypothesis against?",
+            "q": "A logarithm answers the question of ___.",
             "options": [
-              "Observed sample data",
-              "Only a second, unrelated null hypothesis",
-              "A prediction made without any reference to data at all",
-              "A concept unrelated to statistics"
+              "What exponent a given base must be raised to in order to produce a certain number",
+              "What the square root of a number is",
+              "What number results from multiplying a base by itself repeatedly with no exponent involved",
+              "A concept unrelated to exponents"
             ],
             "answer": 0
           },
           {
-            "q": "Does a null hypothesis typically represent an assumption of no effect or no difference?",
+            "q": "Logarithms are considered the inverse operation of ___.",
             "options": [
-              "No, a null hypothesis always assumes a large, significant effect exists",
-              "A concept unrelated to hypothesis testing",
-              "Yes",
-              "Effect size has no connection to how a null hypothesis is defined"
+              "Exponentiation",
+              "Addition",
+              "Subtraction",
+              "A concept unrelated to logarithms"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "If observed sample data is very unlikely to have occurred under the null hypothesis, would a researcher typically consider rejecting that null hypothesis?",
+            "q": "What is the value of log base 2 of 8?",
             "options": [
-              "No, unlikely sample data never leads a researcher to reject a null hypothesis",
-              "Yes",
-              "A concept unrelated to hypothesis testing",
-              "A null hypothesis can never be rejected regardless of how the sample data appears"
+              "4, since 2 times 4 equals 8",
+              "A value unrelated to this logarithm",
+              "8, since 2 to the power of 8 equals a much larger number",
+              "3, since 2 to the power of 3 equals 8"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might a researcher testing a new medication compare patient outcomes against a null hypothesis of no difference from a placebo?",
+            "q": "If log base 10 of 1000 equals 3, this means ___.",
             "options": [
-              "This concept has no connection to functions",
-              "Comparing outcomes to a null hypothesis of no difference never provides any useful information to a researcher",
-              "Starting from an assumption of no effect provides a clear baseline, so evidence of a significant difference in the data can be used to challenge that assumption",
-              "A null hypothesis is never relevant when testing whether a new medication is effective"
+              "10 to the power of 3 equals 1000",
+              "10 divided by 3 equals 1000",
+              "3 to the power of 10 equals 1000",
+              "A relationship unrelated to this logarithm"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is hypothesis testing considered a foundational tool in fields like medicine, psychology, and social science research?",
+            "q": "Why are logarithms useful for solving equations where the unknown variable is an exponent?",
             "options": [
-              "Hypothesis testing has no relevance to research conducted in medicine, psychology, or social science",
-              "Observed patterns in research data are never evaluated for whether they could be due to chance",
-              "This concept has no relevance to functions",
-              "It provides a structured, evidence-based method for determining whether an observed pattern in data is likely meaningful or simply due to chance"
+              "Logarithms only apply to equations with no exponents at all",
+              "This concept has no connection to exponential equations",
+              "Logarithms can never be used to solve equations involving exponents",
+              "They allow the exponent itself to be isolated and solved for directly"
             ],
             "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Biology",
@@ -27082,62 +27122,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Review: Number Theory, Logic, and Statistics (Days 101-109)",
-        "summary": "Grade 11 Functions strand review: students revisit the Euclidean algorithm, propositional logic, confidence intervals, vector equations of lines, Eulerian and Hamiltonian paths, the intermediate value theorem, the rational root theorem, hypothesis testing, and effective annual rate.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Matrices: Rows, Columns, and Operations",
+        "summary": "Grade 9 Algebra strand (enrichment): a matrix is a rectangular array of numbers organized into rows and columns, and matrices can be added, subtracted, or multiplied following specific rules based on their dimensions.",
+        "resourceLabel": "YouTube: Introduction to Matrices: Rows, Columns, and Operations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Matrices%3A%20Rows%2C%20Columns%2C%20and%20Operations%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the Euclidean algorithm find?",
+            "q": "A matrix is best described as ___.",
             "options": [
-              "The greatest common divisor of two integers",
-              "The least common multiple of two integers only",
-              "The exact prime factorization of a number",
-              "A concept unrelated to number theory"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a confidence interval provide?",
-            "options": [
-              "A concept unrelated to statistics",
-              "A range of values likely to contain the true population parameter",
-              "A list of every value ever recorded in the sample",
-              "A single, exact value that always equals the population parameter"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does an Eulerian path traverse exactly once?",
-            "options": [
-              "No part of the graph whatsoever",
-              "Every vertex of a graph",
-              "A concept unrelated to functions",
-              "Every edge of a graph"
+              "A concept unrelated to algebra",
+              "A single number with no structure",
+              "A type of graph with no numerical values",
+              "A rectangular array of numbers organized into rows and columns"
             ],
             "answer": 3
           },
           {
-            "q": "What does the rational root theorem identify?",
+            "q": "The dimensions of a matrix are described using its number of ___.",
             "options": [
-              "A finite list of possible rational roots of a polynomial equation",
-              "The exact value of every root of any polynomial equation",
-              "Whether a polynomial has any roots at all, without specifying values",
-              "A concept unrelated to functions"
+              "Only its total value, with no reference to structure",
+              "Diagonals exclusively",
+              "A property unrelated to matrices",
+              "Rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To add two matrices together, they must ___.",
+            "options": [
+              "Always have completely different dimensions",
+              "Have the same dimensions",
+              "Contain only positive numbers",
+              "A requirement unrelated to matrix addition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a matrix with 2 rows and 3 columns, how many total entries does the matrix contain?",
+            "options": [
+              "6",
+              "A value unrelated to this matrix’s dimensions",
+              "5",
+              "2"
             ],
             "answer": 0
           },
           {
-            "q": "What does the effective annual rate convert a nominal interest rate and compounding frequency into?",
+            "q": "Why might matrices be useful for organizing and solving real-world data problems?",
             "options": [
-              "A single, standardized rate for fair comparison",
-              "A concept unrelated to functions",
-              "A rate that always equals zero regardless of compounding",
-              "An amount measured only in a foreign currency"
+              "They allow large sets of related numerical data to be organized and manipulated systematically",
+              "Numerical data can never be represented using rows and columns",
+              "Matrices have no practical application for organizing data",
+              "This concept has no connection to solving real-world problems"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Biology",
@@ -27445,63 +27486,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Molecular Orbital Theory — An Introduction",
-        "summary": "Grade 11 Chemistry strand: molecular orbital theory describes how atomic orbitals combine to form bonding and antibonding molecular orbitals, offering a more detailed model of chemical bonding than simple Lewis structures.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Stoichiometry: Introduction to Mole Ratios",
+        "summary": "Grade 9 Science Chemistry strand: stoichiometry uses the mole ratios from a balanced chemical equation to calculate the amounts of reactants and products involved in a chemical reaction.",
+        "resourceLabel": "YouTube: Stoichiometry: Introduction to Mole Ratios",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Stoichiometry%3A%20Introduction%20to%20Mole%20Ratios%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8uUA2eqYIoo",
         "quiz": [
           {
-            "q": "What does molecular orbital theory describe?",
+            "q": "Stoichiometry uses mole ratios to calculate ___.",
             "options": [
-              "The colour of a chemical compound",
-              "Only the shape of a single atom",
-              "The temperature at which a substance boils",
-              "How atomic orbitals combine to form molecular orbitals"
+              "The amounts of reactants and products in a reaction",
+              "A value unrelated to chemical reactions",
+              "The exact temperature of a reaction",
+              "The colour of a chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mole ratios in stoichiometry come from ___.",
+            "options": [
+              "The temperature at which a reaction occurs",
+              "A random, unrelated guess",
+              "The colour of the reactants",
+              "The coefficients in a balanced chemical equation"
             ],
             "answer": 3
           },
           {
-            "q": "What are the two main types of molecular orbitals formed when atomic orbitals combine?",
+            "q": "Why must a chemical equation be balanced before using it for stoichiometric calculations?",
             "options": [
-              "Only neutral orbitals",
-              "Only negative orbitals",
-              "Only positive orbitals",
-              "Bonding and antibonding orbitals"
+              "A balanced equation accurately reflects the actual mole ratios of reactants and products",
+              "Balancing has no effect on stoichiometric calculations",
+              "Stoichiometry does not require a balanced equation",
+              "Unbalanced equations always provide accurate mole ratios"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "How does a bonding molecular orbital generally affect stability?",
+            "q": "Why is stoichiometry considered a practical application of chemistry?",
             "options": [
-              "It always destabilizes the molecule completely",
-              "It has no effect on molecular stability",
-              "It increases stability by lowering the overall energy of the molecule",
-              "It only exists in unstable molecules"
+              "It allows chemists to predict and measure the exact quantities involved in reactions",
+              "This concept only applies to theoretical chemistry with no practical use",
+              "Stoichiometry has no real-world applications",
+              "Mole ratios have no connection to actual chemical quantities"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What advantage does molecular orbital theory offer over simple Lewis structures?",
+            "q": "If a balanced equation shows a 1:2 mole ratio between two reactants, using 3 moles of the first reactant would require ___.",
             "options": [
-              "It cannot explain any chemical bonds",
-              "It only applies to single atoms with no bonding",
-              "It provides a more detailed, quantum-based model of bonding",
-              "It ignores electrons entirely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Molecular orbital theory is especially useful for explaining properties such as ___.",
-            "options": [
-              "The colour of the sky",
-              "The taste of a substance",
-              "The price of a chemical compound",
-              "Magnetic behaviour and bond order in molecules"
+              "9 moles of the second reactant",
+              "1.5 moles of the second reactant",
+              "3 moles of the second reactant",
+              "6 moles of the second reactant"
             ],
             "answer": 3
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Chemical Reactions"
       }
     ]
   },
@@ -27689,62 +27731,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Orbital Hybridization (sp, sp2, sp3)",
-        "summary": "Grade 11 Chemistry strand: orbital hybridization describes how atomic orbitals mix to form new hybrid orbitals, such as sp, sp2, and sp3, which explain molecular geometry and bonding patterns in covalent compounds.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Momentum and Collisions",
+        "summary": "Grade 9 Science Physics strand: momentum is the product of an object’s mass and velocity, and the law of conservation of momentum states that total momentum remains constant in a closed system during a collision.",
+        "resourceLabel": "YouTube: Momentum and Collisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Momentum%20and%20Collisions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y-QOfc2XqOk",
         "quiz": [
           {
-            "q": "What does orbital hybridization describe?",
+            "q": "Momentum is calculated as ___.",
             "options": [
-              "How atomic orbitals mix to form new hybrid orbitals",
-              "The temperature at which a substance freezes",
-              "The colour of a chemical compound",
-              "The mass of a single atom"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What geometry is typically associated with sp3 hybridization?",
-            "options": [
-              "Spherical with no defined shape",
-              "Trigonal planar only",
-              "Tetrahedral",
-              "Linear"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What geometry is typically associated with sp hybridization?",
-            "options": [
-              "Tetrahedral",
-              "Linear",
-              "Octahedral",
-              "Trigonal bipyramidal"
+              "Mass plus velocity",
+              "Mass times velocity",
+              "Mass divided by velocity",
+              "Velocity alone, with no connection to mass"
             ],
             "answer": 1
           },
           {
-            "q": "How many hybrid orbitals form from sp2 hybridization?",
+            "q": "The law of conservation of momentum states that total momentum in a closed system ___.",
             "options": [
-              "Five",
-              "Seven",
-              "One",
-              "Three"
+              "Always increases without limit",
+              "Has no defined value",
+              "Remains constant",
+              "Always decreases to zero"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is understanding hybridization useful in chemistry?",
+            "q": "During a collision between two objects, momentum is generally ___.",
             "options": [
-              "It only applies to ionic compounds",
-              "It has no connection to molecular shape",
-              "It eliminates the need to understand bonding",
-              "It helps explain and predict the shapes of molecules"
+              "Transferred between the objects",
+              "Only relevant to one of the two objects involved",
+              "Unrelated to the objects’ mass or velocity",
+              "Instantly destroyed with no transfer"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "Why might a heavier object require more force to stop than a lighter object moving at the same speed?",
+            "options": [
+              "Heavier objects always have less momentum than lighter ones",
+              "Momentum is unrelated to the force needed to stop an object",
+              "The heavier object has greater momentum due to its larger mass",
+              "Mass has no effect on an object’s momentum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding momentum useful in fields like vehicle safety design?",
+            "options": [
+              "Momentum has no connection to vehicle safety",
+              "It helps engineers understand and manage the forces involved in collisions",
+              "This concept has no real-world engineering applications",
+              "Collisions never involve any measurable momentum"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Forces & Motion"
       }
     ]
   },
@@ -27814,62 +27858,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: An Introduction to Recurrence Relations",
-        "summary": "Grade 11 Functions strand: a recurrence relation defines each term of a sequence based on one or more previous terms, providing a recursive way to model growth patterns, algorithms, and sequences like the Fibonacci numbers.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Arithmetic Sequences and Series (Intro)",
+        "summary": "Grade 9 Algebra strand: an arithmetic sequence is an ordered list of numbers with a constant difference between consecutive terms, and the sum of its terms forms an arithmetic series.",
+        "resourceLabel": "YouTube: Arithmetic Sequences and Series (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Arithmetic%20Sequences%20and%20Series%20%28Intro%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a recurrence relation define?",
+            "q": "An arithmetic sequence is defined by ___.",
             "options": [
-              "A rule with no connection to sequences",
-              "A relation between two unrelated sequences",
-              "Only a single fixed value with no pattern",
-              "Each term of a sequence based on one or more previous terms"
+              "Terms that never follow any predictable pattern",
+              "A concept unrelated to sequences",
+              "A constant ratio between consecutive terms",
+              "A constant difference between consecutive terms"
             ],
             "answer": 3
           },
           {
-            "q": "Which sequence is a classic example defined by a recurrence relation?",
+            "q": "What is the common difference in the sequence 4, 9, 14, 19?",
             "options": [
-              "A sequence of random unrelated numbers",
-              "The Fibonacci sequence",
-              "A sequence with no defined terms",
-              "A sequence containing only zeros"
+              "5",
+              "4",
+              "9",
+              "A value unrelated to this sequence"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What information is typically needed to fully define a recurrence relation?",
+            "q": "In the sequence 3, 7, 11, 15, what is the next term?",
             "options": [
-              "No information is needed at all",
-              "Only the sum of all terms",
-              "The recursive rule and one or more initial terms",
-              "Only the final term of the sequence"
+              "17",
+              "A value unrelated to this sequence",
+              "19",
+              "21"
             ],
             "answer": 2
           },
           {
-            "q": "Recurrence relations are useful for modelling ___.",
+            "q": "An arithmetic series refers to ___.",
             "options": [
-              "Only static, unchanging values",
-              "Only random, unrelated events",
-              "Growth patterns and algorithms that build on previous steps",
-              "Only geometric shapes with no numeric pattern"
+              "The sum of the terms in an arithmetic sequence",
+              "The common difference of a sequence only",
+              "A single term drawn at random from a sequence",
+              "A concept unrelated to arithmetic sequences"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "If a(n) = a(n-1) + 2 and a(1) = 3, what is a(2)?",
+            "q": "Why is identifying the common difference useful for predicting future terms in an arithmetic sequence?",
             "options": [
-              "6",
-              "3",
-              "2",
-              "5"
+              "It allows each successive term to be found by repeatedly adding the same fixed value",
+              "Future terms in a sequence can never be predicted mathematically",
+              "The common difference has no connection to predicting future terms",
+              "This concept applies only to geometric sequences, not arithmetic ones"
             ],
-            "answer": 3
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Biology",
@@ -27933,63 +27978,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Coordination Compounds and Complex Ions",
-        "summary": "Grade 11 Chemistry strand: a coordination compound consists of a central metal ion surrounded by molecules or ions called ligands, forming a complex ion held together by coordinate covalent bonds.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "The Endocrine System and Homeostasis",
+        "summary": "Grade 9 Science Biology strand: the endocrine system releases hormones that help regulate the body’s internal balance, known as homeostasis, in response to internal and external changes.",
+        "resourceLabel": "YouTube: The Endocrine System and Homeostasis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Endocrine%20System%20and%20Homeostasis%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
         "quiz": [
           {
-            "q": "What is a coordination compound built around?",
+            "q": "Homeostasis refers to ___.",
             "options": [
-              "A pure element with no other atoms",
-              "Only carbon atoms with no metal present",
-              "A single isolated electron",
-              "A central metal ion surrounded by ligands"
+              "Only external temperature, with no internal connection",
+              "The body’s internal balance",
+              "A process unrelated to the body’s internal environment",
+              "A complete lack of any bodily regulation"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is a ligand?",
+            "q": "The endocrine system helps maintain homeostasis by releasing ___.",
             "options": [
-              "A type of radioactive particle",
-              "A type of acid with no metal involvement",
-              "A unit of temperature measurement",
-              "A molecule or ion that binds to a central metal ion"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What type of bond typically holds a ligand to the central metal ion?",
-            "options": [
-              "A coordinate covalent bond",
-              "No bond is formed at all",
-              "An ionic bond only",
-              "A metallic bond only"
+              "Hormones",
+              "Light signals",
+              "Only physical movement, with no chemical signals",
+              "Sound waves"
             ],
             "answer": 0
           },
           {
-            "q": "Coordination compounds are often known for having ___.",
+            "q": "Why might the endocrine system respond to changes in the body’s external environment, like temperature?",
             "options": [
-              "A complete absence of any metal",
-              "No colour whatsoever",
-              "Vivid, distinctive colours",
-              "Only a gaseous state at room temperature"
+              "Homeostasis has no connection to hormonal signals",
+              "The endocrine system never responds to external changes",
+              "Hormonal signals can help the body adjust and maintain internal stability",
+              "External changes have no effect on the body’s internal balance"
             ],
             "answer": 2
           },
           {
-            "q": "Where might coordination compounds be found in biological systems?",
+            "q": "Why is maintaining homeostasis important for an organism’s survival?",
             "options": [
-              "Nowhere, since living things never contain coordination compounds",
-              "Only in radioactive materials",
-              "In molecules like hemoglobin, which contains iron",
-              "Only in synthetic laboratory chemicals"
+              "The body functions identically regardless of internal balance",
+              "Homeostasis has no connection to an organism’s health",
+              "Maintaining internal balance serves no biological purpose",
+              "A stable internal environment supports proper functioning of body systems"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of the endocrine system helping regulate the body?",
+            "options": [
+              "Only affecting external appearance, with no internal role",
+              "Preventing all forms of bodily regulation",
+              "A process entirely unrelated to hormone regulation",
+              "Releasing hormones that help control blood sugar levels"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       }
     ]
   },
@@ -28059,63 +28104,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: The Chinese Remainder Theorem",
-        "summary": "Grade 11 Functions strand: the Chinese Remainder Theorem provides a method for solving systems of simultaneous modular congruences, finding a single number that satisfies multiple remainder conditions at once.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Graphing Absolute Value Functions",
+        "summary": "Grade 9 Algebra strand (non-linear relations): the graph of an absolute value function forms a distinctive V shape, with a vertex representing the point where the function changes direction from decreasing to increasing.",
+        "resourceLabel": "YouTube: Graphing Absolute Value Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Absolute%20Value%20Functions%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the Chinese Remainder Theorem help solve?",
+            "q": "The graph of a basic absolute value function, such as y equals the absolute value of x, forms a shape best described as ___.",
             "options": [
-              "A system of quadratic equations only",
-              "The area of a triangle",
-              "Systems of simultaneous modular congruences",
-              "A single linear equation with no remainders"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the theorem find when given multiple remainder conditions?",
-            "options": [
-              "Only the largest of the given remainders",
-              "An answer that changes randomly each time",
-              "A number that satisfies none of the conditions",
-              "A single number that satisfies all the conditions simultaneously"
+              "A concept unrelated to graphing functions",
+              "A perfect circle",
+              "A straight diagonal line",
+              "A V shape"
             ],
             "answer": 3
           },
           {
-            "q": "The Chinese Remainder Theorem is part of which broader field of mathematics?",
+            "q": "The vertex of an absolute value function’s graph represents the point where the function ___.",
             "options": [
-              "Trigonometry",
-              "Geometry",
-              "Number theory",
-              "Statistics"
+              "Crosses the y-axis exclusively, with no other significance",
+              "Changes direction from decreasing to increasing",
+              "A concept unrelated to absolute value functions",
+              "Becomes undefined and stops existing"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Where might the Chinese Remainder Theorem be applied in modern technology?",
+            "q": "For the function y equals the absolute value of x, what is the vertex of the graph?",
             "options": [
-              "In areas of cryptography and computer science",
-              "It has no practical applications today",
-              "Only in measuring physical distances",
-              "Only in ancient historical calculations with no modern use"
+              "(0, 0)",
+              "(1, 1)",
+              "(0, 1)",
+              "A point unrelated to this function"
             ],
             "answer": 0
           },
           {
-            "q": "The Chinese Remainder Theorem builds on which earlier concept?",
+            "q": "How does the graph of y equals the absolute value of x plus 3 compare to the graph of y equals the absolute value of x?",
             "options": [
-              "Simple linear graphing",
-              "The Pythagorean Theorem",
-              "Modular arithmetic",
-              "Basic addition of fractions"
+              "It is shifted 3 units upward",
+              "A comparison unrelated to this transformation",
+              "It is shifted 3 units to the right",
+              "It is shifted 3 units to the left"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Why does an absolute value function’s graph never extend below its vertex when the function is in the standard form y equals the absolute value of x?",
+            "options": [
+              "An absolute value always produces a non-negative output, so the graph cannot fall below that minimum point",
+              "This concept has no connection to how absolute value functions behave",
+              "The graph extends below its vertex whenever x is a negative number",
+              "Absolute value functions always extend infinitely in every direction with no minimum point"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Data Literacy"
       },
       {
         "subject": "Biology",
@@ -28304,63 +28349,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: An Introduction to Graph Colouring",
-        "summary": "Grade 11 Functions strand: graph colouring assigns colours to the nodes of a graph so that no two connected nodes share the same colour, with the minimum number of colours needed called the chromatic number.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Review: Arithmetic Sequences, Linear Inequalities, the Discriminant, and Number Systems",
+        "summary": "Grade 9 Algebra and Number Sense strands review: this lesson revisits arithmetic sequences, systems of linear inequalities, the discriminant of a quadratic equation, and classifying rational, irrational, and real numbers from Days 71-79.",
+        "resourceLabel": "YouTube: Review: Arithmetic Sequences, Linear Inequalities, the Discriminant, and Number Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Arithmetic%20Sequences%2C%20Linear%20Inequalities%2C%20the%20Discriminant%2C%20and%20Number%20Systems%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is the goal of graph colouring?",
+            "q": "An arithmetic sequence is defined by ___.",
             "options": [
-              "Counting the total number of edges only",
-              "Assigning the exact same colour to every node",
-              "Removing all colours from a graph",
-              "Assigning colours to nodes so no two connected nodes share the same colour"
+              "A constant ratio between consecutive terms",
+              "A constant difference between consecutive terms",
+              "A concept unrelated to sequences",
+              "Terms that never follow any predictable pattern"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is the chromatic number of a graph?",
+            "q": "The solution to a system of linear inequalities is represented by ___.",
             "options": [
-              "The minimum number of colours needed to properly colour it",
-              "A number that is always equal to zero",
-              "The total number of edges in the graph",
-              "The total number of nodes in the graph"
+              "A single point that satisfies only one inequality",
+              "The overlapping shaded region that satisfies every inequality simultaneously",
+              "The entire coordinate plane, regardless of any inequality",
+              "A concept unrelated to systems of inequalities"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What real-world problem can graph colouring help solve?",
+            "q": "The discriminant of a quadratic equation is calculated using the formula ___.",
             "options": [
-              "The colour of the sky",
-              "The taste of a particular food",
-              "Scheduling conflicts, such as assigning exam time slots",
-              "The freezing point of water"
+              "negative b divided by 2a",
+              "A formula unrelated to the discriminant",
+              "b squared minus 4ac",
+              "b squared plus 4ac"
             ],
             "answer": 2
           },
           {
-            "q": "If two nodes in a graph are connected by an edge, what must be true about their colours?",
+            "q": "A rational number can always be expressed as ___.",
             "options": [
-              "Only one of the two nodes can have any colour",
-              "Colour has no meaning in graph theory",
-              "They must always be the same colour",
-              "They must be different colours"
+              "A concept unrelated to number sense",
+              "Only a whole number with no fractional part",
+              "A number with an infinite, non-repeating decimal expansion",
+              "A ratio of two integers"
             ],
             "answer": 3
           },
           {
-            "q": "Graph colouring is a key topic within which broader field of mathematics?",
+            "q": "Why is it useful to review sequences, inequalities, the discriminant, and number classification together?",
             "options": [
-              "Discrete mathematics and graph theory",
-              "Basic arithmetic",
-              "Trigonometry",
-              "Financial mathematics"
+              "Review is never useful in mathematics",
+              "Each topic must be learned with no connection to the others",
+              "These topics have no connection to each other",
+              "These related algebra and number sense concepts build on and reinforce one another for deeper mathematical understanding"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Biology",
@@ -28794,60 +28838,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Complex Numbers: De Moivres Theorem",
-        "summary": "Grade 11 Functions strand: De Moivres Theorem provides a method for raising a complex number in polar form to a power, using the formula (r(cos θ + i sin θ))^n = r^n(cos nθ + i sin nθ).",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to the Law of Sines and Cosines",
+        "summary": "Grade 8 Math strand: the law of sines and the law of cosines are formulas used to find missing sides or angles in any triangle, not just right triangles.",
+        "resourceLabel": "YouTube: Introduction to the Law of Sines and Cosines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20the%20Law%20of%20Sines%20and%20Cosines%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does De Moivres Theorem help calculate?",
+            "q": "What can the law of sines and cosines help you find in a triangle?",
             "options": [
-              "The slope of a line",
-              "The volume of a sphere",
-              "The area of a triangle",
-              "A complex number in polar form raised to a power"
+              "Only the triangle’s colour",
+              "Only the triangle’s perimeter",
+              "A concept unrelated to trigonometry",
+              "Missing sides or angles"
             ],
             "answer": 3
           },
           {
-            "q": "De Moivres Theorem builds on which earlier concept?",
+            "q": "Do the law of sines and cosines apply only to right triangles, or to any triangle?",
             "options": [
-              "Basic addition of whole numbers",
-              "The Pythagorean Theorem",
-              "Complex numbers in polar form",
-              "Simple linear equations"
+              "Only right triangles",
+              "A concept unrelated to these laws",
+              "Any triangle",
+              "Only equilateral triangles"
             ],
             "answer": 2
           },
           {
-            "q": "In De Moivres formula, what happens to the angle θ when raising to the power n?",
+            "q": "Why are the law of sines and cosines useful beyond the Pythagorean theorem?",
             "options": [
-              "It is multiplied by n",
-              "It becomes zero",
-              "It is divided by n",
-              "It stays exactly the same"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is De Moivres Theorem useful for working with complex numbers?",
-            "options": [
-              "It eliminates the need for complex numbers entirely",
-              "It only works for real numbers, never complex ones",
-              "It simplifies the process of raising complex numbers to large powers",
-              "It has no mathematical application"
+              "This concept has no connection to trigonometry",
+              "These laws never apply to any triangle at all",
+              "They can be applied to triangles that are not right triangles",
+              "They can only ever be used on right triangles, just like the Pythagorean theorem"
             ],
             "answer": 2
           },
           {
-            "q": "De Moivres Theorem connects which two areas of mathematics?",
+            "q": "If you know two angles and one side of a triangle, which law could help find another side?",
             "options": [
-              "Trigonometry and complex numbers",
-              "Only basic arithmetic and geometry",
-              "Only financial literacy and algebra",
-              "Only statistics and probability"
+              "Only the Pythagorean theorem, which requires a right angle",
+              "A concept unrelated to trigonometry",
+              "The law of sines",
+              "No law can ever help in this situation"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "Why might a surveyor use the law of cosines when measuring land that forms a non-right triangle?",
+            "options": [
+              "Surveyors never need to measure any triangular shapes",
+              "The law of cosines never applies to real-world measurement problems",
+              "This concept has no relevance to math",
+              "It allows them to calculate an unknown side or angle without needing a right angle"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -29038,63 +29082,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: An Introduction to Bayes Theorem",
-        "summary": "Grade 11 Functions strand: Bayes Theorem updates the probability of an event based on new information, combining prior knowledge with new evidence to calculate a more accurate conditional probability.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Matrices: An Introduction",
+        "summary": "Grade 8 Math strand: a matrix is a rectangular arrangement of numbers organized into rows and columns, used to represent and solve certain types of mathematical problems.",
+        "resourceLabel": "YouTube: Matrices: An Introduction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Matrices%3A%20An%20Introduction%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does Bayes Theorem help calculate?",
+            "q": "What is a matrix?",
             "options": [
-              "An updated probability based on new evidence",
-              "The average of a data set",
-              "The volume of a 3D shape",
-              "A fixed probability that never changes"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What two things does Bayes Theorem combine?",
-            "options": [
-              "Only historical data with no update",
-              "Only random guesses",
-              "Only geometric shapes",
-              "Prior knowledge and new evidence"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Bayes Theorem is closely related to which earlier probability concept?",
-            "options": [
-              "Surface area",
-              "Linear equations",
-              "Conditional probability",
-              "The Pythagorean theorem"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is Bayes Theorem useful in fields like medicine?",
-            "options": [
-              "It only applies to games of chance",
-              "It helps update the likelihood of a diagnosis as new test results come in",
-              "It eliminates the need for any testing",
-              "It has no real-world applications"
+              "A type of geometric shape only",
+              "A rectangular arrangement of numbers in rows and columns",
+              "A concept unrelated to math",
+              "A single number with no structure"
             ],
             "answer": 1
           },
           {
-            "q": "If new evidence strongly supports an event, Bayes Theorem would typically ___.",
+            "q": "What are the two directions a matrix is organized by?",
             "options": [
-              "Always decrease the probability to zero",
-              "Make the event impossible",
-              "Increase the probability estimate for that event",
-              "Have no effect on the probability at all"
+              "A concept unrelated to matrices",
+              "Only rows, with no columns",
+              "Only diagonals",
+              "Rows and columns"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "In a matrix with 2 rows and 3 columns, how many total numbers does it contain?",
+            "options": [
+              "3",
+              "5",
+              "2",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a matrix be useful for organizing data, like scores from multiple games and players?",
+            "options": [
+              "This concept has no connection to math",
+              "It provides a clear, organized way to display data across two categories at once",
+              "Matrices never help organize any kind of data",
+              "Rows and columns never actually represent meaningful data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the size of a matrix with 3 rows and 2 columns often written as?",
+            "options": [
+              "A concept unrelated to matrices",
+              "3 by 2",
+              "2 by 3",
+              "5 by 5"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -29282,62 +29325,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Financial Mathematics: Perpetuities and Present Value",
-        "summary": "Grade 11 Functions strand: a perpetuity is a financial instrument that pays a fixed amount of money at regular intervals forever, and its present value can be calculated by dividing the periodic payment by the interest rate.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Normal Distribution",
+        "summary": "Grade 8 Math strand: a normal distribution is a symmetric, bell-shaped pattern of data where most values cluster near the mean, with fewer values appearing farther from the average.",
+        "resourceLabel": "YouTube: Introduction to Normal Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Normal%20Distribution%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a perpetuity?",
+            "q": "What shape does a normal distribution typically form?",
             "options": [
-              "A loan that must be paid off within one year",
-              "A financial instrument that pays a fixed amount forever at regular intervals",
-              "A one-time lump-sum payment with no future payments",
-              "An investment that guarantees no return at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How is the present value of a perpetuity typically calculated?",
-            "options": [
-              "By subtracting the interest rate from the payment amount",
-              "Present value cannot be calculated for a perpetuity",
-              "By dividing the periodic payment by the interest rate",
-              "By multiplying the payment by an infinite number of years"
+              "A completely flat line",
+              "A concept unrelated to statistics",
+              "A symmetric, bell shape",
+              "A perfectly straight diagonal line"
             ],
             "answer": 2
           },
           {
-            "q": "Why can a perpetuity that pays forever still have a finite present value?",
+            "q": "In a normal distribution, do most values cluster near the mean or far from it?",
             "options": [
-              "Future payments are discounted more heavily the further into the future they occur",
-              "Perpetuities always have an infinite present value with no exception",
-              "Present value calculations do not apply to perpetuities",
-              "All future payments are worth exactly the same amount as todays dollar"
+              "A concept unrelated to normal distribution",
+              "Values never cluster anywhere in particular",
+              "Far from the mean",
+              "Near the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might test scores from a large group of students often form a roughly normal distribution?",
+            "options": [
+              "Test scores never form any kind of predictable pattern",
+              "Most students tend to perform near an average level, with fewer scoring extremely high or low",
+              "This concept has no connection to statistics",
+              "A normal distribution never applies to real-world data like test scores"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a bell-shaped normal distribution, where is the peak of the curve typically located?",
+            "options": [
+              "At the mean",
+              "A concept unrelated to normal distribution",
+              "At the very lowest value",
+              "At the very highest value only"
             ],
             "answer": 0
           },
           {
-            "q": "If a perpetuity pays $100 per year and the interest rate is 5%, what is its present value?",
+            "q": "Why is understanding normal distribution useful for interpreting large data sets?",
             "options": [
-              "$100",
-              "$2,000",
-              "$500",
-              "$20"
+              "It helps identify what values are typical versus unusually high or low",
+              "This concept has no relevance to statistics",
+              "Normal distribution never helps with interpreting any data",
+              "All data sets always form the exact same shape regardless of pattern"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Perpetuities are a useful concept for understanding ___.",
-            "options": [
-              "Only geometry problems",
-              "Only physical measurements with no financial connection",
-              "Long-term financial instruments and valuation",
-              "Only short-term loans with no long-term application"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Probability Distributions"
       },
       {
         "subject": "Biology",
@@ -29525,60 +29569,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Calculus Foundations, Discrete Math, and Finance",
-        "summary": "Grade 11 Functions strand review: students revisit limits, continuity, recurrence relations, the Chinese Remainder Theorem, graph colouring, vector equations of planes, De Moivres Theorem, Bayes Theorem, and perpetuities.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Algebra: Completing the Square",
+        "summary": "Grade 8 Math strand: completing the square is a method for rewriting a quadratic expression into a perfect square trinomial plus a constant, useful for solving quadratic equations.",
+        "resourceLabel": "YouTube: Algebra: Completing the Square",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Completing%20the%20Square%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a limit describe in mathematics?",
+            "q": "What does completing the square help rewrite a quadratic expression into?",
             "options": [
-              "A fixed number that never changes",
-              "The total area under a curve only",
-              "The value a function approaches as its input gets closer to a certain number",
-              "The exact value of a function at every point"
+              "A simple linear expression",
+              "A completely different type of equation",
+              "A perfect square trinomial plus a constant",
+              "A concept unrelated to algebra"
             ],
             "answer": 2
           },
           {
-            "q": "What does it mean for a function to be continuous at a point?",
+            "q": "Is completing the square a method useful for solving quadratic equations?",
             "options": [
-              "The function is always undefined at that point",
-              "The limit exists, the function is defined, and the limit equals the function value",
-              "Continuity has no formal definition",
-              "The graph must have a break at that point"
+              "Yes",
+              "A concept unrelated to algebra",
+              "No, it has no connection to quadratic equations",
+              "It only works for linear equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the expression x squared plus 6x, what number would you add to complete the square?",
+            "options": [
+              "36",
+              "9",
+              "3",
+              "6"
             ],
             "answer": 1
           },
           {
-            "q": "What is the chromatic number of a graph?",
+            "q": "Why might completing the square be useful for finding the vertex of a parabola?",
             "options": [
-              "The total number of nodes in the graph",
-              "A number that is always equal to zero",
-              "The total number of edges in the graph",
-              "The minimum number of colours needed to properly colour it"
+              "Rewriting the equation in vertex form directly reveals the coordinates of the vertex",
+              "This concept has no connection to algebra",
+              "Parabolas never actually have a vertex to find",
+              "Completing the square never helps identify a parabola’s vertex"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does De Moivres Theorem help calculate?",
+            "q": "In the expression x squared plus 10x, what number would you add to complete the square?",
             "options": [
-              "The area of a triangle",
-              "The volume of a sphere",
-              "The slope of a line",
-              "A complex number in polar form raised to a power"
+              "25",
+              "10",
+              "5",
+              "100"
             ],
-            "answer": 3
-          },
-          {
-            "q": "What is a perpetuity?",
-            "options": [
-              "An investment that guarantees no return at all",
-              "A loan that must be paid off within one year",
-              "A one-time lump-sum payment with no future payments",
-              "A financial instrument that pays a fixed amount forever at regular intervals"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ]
       },
@@ -29643,62 +29687,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry Review: Bonding, Applied Chemistry, and Everyday Reactions",
-        "summary": "Grade 11 Chemistry strand review: students revisit molecular orbital theory, orbital hybridization, coordination compounds, chemiluminescence, fermentation, sports drink electrolytes, perfume chemistry, lachrymatory agents, and photographic chemistry.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Biotechnology: CRISPR and Gene Editing",
+        "summary": "Grade 8 Science Life Systems strand: CRISPR is a gene-editing technology that allows scientists to make precise changes to DNA, with significant potential applications and ethical considerations in medicine and agriculture.",
+        "resourceLabel": "YouTube: Biotechnology: CRISPR and Gene Editing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biotechnology%3A%20CRISPR%20and%20Gene%20Editing%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
         "quiz": [
           {
-            "q": "What does molecular orbital theory describe?",
+            "q": "CRISPR is a technology used to ___.",
             "options": [
-              "How atomic orbitals combine to form molecular orbitals",
-              "The colour of a chemical compound",
-              "The temperature at which a substance boils",
-              "Only the shape of a single atom"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does orbital hybridization describe?",
-            "options": [
-              "The mass of a single atom",
-              "How atomic orbitals mix to form new hybrid orbitals",
-              "The colour of a chemical compound",
-              "The temperature at which a substance freezes"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is a ligand?",
-            "options": [
-              "A molecule or ion that binds to a central metal ion",
-              "A unit of temperature measurement",
-              "A type of radioactive particle",
-              "A type of acid with no metal involvement"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is chemiluminescence?",
-            "options": [
-              "A process that only occurs in living organisms",
-              "The emission of light resulting from a chemical reaction",
-              "A physical change with no chemical reaction involved",
-              "The absorption of light with no emission at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is a lachrymatory agent?",
-            "options": [
-              "A compound that has no effect on the eyes",
-              "A solid mineral with no chemical reactivity",
-              "A gas used only in refrigeration",
-              "A volatile chemical that irritates the eyes and triggers tears"
+              "Predict weather patterns",
+              "Measure the size of a cell",
+              "Study the movement of tectonic plates",
+              "Make precise changes to DNA"
             ],
             "answer": 3
+          },
+          {
+            "q": "CRISPR has potential applications in fields such as ___.",
+            "options": [
+              "Fields with no connection to biology",
+              "Medicine and agriculture",
+              "A single, unrelated area of study",
+              "Only entertainment technology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does gene editing technology like CRISPR raise ethical considerations?",
+            "options": [
+              "It has the potential to significantly alter living organisms, raising questions about appropriate use",
+              "Gene editing has no ethical implications at all",
+              "CRISPR has no connection to living organisms",
+              "Ethical considerations are irrelevant to scientific research"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a potential application of CRISPR in agriculture?",
+            "options": [
+              "An application with no connection to agriculture",
+              "A use unrelated to farming or crops",
+              "A technology that cannot be applied to plants",
+              "Developing crops with improved resistance to disease"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is CRISPR considered a significant advancement in biotechnology?",
+            "options": [
+              "It has no advantages over earlier gene-editing methods",
+              "It allows for much more precise and efficient gene editing than earlier methods",
+              "CRISPR cannot be used to edit genes at all",
+              "Gene editing technology has no scientific significance"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Biotechnology"
       }
     ]
   },
@@ -29888,62 +29934,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Chelation Therapy — Medical Applications of Coordination Chemistry",
-        "summary": "Grade 11 Chemistry strand: chelation therapy uses chelating agents, molecules that bind tightly to metal ions through multiple coordinate covalent bonds, to remove toxic heavy metals such as lead or mercury from the body.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Cellular Respiration in Depth",
+        "summary": "Grade 9 Science Biology strand: cellular respiration breaks down glucose in the presence of oxygen to release usable energy for cells, producing carbon dioxide and water as byproducts.",
+        "resourceLabel": "YouTube: Cellular Respiration in Depth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cellular%20Respiration%20in%20Depth%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ9Zjc-jdys",
         "quiz": [
           {
-            "q": "What is a chelating agent?",
+            "q": "Cellular respiration breaks down ___ to release usable energy.",
             "options": [
-              "An acid with no metal-binding ability",
-              "A gas used only in refrigeration",
-              "A type of radioactive isotope",
-              "A molecule that binds tightly to metal ions through multiple coordinate bonds"
+              "Water only",
+              "Glucose",
+              "Oxygen only",
+              "Carbon dioxide only"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is the main purpose of chelation therapy?",
+            "q": "Cellular respiration typically requires ___.",
             "options": [
-              "Replacing red blood cells",
-              "Curing viral infections directly",
-              "Adding more heavy metals to the bloodstream",
-              "Removing toxic heavy metals from the body"
+              "Oxygen",
+              "No input substances at all",
+              "Only carbon dioxide, with no oxygen involved",
+              "Only sunlight, with no oxygen involved"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Which of these might chelation therapy be used to treat?",
+            "q": "Which are byproducts of cellular respiration?",
             "options": [
-              "A common cold",
-              "A broken bone",
-              "Lead or mercury poisoning",
-              "A sunburn"
+              "Only sunlight, with no other byproducts",
+              "Oxygen and glucose",
+              "Carbon dioxide and water",
+              "Nitrogen and hydrogen"
             ],
             "answer": 2
           },
           {
-            "q": "How does a chelating agent typically bind to a metal ion?",
+            "q": "Why is cellular respiration essential for most living cells?",
             "options": [
-              "Through a covalent bond with another chelating agent only",
-              "Through no chemical bond at all",
-              "Through multiple coordinate covalent bonds, forming a ring-like structure",
-              "Through a single ionic bond only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Chelation therapy is a medical application of which broader area of chemistry?",
-            "options": [
-              "Nuclear chemistry",
-              "Organic polymer chemistry",
-              "Photochemistry",
-              "Coordination chemistry"
+              "This process has no connection to cellular energy production",
+              "Cells never require energy to function",
+              "Cellular respiration has no role in providing energy",
+              "It provides the usable energy cells need to carry out their functions"
             ],
             "answer": 3
+          },
+          {
+            "q": "How is cellular respiration related to photosynthesis?",
+            "options": [
+              "Photosynthesis produces glucose and oxygen, which cellular respiration then uses",
+              "Only plants perform cellular respiration",
+              "Cellular respiration produces the glucose used in photosynthesis",
+              "The two processes have no connection to each other"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       }
     ]
   },
@@ -30013,63 +30061,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Trees and Spanning Trees in Graph Theory",
-        "summary": "Grade 11 Functions strand: a tree is a connected graph with no cycles, and a spanning tree of a graph is a subgraph that connects all vertices using the minimum number of edges, with important applications in network design.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Vectors",
+        "summary": "Grade 8 Math strand: a vector is a quantity that has both magnitude, or size, and direction, such as a force applied at a specific angle, often represented visually as an arrow.",
+        "resourceLabel": "YouTube: Introduction to Vectors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Vectors%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What defines a tree in graph theory?",
+            "q": "What two things does a vector have?",
             "options": [
-              "A connected graph with no cycles",
-              "A graph with every vertex connected to every other vertex",
-              "A graph that must contain at least one cycle",
-              "A graph containing only isolated vertices with no edges"
+              "Only a single number with no direction",
+              "Magnitude and direction",
+              "Only a colour",
+              "A concept unrelated to math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a vector often represented visually?",
+            "options": [
+              "As an arrow",
+              "As a random squiggle with no meaning",
+              "A concept unrelated to vectors",
+              "As a single dot only"
             ],
             "answer": 0
           },
           {
-            "q": "What is a spanning tree of a graph?",
+            "q": "Does the length of a vector’s arrow typically represent its magnitude?",
             "options": [
-              "A graph with no vertices at all",
-              "A subgraph that connects all vertices using the minimum number of edges and no cycles",
-              "A cycle that visits every edge exactly once",
-              "A tree that only includes half of the vertices"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How many edges does a spanning tree with n vertices contain?",
-            "options": [
-              "Exactly 2n",
-              "n plus 1",
-              "n minus 1",
-              "Exactly n squared"
+              "A concept unrelated to vectors",
+              "The colour of the arrow always shows magnitude instead",
+              "Yes",
+              "No, length has no connection to magnitude"
             ],
             "answer": 2
           },
           {
-            "q": "Where might spanning trees be applied in real-world problems?",
+            "q": "Why might a vector be a more useful way to describe a force than just a single number?",
             "options": [
-              "Determining the colour of a traffic light",
-              "Designing efficient networks, such as minimizing cable length in a network",
-              "Calculating the area of a circle",
-              "Measuring the temperature of a room"
+              "A vector captures both how strong the force is and which direction it is applied",
+              "This concept has no connection to vectors",
+              "Vectors never actually describe any real-world quantity",
+              "A single number always fully describes a force with no need for direction"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why can a tree with n vertices never contain a cycle?",
+            "q": "Which of these is an example of a vector quantity, since it includes both size and direction?",
             "options": [
-              "Cycles have no relationship to the structure of a tree",
-              "Trees require exactly two cycles per vertex",
-              "Trees always contain at least one cycle by definition",
-              "Adding an edge that would create a cycle would mean the graph is no longer a tree by definition"
+              "The temperature of a room",
+              "The price of an item at a store",
+              "Wind blowing at 20 kilometres per hour toward the north",
+              "The number of students in a class"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Biology",
@@ -30257,63 +30304,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: An Introduction to Diophantine Equations",
-        "summary": "Grade 11 Functions strand: a Diophantine equation is a polynomial equation for which only integer solutions are sought, building on earlier work with modular arithmetic and the Euclidean algorithm to determine whether integer solutions exist.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Amortization and Mortgages",
+        "summary": "Grade 8 Math strand: amortization describes how a loan, such as a mortgage, is gradually paid off over time through regular payments that cover both interest and part of the original amount borrowed.",
+        "resourceLabel": "YouTube: Introduction to Amortization and Mortgages",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Amortization%20and%20Mortgages%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a Diophantine equation?",
+            "q": "What does amortization describe?",
             "options": [
-              "A geometric formula for area",
-              "An equation that only allows decimal solutions",
-              "An equation with no solutions of any kind",
-              "A polynomial equation for which only integer solutions are sought"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which earlier concept helps determine whether a linear Diophantine equation has integer solutions?",
-            "options": [
-              "The Pythagorean Theorem",
-              "The greatest common divisor, found using the Euclidean algorithm",
-              "Basic multiplication tables",
-              "Trigonometric ratios"
+              "A concept unrelated to finance",
+              "How a loan is gradually paid off over time",
+              "A one-time payment with no ongoing schedule",
+              "A type of savings account with no payments"
             ],
             "answer": 1
           },
           {
-            "q": "For the linear equation ax + by = c to have integer solutions, what must be true?",
+            "q": "Do regular loan payments typically cover both interest and part of the original amount borrowed?",
             "options": [
-              "c must always be a negative number",
-              "The equation must contain no variables",
-              "The greatest common divisor of a and b must divide c",
-              "The values a and b must both equal zero"
+              "No, payments only ever cover interest",
+              "Yes",
+              "A concept unrelated to amortization",
+              "Payments never actually reduce the original loan amount"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a mortgage?",
+            "options": [
+              "A type of car repair",
+              "A loan used to purchase property, like a house",
+              "A concept unrelated to finance",
+              "A savings account for retirement only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might early payments on a mortgage go mostly toward interest rather than the loan’s principal?",
+            "options": [
+              "This concept has no connection to amortization",
+              "Interest and principal are always paid in exactly equal amounts every month",
+              "Interest is often calculated based on the remaining balance, which is highest at the start of the loan",
+              "Early payments never include any interest at all"
             ],
             "answer": 2
           },
           {
-            "q": "Diophantine equations are named after which historical figure?",
+            "q": "Why is understanding amortization useful when considering a major purchase, like a home?",
             "options": [
-              "Isaac Newton",
-              "Pythagoras",
-              "Diophantus, an ancient Greek mathematician",
-              "Leonhard Euler"
+              "This concept has no relevance to financial literacy",
+              "It helps someone understand the total cost and time it will take to pay off a loan",
+              "Loans never need to be paid back over time",
+              "Amortization never affects how someone plans a major purchase"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a Diophantine equation have no solution even though the corresponding real-number equation does?",
-            "options": [
-              "Integer solutions are always easier to find than real-number ones",
-              "Diophantine equations always have identical solutions to real-number equations",
-              "Diophantine equations never involve integers",
-              "Restricting solutions to integers can eliminate valid real-number answers"
-            ],
-            "answer": 3
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Biology",
@@ -30687,122 +30733,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Roman a Clef — Fiction Rooted in Reality",
-        "summary": "Grade 11 English strand: a roman a clef is a novel in which real people or events are thinly disguised as fictional characters and situations, inviting readers familiar with the source material to recognize the hidden real-world references.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Analyzing the Uncanny in Gothic Literature",
+        "summary": "Grade 9 Language strand: the uncanny refers to something eerily familiar yet strange, a feeling often used in Gothic literature to create unease, such as a lifelike doll or an unusually quiet house.",
+        "resourceLabel": "YouTube: Reading: Analyzing the Uncanny in Gothic Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20the%20Uncanny%20in%20Gothic%20Literature%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a roman a clef?",
+            "q": "What does the uncanny refer to in literature?",
             "options": [
-              "A novel with no connection to reality whatsoever",
-              "A type of formal legal document",
-              "A novel in which real people or events are thinly disguised as fiction",
-              "A poem written entirely in French"
+              "Something completely ordinary with no unusual qualities",
+              "A concept unrelated to reading",
+              "Something eerily familiar yet strange",
+              "A cheerful, comforting feeling"
             ],
             "answer": 2
           },
           {
-            "q": "What might a reader familiar with the real events behind a roman a clef recognize?",
+            "q": "Is the uncanny often used in Gothic literature to create unease?",
             "options": [
-              "Hidden references to real people or situations disguised as fiction",
-              "Nothing, since the novel bears no resemblance to reality",
-              "A complete absence of characters",
-              "Only grammatical errors in the text"
+              "Yes",
+              "No, the uncanny is never used to create unease",
+              "The uncanny only ever creates a calm, relaxed feeling",
+              "A concept unrelated to Gothic literature"
             ],
             "answer": 0
           },
           {
-            "q": "Why might an author choose to write a roman a clef rather than a straightforward memoir?",
+            "q": "Which of these is an example of the uncanny?",
             "options": [
-              "Authors are legally required to disguise every memoir as fiction",
-              "Fiction can offer legal protection and creative freedom while still commenting on real events",
-              "A roman a clef must always be entirely factual with no invention",
-              "Fiction always removes the connection to any real events"
+              "A sunny park full of children playing",
+              "A calm, quiet library",
+              "A lifelike doll that seems to move on its own",
+              "A friendly conversation between neighbours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Gothic authors use the uncanny to unsettle readers?",
+            "options": [
+              "Something familiar turned strange can create deep, lingering discomfort",
+              "Familiar objects never create any sense of unease",
+              "This concept has no connection to Gothic literature",
+              "The uncanny never has any effect on how a reader feels"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the uncanny considered a powerful literary tool for building suspense?",
+            "options": [
+              "It plays on the tension between what feels familiar and what feels wrong, unsettling the reader",
+              "The uncanny never contributes to suspense in a story",
+              "This concept has no relevance to reading comprehension",
+              "Suspense is never connected to feelings of familiarity or strangeness"
+            ],
+            "answer": 0
+          }
+        ],
+        "topic": "Reading Comprehension & Strategies"
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: Z-Scores and Standardization",
+        "summary": "Grade 8 Math strand: a z-score describes how many standard deviations a data point is from the mean, allowing different data sets to be compared on a standardized scale.",
+        "resourceLabel": "YouTube: Statistics: Z-Scores and Standardization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Z-Scores%20and%20Standardization%20grade%2011%20educational",
+        "quiz": [
+          {
+            "q": "What does a z-score describe?",
+            "options": [
+              "A concept unrelated to statistics",
+              "The exact value of a data point with no comparison",
+              "The total number of data points in a set",
+              "How many standard deviations a data point is from the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can z-scores be used to compare data points from different data sets?",
+            "options": [
+              "A concept unrelated to z-scores",
+              "Yes",
+              "No, z-scores can never be used to compare different data sets",
+              "Z-scores only apply to a single, specific data set with no comparison possible"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these best describes the relationship between a roman a clef and real life?",
+            "q": "If a data point has a z-score of 0, what does that tell you?",
             "options": [
-              "The novel exists only as an oral tradition with no written text",
-              "The novel is entirely unrelated to any real person or event",
-              "The novel is a word-for-word transcript of true events",
-              "Real people and events form the basis for fictionalized characters and plot"
+              "A concept unrelated to z-scores",
+              "It is far above the mean",
+              "It is far below the mean",
+              "It is exactly at the mean"
             ],
             "answer": 3
           },
           {
-            "q": "The term roman a clef comes from a phrase meaning ___.",
+            "q": "If a data point has a positive z-score, is it above or below the mean?",
             "options": [
-              "A story with no characters at all",
-              "A play performed only once",
-              "A novel written entirely in verse",
-              "Novel with a key, since knowledge of real events unlocks its meaning"
+              "Above the mean",
+              "Below the mean",
+              "A concept unrelated to z-scores",
+              "Exactly at the mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a z-score be useful for comparing a student’s test score to two different tests with different scoring scales?",
+            "options": [
+              "This concept has no connection to statistics",
+              "Test scores can never be meaningfully compared to each other",
+              "Z-scores never help with comparing different tests",
+              "It standardizes both scores so they can be fairly compared on the same scale"
             ],
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
-      },
-      {
-        "subject": "Functions",
-        "title": "Complex Numbers: Roots of Unity and nth Roots",
-        "summary": "Grade 11 Functions strand: the nth roots of a complex number can be found using an extension of De Moivres Theorem, revealing that a nonzero complex number has exactly n distinct nth roots evenly spaced around a circle in the complex plane.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "quiz": [
-          {
-            "q": "How many distinct nth roots does a nonzero complex number have?",
-            "options": [
-              "Infinitely many",
-              "Exactly 1",
-              "Exactly 2, regardless of n",
-              "Exactly n"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What theorem is extended to find the nth roots of a complex number?",
-            "options": [
-              "De Moivres Theorem",
-              "The Binomial Theorem",
-              "The Fundamental Theorem of Arithmetic",
-              "The Pythagorean Theorem"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How are the nth roots of a complex number arranged in the complex plane?",
-            "options": [
-              "Clustered at a single point",
-              "Scattered with no pattern at all",
-              "Evenly spaced around a circle",
-              "Arranged along a single straight line only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What are the nth roots of unity?",
-            "options": [
-              "Only negative real numbers",
-              "Numbers that have no solutions at all",
-              "Only the number 1 itself",
-              "The n distinct solutions to the equation z^n = 1"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is polar form especially useful for finding roots of complex numbers?",
-            "options": [
-              "It expresses the angle and magnitude needed to evenly divide the roots around a circle",
-              "Polar form cannot be used for this purpose at all",
-              "Polar form only applies to real numbers, not complex ones",
-              "Polar form eliminates the need for any angle measurement"
-            ],
-            "answer": 0
-          }
-        ]
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Biology",
@@ -30992,63 +31039,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: An Introduction to the Poisson Distribution",
-        "summary": "Grade 11 Functions strand: the Poisson distribution models the probability of a given number of independent events occurring within a fixed interval of time or space, when those events happen at a known constant average rate.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Spherical Geometry",
+        "summary": "Grade 8 Math strand: spherical geometry studies shapes and distances on the surface of a sphere, where the shortest path between two points is a curved arc rather than a straight line.",
+        "resourceLabel": "YouTube: Introduction to Spherical Geometry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Spherical%20Geometry%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the Poisson distribution model?",
+            "q": "What surface does spherical geometry study shapes and distances on?",
             "options": [
-              "The probability of a given number of independent events occurring in a fixed interval",
-              "The exact outcome of a single guaranteed event",
-              "The area under a triangle",
-              "The average height of a population"
+              "A sphere",
+              "A cube",
+              "A flat plane only",
+              "A concept unrelated to geometry"
             ],
             "answer": 0
           },
           {
-            "q": "What must be known about the events being modelled by a Poisson distribution?",
+            "q": "On a sphere, is the shortest path between two points a straight line or a curved arc?",
             "options": [
-              "Their exact colour and shape",
-              "Their location on a coordinate plane",
-              "Their relationship to a persons age",
-              "Their known constant average rate of occurrence over the interval"
+              "A concept unrelated to spherical geometry",
+              "A straight line, just like on a flat plane",
+              "There is no shortest path on a sphere",
+              "A curved arc"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these situations could be modelled using a Poisson distribution?",
+            "q": "Why might the rules of spherical geometry differ from the geometry learned on a flat plane?",
             "options": [
-              "The exact height of a single building",
-              "The colour of a single card drawn from a deck",
-              "The number of emails received in an hour",
-              "The temperature on a given day"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the Poisson distribution differ from the binomial distribution in typical use?",
-            "options": [
-              "The binomial distribution only applies to continuous intervals",
-              "The Poisson distribution models counts of events over a continuous interval rather than a fixed number of discrete trials",
-              "The two distributions are always mathematically identical with no differences",
-              "The Poisson distribution can never be used to model real events"
+              "This concept has no connection to geometry",
+              "A curved surface changes how distances and angles behave compared to a flat surface",
+              "Spheres have no connection to geometry at all",
+              "Spherical geometry and flat-plane geometry always follow the exact same rules"
             ],
             "answer": 1
           },
           {
-            "q": "The Poisson distribution assumes that events occur ___.",
+            "q": "Why is spherical geometry useful for navigation, such as planning airplane flight paths?",
             "options": [
-              "At a rate that constantly doubles every second",
-              "Only in pairs, never individually",
-              "Independently of one another at a constant average rate",
-              "Only during a single fixed moment in time"
+              "The shape of the Earth has no effect on how flights are planned",
+              "Earth is roughly spherical, so the shortest real-world routes follow curved paths",
+              "This concept has no connection to navigation",
+              "Flight paths are always planned using flat-plane geometry only"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "On a globe, would the shortest route between two distant cities usually look like a straight line on a flat map?",
+            "options": [
+              "There is never a shortest route between two cities",
+              "No, it usually appears as a curved line on a flat map",
+              "Yes, it always appears as a perfectly straight line",
+              "A concept unrelated to spherical geometry"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Biology",
@@ -31238,63 +31285,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Financial Mathematics: Sinking Funds and Systematic Saving",
-        "summary": "Grade 11 Functions strand: a sinking fund is a savings plan in which equal periodic deposits earn compound interest over time to accumulate a specific target amount, commonly used to plan for a future large expense or debt repayment.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Solving Systems of Three Variables",
+        "summary": "Grade 8 Math strand: a system of three variables involves three equations with three unknowns, solved by combining equations to eliminate variables one at a time until each unknown is found.",
+        "resourceLabel": "YouTube: Solving Systems of Three Variables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Systems%20of%20Three%20Variables%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a sinking fund?",
+            "q": "How many equations are typically needed to solve a system with three variables?",
             "options": [
-              "A type of loan that must be repaid immediately",
-              "An investment that guarantees a loss of value over time",
-              "A one-time payment with no future growth",
-              "A savings plan of equal periodic deposits that grow with compound interest toward a target amount"
+              "One",
+              "Three",
+              "Five",
+              "Two"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What role does compound interest play in a sinking fund?",
+            "q": "What is a common strategy for solving a system of three variables?",
             "options": [
-              "It has no effect on the growth of the fund",
-              "It is always fixed and never accumulates",
-              "It allows the periodic deposits to grow over time toward the target amount",
-              "It reduces the total value of each deposit"
+              "Guessing the answer with no calculation at all",
+              "A concept unrelated to systems of equations",
+              "Combining equations to eliminate variables one at a time",
+              "Ignoring two of the three equations completely"
             ],
             "answer": 2
           },
           {
-            "q": "Why might an organization set up a sinking fund?",
+            "q": "If you eliminate one variable from two equations in a system of three, how many variables remain in that new equation?",
             "options": [
-              "To systematically save for a known future expense or debt repayment",
-              "To guarantee an instant financial loss",
-              "To immediately spend all available funds with no plan",
-              "To avoid saving any money at all"
+              "Two",
+              "Three",
+              "Zero",
+              "One"
             ],
             "answer": 0
           },
           {
-            "q": "How do the periodic deposits in a typical sinking fund compare to each other?",
+            "q": "Why might solving a system of three variables take more steps than solving a system of two variables?",
             "options": [
-              "They are always random and unpredictable in size",
-              "They only occur a single time with no repetition",
-              "They are generally equal in amount and made at regular intervals",
-              "They decrease to zero after the first deposit"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A sinking fund is most similar to which other financial concept covered earlier?",
-            "options": [
-              "An annuity, since both involve regular deposits or payments over time",
-              "A single lump-sum payment with no future value",
-              "A simple, one-time discount on a purchase",
-              "A perpetuity that never has a target amount"
+              "There are more unknowns and equations to work through before finding each value",
+              "Three-variable systems are always simpler to solve than two-variable systems",
+              "Systems of three variables never actually require any extra steps",
+              "This concept has no connection to algebra"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why might a system of three variables be useful for solving a real-world problem involving three unknown quantities?",
+            "options": [
+              "Real-world problems never involve more than one unknown quantity",
+              "It allows all three unknowns to be determined at once using the given relationships",
+              "This concept has no connection to math",
+              "Three-variable systems can never be applied to any real situation"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Financial Literacy"
+        ]
       },
       {
         "subject": "Biology",
@@ -31483,60 +31529,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: The Handshake Lemma and Vertex Degree",
-        "summary": "Grade 11 Functions strand: the handshake lemma states that the sum of the degrees of all vertices in a graph equals twice the number of edges, since every edge contributes exactly two to the total degree count, one for each endpoint.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Review: Advanced Algebra, Geometry, and Statistics (Days 81-89)",
+        "summary": "Grade 8 Math strand review: students revisit the law of sines and cosines, matrices, normal distribution, completing the square, vectors, amortization, z-scores, spherical geometry, and systems of three variables.",
+        "resourceLabel": "YouTube: Review: Advanced Algebra, Geometry, and Statistics (Days 81-89)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Advanced%20Algebra%2C%20Geometry%2C%20and%20Statistics%20%28Days%2081-89%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the handshake lemma state?",
+            "q": "What can the law of sines and cosines help you find in a triangle?",
             "options": [
-              "The sum of the degrees of all vertices equals twice the number of edges",
-              "Every graph must have an odd number of edges",
-              "The number of edges always equals the number of vertices",
-              "The sum of all vertex degrees always equals the number of vertices"
+              "Only the triangle’s perimeter",
+              "Only the triangle’s colour",
+              "Missing sides or angles",
+              "A concept unrelated to trigonometry"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is the degree of a vertex in a graph?",
+            "q": "What is a matrix?",
             "options": [
-              "The distance between two vertices",
-              "The total number of vertices in the entire graph",
-              "The colour assigned to that vertex",
-              "The number of edges connected to that vertex"
+              "A type of geometric shape only",
+              "A single number with no structure",
+              "A concept unrelated to math",
+              "A rectangular arrangement of numbers in rows and columns"
             ],
             "answer": 3
           },
           {
-            "q": "Why does each edge contribute exactly two to the total sum of vertex degrees?",
+            "q": "What two things does a vector have?",
             "options": [
-              "Edges have no relationship to vertex degree at all",
-              "Every edge always connects to exactly ten vertices",
-              "Each edge has two endpoints, adding one to the degree of each connected vertex",
-              "Each edge only connects to a single vertex"
+              "Only a colour",
+              "Only a single number with no direction",
+              "A concept unrelated to math",
+              "Magnitude and direction"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "According to the handshake lemma, what must be true about the sum of all vertex degrees in any graph?",
+            "q": "What does a z-score describe?",
             "options": [
-              "It must always equal exactly zero",
-              "It must always be an even number",
-              "It can never be calculated",
-              "It must always be an odd number"
+              "A concept unrelated to statistics",
+              "The total number of data points in a set",
+              "The exact value of a data point with no comparison",
+              "How many standard deviations a data point is from the mean"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "If a graph has 6 edges, what is the sum of the degrees of all its vertices?",
+            "q": "How many equations are typically needed to solve a system with three variables?",
             "options": [
-              "6",
-              "18",
-              "12",
-              "3"
+              "One",
+              "Five",
+              "Two",
+              "Three"
             ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -31666,123 +31712,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: The Encomium — Praise Writing and Tribute",
-        "summary": "Grade 11 English strand: an encomium is a formal piece of writing or speech that praises a person, achievement, or quality, using vivid examples and elevated language to celebrate its subject with genuine admiration rather than casual flattery.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Comparing Translations of a Text",
+        "summary": "Grade 9 Language strand: comparing different translations of the same text can reveal how word choice, tone, and cultural context shape meaning, since no translation is a perfectly neutral copy of the original.",
+        "resourceLabel": "YouTube: Reading: Comparing Translations of a Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Comparing%20Translations%20of%20a%20Text%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is the main purpose of an encomium?",
+            "q": "What can comparing different translations of the same text reveal?",
             "options": [
-              "To formally praise a person, achievement, or quality",
-              "To criticize a public figure",
-              "To argue against a popular opinion",
-              "To provide a neutral, purely factual report"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of language does an encomium typically use?",
-            "options": [
-              "Language with no emotional content at all",
-              "Elevated, celebratory language",
-              "Only plain, technical vocabulary",
-              "Casual slang with no formal structure"
+              "Only the exact number of pages in each version",
+              "How word choice, tone, and cultural context shape meaning",
+              "Nothing useful about the original text",
+              "A concept unrelated to reading"
             ],
             "answer": 1
           },
           {
-            "q": "How does an encomium differ from casual flattery?",
+            "q": "Is a translation ever a perfectly neutral copy of the original text?",
             "options": [
-              "It is always insincere and exaggerated",
-              "It never focuses on a specific subject",
-              "It is grounded in specific, genuine examples rather than empty compliments",
-              "It always avoids using any specific examples"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these might be the subject of an encomium?",
-            "options": [
-              "A weather report for the week",
-              "A set of driving directions",
-              "A retiring colleagues career achievements",
-              "A grocery list"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might specific examples strengthen an encomium?",
-            "options": [
-              "They make the praise feel credible and rooted in real achievement",
-              "Specific examples are irrelevant to this form of writing",
-              "Encomiums are more effective without any examples",
-              "Specific examples always weaken the praise being given"
+              "No",
+              "Translations never differ from one another in any way",
+              "Yes, every translation is always perfectly neutral",
+              "A concept unrelated to translation"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why might two translators choose different words for the same original sentence?",
+            "options": [
+              "Translators always choose the exact same words with no variation",
+              "This concept has no connection to translation",
+              "Each translator may interpret tone, culture, or meaning slightly differently",
+              "Word choice never affects how a translation is understood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might comparing translations deepen a reader’s understanding of a classic work of literature?",
+            "options": [
+              "This concept has no connection to reading comprehension",
+              "It can reveal different interpretive choices and highlight aspects of meaning that a single translation might miss",
+              "Comparing translations never reveals anything new about a text",
+              "Every translation of a classic work is always identical"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might cultural context be an important factor for a translator to consider?",
+            "options": [
+              "Cultural context never affects how a text should be translated",
+              "Every language shares identical cultural expressions with no differences",
+              "Certain words or expressions may carry meanings specific to a culture that do not directly translate",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Reading Comprehension & Strategies"
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The Central Limit Theorem",
-        "summary": "Grade 11 Functions strand: the central limit theorem states that the distribution of sample means approaches a normal distribution as the sample size increases, regardless of the shape of the original population distribution.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Logarithms",
+        "summary": "Grade 8 Math strand: a logarithm is the inverse operation of exponentiation, answering the question of what exponent a given base must be raised to in order to produce a certain number.",
+        "resourceLabel": "YouTube: Introduction to Logarithms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Logarithms%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the central limit theorem describe?",
+            "q": "What is a logarithm the inverse operation of?",
             "options": [
-              "The exact value of a single data point",
-              "How the distribution of sample means approaches a normal distribution as sample size increases",
-              "The colour of a graph",
-              "The area of a triangle inscribed in a circle"
+              "Addition",
+              "Division only",
+              "A concept unrelated to math",
+              "Exponentiation"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "According to the central limit theorem, what happens as sample size increases?",
+            "q": "Does a logarithm answer what exponent a base must be raised to in order to reach a certain number?",
             "options": [
-              "The population distribution itself changes shape completely",
-              "Sample means always become identical to the population maximum",
-              "The distribution of sample means becomes increasingly close to a normal distribution",
-              "The distribution of sample means becomes increasingly random with no pattern"
+              "No, logarithms have no connection to exponents",
+              "A concept unrelated to logarithms",
+              "Yes",
+              "Logarithms only ever apply to subtraction"
             ],
             "answer": 2
           },
           {
-            "q": "Does the original population distribution need to be normal for the central limit theorem to apply?",
+            "q": "What is the logarithm base 10 of 100?",
             "options": [
-              "No, the theorem applies regardless of the shape of the original population distribution",
-              "The theorem only applies to distributions with exactly two possible outcomes",
-              "The theorem cannot be applied to any real data",
-              "Yes, the population must always be perfectly normal to begin with"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the central limit theorem considered foundational to statistical inference?",
-            "options": [
-              "It has no practical application in statistics",
-              "It justifies using the normal distribution to make inferences about population means from sample data",
-              "It only applies to extremely small sample sizes",
-              "It eliminates the need for collecting any sample data"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The central limit theorem is closely related to which earlier statistical concept?",
-            "options": [
-              "Modular arithmetic",
-              "The Euclidean algorithm",
-              "The normal distribution and z-scores",
-              "The chromatic number of a graph"
+              "100",
+              "20",
+              "2",
+              "10"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why might logarithms be useful for solving an equation where the unknown value is an exponent?",
+            "options": [
+              "This concept has no connection to algebra",
+              "Logarithms never help with solving any type of equation",
+              "They allow you to isolate and solve directly for the exponent",
+              "Exponents can never be solved for using any mathematical method"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are logarithms used to measure things like earthquake magnitude on the Richter scale?",
+            "options": [
+              "Earthquake magnitude is never measured using any mathematical scale",
+              "Logarithms have no connection to measuring real-world phenomena",
+              "This concept has no relevance to math",
+              "They can compress an enormous range of values into a more manageable scale"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Functions: Exponential & Logarithmic"
       },
       {
         "subject": "Biology",
@@ -31970,62 +32016,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Calculus, Discrete Math, Geometry, and Statistics",
-        "summary": "Grade 11 Functions strand review: students revisit the derivative as a limit, trees and spanning trees, Diophantine equations, vector equations of lines in three dimensions, roots of unity, the Poisson distribution, sinking funds, the handshake lemma, and the central limit theorem.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Polynomial Long Division",
+        "summary": "Grade 8 Math strand: polynomial long division is a method for dividing a polynomial by another polynomial of equal or lesser degree, following a process similar to long division with numbers.",
+        "resourceLabel": "YouTube: Polynomial Long Division",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Long%20Division%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "How is the derivative of a function at a point defined?",
+            "q": "What does polynomial long division do?",
             "options": [
-              "As a fixed number unrelated to the function",
-              "As the total area under the curve",
-              "As the limit of the average rate of change as the interval shrinks toward zero",
-              "As the sum of all function values"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What defines a tree in graph theory?",
-            "options": [
-              "A graph with every vertex connected to every other vertex",
-              "A connected graph with no cycles",
-              "A graph that must contain at least one cycle",
-              "A graph containing only isolated vertices with no edges"
+              "Adds a list of polynomials together",
+              "Divides a polynomial by another polynomial",
+              "A concept unrelated to algebra",
+              "Multiplies two polynomials together"
             ],
             "answer": 1
           },
           {
-            "q": "What is a Diophantine equation?",
+            "q": "Is polynomial long division similar in process to long division with numbers?",
             "options": [
-              "An equation with no solutions of any kind",
-              "A geometric formula for area",
-              "An equation that only allows decimal solutions",
-              "A polynomial equation for which only integer solutions are sought"
+              "A concept unrelated to polynomial long division",
+              "No, the two processes share no similarities at all",
+              "Polynomial long division never involves any division at all",
+              "Yes"
             ],
             "answer": 3
           },
           {
-            "q": "How many distinct nth roots does a nonzero complex number have?",
+            "q": "What do you call the polynomial left over after a division that does not divide evenly?",
             "options": [
-              "Exactly 1",
-              "Infinitely many",
-              "Exactly 2, regardless of n",
-              "Exactly n"
+              "The coefficient",
+              "The product",
+              "A concept unrelated to polynomial division",
+              "The remainder"
             ],
             "answer": 3
           },
           {
-            "q": "What does the central limit theorem describe?",
+            "q": "Why might polynomial long division be useful when factoring a polynomial?",
             "options": [
-              "The area of a triangle inscribed in a circle",
-              "The exact value of a single data point",
-              "The colour of a graph",
-              "How the distribution of sample means approaches a normal distribution as sample size increases"
+              "This concept has no connection to algebra",
+              "It can help confirm whether a given expression is a factor and simplify the polynomial",
+              "Polynomial long division never helps with factoring in any way",
+              "Factoring and division are always completely unrelated processes"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to arrange terms in order of degree before starting polynomial long division?",
+            "options": [
+              "This concept has no connection to polynomial long division",
+              "Working in order of degree keeps the process organized and prevents errors when combining terms",
+              "The order of terms never has any effect on the division process",
+              "Terms should always be arranged in a completely random order"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Multiplication & Division"
       },
       {
         "subject": "Biology",
@@ -32333,63 +32380,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Isomerism in Coordination Compounds — Geometric and Optical Isomers",
-        "summary": "Grade 11 Chemistry strand: coordination compounds can display geometric isomerism, where ligands occupy different spatial arrangements around a central metal ion, and optical isomerism, where two non-superimposable mirror-image forms rotate polarized light in opposite directions.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Population Ecology: Growth Models",
+        "summary": "Grade 9 Science Biology strand: population ecology studies how populations change over time, using models such as exponential growth, which assumes unlimited resources, and logistic growth, which accounts for environmental limits.",
+        "resourceLabel": "YouTube: Population Ecology: Growth Models",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Population%20Ecology%3A%20Growth%20Models%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XMHa9doUd1c",
         "quiz": [
           {
-            "q": "What is geometric isomerism in a coordination compound?",
+            "q": "Population ecology studies how ___ change over time.",
             "options": [
-              "A change in the total number of electrons in the compound",
-              "A reaction that produces an entirely different chemical formula",
-              "Ligands occupying different spatial arrangements around the central metal ion",
-              "A difference in the mass of the central metal ion"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What defines optical isomers of a coordination compound?",
-            "options": [
-              "Two compounds with completely different chemical formulas",
-              "Two identical compounds with no structural difference at all",
-              "Two compounds that differ only in their physical state",
-              "Two non-superimposable mirror-image forms of the same compound"
+              "Only individual organisms, with no connection to populations",
+              "Only non-living systems",
+              "A concept unrelated to biology",
+              "Populations of organisms"
             ],
             "answer": 3
           },
           {
-            "q": "How do optical isomers of a coordination compound interact with polarized light?",
+            "q": "Exponential growth models assume ___.",
             "options": [
-              "They have no effect on polarized light at all",
-              "They rotate polarized light in opposite directions",
-              "They rotate polarized light in the exact same direction",
-              "They absorb all light completely with no rotation"
+              "Resources are always extremely limited",
+              "Unlimited resources are available",
+              "No population growth occurs at all",
+              "A concept unrelated to population size"
             ],
             "answer": 1
           },
           {
-            "q": "What part of a coordination compound do ligands surround in these isomeric arrangements?",
+            "q": "Logistic growth models account for ___.",
             "options": [
-              "The outer electron shell of a noble gas",
-              "A separate, unrelated organic molecule",
-              "The central metal ion",
-              "A carbon atom with no metal present"
+              "Environmental limits on population growth",
+              "Unlimited resources with no environmental constraints",
+              "A concept unrelated to population ecology",
+              "Only exponential increases with no limiting factors"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why can two coordination compounds with the same chemical formula have different properties?",
+            "q": "Why might a population’s growth rate slow down as it approaches an environment’s carrying capacity?",
             "options": [
-              "Identical chemical formulas always guarantee identical properties with no exceptions",
-              "Their ligands can be arranged differently in space around the metal ion, creating distinct isomers",
-              "Coordination compounds never share the same chemical formula",
-              "Only the colour of a compound can ever differ, never its properties"
+              "Resource availability has no connection to population size",
+              "Limited resources, such as food and space, can restrict further population growth",
+              "Populations always continue growing exponentially with no limits",
+              "Carrying capacity has no effect on population growth rate"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why are population growth models useful in ecology?",
+            "options": [
+              "They help predict and understand how populations might change under different conditions",
+              "Population changes can never be predicted or modeled",
+              "This topic has no connection to understanding ecosystems",
+              "These models have no scientific value"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       }
     ]
   },
@@ -32704,63 +32751,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Eulers Formula for Planar Graphs",
-        "summary": "Grade 11 Functions strand: for any connected planar graph, Eulers formula states that the number of vertices minus the number of edges plus the number of faces always equals 2, a relationship that connects graph theory to the structure of polyhedra.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Introduction to Function Notation, Domain, and Range",
+        "summary": "Grade 8 Math strand: function notation, such as f(x), represents the output of a function for a given input, while the domain is the set of possible inputs and the range is the set of possible outputs.",
+        "resourceLabel": "YouTube: Introduction to Function Notation, Domain, and Range",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Function%20Notation%2C%20Domain%2C%20and%20Range%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does Eulers formula state for a connected planar graph?",
+            "q": "What does function notation like f(x) represent?",
             "options": [
-              "Vertices plus edges always equals faces",
-              "Vertices minus edges plus faces always equals 2",
-              "Edges minus vertices always equals 0",
-              "Faces always equal twice the number of vertices"
+              "A random number with no connection to the function",
+              "A concept unrelated to algebra",
+              "The output of a function for a given input",
+              "The name of a variable with no other meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the domain of a function?",
+            "options": [
+              "A concept unrelated to functions",
+              "A single fixed number only",
+              "The set of possible outputs",
+              "The set of possible inputs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the range of a function?",
+            "options": [
+              "The set of possible inputs",
+              "The set of possible outputs",
+              "A concept unrelated to functions",
+              "A single fixed number only"
             ],
             "answer": 1
           },
           {
-            "q": "What is a planar graph?",
+            "q": "If f(x) = x + 2, what is f(3)?",
             "options": [
-              "A graph that can be drawn on a plane with no edges crossing",
-              "A graph that can only exist in three dimensions",
-              "A graph that must contain at least one cycle of crossing edges",
-              "A graph with no vertices at all"
+              "5",
+              "3",
+              "6",
+              "2"
             ],
             "answer": 0
           },
           {
-            "q": "What broader mathematical structures does Eulers formula connect graph theory to?",
+            "q": "Why is function notation useful for describing a relationship between two variables?",
             "options": [
-              "Trigonometric ratios",
-              "Polyhedra",
-              "Probability distributions",
-              "Prime numbers"
+              "It clearly shows how an output value depends on a specific input value",
+              "This concept has no connection to algebra",
+              "Function notation never shows any relationship between variables",
+              "Inputs and outputs are always completely unrelated to each other"
             ],
-            "answer": 1
-          },
-          {
-            "q": "If a connected planar graph has 5 vertices and 7 edges, how many faces does it have?",
-            "options": [
-              "12",
-              "4",
-              "3",
-              "2"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why must a graph be planar for the standard form of Eulers formula to apply directly?",
-            "options": [
-              "Planarity has no connection to how the formula is derived",
-              "The formula relies on counting faces formed by a crossing-free drawing in the plane",
-              "Non-planar graphs always have exactly two faces",
-              "The formula only applies to graphs with no edges"
-            ],
-            "answer": 1
+            "answer": 0
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Biology",
@@ -32948,63 +32994,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Linear Congruences and Modular Inverses",
-        "summary": "Grade 11 Functions strand: a linear congruence has the form ax is congruent to b modulo m, and solving it often requires finding the modular inverse of a, a value that plays the same role modulo m that a reciprocal plays in ordinary arithmetic.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Multiplying and Dividing Rational Expressions",
+        "summary": "Grade 9 Math strand: multiplying rational expressions involves multiplying numerators and denominators and then simplifying common factors, while dividing rational expressions involves multiplying by the reciprocal of the divisor.",
+        "resourceLabel": "YouTube: Multiplying and Dividing Rational Expressions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20and%20Dividing%20Rational%20Expressions%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is the general form of a linear congruence?",
+            "q": "When multiplying rational expressions, what should be done after multiplying the numerators and denominators?",
             "options": [
-              "x squared is congruent to a modulo b",
-              "ax equals b with no modulus involved",
-              "ax is congruent to b modulo m",
-              "a plus x equals b times m"
+              "Immediately add the two denominators together",
+              "Discard the denominators entirely",
+              "A concept unrelated to rational expressions",
+              "Simplify by cancelling common factors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When dividing rational expressions, do you multiply by the reciprocal of the divisor?",
+            "options": [
+              "Division of rational expressions always requires finding a common denominator instead",
+              "No, dividing rational expressions never involves a reciprocal",
+              "Yes",
+              "A concept unrelated to dividing rational expressions"
             ],
             "answer": 2
           },
           {
-            "q": "What is a modular inverse of a, with respect to modulus m?",
+            "q": "Simplify: (x/2) multiplied by (4/x).",
             "options": [
-              "A value that always equals m itself",
-              "A value that is always equal to zero",
-              "A value that plays the same role as a reciprocal, but within modular arithmetic",
-              "The negative of a with no other property"
+              "8/x",
+              "x",
+              "4",
+              "2"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What earlier tool helps determine whether a modular inverse of a exists modulo m?",
+            "q": "Simplify: (x/3) divided by (x/6).",
             "options": [
-              "The Euclidean algorithm and the greatest common divisor of a and m",
-              "The Pythagorean Theorem",
-              "The quadratic formula",
-              "Basic long division with no reference to gcd"
+              "3",
+              "6",
+              "1/2",
+              "2"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Under what condition does a have a modular inverse modulo m?",
+            "q": "Why is factoring often a necessary first step before multiplying or dividing rational expressions?",
             "options": [
-              "The greatest common divisor of a and m must equal 1",
-              "A modular inverse never exists under any condition",
-              "The value of a must always be negative",
-              "The modulus m must always be a prime number greater than 100"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are modular inverses useful for solving linear congruences?",
-            "options": [
-              "They eliminate the need for any modulus in the equation",
-              "They have no practical use in solving congruences",
-              "Multiplying both sides by the modular inverse isolates the variable, similar to dividing in ordinary arithmetic",
-              "They only apply to equations with no variables"
+              "Factoring never helps simplify a rational expression",
+              "Rational expressions can never be simplified through factoring",
+              "Factoring reveals common factors that can be cancelled to simplify the expression",
+              "This concept has no connection to math"
             ],
             "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Biology",
@@ -33132,122 +33178,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Roman-Fleuve — The Novel Sequence",
-        "summary": "Grade 11 English strand: a roman-fleuve is a sequence of related, often self-contained novels that follow the same characters, family, or community across an extended timeline, allowing an author to trace change and continuity over a much larger scope than a single novel permits.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Analyzing Circular and Non-Linear Narrative Structure",
+        "summary": "Grade 9 Language strand: a non-linear narrative presents events out of chronological order, and a circular narrative structure returns to its opening scene or idea by the end, shaping how readers interpret meaning.",
+        "resourceLabel": "YouTube: Reading: Analyzing Circular and Non-Linear Narrative Structure",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Circular%20and%20Non-Linear%20Narrative%20Structure%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a roman-fleuve?",
+            "q": "What does a non-linear narrative present events out of?",
             "options": [
-              "A type of formal legal contract",
-              "A single short poem with no narrative content",
-              "A novel written entirely in a single afternoon",
-              "A sequence of related novels following the same characters or community over time"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the roman-fleuve form allow an author to trace that a single novel often cannot?",
-            "options": [
-              "The exact word count of each chapter",
-              "A single characters actions within one afternoon only",
-              "Change and continuity across a much larger timeline",
-              "Nothing, since a single novel can always do the same thing equally well"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What commonly links the separate novels within a roman-fleuve?",
-            "options": [
-              "A shared cover colour and nothing else",
-              "Nothing at all connects the separate novels",
-              "Recurring characters, a family, or a community followed across the sequence",
-              "Only a shared publisher, with no connection in content"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a reader experience a roman-fleuve differently from a single stand-alone novel?",
-            "options": [
-              "Each volume of a roman-fleuve must ignore all previous volumes completely",
-              "Roman-fleuves never allow character development of any kind",
-              "A roman-fleuve always contains fewer words than a single novel",
-              "Themes and characters can develop and echo across multiple connected volumes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the term roman-fleuve literally suggest about this form?",
-            "options": [
-              "A novel written only in verse",
-              "A novel that ends abruptly with no continuation",
-              "A novel that flows like a river across multiple connected volumes",
-              "A novel with a single, extremely short chapter"
-            ],
-            "answer": 2
-          }
-        ]
-      },
-      {
-        "subject": "Functions",
-        "title": "Statistics: The Chi-Square Test for Independence",
-        "summary": "Grade 11 Functions strand: the chi-square test for independence compares observed frequencies in categorical data to the frequencies expected if two variables were unrelated, producing a statistic used to judge whether any observed association is likely genuine or due to chance.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "quiz": [
-          {
-            "q": "What does the chi-square test for independence compare?",
-            "options": [
-              "Two unrelated sets of continuous measurements only",
-              "The mean and median of a single numeric data set",
-              "Observed frequencies to the frequencies expected if two variables were unrelated",
-              "The standard deviation of two samples"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What type of data is the chi-square test for independence designed to analyze?",
-            "options": [
-              "Categorical data",
-              "Only data measured in kilograms",
-              "Only data with a normal distribution",
-              "Only data collected over exactly one year"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a large chi-square statistic suggest about the two variables being tested?",
-            "options": [
-              "The sample size was too small to calculate any statistic",
-              "The observed association is less likely to be due to chance alone",
-              "The two variables are definitely completely unrelated",
-              "No conclusion can ever be drawn from the statistic"
+              "Numerical order only",
+              "Chronological order",
+              "Alphabetical order",
+              "A concept unrelated to reading"
             ],
             "answer": 1
           },
           {
-            "q": "What earlier statistical concept does the chi-square test build on to judge significance?",
+            "q": "Does a circular narrative structure return to its opening scene or idea by the end of the story?",
             "options": [
-              "Vector projections",
-              "The binomial theorem",
-              "The Pythagorean Theorem",
-              "Hypothesis testing"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the chi-square test for independence useful in analyzing survey or categorical data?",
-            "options": [
-              "It provides a way to test whether two categorical variables are related rather than independent",
-              "It removes the need for collecting any survey data",
-              "It only applies to a single categorical variable with no comparison",
-              "It can only be used with data that has no categories at all"
+              "Yes",
+              "Circular narratives always end in a completely random place with no connection to the start",
+              "No, circular narratives never return to their opening scene",
+              "A concept unrelated to circular narratives"
             ],
             "answer": 0
+          },
+          {
+            "q": "Which of these describes a non-linear narrative structure?",
+            "options": [
+              "A story told in perfect chronological order from start to finish",
+              "A story with absolutely no plot of any kind",
+              "A story that jumps between different points in time rather than moving straight from beginning to end",
+              "A recipe listing steps in order"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a non-linear structure to tell a story about a character’s memory or trauma?",
+            "options": [
+              "This concept has no connection to literature",
+              "It can mimic how memories are often experienced out of order, adding psychological depth",
+              "A non-linear structure never adds any depth to how a story is understood",
+              "Stories about memory must always be told in strict chronological order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a circular narrative structure leave a reader with a different understanding of the opening scene once they reach the end?",
+            "options": [
+              "A circular structure never changes how a reader understands the opening scene",
+              "The ending of a circular narrative never connects back to its beginning",
+              "New information revealed throughout the story can change how the reader interprets the earlier scene",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Reading: Fiction & Story Elements"
+      },
+      {
+        "subject": "Functions",
+        "title": "Trigonometry: An Introduction to the Unit Circle",
+        "summary": "Grade 9 Math strand: the unit circle is a circle with radius 1 centred at the origin, used to define sine and cosine values for any angle and connect trigonometry to coordinate geometry.",
+        "resourceLabel": "YouTube: Trigonometry: An Introduction to the Unit Circle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20An%20Introduction%20to%20the%20Unit%20Circle%20grade%2011%20educational",
+        "quiz": [
+          {
+            "q": "What is the radius of the unit circle?",
+            "options": [
+              "1",
+              "0",
+              "It has no fixed radius",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the unit circle centred?",
+            "options": [
+              "At the point (1, 1)",
+              "At the origin (0, 0)",
+              "It has no defined centre",
+              "At the point (5, 5)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two trigonometric values can be defined using coordinates on the unit circle?",
+            "options": [
+              "Only the slope and y-intercept",
+              "Only the radius and diameter",
+              "Sine and cosine",
+              "Only the area and circumference"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the significance of the unit circle in trigonometry?",
+            "options": [
+              "It cannot be used for any calculations",
+              "It provides a way to define sine and cosine for any angle",
+              "It replaces the need for angles entirely",
+              "It only works for angles less than 90 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The unit circle helps connect which two branches of mathematics?",
+            "options": [
+              "Only statistics and data management",
+              "Only geometry and financial literacy",
+              "Only arithmetic and probability",
+              "Trigonometry and coordinate geometry"
+            ],
+            "answer": 3
+          }
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Biology",
@@ -33311,63 +33358,77 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: The Sol-Gel Process and Ceramic Materials",
-        "summary": "Grade 11 Chemistry strand: the sol-gel process converts a liquid suspension of small particles, called a sol, into a solid, interconnected network, called a gel, allowing ceramic and glass materials to be synthesized at lower temperatures than traditional melting-based methods.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
-        "quiz": [
+        "title": "Review: Chemistry, Physics, and Biology Concepts",
+        "summary": "Grade 9 Science review: this lesson revisits stoichiometry, momentum, cellular respiration, organic chemistry, and population ecology covered across recent lessons.",
+        "resourceLabel": "YouTube: Review: Chemistry, Physics, and Biology Concepts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Physics%2C%20and%20Biology%20Concepts%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7Cfq0ilw7ps",
+        "videoUrls": [
           {
-            "q": "What does the sol-gel process convert a liquid suspension of particles into?",
-            "options": [
-              "A liquid with no particles remaining at all",
-              "A solid, interconnected network called a gel",
-              "A crystal identical to table salt",
-              "A pure gas with no solid material remaining"
-            ],
-            "answer": 1
+            "label": "Stoichiometry",
+            "url": "https://www.youtube.com/watch?v=7Cfq0ilw7ps"
           },
           {
-            "q": "What is a sol in the sol-gel process?",
-            "options": [
-              "A fully hardened solid material",
-              "A gas released during the reaction",
-              "A type of strong acid used only for cleaning",
-              "A liquid suspension of small particles"
-            ],
-            "answer": 3
+            "label": "Momentum",
+            "url": "https://www.youtube.com/watch?v=NIVNfI0RN2k"
           },
           {
-            "q": "What advantage does the sol-gel process offer over traditional melting-based ceramic synthesis?",
-            "options": [
-              "It can only be used to produce liquids, never solids",
-              "It allows materials to be synthesized at lower temperatures",
-              "It requires significantly higher temperatures than melting methods",
-              "It eliminates the need for any starting material"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What general category of materials is commonly produced using the sol-gel process?",
-            "options": [
-              "Organic polymers exclusively",
-              "Ceramic and glass materials",
-              "Pure metals with no ceramic content",
-              "Radioactive isotopes"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What structural change occurs to the particles as a sol transforms into a gel?",
-            "options": [
-              "They shrink to a size too small to detect",
-              "They dissolve entirely and disappear from the mixture",
-              "They separate completely and disperse into a gas",
-              "They link together into a solid, interconnected network"
-            ],
-            "answer": 3
+            "label": "Cellular Respiration",
+            "url": "https://www.youtube.com/watch?v=eJ9Zjc-jdys"
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "quiz": [
+          {
+            "q": "Stoichiometry uses mole ratios to calculate ___.",
+            "options": [
+              "The amounts of reactants and products in a reaction",
+              "The colour of a chemical reaction",
+              "A value unrelated to chemical reactions",
+              "The exact temperature of a reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Momentum is calculated as ___.",
+            "options": [
+              "Mass times velocity",
+              "Mass plus velocity",
+              "Mass divided by velocity",
+              "Velocity alone, with no connection to mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Cellular respiration breaks down ___ to release usable energy.",
+            "options": [
+              "Carbon dioxide only",
+              "Glucose",
+              "Oxygen only",
+              "Water only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Organic chemistry is the study of compounds based primarily on ___.",
+            "options": [
+              "Helium",
+              "A concept unrelated to any specific element",
+              "Carbon",
+              "Oxygen only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to review chemistry, physics, and biology concepts together?",
+            "options": [
+              "These topics are entirely unrelated to each other",
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "Review provides no benefit in science",
+              "Each topic must always be studied in isolation"
+            ],
+            "answer": 1
+          }
+        ]
       }
     ]
   },
@@ -33623,122 +33684,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: The Lyric Essay — Blending Poetry and Prose in Nonfiction",
-        "summary": "Grade 11 English strand: a lyric essay is a hybrid nonfiction form that borrows the imagery, white space, and associative logic of poetry while retaining the essays grounding in reflection and factual material, often favouring fragmented structure over linear argument.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Grammar: Cumulative and Periodic Sentences",
+        "summary": "Grade 9 Language strand: a cumulative sentence starts with the main idea and adds details afterward, while a periodic sentence delays the main idea until the very end, creating suspense or emphasis.",
+        "resourceLabel": "YouTube: Grammar: Cumulative and Periodic Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Cumulative%20and%20Periodic%20Sentences%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a lyric essay?",
+            "q": "What is a cumulative sentence?",
             "options": [
-              "A hybrid nonfiction form that blends poetic technique with essayistic reflection",
-              "A form of formal legal writing",
-              "A strictly factual news report with no reflection",
-              "A type of multiple-choice test"
+              "A sentence that starts with the main idea and adds details afterward",
+              "A sentence with no main idea at all",
+              "A sentence that always begins with a question",
+              "A sentence with only one word"
             ],
             "answer": 0
           },
           {
-            "q": "Which poetic qualities does a lyric essay often borrow?",
+            "q": "What is a periodic sentence?",
             "options": [
-              "Strict legal terminology and citations",
-              "Imagery, white space, and associative logic",
-              "A rigid five-paragraph structure with no flexibility",
-              "Mathematical formulas and equations"
+              "A sentence that is always short",
+              "A sentence that delays the main idea until the very end",
+              "A sentence that repeats the same word many times",
+              "A sentence with no punctuation"
             ],
             "answer": 1
           },
           {
-            "q": "How does a lyric essay typically differ from a traditional linear essay?",
+            "q": "What effect can a periodic sentence create?",
             "options": [
-              "It always follows a strict, unbroken chronological argument",
-              "It is required to be exactly one paragraph long",
-              "It often favours fragmented structure over a single continuous argument",
-              "It never includes any reflection or imagery"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does a lyric essay retain from the essay tradition despite its poetic qualities?",
-            "options": [
-              "A complete absence of any factual content",
-              "A grounding in reflection and factual material",
-              "A requirement to rhyme throughout",
-              "A strict prohibition on personal reflection"
+              "Confusion with no clear purpose",
+              "Suspense or emphasis by delaying the key point",
+              "Immediate clarity with no build-up",
+              "A complete lack of meaning"
             ],
             "answer": 1
           },
           {
-            "q": "Why might associative logic suit the lyric essay form?",
+            "q": "Which is an example of a periodic sentence?",
             "options": [
-              "Associative logic is forbidden in nonfiction writing",
-              "It allows ideas and images to connect by resonance rather than strict linear argument",
-              "Associative logic requires every idea to follow a strict numbered outline",
-              "It eliminates the need for any connection between ideas"
+              "Years passed and she won eventually, somehow, finally.",
+              "After years of preparation, countless sacrifices, and endless practice, she finally won.",
+              "She won after years of preparation.",
+              "She won."
             ],
             "answer": 1
+          },
+          {
+            "q": "Why might a writer choose a cumulative sentence structure?",
+            "options": [
+              "To hide the main idea entirely",
+              "To make the sentence ungrammatical",
+              "To avoid using any details",
+              "To state the main idea clearly before elaborating with details"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Phonics & Word Recognition"
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Functions",
-        "title": "Complex Numbers: Polar Form and Eulers Formula",
-        "summary": "Grade 11 Functions strand: Eulers formula expresses a complex number in exponential form as e raised to i theta, connecting the polar form of a complex number to the exponential function and providing a compact way to represent magnitude and angle together.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Data Management: An Introduction to Geometric Probability",
+        "summary": "Grade 9 Math strand: geometric probability calculates the likelihood of an event based on area, length, or volume rather than counting discrete outcomes, such as finding the chance a randomly thrown dart lands in a specific region.",
+        "resourceLabel": "YouTube: Data Management: An Introduction to Geometric Probability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20An%20Introduction%20to%20Geometric%20Probability%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does Eulers formula express a complex number in terms of?",
+            "q": "What does geometric probability use to calculate likelihood?",
             "options": [
-              "A simple linear equation with no imaginary component",
-              "A polynomial with no complex terms",
-              "Only real numbers, with no reference to angles",
-              "An exponential function involving the imaginary unit and an angle"
+              "Area, length, or volume rather than counting discrete outcomes",
+              "Only the colour of an object",
+              "Only the time of day",
+              "Only the number of people in a room"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which scenario is a good example of geometric probability?",
+            "options": [
+              "Flipping a coin once",
+              "Rolling a single six-sided die",
+              "Choosing a card from a standard deck",
+              "Finding the chance a randomly thrown dart lands in a specific region of a board"
             ],
             "answer": 3
           },
           {
-            "q": "What two pieces of information does the exponential form of a complex number represent together?",
+            "q": "If a small target region takes up 25% of a larger boards area, what is the geometric probability of landing in that region with a random hit?",
             "options": [
-              "Magnitude and angle",
-              "The slope and y-intercept of a line",
-              "Only the real part, with no imaginary part",
-              "The degree of a polynomial and its roots"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What earlier form of a complex number is directly connected to the exponential form through Eulers formula?",
-            "options": [
-              "Slope-intercept form",
-              "Standard form of a linear equation",
-              "Polar form",
-              "Vertex form of a parabola"
+              "0%",
+              "75%",
+              "25%",
+              "100%"
             ],
             "answer": 2
           },
           {
-            "q": "Why is exponential form often convenient for multiplying complex numbers?",
+            "q": "How does geometric probability differ from counting-based probability?",
             "options": [
-              "Multiplying in exponential form requires converting to a matrix first",
-              "Multiplying exponential forms simply adds the angles and multiplies the magnitudes",
-              "Exponential form only allows addition, never multiplication",
-              "Exponential form makes multiplication of complex numbers impossible"
+              "It is identical in every way to counting-based probability",
+              "It uses continuous measurements like area instead of counting individual outcomes",
+              "It can only be used with whole numbers",
+              "It never involves any numbers"
             ],
             "answer": 1
           },
           {
-            "q": "What does the angle theta represent in the exponential form of a complex number?",
+            "q": "Geometric probability problems are often visualized using ___.",
             "options": [
-              "The direction of the complex number measured from the positive real axis",
-              "A value that has no geometric meaning",
-              "The magnitude of the complex number only",
-              "The real part of the complex number only"
+              "Only word problems with no diagrams",
+              "Only sound recordings",
+              "Diagrams showing regions and their relative areas",
+              "Only historical data with no visuals"
             ],
-            "answer": 0
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Biology",
@@ -33802,58 +33864,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Hemoglobin — Iron Coordination and Oxygen Transport",
-        "summary": "Grade 11 Chemistry strand: hemoglobin contains an iron ion held within a porphyrin ring through coordinate covalent bonds, and this iron coordination centre reversibly binds a single oxygen molecule, allowing hemoglobin to pick up oxygen in the lungs and release it in the bodys tissues.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Redox Reactions: Oxidation and Reduction",
+        "summary": "Grade 9 Science Chemistry strand: a redox reaction involves the transfer of electrons between substances, where oxidation is the loss of electrons and reduction is the gain of electrons.",
+        "resourceLabel": "YouTube: Redox Reactions: Oxidation and Reduction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Redox%20Reactions%3A%20Oxidation%20and%20Reduction%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DvYs1HILq1g",
         "quiz": [
           {
-            "q": "What metal ion is held within hemoglobins porphyrin ring?",
+            "q": "A redox reaction involves the transfer of ___ between substances.",
             "options": [
-              "Iron",
-              "Calcium",
-              "Sodium",
-              "Copper"
+              "Protons only, with no electron involvement",
+              "Neutrons",
+              "Electrons",
+              "A particle unrelated to chemical reactions"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What type of bonds hold the iron ion within the porphyrin ring in hemoglobin?",
+            "q": "Oxidation is defined as the ___ of electrons.",
             "options": [
-              "Ionic bonds only",
-              "Coordinate covalent bonds",
-              "Hydrogen bonds only",
-              "Metallic bonds only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the iron coordination centre in hemoglobin reversibly bind?",
-            "options": [
-              "A glucose molecule",
-              "A single oxygen molecule",
-              "A sodium ion",
-              "A single carbon atom permanently"
+              "Complete elimination",
+              "Loss",
+              "A process unrelated to electrons",
+              "Gain"
             ],
             "answer": 1
           },
           {
-            "q": "Why must the binding of oxygen to hemoglobins iron centre be reversible?",
+            "q": "Reduction is defined as the ___ of electrons.",
             "options": [
-              "Oxygen needs to be released again once it reaches the bodys tissues",
-              "Hemoglobin only binds oxygen once during its entire lifetime",
-              "Reversibility has no importance for hemoglobins function",
-              "Oxygen should remain permanently bound and never released"
+              "A process unrelated to electrons",
+              "Complete elimination",
+              "Loss",
+              "Gain"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Where does hemoglobin typically pick up oxygen, according to its transport role?",
+            "q": "Why must oxidation and reduction always occur together in a redox reaction?",
             "options": [
-              "In the lungs",
-              "In the stomach",
-              "In the skin",
-              "In the kidneys"
+              "Oxidation and reduction never occur within the same reaction",
+              "Electrons can be created or destroyed freely in these reactions",
+              "Electrons lost by one substance must be gained by another",
+              "Reduction always occurs with no connection to oxidation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a redox reaction?",
+            "options": [
+              "Iron rusting as it reacts with oxygen",
+              "Water evaporating into vapour",
+              "A process unrelated to electron transfer",
+              "Ice melting into liquid water"
             ],
             "answer": 0
           }
@@ -33927,63 +33990,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Graph Isomorphism — Comparing Graph Structures",
-        "summary": "Grade 11 Functions strand: two graphs are isomorphic if their vertices can be matched up so that connections between corresponding vertices are perfectly preserved, meaning the graphs have identical structure even if they are drawn or labelled differently.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Math Review: Advanced Algebra, Trigonometry, and Data",
+        "summary": "Grade 9 Math strand review: students revisit the Binomial Theorem, the unit circle, complex numbers, the Remainder and Factor Theorems, derivatives, conic sections, the Fibonacci sequence, parametric equations, and geometric probability.",
+        "resourceLabel": "YouTube: Math Review: Advanced Algebra, Trigonometry, and Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Advanced%20Algebra%2C%20Trigonometry%2C%20and%20Data%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does it mean for two graphs to be isomorphic?",
+            "q": "What does the Binomial Theorem help you do?",
             "options": [
-              "One graph must always be a subset of the other with fewer vertices",
-              "They can never be drawn using the same number of edges",
-              "They must have a completely different number of vertices",
-              "Their vertices can be matched so that connections are perfectly preserved between them"
+              "Find the area of a circle",
+              "Simplify fractions only",
+              "Expand expressions of the form (a+b)^n without multiplying repeatedly",
+              "Solve any linear equation instantly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a complex number?",
+            "options": [
+              "Only a whole number",
+              "A number combining a real part and an imaginary part",
+              "A number with no value",
+              "Only a negative number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a derivative measure?",
+            "options": [
+              "The total area under a curve",
+              "Only the maximum value of a function",
+              "A fixed value that never changes",
+              "The instantaneous rate of change of a function at a point"
             ],
             "answer": 3
           },
           {
-            "q": "What can differ between two isomorphic graphs even though their structure is identical?",
+            "q": "What are conic sections?",
             "options": [
-              "The number of edges each graph contains",
-              "The number of vertices each graph contains",
-              "Whether the graphs are connected at all",
-              "How they are drawn or labelled"
+              "A type of algebraic expression only",
+              "A method for solving linear equations",
+              "A type of matrix",
+              "Curves formed by slicing a cone at different angles"
             ],
             "answer": 3
           },
           {
-            "q": "What must be true of corresponding vertices in two isomorphic graphs?",
+            "q": "How is each new number in the Fibonacci sequence generated?",
             "options": [
-              "They must have the same degree and connection pattern",
-              "They must have completely different degrees",
-              "They must be positioned at identical coordinates on the page",
-              "They must be labelled with the same letters in both graphs"
+              "By squaring the previous number",
+              "By multiplying the previous number by two",
+              "By subtracting one from the previous number",
+              "By adding the two previous numbers together"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is checking vertex degree sequences a useful first step in testing for graph isomorphism?",
-            "options": [
-              "Graphs with different degree sequences cannot possibly be isomorphic",
-              "Degree sequences can only be calculated for planar graphs",
-              "Matching degree sequences alone always proves two graphs are isomorphic",
-              "Degree sequences have no relationship to graph isomorphism"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is determining graph isomorphism sometimes computationally difficult for large graphs?",
-            "options": [
-              "The number of possible vertex matchings to check can grow extremely quickly with graph size",
-              "Large graphs never have more than one possible vertex matching",
-              "Graph isomorphism becomes trivial once a graph has more than ten vertices",
-              "Computational difficulty has no connection to the number of vertices"
-            ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Biology",
@@ -34171,63 +34233,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: An Introduction to Continued Fractions",
-        "summary": "Grade 11 Functions strand: a continued fraction expresses a number as a whole number plus a fraction whose denominator is itself a whole number plus another fraction, a nested structure that can represent both rational numbers exactly and irrational numbers through an infinite pattern.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Trigonometry: The Pythagorean Trigonometric Identity",
+        "summary": "Grade 9 Math strand: the Pythagorean trigonometric identity states that sine squared plus cosine squared of an angle always equals one, a relationship derived directly from the Pythagorean Theorem applied to the unit circle.",
+        "resourceLabel": "YouTube: Trigonometry: The Pythagorean Trigonometric Identity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Pythagorean%20Trigonometric%20Identity%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What structure does a continued fraction use to express a number?",
+            "q": "What does the Pythagorean trigonometric identity state?",
             "options": [
-              "A single, unbroken decimal with no fractions",
-              "A single whole number with no fractional part at all",
-              "A nested sequence of whole numbers plus fractions within fractions",
-              "A list of unrelated prime numbers"
+              "Sine minus cosine always equals one",
+              "Tangent squared always equals negative one",
+              "Sine plus cosine always equals zero",
+              "Sine squared plus cosine squared of an angle equals one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "From what earlier concept is the Pythagorean trigonometric identity derived?",
+            "options": [
+              "The quadratic formula",
+              "The Pythagorean Theorem applied to the unit circle",
+              "The binomial theorem",
+              "The distance formula only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If sine of an angle is 0, what must cosine squared equal, according to the identity?",
+            "options": [
+              "-1",
+              "2",
+              "1",
+              "0"
             ],
             "answer": 2
           },
           {
-            "q": "Can a continued fraction represent a rational number exactly?",
+            "q": "Why is this identity considered fundamental in trigonometry?",
             "options": [
-              "No, continued fractions cannot represent any number exactly",
-              "Yes, a rational number corresponds to a finite continued fraction",
-              "Only negative rational numbers can be represented this way",
-              "No, continued fractions can only represent irrational numbers"
+              "It only works for angles greater than 360 degrees",
+              "It has no use beyond a single specific angle",
+              "It connects sine and cosine for any angle and supports many other identities",
+              "It contradicts the definitions of sine and cosine"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "How does a continued fraction typically represent an irrational number?",
+            "q": "The Pythagorean trigonometric identity applies to ___.",
             "options": [
-              "Through an infinite, non-terminating nested pattern",
-              "Irrational numbers cannot be approximated by continued fractions at all",
-              "Through a whole number with no fractional part",
-              "Through a single terminating fraction only"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What earlier algorithm is closely connected to computing continued fraction expansions?",
-            "options": [
-              "The binomial theorem",
-              "The Euclidean algorithm",
-              "Synthetic division",
-              "The quadratic formula"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might continued fractions be useful for finding good rational approximations of irrational numbers?",
-            "options": [
-              "Continued fractions always produce worse approximations than simple decimals",
-              "They can only be used with whole numbers, never approximations",
-              "Truncating a continued fraction always produces the exact irrational value",
-              "Truncating the nested pattern early produces increasingly accurate rational approximations"
+              "Only angles less than 10 degrees",
+              "Only angles measured in a right triangle",
+              "Only angles equal to exactly 90 degrees",
+              "Any angle, since it holds true for all real values"
             ],
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "topic": "Trigonometry"
       },
       {
         "subject": "Biology",
@@ -34290,62 +34352,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Shape-Memory Alloys and Solid-State Phase Transitions",
-        "summary": "Grade 11 Chemistry strand: a shape-memory alloy such as nitinol can be deformed at a lower temperature and then return to its original engineered shape when heated, a behaviour driven by a reversible solid-state phase transition between two distinct crystal structures.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Sound Waves and the Doppler Effect",
+        "summary": "Grade 9 Science Physics strand: the Doppler effect describes the change in a sound wave’s perceived frequency when its source is moving relative to an observer, such as a siren sounding higher-pitched as it approaches.",
+        "resourceLabel": "YouTube: Sound Waves and the Doppler Effect",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20Waves%20and%20the%20Doppler%20Effect%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w8gXEfbdEIY",
         "quiz": [
           {
-            "q": "What is a shape-memory alloy?",
+            "q": "The Doppler effect describes a change in a wave’s perceived ___ due to relative motion between source and observer.",
             "options": [
-              "A metal alloy that can return to its original shape when heated after being deformed",
-              "A non-metal material used only in electronics",
-              "A metal alloy that permanently loses its shape once bent",
-              "A metal alloy with no ability to change shape at all"
+              "A property unrelated to sound waves",
+              "Colour",
+              "Frequency",
+              "Only its speed of light"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is nitinol an example of?",
+            "q": "As a sound source moves toward an observer, the perceived pitch typically ___.",
             "options": [
-              "A type of ceramic material",
-              "A pure element with no alloying",
-              "A radioactive isotope",
-              "A shape-memory alloy"
+              "Remains completely unaffected by the motion",
+              "Becomes completely silent",
+              "Increases",
+              "Decreases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As a sound source moves away from an observer, the perceived pitch typically ___.",
+            "options": [
+              "Increases",
+              "Remains completely unaffected by the motion",
+              "Becomes completely silent",
+              "Decreases"
             ],
             "answer": 3
           },
           {
-            "q": "What drives the shape-recovering behaviour of a shape-memory alloy?",
+            "q": "Which is a common real-world example of the Doppler effect?",
             "options": [
-              "An external magnetic field with no relation to crystal structure",
-              "A process identical to simple thermal expansion in any metal",
-              "A reversible solid-state phase transition between two crystal structures",
-              "A chemical reaction that permanently destroys the metal"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Under what condition is a shape-memory alloy typically deformed before it later recovers its shape?",
-            "options": [
-              "Only while submerged in water",
-              "At an extremely high temperature above its melting point",
-              "At a lower temperature",
-              "Only after being melted completely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to a deformed shape-memory alloy when it is heated?",
-            "options": [
-              "It returns to its original engineered shape",
-              "It becomes permanently more deformed",
-              "It shatters into small fragments",
-              "It melts completely into a liquid"
+              "A siren sounding higher-pitched as an ambulance approaches, then lower as it passes",
+              "A concept unrelated to sound waves",
+              "A sound that never changes in pitch under any circumstances",
+              "A stationary object producing a constantly increasing pitch"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why is the Doppler effect relevant beyond sound waves, such as in astronomy?",
+            "options": [
+              "This concept has no connection to any other type of wave",
+              "The Doppler effect only applies to sound and has no other applications",
+              "Astronomy never makes use of wave-related phenomena",
+              "A similar shift can be observed in light waves, helping scientists study the motion of distant objects"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Light & Sound"
       }
     ]
   },
@@ -34414,62 +34478,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Calculus, Discrete Math, Number Theory, and Statistics",
-        "summary": "Grade 11 Functions strand review: students revisit the power rule for derivatives, tangent line equations, Eulers formula for planar graphs, linear congruences, the chi-square test, the rule of 72, polar form and Eulers formula for complex numbers, graph isomorphism, and continued fractions.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Algebra: Solving Radical Equations",
+        "summary": "Grade 9 Math strand: a radical equation contains a variable inside a radical, and solving one typically involves isolating the radical, then raising both sides of the equation to a matching power to remove it, followed by checking for extraneous solutions.",
+        "resourceLabel": "YouTube: Algebra: Solving Radical Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Radical%20Equations%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the power rule provide?",
+            "q": "What defines a radical equation?",
             "options": [
-              "A rule for simplifying fractions only",
-              "A method for factoring quadratic equations",
-              "A quick algebraic shortcut for differentiating polynomial terms",
-              "A way to calculate the area under any curve exactly"
+              "An equation in which a variable appears inside a radical, such as a square root",
+              "An equation that cannot be graphed",
+              "An equation with no variables of any kind",
+              "An equation that only involves whole number coefficients"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What does Eulers formula state for a connected planar graph?",
+            "q": "What is a common first step in solving a radical equation?",
             "options": [
-              "Edges minus vertices always equals 0",
-              "Vertices plus edges always equals faces",
-              "Faces always equal twice the number of vertices",
-              "Vertices minus edges plus faces always equals 2"
+              "Multiplying both sides by zero",
+              "Deleting the radical without performing any operation",
+              "Immediately squaring every term with no isolation first",
+              "Isolating the radical on one side of the equation"
             ],
             "answer": 3
           },
           {
-            "q": "What does the chi-square test for independence compare?",
+            "q": "After isolating a square root, what operation removes it from the equation?",
             "options": [
-              "Two unrelated sets of continuous measurements only",
-              "The standard deviation of two samples",
-              "Observed frequencies to the frequencies expected if two variables were unrelated",
-              "The mean and median of a single numeric data set"
+              "Dividing both sides by the variable",
+              "Taking the square root of both sides again",
+              "Squaring both sides of the equation",
+              "Adding one to both sides"
             ],
             "answer": 2
           },
           {
-            "q": "What does the rule of 72 estimate?",
+            "q": "Why must solutions to a radical equation always be checked in the original equation?",
             "options": [
-              "The exact interest rate of any loan",
-              "The total value of an investment after exactly one year",
-              "The number of years needed for an investment to double in value",
-              "The number of payments in a mortgage"
+              "Squaring both sides never changes the set of valid solutions",
+              "Radical equations always have exactly one guaranteed solution",
+              "Checking solutions is never necessary once an equation is solved",
+              "Squaring both sides can introduce extraneous solutions that do not actually satisfy the original equation"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What does it mean for two graphs to be isomorphic?",
+            "q": "If solving x = sqrt(x+2) produces a candidate solution of x=-1, why would this be rejected?",
             "options": [
-              "They can never be drawn using the same number of edges",
-              "Their vertices can be matched so that connections are perfectly preserved between them",
-              "They must have a completely different number of vertices",
-              "One graph must always be a subset of the other with fewer vertices"
+              "Negative numbers can never appear anywhere in a radical equation",
+              "Substituting -1 back into the original equation does not produce a true statement",
+              "The candidate solution must always be accepted without checking",
+              "The equation has no valid solutions under any circumstances"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Square Roots & Radicals"
       },
       {
         "subject": "Biology",
@@ -34532,62 +34597,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry Review: Isomerism, Materials Chemistry, and Applied Reactions",
-        "summary": "Grade 11 Chemistry strand review: students revisit isomerism in coordination compounds, saponification, water softening, silicone polymers, the sol-gel process, fluoride chemistry, hemoglobin, freezing point depression, and shape-memory alloys.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Electric Fields and Static Discharge",
+        "summary": "Grade 9 Science Physics strand: an electric field surrounds a charged object and exerts a force on other charges within it, and static discharge occurs when built-up static electricity suddenly transfers between objects.",
+        "resourceLabel": "YouTube: Electric Fields and Static Discharge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Fields%20and%20Static%20Discharge%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dcleFSS4BWw",
         "quiz": [
           {
-            "q": "What is geometric isomerism in a coordination compound?",
+            "q": "An electric field surrounds a charged object and exerts a force on ___.",
             "options": [
-              "A difference in the mass of the central metal ion",
-              "A reaction that produces an entirely different chemical formula",
-              "Ligands occupying different spatial arrangements around the central metal ion",
-              "A change in the total number of electrons in the compound"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is saponification?",
-            "options": [
-              "A reaction that only occurs between two acids",
-              "A reaction that converts soap back into a fat or oil",
-              "The hydrolysis reaction of a fat or oil with a strong base to form soap",
-              "A purely physical process with no chemical reaction involved"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What ions are primarily responsible for water hardness?",
-            "options": [
-              "Hydrogen and oxygen ions",
-              "Sodium and chlorine ions",
-              "Calcium and magnesium ions",
-              "Potassium and fluorine ions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What forms the backbone of a silicone polymer?",
-            "options": [
-              "An alternating chain of silicon and oxygen atoms",
-              "A chain made entirely of nitrogen atoms",
-              "A chain made entirely of carbon atoms",
-              "A single metal atom with no chain at all"
+              "Other charges within that field",
+              "Nothing, as electric fields exert no force",
+              "A concept unrelated to electricity",
+              "Only objects with no charge at all"
             ],
             "answer": 0
           },
           {
-            "q": "What metal ion is held within hemoglobins porphyrin ring?",
+            "q": "Static discharge occurs when ___.",
             "options": [
-              "Copper",
-              "Iron",
-              "Sodium",
-              "Calcium"
+              "Built-up static electricity suddenly transfers between objects",
+              "A concept unrelated to static electricity",
+              "An object loses all electrical properties permanently",
+              "Electric charge is permanently trapped with no possible transfer"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common everyday example of static discharge?",
+            "options": [
+              "Feeling a small shock after touching a doorknob on a dry day",
+              "A situation with no connection to static electricity",
+              "A process unrelated to electric fields",
+              "An object that never builds up any electric charge"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might friction, such as rubbing a balloon on hair, cause a build-up of static charge?",
+            "options": [
+              "Electrons can never be transferred between materials through friction",
+              "Friction never has any effect on electric charge",
+              "Friction can transfer electrons between materials, leaving one object with excess charge",
+              "Static charge only occurs without any physical contact between objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding electric fields important in fields like electronics engineering?",
+            "options": [
+              "It helps explain how charged components interact and influence one another in a circuit or device",
+              "Electric fields have no relevance to electronics or engineering",
+              "This concept only applies to naturally occurring static electricity, not engineered devices",
+              "Electric fields never influence how electronic components function"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       }
     ]
   },
@@ -34597,63 +34664,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Poetry: The Sestina and the Discipline of Fixed Forms",
-        "summary": "Grade 11 English strand: a sestina is a fixed 39-line poem built on six end-words repeated in a rotating pattern across six stanzas plus a shorter three-line envoi, and the discipline of hitting every rotation while still saying something new tests a poets control of language.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Writing: The Elegy and Occasional Writing",
+        "summary": "Grade 9 Language strand: an elegy is a reflective poem or piece of writing that mourns a loss, often a persons death, using formal, contemplative language to express grief and honour memory.",
+        "resourceLabel": "YouTube: Writing: The Elegy and Occasional Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Elegy%20and%20Occasional%20Writing%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What defines a sestina?",
+            "q": "What is an elegy?",
             "options": [
-              "A fixed 39-line poem that repeats six end-words in a rotating pattern across six stanzas plus an envoi",
-              "A single rhymed couplet repeated indefinitely",
-              "A poem written entirely in prose",
-              "A poem with no fixed length or repeated words"
+              "A reflective poem or piece of writing that mourns a loss",
+              "A type of business letter",
+              "A scientific report format",
+              "A humorous poem with no serious tone"
             ],
             "answer": 0
           },
           {
-            "q": "How many end-words does a sestina rotate through its six main stanzas?",
+            "q": "What tone does an elegy typically use?",
             "options": [
-              "Fourteen",
-              "Twelve",
-              "Three",
-              "Six"
+              "A tone with no emotional content",
+              "An aggressive and mocking tone",
+              "A purely comedic tone",
+              "A formal, contemplative tone expressing grief and reflection"
             ],
             "answer": 3
           },
           {
-            "q": "What is the short final stanza of a sestina called?",
+            "q": "What is an elegy commonly written to honour?",
             "options": [
-              "The stanza break",
-              "The chorus",
-              "The envoi",
-              "The prologue"
+              "The memory of someone who has died",
+              "A recipe for a meal",
+              "A new invention",
+              "A sports victory"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What makes writing a sestina especially challenging for a poet?",
+            "q": "Occasional writing refers to writing composed for what purpose?",
             "options": [
-              "Sestinas have no required structure at all",
-              "Sestinas must rhyme every line with every other line",
-              "Repeating the same six end-words in a fixed rotation while keeping meaning fresh",
-              "Sestinas forbid the poet from using any end-word twice"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a poet choose a fixed form like the sestina rather than free verse?",
-            "options": [
-              "Fixed forms guarantee a poem will be published",
-              "The formal constraint can push the poet toward unexpected connections and disciplined craft",
-              "Free verse is always considered a fixed form",
-              "Fixed forms remove all creative choices from the poet"
+              "Only fictional stories with no real-world connection",
+              "A specific event or occasion, such as a memorial or celebration",
+              "No specific purpose at all",
+              "Only technical manuals"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why might a writer choose formal language in an elegy?",
+            "options": [
+              "Formal language is never appropriate for this purpose",
+              "To make the subject seem unimportant",
+              "To confuse the reader intentionally",
+              "To convey the seriousness and depth of the loss being honoured"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Writing"
       },
       {
         "subject": "Functions",
@@ -34776,63 +34843,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Zeolites and Molecular Sieves in Catalysis and Purification",
-        "summary": "Grade 11 Chemistry strand: zeolites are microporous aluminosilicate minerals whose uniform, cage-like pores act as molecular sieves, selectively trapping or excluding molecules by size, which makes them useful as catalysts in industrial reactions and as agents for water and gas purification.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Solutions and Solubility: Concentration and Saturation",
+        "summary": "Grade 9 Science Chemistry strand: a solution forms when a solute dissolves in a solvent, concentration describes the amount of solute relative to solvent, and a saturated solution has dissolved the maximum amount of solute possible at a given temperature.",
+        "resourceLabel": "YouTube: Solutions and Solubility: Concentration and Saturation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solutions%20and%20Solubility%3A%20Concentration%20and%20Saturation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cHBlDVg9nR8",
         "quiz": [
           {
-            "q": "What type of material is a zeolite?",
+            "q": "A solution forms when a ___ dissolves in a solvent.",
             "options": [
-              "A microporous aluminosilicate mineral",
-              "A type of simple organic solvent",
-              "A noble gas used only in lighting",
-              "A pure metal with no porous structure"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How do zeolites act as molecular sieves?",
-            "options": [
-              "They have no pores of any kind",
-              "Their uniform, cage-like pores selectively trap or exclude molecules by size",
-              "They dissolve every molecule that touches them",
-              "They repel all molecules regardless of size"
+              "A substance that never mixes with a solvent",
+              "Solute",
+              "Solvent, dissolving into itself",
+              "A concept unrelated to chemistry"
             ],
             "answer": 1
           },
           {
-            "q": "What industrial role can zeolites play beyond purification?",
+            "q": "Concentration describes the amount of ___ relative to solvent in a solution.",
             "options": [
-              "They can only be used as decorative building materials",
-              "They function only as electrical insulators",
-              "Zeolites have no industrial applications at all",
-              "They can act as catalysts in industrial reactions"
+              "Only the solvent, with no connection to solute",
+              "Temperature exclusively",
+              "A property unrelated to solutions",
+              "Solute"
             ],
             "answer": 3
           },
           {
-            "q": "What property of zeolites makes them useful for water purification?",
+            "q": "A saturated solution has dissolved ___.",
             "options": [
-              "They instantly evaporate any water they contact",
-              "Their pores can selectively trap contaminant molecules by size",
-              "They have no effect on water composition at all",
-              "They chemically convert water into a different compound"
+              "No solute whatsoever",
+              "The maximum amount of solute possible at a given temperature",
+              "An unlimited amount of solute regardless of temperature",
+              "A concept unrelated to solubility"
             ],
             "answer": 1
           },
           {
-            "q": "What structural feature gives zeolites their selective trapping ability?",
+            "q": "Why might increasing the temperature of a solvent, such as water, allow more solute to dissolve?",
             "options": [
-              "A complete absence of any internal structure",
-              "Their uniform, cage-like pore structure",
-              "A random, constantly changing pore size",
-              "A single large cavity with no defined shape"
+              "Temperature never affects how much solute can dissolve",
+              "This concept has no connection to solubility",
+              "Increasing temperature always decreases solubility for every solute",
+              "Higher temperatures often increase a solvent’s capacity to dissolve certain solutes"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a solution encountered in everyday life?",
+            "options": [
+              "Sand mixed with water that settles to the bottom",
+              "Oil floating on top of water with no mixing",
+              "Salt fully dissolved in water",
+              "A concept unrelated to solutions"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Matter & Materials"
       }
     ]
   },
@@ -35021,60 +35089,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Ionic Liquids — Properties and Green Chemistry Applications",
-        "summary": "Grade 11 Chemistry strand: an ionic liquid is a salt that remains liquid near room temperature because its bulky, asymmetric ions resist packing into a solid crystal lattice, and its negligible vapour pressure makes it attractive as a safer, less volatile solvent in green chemistry applications.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Friction, Air Resistance, and Terminal Velocity",
+        "summary": "Grade 9 Science Physics strand: friction is a force that opposes motion between surfaces in contact, air resistance is a form of friction from air molecules, and terminal velocity occurs when a falling object’s speed becomes constant as air resistance balances gravity.",
+        "resourceLabel": "YouTube: Friction, Air Resistance, and Terminal Velocity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Friction%2C%20Air%20Resistance%2C%20and%20Terminal%20Velocity%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is an ionic liquid?",
+            "q": "Friction is best described as a force that ___.",
             "options": [
-              "A gas composed entirely of neutral molecules",
-              "A pure covalent compound with no charged particles",
-              "A solid metal alloy with no ionic character",
-              "A salt that remains liquid near room temperature"
+              "A concept unrelated to physics",
+              "Has no effect on moving objects",
+              "Always increases an object’s speed",
+              "Opposes motion between surfaces in contact"
             ],
             "answer": 3
           },
           {
-            "q": "Why do ionic liquids resist forming a solid crystal lattice at room temperature?",
+            "q": "Air resistance is a form of friction caused by ___.",
             "options": [
-              "Their bulky, asymmetric ions resist packing into an ordered structure",
-              "They are chemically identical to water",
-              "Their ions are perfectly symmetric and pack together instantly",
-              "They contain no ions of any kind"
+              "A concept unrelated to friction",
+              "Gravity acting alone, with no connection to air",
+              "A vacuum with no molecules present at all",
+              "Air molecules interacting with a moving object"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Terminal velocity occurs when a falling object’s speed becomes ___.",
+            "options": [
+              "Constant, as air resistance balances the force of gravity",
+              "Continuously increasing with no upper limit",
+              "A concept unrelated to falling objects",
+              "Zero, as the object stops moving entirely"
             ],
             "answer": 0
           },
           {
-            "q": "What property of ionic liquids makes them attractive as safer solvents?",
+            "q": "Why might a skydiver reach terminal velocity before opening a parachute?",
             "options": [
-              "Their extremely high vapour pressure",
-              "Their negligible vapour pressure",
-              "Their complete lack of any solvent properties",
-              "Their tendency to explode at room temperature"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What field commonly explores ionic liquids as an alternative to volatile organic solvents?",
-            "options": [
-              "Competitive athletics",
-              "Green chemistry",
-              "Musicology",
-              "Astronomy"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a low vapour pressure reduce the risk associated with a solvent?",
-            "options": [
-              "A low vapour pressure guarantees a solvent is edible",
-              "Vapour pressure has no relationship to solvent safety",
-              "It lowers the chance of harmful vapours evaporating into the surrounding air",
-              "A low vapour pressure always increases the risk of an explosion"
+              "This concept has no connection to falling objects",
+              "Air resistance has no effect on a skydiver’s speed",
+              "Air resistance eventually increases enough to balance the force of gravity pulling them downward",
+              "Gravity stops acting on the skydiver at a certain height"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why does a flat sheet of paper fall more slowly than a crumpled ball of the same paper?",
+            "options": [
+              "The flat sheet has more surface area, increasing air resistance and slowing its fall",
+              "A crumpled ball always experiences greater air resistance than a flat sheet",
+              "Surface area has no effect on how air resistance acts on a falling object",
+              "This concept has no connection to friction or air resistance"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -35265,58 +35333,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Hydrogel Polymers and Contact Lens Chemistry",
-        "summary": "Grade 11 Chemistry strand: a hydrogel is a network of cross-linked polymer chains that can absorb and retain large amounts of water while keeping its shape, a property that soft contact lenses rely on to stay flexible, permeable to oxygen, and comfortable against the eye.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Enzymes and Biological Catalysts",
+        "summary": "Grade 9 Science Biology strand: an enzyme is a biological catalyst, typically a protein, that speeds up chemical reactions in living organisms without being consumed in the process.",
+        "resourceLabel": "YouTube: Enzymes and Biological Catalysts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Enzymes%20and%20Biological%20Catalysts%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a hydrogel?",
+            "q": "An enzyme is best described as ___.",
             "options": [
-              "A liquid solvent with no polymer structure",
-              "A gas that cannot hold any water",
-              "A solid metal with no polymer content at all",
-              "A network of cross-linked polymer chains that can absorb and retain large amounts of water"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What property of hydrogels makes soft contact lenses flexible and comfortable?",
-            "options": [
-              "Their tendency to dissolve completely in the eye",
-              "Their complete inability to hold any water",
-              "Their extremely rigid, glass-like structure",
-              "Their ability to absorb and retain large amounts of water while keeping their shape"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What structural feature allows a hydrogel to hold its shape despite absorbing water?",
-            "options": [
-              "A rigid metal frame embedded in the material",
-              "Cross-links between its polymer chains",
-              "A single, unbranched chain with no cross-links",
-              "A complete absence of any polymer chains"
+              "A molecule that always slows down chemical reactions",
+              "A biological catalyst that speeds up chemical reactions in living organisms",
+              "A type of cell found only in plants",
+              "A concept unrelated to biology"
             ],
             "answer": 1
           },
           {
-            "q": "Why is oxygen permeability important for a soft contact lens material?",
+            "q": "Enzymes are typically composed of ___.",
             "options": [
-              "It allows oxygen to reach the surface of the eye through the lens",
-              "It causes the lens to dissolve upon contact with air",
-              "It prevents any light from passing through the lens",
-              "Oxygen permeability has no relevance to eye health"
+              "A substance unrelated to biological catalysts",
+              "Only water molecules, with no other component",
+              "Pure carbon with no other elements",
+              "Proteins"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A defining feature of an enzyme is that it ___.",
+            "options": [
+              "A feature unrelated to how enzymes function",
+              "Is always destroyed after catalyzing a single reaction",
+              "Is not consumed or permanently changed during the reaction it catalyzes",
+              "Slows down every reaction it interacts with"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an enzyme’s shape be important to its function?",
+            "options": [
+              "Its shape allows it to bind specifically to a particular substrate molecule",
+              "This concept has no relevance to biological catalysts",
+              "An enzyme’s shape has no connection to its function",
+              "Enzymes can bind to any molecule regardless of shape"
             ],
             "answer": 0
           },
           {
-            "q": "What class of material does a soft contact lens belong to, based on its water-absorbing polymer network?",
+            "q": "Why might extreme heat cause an enzyme to stop functioning properly?",
             "options": [
-              "A pure metal alloy",
-              "A noble gas",
-              "A hydrogel",
-              "An ionic crystal with no polymer content"
+              "Heat never has any effect on an enzyme’s structure or function",
+              "Enzymes always function more effectively at extremely high temperatures",
+              "High temperatures can change an enzyme’s shape, preventing it from binding to its substrate",
+              "This concept has no connection to enzyme activity"
             ],
             "answer": 2
           }
@@ -35390,63 +35458,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Network Flow and the Max-Flow Min-Cut Idea",
-        "summary": "Grade 11 Functions strand: a flow network models capacity-limited connections between a source and a sink, and the max-flow min-cut idea states that the greatest possible flow through the network equals the smallest total capacity of any set of edges that, if removed, would disconnect the source from the sink.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Financial Literacy: Inflation and the Time Value of Money",
+        "summary": "Grade 9 Math strand: inflation gradually reduces the purchasing power of money over time, and the time value of money reflects the principle that a given amount of money today is generally worth more than the same amount received in the future.",
+        "resourceLabel": "YouTube: Financial Literacy: Inflation and the Time Value of Money",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Inflation%20and%20the%20Time%20Value%20of%20Money%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a flow network model?",
+            "q": "What does inflation gradually reduce?",
             "options": [
-              "A single isolated point with no connections at all",
-              "A network where every edge has infinite capacity",
-              "Capacity-limited connections between a source and a sink",
-              "A network with no limits of any kind on any connection"
+              "The physical size of paper currency",
+              "The number of digits in a bank account",
+              "The purchasing power of money over time",
+              "The total number of banks in a country"
             ],
             "answer": 2
           },
           {
-            "q": "According to the max-flow min-cut idea, what does the maximum possible flow equal?",
+            "q": "What does the time value of money principle state?",
             "options": [
-              "The smallest total capacity of any cut that disconnects the source from the sink",
-              "The number of vertices in the network",
-              "The largest total capacity of every edge in the entire network combined",
-              "The average capacity of all edges in the network"
+              "Money available today is generally worth more than the same amount received in the future",
+              "Money always loses all of its value the moment it is earned",
+              "Future money is always worth more than present money in every case",
+              "Time has no connection to the value of money whatsoever"
             ],
             "answer": 0
           },
           {
-            "q": "What is a cut in a flow network?",
+            "q": "Why is money received today generally considered more valuable than the same amount in the future?",
             "options": [
-              "A single vertex with no edges attached",
-              "A path that never reaches the sink",
-              "The entire network with no edges removed",
-              "A set of edges that, if removed, disconnects the source from the sink"
+              "It can be invested or saved to grow in value before that future date arrives",
+              "Future money always arrives with no possible delay or risk",
+              "There is no mathematical relationship between time and money",
+              "Money received today can never be saved or invested at all"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What two special vertices does a flow network typically identify?",
+            "q": "If inflation rises faster than the interest earned on savings, what happens to the real value of those savings?",
             "options": [
-              "Two vertices chosen completely at random each time",
-              "The maximum and minimum vertices by label only",
-              "The source and the sink",
-              "The first and last vertices added to the network historically"
+              "Inflation has no effect on the value of savings at all",
+              "The real purchasing power of the savings can decline over time",
+              "Savings automatically double in value regardless of inflation",
+              "The real purchasing power always increases no matter what"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is the max-flow min-cut idea useful in applications like transportation or supply networks?",
+            "q": "Understanding inflation and the time value of money is especially useful when planning for what kind of financial decision?",
             "options": [
-              "It has no practical application to transportation or supply problems",
-              "It guarantees every edge in the network has identical capacity",
-              "It proves that no network can ever have a bottleneck",
-              "It identifies the bottleneck that limits the total flow through the whole network"
+              "Deciding what colour to paint a room",
+              "Choosing a favourite school subject",
+              "Selecting a route to walk to school",
+              "Long-term savings and investment decisions"
             ],
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Biology",
@@ -35509,58 +35577,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Nanoparticles and the Surface Area to Volume Effect",
-        "summary": "Grade 11 Chemistry strand: as a particle shrinks toward the nanoscale, its surface area to volume ratio increases dramatically, exposing a much larger fraction of its atoms at the surface, which can make nanoparticles far more chemically reactive or catalytically active than the same mass of bulk material.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Review: Solutions, Immune System, Circulatory/Respiratory, and Radioactivity",
+        "summary": "Grade 9 Science strand review: this lesson revisits solutions and solubility, the immune system, the circulatory and respiratory systems, and radioactivity and half-life from Days 61-69.",
+        "resourceLabel": "YouTube: Review: Solutions, Immune System, Circulatory/Respiratory, and Radioactivity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Solutions%2C%20Immune%20System%2C%20Circulatory/Respiratory%2C%20and%20Radioactivity%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What happens to the surface area to volume ratio of a particle as it shrinks toward the nanoscale?",
+            "q": "A solution forms when a ___ dissolves in a solvent.",
             "options": [
-              "It increases dramatically",
-              "It becomes impossible to measure",
-              "It stays exactly the same regardless of size",
-              "It decreases dramatically"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a higher surface area to volume ratio expose at a nanoparticles surface?",
-            "options": [
-              "An identical fraction of atoms compared to a large chunk of material",
-              "No atoms at all, since surface atoms disappear at small sizes",
-              "Only the atoms located at the very center of the particle",
-              "A much larger fraction of its atoms"
+              "A substance that never mixes with a solvent",
+              "A concept unrelated to chemistry",
+              "Solvent, dissolving into itself",
+              "Solute"
             ],
             "answer": 3
           },
           {
-            "q": "How can this increased surface exposure affect a nanoparticles chemical behaviour?",
+            "q": "A pathogen is best described as ___.",
             "options": [
-              "It converts the nanoparticle into a different element",
-              "It always makes the nanoparticle completely chemically inert",
-              "It has no effect on chemical reactivity whatsoever",
-              "It can make the nanoparticle far more chemically reactive or catalytically active"
+              "A cell that always protects the body from disease",
+              "A concept unrelated to biology",
+              "A nutrient the body requires to survive",
+              "A microorganism, such as a bacterium or virus, that can cause disease"
             ],
             "answer": 3
           },
           {
-            "q": "How does the reactivity of a nanoparticle typically compare to the same mass of bulk material?",
+            "q": "The circulatory system is primarily responsible for ___.",
             "options": [
-              "The two are always identical in reactivity",
-              "Reactivity cannot be compared between different particle sizes",
-              "The nanoparticle is often far more reactive",
-              "The nanoparticle is always far less reactive"
+              "Producing hormones exclusively",
+              "Breaking down food for digestion",
+              "Transporting blood, oxygen, and nutrients throughout the body",
+              "A function unrelated to body systems"
             ],
             "answer": 2
           },
           {
-            "q": "Why might nanoparticles be used as catalysts in industrial chemistry?",
+            "q": "Radioactive decay occurs when ___.",
             "options": [
-              "Nanoparticles have no surface area at all",
-              "Their high surface area to volume ratio provides more active sites for reactions to occur",
-              "Catalysts must always be as large as possible to function",
-              "Nanoparticles cannot participate in any chemical reaction"
+              "A concept unrelated to atomic structure",
+              "A molecule dissolves completely in a solvent",
+              "An unstable atomic nucleus releases energy and particles over time",
+              "An atom becomes permanently stable with no further change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to review chemistry, biology, and physics concepts like solutions, immunity, body systems, and radioactivity together?",
+            "options": [
+              "These topics are entirely unrelated to each other",
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "Review provides no benefit in science",
+              "Each topic must always be studied in isolation"
             ],
             "answer": 1
           }
@@ -35634,63 +35702,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Fermats Little Theorem",
-        "summary": "Grade 11 Functions strand: Fermats little theorem states that if p is a prime number and a is any integer not divisible by p, then a raised to the power p minus 1 leaves a remainder of 1 when divided by p, a result used in number theory and modern cryptography.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Algebra: Solving Exponential Equations",
+        "summary": "Grade 9 Math strand: an exponential equation has the variable in the exponent, and it can be solved by rewriting both sides with a common base and setting the exponents equal, or by applying logarithms when a common base cannot easily be found.",
+        "resourceLabel": "YouTube: Algebra: Solving Exponential Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Exponential%20Equations%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does Fermats little theorem require p to be?",
+            "q": "What defines an exponential equation?",
             "options": [
-              "A negative integer only",
-              "A prime number",
-              "Any even number, prime or not",
-              "A perfect square"
+              "An equation in which the variable appears in the exponent",
+              "An equation that only involves whole number coefficients",
+              "An equation with no exponents of any kind",
+              "An equation that cannot be graphed"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "According to Fermats little theorem, what remainder does a raised to the power p minus 1 leave when divided by p?",
+            "q": "If both sides of an exponential equation are rewritten with equal bases, what can then be done?",
             "options": [
-              "A remainder that is always negative",
-              "A remainder of 0 in every case",
-              "A remainder of 1",
-              "A remainder equal to p itself"
+              "The bases must be multiplied together first",
+              "Nothing further can be done to solve the equation",
+              "The exponents can be set equal to each other and solved directly",
+              "The equation becomes impossible to solve"
             ],
             "answer": 2
           },
           {
-            "q": "What condition must the integer a satisfy for Fermats little theorem to apply?",
+            "q": "When the bases of an exponential equation cannot easily be made equal, what tool is commonly used instead?",
             "options": [
-              "a must not be divisible by p",
-              "a must always be a prime number itself",
-              "a must always be exactly equal to p",
-              "a must always be negative"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In what modern field is Fermats little theorem applied?",
-            "options": [
-              "Cryptography",
-              "Competitive swimming",
-              "Musical composition",
-              "Landscape painting"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What branch of mathematics does Fermats little theorem belong to?",
-            "options": [
-              "Probability exclusively",
-              "Coordinate geometry exclusively",
-              "Trigonometry exclusively",
-              "Number theory"
+              "A protractor",
+              "The distributive property alone",
+              "Long division",
+              "Logarithms"
             ],
             "answer": 3
+          },
+          {
+            "q": "Solve for x: 2^x = 8.",
+            "options": [
+              "x = 3",
+              "x = 2",
+              "x = 4",
+              "x = 8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the base of an exponential equation be positive and not equal to one?",
+            "options": [
+              "Because negative numbers cannot appear anywhere in mathematics",
+              "So the exponential function is well defined and produces a consistent, predictable output for each exponent",
+              "So the equation always has infinitely many solutions",
+              "Because the base has no effect on the equations solutions"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Exponents & Powers"
       },
       {
         "subject": "Biology",
@@ -35753,62 +35821,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Transition Metal Colour and d-Orbital Electron Transitions",
-        "summary": "Grade 11 Chemistry strand: many transition metal compounds appear coloured because electrons absorb specific wavelengths of visible light while jumping between split d-orbital energy levels, and the colour observed is the complement of the wavelengths absorbed, changing with the metal, its oxidation state, and the surrounding ligands.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Nanotechnology and Materials Science",
+        "summary": "Grade 9 Science Technology strand: nanotechnology involves manipulating matter at an extremely small scale, often at the level of individual atoms or molecules, to create materials with new or enhanced properties.",
+        "resourceLabel": "YouTube: Nanotechnology and Materials Science",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nanotechnology%20and%20Materials%20Science%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "Why do many transition metal compounds appear coloured?",
+            "q": "Nanotechnology involves manipulating matter at ___.",
             "options": [
-              "Electrons absorb specific wavelengths of visible light while jumping between split d-orbital energy levels",
-              "They emit radio waves instead of visible light",
-              "They contain no electrons capable of absorbing light",
-              "Colour in transition metals has no connection to electrons at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the relationship between the colour observed and the wavelengths absorbed?",
-            "options": [
-              "The observed colour is the complement of the absorbed wavelengths",
-              "Absorbed wavelengths have no relationship to observed colour",
-              "The observed colour is identical to the absorbed wavelengths",
-              "The compound always appears completely colourless regardless of absorption"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Name one factor that can change the colour of a transition metal compound.",
-            "options": [
-              "The identity of the surrounding ligands",
-              "The time of day the compound is observed",
-              "The compounds exact physical weight",
-              "The shape of the container holding the compound"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What electron transition is responsible for the colour of many transition metal compounds?",
-            "options": [
-              "A transition between two separate atomic nuclei",
-              "A transition that has no connection to orbital energy at all",
-              "A transition that occurs only within the innermost electron shell",
-              "A transition between split d-orbital energy levels"
+              "A scale only relevant to astronomical distances",
+              "A concept unrelated to materials science",
+              "A scale visible clearly to the naked eye with no magnification",
+              "An extremely small scale, often at the level of individual atoms or molecules"
             ],
             "answer": 3
           },
           {
-            "q": "Why might changing a metals oxidation state change the colour of its compound?",
+            "q": "Materials engineered at the nanoscale can have properties that ___.",
             "options": [
-              "A different oxidation state changes the electron configuration and the d-orbital energy gaps involved",
-              "Oxidation state has no effect on colour in any transition metal compound",
-              "Oxidation state only affects the compounds mass, never its colour",
-              "Every oxidation state of a given metal produces an identical colour"
+              "Are always identical to the same material at a larger scale",
+              "A concept unrelated to nanotechnology",
+              "Never change regardless of the scale being examined",
+              "Differ significantly from the same material at a larger scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a real-world application of nanotechnology?",
+            "options": [
+              "A process that only applies to astronomical research",
+              "Coatings that make fabric resistant to stains and water",
+              "A technology that has never been applied outside of theory",
+              "An application unrelated to nanotechnology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might scientists be interested in developing new materials using nanotechnology?",
+            "options": [
+              "Nanoscale materials can offer improved strength, conductivity, or other useful properties for various applications",
+              "This concept has no connection to materials science",
+              "Nanotechnology has no practical applications in any field",
+              "New materials developed through nanotechnology never offer any advantage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is precise control at the atomic or molecular level considered a defining feature of nanotechnology?",
+            "options": [
+              "It allows scientists to engineer materials with specific, intentional properties not found in bulk materials",
+              "Precise control at this scale has no effect on a material’s properties",
+              "This concept has no relevance to nanotechnology",
+              "Materials can never be engineered with any intentional design at this scale"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Materials & States of Matter (Basic)"
       }
     ]
   },
@@ -35878,63 +35947,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The Geometric Distribution",
-        "summary": "Grade 11 Functions strand: the geometric distribution models the number of independent trials needed to obtain the first success in a sequence of yes-or-no trials that each share the same probability of success, such as the number of coin flips until the first heads appears.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Financial Literacy: Present Value and Future Value of Annuities",
+        "summary": "Grade 9 Math strand: an annuity is a series of equal payments made at regular intervals, and its future value represents the total accumulated amount including interest, while its present value represents the equivalent lump sum today.",
+        "resourceLabel": "YouTube: Financial Literacy: Present Value and Future Value of Annuities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Present%20Value%20and%20Future%20Value%20of%20Annuities%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the geometric distribution model?",
+            "q": "What is an annuity in financial mathematics?",
             "options": [
-              "The average value of a continuous data set",
-              "The total number of successes in a fixed number of trials",
-              "The exact midpoint of a data set",
-              "The number of independent trials needed to obtain the first success"
+              "A type of insurance that covers only property damage",
+              "A single one-time payment with no future obligations",
+              "A loan that never requires repayment of any kind",
+              "A series of equal payments made at regular intervals over time"
             ],
             "answer": 3
           },
           {
-            "q": "What must be true of the probability of success across the trials modelled by a geometric distribution?",
+            "q": "What does the future value of an annuity represent?",
             "options": [
-              "It must decrease after every trial",
-              "It stays the same for every trial",
-              "It must increase after every trial",
-              "It must always equal exactly one half"
+              "The exact number of payments made in a single year",
+              "The total accumulated value of all payments, including interest, at a future date",
+              "The value of a single payment made many years in the past",
+              "A value that ignores interest entirely"
             ],
             "answer": 1
           },
           {
-            "q": "What classic example illustrates the geometric distribution?",
+            "q": "What does the present value of an annuity represent?",
             "options": [
-              "The average height of a group of people",
-              "The exact sum of two dice rolled once",
-              "The number of coin flips until the first heads appears",
-              "The total distance travelled by a car in one trip"
+              "The total value of an annuity after every payment has stopped",
+              "A value that has no connection to future payments at all",
+              "The single lump-sum amount today that is equivalent to a series of future payments",
+              "The interest rate applied to a single payment only"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of trials does the geometric distribution apply to?",
+            "q": "Why does the future value of an annuity generally exceed the simple sum of its payments?",
             "options": [
-              "Trials with a different probability of success every time",
-              "Independent yes-or-no trials with the same probability of success",
-              "Trials that are always dependent on the previous outcome",
-              "Trials that can only ever succeed, never fail"
+              "Because payments made later are always worth more than earlier ones with no interest involved",
+              "Because each payment earns interest over the time it remains invested",
+              "Because interest is never applied to any of the payments",
+              "Because the number of payments always decreases over time"
             ],
             "answer": 1
           },
           {
-            "q": "How does the geometric distribution differ from the binomial distribution?",
+            "q": "Which financial product is a common real-world example of an annuity?",
             "options": [
-              "It applies only to continuous data, never discrete outcomes",
-              "It is identical to the binomial distribution in every respect",
-              "It counts trials until the first success rather than counting successes in a fixed number of trials",
-              "It requires the probability of success to change every trial"
+              "A single purchase made only once with no repeated payments",
+              "A textbook purchased for a single course",
+              "A retirement plan that pays a fixed amount at regular intervals",
+              "A coin collected as a one-time souvenir"
             ],
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Biology",
@@ -36064,121 +36133,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Palimpsest — Layered Meaning in Adaptation and Revision",
-        "summary": "Grade 11 English strand: a palimpsest was originally a manuscript scraped clean and reused, leaving faint traces of the earlier text beneath the new one, and literary critics use the term for any work that visibly layers a new story over an older one the reader can still sense underneath.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Reading: Analyzing In Medias Res and Narrative Beginnings",
+        "summary": "Grade 9 Language strand: in medias res means beginning a narrative in the middle of the action rather than at the start of events, often followed later by a flashback that fills in the missing earlier background.",
+        "resourceLabel": "YouTube: Reading: Analyzing In Medias Res and Narrative Beginnings",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20In%20Medias%20Res%20and%20Narrative%20Beginnings%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What was a palimpsest originally?",
+            "q": "What does in medias res mean?",
             "options": [
-              "A printing press used only for legal documents",
-              "A type of fixed poetic form with a strict rhyme scheme",
-              "A modern digital file format",
-              "A manuscript scraped clean and reused, leaving faint traces of the earlier text beneath the new one"
+              "Ending a narrative before any action has occurred",
+              "Telling a story entirely through dialogue with no narration",
+              "Skipping the ending of a story entirely",
+              "Beginning a narrative in the middle of the action rather than at the start of events"
             ],
             "answer": 3
           },
           {
-            "q": "How do literary critics use the term palimpsest today?",
+            "q": "What technique often supplies the missing earlier events after a story opens in medias res?",
             "options": [
-              "For a story with absolutely no connection to earlier texts",
-              "For any work published in more than one language",
-              "For a text that has never been revised",
-              "For a work that layers a new story over an older one the reader can still sense underneath"
+              "A table of contents listing every character",
+              "Flashback used to fill in earlier background information",
+              "A glossary placed at the end of the book",
+              "A footnote citing an unrelated source"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What can a reader sense in a work described as a literary palimpsest?",
+            "q": "Why might an author choose to open a story in medias res?",
             "options": [
-              "Only the authors handwriting style",
-              "A complete absence of any earlier influence",
-              "The exact publication date of the earlier work",
-              "Traces of an earlier text beneath the surface of the new one"
+              "To immediately capture the readers attention with tension or action",
+              "To ensure the story has no identifiable setting",
+              "To make the story impossible for any reader to understand",
+              "To avoid including any characters in the story at all"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why might an author deliberately write a palimpsestic adaptation of an older story?",
+            "q": "A story that opens with a characters birth and proceeds strictly in chronological order is an example of what?",
             "options": [
-              "Doing so guarantees the earlier story is erased entirely",
-              "To ensure no reader can ever recognize the earlier story",
-              "To let readers experience the new story in dialogue with the one it is built on",
-              "Adaptations are never in dialogue with their source material"
+              "A story with no beginning at all",
+              "A classic example of in medias res",
+              "Not starting in medias res",
+              "A purely nonlinear narrative structure"
             ],
             "answer": 2
           },
           {
-            "q": "What does the concept of a palimpsest suggest about the relationship between old and new texts?",
+            "q": "What risk does an author take by opening a story in medias res?",
             "options": [
-              "That old and new texts can never share any thematic connection",
-              "That the old text can remain faintly visible beneath the new one",
-              "That only the newest version of a story has any meaning",
-              "That old texts are always completely erased by new ones"
+              "The story can no longer contain any characters",
+              "Readers will always understand every detail immediately",
+              "Readers may feel confused until enough context is revealed",
+              "The story becomes impossible to write in any language"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Functions",
-        "title": "Financial Mathematics: Bonds and Yield to Maturity",
-        "summary": "Grade 11 Functions strand: a bond is a loan an investor makes to a government or corporation in exchange for regular interest payments and repayment of the principal at maturity, and its yield to maturity is the effective annual return an investor earns if the bond is held until it matures.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Geometry: Graphing Sine and Cosine Functions (Amplitude and Period)",
+        "summary": "Grade 9 Math strand: the graphs of sine and cosine functions are smooth, repeating waves whose amplitude describes their maximum height above the midline and whose period describes the horizontal length of one complete cycle.",
+        "resourceLabel": "YouTube: Geometry: Graphing Sine and Cosine Functions (Amplitude and Period)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Graphing%20Sine%20and%20Cosine%20Functions%20%28Amplitude%20and%20Period%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a bond, from an investors perspective?",
+            "q": "What does the amplitude of a sine or cosine graph describe?",
             "options": [
-              "A type of insurance policy against loss",
-              "A physical asset with no connection to lending",
-              "A loan the investor makes to a government or corporation",
-              "A share of ownership in a company with no repayment obligation"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does a bond issuer typically pay to the bondholder at regular intervals?",
-            "options": [
-              "A single lump sum with no regular payments at all",
-              "Interest payments",
-              "No payments of any kind until maturity",
-              "Dividends tied to company profit only"
+              "The total horizontal length of the graph",
+              "The maximum height of the wave above (or below) its midline",
+              "The number of times the graph crosses the x-axis",
+              "The steepness of the graph at the origin only"
             ],
             "answer": 1
           },
           {
-            "q": "What happens to the principal of a bond at maturity?",
+            "q": "What does the period of a sine or cosine function describe?",
             "options": [
-              "It is converted into company shares",
-              "It doubles automatically regardless of terms",
-              "It is permanently forfeited by the bondholder",
-              "It is repaid to the bondholder"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does yield to maturity represent?",
-            "options": [
-              "A fixed government tax rate applied to all bonds",
-              "The exact price the bond was originally issued at",
-              "The effective annual return an investor earns if the bond is held until it matures",
-              "The total number of years remaining before maturity"
+              "The number of amplitudes in a single wave",
+              "The y-intercept of the function",
+              "The horizontal length required to complete one full cycle of the wave",
+              "The maximum height reached by the graph"
             ],
             "answer": 2
           },
           {
-            "q": "Why might an investor compare the yield to maturity of different bonds before investing?",
+            "q": "What is the period of the basic function y = sin(x), measured in radians?",
             "options": [
-              "To evaluate which bond offers the better effective return for a similar level of risk",
-              "Yield to maturity has no relevance to comparing investment options",
-              "Yield to maturity only applies to bonds issued by one specific country",
-              "All bonds always have an identical yield to maturity"
+              "2 pi",
+              "Pi divided by two",
+              "4 pi",
+              "Pi"
             ],
             "answer": 0
+          },
+          {
+            "q": "How does increasing the coefficient in front of sin(x) in y = a sin(x) affect the graph?",
+            "options": [
+              "It shifts the entire graph horizontally",
+              "It increases the period, making the wave wider",
+              "It increases the amplitude, making the wave taller",
+              "It has no effect on the graph whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are sine and cosine graphs often described as periodic?",
+            "options": [
+              "Their values never repeat under any circumstances",
+              "They only exist for negative input values",
+              "Their pattern of values repeats identically at regular horizontal intervals",
+              "They only produce a single output value for all inputs"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Biology",
@@ -36368,62 +36439,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Complex Numbers: The Fundamental Theorem of Algebra",
-        "summary": "Grade 11 Functions strand: the fundamental theorem of algebra states that every non-constant polynomial with complex coefficients has at least one complex root, which implies that a polynomial of degree n has exactly n complex roots when counted with multiplicity.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Trigonometry: Graphing the Tangent Function and Its Asymptotes",
+        "summary": "Grade 9 Math strand: the graph of the tangent function repeats every pi radians and has vertical asymptotes wherever cosine equals zero, since tangent is defined as sine divided by cosine and becomes undefined at those points.",
+        "resourceLabel": "YouTube: Trigonometry: Graphing the Tangent Function and Its Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Graphing%20the%20Tangent%20Function%20and%20Its%20Asymptotes%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the fundamental theorem of algebra guarantee for every non-constant polynomial with complex coefficients?",
+            "q": "What is the period of the basic tangent function y = tan(x)?",
             "options": [
-              "Exactly zero roots of any kind",
-              "An infinite number of distinct roots",
-              "At least one complex root",
-              "Only real roots and never complex ones"
+              "Pi",
+              "Pi divided by two",
+              "4 pi",
+              "2 pi"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do vertical asymptotes occur on the graph of y = tan(x)?",
+            "options": [
+              "Wherever cosine of x equals zero",
+              "Wherever sine of x equals zero",
+              "At every integer value of x with no exceptions",
+              "Tangent graphs never contain any asymptotes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the tangent function undefined at its asymptotes?",
+            "options": [
+              "Tangent is undefined everywhere, not just at specific points",
+              "Because sine and cosine are always equal to each other at those points",
+              "Because tangent equals sine divided by cosine, and division by zero is undefined",
+              "Because tangent is defined only for negative angles"
             ],
             "answer": 2
           },
           {
-            "q": "How many complex roots does a polynomial of degree n have, counted with multiplicity?",
+            "q": "How does the graph of tangent differ visually from the graphs of sine and cosine?",
             "options": [
-              "Always exactly one, regardless of degree",
-              "Exactly n",
-              "A number unrelated to the degree of the polynomial",
-              "Always exactly two, regardless of degree"
+              "Tangent has vertical asymptotes and an unbounded range, while sine and cosine are continuous and bounded between -1 and 1",
+              "Sine and cosine both have vertical asymptotes, unlike tangent",
+              "Tangent has a smaller period than both sine and cosine combined",
+              "Tangent, sine, and cosine all look exactly identical when graphed"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What kind of coefficients does the fundamental theorem of algebra assume the polynomial has?",
+            "q": "What is the general shape of one branch of the tangent graph between two consecutive asymptotes?",
             "options": [
-              "Coefficients that must all be prime numbers",
-              "Complex coefficients",
-              "Only coefficients equal to zero",
-              "Only irrational coefficients"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the fundamental theorem of algebra important for factoring polynomials?",
-            "options": [
-              "It proves that most polynomials cannot be factored at all",
-              "It applies only to polynomials of degree one",
-              "It guarantees every polynomial has zero roots",
-              "It guarantees a polynomial can always be fully factored into linear complex factors"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does counting roots with multiplicity mean?",
-            "options": [
-              "Repeated roots are excluded entirely from the count",
-              "A repeated root is counted as many times as it repeats",
-              "Multiplicity refers only to the degree of the polynomial",
-              "Every root is counted only once no matter how many times it repeats"
+              "A decreasing curve that never crosses the x-axis",
+              "An increasing curve that passes through zero and approaches positive and negative infinity at its edges",
+              "A closed loop that returns exactly to its starting point",
+              "A perfectly flat horizontal line with no curvature at all"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Trigonometry"
       },
       {
         "subject": "Biology",
@@ -36730,63 +36802,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Piezoelectric Materials and Mechanical-Electrical Energy Conversion",
-        "summary": "Grade 11 Chemistry strand: piezoelectric materials generate an electric charge when mechanically stressed, because deforming their crystal structure shifts the internal distribution of positive and negative charge, a reversible effect also used to convert an applied voltage back into precise mechanical motion.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: Epigenetics: How Environment Affects Gene Expression",
+        "summary": "Grade 8 Science strand: epigenetics studies how environmental factors, such as diet or stress, can influence whether certain genes are turned on or off, without changing the underlying DNA sequence.",
+        "resourceLabel": "YouTube: Science: Epigenetics: How Environment Affects Gene Expression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Epigenetics%3A%20How%20Environment%20Affects%20Gene%20Expression%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What happens when a piezoelectric material is mechanically stressed?",
+            "q": "What does epigenetics study?",
             "options": [
-              "It loses all of its mass",
-              "It generates an electric charge",
-              "It instantly melts into a liquid",
-              "It becomes chemically inert with no further reactivity"
+              "How environmental factors influence whether genes are turned on or off",
+              "A concept unrelated to biology",
+              "How genes are physically removed from an organism",
+              "How DNA sequences are permanently rewritten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one environmental factor that might influence gene expression, such as diet.",
+            "options": [
+              "A favourite colour",
+              "Diet",
+              "A random guess with no scientific basis",
+              "A concept unrelated to epigenetics"
             ],
             "answer": 1
           },
           {
-            "q": "What internal change in a piezoelectric material produces the electric charge?",
+            "q": "Does epigenetics involve changing the underlying DNA sequence itself?",
             "options": [
-              "The materials temperature drops to absolute zero",
-              "All electrons are permanently removed from the material",
-              "The material spontaneously changes into a different element",
-              "Deforming its crystal structure shifts the internal distribution of positive and negative charge"
+              "No",
+              "Epigenetics has no connection to genes at all",
+              "A concept unrelated to epigenetics",
+              "Yes, it always changes the DNA sequence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might scientists be interested in how stress affects gene expression?",
+            "options": [
+              "Gene expression is never affected by any outside factor",
+              "This concept has no relevance to science",
+              "Stress has no connection to gene expression",
+              "Understanding these effects could reveal connections between environment and health outcomes"
             ],
             "answer": 3
           },
           {
-            "q": "Is the piezoelectric effect reversible?",
+            "q": "Why is epigenetics considered a relatively new and evolving area of scientific study?",
             "options": [
-              "Yes, but only when the material is completely destroyed first",
-              "Yes, an applied voltage can be converted back into precise mechanical motion",
-              "No, piezoelectric materials cannot respond to any applied voltage",
-              "No, the piezoelectric effect can only occur in one direction"
+              "Gene expression was fully explained centuries ago",
+              "Epigenetics has already been completely understood with nothing left to discover",
+              "Scientists are still working to understand the full range of factors that can influence gene expression",
+              "This concept has no relevance to science"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of energy conversion does a piezoelectric material perform?",
-            "options": [
-              "Only conversion of light energy into sound energy",
-              "Mechanical to electrical energy conversion, and the reverse",
-              "No energy conversion of any kind",
-              "Only conversion between two different chemical elements"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What structural property must a piezoelectric material have for this effect to occur?",
-            "options": [
-              "A structure that cannot be deformed under any stress",
-              "A structure with no internal charge distribution at all",
-              "A completely amorphous structure with no crystal order",
-              "A crystal structure whose charge distribution shifts when deformed"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Ecosystems & Environment"
       }
     ]
   },
@@ -36855,62 +36927,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Derivative Rules, Networks, and Number Theory",
-        "summary": "Grade 11 Functions strand review: students revisit the product rule, the quotient rule, the chain rule, network flow and max-flow min-cut, Fermats little theorem, the geometric distribution, bonds and yield to maturity, the fundamental theorem of algebra, and the dot product.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Probability: An Introduction to Geometric Probability",
+        "summary": "Grade 8 Math strand: geometric probability calculates the likelihood of an outcome using the ratio of a favourable area, length, or region to the total possible area, length, or region, rather than counting individual discrete outcomes.",
+        "resourceLabel": "YouTube: Probability: An Introduction to Geometric Probability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20An%20Introduction%20to%20Geometric%20Probability%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the product rule let you differentiate?",
+            "q": "What does geometric probability compare?",
             "options": [
-              "Only a single function with no multiplication involved",
-              "Only a function divided by a constant",
-              "Only the sum of two functions",
-              "A product of two functions, without expanding the product first"
+              "The exact number of coins flipped in an experiment",
+              "The colour of a randomly chosen shape",
+              "The ratio of a favourable area, length, or region to the total possible area, length, or region",
+              "The number of dice rolled in a single game"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What kind of function does the chain rule differentiate?",
+            "q": "How does geometric probability differ from counting discrete outcomes, such as rolling a die?",
             "options": [
-              "Only a function with a single, unnested term",
-              "A composite function, made of one function nested inside another",
-              "Only a function with no variables at all",
-              "Only a constant function"
+              "It can only be used with a standard six-sided die",
+              "It always produces a probability greater than one",
+              "It uses continuous measurements like area or length instead of counting separate outcomes",
+              "It never involves any kind of ratio"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What does a flow network model?",
+            "q": "Which situation could be modeled using geometric probability?",
             "options": [
-              "A single isolated point with no connections at all",
-              "A network where every edge has infinite capacity",
-              "A network with no limits of any kind on any connection",
-              "Capacity-limited connections between a source and a sink"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does Fermats little theorem require p to be?",
-            "options": [
-              "A perfect square",
-              "A prime number",
-              "Any even number, prime or not",
-              "A negative integer only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How is the dot product of two vectors calculated?",
-            "options": [
-              "By multiplying corresponding components and summing the results",
-              "By subtracting corresponding components and summing the results",
-              "By dividing one vector by the other component-wise",
-              "By multiplying only the first components of each vector"
+              "The chance that a randomly thrown dart lands within a specific region of a target",
+              "The chance of drawing a specific card from a deck",
+              "The chance of flipping heads on a single coin",
+              "The chance of rolling a six on a single die"
             ],
             "answer": 0
+          },
+          {
+            "q": "In geometric probability, what happens to the calculated probability if the favourable region takes up half of the total region?",
+            "options": [
+              "The probability is one half",
+              "The probability cannot be calculated",
+              "The probability is always zero",
+              "The probability is always one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is geometric probability useful in situations that counting alone cannot easily solve?",
+            "options": [
+              "It removes the need to ever calculate a ratio",
+              "It cannot be applied to any real-world situation",
+              "It only applies to situations involving whole numbers",
+              "It allows probability to be calculated for continuous outcomes, such as a location within an area, rather than only separate, countable outcomes"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Probability"
       },
       {
         "subject": "Biology",
@@ -36973,58 +37046,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry Review: Zeolites, Nanomaterials, and Colour Chemistry",
-        "summary": "Grade 11 Chemistry strand review: students revisit zeolites, ionic liquids, hydrogel polymers, nanoparticles and surface area effects, transition metal colour, atmospheric aerosols, fire retardant chemistry, invisible ink redox chemistry, and piezoelectric materials.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: The Physics of Superconductors",
+        "summary": "Grade 8 Science strand: a superconductor is a material that can conduct electricity with zero resistance when cooled to extremely low temperatures, allowing electric current to flow without losing energy.",
+        "resourceLabel": "YouTube: Science: The Physics of Superconductors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Physics%20of%20Superconductors%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What type of material is a zeolite?",
+            "q": "What is a superconductor?",
             "options": [
-              "A type of simple organic solvent",
-              "A pure metal with no porous structure",
-              "A microporous aluminosilicate mineral",
-              "A noble gas used only in lighting"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to the surface area to volume ratio of a particle as it shrinks toward the nanoscale?",
-            "options": [
-              "It increases dramatically",
-              "It stays exactly the same regardless of size",
-              "It decreases dramatically",
-              "It becomes impossible to measure"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do many transition metal compounds appear coloured?",
-            "options": [
-              "Colour in transition metals has no connection to electrons at all",
-              "Electrons absorb specific wavelengths of visible light while jumping between split d-orbital energy levels",
-              "They contain no electrons capable of absorbing light",
-              "They emit radio waves instead of visible light"
+              "A concept unrelated to physics",
+              "A material that conducts electricity with zero resistance at low temperatures",
+              "A material that only works at very high temperatures",
+              "A material that always blocks electricity completely"
             ],
             "answer": 1
           },
           {
-            "q": "What is the general purpose of a fire retardant chemical?",
+            "q": "Does a superconductor need to be cooled to extremely low temperatures to work?",
             "options": [
-              "To slow or prevent combustion",
-              "To permanently change the colour of a material with no other effect",
-              "To eliminate all oxygen from the entire building",
-              "To accelerate combustion as quickly as possible"
+              "Temperature has no connection to superconductivity",
+              "Yes",
+              "No, superconductors work best at room temperature only",
+              "A concept unrelated to superconductors"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What happens when a piezoelectric material is mechanically stressed?",
+            "q": "Does electric current flow through a superconductor without losing energy?",
             "options": [
-              "It generates an electric charge",
-              "It instantly melts into a liquid",
-              "It loses all of its mass",
-              "It becomes chemically inert with no further reactivity"
+              "Superconductors never actually conduct any electricity",
+              "A concept unrelated to superconductors",
+              "Yes",
+              "No, superconductors always lose a large amount of energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might superconductors be useful for technologies like maglev trains?",
+            "options": [
+              "Maglev trains never use any superconducting technology",
+              "They can create powerful magnetic fields efficiently, without energy loss from resistance",
+              "Superconductors have no connection to magnetic technology",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the requirement for extremely low temperatures a current challenge for using superconductors widely?",
+            "options": [
+              "Cooling materials to such low temperatures can be expensive and difficult to maintain",
+              "Cooling has no connection to how superconductors are used",
+              "This concept has no relevance to physics",
+              "Superconductors work at any temperature with no special cooling needed"
             ],
             "answer": 0
           }
@@ -37038,63 +37111,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Poetry: The Aubade — the Dawn Song of Parting Lovers",
-        "summary": "Grade 11 English strand: an aubade is a poem set at dawn that mourns the coming separation of lovers as night ends, using the arrival of morning light as a symbol of loss, urgency, and the fragile boundary between private intimacy and the return of the ordinary world.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Grammar: Emphatic and Cleft Sentences",
+        "summary": "Grade 9 Language strand: an emphatic sentence uses structures such as the auxiliary verb do to stress a point, while a cleft sentence divides a single idea into two clauses, often beginning with it or what, to highlight one particular piece of information.",
+        "resourceLabel": "YouTube: Grammar: Emphatic and Cleft Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Emphatic%20and%20Cleft%20Sentences%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does an aubade typically mourn?",
+            "q": "What is the purpose of an emphatic sentence?",
             "options": [
-              "The coming separation of lovers as dawn arrives",
-              "A harvest festival held in autumn",
-              "The death of a monarch decades earlier",
-              "A victory in battle celebrated at noon"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What symbol does an aubade often use to represent loss and urgency?",
-            "options": [
-              "A locked door with no key",
-              "The arrival of morning light",
-              "A river flowing backward",
-              "A blank page with no writing"
+              "To remove all emphasis from every part of a sentence",
+              "To stress or emphasize a particular point, often using an auxiliary verb such as do",
+              "To combine two unrelated ideas with no connection at all",
+              "To eliminate the need for a main verb in a sentence"
             ],
             "answer": 1
           },
           {
-            "q": "What boundary does an aubade often explore?",
+            "q": "Which sentence is an example of emphatic structure using the auxiliary verb do?",
             "options": [
-              "The boundary between prose and legal writing",
-              "The boundary between two rival nations",
-              "The boundary between private intimacy and the return of the ordinary world",
-              "The boundary between painting and sculpture"
+              "Finishing my homework, I ate dinner.",
+              "I finished my homework before dinner.",
+              "I did finish my homework before dinner.",
+              "Homework, I finished, before dinner."
             ],
             "answer": 2
           },
           {
-            "q": "Why might a poet set an aubade specifically at dawn rather than at night?",
+            "q": "What is a cleft sentence?",
             "options": [
-              "Dawn has no symbolic meaning in poetry of any kind",
-              "Dawn marks the moment lovers must part, giving the poem its central tension",
-              "Dawn removes all urgency from a poems subject",
-              "Nighttime scenes are forbidden in the aubade form"
+              "A sentence divided into two clauses, often beginning with it or what, to highlight a specific piece of information",
+              "A sentence that contains no verbs of any kind",
+              "A type of sentence found only in poetry, never in prose",
+              "A sentence that must always begin with a question word"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What emotional tone is most associated with the aubade form?",
+            "q": "Which sentence is an example of a cleft sentence?",
             "options": [
-              "A bittersweet sense of loss as a shared night comes to an end",
-              "A tone of complete indifference to the passage of time",
-              "A purely comic tone with no emotional weight",
-              "A tone of triumphant celebration with no sense of loss"
+              "It was Maria who solved the difficult problem.",
+              "The difficult problem was solved.",
+              "Maria solved the difficult problem.",
+              "Solving the difficult problem, Maria smiled."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose a cleft sentence structure instead of a simple, direct sentence?",
+            "options": [
+              "To draw special attention to one particular piece of information within the sentence",
+              "Cleft sentences are grammatically incorrect in every context",
+              "Cleft sentences always make a sentence less clear to the reader",
+              "A cleft sentence removes the subject from a sentence entirely"
             ],
             "answer": 0
           }
         ],
-        "topic": "Reading: Poetry"
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Functions",
@@ -37282,62 +37355,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Picaresque Novel and the Roguish Protagonist",
-        "summary": "Grade 11 English strand: a picaresque novel follows a resourceful, low-born rogue protagonist through a loosely connected series of episodic adventures, using satire and social observation to expose the corruption or hypocrisy of the society the protagonist travels through.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "title": "Grammar: Elliptical Constructions and Implied Words",
+        "summary": "Grade 9 Language strand: an elliptical construction omits a word or phrase that can be clearly understood from context, allowing a sentence to avoid needless repetition while still remaining fully comprehensible to the reader.",
+        "resourceLabel": "YouTube: Grammar: Elliptical Constructions and Implied Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Elliptical%20Constructions%20and%20Implied%20Words%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What kind of protagonist does a picaresque novel typically follow?",
+            "q": "What is an elliptical construction?",
             "options": [
-              "A narrator who never appears in the story",
-              "A committee of unnamed characters acting as one",
-              "A resourceful, low-born rogue",
-              "A wealthy monarch with no flaws"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How are the events of a picaresque novel typically structured?",
-            "options": [
-              "As a strict legal argument with numbered clauses",
-              "As a single, tightly unified plot with no separate episodes",
-              "As a single unbroken scene with no passage of time",
-              "As a loosely connected series of episodic adventures"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a picaresque novel often use its roguish protagonist to expose?",
-            "options": [
-              "The exact population of the protagonists home village",
-              "The protagonists complete and total innocence in every situation",
-              "A purely private matter with no social relevance",
-              "The corruption or hypocrisy of the surrounding society"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What literary technique does a picaresque novel commonly rely on to critique society?",
-            "options": [
-              "Silence, with no commentary of any kind",
-              "Satire and social observation",
-              "Strict legal citation",
-              "Mathematical proof"
+              "A sentence that repeats the same word or phrase multiple times for emphasis",
+              "A sentence structure in which a word or phrase is omitted because it can be understood from context",
+              "A grammatical rule that forbids the omission of any word under any circumstances",
+              "A punctuation mark used only to separate two independent clauses"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a low-born rogue make an effective narrator for social critique?",
+            "q": "Why do writers use elliptical constructions?",
             "options": [
-              "An outsider status prevents any commentary on society",
-              "Only wealthy narrators are capable of social critique",
-              "Low-born characters are forbidden from narrating any story",
-              "Their outsider status lets them move through and comment on many levels of society"
+              "Because every sentence in formal writing must contain an omission",
+              "To avoid needless repetition while keeping the sentence clear",
+              "To make a sentence as repetitive and confusing as possible",
+              "To remove all verbs from a sentence entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains an elliptical construction?",
+            "options": [
+              "Maria studied French, and Carlos studied Spanish, and both enjoyed it.",
+              "Maria and Carlos both studied French together every day.",
+              "Maria studied French, and Carlos, Spanish.",
+              "Maria studied French. Carlos studied Spanish. Both enjoyed it."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must be true for an omitted word in an elliptical construction to be acceptable?",
+            "options": [
+              "The omitted word must always be a noun and nothing else",
+              "The omitted word must never appear anywhere else in the sentence",
+              "The omitted word must be replaced with a comma in every case",
+              "The omitted word must be clearly recoverable from the surrounding context"
             ],
             "answer": 3
+          },
+          {
+            "q": "How does an elliptical construction differ from an incomplete sentence fragment?",
+            "options": [
+              "An elliptical construction omits words that are still understood by the reader, while a fragment leaves a sentence incomplete and unclear",
+              "A fragment always contains more information than an elliptical construction",
+              "Elliptical constructions are never grammatically acceptable in any context",
+              "An elliptical construction and a sentence fragment are exactly the same thing"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Grammar"
       },
       {
         "subject": "Functions",
@@ -37707,60 +37781,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Vapor Pressure and Raoults Law",
-        "summary": "Grade 11 Chemistry strand: vapor pressure is the pressure exerted by a substances vapour when it is in equilibrium with its liquid phase, and Raoults law describes how adding a nonvolatile solute lowers a solvents vapor pressure in proportion to the solutes concentration in the mixture.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: Vaccines and Immunology",
+        "summary": "Grade 9 Science strand: immunology studies how the immune system protects the body from pathogens, and vaccines work by training the immune system to recognize specific pathogens before an actual infection occurs.",
+        "resourceLabel": "YouTube: Science: Vaccines and Immunology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Vaccines%20and%20Immunology%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is vapor pressure?",
+            "q": "What does immunology study?",
             "options": [
-              "The pressure exerted only by a solid at absolute zero",
-              "The total pressure of an entire closed room",
-              "The pressure exerted by a substances vapour in equilibrium with its liquid phase",
-              "A pressure that exists only in outer space"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does adding a nonvolatile solute do to a solvents vapor pressure?",
-            "options": [
-              "It raises the vapor pressure dramatically",
-              "It converts the solvent into a solid instantly",
-              "It lowers the vapor pressure",
-              "It has no effect on vapor pressure whatsoever"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does Raoults law relate the drop in vapor pressure to?",
-            "options": [
-              "The colour of the solvent only",
-              "The container material used to hold the solution",
-              "The exact temperature of the room in every case",
-              "The concentration of the dissolved solute"
+              "A concept unrelated to biology",
+              "How plants convert sunlight into food",
+              "How rocks form over long periods of time",
+              "How the immune system protects the body from pathogens"
             ],
             "answer": 3
           },
           {
-            "q": "Why does a nonvolatile solute lower a solvents vapor pressure?",
+            "q": "What do vaccines train the immune system to recognize?",
             "options": [
-              "Nonvolatile solutes always evaporate faster than the solvent itself",
-              "Solute particles occupy space at the surface, reducing the rate at which solvent molecules escape",
-              "Solute particles have no effect on the solvents surface at all",
-              "Solute particles increase the rate at which solvent molecules escape"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What phase equilibrium is vapor pressure defined in terms of?",
-            "options": [
-              "Equilibrium between a substances liquid and vapour phases",
-              "Equilibrium between two completely different elements",
-              "A condition that involves no phase equilibrium at all",
-              "Equilibrium between a solid and a plasma phase"
+              "Specific pathogens",
+              "A concept unrelated to vaccines",
+              "Nothing at all related to disease",
+              "Only harmless substances with no medical purpose"
             ],
             "answer": 0
+          },
+          {
+            "q": "Do vaccines typically work by preparing the immune system before an actual infection occurs?",
+            "options": [
+              "No, vaccines only work after a person is already infected",
+              "A concept unrelated to vaccines",
+              "Timing has no connection to how vaccines work",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a vaccine include a small, harmless piece of a pathogen rather than a full, dangerous version?",
+            "options": [
+              "This concept has no connection to immunology",
+              "Vaccines always include the full, dangerous version of a pathogen",
+              "It allows the immune system to learn and build a defense safely, without causing the actual illness",
+              "A harmless piece of a pathogen provides no useful immune response"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is widespread vaccination in a community sometimes linked to protecting people through herd immunity?",
+            "options": [
+              "Vaccinating a community never has any effect on how a disease spreads",
+              "This concept has no relevance to science",
+              "Herd immunity has no connection to vaccination at all",
+              "When enough people are immune, a disease has a harder time spreading, protecting those who cannot be vaccinated"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -37831,63 +37905,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: An Introduction to Cryptography and the RSA Algorithm",
-        "summary": "Grade 11 Functions strand: the RSA algorithm encrypts messages using a public key built from two large prime numbers, and decrypting the message requires a private key derived from those same primes, a security scheme whose strength rests on how difficult it is to factor the product of two large primes.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Statistics: An Introduction to Percentiles and Quartiles",
+        "summary": "Grade 8 Math strand: a percentile indicates the percentage of data values in a set that fall below a given value, and quartiles divide an ordered data set into four equal parts, with the second quartile equal to the median.",
+        "resourceLabel": "YouTube: Statistics: An Introduction to Percentiles and Quartiles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Percentiles%20and%20Quartiles%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a public key in the RSA algorithm built from?",
+            "q": "What does a percentile indicate?",
             "options": [
-              "A single even number chosen at random",
-              "A fixed constant that never changes between users",
-              "A list of common English words",
-              "Two large prime numbers"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is required to decrypt an RSA-encrypted message?",
-            "options": [
-              "Nothing at all, since RSA messages decrypt themselves automatically",
-              "A private key derived from the same two primes",
-              "A key that has no mathematical relationship to the primes used",
-              "Only the public key, with no private key needed"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What mathematical difficulty does the security of RSA rest on?",
-            "options": [
-              "The difficulty of factoring the product of two large primes",
-              "The impossibility of multiplying two prime numbers together",
-              "The ease of factoring any number instantly",
-              "A difficulty that has no connection to prime numbers at all"
+              "The percentage of data values in a set that fall below a given value",
+              "The exact number of data points in a set",
+              "The largest value in a data set",
+              "The colour used in a graph of the data"
             ],
             "answer": 0
           },
           {
-            "q": "Why can the public key be shared openly while the private key must stay secret?",
+            "q": "How many equal parts do quartiles divide an ordered data set into?",
             "options": [
-              "Both keys are always identical, so secrecy makes no difference",
-              "Neither key needs to remain secret under any circumstance",
-              "The public key alone can reverse the encryption just as easily",
-              "Only the private key, derived from the original primes, can reverse the encryption"
+              "Two",
+              "One hundred",
+              "Four",
+              "Ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which quartile is equal to the median of a data set?",
+            "options": [
+              "The second quartile",
+              "The first quartile",
+              "The fourth quartile",
+              "The third quartile"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a students test score is at the 90th percentile, what does that mean?",
+            "options": [
+              "The student is ninety years old",
+              "The student scored in the bottom ten percent of the class",
+              "The student answered exactly ninety percent of the questions correctly",
+              "The students score is higher than about ninety percent of other scores in the set"
             ],
             "answer": 3
           },
           {
-            "q": "What earlier number theory concepts does RSA encryption depend on?",
+            "q": "Why are percentiles and quartiles useful for interpreting a large data set?",
             "options": [
-              "Geometric proofs involving triangles",
-              "Prime numbers and modular arithmetic",
-              "Trigonometric identities exclusively",
-              "Only basic addition and subtraction"
+              "They can only be used with data sets smaller than ten values",
+              "They eliminate the need to ever collect data",
+              "They summarize how a specific value compares to the overall spread of the data",
+              "They always describe exactly the same information as the mean"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Biology",
@@ -38076,62 +38150,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: The Traveling Salesman Problem and Computational Complexity",
-        "summary": "Grade 11 Functions strand: the traveling salesman problem asks for the shortest possible route that visits a set of cities exactly once and returns to the start, and the number of possible routes grows so quickly with each added city that finding a guaranteed optimal solution becomes computationally impractical for large sets.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Sequences and Series: Recursive versus Explicit Formulas",
+        "summary": "Grade 9 Math strand: a recursive formula defines each term of a sequence in relation to one or more previous terms, while an explicit formula calculates any term directly using its position in the sequence, offering two different but related ways to describe the same pattern.",
+        "resourceLabel": "YouTube: Sequences and Series: Recursive versus Explicit Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%20and%20Series%3A%20Recursive%20versus%20Explicit%20Formulas%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the traveling salesman problem ask for?",
+            "q": "What does a recursive formula use to define a term in a sequence?",
             "options": [
-              "A route that visits only a single city forever",
-              "The average distance between two randomly chosen cities",
-              "The longest possible route that avoids every city entirely",
-              "The shortest possible route visiting a set of cities exactly once and returning to the start"
+              "One or more previous terms in the sequence",
+              "Only the position number of the term, with no reference to any other term",
+              "A recursive formula never refers to any other term in the sequence",
+              "The final term of the sequence only"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What happens to the number of possible routes as cities are added to the problem?",
+            "q": "What does an explicit formula allow you to calculate directly?",
             "options": [
-              "It becomes undefined once more than one city is included",
-              "It grows extremely quickly",
-              "It decreases toward zero as cities are added",
-              "It stays exactly the same no matter how many cities are added"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does the traveling salesman problem become computationally impractical for large sets of cities?",
-            "options": [
-              "Large sets of cities always have exactly one possible route",
-              "The problem becomes trivially easy once more cities are added",
-              "Finding a guaranteed optimal solution requires checking an enormous number of possible routes",
-              "Computers cannot process any information about cities at all"
+              "Only the very first term of a sequence",
+              "The sum of every term in an infinite sequence only",
+              "Any term in a sequence, using its position number",
+              "An explicit formula cannot be used to calculate any term directly"
             ],
             "answer": 2
           },
           {
-            "q": "What field of study examines problems like the traveling salesman problem in terms of how quickly they can be solved?",
+            "q": "What is a disadvantage of using a recursive formula to find a term far along in a sequence?",
             "options": [
-              "Musical theory",
-              "Ancient history",
-              "Botany",
-              "Computational complexity"
+              "It typically requires calculating every preceding term first, which can be time-consuming",
+              "A recursive formula always calculates a distant term instantly with no prior terms needed",
+              "There is no disadvantage to using a recursive formula for any term",
+              "Recursive formulas can only be used to find the first term of a sequence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of formula would be more efficient for finding the 100th term of a sequence directly?",
+            "options": [
+              "Both formulas require exactly the same amount of calculation in every case",
+              "Neither type of formula can be used to find a specific term",
+              "A recursive formula",
+              "An explicit formula"
             ],
             "answer": 3
           },
           {
-            "q": "What must a valid solution route do with respect to each city?",
+            "q": "How do recursive and explicit formulas relate to each other when describing the same sequence?",
             "options": [
-              "Avoid visiting any city at all",
-              "Visit only cities with names starting with the same letter",
-              "Visit each city an unlimited number of times",
-              "Visit each city exactly once before returning to the start"
+              "Explicit and recursive formulas never produce the same set of terms",
+              "Recursive and explicit formulas always describe two completely unrelated sequences",
+              "They can describe the same underlying pattern using two different approaches, one based on previous terms and one based on position",
+              "A sequence can only ever be described using a recursive formula"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Sequences & Series"
       },
       {
         "subject": "Biology",
@@ -38320,63 +38395,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The t-Distribution and Small-Sample Inference",
-        "summary": "Grade 11 Functions strand: the t-distribution is used instead of the normal distribution when estimating a population mean from a small sample with unknown population standard deviation, since its wider, flatter shape accounts for the extra uncertainty that comes with a limited amount of data.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Math Review: Probability, Number Theory, and Statistics (Days 171-179)",
+        "summary": "Grade 8 Math strand review: students revisit skewness and distribution shape, triangular numbers, the isoperimetric problem, synthetic division, and the Birthday Paradox.",
+        "resourceLabel": "YouTube: Math Review: Probability, Number Theory, and Statistics (Days 171-179)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Probability%2C%20Number%20Theory%2C%20and%20Statistics%20%28Days%20171-179%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "When is the t-distribution used instead of the normal distribution?",
+            "q": "What does skewness describe about a data distribution?",
             "options": [
-              "Only when no data has been collected at all",
-              "Only when the population standard deviation is known exactly",
-              "Only when the sample size is extremely large",
-              "When estimating a population mean from a small sample with unknown population standard deviation"
+              "Its asymmetry, or how unevenly the data is spread",
+              "The colour used to display a graph",
+              "The units used to measure the data",
+              "The exact number of data points collected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a triangular number?",
+            "options": [
+              "A number that is always divisible by three",
+              "A number that can only be an even number",
+              "A number with exactly three digits",
+              "A number formed by summing consecutive whole numbers starting from one"
             ],
             "answer": 3
           },
           {
-            "q": "How does the shape of the t-distribution compare to the normal distribution?",
+            "q": "What does the isoperimetric problem ask?",
             "options": [
-              "The t-distribution has no defined shape at all",
-              "It is wider and flatter",
-              "It is narrower and taller",
-              "The two distributions are always identical in shape"
+              "How to convert a shape into a straight line",
+              "How to calculate the volume of a sphere",
+              "Which shape encloses the greatest area for a given perimeter",
+              "Which shape has the smallest possible perimeter for any area"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What does the wider, flatter shape of the t-distribution account for?",
+            "q": "What does synthetic division provide a shortcut for?",
             "options": [
-              "A guarantee that the estimate is exactly correct",
-              "The extra uncertainty that comes with a limited amount of data",
-              "A complete absence of any uncertainty in the estimate",
-              "An error in how the sample was originally collected"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What must be unknown about the population for the t-distribution to be the appropriate choice?",
-            "options": [
-              "The population standard deviation",
-              "The sample mean exclusively",
-              "The total population size only",
-              "Nothing about the population needs to be unknown"
+              "Dividing a polynomial by a linear expression",
+              "Multiplying two polynomials together",
+              "Finding the square root of a number",
+              "Graphing a quadratic function"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a small sample size increase the uncertainty in an estimate of the population mean?",
+            "q": "What does the Birthday Paradox describe?",
             "options": [
-              "A small sample provides less information about the true population, widening the margin of error",
-              "A small sample always provides more information than a large sample",
-              "Small samples eliminate all uncertainty from an estimate",
-              "Sample size has no relationship to the uncertainty of an estimate"
+              "A proof that no two people can share a birthday",
+              "A surprisingly high probability that two people in a group share a birthday",
+              "A rule for calculating everyones exact birthday",
+              "A method for predicting future birthdays"
             ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -39053,63 +39127,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Functions",
-        "title": "Geometry: The Scalar Triple Product and Volume of a Parallelepiped",
-        "summary": "Grade 11 Functions strand: the scalar triple product combines three vectors by taking the dot product of one vector with the cross product of the other two, and its absolute value equals the volume of the parallelepiped formed by the three vectors as edges.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Statistics: An Introduction to Variance",
+        "summary": "Grade 8 Math strand: variance measures how far a set of data values are spread out from their mean by averaging the squared differences between each value and the mean, giving more weight to values that are farther away.",
+        "resourceLabel": "YouTube: Statistics: An Introduction to Variance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20An%20Introduction%20to%20Variance%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "How is the scalar triple product of three vectors formed?",
+            "q": "What does variance measure about a data set?",
             "options": [
-              "By taking the dot product of one vector with the cross product of the other two",
-              "By taking the cross product of all three vectors at once",
-              "By dividing one vector by the sum of the other two",
-              "By adding all three vectors together with no other operation"
+              "The total number of values in the data set",
+              "The exact largest value in the data set",
+              "The order in which data was collected",
+              "How far the data values are spread out from the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is variance calculated from a data set?",
+            "options": [
+              "By counting how many values are above zero",
+              "By multiplying every value by two",
+              "By adding all the values together only",
+              "By averaging the squared differences between each value and the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the differences from the mean squared when calculating variance?",
+            "options": [
+              "Squaring makes every difference equal to zero",
+              "Squaring always produces a negative number",
+              "Squaring removes the need for a mean",
+              "Squaring prevents negative and positive differences from cancelling out and emphasizes larger gaps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a very small variance suggest about a data set?",
+            "options": [
+              "The values are clustered closely around the mean",
+              "The mean cannot be calculated",
+              "The data set has no numerical values",
+              "The values are spread across a huge range"
             ],
             "answer": 0
           },
           {
-            "q": "What geometric quantity does the absolute value of the scalar triple product equal?",
+            "q": "Why is variance a useful measure alongside the mean when describing a data set?",
             "options": [
-              "The surface area of a sphere with the same radius",
-              "The volume of the parallelepiped formed by the three vectors",
-              "The perimeter of a triangle formed by the vectors",
-              "A quantity with no geometric meaning at all"
+              "It shows how consistent or spread out the data is, which the mean alone cannot show",
+              "It always equals the mean in every data set",
+              "It replaces the need to ever calculate a mean",
+              "It can only be used with exactly two data points"
             ],
-            "answer": 1
-          },
-          {
-            "q": "How many vectors are combined in a scalar triple product?",
-            "options": [
-              "One",
-              "Four",
-              "Three",
-              "Two"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What type of quantity does a scalar triple product produce, a scalar or a vector?",
-            "options": [
-              "A matrix of numbers",
-              "A scalar",
-              "A vector perpendicular to all three inputs simultaneously",
-              "A vector with the same direction as the first input"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What shape is formed when three vectors are used as edges meeting at a common vertex?",
-            "options": [
-              "A single straight line",
-              "A perfect sphere",
-              "A parallelepiped",
-              "A flat, two-dimensional triangle only"
-            ],
-            "answer": 2
+            "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Biology",
@@ -40635,58 +40709,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Radiopharmaceuticals — Isotopes in Medical Diagnostic Imaging",
-        "summary": "Grade 11 Chemistry strand: a radiopharmaceutical combines a radioactive isotope with a molecule that targets a specific tissue or organ, and the emitted radiation is detected from outside the body to produce a diagnostic image, allowing doctors to observe processes such as blood flow or metabolic activity without invasive surgery.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: Chemical Bonding: Metallic Bonds and Alloys",
+        "summary": "Grade 9 Science strand: a metallic bond forms when metal atoms share a sea of freely moving electrons, giving metals properties like conductivity and malleability, and an alloy is a mixture of two or more metals with enhanced properties.",
+        "resourceLabel": "YouTube: Science: Chemical Bonding: Metallic Bonds and Alloys",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Chemical%20Bonding%3A%20Metallic%20Bonds%20and%20Alloys%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a radiopharmaceutical combine?",
+            "q": "What forms a metallic bond?",
             "options": [
-              "Two chemically inert gases with no radioactive component",
-              "A compound with no medical application whatsoever",
-              "A solid metal bar with no targeting molecule at all",
-              "A radioactive isotope with a molecule that targets a specific tissue or organ"
+              "Metal atoms sharing a sea of freely moving electrons",
+              "A metal atom completely losing all of its electrons permanently",
+              "Two nonmetal atoms sharing a single electron pair",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do metallic bonds help explain why metals conduct electricity well?",
+            "options": [
+              "Yes",
+              "No, metallic bonds have no connection to electrical conductivity",
+              "A concept unrelated to metallic bonding",
+              "Metals never conduct electricity under any circumstances"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an alloy?",
+            "options": [
+              "A mixture of two or more metals with enhanced properties",
+              "A concept unrelated to metallic bonding",
+              "A type of gas found in the atmosphere",
+              "A single, pure metal element with no mixture at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might steel, an alloy of iron and carbon, be stronger than pure iron alone?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Steel and pure iron always have exactly the same physical properties",
+              "Alloys are always weaker than the pure metals used to create them",
+              "Adding carbon can disrupt the arrangement of metal atoms, making it harder for layers to slide past each other"
             ],
             "answer": 3
           },
           {
-            "q": "How is a diagnostic image produced from a radiopharmaceutical inside the body?",
+            "q": "Why is the malleability of metals, allowing them to be shaped without breaking, explained by the structure of metallic bonding?",
             "options": [
-              "The patient must be surgically opened to view the isotope directly",
-              "Emitted radiation is detected from outside the body",
-              "The isotope is removed from the body before any image is taken",
-              "No radiation of any kind is involved in the imaging process"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What can radiopharmaceutical imaging allow doctors to observe?",
-            "options": [
-              "Processes such as blood flow or metabolic activity",
-              "Only the exact height of a patient",
-              "A patients complete genetic sequence",
-              "Nothing related to any bodily process"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What advantage does radiopharmaceutical imaging offer over invasive surgery?",
-            "options": [
-              "It allows internal processes to be observed without surgery",
-              "It always requires more invasive surgery than any alternative method",
-              "It provides no diagnostic information of any kind",
-              "It can only be used after surgery has already been performed"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is targeting important in the design of a radiopharmaceutical?",
-            "options": [
-              "Targeting removes the need for any radioactive isotope",
-              "Targeting has no effect on where the isotope accumulates in the body",
-              "It directs the radioactive isotope to the specific tissue or organ being studied",
-              "Radiopharmaceuticals spread completely evenly with no targeting at all"
+              "This concept has no relevance to science",
+              "Metals are never able to be shaped or bent under any circumstances",
+              "The freely moving electrons allow metal atoms to shift position relative to each other without breaking the overall bond",
+              "Malleability has no connection to how metallic bonds are structured"
             ],
             "answer": 2
           }
@@ -41612,63 +41686,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Blood Buffering and pH Homeostasis in the Human Body",
-        "summary": "Grade 11 Chemistry strand: blood pH is kept within a narrow range by chemical buffer systems, most notably the bicarbonate buffer, which can absorb excess acid or base by shifting the balance between dissolved carbon dioxide, carbonic acid, and bicarbonate ion, preventing the small pH swings that would otherwise disrupt normal cell function.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: Cell Transport: Diffusion and Osmosis",
+        "summary": "Grade 9 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, and osmosis is the diffusion of water specifically across a semi-permeable membrane.",
+        "resourceLabel": "YouTube: Science: Cell Transport: Diffusion and Osmosis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Cell%20Transport%3A%20Diffusion%20and%20Osmosis%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What keeps blood pH within a narrow range?",
+            "q": "What is diffusion?",
             "options": [
-              "A complete absence of any chemical regulation",
-              "A process that has no connection to pH at all",
-              "A single unchanging chemical with no buffering capacity",
-              "Chemical buffer systems"
+              "A process that only occurs inside solid rocks",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A concept unrelated to biology",
+              "The movement of particles from lower to higher concentration only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is osmosis specifically the diffusion of water across a semi-permeable membrane?",
+            "options": [
+              "Yes",
+              "Osmosis only ever involves the movement of oxygen gas",
+              "No, osmosis never involves the movement of water",
+              "A concept unrelated to osmosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of diffusion?",
+            "options": [
+              "A book resting on a shelf",
+              "A rock sitting motionless on the ground",
+              "Perfume scent gradually spreading through a room",
+              "A car parked in a driveway"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a plant cell placed in salty water lose water through osmosis?",
+            "options": [
+              "This concept has no connection to biology",
+              "Water always moves into a cell placed in salty water",
+              "Salt concentration never affects the movement of water across a membrane",
+              "Water moves from inside the cell, where water concentration is higher, to the saltier solution outside, where it is lower"
             ],
             "answer": 3
           },
           {
-            "q": "Name the buffer system most notably responsible for regulating blood pH.",
+            "q": "Why is diffusion important for cells to obtain oxygen and nutrients?",
             "options": [
-              "A system with no chemical components at all",
-              "The bicarbonate buffer",
-              "A buffer based only on table salt",
-              "A buffer made entirely of pure water with no ions"
+              "This concept has no relevance to science",
+              "Cells always require large amounts of energy to move oxygen and nutrients in by diffusion",
+              "Diffusion never allows any particles to cross a cell membrane",
+              "It allows particles to move passively across cell membranes without requiring extra cellular energy"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What three related substances does the bicarbonate buffer shift the balance between?",
-            "options": [
-              "Sodium, potassium, and calcium only",
-              "Dissolved carbon dioxide, carbonic acid, and bicarbonate ion",
-              "Glucose, fructose, and sucrose",
-              "Oxygen, nitrogen, and argon"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What can the bicarbonate buffer absorb to help maintain stable blood pH?",
-            "options": [
-              "Only excess water, with no acid or base involved",
-              "Excess acid or base",
-              "Nothing, since the buffer has no absorptive capacity",
-              "Only excess oxygen gas"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is maintaining a stable blood pH important for normal cell function?",
-            "options": [
-              "Small pH swings can disrupt the proteins and enzymes cells depend on to function normally",
-              "Blood pH has no connection to how cells function",
-              "Cells function identically no matter how much blood pH changes",
-              "A stable pH always harms normal cellular processes"
-            ],
-            "answer": 0
+            "answer": 3
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Cells & Microorganisms"
       }
     ]
   },
@@ -42588,62 +42662,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: The Chemistry of Glass — Amorphous Solids and Silicate Networks",
-        "summary": "Grade 11 Chemistry strand: glass is an amorphous solid formed by cooling molten silica so quickly that its atoms are locked into a disordered, non-crystalline network rather than the neatly repeating lattice of a true crystal, which is why glass lacks a sharp melting point and instead softens gradually as it is heated.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "Science: Cell Division: Mitosis and Meiosis",
+        "summary": "Grade 9 Science strand: mitosis produces two genetically identical daughter cells for growth and repair, while meiosis produces four genetically unique reproductive cells (gametes) with half the chromosome number.",
+        "resourceLabel": "YouTube: Science: Cell Division: Mitosis and Meiosis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Cell%20Division%3A%20Mitosis%20and%20Meiosis%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What type of solid is glass classified as?",
+            "q": "What does mitosis produce?",
             "options": [
-              "A gas at room temperature",
-              "An amorphous solid",
-              "A perfect crystalline solid",
-              "A pure metal"
+              "Four genetically unique reproductive cells",
+              "A single cell with double the original chromosome number",
+              "A concept unrelated to biology",
+              "Two genetically identical daughter cells"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does meiosis produce reproductive cells with half the chromosome number?",
+            "options": [
+              "No, meiosis never changes the number of chromosomes",
+              "Yes",
+              "A concept unrelated to meiosis",
+              "Meiosis always doubles the chromosome number instead"
             ],
             "answer": 1
           },
           {
-            "q": "What raw material is typically melted and rapidly cooled to form glass?",
+            "q": "Which type of cell division is used for growth and tissue repair?",
             "options": [
-              "Table salt",
-              "Liquid mercury",
-              "Pure carbon",
-              "Silica"
+              "Mitosis",
+              "Meiosis",
+              "A concept unrelated to cell division",
+              "Neither mitosis nor meiosis is ever used for growth"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why does glass lack the neatly repeating structure of a true crystal?",
+            "q": "Why does meiosis produce four genetically unique cells rather than two identical ones?",
             "options": [
-              "Glass contains no atoms of any kind",
-              "Glass is cooled so slowly that it always forms a crystal",
-              "Its atoms are locked into a disordered network as it cools too quickly to form a regular lattice",
-              "Its atoms always form a perfectly repeating lattice identical to a crystal"
+              "Genetic recombination never occurs during meiosis",
+              "It involves genetic recombination and independent assortment, creating unique combinations of chromosomes",
+              "This concept has no connection to biology",
+              "Meiosis always produces cells that are perfectly identical to one another"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What happens to glass as it is heated, in contrast to a crystalline solid with a sharp melting point?",
+            "q": "Why is it important that gametes produced by meiosis have half the normal chromosome number?",
             "options": [
-              "It converts directly into a gas with no intermediate softening",
-              "It melts instantly at a single precise temperature identical to ice",
-              "It softens gradually rather than melting at one exact temperature",
-              "It remains perfectly rigid at every temperature"
+              "So that when two gametes combine during fertilization, the resulting offspring has the correct full chromosome number",
+              "This concept has no relevance to science",
+              "Fertilization always results in offspring with double the normal chromosome number",
+              "Gametes never need to have a reduced chromosome number for reproduction to work"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the disordered atomic structure of glass significant for its physical properties?",
-            "options": [
-              "A disordered structure has no effect on any physical property",
-              "Glass and crystalline solids always behave identically when heated",
-              "Disordered structure only affects the colour of a material, not its melting behaviour",
-              "It explains why glass behaves differently from crystalline solids when heated or stressed"
-            ],
-            "answer": 3
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Cells & Microorganisms"
       }
     ]
   },
@@ -43078,63 +43153,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Chemistry",
-        "title": "Chemistry: Photovoltaic Cells and the Chemistry of Solar Energy Conversion",
-        "summary": "Grade 11 Chemistry strand: a photovoltaic cell converts sunlight directly into electricity using a semiconductor material, typically silicon treated to create a junction between regions with different electrical properties, so that absorbed light energy frees electrons that are then driven through an external circuit as a usable current.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "title": "The Human Ear and the Physics of Hearing",
+        "summary": "Grade 9 Science strand: the ear captures sound waves and converts their vibrations into electrical signals through structures like the eardrum and cochlea, which the brain then interprets as sound.",
+        "resourceLabel": "YouTube: The Human Ear and the Physics of Hearing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Ear%20and%20the%20Physics%20of%20Hearing%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a photovoltaic cell convert sunlight into?",
+            "q": "What does the ear capture and convert into signals?",
             "options": [
-              "Heat with no electrical output at all",
-              "Electricity",
-              "A gas with no other product formed",
-              "Pure water"
+              "Chemical signals",
+              "Magnetic fields",
+              "Sound waves",
+              "Light waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure vibrates when sound waves first enter the ear?",
+            "options": [
+              "The retina",
+              "The cochlea alone",
+              "The optic nerve",
+              "The eardrum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What part of the inner ear helps convert vibrations into electrical signals?",
+            "options": [
+              "The trachea",
+              "The cochlea",
+              "The epidermis",
+              "The pupil"
             ],
             "answer": 1
           },
           {
-            "q": "What type of material is central to how a photovoltaic cell works?",
+            "q": "How does the brain use the electrical signals sent from the ear?",
             "options": [
-              "A semiconductor material",
-              "A pure insulator with no conductivity at all",
-              "A liquid with no solid component",
-              "A noble gas"
+              "It interprets them as sound",
+              "It uses them only to control digestion",
+              "It converts them into images",
+              "It ignores them completely"
             ],
             "answer": 0
           },
           {
-            "q": "What semiconductor is commonly used in photovoltaic cells?",
+            "q": "Studying the physics of sound and hearing connects biology to which field of physics?",
             "options": [
-              "Liquid mercury",
-              "Silicon",
-              "Table salt",
-              "Pure gold"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What happens to electrons when light energy is absorbed by the semiconductor in a photovoltaic cell?",
-            "options": [
-              "They convert directly into photons with no electrical effect",
-              "They are freed and driven through an external circuit as a usable current",
-              "They remain completely fixed in place with no movement at all",
-              "They are destroyed and cease to exist"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What structural feature within the semiconductor helps generate a directional flow of current?",
-            "options": [
-              "A single uniform region with no junction of any kind",
-              "A structure identical throughout the entire cell with no variation",
-              "A junction between regions with different electrical properties",
-              "A junction that only exists in the absence of light"
+              "Thermodynamics (the study of heat)",
+              "Astronomy (the study of space)",
+              "Acoustics (the study of sound)",
+              "Optics (the study of light)"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Energy"
+        ]
       }
     ]
   },

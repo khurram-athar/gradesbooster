@@ -1,408 +1,40 @@
 {
  "0": [
   [
-   90,
-   "Language"
+   68,
+   "Science"
   ],
   [
-   91,
-   "Language"
+   69,
+   "Science"
   ],
   [
-   92,
-   "Language"
-  ],
-  [
-   93,
-   "Language"
-  ],
-  [
-   94,
-   "Language"
-  ],
-  [
-   95,
-   "Language"
-  ],
-  [
-   96,
-   "Language"
-  ],
-  [
-   97,
-   "Language"
-  ],
-  [
-   98,
-   "Language"
-  ],
-  [
-   99,
-   "Language"
-  ],
-  [
-   100,
-   "Language"
-  ],
-  [
-   101,
-   "Language"
-  ],
-  [
-   102,
-   "Language"
-  ],
-  [
-   103,
-   "Language"
-  ],
-  [
-   104,
-   "Language"
-  ],
-  [
-   105,
-   "Language"
-  ],
-  [
-   106,
-   "Language"
-  ],
-  [
-   107,
-   "Language"
-  ],
-  [
-   108,
-   "Language"
-  ],
-  [
-   109,
-   "Language"
-  ],
-  [
-   110,
-   "Language"
-  ],
-  [
-   111,
-   "Language"
-  ],
-  [
-   112,
-   "Language"
-  ],
-  [
-   113,
-   "Language"
-  ],
-  [
-   114,
-   "Language"
-  ],
-  [
-   115,
-   "Language"
-  ],
-  [
-   116,
-   "Language"
-  ],
-  [
-   117,
-   "Language"
-  ],
-  [
-   118,
-   "Language"
-  ],
-  [
-   119,
-   "Language"
-  ],
-  [
-   120,
-   "Language"
-  ],
-  [
-   121,
-   "Language"
-  ],
-  [
-   122,
-   "Language"
-  ],
-  [
-   123,
-   "Language"
-  ],
-  [
-   124,
-   "Language"
-  ],
-  [
-   125,
-   "Language"
-  ],
-  [
-   126,
-   "Language"
-  ],
-  [
-   127,
-   "Language"
-  ],
-  [
-   128,
-   "Language"
-  ],
-  [
-   129,
-   "Language"
-  ],
-  [
-   130,
-   "Language"
-  ],
-  [
-   131,
-   "Language"
-  ],
-  [
-   132,
-   "Language"
-  ],
-  [
-   133,
-   "Language"
-  ],
-  [
-   134,
-   "Language"
-  ],
-  [
-   135,
-   "Language"
-  ],
-  [
-   136,
-   "Language"
-  ],
-  [
-   137,
-   "Language"
-  ],
-  [
-   138,
-   "Language"
-  ],
-  [
-   139,
-   "Language"
-  ],
-  [
-   140,
-   "Language"
-  ],
-  [
-   141,
-   "Language"
-  ],
-  [
-   142,
-   "Language"
-  ],
-  [
-   143,
-   "Language"
-  ],
-  [
-   144,
-   "Language"
-  ],
-  [
-   145,
-   "Language"
-  ],
-  [
-   146,
-   "Language"
-  ],
-  [
-   147,
-   "Language"
-  ],
-  [
-   148,
-   "Language"
-  ],
-  [
-   149,
-   "Language"
-  ],
-  [
-   150,
-   "Language"
-  ],
-  [
-   151,
-   "Language"
-  ],
-  [
-   152,
-   "Language"
-  ],
-  [
-   153,
-   "Language"
-  ],
-  [
-   154,
-   "Language"
-  ],
-  [
-   155,
-   "Language"
-  ],
-  [
-   156,
-   "Language"
-  ],
-  [
-   157,
-   "Language"
-  ],
-  [
-   158,
-   "Language"
-  ],
-  [
-   159,
-   "Language"
-  ],
-  [
-   160,
-   "Language"
-  ],
-  [
-   161,
-   "Language"
-  ],
-  [
-   162,
-   "Language"
-  ],
-  [
-   163,
-   "Language"
-  ],
-  [
-   164,
-   "Language"
-  ],
-  [
-   165,
-   "Language"
-  ],
-  [
-   166,
-   "Language"
-  ],
-  [
-   167,
-   "Language"
-  ],
-  [
-   168,
-   "Language"
-  ],
-  [
-   169,
-   "Language"
-  ],
-  [
-   170,
-   "Language"
-  ],
-  [
-   171,
-   "Language"
-  ],
-  [
-   172,
-   "Language"
-  ],
-  [
-   173,
-   "Language"
-  ],
-  [
-   174,
-   "Language"
-  ],
-  [
-   175,
-   "Language"
-  ],
-  [
-   176,
-   "Language"
-  ],
-  [
-   177,
-   "Language"
-  ],
-  [
-   178,
-   "Language"
-  ],
-  [
-   179,
-   "Language"
-  ],
-  [
-   180,
-   "Language"
-  ],
-  [
-   181,
-   "Language"
-  ],
-  [
-   182,
-   "Language"
-  ],
-  [
-   183,
-   "Language"
-  ],
-  [
-   184,
-   "Language"
-  ],
-  [
-   185,
-   "Language"
-  ],
-  [
-   186,
-   "Language"
-  ],
-  [
-   187,
-   "Language"
+   70,
+   "Science"
   ],
   [
    71,
    "Math"
   ],
   [
+   71,
+   "Science"
+  ],
+  [
    72,
    "Math"
   ],
   [
+   72,
+   "Science"
+  ],
+  [
    73,
    "Math"
+  ],
+  [
+   73,
+   "Science"
   ],
   [
    74,
@@ -441,236 +73,888 @@
    "Math"
   ],
   [
+   82,
+   "Science"
+  ],
+  [
+   82,
+   "SocialStudies"
+  ],
+  [
    83,
    "Math"
+  ],
+  [
+   83,
+   "Science"
+  ],
+  [
+   83,
+   "SocialStudies"
   ],
   [
    84,
    "Math"
   ],
   [
+   84,
+   "Science"
+  ],
+  [
+   84,
+   "SocialStudies"
+  ],
+  [
    85,
    "Math"
+  ],
+  [
+   85,
+   "Science"
+  ],
+  [
+   85,
+   "SocialStudies"
   ],
   [
    86,
    "Math"
   ],
   [
+   86,
+   "Science"
+  ],
+  [
+   86,
+   "SocialStudies"
+  ],
+  [
    87,
    "Math"
+  ],
+  [
+   87,
+   "Science"
+  ],
+  [
+   87,
+   "SocialStudies"
   ],
   [
    88,
    "Math"
   ],
   [
+   88,
+   "Science"
+  ],
+  [
+   88,
+   "SocialStudies"
+  ],
+  [
    89,
    "Math"
+  ],
+  [
+   89,
+   "Science"
+  ],
+  [
+   89,
+   "SocialStudies"
+  ],
+  [
+   90,
+   "Language"
   ],
   [
    90,
    "Math"
   ],
   [
+   90,
+   "Science"
+  ],
+  [
+   90,
+   "SocialStudies"
+  ],
+  [
+   91,
+   "Language"
+  ],
+  [
    91,
    "Math"
+  ],
+  [
+   91,
+   "Science"
+  ],
+  [
+   91,
+   "SocialStudies"
+  ],
+  [
+   92,
+   "Language"
   ],
   [
    92,
    "Math"
   ],
   [
+   92,
+   "Science"
+  ],
+  [
+   92,
+   "SocialStudies"
+  ],
+  [
+   93,
+   "Language"
+  ],
+  [
    93,
    "Math"
+  ],
+  [
+   93,
+   "Science"
+  ],
+  [
+   93,
+   "SocialStudies"
+  ],
+  [
+   94,
+   "Language"
   ],
   [
    94,
    "Math"
   ],
   [
+   94,
+   "Science"
+  ],
+  [
+   94,
+   "SocialStudies"
+  ],
+  [
+   95,
+   "Language"
+  ],
+  [
    95,
    "Math"
+  ],
+  [
+   95,
+   "Science"
+  ],
+  [
+   95,
+   "SocialStudies"
+  ],
+  [
+   96,
+   "Language"
   ],
   [
    96,
    "Math"
   ],
   [
+   96,
+   "Science"
+  ],
+  [
+   96,
+   "SocialStudies"
+  ],
+  [
+   97,
+   "Language"
+  ],
+  [
    97,
    "Math"
+  ],
+  [
+   97,
+   "Science"
+  ],
+  [
+   97,
+   "SocialStudies"
+  ],
+  [
+   98,
+   "Language"
   ],
   [
    98,
    "Math"
   ],
   [
+   98,
+   "Science"
+  ],
+  [
+   98,
+   "SocialStudies"
+  ],
+  [
+   99,
+   "Language"
+  ],
+  [
    99,
    "Math"
+  ],
+  [
+   99,
+   "Science"
+  ],
+  [
+   99,
+   "SocialStudies"
+  ],
+  [
+   100,
+   "Language"
   ],
   [
    100,
    "Math"
   ],
   [
+   100,
+   "Science"
+  ],
+  [
+   100,
+   "SocialStudies"
+  ],
+  [
+   101,
+   "Language"
+  ],
+  [
    101,
    "Math"
+  ],
+  [
+   101,
+   "SocialStudies"
+  ],
+  [
+   102,
+   "Language"
   ],
   [
    102,
    "Math"
   ],
   [
+   102,
+   "Science"
+  ],
+  [
+   102,
+   "SocialStudies"
+  ],
+  [
+   103,
+   "Language"
+  ],
+  [
    103,
    "Math"
+  ],
+  [
+   103,
+   "Science"
+  ],
+  [
+   103,
+   "SocialStudies"
+  ],
+  [
+   104,
+   "Language"
   ],
   [
    104,
    "Math"
   ],
   [
+   104,
+   "Science"
+  ],
+  [
+   104,
+   "SocialStudies"
+  ],
+  [
+   105,
+   "Language"
+  ],
+  [
    105,
    "Math"
+  ],
+  [
+   105,
+   "Science"
+  ],
+  [
+   105,
+   "SocialStudies"
+  ],
+  [
+   106,
+   "Language"
   ],
   [
    106,
    "Math"
   ],
   [
+   106,
+   "Science"
+  ],
+  [
+   106,
+   "SocialStudies"
+  ],
+  [
+   107,
+   "Language"
+  ],
+  [
    107,
    "Math"
+  ],
+  [
+   107,
+   "Science"
+  ],
+  [
+   107,
+   "SocialStudies"
+  ],
+  [
+   108,
+   "Language"
   ],
   [
    108,
    "Math"
   ],
   [
+   108,
+   "Science"
+  ],
+  [
+   108,
+   "SocialStudies"
+  ],
+  [
+   109,
+   "Language"
+  ],
+  [
    109,
    "Math"
+  ],
+  [
+   109,
+   "Science"
+  ],
+  [
+   109,
+   "SocialStudies"
+  ],
+  [
+   110,
+   "Language"
   ],
   [
    110,
    "Math"
   ],
   [
+   110,
+   "Science"
+  ],
+  [
+   110,
+   "SocialStudies"
+  ],
+  [
+   111,
+   "Language"
+  ],
+  [
    111,
    "Math"
+  ],
+  [
+   111,
+   "Science"
+  ],
+  [
+   111,
+   "SocialStudies"
+  ],
+  [
+   112,
+   "Language"
   ],
   [
    112,
    "Math"
   ],
   [
+   112,
+   "Science"
+  ],
+  [
+   112,
+   "SocialStudies"
+  ],
+  [
+   113,
+   "Language"
+  ],
+  [
    113,
    "Math"
+  ],
+  [
+   113,
+   "Science"
+  ],
+  [
+   113,
+   "SocialStudies"
+  ],
+  [
+   114,
+   "Language"
   ],
   [
    114,
    "Math"
   ],
   [
+   114,
+   "Science"
+  ],
+  [
+   114,
+   "SocialStudies"
+  ],
+  [
+   115,
+   "Language"
+  ],
+  [
    115,
    "Math"
+  ],
+  [
+   115,
+   "Science"
+  ],
+  [
+   115,
+   "SocialStudies"
+  ],
+  [
+   116,
+   "Language"
   ],
   [
    116,
    "Math"
   ],
   [
+   116,
+   "Science"
+  ],
+  [
+   116,
+   "SocialStudies"
+  ],
+  [
+   117,
+   "Language"
+  ],
+  [
    117,
    "Math"
+  ],
+  [
+   117,
+   "Science"
+  ],
+  [
+   117,
+   "SocialStudies"
+  ],
+  [
+   118,
+   "Language"
   ],
   [
    118,
    "Math"
   ],
   [
+   118,
+   "Science"
+  ],
+  [
+   118,
+   "SocialStudies"
+  ],
+  [
+   119,
+   "Language"
+  ],
+  [
    119,
    "Math"
+  ],
+  [
+   119,
+   "Science"
+  ],
+  [
+   119,
+   "SocialStudies"
+  ],
+  [
+   120,
+   "Language"
   ],
   [
    120,
    "Math"
   ],
   [
+   120,
+   "Science"
+  ],
+  [
+   120,
+   "SocialStudies"
+  ],
+  [
+   121,
+   "Language"
+  ],
+  [
    121,
    "Math"
+  ],
+  [
+   121,
+   "Science"
+  ],
+  [
+   121,
+   "SocialStudies"
+  ],
+  [
+   122,
+   "Language"
   ],
   [
    122,
    "Math"
   ],
   [
+   122,
+   "Science"
+  ],
+  [
+   122,
+   "SocialStudies"
+  ],
+  [
+   123,
+   "Language"
+  ],
+  [
    123,
    "Math"
+  ],
+  [
+   123,
+   "SocialStudies"
+  ],
+  [
+   124,
+   "Language"
   ],
   [
    124,
    "Math"
   ],
   [
+   124,
+   "SocialStudies"
+  ],
+  [
+   125,
+   "Language"
+  ],
+  [
    125,
    "Math"
+  ],
+  [
+   125,
+   "SocialStudies"
+  ],
+  [
+   126,
+   "Language"
   ],
   [
    126,
    "Math"
   ],
   [
+   126,
+   "Science"
+  ],
+  [
+   126,
+   "SocialStudies"
+  ],
+  [
+   127,
+   "Language"
+  ],
+  [
    127,
    "Math"
+  ],
+  [
+   127,
+   "Science"
+  ],
+  [
+   127,
+   "SocialStudies"
+  ],
+  [
+   128,
+   "Language"
   ],
   [
    128,
    "Math"
   ],
   [
+   128,
+   "Science"
+  ],
+  [
+   128,
+   "SocialStudies"
+  ],
+  [
+   129,
+   "Language"
+  ],
+  [
    129,
    "Math"
+  ],
+  [
+   129,
+   "Science"
+  ],
+  [
+   129,
+   "SocialStudies"
+  ],
+  [
+   130,
+   "Language"
   ],
   [
    130,
    "Math"
   ],
   [
+   130,
+   "Science"
+  ],
+  [
+   130,
+   "SocialStudies"
+  ],
+  [
+   131,
+   "Language"
+  ],
+  [
    131,
    "Math"
+  ],
+  [
+   131,
+   "SocialStudies"
+  ],
+  [
+   132,
+   "Language"
   ],
   [
    132,
    "Math"
   ],
   [
+   132,
+   "SocialStudies"
+  ],
+  [
+   133,
+   "Language"
+  ],
+  [
    133,
    "Math"
+  ],
+  [
+   133,
+   "Science"
+  ],
+  [
+   133,
+   "SocialStudies"
+  ],
+  [
+   134,
+   "Language"
   ],
   [
    134,
    "Math"
   ],
   [
+   134,
+   "Science"
+  ],
+  [
+   134,
+   "SocialStudies"
+  ],
+  [
+   135,
+   "Language"
+  ],
+  [
    135,
    "Math"
+  ],
+  [
+   135,
+   "Science"
+  ],
+  [
+   135,
+   "SocialStudies"
+  ],
+  [
+   136,
+   "Language"
   ],
   [
    136,
    "Math"
   ],
   [
+   136,
+   "Science"
+  ],
+  [
+   136,
+   "SocialStudies"
+  ],
+  [
+   137,
+   "Language"
+  ],
+  [
    137,
    "Math"
+  ],
+  [
+   137,
+   "SocialStudies"
+  ],
+  [
+   138,
+   "Language"
   ],
   [
    138,
    "Math"
   ],
   [
+   138,
+   "Science"
+  ],
+  [
+   138,
+   "SocialStudies"
+  ],
+  [
+   139,
+   "Language"
+  ],
+  [
    139,
    "Math"
   ],
   [
+   139,
+   "Science"
+  ],
+  [
+   139,
+   "SocialStudies"
+  ],
+  [
+   140,
+   "Language"
+  ],
+  [
    140,
    "Math"
+  ],
+  [
+   140,
+   "Science"
+  ],
+  [
+   140,
+   "SocialStudies"
+  ],
+  [
+   141,
+   "Language"
   ],
   [
    141,
@@ -678,7 +962,15 @@
   ],
   [
    142,
+   "Language"
+  ],
+  [
+   142,
    "Math"
+  ],
+  [
+   143,
+   "Language"
   ],
   [
    143,
@@ -686,31 +978,87 @@
   ],
   [
    144,
+   "Language"
+  ],
+  [
+   144,
    "Math"
+  ],
+  [
+   145,
+   "Language"
   ],
   [
    145,
    "Math"
   ],
   [
+   145,
+   "Science"
+  ],
+  [
+   146,
+   "Language"
+  ],
+  [
    146,
    "Math"
+  ],
+  [
+   146,
+   "Science"
+  ],
+  [
+   147,
+   "Language"
   ],
   [
    147,
    "Math"
   ],
   [
+   147,
+   "Science"
+  ],
+  [
+   148,
+   "Language"
+  ],
+  [
    148,
    "Math"
+  ],
+  [
+   148,
+   "Science"
+  ],
+  [
+   149,
+   "Language"
   ],
   [
    149,
    "Math"
   ],
   [
+   149,
+   "Science"
+  ],
+  [
+   150,
+   "Language"
+  ],
+  [
    150,
    "Math"
+  ],
+  [
+   150,
+   "Science"
+  ],
+  [
+   151,
+   "Language"
   ],
   [
    151,
@@ -718,7 +1066,15 @@
   ],
   [
    152,
+   "Language"
+  ],
+  [
+   152,
    "Math"
+  ],
+  [
+   153,
+   "Language"
   ],
   [
    153,
@@ -726,7 +1082,15 @@
   ],
   [
    154,
+   "Language"
+  ],
+  [
+   154,
    "Math"
+  ],
+  [
+   155,
+   "Language"
   ],
   [
    155,
@@ -734,379 +1098,11 @@
   ],
   [
    156,
+   "Language"
+  ],
+  [
+   156,
    "Math"
-  ],
-  [
-   157,
-   "Math"
-  ],
-  [
-   158,
-   "Math"
-  ],
-  [
-   159,
-   "Math"
-  ],
-  [
-   160,
-   "Math"
-  ],
-  [
-   161,
-   "Math"
-  ],
-  [
-   162,
-   "Math"
-  ],
-  [
-   163,
-   "Math"
-  ],
-  [
-   164,
-   "Math"
-  ],
-  [
-   165,
-   "Math"
-  ],
-  [
-   166,
-   "Math"
-  ],
-  [
-   167,
-   "Math"
-  ],
-  [
-   168,
-   "Math"
-  ],
-  [
-   169,
-   "Math"
-  ],
-  [
-   170,
-   "Math"
-  ],
-  [
-   171,
-   "Math"
-  ],
-  [
-   172,
-   "Math"
-  ],
-  [
-   173,
-   "Math"
-  ],
-  [
-   174,
-   "Math"
-  ],
-  [
-   175,
-   "Math"
-  ],
-  [
-   176,
-   "Math"
-  ],
-  [
-   177,
-   "Math"
-  ],
-  [
-   179,
-   "Math"
-  ],
-  [
-   180,
-   "Math"
-  ],
-  [
-   181,
-   "Math"
-  ],
-  [
-   182,
-   "Math"
-  ],
-  [
-   183,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   186,
-   "Math"
-  ],
-  [
-   187,
-   "Math"
-  ],
-  [
-   68,
-   "Science"
-  ],
-  [
-   69,
-   "Science"
-  ],
-  [
-   70,
-   "Science"
-  ],
-  [
-   71,
-   "Science"
-  ],
-  [
-   72,
-   "Science"
-  ],
-  [
-   73,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   83,
-   "Science"
-  ],
-  [
-   84,
-   "Science"
-  ],
-  [
-   85,
-   "Science"
-  ],
-  [
-   86,
-   "Science"
-  ],
-  [
-   87,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   89,
-   "Science"
-  ],
-  [
-   90,
-   "Science"
-  ],
-  [
-   91,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   93,
-   "Science"
-  ],
-  [
-   94,
-   "Science"
-  ],
-  [
-   95,
-   "Science"
-  ],
-  [
-   96,
-   "Science"
-  ],
-  [
-   97,
-   "Science"
-  ],
-  [
-   98,
-   "Science"
-  ],
-  [
-   99,
-   "Science"
-  ],
-  [
-   100,
-   "Science"
-  ],
-  [
-   102,
-   "Science"
-  ],
-  [
-   103,
-   "Science"
-  ],
-  [
-   104,
-   "Science"
-  ],
-  [
-   105,
-   "Science"
-  ],
-  [
-   106,
-   "Science"
-  ],
-  [
-   107,
-   "Science"
-  ],
-  [
-   108,
-   "Science"
-  ],
-  [
-   109,
-   "Science"
-  ],
-  [
-   110,
-   "Science"
-  ],
-  [
-   111,
-   "Science"
-  ],
-  [
-   112,
-   "Science"
-  ],
-  [
-   113,
-   "Science"
-  ],
-  [
-   114,
-   "Science"
-  ],
-  [
-   115,
-   "Science"
-  ],
-  [
-   116,
-   "Science"
-  ],
-  [
-   117,
-   "Science"
-  ],
-  [
-   118,
-   "Science"
-  ],
-  [
-   119,
-   "Science"
-  ],
-  [
-   120,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   122,
-   "Science"
-  ],
-  [
-   126,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   128,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   130,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   134,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   136,
-   "Science"
-  ],
-  [
-   138,
-   "Science"
-  ],
-  [
-   139,
-   "Science"
-  ],
-  [
-   140,
-   "Science"
-  ],
-  [
-   145,
-   "Science"
-  ],
-  [
-   146,
-   "Science"
-  ],
-  [
-   147,
-   "Science"
-  ],
-  [
-   148,
-   "Science"
-  ],
-  [
-   149,
-   "Science"
-  ],
-  [
-   150,
-   "Science"
   ],
   [
    156,
@@ -1114,7 +1110,23 @@
   ],
   [
    157,
+   "Language"
+  ],
+  [
+   157,
+   "Math"
+  ],
+  [
+   157,
    "Science"
+  ],
+  [
+   158,
+   "Language"
+  ],
+  [
+   158,
+   "Math"
   ],
   [
    158,
@@ -1122,7 +1134,23 @@
   ],
   [
    159,
+   "Language"
+  ],
+  [
+   159,
+   "Math"
+  ],
+  [
+   159,
    "Science"
+  ],
+  [
+   160,
+   "Language"
+  ],
+  [
+   160,
+   "Math"
   ],
   [
    160,
@@ -1130,263 +1158,15 @@
   ],
   [
    161,
+   "Language"
+  ],
+  [
+   161,
+   "Math"
+  ],
+  [
+   161,
    "Science"
-  ],
-  [
-   166,
-   "Science"
-  ],
-  [
-   175,
-   "Science"
-  ],
-  [
-   178,
-   "Science"
-  ],
-  [
-   186,
-   "Science"
-  ],
-  [
-   187,
-   "Science"
-  ],
-  [
-   82,
-   "SocialStudies"
-  ],
-  [
-   83,
-   "SocialStudies"
-  ],
-  [
-   84,
-   "SocialStudies"
-  ],
-  [
-   85,
-   "SocialStudies"
-  ],
-  [
-   86,
-   "SocialStudies"
-  ],
-  [
-   87,
-   "SocialStudies"
-  ],
-  [
-   88,
-   "SocialStudies"
-  ],
-  [
-   89,
-   "SocialStudies"
-  ],
-  [
-   90,
-   "SocialStudies"
-  ],
-  [
-   91,
-   "SocialStudies"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   93,
-   "SocialStudies"
-  ],
-  [
-   94,
-   "SocialStudies"
-  ],
-  [
-   95,
-   "SocialStudies"
-  ],
-  [
-   96,
-   "SocialStudies"
-  ],
-  [
-   97,
-   "SocialStudies"
-  ],
-  [
-   98,
-   "SocialStudies"
-  ],
-  [
-   99,
-   "SocialStudies"
-  ],
-  [
-   100,
-   "SocialStudies"
-  ],
-  [
-   101,
-   "SocialStudies"
-  ],
-  [
-   102,
-   "SocialStudies"
-  ],
-  [
-   103,
-   "SocialStudies"
-  ],
-  [
-   104,
-   "SocialStudies"
-  ],
-  [
-   105,
-   "SocialStudies"
-  ],
-  [
-   106,
-   "SocialStudies"
-  ],
-  [
-   107,
-   "SocialStudies"
-  ],
-  [
-   108,
-   "SocialStudies"
-  ],
-  [
-   109,
-   "SocialStudies"
-  ],
-  [
-   110,
-   "SocialStudies"
-  ],
-  [
-   111,
-   "SocialStudies"
-  ],
-  [
-   112,
-   "SocialStudies"
-  ],
-  [
-   113,
-   "SocialStudies"
-  ],
-  [
-   114,
-   "SocialStudies"
-  ],
-  [
-   115,
-   "SocialStudies"
-  ],
-  [
-   116,
-   "SocialStudies"
-  ],
-  [
-   117,
-   "SocialStudies"
-  ],
-  [
-   118,
-   "SocialStudies"
-  ],
-  [
-   119,
-   "SocialStudies"
-  ],
-  [
-   120,
-   "SocialStudies"
-  ],
-  [
-   121,
-   "SocialStudies"
-  ],
-  [
-   122,
-   "SocialStudies"
-  ],
-  [
-   123,
-   "SocialStudies"
-  ],
-  [
-   124,
-   "SocialStudies"
-  ],
-  [
-   125,
-   "SocialStudies"
-  ],
-  [
-   126,
-   "SocialStudies"
-  ],
-  [
-   127,
-   "SocialStudies"
-  ],
-  [
-   128,
-   "SocialStudies"
-  ],
-  [
-   129,
-   "SocialStudies"
-  ],
-  [
-   130,
-   "SocialStudies"
-  ],
-  [
-   131,
-   "SocialStudies"
-  ],
-  [
-   132,
-   "SocialStudies"
-  ],
-  [
-   133,
-   "SocialStudies"
-  ],
-  [
-   134,
-   "SocialStudies"
-  ],
-  [
-   135,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   137,
-   "SocialStudies"
-  ],
-  [
-   138,
-   "SocialStudies"
-  ],
-  [
-   139,
-   "SocialStudies"
-  ],
-  [
-   140,
-   "SocialStudies"
   ],
   [
    161,
@@ -1394,7 +1174,23 @@
   ],
   [
    162,
+   "Language"
+  ],
+  [
+   162,
+   "Math"
+  ],
+  [
+   162,
    "SocialStudies"
+  ],
+  [
+   163,
+   "Language"
+  ],
+  [
+   163,
+   "Math"
   ],
   [
    163,
@@ -1402,7 +1198,23 @@
   ],
   [
    164,
+   "Language"
+  ],
+  [
+   164,
+   "Math"
+  ],
+  [
+   164,
    "SocialStudies"
+  ],
+  [
+   165,
+   "Language"
+  ],
+  [
+   165,
+   "Math"
   ],
   [
    165,
@@ -1410,7 +1222,27 @@
   ],
   [
    166,
+   "Language"
+  ],
+  [
+   166,
+   "Math"
+  ],
+  [
+   166,
+   "Science"
+  ],
+  [
+   166,
    "SocialStudies"
+  ],
+  [
+   167,
+   "Language"
+  ],
+  [
+   167,
+   "Math"
   ],
   [
    167,
@@ -1418,7 +1250,23 @@
   ],
   [
    168,
+   "Language"
+  ],
+  [
+   168,
+   "Math"
+  ],
+  [
+   168,
    "SocialStudies"
+  ],
+  [
+   169,
+   "Language"
+  ],
+  [
+   169,
+   "Math"
   ],
   [
    169,
@@ -1426,7 +1274,23 @@
   ],
   [
    170,
+   "Language"
+  ],
+  [
+   170,
+   "Math"
+  ],
+  [
+   170,
    "SocialStudies"
+  ],
+  [
+   171,
+   "Language"
+  ],
+  [
+   171,
+   "Math"
   ],
   [
    171,
@@ -1434,7 +1298,23 @@
   ],
   [
    172,
+   "Language"
+  ],
+  [
+   172,
+   "Math"
+  ],
+  [
+   172,
    "SocialStudies"
+  ],
+  [
+   173,
+   "Language"
+  ],
+  [
+   173,
+   "Math"
   ],
   [
    173,
@@ -1442,7 +1322,27 @@
   ],
   [
    174,
+   "Language"
+  ],
+  [
+   174,
+   "Math"
+  ],
+  [
+   174,
    "SocialStudies"
+  ],
+  [
+   175,
+   "Language"
+  ],
+  [
+   175,
+   "Math"
+  ],
+  [
+   175,
+   "Science"
   ],
   [
    175,
@@ -1450,7 +1350,23 @@
   ],
   [
    176,
+   "Language"
+  ],
+  [
+   176,
+   "Math"
+  ],
+  [
+   176,
    "SocialStudies"
+  ],
+  [
+   177,
+   "Language"
+  ],
+  [
+   177,
+   "Math"
   ],
   [
    177,
@@ -1458,7 +1374,23 @@
   ],
   [
    178,
+   "Language"
+  ],
+  [
+   178,
+   "Science"
+  ],
+  [
+   178,
    "SocialStudies"
+  ],
+  [
+   179,
+   "Language"
+  ],
+  [
+   179,
+   "Math"
   ],
   [
    179,
@@ -1466,260 +1398,80 @@
   ],
   [
    180,
+   "Language"
+  ],
+  [
+   180,
+   "Math"
+  ],
+  [
+   180,
    "SocialStudies"
+  ],
+  [
+   181,
+   "Language"
+  ],
+  [
+   181,
+   "Math"
+  ],
+  [
+   182,
+   "Language"
+  ],
+  [
+   182,
+   "Math"
+  ],
+  [
+   183,
+   "Language"
+  ],
+  [
+   183,
+   "Math"
+  ],
+  [
+   184,
+   "Language"
+  ],
+  [
+   184,
+   "Math"
+  ],
+  [
+   185,
+   "Language"
+  ],
+  [
+   186,
+   "Language"
+  ],
+  [
+   186,
+   "Math"
+  ],
+  [
+   186,
+   "Science"
+  ],
+  [
+   187,
+   "Language"
+  ],
+  [
+   187,
+   "Math"
+  ],
+  [
+   187,
+   "Science"
   ]
  ],
  "1": [
   [
-   99,
-   "Language"
-  ],
-  [
-   113,
-   "Language"
-  ],
-  [
-   114,
-   "Language"
-  ],
-  [
-   115,
-   "Language"
-  ],
-  [
-   116,
-   "Language"
-  ],
-  [
-   153,
-   "Language"
-  ],
-  [
-   166,
-   "Language"
-  ],
-  [
-   167,
-   "Language"
-  ],
-  [
-   168,
-   "Language"
-  ],
-  [
-   169,
-   "Language"
-  ],
-  [
-   170,
-   "Language"
-  ],
-  [
-   171,
-   "Language"
-  ],
-  [
-   172,
-   "Language"
-  ],
-  [
-   173,
-   "Language"
-  ],
-  [
-   174,
-   "Language"
-  ],
-  [
    71,
-   "Math"
-  ],
-  [
-   104,
-   "Math"
-  ],
-  [
-   121,
-   "Math"
-  ],
-  [
-   122,
-   "Math"
-  ],
-  [
-   123,
-   "Math"
-  ],
-  [
-   124,
-   "Math"
-  ],
-  [
-   125,
-   "Math"
-  ],
-  [
-   126,
-   "Math"
-  ],
-  [
-   127,
-   "Math"
-  ],
-  [
-   128,
-   "Math"
-  ],
-  [
-   129,
-   "Math"
-  ],
-  [
-   130,
-   "Math"
-  ],
-  [
-   131,
-   "Math"
-  ],
-  [
-   132,
-   "Math"
-  ],
-  [
-   133,
-   "Math"
-  ],
-  [
-   134,
-   "Math"
-  ],
-  [
-   141,
-   "Math"
-  ],
-  [
-   142,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   145,
-   "Math"
-  ],
-  [
-   146,
-   "Math"
-  ],
-  [
-   147,
-   "Math"
-  ],
-  [
-   148,
-   "Math"
-  ],
-  [
-   149,
-   "Math"
-  ],
-  [
-   150,
-   "Math"
-  ],
-  [
-   151,
-   "Math"
-  ],
-  [
-   161,
-   "Math"
-  ],
-  [
-   162,
-   "Math"
-  ],
-  [
-   163,
-   "Math"
-  ],
-  [
-   164,
-   "Math"
-  ],
-  [
-   171,
-   "Math"
-  ],
-  [
-   172,
-   "Math"
-  ],
-  [
-   173,
-   "Math"
-  ],
-  [
-   174,
-   "Math"
-  ],
-  [
-   175,
-   "Math"
-  ],
-  [
-   176,
-   "Math"
-  ],
-  [
-   177,
-   "Math"
-  ],
-  [
-   178,
-   "Math"
-  ],
-  [
-   179,
-   "Math"
-  ],
-  [
-   180,
-   "Math"
-  ],
-  [
-   181,
-   "Math"
-  ],
-  [
-   182,
-   "Math"
-  ],
-  [
-   183,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   185,
-   "Math"
-  ],
-  [
-   186,
-   "Math"
-  ],
-  [
-   187,
    "Math"
   ],
   [
@@ -1759,6 +1511,14 @@
    "Science"
   ],
   [
+   92,
+   "SocialStudies"
+  ],
+  [
+   93,
+   "SocialStudies"
+  ],
+  [
    96,
    "Science"
   ],
@@ -1769,6 +1529,10 @@
   [
    98,
    "Science"
+  ],
+  [
+   99,
+   "Language"
   ],
   [
    99,
@@ -1783,114 +1547,6 @@
    "Science"
   ],
   [
-   106,
-   "Science"
-  ],
-  [
-   111,
-   "Science"
-  ],
-  [
-   112,
-   "Science"
-  ],
-  [
-   113,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   126,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   130,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   137,
-   "Science"
-  ],
-  [
-   139,
-   "Science"
-  ],
-  [
-   140,
-   "Science"
-  ],
-  [
-   141,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   143,
-   "Science"
-  ],
-  [
-   149,
-   "Science"
-  ],
-  [
-   150,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   165,
-   "Science"
-  ],
-  [
-   166,
-   "Science"
-  ],
-  [
-   167,
-   "Science"
-  ],
-  [
-   185,
-   "Science"
-  ],
-  [
-   186,
-   "Science"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   93,
-   "SocialStudies"
-  ],
-  [
    102,
    "SocialStudies"
   ],
@@ -1900,11 +1556,19 @@
   ],
   [
    104,
+   "Math"
+  ],
+  [
+   104,
    "SocialStudies"
   ],
   [
    105,
    "SocialStudies"
+  ],
+  [
+   106,
+   "Science"
   ],
   [
    106,
@@ -1928,7 +1592,15 @@
   ],
   [
    111,
+   "Science"
+  ],
+  [
+   111,
    "SocialStudies"
+  ],
+  [
+   112,
+   "Science"
   ],
   [
    112,
@@ -1936,7 +1608,27 @@
   ],
   [
    113,
+   "Language"
+  ],
+  [
+   113,
+   "Science"
+  ],
+  [
+   113,
    "SocialStudies"
+  ],
+  [
+   114,
+   "Language"
+  ],
+  [
+   115,
+   "Language"
+  ],
+  [
+   116,
+   "Language"
   ],
   [
    117,
@@ -1951,8 +1643,40 @@
    "SocialStudies"
   ],
   [
+   121,
+   "Math"
+  ],
+  [
+   121,
+   "Science"
+  ],
+  [
+   122,
+   "Math"
+  ],
+  [
+   123,
+   "Math"
+  ],
+  [
+   124,
+   "Math"
+  ],
+  [
+   125,
+   "Math"
+  ],
+  [
    125,
    "SocialStudies"
+  ],
+  [
+   126,
+   "Math"
+  ],
+  [
+   126,
+   "Science"
   ],
   [
    126,
@@ -1960,7 +1684,19 @@
   ],
   [
    127,
+   "Math"
+  ],
+  [
+   127,
+   "Science"
+  ],
+  [
+   127,
    "SocialStudies"
+  ],
+  [
+   128,
+   "Math"
   ],
   [
    128,
@@ -1968,11 +1704,35 @@
   ],
   [
    129,
+   "Math"
+  ],
+  [
+   129,
+   "Science"
+  ],
+  [
+   129,
    "SocialStudies"
   ],
   [
    130,
+   "Math"
+  ],
+  [
+   130,
+   "Science"
+  ],
+  [
+   130,
    "SocialStudies"
+  ],
+  [
+   131,
+   "Math"
+  ],
+  [
+   132,
+   "Math"
   ],
   [
    132,
@@ -1980,7 +1740,19 @@
   ],
   [
    133,
+   "Math"
+  ],
+  [
+   133,
+   "Science"
+  ],
+  [
+   133,
    "SocialStudies"
+  ],
+  [
+   134,
+   "Math"
   ],
   [
    134,
@@ -1988,7 +1760,15 @@
   ],
   [
    135,
+   "Science"
+  ],
+  [
+   135,
    "SocialStudies"
+  ],
+  [
+   137,
+   "Science"
   ],
   [
    137,
@@ -2000,11 +1780,59 @@
   ],
   [
    139,
+   "Science"
+  ],
+  [
+   139,
    "SocialStudies"
   ],
   [
    140,
+   "Science"
+  ],
+  [
+   140,
    "SocialStudies"
+  ],
+  [
+   141,
+   "Math"
+  ],
+  [
+   141,
+   "Science"
+  ],
+  [
+   142,
+   "Math"
+  ],
+  [
+   142,
+   "Science"
+  ],
+  [
+   143,
+   "Math"
+  ],
+  [
+   143,
+   "Science"
+  ],
+  [
+   144,
+   "Math"
+  ],
+  [
+   145,
+   "Math"
+  ],
+  [
+   146,
+   "Math"
+  ],
+  [
+   147,
+   "Math"
   ],
   [
    147,
@@ -2012,11 +1840,43 @@
   ],
   [
    148,
+   "Math"
+  ],
+  [
+   148,
    "SocialStudies"
+  ],
+  [
+   149,
+   "Math"
+  ],
+  [
+   149,
+   "Science"
+  ],
+  [
+   150,
+   "Math"
+  ],
+  [
+   150,
+   "Science"
   ],
   [
    150,
    "SocialStudies"
+  ],
+  [
+   151,
+   "Math"
+  ],
+  [
+   151,
+   "Science"
+  ],
+  [
+   153,
+   "Language"
   ],
   [
    155,
@@ -2028,241 +1888,63 @@
   ],
   [
    161,
+   "Math"
+  ],
+  [
+   161,
    "SocialStudies"
+  ],
+  [
+   162,
+   "Math"
+  ],
+  [
+   163,
+   "Math"
   ],
   [
    163,
    "SocialStudies"
   ],
   [
-   173,
-   "SocialStudies"
-  ]
- ],
- "2": [
+   164,
+   "Math"
+  ],
   [
-   82,
+   165,
+   "Science"
+  ],
+  [
+   166,
    "Language"
   ],
   [
-   83,
+   166,
+   "Science"
+  ],
+  [
+   167,
    "Language"
   ],
   [
-   87,
+   167,
+   "Science"
+  ],
+  [
+   168,
    "Language"
   ],
   [
-   88,
+   169,
    "Language"
   ],
   [
-   91,
+   170,
    "Language"
   ],
   [
-   107,
+   171,
    "Language"
-  ],
-  [
-   116,
-   "Language"
-  ],
-  [
-   118,
-   "Language"
-  ],
-  [
-   121,
-   "Language"
-  ],
-  [
-   123,
-   "Language"
-  ],
-  [
-   127,
-   "Language"
-  ],
-  [
-   129,
-   "Language"
-  ],
-  [
-   135,
-   "Language"
-  ],
-  [
-   136,
-   "Language"
-  ],
-  [
-   137,
-   "Language"
-  ],
-  [
-   139,
-   "Language"
-  ],
-  [
-   144,
-   "Language"
-  ],
-  [
-   146,
-   "Language"
-  ],
-  [
-   148,
-   "Language"
-  ],
-  [
-   156,
-   "Language"
-  ],
-  [
-   175,
-   "Language"
-  ],
-  [
-   178,
-   "Language"
-  ],
-  [
-   185,
-   "Language"
-  ],
-  [
-   84,
-   "Math"
-  ],
-  [
-   89,
-   "Math"
-  ],
-  [
-   92,
-   "Math"
-  ],
-  [
-   94,
-   "Math"
-  ],
-  [
-   95,
-   "Math"
-  ],
-  [
-   105,
-   "Math"
-  ],
-  [
-   111,
-   "Math"
-  ],
-  [
-   112,
-   "Math"
-  ],
-  [
-   115,
-   "Math"
-  ],
-  [
-   116,
-   "Math"
-  ],
-  [
-   117,
-   "Math"
-  ],
-  [
-   118,
-   "Math"
-  ],
-  [
-   119,
-   "Math"
-  ],
-  [
-   120,
-   "Math"
-  ],
-  [
-   123,
-   "Math"
-  ],
-  [
-   125,
-   "Math"
-  ],
-  [
-   126,
-   "Math"
-  ],
-  [
-   129,
-   "Math"
-  ],
-  [
-   134,
-   "Math"
-  ],
-  [
-   135,
-   "Math"
-  ],
-  [
-   136,
-   "Math"
-  ],
-  [
-   137,
-   "Math"
-  ],
-  [
-   140,
-   "Math"
-  ],
-  [
-   141,
-   "Math"
-  ],
-  [
-   142,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   148,
-   "Math"
-  ],
-  [
-   149,
-   "Math"
-  ],
-  [
-   150,
-   "Math"
-  ],
-  [
-   151,
-   "Math"
-  ],
-  [
-   152,
-   "Math"
-  ],
-  [
-   158,
-   "Math"
   ],
   [
    171,
@@ -2270,10 +1952,54 @@
   ],
   [
    172,
+   "Language"
+  ],
+  [
+   172,
+   "Math"
+  ],
+  [
+   173,
+   "Language"
+  ],
+  [
+   173,
+   "Math"
+  ],
+  [
+   173,
+   "SocialStudies"
+  ],
+  [
+   174,
+   "Language"
+  ],
+  [
+   174,
+   "Math"
+  ],
+  [
+   175,
    "Math"
   ],
   [
    176,
+   "Math"
+  ],
+  [
+   177,
+   "Math"
+  ],
+  [
+   178,
+   "Math"
+  ],
+  [
+   179,
+   "Math"
+  ],
+  [
+   180,
    "Math"
   ],
   [
@@ -2285,762 +2011,114 @@
    "Math"
   ],
   [
+   183,
+   "Math"
+  ],
+  [
    184,
    "Math"
   ],
   [
-   76,
+   185,
+   "Math"
+  ],
+  [
+   185,
    "Science"
   ],
   [
-   84,
-   "Science"
-  ],
-  [
-   86,
-   "Science"
-  ],
-  [
-   87,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   93,
-   "Science"
-  ],
-  [
-   94,
-   "Science"
-  ],
-  [
-   114,
-   "Science"
-  ],
-  [
-   128,
-   "Science"
-  ],
-  [
-   134,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   136,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   143,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   155,
-   "Science"
-  ],
-  [
-   157,
-   "Science"
-  ],
-  [
-   176,
-   "Science"
+   186,
+   "Math"
   ],
   [
    186,
    "Science"
   ],
   [
-   81,
-   "SocialStudies"
-  ],
-  [
-   82,
-   "SocialStudies"
-  ],
-  [
-   83,
-   "SocialStudies"
-  ],
-  [
-   88,
-   "SocialStudies"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   93,
-   "SocialStudies"
-  ],
-  [
-   94,
-   "SocialStudies"
-  ],
-  [
-   95,
-   "SocialStudies"
-  ],
-  [
-   96,
-   "SocialStudies"
-  ],
-  [
-   99,
-   "SocialStudies"
-  ],
-  [
-   100,
-   "SocialStudies"
-  ],
-  [
-   102,
-   "SocialStudies"
-  ],
-  [
-   104,
-   "SocialStudies"
-  ],
-  [
-   107,
-   "SocialStudies"
-  ],
-  [
-   110,
-   "SocialStudies"
-  ],
-  [
-   111,
-   "SocialStudies"
-  ],
-  [
-   112,
-   "SocialStudies"
-  ],
-  [
-   113,
-   "SocialStudies"
-  ],
-  [
-   116,
-   "SocialStudies"
-  ],
-  [
-   120,
-   "SocialStudies"
-  ],
-  [
-   128,
-   "SocialStudies"
-  ],
-  [
-   131,
-   "SocialStudies"
-  ],
-  [
-   132,
-   "SocialStudies"
-  ],
-  [
-   135,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   137,
-   "SocialStudies"
-  ],
-  [
-   139,
-   "SocialStudies"
-  ],
-  [
-   140,
-   "SocialStudies"
-  ],
-  [
-   141,
-   "SocialStudies"
-  ],
-  [
-   145,
-   "SocialStudies"
-  ],
-  [
-   146,
-   "SocialStudies"
-  ],
-  [
-   154,
-   "SocialStudies"
-  ],
-  [
-   157,
-   "SocialStudies"
-  ],
-  [
-   158,
-   "SocialStudies"
-  ],
-  [
-   161,
-   "SocialStudies"
-  ],
-  [
-   171,
-   "SocialStudies"
+   187,
+   "Math"
   ]
  ],
  "3": [
   [
-   141,
-   "Language"
-  ],
-  [
-   142,
-   "Language"
-  ],
-  [
-   143,
-   "Language"
-  ],
-  [
-   144,
-   "Language"
-  ],
-  [
-   145,
-   "Language"
-  ],
-  [
-   146,
-   "Language"
-  ],
-  [
-   147,
-   "Language"
-  ],
-  [
-   148,
-   "Language"
-  ],
-  [
-   149,
-   "Language"
-  ],
-  [
-   150,
-   "Language"
-  ],
-  [
-   151,
-   "Language"
-  ],
-  [
    152,
-   "Language"
+   "SocialStudies"
   ],
   [
    153,
-   "Language"
+   "SocialStudies"
   ],
   [
    154,
-   "Language"
+   "SocialStudies"
   ],
   [
    155,
-   "Language"
+   "SocialStudies"
   ],
   [
    156,
-   "Language"
+   "SocialStudies"
   ],
   [
    157,
-   "Language"
-  ],
-  [
-   158,
-   "Language"
-  ],
-  [
-   159,
-   "Language"
-  ],
-  [
-   160,
-   "Language"
-  ],
-  [
-   161,
-   "Language"
-  ],
-  [
-   162,
-   "Language"
-  ],
-  [
-   163,
-   "Language"
-  ],
-  [
-   164,
-   "Language"
-  ],
-  [
-   165,
-   "Language"
-  ],
-  [
-   166,
-   "Language"
-  ],
-  [
-   167,
-   "Language"
-  ],
-  [
-   168,
-   "Language"
-  ],
-  [
-   169,
-   "Language"
-  ],
-  [
-   170,
-   "Language"
-  ],
-  [
-   171,
-   "Language"
-  ],
-  [
-   172,
-   "Language"
-  ],
-  [
-   173,
-   "Language"
-  ],
-  [
-   174,
-   "Language"
-  ],
-  [
-   175,
-   "Language"
-  ],
-  [
-   176,
-   "Language"
-  ],
-  [
-   177,
-   "Language"
-  ],
-  [
-   178,
-   "Language"
-  ],
-  [
-   179,
-   "Language"
-  ],
-  [
-   180,
-   "Language"
-  ],
-  [
-   181,
-   "Language"
-  ],
-  [
-   182,
-   "Language"
-  ],
-  [
-   183,
-   "Language"
-  ],
-  [
-   184,
-   "Language"
-  ],
-  [
-   185,
-   "Language"
-  ],
-  [
-   186,
-   "Language"
-  ],
-  [
-   187,
-   "Language"
-  ],
-  [
-   122,
-   "Math"
-  ],
-  [
-   123,
-   "Math"
-  ],
-  [
-   124,
-   "Math"
-  ],
-  [
-   125,
-   "Math"
-  ],
-  [
-   126,
-   "Math"
-  ],
-  [
-   127,
-   "Math"
-  ],
-  [
-   128,
-   "Math"
-  ],
-  [
-   129,
-   "Math"
-  ],
-  [
-   130,
-   "Math"
-  ],
-  [
-   131,
-   "Math"
-  ],
-  [
-   132,
-   "Math"
-  ],
-  [
-   133,
-   "Math"
-  ],
-  [
-   134,
-   "Math"
-  ],
-  [
-   135,
-   "Math"
-  ],
-  [
-   136,
-   "Math"
-  ],
-  [
-   137,
-   "Math"
-  ],
-  [
-   138,
-   "Math"
-  ],
-  [
-   139,
-   "Math"
-  ],
-  [
-   140,
-   "Math"
-  ],
-  [
-   141,
-   "Math"
-  ],
-  [
-   142,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   145,
-   "Math"
-  ],
-  [
-   146,
-   "Math"
-  ],
-  [
-   147,
-   "Math"
-  ],
-  [
-   148,
-   "Math"
-  ],
-  [
-   149,
-   "Math"
-  ],
-  [
-   150,
-   "Math"
-  ],
-  [
-   151,
-   "Math"
-  ],
-  [
-   152,
-   "Math"
-  ],
-  [
-   153,
-   "Math"
-  ],
-  [
-   154,
-   "Math"
-  ],
-  [
-   155,
-   "Math"
-  ],
-  [
-   156,
-   "Math"
-  ],
-  [
-   157,
-   "Math"
-  ],
-  [
-   158,
-   "Math"
-  ],
-  [
-   159,
-   "Math"
-  ],
-  [
-   160,
-   "Math"
-  ],
-  [
-   119,
-   "Science"
-  ],
-  [
-   120,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   122,
-   "Science"
-  ],
-  [
-   123,
-   "Science"
-  ],
-  [
-   124,
-   "Science"
-  ],
-  [
-   125,
-   "Science"
-  ],
-  [
-   126,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   128,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   130,
-   "Science"
-  ],
-  [
-   131,
-   "Science"
-  ],
-  [
-   132,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   134,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   136,
-   "Science"
-  ],
-  [
-   137,
-   "Science"
-  ],
-  [
-   138,
-   "Science"
-  ],
-  [
-   139,
-   "Science"
-  ],
-  [
-   140,
-   "Science"
-  ],
-  [
-   141,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   143,
-   "Science"
-  ],
-  [
-   144,
-   "Science"
-  ],
-  [
-   145,
-   "Science"
-  ],
-  [
-   146,
-   "Science"
-  ],
-  [
-   147,
-   "Science"
-  ],
-  [
-   148,
-   "Science"
-  ],
-  [
-   149,
-   "Science"
-  ],
-  [
-   150,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   152,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   154,
-   "Science"
-  ],
-  [
-   155,
-   "Science"
-  ],
-  [
-   156,
-   "Science"
-  ],
-  [
-   157,
-   "Science"
+   "SocialStudies"
   ],
   [
    158,
    "Science"
   ],
   [
+   158,
+   "SocialStudies"
+  ],
+  [
    159,
    "Science"
   ],
   [
+   159,
+   "SocialStudies"
+  ],
+  [
    160,
    "Science"
+  ],
+  [
+   160,
+   "SocialStudies"
   ],
   [
    161,
    "Science"
   ],
   [
+   161,
+   "SocialStudies"
+  ],
+  [
    162,
    "Science"
+  ],
+  [
+   162,
+   "SocialStudies"
   ],
   [
    163,
    "Science"
   ],
   [
+   163,
+   "SocialStudies"
+  ],
+  [
    164,
    "Science"
+  ],
+  [
+   164,
+   "SocialStudies"
   ],
   [
    165,
@@ -3133,224 +2211,60 @@
   [
    187,
    "Science"
-  ],
-  [
-   133,
-   "SocialStudies"
-  ],
-  [
-   134,
-   "SocialStudies"
-  ],
-  [
-   135,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   137,
-   "SocialStudies"
-  ],
-  [
-   138,
-   "SocialStudies"
-  ],
-  [
-   139,
-   "SocialStudies"
-  ],
-  [
-   140,
-   "SocialStudies"
-  ],
-  [
-   141,
-   "SocialStudies"
-  ],
-  [
-   142,
-   "SocialStudies"
-  ],
-  [
-   143,
-   "SocialStudies"
-  ],
-  [
-   144,
-   "SocialStudies"
-  ],
-  [
-   145,
-   "SocialStudies"
-  ],
-  [
-   146,
-   "SocialStudies"
-  ],
-  [
-   147,
-   "SocialStudies"
-  ],
-  [
-   148,
-   "SocialStudies"
-  ],
-  [
-   149,
-   "SocialStudies"
-  ],
-  [
-   150,
-   "SocialStudies"
-  ],
-  [
-   151,
-   "SocialStudies"
-  ],
-  [
-   152,
-   "SocialStudies"
-  ],
-  [
-   153,
-   "SocialStudies"
-  ],
-  [
-   154,
-   "SocialStudies"
-  ],
-  [
-   155,
-   "SocialStudies"
-  ],
-  [
-   156,
-   "SocialStudies"
-  ],
-  [
-   157,
-   "SocialStudies"
-  ],
-  [
-   158,
-   "SocialStudies"
-  ],
-  [
-   159,
-   "SocialStudies"
-  ],
-  [
-   160,
-   "SocialStudies"
-  ],
-  [
-   161,
-   "SocialStudies"
-  ],
-  [
-   162,
-   "SocialStudies"
-  ],
-  [
-   163,
-   "SocialStudies"
-  ],
-  [
-   164,
-   "SocialStudies"
   ]
  ],
  "4": [
   [
-   82,
-   "Language"
-  ],
-  [
-   83,
-   "Language"
-  ],
-  [
-   86,
-   "Language"
-  ],
-  [
-   87,
-   "Language"
-  ],
-  [
-   88,
-   "Language"
-  ],
-  [
-   92,
-   "Language"
-  ],
-  [
-   96,
-   "Language"
-  ],
-  [
-   98,
-   "Language"
-  ],
-  [
-   104,
-   "Language"
-  ],
-  [
-   107,
-   "Language"
-  ],
-  [
    112,
-   "Language"
+   "SocialStudies"
   ],
   [
    113,
-   "Language"
+   "SocialStudies"
   ],
   [
    114,
-   "Language"
+   "SocialStudies"
   ],
   [
-   115,
-   "Language"
-  ],
-  [
-   117,
-   "Language"
-  ],
-  [
-   118,
-   "Language"
+   116,
+   "SocialStudies"
   ],
   [
    120,
-   "Language"
+   "SocialStudies"
   ],
   [
-   126,
-   "Language"
+   121,
+   "SocialStudies"
+  ],
+  [
+   127,
+   "SocialStudies"
   ],
   [
    131,
-   "Language"
+   "SocialStudies"
   ],
   [
-   134,
-   "Language"
+   133,
+   "SocialStudies"
   ],
   [
-   138,
-   "Language"
+   136,
+   "SocialStudies"
   ],
   [
-   141,
-   "Language"
+   137,
+   "SocialStudies"
+  ],
+  [
+   139,
+   "SocialStudies"
+  ],
+  [
+   140,
+   "SocialStudies"
   ],
   [
    142,
@@ -3361,12 +2275,28 @@
    "Language"
   ],
   [
+   144,
+   "Math"
+  ],
+  [
+   144,
+   "SocialStudies"
+  ],
+  [
+   145,
+   "SocialStudies"
+  ],
+  [
    146,
    "Language"
   ],
   [
    148,
    "Language"
+  ],
+  [
+   148,
+   "Math"
   ],
   [
    149,
@@ -3377,196 +2307,12 @@
    "Language"
   ],
   [
-   164,
-   "Language"
-  ],
-  [
-   165,
-   "Language"
-  ],
-  [
-   172,
-   "Language"
-  ],
-  [
-   174,
-   "Language"
-  ],
-  [
-   178,
-   "Language"
-  ],
-  [
-   182,
-   "Language"
-  ],
-  [
-   185,
-   "Language"
-  ],
-  [
-   67,
-   "Math"
-  ],
-  [
-   82,
-   "Math"
-  ],
-  [
-   84,
-   "Math"
-  ],
-  [
-   85,
-   "Math"
-  ],
-  [
-   87,
-   "Math"
-  ],
-  [
-   88,
-   "Math"
-  ],
-  [
-   89,
-   "Math"
-  ],
-  [
-   90,
-   "Math"
-  ],
-  [
-   91,
-   "Math"
-  ],
-  [
-   97,
-   "Math"
-  ],
-  [
-   102,
-   "Math"
-  ],
-  [
-   103,
-   "Math"
-  ],
-  [
-   111,
-   "Math"
-  ],
-  [
-   112,
-   "Math"
-  ],
-  [
-   113,
-   "Math"
-  ],
-  [
-   114,
-   "Math"
-  ],
-  [
-   115,
-   "Math"
-  ],
-  [
-   117,
-   "Math"
-  ],
-  [
-   118,
-   "Math"
-  ],
-  [
-   119,
-   "Math"
-  ],
-  [
-   120,
-   "Math"
-  ],
-  [
-   121,
-   "Math"
-  ],
-  [
-   122,
-   "Math"
-  ],
-  [
-   124,
-   "Math"
-  ],
-  [
-   127,
-   "Math"
-  ],
-  [
-   128,
-   "Math"
-  ],
-  [
-   130,
-   "Math"
-  ],
-  [
-   131,
-   "Math"
-  ],
-  [
-   132,
-   "Math"
-  ],
-  [
-   133,
-   "Math"
-  ],
-  [
-   134,
-   "Math"
-  ],
-  [
-   137,
-   "Math"
-  ],
-  [
-   138,
-   "Math"
-  ],
-  [
-   139,
-   "Math"
-  ],
-  [
-   140,
-   "Math"
-  ],
-  [
-   141,
-   "Math"
-  ],
-  [
-   142,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   148,
-   "Math"
-  ],
-  [
    150,
    "Math"
+  ],
+  [
+   151,
+   "SocialStudies"
   ],
   [
    152,
@@ -3577,252 +2323,28 @@
    "Math"
   ],
   [
+   157,
+   "SocialStudies"
+  ],
+  [
    158,
    "Math"
+  ],
+  [
+   159,
+   "SocialStudies"
   ],
   [
    160,
    "Math"
   ],
   [
-   162,
-   "Math"
-  ],
-  [
-   164,
-   "Math"
-  ],
-  [
-   165,
-   "Math"
-  ],
-  [
-   169,
-   "Math"
-  ],
-  [
-   170,
-   "Math"
-  ],
-  [
-   173,
-   "Math"
-  ],
-  [
-   176,
-   "Math"
-  ],
-  [
-   177,
-   "Math"
-  ],
-  [
-   178,
-   "Math"
-  ],
-  [
-   179,
-   "Math"
-  ],
-  [
-   180,
-   "Math"
-  ],
-  [
-   182,
-   "Math"
-  ],
-  [
-   183,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   185,
-   "Math"
-  ],
-  [
-   187,
-   "Math"
-  ],
-  [
-   68,
-   "Science"
-  ],
-  [
-   72,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   83,
-   "Science"
-  ],
-  [
-   84,
-   "Science"
-  ],
-  [
-   85,
-   "Science"
-  ],
-  [
-   86,
-   "Science"
-  ],
-  [
-   87,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   89,
-   "Science"
-  ],
-  [
-   90,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   93,
-   "Science"
-  ],
-  [
-   97,
-   "Science"
-  ],
-  [
-   98,
-   "Science"
-  ],
-  [
-   99,
-   "Science"
-  ],
-  [
-   100,
-   "Science"
-  ],
-  [
-   102,
-   "Science"
-  ],
-  [
-   106,
-   "Science"
-  ],
-  [
-   111,
-   "Science"
-  ],
-  [
-   116,
-   "Science"
-  ],
-  [
-   117,
-   "Science"
-  ],
-  [
-   118,
-   "Science"
-  ],
-  [
-   119,
-   "Science"
-  ],
-  [
-   120,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   131,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   134,
-   "Science"
-  ],
-  [
-   136,
-   "Science"
-  ],
-  [
-   138,
-   "Science"
-  ],
-  [
-   140,
-   "Science"
-  ],
-  [
-   141,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   144,
-   "Science"
-  ],
-  [
-   146,
-   "Science"
-  ],
-  [
-   147,
-   "Science"
-  ],
-  [
-   148,
-   "Science"
-  ],
-  [
-   150,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   154,
-   "Science"
-  ],
-  [
    161,
-   "Science"
+   "SocialStudies"
   ],
   [
    162,
-   "Science"
+   "Math"
   ],
   [
    163,
@@ -3830,7 +2352,23 @@
   ],
   [
    164,
+   "Language"
+  ],
+  [
+   164,
+   "Math"
+  ],
+  [
+   164,
    "Science"
+  ],
+  [
+   165,
+   "Language"
+  ],
+  [
+   165,
+   "Math"
   ],
   [
    165,
@@ -3845,8 +2383,20 @@
    "Science"
   ],
   [
+   167,
+   "SocialStudies"
+  ],
+  [
    168,
    "Science"
+  ],
+  [
+   168,
+   "SocialStudies"
+  ],
+  [
+   169,
+   "Math"
   ],
   [
    169,
@@ -3854,7 +2404,15 @@
   ],
   [
    170,
+   "Math"
+  ],
+  [
+   170,
    "Science"
+  ],
+  [
+   170,
+   "SocialStudies"
   ],
   [
    171,
@@ -3862,195 +2420,31 @@
   ],
   [
    172,
+   "Language"
+  ],
+  [
+   172,
    "Science"
   ],
   [
    173,
+   "Math"
+  ],
+  [
+   173,
    "Science"
+  ],
+  [
+   173,
+   "SocialStudies"
+  ],
+  [
+   174,
+   "Language"
   ],
   [
    174,
    "Science"
-  ],
-  [
-   178,
-   "Science"
-  ],
-  [
-   180,
-   "Science"
-  ],
-  [
-   184,
-   "Science"
-  ],
-  [
-   186,
-   "Science"
-  ],
-  [
-   71,
-   "SocialStudies"
-  ],
-  [
-   72,
-   "SocialStudies"
-  ],
-  [
-   79,
-   "SocialStudies"
-  ],
-  [
-   81,
-   "SocialStudies"
-  ],
-  [
-   83,
-   "SocialStudies"
-  ],
-  [
-   84,
-   "SocialStudies"
-  ],
-  [
-   85,
-   "SocialStudies"
-  ],
-  [
-   86,
-   "SocialStudies"
-  ],
-  [
-   89,
-   "SocialStudies"
-  ],
-  [
-   90,
-   "SocialStudies"
-  ],
-  [
-   91,
-   "SocialStudies"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   95,
-   "SocialStudies"
-  ],
-  [
-   97,
-   "SocialStudies"
-  ],
-  [
-   101,
-   "SocialStudies"
-  ],
-  [
-   102,
-   "SocialStudies"
-  ],
-  [
-   106,
-   "SocialStudies"
-  ],
-  [
-   107,
-   "SocialStudies"
-  ],
-  [
-   112,
-   "SocialStudies"
-  ],
-  [
-   113,
-   "SocialStudies"
-  ],
-  [
-   114,
-   "SocialStudies"
-  ],
-  [
-   116,
-   "SocialStudies"
-  ],
-  [
-   120,
-   "SocialStudies"
-  ],
-  [
-   121,
-   "SocialStudies"
-  ],
-  [
-   127,
-   "SocialStudies"
-  ],
-  [
-   131,
-   "SocialStudies"
-  ],
-  [
-   133,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   137,
-   "SocialStudies"
-  ],
-  [
-   139,
-   "SocialStudies"
-  ],
-  [
-   140,
-   "SocialStudies"
-  ],
-  [
-   144,
-   "SocialStudies"
-  ],
-  [
-   145,
-   "SocialStudies"
-  ],
-  [
-   151,
-   "SocialStudies"
-  ],
-  [
-   157,
-   "SocialStudies"
-  ],
-  [
-   159,
-   "SocialStudies"
-  ],
-  [
-   161,
-   "SocialStudies"
-  ],
-  [
-   167,
-   "SocialStudies"
-  ],
-  [
-   168,
-   "SocialStudies"
-  ],
-  [
-   170,
-   "SocialStudies"
-  ],
-  [
-   173,
-   "SocialStudies"
   ],
   [
    174,
@@ -4061,8 +2455,40 @@
    "SocialStudies"
   ],
   [
+   176,
+   "Math"
+  ],
+  [
+   177,
+   "Math"
+  ],
+  [
+   178,
+   "Language"
+  ],
+  [
+   178,
+   "Math"
+  ],
+  [
+   178,
+   "Science"
+  ],
+  [
    178,
    "SocialStudies"
+  ],
+  [
+   179,
+   "Math"
+  ],
+  [
+   180,
+   "Math"
+  ],
+  [
+   180,
+   "Science"
   ],
   [
    180,
@@ -4073,16 +2499,52 @@
    "SocialStudies"
   ],
   [
+   182,
+   "Language"
+  ],
+  [
+   182,
+   "Math"
+  ],
+  [
+   183,
+   "Math"
+  ],
+  [
    183,
    "SocialStudies"
+  ],
+  [
+   184,
+   "Math"
+  ],
+  [
+   184,
+   "Science"
   ],
   [
    184,
    "SocialStudies"
   ],
   [
+   185,
+   "Language"
+  ],
+  [
+   185,
+   "Math"
+  ],
+  [
+   186,
+   "Science"
+  ],
+  [
    186,
    "SocialStudies"
+  ],
+  [
+   187,
+   "Math"
   ],
   [
    187,
@@ -4090,450 +2552,6 @@
   ]
  ],
  "5": [
-  [
-   82,
-   "Language"
-  ],
-  [
-   84,
-   "Language"
-  ],
-  [
-   85,
-   "Language"
-  ],
-  [
-   90,
-   "Language"
-  ],
-  [
-   107,
-   "Language"
-  ],
-  [
-   118,
-   "Language"
-  ],
-  [
-   131,
-   "Language"
-  ],
-  [
-   135,
-   "Language"
-  ],
-  [
-   144,
-   "Language"
-  ],
-  [
-   145,
-   "Language"
-  ],
-  [
-   151,
-   "Language"
-  ],
-  [
-   154,
-   "Language"
-  ],
-  [
-   163,
-   "Language"
-  ],
-  [
-   82,
-   "Math"
-  ],
-  [
-   83,
-   "Math"
-  ],
-  [
-   84,
-   "Math"
-  ],
-  [
-   88,
-   "Math"
-  ],
-  [
-   90,
-   "Math"
-  ],
-  [
-   96,
-   "Math"
-  ],
-  [
-   111,
-   "Math"
-  ],
-  [
-   112,
-   "Math"
-  ],
-  [
-   113,
-   "Math"
-  ],
-  [
-   114,
-   "Math"
-  ],
-  [
-   116,
-   "Math"
-  ],
-  [
-   119,
-   "Math"
-  ],
-  [
-   120,
-   "Math"
-  ],
-  [
-   121,
-   "Math"
-  ],
-  [
-   122,
-   "Math"
-  ],
-  [
-   123,
-   "Math"
-  ],
-  [
-   127,
-   "Math"
-  ],
-  [
-   130,
-   "Math"
-  ],
-  [
-   131,
-   "Math"
-  ],
-  [
-   135,
-   "Math"
-  ],
-  [
-   136,
-   "Math"
-  ],
-  [
-   139,
-   "Math"
-  ],
-  [
-   140,
-   "Math"
-  ],
-  [
-   153,
-   "Math"
-  ],
-  [
-   159,
-   "Math"
-  ],
-  [
-   165,
-   "Math"
-  ],
-  [
-   169,
-   "Math"
-  ],
-  [
-   172,
-   "Math"
-  ],
-  [
-   177,
-   "Math"
-  ],
-  [
-   183,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   186,
-   "Math"
-  ],
-  [
-   187,
-   "Math"
-  ],
-  [
-   71,
-   "Science"
-  ],
-  [
-   81,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   85,
-   "Science"
-  ],
-  [
-   90,
-   "Science"
-  ],
-  [
-   91,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   99,
-   "Science"
-  ],
-  [
-   100,
-   "Science"
-  ],
-  [
-   116,
-   "Science"
-  ],
-  [
-   117,
-   "Science"
-  ],
-  [
-   123,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   131,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   143,
-   "Science"
-  ],
-  [
-   156,
-   "Science"
-  ],
-  [
-   162,
-   "Science"
-  ],
-  [
-   167,
-   "Science"
-  ],
-  [
-   168,
-   "Science"
-  ],
-  [
-   173,
-   "Science"
-  ],
-  [
-   174,
-   "Science"
-  ],
-  [
-   181,
-   "Science"
-  ],
-  [
-   182,
-   "Science"
-  ],
-  [
-   184,
-   "Science"
-  ],
-  [
-   186,
-   "Science"
-  ],
-  [
-   187,
-   "Science"
-  ],
-  [
-   71,
-   "SocialStudies"
-  ],
-  [
-   79,
-   "SocialStudies"
-  ],
-  [
-   87,
-   "SocialStudies"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   94,
-   "SocialStudies"
-  ],
-  [
-   95,
-   "SocialStudies"
-  ],
-  [
-   97,
-   "SocialStudies"
-  ],
-  [
-   100,
-   "SocialStudies"
-  ],
-  [
-   102,
-   "SocialStudies"
-  ],
-  [
-   103,
-   "SocialStudies"
-  ],
-  [
-   108,
-   "SocialStudies"
-  ],
-  [
-   110,
-   "SocialStudies"
-  ],
-  [
-   114,
-   "SocialStudies"
-  ],
-  [
-   115,
-   "SocialStudies"
-  ],
-  [
-   116,
-   "SocialStudies"
-  ],
-  [
-   117,
-   "SocialStudies"
-  ],
-  [
-   119,
-   "SocialStudies"
-  ],
-  [
-   120,
-   "SocialStudies"
-  ],
-  [
-   122,
-   "SocialStudies"
-  ],
-  [
-   123,
-   "SocialStudies"
-  ],
-  [
-   124,
-   "SocialStudies"
-  ],
-  [
-   125,
-   "SocialStudies"
-  ],
-  [
-   127,
-   "SocialStudies"
-  ],
-  [
-   128,
-   "SocialStudies"
-  ],
-  [
-   130,
-   "SocialStudies"
-  ],
-  [
-   131,
-   "SocialStudies"
-  ],
-  [
-   132,
-   "SocialStudies"
-  ],
-  [
-   133,
-   "SocialStudies"
-  ],
-  [
-   134,
-   "SocialStudies"
-  ],
-  [
-   135,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   138,
-   "SocialStudies"
-  ],
-  [
-   140,
-   "SocialStudies"
-  ],
-  [
-   142,
-   "SocialStudies"
-  ],
-  [
-   143,
-   "SocialStudies"
-  ],
-  [
-   145,
-   "SocialStudies"
-  ],
-  [
-   146,
-   "SocialStudies"
-  ],
-  [
-   147,
-   "SocialStudies"
-  ],
   [
    149,
    "SocialStudies"
@@ -4649,234 +2667,6 @@
  ],
  "6": [
   [
-   181,
-   "Language"
-  ],
-  [
-   82,
-   "Math"
-  ],
-  [
-   83,
-   "Math"
-  ],
-  [
-   87,
-   "Math"
-  ],
-  [
-   95,
-   "Math"
-  ],
-  [
-   111,
-   "Math"
-  ],
-  [
-   112,
-   "Math"
-  ],
-  [
-   116,
-   "Math"
-  ],
-  [
-   119,
-   "Math"
-  ],
-  [
-   120,
-   "Math"
-  ],
-  [
-   121,
-   "Math"
-  ],
-  [
-   122,
-   "Math"
-  ],
-  [
-   123,
-   "Math"
-  ],
-  [
-   124,
-   "Math"
-  ],
-  [
-   130,
-   "Math"
-  ],
-  [
-   136,
-   "Math"
-  ],
-  [
-   137,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   147,
-   "Math"
-  ],
-  [
-   152,
-   "Math"
-  ],
-  [
-   168,
-   "Math"
-  ],
-  [
-   182,
-   "Math"
-  ],
-  [
-   183,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   185,
-   "Math"
-  ],
-  [
-   186,
-   "Math"
-  ],
-  [
-   187,
-   "Math"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   103,
-   "Science"
-  ],
-  [
-   108,
-   "Science"
-  ],
-  [
-   116,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   152,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   158,
-   "Science"
-  ],
-  [
-   172,
-   "Science"
-  ],
-  [
-   173,
-   "Science"
-  ],
-  [
-   174,
-   "Science"
-  ],
-  [
-   178,
-   "Science"
-  ],
-  [
-   183,
-   "Science"
-  ],
-  [
-   74,
-   "SocialStudies"
-  ],
-  [
-   76,
-   "SocialStudies"
-  ],
-  [
-   78,
-   "SocialStudies"
-  ],
-  [
-   82,
-   "SocialStudies"
-  ],
-  [
-   87,
-   "SocialStudies"
-  ],
-  [
-   91,
-   "SocialStudies"
-  ],
-  [
-   93,
-   "SocialStudies"
-  ],
-  [
-   94,
-   "SocialStudies"
-  ],
-  [
-   97,
-   "SocialStudies"
-  ],
-  [
-   101,
-   "SocialStudies"
-  ],
-  [
-   105,
-   "SocialStudies"
-  ],
-  [
-   106,
-   "SocialStudies"
-  ],
-  [
-   117,
-   "SocialStudies"
-  ],
-  [
-   118,
-   "SocialStudies"
-  ],
-  [
-   125,
-   "SocialStudies"
-  ],
-  [
    126,
    "SocialStudies"
   ],
@@ -5038,368 +2828,6 @@
   ],
   [
    187,
-   "SocialStudies"
-  ]
- ],
- "7": [
-  [
-   83,
-   "Language"
-  ],
-  [
-   81,
-   "Math"
-  ],
-  [
-   87,
-   "Math"
-  ],
-  [
-   91,
-   "Math"
-  ],
-  [
-   97,
-   "Math"
-  ],
-  [
-   98,
-   "Math"
-  ],
-  [
-   111,
-   "Math"
-  ],
-  [
-   121,
-   "Math"
-  ],
-  [
-   128,
-   "Math"
-  ],
-  [
-   129,
-   "Math"
-  ],
-  [
-   133,
-   "Math"
-  ],
-  [
-   134,
-   "Math"
-  ],
-  [
-   142,
-   "Math"
-  ],
-  [
-   143,
-   "Math"
-  ],
-  [
-   144,
-   "Math"
-  ],
-  [
-   153,
-   "Math"
-  ],
-  [
-   163,
-   "Math"
-  ],
-  [
-   169,
-   "Math"
-  ],
-  [
-   171,
-   "Math"
-  ],
-  [
-   174,
-   "Math"
-  ],
-  [
-   177,
-   "Math"
-  ],
-  [
-   179,
-   "Math"
-  ],
-  [
-   184,
-   "Math"
-  ],
-  [
-   67,
-   "Science"
-  ],
-  [
-   69,
-   "Science"
-  ],
-  [
-   86,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   94,
-   "Science"
-  ],
-  [
-   99,
-   "Science"
-  ],
-  [
-   104,
-   "Science"
-  ],
-  [
-   116,
-   "Science"
-  ],
-  [
-   123,
-   "Science"
-  ],
-  [
-   124,
-   "Science"
-  ],
-  [
-   137,
-   "Science"
-  ],
-  [
-   139,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   149,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   166,
-   "Science"
-  ],
-  [
-   171,
-   "Science"
-  ],
-  [
-   173,
-   "Science"
-  ],
-  [
-   184,
-   "Science"
-  ],
-  [
-   67,
-   "SocialStudies"
-  ],
-  [
-   74,
-   "SocialStudies"
-  ],
-  [
-   77,
-   "SocialStudies"
-  ],
-  [
-   79,
-   "SocialStudies"
-  ],
-  [
-   81,
-   "SocialStudies"
-  ],
-  [
-   82,
-   "SocialStudies"
-  ],
-  [
-   83,
-   "SocialStudies"
-  ],
-  [
-   85,
-   "SocialStudies"
-  ],
-  [
-   88,
-   "SocialStudies"
-  ],
-  [
-   89,
-   "SocialStudies"
-  ],
-  [
-   90,
-   "SocialStudies"
-  ],
-  [
-   92,
-   "SocialStudies"
-  ],
-  [
-   95,
-   "SocialStudies"
-  ],
-  [
-   96,
-   "SocialStudies"
-  ],
-  [
-   99,
-   "SocialStudies"
-  ],
-  [
-   103,
-   "SocialStudies"
-  ],
-  [
-   104,
-   "SocialStudies"
-  ],
-  [
-   108,
-   "SocialStudies"
-  ],
-  [
-   111,
-   "SocialStudies"
-  ],
-  [
-   112,
-   "SocialStudies"
-  ],
-  [
-   113,
-   "SocialStudies"
-  ],
-  [
-   115,
-   "SocialStudies"
-  ],
-  [
-   116,
-   "SocialStudies"
-  ],
-  [
-   118,
-   "SocialStudies"
-  ],
-  [
-   123,
-   "SocialStudies"
-  ],
-  [
-   125,
-   "SocialStudies"
-  ],
-  [
-   126,
-   "SocialStudies"
-  ],
-  [
-   127,
-   "SocialStudies"
-  ],
-  [
-   135,
-   "SocialStudies"
-  ],
-  [
-   136,
-   "SocialStudies"
-  ],
-  [
-   137,
-   "SocialStudies"
-  ],
-  [
-   145,
-   "SocialStudies"
-  ],
-  [
-   146,
-   "SocialStudies"
-  ],
-  [
-   147,
-   "SocialStudies"
-  ],
-  [
-   149,
-   "SocialStudies"
-  ],
-  [
-   151,
-   "SocialStudies"
-  ],
-  [
-   155,
-   "SocialStudies"
-  ],
-  [
-   159,
-   "SocialStudies"
-  ],
-  [
-   162,
-   "SocialStudies"
-  ],
-  [
-   165,
-   "SocialStudies"
-  ],
-  [
-   166,
-   "SocialStudies"
-  ],
-  [
-   168,
-   "SocialStudies"
-  ],
-  [
-   169,
-   "SocialStudies"
-  ],
-  [
-   175,
-   "SocialStudies"
-  ],
-  [
-   177,
-   "SocialStudies"
-  ],
-  [
-   178,
-   "SocialStudies"
-  ],
-  [
-   179,
    "SocialStudies"
   ]
  ],
@@ -5433,80 +2861,16 @@
    "Language"
   ],
   [
-   95,
-   "Language"
-  ],
-  [
-   118,
-   "Language"
-  ],
-  [
-   135,
-   "Language"
-  ],
-  [
-   146,
-   "Language"
-  ],
-  [
-   77,
-   "Math"
-  ],
-  [
-   78,
-   "Math"
-  ],
-  [
-   81,
-   "Math"
-  ],
-  [
-   82,
-   "Math"
-  ],
-  [
-   83,
-   "Math"
-  ],
-  [
-   84,
-   "Math"
-  ],
-  [
-   85,
-   "Math"
-  ],
-  [
-   86,
-   "Math"
-  ],
-  [
-   87,
-   "Math"
-  ],
-  [
-   88,
-   "Math"
-  ],
-  [
-   89,
-   "Math"
-  ],
-  [
-   90,
-   "Math"
-  ],
-  [
-   91,
-   "Math"
-  ],
-  [
    92,
    "Math"
   ],
   [
    93,
    "Math"
+  ],
+  [
+   95,
+   "Language"
   ],
   [
    96,
@@ -5573,12 +2937,24 @@
    "Math"
   ],
   [
+   111,
+   "Science"
+  ],
+  [
    112,
    "Math"
   ],
   [
+   112,
+   "Science"
+  ],
+  [
    113,
    "Math"
+  ],
+  [
+   113,
+   "Science"
   ],
   [
    114,
@@ -5587,6 +2963,10 @@
   [
    115,
    "Math"
+  ],
+  [
+   115,
+   "Science"
   ],
   [
    116,
@@ -5598,11 +2978,19 @@
   ],
   [
    118,
+   "Language"
+  ],
+  [
+   118,
    "Math"
   ],
   [
    119,
    "Math"
+  ],
+  [
+   119,
+   "Science"
   ],
   [
    120,
@@ -5611,6 +2999,10 @@
   [
    121,
    "Math"
+  ],
+  [
+   121,
+   "Science"
   ],
   [
    122,
@@ -5629,12 +3021,20 @@
    "Math"
   ],
   [
+   125,
+   "Science"
+  ],
+  [
    126,
    "Math"
   ],
   [
    127,
    "Math"
+  ],
+  [
+   127,
+   "Science"
   ],
   [
    128,
@@ -5653,6 +3053,10 @@
    "Math"
   ],
   [
+   131,
+   "Science"
+  ],
+  [
    132,
    "Math"
   ],
@@ -5661,12 +3065,24 @@
    "Math"
   ],
   [
+   133,
+   "Science"
+  ],
+  [
    134,
    "Math"
   ],
   [
    135,
+   "Language"
+  ],
+  [
+   135,
    "Math"
+  ],
+  [
+   135,
+   "Science"
   ],
   [
    136,
@@ -5693,8 +3109,16 @@
    "Math"
   ],
   [
+   141,
+   "Science"
+  ],
+  [
    142,
    "Math"
+  ],
+  [
+   142,
+   "Science"
   ],
   [
    143,
@@ -5705,8 +3129,16 @@
    "Math"
   ],
   [
+   144,
+   "Science"
+  ],
+  [
    145,
    "Math"
+  ],
+  [
+   146,
+   "Language"
   ],
   [
    146,
@@ -5733,12 +3165,20 @@
    "Math"
   ],
   [
+   151,
+   "Science"
+  ],
+  [
    152,
    "Math"
   ],
   [
    153,
    "Math"
+  ],
+  [
+   153,
+   "Science"
   ],
   [
    154,
@@ -5757,16 +3197,32 @@
    "Math"
   ],
   [
+   157,
+   "Science"
+  ],
+  [
    158,
    "Math"
+  ],
+  [
+   158,
+   "Science"
   ],
   [
    159,
    "Math"
   ],
   [
+   159,
+   "Science"
+  ],
+  [
    160,
    "Math"
+  ],
+  [
+   160,
+   "Science"
   ],
   [
    161,
@@ -5777,6 +3233,10 @@
    "Math"
   ],
   [
+   162,
+   "Science"
+  ],
+  [
    163,
    "Math"
   ],
@@ -5785,8 +3245,16 @@
    "Math"
   ],
   [
+   164,
+   "Science"
+  ],
+  [
    165,
    "Math"
+  ],
+  [
+   165,
+   "Science"
   ],
   [
    166,
@@ -5794,11 +3262,31 @@
   ],
   [
    167,
+   "History"
+  ],
+  [
+   167,
    "Math"
   ],
   [
    168,
+   "History"
+  ],
+  [
+   168,
    "Math"
+  ],
+  [
+   169,
+   "History"
+  ],
+  [
+   169,
+   "Science"
+  ],
+  [
+   170,
+   "History"
   ],
   [
    170,
@@ -5806,7 +3294,19 @@
   ],
   [
    171,
+   "History"
+  ],
+  [
+   171,
    "Math"
+  ],
+  [
+   172,
+   "History"
+  ],
+  [
+   173,
+   "History"
   ],
   [
    173,
@@ -5814,19 +3314,59 @@
   ],
   [
    174,
+   "History"
+  ],
+  [
+   174,
    "Math"
+  ],
+  [
+   175,
+   "History"
   ],
   [
    175,
    "Math"
   ],
   [
+   176,
+   "History"
+  ],
+  [
+   176,
+   "Science"
+  ],
+  [
+   177,
+   "History"
+  ],
+  [
+   178,
+   "History"
+  ],
+  [
    178,
    "Math"
   ],
   [
+   178,
+   "Science"
+  ],
+  [
+   179,
+   "History"
+  ],
+  [
    179,
    "Math"
+  ],
+  [
+   179,
+   "Science"
+  ],
+  [
+   180,
+   "History"
   ],
   [
    180,
@@ -5837,8 +3377,16 @@
    "Math"
   ],
   [
+   182,
+   "History"
+  ],
+  [
    183,
    "Math"
+  ],
+  [
+   184,
+   "History"
   ],
   [
    184,
@@ -5854,603 +3402,15 @@
   ],
   [
    187,
-   "Math"
-  ],
-  [
-   74,
-   "Science"
-  ],
-  [
-   75,
-   "Science"
-  ],
-  [
-   79,
-   "Science"
-  ],
-  [
-   81,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   84,
-   "Science"
-  ],
-  [
-   85,
-   "Science"
-  ],
-  [
-   87,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   90,
-   "Science"
-  ],
-  [
-   92,
-   "Science"
-  ],
-  [
-   93,
-   "Science"
-  ],
-  [
-   94,
-   "Science"
-  ],
-  [
-   95,
-   "Science"
-  ],
-  [
-   96,
-   "Science"
-  ],
-  [
-   101,
-   "Science"
-  ],
-  [
-   102,
-   "Science"
-  ],
-  [
-   105,
-   "Science"
-  ],
-  [
-   111,
-   "Science"
-  ],
-  [
-   112,
-   "Science"
-  ],
-  [
-   113,
-   "Science"
-  ],
-  [
-   115,
-   "Science"
-  ],
-  [
-   119,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   125,
-   "Science"
-  ],
-  [
-   127,
-   "Science"
-  ],
-  [
-   131,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   135,
-   "Science"
-  ],
-  [
-   141,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   144,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   157,
-   "Science"
-  ],
-  [
-   158,
-   "Science"
-  ],
-  [
-   159,
-   "Science"
-  ],
-  [
-   160,
-   "Science"
-  ],
-  [
-   162,
-   "Science"
-  ],
-  [
-   164,
-   "Science"
-  ],
-  [
-   165,
-   "Science"
-  ],
-  [
-   169,
-   "Science"
-  ],
-  [
-   176,
-   "Science"
-  ],
-  [
-   178,
-   "Science"
-  ],
-  [
-   179,
-   "Science"
-  ],
-  [
-   67,
-   "History"
-  ],
-  [
-   68,
-   "History"
-  ],
-  [
-   73,
-   "History"
-  ],
-  [
-   74,
-   "History"
-  ],
-  [
-   75,
-   "History"
-  ],
-  [
-   76,
-   "History"
-  ],
-  [
-   77,
-   "History"
-  ],
-  [
-   78,
-   "History"
-  ],
-  [
-   79,
-   "History"
-  ],
-  [
-   80,
-   "History"
-  ],
-  [
-   81,
-   "History"
-  ],
-  [
-   82,
-   "History"
-  ],
-  [
-   83,
-   "History"
-  ],
-  [
-   84,
-   "History"
-  ],
-  [
-   85,
-   "History"
-  ],
-  [
-   86,
-   "History"
-  ],
-  [
-   87,
-   "History"
-  ],
-  [
-   88,
-   "History"
-  ],
-  [
-   89,
-   "History"
-  ],
-  [
-   90,
-   "History"
-  ],
-  [
-   91,
-   "History"
-  ],
-  [
-   92,
-   "History"
-  ],
-  [
-   93,
-   "History"
-  ],
-  [
-   95,
-   "History"
-  ],
-  [
-   96,
-   "History"
-  ],
-  [
-   97,
-   "History"
-  ],
-  [
-   99,
-   "History"
-  ],
-  [
-   100,
-   "History"
-  ],
-  [
-   101,
-   "History"
-  ],
-  [
-   103,
-   "History"
-  ],
-  [
-   104,
-   "History"
-  ],
-  [
-   106,
-   "History"
-  ],
-  [
-   107,
-   "History"
-  ],
-  [
-   108,
-   "History"
-  ],
-  [
-   110,
-   "History"
-  ],
-  [
-   111,
-   "History"
-  ],
-  [
-   112,
-   "History"
-  ],
-  [
-   113,
-   "History"
-  ],
-  [
-   115,
-   "History"
-  ],
-  [
-   117,
-   "History"
-  ],
-  [
-   118,
-   "History"
-  ],
-  [
-   119,
-   "History"
-  ],
-  [
-   120,
-   "History"
-  ],
-  [
-   128,
-   "History"
-  ],
-  [
-   144,
-   "History"
-  ],
-  [
-   146,
-   "History"
-  ],
-  [
-   151,
-   "History"
-  ],
-  [
-   152,
-   "History"
-  ],
-  [
-   153,
-   "History"
-  ],
-  [
-   154,
-   "History"
-  ],
-  [
-   155,
-   "History"
-  ],
-  [
-   156,
-   "History"
-  ],
-  [
-   157,
-   "History"
-  ],
-  [
-   158,
-   "History"
-  ],
-  [
-   159,
-   "History"
-  ],
-  [
-   160,
-   "History"
-  ],
-  [
-   161,
-   "History"
-  ],
-  [
-   162,
-   "History"
-  ],
-  [
-   163,
-   "History"
-  ],
-  [
-   164,
-   "History"
-  ],
-  [
-   165,
-   "History"
-  ],
-  [
-   166,
-   "History"
-  ],
-  [
-   167,
-   "History"
-  ],
-  [
-   168,
-   "History"
-  ],
-  [
-   169,
-   "History"
-  ],
-  [
-   170,
-   "History"
-  ],
-  [
-   171,
-   "History"
-  ],
-  [
-   172,
-   "History"
-  ],
-  [
-   173,
-   "History"
-  ],
-  [
-   174,
-   "History"
-  ],
-  [
-   175,
-   "History"
-  ],
-  [
-   176,
-   "History"
-  ],
-  [
-   177,
-   "History"
-  ],
-  [
-   178,
-   "History"
-  ],
-  [
-   179,
-   "History"
-  ],
-  [
-   180,
-   "History"
-  ],
-  [
-   182,
-   "History"
-  ],
-  [
-   184,
    "History"
   ],
   [
    187,
-   "History"
+   "Math"
   ]
  ],
  "9": [
   [
-   81,
-   "Language"
-  ],
-  [
-   83,
-   "Language"
-  ],
-  [
-   85,
-   "Language"
-  ],
-  [
-   89,
-   "Language"
-  ],
-  [
-   99,
-   "Language"
-  ],
-  [
-   106,
-   "Language"
-  ],
-  [
-   111,
-   "Language"
-  ],
-  [
-   123,
-   "Language"
-  ],
-  [
-   127,
-   "Language"
-  ],
-  [
-   129,
-   "Language"
-  ],
-  [
-   133,
-   "Language"
-  ],
-  [
-   134,
-   "Language"
-  ],
-  [
-   139,
-   "Language"
-  ],
-  [
-   143,
-   "Language"
-  ],
-  [
-   156,
-   "Language"
-  ],
-  [
-   161,
-   "Language"
-  ],
-  [
-   168,
-   "Language"
-  ],
-  [
-   183,
-   "Language"
-  ],
-  [
-   67,
-   "Math"
-  ],
-  [
-   68,
-   "Math"
-  ],
-  [
-   69,
-   "Math"
-  ],
-  [
-   71,
-   "Math"
-  ],
-  [
-   75,
-   "Math"
-  ],
-  [
-   78,
-   "Math"
-  ],
-  [
    79,
    "Math"
   ],
@@ -6459,12 +3419,80 @@
    "Math"
   ],
   [
+   81,
+   "Language"
+  ],
+  [
+   81,
+   "Science"
+  ],
+  [
+   82,
+   "Science"
+  ],
+  [
+   83,
+   "Language"
+  ],
+  [
+   84,
+   "Science"
+  ],
+  [
+   85,
+   "Language"
+  ],
+  [
+   85,
+   "Science"
+  ],
+  [
+   87,
+   "Science"
+  ],
+  [
+   88,
+   "Science"
+  ],
+  [
+   89,
+   "Language"
+  ],
+  [
    89,
    "Math"
   ],
   [
+   90,
+   "Science"
+  ],
+  [
+   98,
+   "Science"
+  ],
+  [
+   99,
+   "Language"
+  ],
+  [
+   103,
+   "Science"
+  ],
+  [
+   106,
+   "Language"
+  ],
+  [
    107,
    "Math"
+  ],
+  [
+   109,
+   "Science"
+  ],
+  [
+   111,
+   "Language"
   ],
   [
    111,
@@ -6473,6 +3501,10 @@
   [
    112,
    "Math"
+  ],
+  [
+   112,
+   "Science"
   ],
   [
    113,
@@ -6491,6 +3523,10 @@
    "Math"
   ],
   [
+   117,
+   "Science"
+  ],
+  [
    118,
    "Math"
   ],
@@ -6507,8 +3543,24 @@
    "Math"
   ],
   [
+   121,
+   "Science"
+  ],
+  [
+   122,
+   "Science"
+  ],
+  [
+   123,
+   "Language"
+  ],
+  [
    123,
    "Math"
+  ],
+  [
+   123,
+   "Science"
   ],
   [
    124,
@@ -6523,32 +3575,72 @@
    "Math"
   ],
   [
+   127,
+   "Language"
+  ],
+  [
    128,
    "Math"
+  ],
+  [
+   129,
+   "Language"
   ],
   [
    129,
    "Math"
   ],
   [
+   129,
+   "Science"
+  ],
+  [
    130,
    "Math"
+  ],
+  [
+   130,
+   "Science"
   ],
   [
    131,
    "Math"
   ],
   [
+   131,
+   "Science"
+  ],
+  [
    132,
    "Math"
+  ],
+  [
+   132,
+   "Science"
+  ],
+  [
+   133,
+   "Language"
   ],
   [
    133,
    "Math"
   ],
   [
+   133,
+   "Science"
+  ],
+  [
+   134,
+   "Language"
+  ],
+  [
    134,
    "Math"
+  ],
+  [
+   134,
+   "Science"
   ],
   [
    135,
@@ -6559,12 +3651,28 @@
    "Math"
   ],
   [
+   136,
+   "Science"
+  ],
+  [
    137,
    "Math"
   ],
   [
+   137,
+   "Science"
+  ],
+  [
    138,
    "Math"
+  ],
+  [
+   138,
+   "Science"
+  ],
+  [
+   139,
+   "Language"
   ],
   [
    139,
@@ -6575,12 +3683,28 @@
    "Math"
   ],
   [
+   140,
+   "Science"
+  ],
+  [
    141,
    "Math"
   ],
   [
+   141,
+   "Science"
+  ],
+  [
    142,
    "Math"
+  ],
+  [
+   142,
+   "Science"
+  ],
+  [
+   143,
+   "Language"
   ],
   [
    143,
@@ -6595,6 +3719,10 @@
    "Math"
   ],
   [
+   145,
+   "Science"
+  ],
+  [
    146,
    "Math"
   ],
@@ -6603,8 +3731,16 @@
    "Math"
   ],
   [
+   147,
+   "Science"
+  ],
+  [
    148,
    "Math"
+  ],
+  [
+   148,
+   "Science"
   ],
   [
    149,
@@ -6619,12 +3755,24 @@
    "Math"
   ],
   [
+   151,
+   "Science"
+  ],
+  [
    152,
    "Math"
   ],
   [
+   152,
+   "Science"
+  ],
+  [
    153,
    "Math"
+  ],
+  [
+   153,
+   "Science"
   ],
   [
    155,
@@ -6632,15 +3780,31 @@
   ],
   [
    156,
+   "Language"
+  ],
+  [
+   156,
    "Math"
+  ],
+  [
+   156,
+   "Science"
   ],
   [
    157,
    "Math"
   ],
   [
+   157,
+   "Science"
+  ],
+  [
    158,
    "Math"
+  ],
+  [
+   158,
+   "Science"
   ],
   [
    159,
@@ -6651,28 +3815,64 @@
    "Math"
   ],
   [
+   160,
+   "Science"
+  ],
+  [
+   161,
+   "Language"
+  ],
+  [
    161,
    "Math"
+  ],
+  [
+   161,
+   "Science"
   ],
   [
    162,
    "Math"
   ],
   [
+   162,
+   "Science"
+  ],
+  [
    163,
    "Math"
+  ],
+  [
+   163,
+   "Science"
   ],
   [
    165,
    "Math"
   ],
   [
+   165,
+   "Science"
+  ],
+  [
    166,
    "Math"
   ],
   [
+   166,
+   "Science"
+  ],
+  [
    167,
    "Math"
+  ],
+  [
+   167,
+   "Science"
+  ],
+  [
+   168,
+   "Language"
   ],
   [
    168,
@@ -6687,20 +3887,40 @@
    "Math"
   ],
   [
+   170,
+   "Science"
+  ],
+  [
    171,
    "Math"
+  ],
+  [
+   171,
+   "Science"
   ],
   [
    172,
    "Math"
   ],
   [
+   172,
+   "Science"
+  ],
+  [
    173,
    "Math"
   ],
   [
+   173,
+   "Science"
+  ],
+  [
    175,
    "Math"
+  ],
+  [
+   175,
+   "Science"
   ],
   [
    176,
@@ -6709,6 +3929,10 @@
   [
    177,
    "Math"
+  ],
+  [
+   177,
+   "Science"
   ],
   [
    178,
@@ -6723,12 +3947,32 @@
    "Math"
   ],
   [
+   180,
+   "Science"
+  ],
+  [
    181,
    "Math"
   ],
   [
+   181,
+   "Science"
+  ],
+  [
+   182,
+   "Science"
+  ],
+  [
+   183,
+   "Language"
+  ],
+  [
    183,
    "Math"
+  ],
+  [
+   183,
+   "Science"
   ],
   [
    184,
@@ -6743,323 +3987,19 @@
    "Math"
   ],
   [
-   187,
-   "Math"
-  ],
-  [
-   68,
-   "Science"
-  ],
-  [
-   69,
-   "Science"
-  ],
-  [
-   70,
-   "Science"
-  ],
-  [
-   73,
-   "Science"
-  ],
-  [
-   81,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   84,
-   "Science"
-  ],
-  [
-   85,
-   "Science"
-  ],
-  [
-   87,
-   "Science"
-  ],
-  [
-   88,
-   "Science"
-  ],
-  [
-   90,
-   "Science"
-  ],
-  [
-   98,
-   "Science"
-  ],
-  [
-   103,
-   "Science"
-  ],
-  [
-   109,
-   "Science"
-  ],
-  [
-   112,
-   "Science"
-  ],
-  [
-   117,
-   "Science"
-  ],
-  [
-   121,
-   "Science"
-  ],
-  [
-   122,
-   "Science"
-  ],
-  [
-   123,
-   "Science"
-  ],
-  [
-   129,
-   "Science"
-  ],
-  [
-   130,
-   "Science"
-  ],
-  [
-   131,
-   "Science"
-  ],
-  [
-   132,
-   "Science"
-  ],
-  [
-   133,
-   "Science"
-  ],
-  [
-   134,
-   "Science"
-  ],
-  [
-   136,
-   "Science"
-  ],
-  [
-   137,
-   "Science"
-  ],
-  [
-   138,
-   "Science"
-  ],
-  [
-   140,
-   "Science"
-  ],
-  [
-   141,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   145,
-   "Science"
-  ],
-  [
-   147,
-   "Science"
-  ],
-  [
-   148,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   152,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   156,
-   "Science"
-  ],
-  [
-   157,
-   "Science"
-  ],
-  [
-   158,
-   "Science"
-  ],
-  [
-   160,
-   "Science"
-  ],
-  [
-   161,
-   "Science"
-  ],
-  [
-   162,
-   "Science"
-  ],
-  [
-   163,
-   "Science"
-  ],
-  [
-   165,
-   "Science"
-  ],
-  [
-   166,
-   "Science"
-  ],
-  [
-   167,
-   "Science"
-  ],
-  [
-   170,
-   "Science"
-  ],
-  [
-   171,
-   "Science"
-  ],
-  [
-   172,
-   "Science"
-  ],
-  [
-   173,
-   "Science"
-  ],
-  [
-   175,
-   "Science"
-  ],
-  [
-   177,
-   "Science"
-  ],
-  [
-   180,
-   "Science"
-  ],
-  [
-   181,
-   "Science"
-  ],
-  [
-   182,
-   "Science"
-  ],
-  [
-   183,
-   "Science"
-  ],
-  [
    186,
    "Science"
   ],
   [
    187,
+   "Math"
+  ],
+  [
+   187,
    "Science"
-  ],
-  [
-   73,
-   "SocialStudies"
-  ],
-  [
-   78,
-   "SocialStudies"
-  ],
-  [
-   106,
-   "SocialStudies"
-  ],
-  [
-   147,
-   "SocialStudies"
   ]
  ],
  "10": [
-  [
-   124,
-   "English"
-  ],
-  [
-   145,
-   "English"
-  ],
-  [
-   154,
-   "English"
-  ],
-  [
-   186,
-   "English"
-  ],
-  [
-   77,
-   "Math"
-  ],
-  [
-   78,
-   "Math"
-  ],
-  [
-   91,
-   "Math"
-  ],
-  [
-   92,
-   "Math"
-  ],
-  [
-   96,
-   "Math"
-  ],
-  [
-   98,
-   "Math"
-  ],
-  [
-   100,
-   "Math"
-  ],
-  [
-   101,
-   "Math"
-  ],
-  [
-   102,
-   "Math"
-  ],
-  [
-   104,
-   "Math"
-  ],
-  [
-   105,
-   "Math"
-  ],
   [
    106,
    "Math"
@@ -7363,102 +4303,6 @@
   [
    187,
    "Math"
-  ],
-  [
-   81,
-   "Science"
-  ],
-  [
-   82,
-   "Science"
-  ],
-  [
-   83,
-   "Science"
-  ],
-  [
-   93,
-   "Science"
-  ],
-  [
-   97,
-   "Science"
-  ],
-  [
-   98,
-   "Science"
-  ],
-  [
-   114,
-   "Science"
-  ],
-  [
-   122,
-   "Science"
-  ],
-  [
-   124,
-   "Science"
-  ],
-  [
-   137,
-   "Science"
-  ],
-  [
-   142,
-   "Science"
-  ],
-  [
-   143,
-   "Science"
-  ],
-  [
-   145,
-   "Science"
-  ],
-  [
-   147,
-   "Science"
-  ],
-  [
-   149,
-   "Science"
-  ],
-  [
-   150,
-   "Science"
-  ],
-  [
-   151,
-   "Science"
-  ],
-  [
-   152,
-   "Science"
-  ],
-  [
-   153,
-   "Science"
-  ],
-  [
-   154,
-   "Science"
-  ],
-  [
-   156,
-   "Science"
-  ],
-  [
-   157,
-   "Science"
-  ],
-  [
-   160,
-   "Science"
-  ],
-  [
-   162,
-   "Science"
   ]
  ],
  "11": [
@@ -7539,380 +4383,16 @@
    "Biology"
   ],
   [
-   164,
-   "Biology"
-  ],
-  [
-   171,
-   "Biology"
-  ],
-  [
-   174,
-   "Biology"
-  ],
-  [
-   186,
-   "Biology"
-  ],
-  [
-   86,
-   "Chemistry"
-  ],
-  [
-   93,
-   "Chemistry"
-  ],
-  [
-   94,
-   "Chemistry"
-  ],
-  [
-   95,
-   "Chemistry"
-  ],
-  [
-   106,
-   "Chemistry"
-  ],
-  [
-   111,
-   "Chemistry"
-  ],
-  [
-   112,
-   "Chemistry"
-  ],
-  [
-   113,
-   "Chemistry"
-  ],
-  [
-   120,
-   "Chemistry"
-  ],
-  [
-   121,
-   "Chemistry"
-  ],
-  [
-   131,
-   "Chemistry"
-  ],
-  [
-   135,
-   "Chemistry"
-  ],
-  [
-   137,
-   "Chemistry"
-  ],
-  [
-   139,
-   "Chemistry"
-  ],
-  [
-   140,
-   "Chemistry"
-  ],
-  [
-   141,
-   "Chemistry"
-  ],
-  [
-   142,
-   "Chemistry"
-  ],
-  [
-   143,
-   "Chemistry"
-  ],
-  [
-   144,
-   "Chemistry"
-  ],
-  [
-   145,
-   "Chemistry"
-  ],
-  [
-   149,
-   "Chemistry"
-  ],
-  [
-   150,
-   "Chemistry"
-  ],
-  [
-   153,
-   "Chemistry"
-  ],
-  [
-   165,
-   "Chemistry"
-  ],
-  [
-   169,
-   "Chemistry"
-  ],
-  [
-   173,
-   "Chemistry"
-  ],
-  [
-   175,
-   "Chemistry"
-  ],
-  [
-   79,
-   "English"
-  ],
-  [
-   81,
-   "English"
-  ],
-  [
-   85,
-   "English"
-  ],
-  [
-   88,
-   "English"
-  ],
-  [
-   91,
-   "English"
-  ],
-  [
-   97,
-   "English"
-  ],
-  [
-   125,
-   "English"
-  ],
-  [
-   129,
-   "English"
-  ],
-  [
-   135,
-   "English"
-  ],
-  [
-   137,
-   "English"
-  ],
-  [
-   141,
-   "English"
-  ],
-  [
-   147,
-   "English"
-  ],
-  [
-   151,
-   "English"
-  ],
-  [
-   152,
-   "English"
-  ],
-  [
-   71,
-   "Functions"
-  ],
-  [
-   72,
-   "Functions"
-  ],
-  [
-   73,
-   "Functions"
-  ],
-  [
-   74,
-   "Functions"
-  ],
-  [
-   87,
-   "Functions"
-  ],
-  [
-   94,
-   "Functions"
-  ],
-  [
-   95,
-   "Functions"
-  ],
-  [
-   99,
-   "Functions"
-  ],
-  [
-   101,
-   "Functions"
-  ],
-  [
-   102,
-   "Functions"
-  ],
-  [
-   103,
-   "Functions"
-  ],
-  [
-   105,
-   "Functions"
-  ],
-  [
-   106,
-   "Functions"
-  ],
-  [
-   108,
-   "Functions"
-  ],
-  [
-   110,
-   "Functions"
-  ],
-  [
-   113,
-   "Functions"
-  ],
-  [
-   114,
-   "Functions"
-  ],
-  [
-   115,
-   "Functions"
-  ],
-  [
-   117,
-   "Functions"
-  ],
-  [
-   118,
-   "Functions"
-  ],
-  [
-   119,
-   "Functions"
-  ],
-  [
-   120,
-   "Functions"
-  ],
-  [
-   122,
-   "Functions"
-  ],
-  [
-   123,
-   "Functions"
-  ],
-  [
-   125,
-   "Functions"
-  ],
-  [
-   126,
-   "Functions"
-  ],
-  [
-   127,
-   "Functions"
-  ],
-  [
-   128,
-   "Functions"
-  ],
-  [
-   129,
-   "Functions"
-  ],
-  [
-   130,
-   "Functions"
-  ],
-  [
-   133,
-   "Functions"
-  ],
-  [
-   134,
-   "Functions"
-  ],
-  [
-   135,
-   "Functions"
-  ],
-  [
-   137,
-   "Functions"
-  ],
-  [
-   138,
-   "Functions"
-  ],
-  [
-   139,
-   "Functions"
-  ],
-  [
-   140,
-   "Functions"
-  ],
-  [
-   144,
-   "Functions"
-  ],
-  [
-   145,
-   "Functions"
-  ],
-  [
-   146,
-   "Functions"
-  ],
-  [
-   147,
-   "Functions"
-  ],
-  [
-   148,
-   "Functions"
-  ],
-  [
-   150,
-   "Functions"
-  ],
-  [
-   154,
-   "Functions"
-  ],
-  [
-   155,
-   "Functions"
-  ],
-  [
-   156,
-   "Functions"
-  ],
-  [
-   159,
-   "Functions"
-  ],
-  [
    160,
    "Functions"
   ],
   [
    163,
    "Functions"
+  ],
+  [
+   164,
+   "Biology"
   ],
   [
    164,
@@ -7935,12 +4415,20 @@
    "Functions"
   ],
   [
+   171,
+   "Biology"
+  ],
+  [
    172,
    "Functions"
   ],
   [
    173,
    "Functions"
+  ],
+  [
+   174,
+   "Biology"
   ],
   [
    174,
@@ -7969,6 +4457,10 @@
   [
    185,
    "Functions"
+  ],
+  [
+   186,
+   "Biology"
   ],
   [
    187,
@@ -8153,6 +4645,10 @@
    "AdvancedFunctions"
   ],
   [
+   138,
+   "English"
+  ],
+  [
    139,
    "AdvancedFunctions"
   ],
@@ -8181,6 +4677,10 @@
    "AdvancedFunctions"
   ],
   [
+   153,
+   "English"
+  ],
+  [
    156,
    "AdvancedFunctions"
   ],
@@ -8195,6 +4695,10 @@
   [
    165,
    "AdvancedFunctions"
+  ],
+  [
+   165,
+   "English"
   ],
   [
    166,
@@ -8221,6 +4725,10 @@
    "AdvancedFunctions"
   ],
   [
+   173,
+   "English"
+  ],
+  [
    174,
    "AdvancedFunctions"
   ],
@@ -8235,6 +4743,10 @@
   [
    179,
    "AdvancedFunctions"
+  ],
+  [
+   179,
+   "English"
   ],
   [
    180,
@@ -8257,6 +4769,10 @@
    "AdvancedFunctions"
   ],
   [
+   184,
+   "English"
+  ],
+  [
    185,
    "AdvancedFunctions"
   ],
@@ -8267,534 +4783,6 @@
   [
    187,
    "AdvancedFunctions"
-  ],
-  [
-   67,
-   "Calculus"
-  ],
-  [
-   71,
-   "Calculus"
-  ],
-  [
-   72,
-   "Calculus"
-  ],
-  [
-   76,
-   "Calculus"
-  ],
-  [
-   77,
-   "Calculus"
-  ],
-  [
-   78,
-   "Calculus"
-  ],
-  [
-   79,
-   "Calculus"
-  ],
-  [
-   80,
-   "Calculus"
-  ],
-  [
-   83,
-   "Calculus"
-  ],
-  [
-   86,
-   "Calculus"
-  ],
-  [
-   87,
-   "Calculus"
-  ],
-  [
-   88,
-   "Calculus"
-  ],
-  [
-   89,
-   "Calculus"
-  ],
-  [
-   90,
-   "Calculus"
-  ],
-  [
-   91,
-   "Calculus"
-  ],
-  [
-   93,
-   "Calculus"
-  ],
-  [
-   95,
-   "Calculus"
-  ],
-  [
-   97,
-   "Calculus"
-  ],
-  [
-   104,
-   "Calculus"
-  ],
-  [
-   105,
-   "Calculus"
-  ],
-  [
-   107,
-   "Calculus"
-  ],
-  [
-   109,
-   "Calculus"
-  ],
-  [
-   110,
-   "Calculus"
-  ],
-  [
-   111,
-   "Calculus"
-  ],
-  [
-   112,
-   "Calculus"
-  ],
-  [
-   113,
-   "Calculus"
-  ],
-  [
-   114,
-   "Calculus"
-  ],
-  [
-   115,
-   "Calculus"
-  ],
-  [
-   116,
-   "Calculus"
-  ],
-  [
-   117,
-   "Calculus"
-  ],
-  [
-   118,
-   "Calculus"
-  ],
-  [
-   119,
-   "Calculus"
-  ],
-  [
-   120,
-   "Calculus"
-  ],
-  [
-   121,
-   "Calculus"
-  ],
-  [
-   122,
-   "Calculus"
-  ],
-  [
-   123,
-   "Calculus"
-  ],
-  [
-   126,
-   "Calculus"
-  ],
-  [
-   128,
-   "Calculus"
-  ],
-  [
-   129,
-   "Calculus"
-  ],
-  [
-   130,
-   "Calculus"
-  ],
-  [
-   132,
-   "Calculus"
-  ],
-  [
-   133,
-   "Calculus"
-  ],
-  [
-   134,
-   "Calculus"
-  ],
-  [
-   135,
-   "Calculus"
-  ],
-  [
-   137,
-   "Calculus"
-  ],
-  [
-   138,
-   "Calculus"
-  ],
-  [
-   139,
-   "Calculus"
-  ],
-  [
-   140,
-   "Calculus"
-  ],
-  [
-   141,
-   "Calculus"
-  ],
-  [
-   144,
-   "Calculus"
-  ],
-  [
-   145,
-   "Calculus"
-  ],
-  [
-   147,
-   "Calculus"
-  ],
-  [
-   150,
-   "Calculus"
-  ],
-  [
-   151,
-   "Calculus"
-  ],
-  [
-   152,
-   "Calculus"
-  ],
-  [
-   153,
-   "Calculus"
-  ],
-  [
-   154,
-   "Calculus"
-  ],
-  [
-   155,
-   "Calculus"
-  ],
-  [
-   156,
-   "Calculus"
-  ],
-  [
-   157,
-   "Calculus"
-  ],
-  [
-   158,
-   "Calculus"
-  ],
-  [
-   159,
-   "Calculus"
-  ],
-  [
-   160,
-   "Calculus"
-  ],
-  [
-   161,
-   "Calculus"
-  ],
-  [
-   162,
-   "Calculus"
-  ],
-  [
-   163,
-   "Calculus"
-  ],
-  [
-   165,
-   "Calculus"
-  ],
-  [
-   166,
-   "Calculus"
-  ],
-  [
-   167,
-   "Calculus"
-  ],
-  [
-   168,
-   "Calculus"
-  ],
-  [
-   169,
-   "Calculus"
-  ],
-  [
-   170,
-   "Calculus"
-  ],
-  [
-   172,
-   "Calculus"
-  ],
-  [
-   173,
-   "Calculus"
-  ],
-  [
-   174,
-   "Calculus"
-  ],
-  [
-   175,
-   "Calculus"
-  ],
-  [
-   177,
-   "Calculus"
-  ],
-  [
-   178,
-   "Calculus"
-  ],
-  [
-   179,
-   "Calculus"
-  ],
-  [
-   180,
-   "Calculus"
-  ],
-  [
-   181,
-   "Calculus"
-  ],
-  [
-   183,
-   "Calculus"
-  ],
-  [
-   185,
-   "Calculus"
-  ],
-  [
-   186,
-   "Calculus"
-  ],
-  [
-   187,
-   "Calculus"
-  ],
-  [
-   91,
-   "English"
-  ],
-  [
-   101,
-   "English"
-  ],
-  [
-   103,
-   "English"
-  ],
-  [
-   105,
-   "English"
-  ],
-  [
-   107,
-   "English"
-  ],
-  [
-   110,
-   "English"
-  ],
-  [
-   111,
-   "English"
-  ],
-  [
-   113,
-   "English"
-  ],
-  [
-   116,
-   "English"
-  ],
-  [
-   125,
-   "English"
-  ],
-  [
-   134,
-   "English"
-  ],
-  [
-   138,
-   "English"
-  ],
-  [
-   153,
-   "English"
-  ],
-  [
-   165,
-   "English"
-  ],
-  [
-   173,
-   "English"
-  ],
-  [
-   179,
-   "English"
-  ],
-  [
-   184,
-   "English"
-  ],
-  [
-   67,
-   "Physics"
-  ],
-  [
-   68,
-   "Physics"
-  ],
-  [
-   69,
-   "Physics"
-  ],
-  [
-   70,
-   "Physics"
-  ],
-  [
-   71,
-   "Physics"
-  ],
-  [
-   72,
-   "Physics"
-  ],
-  [
-   77,
-   "Physics"
-  ],
-  [
-   81,
-   "Physics"
-  ],
-  [
-   83,
-   "Physics"
-  ],
-  [
-   86,
-   "Physics"
-  ],
-  [
-   87,
-   "Physics"
-  ],
-  [
-   90,
-   "Physics"
-  ],
-  [
-   92,
-   "Physics"
-  ],
-  [
-   94,
-   "Physics"
-  ],
-  [
-   96,
-   "Physics"
-  ],
-  [
-   122,
-   "Physics"
-  ],
-  [
-   123,
-   "Physics"
-  ],
-  [
-   128,
-   "Physics"
-  ],
-  [
-   136,
-   "Physics"
-  ],
-  [
-   146,
-   "Physics"
-  ],
-  [
-   147,
-   "Physics"
-  ],
-  [
-   153,
-   "Physics"
-  ],
-  [
-   156,
-   "Physics"
-  ],
-  [
-   157,
-   "Physics"
-  ],
-  [
-   166,
-   "Physics"
-  ],
-  [
-   169,
-   "Physics"
-  ],
-  [
-   174,
-   "Physics"
-  ],
-  [
-   176,
-   "Physics"
-  ],
-  [
-   178,
-   "Physics"
-  ],
-  [
-   184,
-   "Physics"
   ]
  ]
 }

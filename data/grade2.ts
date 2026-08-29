@@ -19510,90 +19510,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Plant Adaptations: Surviving in Different Places",
-        "summary": "Students learn that plants have special features, called adaptations, that help them survive in different environments, such as thick stems that store water in a desert or wide leaves that capture sunlight in a rainforest.",
-        "resourceLabel": "YouTube: Plant Adaptations: Surviving in Different Places",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Adaptations%3A%20Surviving%20in%20Different%20Places%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=QZeClyqICpk",
+        "title": "Life Cycle of a Butterfly",
+        "summary": "Students learn the four stages of a butterfly life cycle: egg, caterpillar, chrysalis, and butterfly.",
+        "resourceLabel": "YouTube: Life Cycle of a Butterfly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3kZD6rlSLUw",
         "quiz": [
           {
-            "q": "What word describes a special feature that helps a plant survive in its environment?",
+            "q": "What is the first stage of a butterfly life cycle?",
             "options": [
-              "An adaptation",
-              "A fossil",
-              "A habitat",
-              "A migration"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which adaptation helps a cactus survive in a dry desert?",
-            "options": [
-              "A stem that never stores water",
-              "Roots that need constant flooding",
-              "A thick stem that stores water",
-              "Wide leaves that need lots of rain"
+              "Caterpillar",
+              "Chrysalis",
+              "Egg",
+              "Butterfly"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a rainforest plant have very wide leaves?",
+            "q": "What hatches from a butterfly egg?",
             "options": [
-              "To avoid all sunlight",
-              "To capture as much sunlight as possible",
-              "To stay hidden underground",
-              "To store extra water like a cactus"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these is an example of a plant adaptation?",
-            "options": [
-              "A plant that never needs sunlight",
-              "Sharp spines that protect a cactus from animals",
-              "A plant that grows only in space",
-              "A plant that never needs water"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Plant adaptations help a plant ___.",
-            "options": [
-              "Survive better in its specific environment",
-              "Move around like an animal",
-              "Stop needing sunlight completely",
-              "Change into a different species instantly"
+              "Caterpillar",
+              "Cocoon",
+              "Chrysalis",
+              "Butterfly"
             ],
             "answer": 0
+          },
+          {
+            "q": "During which stage does the caterpillar change inside a hard case?",
+            "options": [
+              "Egg",
+              "Adult",
+              "Caterpillar",
+              "Chrysalis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the last stage of the butterfly life cycle?",
+            "options": [
+              "Egg",
+              "Chrysalis",
+              "Butterfly",
+              "Caterpillar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A caterpillar spends most of its time ___.",
+            "options": [
+              "Sleeping underground",
+              "Eating leaves",
+              "Swimming",
+              "Flying"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "What word describes a special feature that helps a plant survive in its environment?",
+            "prompt": "What comes first in a butterfly life cycle: egg or caterpillar?",
             "answers": [
-              "an adaptation",
-              "adaptation"
+              "egg"
             ]
           },
           {
-            "prompt": "Name one plant adaptation that helps a cactus survive in a dry desert.",
+            "prompt": "What does a caterpillar turn into before becoming a butterfly?",
             "answers": [
-              "storing water",
-              "thick stem",
-              "spines",
-              "storing water in its stem"
+              "chrysalis"
             ]
           },
           {
-            "prompt": "Why do plants in a rainforest often have wide leaves?",
+            "prompt": "What is the last stage of the butterfly life cycle?",
             "answers": [
-              "to capture sunlight",
-              "to collect more sunlight",
-              "to catch sunlight"
+              "butterfly"
             ]
           }
         ],
-        "topic": "Evolution"
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -20202,85 +20196,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "How We Breathe: The Lungs and Respiratory System",
-        "summary": "Students learn that the lungs are organs inside the chest that help the body breathe in oxygen from the air and breathe out carbon dioxide.",
-        "resourceLabel": "YouTube: How We Breathe: The Lungs and Respiratory System",
-        "resourceUrl": "https://www.youtube.com/results?search_query=How%20We%20Breathe%3A%20The%20Lungs%20and%20Respiratory%20System%20grade%202%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mOKmjYwfDGU",
+        "title": "Life Cycle of a Frog",
+        "summary": "Students learn the stages of a frog life cycle: egg, tadpole, froglet, and adult frog.",
+        "resourceLabel": "YouTube: Life Cycle of a Frog",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Frog%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FEgdsLBHWAU",
         "quiz": [
           {
-            "q": "What organs help us breathe air in and out?",
+            "q": "What is the first stage of a frog life cycle?",
             "options": [
-              "The stomach",
-              "The bones",
-              "The skin",
-              "The lungs"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What gas does our body need that we breathe in from the air?",
-            "options": [
-              "Oxygen",
-              "Nitrogen only",
-              "Carbon dioxide",
-              "Smoke"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What gas do we breathe out of our lungs?",
-            "options": [
-              "Water only",
-              "Oxygen",
-              "Helium",
-              "Carbon dioxide"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Where are the lungs located in the body?",
-            "options": [
-              "Inside the foot",
-              "Inside the leg",
-              "Inside the chest",
-              "Inside the arm"
+              "Adult frog",
+              "Froglet",
+              "Egg",
+              "Tadpole"
             ],
             "answer": 2
           },
           {
-            "q": "Why is breathing important for our body?",
+            "q": "What hatches from a frog egg?",
             "options": [
-              "It has no purpose",
-              "It brings oxygen that our body needs to work",
-              "It only makes noise",
-              "It stops our heart from beating"
+              "Adult frog",
+              "Fish",
+              "Tadpole",
+              "Froglet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A tadpole lives mostly ___.",
+            "options": [
+              "In water",
+              "In the air",
+              "Underground",
+              "On land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "As a tadpole grows legs and loses its tail, it becomes a ___.",
+            "options": [
+              "Fish",
+              "Egg",
+              "Bird",
+              "Froglet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do adult frogs usually live?",
+            "options": [
+              "Only underwater",
+              "Both in water and on land",
+              "Only in the desert",
+              "Only in trees"
             ],
             "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "What organs help us breathe air in and out?",
+            "prompt": "What comes out of a frog egg?",
             "answers": [
-              "lungs",
-              "the lungs"
+              "tadpole"
             ]
           },
           {
-            "prompt": "What gas do we breathe in that our body needs?",
+            "prompt": "Where does a tadpole live?",
             "answers": [
-              "oxygen"
+              "water",
+              "in water",
+              "pond"
             ]
           },
           {
-            "prompt": "What gas do we breathe out?",
+            "prompt": "What is the last stage of a frog life cycle?",
             "answers": [
-              "carbon dioxide"
+              "adult frog",
+              "frog"
             ]
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -23257,86 +23253,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Stars and Constellations",
-        "summary": "Students learn that stars are giant balls of hot gas that give off their own light, and that a constellation is a group of stars that forms a pattern in the night sky.",
-        "resourceLabel": "YouTube: Stars and Constellations",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Stars%20and%20Constellations%20grade%202%20educational",
+        "title": "Forest Habitats: Trees and Wildlife",
+        "summary": "Students learn that a forest is a habitat full of many trees, where animals such as squirrels, deer, and owls find food and shelter among the branches and leaves.",
+        "resourceLabel": "YouTube: Forest Habitats: Trees and Wildlife",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Forest%20Habitats%3A%20Trees%20and%20Wildlife%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do we call a giant ball of hot gas that gives off its own light in space?",
+            "q": "What is a forest?",
             "options": [
-              "A star",
-              "A moon",
-              "A planet",
-              "A comet"
+              "A small pond",
+              "A habitat full of many trees",
+              "A dry desert",
+              "A deep ocean"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What do we call a group of stars that forms a pattern in the night sky?",
+            "q": "Which animal is commonly found living in a forest?",
             "options": [
-              "A constellation",
-              "An orbit",
-              "A galaxy",
-              "An eclipse"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these is an example of a constellation?",
-            "options": [
-              "Earth",
-              "The moon",
-              "The sun",
-              "The Big Dipper"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Stars appear to twinkle in the night sky because ___.",
-            "options": [
-              "Their light travels through moving air in our atmosphere",
-              "They are actually moving very slowly across the sky",
-              "They are very close to Earth",
-              "They turn on and off"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "When is it easiest to see stars in the sky?",
-            "options": [
-              "During a thunderstorm",
-              "At noon on a sunny day",
-              "At night, away from bright city lights",
-              "Only in the summer"
+              "A camel",
+              "A polar bear",
+              "A squirrel",
+              "A shark"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why might a forest be a good habitat for many animals?",
+            "options": [
+              "It offers trees for food and shelter",
+              "It never has any plants",
+              "It is always underwater",
+              "It has no trees at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do forest animals like owls use trees for?",
+            "options": [
+              "Making sand",
+              "Building roads",
+              "Finding food and shelter",
+              "Swimming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A forest is an example of a ___.",
+            "options": [
+              "Story character",
+              "Habitat",
+              "Number",
+              "Colour"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call a giant ball of hot gas that gives off its own light in space?",
+            "prompt": "What do we call a habitat that is full of many trees?",
             "answers": [
-              "a star",
-              "star"
+              "forest",
+              "a forest"
             ]
           },
           {
-            "prompt": "What do we call a group of stars that forms a pattern in the sky?",
+            "prompt": "Name one animal that might live in a forest, like a squirrel or owl.",
             "answers": [
-              "a constellation",
-              "constellation"
+              "squirrel",
+              "owl",
+              "deer"
             ]
           },
           {
-            "prompt": "Name one famous constellation, like the Big Dipper.",
+            "prompt": "Do forest animals often use trees for food and shelter?",
             "answers": [
-              "the big dipper",
-              "big dipper",
-              "orion"
+              "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -25029,81 +25025,81 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "How Laws Are Made and Enforced",
-        "summary": "Students learn that laws are made by elected governments to keep people safe and treated fairly, and that police and courts help make sure laws are followed and enforced.",
-        "resourceLabel": "YouTube: How Laws Are Made and Enforced",
-        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Laws%20Are%20Made%20and%20Enforced%20grade%202%20educational",
+        "title": "Our Mayor: Leading Our Town or City",
+        "summary": "Students learn about the job of a mayor, a person chosen to help lead a town or city and make decisions that help the whole community.",
+        "resourceLabel": "YouTube: Our Mayor: Leading Our Town or City",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Mayor%3A%20Leading%20Our%20Town%20or%20City%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who is responsible for making laws?",
+            "q": "What do we call the person chosen to help lead a town or city?",
             "options": [
-              "Only children",
-              "Elected governments",
-              "No one at all",
-              "A single random citizen"
+              "Librarian",
+              "Dentist",
+              "Baker",
+              "Mayor"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which of these helps enforce laws in a community?",
+            "q": "What kind of decisions might a mayor help make?",
             "options": [
-              "Police officers",
-              "Bakers",
-              "Artists",
-              "Farmers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are laws important for a community?",
-            "options": [
-              "Laws have no real purpose",
-              "Laws only benefit one single person",
-              "They help keep people safe and treated fairly",
-              "Communities function better without any laws"
+              "No decisions at all",
+              "Decisions about only one persons house",
+              "Decisions that help the whole community",
+              "Decisions about outer space"
             ],
             "answer": 2
           },
           {
-            "q": "What might happen if a community had no laws at all?",
+            "q": "Why is a mayor an important community leader?",
             "options": [
-              "Nothing would change at all",
-              "People could be treated unfairly or unsafely",
-              "Laws have no connection to safety",
-              "Communities always run better without laws"
+              "They only bake bread",
+              "They help lead and make decisions for the town or city",
+              "They fix broken pipes",
+              "They deliver mail every day"
             ],
             "answer": 1
           },
           {
-            "q": "Courts help make sure that laws are ___.",
+            "q": "Which of these might a mayor help with?",
             "options": [
-              "Followed fairly",
-              "Ignored completely",
-              "Written by only one person",
-              "Never enforced"
+              "Baking a birthday cake",
+              "Fixing a leaky faucet",
+              "Deciding to build a new park",
+              "Delivering a package"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A mayor leads a community similar to how a principal leads a ___.",
+            "options": [
+              "School",
+              "Desert",
+              "Forest",
+              "Ocean"
             ],
             "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "Who helps make laws for a country or province?",
+            "prompt": "What do we call the person chosen to help lead a town or city?",
             "answers": [
-              "government",
-              "elected government"
+              "mayor"
             ]
           },
           {
-            "prompt": "Name one group that helps make sure laws are followed, like police or courts.",
-            "answers": [
-              "police",
-              "courts"
-            ]
-          },
-          {
-            "prompt": "Do laws help keep people safe and treated fairly?",
+            "prompt": "Does a mayor help make decisions for a whole community?",
             "answers": [
               "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing a mayor might help decide, like building a new park.",
+            "answers": [
+              "a new park",
+              "building a park",
+              "community decisions"
             ]
           }
         ]
@@ -25116,84 +25112,82 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Figurative Language: Metaphors",
-        "summary": "Students learn that a metaphor describes one thing by saying it is another thing, without using like or as, such as saying the classroom was a zoo to describe a noisy room.",
-        "resourceLabel": "YouTube: Figurative Language: Metaphors",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Metaphors%20grade%202%20educational",
+        "title": "Language Review: Word Families, Blends, and Poetry",
+        "summary": "Students review recent Language skills: the -ig and -ug word families, beginning blends, rhyming, question marks, spaces between words, time order words, character traits, and poetry.",
+        "resourceLabel": "YouTube: Language Review: Word Families, Blends, and Poetry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Blends%2C%20and%20Poetry%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a metaphor?",
+            "q": "Which word rhymes with big?",
             "options": [
-              "A sentence with no comparison at all",
-              "A comparison that always uses like or as",
-              "A type of punctuation mark",
-              "A comparison that says one thing is another thing"
+              "Sun",
+              "Cup",
+              "Dog",
+              "Pig"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these sentences is a metaphor?",
+            "q": "Which word begins with the blend st?",
             "options": [
-              "The playground was a beehive of activity.",
-              "The playground was empty today.",
-              "The playground was as busy as a beehive.",
-              "The playground had many students."
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the metaphor time is money suggest?",
-            "options": [
-              "Time can be spent like real coins",
-              "Time has no value at all",
-              "Money and time have no connection",
-              "Time is valuable, like money"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How is a metaphor different from a simile?",
-            "options": [
-              "A simile never makes any comparison",
-              "A metaphor and a simile are exactly the same thing",
-              "A metaphor does not use like or as, while a simile does",
-              "A metaphor always uses like or as"
+              "Dog",
+              "Man",
+              "Stop",
+              "Pig"
             ],
             "answer": 2
           },
           {
-            "q": "Why might an author use a metaphor in their writing?",
+            "q": "What punctuation mark ends a sentence that asks something?",
             "options": [
-              "Metaphors are never used by authors",
-              "Metaphors make writing less interesting",
-              "Metaphors have no purpose in writing",
-              "To create a vivid picture in the readers mind"
+              "Comma",
+              "Question mark",
+              "Exclamation mark",
+              "Period"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "The name of the author",
+              "How a character usually behaves",
+              "The colour of a characters clothes",
+              "The title of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do many poems use to sound musical?",
+            "options": [
+              "Only silence",
+              "Rhyming words and rhythm",
+              "Only pictures",
+              "Only numbers"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "Does a metaphor use the words like or as?",
+            "prompt": "Change the b in big to p. What new word do you make?",
             "answers": [
-              "no"
+              "pig"
             ]
           },
           {
-            "prompt": "What does the metaphor the classroom was a zoo suggest about the classroom?",
+            "prompt": "What two letters blend together at the start of the word black?",
             "answers": [
-              "it was noisy or chaotic",
-              "noisy"
+              "bl"
             ]
           },
           {
-            "prompt": "Is the sentence Her smile was as bright as the sun a metaphor or a simile?",
+            "prompt": "What punctuation mark is used at the end of a sentence that asks something?",
             "answers": [
-              "simile"
+              "question mark"
             ]
           }
-        ],
-        "topic": "Vocabulary"
+        ]
       },
       {
         "subject": "Math",
@@ -25361,83 +25355,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Trade Between Countries: Imports and Exports",
-        "summary": "Students learn that countries trade goods with each other, sending exports to other countries and receiving imports from other countries, so people can access products not made locally.",
-        "resourceLabel": "YouTube: Trade Between Countries: Imports and Exports",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Between%20Countries%3A%20Imports%20and%20Exports%20grade%202%20educational",
+        "title": "Community Gardens: Growing Food Together",
+        "summary": "Students learn that a community garden is a shared space where neighbours can plant, grow, and take care of vegetables and flowers together.",
+        "resourceLabel": "YouTube: Community Gardens: Growing Food Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Gardens%3A%20Growing%20Food%20Together%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What are exports?",
+            "q": "What is a community garden?",
             "options": [
-              "Money a country never uses",
-              "Goods a country never sells",
-              "Goods a country only keeps for itself",
-              "Goods a country sends to another country"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What are imports?",
-            "options": [
-              "Money with no real value",
-              "Goods a country only sends away",
-              "Goods a country receives from another country",
-              "Goods that are never traded"
+              "A store that sells toys",
+              "A place with no plants at all",
+              "A shared space where neighbours grow food together",
+              "A garden owned by only one family"
             ],
             "answer": 2
           },
           {
-            "q": "Why do countries trade goods with each other?",
+            "q": "Which of these might you find in a community garden?",
             "options": [
-              "To access products that may not be made locally",
-              "Countries never need goods from elsewhere",
-              "This concept has no connection to daily life",
-              "Trade has no benefit to any country"
+              "Vegetables and flowers",
+              "Books and pencils",
+              "Televisions",
+              "Cars and trucks"
             ],
             "answer": 0
           },
           {
-            "q": "If Canada sends maple syrup to another country, is that an import or an export for Canada?",
+            "q": "Why might neighbours enjoy working in a community garden together?",
             "options": [
-              "Neither",
-              "Both at the same time",
-              "An export",
-              "An import"
+              "Community gardens have no benefit",
+              "Gardens are never shared with anyone",
+              "Working together is never helpful",
+              "It lets them share the work and enjoy fresh food together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A community garden helps teach us that neighbours can ___.",
+            "options": [
+              "Ignore their shared spaces",
+              "Only work completely alone",
+              "Work together to grow something helpful",
+              "Never help each other"
             ],
             "answer": 2
           },
           {
-            "q": "Trading goods between countries is an example of ___.",
+            "q": "Taking care of a community garden together is an example of ___.",
             "options": [
-              "Ignoring other countries needs",
-              "Something that never actually happens",
-              "Working together to share resources",
-              "Countries refusing to work together"
+              "Wasting food on purpose",
+              "Teamwork and cooperation",
+              "Ignoring the community",
+              "Arguing and disagreement"
             ],
-            "answer": 2
+            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call goods a country sends to another country?",
+            "prompt": "What do we call a shared space where neighbours grow food together?",
             "answers": [
-              "exports"
+              "community garden"
             ]
           },
           {
-            "prompt": "What do we call goods a country receives from another country?",
+            "prompt": "Name one thing that might grow in a community garden, like a vegetable.",
             "answers": [
-              "imports"
+              "vegetable",
+              "flower",
+              "tomato"
             ]
           },
           {
-            "prompt": "Does trade help countries access products not made locally?",
+            "prompt": "Do neighbours work together to take care of a community garden?",
             "answers": [
               "yes"
             ]
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -25447,83 +25443,86 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Analogies: Comparing Word Relationships",
-        "summary": "Students learn that an analogy compares two pairs of words that share a similar relationship, such as hot is to cold as up is to down, both showing opposite pairs.",
-        "resourceLabel": "YouTube: Analogies: Comparing Word Relationships",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Analogies%3A%20Comparing%20Word%20Relationships%20grade%202%20educational",
+        "title": "Word Families: -ot Words",
+        "summary": "Students explore the -ot word family, learning that changing the first letter of words like hot, pot, and dot creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -ot Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ot%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is an analogy?",
+            "q": "Which word rhymes with hot?",
             "options": [
-              "A single word with two meanings",
-              "A word with no meaning at all",
-              "A comparison of two pairs of words that share a relationship",
-              "A punctuation mark"
+              "Cup",
+              "Dog",
+              "Sun",
+              "Pot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Change the h in hot to d. What new word do you make?",
+            "options": [
+              "Dog",
+              "Din",
+              "Dot",
+              "Dad"
             ],
             "answer": 2
           },
           {
-            "q": "Complete the analogy: bird is to nest as bee is to ___.",
+            "q": "Which of these words is part of the -ot word family?",
             "options": [
-              "Burrow",
-              "Web",
-              "Hive",
-              "Den"
+              "Cop",
+              "Cat",
+              "Cut",
+              "Cot"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Complete the analogy: finger is to hand as toe is to ___.",
+            "q": "Words in the -ot family all end with the same ___.",
             "options": [
-              "Arm",
-              "Foot",
-              "Ear",
-              "Head"
+              "Sound",
+              "Colour",
+              "Picture",
+              "Number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word does not belong in the -ot word family?",
+            "options": [
+              "Hot",
+              "Sun",
+              "Dot",
+              "Pot"
             ],
             "answer": 1
-          },
-          {
-            "q": "What relationship do the words puppy and dog share in an analogy about baby animals and adult animals?",
-            "options": [
-              "A puppy and dog are the same age",
-              "A puppy is unrelated to a dog",
-              "A puppy is bigger than a dog",
-              "A puppy is a baby dog"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Solving analogies helps students understand ___.",
-            "options": [
-              "Only how to spell words correctly",
-              "Only how to count numbers",
-              "Nothing useful about language",
-              "How words and ideas relate to each other"
-            ],
-            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "In the analogy hot is to cold as up is to ___, what word completes the pattern?",
+            "prompt": "Change the h in hot to p. What new word do you make?",
             "answers": [
-              "down"
+              "pot"
             ]
           },
           {
-            "prompt": "What kind of relationship do hot/cold and up/down share?",
+            "prompt": "Change the p in pot to d. What new word do you make?",
             "answers": [
-              "opposites",
-              "they are opposites"
+              "dot"
             ]
           },
           {
-            "prompt": "Is an analogy a way of comparing word relationships?",
+            "prompt": "Name one more word that rhymes with hot, pot, and dot.",
             "answers": [
-              "yes"
+              "not",
+              "cot",
+              "lot",
+              "jot"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -25693,83 +25692,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Confederation: How Canada Became a Country",
-        "summary": "Students learn that Canadian Confederation was the joining together of separate colonies in 1867 to form the country of Canada, with its own government to make decisions.",
-        "resourceLabel": "YouTube: Canadian Confederation: How Canada Became a Country",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%202%20educational",
+        "title": "Riding the Bus: Being Safe and Polite",
+        "summary": "Students learn safe and polite behaviour when riding a school bus or public bus, such as staying seated, using a quiet voice, and waiting for a turn to get on and off.",
+        "resourceLabel": "YouTube: Riding the Bus: Being Safe and Polite",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Riding%20the%20Bus%3A%20Being%20Safe%20and%20Polite%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What was Canadian Confederation?",
+            "q": "Why should riders stay seated on a moving bus?",
             "options": [
-              "A war between two countries",
-              "A type of sporting event",
-              "A single citys founding",
-              "Separate colonies joining together to form the country of Canada"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In what year did Canadian Confederation take place?",
-            "options": [
-              "1900",
-              "1812",
-              "1867",
-              "1776"
+              "Standing is always safer",
+              "Sitting down is never important",
+              "To stay safe while the bus is moving",
+              "Buses never move"
             ],
             "answer": 2
           },
           {
-            "q": "What happened to Canadas government after Confederation?",
+            "q": "Which of these shows polite behaviour on a bus?",
             "options": [
-              "Canada lost its ability to make any decisions",
-              "Canada gained its own government to make decisions",
-              "No government existed after Confederation",
-              "Another country took over completely"
+              "Yelling loudly the whole ride",
+              "Using a quiet voice",
+              "Pushing other riders",
+              "Ignoring the bus driver completely"
             ],
             "answer": 1
           },
           {
-            "q": "Why is Confederation an important event in Canadian history?",
+            "q": "Why do bus riders wait for their turn to get on and off?",
             "options": [
-              "It happened in a different country entirely",
-              "It only affected one small town",
-              "It has no connection to Canadian history",
-              "It marks when Canada became its own country"
+              "Waiting is never necessary",
+              "Turns are not important on a bus",
+              "Only the first rider matters",
+              "So everyone can board and exit safely"
             ],
             "answer": 3
           },
           {
-            "q": "Confederation is best described as colonies joining to form ___.",
+            "q": "What should you do if the bus driver gives an instruction?",
             "options": [
-              "Two separate countries",
-              "No country at all",
-              "One country",
-              "A single small city"
+              "Cover your ears",
+              "Argue with the driver",
+              "Ignore it completely",
+              "Listen and follow it"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Being safe and polite on a bus helps keep everyone ___.",
+            "options": [
+              "Upset with each other",
+              "Comfortable and safe",
+              "Confused",
+              "In danger"
+            ],
+            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "In what year did Canadian Confederation happen?",
-            "answers": [
-              "1867"
-            ]
-          },
-          {
-            "prompt": "What word describes separate colonies joining together to form one country?",
-            "answers": [
-              "confederation"
-            ]
-          },
-          {
-            "prompt": "Did Canada gain its own government to make decisions after Confederation?",
+            "prompt": "Should we stay seated while riding on a bus?",
             "answers": [
               "yes"
             ]
+          },
+          {
+            "prompt": "Name one polite behaviour to show on a bus, like using a quiet voice.",
+            "answers": [
+              "quiet voice",
+              "waiting your turn"
+            ]
+          },
+          {
+            "prompt": "Is it safe to walk around while the bus is moving?",
+            "answers": [
+              "no"
+            ]
           }
-        ],
-        "topic": "Confederation & Government Formation"
+        ]
       }
     ]
   },
@@ -25859,165 +25858,166 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Measuring Angles: Right, Acute, and Obtuse",
-        "summary": "Students learn to identify three kinds of angles: a right angle, which looks like the corner of a square, an acute angle, which is smaller than a right angle, and an obtuse angle, which is larger.",
-        "resourceLabel": "YouTube: Measuring Angles: Right, Acute, and Obtuse",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Angles%3A%20Right%2C%20Acute%2C%20and%20Obtuse%20grade%202%20educational",
+        "title": "Counting to 100 by Ones",
+        "summary": "Students practise counting aloud from 1 to 100 by ones, and recognize written numerals up to 100, extending their counting range beyond 50.",
+        "resourceLabel": "YouTube: Counting to 100 by Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20to%20100%20by%20Ones%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a right angle?",
+            "q": "What number comes right after 59?",
             "options": [
-              "An angle that looks like the corner of a square",
-              "An angle only found in circles",
-              "An angle that is always curved",
-              "An angle with no size at all"
+              "60",
+              "59",
+              "61",
+              "58"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these describes an acute angle?",
+            "q": "What number comes right after 89?",
             "options": [
-              "The same as a straight line",
-              "Smaller than a right angle",
-              "Exactly equal to a right angle",
-              "Larger than a right angle"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these describes an obtuse angle?",
-            "options": [
-              "Larger than a right angle",
-              "Exactly equal to a right angle",
-              "The same as no angle at all",
-              "Smaller than a right angle"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these shapes has four right angles?",
-            "options": [
-              "A triangle with all different angles",
-              "A circle",
-              "A square",
-              "A curved line"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Learning to identify angles helps us describe ___.",
-            "options": [
-              "The smell of shapes",
-              "The corners of shapes",
-              "The weight of shapes",
-              "The colour of shapes"
-            ],
-            "answer": 1
-          }
-        ],
-        "worksheet": [
-          {
-            "prompt": "What kind of angle looks like the corner of a square?",
-            "answers": [
-              "right angle"
-            ]
-          },
-          {
-            "prompt": "Is an acute angle smaller or larger than a right angle?",
-            "answers": [
-              "smaller"
-            ]
-          },
-          {
-            "prompt": "Is an obtuse angle smaller or larger than a right angle?",
-            "answers": [
-              "larger"
-            ]
-          }
-        ],
-        "topic": "Angles"
-      },
-      {
-        "subject": "Science",
-        "title": "Ocean Zones: Sunlight, Twilight, and Midnight",
-        "summary": "Students learn that the ocean has different zones based on depth and light, with the sunlit zone near the top, the twilight zone getting dim light, and the dark midnight zone far below.",
-        "resourceLabel": "YouTube: Ocean Zones: Sunlight, Twilight, and Midnight",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Zones%3A%20Sunlight%2C%20Twilight%2C%20and%20Midnight%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "What is the sunlit zone of the ocean?",
-            "options": [
-              "The deepest, darkest zone",
-              "The top zone that gets the most sunlight",
-              "A zone with no water at all",
-              "A zone found only on land"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the twilight zone of the ocean?",
-            "options": [
-              "A middle zone that gets only dim light",
-              "A zone found only near the shore",
-              "The top zone with bright sunlight",
-              "The very deepest, completely dark zone"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the midnight zone of the ocean?",
-            "options": [
-              "A zone that never has any water",
-              "The top zone with the brightest sunlight",
-              "A zone found only near the surface",
-              "The deepest zone, which is completely dark"
+              "80",
+              "91",
+              "88",
+              "90"
             ],
             "answer": 3
           },
           {
-            "q": "Why does light decrease as you go deeper into the ocean?",
+            "q": "What number comes right before 100?",
             "options": [
-              "Water makes light brighter the deeper you go",
-              "The ocean has no connection to sunlight at all",
-              "Sunlight cannot travel very far through deep water",
-              "Sunlight always reaches every part of the ocean equally"
+              "101",
+              "99",
+              "98",
+              "100"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "The three ocean zones are organized based on their depth and ___.",
+            "q": "Which number is greater, 75 or 57?",
             "options": [
-              "Amount of light",
-              "Water temperature only",
-              "Amount of sand",
-              "Number of fish"
+              "57",
+              "They are equal",
+              "Cannot tell",
+              "75"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting from 1 to 100 means we say each number ___.",
+            "options": [
+              "In order, one at a time",
+              "Backward only",
+              "Twice each",
+              "In random order"
             ],
             "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call the top ocean zone that gets the most sunlight?",
+            "prompt": "What number comes right after 59?",
             "answers": [
-              "sunlit zone"
+              "60",
+              "sixty"
             ]
           },
           {
-            "prompt": "Does the twilight zone get bright sunlight or dim light?",
+            "prompt": "What number comes right after 89?",
             "answers": [
-              "dim light",
-              "dim"
+              "90",
+              "ninety"
             ]
           },
           {
-            "prompt": "Is the midnight zone bright or completely dark?",
+            "prompt": "What number comes right after 99?",
             "answers": [
-              "completely dark",
-              "dark"
+              "100",
+              "one hundred"
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Number Sense: Basic Counting"
+      },
+      {
+        "subject": "Science",
+        "title": "Types of Precipitation: Rain, Snow, and Hail",
+        "summary": "Students learn that precipitation is water that falls from clouds in different forms, such as rain, snow, and hail, depending on the temperature outside.",
+        "resourceLabel": "YouTube: Types of Precipitation: Rain, Snow, and Hail",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Precipitation%3A%20Rain%2C%20Snow%2C%20and%20Hail%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes water falling from clouds, such as rain or snow?",
+            "options": [
+              "Camouflage",
+              "Precipitation",
+              "Gravity",
+              "Erosion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of precipitation usually falls when the weather is very cold?",
+            "options": [
+              "Snow",
+              "Fog only",
+              "Warm rain",
+              "Sunshine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of precipitation falls as small balls of ice?",
+            "options": [
+              "Snowflakes only",
+              "Warm rain",
+              "Hail",
+              "Fog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What usually causes precipitation to fall as snow instead of rain?",
+            "options": [
+              "No clouds at all",
+              "Very hot temperatures",
+              "Bright sunshine",
+              "Cold temperatures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rain, snow, and hail are all types of ___.",
+            "options": [
+              "Life cycles",
+              "Forces",
+              "Habitats",
+              "Precipitation"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes water falling from clouds, like rain or snow?",
+            "answers": [
+              "precipitation"
+            ]
+          },
+          {
+            "prompt": "Name one type of precipitation that falls when it is very cold, like snow.",
+            "answers": [
+              "snow"
+            ]
+          },
+          {
+            "prompt": "Does rain usually fall when the weather is warm rather than freezing?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Weather, Sky & Space (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -26597,85 +26597,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "The Rock Cycle: Igneous, Sedimentary, and Metamorphic",
-        "summary": "Students learn that rocks can slowly change from one type to another over a very long time, forming igneous rock from cooled melted rock, sedimentary rock from layers of sediment, and metamorphic rock from heat and pressure.",
-        "resourceLabel": "YouTube: The Rock Cycle: Igneous, Sedimentary, and Metamorphic",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rock%20Cycle%3A%20Igneous%2C%20Sedimentary%2C%20and%20Metamorphic%20grade%202%20educational",
+        "title": "Seed Dispersal: How Seeds Travel",
+        "summary": "Students learn that seed dispersal happens when seeds travel away from the parent plant by wind, water, or animals, helping new plants grow in new places.",
+        "resourceLabel": "YouTube: Seed Dispersal: How Seeds Travel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Seed%20Dispersal%3A%20How%20Seeds%20Travel%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is igneous rock?",
+            "q": "What do we call seeds travelling away from the parent plant?",
             "options": [
-              "Rock formed only from sand blowing in wind",
-              "Rock that never actually forms",
-              "Rock formed only underwater",
-              "Rock formed from cooled melted rock"
+              "Erosion",
+              "Seed dispersal",
+              "Gravity",
+              "Migration"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is sedimentary rock?",
+            "q": "Which of these can carry a seed to a new place?",
             "options": [
-              "Rock formed only from ice",
-              "Rock that has no connection to layers",
-              "Rock formed from layers of sediment",
-              "Rock formed only from lava"
+              "Wind",
+              "A number",
+              "A sound",
+              "A shadow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might an animal help disperse a seed?",
+            "options": [
+              "By ignoring the seed completely",
+              "By eating the whole plant only",
+              "By carrying the seed to a new spot",
+              "By freezing the seed forever"
             ],
             "answer": 2
           },
           {
-            "q": "What is metamorphic rock?",
+            "q": "Why is seed dispersal helpful for plants?",
             "options": [
-              "Rock found only in the ocean",
-              "Rock that never changes at all",
-              "Rock changed by heat and pressure",
-              "Rock formed only from wind"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is this process called a rock cycle?",
-            "options": [
-              "Rocks never change from one type to another",
-              "The rock cycle has no connection to time",
-              "Only one type of rock has ever existed",
-              "Rocks can slowly change from one type into another over time"
+              "It has no purpose at all",
+              "It destroys all seeds",
+              "It stops plants from ever growing",
+              "It helps new plants grow in new places"
             ],
             "answer": 3
           },
           {
-            "q": "The rock cycle shows that rocks are always ___.",
+            "q": "Seeds can travel by wind, water, or ___.",
             "options": [
-              "Slowly changing over long periods of time",
-              "Exactly the same forever",
-              "Unrelated to one another",
-              "Disappearing completely with no trace"
+              "Animals",
+              "Colours",
+              "Shadows",
+              "Sound waves"
             ],
             "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "Name one of the three main types of rock, like igneous, sedimentary, or metamorphic.",
+            "prompt": "What word describes seeds travelling away from the parent plant?",
             "answers": [
-              "igneous",
-              "sedimentary",
-              "metamorphic"
+              "seed dispersal",
+              "dispersal"
             ]
           },
           {
-            "prompt": "Does igneous rock form from cooled melted rock?",
+            "prompt": "Name one way a seed might travel to a new place, like by wind or by an animal.",
             "answers": [
-              "yes"
+              "wind",
+              "water",
+              "animal"
             ]
           },
           {
-            "prompt": "Does sedimentary rock form from layers of sediment?",
+            "prompt": "Can seeds travelling to new places help new plants grow there?",
             "answers": [
               "yes"
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -26765,82 +26766,86 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Formal and Informal Language: How We Talk in Different Places",
-        "summary": "Students learn that formal language, used in places like a classroom presentation, is more polite and careful, while informal language, used with friends, is more relaxed and casual.",
-        "resourceLabel": "YouTube: Formal and Informal Language: How We Talk in Different Places",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Formal%20and%20Informal%20Language%3A%20How%20We%20Talk%20in%20Different%20Places%20grade%202%20educational",
+        "title": "Word Families: -et Words",
+        "summary": "Students explore the -et word family, learning that changing the first letter of words like wet, pet, and net creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -et Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-et%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is formal language?",
+            "q": "Which word rhymes with wet?",
             "options": [
-              "Language only used with close friends",
-              "Polite and careful language used in serious situations",
-              "Language with no rules at all",
-              "A type of punctuation mark"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is informal language?",
-            "options": [
-              "Language only used in a courtroom",
-              "Relaxed, casual language used with friends",
-              "A kind of math equation",
-              "Language that is always written, never spoken"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which situation calls for formal language?",
-            "options": [
-              "Giving a presentation to the whole class",
-              "Joking around with a close friend",
-              "Playing a game with a sibling",
-              "Chatting with a best friend at recess"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which situation calls for informal language?",
-            "options": [
-              "Presenting a report to the class",
-              "Speaking at a formal event",
-              "Writing a serious letter to a mayor",
-              "Talking with a close friend at recess"
+              "Dog",
+              "Sun",
+              "Cup",
+              "Pet"
             ],
             "answer": 3
           },
           {
-            "q": "Choosing formal or informal language depends on ___.",
+            "q": "Change the w in wet to n. What new word do you make?",
             "options": [
-              "Only the time of day",
-              "Nothing at all",
-              "The situation and who you are talking to",
-              "Only the weather outside"
+              "Nap",
+              "Nut",
+              "Nod",
+              "Net"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words is part of the -et word family?",
+            "options": [
+              "Jam",
+              "Jet",
+              "Jog",
+              "Jab"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Words in the -et family all end with the same ___.",
+            "options": [
+              "Colour",
+              "Number",
+              "Sound",
+              "Picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word does not belong in the -et word family?",
+            "options": [
+              "Wet",
+              "Net",
+              "Sun",
+              "Pet"
             ],
             "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "Would you use formal or informal language during a classroom presentation?",
+            "prompt": "Change the w in wet to p. What new word do you make?",
             "answers": [
-              "formal"
+              "pet"
             ]
           },
           {
-            "prompt": "Would you use formal or informal language chatting with a close friend?",
+            "prompt": "Change the p in pet to n. What new word do you make?",
             "answers": [
-              "informal"
+              "net"
             ]
           },
           {
-            "prompt": "Is formal language usually more polite and careful than informal language?",
+            "prompt": "Name one more word that rhymes with wet, pet, and net.",
             "answers": [
-              "yes"
+              "jet",
+              "met",
+              "set",
+              "get"
             ]
           }
-        ]
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -26927,83 +26932,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Our Immune System: Fighting Off Germs",
-        "summary": "Students learn that our immune system is a team of body parts and cells that work together to fight off germs, helping us recover when we get sick.",
-        "resourceLabel": "YouTube: Our Immune System: Fighting Off Germs",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Immune%20System%3A%20Fighting%20Off%20Germs%20grade%202%20educational",
+        "title": "Animal Groups: Herds, Flocks, and Packs",
+        "summary": "Students learn that many animals live and travel together in groups, such as a herd of deer, a flock of birds, or a pack of wolves, which can help keep them safe.",
+        "resourceLabel": "YouTube: Animal Groups: Herds, Flocks, and Packs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Groups%3A%20Herds%2C%20Flocks%2C%20and%20Packs%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is our immune system?",
+            "q": "What do we call a group of birds flying together?",
             "options": [
-              "A part of our skeleton only",
-              "A single bone in our body",
-              "A type of food we eat",
-              "A team of body parts and cells that fight off germs"
+              "A herd",
+              "A pod",
+              "A pack",
+              "A flock"
             ],
             "answer": 3
           },
           {
-            "q": "What does our immune system help us do?",
+            "q": "What do we call a group of wolves living together?",
             "options": [
-              "Taste our food better",
-              "Grow taller every day",
-              "Fight off germs and recover when we get sick",
-              "See colours more clearly"
+              "A school",
+              "A flock",
+              "A herd",
+              "A pack"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Which of these helps support a healthy immune system?",
+            "q": "What do we call a group of deer moving together?",
             "options": [
-              "Never washing our hands at all",
-              "Ignoring germs completely",
-              "Washing our hands and eating healthy food",
-              "Avoiding all healthy food"
+              "A flock",
+              "A pack",
+              "A pod",
+              "A herd"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is it helpful to rest when we are sick?",
+            "q": "Why might animals live together in groups?",
             "options": [
-              "Rest makes germs multiply faster",
-              "Resting helps our immune system fight off germs",
-              "Resting has no connection to getting better",
-              "Our immune system never needs any help"
+              "It always makes them louder",
+              "It can help keep them safer",
+              "Groups have no benefit",
+              "It makes them slower"
             ],
             "answer": 1
           },
           {
-            "q": "Our immune system is best described as our bodys ___.",
+            "q": "Herds, flocks, and packs are all examples of animal ___.",
             "options": [
-              "Defense against germs",
-              "Least important system",
-              "Only decoration",
-              "System for tasting food"
+              "Groups",
+              "Fossils",
+              "Habitats",
+              "Life cycles"
             ],
             "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call the team of body parts and cells that fight off germs?",
+            "prompt": "What do we call a group of birds flying together?",
             "answers": [
-              "immune system"
+              "flock"
             ]
           },
           {
-            "prompt": "Does our immune system help us recover when we get sick?",
+            "prompt": "What do we call a group of wolves living together?",
             "answers": [
-              "yes"
+              "pack"
             ]
           },
           {
-            "prompt": "Can washing our hands help stop germs from making us sick?",
+            "prompt": "Can living in a group help keep animals safer?",
             "answers": [
               "yes"
             ]
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -27094,79 +27099,79 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Skimming and Scanning: Reading Strategies for Finding Information",
-        "summary": "Students learn two reading strategies: skimming, which means quickly looking over a text to get its general idea, and scanning, which means quickly searching for a specific piece of information.",
-        "resourceLabel": "YouTube: Skimming and Scanning: Reading Strategies for Finding Information",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Skimming%20and%20Scanning%3A%20Reading%20Strategies%20for%20Finding%20Information%20grade%202%20educational",
+        "title": "Making New Words: Adding -es",
+        "summary": "Students learn that adding -es to some words, such as changing box to boxes or wish to wishes, shows there is more than one.",
+        "resourceLabel": "YouTube: Making New Words: Adding -es",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-es%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is skimming?",
+            "q": "Add -es to the word box. What new word do you make?",
             "options": [
-              "Reading every single word very slowly",
-              "Quickly looking over a text to get its general idea",
-              "Memorizing an entire book word for word",
-              "Ignoring a text completely"
+              "Boxs",
+              "Boxes",
+              "Boxen",
+              "Boxies"
             ],
             "answer": 1
           },
           {
-            "q": "What is scanning?",
+            "q": "Add -es to the word wish. What new word do you make?",
             "options": [
-              "Reading a book from cover to cover slowly",
-              "Colouring in the pictures of a book",
-              "Quickly searching for a specific piece of information",
-              "Writing a brand new story"
+              "Wishies",
+              "Wishes",
+              "Wishs",
+              "Wish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adding -es to a word usually shows there is ___.",
+            "options": [
+              "Only one",
+              "A colour",
+              "More than one",
+              "No amount"
             ],
             "answer": 2
           },
           {
-            "q": "Which strategy would help you quickly find a phone number in a long list?",
+            "q": "Which word correctly shows more than one dish?",
             "options": [
-              "Skimming",
-              "Scanning",
-              "Memorizing the entire list",
-              "Ignoring the list completely"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which strategy would help you get a general idea of what an article is about before reading it fully?",
-            "options": [
-              "Scanning",
-              "Skimming",
-              "Reading only the very last word",
-              "Skipping the article entirely"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Skimming and scanning are useful reading strategies because they help readers ___.",
-            "options": [
-              "Make reading take much longer",
-              "Forget the topic of a text",
-              "Avoid reading altogether",
-              "Find information quickly and efficiently"
+              "Dish",
+              "Dishs",
+              "Dishies",
+              "Dishes"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which word correctly shows more than one bus?",
+            "options": [
+              "Buses",
+              "Busies",
+              "Bus",
+              "Buss"
+            ],
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What reading strategy means quickly looking over a text to get its general idea?",
+            "prompt": "Add -es to the word box. What new word do you make?",
             "answers": [
-              "skimming"
+              "boxes"
             ]
           },
           {
-            "prompt": "What reading strategy means quickly searching for one specific piece of information?",
+            "prompt": "Add -es to the word wish. What new word do you make?",
             "answers": [
-              "scanning"
+              "wishes"
             ]
           },
           {
-            "prompt": "Would scanning help you quickly find a specific date in a long article?",
+            "prompt": "Does adding -es to a word usually mean there is only one, or more than one?",
             "answers": [
-              "yes"
+              "more than one"
             ]
           }
         ]
@@ -27256,165 +27261,167 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Chemical and Physical Changes: How Matter Can Change",
-        "summary": "Students learn that a physical change, like tearing paper, changes how something looks without making a new substance, while a chemical change, like burning wood, creates a new substance entirely.",
-        "resourceLabel": "YouTube: Chemical and Physical Changes: How Matter Can Change",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Chemical%20and%20Physical%20Changes%3A%20How%20Matter%20Can%20Change%20grade%202%20educational",
+        "title": "Simple Machines: Screws and Wedges",
+        "summary": "Students learn about two more simple machines, a screw, which is a spiral ramp that holds things together, and a wedge, which is a shape used to split or cut things apart.",
+        "resourceLabel": "YouTube: Simple Machines: Screws and Wedges",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Screws%20and%20Wedges%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a physical change?",
+            "q": "What simple machine has a spiral shape and helps hold things together?",
             "options": [
-              "A change only found in outer space",
-              "A change that never actually happens",
-              "A change that always creates a brand new substance",
-              "A change in how something looks, without creating a new substance"
+              "A lever",
+              "A wheel",
+              "A pulley",
+              "A screw"
             ],
             "answer": 3
           },
           {
-            "q": "What is a chemical change?",
+            "q": "What simple machine is shaped like a triangle and helps cut or split things apart?",
             "options": [
-              "A change that never creates anything new",
-              "A change that only happens to liquids",
-              "A change that only affects the colour of an object",
-              "A change that creates a brand new substance"
+              "A wheel",
+              "A screw",
+              "A wedge",
+              "A ramp"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these tools uses a wedge shape to cut?",
+            "options": [
+              "A wheel",
+              "A pulley rope",
+              "A screwdriver",
+              "An axe"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these is an example of a physical change?",
+            "q": "Where might you find a screw being used?",
             "options": [
-              "Burning a piece of paper",
-              "Baking a cake",
-              "Tearing a piece of paper",
-              "Rusting metal"
+              "Floating in the sky",
+              "Swimming in the ocean",
+              "Holding pieces of furniture together",
+              "Growing in a garden"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of a chemical change?",
+            "q": "Screws and wedges are both examples of ___.",
             "options": [
-              "Burning wood",
-              "Cutting a piece of string",
-              "Bending a paperclip",
-              "Folding paper"
+              "Weather tools",
+              "Habitats",
+              "Life cycles",
+              "Simple machines"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Chemical changes are different from physical changes because they ___.",
-            "options": [
-              "Only change the size of an object",
-              "Only happen once a year",
-              "Create an entirely new substance",
-              "Never actually change anything"
-            ],
-            "answer": 2
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "Does tearing a piece of paper create a new substance, or just change its shape?",
+            "prompt": "What simple machine has a spiral shape and helps hold things together, like in wood?",
             "answers": [
-              "just change its shape",
-              "change its shape"
+              "screw"
             ]
           },
           {
-            "prompt": "Does burning wood create a new substance?",
+            "prompt": "What simple machine is shaped like a triangle and helps cut or split things, like an axe?",
             "answers": [
-              "yes"
+              "wedge"
             ]
           },
           {
-            "prompt": "What kind of change creates a brand new substance?",
+            "prompt": "Name one place you might see a screw being used.",
             "answers": [
-              "chemical change"
+              "furniture",
+              "wood",
+              "toys"
             ]
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
-        "title": "Global Citizenship: Being a Responsible World Citizen",
-        "summary": "Students learn that a global citizen thinks beyond their own community and considers how their actions, such as recycling or being kind to others, can affect people around the world.",
-        "resourceLabel": "YouTube: Global Citizenship: Being a Responsible World Citizen",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Citizenship%3A%20Being%20a%20Responsible%20World%20Citizen%20grade%202%20educational",
+        "title": "Grandparents: Learning from Our Elders",
+        "summary": "Students learn that grandparents and other elders in a family often share stories, wisdom, and traditions that help younger family members learn about the past.",
+        "resourceLabel": "YouTube: Grandparents: Learning from Our Elders",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grandparents%3A%20Learning%20from%20Our%20Elders%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a global citizen?",
+            "q": "Who are grandparents?",
             "options": [
-              "A person with no connection to other people",
-              "Someone who only thinks about their own street",
-              "Someone who considers how their actions affect people around the world",
-              "Someone who ignores every other country"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is an action a responsible global citizen might take?",
-            "options": [
-              "Ignoring people in other countries completely",
-              "Recycling to help protect the environment",
-              "Refusing to help anyone at all",
-              "Wasting resources on purpose"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might recycling in your own community help the whole world?",
-            "options": [
-              "Recycling only ever affects one single street",
-              "This concept has no relevance to global citizenship",
-              "Recycling has no connection to the environment",
-              "Protecting the environment can benefit people everywhere"
+              "People with no connection to our family",
+              "Strangers we never know",
+              "Only characters in books",
+              "Older family members who can share stories and wisdom"
             ],
             "answer": 3
           },
           {
-            "q": "How can being kind to newcomers show global citizenship?",
+            "q": "What might a grandparent share with a younger family member?",
             "options": [
-              "It shows care for people no matter where they come from",
-              "Global citizens should never be kind to newcomers",
-              "This concept only applies within one single country",
-              "Kindness has no connection to global citizenship"
+              "Nothing at all",
+              "Random facts about strangers",
+              "Stories and family traditions",
+              "Only silence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to listen to our elders, like grandparents?",
+            "options": [
+              "Elders never have anything useful to share",
+              "Listening to elders is not important",
+              "Grandparents know nothing about our family",
+              "They can teach us about the past and share helpful wisdom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shows respect for a grandparent?",
+            "options": [
+              "Listening carefully to their stories",
+              "Walking away while they speak",
+              "Interrupting them constantly",
+              "Ignoring them completely"
             ],
             "answer": 0
           },
           {
-            "q": "Being a global citizen means caring about people ___.",
+            "q": "Learning from our elders helps us understand our familys ___.",
             "options": [
-              "Only in your own house",
-              "Around the world, not just in your own community",
-              "Nowhere at all",
-              "Only in your own school"
+              "Future only",
+              "Least important details",
+              "Nothing important",
+              "History and traditions"
             ],
-            "answer": 1
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "What word describes someone who thinks about how their actions affect the whole world?",
+            "prompt": "Name a family member who is often older, like a grandparent.",
             "answers": [
-              "global citizen"
+              "grandparent",
+              "grandma",
+              "grandpa"
             ]
           },
           {
-            "prompt": "Name one action a global citizen might take, like recycling.",
-            "answers": [
-              "recycling",
-              "being kind to others"
-            ]
-          },
-          {
-            "prompt": "Can our actions in our own community affect people in other parts of the world?",
+            "prompt": "Can grandparents share stories about the past with us?",
             "answers": [
               "yes"
             ]
+          },
+          {
+            "prompt": "What word describes learning from someone older and wiser, like a grandparent?",
+            "answers": [
+              "learning from elders",
+              "wisdom"
+            ]
           }
-        ],
-        "topic": "World Geography & Cultures"
+        ]
       }
     ]
   },
@@ -27505,85 +27512,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Estimating Products: Rounding Before Multiplying",
-        "summary": "Students learn to estimate the product of a multiplication problem by rounding one or both numbers to a friendly number first, making the multiplication easier to do quickly.",
-        "resourceLabel": "YouTube: Estimating Products: Rounding Before Multiplying",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Products%3A%20Rounding%20Before%20Multiplying%20grade%202%20educational",
+        "title": "Doubles Plus One: Near Doubles",
+        "summary": "Students learn a mental math strategy for adding two numbers that are almost the same, such as 5 plus 6, by first thinking of the double 5 plus 5 and then adding one more.",
+        "resourceLabel": "YouTube: Doubles Plus One: Near Doubles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Doubles%20Plus%20One%3A%20Near%20Doubles%20grade%202%20educational",
         "quiz": [
           {
-            "q": "To estimate 4 times 11, what friendly number could 11 be rounded to?",
+            "q": "What is double 5 (5 plus 5)?",
             "options": [
-              "10",
-              "15",
               "11",
-              "20"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Using 4 times 10 as an estimate, what is a reasonable estimate for 4 times 11?",
-            "options": [
-              "40",
-              "44",
-              "400",
-              "4"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a reasonable estimate for 5 times 21?",
-            "options": [
-              "About 10",
-              "About 1000",
-              "About 100",
-              "About 5"
+              "8",
+              "10",
+              "9"
             ],
             "answer": 2
           },
           {
-            "q": "Why might someone estimate a product before finding the exact answer?",
+            "q": "If double 5 is 10, what is 5 plus 6?",
             "options": [
-              "Estimating has no connection to multiplication",
-              "An estimate is always exactly the same as the real answer",
-              "Estimating a product is never useful",
-              "An estimate can help check whether the exact answer is reasonable"
+              "12",
+              "9",
+              "10",
+              "11"
             ],
             "answer": 3
           },
           {
-            "q": "Estimating products is a useful skill because it can help us ___.",
+            "q": "What is double 3 (3 plus 3)?",
             "options": [
-              "Replace the need for exact answers completely",
-              "Solve problems more quickly and check our work",
-              "Avoid learning multiplication facts",
-              "Make multiplication impossible to understand"
+              "5",
+              "8",
+              "7",
+              "6"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Using double 3 plus 3 equals 6, what is 3 plus 4?",
+            "options": [
+              "6",
+              "8",
+              "5",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A near doubles strategy helps us add two numbers that are ___.",
+            "options": [
+              "Always odd",
+              "Never related",
+              "Always equal to 10",
+              "Almost the same"
+            ],
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "To estimate 6 times 9, what friendly number could 9 be rounded to?",
+            "prompt": "What is double 5 (5 plus 5)?",
             "answers": [
-              "10"
+              "10",
+              "ten"
             ]
           },
           {
-            "prompt": "Using 6 times 10 as an estimate, what is a reasonable estimate for 6 times 9?",
+            "prompt": "If double 5 is 10, what is 5 plus 6?",
             "answers": [
-              "60",
-              "sixty"
+              "11",
+              "eleven"
             ]
           },
           {
-            "prompt": "Is an estimate an exact answer or an approximate answer?",
+            "prompt": "What is double 4 plus 1 more, or 4 plus 5?",
             "answers": [
-              "approximate answer",
-              "approximate"
+              "9",
+              "nine"
             ]
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Science",
@@ -28087,80 +28094,84 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Personification: Giving Human Traits to Objects",
-        "summary": "Ontario Grade 2 Language strand: students learn that personification gives human qualities to an animal, object, or idea, such as saying the wind whispered or the sun smiled, to make writing more vivid.",
-        "resourceLabel": "YouTube: Personification: Giving Human Traits to Objects",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Personification%3A%20Giving%20Human%20Traits%20to%20Objects%20grade%202%20educational",
+        "title": "Compare and Contrast: How Two Things Are Different",
+        "summary": "Students practise comparing and contrasting two things, such as two animals or two characters, by describing how they are alike and how they are different.",
+        "resourceLabel": "YouTube: Compare and Contrast: How Two Things Are Different",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compare%20and%20Contrast%3A%20How%20Two%20Things%20Are%20Different%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is personification?",
+            "q": "What does it mean to compare two things?",
             "options": [
-              "A type of punctuation mark",
-              "Giving human qualities to an object, animal, or idea",
-              "A word that names a person only",
-              "A sentence with no meaning at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which sentence is an example of personification?",
-            "options": [
-              "The stars winked at us from the sky.",
-              "The stars are far away in the sky.",
-              "The sky has many stars in it.",
-              "The sky was dark and clear."
+              "To look at how they are alike",
+              "To ignore them completely",
+              "To make them disappear",
+              "To throw them away"
             ],
             "answer": 0
           },
           {
-            "q": "In the sentence the old car groaned as it started, what is being given a human quality?",
+            "q": "What does it mean to contrast two things?",
             "options": [
-              "The key",
-              "The car",
-              "The driver",
-              "The road"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a writer use personification in a story?",
-            "options": [
-              "To make objects and animals feel more alive and interesting",
-              "Personification is only used in math",
-              "Personification has no purpose in writing",
-              "Personification makes writing harder to understand"
+              "To look at how they are different",
+              "To make them exactly the same",
+              "To hide them",
+              "To ignore them completely"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these gives a human trait to the wind?",
+            "q": "Which of these is a way a cat and a dog might be alike?",
             "options": [
-              "The wind can be strong or gentle.",
-              "The wind is a type of weather.",
-              "The wind howled angrily through the trees.",
-              "The wind blows from the west today."
+              "Both can fly",
+              "Both are plants",
+              "Both are animals",
+              "Both live in water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a way a cat and a dog might be different?",
+            "options": [
+              "The sounds they make",
+              "They are both pets",
+              "They both have fur",
+              "They are both animals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing and contrasting two characters in a story helps readers understand ___.",
+            "options": [
+              "Only the colour of the cover",
+              "Nothing about the story",
+              "How the characters are alike and different",
+              "Only the title of the book"
             ],
             "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call it when a writer gives human qualities to an object, like saying the wind whispered?",
+            "prompt": "If you compare a cat and a dog, name one way they are alike.",
             "answers": [
-              "personification"
+              "both animals",
+              "both have fur",
+              "both are pets"
             ]
           },
           {
-            "prompt": "In the sentence the leaves danced in the breeze, what human action is given to the leaves?",
+            "prompt": "If you compare a cat and a dog, name one way they are different.",
             "answers": [
-              "dancing",
-              "danced"
+              "different sounds",
+              "different size",
+              "cat meows dog barks"
             ]
           },
           {
-            "prompt": "Does personification make writing more vivid and interesting?",
+            "prompt": "What word describes looking at how two things are alike?",
             "answers": [
-              "yes"
+              "compare",
+              "comparing"
             ]
           }
         ]
@@ -28497,245 +28508,250 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Division with Remainders: When Sharing Does Not Come Out Even",
-        "summary": "Ontario Grade 2 Number strand: students learn that when a group of objects cannot be shared equally, there may be some left over, called a remainder, such as sharing 10 stickers among 3 friends leaving 1 remainder.",
-        "resourceLabel": "YouTube: Division with Remainders: When Sharing Does Not Come Out Even",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Division%20with%20Remainders%3A%20When%20Sharing%20Does%20Not%20Come%20Out%20Even%20grade%202%20educational",
+        "title": "Money: Adding Pennies and Nickels Together",
+        "summary": "Students practise finding the total value of a small group of coins, learning that a penny is worth 1 cent and a nickel is worth 5 cents, and adding their values together.",
+        "resourceLabel": "YouTube: Money: Adding Pennies and Nickels Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Adding%20Pennies%20and%20Nickels%20Together%20grade%202%20educational",
         "quiz": [
           {
-            "q": "If 9 cookies are shared equally among 4 people, how many cookies are left over?",
+            "q": "How many cents is one penny worth?",
             "options": [
               "1",
-              "3",
-              "0",
+              "5",
+              "10",
               "2"
             ],
             "answer": 0
           },
           {
-            "q": "If 13 marbles are shared equally among 3 people, how many marbles are left over?",
+            "q": "How many cents is one nickel worth?",
             "options": [
-              "3",
-              "0",
-              "2",
-              "1"
+              "50",
+              "10",
+              "1",
+              "5"
             ],
             "answer": 3
           },
           {
-            "q": "What do we call the amount left over after sharing equally?",
+            "q": "If you have 2 pennies, how many cents do you have?",
             "options": [
-              "A product",
-              "A factor",
-              "A remainder",
-              "A sum"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If 8 crayons are shared equally among 2 people, is there a remainder?",
-            "options": [
-              "Yes, there are 3 left over",
-              "Yes, there are 2 left over",
-              "No, they share evenly",
-              "Yes, there is 1 left over"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If 11 grapes are shared equally among 5 people, how many grapes are left over?",
-            "options": [
-              "0",
+              "5",
               "1",
+              "10",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you have 1 nickel and 2 pennies, how many cents do you have in total?",
+            "options": [
+              "5",
+              "7",
               "2",
-              "3"
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which coin is worth more, a nickel or a penny?",
+            "options": [
+              "Cannot tell",
+              "Penny",
+              "They are equal",
+              "Nickel"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many cents is one penny worth?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "How many cents is one nickel worth?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "If you have 1 nickel and 1 penny, how many cents do you have in total?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ],
+        "topic": "Time & Money"
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Human: Baby to Adult",
+        "summary": "Students learn that humans grow and change through stages of life, starting as a baby, growing into a child, then a teenager, and eventually a grown adult.",
+        "resourceLabel": "YouTube: Life Cycle of a Human: Baby to Adult",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Human%3A%20Baby%20to%20Adult%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a very young human right after being born?",
+            "options": [
+              "A cub",
+              "A baby",
+              "A calf",
+              "A chick"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Put these life stages in order: baby, child, ___.",
+            "options": [
+              "Teenager and then adult",
+              "Egg",
+              "Only more babies",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to humans as they move through the stages of life?",
+            "options": [
+              "They never change at all",
+              "They turn into a different animal",
+              "They grow and change over time",
+              "They disappear completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a stage in the human life cycle?",
+            "options": [
+              "Fossil",
+              "Habitat",
+              "Erosion",
+              "Child"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about human life stages helps us understand how people ___.",
+            "options": [
+              "Never grow at all",
+              "Grow and change over time",
+              "Stay exactly the same forever",
+              "Live only underwater"
             ],
             "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "If 10 stickers are shared equally among 3 friends, how many are left over as a remainder?",
+            "prompt": "What do we call a very young human right after being born?",
             "answers": [
-              "1",
-              "one"
+              "baby"
             ]
           },
           {
-            "prompt": "What do we call the amount left over when a group cannot be shared equally?",
+            "prompt": "Name one stage a human grows through, like baby, child, or adult.",
             "answers": [
-              "remainder"
+              "baby",
+              "child",
+              "teenager",
+              "adult"
             ]
           },
           {
-            "prompt": "If 7 apples are shared equally among 2 people, how many apples are left over?",
-            "answers": [
-              "1",
-              "one"
-            ]
-          }
-        ],
-        "topic": "Multiplication & Division"
-      },
-      {
-        "subject": "Science",
-        "title": "The Nervous System: How Our Brain Sends Messages",
-        "summary": "Ontario Grade 2 Life Systems strand: students learn that our nervous system, made up of the brain, spinal cord, and nerves, sends messages through our body so we can think, feel, and move.",
-        "resourceLabel": "YouTube: The Nervous System: How Our Brain Sends Messages",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Nervous%20System%3A%20How%20Our%20Brain%20Sends%20Messages%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "What is the main job of the nervous system?",
-            "options": [
-              "To send messages through the body",
-              "To digest our food",
-              "To pump blood through the body",
-              "To help us breathe only"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which organ is the control centre of the nervous system?",
-            "options": [
-              "The lungs",
-              "The skin",
-              "The stomach",
-              "The brain"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What connects the brain to the rest of the body to send messages?",
-            "options": [
-              "Blood only",
-              "Muscles only",
-              "Nerves",
-              "Bones only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If you touch something hot, what helps you feel pain and pull your hand away quickly?",
-            "options": [
-              "Your circulatory system only",
-              "Your skeletal system only",
-              "Your digestive system",
-              "Your nervous system"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The spinal cord is best described as a pathway that ___.",
-            "options": [
-              "Filters air we breathe",
-              "Breaks down food for energy",
-              "Carries messages between the brain and body",
-              "Pumps blood to the heart"
-            ],
-            "answer": 2
-          }
-        ],
-        "worksheet": [
-          {
-            "prompt": "What organ is the control centre of our nervous system?",
-            "answers": [
-              "brain"
-            ]
-          },
-          {
-            "prompt": "Name one part of the nervous system besides the brain, like the spinal cord or nerves.",
-            "answers": [
-              "spinal cord",
-              "nerves"
-            ]
-          },
-          {
-            "prompt": "Does our nervous system help us feel, think, and move?",
+            "prompt": "Do humans grow and change as they get older?",
             "answers": [
               "yes"
             ]
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
-        "title": "Levels of Leadership: Prime Minister, Premier, and Mayor",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that Canada has leaders at different levels of government, including the Prime Minister for the country, a Premier for each province, and a mayor for a city or town.",
-        "resourceLabel": "YouTube: Levels of Leadership: Prime Minister, Premier, and Mayor",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Levels%20of%20Leadership%3A%20Prime%20Minister%2C%20Premier%2C%20and%20Mayor%20grade%202%20educational",
+        "title": "Cultural Celebrations Around the World",
+        "summary": "Students learn that families around the world celebrate different cultural festivals, such as Lunar New Year and Diwali, often with special foods, clothing, and traditions.",
+        "resourceLabel": "YouTube: Cultural Celebrations Around the World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cultural%20Celebrations%20Around%20the%20World%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who leads the entire country of Canada?",
+            "q": "What is a cultural celebration?",
             "options": [
-              "The premier",
-              "The principal",
-              "The mayor",
-              "The prime minister"
+              "A random day with no meaning",
+              "A special festival that a group of people celebrates together",
+              "A day when nothing happens",
+              "A rule about traffic safety"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Who leads a province, such as Ontario?",
+            "q": "Which of these is an example of a cultural celebration?",
             "options": [
-              "The mayor",
-              "The prime minister",
-              "The premier",
-              "The governor"
+              "A trip to the store",
+              "Lunar New Year",
+              "A regular Tuesday",
+              "A nap time"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Who leads a city or town?",
+            "q": "Why might families wear special clothing during a cultural celebration?",
             "options": [
-              "The mayor",
-              "The prime minister",
-              "The principal",
-              "The premier"
+              "It is part of honouring their traditions",
+              "It is only for random reasons",
+              "Celebrations never involve clothing",
+              "Special clothing has no meaning"
             ],
             "answer": 0
           },
           {
-            "q": "Why does Canada have leaders at different levels?",
+            "q": "How should we respond when a friend shares about their cultural celebration?",
             "options": [
-              "Leaders at different levels never work together",
-              "This concept has no connection to Canada",
-              "Different levels of government handle different responsibilities",
-              "Only one leader is needed for everything"
+              "By refusing to listen",
+              "By laughing unkindly",
+              "With curiosity and respect",
+              "By ignoring them"
             ],
             "answer": 2
           },
           {
-            "q": "Which leader is responsible for decisions about a single city, like fixing local roads?",
+            "q": "Learning about different cultural celebrations helps us ___.",
             "options": [
-              "The premier",
-              "A senator",
-              "The mayor",
-              "The prime minister"
+              "Understand and respect our differences",
+              "Ignore other cultures completely",
+              "Judge people unfairly",
+              "Avoid learning anything new"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "Who is the leader of the whole country of Canada?",
+            "prompt": "Name one cultural celebration families might enjoy, like Lunar New Year.",
             "answers": [
-              "prime minister"
+              "Lunar New Year",
+              "Diwali"
             ]
           },
           {
-            "prompt": "Who is the leader of a province, like Ontario?",
+            "prompt": "Do different cultures often celebrate with special foods and clothing?",
             "answers": [
-              "premier"
+              "yes"
             ]
           },
           {
-            "prompt": "Who is the leader of a city or town?",
+            "prompt": "Is it kind to be curious and respectful about a friends cultural celebration?",
             "answers": [
-              "mayor"
+              "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -28909,164 +28925,173 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Layers of the Earth: Crust, Mantle, and Core",
-        "summary": "Ontario Grade 2 Earth and Space Systems strand: students learn that the Earth is made of layers, including the outer crust we live on, the hot mantle beneath it, and the core at the very centre.",
-        "resourceLabel": "YouTube: Layers of the Earth: Crust, Mantle, and Core",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Layers%20of%20the%20Earth%3A%20Crust%2C%20Mantle%2C%20and%20Core%20grade%202%20educational",
+        "title": "Food Groups: Eating a Balanced Diet",
+        "summary": "Students learn that healthy eating includes different food groups, such as fruits, vegetables, grains, and proteins, and that eating a variety of foods helps our bodies stay strong.",
+        "resourceLabel": "YouTube: Food Groups: Eating a Balanced Diet",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Food%20Groups%3A%20Eating%20a%20Balanced%20Diet%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the outermost layer of the Earth called?",
+            "q": "Which of these is a food group?",
             "options": [
-              "The core",
-              "The atmosphere",
-              "The mantle",
-              "The crust"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the layer at the very centre of the Earth called?",
-            "options": [
-              "The crust",
-              "The core",
-              "The mantle",
-              "The surface"
+              "Toys",
+              "Vegetables",
+              "Colours",
+              "Shapes"
             ],
             "answer": 1
           },
           {
-            "q": "Which layer of the Earth is located between the crust and the core?",
+            "q": "Why is it healthy to eat foods from different food groups?",
             "options": [
-              "The atmosphere",
-              "The soil",
-              "The mantle",
-              "The ocean"
+              "Eating only one food group is always healthier",
+              "It helps our bodies get what they need to stay strong",
+              "It has no effect on our bodies",
+              "It makes food taste worse"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Which layer of the Earth do people, animals, and plants live on?",
+            "q": "Which of these is an example of a fruit?",
             "options": [
-              "The ocean floor only",
-              "The mantle",
-              "The core",
-              "The crust"
+              "A piece of chicken",
+              "An apple",
+              "A slice of bread",
+              "A carrot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a vegetable?",
+            "options": [
+              "A grape",
+              "An apple",
+              "A banana",
+              "A carrot"
             ],
             "answer": 3
           },
           {
-            "q": "The layers of the Earth are best described as being arranged from the ___ to the very centre.",
+            "q": "Eating a balanced diet means eating ___.",
             "options": [
-              "Sky downward",
-              "Centre outward only",
-              "Ocean upward",
-              "Outside surface inward"
+              "A variety of foods from different food groups",
+              "Only sweet treats",
+              "Only one kind of food",
+              "No food at all"
             ],
-            "answer": 3
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What is the outer layer of the Earth called, the one we live on?",
+            "prompt": "Name one food group, like fruits or vegetables.",
             "answers": [
-              "crust"
+              "fruits",
+              "vegetables",
+              "grains",
+              "proteins"
             ]
           },
           {
-            "prompt": "What is the very centre layer of the Earth called?",
-            "answers": [
-              "core"
-            ]
-          },
-          {
-            "prompt": "Is the mantle located between the crust and the core?",
+            "prompt": "Does eating a variety of different foods help our bodies stay strong?",
             "answers": [
               "yes"
             ]
+          },
+          {
+            "prompt": "Name one healthy food you could eat from the fruit group.",
+            "answers": [
+              "apple",
+              "banana",
+              "orange"
+            ]
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Human Body & Health"
       },
       {
         "subject": "SocialStudies",
-        "title": "Voting and Elections: How We Choose Our Leaders",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that in an election, people vote to choose their leaders, such as a mayor or prime minister, and that the person with the most votes usually wins.",
-        "resourceLabel": "YouTube: Voting and Elections: How We Choose Our Leaders",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Voting%20and%20Elections%3A%20How%20We%20Choose%20Our%20Leaders%20grade%202%20educational",
+        "title": "Our Provinces and Territories: Parts of Canada",
+        "summary": "Students learn that Canada is made up of different provinces and territories, each with its own name, and that all of them together make up our whole country.",
+        "resourceLabel": "YouTube: Our Provinces and Territories: Parts of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Provinces%20and%20Territories%3A%20Parts%20of%20Canada%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is an election?",
+            "q": "What do we call the different parts that make up Canada?",
             "options": [
-              "A type of holiday celebration",
-              "A kind of school assignment",
-              "A game played at recess",
-              "An event where people vote to choose their leaders"
+              "Oceans",
+              "Countries",
+              "Continents",
+              "Provinces and territories"
             ],
             "answer": 3
           },
           {
-            "q": "What does it mean to vote?",
+            "q": "What happens when all the provinces and territories are put together?",
             "options": [
-              "To build something out of blocks",
-              "To draw a picture of a leader",
-              "To mark your choice for a leader or decision",
-              "To ignore an important decision"
+              "They disappear completely",
+              "They make up only one city",
+              "They make a different country",
+              "They make up our whole country"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "In most elections, who usually wins?",
+            "q": "Which of these is a province in Canada?",
             "options": [
-              "The tallest person",
-              "The person with the most votes",
-              "The person who votes last",
-              "The person who does not run at all"
+              "Egypt",
+              "Ontario",
+              "Japan",
+              "France"
             ],
             "answer": 1
           },
           {
-            "q": "Why is voting an important part of choosing leaders?",
+            "q": "Why is it helpful to learn about our provinces and territories?",
             "options": [
-              "Elections never actually happen",
-              "Only one single person is allowed to decide",
-              "Voting has no effect on who becomes a leader",
-              "It lets many people have a say in who leads them"
+              "Provinces have nothing to do with Canada",
+              "It has no connection to our country",
+              "This concept is only about other countries",
+              "It helps us understand how our country is organized"
             ],
             "answer": 3
           },
           {
-            "q": "Elections allow citizens to ___.",
+            "q": "Canada is best described as a country made up of many ___.",
             "options": [
-              "Avoid all responsibility for their community",
-              "Ignore their communitys leadership",
-              "Help choose who represents them",
-              "Prevent leaders from ever changing"
+              "Oceans only",
+              "Single cities only",
+              "Random unrelated places",
+              "Provinces and territories"
             ],
-            "answer": 2
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call the event where people choose their leaders by voting?",
+            "prompt": "What do we call the different parts that make up the country of Canada?",
             "answers": [
-              "election"
+              "provinces and territories",
+              "provinces",
+              "territories"
             ]
           },
           {
-            "prompt": "What do we call marking a choice for a leader during an election?",
-            "answers": [
-              "voting",
-              "a vote"
-            ]
-          },
-          {
-            "prompt": "Does the leader with the most votes usually win an election?",
+            "prompt": "Do all the provinces and territories together make up our whole country?",
             "answers": [
               "yes"
             ]
+          },
+          {
+            "prompt": "Name one province or territory in Canada, if you know one.",
+            "answers": [
+              "Ontario",
+              "Quebec",
+              "Alberta",
+              "British Columbia"
+            ]
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Canadian Geography & Environment"
       }
     ]
   },
@@ -29155,247 +29180,245 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Rounding to the Nearest Hundred",
-        "summary": "Ontario Grade 2 Number strand: students learn to round three-digit numbers to the nearest hundred by looking at the tens digit, building on earlier work rounding to the nearest ten.",
-        "resourceLabel": "YouTube: Rounding to the Nearest Hundred",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Hundred%20grade%202%20educational",
+        "title": "Capacity: Full, Empty, and Half Full",
+        "summary": "Students compare containers by how much they hold, learning to describe them as full, empty, or half full, and explore which containers hold more or less.",
+        "resourceLabel": "YouTube: Capacity: Full, Empty, and Half Full",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Capacity%3A%20Full%2C%20Empty%2C%20and%20Half%20Full%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 180 rounded to the nearest hundred?",
+            "q": "What word describes a cup with no water in it?",
             "options": [
-              "200",
-              "190",
-              "100",
-              "180"
+              "Empty",
+              "Half full",
+              "Heavy",
+              "Full"
             ],
             "answer": 0
           },
           {
-            "q": "What is 620 rounded to the nearest hundred?",
+            "q": "What word describes a cup filled all the way to the top?",
             "options": [
-              "500",
-              "600",
-              "650",
-              "700"
+              "Half full",
+              "Full",
+              "Light",
+              "Empty"
             ],
             "answer": 1
           },
           {
-            "q": "What is 750 rounded to the nearest hundred?",
+            "q": "What word describes a cup filled only partway, about to the middle?",
             "options": [
-              "800",
-              "750",
-              "600",
-              "700"
+              "Full",
+              "Half full",
+              "Empty",
+              "Tiny"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which container likely holds more water, a small cup or a large bucket?",
+            "options": [
+              "A large bucket",
+              "A small cup",
+              "They hold the same",
+              "Neither holds water"
             ],
             "answer": 0
           },
           {
-            "q": "To round a number to the nearest hundred, which digit do we look at?",
+            "q": "Capacity describes how much a container can ___.",
             "options": [
-              "The thousands digit",
-              "The ones digit",
-              "The tens digit",
-              "The first letter"
+              "Smell",
+              "Cost",
+              "Hold",
+              "Weigh"
             ],
             "answer": 2
-          },
-          {
-            "q": "What is 910 rounded to the nearest hundred?",
-            "options": [
-              "910",
-              "900",
-              "800",
-              "1000"
-            ],
-            "answer": 1
           }
         ],
         "worksheet": [
           {
-            "prompt": "What is 340 rounded to the nearest hundred?",
+            "prompt": "What word describes a cup with no water in it at all?",
             "answers": [
-              "300",
-              "three hundred"
+              "empty"
             ]
           },
           {
-            "prompt": "What is 470 rounded to the nearest hundred?",
+            "prompt": "What word describes a cup filled all the way to the top?",
             "answers": [
-              "500",
-              "five hundred"
+              "full"
             ]
           },
           {
-            "prompt": "What is 250 rounded to the nearest hundred?",
+            "prompt": "What word describes a cup filled only partway, about to the middle?",
             "answers": [
-              "300",
-              "three hundred"
+              "half full"
             ]
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
-        "title": "Volcanoes: When Earth Crust Erupts",
-        "summary": "Ontario Grade 2 Earth and Space Systems strand: students learn that a volcano is an opening in the Earth crust where hot melted rock, called magma, can erupt onto the surface as lava.",
-        "resourceLabel": "YouTube: Volcanoes: When Earth Crust Erupts",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Volcanoes%3A%20When%20Earth%20Crust%20Erupts%20grade%202%20educational",
+        "title": "Endangered Animals: Protecting Wildlife",
+        "summary": "Students learn that an endangered animal is one with very few left in the wild, and that people can help protect these animals by caring for their habitats.",
+        "resourceLabel": "YouTube: Endangered Animals: Protecting Wildlife",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Endangered%20Animals%3A%20Protecting%20Wildlife%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a volcano?",
+            "q": "What word describes an animal with very few left in the wild?",
             "options": [
-              "A type of large lake",
-              "An opening in the Earth crust where melted rock can erupt",
-              "A kind of ocean current",
-              "A very tall, cold mountain only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is magma?",
-            "options": [
-              "Hot melted rock found underground",
-              "A kind of soil",
-              "Cold hard rock found on the surface",
-              "A type of cloud"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do we call magma once it erupts onto the surface?",
-            "options": [
-              "Sediment",
-              "Ash only",
-              "Mist",
-              "Lava"
+              "Nocturnal",
+              "Camouflaged",
+              "Migrating",
+              "Endangered"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a volcanic eruption be dangerous?",
+            "q": "Which of these could help protect an endangered animal?",
             "options": [
-              "Eruptions have no effect on the surrounding area",
-              "Lava is always cool to the touch",
-              "Hot lava and ash can spread over a wide area",
-              "Volcanoes never actually erupt"
+              "Destroying its habitat",
+              "Taking care of its natural habitat",
+              "Ignoring the animal completely",
+              "Hunting the animal for fun"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "A volcano is best described as a place where the Earth crust can ___.",
+            "q": "Why might people want to protect endangered animals?",
             "options": [
-              "Release hot melted rock",
-              "Disappear entirely",
-              "Freeze completely solid",
-              "Turn into water"
+              "So the animals do not disappear forever",
+              "Endangered animals are not important",
+              "Protecting animals has no purpose",
+              "Endangered animals are not real"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a reason an animal might become endangered?",
+            "options": [
+              "Living too long",
+              "Losing its natural habitat",
+              "Eating too much food",
+              "Having too many babies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about endangered animals helps us understand how to ___.",
+            "options": [
+              "Care for and protect wildlife",
+              "Destroy habitats",
+              "Hunt more animals",
+              "Ignore all animals"
             ],
             "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call an opening in the Earth crust where hot melted rock can erupt?",
+            "prompt": "What word describes an animal with very few left in the wild?",
             "answers": [
-              "volcano"
+              "endangered"
             ]
           },
           {
-            "prompt": "What do we call hot melted rock while it is still underground?",
+            "prompt": "Name one way people can help protect endangered animals, like caring for habitats.",
             "answers": [
-              "magma"
+              "caring for habitats",
+              "protecting habitats"
             ]
           },
           {
-            "prompt": "What do we call hot melted rock once it erupts onto the surface?",
-            "answers": [
-              "lava"
-            ]
-          }
-        ],
-        "topic": "Rocks, Fossils & Earth's History"
-      },
-      {
-        "subject": "SocialStudies",
-        "title": "The Fur Trade: An Early Canadian Industry",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that the fur trade was an early industry in Canadian history, where Indigenous peoples and European traders exchanged furs, such as beaver pelts, for goods.",
-        "resourceLabel": "YouTube: The Fur Trade: An Early Canadian Industry",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fur%20Trade%3A%20An%20Early%20Canadian%20Industry%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "What was the fur trade?",
-            "options": [
-              "A kind of school subject",
-              "A modern clothing store",
-              "A type of Canadian sport",
-              "An early industry where furs were exchanged for goods"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which animal fur was especially important during the fur trade?",
-            "options": [
-              "The elephant",
-              "The beaver",
-              "The kangaroo",
-              "The lion"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Who took part in the fur trade in early Canada?",
-            "options": [
-              "No one actually took part",
-              "Only modern-day shoppers",
-              "Indigenous peoples and European traders",
-              "Only people living in cities today"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why was the fur trade important to early Canadian history?",
-            "options": [
-              "It only happened in a different country",
-              "It has no connection to Canadian history",
-              "It never actually involved any trading",
-              "It shaped trade relationships and early settlements"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The fur trade is an example of people exchanging goods, which we call ___.",
-            "options": [
-              "Trading",
-              "Building",
-              "Farming",
-              "Voting"
-            ],
-            "answer": 0
-          }
-        ],
-        "worksheet": [
-          {
-            "prompt": "What animal fur was especially valuable during the fur trade?",
-            "answers": [
-              "beaver"
-            ]
-          },
-          {
-            "prompt": "Did Indigenous peoples and European traders exchange goods during the fur trade?",
+            "prompt": "Is it important to help protect animals that are endangered?",
             "answers": [
               "yes"
             ]
+          }
+        ],
+        "topic": "Animals & Wildlife (Basic)"
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Welcoming New Neighbours: Being Kind to Newcomers",
+        "summary": "Students learn that when a new family moves into the neighbourhood, being welcoming and kind, such as saying hello or offering to help, makes newcomers feel included.",
+        "resourceLabel": "YouTube: Welcoming New Neighbours: Being Kind to Newcomers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Welcoming%20New%20Neighbours%3A%20Being%20Kind%20to%20Newcomers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a good way to make a new neighbour feel welcome?",
+            "options": [
+              "Ignoring them completely",
+              "Refusing to speak with them",
+              "Saying hello and offering to help",
+              "Being unkind to them"
+            ],
+            "answer": 2
           },
           {
-            "prompt": "What word describes trading goods like furs for other items?",
+            "q": "Why might a new family feel nervous when they first move to a neighbourhood?",
+            "options": [
+              "New families never feel nervous",
+              "Everything and everyone around them is unfamiliar at first",
+              "This concept has no connection to being new",
+              "Moving to a new place has no effect on feelings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shows kindness to a newcomer?",
+            "options": [
+              "Refusing to include them in games",
+              "Walking away without saying anything",
+              "Whispering unkindly about them",
+              "Introducing yourself and offering to help"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might welcoming a new neighbour help the whole community?",
+            "options": [
+              "Welcoming newcomers never helps a community",
+              "It can help the newcomer feel included and build a stronger community",
+              "This concept has no connection to community life",
+              "New neighbours should always be avoided"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being kind to newcomers helps build a community that feels ___.",
+            "options": [
+              "Unsafe",
+              "Welcoming and included",
+              "Confusing",
+              "Cold and unfriendly"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What should we do to make a new neighbour feel included, like saying hello?",
             "answers": [
-              "trade",
-              "trading"
+              "say hello",
+              "be kind"
+            ]
+          },
+          {
+            "prompt": "Is it kind or unkind to ignore a new family who just moved in?",
+            "answers": [
+              "unkind"
+            ]
+          },
+          {
+            "prompt": "Can offering to help a new neighbour make them feel welcome?",
+            "answers": [
+              "yes"
             ]
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -29484,83 +29507,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Equivalent Fractions: Different Names for the Same Amount",
-        "summary": "Ontario Grade 2 Number strand: students learn that two fractions can be equivalent, meaning they name the same amount, such as one half being the same amount as two quarters.",
-        "resourceLabel": "YouTube: Equivalent Fractions: Different Names for the Same Amount",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Equivalent%20Fractions%3A%20Different%20Names%20for%20the%20Same%20Amount%20grade%202%20educational",
+        "title": "Data: Picture Graphs",
+        "summary": "Students learn to read a simple picture graph, where each picture or symbol represents one item, and use it to count and compare groups of objects.",
+        "resourceLabel": "YouTube: Data: Picture Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Picture%20Graphs%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Which fraction is equivalent to one half?",
+            "q": "On a picture graph, what does each picture usually represent?",
             "options": [
-              "One third",
-              "Two quarters",
-              "Three quarters",
-              "One quarter"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does it mean for two fractions to be equivalent?",
-            "options": [
-              "They always look exactly the same on paper",
-              "They name the same amount",
-              "One fraction must be larger",
-              "They can never be compared"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If a pizza is cut into 4 equal slices and you eat 2, what fraction is equivalent to what you ate?",
-            "options": [
-              "One half",
-              "One quarter",
-              "One third",
-              "Three quarters"
+              "One item",
+              "Ten items",
+              "Nothing",
+              "A colour"
             ],
             "answer": 0
           },
           {
-            "q": "Two fractions can look different but still be ___.",
+            "q": "If a row on a picture graph has 5 star pictures, how many stars does it show?",
             "options": [
-              "Equivalent, naming the same amount",
-              "Impossible to compare",
-              "Always the exact same numbers",
-              "Always unrelated to each other"
+              "5",
+              "1",
+              "4",
+              "6"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these shows an equivalent fraction pair?",
+            "q": "What is a picture graph used for?",
             "options": [
-              "One third and one half",
-              "One quarter and three quarters",
-              "One half and two quarters",
-              "One half and one quarter"
+              "Measuring weight",
+              "Showing and comparing information with pictures",
+              "Naming shapes",
+              "Telling time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a picture graph, which row shows more items, one with 3 pictures or one with 6 pictures?",
+            "options": [
+              "Cannot tell",
+              "The row with 3 pictures",
+              "The row with 6 pictures",
+              "They are equal"
             ],
             "answer": 2
+          },
+          {
+            "q": "A picture graph helps us ___ groups of objects.",
+            "options": [
+              "Cook",
+              "Sing about",
+              "Paint",
+              "Compare and count"
+            ],
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "Is one half the same amount as two quarters?",
+            "prompt": "On a picture graph, does each picture usually stand for one item?",
             "answers": [
               "yes"
             ]
           },
           {
-            "prompt": "What word describes two fractions that name the same amount?",
+            "prompt": "If a row has 4 apple pictures, how many apples does that row show?",
             "answers": [
-              "equivalent"
+              "4",
+              "four"
             ]
           },
           {
-            "prompt": "Is two quarters equivalent to one half?",
+            "prompt": "What do we call a graph that uses pictures to show information?",
             "answers": [
-              "yes"
+              "picture graph"
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -29647,83 +29671,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Treaties: Agreements Between Indigenous Peoples and Newcomers",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that a treaty is a formal agreement, often about sharing land and resources, that was made between Indigenous peoples and newcomers to Canada.",
-        "resourceLabel": "YouTube: Treaties: Agreements Between Indigenous Peoples and Newcomers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Treaties%3A%20Agreements%20Between%20Indigenous%20Peoples%20and%20Newcomers%20grade%202%20educational",
+        "title": "Weather Around the World: Hot and Cold Places",
+        "summary": "Students learn that different places around the world have very different weather, with some places, like deserts, being very hot, and others, like the Arctic, being very cold.",
+        "resourceLabel": "YouTube: Weather Around the World: Hot and Cold Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Around%20the%20World%3A%20Hot%20and%20Cold%20Places%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a treaty?",
+            "q": "Which of these places is usually very hot?",
             "options": [
-              "A type of Canadian sport",
-              "A kind of school subject",
-              "A formal agreement, often about sharing land and resources",
-              "A holiday celebrated in December"
+              "A desert",
+              "The North Pole",
+              "A snowy mountain",
+              "The Arctic"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Who were treaties in Canadian history often made between?",
+            "q": "Which of these places is usually very cold?",
             "options": [
-              "Only people from a different country entirely",
-              "No one, they never actually happened",
-              "Indigenous peoples and newcomers",
-              "Only people living in one single city"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What might a treaty be an agreement about?",
-            "options": [
-              "What food to eat for breakfast",
-              "Sharing land and resources",
-              "Which sports team wins a game",
-              "What clothes to wear each day"
+              "A rainforest",
+              "The Arctic",
+              "A desert",
+              "A tropical beach"
             ],
             "answer": 1
           },
           {
-            "q": "Why are treaties an important part of Canadian history?",
+            "q": "Why might people in hot places dress differently than people in cold places?",
             "options": [
-              "They have no connection to Canadian history",
-              "They only affected people outside of Canada",
-              "They shaped relationships between Indigenous peoples and newcomers",
-              "They were never actually followed by anyone"
+              "They need clothing suited to their own local weather",
+              "Weather never changes what people wear",
+              "Everyone in the world wears the exact same clothing",
+              "Clothing has no connection to weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about weather around the world helps us understand that ___.",
+            "options": [
+              "Only one kind of weather exists on Earth",
+              "Weather never changes anywhere",
+              "Different places can have very different climates",
+              "Every place has the exact same weather"
             ],
             "answer": 2
           },
           {
-            "q": "Learning about treaties helps students understand ___.",
+            "q": "Comparing hot and cold places around the world is an example of learning about ___.",
             "options": [
-              "Important agreements in Canadian history",
-              "Nothing relevant about Canada",
-              "Only how to read a map",
-              "Only modern-day sports rules"
+              "Numbers and counting",
+              "Only our own neighbourhood",
+              "Our world and its different climates",
+              "A make-believe story"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "What word describes a formal agreement about sharing land and resources?",
+            "prompt": "Name one place in the world that is usually very hot, like a desert.",
             "answers": [
-              "treaty"
+              "desert"
             ]
           },
           {
-            "prompt": "Were treaties made between Indigenous peoples and newcomers to Canada?",
+            "prompt": "Name one place in the world that is usually very cold, like the Arctic.",
             "answers": [
-              "yes"
+              "Arctic",
+              "the Arctic"
             ]
           },
           {
-            "prompt": "Do treaties often involve agreements about land?",
+            "prompt": "Do different places around the world have different weather?",
             "answers": [
               "yes"
             ]
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -29976,83 +30001,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The United Nations: Countries Working Together",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that the United Nations is a group made up of many countries, including Canada, that work together to solve world problems and keep peace.",
-        "resourceLabel": "YouTube: The United Nations: Countries Working Together",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20United%20Nations%3A%20Countries%20Working%20Together%20grade%202%20educational",
+        "title": "Social Studies Review: Helpers, Leaders, and Our World",
+        "summary": "Students review recent Social Studies topics: librarians, mayors, community gardens, bus safety, grandparents, cultural celebrations, provinces and territories, welcoming newcomers, and world weather.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Leaders, and Our World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Leaders%2C%20and%20Our%20World%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the United Nations?",
+            "q": "What is a community garden?",
             "options": [
-              "A single countrys government only",
-              "A kind of school club",
-              "A type of sports league",
-              "A group of many countries that work together to solve world problems"
+              "A place with no plants at all",
+              "A garden owned by only one family",
+              "A store that sells toys",
+              "A shared space where neighbours grow food together"
             ],
             "answer": 3
           },
           {
-            "q": "Is Canada a member of the United Nations?",
+            "q": "Why should riders stay seated on a moving bus?",
             "options": [
-              "Only some Canadian cities are members",
-              "Canada left the United Nations long ago",
-              "No, Canada has never joined",
-              "Yes, Canada is a member"
+              "Buses never move",
+              "Standing is always safer",
+              "Sitting down is never important",
+              "To stay safe while the bus is moving"
             ],
             "answer": 3
           },
           {
-            "q": "What is one goal of the United Nations?",
+            "q": "Which of these is an example of a cultural celebration?",
             "options": [
-              "To end all forms of cooperation",
-              "To stop countries from ever meeting",
-              "To help keep peace around the world",
-              "To make every country identical"
+              "A regular Tuesday",
+              "Lunar New Year",
+              "A nap time",
+              "A trip to the store"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might countries choose to work together through an organization like the United Nations?",
+            "q": "What is a good way to make a new neighbour feel welcome?",
             "options": [
-              "Countries never benefit from working together",
-              "This concept has no connection to global citizenship",
-              "Working together can help solve problems that affect many countries",
-              "Only one single country can solve world problems alone"
+              "Ignoring them completely",
+              "Saying hello and offering to help",
+              "Being unkind to them",
+              "Refusing to speak with them"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "The United Nations is best described as an organization that helps countries ___.",
+            "q": "Which of these places is usually very hot?",
             "options": [
-              "Cooperate on shared world problems",
-              "Avoid working together at all costs",
-              "Compete against each other constantly",
-              "Ignore problems in other countries"
+              "The North Pole",
+              "A snowy mountain",
+              "A desert",
+              "The Arctic"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "What do we call the group made up of many countries working together?",
+            "prompt": "Who helps people find books at the library?",
             "answers": [
-              "United Nations"
+              "librarian"
             ]
           },
           {
-            "prompt": "Is Canada a member of the United Nations?",
+            "prompt": "What do we call the person chosen to help lead a town or city?",
             "answers": [
-              "yes"
+              "mayor"
             ]
           },
           {
-            "prompt": "Does the United Nations try to help keep peace around the world?",
+            "prompt": "What do we call the different parts that make up Canada?",
             "answers": [
-              "yes"
+              "provinces and territories",
+              "provinces",
+              "territories"
             ]
           }
-        ],
-        "topic": "Canada & International Relations"
+        ]
       }
     ]
   },
@@ -30968,83 +30994,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Peacekeeping: Helping Keep the Peace Around the World",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that Canada has a history of sending peacekeepers to help calm conflicts and support peace in other parts of the world.",
-        "resourceLabel": "YouTube: Canadian Peacekeeping: Helping Keep the Peace Around the World",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Peacekeeping%3A%20Helping%20Keep%20the%20Peace%20Around%20the%20World%20grade%202%20educational",
+        "title": "Our Farmers: Growing the Food We Eat",
+        "summary": "Students learn about the job of a farmer, a community helper who grows crops and raises animals so families can have food to eat.",
+        "resourceLabel": "YouTube: Our Farmers: Growing the Food We Eat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Farmers%3A%20Growing%20the%20Food%20We%20Eat%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a peacekeeper?",
+            "q": "What do we call a person who grows crops and raises animals for food?",
             "options": [
-              "A person sent to help calm conflict and support peace",
-              "A type of weather forecaster",
-              "A person who starts conflicts",
-              "A person who ignores world events"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Has Canada historically taken part in peacekeeping missions?",
-            "options": [
-              "No, Canada has never taken part",
-              "Peacekeeping has never existed",
-              "Yes, Canada has a history of peacekeeping",
-              "Only other countries take part in peacekeeping"
+              "A dentist",
+              "A mayor",
+              "A farmer",
+              "A librarian"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a country send peacekeepers to another region?",
+            "q": "Which of these might a farmer grow?",
             "options": [
-              "To help support peace during a conflict",
-              "To ignore problems happening elsewhere",
-              "Peacekeepers have no real purpose",
-              "To make a conflict worse"
+              "Books",
+              "Cars",
+              "Corn",
+              "Shoes"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Peacekeeping is connected to which broader idea learned in social studies?",
+            "q": "Why is a farmer an important community helper?",
             "options": [
-              "Countries always working alone",
-              "Ignoring problems in other countries",
-              "Avoiding all international cooperation",
-              "Countries working together, like through the United Nations"
+              "They fix broken pipes",
+              "They grow the food that many people eat",
+              "They deliver mail",
+              "They teach at school"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Canadian peacekeepers are best described as people who help ___.",
+            "q": "Where does a farmer usually work?",
             "options": [
-              "Stay only within Canadian borders",
-              "Avoid helping anyone at all",
-              "Support peace in other parts of the world",
-              "Create new conflicts around the world"
+              "In a hospital",
+              "On a farm",
+              "In a bank",
+              "In a library"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Food on our table often begins its journey at a ___.",
+            "options": [
+              "Bank",
+              "School",
+              "Farm",
+              "Museum"
             ],
             "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "What word describes people sent to help calm conflict and support peace?",
+            "prompt": "What do we call a person who grows crops and raises animals for food?",
             "answers": [
-              "peacekeepers"
+              "farmer"
             ]
           },
           {
-            "prompt": "Has Canada sent peacekeepers to help in other parts of the world?",
+            "prompt": "Name one thing a farmer might grow, like corn or wheat.",
             "answers": [
-              "yes"
+              "corn",
+              "wheat",
+              "vegetables",
+              "fruit"
             ]
           },
           {
-            "prompt": "Does peacekeeping aim to support peace during a conflict?",
+            "prompt": "Does the food we eat often start on a farm?",
             "answers": [
               "yes"
             ]
           }
-        ],
-        "topic": "Cold War & 20th Century Canada"
+        ]
       }
     ]
   },
@@ -31294,84 +31322,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Government, History, and Geography",
-        "summary": "Students review recent Social Studies topics: provincial and territorial symbols, levels of leadership, voting and elections, the fur trade, treaties, the United Nations, Canadian agriculture regions, Canada and the United States, and peacekeeping.",
-        "resourceLabel": "YouTube: Social Studies Review: Government, History, and Geography",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Geography%20grade%202%20educational",
+        "title": "Our Construction Workers: Building Our Community",
+        "summary": "Students learn about the job of a construction worker, a community helper who builds and repairs houses, schools, and other important buildings.",
+        "resourceLabel": "YouTube: Our Construction Workers: Building Our Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Construction%20Workers%3A%20Building%20Our%20Community%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who leads a province, such as Ontario?",
+            "q": "What do we call a worker who builds and repairs buildings?",
             "options": [
-              "The governor",
-              "The mayor",
-              "The prime minister",
-              "The premier"
+              "A librarian",
+              "A construction worker",
+              "A mayor",
+              "A farmer"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which animal fur was especially important during the fur trade?",
+            "q": "Which of these might a construction worker build?",
             "options": [
-              "The kangaroo",
-              "The elephant",
-              "The lion",
-              "The beaver"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the United Nations?",
-            "options": [
-              "A group of many countries that work together to solve world problems",
-              "A single countrys government only",
-              "A kind of school club",
-              "A type of sports league"
+              "A house",
+              "A poem",
+              "A recipe",
+              "A song"
             ],
             "answer": 0
           },
           {
-            "q": "Which crop is commonly grown on the Canadian Prairies?",
+            "q": "Why do construction workers often wear hard hats?",
             "options": [
-              "Bananas",
-              "Wheat",
-              "Coconuts",
-              "Pineapples"
+              "To keep their heads safe while they work",
+              "Hats are only for decoration",
+              "Hats make buildings taller",
+              "Construction workers never wear hats"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which tool might a construction worker use?",
+            "options": [
+              "A stethoscope",
+              "A hammer",
+              "A library card",
+              "A cash register"
             ],
             "answer": 1
           },
           {
-            "q": "Which country shares a long border with Canada to the south?",
+            "q": "Construction workers help our community by ___.",
             "options": [
-              "Mexico",
-              "The United States",
-              "Brazil",
-              "France"
+              "Growing food",
+              "Delivering mail",
+              "Teaching at school",
+              "Building and repairing important places"
             ],
-            "answer": 1
+            "answer": 3
           }
         ],
         "worksheet": [
           {
-            "prompt": "Who leads the entire country of Canada?",
+            "prompt": "What do we call a worker who builds and repairs buildings?",
             "answers": [
-              "prime minister"
+              "construction worker"
             ]
           },
           {
-            "prompt": "What is an election?",
+            "prompt": "Name one thing a construction worker might build, like a house or school.",
             "answers": [
-              "an event where people vote to choose their leaders",
-              "people vote to choose leaders"
+              "house",
+              "school",
+              "building"
             ]
           },
           {
-            "prompt": "What is a treaty?",
+            "prompt": "Do construction workers often wear a hard hat to stay safe?",
             "answers": [
-              "a formal agreement, often about sharing land and resources",
-              "a formal agreement"
+              "yes"
             ]
           }
-        ]
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -31806,63 +31835,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "What Is a Democracy? Citizens Have a Voice in Decisions",
-        "summary": "Ontario Grade 2 Social Studies strand: students learn that in a democracy, citizens have a say in decisions and choose their leaders through voting, and that Canada is a democratic country.",
-        "resourceLabel": "YouTube: What Is a Democracy? Citizens Have a Voice in Decisions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=What%20Is%20a%20Democracy%3F%20Citizens%20Have%20a%20Voice%20in%20Decisions%20grade%202%20educational",
+        "title": "Remembrance Day: Honouring Those Who Served",
+        "summary": "Students learn that Remembrance Day is a special day in Canada when people wear poppies and take a moment of silence to honour and remember soldiers who served the country.",
+        "resourceLabel": "YouTube: Remembrance Day: Honouring Those Who Served",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Remembrance%20Day%3A%20Honouring%20Those%20Who%20Served%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a democracy?",
+            "q": "What red flower do people often wear on Remembrance Day?",
             "options": [
-              "A place where only one person makes every decision",
-              "A system where citizens cannot vote",
-              "A system with no leaders at all",
-              "A system where citizens have a voice and vote for their leaders"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is Canada a democratic country?",
-            "options": [
-              "Only some Canadian cities are democracies",
-              "No, Canada has never been a democracy",
-              "Yes, Canada is a democracy",
-              "Canada stopped being a democracy long ago"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How do citizens in a democracy have a say in decisions?",
-            "options": [
-              "By voting in elections",
-              "By letting only one family decide",
-              "By ignoring all elections",
-              "By never taking part in anything"
+              "A poppy",
+              "A daisy",
+              "A tulip",
+              "A rose"
             ],
             "answer": 0
           },
           {
-            "q": "Why is voting an important part of a democracy?",
+            "q": "What do people do during a moment of silence on Remembrance Day?",
             "options": [
-              "Only leaders are allowed to vote",
-              "Voting is not connected to democracy",
-              "It lets citizens choose who represents them",
-              "Voting has no effect on decisions"
+              "Play games",
+              "Sing loudly",
+              "Ignore the day completely",
+              "Stay quiet and think about soldiers who served"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "In a democracy, decisions are usually made by ___.",
+            "q": "Why is Remembrance Day an important day in Canada?",
             "options": [
-              "Ignoring what citizens want",
-              "A small group with no elections",
-              "Listening to the voice of many citizens",
-              "One single unelected ruler"
+              "It is only for adults",
+              "It honours and remembers soldiers who served the country",
+              "It celebrates a birthday",
+              "It has no meaning at all"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "When is Remembrance Day observed each year in Canada?",
+            "options": [
+              "July 1",
+              "October 31",
+              "January 1",
+              "November 11"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Wearing a poppy on Remembrance Day is a way to show ___.",
+            "options": [
+              "Anger",
+              "Respect and remembrance",
+              "Confusion",
+              "Excitement about a party"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Government & Civics"
+        "worksheet": [
+          {
+            "prompt": "What red flower do people often wear on Remembrance Day?",
+            "answers": [
+              "poppy",
+              "a poppy"
+            ]
+          },
+          {
+            "prompt": "What day of the year is Remembrance Day, if you know it?",
+            "answers": [
+              "November 11",
+              "November 11th"
+            ]
+          },
+          {
+            "prompt": "Do people take a quiet moment of silence on Remembrance Day to remember soldiers?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -32296,63 +32347,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "First Nations, Inuit, and Metis: Three Distinct Indigenous Peoples",
-        "summary": "Ontario Grade 2 Social Studies Heritage and Identity strand: students learn that Indigenous peoples in Canada include three distinct groups, First Nations, Inuit, and Metis, each with its own history, languages, and traditions.",
-        "resourceLabel": "YouTube: First Nations, Inuit, and Metis: Three Distinct Indigenous Peoples",
-        "resourceUrl": "https://www.youtube.com/results?search_query=First%20Nations%2C%20Inuit%2C%20and%20Metis%3A%20Three%20Distinct%20Indigenous%20Peoples%20grade%202%20educational",
+        "title": "Laws and Rules: Why Communities Need Them",
+        "summary": "Students learn that communities create laws and rules, bigger than classroom rules, to help keep everyone safe and to help people treat each other fairly.",
+        "resourceLabel": "YouTube: Laws and Rules: Why Communities Need Them",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20and%20Rules%3A%20Why%20Communities%20Need%20Them%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What are the three distinct groups of Indigenous peoples in Canada?",
+            "q": "What do we call the rules that a whole community or country follows?",
             "options": [
-              "Provinces, cities, and towns",
-              "Settlers, explorers, and traders",
-              "Farmers, teachers, and mayors",
-              "First Nations, Inuit, and Metis"
+              "Laws",
+              "Colours",
+              "Songs",
+              "Stories"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do communities create laws?",
+            "options": [
+              "To help keep everyone safe and treated fairly",
+              "To stop people from having fun",
+              "Laws have no real purpose",
+              "To make life more confusing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a law that keeps people safe?",
+            "options": [
+              "Running across a busy street",
+              "Littering in the park",
+              "Ignoring traffic signals",
+              "Stopping at a red traffic light"
             ],
             "answer": 3
           },
           {
-            "q": "Do First Nations, Inuit, and Metis peoples each have their own history and traditions?",
+            "q": "Who is expected to follow the laws in a community?",
             "options": [
-              "No, all three groups are exactly the same",
-              "Yes, each group has its own history and traditions",
-              "Only Inuit have traditions",
-              "Only First Nations have traditions"
+              "No one has to follow laws",
+              "Everyone in the community",
+              "Only adults",
+              "Only children"
             ],
             "answer": 1
           },
           {
-            "q": "Which Indigenous group has traditionally lived in the Arctic regions of Canada?",
+            "q": "Laws help a community stay ___.",
             "options": [
-              "None of these groups",
-              "Only Metis",
-              "Inuit",
-              "Only First Nations"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is it important to learn that Indigenous peoples are not all the same group?",
-            "options": [
-              "Learning about differences is not useful",
-              "All Indigenous peoples are identical",
-              "Only one Indigenous group exists in Canada",
-              "Each group has its own distinct culture and identity"
+              "Impossible to live in",
+              "Confusing and unsafe",
+              "Unfair to some people",
+              "Safe and fair for everyone"
             ],
             "answer": 3
-          },
-          {
-            "q": "The word Metis describes people who have ___.",
-            "options": [
-              "Mixed Indigenous and European ancestry and their own distinct culture",
-              "Only recently arrived in Canada",
-              "No connection to Indigenous history at all",
-              "Only European ancestry"
-            ],
-            "answer": 0
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "worksheet": [
+          {
+            "prompt": "What do we call the rules a whole community or country follows?",
+            "answers": [
+              "laws"
+            ]
+          },
+          {
+            "prompt": "Name one reason communities have laws, like keeping people safe.",
+            "answers": [
+              "keeping people safe",
+              "fairness"
+            ]
+          },
+          {
+            "prompt": "Should everyone in a community follow the same laws?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -32421,63 +32493,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Interpreting Bar Graphs with a Scale of More Than One",
-        "summary": "Ontario Grade 2 Data strand: students learn to read a bar graph where each square or unit on the scale represents more than one item, such as a scale where each square stands for two or five objects.",
-        "resourceLabel": "YouTube: Interpreting Bar Graphs with a Scale of More Than One",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Interpreting%20Bar%20Graphs%20with%20a%20Scale%20of%20More%20Than%20One%20grade%202%20educational",
+        "title": "Missing Numbers: Filling in the Gaps to 20",
+        "summary": "Students practise finding a missing number in a short counting sequence up to 20, such as figuring out the number that belongs between 7 and 9.",
+        "resourceLabel": "YouTube: Missing Numbers: Filling in the Gaps to 20",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Numbers%3A%20Filling%20in%20the%20Gaps%20to%2020%20grade%202%20educational",
         "quiz": [
           {
-            "q": "On a bar graph where each square represents 2 items, how many items does a bar of 3 squares show?",
-            "options": [
-              "5",
-              "6",
-              "2",
-              "3"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "On a bar graph where each square represents 5 items, how many items does a bar of 4 squares show?",
+            "q": "What number is missing between 7 and 9?",
             "options": [
               "9",
-              "20",
-              "25",
+              "7",
+              "8",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is missing between 14 and 16?",
+            "options": [
+              "16",
+              "14",
+              "13",
               "15"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number is missing between 3 and 5?",
+            "options": [
+              "5",
+              "4",
+              "3",
+              "6"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a bar graph use a scale where each square represents more than one item?",
+            "q": "What number is missing between 18 and 20?",
             "options": [
-              "To fit larger amounts of data on the graph clearly",
-              "To make the graph impossible to read",
-              "To make the data smaller than it really is",
-              "Scales never represent more than one item"
+              "20",
+              "19",
+              "17",
+              "18"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "If a bar graph scale shows each square equals 10, and a bar has 5 squares, what total does the bar represent?",
+            "q": "Finding a missing number in a sequence means figuring out the number that fits ___.",
             "options": [
-              "50",
-              "5",
-              "10",
-              "15"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Before reading the bars on a graph, what should you check first?",
-            "options": [
-              "The title of the classroom",
-              "The time of day",
-              "The scale, to see what each square represents",
-              "The colour of the bars only"
+              "Before the sequence starts",
+              "At the very end only",
+              "In order between the other numbers",
+              "Nowhere at all"
             ],
             "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "What number is missing between 7 and 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 14 and 16?",
+            "answers": [
+              "15",
+              "fifteen"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 18 and 20?",
+            "answers": [
+              "19",
+              "nineteen"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -32850,63 +32945,84 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Story Mood: How a Story Makes Us Feel",
-        "summary": "Ontario Grade 2 Reading strand: students learn that mood is the feeling a story creates for the reader, such as happy, scary, or calm, built through word choice, setting, and events.",
-        "resourceLabel": "YouTube: Story Mood: How a Story Makes Us Feel",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Mood%3A%20How%20a%20Story%20Makes%20Us%20Feel%20grade%202%20educational",
+        "title": "Punctuation: Capital Letters at the Start of a Sentence",
+        "summary": "Students learn that every written sentence begins with a capital letter, which signals to a reader that a new sentence is starting.",
+        "resourceLabel": "YouTube: Punctuation: Capital Letters at the Start of a Sentence",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Capital%20Letters%20at%20the%20Start%20of%20a%20Sentence%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the mood of a story?",
+            "q": "What kind of letter should begin every written sentence?",
             "options": [
-              "The title of the story",
-              "The feeling a story creates for the reader",
-              "The number of characters in a story",
-              "The length of the story"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which words might create a scary mood in a story?",
-            "options": [
-              "Sunny, cheerful, and bright",
-              "Dark, creaking, and shadowy",
-              "Colourful, happy, and playful",
-              "Warm, friendly, and calm"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which words might create a happy mood in a story?",
-            "options": [
-              "Bright, cheerful, and sunny",
-              "Frightening, eerie, and strange",
-              "Silent, empty, and grey",
-              "Dark, gloomy, and cold"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How can a writer create mood in a story?",
-            "options": [
-              "By using no words at all",
-              "By avoiding all descriptions",
-              "Mood cannot be created by a writer",
-              "By choosing specific words and details"
+              "A lowercase letter",
+              "A picture",
+              "A number",
+              "A capital letter"
             ],
             "answer": 3
           },
           {
-            "q": "Understanding the mood of a story helps readers ___.",
+            "q": "Which of these correctly starts a sentence?",
             "options": [
-              "Skip reading the story entirely",
-              "Ignore the events of the story",
-              "Connect more deeply with how the story feels",
-              "Avoid understanding the characters"
+              "The sun is bright.",
+              "the sun is bright.",
+              "sun is bright the",
+              "THE sun is bright"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do sentences begin with a capital letter?",
+            "options": [
+              "It has no purpose at all",
+              "It is only used at the end of a sentence",
+              "It signals to the reader that a new sentence is starting",
+              "It makes words harder to read"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which of these sentences correctly begins with a capital letter?",
+            "options": [
+              "birds can fly.",
+              "BIRDS can fly",
+              "birds Can Fly",
+              "Birds can fly."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A capital letter at the beginning of a sentence is a print concept that helps readers know ___.",
+            "options": [
+              "Where a new sentence begins",
+              "Where a sentence ends",
+              "What colour to use",
+              "How loud to read"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "worksheet": [
+          {
+            "prompt": "Should the first word of a sentence start with a capital letter or a lowercase letter?",
+            "answers": [
+              "capital letter"
+            ]
+          },
+          {
+            "prompt": "Which of these correctly starts a sentence: the dog runs, or The dog runs?",
+            "answers": [
+              "The dog runs"
+            ]
+          },
+          {
+            "prompt": "What does a capital letter at the start of a sentence tell a reader?",
+            "answers": [
+              "a new sentence is starting",
+              "new sentence"
+            ]
+          }
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
@@ -33030,63 +33146,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Underground Railroad: A Journey to Freedom",
-        "summary": "Ontario Grade 2 Social Studies Heritage and Identity strand: students learn that the Underground Railroad was a secret network of routes and safe houses that helped freedom seekers travel to Canada to escape slavery.",
-        "resourceLabel": "YouTube: The Underground Railroad: A Journey to Freedom",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%3A%20A%20Journey%20to%20Freedom%20grade%202%20educational",
+        "title": "Emergency Vehicles: Sirens and Flashing Lights",
+        "summary": "Students learn to identify emergency vehicles, such as ambulances, fire trucks, and police cars, and understand that their sirens and flashing lights warn others to make way quickly.",
+        "resourceLabel": "YouTube: Emergency Vehicles: Sirens and Flashing Lights",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Emergency%20Vehicles%3A%20Sirens%20and%20Flashing%20Lights%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What was the Underground Railroad?",
+            "q": "Which of these is an emergency vehicle?",
             "options": [
-              "A modern subway system",
-              "An actual railroad built underground",
-              "A type of Canadian sports league",
-              "A secret network of routes and safe houses to help freedom seekers reach Canada"
+              "A school bus",
+              "An ambulance",
+              "A taxi",
+              "A delivery truck"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why did freedom seekers travel along the Underground Railroad?",
+            "q": "What do emergency vehicles use to warn others they are coming?",
             "options": [
-              "To escape slavery and reach freedom in Canada",
-              "To attend a school in another country",
-              "To visit family for a short trip",
-              "To go on a vacation"
+              "Silence",
+              "Sirens and flashing lights",
+              "Music",
+              "Nothing at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should drivers do when they hear an emergency vehicle siren?",
+            "options": [
+              "Make way and let it pass safely",
+              "Stop and block the road",
+              "Speed up to race it",
+              "Ignore the siren completely"
             ],
             "answer": 0
           },
           {
-            "q": "Did the Underground Railroad involve an actual train running underground?",
+            "q": "Which emergency vehicle helps put out fires?",
             "options": [
-              "No, it was a network of secret routes and safe houses",
-              "It was a type of airplane route",
-              "Yes, it was a real underground train",
-              "It was a type of Canadian highway"
+              "A school bus",
+              "A fire truck",
+              "A police car",
+              "An ambulance"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might people helping freedom seekers along the route need to keep it secret?",
+            "q": "Why is it important for emergency vehicles to move quickly through traffic?",
             "options": [
-              "To protect the freedom seekers from being caught",
-              "Secrecy was not important at all",
-              "Everyone already knew every detail",
-              "It was not dangerous for anyone involved"
+              "They are just driving for fun",
+              "They never need to hurry",
+              "They may be rushing to help someone in danger",
+              "Emergency vehicles are not important"
             ],
-            "answer": 0
-          },
-          {
-            "q": "The Underground Railroad is an important part of history because it shows ___.",
-            "options": [
-              "That helping others was not valued",
-              "That freedom was never an important idea",
-              "That Canada played no role in this history",
-              "People helping others reach freedom and safety"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "worksheet": [
+          {
+            "prompt": "Name one type of emergency vehicle, like an ambulance or fire truck.",
+            "answers": [
+              "ambulance",
+              "fire truck",
+              "police car"
+            ]
+          },
+          {
+            "prompt": "What do emergency vehicles use to warn people to make way, like a loud sound?",
+            "answers": [
+              "sirens",
+              "flashing lights"
+            ]
+          },
+          {
+            "prompt": "Should cars pull over and make way when they hear an emergency vehicle siren?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -33761,62 +33900,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Canadian Heritage, Government, and Geography",
-        "summary": "Students review recent Social Studies topics: Terry Fox, democracy, provincial and territorial capital cities, First Nations, Inuit, and Metis peoples, national emblems, languages of the world, the Underground Railroad, map scale, and communities helping after a disaster.",
-        "resourceLabel": "YouTube: Social Studies Review: Canadian Heritage, Government, and Geography",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Canadian%20Heritage%2C%20Government%2C%20and%20Geography%20grade%202%20educational",
+        "title": "City Life and Country Life: Comparing Communities",
+        "summary": "Students compare city life and country life, learning that a city has many tall buildings and busy streets, while the country has more open land, farms, and fewer buildings.",
+        "resourceLabel": "YouTube: City Life and Country Life: Comparing Communities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=City%20Life%20and%20Country%20Life%3A%20Comparing%20Communities%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What did Terry Fox call his run across Canada?",
+            "q": "Where would you expect to see many tall buildings close together?",
             "options": [
-              "The Freedom Run",
-              "The Great Canadian Walk",
-              "The Race for Canada",
-              "The Marathon of Hope"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is a democracy?",
-            "options": [
-              "A system where citizens cannot vote",
-              "A system with no leaders at all",
-              "A place where only one person makes every decision",
-              "A system where citizens have a voice and vote for their leaders"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What are the three distinct groups of Indigenous peoples in Canada?",
-            "options": [
-              "First Nations, Inuit, and Metis",
-              "Settlers, explorers, and traders",
-              "Provinces, cities, and towns",
-              "Farmers, teachers, and mayors"
+              "In a city",
+              "In the country",
+              "Only in the mountains",
+              "Only at the beach"
             ],
             "answer": 0
           },
           {
-            "q": "What was the Underground Railroad?",
+            "q": "Where would you expect to see wide open farmland with fewer buildings?",
             "options": [
-              "An actual railroad built underground",
-              "A secret network of routes and safe houses to help freedom seekers reach Canada",
-              "A type of Canadian sports league",
-              "A modern subway system"
+              "In a city",
+              "Only in space",
+              "Only underwater",
+              "In the country"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What is one way communities help each other after a disaster?",
+            "q": "Which of these is more common in the country than in a busy city?",
             "options": [
-              "Communities always ignore people in need",
-              "Neighbours and volunteers work together to help people recover",
-              "No one is ever able to help after a disaster",
-              "Disasters never affect communities"
+              "Tall skyscrapers",
+              "Crowded subways",
+              "Wide open farmland",
+              "Very busy streets"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why might a family choose to live in the country instead of a city?",
+            "options": [
+              "They may enjoy more open space and quiet",
+              "The country has no benefits at all",
+              "Country living has no differences from the city",
+              "Cities have no buildings at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing city life and country life helps us understand that communities can be ___.",
+            "options": [
+              "Exactly the same everywhere",
+              "Impossible to compare",
+              "Only found in one place",
+              "Different from each other in many ways"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "Would you expect to see many tall buildings in a city or in the country?",
+            "answers": [
+              "city"
+            ]
+          },
+          {
+            "prompt": "Would you expect to see wide open farmland in a city or in the country?",
+            "answers": [
+              "country"
+            ]
+          },
+          {
+            "prompt": "Name one difference between city life and country life.",
+            "answers": [
+              "more buildings in the city",
+              "more open land in the country",
+              "busier streets in the city"
+            ]
+          }
+        ],
+        "topic": "Communities & Community Helpers"
       }
     ]
   },
@@ -33885,63 +34047,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Multiplication Facts: 11s and 12s",
-        "summary": "Grade 2 Math strand: students extend their multiplication fact fluency to include the 11 times table and the 12 times table.",
-        "resourceLabel": "YouTube: Multiplication Facts: 11s and 12s",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%2011s%20and%2012s%20grade%202%20educational",
+        "title": "Sorting 2D Shapes by Number of Sides",
+        "summary": "Students sort a mixed group of 2D shapes, such as triangles, squares, and hexagons, into groups based on how many straight sides each shape has.",
+        "resourceLabel": "YouTube: Sorting 2D Shapes by Number of Sides",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%202D%20Shapes%20by%20Number%20of%20Sides%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 11 x 3?",
+            "q": "How many sides does a triangle have?",
             "options": [
-              "31",
-              "33",
-              "30",
-              "32"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is 12 x 2?",
-            "options": [
-              "22",
-              "20",
-              "24",
-              "26"
+              "5",
+              "4",
+              "3",
+              "6"
             ],
             "answer": 2
           },
           {
-            "q": "What is 11 x 5?",
+            "q": "How many sides does a square have?",
             "options": [
-              "55",
-              "45",
-              "60",
-              "50"
+              "4",
+              "5",
+              "3",
+              "6"
             ],
             "answer": 0
           },
           {
-            "q": "What is 12 x 4?",
+            "q": "Which shape has the most sides: triangle, square, or hexagon?",
             "options": [
-              "42",
-              "48",
-              "44",
-              "46"
+              "Triangle",
+              "They are equal",
+              "Hexagon",
+              "Square"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What is 11 x 11?",
+            "q": "When sorting shapes by number of sides, which two shapes would go together?",
             "options": [
-              "112",
-              "121",
-              "111",
-              "110"
+              "A square and a hexagon",
+              "A triangle and a hexagon",
+              "A circle and a square",
+              "Two squares"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Sorting shapes by number of sides means grouping shapes that ___.",
+            "options": [
+              "Have the same number of straight sides",
+              "Have no sides at all",
+              "Are the same colour",
+              "Are the same size"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Multiplication & Division"
+        "worksheet": [
+          {
+            "prompt": "How many sides does a triangle have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many sides does a square have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you sort shapes by number of sides, would a triangle and a hexagon go in the same group?",
+            "answers": [
+              "no"
+            ]
+          }
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -34005,63 +34189,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The War of 1812: A Conflict That Shaped Canada",
-        "summary": "Grade 2 Social Studies strand: the War of 1812 was a conflict between the United States and British North America, and it helped shape the identity of what would later become Canada.",
-        "resourceLabel": "YouTube: The War of 1812: A Conflict That Shaped Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20War%20of%201812%3A%20A%20Conflict%20That%20Shaped%20Canada%20grade%202%20educational",
+        "title": "Ottawa: The Capital City of Canada",
+        "summary": "Students learn that Ottawa is the capital city of Canada, the special city where important decisions for the whole country are made.",
+        "resourceLabel": "YouTube: Ottawa: The Capital City of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ottawa%3A%20The%20Capital%20City%20of%20Canada%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who fought in the War of 1812?",
+            "q": "What is the capital city of Canada?",
             "options": [
-              "France and Spain",
-              "Canada and Mexico",
-              "The United States and British North America",
-              "No one, it never happened"
+              "Montreal",
+              "Vancouver",
+              "Ottawa",
+              "Toronto"
             ],
             "answer": 2
           },
           {
-            "q": "When did the War of 1812 take place?",
+            "q": "What is special about a capital city like Ottawa?",
             "options": [
-              "In the 1900s",
-              "It has not happened yet",
-              "Last year",
-              "In the early 1800s"
+              "Important decisions for the whole country are made there",
+              "It has no buildings at all",
+              "No one lives there",
+              "It is the smallest town in the country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ottawa is the capital city of which country?",
+            "options": [
+              "The United States",
+              "Mexico",
+              "France",
+              "Canada"
             ],
             "answer": 3
           },
           {
-            "q": "Why do people still learn about the War of 1812 today?",
+            "q": "Which of these best describes Ottawa?",
             "options": [
-              "It has no importance",
-              "It was not a real event",
-              "It happened in another country only",
-              "It helped shape early Canadian identity"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What area was involved in the War of 1812 that later became part of Canada?",
-            "options": [
-              "Africa",
-              "British North America",
-              "South America",
-              "Australia"
+              "A mountain range",
+              "The capital city of Canada",
+              "A type of animal",
+              "A tiny island"
             ],
             "answer": 1
           },
           {
-            "q": "Learning about historical conflicts like the War of 1812 helps us understand ___.",
+            "q": "Learning about a capital city like Ottawa helps us understand more about our ___.",
             "options": [
-              "How our country developed over time",
-              "Only foreign history",
-              "Modern technology",
-              "Nothing about Canada"
+              "Favourite foods",
+              "Weather",
+              "Country",
+              "Favourite games"
             ],
-            "answer": 0
+            "answer": 2
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "worksheet": [
+          {
+            "prompt": "What is the capital city of Canada?",
+            "answers": [
+              "Ottawa"
+            ]
+          },
+          {
+            "prompt": "Is Ottawa a small village or a capital city?",
+            "answers": [
+              "capital city"
+            ]
+          },
+          {
+            "prompt": "Do important decisions for the whole country get made in the capital city?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -34130,63 +34334,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Multiplying Two-Digit Numbers by a One-Digit Number",
-        "summary": "Grade 2 Math strand: students learn to multiply a two-digit number by a one-digit number, such as 23 x 3, by breaking the two-digit number into tens and ones.",
-        "resourceLabel": "YouTube: Multiplying Two-Digit Numbers by a One-Digit Number",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Two-Digit%20Numbers%20by%20a%20One-Digit%20Number%20grade%202%20educational",
+        "title": "Time: Reading a Clock to the Half Hour",
+        "summary": "Students learn to read a simple analog clock to the half hour, recognizing that when the long hand points to the 6, it means thirty minutes past the hour.",
+        "resourceLabel": "YouTube: Time: Reading a Clock to the Half Hour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20the%20Half%20Hour%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 12 x 4?",
+            "q": "When the long hand points to the 6, how many minutes past the hour is it?",
             "options": [
-              "44",
-              "46",
-              "48",
-              "50"
+              "45",
+              "15",
+              "30",
+              "60"
             ],
             "answer": 2
           },
           {
-            "q": "What is 21 x 3?",
+            "q": "At half past 3, where does the short hand usually point?",
             "options": [
-              "61",
-              "63",
-              "60",
-              "65"
+              "Exactly at the 12",
+              "Exactly at the 9",
+              "Partway between 3 and 4",
+              "Exactly at the 6"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What is 14 x 2?",
+            "q": "What do we call it when the long hand points to the 6?",
             "options": [
-              "28",
-              "24",
-              "30",
-              "26"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 32 x 3?",
-            "options": [
-              "90",
-              "92",
-              "94",
-              "96"
+              "The top of the hour",
+              "Midnight only",
+              "Noon only",
+              "Half past the hour"
             ],
             "answer": 3
           },
           {
-            "q": "To multiply 23 x 3, you can break 23 into ___.",
+            "q": "If it is half past 8, which numbers might you see the clock hands near?",
             "options": [
-              "20 and 30",
-              "20 and 3",
-              "23 and 0",
-              "2 and 3"
+              "The 1 and the 1",
+              "The 3 and the 9",
+              "The 8 and the 6",
+              "The 12 and the 12"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Reading a clock to the half hour helps us know time in steps of ___ minutes.",
+            "options": [
+              "60",
+              "5",
+              "30",
+              "1"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Multiplication & Division"
+        "worksheet": [
+          {
+            "prompt": "When the long hand points to the 6, how many minutes past the hour is it?",
+            "answers": [
+              "30",
+              "thirty"
+            ]
+          },
+          {
+            "prompt": "At half past 3, does the short hand point exactly at the 3 or partway between 3 and 4?",
+            "answers": [
+              "partway between 3 and 4",
+              "between 3 and 4"
+            ]
+          },
+          {
+            "prompt": "What do we call the time when the long hand points to the 6?",
+            "answers": [
+              "half past",
+              "half hour",
+              "half past the hour"
+            ]
+          }
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -34250,63 +34478,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas Justice System: Judges and Courts",
-        "summary": "Grade 2 Social Studies strand: the justice system uses courts and judges to make fair decisions when people disagree or when someone breaks a law.",
-        "resourceLabel": "YouTube: Canadas Justice System: Judges and Courts",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Justice%20System%3A%20Judges%20and%20Courts%20grade%202%20educational",
+        "title": "Weather Safety: Being Prepared for Storms",
+        "summary": "Students learn simple ways to stay safe during storms, such as going indoors when thunder is heard and listening to a trusted adult for instructions.",
+        "resourceLabel": "YouTube: Weather Safety: Being Prepared for Storms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Safety%3A%20Being%20Prepared%20for%20Storms%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who makes decisions in a courtroom?",
+            "q": "What should you do if you hear thunder while playing outside?",
             "options": [
-              "A teacher",
-              "A doctor",
-              "A judge",
-              "A mayor"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the justice system used for?",
-            "options": [
-              "To teach math",
-              "To sell products",
-              "To make fair decisions when laws are broken or people disagree",
-              "To build houses"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Where do judges usually work?",
-            "options": [
-              "In a court",
-              "In a farm",
-              "In a hospital",
-              "In a school"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is it important for a justice system to be fair?",
-            "options": [
-              "Judges should be unfair",
-              "Fairness does not matter",
-              "Only some people deserve fairness",
-              "So everyone is treated equally under the law"
+              "Ignore the thunder completely",
+              "Keep playing outside",
+              "Stand under a tall tree",
+              "Go indoors right away"
             ],
             "answer": 3
           },
           {
-            "q": "What might happen in a courtroom?",
+            "q": "Who should you listen to for instructions during a storm?",
             "options": [
-              "A sports game",
-              "A judge helps resolve a disagreement or legal case",
-              "A birthday party",
-              "A cooking class"
+              "No one at all",
+              "A trusted adult",
+              "A stranger",
+              "Another child"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to go indoors during a thunderstorm?",
+            "options": [
+              "Storms are never dangerous",
+              "Storms have no effect on safety",
+              "Staying outside is always safer",
+              "To stay safe from lightning and heavy rain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shows good weather safety?",
+            "options": [
+              "Ignoring storm warnings",
+              "Going inside when a storm starts",
+              "Standing outside during lightning",
+              "Playing in flooded streets"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being prepared for storms helps keep our community ___.",
+            "options": [
+              "Unprepared",
+              "Safe",
+              "Confused",
+              "In danger"
             ],
             "answer": 1
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "worksheet": [
+          {
+            "prompt": "If you hear thunder outside, should you go indoors or stay outside?",
+            "answers": [
+              "go indoors",
+              "indoors"
+            ]
+          },
+          {
+            "prompt": "Who should you listen to for instructions to stay safe during a storm?",
+            "answers": [
+              "trusted adult",
+              "an adult"
+            ]
+          },
+          {
+            "prompt": "Name one way to stay safe during a storm, like going indoors.",
+            "answers": [
+              "going indoors",
+              "staying inside",
+              "listening to an adult"
+            ]
+          }
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -34494,63 +34746,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Media: Newspapers, TV, and Online News",
-        "summary": "Grade 2 Social Studies strand: Canadians learn about their communities and the world through media such as newspapers, television, and online news sources.",
-        "resourceLabel": "YouTube: Canadian Media: Newspapers, TV, and Online News",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Media%3A%20Newspapers%2C%20TV%2C%20and%20Online%20News%20grade%202%20educational",
+        "title": "Being a Global Citizen: Caring About the Whole World",
+        "summary": "Students learn that being a global citizen means caring not only about our own community but also about people, animals, and places all around the whole world.",
+        "resourceLabel": "YouTube: Being a Global Citizen: Caring About the Whole World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Global%20Citizen%3A%20Caring%20About%20the%20Whole%20World%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Name one form of media people use to learn the news.",
+            "q": "What does it mean to be a global citizen?",
             "options": [
-              "A recipe book",
-              "A road sign",
-              "A dictionary",
-              "Newspapers"
+              "To only care about your own street",
+              "To never help anyone",
+              "To ignore other countries",
+              "To care about people and places all around the world"
             ],
             "answer": 3
           },
           {
-            "q": "What is the purpose of news media?",
+            "q": "Which of these shows being a good global citizen?",
             "options": [
-              "To sell only toys",
-              "To inform people about events",
-              "To have no purpose",
-              "To confuse people"
+              "Ignoring people in other countries",
+              "Caring for the environment we all share",
+              "Littering on purpose",
+              "Wasting resources carelessly"
             ],
             "answer": 1
           },
           {
-            "q": "Has the way Canadians get news changed over time?",
+            "q": "Why might it be important to care about the whole world, not just our own community?",
             "options": [
-              "No, it has never changed",
-              "News did not exist before",
-              "Yes, it has changed with new technology",
-              "Only newspapers have ever existed"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is an example of online news?",
-            "options": [
-              "A cookbook",
-              "A news website or app",
-              "A comic book",
-              "A paper map"
+              "Caring about the world is not important",
+              "Our actions can affect people and places everywhere",
+              "Only our own street matters",
+              "Other places have no connection to us"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it helpful to know about current events through the media?",
+            "q": "Which of these is an example of global citizenship?",
             "options": [
-              "News has no value",
-              "Only adults should know about events",
-              "It is not helpful at all",
-              "It helps us understand our community and the world"
+              "Ignoring problems in other countries",
+              "Learning about and respecting other cultures",
+              "Being unkind to people who are different",
+              "Refusing to learn about other places"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being a global citizen means thinking about how our choices affect ___.",
+            "options": [
+              "Nothing at all",
+              "Only ourselves",
+              "Only our closest friends",
+              "People and places everywhere"
             ],
             "answer": 3
           }
         ],
-        "topic": "Media, Technology & Communication"
+        "worksheet": [
+          {
+            "prompt": "What do we call someone who cares about people and places all around the world?",
+            "answers": [
+              "global citizen"
+            ]
+          },
+          {
+            "prompt": "Name one way to show care for the whole world, like helping the environment.",
+            "answers": [
+              "helping the environment",
+              "being kind to others",
+              "recycling"
+            ]
+          },
+          {
+            "prompt": "Do global citizens care about places beyond just their own community?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -34680,63 +34954,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Sound Waves: How Sound Travels Through Different Materials",
-        "summary": "Grade 2 Science strand: sound travels as vibrations through materials like air, water, and solids, though it travels differently depending on the material.",
-        "resourceLabel": "YouTube: Sound Waves: How Sound Travels Through Different Materials",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20Waves%3A%20How%20Sound%20Travels%20Through%20Different%20Materials%20grade%202%20educational",
+        "title": "Science Review: Bodies, Habitats, and Nature",
+        "summary": "Students review recent Science topics: our nose, forest habitats, precipitation, seed dispersal, animal groups, screws and wedges, the human life cycle, food groups, and endangered animals.",
+        "resourceLabel": "YouTube: Science Review: Bodies, Habitats, and Nature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Nature%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What causes sound to travel?",
+            "q": "What body part do we use to smell things?",
             "options": [
-              "Temperature",
-              "Colour",
-              "Light",
-              "Vibrations"
+              "Nose",
+              "Ears",
+              "Elbow",
+              "Eyes"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Name one material sound can travel through.",
+            "q": "What is a forest?",
             "options": [
-              "A total void",
-              "Air",
-              "Outer space vacuum",
-              "Nothingness"
+              "A habitat full of many trees",
+              "A small pond",
+              "A dry desert",
+              "A deep ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a group of wolves living together?",
+            "options": [
+              "A school",
+              "A pack",
+              "A herd",
+              "A flock"
             ],
             "answer": 1
           },
           {
-            "q": "Does sound need vibrations to travel?",
+            "q": "Which of these is a food group?",
             "options": [
-              "Only in space",
-              "Only in water",
-              "Yes",
-              "No"
+              "Colours",
+              "Shapes",
+              "Vegetables",
+              "Toys"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these best describes how sound moves?",
+            "q": "What word describes an animal with very few left in the wild?",
             "options": [
-              "As a colour",
-              "As a solid object",
-              "As a smell",
-              "As vibrations through a material"
+              "Nocturnal",
+              "Endangered",
+              "Migrating",
+              "Camouflaged"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Sound generally cannot travel through ___.",
-            "options": [
-              "Empty space with no matter",
-              "Water",
-              "Solid walls",
-              "Air"
-            ],
-            "answer": 0
+            "answer": 1
           }
         ],
-        "topic": "Light & Sound"
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to smell things?",
+            "answers": [
+              "nose"
+            ]
+          },
+          {
+            "prompt": "What is a forest?",
+            "answers": [
+              "a habitat full of trees",
+              "habitat with trees"
+            ]
+          },
+          {
+            "prompt": "What word describes an animal with very few left in the wild?",
+            "answers": [
+              "endangered"
+            ]
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -34864,63 +35158,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Multiplying by Multiples of Ten",
-        "summary": "Grade 2 Math strand: multiplying a number by a multiple of ten, like 3 x 20, can be solved by multiplying the basic fact and then adding a zero.",
-        "resourceLabel": "YouTube: Multiplying by Multiples of Ten",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20by%20Multiples%20of%20Ten%20grade%202%20educational",
+        "title": "Ordering Three Numbers: Least to Greatest",
+        "summary": "Students practise putting a group of three numbers in order from least to greatest, using their knowledge of counting and comparing numbers.",
+        "resourceLabel": "YouTube: Ordering Three Numbers: Least to Greatest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Three%20Numbers%3A%20Least%20to%20Greatest%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 3 x 20?",
+            "q": "Put these numbers in order from least to greatest: 4, 1, 7.",
             "options": [
-              "60",
-              "6",
-              "600",
-              "23"
+              "1, 7, 4",
+              "4, 1, 7",
+              "7, 4, 1",
+              "1, 4, 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is the least: 9, 2, 6?",
+            "options": [
+              "2",
+              "They are equal",
+              "9",
+              "6"
             ],
             "answer": 0
           },
           {
-            "q": "What is 4 x 30?",
+            "q": "Which number is the greatest: 15, 8, 20?",
             "options": [
-              "34",
-              "120",
-              "43",
-              "12"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is 5 x 40?",
-            "options": [
-              "200",
+              "They are equal",
               "20",
-              "45",
-              "54"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 2 x 60?",
-            "options": [
-              "26",
-              "120",
-              "62",
-              "12"
+              "8",
+              "15"
             ],
             "answer": 1
           },
           {
-            "q": "To find 6 x 20, you can first solve 6 x 2, then ___.",
+            "q": "Put these numbers in order from least to greatest: 10, 3, 6.",
             "options": [
-              "Subtract a zero",
-              "Multiply by zero",
-              "Add a zero to the answer",
-              "Ignore the tens"
+              "3, 10, 6",
+              "10, 6, 3",
+              "3, 6, 10",
+              "6, 3, 10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ordering numbers from least to greatest means starting with the ___ number.",
+            "options": [
+              "Roundest",
+              "Loudest",
+              "Smallest",
+              "Largest"
             ],
             "answer": 2
           }
         ],
-        "topic": "Multiplication & Division"
+        "worksheet": [
+          {
+            "prompt": "Put these numbers in order from least to greatest: 5, 2, 8.",
+            "answers": [
+              "2, 5, 8",
+              "2 5 8"
+            ]
+          },
+          {
+            "prompt": "Which number is the least: 10, 3, 7?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "Which number is the greatest: 12, 20, 6?",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -35048,123 +35364,164 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Peer Editing: Giving Helpful Feedback on Writing",
-        "summary": "Grade 2 Language strand: peer editing means reading a classmates writing and giving kind, helpful suggestions to make it clearer or stronger.",
-        "resourceLabel": "YouTube: Peer Editing: Giving Helpful Feedback on Writing",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Peer%20Editing%3A%20Giving%20Helpful%20Feedback%20on%20Writing%20grade%202%20educational",
+        "title": "Cause and Effect: Why Things Happen in a Story",
+        "summary": "Students learn to identify cause and effect in stories, understanding that a cause is why something happens and an effect is what happens as a result.",
+        "resourceLabel": "YouTube: Cause and Effect: Why Things Happen in a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cause%20and%20Effect%3A%20Why%20Things%20Happen%20in%20a%20Story%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is peer editing?",
+            "q": "What do we call the reason why something happens in a story?",
             "options": [
-              "Ignoring a classmates writing",
-              "Copying a classmates writing",
-              "Giving helpful feedback on a classmates writing",
-              "Erasing a classmates writing"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why should feedback during peer editing be kind?",
-            "options": [
-              "Feedback should always be harsh",
-              "Kindness does not matter",
-              "So it helps the writer improve without feeling bad",
-              "To make the writer upset"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is an example of helpful peer editing feedback?",
-            "options": [
-              "Your writing is bad.",
-              "I will not read this.",
-              "This makes no sense at all.",
-              "This part is confusing, can you explain more?"
+              "The effect",
+              "The title",
+              "The cover",
+              "The cause"
             ],
             "answer": 3
           },
           {
-            "q": "What is one goal of peer editing?",
+            "q": "What do we call what happens as a result of an event in a story?",
             "options": [
-              "To criticize without helping",
-              "To ignore the writer completely",
-              "To rewrite the whole piece yourself",
-              "To help make writing clearer and stronger"
+              "The author",
+              "The cause",
+              "The setting",
+              "The effect"
             ],
             "answer": 3
           },
           {
-            "q": "When receiving peer feedback, a writer should ___.",
+            "q": "If a character waters a plant and it grows, what is the cause?",
             "options": [
-              "Ignore all feedback",
-              "Get upset and stop writing",
-              "Listen and consider the suggestions",
-              "Argue with every comment"
+              "Watering the plant",
+              "The characters name",
+              "The plant growing",
+              "The title of the story"
             ],
-            "answer": 2
-          }
-        ],
-        "topic": "Writing: Process & Editing"
-      },
-      {
-        "subject": "Math",
-        "title": "Finding the Range of a Data Set",
-        "summary": "Grade 2 Math strand: the range of a data set is the difference between the largest and smallest values, found by subtracting the smallest from the largest.",
-        "resourceLabel": "YouTube: Finding the Range of a Data Set",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20the%20Range%20of%20a%20Data%20Set%20grade%202%20educational",
-        "quiz": [
+            "answer": 0
+          },
           {
-            "q": "What is the range of the data set 3, 7, 9, 2?",
+            "q": "If a character waters a plant and it grows, what is the effect?",
             "options": [
-              "7",
-              "9",
-              "5",
-              "2"
+              "Watering the plant",
+              "The plant growing",
+              "The title of the story",
+              "The characters name"
             ],
             "answer": 1
           },
           {
-            "q": "How do you find the range of a data set?",
+            "q": "Understanding cause and effect helps readers see how events in a story are ___.",
             "options": [
-              "Subtract the smallest value from the largest",
-              "Multiply the values",
-              "Add all the values",
-              "Count the values"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the range of the data set 10, 15, 20, 5?",
-            "options": [
-              "10",
-              "20",
-              "5",
-              "15"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the range of the data set 4, 4, 4, 4?",
-            "options": [
-              "8",
-              "16",
-              "0",
-              "4"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The range tells us about the ___ of a data set.",
-            "options": [
-              "Spread between highest and lowest values",
-              "Average value",
-              "Total number of values",
-              "Most common value"
+              "Connected to each other",
+              "Never related at all",
+              "Always random",
+              "Impossible to understand"
             ],
             "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "If a character forgets an umbrella and gets wet in the rain, what is the cause?",
+            "answers": [
+              "forgetting the umbrella"
+            ]
+          },
+          {
+            "prompt": "If a character forgets an umbrella and gets wet in the rain, what is the effect?",
+            "answers": [
+              "getting wet"
+            ]
+          },
+          {
+            "prompt": "What word describes why something happens in a story?",
+            "answers": [
+              "cause"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Counting, Money, and Time",
+        "summary": "Students review recent Math skills: counting to 100, near doubles, coin values, capacity, picture graphs, missing numbers, sorting shapes, and telling time to the half hour.",
+        "resourceLabel": "YouTube: Math Review: Counting, Money, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Counting%2C%20Money%2C%20and%20Time%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 59?",
+            "options": [
+              "61",
+              "60",
+              "59",
+              "58"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If double 5 is 10, what is 5 plus 6?",
+            "options": [
+              "9",
+              "11",
+              "12",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes a cup filled all the way to the top?",
+            "options": [
+              "Half full",
+              "Light",
+              "Full",
+              "Empty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a picture graph, what does each picture usually represent?",
+            "options": [
+              "One item",
+              "Ten items",
+              "A colour",
+              "Nothing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When the long hand points to the 6, how many minutes past the hour is it?",
+            "options": [
+              "15",
+              "30",
+              "45",
+              "60"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 89?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          },
+          {
+            "prompt": "How many cents is one nickel worth?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 7 and 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -35228,63 +35585,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Role of a Census: Counting Everyone in Canada",
-        "summary": "Grade 2 Social Studies strand: a census is an official count of everyone living in a country, helping the government plan services like schools, hospitals, and roads.",
-        "resourceLabel": "YouTube: The Role of a Census: Counting Everyone in Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20a%20Census%3A%20Counting%20Everyone%20in%20Canada%20grade%202%20educational",
+        "title": "Social Studies Review: Helpers, Laws, and Our Country",
+        "summary": "Students review recent Social Studies topics: farmers, construction workers, Remembrance Day, laws and rules, emergency vehicles, city and country life, Ottawa, weather safety, and global citizenship.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Laws, and Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Laws%2C%20and%20Our%20Country%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a census?",
+            "q": "What do we call a person who grows crops and raises animals for food?",
             "options": [
-              "A type of holiday",
-              "A weather report",
-              "An official count of everyone in a country",
-              "A kind of map"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does the government take a census?",
-            "options": [
-              "To sell products",
-              "To help plan services like schools and hospitals",
-              "To confuse citizens",
-              "To have no reason"
+              "A dentist",
+              "A farmer",
+              "A librarian",
+              "A mayor"
             ],
             "answer": 1
           },
           {
-            "q": "How often is a census usually taken?",
+            "q": "Why do communities create laws?",
             "options": [
-              "At regular intervals, such as every few years",
-              "Every single day",
-              "Only once ever",
-              "Never"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which service might benefit from census information?",
-            "options": [
-              "Making candy",
-              "Painting a fence",
-              "Playing a game",
-              "Planning new schools"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A census helps a government understand ___.",
-            "options": [
-              "Movie ratings",
-              "Sports scores",
-              "How many people live in different areas",
-              "The weather forecast"
+              "Laws have no real purpose",
+              "To make life more confusing",
+              "To help keep everyone safe and treated fairly",
+              "To stop people from having fun"
             ],
             "answer": 2
+          },
+          {
+            "q": "What should drivers do when they hear an emergency vehicle siren?",
+            "options": [
+              "Speed up to race it",
+              "Make way and let it pass safely",
+              "Ignore the siren completely",
+              "Stop and block the road"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the capital city of Canada?",
+            "options": [
+              "Montreal",
+              "Vancouver",
+              "Ottawa",
+              "Toronto"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to be a global citizen?",
+            "options": [
+              "To care about people and places all around the world",
+              "To ignore other countries",
+              "To never help anyone",
+              "To only care about your own street"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "worksheet": [
+          {
+            "prompt": "What do we call a person who grows crops and raises animals for food?",
+            "answers": [
+              "farmer"
+            ]
+          },
+          {
+            "prompt": "What red flower do people often wear on Remembrance Day?",
+            "answers": [
+              "poppy",
+              "a poppy"
+            ]
+          },
+          {
+            "prompt": "What is the capital city of Canada?",
+            "answers": [
+              "Ottawa"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -35353,60 +35730,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Estimating Quotients: Rounding Before Dividing",
-        "summary": "Grade 2 Math strand: to estimate a quotient, students round the numbers involved to make the division easier before finding an approximate answer.",
-        "resourceLabel": "YouTube: Estimating Quotients: Rounding Before Dividing",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Quotients%3A%20Rounding%20Before%20Dividing%20grade%202%20educational",
+        "title": "Place Value: Grouping into Tens and Ones",
+        "summary": "Students learn that a two-digit number can be broken into a group of ten and some extra ones, such as seeing 14 as one group of ten plus four more ones.",
+        "resourceLabel": "YouTube: Place Value: Grouping into Tens and Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Place%20Value%3A%20Grouping%20into%20Tens%20and%20Ones%20grade%202%20educational",
         "quiz": [
           {
-            "q": "To estimate 42 divided by 7, you could round 42 to ___.",
+            "q": "How many tens are in the number 12?",
             "options": [
-              "100",
-              "50",
-              "42",
-              "40"
+              "0",
+              "3",
+              "2",
+              "1"
             ],
             "answer": 3
           },
           {
-            "q": "Estimating a quotient means finding ___.",
+            "q": "How many ones are left over in the number 12?",
             "options": [
-              "The largest possible number",
-              "The exact answer only",
-              "A completely unrelated number",
-              "An approximate answer to a division problem"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "About what is 29 divided by 5, rounded first?",
-            "options": [
-              "About 6",
-              "About 0.6",
-              "About 60",
-              "About 600"
+              "2",
+              "3",
+              "1",
+              "0"
             ],
             "answer": 0
           },
           {
-            "q": "About what is 61 divided by 10?",
+            "q": "If you have 1 group of ten and 8 ones, what number do you have?",
             "options": [
-              "About 16",
-              "About 600",
-              "About 6",
-              "About 60"
+              "80",
+              "18",
+              "8",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The number 20 is made of how many groups of ten?",
+            "options": [
+              "0",
+              "20",
+              "2",
+              "1"
             ],
             "answer": 2
           },
           {
-            "q": "Why do we estimate before dividing exactly?",
+            "q": "Breaking a number into tens and ones helps us ___.",
             "options": [
-              "It makes math harder",
-              "It has no purpose",
-              "Estimating replaces the need to divide at all",
-              "To quickly check if our exact answer seems reasonable"
+              "Forget the number",
+              "Change the number completely",
+              "Make the number smaller",
+              "Understand what the number means"
             ],
             "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many tens are in the number 14?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "How many extra ones are in the number 14?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you have 1 group of ten and 6 ones, what number do you have?",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
           }
         ],
         "topic": "Place Value & Number Sense"
@@ -35539,119 +35939,166 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Word Origins: Where Some English Words Come From",
-        "summary": "Grade 2 Language strand: many English words originally came from other languages, and learning simple word origins can help readers understand and remember new vocabulary.",
-        "resourceLabel": "YouTube: Word Origins: Where Some English Words Come From",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Origins%3A%20Where%20Some%20English%20Words%20Come%20From%20grade%202%20educational",
+        "title": "Story Mood: How a Story Makes Us Feel",
+        "summary": "Students learn that a story can have a mood, or overall feeling, such as happy, spooky, or exciting, often created through the words and pictures an author chooses.",
+        "resourceLabel": "YouTube: Story Mood: How a Story Makes Us Feel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Mood%3A%20How%20a%20Story%20Makes%20Us%20Feel%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Do all English words come only from English?",
+            "q": "What do we call the overall feeling a story gives its reader?",
             "options": [
-              "English has no history",
-              "Yes, always",
-              "Words have no origin",
-              "No, many come from other languages"
+              "The cover",
+              "The title",
+              "The mood",
+              "The author"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why might learning about word origins be helpful?",
+            "q": "If a story uses bright pictures and cheerful words, what mood might it have?",
             "options": [
-              "It has no benefit",
-              "It makes words harder to learn",
-              "It changes the spelling randomly",
-              "It can help us understand and remember new words"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What do we call the study of where words come from?",
-            "options": [
-              "Grammar",
-              "Word origin study, sometimes called etymology",
-              "Punctuation",
-              "Word origin study"
+              "A sad mood",
+              "A happy mood",
+              "A spooky mood",
+              "An angry mood"
             ],
             "answer": 1
           },
           {
-            "q": "Learning word origins is part of building strong ___.",
+            "q": "If a story uses dark pictures and quiet, mysterious words, what mood might it have?",
             "options": [
-              "Art skills",
-              "Athletic skills",
-              "Math skills",
-              "Vocabulary"
+              "A calm sunny mood",
+              "A spooky mood",
+              "A happy mood",
+              "A silly mood"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which is an example of curiosity about word origins?",
+            "q": "What helps create the mood of a story?",
             "options": [
-              "Refusing to learn vocabulary",
-              "Ignoring new words completely",
-              "Asking where the word school first came from",
-              "Avoiding reading"
+              "Only the page numbers",
+              "The words and pictures an author chooses",
+              "Nothing at all",
+              "Only the title"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Noticing the mood of a story helps readers understand ___.",
+            "options": [
+              "How the story makes them feel",
+              "Nothing about the story",
+              "Only how many pages are in the book",
+              "Only the name of the author"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the overall feeling a story gives us, like happy or spooky?",
+            "answers": [
+              "mood"
+            ]
+          },
+          {
+            "prompt": "If a story has dark pictures and quiet words, might its mood feel spooky or cheerful?",
+            "answers": [
+              "spooky"
+            ]
+          },
+          {
+            "prompt": "Name one mood a story could have, like happy or exciting.",
+            "answers": [
+              "happy",
+              "spooky",
+              "exciting",
+              "calm"
+            ]
+          }
+        ],
+        "topic": "Literary Devices & Analysis"
       },
       {
         "subject": "Math",
-        "title": "Multi-Step Word Problems: Multiplication and Addition Together",
-        "summary": "Grade 2 Math strand: some word problems require more than one step, such as multiplying to find a total and then adding another amount to solve the problem.",
-        "resourceLabel": "YouTube: Multi-Step Word Problems: Multiplication and Addition Together",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multi-Step%20Word%20Problems%3A%20Multiplication%20and%20Addition%20Together%20grade%202%20educational",
+        "title": "Fact Families: Related Addition and Subtraction",
+        "summary": "Students learn that three numbers, such as 3, 4, and 7, can form a fact family, showing how the same numbers connect two addition facts and two subtraction facts.",
+        "resourceLabel": "YouTube: Fact Families: Related Addition and Subtraction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20Families%3A%20Related%20Addition%20and%20Subtraction%20grade%202%20educational",
         "quiz": [
           {
-            "q": "If you buy 3 bags of 4 apples, then get 2 more apples, how many apples in all?",
+            "q": "If 2 plus 5 equals 7, what does 7 minus 5 equal?",
             "options": [
-              "12",
-              "13",
-              "10",
-              "14"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If there are 5 rows of 2 chairs, then 3 more chairs are added, how many chairs total?",
-            "options": [
-              "11",
-              "13",
-              "10",
-              "12"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A multi-step problem requires you to ___.",
-            "options": [
-              "Only add numbers",
-              "Only look at the first number",
-              "Solve more than one operation to find the answer",
-              "Skip a step"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If 4 boxes have 6 toys each, then 5 toys are added, how many toys in total?",
-            "options": [
-              "29",
-              "24",
-              "30",
-              "25"
+              "2",
+              "0",
+              "7",
+              "5"
             ],
             "answer": 0
           },
           {
-            "q": "When solving a multi-step problem, it helps to ___.",
+            "q": "If 6 plus 2 equals 8, what does 8 minus 6 equal?",
             "options": [
-              "Guess randomly",
-              "Skip straight to the final answer",
-              "Ignore some of the numbers",
-              "Solve one step at a time in order"
+              "8",
+              "2",
+              "6",
+              "0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which numbers form a fact family with 4, 5, and 9?",
+            "options": [
+              "9 plus 5 equals 4",
+              "4 plus 5 equals 9",
+              "5 minus 9 equals 4",
+              "4 plus 9 equals 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A fact family uses the same ___ numbers in different addition and subtraction sentences.",
+            "options": [
+              "Two",
+              "Three",
+              "Ten",
+              "Five"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing a fact family helps us see how addition and subtraction are ___.",
+            "options": [
+              "Never related",
+              "Impossible to compare",
+              "Always the same number",
+              "Connected to each other"
             ],
             "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 4 equal?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 3 equal?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Name the three numbers in the fact family with 3, 4, and 7.",
+            "answers": [
+              "3, 4, 7",
+              "3 4 7"
+            ]
           }
         ],
         "topic": "Addition & Subtraction"
@@ -35843,60 +36290,82 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "3D Shapes: Nets and Unfolding",
-        "summary": "Grade 2 Math strand: a net is a flat pattern that can be folded to make a 3D shape, such as unfolding a cube into six connected squares.",
-        "resourceLabel": "YouTube: 3D Shapes: Nets and Unfolding",
-        "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Nets%20and%20Unfolding%20grade%202%20educational",
+        "title": "Composing Shapes: Making Bigger Shapes from Smaller Ones",
+        "summary": "Students explore how smaller shapes, like two triangles, can be put together to make a new, bigger shape, such as combining two triangles to form a square.",
+        "resourceLabel": "YouTube: Composing Shapes: Making Bigger Shapes from Smaller Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composing%20Shapes%3A%20Making%20Bigger%20Shapes%20from%20Smaller%20Ones%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a net in geometry?",
+            "q": "If you put two triangles together carefully, what shape can you make?",
             "options": [
-              "A flat pattern that folds into a 3D shape",
-              "A tool for catching fish",
-              "A type of graph",
-              "A kind of clock"
+              "A square",
+              "A single dot",
+              "Nothing at all",
+              "A circle"
             ],
             "answer": 0
           },
           {
-            "q": "How many squares make up the net of a cube?",
+            "q": "What is it called when we combine smaller shapes to build a bigger shape?",
             "options": [
-              "Eight",
-              "Five",
-              "Six",
-              "Four"
+              "Ignoring shapes",
+              "Composing shapes",
+              "Hiding shapes",
+              "Erasing shapes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which two shapes could combine to make a rectangle?",
+            "options": [
+              "One triangle",
+              "Two dots",
+              "Two squares",
+              "Two circles"
             ],
             "answer": 2
           },
           {
-            "q": "What 3D shape can a net of six squares fold into?",
+            "q": "Building a new shape out of smaller shapes helps us understand that shapes can be ___.",
             "options": [
-              "A cylinder",
-              "A cone",
-              "A cube",
-              "A sphere"
+              "Only taken apart",
+              "Put together in different ways",
+              "Impossible to build",
+              "Never combined"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "When you fold a net, what do you create?",
+            "q": "Composing shapes is a skill that helps us later understand ___.",
             "options": [
-              "A 3D shape",
-              "A graph",
-              "A 2D shape",
-              "A number line"
+              "How to spell words",
+              "How to sing songs",
+              "How to bake bread",
+              "How bigger shapes are built from smaller parts"
             ],
-            "answer": 0
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you put two triangles together, what new shape can you make?",
+            "answers": [
+              "square",
+              "a square"
+            ]
           },
           {
-            "q": "Understanding nets helps us see how ___ relate to 3D shapes.",
-            "options": [
-              "Smells",
-              "Sounds",
-              "2D flat shapes",
-              "Colours"
-            ],
-            "answer": 2
+            "prompt": "What do we call it when we put small shapes together to make a bigger shape?",
+            "answers": [
+              "composing shapes",
+              "composing"
+            ]
+          },
+          {
+            "prompt": "Can two smaller shapes ever combine to make one bigger shape?",
+            "answers": [
+              "yes"
+            ]
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -36087,62 +36556,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Multiplication, Place Value, and Data",
-        "summary": "Grade 2 Math strand review: students revisit multiplication facts to 12, two-digit multiplication, expanded form, multiples of ten, data range, and 3D shape nets.",
-        "resourceLabel": "YouTube: Math Review: Multiplication, Place Value, and Data",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Place%20Value%2C%20and%20Data%20grade%202%20educational",
+        "title": "Data: Sorting Objects into a Chart",
+        "summary": "Students learn to sort a group of objects, such as toys or shapes, into a simple chart based on one shared feature, like colour or type, and then count each group.",
+        "resourceLabel": "YouTube: Data: Sorting Objects into a Chart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Objects%20into%20a%20Chart%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 11 x 5?",
+            "q": "If you sort blocks by colour, where would a blue block go?",
             "options": [
-              "60",
-              "45",
-              "55",
-              "50"
+              "With every colour at once",
+              "With the red blocks",
+              "With the other blue blocks",
+              "Nowhere at all"
             ],
             "answer": 2
           },
           {
-            "q": "What is 12 x 4?",
+            "q": "What do we call grouping objects that share the same feature?",
             "options": [
-              "50",
-              "44",
-              "46",
-              "48"
+              "Ignoring",
+              "Erasing",
+              "Sorting",
+              "Hiding"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "After sorting toys into a chart, how can we tell which group has the most?",
+            "options": [
+              "Ignore the chart completely",
+              "Throw the toys away",
+              "Count each group and compare",
+              "Guess without counting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a chart shows 5 red toys and 3 blue toys, which colour has more?",
+            "options": [
+              "They are equal",
+              "Blue",
+              "Cannot tell",
+              "Red"
             ],
             "answer": 3
           },
           {
-            "q": "What is 456 written in expanded form?",
+            "q": "Sorting objects into a chart helps us ___ information easily.",
             "options": [
-              "456 + 0",
-              "400 + 50 + 6",
-              "45 + 6",
-              "4 + 5 + 6"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is 3 x 20?",
-            "options": [
-              "60",
-              "23",
-              "600",
-              "6"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the range of the data set 3, 7, 9, 2?",
-            "options": [
-              "9",
-              "2",
-              "5",
-              "7"
+              "Organize and compare",
+              "Forget",
+              "Hide",
+              "Waste"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you sort toys by colour, do red toys go with other red toys?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What do we call it when we group objects that share a feature?",
+            "answers": [
+              "sorting"
+            ]
+          },
+          {
+            "prompt": "After sorting toys into a chart, what can we do to see which group has more?",
+            "answers": [
+              "count them",
+              "counting"
+            ]
+          }
+        ],
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -36205,62 +36696,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: History, Government, and Community",
-        "summary": "Grade 2 Social Studies strand review: students revisit the War of 1812, the justice system, Canadian astronauts, the census, time capsules, and public signs.",
-        "resourceLabel": "YouTube: Social Studies Review: History, Government, and Community",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20History%2C%20Government%2C%20and%20Community%20grade%202%20educational",
+        "title": "Our Crossing Guard: Helping Us Cross Safely",
+        "summary": "Students learn about the job of a crossing guard, a community helper who stands at busy streets to help children and families cross safely on their way to and from school.",
+        "resourceLabel": "YouTube: Our Crossing Guard: Helping Us Cross Safely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Crossing%20Guard%3A%20Helping%20Us%20Cross%20Safely%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who fought in the War of 1812?",
+            "q": "What do we call a helper who stops traffic so people can cross the street safely?",
             "options": [
-              "Canada and Mexico",
-              "No one, it never happened",
-              "France and Spain",
-              "The United States and British North America"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Who makes decisions in a courtroom?",
-            "options": [
-              "A judge",
+              "A farmer",
               "A mayor",
-              "A doctor",
-              "A teacher"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a census?",
-            "options": [
-              "A type of holiday",
-              "A weather report",
-              "An official count of everyone in a country",
-              "A kind of map"
+              "A crossing guard",
+              "A librarian"
             ],
             "answer": 2
           },
           {
-            "q": "What is a time capsule?",
+            "q": "Where does a crossing guard usually stand to help people?",
             "options": [
-              "A kind of vehicle",
-              "A weather tool",
-              "A sealed container of objects opened later",
-              "A type of clock"
+              "Inside a bakery",
+              "Inside a library",
+              "At a busy street or crosswalk",
+              "On a mountain"
             ],
             "answer": 2
           },
           {
-            "q": "What shape is a stop sign?",
+            "q": "What should you do when a crossing guard signals it is safe to cross?",
             "options": [
-              "A square",
-              "An octagon",
-              "A triangle",
-              "A circle"
+              "Run without looking",
+              "Cross carefully while watching for cars",
+              "Ignore the signal",
+              "Stay in the middle of the street"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why is a crossing guard an important community helper?",
+            "options": [
+              "They grow food",
+              "They help keep people safe while crossing busy streets",
+              "They fix broken pipes",
+              "They deliver mail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A crossing guard often helps children get to and from ___ safely.",
+            "options": [
+              "A boat",
+              "A cave",
+              "School",
+              "The moon"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a helper who stops traffic so we can cross the street safely?",
+            "answers": [
+              "crossing guard"
+            ]
+          },
+          {
+            "prompt": "Where does a crossing guard often stand to help people cross safely?",
+            "answers": [
+              "at a busy street",
+              "near school",
+              "at a crosswalk"
+            ]
+          },
+          {
+            "prompt": "Should we listen to and follow a crossing guard signal before crossing?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -36270,63 +36784,84 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Adjective Order: Which Word Comes First?",
-        "summary": "Grade 2 Language strand: when using more than one adjective before a noun, there is often a natural order, such as saying a big red ball rather than a red big ball.",
-        "resourceLabel": "YouTube: Adjective Order: Which Word Comes First?",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Adjective%20Order%3A%20Which%20Word%20Comes%20First%3F%20grade%202%20educational",
+        "title": "Environmental Print: Reading Signs and Labels",
+        "summary": "Students learn to recognize environmental print, the words and symbols found on everyday signs and labels, such as a stop sign or a cereal box, that help us understand our surroundings.",
+        "resourceLabel": "YouTube: Environmental Print: Reading Signs and Labels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Print%3A%20Reading%20Signs%20and%20Labels%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Which phrase uses correct adjective order?",
+            "q": "What do we call the words and symbols found on everyday signs and labels?",
             "options": [
-              "A big red ball",
-              "A red big ball",
-              "A ball big red",
-              "Big a red ball"
+              "Environmental print",
+              "A story problem",
+              "Poetry",
+              "Fiction"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these follows natural English adjective order?",
+            "q": "Which of these is an example of environmental print?",
             "options": [
-              "Wooden box a small",
-              "A small wooden box",
-              "A wooden small box",
-              "Box small wooden"
+              "A stop sign",
+              "A bedtime story",
+              "A poem",
+              "A song"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why does adjective order matter in English?",
+            "q": "Why is it helpful to recognize environmental print?",
             "options": [
-              "It changes the spelling",
-              "It makes sentences sound natural",
-              "It has no effect at all",
-              "It is never important"
+              "It only appears in books",
+              "It is only found at school",
+              "It helps us understand our surroundings, like safety signs",
+              "It has no real use"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Which sentence sounds correct?",
+            "q": "Where might you see environmental print?",
             "options": [
-              "She wore blue dress a lovely.",
-              "She wore a lovely blue dress.",
-              "She wore a blue lovely dress.",
-              "She wore dress a lovely blue."
+              "Only inside a library book",
+              "Only in a song",
+              "On a cereal box",
+              "Only in a poem"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Adjective order is a pattern that ___.",
+            "q": "Environmental print often uses ___ to give people quick information.",
             "options": [
-              "Has no pattern at all",
-              "Never applies to size",
-              "Only applies to colours",
-              "Native speakers often follow naturally"
+              "Only pictures with no words",
+              "Words and symbols",
+              "Only colours",
+              "Only numbers"
             ],
-            "answer": 3
+            "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "worksheet": [
+          {
+            "prompt": "What do we call the words and symbols on everyday signs, like a stop sign?",
+            "answers": [
+              "environmental print"
+            ]
+          },
+          {
+            "prompt": "Name one place you might see environmental print, like a cereal box or street sign.",
+            "answers": [
+              "cereal box",
+              "street sign",
+              "stop sign"
+            ]
+          },
+          {
+            "prompt": "Can reading signs and labels help us understand what is around us?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -36761,122 +37296,168 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Foreshadowing: Hints About What Will Happen",
-        "summary": "Grade 2 Language strand: foreshadowing is when an author gives readers small clues or hints early in a story about events that will happen later.",
-        "resourceLabel": "YouTube: Foreshadowing: Hints About What Will Happen",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Foreshadowing%3A%20Hints%20About%20What%20Will%20Happen%20grade%202%20educational",
+        "title": "Sentence Building: Putting Words in Order",
+        "summary": "Students practise sentence building, learning that words must be arranged in a sensible order for a sentence to make sense and be understood by a reader.",
+        "resourceLabel": "YouTube: Sentence Building: Putting Words in Order",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Building%3A%20Putting%20Words%20in%20Order%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is foreshadowing?",
+            "q": "Why does word order matter in a sentence?",
             "options": [
-              "The ending of a story",
-              "Hints about what will happen later in a story",
-              "The title of a book",
-              "A characters name"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why do authors use foreshadowing?",
-            "options": [
-              "To skip the middle of the story",
-              "To confuse readers on purpose with no meaning",
-              "To end the story early",
-              "To build suspense and hint at future events"
+              "Only the last word matters",
+              "Word order never matters",
+              "Sentences do not need any order",
+              "It helps the sentence make sense to a reader"
             ],
             "answer": 3
           },
           {
-            "q": "If a story mentions dark storm clouds early on, this might foreshadow ___.",
+            "q": "Which of these word groups is in the correct order to make sense?",
             "options": [
-              "A sunny happy ending only",
-              "Nothing at all",
-              "A storm or trouble coming later",
-              "The title of the book"
+              "The sleeps cat",
+              "Sleeps cat the",
+              "The cat sleeps",
+              "Cat the sleeps"
             ],
             "answer": 2
           },
           {
-            "q": "Foreshadowing usually appears ___ in a story.",
+            "q": "Which of these word groups is NOT in a sensible order?",
             "options": [
-              "Only at the very end",
-              "Early on, before the event happens",
-              "Never",
-              "Only in the title"
+              "She likes apples",
+              "The dog is happy",
+              "Runs dog the",
+              "The dog runs"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Noticing foreshadowing can help readers ___.",
+            "q": "Putting words in a sensible order helps a reader ___.",
             "options": [
-              "Skip the ending",
-              "Predict what might happen next",
-              "Forget the story completely",
-              "Ignore the plot"
+              "Understand what the sentence means",
+              "Become confused on purpose",
+              "Change the meaning randomly",
+              "Ignore the sentence"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is correctly ordered?",
+            "options": [
+              "Cream ice like I",
+              "Like I cream ice",
+              "I like ice cream",
+              "Ice I cream like"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "Put these words in order to make a sentence: dog, the, runs.",
+            "answers": [
+              "The dog runs",
+              "the dog runs"
+            ]
+          },
+          {
+            "prompt": "Does word order matter for a sentence to make sense?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one word that could start a simple sentence about a cat, like The.",
+            "answers": [
+              "The",
+              "the"
+            ]
+          }
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
-        "title": "Data: Finding the Median of a Data Set",
-        "summary": "Grade 2 Math strand: the median of a data set is the middle number when the values are arranged in order from least to greatest.",
-        "resourceLabel": "YouTube: Data: Finding the Median of a Data Set",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Finding%20the%20Median%20of%20a%20Data%20Set%20grade%202%20educational",
+        "title": "Skip Counting by 5s to 100",
+        "summary": "Students practise counting forward by 5s, such as 5, 10, 15, 20, all the way up to 100, building on earlier skip-counting skills.",
+        "resourceLabel": "YouTube: Skip Counting by 5s to 100",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20to%20100%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the median of the data set 2, 4, 6?",
+            "q": "If you skip count by 5s starting at 5, what comes after 15?",
             "options": [
-              "12",
-              "6",
-              "2",
-              "4"
+              "25",
+              "10",
+              "20",
+              "16"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "How do you find the median of a data set?",
+            "q": "If you skip count by 5s, what comes after 45?",
             "options": [
-              "Add all the numbers together",
-              "Order the numbers and find the middle value",
-              "Multiply the numbers",
-              "Find the largest number only"
+              "40",
+              "50",
+              "46",
+              "55"
             ],
             "answer": 1
           },
           {
-            "q": "What is the median of the data set 1, 3, 5, 7, 9?",
+            "q": "What number comes right before 100 when skip counting by 5s?",
             "options": [
-              "3",
-              "9",
+              "95",
+              "85",
+              "90",
+              "99"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip counting by 5s means counting forward by adding ___ each time.",
+            "options": [
               "5",
+              "2",
+              "10",
               "1"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Before finding the median, the data should be ___.",
+            "q": "Which of these numbers would you say while skip counting by 5s?",
             "options": [
-              "Left in random order",
-              "Multiplied together",
-              "Ordered from least to greatest",
-              "Ignored"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The median tells us about the ___ of a data set.",
-            "options": [
-              "Largest value only",
-              "Total sum",
-              "Number of items only",
-              "Middle value"
+              "28",
+              "33",
+              "32",
+              "30"
             ],
             "answer": 3
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "If you skip count by 5s, what comes after 5?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "If you skip count by 5s, what comes after 20?",
+            "answers": [
+              "25",
+              "twenty-five"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 100 when skip counting by 5s?",
+            "answers": [
+              "95",
+              "ninety-five"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -37309,63 +37890,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Multiplying Three Numbers Together",
-        "summary": "Grade 2 Math strand: to multiply three numbers together, students multiply two of the numbers first, then multiply that answer by the third number.",
-        "resourceLabel": "YouTube: Multiplying Three Numbers Together",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Three%20Numbers%20Together%20grade%202%20educational",
+        "title": "Time: Morning, Afternoon, and Night",
+        "summary": "Students learn to describe parts of the day as morning, afternoon, or night, and connect daily activities, like eating breakfast or going to sleep, to the correct part of the day.",
+        "resourceLabel": "YouTube: Time: Morning, Afternoon, and Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Night%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 2 x 3 x 2?",
+            "q": "When do we usually eat breakfast?",
             "options": [
-              "16",
-              "10",
-              "14",
-              "12"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "To solve 2 x 2 x 5, which two numbers might you multiply first?",
-            "options": [
-              "Any two of the numbers, then multiply by the third",
-              "None of them",
-              "Only the largest number",
-              "2 and 2"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 1 x 4 x 3?",
-            "options": [
-              "10",
-              "14",
-              "12",
-              "8"
+              "Never",
+              "Only on weekends",
+              "In the morning",
+              "At night"
             ],
             "answer": 2
           },
           {
-            "q": "What is 3 x 2 x 2?",
+            "q": "When do we usually go to sleep?",
             "options": [
-              "16",
-              "14",
-              "10",
-              "12"
+              "At lunchtime",
+              "In the morning",
+              "Never",
+              "At night"
             ],
             "answer": 3
           },
           {
-            "q": "When multiplying three numbers, the order you multiply them in ___.",
+            "q": "Which activity usually happens in the afternoon?",
             "options": [
-              "Does not change the final answer",
-              "Always changes the final answer",
-              "Must always start with the largest",
-              "Must always start with the smallest"
+              "Eating lunch",
+              "Sleeping all night",
+              "Eating breakfast",
+              "Waking up for the first time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Putting the day in order, which comes first: morning, afternoon, or night?",
+            "options": [
+              "Night",
+              "Morning",
+              "They happen at the same time",
+              "Afternoon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Describing the parts of a day helps us understand ___.",
+            "options": [
+              "The order that daily events happen in",
+              "Only what happens on weekends",
+              "Nothing useful about our day",
+              "Only nighttime activities"
             ],
             "answer": 0
           }
         ],
-        "topic": "Multiplication & Division"
+        "worksheet": [
+          {
+            "prompt": "Do we usually eat breakfast in the morning or at night?",
+            "answers": [
+              "morning"
+            ]
+          },
+          {
+            "prompt": "Do we usually go to sleep in the afternoon or at night?",
+            "answers": [
+              "night"
+            ]
+          },
+          {
+            "prompt": "Is lunchtime usually part of the morning or the afternoon?",
+            "answers": [
+              "afternoon"
+            ]
+          }
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -37553,63 +38154,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Perimeter and Area Together: Comparing Two Measurements",
-        "summary": "Grade 2 Math strand: perimeter measures the distance around a shape, while area measures the space inside it, and students compare both for the same shape.",
-        "resourceLabel": "YouTube: Perimeter and Area Together: Comparing Two Measurements",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Perimeter%20and%20Area%20Together%3A%20Comparing%20Two%20Measurements%20grade%202%20educational",
+        "title": "Addition: Adding Three Numbers Together",
+        "summary": "Students practise adding three small numbers together, such as 2 plus 3 plus 1, by combining any two numbers first and then adding the third.",
+        "resourceLabel": "YouTube: Addition: Adding Three Numbers Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Adding%20Three%20Numbers%20Together%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does perimeter measure?",
+            "q": "What is 2 plus 2 plus 2?",
             "options": [
-              "The distance around a shape",
-              "The space inside a shape",
-              "The colour of a shape",
-              "The weight of a shape"
+              "6",
+              "5",
+              "4",
+              "8"
             ],
             "answer": 0
           },
           {
-            "q": "What does area measure?",
+            "q": "What is 1 plus 3 plus 2?",
             "options": [
-              "The distance around a shape",
-              "The height only",
-              "The number of corners",
-              "The space inside a shape"
+              "6",
+              "4",
+              "5",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5 plus 1 plus 1?",
+            "options": [
+              "7",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding three numbers, you can add any two first and then add the ___.",
+            "options": [
+              "Same number twice",
+              "Answer again",
+              "Largest number only",
+              "Third number"
             ],
             "answer": 3
           },
           {
-            "q": "A rectangle has a perimeter of 14 and sides of 5 and 2. Does the math check out, since 5+5+2+2 equals 14?",
+            "q": "What is 3 plus 3 plus 1?",
             "options": [
-              "No, it should be 10",
-              "No, it should be 20",
-              "Yes, 14",
-              "No, it should be 7"
+              "7",
+              "8",
+              "9",
+              "6"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Can two different shapes have the same perimeter but different areas?",
-            "options": [
-              "Only if they are circles",
-              "Yes",
-              "No, never",
-              "Only if they are squares"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Perimeter and area are both examples of ___.",
-            "options": [
-              "Types of graphs",
-              "Colours",
-              "Measurements of a shape",
-              "Fractions"
-            ],
-            "answer": 2
+            "answer": 0
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "worksheet": [
+          {
+            "prompt": "What is 2 plus 3 plus 1?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What is 1 plus 1 plus 1?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 4 plus 2 plus 2?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ],
+        "topic": "Addition & Subtraction"
       },
       {
         "subject": "Science",
@@ -37738,60 +38362,80 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Story Pacing: Fast and Slow Moments in a Story",
-        "summary": "Grade 2 Language strand: story pacing describes how quickly or slowly events unfold, with exciting parts often moving fast and quiet parts moving slower.",
-        "resourceLabel": "YouTube: Story Pacing: Fast and Slow Moments in a Story",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Pacing%3A%20Fast%20and%20Slow%20Moments%20in%20a%20Story%20grade%202%20educational",
+        "title": "Language Review: Word Families, Punctuation, and Comprehension",
+        "summary": "Students review recent Language skills: the -ot and -et word families, adding -es, comparing and contrasting, capital letters, cause and effect, story mood, environmental print, and sentence building.",
+        "resourceLabel": "YouTube: Language Review: Word Families, Punctuation, and Comprehension",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Punctuation%2C%20and%20Comprehension%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does story pacing describe?",
+            "q": "Which word rhymes with hot?",
             "options": [
-              "How quickly or slowly events happen",
-              "The title of the book",
-              "The cover colour",
-              "The characters names"
+              "Cup",
+              "Sun",
+              "Pot",
+              "Dog"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "During an exciting chase scene, the pacing is usually ___.",
+            "q": "Add -es to the word wish. What new word do you make?",
             "options": [
-              "Nonexistent",
-              "Slow",
-              "The same as a quiet scene",
-              "Fast"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "During a calm, quiet moment in a story, the pacing is usually ___.",
-            "options": [
-              "Slow",
-              "Not important",
-              "Random",
-              "Fast"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do authors vary the pacing of a story?",
-            "options": [
-              "It has no purpose",
-              "To create excitement or calm at the right moments",
-              "Pacing never changes in stories",
-              "To confuse readers on purpose"
+              "Wish",
+              "Wishes",
+              "Wishies",
+              "Wishs"
             ],
             "answer": 1
           },
           {
-            "q": "Which word suggests fast pacing in a scene?",
+            "q": "What do we call the reason why something happens in a story?",
             "options": [
-              "Quietly",
-              "Slowly",
-              "Eventually, over many years",
-              "Suddenly"
+              "The cause",
+              "The effect",
+              "The title",
+              "The cover"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "What do we call the overall feeling a story gives its reader?",
+            "options": [
+              "The title",
+              "The author",
+              "The mood",
+              "The cover"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the words and symbols found on everyday signs and labels?",
+            "options": [
+              "A story problem",
+              "Poetry",
+              "Environmental print",
+              "Fiction"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the h in hot to p. What new word do you make?",
+            "answers": [
+              "pot"
+            ]
+          },
+          {
+            "prompt": "Add -es to the word box. What new word do you make?",
+            "answers": [
+              "boxes"
+            ]
+          },
+          {
+            "prompt": "What kind of letter should begin every written sentence?",
+            "answers": [
+              "capital letter"
+            ]
           }
         ]
       },
@@ -38103,123 +38747,169 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Camels and Desert Adaptations: Storing Water and Fat",
-        "summary": "Grade 2 Science strand: camels have special adaptations for desert life, such as humps that store fat and the ability to go a long time without drinking water.",
-        "resourceLabel": "YouTube: Camels and Desert Adaptations: Storing Water and Fat",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Camels%20and%20Desert%20Adaptations%3A%20Storing%20Water%20and%20Fat%20grade%202%20educational",
+        "title": "Butterflies and Moths: Comparing Two Insects",
+        "summary": "Kindergarten Science strand: butterflies and moths are both insects with wings, but butterflies usually fly in the day and moths usually fly at night.",
+        "resourceLabel": "YouTube: Butterflies and Moths: Comparing Two Insects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Butterflies%20and%20Moths%3A%20Comparing%20Two%20Insects%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do camel humps mainly store?",
+            "q": "When are butterflies usually active?",
             "options": [
-              "Sand",
-              "Air",
-              "Fat",
-              "Water only"
+              "Only in winter",
+              "At night",
+              "During the day",
+              "Never"
             ],
             "answer": 2
           },
           {
-            "q": "Why can camels survive a long time without water?",
+            "q": "When are moths usually active?",
             "options": [
-              "They live only in wet places",
-              "Their bodies are adapted to conserve water",
-              "They never need water at all",
-              "They drink constantly"
+              "During the day",
+              "Only underwater",
+              "Only in the rain",
+              "At night"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Camels are well adapted to living in ___.",
+            "q": "What do butterflies and moths have in common?",
             "options": [
-              "Oceans",
-              "Deserts",
-              "The Arctic",
-              "Rainforests"
+              "They both live underwater",
+              "They are both mammals",
+              "They have no wings",
+              "They are both insects with wings"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which of these is a camel adaptation for hot, sandy environments?",
+            "q": "Which is a way to tell some moths apart from butterflies?",
             "options": [
-              "Long eyelashes to protect from sand",
-              "Wings for flying",
-              "Gills for breathing underwater",
-              "Thick blubber like a whale"
+              "Moths live only in water",
+              "Moths are not insects",
+              "Moths are often active at night",
+              "Moths never have wings"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Desert adaptations help animals like camels survive with ___.",
+            "q": "Butterflies and moths both begin life as a ___.",
             "options": [
-              "No sunlight at all",
-              "Constant rain",
-              "Extreme cold only",
-              "Very little water"
+              "Kitten",
+              "Chick",
+              "Tadpole",
+              "Caterpillar"
             ],
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "worksheet": [
+          {
+            "prompt": "When do butterflies usually fly?",
+            "answers": [
+              "during the day",
+              "daytime"
+            ]
+          },
+          {
+            "prompt": "When do moths usually fly?",
+            "answers": [
+              "at night",
+              "nighttime"
+            ]
+          },
+          {
+            "prompt": "Are butterflies and moths both insects?",
+            "answers": [
+              "yes",
+              "yes they are"
+            ]
+          }
+        ],
+        "topic": "Classification of Living Things (Basic)"
       },
       {
         "subject": "SocialStudies",
-        "title": "Fair Trade: Buying Products That Help Others",
-        "summary": "Grade 2 Social Studies strand: fair trade means buying products, like coffee or chocolate, that are made in ways that pay workers fairly and protect the environment.",
-        "resourceLabel": "YouTube: Fair Trade: Buying Products That Help Others",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fair%20Trade%3A%20Buying%20Products%20That%20Help%20Others%20grade%202%20educational",
+        "title": "Thanksgiving: A Time to Give Thanks",
+        "summary": "Students learn that Thanksgiving is a Canadian holiday in the fall when families gather together to share a meal and give thanks for the good things in their lives.",
+        "resourceLabel": "YouTube: Thanksgiving: A Time to Give Thanks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Thanksgiving%3A%20A%20Time%20to%20Give%20Thanks%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does fair trade mean?",
+            "q": "In what season does Canadian Thanksgiving take place?",
             "options": [
-              "Buying the cheapest product always",
-              "Buying products made in ways that pay workers fairly",
-              "Ignoring how products are made",
-              "Only buying products from one country"
+              "Winter",
+              "Fall",
+              "Spring",
+              "Summer"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these might have a fair trade label?",
+            "q": "What do families often do together on Thanksgiving?",
             "options": [
-              "Coffee or chocolate",
-              "A rock",
-              "A shadow",
-              "A cloud"
+              "Share a meal and give thanks",
+              "Go ice skating",
+              "Build snowmen",
+              "Plant a garden"
             ],
             "answer": 0
           },
           {
-            "q": "Why might someone choose to buy fair trade products?",
+            "q": "What is the main idea of Thanksgiving?",
             "options": [
-              "To harm workers on purpose",
-              "It has no purpose",
-              "Fair trade does not exist",
-              "To support fair pay and good conditions for workers"
+              "Giving thanks for good things in our lives",
+              "Buying new toys",
+              "Sleeping all day",
+              "Cleaning the whole house"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is often part of a Thanksgiving celebration?",
+            "options": [
+              "Wearing costumes to trick or treat",
+              "A family gathering with a special meal",
+              "Watching fireworks at midnight",
+              "Giving out valentines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Thanksgiving reminds us to feel ___ for the good things we have.",
+            "options": [
+              "Afraid",
+              "Angry",
+              "Bored",
+              "Thankful"
             ],
             "answer": 3
-          },
-          {
-            "q": "Fair trade often also considers ___.",
-            "options": [
-              "Increasing pollution",
-              "Protecting the environment",
-              "Making products more wasteful",
-              "Ignoring nature completely"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Choosing fair trade products is one way to be a ___.",
-            "options": [
-              "Careless shopper",
-              "Responsible consumer",
-              "Unfair trader",
-              "Wasteful buyer"
-            ],
-            "answer": 1
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "worksheet": [
+          {
+            "prompt": "What season does Canadian Thanksgiving happen in?",
+            "answers": [
+              "fall",
+              "autumn"
+            ]
+          },
+          {
+            "prompt": "Name one thing families might do together on Thanksgiving, like sharing a meal.",
+            "answers": [
+              "share a meal",
+              "eat together",
+              "give thanks"
+            ]
+          },
+          {
+            "prompt": "Is Thanksgiving a time to give thanks for good things in our lives?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Celebrations & Traditions (Basic)"
       }
     ]
   },
@@ -38229,122 +38919,167 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Authors Craft: Repetition for Emphasis",
-        "summary": "Grade 2 Language strand: authors sometimes repeat words or phrases on purpose to emphasize an idea or create a rhythm, such as repeating never give up, never give up.",
-        "resourceLabel": "YouTube: Authors Craft: Repetition for Emphasis",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Authors%20Craft%3A%20Repetition%20for%20Emphasis%20grade%202%20educational",
+        "title": "Punctuation: Periods at the End of a Sentence",
+        "summary": "Students learn that a sentence usually ends with a small dot called a period, which tells a reader to stop and pause before starting the next sentence.",
+        "resourceLabel": "YouTube: Punctuation: Periods at the End of a Sentence",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Periods%20at%20the%20End%20of%20a%20Sentence%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Why might an author repeat a word or phrase in a story?",
+            "q": "What small dot do we put at the end of a telling sentence?",
             "options": [
-              "To emphasize an important idea",
-              "By accident every time",
-              "To make the story shorter",
-              "To confuse the reader"
+              "A comma",
+              "A question mark",
+              "An exclamation mark",
+              "A period"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly ends with a period?",
+            "options": [
+              "I like dogs",
+              "I like dogs?",
+              "I like dogs.",
+              "I like dogs!"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a period tell a reader to do?",
+            "options": [
+              "Start singing",
+              "Read louder",
+              "Skip the sentence",
+              "Stop and pause before the next sentence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these sentences is missing an ending mark?",
+            "options": [
+              "The sun is hot",
+              "The sun is hot.",
+              "The sun is hot!",
+              "Is the sun hot?"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these shows repetition for emphasis?",
+            "q": "A period is used at the end of a ___.",
             "options": [
-              "She walked to school.",
-              "Run, run, run as fast as you can!",
-              "The dog ran quickly.",
-              "It was a sunny day."
+              "Story title",
+              "Telling sentence",
+              "Book cover",
+              "Character name"
             ],
             "answer": 1
-          },
-          {
-            "q": "What effect can repetition have on a reader?",
-            "options": [
-              "It has no effect",
-              "It removes all meaning",
-              "It can create rhythm and emphasize meaning",
-              "It always makes writing boring"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Repetition is a tool used mainly in ___.",
-            "options": [
-              "Math equations only",
-              "Phone numbers",
-              "Writing and poetry",
-              "Weather reports only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which phrase uses repetition to build excitement?",
-            "options": [
-              "Faster, faster, faster we go!",
-              "The room was empty.",
-              "It was quiet.",
-              "The car moved."
-            ],
-            "answer": 0
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What small dot do we put at the end of a telling sentence?",
+            "answers": [
+              "period",
+              "a period"
+            ]
+          },
+          {
+            "prompt": "Look at the sentence I see a cat. What mark comes right after the word cat?",
+            "answers": [
+              "period",
+              ".",
+              "a period"
+            ]
+          },
+          {
+            "prompt": "Does a period tell a reader to stop and pause?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Grammar: Sentence Structure"
       },
       {
         "subject": "Math",
-        "title": "Tessellations: Shapes That Tile Without Gaps",
-        "summary": "Grade 2 Math strand: a tessellation is a pattern of shapes, like squares or triangles, that fit together perfectly with no gaps or overlaps.",
-        "resourceLabel": "YouTube: Tessellations: Shapes That Tile Without Gaps",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Tessellations%3A%20Shapes%20That%20Tile%20Without%20Gaps%20grade%202%20educational",
+        "title": "Estimating Length: About How Long Is It?",
+        "summary": "Students practise estimating, or making a careful guess, about how long an object is before measuring it, such as guessing how many blocks long a book might be.",
+        "resourceLabel": "YouTube: Estimating Length: About How Long Is It?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Length%3A%20About%20How%20Long%20Is%20It%3F%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a tessellation?",
+            "q": "What does it mean to estimate the length of an object?",
             "options": [
-              "A single shape alone",
-              "Shapes that fit together with no gaps or overlaps",
-              "A type of graph",
-              "A kind of number"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which shape can tessellate easily to cover a floor with no gaps?",
-            "options": [
-              "None of these can tessellate",
-              "A shape with curves only",
-              "Square",
-              "A random blob"
+              "To guess without any thought at all",
+              "To ignore the object completely",
+              "To make a careful guess before measuring exactly",
+              "To measure something perfectly every time"
             ],
             "answer": 2
           },
           {
-            "q": "Why might tessellations be used in floor tiles?",
+            "q": "If you estimate a pencil is about 3 blocks long, what have you done?",
             "options": [
-              "They fit together perfectly with no wasted space",
-              "They cannot be repeated",
-              "They are only used once",
-              "They always leave big gaps"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these shapes tessellates well?",
-            "options": [
-              "A random curved blob",
-              "A triangle",
-              "An oval",
-              "A single point"
+              "Changed the pencils real length",
+              "Made a careful guess about its length",
+              "Measured it perfectly",
+              "Ignored the pencil"
             ],
             "answer": 1
           },
           {
-            "q": "A pattern with no gaps or overlaps between repeating shapes is called a ___.",
+            "q": "Why might estimating length be a useful skill?",
             "options": [
-              "Perimeter",
-              "Median",
-              "Tessellation",
-              "Fraction"
+              "It helps us make a reasonable guess quickly before measuring exactly",
+              "Estimating always gives the exact same answer as measuring",
+              "This concept has no connection to measurement",
+              "Estimating is never useful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is more likely to be a good estimate for the length of a crayon?",
+            "options": [
+              "About 2 blocks",
+              "About 2000 blocks",
+              "About 200 blocks",
+              "About 0 blocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After estimating an objects length, what can we do to check how close our guess was?",
+            "options": [
+              "Throw the object away",
+              "Guess again without measuring",
+              "Measure the object exactly",
+              "Ignore the object forever"
             ],
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "worksheet": [
+          {
+            "prompt": "What word describes making a careful guess about how long something is?",
+            "answers": [
+              "estimating",
+              "estimate"
+            ]
+          },
+          {
+            "prompt": "If you estimate a book is about 5 blocks long, is that a careful guess or an exact answer?",
+            "answers": [
+              "a careful guess",
+              "guess"
+            ]
+          },
+          {
+            "prompt": "Should we estimate before or after we measure something exactly?",
+            "answers": [
+              "before"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -38894,60 +39629,82 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Sir John A Macdonald: Canadas First Prime Minister",
-        "summary": "Grade 2 Social Studies strand: Sir John A Macdonald became Canadas first prime minister in 1867, leading the new country after Confederation.",
-        "resourceLabel": "YouTube: Sir John A Macdonald: Canadas First Prime Minister",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Sir%20John%20A%20Macdonald%3A%20Canadas%20First%20Prime%20Minister%20grade%202%20educational",
+        "title": "Our Prime Minister: Leading Our Country",
+        "summary": "Students learn that the Prime Minister is the leader chosen to help make important decisions for the whole country of Canada.",
+        "resourceLabel": "YouTube: Our Prime Minister: Leading Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Prime%20Minister%3A%20Leading%20Our%20Country%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who was Canadas first prime minister?",
+            "q": "What do we call the leader who helps make important decisions for all of Canada?",
             "options": [
-              "A premier",
-              "Terry Fox",
-              "A mayor",
-              "Sir John A Macdonald"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In what year did Sir John A Macdonald become prime minister?",
-            "options": [
-              "1867",
-              "2000",
-              "1965",
-              "1812"
+              "The Prime Minister",
+              "The Farmer",
+              "The Librarian",
+              "The Mayor"
             ],
             "answer": 0
           },
           {
-            "q": "What major event happened around the same time he became prime minister?",
+            "q": "How is the Prime Minister different from a mayor?",
             "options": [
-              "Confederation",
-              "A school opening",
-              "A snowstorm",
-              "A hockey championship"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the main job of a prime minister?",
-            "options": [
-              "Leading one street",
-              "Leading one town",
-              "Leading the whole country",
-              "Leading one school"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why do students learn about Canadas first prime minister?",
-            "options": [
-              "It has no importance",
-              "It only matters in other countries",
-              "It is a made-up story",
-              "To understand how Canada was led as a new country"
+              "A mayor leads the whole country",
+              "They have the exact same job",
+              "Neither one leads anything",
+              "The Prime Minister leads the whole country while a mayor leads a town or city"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which of these best describes the job of the Prime Minister?",
+            "options": [
+              "Growing food on a farm",
+              "Helping make important decisions for Canada",
+              "Delivering mail across town",
+              "Teaching kindergarten class"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does the Prime Minister help make decisions for our country?",
+            "options": [
+              "Nowhere at all",
+              "Only in one small town",
+              "In another country only",
+              "In Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about the Prime Minister helps us understand more about our ___.",
+            "options": [
+              "Favourite foods",
+              "Country",
+              "Favourite games",
+              "Weather"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the leader who helps make important decisions for all of Canada?",
+            "answers": [
+              "Prime Minister",
+              "the Prime Minister"
+            ]
+          },
+          {
+            "prompt": "Is a mayor the leader of a town, or the leader of the whole country?",
+            "answers": [
+              "a town",
+              "town"
+            ]
+          },
+          {
+            "prompt": "Does the Prime Minister help make decisions for the whole country?",
+            "answers": [
+              "yes"
+            ]
           }
         ]
       }
@@ -39138,63 +39895,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Bank of Canada: Where Our Money Comes From",
-        "summary": "Grade 2 Social Studies strand: the Bank of Canada is the national bank that designs and issues Canadian money and helps manage the countrys economy.",
-        "resourceLabel": "YouTube: The Bank of Canada: Where Our Money Comes From",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Bank%20of%20Canada%3A%20Where%20Our%20Money%20Comes%20From%20grade%202%20educational",
+        "title": "Goods and Services: What People Make and Do",
+        "summary": "Students learn the difference between goods, which are things people make or grow, and services, which are helpful jobs people do for others.",
+        "resourceLabel": "YouTube: Goods and Services: What People Make and Do",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Goods%20and%20Services%3A%20What%20People%20Make%20and%20Do%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does the Bank of Canada do?",
+            "q": "What do we call things that people make or grow, like bread or toys?",
             "options": [
-              "Delivers mail",
-              "Designs and issues Canadian money",
-              "Sells groceries",
-              "Teaches school"
+              "Goods",
+              "Habitats",
+              "Services",
+              "Laws"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call helpful jobs people do for others, like fixing a car?",
+            "options": [
+              "Services",
+              "Fossils",
+              "Habitats",
+              "Goods"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a good?",
+            "options": [
+              "A doctor visit",
+              "A bus ride",
+              "A haircut",
+              "A loaf of bread"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a service?",
+            "options": [
+              "A book",
+              "A haircut from a hairdresser",
+              "A bag of apples",
+              "A toy car"
             ],
             "answer": 1
           },
           {
-            "q": "Is the Bank of Canada the same as a regular bank you visit in town?",
+            "q": "Farmers who grow food and hairdressers who cut hair both help our community by providing ___.",
             "options": [
-              "It does not exist",
-              "It only exists in one city",
-              "No, it has a different, national role",
-              "Yes, exactly the same"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is a job of the Bank of Canada?",
-            "options": [
-              "Helping manage the countrys economy",
-              "Growing crops",
-              "Coaching sports teams",
-              "Building roads"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Where does the design of Canadian bills and coins come from?",
-            "options": [
-              "The Bank of Canada and the Royal Canadian Mint",
-              "No one designs them",
-              "A random guess",
-              "Another country"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Learning about the Bank of Canada helps students understand ___.",
-            "options": [
-              "A made-up story",
-              "Nothing about money",
-              "Only foreign banks",
-              "How money is managed in the country"
+              "Only stories",
+              "Laws only",
+              "Only games",
+              "Goods and services"
             ],
             "answer": 3
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "worksheet": [
+          {
+            "prompt": "What word describes things that people make or grow, like bread or toys?",
+            "answers": [
+              "goods"
+            ]
+          },
+          {
+            "prompt": "What word describes helpful jobs people do for others, like cutting hair?",
+            "answers": [
+              "services"
+            ]
+          },
+          {
+            "prompt": "Is a loaf of bread an example of a good or a service?",
+            "answers": [
+              "good",
+              "a good"
+            ]
+          }
+        ],
+        "topic": "Economy, Trade & Currency"
       }
     ]
   },
@@ -39508,123 +40286,168 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Comparing Fractions with the Same Numerator",
-        "summary": "Grade 2 Math strand: when two fractions have the same numerator, the fraction with the smaller denominator is greater, since its parts are larger.",
-        "resourceLabel": "YouTube: Comparing Fractions with the Same Numerator",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Fractions%20with%20the%20Same%20Numerator%20grade%202%20educational",
+        "title": "Repeating Patterns: Predicting What Comes Next",
+        "summary": "Students practise looking at a repeating pattern, such as circle, square, circle, square, and predicting which shape or colour should come next in the sequence.",
+        "resourceLabel": "YouTube: Repeating Patterns: Predicting What Comes Next",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%3A%20Predicting%20What%20Comes%20Next%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Which is greater, 1/3 or 1/5?",
+            "q": "In the pattern star, moon, star, moon, what comes next?",
             "options": [
-              "They are equal",
-              "1/3",
-              "Cannot tell",
-              "1/5"
+              "Sun",
+              "Cloud",
+              "Star",
+              "Moon"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Which is greater, 2/4 or 2/8?",
+            "q": "In the pattern 1, 2, 1, 2, 1, what comes next?",
             "options": [
-              "2/8",
-              "2/4",
-              "They are equal",
-              "Cannot tell"
+              "0",
+              "3",
+              "2",
+              "1"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "When two fractions have the same numerator, which one is greater?",
+            "q": "What do we call guessing what comes next in a repeating pattern?",
             "options": [
-              "The one with the smaller denominator",
-              "Neither is greater",
-              "They are always equal",
-              "The one with the larger denominator"
+              "Predicting",
+              "Ignoring",
+              "Erasing",
+              "Forgetting"
             ],
             "answer": 0
           },
           {
-            "q": "Which is greater, 3/5 or 3/10?",
+            "q": "In the pattern green, green, yellow, green, green, yellow, what comes next?",
             "options": [
-              "They are equal",
-              "3/5",
-              "3/10",
-              "Cannot tell"
+              "Green",
+              "Yellow",
+              "Red",
+              "Blue"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "A smaller denominator with the same numerator means ___.",
+            "q": "Predicting what comes next in a pattern helps us understand that patterns ___.",
             "options": [
-              "Smaller parts always",
-              "No difference at all",
-              "The fraction equals zero",
-              "Larger, fewer parts, so each part is bigger"
+              "Never repeat at all",
+              "Have no order at all",
+              "Are always random",
+              "Repeat in a predictable way"
             ],
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "worksheet": [
+          {
+            "prompt": "In the pattern circle, square, circle, square, what comes next?",
+            "answers": [
+              "circle",
+              "a circle"
+            ]
+          },
+          {
+            "prompt": "In the pattern red, blue, red, blue, red, what comes next?",
+            "answers": [
+              "blue",
+              "a blue"
+            ]
+          },
+          {
+            "prompt": "What do we call guessing what comes next in a pattern?",
+            "answers": [
+              "predicting",
+              "prediction"
+            ]
+          }
+        ],
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
-        "title": "Genetics Basics: Why We Look Like Our Family",
-        "summary": "Grade 2 Science strand: living things inherit traits, like eye colour or height, from their parents, which is why children often look similar to their families.",
-        "resourceLabel": "YouTube: Genetics Basics: Why We Look Like Our Family",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%20Basics%3A%20Why%20We%20Look%20Like%20Our%20Family%20grade%202%20educational",
+        "title": "Where Our Tap Water Comes From",
+        "summary": "Kindergarten Science strand: the water that comes from our tap travels through pipes from a treatment plant that cleans water from rivers, lakes, or underground.",
+        "resourceLabel": "YouTube: Where Our Tap Water Comes From",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Our%20Tap%20Water%20Comes%20From%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What are traits passed down from parents called?",
+            "q": "What cleans water before it reaches our tap?",
             "options": [
-              "Random traits",
-              "Borrowed traits",
-              "Fake traits",
-              "Inherited traits"
+              "A library",
+              "A toy factory",
+              "A water treatment plant",
+              "A bakery"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Give an example of a trait a child might inherit from a parent.",
+            "q": "How does clean water usually travel to our homes?",
             "options": [
-              "A school subject",
-              "Eye colour",
-              "Favourite toy",
-              "A pet"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why do children often look similar to their parents?",
-            "options": [
-              "Children copy their parents on purpose",
-              "It is always a coincidence",
-              "There is no reason",
-              "They inherit traits from their parents"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these is an inherited trait, not a learned skill?",
-            "options": [
-              "Hair colour",
-              "Playing a sport",
-              "Speaking a language",
-              "Riding a bike"
+              "Through underground pipes",
+              "By hand delivery",
+              "It does not travel at all",
+              "By airplane"
             ],
             "answer": 0
           },
           {
-            "q": "Inherited traits come from a living things ___.",
+            "q": "Where might a treatment plant get water from originally?",
             "options": [
-              "Friends",
-              "Teachers",
-              "Parents",
-              "Neighbours"
+              "From nowhere at all",
+              "Rivers, lakes, or underground sources",
+              "Only from the ocean",
+              "Only from clouds directly"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for water to be treated before we drink it?",
+            "options": [
+              "To make sure it is clean and safe",
+              "It tastes better dirty",
+              "It is not important",
+              "Treatment makes no difference"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which best describes the journey of tap water?",
+            "options": [
+              "Water never needs cleaning",
+              "Water appears instantly with no process",
+              "Water is delivered by truck only",
+              "Source water is cleaned, then piped to homes"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Genetics & Heredity"
+        "worksheet": [
+          {
+            "prompt": "Where does tap water come from before it reaches our home?",
+            "answers": [
+              "a water treatment plant",
+              "treatment plant"
+            ]
+          },
+          {
+            "prompt": "What does a water treatment plant do?",
+            "answers": [
+              "cleans the water",
+              "makes water safe to drink"
+            ]
+          },
+          {
+            "prompt": "How does water get to our home?",
+            "answers": [
+              "through pipes",
+              "pipes"
+            ]
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -39693,243 +40516,332 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Debate Writing: Presenting Two Sides of an Argument",
-        "summary": "Grade 2 Language strand: debate writing presents two different sides of an argument, helping readers understand different viewpoints before forming their own opinion.",
-        "resourceLabel": "YouTube: Debate Writing: Presenting Two Sides of an Argument",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Debate%20Writing%3A%20Presenting%20Two%20Sides%20of%20an%20Argument%20grade%202%20educational",
+        "title": "Word Families: -ap Words",
+        "summary": "Students explore the -ap word family, learning that changing the first letter of words like cap, map, and tap creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -ap Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ap%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does debate writing present?",
+            "q": "Which word rhymes with cap?",
             "options": [
-              "A made-up fantasy story",
-              "Two different sides of an argument",
-              "Only one opinion with no other side",
-              "A recipe"
+              "Dog",
+              "Sun",
+              "Cup",
+              "Map"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Change the c in cap to n. What new word do you make?",
+            "options": [
+              "Nut",
+              "Net",
+              "Nod",
+              "Nap"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words is part of the -ap word family?",
+            "options": [
+              "Top",
+              "Tap",
+              "Tip",
+              "Tub"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to consider both sides of an argument?",
+            "q": "Words in the -ap family all end with the same ___.",
             "options": [
-              "It helps readers understand different viewpoints",
-              "It confuses readers on purpose",
-              "It replaces facts with opinions only",
-              "It has no use"
+              "Colour",
+              "Number",
+              "Sound",
+              "Picture"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Which is an example of presenting two sides of a topic?",
+            "q": "Which word does not belong in the -ap word family?",
             "options": [
-              "Some people think recess should be longer, while others disagree.",
-              "Recess is definitely the best part of school.",
-              "I love recess.",
-              "Recess starts at noon."
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Debate writing is often used to help people ___.",
-            "options": [
-              "Form their own opinion after hearing both sides",
-              "Ignore all opinions",
-              "Avoid thinking about a topic",
-              "Only hear one side of a topic"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which skill is important when writing about both sides of an argument?",
-            "options": [
-              "Refusing to explain either side",
-              "Only supporting one side unfairly",
-              "Being fair to each viewpoint",
-              "Ignoring all evidence"
+              "Cap",
+              "Tap",
+              "Sun",
+              "Map"
             ],
             "answer": 2
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "worksheet": [
+          {
+            "prompt": "Change the c in cap to m. What new word do you make?",
+            "answers": [
+              "map"
+            ]
+          },
+          {
+            "prompt": "Change the m in map to t. What new word do you make?",
+            "answers": [
+              "tap"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with cap, map, and tap.",
+            "answers": [
+              "nap",
+              "lap",
+              "sap",
+              "clap"
+            ]
+          }
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
-        "title": "Data: Creating a Double Bar Graph",
-        "summary": "Grade 2 Math strand: a double bar graph shows two sets of data side by side for each category, making it easy to compare them.",
-        "resourceLabel": "YouTube: Data: Creating a Double Bar Graph",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Creating%20a%20Double%20Bar%20Graph%20grade%202%20educational",
+        "title": "Math Review: Place Value, Facts, and Patterns",
+        "summary": "Students review recent Math skills: tens and ones, fact families, composing shapes, sorting data, skip counting by 5s, adding three numbers, estimating length, and repeating patterns.",
+        "resourceLabel": "YouTube: Math Review: Place Value, Facts, and Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Place%20Value%2C%20Facts%2C%20and%20Patterns%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does a double bar graph show?",
+            "q": "How many tens are in the number 12?",
             "options": [
-              "No data at all",
-              "Only one set of data",
-              "Only colours",
-              "Two sets of data side by side"
+              "0",
+              "2",
+              "3",
+              "1"
             ],
             "answer": 3
           },
           {
-            "q": "Why might someone use a double bar graph?",
+            "q": "If 2 plus 5 equals 7, what does 7 minus 5 equal?",
             "options": [
-              "It has no purpose",
-              "To make a graph harder to read",
-              "To compare two sets of data easily",
-              "To hide information"
+              "5",
+              "2",
+              "0",
+              "7"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "If a double bar graph compares boys and girls favourite fruit, how many bars would there be for each fruit?",
+            "q": "If you skip count by 5s starting at 5, what comes after 15?",
             "options": [
-              "Two",
-              "Three",
-              "Four",
-              "One"
+              "20",
+              "16",
+              "10",
+              "25"
             ],
             "answer": 0
           },
           {
-            "q": "A double bar graph is especially useful for ___.",
+            "q": "What is 2 plus 2 plus 2?",
             "options": [
-              "Hiding data",
-              "Avoiding comparisons",
-              "Comparing two groups at once",
-              "Showing only one number"
+              "4",
+              "5",
+              "6",
+              "8"
             ],
             "answer": 2
           },
           {
-            "q": "In a double bar graph, each category usually has ___ bars.",
+            "q": "In the pattern star, moon, star, moon, what comes next?",
             "options": [
-              "Two",
-              "Zero",
-              "Ten",
-              "One"
+              "Cloud",
+              "Moon",
+              "Sun",
+              "Star"
             ],
-            "answer": 0
+            "answer": 3
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "How many tens are in the number 14?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 4 equal?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 2 plus 3 plus 1?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
-        "title": "Simple Chemical Reactions: Baking Soda and Vinegar",
-        "summary": "Grade 2 Science strand: mixing baking soda and vinegar causes a chemical reaction that creates bubbles of gas, showing how mixing certain materials can create something new.",
-        "resourceLabel": "YouTube: Simple Chemical Reactions: Baking Soda and Vinegar",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Chemical%20Reactions%3A%20Baking%20Soda%20and%20Vinegar%20grade%202%20educational",
+        "title": "Animal Mimicry: Looking Like Something Else",
+        "summary": "Kindergarten Science strand: some animals use mimicry, looking or acting like a different, often more dangerous animal, to help keep themselves safe.",
+        "resourceLabel": "YouTube: Animal Mimicry: Looking Like Something Else",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Mimicry%3A%20Looking%20Like%20Something%20Else%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What happens when you mix baking soda and vinegar?",
+            "q": "What is animal mimicry?",
             "options": [
-              "They turn into ice",
-              "Nothing happens at all",
-              "They disappear completely",
-              "They react and create bubbles of gas"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is created when baking soda and vinegar react?",
-            "options": [
-              "A rainbow",
-              "A new solid rock",
-              "Sound only",
-              "Bubbles of gas"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is mixing baking soda and vinegar an example of a chemical reaction?",
-            "options": [
-              "Yes",
-              "Only sometimes",
-              "Never",
-              "No"
+              "An animal looking or acting like a different animal",
+              "An animal that never moves",
+              "An animal that only eats plants",
+              "A type of weather"
             ],
             "answer": 0
           },
           {
-            "q": "A chemical reaction happens when materials combine to ___.",
+            "q": "Why might a harmless animal use mimicry?",
             "options": [
-              "Stay exactly the same",
-              "Disappear with no trace",
-              "Become invisible",
-              "Create something new"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these is a sign that a chemical reaction is happening?",
-            "options": [
-              "Complete silence with no change",
-              "Bubbles or fizzing",
-              "Nothing changing at all",
-              "The object turning invisible"
-            ],
-            "answer": 1
-          }
-        ],
-        "topic": "Chemical Reactions"
-      },
-      {
-        "subject": "SocialStudies",
-        "title": "Truth and Reconciliation Day: Learning and Remembering",
-        "summary": "Grade 2 Social Studies strand: Truth and Reconciliation Day, on September 30, is a day when Canadians learn about and remember Indigenous children and communities, and work toward a fairer future together.",
-        "resourceLabel": "YouTube: Truth and Reconciliation Day: Learning and Remembering",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Truth%20and%20Reconciliation%20Day%3A%20Learning%20and%20Remembering%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "When is Truth and Reconciliation Day observed in Canada?",
-            "options": [
-              "September 30",
-              "February 14",
-              "July 1",
-              "December 25"
+              "To look dangerous and scare away predators",
+              "To fly higher",
+              "To become invisible completely",
+              "To grow bigger permanently"
             ],
             "answer": 0
           },
           {
-            "q": "What is the purpose of Truth and Reconciliation Day?",
+            "q": "How is mimicry different from camouflage?",
             "options": [
-              "To learn about and remember Indigenous children and communities",
-              "To ignore Canadian history",
-              "To mark the start of school",
-              "To celebrate a sports team"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What colour is often worn on this day to show support and remembrance?",
-            "options": [
-              "Purple",
-              "Blue",
-              "Orange",
-              "Green"
+              "Mimicry only happens underwater",
+              "Camouflage only happens in mimicry",
+              "Mimicry copies another animals look, camouflage blends into surroundings",
+              "They are the exact same thing"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it important for schools to teach about Truth and Reconciliation Day?",
+            "q": "Which is an example of mimicry?",
             "options": [
-              "To help students understand history and work toward fairness",
-              "Only adults need to know about it",
-              "It is not important",
-              "To avoid learning about Canada"
+              "A fish swimming in a school",
+              "A brown moth blending into tree bark",
+              "A polar bear being white like snow",
+              "A harmless insect looking like a stinging wasp"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Animal mimicry mainly helps an animal ___.",
+            "options": [
+              "Grow taller",
+              "Change colour permanently",
+              "Stay safer from danger",
+              "Fly faster"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is animal mimicry?",
+            "answers": [
+              "looking like a different animal",
+              "copying how another animal looks"
+            ]
+          },
+          {
+            "prompt": "Why might an animal use mimicry?",
+            "answers": [
+              "to stay safe from predators",
+              "to look dangerous"
+            ]
+          },
+          {
+            "prompt": "Is mimicry the same as camouflage?",
+            "answers": [
+              "no",
+              "no it is different, it copies another animal"
+            ]
+          }
+        ],
+        "topic": "Animals & Wildlife (Basic)"
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Pharmacist: Helping Us Stay Healthy",
+        "summary": "Students learn about the job of a pharmacist, a community helper who works at a pharmacy and helps prepare the medicine that doctors say people need.",
+        "resourceLabel": "YouTube: Our Pharmacist: Helping Us Stay Healthy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Pharmacist%3A%20Helping%20Us%20Stay%20Healthy%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a helper who prepares medicine at a pharmacy?",
+            "options": [
+              "A librarian",
+              "A pharmacist",
+              "A farmer",
+              "A mayor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a pharmacist usually work?",
+            "options": [
+              "In a library",
+              "At a pharmacy",
+              "On a farm",
+              "At a museum"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a pharmacist an important community helper?",
+            "options": [
+              "They help prepare medicine that keeps people healthy",
+              "They build houses",
+              "They deliver mail",
+              "They grow food"
             ],
             "answer": 0
           },
           {
-            "q": "Truth and Reconciliation Day encourages Canadians to work toward ___.",
+            "q": "Who usually tells a pharmacist what medicine a person needs?",
             "options": [
-              "Avoiding important conversations",
-              "A fairer future together",
-              "Ignoring each other",
-              "Forgetting the past completely"
+              "A crossing guard",
+              "A doctor",
+              "A farmer",
+              "A librarian"
             ],
             "answer": 1
+          },
+          {
+            "q": "A pharmacist helps our community stay ___.",
+            "options": [
+              "Confused",
+              "Unsafe",
+              "Healthy",
+              "Hungry"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Human Rights & Social Movements"
+        "worksheet": [
+          {
+            "prompt": "What do we call a helper who prepares medicine at a pharmacy?",
+            "answers": [
+              "pharmacist"
+            ]
+          },
+          {
+            "prompt": "Where does a pharmacist usually work?",
+            "answers": [
+              "pharmacy",
+              "a pharmacy"
+            ]
+          },
+          {
+            "prompt": "Does a pharmacist help people stay healthy?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -39939,243 +40851,327 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Adages and Proverbs: Wise Sayings",
-        "summary": "Grade 2 Language strand: adages and proverbs are short, wise sayings passed down over time, such as look before you leap, that teach a lesson in just a few words.",
-        "resourceLabel": "YouTube: Adages and Proverbs: Wise Sayings",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Adages%20and%20Proverbs%3A%20Wise%20Sayings%20grade%202%20educational",
+        "title": "Word Families: -in Words",
+        "summary": "Students explore the -in word family, learning that changing the first letter of words like pin, win, and fin creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -in Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-in%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is an adage or proverb?",
+            "q": "Which word rhymes with pin?",
             "options": [
-              "A math equation",
-              "A short, wise saying that teaches a lesson",
-              "A type of punctuation",
-              "A characters name"
+              "Dog",
+              "Win",
+              "Cup",
+              "Sun"
             ],
             "answer": 1
           },
           {
-            "q": "What does the proverb look before you leap teach us?",
+            "q": "Change the p in pin to f. What new word do you make?",
             "options": [
-              "To never look at anything",
-              "To leap without thinking",
-              "To jump as high as possible",
-              "To think carefully before acting"
+              "Fun",
+              "Fin",
+              "Fan",
+              "Fig"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words is part of the -in word family?",
+            "options": [
+              "Bat",
+              "Bit",
+              "Bin",
+              "But"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Words in the -in family all end with the same ___.",
+            "options": [
+              "Picture",
+              "Colour",
+              "Number",
+              "Sound"
             ],
             "answer": 3
           },
           {
-            "q": "Why do people use proverbs?",
+            "q": "Which word does not belong in the -in word family?",
             "options": [
-              "To confuse listeners on purpose",
-              "To share wisdom in a short, memorable way",
-              "To replace all other kinds of speech",
-              "They have no meaning"
+              "Sun",
+              "Fin",
+              "Pin",
+              "Win"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these is an example of a proverb?",
-            "options": [
-              "The sky is blue.",
-              "Better late than never.",
-              "What time is it?",
-              "I have a red bike."
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Proverbs are often passed down through ___.",
-            "options": [
-              "A weather report",
-              "A math textbook only",
-              "A single scientific study",
-              "Generations of people"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "worksheet": [
+          {
+            "prompt": "Change the p in pin to w. What new word do you make?",
+            "answers": [
+              "win"
+            ]
+          },
+          {
+            "prompt": "Change the w in win to f. What new word do you make?",
+            "answers": [
+              "fin"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with pin, win, and fin.",
+            "answers": [
+              "bin",
+              "chin",
+              "tin",
+              "din"
+            ]
+          }
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
-        "title": "Fractions Greater Than One: Introducing Mixed Numbers",
-        "summary": "Grade 2 Math strand: a mixed number combines a whole number and a fraction, such as 1 and 1/2, to show an amount greater than one whole.",
-        "resourceLabel": "YouTube: Fractions Greater Than One: Introducing Mixed Numbers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%20Greater%20Than%20One%3A%20Introducing%20Mixed%20Numbers%20grade%202%20educational",
+        "title": "Subitizing: Knowing Amounts Without Counting",
+        "summary": "Students practise subitizing, which means looking at a small group of dots or objects and knowing how many there are right away without counting one by one.",
+        "resourceLabel": "YouTube: Subitizing: Knowing Amounts Without Counting",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Knowing%20Amounts%20Without%20Counting%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a mixed number?",
+            "q": "What do we call knowing how many objects are in a group without counting one by one?",
             "options": [
-              "A decimal only",
-              "A whole number combined with a fraction",
-              "A whole number only",
-              "A fraction with no whole number"
+              "Sorting",
+              "Subitizing",
+              "Measuring",
+              "Erasing"
             ],
             "answer": 1
           },
           {
-            "q": "What does the mixed number 1 and 1/2 represent?",
+            "q": "If you instantly know a group of 2 dots has 2 without counting, what skill are you using?",
             "options": [
-              "Half of one whole only",
-              "One whole and half of another",
-              "Three halves as a whole number",
-              "Two wholes"
+              "Estimating length",
+              "Sorting",
+              "Subitizing",
+              "Skip counting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is subitizing a helpful math skill?",
+            "options": [
+              "It only works with big numbers",
+              "It replaces counting forever",
+              "It makes numbers disappear",
+              "It helps us know an amount quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which group size is easiest to subitize without counting?",
+            "options": [
+              "A group with no objects",
+              "A small group like 3",
+              "A huge group like 100",
+              "An invisible group"
             ],
             "answer": 1
           },
           {
-            "q": "If you have one whole pizza and half of another, how would you write this as a mixed number?",
+            "q": "Subitizing works best with ___ groups of objects.",
             "options": [
-              "1/2",
-              "1 and 1/2",
-              "2",
-              "3/2 only, no mixed form"
+              "Invisible",
+              "Enormous",
+              "Small",
+              "Moving"
             ],
-            "answer": 1
-          },
-          {
-            "q": "A mixed number is used when an amount is ___.",
-            "options": [
-              "Greater than one whole",
-              "Always exactly one",
-              "Never a fraction",
-              "Always less than one"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these is an example of a mixed number?",
-            "options": [
-              "1/4",
-              "2 and 1/4",
-              "0",
-              "4"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ],
-        "topic": "Fractions"
+        "worksheet": [
+          {
+            "prompt": "What do we call knowing how many objects are in a small group without counting?",
+            "answers": [
+              "subitizing"
+            ]
+          },
+          {
+            "prompt": "If you see a group of 3 dots arranged like a triangle, can you know it is 3 without counting?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one way subitizing can help us in math, like being faster at counting.",
+            "answers": [
+              "being faster",
+              "quick counting",
+              "saving time"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
-        "title": "The Layers of the Atmosphere: Air Above Us",
-        "summary": "Grade 2 Science strand: the atmosphere is made of layers of air surrounding the Earth, protecting us from the suns strong rays and giving us air to breathe.",
-        "resourceLabel": "YouTube: The Layers of the Atmosphere: Air Above Us",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Atmosphere%3A%20Air%20Above%20Us%20grade%202%20educational",
+        "title": "Science Review: Animals, Space, and Our Bodies",
+        "summary": "Kindergarten Science strand review: students revisit animal diets, fish, butterflies and moths, ocean tides, our sense of balance, constellations, losing teeth, tap water, and mimicry.",
+        "resourceLabel": "YouTube: Science Review: Animals, Space, and Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Space%2C%20and%20Our%20Bodies%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the atmosphere?",
+            "q": "An animal that eats only plants is called a ___.",
             "options": [
-              "A layer of rock",
-              "A kind of cloud only",
-              "Layers of air surrounding the Earth",
-              "A type of ocean"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the atmosphere give living things to breathe?",
-            "options": [
-              "Sand",
-              "Water",
-              "Sunlight only",
-              "Air"
+              "Omnivore",
+              "Carnivore",
+              "Predator",
+              "Herbivore"
             ],
             "answer": 3
           },
           {
-            "q": "How does the atmosphere help protect Earth?",
+            "q": "What do fish use to breathe underwater?",
             "options": [
-              "It has no protective purpose",
-              "It blocks some of the suns strong rays",
-              "It blocks all sunlight completely",
-              "It causes all storms"
+              "A nose",
+              "Gills",
+              "Lungs",
+              "Skin only"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these is part of the atmosphere?",
+            "q": "What is a constellation?",
             "options": [
-              "The core of the Earth",
-              "The rocky crust",
-              "The air we breathe",
-              "The ocean floor"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Without the atmosphere, Earth would not have ___ for living things to breathe.",
-            "options": [
-              "Gravity",
-              "Sound",
-              "Colour",
-              "Air"
-            ],
-            "answer": 3
-          }
-        ],
-        "topic": "Weather, Climate & Atmosphere"
-      },
-      {
-        "subject": "SocialStudies",
-        "title": "Our Charter of Rights and Freedoms: Protecting Our Rights",
-        "summary": "Grade 2 Social Studies strand: the Canadian Charter of Rights and Freedoms is a document that protects important rights for everyone in Canada, such as freedom of speech and equality.",
-        "resourceLabel": "YouTube: Our Charter of Rights and Freedoms: Protecting Our Rights",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Charter%20of%20Rights%20and%20Freedoms%3A%20Protecting%20Our%20Rights%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "What does the Charter of Rights and Freedoms protect?",
-            "options": [
-              "Important rights for everyone in Canada",
-              "Nothing important",
-              "Only the rights of adults",
-              "Only the rights of one city"
+              "A group of stars forming a pattern",
+              "A single bright star",
+              "A kind of cloud",
+              "A type of planet"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these is a right the Charter protects?",
+            "q": "What kind of teeth replace baby teeth?",
             "options": [
-              "The right to ignore rules",
-              "Freedom of speech",
-              "The right to be unfair",
-              "The right to skip school"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Charter of Rights and Freedoms important?",
-            "options": [
-              "It only protects a few people",
-              "It removes everyones rights",
-              "It has no importance",
-              "It helps protect fairness and rights for everyone"
+              "Baby teeth again",
+              "Plastic teeth",
+              "No new teeth at all",
+              "Adult teeth"
             ],
             "answer": 3
           },
           {
-            "q": "The Charter of Rights and Freedoms is part of ___.",
+            "q": "What is animal mimicry?",
             "options": [
-              "A foreign countrys rules",
-              "Canadian law",
-              "A school rulebook only",
-              "A fictional story"
+              "An animal that only eats plants",
+              "An animal looking or acting like a different animal",
+              "A type of weather",
+              "An animal that never moves"
             ],
             "answer": 1
-          },
-          {
-            "q": "Learning about the Charter helps students understand ___.",
-            "options": [
-              "Only rules for teachers",
-              "A made-up idea",
-              "Their rights as Canadians",
-              "Nothing useful"
-            ],
-            "answer": 2
           }
         ],
-        "topic": "Government & Civics"
+        "worksheet": [
+          {
+            "prompt": "An animal that eats only plants is called what?",
+            "answers": [
+              "a herbivore"
+            ]
+          },
+          {
+            "prompt": "What is a constellation?",
+            "answers": [
+              "a group of stars that forms a pattern"
+            ]
+          },
+          {
+            "prompt": "What replaces baby teeth?",
+            "answers": [
+              "adult teeth"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Garbage Collectors: Keeping Streets Tidy",
+        "summary": "Students learn about the job of a garbage collector, a community helper who picks up garbage and recycling from homes so streets and neighbourhoods stay clean.",
+        "resourceLabel": "YouTube: Our Garbage Collectors: Keeping Streets Tidy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Garbage%20Collectors%3A%20Keeping%20Streets%20Tidy%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a helper who picks up garbage from homes?",
+            "options": [
+              "A garbage collector",
+              "A librarian",
+              "A pharmacist",
+              "A farmer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the job of a garbage collector important for a community?",
+            "options": [
+              "It has no real purpose",
+              "It only happens once a year",
+              "It makes streets messier",
+              "It helps keep streets and neighbourhoods clean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a garbage collector pick up from homes, besides garbage?",
+            "options": [
+              "Books",
+              "Mail",
+              "Recycling",
+              "Medicine"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a neighbourhood look like without garbage collectors?",
+            "options": [
+              "Messy and full of trash",
+              "Full of flowers only",
+              "Perfectly clean forever",
+              "Exactly the same as always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Garbage collectors help keep our community ___.",
+            "options": [
+              "Loud",
+              "Confusing",
+              "Unsafe",
+              "Clean and tidy"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a helper who picks up garbage from homes?",
+            "answers": [
+              "garbage collector"
+            ]
+          },
+          {
+            "prompt": "Why is it helpful for garbage collectors to pick up trash regularly?",
+            "answers": [
+              "keeps streets clean",
+              "stays tidy"
+            ]
+          },
+          {
+            "prompt": "Do garbage collectors help keep our neighbourhood clean?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -40185,122 +41181,165 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Author Study: Learning About a Writers Style",
-        "summary": "Grade 2 Language strand: an author study looks closely at one writer, exploring the special style, topics, or techniques that make their books recognizable.",
-        "resourceLabel": "YouTube: Author Study: Learning About a Writers Style",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Author%20Study%3A%20Learning%20About%20a%20Writers%20Style%20grade%202%20educational",
+        "title": "Making New Words: Adding -er",
+        "summary": "Students learn that adding -er to some words, such as changing tall to taller or small to smaller, helps compare two things.",
+        "resourceLabel": "YouTube: Making New Words: Adding -er",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-er%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is an author study?",
+            "q": "Add -er to the word tall. What new word do you make?",
             "options": [
-              "A close look at one writer and their style",
-              "A study of maps",
-              "A study of weather patterns",
-              "A study of math facts"
+              "Taller",
+              "Tallier",
+              "Tallen",
+              "Tall"
             ],
             "answer": 0
           },
           {
-            "q": "What might students explore during an author study?",
+            "q": "Add -er to the word small. What new word do you make?",
             "options": [
-              "The price of the book",
-              "Random unrelated facts",
-              "Nothing about the author",
-              "The writers style, topics, and techniques"
+              "Smaller",
+              "Smallier",
+              "Smallen",
+              "Small"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is it helpful to study one author closely?",
+            "q": "Adding -er to a word like fast usually helps us ___.",
             "options": [
-              "It confuses readers on purpose",
-              "It helps readers notice patterns in their writing",
-              "It replaces reading their books",
-              "It has no benefit"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these might you notice during an author study?",
-            "options": [
-              "The number of pages only",
-              "The books price",
-              "The author often uses humour in their stories",
-              "The books exact weight"
+              "Name a colour",
+              "Tell time",
+              "Compare two things",
+              "Count objects"
             ],
             "answer": 2
           },
           {
-            "q": "An author study can help readers ___.",
+            "q": "Which word correctly compares two things using -er?",
             "options": [
-              "Understand what makes a writer unique",
-              "Only look at pictures",
-              "Avoid reading altogether",
-              "Ignore all books by that author"
+              "Faster",
+              "Fastier",
+              "Fasten",
+              "Fasting"
             ],
             "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses a word with -er to compare two dogs?",
+            "options": [
+              "The big dog is bigly the small dog",
+              "The big dog is bigness the small dog",
+              "The big dog is bigger than the small dog",
+              "The big dog is big than the small dog"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Add -er to the word tall. What new word do you make?",
+            "answers": [
+              "taller"
+            ]
+          },
+          {
+            "prompt": "Add -er to the word small. What new word do you make?",
+            "answers": [
+              "smaller"
+            ]
+          },
+          {
+            "prompt": "Does adding -er to a word often help us compare two things, like which is bigger?",
+            "answers": [
+              "yes"
+            ]
           }
         ]
       },
       {
         "subject": "Math",
-        "title": "Measurement: Converting Metres to Centimetres",
-        "summary": "Grade 2 Math strand: students convert between metres and centimetres, remembering that one metre equals one hundred centimetres.",
-        "resourceLabel": "YouTube: Measurement: Converting Metres to Centimetres",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Metres%20to%20Centimetres%20grade%202%20educational",
+        "title": "One-to-One Correspondence: Touching and Counting Carefully",
+        "summary": "Students practise one-to-one correspondence, touching each object exactly once while saying one number word, so the last number said tells how many objects there are in total.",
+        "resourceLabel": "YouTube: One-to-One Correspondence: Touching and Counting Carefully",
+        "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touching%20and%20Counting%20Carefully%20grade%202%20educational",
         "quiz": [
           {
-            "q": "How many centimetres are in 1 metre?",
+            "q": "What does it mean to use one-to-one correspondence while counting?",
             "options": [
-              "1000",
-              "50",
-              "100",
-              "10"
+              "Never touching the objects",
+              "Counting only the biggest object",
+              "Touching every object many times",
+              "Touching each object exactly once as you count"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "How many centimetres are in 2 metres?",
+            "q": "If you touch 4 toys once each while counting, what is the last number you say?",
             "options": [
-              "100",
-              "2000",
-              "200",
-              "20"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If an object is 150 centimetres long, how many metres is that?",
-            "options": [
-              "1.5 metres",
-              "15 metres",
-              "1 metre",
-              "150 metres"
+              "4",
+              "5",
+              "1",
+              "3"
             ],
             "answer": 0
           },
           {
-            "q": "To convert metres to centimetres, we ___.",
+            "q": "Why is touching each object only once important while counting?",
             "options": [
-              "Subtract 100",
-              "Add 100",
-              "Divide by 100",
-              "Multiply by 100"
+              "It has no effect on counting",
+              "It makes counting take longer for no reason",
+              "It changes how many objects there are",
+              "It helps you count accurately without mistakes"
             ],
             "answer": 3
           },
           {
-            "q": "How many centimetres are in 3 metres?",
+            "q": "If you skip touching one object while counting a group, what might happen?",
             "options": [
-              "3",
-              "30",
-              "3000",
-              "300"
+              "You will always get the right answer",
+              "Nothing changes at all",
+              "The objects will disappear",
+              "You might count one too few"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The last number word you say while counting objects one by one tells you ___.",
+            "options": [
+              "The colour of the objects",
+              "Nothing useful",
+              "The shape of the objects",
+              "How many objects there are in all"
             ],
             "answer": 3
           }
         ],
-        "topic": "Measurement: Units"
+        "worksheet": [
+          {
+            "prompt": "When counting objects, should you touch each one only one time?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If you count 5 blocks by touching each one once, what number do you say last?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What might happen if you touch one block two times while counting?",
+            "answers": [
+              "you get the wrong count",
+              "wrong answer",
+              "miscount"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -40364,60 +41403,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Klondike Gold Rush: A Canadian Adventure",
-        "summary": "Grade 2 Social Studies strand: the Klondike Gold Rush was a time in the late 1800s when thousands of people travelled to the Yukon hoping to find gold.",
-        "resourceLabel": "YouTube: The Klondike Gold Rush: A Canadian Adventure",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Klondike%20Gold%20Rush%3A%20A%20Canadian%20Adventure%20grade%202%20educational",
+        "title": "Knowing My Information: Name, Address, and Phone Number",
+        "summary": "Students learn why it is helpful and safe to know important personal information, such as their full name, home address, and a family phone number.",
+        "resourceLabel": "YouTube: Knowing My Information: Name, Address, and Phone Number",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Knowing%20My%20Information%3A%20Name%2C%20Address%2C%20and%20Phone%20Number%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What did people search for during the Klondike Gold Rush?",
+            "q": "Which of these is important personal information to know for safety?",
             "options": [
-              "Coal",
-              "Oil",
-              "Silver",
-              "Gold"
+              "Your favourite toy",
+              "Your favourite song",
+              "Your home address",
+              "Your favourite colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it helpful to know a family phone number?",
+            "options": [
+              "It can help a trusted adult contact your family if you need help",
+              "It should always be kept secret from everyone",
+              "It is only useful for playing games",
+              "It has no real purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who should you share your important personal information with if you need help?",
+            "options": [
+              "Anyone who asks",
+              "No one at all",
+              "A stranger",
+              "A trusted adult, like a parent, teacher, or police officer"
             ],
             "answer": 3
           },
           {
-            "q": "In which part of Canada did the Klondike Gold Rush happen?",
+            "q": "Which of these is an example of personal information?",
             "options": [
-              "Nova Scotia",
-              "Quebec",
-              "The Yukon",
-              "Ontario"
+              "A story you read",
+              "Your full name",
+              "A song you like",
+              "The weather today"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "When did the Klondike Gold Rush take place?",
+            "q": "Knowing your name, address, and phone number can help keep you ___.",
             "options": [
-              "Last year",
-              "The 1600s",
-              "The late 1800s",
-              "The future"
+              "Bored",
+              "Confused",
+              "Safe",
+              "Hungry"
             ],
             "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one important piece of information you should know about yourself, like your full name.",
+            "answers": [
+              "full name",
+              "name",
+              "address",
+              "phone number"
+            ]
           },
           {
-            "q": "Why did so many people travel to the Yukon during this time?",
-            "options": [
-              "They wanted to visit the ocean",
-              "There was no reason",
-              "They were forced to move",
-              "They hoped to find gold and become wealthy"
-            ],
-            "answer": 3
+            "prompt": "Why might it help to know your home address?",
+            "answers": [
+              "to find home",
+              "if you get lost",
+              "for safety"
+            ]
           },
           {
-            "q": "Learning about the Klondike Gold Rush helps us understand ___.",
-            "options": [
-              "Only modern events",
-              "A fictional tale",
-              "An exciting part of Canadian history",
-              "Nothing about Canada"
-            ],
-            "answer": 2
+            "prompt": "Should you know a family phone number in case you need help?",
+            "answers": [
+              "yes"
+            ]
           }
         ]
       }
@@ -40674,60 +41738,81 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Editorial Cartoons: Pictures That Share an Opinion",
-        "summary": "Grade 2 Language strand: an editorial cartoon uses pictures and few words to share an opinion about a topic or event, often in a funny or exaggerated way.",
-        "resourceLabel": "YouTube: Editorial Cartoons: Pictures That Share an Opinion",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Editorial%20Cartoons%3A%20Pictures%20That%20Share%20an%20Opinion%20grade%202%20educational",
+        "title": "Uppercase and Lowercase Letters: Matching Big and Small",
+        "summary": "Students learn to match uppercase, or capital, letters with their lowercase partners, such as matching a big B with a small b.",
+        "resourceLabel": "YouTube: Uppercase and Lowercase Letters: Matching Big and Small",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Uppercase%20and%20Lowercase%20Letters%3A%20Matching%20Big%20and%20Small%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does an editorial cartoon share?",
+            "q": "What do we call a big letter, like B?",
             "options": [
-              "A math problem",
-              "An opinion about a topic or event",
-              "A weather forecast only",
-              "Only facts with no opinion"
+              "Lowercase",
+              "Numeral",
+              "Punctuation",
+              "Uppercase"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "How does an editorial cartoon usually share its message?",
+            "q": "What do we call a small letter, like b?",
             "options": [
-              "Through numbers only",
-              "Through pictures and few words",
-              "Through silence",
-              "Through a long essay"
+              "Lowercase",
+              "Uppercase",
+              "Numeral",
+              "Punctuation"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Editorial cartoons are often drawn in a ___ way.",
+            "q": "Which of these is the lowercase match for the uppercase letter M?",
             "options": [
-              "Completely serious with no humour",
-              "Funny or exaggerated",
-              "Blank",
-              "Invisible"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might someone create an editorial cartoon?",
-            "options": [
-              "To confuse the reader completely",
-              "It has no purpose",
-              "To share an opinion in a quick, visual way",
-              "To share only facts with no viewpoint"
+              "N",
+              "B",
+              "m",
+              "W"
             ],
             "answer": 2
           },
           {
-            "q": "Editorial cartoons are most similar to ___.",
+            "q": "Which of these is the uppercase match for the lowercase letter t?",
             "options": [
-              "A math worksheet",
-              "Persuasive writing in picture form",
-              "A dictionary entry",
-              "A recipe"
+              "F",
+              "L",
+              "J",
+              "T"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Uppercase letters are often used at the ___ of a sentence or name.",
+            "options": [
+              "Beginning",
+              "End only",
+              "Middle only",
+              "Never used"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a big letter, like B, at the start of a name?",
+            "answers": [
+              "uppercase",
+              "capital letter"
+            ]
+          },
+          {
+            "prompt": "What do we call a small letter, like b, used in the middle of a word?",
+            "answers": [
+              "lowercase"
+            ]
+          },
+          {
+            "prompt": "Does the uppercase letter A match with the lowercase letter a?",
+            "answers": [
+              "yes"
+            ]
           }
         ]
       },
@@ -40853,63 +41938,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Our Governor General: A Ceremonial Role in Canada",
-        "summary": "Grade 2 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties such as welcoming important visitors and opening Parliament.",
-        "resourceLabel": "YouTube: Our Governor General: A Ceremonial Role in Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Governor%20General%3A%20A%20Ceremonial%20Role%20in%20Canada%20grade%202%20educational",
+        "title": "Our Local Zoo: Learning About Animals",
+        "summary": "Students learn that a zoo is a community place where people can visit and learn about animals from around the world while zookeepers care for their needs.",
+        "resourceLabel": "YouTube: Our Local Zoo: Learning About Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Zoo%3A%20Learning%20About%20Animals%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who does the Governor General represent in Canada?",
+            "q": "What do we call a place where people can visit and learn about animals?",
             "options": [
-              "A local business",
-              "The mayor",
-              "The King or Queen",
-              "A foreign president"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these might be a duty of the Governor General?",
-            "options": [
-              "Selling groceries",
-              "Teaching a classroom",
-              "Welcoming important visitors",
-              "Driving a school bus"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The role of the Governor General is mostly ___.",
-            "options": [
-              "Ceremonial",
-              "Related to farming",
-              "About cooking",
-              "About sports"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Is the Governor General the same as the Prime Minister?",
-            "options": [
-              "They never exist at the same time",
-              "Yes, exactly the same",
-              "Canada has neither",
-              "No, they have different roles"
+              "A bank",
+              "A library",
+              "A bakery",
+              "A zoo"
             ],
             "answer": 3
           },
           {
-            "q": "Learning about the Governor General helps us understand ___.",
+            "q": "Who takes care of the animals living at a zoo?",
             "options": [
-              "Nothing useful",
-              "A made-up story",
-              "Only foreign countries",
-              "Part of how Canada is organized"
+              "A pharmacist",
+              "A zookeeper",
+              "A librarian",
+              "A mayor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might families enjoy visiting a zoo?",
+            "options": [
+              "Zoos have no animals at all",
+              "Zoos are always closed",
+              "Zoos are only for adults",
+              "They can see and learn about animals from around the world"
             ],
             "answer": 3
+          },
+          {
+            "q": "What is one job a zookeeper might do?",
+            "options": [
+              "Growing crops",
+              "Feeding and caring for the animals",
+              "Delivering mail",
+              "Fixing cars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A zoo helps our community by ___.",
+            "options": [
+              "Growing vegetables",
+              "Teaching people about animals",
+              "Delivering packages",
+              "Selling bread"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "worksheet": [
+          {
+            "prompt": "What do we call a place where people can visit and learn about animals?",
+            "answers": [
+              "zoo",
+              "a zoo"
+            ]
+          },
+          {
+            "prompt": "Who takes care of the animals at a zoo?",
+            "answers": [
+              "zookeeper",
+              "zookeepers"
+            ]
+          },
+          {
+            "prompt": "Can visiting a zoo help us learn about animals from around the world?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -40978,62 +42084,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Multiplication, Fractions, and Data",
-        "summary": "Grade 2 Math strand review: students revisit multiplying by 4, arrays for division, comparing fractions, mixed numbers, converting metres, and spinner probability.",
-        "resourceLabel": "YouTube: Math Review: Multiplication, Fractions, and Data",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Fractions%2C%20and%20Data%20grade%202%20educational",
+        "title": "Position Words: Above, Below, Inside, and Outside",
+        "summary": "Students learn positional language, describing where an object is located using words such as above, below, inside, and outside.",
+        "resourceLabel": "YouTube: Position Words: Above, Below, Inside, and Outside",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Above%2C%20Below%2C%20Inside%2C%20and%20Outside%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 6 x 4 using the double twice strategy?",
+            "q": "If a cloud is floating over a house, where is the cloud?",
             "options": [
-              "22",
-              "24",
-              "26",
-              "20"
+              "Above the house",
+              "Below the house",
+              "Inside the house",
+              "Under the ground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a ball is sitting under a table, where is the ball?",
+            "options": [
+              "Above the table",
+              "Inside the table",
+              "Below the table",
+              "Outside the room"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a book is inside a backpack, where is the book?",
+            "options": [
+              "Above the backpack",
+              "Inside the backpack",
+              "Below the backpack",
+              "Outside the backpack"
             ],
             "answer": 1
           },
           {
-            "q": "If 12 objects are arranged in an array with 3 rows, how many are in each row?",
+            "q": "If a dog is standing outside a doghouse, where is the dog?",
             "options": [
-              "4",
-              "6",
-              "5",
-              "3"
+              "Outside the doghouse",
+              "Below the doghouse",
+              "Above the doghouse",
+              "Inside the doghouse"
             ],
             "answer": 0
           },
           {
-            "q": "Which is greater, 1/3 or 1/5?",
+            "q": "Position words like above and below help us describe ___.",
             "options": [
-              "1/3",
-              "1/5",
-              "They are equal",
-              "Cannot tell"
+              "Where something is located",
+              "What sound something makes",
+              "What colour something is",
+              "How heavy something is"
             ],
             "answer": 0
-          },
-          {
-            "q": "What does the mixed number 1 and 1/2 represent?",
-            "options": [
-              "Two wholes",
-              "Half of one whole only",
-              "Three halves as a whole number",
-              "One whole and half of another"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How many centimetres are in 1 metre?",
-            "options": [
-              "10",
-              "50",
-              "100",
-              "1000"
-            ],
-            "answer": 2
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a bird is flying over a tree, is the bird above or below the tree?",
+            "answers": [
+              "above"
+            ]
+          },
+          {
+            "prompt": "If a toy is in a box, is the toy inside or outside the box?",
+            "answers": [
+              "inside"
+            ]
+          },
+          {
+            "prompt": "Name one positional word that describes where something is, like above or below.",
+            "answers": [
+              "above",
+              "below",
+              "inside",
+              "outside"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -41096,62 +42226,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Leaders, Money, and Our History",
-        "summary": "Grade 2 Social Studies strand review: students revisit Sir John A Macdonald, the Bank of Canada, the Coast Guard, Truth and Reconciliation Day, the Charter of Rights, and the Klondike Gold Rush.",
-        "resourceLabel": "YouTube: Social Studies Review: Leaders, Money, and Our History",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Money%2C%20and%20Our%20History%20grade%202%20educational",
+        "title": "Fire Safety: What to Do If There Is a Fire",
+        "summary": "Students learn simple fire safety steps, such as staying low to avoid smoke, using stop drop and roll if clothing catches fire, and getting to a safe meeting spot outside.",
+        "resourceLabel": "YouTube: Fire Safety: What to Do If There Is a Fire",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fire%20Safety%3A%20What%20to%20Do%20If%20There%20Is%20a%20Fire%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Who was Canadas first prime minister?",
+            "q": "What three steps should you do if your clothing catches fire?",
             "options": [
-              "A premier",
-              "Sir John A Macdonald",
-              "A mayor",
-              "Terry Fox"
+              "Run as fast as you can",
+              "Shout and wave your arms",
+              "Hide under a bed",
+              "Stop, drop, and roll"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should you stay low to the ground during a fire?",
+            "options": [
+              "To hide from friends",
+              "To avoid breathing in smoke",
+              "To find toys faster",
+              "It has no purpose"
             ],
             "answer": 1
           },
           {
-            "q": "What does the Bank of Canada do?",
+            "q": "Why does a family practise a fire safety plan with a meeting spot outside?",
             "options": [
-              "Delivers mail",
-              "Teaches school",
-              "Designs and issues Canadian money",
-              "Sells groceries"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the Coast Guard help keep people safe on?",
-            "options": [
-              "The classroom",
-              "The road",
-              "The water",
-              "The playground"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "When is Truth and Reconciliation Day observed in Canada?",
-            "options": [
-              "July 1",
-              "September 30",
-              "February 14",
-              "December 25"
+              "Meeting spots are not important",
+              "So everyone knows where to gather safely if there is a fire",
+              "To confuse family members",
+              "To play a fun game"
             ],
             "answer": 1
           },
           {
-            "q": "What did people search for during the Klondike Gold Rush?",
+            "q": "Which of these shows good fire safety?",
             "options": [
-              "Oil",
-              "Gold",
-              "Silver",
-              "Coal"
+              "Playing with matches",
+              "Practising stop, drop, and roll",
+              "Ignoring a smoke alarm",
+              "Hiding in a closet during a fire"
             ],
             "answer": 1
+          },
+          {
+            "q": "Learning fire safety steps helps keep our family ___.",
+            "options": [
+              "Unprepared",
+              "Confused",
+              "In danger",
+              "Safe"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What three steps should you do if your clothing catches fire?",
+            "answers": [
+              "stop drop and roll",
+              "stop, drop, and roll"
+            ]
+          },
+          {
+            "prompt": "Should you stay low to the ground to avoid breathing in smoke during a fire?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Where should your family meet if you ever need to leave your home during a fire?",
+            "answers": [
+              "a safe meeting spot",
+              "meeting spot outside"
+            ]
+          }
+        ],
+        "topic": "Safety Rules (Basic)"
       }
     ]
   },
@@ -41220,63 +42373,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Long Division: Dividing Two-Digit Numbers by One-Digit Numbers",
-        "summary": "Grade 2 Math strand: students practise dividing a two-digit number by a one-digit number, sharing the total into equal groups.",
-        "resourceLabel": "YouTube: Long Division: Dividing Two-Digit Numbers by One-Digit Numbers",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Long%20Division%3A%20Dividing%20Two-Digit%20Numbers%20by%20One-Digit%20Numbers%20grade%202%20educational",
+        "title": "3D Shapes: Faces, Edges, and Corners",
+        "summary": "Students explore three-dimensional shapes such as cubes and spheres, learning to describe them using the words faces, edges, and corners.",
+        "resourceLabel": "YouTube: 3D Shapes: Faces, Edges, and Corners",
+        "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Faces%2C%20Edges%2C%20and%20Corners%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 24 divided by 4?",
+            "q": "What do we call the flat sides of a 3D shape?",
             "options": [
-              "6",
-              "5",
-              "4",
-              "8"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 36 divided by 6?",
-            "options": [
-              "4",
-              "5",
-              "6",
-              "7"
+              "Corners",
+              "Edges",
+              "Faces",
+              "Colours"
             ],
             "answer": 2
           },
           {
-            "q": "What is 42 divided by 7?",
+            "q": "What do we call the pointy points on a 3D shape, like on a cube?",
             "options": [
-              "8",
-              "7",
-              "5",
-              "6"
+              "Circles",
+              "Faces",
+              "Corners",
+              "Lines"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "When we divide a two-digit number, we are sharing it into ___.",
+            "q": "How many flat faces does a cube have?",
             "options": [
-              "Equal groups",
-              "One big group",
-              "Random groups",
-              "No groups"
+              "6",
+              "2",
+              "8",
+              "4"
             ],
             "answer": 0
           },
           {
-            "q": "What is 48 divided by 8?",
+            "q": "Does a sphere, like a ball, have any flat faces?",
             "options": [
-              "5",
-              "6",
-              "8",
-              "7"
+              "Yes, it has 2 faces",
+              "Yes, it has 4 faces",
+              "No, it is completely round",
+              "Yes, it has 6 faces"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "An edge on a 3D shape is best described as ___.",
+            "options": [
+              "The line where two faces meet",
+              "A round curve only",
+              "A pointy corner",
+              "A flat side"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Multiplication & Division"
+        "worksheet": [
+          {
+            "prompt": "What do we call the flat sides of a 3D shape, like the sides of a cube?",
+            "answers": [
+              "faces"
+            ]
+          },
+          {
+            "prompt": "What do we call the pointy corners of a 3D shape, like the corners of a cube?",
+            "answers": [
+              "corners",
+              "vertices"
+            ]
+          },
+          {
+            "prompt": "Does a sphere, like a ball, have any flat faces?",
+            "answers": [
+              "no"
+            ]
+          }
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -41339,63 +42513,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Our Senate: Another Part of Canadas Government",
-        "summary": "Grade 2 Social Studies strand: the Senate is part of Canadas government, made up of appointed senators who review and can suggest changes to new laws.",
-        "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%202%20educational",
+        "title": "Social Studies Review: Helpers, Holidays, and Our Country",
+        "summary": "Students review recent Social Studies topics: crossing guards, Thanksgiving, the Prime Minister, goods and services, pharmacists, garbage collectors, personal information safety, the local zoo, and fire safety.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Holidays, and Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Holidays%2C%20and%20Our%20Country%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the Senate?",
+            "q": "What do we call a helper who stops traffic so people can cross the street safely?",
             "options": [
-              "A part of Canadas government",
-              "A city council",
-              "A sports league",
-              "A group that reviews new laws"
+              "A farmer",
+              "A crossing guard",
+              "A librarian",
+              "A mayor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what season does Canadian Thanksgiving take place?",
+            "options": [
+              "Spring",
+              "Winter",
+              "Fall",
+              "Summer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the leader who helps make important decisions for all of Canada?",
+            "options": [
+              "The Mayor",
+              "The Prime Minister",
+              "The Librarian",
+              "The Farmer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a helper who prepares medicine at a pharmacy?",
+            "options": [
+              "A mayor",
+              "A farmer",
+              "A pharmacist",
+              "A librarian"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a place where people can visit and learn about animals?",
+            "options": [
+              "A zoo",
+              "A bakery",
+              "A bank",
+              "A library"
             ],
             "answer": 0
-          },
-          {
-            "q": "How do people usually become senators, unlike members of Parliament?",
-            "options": [
-              "They inherit the position",
-              "They are appointed, not elected",
-              "They are elected by the public",
-              "They are chosen by a lottery"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is one job of the Senate?",
-            "options": [
-              "Coaching sports teams",
-              "Delivering mail",
-              "Running local schools",
-              "Reviewing and suggesting changes to new laws"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Senate is part of which level of government?",
-            "options": [
-              "A single citys government",
-              "The federal government",
-              "A private business",
-              "A school government"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might it be helpful to have more than one group review a new law?",
-            "options": [
-              "It has no benefit at all",
-              "It helps catch mistakes and improve the law",
-              "It removes the need for any laws",
-              "It slows down government for no reason"
-            ],
-            "answer": 1
           }
         ],
-        "topic": "Government & Civics"
+        "worksheet": [
+          {
+            "prompt": "What do we call a helper who stops traffic so we can cross the street safely?",
+            "answers": [
+              "crossing guard"
+            ]
+          },
+          {
+            "prompt": "What do we call the leader who helps make important decisions for all of Canada?",
+            "answers": [
+              "Prime Minister",
+              "the Prime Minister"
+            ]
+          },
+          {
+            "prompt": "What do we call things that people make or grow, like bread or toys?",
+            "answers": [
+              "goods"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -41465,122 +42659,168 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Fractions: Adding Fractions with the Same Denominator",
-        "summary": "Grade 2 Math strand: to add fractions with the same denominator, we add the numerators together and keep the denominator the same.",
-        "resourceLabel": "YouTube: Fractions: Adding Fractions with the Same Denominator",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Adding%20Fractions%20with%20the%20Same%20Denominator%20grade%202%20educational",
+        "title": "Covering Space: Filling a Shape with Tiles",
+        "summary": "Students explore early measurement of area by covering a flat shape, like a rectangle, with small tiles or squares and counting how many tiles it takes to fill the space completely.",
+        "resourceLabel": "YouTube: Covering Space: Filling a Shape with Tiles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Covering%20Space%3A%20Filling%20a%20Shape%20with%20Tiles%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 1/4 + 2/4?",
+            "q": "What are we doing when we fill a flat shape completely with small tiles?",
             "options": [
-              "1/2",
-              "2/4",
-              "4/4",
-              "3/4"
+              "Erasing the shape",
+              "Measuring the weight",
+              "Measuring the temperature",
+              "Covering the space"
             ],
             "answer": 3
           },
           {
-            "q": "What is 2/5 + 1/5?",
+            "q": "If it takes 8 small tiles to completely cover a rectangle, how many tiles were used?",
             "options": [
-              "3/5",
-              "3/10",
-              "1/5",
-              "2/10"
+              "8",
+              "2",
+              "10",
+              "4"
             ],
             "answer": 0
           },
           {
-            "q": "When adding fractions with the same denominator, what stays the same?",
+            "q": "Would a bigger shape need more tiles or fewer tiles to cover it completely?",
             "options": [
-              "Both numbers",
-              "The numerator",
-              "The denominator",
-              "Neither number"
+              "The exact same number always",
+              "Fewer tiles",
+              "No tiles at all",
+              "More tiles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might we count how many tiles cover a shape?",
+            "options": [
+              "Tiles have no connection to measurement",
+              "To measure the shapes colour",
+              "To measure and compare how much space the shape takes up",
+              "To measure how loud the shape is"
             ],
             "answer": 2
           },
           {
-            "q": "What is 3/8 + 2/8?",
+            "q": "Covering a shape with tiles and counting them is an early way to measure ___.",
             "options": [
-              "5/8",
-              "1/8",
-              "5/16",
-              "6/8"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is 1/6 + 3/6?",
-            "options": [
-              "3/6",
-              "4/12",
-              "4/6",
-              "2/6"
+              "Weight",
+              "Temperature",
+              "Area, or how much space a shape covers",
+              "Sound"
             ],
             "answer": 2
           }
         ],
-        "topic": "Fractions"
+        "worksheet": [
+          {
+            "prompt": "What do we call small shapes, like squares, used to fill up a flat space?",
+            "answers": [
+              "tiles"
+            ]
+          },
+          {
+            "prompt": "If it takes 6 small tiles to fill a shape completely, how many tiles cover the shape?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Would a bigger shape usually need more tiles or fewer tiles to fill it completely?",
+            "answers": [
+              "more tiles",
+              "more"
+            ]
+          }
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
-        "title": "Density: Why Some Things Float Higher Than Others",
-        "summary": "Grade 2 Science strand: density describes how tightly packed the matter in an object is, and it helps explain why some objects float higher or sink faster than others.",
-        "resourceLabel": "YouTube: Density: Why Some Things Float Higher Than Others",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Density%3A%20Why%20Some%20Things%20Float%20Higher%20Than%20Others%20grade%202%20educational",
+        "title": "Animal Tracks: Footprints in the Snow",
+        "summary": "Kindergarten Science strand: many animals leave tracks, or footprints, in snow or mud, and we can use the shape of the tracks to guess which animal made them.",
+        "resourceLabel": "YouTube: Animal Tracks: Footprints in the Snow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Footprints%20in%20the%20Snow%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does density describe?",
+            "q": "What are animal tracks?",
             "options": [
-              "The colour of an object",
-              "The sound an object makes",
-              "How tightly packed matter is in an object",
-              "The taste of an object"
+              "Footprints animals leave behind",
+              "A type of animal food",
+              "A kind of nest",
+              "A sound animals make"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can animal tracks often be seen clearly?",
+            "options": [
+              "In the middle of the ocean",
+              "In the sky",
+              "In snow or soft mud",
+              "On a sunny sidewalk"
             ],
             "answer": 2
           },
           {
-            "q": "Which object would likely have higher density, a rock or a feather of the same size?",
+            "q": "How can the shape of a track help us?",
             "options": [
-              "They are always equal",
-              "Neither has density",
-              "A rock",
-              "A feather"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might one object float higher in water than another?",
-            "options": [
-              "It is a different colour",
-              "It has a higher density",
-              "It has a lower density",
-              "It makes more noise"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to an object with very high density when placed in water?",
-            "options": [
-              "It disappears",
-              "It is more likely to sink",
-              "It always floats on top",
-              "It changes colour"
+              "It tells us the animals age exactly",
+              "It can help us guess which animal made it",
+              "It has no useful information",
+              "It tells us the animals favourite colour"
             ],
             "answer": 1
           },
           {
-            "q": "Understanding density helps scientists explain why ships made of metal can still ___.",
+            "q": "Which of these might leave visible tracks in snow?",
             "options": [
-              "Float",
-              "Disappear",
-              "Change shape",
-              "Sink immediately"
+              "A jellyfish",
+              "A rabbit",
+              "A whale",
+              "A goldfish"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Studying animal tracks is a way scientists learn about animals without ___.",
+            "options": [
+              "Leaving their home",
+              "Any effort at all",
+              "Using their eyes",
+              "Seeing the animal directly"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are animal tracks?",
+            "answers": [
+              "footprints animals leave behind",
+              "footprints in snow or mud"
+            ]
+          },
+          {
+            "prompt": "Where might you easily see animal tracks?",
+            "answers": [
+              "in snow",
+              "in mud or snow"
+            ]
+          },
+          {
+            "prompt": "How can tracks help us learn about an animal?",
+            "answers": [
+              "the shape can show which animal made them",
+              "they show the animal was there"
+            ]
+          }
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -41708,123 +42948,168 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data: Stem-and-Leaf Plots",
-        "summary": "Grade 2 Math strand: a stem-and-leaf plot organizes numbers by splitting each one into a stem, the larger digits, and a leaf, the last digit.",
-        "resourceLabel": "YouTube: Data: Stem-and-Leaf Plots",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Stem-and-Leaf%20Plots%20grade%202%20educational",
+        "title": "Ways to Make 5: Number Combinations",
+        "summary": "Students explore different combinations of two numbers that add together to make 5, such as 1 and 4, or 2 and 3, building an early understanding of number composition.",
+        "resourceLabel": "YouTube: Ways to Make 5: Number Combinations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ways%20to%20Make%205%3A%20Number%20Combinations%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does a stem-and-leaf plot organize?",
+            "q": "Which two numbers add together to make 5?",
             "options": [
-              "Numbers, split into stems and leaves",
-              "Letters",
-              "Colours",
-              "Shapes"
+              "3 and 3",
+              "2 and 4",
+              "2 and 3",
+              "1 and 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which two numbers add together to make 5?",
+            "options": [
+              "1 and 4",
+              "2 and 2",
+              "4 and 4",
+              "1 and 5"
             ],
             "answer": 0
           },
           {
-            "q": "In the number 23, what would the stem usually be?",
+            "q": "Does 0 plus 5 also equal 5?",
             "options": [
-              "3",
-              "2",
-              "0",
-              "23"
+              "Yes",
+              "Cannot tell",
+              "Only sometimes",
+              "No"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "In the number 23, what would the leaf usually be?",
+            "q": "Which pair of numbers does NOT add together to make 5?",
             "options": [
-              "0",
-              "3",
-              "23",
-              "2"
+              "0 and 5",
+              "2 and 3",
+              "1 and 4",
+              "2 and 4"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might we use a stem-and-leaf plot instead of a list of numbers?",
+            "q": "Learning different ways to make 5 helps us understand that a number can be made of ___.",
             "options": [
-              "It only works with letters",
-              "It helps organize data so it is easier to read",
-              "It removes the need for numbers",
-              "It hides the numbers completely"
+              "Only one possible combination",
+              "No smaller numbers at all",
+              "Different smaller number combinations",
+              "Only itself and zero"
             ],
-            "answer": 1
-          },
-          {
-            "q": "A stem-and-leaf plot is a way to organize and display ___.",
-            "options": [
-              "Weather patterns",
-              "Data",
-              "Colours",
-              "Story characters"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "What two numbers can you add together to make 5, using 2 and another number?",
+            "answers": [
+              "2 and 3",
+              "3"
+            ]
+          },
+          {
+            "prompt": "What two numbers can you add together to make 5, using 1 and another number?",
+            "answers": [
+              "1 and 4",
+              "4"
+            ]
+          },
+          {
+            "prompt": "Can 5 and 0 also add together to make 5?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Combinatorics"
       },
       {
         "subject": "Science",
-        "title": "Nuclear Energy: Power from Atoms",
-        "summary": "Grade 2 Science strand: nuclear energy is a powerful form of energy that comes from splitting tiny particles called atoms, and it can be used to make electricity.",
-        "resourceLabel": "YouTube: Nuclear Energy: Power from Atoms",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Energy%3A%20Power%20from%20Atoms%20grade%202%20educational",
+        "title": "Camels: Animals of the Desert",
+        "summary": "Kindergarten Science strand: camels are animals well suited to life in the desert, with humps that store fat and the ability to go a long time without water.",
+        "resourceLabel": "YouTube: Camels: Animals of the Desert",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Camels%3A%20Animals%20of%20the%20Desert%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does nuclear energy come from?",
+            "q": "What kind of habitat are camels well suited for?",
             "options": [
-              "Burning wood",
-              "Wind blowing",
-              "Splitting tiny particles called atoms",
-              "Sunlight only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What can nuclear energy be used to make?",
-            "options": [
-              "Rain",
-              "Electricity",
-              "Rocks",
-              "Wind"
+              "The ocean",
+              "The desert",
+              "The Arctic",
+              "The rainforest"
             ],
             "answer": 1
           },
           {
-            "q": "What are the tiny particles split to release nuclear energy called?",
+            "q": "What is actually stored inside a camels hump?",
             "options": [
-              "Rocks",
-              "Atoms",
-              "Molecules of water only",
-              "Cells"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Nuclear energy is considered a powerful source of ___.",
-            "options": [
-              "Water",
-              "Food",
-              "Energy",
-              "Sound"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why do scientists and engineers need to be very careful when working with nuclear energy?",
-            "options": [
-              "Because it is a very powerful form of energy",
-              "Because it only works on cloudy days",
-              "Because it is the same as solar energy",
-              "Because it has no power at all"
+              "Fat",
+              "Sand",
+              "Air",
+              "Water"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is a camel able to do that helps it survive the desert?",
+            "options": [
+              "Breathe underwater",
+              "Fly over sand dunes",
+              "Go a long time without drinking water",
+              "Live only in snow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body feature helps protect a camels eyes from blowing sand?",
+            "options": [
+              "Sharp claws",
+              "A long tail",
+              "Big ears",
+              "Long eyelashes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Camels are well adapted to living in a habitat that is usually ___.",
+            "options": [
+              "Underwater",
+              "Covered in snow",
+              "Hot and dry",
+              "Cold and wet"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "worksheet": [
+          {
+            "prompt": "What kind of environment do camels live in?",
+            "answers": [
+              "the desert",
+              "a desert"
+            ]
+          },
+          {
+            "prompt": "What is stored in a camels hump?",
+            "answers": [
+              "fat",
+              "fat, not water"
+            ]
+          },
+          {
+            "prompt": "How long can a camel go without drinking water?",
+            "answers": [
+              "a long time",
+              "many days"
+            ]
+          }
+        ],
+        "topic": "Animals & Wildlife (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -41893,123 +43178,163 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Persuasive Techniques: Loaded Words and Bandwagon Appeals",
-        "summary": "Grade 2 Language strand: persuasive writers sometimes use loaded words, which carry strong feelings, or bandwagon appeals, which suggest everyone else agrees, to convince readers.",
-        "resourceLabel": "YouTube: Persuasive Techniques: Loaded Words and Bandwagon Appeals",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Persuasive%20Techniques%3A%20Loaded%20Words%20and%20Bandwagon%20Appeals%20grade%202%20educational",
+        "title": "Story Solutions: How Problems Get Solved",
+        "summary": "Students learn that many stories have a problem faced by a character and a solution, which is how the character solves or fixes that problem by the end.",
+        "resourceLabel": "YouTube: Story Solutions: How Problems Get Solved",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Solutions%3A%20How%20Problems%20Get%20Solved%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What are loaded words?",
+            "q": "What do we call how a character fixes a problem in a story?",
             "options": [
-              "Words that carry strong feelings",
-              "Words that rhyme",
-              "Words that are always true",
-              "Words with no meaning"
+              "The problem",
+              "The title",
+              "The cover",
+              "The solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a character is lost and then finds their way home, what is the solution?",
+            "options": [
+              "The characters name",
+              "Getting lost",
+              "The title of the book",
+              "Finding the way home"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do authors often include a solution at the end of a story?",
+            "options": [
+              "To show how the characters problem gets fixed",
+              "Solutions are never included in stories",
+              "To make the story longer for no reason",
+              "To confuse the reader"
             ],
             "answer": 0
           },
           {
-            "q": "What is a bandwagon appeal?",
+            "q": "Which of these is an example of a story solution?",
             "options": [
-              "A type of song",
-              "A math strategy",
-              "A type of vehicle",
-              "Suggesting everyone else agrees, so you should too"
+              "A character never notices any problem",
+              "A character asks a friend for help and solves the problem",
+              "A story with no problem at all",
+              "A story with no characters"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a writer use these persuasive techniques?",
+            "q": "Understanding story solutions helps readers see how a problem gets ___.",
             "options": [
-              "To confuse the reader on purpose",
-              "To avoid persuading anyone",
-              "To try to convince readers to agree with them",
-              "To share only true facts with no opinion"
+              "Solved",
+              "Ignored",
+              "Hidden",
+              "Forgotten"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Which is an example of a bandwagon appeal?",
-            "options": [
-              "The sky is blue",
-              "Two plus two equals four",
-              "Water freezes at zero degrees",
-              "Everyone is choosing this, so you should too"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Recognizing persuasive techniques helps readers think ___ about what they read.",
-            "options": [
-              "Only about the title",
-              "Without any thought",
-              "Carefully and critically",
-              "Only about the pictures"
-            ],
-            "answer": 2
+            "answer": 0
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "worksheet": [
+          {
+            "prompt": "What word describes how a character fixes a problem in a story?",
+            "answers": [
+              "solution"
+            ]
+          },
+          {
+            "prompt": "If a character loses a toy and then finds it again, what is the solution?",
+            "answers": [
+              "finding the toy",
+              "finding it"
+            ]
+          },
+          {
+            "prompt": "Do most stories show a problem and then a solution?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       },
       {
         "subject": "Math",
-        "title": "Geometry: Classifying Triangles by Sides and Angles",
-        "summary": "Grade 2 Math strand: triangles can be classified by their sides, like equilateral or scalene, or by their angles, like right or obtuse.",
-        "resourceLabel": "YouTube: Geometry: Classifying Triangles by Sides and Angles",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Classifying%20Triangles%20by%20Sides%20and%20Angles%20grade%202%20educational",
+        "title": "Comparing Height: Taller and Shorter",
+        "summary": "Students compare the height of objects and people, using the words taller and shorter to describe which one measures more or less from bottom to top.",
+        "resourceLabel": "YouTube: Comparing Height: Taller and Shorter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Height%3A%20Taller%20and%20Shorter%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a triangle with three equal sides called?",
+            "q": "If one building measures more from bottom to top than another, it is ___.",
             "options": [
-              "Isosceles",
-              "Obtuse",
-              "Equilateral",
-              "Scalene"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a triangle with no equal sides called?",
-            "options": [
-              "Scalene",
-              "Isosceles",
-              "Equilateral",
-              "Right"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a triangle with one 90 degree angle called?",
-            "options": [
-              "An equilateral triangle",
-              "An obtuse triangle",
-              "A scalene triangle",
-              "A right triangle"
+              "Shorter",
+              "Heavier",
+              "Wider",
+              "Taller"
             ],
             "answer": 3
           },
           {
-            "q": "How many sides does every triangle have?",
+            "q": "If a plant measures less from bottom to top than a tree, the plant is ___.",
             "options": [
-              "4",
-              "2",
-              "3",
-              "5"
+              "Heavier",
+              "Taller",
+              "Shorter",
+              "Wider"
             ],
             "answer": 2
           },
           {
-            "q": "Classifying shapes by their sides and angles helps us understand their ___.",
+            "q": "Which of these words compares how tall two things are?",
             "options": [
-              "Weight",
-              "Colour",
-              "Smell",
-              "Properties"
+              "Sweeter",
+              "Louder",
+              "Colder",
+              "Taller"
             ],
             "answer": 3
+          },
+          {
+            "q": "If a giraffe is taller than a dog, what does that tell us?",
+            "options": [
+              "The giraffe weighs less",
+              "The dog is louder",
+              "The giraffe is quieter",
+              "The giraffe measures more from bottom to top"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comparing height means comparing how ___ two things are.",
+            "options": [
+              "Loud",
+              "Colourful",
+              "Tall",
+              "Salty"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "worksheet": [
+          {
+            "prompt": "If one tree is bigger from bottom to top than another tree, is it taller or shorter?",
+            "answers": [
+              "taller"
+            ]
+          },
+          {
+            "prompt": "If you are smaller from bottom to top than a grown-up, are you taller or shorter than them?",
+            "answers": [
+              "shorter"
+            ]
+          },
+          {
+            "prompt": "Name one word we use to compare how tall two things are, like taller or shorter.",
+            "answers": [
+              "taller",
+              "shorter"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -42319,63 +43644,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Land Acknowledgements: Respecting Indigenous Territory",
-        "summary": "Grade 2 Social Studies strand: a land acknowledgement is a respectful statement recognizing that a place was, and often still is, the traditional territory of Indigenous peoples.",
-        "resourceLabel": "YouTube: Land Acknowledgements: Respecting Indigenous Territory",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Land%20Acknowledgements%3A%20Respecting%20Indigenous%20Territory%20grade%202%20educational",
+        "title": "Our Airport Workers: Helping People Travel",
+        "summary": "Kindergarten Social Studies strand: airport workers such as pilots, flight attendants, and baggage handlers help people travel safely by air.",
+        "resourceLabel": "YouTube: Our Airport Workers: Helping People Travel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Airport%20Workers%3A%20Helping%20People%20Travel%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a land acknowledgement?",
+            "q": "Who flies the airplane?",
             "options": [
-              "A respectful statement about Indigenous territory",
-              "A type of map",
-              "A kind of song",
-              "A weather report"
+              "A chef",
+              "A teacher",
+              "A pilot",
+              "A farmer"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What does a land acknowledgement recognize?",
+            "q": "Who helps passengers on the airplane?",
             "options": [
-              "That a place was, and still is, Indigenous territory",
-              "A sports team",
-              "A random fact about weather",
-              "A type of food"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Where might you hear a land acknowledgement given?",
-            "options": [
-              "At the start of a school assembly or event",
-              "Never anywhere",
-              "Only in outer space",
-              "Only in other countries"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do communities share land acknowledgements?",
-            "options": [
-              "They have no meaning at all",
-              "To replace all history lessons",
-              "To ignore Indigenous history",
-              "To show respect for Indigenous peoples and their history"
+              "A librarian",
+              "A mail carrier",
+              "A doctor",
+              "A flight attendant"
             ],
             "answer": 3
           },
           {
-            "q": "A land acknowledgement is one way people can show ___.",
+            "q": "Who carries and loads the suitcases?",
             "options": [
-              "Respect and awareness",
-              "Disrespect",
-              "Confusion",
-              "Carelessness"
+              "A dentist",
+              "A vet",
+              "A crossing guard",
+              "A baggage handler"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An airport is a place where people go to ___.",
+            "options": [
+              "Play sports",
+              "Catch an airplane",
+              "Swim",
+              "Buy groceries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we need many different airport workers?",
+            "options": [
+              "To make travel safe and smooth",
+              "Only one worker is needed",
+              "Airports have no workers",
+              "They do not help anyone"
             ],
             "answer": 0
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "worksheet": [
+          {
+            "prompt": "Name one worker who helps people at an airport.",
+            "answers": [
+              "pilot",
+              "flight attendant",
+              "baggage handler"
+            ]
+          },
+          {
+            "prompt": "What does a pilot do?",
+            "answers": [
+              "flies the plane",
+              "flies the airplane"
+            ]
+          },
+          {
+            "prompt": "Why do airports need many workers?",
+            "answers": [
+              "to help people travel safely",
+              "to keep travel safe"
+            ]
+          }
+        ],
+        "topic": "Transportation & Infrastructure"
       }
     ]
   },
@@ -42385,62 +43734,84 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Story Structure: Rising Action and Climax",
-        "summary": "Grade 2 Language strand: rising action is the part of a story where excitement builds, leading up to the climax, the most exciting or important moment of the story.",
-        "resourceLabel": "YouTube: Story Structure: Rising Action and Climax",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Structure%3A%20Rising%20Action%20and%20Climax%20grade%202%20educational",
+        "title": "Nonfiction Clues: Labels and Photographs in Books",
+        "summary": "Students learn that nonfiction books often use labels and photographs to give readers true information and help explain real people, places, or things.",
+        "resourceLabel": "YouTube: Nonfiction Clues: Labels and Photographs in Books",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nonfiction%20Clues%3A%20Labels%20and%20Photographs%20in%20Books%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is rising action?",
+            "q": "What kind of book gives readers true information about real people, places, or things?",
             "options": [
-              "The very beginning of a story",
-              "The back cover of a book",
-              "The part of a story where excitement builds",
-              "The title of a story"
+              "A poem only",
+              "A fiction book",
+              "A nonfiction book",
+              "A song only"
             ],
             "answer": 2
           },
           {
-            "q": "What is the climax of a story?",
+            "q": "What kind of pictures do nonfiction books often use to show real things clearly?",
             "options": [
-              "The list of characters",
-              "The books price",
-              "The first sentence",
-              "The most exciting or important moment"
+              "No pictures at all",
+              "Photographs",
+              "Made-up cartoon drawings only",
+              "Only maps"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Does rising action happen before or after the climax?",
+            "q": "What do we call words that name parts of a picture, like the parts of a flower?",
             "options": [
-              "Before",
-              "At the very end",
-              "After",
-              "It never happens"
+              "Punctuation",
+              "Labels",
+              "Titles",
+              "Rhymes"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is rising action important in a story?",
+            "q": "Why might a nonfiction book about animals use photographs?",
             "options": [
-              "It builds excitement leading to the climax",
-              "It removes the main problem",
-              "It always comes after the ending",
-              "It has no purpose in a story"
+              "To make the book longer for no reason",
+              "To show readers what the real animal looks like",
+              "To confuse the reader",
+              "Photographs are never used in nonfiction books"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Which of these describes the climax of a story?",
+            "q": "Labels and photographs are examples of clues found in ___ books.",
             "options": [
-              "The most tense or exciting turning point",
-              "The dedication page",
-              "The table of contents",
-              "The very first page"
+              "Nonfiction",
+              "Fairy tale",
+              "Poetry",
+              "Fiction"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of pictures do nonfiction books often use to show real things?",
+            "answers": [
+              "photographs",
+              "photos"
+            ]
+          },
+          {
+            "prompt": "What do we call words that name parts of a picture, like labelling parts of a flower?",
+            "answers": [
+              "labels"
+            ]
+          },
+          {
+            "prompt": "Do nonfiction books give readers true information?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Reading: Fiction & Story Elements"
       },
       {
         "subject": "Math",
@@ -42563,62 +43934,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Our Provincial Legislature: Where Laws Are Made",
-        "summary": "Grade 2 Social Studies strand: the provincial legislature is a building where elected leaders meet to discuss and create laws for the province.",
-        "resourceLabel": "YouTube: Our Provincial Legislature: Where Laws Are Made",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Provincial%20Legislature%3A%20Where%20Laws%20Are%20Made%20grade%202%20educational",
+        "title": "Our Coast Guard: Helping on the Water",
+        "summary": "Kindergarten Social Studies strand: the coast guard helps keep people safe on lakes, rivers, and oceans, including rescuing boats in trouble.",
+        "resourceLabel": "YouTube: Our Coast Guard: Helping on the Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Helping%20on%20the%20Water%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What happens at a provincial legislature?",
+            "q": "Where does the coast guard mostly work?",
             "options": [
-              "Movies are shown to visitors",
-              "Food is sold to the public",
-              "Elected leaders discuss and create laws",
-              "Students take a math test"
+              "Underground",
+              "In a classroom",
+              "On the water",
+              "In the sky"
             ],
             "answer": 2
           },
           {
-            "q": "Who works at a provincial legislature?",
+            "q": "What might the coast guard do for a boat in trouble?",
             "options": [
-              "Elected leaders, including the premier",
-              "Only firefighters",
-              "Only doctors",
-              "Only bus drivers"
+              "Paint it",
+              "Ignore it",
+              "Rescue it",
+              "Sell it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The coast guard helps keep people safe on ___.",
+            "options": [
+              "Water",
+              "Farms",
+              "Roads",
+              "Playgrounds"
             ],
             "answer": 0
           },
           {
-            "q": "Why is a provincial legislature an important building?",
+            "q": "Which is a job of the coast guard?",
             "options": [
-              "Important laws and decisions are made there",
-              "It has no real purpose",
-              "It is only used for sports games",
-              "It is closed at all times"
+              "Fixing cars",
+              "Teaching school",
+              "Baking bread",
+              "Watching for boats in danger"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Which of these might happen inside a provincial legislature?",
+            "q": "Why do communities near water need a coast guard?",
             "options": [
-              "A private vacation",
-              "A debate about a new provincial law",
-              "Nothing important at all",
-              "A birthday party for one family"
+              "Only for fun",
+              "To help keep people safe there",
+              "Water needs no safety helpers",
+              "To sell fish"
             ],
             "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the coast guard help with?",
+            "answers": [
+              "keeping people safe on water",
+              "water safety"
+            ]
           },
           {
-            "q": "A provincial legislature helps a province by creating ___.",
-            "options": [
-              "Only weather forecasts",
-              "Nothing useful",
-              "Laws and important decisions",
-              "Only sports schedules"
-            ],
-            "answer": 2
+            "prompt": "Where does the coast guard work?",
+            "answers": [
+              "on the water",
+              "lakes and oceans"
+            ]
+          },
+          {
+            "prompt": "Why is water safety important?",
+            "answers": [
+              "to keep people safe",
+              "so no one gets hurt"
+            ]
           }
-        ]
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -42872,123 +44267,164 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Compound-Complex Sentences: Combining Three Ideas",
-        "summary": "Grade 2 Language strand: a compound-complex sentence combines two complete ideas with a joining word, plus an extra dependent idea, all in one sentence.",
-        "resourceLabel": "YouTube: Compound-Complex Sentences: Combining Three Ideas",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Compound-Complex%20Sentences%3A%20Combining%20Three%20Ideas%20grade%202%20educational",
+        "title": "Asking Questions: Wondering About a Story",
+        "summary": "Students practise asking questions before, during, and after reading a story, wondering about characters, events, and what might happen next.",
+        "resourceLabel": "YouTube: Asking Questions: Wondering About a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Asking%20Questions%3A%20Wondering%20About%20a%20Story%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does a compound-complex sentence combine?",
+            "q": "Why might a reader ask questions before starting a story?",
             "options": [
-              "Only a single word",
-              "No punctuation at all",
-              "Two complete ideas and an extra dependent idea",
-              "Only a title"
+              "To wonder what the story might be about",
+              "To skip the whole book",
+              "Questions are never helpful",
+              "To ignore the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a good question to ask while reading a story?",
+            "options": [
+              "Why did the character do that",
+              "What is your favourite colour",
+              "What did you eat for breakfast",
+              "How tall are you"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Asking questions while reading can help a reader ___.",
+            "options": [
+              "Make the story disappear",
+              "Read more slowly for no reason",
+              "Understand the story better",
+              "Forget the story completely"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a writer choose to use a compound-complex sentence?",
+            "q": "Which of these is a question you might ask after finishing a story?",
             "options": [
-              "To remove all meaning from the sentence",
-              "To confuse the reader on purpose",
-              "To make the sentence disappear",
-              "To smoothly combine multiple related ideas"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these is a feature of a compound-complex sentence?",
-            "options": [
-              "It cannot have any punctuation",
-              "It never has a verb",
-              "It joins more than one complete idea together",
-              "It is always exactly one word"
+              "What is your shoe size",
+              "What is the weather",
+              "What happened at the end",
+              "What day is it today"
             ],
             "answer": 2
           },
           {
-            "q": "A compound-complex sentence is generally ___ than a simple sentence.",
+            "q": "Wondering about characters, events, and what happens next is part of ___.",
             "options": [
-              "Exactly the same length",
-              "Impossible to write",
-              "Longer and more detailed",
-              "Always shorter"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Combining ideas smoothly in a sentence can help make writing feel more ___.",
-            "options": [
-              "Confusing",
-              "Connected and clear",
-              "Choppy and broken",
-              "Meaningless"
+              "Ignoring a story",
+              "Asking questions about a story",
+              "Counting pages only",
+              "Writing your name"
             ],
             "answer": 1
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "worksheet": [
+          {
+            "prompt": "Name one question you might ask before reading a story, like what will happen.",
+            "answers": [
+              "what will happen",
+              "who is in it"
+            ]
+          },
+          {
+            "prompt": "Name one question you might ask about a character in a story.",
+            "answers": [
+              "what does the character like",
+              "why did the character do that"
+            ]
+          },
+          {
+            "prompt": "Can asking questions help us understand a story better?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       },
       {
         "subject": "Math",
-        "title": "Measurement: Converting Grams to Kilograms",
-        "summary": "Grade 2 Math strand: students learn that 1000 grams equal 1 kilogram, and practise converting between the two units.",
-        "resourceLabel": "YouTube: Measurement: Converting Grams to Kilograms",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Grams%20to%20Kilograms%20grade%202%20educational",
+        "title": "Money: Loonies and Toonies (Dollar Coins)",
+        "summary": "Students learn to identify the loonie, a coin worth one dollar, and the toonie, a coin worth two dollars, two important Canadian coins used for buying things.",
+        "resourceLabel": "YouTube: Money: Loonies and Toonies (Dollar Coins)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Loonies%20and%20Toonies%20%28Dollar%20Coins%29%20grade%202%20educational",
         "quiz": [
           {
-            "q": "How many grams are in one kilogram?",
+            "q": "What is the name of the Canadian coin worth one dollar?",
             "options": [
-              "10",
-              "10000",
-              "1000",
-              "100"
+              "A dime",
+              "A toonie",
+              "A loonie",
+              "A penny"
             ],
             "answer": 2
           },
           {
-            "q": "If something weighs 2000 grams, how many kilograms is that?",
+            "q": "What is the name of the Canadian coin worth two dollars?",
+            "options": [
+              "A loonie",
+              "A toonie",
+              "A quarter",
+              "A nickel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which coin is worth more, a loonie or a toonie?",
+            "options": [
+              "A toonie",
+              "A loonie",
+              "Cannot tell",
+              "They are equal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you have 1 loonie and 1 toonie, how many dollars do you have in total?",
             "options": [
               "1",
               "2",
-              "20",
-              "3"
+              "3",
+              "4"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Which unit would we usually use to weigh a small paperclip?",
+            "q": "Loonies and toonies are both examples of Canadian ___.",
             "options": [
-              "Metres",
-              "Grams",
-              "Kilograms",
-              "Litres"
+              "Stamps",
+              "Stickers",
+              "Dollar coins",
+              "Paper bills"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Which unit would we usually use to weigh a large bag of rice?",
-            "options": [
-              "Grams only",
-              "Millilitres",
-              "Centimetres",
-              "Kilograms"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Knowing that 1000 grams equal 1 kilogram helps us ___ between units.",
-            "options": [
-              "Erase",
-              "Convert",
-              "Ignore",
-              "Confuse"
-            ],
-            "answer": 1
+            "answer": 2
           }
         ],
-        "topic": "Measurement: Units"
+        "worksheet": [
+          {
+            "prompt": "What is the name of the Canadian coin worth one dollar?",
+            "answers": [
+              "loonie"
+            ]
+          },
+          {
+            "prompt": "What is the name of the Canadian coin worth two dollars?",
+            "answers": [
+              "toonie"
+            ]
+          },
+          {
+            "prompt": "Is a toonie worth more than a loonie?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -43176,63 +44612,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Coordinate Grids: Plotting Points on a Grid",
-        "summary": "Grade 2 Math strand: students learn to plot points on a coordinate grid using two numbers, moving across and then up to find the exact spot.",
-        "resourceLabel": "YouTube: Coordinate Grids: Plotting Points on a Grid",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Coordinate%20Grids%3A%20Plotting%20Points%20on%20a%20Grid%20grade%202%20educational",
+        "title": "2D Shapes: Triangle and Rectangle",
+        "summary": "Students explore two flat shapes, the triangle, with three straight sides, and the rectangle, with four straight sides and four corners, describing their attributes.",
+        "resourceLabel": "YouTube: 2D Shapes: Triangle and Rectangle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=2D%20Shapes%3A%20Triangle%20and%20Rectangle%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What two numbers are used to plot a point on a coordinate grid?",
+            "q": "How many straight sides does a triangle have?",
             "options": [
-              "A horizontal number and a vertical number",
-              "No numbers at all",
-              "Three numbers",
-              "Only one number"
+              "3",
+              "2",
+              "4",
+              "5"
             ],
             "answer": 0
           },
           {
-            "q": "Which direction do we usually move first when plotting a point on a grid?",
+            "q": "How many straight sides does a rectangle have?",
             "options": [
-              "Across, then up",
-              "Up, then across",
-              "We never move",
-              "Diagonally only"
+              "2",
+              "3",
+              "4",
+              "5"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why are coordinate grids useful in math?",
+            "q": "How many corners does a rectangle have?",
             "options": [
-              "They remove the need for numbers",
-              "They have no real use",
-              "They only work with letters",
-              "They help us find an exact location"
+              "5",
+              "4",
+              "2",
+              "3"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "A coordinate grid is made up of a horizontal line and a ___ line.",
+            "q": "Which of these shapes has exactly three sides?",
             "options": [
-              "Dotted",
-              "Diagonal",
-              "Curved",
-              "Vertical"
+              "A square only",
+              "A circle",
+              "A triangle",
+              "A rectangle"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Plotting points on a grid can help us create simple ___.",
+            "q": "A rectangle is best described as a shape with four sides and ___.",
             "options": [
-              "Recipes",
-              "Songs",
-              "Stories with no numbers",
-              "Maps or pictures"
+              "No corners",
+              "Three corners",
+              "One corner",
+              "Four corners"
             ],
             "answer": 3
           }
         ],
-        "topic": "Linear Relations"
+        "worksheet": [
+          {
+            "prompt": "How many straight sides does a triangle have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many straight sides does a rectangle have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Does a rectangle have four corners?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
@@ -43421,60 +44879,81 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Division, Fractions, Data, and Measurement",
-        "summary": "Grade 2 Math strand review: students revisit long division, adding fractions, stem-and-leaf plots, classifying triangles, elapsed time, making change, patterns, and measurement conversions.",
-        "resourceLabel": "YouTube: Math Review: Division, Fractions, Data, and Measurement",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Division%2C%20Fractions%2C%20Data%2C%20and%20Measurement%20grade%202%20educational",
+        "title": "Math Review: Subitizing, Shapes, and Number Sense",
+        "summary": "Students review recent Math skills: subitizing, one-to-one correspondence, position words, 3D shapes, covering space with tiles, ways to make 5, comparing height, money, and 2D shapes.",
+        "resourceLabel": "YouTube: Math Review: Subitizing, Shapes, and Number Sense",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Subitizing%2C%20Shapes%2C%20and%20Number%20Sense%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is 24 divided by 4?",
+            "q": "What do we call knowing how many objects are in a group without counting one by one?",
             "options": [
-              "4",
+              "Measuring",
+              "Erasing",
+              "Sorting",
+              "Subitizing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many flat faces does a cube have?",
+            "options": [
+              "2",
+              "6",
               "8",
-              "5",
-              "6"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is 1/4 + 2/4?",
-            "options": [
-              "2/4",
-              "3/4",
-              "1/2",
-              "4/4"
+              "4"
             ],
             "answer": 1
           },
           {
-            "q": "What is a triangle with three equal sides called?",
+            "q": "Which two numbers add together to make 5?",
             "options": [
-              "Isosceles",
-              "Obtuse",
-              "Scalene",
-              "Equilateral"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If something costs 3 dollars and you pay with a 5 dollar bill, how much change do you get?",
-            "options": [
-              "4 dollars",
-              "2 dollars",
-              "1 dollar",
-              "3 dollars"
+              "1 and 1",
+              "2 and 3",
+              "2 and 4",
+              "3 and 3"
             ],
             "answer": 1
           },
           {
-            "q": "How many grams are in one kilogram?",
+            "q": "What is the name of the Canadian coin worth one dollar?",
             "options": [
-              "1000",
-              "100",
-              "10",
-              "10000"
+              "A loonie",
+              "A dime",
+              "A penny",
+              "A toonie"
             ],
             "answer": 0
+          },
+          {
+            "q": "How many straight sides does a triangle have?",
+            "options": [
+              "4",
+              "5",
+              "2",
+              "3"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call knowing how many objects are in a small group without counting?",
+            "answers": [
+              "subitizing"
+            ]
+          },
+          {
+            "prompt": "What do we call the flat sides of a 3D shape?",
+            "answers": [
+              "faces"
+            ]
+          },
+          {
+            "prompt": "Which two numbers add together to make 5, using 2 and another number?",
+            "answers": [
+              "2 and 3",
+              "3"
+            ]
           }
         ]
       },
@@ -43664,123 +45143,171 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data: Line Graphs Showing Change Over Time",
-        "summary": "Grade 2 Math strand: a line graph uses points connected by lines to show how something changes over time, such as temperature over a week.",
-        "resourceLabel": "YouTube: Data: Line Graphs Showing Change Over Time",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Line%20Graphs%20Showing%20Change%20Over%20Time%20grade%202%20educational",
+        "title": "Venn Diagrams: Sorting into Two Groups",
+        "summary": "Students learn to use a Venn diagram, two overlapping circles, to sort objects into groups based on whether they share a certain attribute, like colour or shape.",
+        "resourceLabel": "YouTube: Venn Diagrams: Sorting into Two Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Venn%20Diagrams%3A%20Sorting%20into%20Two%20Groups%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does a line graph show?",
+            "q": "What shape do we usually use to sort objects into two groups on a Venn diagram?",
             "options": [
-              "A single number only",
-              "How something changes over time",
-              "A list of names",
-              "A shape"
+              "One square",
+              "Two overlapping circles",
+              "A triangle",
+              "A straight line"
             ],
             "answer": 1
           },
           {
-            "q": "What connects the points on a line graph?",
+            "q": "If you sort toys by colour using a Venn diagram, what are you grouping toys by?",
             "options": [
-              "Squares",
-              "Circles",
-              "Lines",
-              "Bars"
+              "Their weight",
+              "Their smell",
+              "Their colour",
+              "Their sound"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these would a line graph be good for showing?",
+            "q": "Where would an object go if it belongs in both circles of a Venn diagram?",
             "options": [
-              "Temperature changing each day of the week",
-              "A single students name",
-              "The title of a book",
-              "The colour of a shirt"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If a line graph slopes upward, what does that usually mean?",
-            "options": [
-              "There is no data",
-              "The value is staying the same",
-              "The value is increasing",
-              "The value is unknown"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A line graph is especially useful for showing data over ___.",
-            "options": [
-              "A single moment",
-              "Colours",
-              "Time",
-              "No particular order"
-            ],
-            "answer": 2
-          }
-        ],
-        "topic": "Statistics & Data"
-      },
-      {
-        "subject": "Science",
-        "title": "The Digestive System: How Our Body Uses Food",
-        "summary": "Grade 2 Science strand: the digestive system breaks down the food we eat so our body can use it for energy and growth.",
-        "resourceLabel": "YouTube: The Digestive System: How Our Body Uses Food",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Digestive%20System%3A%20How%20Our%20Body%20Uses%20Food%20grade%202%20educational",
-        "quiz": [
-          {
-            "q": "What does the digestive system do?",
-            "options": [
-              "Pumps blood through the body",
-              "Helps us see",
-              "Helps us hear",
-              "Breaks down food so the body can use it"
+              "Only in the right circle",
+              "Only in the left circle",
+              "Outside both circles",
+              "In the middle part where the circles overlap"
             ],
             "answer": 3
           },
           {
-            "q": "Why does our body need to break down food?",
+            "q": "A Venn diagram helps us ___.",
             "options": [
-              "To change the food into water only",
-              "Food has no purpose in the body",
-              "To get energy and nutrients for growth",
-              "To make the food disappear completely"
+              "Count to 100",
+              "Sort and compare objects into groups",
+              "Measure how loud something is",
+              "Tell time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could you sort using a Venn diagram?",
+            "options": [
+              "A song",
+              "A single number",
+              "Toys sorted by colour and shape",
+              "A shadow"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a Venn diagram has two circles, how many groups can objects be sorted into using them?",
+            "answers": [
+              "two",
+              "2"
+            ]
+          },
+          {
+            "prompt": "Name one way you could sort toys into two circles, like by colour or shape.",
+            "answers": [
+              "colour",
+              "shape",
+              "size"
+            ]
+          },
+          {
+            "prompt": "If an object fits in both circles, where might it go in a Venn diagram?",
+            "answers": [
+              "in the middle",
+              "overlapping part",
+              "where the circles overlap"
+            ]
+          }
+        ],
+        "topic": "Data Literacy"
+      },
+      {
+        "subject": "Science",
+        "title": "Icebergs: Giant Pieces of Floating Ice",
+        "summary": "Kindergarten Science strand: an iceberg is a huge piece of ice that has broken off a glacier and floats in the ocean, with most of it hidden underwater.",
+        "resourceLabel": "YouTube: Icebergs: Giant Pieces of Floating Ice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Icebergs%3A%20Giant%20Pieces%20of%20Floating%20Ice%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an iceberg?",
+            "options": [
+              "A huge piece of floating ice",
+              "A kind of boat",
+              "A warm ocean current",
+              "A type of fish"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does an iceberg usually come from?",
+            "options": [
+              "It breaks off a glacier",
+              "It is made in a factory",
+              "It grows from the ocean floor",
+              "It falls from the sky as one piece"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of an iceberg is usually hidden underwater?",
+            "options": [
+              "All of it floats on top",
+              "None of it",
+              "Most of it",
+              "A tiny bit"
             ],
             "answer": 2
           },
           {
-            "q": "Where does digestion begin?",
+            "q": "Why can icebergs be dangerous for ships?",
             "options": [
-              "In the hair",
-              "In the mouth, with chewing",
-              "In the ears",
-              "In the feet"
+              "They make loud warning sounds",
+              "A large hidden part is underwater and hard to see",
+              "They never move",
+              "They are always painted bright colours"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these is part of the digestive system?",
+            "q": "Icebergs are found in very ___ parts of the ocean.",
             "options": [
-              "The ear",
-              "The stomach",
-              "The skin only",
-              "The eye"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "After food is digested, the body uses the nutrients to ___.",
-            "options": [
-              "Grow and have energy",
-              "Change colour",
-              "Stop growing completely",
-              "Lose all its energy"
+              "Cold",
+              "Sandy",
+              "Hot",
+              "Dry"
             ],
             "answer": 0
           }
         ],
-        "topic": "Human Body Systems"
+        "worksheet": [
+          {
+            "prompt": "What is an iceberg?",
+            "answers": [
+              "a huge piece of floating ice",
+              "a giant piece of ice in the ocean"
+            ]
+          },
+          {
+            "prompt": "Where does an iceberg come from?",
+            "answers": [
+              "it breaks off a glacier",
+              "a glacier"
+            ]
+          },
+          {
+            "prompt": "Is most of an iceberg above or below the water?",
+            "answers": [
+              "below the water",
+              "below"
+            ]
+          }
+        ],
+        "topic": "Rocks, Fossils & Earth's History"
       },
       {
         "subject": "SocialStudies",
@@ -43910,60 +45437,82 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Parallel and Perpendicular Lines",
-        "summary": "Grade 2 Math strand: parallel lines run side by side and never meet, while perpendicular lines cross each other to form a right angle.",
-        "resourceLabel": "YouTube: Geometry: Parallel and Perpendicular Lines",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Parallel%20and%20Perpendicular%20Lines%20grade%202%20educational",
+        "title": "3D Shapes: Which Ones Roll, Stack, or Slide",
+        "summary": "Students explore 3D shapes by testing whether each one rolls, like a sphere, stacks, like a cube, or slides, like the flat face of a cylinder.",
+        "resourceLabel": "YouTube: 3D Shapes: Which Ones Roll, Stack, or Slide",
+        "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Which%20Ones%20Roll%2C%20Stack%2C%20or%20Slide%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What do parallel lines never do?",
+            "q": "Which 3D shape rolls easily because it is round all over?",
             "options": [
-              "Touch a point",
-              "Meet or cross",
-              "Bend",
-              "Stay straight"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What do perpendicular lines form where they cross?",
-            "options": [
-              "No angle at all",
-              "A circle",
-              "A right angle",
-              "A curve"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is an example of parallel lines?",
-            "options": [
-              "The hands of a clock at three oclock",
-              "A single straight line",
-              "A circle",
-              "The two rails of a train track"
+              "Cone standing up",
+              "Rectangular prism",
+              "Cube",
+              "Sphere"
             ],
             "answer": 3
           },
           {
-            "q": "Perpendicular lines cross at an angle of how many degrees?",
+            "q": "Why can a cube stack easily on top of another cube?",
             "options": [
-              "180 degrees",
-              "0 degrees",
-              "90 degrees",
-              "45 degrees"
+              "It has flat faces",
+              "It has no faces",
+              "It rolls away",
+              "It is round"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might builders use parallel and perpendicular lines when constructing a building?",
+            "q": "Which 3D shape can both roll and stack, depending on how it is placed?",
             "options": [
-              "To make the building crooked on purpose",
-              "To make sure walls and floors line up correctly",
-              "They have no use in construction",
-              "To remove the need for measurement"
+              "None of these",
+              "A sphere only",
+              "A cube only",
+              "A cylinder"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Which shape would NOT roll well because it has flat faces and corners?",
+            "options": [
+              "A sphere",
+              "A round marble",
+              "A ball",
+              "A cube"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Testing whether shapes roll, stack, or slide helps us learn about their ___.",
+            "options": [
+              "Colours",
+              "Sounds",
+              "Smells",
+              "Attributes"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Would a round sphere, like a ball, roll or stay still?",
+            "answers": [
+              "roll"
+            ]
+          },
+          {
+            "prompt": "Would a cube, with flat faces, be easy to stack on top of another cube?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one 3D shape that can roll, like a sphere or cylinder.",
+            "answers": [
+              "sphere",
+              "cylinder",
+              "ball"
+            ]
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -44520,63 +46069,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Municipal Taxes: How Cities Pay for Services",
-        "summary": "Grade 2 Social Studies strand: municipal taxes are money collected by a city or town from residents to help pay for services like roads, parks, and libraries.",
-        "resourceLabel": "YouTube: Municipal Taxes: How Cities Pay for Services",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Municipal%20Taxes%3A%20How%20Cities%20Pay%20for%20Services%20grade%202%20educational",
+        "title": "Seasons Around the World: Not Everywhere Has Snow",
+        "summary": "Kindergarten Social Studies strand: different places around the world have different weather and seasons; some places are always warm and never see snow.",
+        "resourceLabel": "YouTube: Seasons Around the World: Not Everywhere Has Snow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Seasons%20Around%20the%20World%3A%20Not%20Everywhere%20Has%20Snow%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What are municipal taxes?",
+            "q": "Do all countries have snowy winters?",
             "options": [
-              "Money collected by a city to pay for services",
-              "A type of sport",
-              "A type of holiday",
-              "A kind of weather"
+              "Only Canada has weather",
+              "Snow falls everywhere equally",
+              "Yes, every country",
+              "No, some places stay warm"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Which of these might municipal taxes help pay for?",
+            "q": "Why might someone in a warm country never see snow?",
             "options": [
-              "Roads, parks, and libraries",
-              "Only one persons house",
-              "Nothing at all",
-              "Only private businesses"
+              "Snow is not real",
+              "Their weather stays warm all year",
+              "They have no seasons at all",
+              "They do not like snow"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Who usually pays municipal taxes?",
+            "q": "People dress differently around the world mostly because of ___.",
             "options": [
-              "Residents of a city or town",
-              "Only visitors passing through",
-              "Only children",
-              "No one"
+              "Their favourite colour",
+              "Random choices",
+              "Different weather and climates",
+              "School rules"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why does a city need money from taxes?",
+            "q": "Which clothing suits a very warm place?",
             "options": [
-              "To provide services that benefit the whole community",
-              "To pay for things in other countries only",
-              "To keep the money hidden away",
-              "Cities need no money at all"
+              "Mittens",
+              "Light, cool clothing",
+              "Snow boots",
+              "A heavy winter coat"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Municipal taxes are an example of how a community works together to ___.",
+            "q": "Learning about weather around the world helps us understand ___.",
             "options": [
-              "Avoid helping each other",
-              "Remove all public services",
-              "Ignore community needs",
-              "Fund shared services"
+              "That snow falls everywhere",
+              "Nothing important",
+              "That everyone lives the same way",
+              "That places can be very different"
             ],
             "answer": 3
           }
         ],
-        "topic": "Local Community & Civic Participation"
+        "worksheet": [
+          {
+            "prompt": "Do all places in the world get snow?",
+            "answers": [
+              "no",
+              "not all places"
+            ]
+          },
+          {
+            "prompt": "Name a kind of place that is always warm.",
+            "answers": [
+              "a hot country",
+              "near the equator"
+            ]
+          },
+          {
+            "prompt": "Why might people dress differently in different countries?",
+            "answers": [
+              "different weather",
+              "the weather is different there"
+            ]
+          }
+        ],
+        "topic": "Families & Diversity (Basic)"
       }
     ]
   },
@@ -44706,63 +46278,82 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Biodiversity: Many Kinds of Living Things in One Place",
-        "summary": "Grade 2 Science strand: biodiversity means having many different kinds of living things, like plants, animals, and insects, living together in one area.",
-        "resourceLabel": "YouTube: Biodiversity: Many Kinds of Living Things in One Place",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Biodiversity%3A%20Many%20Kinds%20of%20Living%20Things%20in%20One%20Place%20grade%202%20educational",
+        "title": "Science Review: Ladybugs, Animals, and Our Bodies",
+        "summary": "Kindergarten Science strand review: students revisit the ladybug life cycle, beavers, bread making, recycling symbols, our immune system, simple circuits, animal tracks, camels, and icebergs.",
+        "resourceLabel": "YouTube: Science Review: Ladybugs, Animals, and Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Ladybugs%2C%20Animals%2C%20and%20Our%20Bodies%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does biodiversity mean?",
+            "q": "What is the first stage of a ladybugs life cycle?",
             "options": [
-              "Having no living things at all",
-              "Having only one kind of animal",
-              "Having many different kinds of living things in one area",
-              "Having only rocks and sand"
+              "Adult",
+              "Pupa",
+              "Egg",
+              "Larva"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these describes a place with high biodiversity?",
+            "q": "What animal is the national animal of Canada?",
             "options": [
-              "A room with no plants or animals",
-              "A single house with one pet",
-              "A rainforest with many different species",
-              "An empty parking lot"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is biodiversity important for an ecosystem?",
-            "options": [
-              "It removes the need for any species",
-              "It helps the ecosystem stay healthy and balanced",
-              "It always causes harm",
-              "It has no importance at all"
+              "The polar bear",
+              "The beaver",
+              "The moose",
+              "The loon"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these could reduce biodiversity in an area?",
+            "q": "What is the main job of our immune system?",
             "options": [
-              "Protecting many species",
-              "Creating nature reserves",
-              "Destroying habitats",
-              "Planting more variety of plants"
+              "Helping us see",
+              "Helping us hear",
+              "Fighting off germs to keep us healthy",
+              "Helping us taste food"
             ],
             "answer": 2
           },
           {
-            "q": "A healthy ecosystem usually has ___ different kinds of living things.",
+            "q": "What provides the power in a simple circuit?",
             "options": [
-              "No particular number of",
-              "Zero",
-              "Many",
-              "Exactly one"
+              "A battery",
+              "A cup of water",
+              "A rock",
+              "Sunlight only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of habitat are camels well suited for?",
+            "options": [
+              "The Arctic",
+              "The rainforest",
+              "The desert",
+              "The ocean"
             ],
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a ladybugs life cycle?",
+            "answers": [
+              "egg"
+            ]
+          },
+          {
+            "prompt": "What animal is Canadas national animal?",
+            "answers": [
+              "the beaver"
+            ]
+          },
+          {
+            "prompt": "What is the main job of our immune system?",
+            "answers": [
+              "fighting off germs"
+            ]
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -44832,63 +46423,83 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Assonance and Consonance: Sound Patterns in Poetry",
-        "summary": "Grade 2 Language strand: assonance repeats vowel sounds within nearby words, while consonance repeats consonant sounds, and both create musical patterns in poetry.",
-        "resourceLabel": "YouTube: Assonance and Consonance: Sound Patterns in Poetry",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Assonance%20and%20Consonance%3A%20Sound%20Patterns%20in%20Poetry%20grade%202%20educational",
+        "title": "Print Concepts: Return Sweep (Reading Top to Bottom)",
+        "summary": "Students learn about the return sweep, the way a reader eyes move from the end of one line of text back to the start of the next line below it.",
+        "resourceLabel": "YouTube: Print Concepts: Return Sweep (Reading Top to Bottom)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Return%20Sweep%20%28Reading%20Top%20to%20Bottom%29%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does assonance repeat?",
+            "q": "What do we call the eye movement from the end of one line of text back to the start of the next line?",
             "options": [
-              "Only the first letter of a word",
-              "Vowel sounds within nearby words",
-              "Punctuation marks",
-              "Whole sentences"
+              "The author",
+              "The title",
+              "The cover",
+              "The return sweep"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What does consonance repeat?",
+            "q": "After finishing a line of text, where should a readers eyes move next?",
             "options": [
-              "Whole paragraphs",
-              "Only vowel letters",
-              "Consonant sounds within nearby words",
-              "Titles of poems"
+              "Up to the top of the page only",
+              "Back to the very first word of the book",
+              "Down to the start of the next line",
+              "Off the page completely"
             ],
             "answer": 2
           },
           {
-            "q": "Which is an example of assonance?",
+            "q": "Do we usually read a page from top to bottom?",
             "options": [
-              "The rain in Spain falls mainly",
-              "A quiet cat sat",
-              "The sky is blue",
-              "A loud dog ran"
+              "Never",
+              "Only sometimes",
+              "Yes",
+              "No"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the return sweep an important print concept for new readers?",
+            "options": [
+              "It helps readers know where to continue reading next",
+              "It has no real purpose",
+              "It tells us the title of the book",
+              "It only matters for pictures"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a poet use assonance or consonance?",
+            "q": "Understanding the return sweep helps readers follow the text in the correct ___.",
             "options": [
-              "To create a musical, pleasing sound pattern",
-              "To confuse the reader on purpose",
-              "To remove all sound from the poem",
-              "To make the poem impossible to read"
+              "Volume",
+              "Smell",
+              "Order",
+              "Colour"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Assonance and consonance are both examples of ___ in poetry.",
-            "options": [
-              "Sound patterns",
-              "Punctuation marks",
-              "Story elements",
-              "Grammar rules"
-            ],
-            "answer": 0
+            "answer": 2
           }
         ],
-        "topic": "Reading: Poetry"
+        "worksheet": [
+          {
+            "prompt": "After reading to the end of a line of text, where do our eyes move next?",
+            "answers": [
+              "down to the next line",
+              "next line"
+            ]
+          },
+          {
+            "prompt": "Do we read a page from top to bottom, one line after another?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What do we call the eye movement from the end of one line back to the start of the next line?",
+            "answers": [
+              "return sweep"
+            ]
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -45196,122 +46807,165 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Keystone Species: Animals That Hold Ecosystems Together",
-        "summary": "Grade 2 Science strand: a keystone species is an animal that has a very large effect on its ecosystem, helping keep many other plants and animals in balance.",
-        "resourceLabel": "YouTube: Keystone Species: Animals That Hold Ecosystems Together",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Keystone%20Species%3A%20Animals%20That%20Hold%20Ecosystems%20Together%20grade%202%20educational",
+        "title": "Science Review: Seasons, Life Cycles, and Habitats",
+        "summary": "Kindergarten Science strand review: students revisit the summer season, the life cycle of a salmon, ants, kangaroos, sharks, our stomach, desert habitats, hibernation, and meteors.",
+        "resourceLabel": "YouTube: Science Review: Seasons, Life Cycles, and Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Seasons%2C%20Life%20Cycles%2C%20and%20Habitats%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a keystone species?",
+            "q": "What is summer weather usually like?",
             "options": [
-              "A kind of plant that never grows",
-              "Any animal with no effect on nature",
-              "A type of rock",
-              "An animal with a very large effect on its ecosystem"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What might happen if a keystone species disappeared from its ecosystem?",
-            "options": [
-              "Every other species would disappear too, with no cause",
-              "The ecosystem could become unbalanced",
-              "The ecosystem would instantly improve",
-              "Nothing would change at all"
+              "Cold and snowy",
+              "Warm and sunny",
+              "Always rainy",
+              "Very windy only"
             ],
             "answer": 1
           },
           {
-            "q": "Why do scientists pay close attention to keystone species?",
+            "q": "Where does a salmon life cycle begin?",
             "options": [
-              "They have no importance in an ecosystem",
-              "They cause every ecosystem to fail",
-              "Because they help keep an ecosystem healthy and balanced",
-              "They only exist in stories"
+              "As an egg in a river",
+              "As an egg in the desert",
+              "As an egg on a mountain",
+              "As an adult in the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a large group of ants living together called?",
+            "options": [
+              "A herd",
+              "A flock",
+              "A colony",
+              "A pack"
             ],
             "answer": 2
           },
           {
-            "q": "A keystone species can be thought of as important because it ___.",
+            "q": "What kind of animal is a shark?",
             "options": [
-              "Has no connection to its habitat",
-              "Supports many other living things around it",
-              "Lives completely alone with no effect",
-              "Only eats rocks"
+              "An amphibian",
+              "A fish",
+              "A reptile",
+              "A mammal"
             ],
             "answer": 1
           },
           {
-            "q": "Keystone species help scientists understand how living things are ___.",
+            "q": "What is hibernation?",
             "options": [
-              "Impossible to study",
-              "Completely separate from each other",
-              "Unimportant to nature",
-              "Connected to each other"
+              "A type of food",
+              "A kind of nest",
+              "A dance animals do in summer",
+              "A deep sleep some animals take during winter"
             ],
             "answer": 3
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "worksheet": [
+          {
+            "prompt": "What is summer weather usually like?",
+            "answers": [
+              "warm and sunny"
+            ]
+          },
+          {
+            "prompt": "What is a baby kangaroo called?",
+            "answers": [
+              "a joey"
+            ]
+          },
+          {
+            "prompt": "What is hibernation?",
+            "answers": [
+              "a deep winter sleep"
+            ]
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "The Lieutenant Governor: A Provincial Representative of the Crown",
-        "summary": "Grade 2 Social Studies strand: the lieutenant governor is a ceremonial representative of the Crown in each province, similar to the Governor General at the national level.",
-        "resourceLabel": "YouTube: The Lieutenant Governor: A Provincial Representative of the Crown",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Lieutenant%20Governor%3A%20A%20Provincial%20Representative%20of%20the%20Crown%20grade%202%20educational",
+        "title": "Sharing Chores: Helping as a Family Team",
+        "summary": "Kindergarten Social Studies strand: family members share chores, such as cleaning up or setting the table, working together as a team at home.",
+        "resourceLabel": "YouTube: Sharing Chores: Helping as a Family Team",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sharing%20Chores%3A%20Helping%20as%20a%20Family%20Team%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What role does a lieutenant governor represent?",
+            "q": "What is a chore?",
             "options": [
-              "The mayor of a city",
-              "A local shop owner",
-              "A school principal",
-              "A ceremonial representative of the Crown in a province"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is the lieutenant governor role found at the provincial or federal level?",
-            "options": [
-              "It does not exist in Canada",
-              "The provincial level",
-              "The federal level only",
-              "The municipal level only"
+              "A game",
+              "A job or task to help at home",
+              "A holiday",
+              "A snack"
             ],
             "answer": 1
           },
           {
-            "q": "Which national role is similar to a provincial lieutenant governor?",
+            "q": "Why do families share chores?",
             "options": [
-              "The Prime Minister",
-              "A mayor",
-              "The Governor General",
-              "A school teacher"
+              "To make more mess",
+              "Chores are not helpful",
+              "To help each other and work as a team",
+              "Only grown-ups should help"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of duties does a lieutenant governor often perform?",
+            "q": "Which is an example of a chore?",
             "options": [
-              "Ceremonial duties, such as opening a legislature session",
-              "Driving school buses",
-              "Coaching sports teams",
-              "Cooking meals for the province"
+              "Sleeping",
+              "Watching television",
+              "Playing outside",
+              "Setting the table"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might a family feel when everyone helps with chores?",
+            "options": [
+              "Proud and happy",
+              "Bored",
+              "Angry",
+              "Confused"
             ],
             "answer": 0
           },
           {
-            "q": "Each Canadian province has its own ___.",
+            "q": "Doing chores can teach children to be ___.",
             "options": [
-              "Lieutenant governor",
-              "Ocean",
-              "Country",
-              "National anthem"
+              "Responsible",
+              "Lazy",
+              "Careless",
+              "Unkind"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one chore you can do at home.",
+            "answers": [
+              "clean up",
+              "set the table"
+            ]
+          },
+          {
+            "prompt": "Why do families share chores?",
+            "answers": [
+              "to help each other",
+              "work as a team"
+            ]
+          },
+          {
+            "prompt": "How do you feel when you help at home?",
+            "answers": [
+              "happy",
+              "proud"
+            ]
+          }
+        ],
+        "topic": "Civic Life & Cooperation (Basic)"
       }
     ]
   },
@@ -45381,63 +47035,94 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Fractions: Comparing Fractions with Different Denominators Using Models",
-        "summary": "Grade 2 Math strand: students use visual models, like fraction bars or circles, to compare fractions that have different denominators.",
-        "resourceLabel": "YouTube: Fractions: Comparing Fractions with Different Denominators Using Models",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20Fractions%20with%20Different%20Denominators%20Using%20Models%20grade%202%20educational",
+        "title": "Calendar: Months of the Year",
+        "summary": "Students learn that a year is divided into twelve months, such as January and July, and that a calendar helps us keep track of days, weeks, and months.",
+        "resourceLabel": "YouTube: Calendar: Months of the Year",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calendar%3A%20Months%20of%20the%20Year%20grade%202%20educational",
         "quiz": [
           {
-            "q": "Why are visual models helpful when comparing fractions with different denominators?",
+            "q": "How many months are there in one year?",
             "options": [
-              "They only work with whole numbers",
-              "They help us see which fraction is larger",
-              "They remove the need for numbers",
-              "They make fractions disappear"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Using a model, which is larger, 1/2 or 1/4?",
-            "options": [
-              "Cannot be compared",
-              "They are equal",
-              "1/2",
-              "1/4"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Using a model, which is larger, 1/3 or 1/6?",
-            "options": [
-              "Cannot be compared",
-              "They are equal",
-              "1/3",
-              "1/6"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "When the numerator is the same, a fraction with a smaller denominator is usually ___.",
-            "options": [
-              "Larger",
-              "Smaller",
-              "Equal to zero",
-              "Impossible to compare"
+              "12",
+              "7",
+              "4",
+              "52"
             ],
             "answer": 0
           },
           {
-            "q": "A fraction bar model divided into more equal parts shows ___ pieces.",
+            "q": "Which of these is a month of the year?",
             "options": [
-              "No",
-              "Larger",
-              "The same size",
-              "Smaller"
+              "Monday",
+              "Summer",
+              "July",
+              "Morning"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "What tool helps us keep track of days, weeks, and months?",
+            "options": [
+              "A thermometer",
+              "A calendar",
+              "A scale",
+              "A ruler"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which month often comes right after December, starting a new year?",
+            "options": [
+              "January",
+              "March",
+              "October",
+              "June"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A year is made up of twelve ___.",
+            "options": [
+              "Months",
+              "Minutes only",
+              "Days only",
+              "Hours only"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Fractions"
+        "worksheet": [
+          {
+            "prompt": "How many months are there in a year?",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "Name one month of the year, like January or July.",
+            "answers": [
+              "January",
+              "February",
+              "March",
+              "April",
+              "May",
+              "June",
+              "July",
+              "August",
+              "September",
+              "October",
+              "November",
+              "December"
+            ]
+          },
+          {
+            "prompt": "Does a calendar help us keep track of days and months?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -45500,60 +47185,83 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Citizenship: Becoming a Canadian",
-        "summary": "Grade 2 Social Studies strand: Canadian citizenship is the process by which a person officially becomes a member of Canada, often including learning about the countrys history and values.",
-        "resourceLabel": "YouTube: Canadian Citizenship: Becoming a Canadian",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Citizenship%3A%20Becoming%20a%20Canadian%20grade%202%20educational",
+        "title": "Being a Leader: Taking Turns to Lead",
+        "summary": "Kindergarten Social Studies strand: leaders help guide a group, and everyone can practise being a leader by taking turns leading a line or a game.",
+        "resourceLabel": "YouTube: Being a Leader: Taking Turns to Lead",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Leader%3A%20Taking%20Turns%20to%20Lead%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is Canadian citizenship?",
+            "q": "What does a leader do for a group?",
             "options": [
-              "A kind of weather",
-              "A type of food",
-              "A type of holiday",
-              "Officially becoming a member of Canada"
+              "Ignores them",
+              "Confuses them",
+              "Leaves them alone",
+              "Guides and helps them"
             ],
             "answer": 3
           },
           {
-            "q": "What might someone learn about before becoming a Canadian citizen?",
+            "q": "Which is an example of leading at school?",
             "options": [
-              "Only weather patterns",
-              "Canadas history and values",
-              "Only sports scores",
-              "Only recipes"
+              "Refusing to share",
+              "Ignoring the teacher",
+              "Leading the line to the gym",
+              "Sitting alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should everyone get a turn to be leader?",
+            "options": [
+              "Only some people should lead",
+              "It is fair and everyone learns",
+              "It does not matter",
+              "Leaders are always the same person"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a person choose to become a Canadian citizen?",
+            "q": "A good leader treats classmates with ___.",
             "options": [
-              "To fully participate in Canadian society, including voting",
-              "To avoid all responsibilities",
-              "It has no benefit at all",
-              "To stop living in Canada"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these could be part of becoming a citizen?",
-            "options": [
-              "Taking a citizenship test and ceremony",
-              "Ignoring all Canadian laws",
-              "Ending all connections to Canada",
-              "Never learning about Canada"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "New citizens joining Canada can add to the countrys ___.",
-            "options": [
+              "Respect",
+              "Unkindness",
               "Silence",
-              "Diversity and community",
-              "Isolation",
-              "Emptiness"
+              "Confusion"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "Taking turns leading helps children practise ___.",
+            "options": [
+              "Responsibility",
+              "Being unfair",
+              "Ignoring others",
+              "Hiding"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a leader?",
+            "answers": [
+              "someone who guides others",
+              "a person who leads"
+            ]
+          },
+          {
+            "prompt": "Name a time you might be a leader at school.",
+            "answers": [
+              "leading a line",
+              "leading a game"
+            ]
+          },
+          {
+            "prompt": "Why is it good to take turns leading?",
+            "answers": [
+              "everyone gets a chance",
+              "fair for everyone"
+            ]
           }
         ]
       }
@@ -46230,62 +47938,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Supreme Court of Canada: The Highest Court in the Land",
-        "summary": "Grade 2 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on the most important legal cases.",
-        "resourceLabel": "YouTube: The Supreme Court of Canada: The Highest Court in the Land",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Supreme%20Court%20of%20Canada%3A%20The%20Highest%20Court%20in%20the%20Land%20grade%202%20educational",
+        "title": "Our School Bus Driver: Getting Us There Safely",
+        "summary": "Kindergarten Social Studies strand: the school bus driver is a community helper who drives students safely to and from school every day.",
+        "resourceLabel": "YouTube: Our School Bus Driver: Getting Us There Safely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20There%20Safely%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the Supreme Court of Canada?",
+            "q": "Who is responsible for driving the school bus?",
             "options": [
-              "The highest court in the country",
-              "A type of school",
-              "A local library",
-              "A city council"
+              "The principal",
+              "A parent only",
+              "The bus driver",
+              "A student"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What does the Supreme Court do?",
+            "q": "What is the main job of a bus driver?",
             "options": [
-              "Delivers mail",
-              "Builds roads",
-              "Teaches students",
-              "Makes final decisions on the most important legal cases"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the Supreme Court considered the highest court?",
-            "options": [
-              "It has no real power",
-              "Its decisions are final and cannot be appealed to a higher court",
-              "It only handles minor disagreements",
-              "It is the smallest court"
+              "Teach lessons",
+              "Drive students safely",
+              "Clean classrooms",
+              "Cook lunch"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these might the Supreme Court decide on?",
+            "q": "Which is a good bus safety rule?",
             "options": [
-              "Important legal questions affecting the whole country",
-              "What food to serve at lunch",
-              "What time recess starts",
-              "Which movie to watch"
+              "Staying seated and quiet",
+              "Standing up while the bus moves",
+              "Yelling loudly",
+              "Sticking arms out the window"
             ],
             "answer": 0
           },
           {
-            "q": "The word supreme in Supreme Court means ___.",
+            "q": "Why should students listen to the bus driver?",
             "options": [
-              "Newest",
-              "Quietest",
-              "Highest or greatest",
-              "Smallest"
+              "It does not matter",
+              "Drivers give no instructions",
+              "Only for fun",
+              "To stay safe on the ride"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A bus driver helps the school community by ___.",
+            "options": [
+              "Fixing computers",
+              "Selling snacks",
+              "Getting students there safely",
+              "Grading homework"
             ],
             "answer": 2
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who drives the school bus?",
+            "answers": [
+              "the bus driver",
+              "a bus driver"
+            ]
+          },
+          {
+            "prompt": "What is the bus drivers job?",
+            "answers": [
+              "drive us safely",
+              "take students to school"
+            ]
+          },
+          {
+            "prompt": "Name one rule for riding the bus safely.",
+            "answers": [
+              "stay seated",
+              "listen to the driver"
+            ]
+          }
+        ],
+        "topic": "Community Helpers & Civic Roles (Basic)"
       }
     ]
   },
@@ -48554,63 +50286,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Fractions: Subtracting Fractions with the Same Denominator",
-        "summary": "Grade 2 Math strand: when two fractions share the same denominator, you can subtract them by keeping the denominator the same and subtracting only the numerators.",
-        "resourceLabel": "YouTube: Fractions: Subtracting Fractions with the Same Denominator",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Subtracting%20Fractions%20with%20the%20Same%20Denominator%20grade%202%20educational",
+        "title": "Counting Backwards from 10 to 1",
+        "summary": "Students practise counting backwards, starting at 10 and saying each number in order down to 1, a skill often used during a countdown.",
+        "resourceLabel": "YouTube: Counting Backwards from 10 to 1",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Backwards%20from%2010%20to%201%20grade%202%20educational",
         "quiz": [
           {
-            "q": "When subtracting fractions with the same denominator, what stays the same?",
+            "q": "If you count backwards starting at 10, what number comes next?",
             "options": [
-              "Nothing stays the same",
-              "Both numbers change",
-              "The numerator",
-              "The denominator"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is three-quarters minus one-quarter?",
-            "options": [
-              "One whole",
-              "One-half",
-              "Three-quarters",
-              "One-quarter"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "To subtract fractions with the same denominator, you subtract the ___.",
-            "options": [
-              "Nothing at all",
-              "Numerators",
-              "Whole numbers only",
-              "Denominators"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is four-fifths minus two-fifths?",
-            "options": [
-              "Four-fifths",
-              "One-fifth",
-              "Two-fifths",
-              "Six-fifths"
+              "11",
+              "8",
+              "9",
+              "7"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it easier to subtract fractions when the denominators match?",
+            "q": "If you count backwards from 5, what number comes right after 5?",
             "options": [
-              "The numerators disappear",
-              "The parts are already the same size",
-              "Fractions with the same denominator cannot be compared",
-              "Matching denominators make the problem impossible"
+              "3",
+              "6",
+              "4",
+              "10"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "What is the last number you say when counting backwards down to 1?",
+            "options": [
+              "1",
+              "0",
+              "10",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Counting backwards from 10 to 1 is often used during a ___.",
+            "options": [
+              "Story",
+              "Recipe",
+              "Countdown",
+              "Song"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which list correctly shows numbers counting backwards from 5?",
+            "options": [
+              "5, 4, 3, 2, 1",
+              "1, 3, 5, 2, 4",
+              "1, 2, 3, 4, 5",
+              "5, 3, 1, 2, 4"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Fractions"
+        "worksheet": [
+          {
+            "prompt": "If you count backwards starting at 10, what number comes right after 10?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          },
+          {
+            "prompt": "If you count backwards from 5, what number comes right after 5?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "What is the last number you say when counting backwards all the way down to 1?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -48674,62 +50429,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The House of Commons: Where Canadas Laws Begin",
-        "summary": "Grade 2 Social Studies strand: the House of Commons is the part of the Canadian Parliament where elected Members of Parliament debate and vote on new laws.",
-        "resourceLabel": "YouTube: The House of Commons: Where Canadas Laws Begin",
-        "resourceUrl": "https://www.youtube.com/results?search_query=The%20House%20of%20Commons%3A%20Where%20Canadas%20Laws%20Begin%20grade%202%20educational",
+        "title": "Land Acknowledgement: Honouring Indigenous Land",
+        "summary": "Kindergarten Social Studies strand: a land acknowledgement is a respectful way of recognizing that Indigenous peoples have cared for the land for a very long time.",
+        "resourceLabel": "YouTube: Land Acknowledgement: Honouring Indigenous Land",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Land%20Acknowledgement%3A%20Honouring%20Indigenous%20Land%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is the House of Commons?",
+            "q": "What is a land acknowledgement?",
             "options": [
-              "A type of school",
-              "The part of Parliament where MPs debate and vote on laws",
-              "A local library",
-              "A sports arena"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Who works in the House of Commons?",
-            "options": [
-              "Only mayors",
-              "Only judges",
-              "Elected Members of Parliament",
-              "Only teachers"
+              "A type of map",
+              "A song",
+              "A respectful way to recognize Indigenous peoples and land",
+              "A holiday"
             ],
             "answer": 2
           },
           {
-            "q": "What do Members of Parliament do in the House of Commons?",
+            "q": "Who has cared for the land for a very long time?",
             "options": [
-              "Build roads",
-              "Coach sports teams",
-              "Deliver mail",
-              "Debate and vote on new laws"
+              "No one",
+              "Only animals",
+              "Only recent visitors",
+              "Indigenous peoples"
             ],
             "answer": 3
           },
           {
-            "q": "How do people become Members of Parliament?",
+            "q": "Why might a school share a land acknowledgement?",
             "options": [
-              "They inherit the job",
-              "They are elected by voters",
-              "They are chosen at random",
-              "They apply online with no vote"
+              "To show respect and remembrance",
+              "It has no meaning",
+              "Just for fun",
+              "To confuse students"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "The House of Commons is part of which larger institution?",
+            "q": "A land acknowledgement is often shared ___.",
             "options": [
-              "A city council",
-              "A local business",
-              "The Canadian Parliament",
-              "A school board"
+              "At the start of an event or gathering",
+              "Only by animals",
+              "Never",
+              "Only in winter"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Learning about Indigenous peoples helps us understand ___.",
+            "options": [
+              "Only other countries",
+              "Nothing important",
+              "Only modern cities",
+              "Canadas history and the first peoples of the land"
+            ],
+            "answer": 3
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a land acknowledgement recognize?",
+            "answers": [
+              "Indigenous peoples and the land",
+              "that Indigenous peoples cared for the land"
+            ]
+          },
+          {
+            "prompt": "Who has lived on and cared for the land for a very long time?",
+            "answers": [
+              "Indigenous peoples",
+              "First Peoples"
+            ]
+          },
+          {
+            "prompt": "Why do communities share a land acknowledgement?",
+            "answers": [
+              "to show respect",
+              "to be respectful"
+            ]
+          }
+        ],
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -48799,63 +50578,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data: Circle Graphs — Showing Parts of a Whole",
-        "summary": "Grade 2 Math strand: a circle graph, also called a pie chart, uses slices of a circle to show how a whole amount is divided into different parts.",
-        "resourceLabel": "YouTube: Data: Circle Graphs — Showing Parts of a Whole",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Circle%20Graphs%20%E2%80%94%20Showing%20Parts%20of%20a%20Whole%20grade%202%20educational",
+        "title": "Money: Comparing Values of Coins",
+        "summary": "Students compare the values of Canadian coins, learning that some coins, like a quarter, are worth more than others, like a nickel, even if they look similar in size.",
+        "resourceLabel": "YouTube: Money: Comparing Values of Coins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Comparing%20Values%20of%20Coins%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What shape is used in a circle graph?",
+            "q": "Which coin is worth more, a quarter or a nickel?",
             "options": [
-              "A line",
-              "A triangle",
-              "A rectangle",
-              "A circle"
+              "A nickel",
+              "They are equal",
+              "Cannot tell",
+              "A quarter"
             ],
             "answer": 3
           },
           {
-            "q": "What does each slice of a circle graph represent?",
+            "q": "Which of these is a Canadian coin?",
             "options": [
-              "The title of the graph",
-              "A single dot of data",
-              "A separate unrelated topic",
-              "A part of the whole amount"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A circle graph is also known as a ___.",
-            "options": [
-              "Pie chart",
-              "Bar graph",
-              "Tally chart",
-              "Line plot"
+              "A dime",
+              "A button",
+              "A rock",
+              "A leaf"
             ],
             "answer": 0
           },
           {
-            "q": "If one slice of a circle graph is very large, what does that likely mean?",
+            "q": "Does a coin size always tell us its value?",
             "options": [
-              "The slice represents zero",
-              "The graph is drawn incorrectly",
-              "That category makes up a big part of the whole",
-              "That category has no data at all"
+              "Only paper money has value",
+              "Yes, bigger coins are always worth more",
+              "Coins have no value at all",
+              "No, some small coins are worth more than bigger ones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which coin is worth the least amount of money?",
+            "options": [
+              "A loonie",
+              "A quarter",
+              "A penny",
+              "A dime"
             ],
             "answer": 2
           },
           {
-            "q": "Circle graphs are especially useful for showing ___.",
+            "q": "Comparing coin values helps us understand ___.",
             "options": [
-              "Sounds instead of numbers",
-              "How a whole is divided into parts",
-              "Only numbers with no meaning",
-              "A single moment with no comparison"
+              "What day it is",
+              "What the weather is",
+              "How much money we have",
+              "How tall we are"
             ],
-            "answer": 1
+            "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "worksheet": [
+          {
+            "prompt": "Is a quarter worth more or less than a nickel?",
+            "answers": [
+              "more"
+            ]
+          },
+          {
+            "prompt": "Name one Canadian coin, like a penny, nickel, dime, or quarter.",
+            "answers": [
+              "penny",
+              "nickel",
+              "dime",
+              "quarter"
+            ]
+          },
+          {
+            "prompt": "Does a bigger looking coin always have a bigger value?",
+            "answers": [
+              "no"
+            ]
+          }
+        ],
+        "topic": "Time & Money"
       },
       {
         "subject": "Science",
@@ -49472,60 +51274,82 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Kennings: Poetic Nicknames for Everyday Things",
-        "summary": "Grade 2 Language strand: a kenning is a short, two-word poetic nickname that describes something in a creative way, like sky-traveller for a bird or web-spinner for a spider.",
-        "resourceLabel": "YouTube: Kennings: Poetic Nicknames for Everyday Things",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Kennings%3A%20Poetic%20Nicknames%20for%20Everyday%20Things%20grade%202%20educational",
+        "title": "Language Review: Punctuation, Word Families, and Story Skills",
+        "summary": "Students review recent Language skills: periods, the -ap and -in word families, adding -er, uppercase and lowercase letters, story solutions, nonfiction clues, asking questions, and the return sweep.",
+        "resourceLabel": "YouTube: Language Review: Punctuation, Word Families, and Story Skills",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Punctuation%2C%20Word%20Families%2C%20and%20Story%20Skills%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a kenning?",
+            "q": "What small dot do we put at the end of a telling sentence?",
             "options": [
-              "A silent letter",
-              "A type of punctuation",
-              "A short, two-word poetic nickname for something",
-              "A math equation"
+              "A comma",
+              "An exclamation mark",
+              "A period",
+              "A question mark"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of a kenning for a bird?",
+            "q": "Which word rhymes with pin?",
             "options": [
-              "Sky-traveller",
-              "The blue sky",
-              "A quiet room",
-              "A math fact"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What makes a kenning creative?",
-            "options": [
-              "It has no meaning at all",
-              "It never describes anything",
-              "It describes something in a fresh, imaginative way",
-              "It always uses the exact same word twice"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which kenning might describe a spider?",
-            "options": [
-              "Deep-sleeper",
-              "Web-spinner",
-              "Fast-runner",
-              "Loud-singer"
+              "Cup",
+              "Win",
+              "Sun",
+              "Dog"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a poet choose to use kennings in a poem?",
+            "q": "Add -er to the word tall. What new word do you make?",
             "options": [
-              "To add vivid, playful description",
-              "To remove all imagery from the poem",
-              "To make the poem impossible to read",
-              "To avoid describing the subject"
+              "Taller",
+              "Tallier",
+              "Tall",
+              "Tallen"
             ],
             "answer": 0
+          },
+          {
+            "q": "What do we call how a character fixes a problem in a story?",
+            "options": [
+              "The problem",
+              "The cover",
+              "The solution",
+              "The title"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the eye movement from the end of one line of text back to the start of the next line?",
+            "options": [
+              "The author",
+              "The title",
+              "The return sweep",
+              "The cover"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What small dot do we put at the end of a telling sentence?",
+            "answers": [
+              "period",
+              "a period"
+            ]
+          },
+          {
+            "prompt": "Change the c in cap to m. What new word do you make?",
+            "answers": [
+              "map"
+            ]
+          },
+          {
+            "prompt": "What do we call a big letter, like B?",
+            "answers": [
+              "uppercase",
+              "capital letter"
+            ]
           }
         ]
       },
@@ -49776,123 +51600,168 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Points, Lines, Line Segments, and Rays",
-        "summary": "Grade 2 Math strand: a point is an exact location, a line goes on forever in both directions, a line segment has two endpoints, and a ray starts at one point and goes on forever in one direction.",
-        "resourceLabel": "YouTube: Geometry: Points, Lines, Line Segments, and Rays",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Points%2C%20Lines%2C%20Line%20Segments%2C%20and%20Rays%20grade%202%20educational",
+        "title": "Measurement: Comparing Capacity (Holds More or Less)",
+        "summary": "Students compare the capacity of different containers, learning to describe which container holds more and which holds less using water or sand.",
+        "resourceLabel": "YouTube: Measurement: Comparing Capacity (Holds More or Less)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Capacity%20%28Holds%20More%20or%20Less%29%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a point in geometry?",
+            "q": "What word describes how much a container can hold?",
             "options": [
-              "A shape with four sides",
-              "An exact location",
-              "A curved path",
-              "A type of angle"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How far does a line extend?",
-            "options": [
-              "Only one centimetre",
-              "Forever in both directions",
-              "It has no length at all",
-              "It stops after a short distance"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What makes a line segment different from a line?",
-            "options": [
-              "A line segment has no length",
-              "A line segment is always curved",
-              "A line segment has two endpoints",
-              "A line segment goes on forever"
+              "Length",
+              "Weight",
+              "Capacity",
+              "Colour"
             ],
             "answer": 2
           },
           {
-            "q": "What is a ray?",
+            "q": "If a bucket holds more water than a cup, the bucket has a ___ capacity.",
             "options": [
-              "A path that starts at one point and goes on forever in one direction",
-              "A path with two endpoints",
-              "A closed shape",
-              "A single dot with no direction"
+              "Bigger",
+              "Equal",
+              "No",
+              "Smaller"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these best describes a line segment you might draw with a ruler between two dots?",
+            "q": "How could you test which of two containers holds more water?",
             "options": [
-              "A curved circle",
-              "A path that never ends",
-              "A straight path with a clear start and end",
-              "A single point"
+              "Fill each one and compare",
+              "Count their corners",
+              "Measure their colour",
+              "Weigh them on a scale only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two containers hold the exact same amount of water, their capacities are ___.",
+            "options": [
+              "Unknown forever",
+              "Impossible to compare",
+              "Very different",
+              "Equal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comparing capacity helps us understand how much a container can ___.",
+            "options": [
+              "Weigh",
+              "Cost",
+              "Hold",
+              "Sound like"
             ],
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "worksheet": [
+          {
+            "prompt": "If one cup holds more water than another cup, which one has a bigger capacity?",
+            "answers": [
+              "the cup that holds more",
+              "the bigger cup"
+            ]
+          },
+          {
+            "prompt": "Name one word used to compare how much two containers can hold, like more or less.",
+            "answers": [
+              "more",
+              "less"
+            ]
+          },
+          {
+            "prompt": "Could you use sand or water to test which container holds more?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Measurement: Units"
       },
       {
         "subject": "Science",
-        "title": "Solar Eclipses: When the Moon Blocks the Sun",
-        "summary": "Grade 2 Science strand: a solar eclipse happens when the moon passes between the Earth and the Sun, briefly blocking some or all of the suns light from reaching part of the Earth.",
-        "resourceLabel": "YouTube: Solar Eclipses: When the Moon Blocks the Sun",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Solar%20Eclipses%3A%20When%20the%20Moon%20Blocks%20the%20Sun%20grade%202%20educational",
+        "title": "Life Cycle of a Dragonfly",
+        "summary": "Kindergarten Science strand: a dragonfly begins life as an egg laid in water, grows underwater as a nymph, and later becomes a flying adult with two pairs of wings.",
+        "resourceLabel": "YouTube: Life Cycle of a Dragonfly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Dragonfly%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What happens during a solar eclipse?",
+            "q": "Where does a dragonfly life cycle begin?",
             "options": [
-              "The moon passes between the Earth and the Sun",
-              "The Earth disappears",
-              "The moon turns into a star",
-              "The sun passes between the Earth and the moon"
+              "As an egg in the desert",
+              "As an adult in the sky",
+              "As an egg in a tree",
+              "As an egg in water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a young dragonfly called before it grows wings?",
+            "options": [
+              "A nymph",
+              "A caterpillar",
+              "A tadpole",
+              "A cub"
             ],
             "answer": 0
           },
           {
-            "q": "What does a solar eclipse briefly block?",
+            "q": "Where does a young dragonfly nymph live?",
             "options": [
-              "All sound on Earth",
-              "Some or all of the suns light",
-              "The Earths gravity",
-              "The ocean tides completely"
+              "In the sky",
+              "In a tree",
+              "Underwater",
+              "In the sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many pairs of wings does an adult dragonfly have?",
+            "options": [
+              "Two pairs",
+              "Three pairs",
+              "No wings",
+              "One pair"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A dragonfly changing from a nymph into a flying adult is an example of a ___.",
+            "options": [
+              "Food chain",
+              "Life cycle",
+              "Season",
+              "Habitat"
             ],
             "answer": 1
-          },
-          {
-            "q": "Why should people never look directly at a solar eclipse without proper eye protection?",
-            "options": [
-              "Solar eclipses are completely harmless to look at",
-              "There is no reason for caution",
-              "Eclipses make everything invisible",
-              "The suns light can seriously harm the eyes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which three objects line up during a solar eclipse?",
-            "options": [
-              "Two moons and a planet",
-              "The Sun, the moon, and the Earth",
-              "The Earth, a comet, and a star",
-              "Three different planets"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A solar eclipse is an example of an event in ___.",
-            "options": [
-              "Sports history",
-              "Underwater biology",
-              "Local government",
-              "Space and astronomy"
-            ],
-            "answer": 3
           }
         ],
-        "topic": "Space & Astronomy"
+        "worksheet": [
+          {
+            "prompt": "Where does a dragonfly begin its life?",
+            "answers": [
+              "as an egg in water",
+              "in water"
+            ]
+          },
+          {
+            "prompt": "What is a young dragonfly called before it can fly?",
+            "answers": [
+              "a nymph",
+              "nymph"
+            ]
+          },
+          {
+            "prompt": "How many pairs of wings does an adult dragonfly have?",
+            "answers": [
+              "two pairs",
+              "two"
+            ]
+          }
+        ],
+        "topic": "Life Cycles & Growth"
       },
       {
         "subject": "SocialStudies",
@@ -50204,63 +52073,88 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Diamante Poems: Poems Shaped Like a Diamond",
-        "summary": "Grade 2 Language strand: a diamante poem is a seven-line poem shaped like a diamond that often contrasts two opposite ideas, using a set pattern of nouns, adjectives, and verbs.",
-        "resourceLabel": "YouTube: Diamante Poems: Poems Shaped Like a Diamond",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Diamante%20Poems%3A%20Poems%20Shaped%20Like%20a%20Diamond%20grade%202%20educational",
+        "title": "Word Families: -ub Words",
+        "summary": "Kindergarten Language strand: the -ub word family shares the same ending sound, as in cub, rub, tub, and sub.",
+        "resourceLabel": "YouTube: Word Families: -ub Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ub%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What shape does a diamante poem form on the page?",
+            "q": "Which word belongs to the -ub family?",
             "options": [
-              "A straight line",
-              "A diamond",
-              "A circle",
-              "A square"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How many lines does a diamante poem usually have?",
-            "options": [
-              "Twenty",
-              "Two",
-              "One",
-              "Seven"
+              "Hat",
+              "Bag",
+              "Pen",
+              "Cub"
             ],
             "answer": 3
           },
           {
-            "q": "What do diamante poems often contrast?",
+            "q": "Which word rhymes with rub?",
             "options": [
-              "A list of numbers",
-              "Two opposite ideas",
-              "Nothing at all",
-              "A single unrelated fact"
+              "Rob",
+              "Rap",
+              "Rib",
+              "Tub"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which types of words are used to build a diamante poem?",
+            "q": "Which word does NOT belong to the -ub family?",
             "options": [
-              "Nouns, adjectives, and verbs in a set pattern",
-              "Only silent letters",
-              "Only punctuation marks",
-              "Only numbers"
+              "Sub",
+              "Tub",
+              "Cub",
+              "Cap"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Complete the rhyme: The pig sat in the ___.",
+            "options": [
+              "tub",
+              "ten",
+              "toe",
+              "top"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a poet choose the diamante form to write about day and night?",
+            "q": "Word families share the same ___.",
             "options": [
-              "The form only works for one single idea",
-              "It removes all meaning from the poem",
-              "Diamante poems cannot compare anything",
-              "The shape and structure suit comparing two opposites"
+              "First letter",
+              "Meaning",
+              "Colour",
+              "Ending sound"
             ],
             "answer": 3
           }
         ],
-        "topic": "Reading: Poetry"
+        "worksheet": [
+          {
+            "prompt": "Name a word that rhymes with tub.",
+            "answers": [
+              "cub",
+              "rub",
+              "sub",
+              "club"
+            ]
+          },
+          {
+            "prompt": "What ending sound do cub, rub, and tub share?",
+            "answers": [
+              "ub",
+              "the ub sound"
+            ]
+          },
+          {
+            "prompt": "Is hub part of the -ub family?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -50995,63 +52889,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Time: Introducing the 24-Hour Clock",
-        "summary": "Grade 2 Math strand: the 24-hour clock numbers the hours from 0 to 23 across a full day, so afternoon and evening times continue counting past 12 instead of starting over.",
-        "resourceLabel": "YouTube: Time: Introducing the 24-Hour Clock",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Introducing%20the%2024-Hour%20Clock%20grade%202%20educational",
+        "title": "Number Bonds: Ways to Make 6",
+        "summary": "Students explore different combinations of two numbers that add together to make 6, such as 1 and 5, or 2 and 4, building an understanding of number composition.",
+        "resourceLabel": "YouTube: Number Bonds: Ways to Make 6",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%206%20grade%202%20educational",
         "quiz": [
           {
-            "q": "How many hours does the 24-hour clock count across a full day?",
+            "q": "Which two numbers add together to make 6?",
             "options": [
-              "60",
-              "12",
-              "100",
-              "24"
+              "2 and 5",
+              "1 and 1",
+              "3 and 4",
+              "2 and 4"
             ],
             "answer": 3
           },
           {
-            "q": "On a 24-hour clock, what hour comes right after 12?",
+            "q": "Which two numbers add together to make 6?",
             "options": [
-              "0",
-              "24",
-              "1",
-              "13"
+              "5 and 5",
+              "1 and 6",
+              "1 and 5",
+              "2 and 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does 3 plus 3 also equal 6?",
+            "options": [
+              "Cannot tell",
+              "No",
+              "Only sometimes",
+              "Yes"
             ],
             "answer": 3
           },
           {
-            "q": "What time on a 12-hour clock matches 15:00 on a 24-hour clock?",
+            "q": "Which pair of numbers does NOT add together to make 6?",
             "options": [
-              "3:00 AM",
-              "1:00 PM",
-              "5:00 PM",
-              "3:00 PM"
+              "3 and 3",
+              "2 and 4",
+              "1 and 5",
+              "2 and 5"
             ],
             "answer": 3
           },
           {
-            "q": "Why might schedules like train timetables use the 24-hour clock?",
+            "q": "Learning different ways to make 6 helps us understand that a number can be made of ___.",
             "options": [
-              "It avoids confusing morning and afternoon times",
-              "It removes the need for numbers",
-              "It only shows the date, not the time",
-              "It only works for counting minutes"
+              "Only one possible combination",
+              "Only itself and zero",
+              "Different smaller number combinations",
+              "No smaller numbers at all"
             ],
-            "answer": 0
-          },
-          {
-            "q": "On the 24-hour clock, midnight is usually shown as ___.",
-            "options": [
-              "00:00",
-              "12:00",
-              "24:24",
-              "6:00"
-            ],
-            "answer": 0
+            "answer": 2
           }
         ],
-        "topic": "Time & Money"
+        "worksheet": [
+          {
+            "prompt": "What two numbers can you add together to make 6, using 2 and another number?",
+            "answers": [
+              "2 and 4",
+              "4"
+            ]
+          },
+          {
+            "prompt": "What two numbers can you add together to make 6, using 1 and another number?",
+            "answers": [
+              "1 and 5",
+              "5"
+            ]
+          },
+          {
+            "prompt": "Can 3 and 3 also add together to make 6?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -51240,63 +53156,84 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Measurement: Introduction to Volume with Unit Cubes",
-        "summary": "Grade 2 Math strand: volume measures how much space a solid shape takes up, and one way to measure it is by counting how many small unit cubes fit exactly inside the shape.",
-        "resourceLabel": "YouTube: Measurement: Introduction to Volume with Unit Cubes",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Introduction%20to%20Volume%20with%20Unit%20Cubes%20grade%202%20educational",
+        "title": "Position Words: Left and Right",
+        "summary": "Students learn positional language, using the words left and right to describe the direction or side that an object or person is on.",
+        "resourceLabel": "YouTube: Position Words: Left and Right",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Left%20and%20Right%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What does volume measure?",
+            "q": "If a cup is sitting on the left side of a table, where is the cup?",
             "options": [
-              "How long an object is",
-              "How much space a solid shape takes up",
-              "How heavy an object is",
-              "How loud a sound is"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is one way to measure the volume of a box?",
-            "options": [
-              "Counting how many unit cubes fit inside it",
-              "Timing how fast it falls",
-              "Weighing it on a scale",
-              "Measuring only its colour"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If a box is filled exactly with 12 unit cubes, what is its volume?",
-            "options": [
-              "12 metres",
-              "12 minutes",
-              "12 cubic units",
-              "12 grams"
+              "Below the table",
+              "On the right side",
+              "On the left side",
+              "Above the table"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these could you find the volume of?",
+            "q": "If you point to the right, which direction are you pointing?",
             "options": [
-              "A shadow",
-              "A cardboard box",
-              "A sound",
-              "A colour"
+              "To the left side",
+              "To the right side",
+              "Straight down",
+              "Straight up"
             ],
             "answer": 1
           },
           {
-            "q": "Why are unit cubes useful for measuring volume?",
+            "q": "Which of these words describes a side or direction?",
             "options": [
-              "They cannot be counted at all",
-              "They are a consistent size that can be counted",
-              "They change size every time",
-              "They melt when placed in a box"
+              "Left",
+              "Loud",
+              "Cold",
+              "Sweet"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "If a book is on your right side, where would you reach to find it?",
+            "options": [
+              "Above your head",
+              "To your left",
+              "To your right",
+              "Below your feet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Position words like left and right help us describe ___.",
+            "options": [
+              "How heavy something is",
+              "What sound something makes",
+              "Where something is located",
+              "What colour something is"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Measurement: Volume & Surface Area"
+        "worksheet": [
+          {
+            "prompt": "If you raise the hand you write with, is that usually your left or right hand for most people?",
+            "answers": [
+              "right"
+            ]
+          },
+          {
+            "prompt": "If a ball is sitting on the left side of a table, is it on the left side or the right side?",
+            "answers": [
+              "left"
+            ]
+          },
+          {
+            "prompt": "Name one position word that tells direction, like left or right.",
+            "answers": [
+              "left",
+              "right"
+            ]
+          }
+        ],
+        "topic": "Number Sense: Basic Counting"
       },
       {
         "subject": "Science",
@@ -51728,63 +53665,91 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Prisms and Pyramids — Comparing 3D Shapes",
-        "summary": "Grade 2 Math strand: a prism has two matching flat ends connected by rectangular sides, while a pyramid has one flat base and triangular sides that meet at a single point.",
-        "resourceLabel": "YouTube: Geometry: Prisms and Pyramids — Comparing 3D Shapes",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Prisms%20and%20Pyramids%20%E2%80%94%20Comparing%203D%20Shapes%20grade%202%20educational",
+        "title": "Writing Numerals: Forming Numbers 0 to 10",
+        "summary": "Students practise writing numerals from 0 to 10, learning to form each number shape correctly with a pencil or crayon.",
+        "resourceLabel": "YouTube: Writing Numerals: Forming Numbers 0 to 10",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Numerals%3A%20Forming%20Numbers%200%20to%2010%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What shape do the two matching ends of a prism usually have?",
+            "q": "Which numeral comes right after 4?",
             "options": [
-              "A prism has no ends",
-              "They are always triangles only",
-              "They are always circles only",
-              "They match each other"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What connects the two ends of a prism?",
-            "options": [
-              "A single point",
-              "Nothing connects them",
-              "Rectangular sides",
-              "Curved lines only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How many flat bases does a pyramid have?",
-            "options": [
-              "One",
-              "Six",
-              "Zero",
-              "Two"
+              "5",
+              "3",
+              "6",
+              "7"
             ],
             "answer": 0
           },
           {
-            "q": "What shape are the sides of a pyramid, and where do they meet?",
+            "q": "Which numeral shows zero, meaning none at all?",
             "options": [
-              "Rectangles that never meet",
-              "Circles that meet at two points",
-              "Triangles that meet at a single point",
-              "Ovals with no point"
+              "10",
+              "1",
+              "0",
+              "9"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of a pyramid shape?",
+            "q": "When writing numerals, it is helpful to practise forming each ___ correctly.",
             "options": [
-              "A can-shaped object with two circle ends",
-              "A shape with no faces at all",
-              "A flat rectangle with no height",
-              "A shape with a square base and four triangle sides meeting at a point"
+              "Song",
+              "Number shape",
+              "Sound",
+              "Colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which numeral comes right before 10?",
+            "options": [
+              "7",
+              "11",
+              "9",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Writing numerals from 0 to 10 helps us practise ___.",
+            "options": [
+              "Singing a song",
+              "Naming colours",
+              "Drawing animals",
+              "Forming numbers correctly"
             ],
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "worksheet": [
+          {
+            "prompt": "Write the numeral that comes right after 4.",
+            "answers": [
+              "5"
+            ]
+          },
+          {
+            "prompt": "Write the numeral that shows zero, meaning none at all.",
+            "answers": [
+              "0"
+            ]
+          },
+          {
+            "prompt": "Name one numeral between 0 and 10 that you can practise writing.",
+            "answers": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10"
+            ]
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -51912,63 +53877,87 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Cinquain Poems: Five Lines Building an Idea",
-        "summary": "Grade 2 Language strand: a cinquain is a five-line poem that often follows a pattern of word counts or types on each line, building a clear picture of one topic.",
-        "resourceLabel": "YouTube: Cinquain Poems: Five Lines Building an Idea",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Cinquain%20Poems%3A%20Five%20Lines%20Building%20an%20Idea%20grade%202%20educational",
+        "title": "Word Families: -og Words",
+        "summary": "Kindergarten Language strand: the -og word family shares the same ending sound, as in dog, log, fog, and jog.",
+        "resourceLabel": "YouTube: Word Families: -og Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-og%20Words%20grade%202%20educational",
         "quiz": [
           {
-            "q": "How many lines does a cinquain poem have?",
+            "q": "Which word belongs to the -og family?",
             "options": [
-              "Five",
-              "Two",
-              "One",
-              "Ten"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a cinquain poem often build a picture of?",
-            "options": [
-              "One clear topic",
-              "A list of random numbers",
-              "No topic at all",
-              "Ten unrelated topics"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What might a cinquain poem follow to organize its lines?",
-            "options": [
-              "A pattern based on colours only",
-              "A pattern of word counts or types",
-              "No pattern of any kind",
-              "A pattern of only punctuation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these could be a good topic for a cinquain poem?",
-            "options": [
-              "A math equation",
-              "A silent letter",
-              "A blank page",
-              "A favourite animal"
+              "Dig",
+              "Cat",
+              "Sun",
+              "Log"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a poet choose the short cinquain form?",
+            "q": "Which word rhymes with fog?",
             "options": [
-              "To avoid describing anything",
-              "To describe a single idea clearly and concisely",
-              "To write as many unrelated ideas as possible",
-              "Cinquains must always be very long"
+              "Far",
+              "Fun",
+              "Jog",
+              "Fig"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word does NOT belong to the -og family?",
+            "options": [
+              "Dog",
+              "Jug",
+              "Jog",
+              "Fog"
             ],
             "answer": 1
+          },
+          {
+            "q": "Complete the rhyme: The frog sat on a ___.",
+            "options": [
+              "log",
+              "let",
+              "lap",
+              "lid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Word families help us read new words because they ___.",
+            "options": [
+              "Have no vowels",
+              "Are always short",
+              "Look the same colour",
+              "Share a spelling pattern"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Reading: Poetry"
+        "worksheet": [
+          {
+            "prompt": "Name a word that rhymes with dog.",
+            "answers": [
+              "log",
+              "fog",
+              "jog"
+            ]
+          },
+          {
+            "prompt": "What ending sound do dog and log share?",
+            "answers": [
+              "og",
+              "the og sound"
+            ]
+          },
+          {
+            "prompt": "Is hog part of the -og family?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ],
+        "topic": "Vocabulary"
       },
       {
         "subject": "Math",
@@ -52276,63 +54265,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Tsunamis: Giant Waves Caused by Earth Movement",
-        "summary": "Grade 2 Science strand: a tsunami is a series of giant ocean waves usually caused by an earthquake or other sudden movement under the sea, capable of causing major flooding when it reaches land.",
-        "resourceLabel": "YouTube: Tsunamis: Giant Waves Caused by Earth Movement",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Tsunamis%3A%20Giant%20Waves%20Caused%20by%20Earth%20Movement%20grade%202%20educational",
+        "title": "Earthworms: Helpers Beneath the Soil",
+        "summary": "Kindergarten Science strand: an earthworm is a small, legless creature that lives in soil, eating and burrowing through dirt in ways that help plants grow.",
+        "resourceLabel": "YouTube: Earthworms: Helpers Beneath the Soil",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20Beneath%20the%20Soil%20grade%202%20educational",
         "quiz": [
           {
-            "q": "What is a tsunami?",
+            "q": "Where does an earthworm usually live?",
             "options": [
-              "A type of cloud",
-              "A gentle ripple in a pond",
-              "A series of giant ocean waves",
-              "A kind of desert wind"
+              "In the ocean",
+              "In trees",
+              "In soil",
+              "In the sky"
             ],
             "answer": 2
           },
           {
-            "q": "What often causes a tsunami?",
+            "q": "How many legs does an earthworm have?",
             "options": [
-              "A light breeze",
-              "An earthquake or sudden movement under the sea",
-              "A change in leaf colour",
-              "A single raindrop"
+              "Two",
+              "Zero",
+              "Four",
+              "Six"
             ],
             "answer": 1
           },
           {
-            "q": "What can a tsunami cause when it reaches land?",
+            "q": "How does an earthworm help plants grow?",
             "options": [
-              "A drought",
-              "A snowstorm",
-              "No effect at all",
-              "Major flooding"
+              "By blocking sunlight",
+              "By drying out the soil",
+              "By eating the plants leaves",
+              "By burrowing through and mixing the soil"
             ],
             "answer": 3
           },
           {
-            "q": "Where do tsunamis begin?",
+            "q": "An earthworm moves by ___.",
             "options": [
-              "In the desert",
-              "On top of a mountain",
-              "Inside a cave",
-              "Under the sea"
+              "Rolling like a ball",
+              "Flying",
+              "Hopping on legs",
+              "Wiggling and stretching its body"
             ],
             "answer": 3
           },
           {
-            "q": "Tsunamis are an example of a natural ___.",
+            "q": "Earthworms are considered helpful because they improve the ___.",
             "options": [
-              "Hazard connected to ocean movement",
-              "Type of government",
-              "Kind of currency",
-              "National holiday"
+              "Soil",
+              "Weather",
+              "Ocean",
+              "Sky"
             ],
             "answer": 0
           }
         ],
-        "topic": "Light & Sound"
+        "worksheet": [
+          {
+            "prompt": "Where does an earthworm usually live?",
+            "answers": [
+              "in soil",
+              "underground"
+            ]
+          },
+          {
+            "prompt": "How many legs does an earthworm have?",
+            "answers": [
+              "none",
+              "zero"
+            ]
+          },
+          {
+            "prompt": "How does an earthworm help plants grow?",
+            "answers": [
+              "by burrowing through and mixing the soil",
+              "by helping the soil"
+            ]
+          }
+        ],
+        "topic": "Earth Materials & Land (Basic)"
       },
       {
         "subject": "SocialStudies",

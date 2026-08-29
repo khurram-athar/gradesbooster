@@ -7705,64 +7705,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Vikings and Early Norse Exploration",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Vikings were Norse seafarers from Scandinavia who explored, traded, and settled across parts of Europe and even reached North America around 1000 CE.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=KevkiNa6OaI",
+        "title": "Ancient Mesopotamia",
+        "summary": "Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient Mesopotamia, located between the Tigris and Euphrates rivers, is considered one of the earliest civilizations, known for early writing, cities, and irrigation systems.",
+        "resourceLabel": "YouTube: Ancient Mesopotamia",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Mesopotamia%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EHkAGKgoyGo",
         "quiz": [
           {
-            "q": "The Vikings originated from which region?",
+            "q": "Ancient Mesopotamia developed between which two rivers?",
             "options": [
-              "East Asia",
-              "South America",
-              "North Africa",
-              "Scandinavia"
+              "The Amazon and Mississippi",
+              "The Ganges and Indus",
+              "The Nile and Congo",
+              "The Tigris and Euphrates"
             ],
             "answer": 3
           },
           {
-            "q": "Vikings were known for their skill in ___.",
+            "q": "Mesopotamia is often called one of the earliest ___.",
             "options": [
-              "Building pyramids",
-              "Space travel",
-              "Seafaring and exploration",
-              "Desert farming"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Around 1000 CE, Norse explorers are believed to have reached ___.",
-            "options": [
-              "The Moon",
-              "North America",
-              "Antarctica",
-              "Australia"
+              "Mountain ranges",
+              "Civilizations",
+              "Oceans",
+              "Deserts"
             ],
             "answer": 1
           },
           {
-            "q": "In addition to exploration, Vikings were also known for ___.",
+            "q": "Which early writing system developed in Mesopotamia?",
             "options": [
-              "Trade across parts of Europe",
-              "Having no contact with other regions",
-              "Building only underground cities",
-              "Avoiding travel by sea entirely"
+              "The Latin alphabet",
+              "Braille",
+              "Hieroglyphics",
+              "Cuneiform"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Irrigation systems in Mesopotamia were used mainly to ___.",
+            "options": [
+              "Bring river water to farmland for growing crops",
+              "Power early machines",
+              "Create early roads",
+              "Build pyramids"
             ],
             "answer": 0
           },
           {
-            "q": "Why is early Norse exploration significant to world history?",
+            "q": "Why did early civilizations like Mesopotamia often develop near rivers?",
             "options": [
-              "Vikings never actually travelled anywhere",
-              "It had no historical significance",
-              "It represents some of the earliest known European contact with North America",
-              "It occurred after Columbus’s voyages"
+              "Rivers had no practical benefit",
+              "Rivers provided water for farming, drinking, and transportation",
+              "Rivers were avoided by early people",
+              "Rivers made travel impossible"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "New France & Early Canada"
+        ]
       }
     ]
   },
@@ -7955,64 +7954,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Silk Road: Trade and Cultural Exchange",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Silk Road was a network of trade routes connecting Asia, the Middle East, and Europe, enabling the exchange of goods, ideas, and culture for centuries.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=vn3e37VWc0k",
+        "title": "Ancient China",
+        "summary": "Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient China developed along the Yellow and Yangtze rivers, and is known for early inventions such as paper, silk production, and the Great Wall.",
+        "resourceLabel": "YouTube: Ancient China",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20China%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5tqot7MU_84",
         "quiz": [
           {
-            "q": "The Silk Road primarily connected which regions?",
+            "q": "Ancient China developed along which rivers?",
             "options": [
-              "Asia, the Middle East, and Europe",
-              "Only Australia and Antarctica",
-              "A single isolated region with no connections",
-              "Only North America and South America"
+              "The Amazon and Mississippi",
+              "The Tigris and Euphrates",
+              "The Yellow and Yangtze",
+              "The Nile and Congo"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which invention is credited to Ancient China?",
+            "options": [
+              "The printing press in Europe",
+              "Modern electricity",
+              "The wheel only",
+              "Paper"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Silk production was an important early industry in ___.",
+            "options": [
+              "Ancient Rome",
+              "Ancient China",
+              "Ancient Egypt",
+              "Ancient Greece"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Great Wall of China was built mainly to ___.",
+            "options": [
+              "Store grain",
+              "Attract tourists",
+              "Help defend against invasions",
+              "Provide irrigation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study Ancient China's early inventions?",
+            "options": [
+              "They influenced technology and trade for centuries afterward",
+              "Only modern inventions matter to historians",
+              "They had no lasting impact",
+              "Ancient China invented nothing notable"
             ],
             "answer": 0
-          },
-          {
-            "q": "The Silk Road gets its name from ___.",
-            "options": [
-              "A single city named Silk",
-              "The trade of silk and other valuable goods",
-              "A modern highway system",
-              "A specific road built entirely of silk fabric"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Besides goods, the Silk Road also enabled the exchange of ___.",
-            "options": [
-              "Only currency",
-              "Only military weapons",
-              "Ideas and culture",
-              "Nothing beyond physical goods"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Silk Road considered historically significant?",
-            "options": [
-              "It only connected two small villages",
-              "It had no lasting historical impact",
-              "It connected distant civilizations and fostered widespread cultural and economic exchange",
-              "It prevented any contact between civilizations"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these might have been traded along the Silk Road?",
-            "options": [
-              "Only modern electronics",
-              "Silk, spices, and other goods",
-              "Only currency with no physical goods",
-              "Nothing of value"
-            ],
-            "answer": 1
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -8204,61 +8202,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Islamic Golden Age",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Islamic Golden Age was a period of significant advances in science, medicine, mathematics, and culture across the Islamic world, roughly from the 8th to 14th centuries.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=VVMs8nRA7V8",
+        "title": "Ancient India",
+        "summary": "Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient India developed along the Indus River, and is known for early city planning, a written script, and significant early achievements in mathematics.",
+        "resourceLabel": "YouTube: Ancient India",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20India%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eUGAj9uyHrQ",
         "quiz": [
           {
-            "q": "The Islamic Golden Age is associated with major advances in fields such as ___.",
+            "q": "Ancient India developed along which river?",
             "options": [
-              "Only military conquest",
-              "Science, medicine, and mathematics",
-              "Only architecture with no other achievements",
-              "Nothing of lasting significance"
+              "The Tigris",
+              "The Indus River",
+              "The Amazon",
+              "The Nile"
             ],
             "answer": 1
           },
           {
-            "q": "Roughly during which centuries did the Islamic Golden Age take place?",
+            "q": "Ancient Indian cities were known for early examples of ___.",
             "options": [
-              "18th to 20th centuries",
-              "1st to 3rd centuries",
-              "It never took place",
-              "8th to 14th centuries"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Scholars during the Islamic Golden Age made contributions that influenced ___.",
-            "options": [
-              "Only local, isolated communities",
-              "No other regions or time periods",
-              "Later scientific and mathematical developments worldwide",
-              "Nothing related to science"
+              "Random, unplanned building",
+              "No buildings at all",
+              "Organized city planning",
+              "Only underground homes"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Islamic Golden Age considered an important period in world history?",
+            "q": "Which subject did Ancient India make significant early contributions to?",
             "options": [
-              "It produced lasting achievements in science, medicine, and scholarship",
-              "It had no lasting impact on world history",
-              "It involved no scholarly or scientific work",
-              "It occurred entirely in modern times"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Centres of learning during the Islamic Golden Age often focused on preserving and expanding knowledge in ___.",
-            "options": [
-              "Only sports",
-              "Multiple fields, including mathematics and astronomy",
-              "Only entertainment",
-              "No academic fields at all"
+              "Modern computer science",
+              "Mathematics",
+              "Space travel",
+              "Aviation"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why do historians consider Ancient India an early major civilization?",
+            "options": [
+              "It developed no lasting inventions",
+              "It developed advanced cities, writing, and knowledge systems early in history",
+              "It was identical to every other ancient civilization",
+              "It had no notable achievements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying Ancient India alongside Egypt, China, and Mesopotamia helps us ___.",
+            "options": [
+              "Prove that only one civilization ever existed",
+              "Ignore historical differences between regions",
+              "Avoid learning about world history",
+              "Compare how different early civilizations developed"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -8453,63 +8451,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Feudal Japan: Samurai and Shogunate",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: feudal Japan was organized around a strict social hierarchy, with a shogun holding military power and samurai warriors serving as loyal, skilled fighters bound by a code of honour.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=wGuq7SJ-eYk",
+        "title": "Canada’s Relationship with the Commonwealth",
+        "summary": "Grade 4 Social Studies strand: Canada is a member of the Commonwealth, a voluntary association of countries, most of which were once part of the British Empire, that cooperate on shared goals.",
+        "resourceLabel": "YouTube: Canada’s Relationship with the Commonwealth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%E2%80%99s%20Relationship%20with%20the%20Commonwealth%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aWsvHuuV-qE",
         "quiz": [
           {
-            "q": "In feudal Japan, the shogun held ___.",
+            "q": "The Commonwealth is a voluntary association of countries that ___.",
             "options": [
-              "No connection to government",
-              "Only religious authority",
-              "Significant military power",
-              "No power at all"
+              "Are required to follow identical laws with no independence",
+              "Cooperate on shared goals, such as democracy and development",
+              "Have no historical connection to one another",
+              "A concept unrelated to international relationships"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Samurai were known as ___.",
+            "q": "Many Commonwealth countries share a historical connection to ___.",
             "options": [
-              "Skilled warriors bound by a code of honour",
-              "Government officials with no military training",
-              "Foreign traders",
-              "Farmers with no military role"
+              "The former British Empire",
+              "No shared history at all",
+              "Only ancient civilizations",
+              "A country unrelated to the Commonwealth"
             ],
             "answer": 0
           },
           {
-            "q": "Feudal Japan was organized around a ___.",
+            "q": "Is Canada required to follow the laws of other Commonwealth countries?",
             "options": [
-              "Strict social hierarchy",
-              "A system with no leaders",
-              "Complete lack of social structure",
-              "A structure identical to modern Japan"
+              "Yes, Canada must follow every Commonwealth country’s laws",
+              "No, Canada remains an independent, self-governing country",
+              "A concept unrelated to Canada’s independence",
+              "Canada has no independent government of its own"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The samurai code of honour emphasized values such as ___.",
+            "q": "Why might countries choose to remain part of the Commonwealth?",
             "options": [
-              "Avoiding all responsibility",
-              "Dishonesty and disorder",
-              "Loyalty and discipline",
-              "Ignoring any code of conduct"
+              "Countries are forced to join with no choice involved",
+              "To cooperate on shared goals like trade, education, and development",
+              "A reason unrelated to international cooperation",
+              "Membership provides no benefits of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is true about the Commonwealth?",
+            "options": [
+              "It includes only countries that have never had any historical connection",
+              "A statement unrelated to the Commonwealth",
+              "It includes many countries that were once part of the British Empire",
+              "It has existed for less than one year"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is feudal Japan studied as part of world history?",
-            "options": [
-              "It has no historical significance",
-              "It is identical to feudal systems everywhere else",
-              "Feudal Japan never actually existed",
-              "It offers insight into a distinct social and political system that shaped Japanese history"
-            ],
-            "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Identity & Symbols"
       }
     ]
   },
@@ -8702,64 +8701,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Cold War: Origins and Key Events",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Cold War was a long period of political tension after World War II, mainly between the United States and the Soviet Union, involving competition without direct large-scale warfare between the two powers.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=dsDrYh2Af5Y",
+        "title": "Ancient Maya Civilization",
+        "summary": "Grade 4 Social Studies strand: the ancient Maya built cities in Central America between about 2000 BCE and 1500 CE, known for their pyramids, writing system, and knowledge of astronomy.",
+        "resourceLabel": "YouTube: Ancient Maya Civilization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Maya%20Civilization%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iaKofHyZ00c",
         "quiz": [
           {
-            "q": "The Cold War took place mainly after which major global conflict?",
+            "q": "The ancient Maya civilization was located in ___.",
             "options": [
-              "World War II",
-              "The American Revolution",
-              "World War I",
-              "The War of 1812"
+              "Southern Africa",
+              "Central America",
+              "Northern Europe",
+              "X unrelated to the Maya"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The Cold War was primarily a period of tension between the United States and ___.",
+            "q": "The Maya built large stone structures known as ___.",
             "options": [
-              "Japan",
-              "Canada",
-              "The Soviet Union",
-              "France"
+              "Log cabins",
+              "X unrelated to Maya architecture",
+              "Pyramids",
+              "Igloos"
             ],
             "answer": 2
           },
           {
-            "q": "Unlike many other wars, the Cold War did not involve ___.",
+            "q": "The Maya developed a system of ___ to record dates and events.",
             "options": [
-              "Direct large-scale warfare between the two main powers",
-              "Competition between countries",
-              "Political tension",
-              "Any historical significance"
+              "Modern printing presses",
+              "Writing (hieroglyphs)",
+              "Money made only of paper",
+              "X unrelated to Maya achievements"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is the Cold War considered an important period in 20th-century history?",
+            "q": "The Maya were skilled observers of ___.",
             "options": [
-              "It occurred before World War I",
-              "It involved no international tension at all",
-              "It shaped global politics and international relationships for decades",
-              "It had no lasting effect on world history"
+              "X unrelated to Maya knowledge",
+              "The stars and sky (astronomy)",
+              "Only underwater life",
+              "Modern machinery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study the ruins of Maya cities today?",
+            "options": [
+              "Maya ruins provide no historical information",
+              "The Maya left behind no evidence of their civilization",
+              "They reveal how the Maya lived, built, and organized their society",
+              "X unrelated to studying history"
             ],
             "answer": 2
-          },
-          {
-            "q": "The term Cold War reflects the idea that the conflict was mostly ___.",
-            "options": [
-              "A conflict that never actually happened",
-              "Fought through direct military battles only",
-              "Entirely unrelated to politics",
-              "Political and indirect, rather than direct warfare between the major powers"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Cold War & 20th Century Canada"
+        ]
       }
     ]
   },
@@ -8891,64 +8889,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Genetics and Heredity: Introduction",
-        "summary": "Ontario Grade 6 Science Life Systems strand: heredity is the passing of traits from parents to offspring through genes, which are segments of DNA that carry instructions for an organism’s characteristics.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=8m6hHRlKwxY",
+        "title": "Space: Constellations and the Night Sky",
+        "summary": "Ontario Grade 4 Science Earth and Space Systems strand: constellations are patterns of stars that people have named and used for navigation and storytelling, appearing to shift position across the seasons.",
+        "resourceLabel": "YouTube: Space: Constellations and the Night Sky",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Space%3A%20Constellations%20and%20the%20Night%20Sky%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=U7yqx1hSqlw",
         "quiz": [
           {
-            "q": "Heredity refers to ___.",
+            "q": "A constellation is a ___.",
             "options": [
-              "The passing of traits from parents to offspring",
-              "A process unrelated to living things",
-              "A type of rock formation",
-              "A type of weather pattern"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Genes are best described as ___.",
-            "options": [
-              "A part of the digestive system",
-              "A type of chemical unrelated to biology",
-              "A type of cell found only in plants",
-              "Segments of DNA that carry instructions for traits"
+              "Type of planet",
+              "Type of moon",
+              "Single bright star",
+              "Pattern of stars that has been named"
             ],
             "answer": 3
           },
           {
-            "q": "Offspring often inherit traits from ___.",
+            "q": "Constellations have historically been used for ___.",
             "options": [
-              "No one at all",
-              "Only their environment, with no genetic influence",
-              "A completely random, unrelated source",
-              "Their parents"
+              "Cooking recipes",
+              "Measuring temperature",
+              "Navigation and storytelling",
+              "Building materials"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Which is an example of an inherited trait?",
+            "q": "Which is a well-known constellation visible from Canada?",
             "options": [
-              "A scar from an injury",
-              "A haircut style",
-              "A learned skill like playing an instrument",
-              "Eye colour"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding heredity useful in science?",
-            "options": [
-              "Heredity only applies to plants, never animals",
-              "It helps explain how traits are passed between generations",
-              "Understanding heredity serves no scientific purpose",
-              "Heredity has no connection to biology"
+              "The Great Lakes",
+              "The Big Dipper",
+              "The Arctic Circle",
+              "The Rocky Mountains"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why do the visible constellations change with the seasons?",
+            "options": [
+              "The sky is different every night randomly",
+              "Stars physically move very quickly",
+              "Constellations disappear each season",
+              "Earth's position in orbit around the Sun changes our view of the night sky"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Constellations are best observed ___.",
+            "options": [
+              "Only in summer",
+              "During the bright daytime",
+              "On a clear night away from bright city lights",
+              "Only during a full moon"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -9141,125 +9139,124 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Chemical Reactions in Everyday Life",
-        "summary": "Ontario Grade 6 Science Matter and Energy strand: chemical reactions occur regularly in everyday life, such as cooking, digestion, and rusting, producing new substances with properties different from the original materials.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=L2Q2q20KaEk",
+        "title": "Electricity: Conductors and Insulators",
+        "summary": "Ontario Grade 4 Science Matter and Energy strand: conductors, like most metals, allow electricity to flow through them easily, while insulators, like rubber and plastic, resist the flow of electricity and are used for safety.",
+        "resourceLabel": "YouTube: Electricity: Conductors and Insulators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electricity%3A%20Conductors%20and%20Insulators%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FCuZPDEBJWY",
         "quiz": [
           {
-            "q": "Which everyday activity involves a chemical reaction?",
+            "q": "A conductor is a material that ___.",
             "options": [
-              "Folding a piece of paper",
-              "Cutting a piece of string",
-              "Stacking blocks",
-              "Cooking an egg"
+              "Has no effect on electricity",
+              "Blocks electricity completely",
+              "Allows electricity to flow through it easily",
+              "Is always made of wood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An insulator is a material that ___.",
+            "options": [
+              "Creates electricity from nothing",
+              "Allows electricity to flow freely",
+              "Resists the flow of electricity",
+              "Is always metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which material is typically a good conductor?",
+            "options": [
+              "Rubber",
+              "Plastic",
+              "Wood",
+              "Copper"
             ],
             "answer": 3
           },
           {
-            "q": "Rusting is an example of a chemical reaction between metal and ___.",
+            "q": "Why are electrical wires often covered in rubber or plastic?",
             "options": [
-              "Oxygen and moisture",
-              "Sunlight only",
-              "Sound waves",
-              "Cold temperatures alone"
+              "To insulate them and prevent dangerous electric shocks",
+              "Covering wires has no safety purpose",
+              "To make wires heavier",
+              "To make the wires conduct more electricity"
             ],
             "answer": 0
           },
           {
-            "q": "Digestion involves chemical reactions that help the body ___.",
+            "q": "Which of these is typically used as an insulator?",
             "options": [
-              "Prevent any nutrients from being absorbed",
-              "Avoid processing food entirely",
-              "Only physically chop food with no chemical process",
-              "Break down food into usable nutrients"
+              "Steel",
+              "Aluminum",
+              "Copper wire",
+              "Rubber"
             ],
             "answer": 3
-          },
-          {
-            "q": "A chemical reaction produces substances with properties that are ___ the original materials.",
-            "options": [
-              "Different from",
-              "Identical to",
-              "Impossible to observe",
-              "Unrelated to any material properties"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is it useful to recognize chemical reactions in daily life?",
-            "options": [
-              "It helps explain many common processes we observe and rely on",
-              "Chemical reactions only happen in laboratories",
-              "Recognizing reactions serves no practical purpose",
-              "Chemical reactions never occur in daily life"
-            ],
-            "answer": 0
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
-        "title": "Human Rights: The Universal Declaration",
-        "summary": "Ontario Grade 6 Social Studies People and Environments strand: the Universal Declaration of Human Rights, adopted by the United Nations in 1948, outlines fundamental rights and freedoms believed to belong to all people.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=5RR4VXNX3jA",
+        "title": "Ancient Nubia (Kingdom of Kush)",
+        "summary": "Grade 4 Social Studies strand: ancient Nubia, home to the Kingdom of Kush, was located along the Nile River south of Egypt and became known for its skilled ironworkers, pyramids, and trade in gold.",
+        "resourceLabel": "YouTube: Ancient Nubia (Kingdom of Kush)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Nubia%20%28Kingdom%20of%20Kush%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lnoqlCV__z4",
         "quiz": [
           {
-            "q": "The Universal Declaration of Human Rights was adopted in which year?",
+            "q": "The ancient Kingdom of Kush was located ___.",
             "options": [
-              "1948",
-              "1982",
-              "1918",
-              "2000"
+              "In Northern Europe",
+              "X unrelated to Nubia",
+              "In Central America",
+              "Along the Nile River, south of Egypt"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Nubia became especially well known for its skill in working with ___.",
+            "options": [
+              "Iron",
+              "Plastic",
+              "X unrelated to Nubian achievements",
+              "Rubber"
             ],
             "answer": 0
           },
           {
-            "q": "The Universal Declaration of Human Rights was adopted by ___.",
+            "q": "Like ancient Egypt, the Kingdom of Kush built ___.",
             "options": [
-              "The United Nations",
-              "No formal organization",
-              "A private company",
-              "A single country acting alone"
+              "Pyramids",
+              "Log cabins",
+              "Skyscrapers",
+              "X unrelated to Nubian architecture"
             ],
             "answer": 0
           },
           {
-            "q": "The document outlines rights and freedoms believed to belong to ___.",
+            "q": "Nubia traded valuable resources such as ___ with neighbouring regions.",
             "options": [
-              "Only citizens of one country",
-              "All people",
-              "No one in particular",
-              "Only government officials"
+              "Plastic goods",
+              "Modern currency",
+              "X unrelated to Nubian trade",
+              "Gold"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the Universal Declaration of Human Rights considered historically significant?",
+            "q": "Why is it important to learn about ancient Nubia alongside ancient Egypt?",
             "options": [
-              "It established a shared international standard for basic human rights",
-              "It was created before the United Nations existed",
-              "It applies to no countries at all",
-              "It has no connection to international law or standards"
+              "Only Egypt existed in ancient Africa",
+              "X unrelated to ancient African civilizations",
+              "It shows another powerful African civilization with its own rich history",
+              "Nubia had no history worth studying"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Which is an example of a right commonly recognized under human rights frameworks?",
-            "options": [
-              "Freedom of expression",
-              "The right to harm others without consequence",
-              "The right to ignore all laws",
-              "No rights are recognized internationally"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Human Rights & Social Movements"
+        ]
       }
     ]
   },
@@ -9702,64 +9699,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Indigenous Peoples’ Rights Movements in Canada",
-        "summary": "Ontario Grade 6 Social Studies People and Environments strand: Indigenous peoples in Canada have organized rights movements over many decades to advocate for land rights, self-government, and recognition of treaty rights.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=SVaK9rAV32A",
+        "title": "Ancient Persia",
+        "summary": "Grade 4 Social Studies strand: the ancient Persian Empire, centred in what is now Iran, grew to become one of the largest empires in the ancient world, known for its royal roads, diverse cultures, and organized system of governing distant provinces.",
+        "resourceLabel": "YouTube: Ancient Persia",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Persia%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Indigenous rights movements in Canada have advocated for issues such as ___.",
+            "q": "The ancient Persian Empire was centred in the region that is now known as ___.",
             "options": [
-              "Issues unrelated to Indigenous communities",
-              "Nothing of significance",
-              "Land rights and self-government",
-              "The elimination of all Indigenous rights"
+              "Central America",
+              "Northern Europe",
+              "Iran",
+              "X unrelated to Persia"
             ],
             "answer": 2
           },
           {
-            "q": "Treaty rights refer to ___.",
+            "q": "The Persian Empire became known for building an extensive network of ___.",
             "options": [
-              "Rights that apply only to non-Indigenous people",
-              "Agreements that were never actually made",
-              "Rights established through historical agreements between Indigenous nations and governments",
-              "Rights that have no legal basis"
+              "X unrelated to Persian achievements",
+              "Underwater tunnels",
+              "Modern highways",
+              "Roads connecting distant parts of the empire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To govern such a large empire, Persian rulers divided their land into ___.",
+            "options": [
+              "Provinces, each managed by an appointed governor",
+              "Independent countries with no ruler",
+              "X unrelated to Persian government",
+              "A single small village"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Persian Empire is remembered for allowing conquered peoples to ___.",
+            "options": [
+              "Speak only the Persian language",
+              "Live with no laws at all",
+              "Keep many of their own customs and beliefs",
+              "X unrelated to Persian rule"
             ],
             "answer": 2
           },
           {
-            "q": "Why have Indigenous rights movements been important in Canadian history?",
+            "q": "Why do historians consider ancient Persia to be one of the largest empires of the ancient world?",
             "options": [
-              "They have brought attention to important issues of justice, land, and self-determination",
-              "These movements have had no impact on Canadian society",
-              "Rights movements have no connection to treaty agreements",
-              "Indigenous rights have never been a topic of discussion"
+              "X unrelated to studying ancient Persia",
+              "Ancient Persia had no organized government",
+              "It controlled a vast amount of land and many diverse peoples",
+              "Persia never expanded beyond a single city"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Self-government, as discussed in Indigenous rights movements, refers to ___.",
-            "options": [
-              "A community’s authority to govern its own affairs",
-              "A concept unrelated to Indigenous communities",
-              "Complete removal of any community authority",
-              "Government control with no Indigenous involvement"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Learning about Indigenous rights movements helps students understand ___.",
-            "options": [
-              "Ongoing efforts toward justice and reconciliation in Canada",
-              "That these issues have no relevance today",
-              "That rights movements only occurred outside Canada",
-              "That Indigenous communities have no history of advocacy"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Indigenous Peoples & First Nations"
+        ]
       }
     ]
   },
@@ -9952,61 +9947,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Renaissance: Art, Science, and New Ideas",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Renaissance was a period of renewed interest in art, science, and learning that began in Italy and transformed ideas about the world across Europe.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=5g2t582YeCs",
+        "title": "The Vikings: Explorers and Traders",
+        "summary": "Grade 4 Social Studies strand: the Vikings were seafaring people from Scandinavia who, between about 800 and 1050 CE, explored, traded, and settled across parts of Europe and even reached North America in their longships.",
+        "resourceLabel": "YouTube: The Vikings: Explorers and Traders",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Vikings%3A%20Explorers%20and%20Traders%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Renaissance was a period of renewed interest in ___.",
+            "q": "The Vikings originally came from the region known today as ___.",
             "options": [
-              "War and conquest only",
-              "Art, science, and learning",
-              "Isolation from other cultures",
-              "Only religious matters"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Where did the Renaissance begin?",
-            "options": [
-              "England",
-              "Egypt",
-              "Italy",
-              "Japan"
+              "Southern Africa",
+              "X unrelated to the Vikings",
+              "Scandinavia",
+              "Central America"
             ],
             "answer": 2
           },
           {
-            "q": "Which Renaissance figure was known for both art and scientific studies?",
+            "q": "Vikings travelled across the seas using long, narrow boats known as ___.",
             "options": [
-              "Leonardo da Vinci",
-              "Julius Caesar",
-              "Genghis Khan",
-              "Cleopatra"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The word 'Renaissance' means ___.",
-            "options": [
-              "Revolution",
-              "Reformation",
-              "Republic",
-              "Rebirth"
+              "X unrelated to Viking travel",
+              "Steamships",
+              "Submarines",
+              "Longships"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Renaissance considered an important period in history?",
+            "q": "Besides raiding, Vikings were also skilled ___.",
             "options": [
-              "It had no lasting impact on later history",
-              "It sparked new ideas in art, science, and learning that shaped later centuries",
-              "It ended all forms of art and learning",
-              "It only affected a small isolated village"
+              "Builders of ancient pyramids",
+              "X unrelated to Viking activities",
+              "Traders who exchanged goods across long distances",
+              "Astronauts who explored space"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Evidence suggests Vikings reached which part of North America long before other Europeans?",
+            "options": [
+              "A settlement in what is now Mexico",
+              "A settlement in what is now Newfoundland",
+              "A settlement in what is now Hawaii",
+              "X unrelated to Viking exploration"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why are the Vikings remembered as skilled sailors?",
+            "options": [
+              "X unrelated to Viking sailing skills",
+              "Vikings avoided water travel completely",
+              "Vikings never travelled far from home",
+              "They travelled vast distances across open ocean using their longships"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -10201,63 +10195,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Fall of the Roman Empire",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the fall of the Roman Empire in the West, traditionally dated to 476 CE, resulted from a combination of factors including economic troubles, invasions, and political instability.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=9Id9kH5DHRs",
+        "title": "Trade Routes of the Ancient World (Silk Road and Beyond)",
+        "summary": "Grade 4 Social Studies strand: ancient trade routes, such as the Silk Road, connected distant civilizations across Asia, Europe, and Africa, allowing goods, ideas, and cultures to be exchanged over long distances.",
+        "resourceLabel": "YouTube: Trade Routes of the Ancient World (Silk Road and Beyond)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Routes%20of%20the%20Ancient%20World%20%28Silk%20Road%20and%20Beyond%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The fall of the Western Roman Empire is traditionally dated to which year?",
+            "q": "The Silk Road was a network of ancient trade routes connecting ___.",
             "options": [
-              "476 CE",
-              "1789 CE",
-              "1492 CE",
-              "1000 CE"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which is a commonly cited factor in the fall of the Roman Empire?",
-            "options": [
-              "Economic troubles and political instability",
-              "A sudden, single unexplained event",
-              "No factors at all, since it never actually fell",
-              "Only good weather"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Invasions by various groups contributed to ___.",
-            "options": [
-              "The founding of Rome",
-              "The strengthening of Rome with no negative effects",
-              "The weakening of the Western Roman Empire",
-              "Nothing related to Rome’s decline"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why do historians study the fall of the Roman Empire?",
-            "options": [
-              "It has no connection to later European history",
-              "This event has no historical significance",
-              "The Roman Empire never actually existed",
-              "To understand the causes behind the decline of a major historical civilization"
+              "Only two neighbouring villages",
+              "Cities located entirely underwater",
+              "X unrelated to the Silk Road",
+              "Distant civilizations across Asia, Europe, and Africa"
             ],
             "answer": 3
           },
           {
-            "q": "After the fall of the Western Roman Empire, Europe entered a period often referred to as ___.",
+            "q": "The Silk Road gets its name from a valuable good, ___, that was traded along the route.",
             "options": [
-              "Modern times immediately",
-              "A period with no historical name",
-              "The Medieval or Middle Ages",
-              "The Renaissance immediately"
+              "Silk",
+              "Plastic",
+              "X unrelated to the Silk Road’s name",
+              "Rubber"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides goods, what else spread between civilizations along ancient trade routes?",
+            "options": [
+              "Only modern technology",
+              "Ideas and cultural practices",
+              "X unrelated to ancient trade routes",
+              "Nothing besides physical goods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why were ancient trade routes, such as the Silk Road, important to the civilizations they connected?",
+            "options": [
+              "They allowed distant societies to exchange goods, ideas, and culture",
+              "Ancient civilizations never exchanged goods with one another",
+              "Trade routes prevented any contact between civilizations",
+              "X unrelated to the importance of trade routes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians study ancient trade routes like the Silk Road today?",
+            "options": [
+              "X unrelated to studying ancient trade routes",
+              "Ancient trade routes provide no useful historical information",
+              "They reveal how ancient civilizations were connected to one another",
+              "Ancient civilizations were always completely isolated from each other"
             ],
             "answer": 2
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -10450,61 +10444,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Byzantine Empire",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Byzantine Empire was the continuation of the Eastern Roman Empire, centred in Constantinople, known for preserving Roman and Greek traditions and developing its own rich culture for many centuries.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=Okph9wt8I0A",
+        "title": "Social Studies: Ancient Aztec Civilization",
+        "summary": "Grade 4 Social Studies strand: the Aztec civilization built a powerful empire in what is now Mexico, known for its capital city Tenochtitlan, advanced farming methods, and detailed calendar system.",
+        "resourceLabel": "YouTube: Social Studies: Ancient Aztec Civilization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Aztec%20Civilization%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Byzantine Empire was the continuation of the ___.",
+            "q": "In what area did the Aztec civilization build its empire?",
             "options": [
-              "Eastern Roman Empire",
-              "Western Roman Empire",
-              "Mongol Empire",
-              "Ancient Egyptian Empire"
+              "What is now Canada",
+              "What is now Mexico",
+              "A concept unrelated to ancient civilizations",
+              "What is now Australia"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The capital city of the Byzantine Empire was ___.",
+            "q": "What was the name of the Aztec capital city?",
             "options": [
-              "Constantinople",
-              "Cairo",
-              "Athens",
-              "Rome"
+              "Rome",
+              "Tenochtitlan",
+              "A concept unrelated to the Aztecs",
+              "Athens"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The Byzantine Empire is known for preserving elements of ___.",
+            "q": "Were the Aztecs known for advanced farming methods?",
             "options": [
-              "A completely unrelated culture",
-              "No historical traditions at all",
-              "Only traditions unrelated to Rome or Greece",
-              "Roman and Greek traditions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Byzantine Empire lasted for ___.",
-            "options": [
-              "Only a single year",
-              "It never actually existed",
-              "Many centuries",
-              "Less than a decade"
+              "A concept unrelated to the Aztecs",
+              "They never grew any food",
+              "Yes",
+              "No, they had no farming methods at all"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Byzantine Empire significant to world history?",
+            "q": "Why might the Aztecs’ detailed calendar system have been important to their society?",
             "options": [
-              "It helped preserve and pass on classical knowledge and culture for centuries",
-              "It existed only in legend, not reality",
-              "It contributed nothing to world history",
-              "It had no connection to Roman or Greek history"
+              "Calendars have no connection to ancient societies",
+              "This concept has no relevance to social studies",
+              "It likely helped them plan farming, festivals, and other important events",
+              "The Aztecs never used any kind of calendar"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study ancient civilizations like the Aztecs?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Ancient civilizations have no connection to history",
+              "Studying past societies has no value at all",
+              "To understand how past societies lived, built cities, and organized their communities"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -10699,63 +10692,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Mongol Empire",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Mongol Empire, founded by Genghis Khan in the 13th century, became the largest contiguous land empire in history, connecting trade and cultural exchange across Asia and into Europe.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=wUVvTqvjUaM",
+        "title": "Social Studies: Canada’s Peacekeeping Role Internationally",
+        "summary": "Grade 4 Social Studies strand: Canada has a history of contributing peacekeepers, often through the United Nations, to help maintain peace and stability in regions experiencing conflict.",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Peacekeeping Role Internationally",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Peacekeeping%20Role%20Internationally%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Mongol Empire was founded by ___.",
+            "q": "What do we call soldiers sent to help maintain peace in a conflict region?",
             "options": [
-              "A Roman emperor",
-              "An Egyptian pharaoh",
-              "Genghis Khan",
-              "A Byzantine ruler"
+              "A concept unrelated to international relations",
+              "Firefighters",
+              "Postal workers",
+              "Peacekeepers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Has Canada historically contributed peacekeepers to international efforts?",
+            "options": [
+              "Only other countries send peacekeepers",
+              "A concept unrelated to Canada",
+              "Yes",
+              "No, Canada has never contributed peacekeepers"
             ],
             "answer": 2
           },
           {
-            "q": "The Mongol Empire is often noted for being ___.",
+            "q": "Through what international organization has Canada often sent peacekeepers?",
             "options": [
-              "The largest contiguous land empire in history",
-              "Limited to a single small city",
-              "A very small, short-lived kingdom",
-              "Entirely disconnected from trade routes"
+              "A local town council",
+              "A single private company",
+              "The United Nations",
+              "A concept unrelated to peacekeeping"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "The Mongol Empire helped connect trade and cultural exchange across ___.",
+            "q": "Why might a country choose to send peacekeepers to a conflict region?",
             "options": [
-              "Asia and into Europe",
-              "No regions at all",
-              "Only modern countries",
-              "Only one isolated village"
+              "This concept has no connection to international relations",
+              "Peacekeepers never help with maintaining peace",
+              "Sending peacekeepers always increases conflict",
+              "To help maintain peace and stability where conflict is occurring"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "In which century was the Mongol Empire founded?",
+            "q": "Why might Canada’s peacekeeping role be an important part of its national identity?",
             "options": [
-              "19th century",
-              "13th century",
-              "5th century",
-              "21st century"
+              "Peacekeeping has no connection to national identity",
+              "This concept has no relevance to Canadian history",
+              "It reflects Canada’s values of cooperation and supporting global peace",
+              "Canada has no international role at all"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Mongol Empire significant in world history?",
-            "options": [
-              "It had no lasting impact on history",
-              "It had a major impact on trade, culture, and political boundaries across a vast region",
-              "It was limited to religious activities only",
-              "It never actually controlled any territory"
-            ],
-            "answer": 1
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Cold War & 20th Century Canada"
       }
     ]
   },
@@ -10887,124 +10880,124 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Newton’s Laws of Motion: An Introduction",
-        "summary": "Ontario Grade 6 Science Structures and Mechanisms strand: Newton’s laws of motion describe how objects behave when forces act on them, including how objects at rest stay at rest unless acted on by an outside force.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=-w6oW1ut4Dw",
+        "title": "Forces: Magnetism",
+        "summary": "Ontario Grade 4 Science Structures and Mechanisms strand: magnetism is a force that attracts certain metals, such as iron, and every magnet has a north pole and a south pole.",
+        "resourceLabel": "YouTube: Forces: Magnetism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Forces%3A%20Magnetism%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Kll5A6xX9cY",
         "quiz": [
           {
-            "q": "According to Newton’s first law, an object at rest will ___.",
+            "q": "Magnetism is a force that attracts ___.",
             "options": [
-              "Immediately disappear",
-              "Stay at rest unless acted on by an outside force",
-              "Always start moving on its own",
-              "Change its own mass spontaneously"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Newton’s laws of motion describe how objects behave when ___.",
-            "options": [
-              "They have no mass at all",
-              "They are completely motionless with no exceptions",
-              "Forces act on them",
-              "No forces exist anywhere"
+              "Only liquids",
+              "Only wood",
+              "Certain metals, such as iron",
+              "All materials equally"
             ],
             "answer": 2
           },
           {
-            "q": "Which is an everyday example related to Newton’s first law?",
+            "q": "Every magnet has ___.",
             "options": [
-              "A ball disappears without any cause",
-              "A ball grows heavier while sitting still",
-              "A ball changes colour on its own",
-              "A ball stays still until someone kicks it"
+              "A north pole and a south pole",
+              "Only a north pole",
+              "Three poles",
+              "No poles at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens when two magnets’ like poles (north-north or south-south) are brought together?",
+            "options": [
+              "They attract strongly",
+              "They stick together permanently",
+              "They repel each other",
+              "Nothing happens at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens when two magnets’ opposite poles (north-south) are brought together?",
+            "options": [
+              "They repel each other",
+              "Nothing happens",
+              "They cancel out completely",
+              "They attract each other"
             ],
             "answer": 3
           },
           {
-            "q": "Newton’s laws are considered foundational to the study of ___.",
+            "q": "Which material would a magnet most strongly attract?",
             "options": [
-              "Only biology",
-              "Motion and forces in physics",
-              "Only geography",
-              "Only chemistry"
+              "Iron",
+              "Plastic",
+              "Wood",
+              "Glass"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why are Newton’s laws still relevant in modern science and engineering?",
-            "options": [
-              "They only applied in the past, not today",
-              "They have no connection to real-world motion",
-              "They help explain and predict how objects move under different forces",
-              "These laws have been proven completely incorrect"
-            ],
-            "answer": 2
+            "answer": 0
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
-        "title": "The Aztec and Inca Civilizations",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Aztec civilization in Mesoamerica and the Inca civilization in South America both developed advanced cities, agriculture, and governance systems before European contact.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=oMh5Dz4CVWY",
+        "title": "Social Studies: Comparing Monarchy, Democracy, and Dictatorship",
+        "summary": "Grade 4 Social Studies strand: countries can be governed in different ways, including a monarchy led by a king or queen, a democracy where citizens vote for leaders, and a dictatorship led by one person with total control.",
+        "resourceLabel": "YouTube: Social Studies: Comparing Monarchy, Democracy, and Dictatorship",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Comparing%20Monarchy%2C%20Democracy%2C%20and%20Dictatorship%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Aztec civilization was located mainly in ___.",
+            "q": "In a monarchy, who typically leads the country?",
             "options": [
-              "East Asia",
-              "North Africa",
-              "Mesoamerica (present-day Mexico)",
-              "Northern Europe"
+              "Citizens who vote",
+              "No one leads at all",
+              "A king or queen",
+              "A concept unrelated to government"
             ],
             "answer": 2
           },
           {
-            "q": "The Inca civilization was located mainly in ___.",
+            "q": "In a democracy, how are leaders typically chosen?",
             "options": [
-              "Northern Europe",
-              "Southeast Asia",
-              "South America",
-              "North Africa"
+              "Citizens vote for them",
+              "A concept unrelated to government",
+              "A single king or queen decides",
+              "Leaders are chosen at random"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a dictatorship, how much control does typically one single leader have?",
+            "options": [
+              "A concept unrelated to government",
+              "No control at all",
+              "Total control",
+              "Equal control shared among all citizens"
             ],
             "answer": 2
           },
           {
-            "q": "Both the Aztec and Inca civilizations developed advanced ___.",
+            "q": "Why might citizens in a democracy have more say in their government compared to a dictatorship?",
             "options": [
-              "Only small nomadic camps",
-              "Systems identical to modern countries",
-              "No cities or organized systems at all",
-              "Cities, agriculture, and governance systems"
+              "This concept has no relevance to government systems",
+              "Democracies and dictatorships work in exactly the same way",
+              "Citizens in a democracy can vote for their leaders and influence decisions",
+              "Citizens never have any say in a democracy"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "These civilizations existed ___ major European contact.",
+            "q": "Why is it useful to compare different systems of government, like monarchy, democracy, and dictatorship?",
             "options": [
-              "Only after",
-              "At the exact same time as",
-              "They had no connection to European contact at all",
-              "Before"
+              "Comparing government systems has no educational value",
+              "It helps us understand how power and decisions are organized differently around the world",
+              "All systems of government are always identical",
+              "This concept has no relevance to social studies"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why do historians study the Aztec and Inca civilizations?",
-            "options": [
-              "They never actually existed",
-              "These civilizations had no notable achievements",
-              "They are identical to European civilizations of the same era",
-              "They represent significant, advanced societies with rich cultural achievements"
-            ],
-            "answer": 3
+            "answer": 1
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -11075,185 +11068,185 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Multiplying and Dividing Integers",
-        "summary": "Ontario Grade 6 Number strand: when multiplying or dividing integers, two numbers with the same sign produce a positive result, while two numbers with different signs produce a negative result.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=NjflPaUhM4Q",
+        "title": "Ratios and Simple Proportional Reasoning (Intro)",
+        "summary": "Grade 4 Math strand: a ratio compares two quantities, such as 2 red marbles for every 3 blue marbles, and can be used to solve simple proportional problems.",
+        "resourceLabel": "YouTube: Ratios and Simple Proportional Reasoning (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ratios%20and%20Simple%20Proportional%20Reasoning%20%28Intro%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RQ2nYUBVvqI",
         "quiz": [
           {
-            "q": "What is the result of a negative integer multiplied by a negative integer?",
+            "q": "A ratio is used to ___.",
             "options": [
-              "Negative",
-              "Positive",
-              "Zero",
-              "Cannot be determined"
+              "Compare two quantities",
+              "Add two quantities together",
+              "Measure the length of an object",
+              "A concept unrelated to ratios"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What is the result of a positive integer multiplied by a negative integer?",
+            "q": "If a recipe uses a ratio of 2 cups of flour for every 1 cup of sugar, how much flour is needed for 2 cups of sugar?",
             "options": [
-              "Cannot be determined",
-              "Positive",
-              "Negative",
-              "Zero"
+              "2 cups",
+              "An amount unrelated to the ratio",
+              "1 cup",
+              "4 cups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A ratio of 3:1 means that for every 3 of one item, there is/are ___ of the other.",
+            "options": [
+              "3",
+              "A number unrelated to the ratio",
+              "1",
+              "4"
             ],
             "answer": 2
           },
           {
-            "q": "What is -4 times -3?",
+            "q": "If a class has a ratio of 2 boys for every 3 girls, and there are 6 boys, how many girls are there?",
             "options": [
-              "-12",
-              "12",
-              "-7",
-              "7"
+              "3",
+              "9",
+              "6",
+              "A number unrelated to the ratio"
             ],
             "answer": 1
           },
           {
-            "q": "What is 15 divided by -3?",
+            "q": "Why are ratios useful in everyday life?",
             "options": [
-              "18",
-              "-18",
-              "-5",
-              "5"
+              "A reason unrelated to ratios",
+              "Ratios have no practical use in daily life",
+              "They help compare quantities and scale recipes, maps, and mixtures accurately",
+              "Ratios can only be used in advanced mathematics"
             ],
             "answer": 2
-          },
-          {
-            "q": "What is -20 divided by -4?",
-            "options": [
-              "24",
-              "5",
-              "-24",
-              "-5"
-            ],
-            "answer": 1
           }
         ],
-        "topic": "Integers"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
-        "title": "The Periodic Table: An Introduction to Elements",
-        "summary": "Ontario Grade 6 Science Matter and Energy strand: the periodic table organizes all known chemical elements based on their properties, with elements arranged by increasing atomic number.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=uPkEGAHo78o",
+        "title": "Simple Circuits: Series vs Parallel",
+        "summary": "Grade 4 Science strand: in a series circuit, components are connected in a single loop, while in a parallel circuit, components are connected along multiple paths.",
+        "resourceLabel": "YouTube: Simple Circuits: Series vs Parallel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Circuits%3A%20Series%20vs%20Parallel%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3xKK8jSqKNo",
         "quiz": [
           {
-            "q": "The periodic table organizes elements based on their ___.",
+            "q": "In a series circuit, components are connected ___.",
             "options": [
-              "Colour only",
-              "Alphabetical order of their names",
-              "Random order with no pattern",
-              "Properties and atomic number"
+              "With no connection between them at all",
+              "A concept unrelated to circuits",
+              "Along a single loop, one after another",
+              "Along multiple separate paths"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "An element is best described as ___.",
+            "q": "In a parallel circuit, components are connected ___.",
             "options": [
-              "A pure substance made of only one type of atom",
-              "A type of energy, not matter",
-              "Always a mixture of multiple substances",
-              "A living organism"
+              "Along multiple separate paths",
+              "Along a single loop only",
+              "With no connection between them at all",
+              "A concept unrelated to circuits"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these is an example of an element found on the periodic table?",
+            "q": "What happens to the other bulbs in a series circuit if one bulb burns out?",
             "options": [
-              "Air",
-              "Oxygen",
-              "Salt water",
-              "Water"
+              "A result unrelated to circuits",
+              "They all turn off, since the loop is broken",
+              "They stay lit with no change at all",
+              "They become brighter than before"
             ],
             "answer": 1
           },
           {
-            "q": "Elements on the periodic table are arranged by ___.",
+            "q": "What happens to the other bulbs in a parallel circuit if one bulb burns out?",
             "options": [
-              "Alphabetical order only",
-              "Colour only",
-              "Random placement with no order",
-              "Increasing atomic number"
+              "The others can stay lit, since each has its own path",
+              "The entire house loses power",
+              "They all turn off immediately",
+              "A result unrelated to circuits"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is the periodic table a useful tool in science?",
+            "q": "Why might parallel circuits be used for household wiring?",
             "options": [
-              "It has no scientific usefulness",
-              "It only lists elements with no other information",
-              "It is used only in mathematics, not science",
-              "It organizes elements in a way that reveals patterns in their properties"
+              "A reason unrelated to circuits",
+              "Parallel circuits have no practical advantage",
+              "Series circuits are always used in houses instead",
+              "So that one broken device does not turn off all the others"
             ],
             "answer": 3
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
-        "title": "Colonialism in Africa",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: during the 19th and early 20th centuries, several European powers colonized much of Africa, significantly impacting local societies, economies, and political borders.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=Fbb7nbIUUEM",
+        "title": "Social Studies: The Role of the United Nations",
+        "summary": "Grade 4 Social Studies strand: the United Nations is an international organization where countries work together on issues like peace, human rights, and humanitarian aid.",
+        "resourceLabel": "YouTube: Social Studies: The Role of the United Nations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20the%20United%20Nations%20grade%206%20educational",
         "quiz": [
           {
-            "q": "During the 19th and early 20th centuries, several European powers colonized much of ___.",
+            "q": "What do we call the international organization where countries work together on global issues?",
             "options": [
-              "Africa",
-              "Antarctica",
-              "No territory at all",
-              "The Moon"
+              "A concept unrelated to international relations",
+              "A single country’s government",
+              "A local town council",
+              "The United Nations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one issue the United Nations works on, such as peace or human rights.",
+            "options": [
+              "Peace",
+              "A backyard garden",
+              "A local school rule",
+              "A concept unrelated to the United Nations"
             ],
             "answer": 0
           },
           {
-            "q": "Colonialism in Africa significantly impacted local ___.",
+            "q": "Do many different countries work together as part of the United Nations?",
             "options": [
-              "Only weather patterns",
-              "Societies, economies, and political borders",
-              "Nothing at all",
-              "Only wildlife populations"
+              "No, only one single country is involved",
+              "Yes",
+              "A concept unrelated to the United Nations",
+              "The United Nations has no members at all"
             ],
             "answer": 1
           },
           {
-            "q": "Colonial powers often drew political borders in Africa based on ___.",
+            "q": "Why might countries choose to work together through an organization like the United Nations?",
             "options": [
-              "Their own interests, sometimes with little regard for existing communities",
-              "Random chance with no lasting effect",
-              "Ancient borders that had never changed",
-              "Careful, consistent consultation with every local community"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do historians study the effects of colonialism in Africa?",
-            "options": [
-              "It has no connection to modern African nations",
-              "Colonialism had no lasting effects",
-              "Colonialism never occurred in Africa",
-              "To understand its long-lasting impact on the continent’s societies and politics"
+              "Countries never benefit from working together",
+              "This concept has no connection to international relations",
+              "Global issues never require cooperation between countries",
+              "Cooperating can help solve problems that affect many countries at once"
             ],
             "answer": 3
           },
           {
-            "q": "Which is a lasting effect often associated with colonial-era borders in Africa?",
+            "q": "Why might humanitarian aid be an important part of the United Nations’ work?",
             "options": [
-              "Borders that perfectly matched every community with no issues",
-              "Borders that were immediately erased after colonization",
-              "No effect on modern nations at all",
-              "Borders that sometimes divided or combined communities in ways that caused later challenges"
+              "People affected by disasters never need any help",
+              "Humanitarian aid has no connection to the United Nations",
+              "It can help people affected by disasters or conflict around the world",
+              "This concept has no relevance to social studies"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Canada & International Relations"
       }
     ]
   },
@@ -11446,63 +11439,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Decolonization Movements in the 20th Century",
-        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: decolonization refers to the process by which colonized nations, especially in Africa and Asia, gained independence from colonial powers during the 20th century.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=T_sGTspaF4Y",
+        "title": "Social Studies: Canada’s Immigration Policies Today",
+        "summary": "Grade 4 Social Studies strand: Canada has immigration policies today that determine how people from other countries can come to live, work, or study in Canada, contributing to the country’s diversity.",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Immigration Policies Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Immigration%20Policies%20Today%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Decolonization refers to the process of ___.",
+            "q": "What do we call the rules that determine how people can come to live in Canada?",
             "options": [
-              "Countries becoming newly colonized",
-              "A single country expanding its colonies",
-              "Nations losing all forms of self-governance",
-              "Colonized nations gaining independence from colonial powers"
+              "School rules",
+              "A concept unrelated to government",
+              "Traffic laws",
+              "Immigration policies"
             ],
             "answer": 3
           },
           {
-            "q": "Decolonization movements were especially significant in which regions during the 20th century?",
+            "q": "Can people come to Canada to work or study through immigration policies?",
             "options": [
-              "Only uninhabited regions",
-              "Africa and Asia",
-              "No regions experienced decolonization",
-              "Only Antarctica"
+              "Yes",
+              "A concept unrelated to immigration",
+              "No one is ever allowed to come to Canada",
+              "No, immigration policies only apply to tourists"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do immigrants contribute to Canada’s diversity?",
+            "options": [
+              "No, immigrants have no effect on Canada’s diversity",
+              "Diversity has no connection to immigration",
+              "A concept unrelated to immigration",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada have specific policies for immigration rather than no rules at all?",
+            "options": [
+              "This concept has no connection to government",
+              "Policies help organize and manage how people come to live, work, or study in the country",
+              "Countries never need any immigration policies",
+              "Immigration policies serve no real purpose"
             ],
             "answer": 1
           },
           {
-            "q": "Why did many colonized nations seek independence during the 20th century?",
+            "q": "How might immigration contribute to Canada’s economy and culture?",
             "options": [
-              "To gain self-governance and control over their own political and economic future",
-              "Independence provided no benefits to these nations",
-              "Colonized nations were already fully independent",
-              "They had no interest in gaining independence"
+              "Immigrants never contribute anything to a country",
+              "This concept has no relevance to social studies",
+              "Immigrants can bring new skills, ideas, and traditions that enrich communities",
+              "Immigration never affects a country’s economy or culture"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Decolonization often involved ___.",
-            "options": [
-              "Political movements and, at times, significant conflict",
-              "A return to earlier colonial rule",
-              "No political activity whatsoever",
-              "Immediate and effortless transitions with no challenges"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is studying decolonization important to understanding the modern world?",
-            "options": [
-              "Decolonization has no connection to today’s world",
-              "This process only affected ancient history",
-              "It has no relevance to modern international relations",
-              "Many current nations and borders were shaped by this 20th-century process"
-            ],
-            "answer": 3
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Immigration & Settlement"
       }
     ]
   },
@@ -12134,64 +12127,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Human Impact on Climate Change",
-        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: human activities, such as burning fossil fuels and deforestation, release greenhouse gases that contribute to changes in Earth’s climate over time.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=Um-bo2MWDsQ",
+        "title": "Space: The Sun and Its Role in Our Solar System",
+        "summary": "Grade 4 Science strand: the Sun is a star at the centre of our solar system, providing the light and heat energy that supports life on Earth.",
+        "resourceLabel": "YouTube: Space: The Sun and Its Role in Our Solar System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Space%3A%20The%20Sun%20and%20Its%20Role%20in%20Our%20Solar%20System%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vQSECrMIygg",
         "quiz": [
           {
-            "q": "Which human activity is commonly linked to increased greenhouse gas emissions?",
+            "q": "The Sun is best described as a ___.",
             "options": [
-              "Recycling materials",
-              "Planting more trees",
-              "Burning fossil fuels",
-              "Reducing energy use"
+              "A concept unrelated to space",
+              "Moon that orbits another planet",
+              "Star at the centre of our solar system",
+              "Planet that orbits the Earth"
             ],
             "answer": 2
           },
           {
-            "q": "Deforestation can contribute to climate change by ___.",
+            "q": "The Sun provides Earth with ___.",
             "options": [
-              "Having no effect on the atmosphere",
-              "Reducing the number of trees that absorb carbon dioxide",
-              "Increasing the number of trees absorbing carbon dioxide",
-              "Removing all greenhouse gases immediately"
+              "Only darkness",
+              "Light and heat energy",
+              "No energy of any kind",
+              "A concept unrelated to the Sun"
             ],
             "answer": 1
           },
           {
-            "q": "Greenhouse gases contribute to climate change by ___.",
+            "q": "Why is the Sun important for life on Earth?",
             "options": [
-              "Cooling the atmosphere with no other effects",
-              "Immediately disappearing from the atmosphere",
-              "Having no connection to temperature",
-              "Trapping heat in Earth’s atmosphere"
+              "The Sun has no connection to life on Earth",
+              "It provides the energy that plants and other living things depend on",
+              "Life on Earth exists with no need for any energy source",
+              "A reason unrelated to the Sun’s role"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "All the planets in our solar system orbit ___.",
+            "options": [
+              "The Sun",
+              "A body unrelated to our solar system",
+              "Earth",
+              "The Moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Compared to the planets, the Sun is ___.",
+            "options": [
+              "Exactly the same size as Earth",
+              "Much smaller and reflects light from Earth",
+              "A description unrelated to the Sun",
+              "Far larger and is a source of its own light"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why might reducing fossil fuel use help address climate change?",
-            "options": [
-              "Fossil fuel use has no connection to greenhouse gases",
-              "It can help lower the amount of greenhouse gases released into the atmosphere",
-              "Reducing fossil fuel use always increases emissions",
-              "Climate change is unrelated to human activity"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which is an example of an action that could help reduce human impact on climate change?",
-            "options": [
-              "Ignoring energy use entirely",
-              "Cutting down more forests with no replanting",
-              "Increasing the use of renewable energy sources",
-              "Increasing the burning of fossil fuels"
-            ],
-            "answer": 2
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -12471,75 +12464,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Review: World Empires and Global Challenges",
-        "summary": "Ontario Grade 6 Social Studies review: this lesson revisits the fall of Rome, the Byzantine Empire, the Mongol Empire, the Aztec and Inca civilizations, colonialism, decolonization, and climate change as a global issue.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=Okph9wt8I0A",
-        "videoUrls": [
-          {
-            "label": "Byzantine Empire",
-            "url": "https://www.youtube.com/watch?v=Okph9wt8I0A"
-          },
-          {
-            "label": "Mongol Empire",
-            "url": "https://www.youtube.com/watch?v=wUVvTqvjUaM"
-          },
-          {
-            "label": "Decolonization",
-            "url": "https://www.youtube.com/watch?v=T_sGTspaF4Y"
-          }
-        ],
+        "title": "Review: Ancient Societies, Government, and Global Connections (Days 81-89)",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Aztec civilization, museums, Canadian peacekeeping, comparing government systems, the United Nations, immigration policy, land acknowledgements, currency history, and global trade.",
+        "resourceLabel": "YouTube: Review: Ancient Societies, Government, and Global Connections (Days 81-89)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ancient%20Societies%2C%20Government%2C%20and%20Global%20Connections%20%28Days%2081-89%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Which empire was centred in Constantinople and continued Roman and Greek traditions?",
+            "q": "What was the name of the Aztec capital city?",
             "options": [
-              "The Byzantine Empire",
-              "The Aztec Empire",
-              "The Inca Empire",
-              "The Mongol Empire"
+              "Athens",
+              "A concept unrelated to the Aztecs",
+              "Tenochtitlan",
+              "Rome"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call soldiers sent to help maintain peace in a conflict region?",
+            "options": [
+              "Postal workers",
+              "A concept unrelated to international relations",
+              "Peacekeepers",
+              "Firefighters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a democracy, how are leaders typically chosen?",
+            "options": [
+              "A single king or queen decides",
+              "A concept unrelated to government",
+              "Citizens vote for them",
+              "Leaders are chosen at random"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a statement recognizing the Indigenous Peoples connected to a piece of land?",
+            "options": [
+              "A concept unrelated to Indigenous history",
+              "A grocery list",
+              "A weather report",
+              "A land acknowledgement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do countries often join to set shared rules for international trade?",
+            "options": [
+              "Trade organizations or agreements",
+              "A local sports league",
+              "A concept unrelated to global trade",
+              "A single school club"
             ],
             "answer": 0
-          },
-          {
-            "q": "Which empire, founded by Genghis Khan, became the largest contiguous land empire in history?",
-            "options": [
-              "The Aztec Empire",
-              "The Roman Empire",
-              "The Mongol Empire",
-              "The Byzantine Empire"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Decolonization refers to colonized nations gaining ___.",
-            "options": [
-              "Complete isolation from the rest of the world",
-              "Independence from colonial powers",
-              "No political changes at all",
-              "New colonial rulers"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Climate change is considered a global issue because it requires ___.",
-            "options": [
-              "No cooperation between countries",
-              "International cooperation to address its causes and effects",
-              "No connection to international relations",
-              "Action from only a single country"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it useful to review world empires and global challenges together?",
-            "options": [
-              "Each topic must be studied with no connection to the others",
-              "Review is never useful in social studies",
-              "It helps reinforce how historical patterns of power and cooperation connect to challenges today",
-              "These topics have no meaningful connections"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -12673,121 +12651,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Density and Buoyancy",
-        "summary": "Grade 6 Science strand: density describes how much mass is packed into a given volume, and buoyancy explains why some objects float while others sink in a fluid.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=M5gWHCE_4x8",
+        "title": "Animal Camouflage and Mimicry",
+        "summary": "Grade 4 Science strand: camouflage helps an animal blend into its surroundings, while mimicry occurs when one species evolves to resemble another species, both as strategies for survival.",
+        "resourceLabel": "YouTube: Animal Camouflage and Mimicry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Camouflage%20and%20Mimicry%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UzmH1mHdLcA",
         "quiz": [
           {
-            "q": "Density describes ___.",
+            "q": "Camouflage helps an animal ___.",
             "options": [
-              "A concept unrelated to density",
-              "The colour of an object",
-              "How much mass is packed into a given volume",
-              "How heavy an object feels when held"
+              "X unrelated to camouflage",
+              "Grow larger than other animals",
+              "Blend into its surroundings to avoid predators",
+              "Attract as much attention as possible"
             ],
             "answer": 2
           },
           {
-            "q": "An object will float in water if its density is ___ the density of water.",
+            "q": "Mimicry occurs when one species ___.",
             "options": [
-              "Less than",
-              "A comparison unrelated to density",
-              "Exactly double",
-              "Greater than"
+              "Has no connection to any other species",
+              "Changes location every single day",
+              "X unrelated to mimicry",
+              "Resembles another species for protection or advantage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of camouflage?",
+            "options": [
+              "X unrelated to camouflage",
+              "A polar bear’s white fur blending into snow",
+              "A lion’s loud roar",
+              "A peacock’s bright, colourful tail feathers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a harmless insect evolve to look like a stinging wasp?",
+            "options": [
+              "To trick predators into avoiding it, an example of mimicry",
+              "X unrelated to mimicry",
+              "Looking similar to another species provides no benefit",
+              "Insects never resemble other species"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a large ship made of steel float, even though steel is denser than water?",
+            "q": "How do camouflage and mimicry both help animals survive?",
             "options": [
-              "Ships are not actually denser than water in any way",
-              "A reason unrelated to buoyancy",
-              "Steel always floats, regardless of shape",
-              "Its overall shape displaces enough water to make its average density lower than water"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Buoyancy is best described as ___.",
-            "options": [
-              "A concept unrelated to fluids",
-              "The temperature of a liquid",
-              "The downward force of gravity alone",
-              "The upward force a fluid exerts on an object"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a helium balloon rise into the air?",
-            "options": [
-              "Helium is denser than the surrounding air",
-              "Balloons rise due to their colour",
-              "A reason unrelated to density",
-              "Helium is less dense than the surrounding air"
+              "They make animals more visible to predators",
+              "X unrelated to animal survival strategies",
+              "They have no effect on an animal’s chances of survival",
+              "They help animals avoid predators or better catch prey"
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
-        "title": "The Industrial Revolution: Causes and Effects",
-        "summary": "Grade 6 Social Studies strand: the Industrial Revolution was a period of rapid technological and economic change, beginning in the late 1700s, that transformed how goods were produced and how people lived and worked.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=zjK7PWmRRyg",
+        "title": "Social Studies: Ancient Inca Civilization",
+        "summary": "Grade 4 Social Studies strand: the Inca civilization built a large empire along the Andes Mountains in South America, known for its capital city Cusco, extensive road system, and the mountaintop city of Machu Picchu.",
+        "resourceLabel": "YouTube: Social Studies: Ancient Inca Civilization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Inca%20Civilization%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Industrial Revolution brought major changes to how ___.",
+            "q": "Where did the Inca civilization build its empire?",
             "options": [
-              "Ancient civilizations first began, thousands of years earlier",
-              "Countries interacted before any trade existed",
-              "Goods were produced and how people lived and worked",
-              "A concept unrelated to this historical period"
+              "In what is now Mexico",
+              "Along the Andes Mountains in South America",
+              "A concept unrelated to ancient civilizations",
+              "In what is now Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the name of the Inca capital city?",
+            "options": [
+              "Tenochtitlan",
+              "Cusco",
+              "A concept unrelated to the Inca",
+              "Athens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What famous mountaintop city did the Inca build?",
+            "options": [
+              "A concept unrelated to the Inca",
+              "Ottawa",
+              "Machu Picchu",
+              "Rome"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these was a major effect of the Industrial Revolution?",
+            "q": "Why might the Inca’s extensive road system have been important to their empire?",
             "options": [
-              "The complete disappearance of all cities",
-              "A return to purely agricultural societies with no factories",
-              "A concept unrelated to the Industrial Revolution",
-              "The growth of factories and cities"
+              "Roads have no connection to ancient empires",
+              "This concept has no relevance to social studies",
+              "It likely helped connect distant regions for trade, travel, and communication",
+              "The Inca never built any roads at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians consider the Inca’s ability to build in the mountains impressive?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Building in mountains has no connection to history",
+              "The Inca never built anything in the mountains",
+              "They constructed lasting stone structures on difficult, high-altitude terrain"
             ],
             "answer": 3
-          },
-          {
-            "q": "New machines and factories during the Industrial Revolution changed work by ___.",
-            "options": [
-              "Having no effect on how goods were produced",
-              "Making production faster and often moving it away from homes and farms",
-              "Making handcrafted goods more common than ever before",
-              "A reason unrelated to this period"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these might be considered a negative effect of the Industrial Revolution?",
-            "options": [
-              "A concept unrelated to this period",
-              "An increase in leisure time for every single worker",
-              "Difficult working conditions in early factories",
-              "A decrease in the population of cities"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why do historians consider the Industrial Revolution a major turning point?",
-            "options": [
-              "It had no lasting effect on how societies developed",
-              "It fundamentally changed economies, technology, and daily life for many people",
-              "A reason unrelated to its historical significance",
-              "It only affected a single small village with no wider impact"
-            ],
-            "answer": 1
           }
         ]
       }
@@ -12860,184 +12838,185 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Square Roots and Perfect Squares",
-        "summary": "Grade 6 Math strand: a perfect square is the product of a whole number multiplied by itself, and its square root is the number that produces that product.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=PTa9AQ9L3G8",
+        "title": "Circle Graphs (Pie Charts)",
+        "summary": "Grade 4 Math strand: a circle graph, or pie chart, shows data as slices of a circle, where each slice represents a proportion of the whole.",
+        "resourceLabel": "YouTube: Circle Graphs (Pie Charts)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Circle%20Graphs%20%28Pie%20Charts%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bgOeGO9K53I",
         "quiz": [
           {
-            "q": "A perfect square is the result of ___.",
+            "q": "A circle graph shows data as ___.",
             "options": [
-              "Any two different numbers added together",
-              "A concept unrelated to perfect squares",
-              "A whole number multiplied by itself",
-              "A whole number divided by itself"
+              "Slices of a circle representing proportions of a whole",
+              "A concept unrelated to circle graphs",
+              "A list of numbers with no visual representation",
+              "A single straight line"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What is the square root of 25?",
+            "q": "In a circle graph, a larger slice represents ___.",
             "options": [
-              "A value unrelated to the calculation",
-              "25",
-              "5",
-              "10"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the square root of 49?",
-            "options": [
-              "14",
-              "9",
-              "A value unrelated to the calculation",
-              "7"
+              "A concept unrelated to circle graphs",
+              "A smaller proportion of the total data",
+              "No data at all",
+              "A greater proportion of the total data"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these is a perfect square?",
+            "q": "If a circle graph shows that 50% of students prefer summer, what fraction of the circle would represent summer?",
             "options": [
-              "20",
-              "A number unrelated to perfect squares",
-              "36",
-              "15"
+              "A fraction unrelated to the data",
+              "The entire circle",
+              "Half of the circle",
+              "A quarter of the circle"
             ],
             "answer": 2
           },
           {
-            "q": "What is the square root of 81?",
+            "q": "Why might someone use a circle graph instead of a bar graph?",
             "options": [
-              "9",
-              "8",
-              "A value unrelated to the calculation",
-              "18"
+              "A reason unrelated to graphing data",
+              "To show how parts relate to the whole as proportions",
+              "Bar graphs and circle graphs always show identical information",
+              "Circle graphs cannot display any type of data"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "All of the slices in a circle graph should add up to ___.",
+            "options": [
+              "50% of the data",
+              "0% of the data",
+              "100% of the data",
+              "A percentage unrelated to circle graphs"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Square Roots & Radicals"
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
-        "title": "Acids, Bases, and pH",
-        "summary": "Grade 6 Science strand: acids and bases are types of chemical substances measured on the pH scale, where lower numbers indicate acids, higher numbers indicate bases, and 7 is neutral.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=V5Mq_cL9Bck",
+        "title": "Space: Earth’s Rotation and the Day/Night Cycle",
+        "summary": "Grade 4 Science strand: Earth rotates on its axis once approximately every 24 hours, and this rotation causes the cycle of day and night.",
+        "resourceLabel": "YouTube: Space: Earth’s Rotation and the Day/Night Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Space%3A%20Earth%E2%80%99s%20Rotation%20and%20the%20Day/Night%20Cycle%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MtRzy2TJAOQ",
         "quiz": [
           {
-            "q": "On the pH scale, a substance with a pH below 7 is considered ___.",
+            "q": "Earth’s rotation on its axis takes approximately ___.",
             "options": [
-              "An acid",
-              "Neutral",
-              "A base",
-              "A term unrelated to the pH scale"
+              "One year",
+              "X unrelated to Earth’s rotation",
+              "24 minutes",
+              "24 hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Day and night occur because Earth ___.",
+            "options": [
+              "Stops moving completely",
+              "X unrelated to day and night",
+              "Rotates on its axis",
+              "Changes shape every day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When your part of Earth is facing the Sun, it is ___.",
+            "options": [
+              "Always winter",
+              "Nighttime",
+              "Daytime",
+              "X unrelated to Earth’s rotation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which term describes Earth spinning on its axis?",
+            "options": [
+              "Revolution around the Sun",
+              "Reflection",
+              "X unrelated to Earth’s movement",
+              "Rotation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different places on Earth experience day and night at different times?",
+            "options": [
+              "X unrelated to Earth’s rotation",
+              "The entire Earth always faces the Sun at once",
+              "The Sun turns on and off each day",
+              "Only half of the rotating Earth faces the Sun at any moment"
+            ],
+            "answer": 3
+          }
+        ],
+        "topic": "Space & Astronomy"
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the Governor General in Canada",
+        "summary": "Grade 4 Social Studies strand: the Governor General is the representative of the Crown in Canada, performing ceremonial duties such as opening Parliament and formally approving new laws.",
+        "resourceLabel": "YouTube: Social Studies: The Role of the Governor General in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20the%20Governor%20General%20in%20Canada%20grade%206%20educational",
+        "quiz": [
+          {
+            "q": "Who does the Governor General represent in Canada?",
+            "options": [
+              "A single province only",
+              "A concept unrelated to government",
+              "A foreign country’s president",
+              "The Crown"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one ceremonial duty of the Governor General, such as opening Parliament.",
+            "options": [
+              "Opening Parliament",
+              "Running a local business",
+              "Coaching a sports team",
+              "A concept unrelated to government"
             ],
             "answer": 0
           },
           {
-            "q": "On the pH scale, a substance with a pH above 7 is considered ___.",
+            "q": "Does the Governor General formally approve new laws passed by Parliament?",
             "options": [
-              "A term unrelated to the pH scale",
-              "A base",
-              "An acid",
-              "Neutral"
+              "No, the Governor General has no role in approving laws",
+              "Yes",
+              "A concept unrelated to government",
+              "Only mayors approve laws in Canada"
             ],
             "answer": 1
           },
           {
-            "q": "A substance with a pH of exactly 7 is considered ___.",
+            "q": "Why might the role of the Governor General be considered mostly ceremonial today?",
             "options": [
-              "A strong acid",
-              "A term unrelated to the pH scale",
-              "A strong base",
-              "Neutral"
+              "The Governor General personally makes every government decision alone",
+              "This concept has no connection to Canadian government",
+              "Canada has no connection to the Crown at all",
+              "Elected leaders, not the Governor General, make most day-to-day political decisions"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these is an example of an acidic substance?",
+            "q": "Why might it be useful for students to learn about the Governor General’s role?",
             "options": [
-              "Pure water",
-              "Lemon juice",
-              "Baking soda",
-              "A substance unrelated to the pH scale"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it useful to know the pH of a substance?",
-            "options": [
-              "A reason unrelated to chemistry",
-              "pH only applies to solid substances, never liquids",
-              "The pH scale provides no useful information about a substance",
-              "It helps identify whether the substance is acidic, basic, or neutral, and how it may react with other materials"
-            ],
-            "answer": 3
-          }
-        ]
-      },
-      {
-        "subject": "SocialStudies",
-        "title": "Canada’s Role in NATO and International Alliances",
-        "summary": "Grade 6 Social Studies strand: Canada is a founding member of NATO, an alliance of countries that agree to support one another for collective defence and international security.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=eBG33GxpkUI",
-        "quiz": [
-          {
-            "q": "NATO is an alliance of countries that agree to ___.",
-            "options": [
-              "Never cooperate with one another on any issue",
-              "Compete against each other militarily",
-              "Support one another for collective defence and security",
-              "A concept unrelated to international alliances"
+              "Canada’s government has no formal structure at all",
+              "The Governor General has no relevance to understanding government",
+              "It helps explain how Canada’s system of government is structured",
+              "This concept has no relevance to social studies"
             ],
             "answer": 2
-          },
-          {
-            "q": "Canada’s role in NATO is best described as ___.",
-            "options": [
-              "A country with no connection to NATO at all",
-              "A founding member that participates in collective defence efforts",
-              "A country that has never joined any international alliance",
-              "A concept unrelated to Canada’s foreign policy"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might countries choose to join an alliance like NATO?",
-            "options": [
-              "A reason unrelated to international relations",
-              "Alliances are formed with no purpose or benefit at all",
-              "To strengthen their collective security and support one another if needed",
-              "Joining an alliance provides no security benefits"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these best describes the idea of “collective defence”?",
-            "options": [
-              "Each country must defend itself with no support from others",
-              "Only the largest country in an alliance provides any defence",
-              "A concept unrelated to alliances",
-              "An attack on one member is treated as an attack on all members"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it useful to learn about Canada’s international alliances?",
-            "options": [
-              "Canada operates independently with no international partnerships",
-              "It helps explain Canada’s role and responsibilities in global security",
-              "A reason unrelated to social studies learning",
-              "Canada’s international alliances have no effect on its foreign policy"
-            ],
-            "answer": 1
           }
-        ]
+        ],
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -13230,63 +13209,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Rise and Fall of the Ottoman Empire",
-        "summary": "Grade 6 Social Studies strand: the Ottoman Empire was a powerful state that lasted for centuries, controlling large parts of the Middle East, North Africa, and southeastern Europe before its eventual decline.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=LNZqwfCT5Zg",
+        "title": "Social Studies: The Role of Non-Governmental Organizations (NGOs)",
+        "summary": "Grade 4 Social Studies strand: a non-governmental organization, or NGO, is a group that is not run by the government and works to help people or protect the environment, such as providing disaster relief or supporting education.",
+        "resourceLabel": "YouTube: Social Studies: The Role of Non-Governmental Organizations (NGOs)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20Non-Governmental%20Organizations%20%28NGOs%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Ottoman Empire controlled large parts of ___.",
+            "q": "What does NGO stand for?",
             "options": [
-              "Only North America",
-              "The Middle East, North Africa, and southeastern Europe",
-              "A region unrelated to the Ottoman Empire",
-              "Only a single small city with no wider territory"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Ottoman Empire lasted for ___.",
-            "options": [
-              "A length of time unrelated to the Ottoman Empire",
-              "Several centuries",
-              "Only a few days",
-              "Less than one year"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these contributed to the eventual decline of the Ottoman Empire?",
-            "options": [
-              "Internal struggles and pressure from rival powers over time",
-              "A reason unrelated to the Ottoman Empire",
-              "The empire never faced any challenges throughout its history",
-              "A sudden disappearance with no historical cause"
+              "Non-governmental organization",
+              "National government office",
+              "A concept unrelated to organizations",
+              "New government operation"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the Ottoman Empire an important part of world history to study?",
+            "q": "Is an NGO run by the government?",
             "options": [
-              "It shaped politics, trade, and culture across a vast region for centuries",
-              "It had no influence on the regions it controlled",
-              "A reason unrelated to its historical significance",
-              "It existed for too short a time to have any lasting impact"
+              "Yes, NGOs are always run by the government",
+              "No",
+              "A concept unrelated to NGOs",
+              "NGOs are the same thing as a national government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one type of work an NGO might do, such as disaster relief.",
+            "options": [
+              "Running a private restaurant",
+              "Selling video games",
+              "Disaster relief",
+              "A concept unrelated to NGOs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might people choose to support an NGO that helps with education in other countries?",
+            "options": [
+              "It can help provide resources and opportunities where they are needed most",
+              "This concept has no connection to global issues",
+              "Education has no connection to community wellbeing",
+              "NGOs never actually help anyone"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these was a significant city within the Ottoman Empire?",
+            "q": "Why might NGOs work alongside governments instead of replacing them?",
             "options": [
-              "A city that has never existed",
-              "A city unrelated to the Ottoman Empire",
-              "A city located only in South America",
-              "Constantinople (Istanbul)"
+              "NGOs can offer additional support and expertise that complements government efforts",
+              "NGOs and governments never work together",
+              "NGOs always try to replace a country’s government",
+              "This concept has no relevance to social studies"
             ],
-            "answer": 3
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -13667,122 +13646,120 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Energy Transfer and Conservation of Energy",
-        "summary": "Grade 6 Science strand: energy can transfer between objects and change form, but the law of conservation of energy states that the total amount of energy in a closed system stays the same.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=PDJ6ws7NZ-I",
+        "title": "Electricity: Reading Simple Circuit Diagrams",
+        "summary": "Grade 4 Science strand: a circuit diagram uses standard symbols to represent parts of an electric circuit, such as a battery, switch, and light bulb, showing how they are connected.",
+        "resourceLabel": "YouTube: Electricity: Reading Simple Circuit Diagrams",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electricity%3A%20Reading%20Simple%20Circuit%20Diagrams%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Energy transfer means energy ___.",
+            "q": "A circuit diagram uses symbols to represent ___.",
             "options": [
-              "Moves from one object or place to another",
-              "Is destroyed completely with no trace",
-              "A concept unrelated to energy",
-              "Never moves or changes in any way"
+              "The colours of the wires only",
+              "X unrelated to circuit diagrams",
+              "The parts of an electric circuit and how they connect",
+              "The weather conditions outside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which symbol typically represents a battery in a circuit diagram?",
+            "options": [
+              "A perfect circle with no lines",
+              "A wavy line",
+              "A pair of parallel lines, one longer than the other",
+              "X unrelated to circuit diagrams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a circuit diagram, a switch symbol shows where the circuit can be ___.",
+            "options": [
+              "Opened or closed to control the flow of electricity",
+              "Filled with water",
+              "X unrelated to switches",
+              "Permanently broken with no way to reconnect it"
             ],
             "answer": 0
           },
           {
-            "q": "The law of conservation of energy states that energy ___.",
+            "q": "Why are standard symbols used in circuit diagrams instead of drawings of real objects?",
             "options": [
-              "Cannot be created or destroyed, only transformed or transferred",
-              "Is constantly being created out of nothing",
-              "A concept unrelated to conservation of energy",
-              "Disappears completely once it is used"
+              "X unrelated to circuit diagrams",
+              "Standard symbols make circuits impossible to understand",
+              "Every country uses completely different, unrelated symbols",
+              "They allow anyone to read and understand a circuit clearly and quickly"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Which is an example of energy transfer?",
+            "q": "If a circuit diagram shows a break in the line connecting the parts, what does this likely mean?",
             "options": [
-              "Heat moving from a hot cup of tea into the surrounding air",
-              "An object that has no energy at all",
-              "A concept unrelated to energy transfer",
-              "A rock sitting perfectly still with no changes"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "When a moving ball hits another ball and transfers motion to it, this demonstrates ___.",
-            "options": [
-              "Energy transfer",
-              "The creation of new energy from nothing",
-              "A concept unrelated to energy",
-              "The destruction of energy"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the law of conservation of energy important in science?",
-            "options": [
-              "A reason unrelated to physics",
-              "Energy is never conserved in any system",
-              "It helps explain how energy moves and changes form without ever disappearing",
-              "This law has no connection to how energy behaves"
+              "The circuit is complete and functioning normally",
+              "X unrelated to reading circuit diagrams",
+              "The circuit is open and electricity cannot flow",
+              "The diagram contains no useful information"
             ],
             "answer": 2
           }
         ],
-        "topic": "Energy"
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
-        "title": "The Partition of India and Decolonization in South Asia",
-        "summary": "Grade 6 Social Studies strand: the Partition of India in 1947 divided British India into India and Pakistan as both gained independence, a major event in the broader 20th-century decolonization of South Asia.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=DrcCTgwbsjc",
+        "title": "Social Studies: The Indus Valley Civilization",
+        "summary": "Grade 4 Social Studies strand: the Indus Valley civilization developed along the Indus River in present-day Pakistan and India, known for well-planned cities such as Mohenjo-daro that had organized streets and drainage systems.",
+        "resourceLabel": "YouTube: Social Studies: The Indus Valley Civilization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Indus%20Valley%20Civilization%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Partition of India in 1947 divided British India into ___.",
+            "q": "Along which river did the Indus Valley civilization develop?",
             "options": [
-              "A division unrelated to the Partition of India",
-              "India and Pakistan",
-              "Two entirely different, unrelated countries",
-              "India and China"
+              "A concept unrelated to ancient civilizations",
+              "The Amazon River",
+              "The Indus River",
+              "The Nile River"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name a well-planned city built by the Indus Valley civilization.",
+            "options": [
+              "Rome",
+              "A concept unrelated to the Indus Valley",
+              "Mohenjo-daro",
+              "Athens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Was the Indus Valley civilization known for organized city planning, including drainage systems?",
+            "options": [
+              "No, its cities had no planning at all",
+              "Yes",
+              "A concept unrelated to the Indus Valley",
+              "Its cities had no streets or buildings"
             ],
             "answer": 1
           },
           {
-            "q": "The Partition of India took place as part of the broader process of ___.",
+            "q": "Why do historians consider the Indus Valley’s drainage systems impressive?",
             "options": [
-              "The founding of the Ottoman Empire",
-              "A process unrelated to the Partition of India",
-              "European colonization beginning for the first time",
-              "Decolonization in South Asia"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the Partition of India considered a significant, and often difficult, historical event?",
-            "options": [
-              "It occurred with no historical consequences at all",
-              "It caused mass migration and hardship for millions of people during the division",
-              "It had no impact on the people living in the region",
-              "A reason unrelated to the Partition of India"
+              "This concept has no relevance to social studies",
+              "They show advanced engineering skill for such an early civilization",
+              "The Indus Valley civilization never built anything at all",
+              "Drainage systems have no connection to ancient engineering"
             ],
             "answer": 1
           },
           {
-            "q": "Decolonization generally refers to the process by which ___.",
+            "q": "In which present-day countries was the Indus Valley civilization located?",
             "options": [
-              "A concept unrelated to decolonization",
-              "Colonies gain independence from the countries that once controlled them",
-              "Countries expand their control over new colonies",
-              "Independent countries willingly become colonies again"
+              "A concept unrelated to the Indus Valley",
+              "Canada and the United States",
+              "Pakistan and India",
+              "Mexico and Peru"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it valuable to study events like the Partition of India?",
-            "options": [
-              "Only Canadian history is relevant to social studies learning",
-              "A reason unrelated to social studies learning",
-              "This event has no connection to understanding global history",
-              "It helps build understanding of how independence movements shaped the modern world"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }
@@ -13977,59 +13954,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Berlin Wall and a Divided Germany",
-        "summary": "Grade 6 Social Studies strand: the Berlin Wall was built in 1961 to divide East and West Berlin during the Cold War, becoming a powerful symbol of a divided Germany until it fell in 1989.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=A9fQPzZ1-hg",
+        "title": "Social Studies: Ancient Kingdoms of West Africa — Ghana, Mali, and Songhai",
+        "summary": "Grade 4 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through trade in gold and salt across the Sahara Desert.",
+        "resourceLabel": "YouTube: Social Studies: Ancient Kingdoms of West Africa — Ghana, Mali, and Songhai",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Kingdoms%20of%20West%20Africa%20%E2%80%94%20Ghana%2C%20Mali%2C%20and%20Songhai%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Berlin Wall was built to divide ___.",
+            "q": "Name one ancient kingdom of West Africa.",
             "options": [
-              "East and West Berlin",
-              "Two cities located in Canada",
-              "North and South Korea",
-              "A division unrelated to the Berlin Wall"
+              "A concept unrelated to West Africa",
+              "Mali",
+              "Rome",
+              "Athens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What resources helped these West African kingdoms grow wealthy?",
+            "options": [
+              "Gold and salt",
+              "Oil and coal",
+              "Rice and tea",
+              "A concept unrelated to trade"
             ],
             "answer": 0
           },
           {
-            "q": "The Berlin Wall was built during the historical period known as ___.",
+            "q": "Across which desert did much of this trade take place?",
             "options": [
-              "The Industrial Revolution",
-              "The Renaissance",
-              "The Cold War",
-              "A period unrelated to the Berlin Wall"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The Berlin Wall became a powerful symbol of ___.",
-            "options": [
-              "A period with no political tension at all",
-              "A concept unrelated to the Berlin Wall",
-              "International cooperation and unity",
-              "A divided Germany and the broader Cold War conflict"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In what year did the Berlin Wall fall?",
-            "options": [
-              "1989",
-              "1961",
-              "A year unrelated to the Berlin Wall",
-              "1945"
+              "The Sahara Desert",
+              "The Gobi Desert",
+              "A concept unrelated to West Africa",
+              "The Arctic tundra"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the fall of the Berlin Wall considered a significant historical event?",
+            "q": "Why might control of trade routes have helped these kingdoms grow powerful?",
             "options": [
-              "A reason unrelated to its historical significance",
-              "It had no effect on Germany or the wider world",
-              "It marked the beginning of the Cold War, not its easing",
-              "It symbolized the end of a divided Germany and eased Cold War tensions"
+              "Trade routes never affected how powerful a kingdom became",
+              "It let them profit from and manage the flow of valuable goods like gold and salt",
+              "These kingdoms had no connection to trade at all",
+              "This concept has no connection to West African history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Were Ghana, Mali, and Songhai all located in the same general region of Africa?",
+            "options": [
+              "They were located only in modern-day Canada",
+              "No, they were located on different continents",
+              "A concept unrelated to West Africa",
+              "Yes"
             ],
             "answer": 3
           }
@@ -14104,64 +14080,64 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Combinations and Permutations (Intro)",
-        "summary": "Grade 6 Math strand: a combination is a selection of items where order does not matter, while a permutation is an arrangement of items where order does matter.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=gAnKvHmrJ0g",
+        "title": "Mean, Median, and Mode (Intro)",
+        "summary": "Grade 4 Math strand: the mean is the average of a set of numbers, the median is the middle value when numbers are ordered, and the mode is the value that appears most often.",
+        "resourceLabel": "YouTube: Mean, Median, and Mode (Intro)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mean%2C%20Median%2C%20and%20Mode%20%28Intro%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oatwXlZBPw0",
         "quiz": [
           {
-            "q": "In a combination, the order of items ___.",
+            "q": "The mean of a set of numbers is found by ___.",
             "options": [
-              "Always matters",
-              "Determines whether the answer is correct or incorrect",
-              "A concept unrelated to combinations",
-              "Does not matter"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In a permutation, the order of items ___.",
-            "options": [
-              "Matters",
-              "Has no effect on the outcome",
-              "Never matters",
-              "A concept unrelated to permutations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If you are choosing 2 toppings for a pizza from a list, and the order you choose them does not matter, this is an example of a ___.",
-            "options": [
-              "Neither a combination nor a permutation",
-              "Permutation",
-              "Combination",
-              "A term unrelated to this scenario"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If you are arranging 3 books in a specific order on a shelf, this is an example of a ___.",
-            "options": [
-              "Neither a combination nor a permutation",
-              "Permutation",
-              "A term unrelated to this scenario",
-              "Combination"
+              "Choosing the largest number in the set",
+              "Adding all the numbers and dividing by how many there are",
+              "A method unrelated to finding the mean",
+              "Choosing the smallest number in the set"
             ],
             "answer": 1
           },
           {
-            "q": "Why might understanding combinations and permutations be useful?",
+            "q": "The median of a set of numbers is ___.",
             "options": [
-              "They help count possible outcomes in situations like games, passwords, or scheduling",
-              "They can only be used with numbers less than 10",
-              "These concepts have no real-world use",
-              "A reason unrelated to combinations and permutations"
+              "The sum of all the numbers",
+              "A value unrelated to the median",
+              "The middle value when the numbers are placed in order",
+              "Always the first number listed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The mode of a set of numbers is ___.",
+            "options": [
+              "The value that appears most often",
+              "A value unrelated to the mode",
+              "The average of all the values",
+              "The largest value in the set"
             ],
             "answer": 0
+          },
+          {
+            "q": "What is the median of the set 2, 4, 6, 8, 10?",
+            "options": [
+              "4",
+              "6",
+              "A value unrelated to the median",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the mode of the set 3, 5, 5, 7, 9?",
+            "options": [
+              "9",
+              "A value unrelated to the mode",
+              "5",
+              "3"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Combinatorics"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -14226,63 +14202,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Apartheid and the Fight for Equality in South Africa",
-        "summary": "Grade 6 Social Studies strand: apartheid was a system of racial segregation enforced by law in South Africa, and the long struggle to end it became a global symbol of the fight for equality.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=ke4kVFycpYY",
+        "title": "Social Studies: Canada’s Justice System and Courts",
+        "summary": "Grade 4 Social Studies strand: Canada’s justice system includes courts that interpret and apply laws, with judges making rulings and everyone having the right to a fair trial.",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Justice System and Courts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Justice%20System%20and%20Courts%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Apartheid was a system that ___.",
+            "q": "What is the main role of courts in Canada’s justice system?",
             "options": [
-              "Enforced racial segregation by law in South Africa",
-              "Guaranteed equal rights for all South African citizens",
-              "A concept unrelated to South African history",
-              "Existed with no connection to law or government"
+              "To interpret and apply the law",
+              "To build roads and bridges",
+              "To collect garbage in a community",
+              "A concept unrelated to government"
             ],
             "answer": 0
           },
           {
-            "q": "The fight to end apartheid became a symbol of ___.",
+            "q": "Who typically makes rulings in a courtroom?",
             "options": [
-              "A conflict with no connection to human rights",
-              "The global struggle for equality and human rights",
-              "A movement that had no international attention",
-              "A concept unrelated to South African history"
+              "A mayor",
+              "A store manager",
+              "A concept unrelated to the justice system",
+              "A judge"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which of these was a key outcome of the movement to end apartheid?",
+            "q": "Does everyone in Canada have the right to a fair trial?",
             "options": [
-              "A concept unrelated to this movement",
-              "The eventual dismantling of legal racial segregation in South Africa",
-              "No change to South Africa’s laws or society",
-              "The strengthening of apartheid laws over time"
+              "No, only some people have this right",
+              "Fair trials are never guaranteed to anyone",
+              "Yes",
+              "A concept unrelated to the justice system"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why did apartheid attract international attention and criticism?",
+            "q": "Why are fair trials an important part of Canada’s justice system?",
             "options": [
-              "Many people around the world viewed its racial segregation as a violation of human rights",
-              "Apartheid received no international attention at all",
-              "A reason unrelated to this history",
-              "The rest of the world had no awareness of apartheid"
+              "They help protect people’s basic rights and ensure justice is applied fairly",
+              "Trials in Canada are never actually fair",
+              "Fair trials have no connection to protecting anyone’s rights",
+              "This concept has no relevance to social studies"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the history of apartheid still studied today?",
+            "q": "Which of these is part of Canada’s justice system?",
             "options": [
-              "It offers important lessons about equality, human rights, and social change",
-              "This history has no relevance to understanding equality today",
-              "Apartheid had no lasting effect on South African society",
-              "A reason unrelated to social studies learning"
+              "A grocery store",
+              "A concept unrelated to government",
+              "A movie theatre",
+              "A courtroom"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "Canadian Institutions & Justice"
       }
     ]
   },
@@ -14475,64 +14451,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Canada’s Peacekeeping Missions Abroad",
-        "summary": "Grade 6 Social Studies strand: Canada has a long history of contributing peacekeeping forces to United Nations missions aimed at maintaining stability in regions affected by conflict.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU",
+        "title": "Social Studies: The Metis Nation and the Red River Resistance",
+        "summary": "Grade 4 Social Studies strand: the Metis are a distinct Indigenous people with mixed First Nations and European ancestry, and the Red River Resistance, led by Louis Riel, was a stand to protect Metis land and rights in present-day Manitoba.",
+        "resourceLabel": "YouTube: Social Studies: The Metis Nation and the Red River Resistance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Metis%20Nation%20and%20the%20Red%20River%20Resistance%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Canada has historically contributed forces to peacekeeping missions organized by ___.",
+            "q": "Who are the Metis?",
             "options": [
-              "Only its own domestic government",
-              "A group unrelated to peacekeeping",
-              "No international organization at all",
-              "The United Nations"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The main goal of a peacekeeping mission is generally to ___.",
-            "options": [
-              "Start new conflicts in a region",
-              "Help maintain stability in regions affected by conflict",
-              "A concept unrelated to peacekeeping",
-              "Remove all international involvement from a conflict"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might Canada choose to participate in international peacekeeping missions?",
-            "options": [
-              "Participating in peacekeeping missions serves no useful purpose",
-              "To support global stability and demonstrate a commitment to international cooperation",
-              "Canada is required to participate with no choice involved",
-              "A reason unrelated to Canada’s foreign policy"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these best describes the role of peacekeeping forces?",
-            "options": [
-              "Replacing the government of the country they are sent to",
-              "Starting new wars in regions with existing peace",
-              "Helping maintain a ceasefire or supporting stability in a conflict-affected region",
-              "A concept unrelated to peacekeeping"
+              "A group with no connection to Canada",
+              "A concept unrelated to Canadian history",
+              "A distinct Indigenous people with mixed First Nations and European ancestry",
+              "A group of European settlers only"
             ],
             "answer": 2
           },
           {
-            "q": "Why is Canada’s peacekeeping history often discussed as part of its national identity?",
+            "q": "Who led the Red River Resistance?",
             "options": [
-              "It reflects a long-standing value Canada has placed on international cooperation",
-              "A reason unrelated to Canadian history",
-              "Peacekeeping has no connection to Canadian identity",
-              "Canada has never taken part in any international missions"
+              "Louis Riel",
+              "Queen Victoria",
+              "A concept unrelated to the Red River Resistance",
+              "John A. Macdonald"
             ],
             "answer": 0
+          },
+          {
+            "q": "What were the Metis trying to protect during the Red River Resistance?",
+            "options": [
+              "A foreign country’s border",
+              "A sports championship",
+              "A concept unrelated to the Red River Resistance",
+              "Their land and rights"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Red River Resistance considered an important event in Canadian history?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "It involved Indigenous peoples standing up for their rights and way of life",
+              "It was an event that took place outside of Canada",
+              "It had no connection to Indigenous rights in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which present-day province did the Red River Resistance mostly take place?",
+            "options": [
+              "A concept unrelated to the Red River Resistance",
+              "British Columbia",
+              "Manitoba",
+              "Nova Scotia"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Cold War & 20th Century Canada"
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -14725,61 +14700,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Marshall Plan and Post-War Reconstruction",
-        "summary": "Grade 6 Social Studies strand: the Marshall Plan was a program launched by the United States after World War II to provide economic aid to help rebuild war-torn European countries.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=tMXjsVLOznc",
+        "title": "Social Studies: The Canadian Senate — The Other House of Parliament",
+        "summary": "Grade 4 Social Studies strand: the Senate is the second chamber of Canadas Parliament, where appointed senators review and can suggest changes to proposed laws.",
+        "resourceLabel": "YouTube: Social Studies: The Canadian Senate — The Other House of Parliament",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Senate%20%E2%80%94%20The%20Other%20House%20of%20Parliament%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Marshall Plan was launched to help ___.",
+            "q": "What is the Senate?",
             "options": [
-              "Rebuild war-torn European countries after World War II",
-              "End all trade between European countries",
-              "Begin a brand new war in Europe",
-              "A concept unrelated to the Marshall Plan"
+              "The second chamber of Canadas Parliament",
+              "A city government",
+              "A type of court",
+              "A sports league"
             ],
             "answer": 0
           },
           {
-            "q": "The Marshall Plan primarily provided ___.",
+            "q": "How do people typically become senators in Canada?",
             "options": [
-              "A type of support unrelated to the Marshall Plan",
-              "Military weapons with no economic support",
-              "No support of any kind",
-              "Economic aid to European countries"
+              "They are chosen by lottery",
+              "They inherit the position",
+              "They are appointed",
+              "They are elected by the public"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one role of the Senate?",
+            "options": [
+              "Running local schools",
+              "Reviewing and suggesting changes to proposed laws",
+              "Managing hospitals",
+              "Selling products"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parliament in Canada is made up of the House of Commons and the ___.",
+            "options": [
+              "City Council",
+              "Cabinet only",
+              "Supreme Court",
+              "Senate"
             ],
             "answer": 3
           },
           {
-            "q": "Why might economic aid have been especially important for Europe after World War II?",
+            "q": "Why might a country have two chambers reviewing proposed laws?",
             "options": [
-              "A reason unrelated to post-war reconstruction",
-              "Economic aid had no effect on rebuilding efforts",
-              "Many countries faced widespread destruction and needed support to rebuild their economies",
-              "European countries faced no economic challenges after the war"
+              "To slow down all government forever",
+              "Two chambers serve no purpose",
+              "Only one chamber is ever needed",
+              "To provide additional review and balance"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Which country launched the Marshall Plan?",
-            "options": [
-              "A country unrelated to the Marshall Plan",
-              "A country that no longer exists",
-              "The United States",
-              "Canada"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Marshall Plan still studied as an example of post-war reconstruction?",
-            "options": [
-              "It shows how international aid can help rebuild economies and stability after conflict",
-              "A reason unrelated to its historical significance",
-              "It focused only on military strategy, with no economic component",
-              "The Marshall Plan had no lasting effect on Europe’s recovery"
-            ],
-            "answer": 0
+            "answer": 3
           }
         ]
       }
@@ -14974,64 +14948,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Review: Revolutions, Rights, and Global Change",
-        "summary": "Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 51-60, including the Industrial Revolution, women’s suffrage, the Berlin Wall, apartheid, and post-war reconstruction.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=zjK7PWmRRyg",
-        "videoUrls": [{"label": "Industrial Revolution", "url": "https://www.youtube.com/watch?v=zjK7PWmRRyg"}, {"label": "Human Rights", "url": "https://www.youtube.com/watch?v=5RR4VXNX3jA"}, {"label": "Global Climate Change", "url": "https://www.youtube.com/watch?v=hO9RrG6Skkk"}],
+        "title": "Social Studies: Canadas Official Languages Act — Bilingualism in Canada",
+        "summary": "Grade 4 Social Studies strand: the Official Languages Act recognizes English and French as Canadas two official languages, guaranteeing services in both languages at the federal level.",
+        "resourceLabel": "YouTube: Social Studies: Canadas Official Languages Act — Bilingualism in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Official%20Languages%20Act%20%E2%80%94%20Bilingualism%20in%20Canada%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Industrial Revolution brought major changes to how ___.",
+            "q": "What are Canadas two official languages?",
             "options": [
-              "A concept unrelated to this historical period",
-              "Countries interacted before any trade existed",
-              "Goods were produced and how people lived and worked",
-              "Ancient civilizations first began, thousands of years earlier"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Women’s suffrage movements worked to secure ___.",
-            "options": [
-              "A ban on all future elections",
-              "The right for men to vote for the first time",
-              "The right for women to vote",
-              "A concept unrelated to suffrage movements"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The Berlin Wall became a powerful symbol of ___.",
-            "options": [
-              "A concept unrelated to the Berlin Wall",
-              "International cooperation and unity",
-              "A divided Germany and the broader Cold War conflict",
-              "A period with no political tension at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Apartheid was a system that ___.",
-            "options": [
-              "Enforced racial segregation by law in South Africa",
-              "A concept unrelated to South African history",
-              "Guaranteed equal rights for all South African citizens",
-              "Existed with no connection to law or government"
+              "English and French",
+              "French and German",
+              "English and Spanish",
+              "English only"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful to review revolutions, rights movements, and global change together?",
+            "q": "What does the Official Languages Act guarantee?",
             "options": [
-              "Review is never useful when studying history",
-              "It reinforces how these interconnected historical events shaped rights and societies over time",
-              "A reason unrelated to social studies learning",
-              "These events have no connection to one another"
+              "No language rights at all",
+              "Services in only one language",
+              "Services only in provinces",
+              "Federal services in both English and French"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Why might a country recognize more than one official language?",
+            "options": [
+              "To confuse citizens on purpose",
+              "Only one language should ever be used",
+              "To reflect the diverse linguistic heritage of its population",
+              "Languages do not matter to government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which province in Canada has a large French-speaking population historically tied to this policy?",
+            "options": [
+              "Quebec",
+              "British Columbia",
+              "Alberta",
+              "Manitoba only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bilingualism in Canada reflects the countrys ___.",
+            "options": [
+              "English and French heritage",
+              "Rejection of French language rights",
+              "Lack of cultural diversity",
+              "Single-language history"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Culture, Diversity & Multiculturalism"
       }
     ]
   },
@@ -15224,63 +15197,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Ancient India: The Indus Valley Civilization",
-        "summary": "Grade 6 Social Studies strand: the Indus Valley Civilization was one of the world’s earliest urban societies, known for its advanced city planning, trade networks, and still-undeciphered writing system.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=n7ndRwqJYDM",
+        "title": "The Global Village: How We Are Connected to Other Countries",
+        "summary": "Grade 1 Social Studies strand: the idea of a global village means that people, goods, and information can connect quickly with other countries around the world.",
+        "resourceLabel": "YouTube: The Global Village: How We Are Connected to Other Countries",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Global%20Village%3A%20How%20We%20Are%20Connected%20to%20Other%20Countries%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Indus Valley Civilization is known for its advanced ___.",
+            "q": "What does the term global village describe?",
             "options": [
-              "City planning, including organized streets and drainage systems",
-              "A concept unrelated to the Indus Valley Civilization",
-              "Complete absence of any cities or towns",
-              "Reliance on hunting and gathering, with no settled towns"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Indus Valley Civilization developed along which river system?",
-            "options": [
-              "The Nile River",
-              "The Amazon River",
-              "A river unrelated to this civilization",
-              "The Indus River"
+              "A kind of forest",
+              "A type of farm",
+              "A single small town",
+              "How the world feels connected through travel and communication"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these remains a mystery to historians studying the Indus Valley Civilization?",
+            "q": "Which of these helps connect countries around the world?",
             "options": [
-              "A concept unrelated to the Indus Valley Civilization",
-              "Its written script has not yet been fully deciphered",
-              "The civilization left behind no archaeological evidence at all",
-              "Historians know every detail about its writing system"
+              "Avoiding travel",
+              "Ignoring each other",
+              "Building walls only",
+              "Trade and communication"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the Indus Valley Civilization often compared to Mesopotamia and Egypt?",
+            "q": "Why might a toy in your home be made in another country?",
             "options": [
-              "All three were early civilizations that developed advanced societies along major rivers",
-              "These civilizations developed with no connection to rivers at all",
-              "They existed on entirely different planets, with no shared characteristics",
-              "A reason unrelated to ancient river civilizations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do historians consider the Indus Valley Civilization an important part of ancient world history?",
-            "options": [
-              "A reason unrelated to its historical significance",
-              "It existed for too short a time to be historically significant",
-              "It was one of the earliest large, organized urban societies, contributing to later civilizations",
-              "It had no influence on later societies"
+              "Trade does not exist",
+              "Toys can only be made locally",
+              "Countries trade goods with each other",
+              "It is impossible"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which is an example of global connection?",
+            "options": [
+              "Never leaving your street",
+              "Avoiding maps",
+              "Ignoring the news",
+              "A video call with someone in another country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Understanding the global village helps us see that ___.",
+            "options": [
+              "The world has no connections",
+              "Countries are connected in many ways",
+              "Countries are isolated from each other",
+              "Only one country matters"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does global village mean?",
+            "answers": [
+              "the world feels connected",
+              "countries are connected to each other"
+            ]
+          },
+          {
+            "prompt": "Name one way people connect with other countries.",
+            "answers": [
+              "travel",
+              "communication",
+              "trade"
+            ]
+          },
+          {
+            "prompt": "Why is our world considered connected today?",
+            "answers": [
+              "information and goods travel quickly",
+              "we can communicate easily"
+            ]
+          }
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -15474,61 +15471,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "West African Kingdoms: Mali, Ghana, and Songhai",
-        "summary": "Grade 6 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through control of gold and salt trade routes across the Sahara.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=hwbZ-HsH0EY",
+        "title": "Social Studies Review: Government, History, and Canadian Identity",
+        "summary": "Grade 4 Social Studies strand review: students revisit the RCMP, the Senate, how a bill becomes a law, NATO, Canadian inventions, bilingualism, the Franklin Expedition, Terry Fox, and the census.",
+        "resourceLabel": "YouTube: Social Studies Review: Government, History, and Canadian Identity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Canadian%20Identity%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The West African kingdoms of Ghana, Mali, and Songhai grew powerful largely through control of ___.",
+            "q": "What does RCMP stand for?",
             "options": [
-              "Fishing rights along the Atlantic coast only",
-              "Gold and salt trade routes across the Sahara",
-              "A concept unrelated to these kingdoms",
-              "Trade routes that had no connection to gold or salt"
+              "Royal Canadian Mounted Police",
+              "Regional Canadian Municipal Patrol",
+              "Real Canadian Mail Post",
+              "Royal Canadian Medical Program"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A sports league",
+              "The second chamber of Canadas Parliament",
+              "A type of court",
+              "A city government"
             ],
             "answer": 1
           },
           {
-            "q": "Which West African ruler is well known for a famous pilgrimage that showcased the kingdom’s vast wealth?",
+            "q": "What does NATO stand for?",
             "options": [
-              "A ruler of the Byzantine Empire",
-              "A ruler unrelated to West African history",
-              "A ruler of ancient Egypt",
-              "Mansa Musa of the Mali Empire"
+              "North Atlantic Treaty Organization",
+              "North American Trade Office",
+              "National Alliance for Territorial Order",
+              "National Association of Trade Organizations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are Canadas two official languages?",
+            "options": [
+              "French and German",
+              "English and French",
+              "English only",
+              "English and Spanish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a census?",
+            "options": [
+              "A type of holiday",
+              "A kind of map",
+              "A sports event",
+              "An official count of everyone in a country"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why were trans-Saharan trade routes important to these West African kingdoms?",
-            "options": [
-              "These routes had no economic importance to West Africa",
-              "They connected West Africa to North Africa and beyond, enabling valuable trade",
-              "A reason unrelated to trade routes",
-              "The kingdoms refused to trade with any outside regions"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The city of Timbuktu, part of the Mali Empire, became well known as a centre of ___.",
-            "options": [
-              "A concept unrelated to Timbuktu",
-              "Learning and trade",
-              "Farming only, with no scholarly activity",
-              "Isolation, with no connections to trade or scholarship"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the history of these West African kingdoms an important part of world history?",
-            "options": [
-              "These kingdoms had no lasting historical significance",
-              "West Africa had no organized societies before European contact",
-              "It highlights sophisticated, wealthy societies that are often underrepresented in world history lessons",
-              "A reason unrelated to their historical importance"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -15722,63 +15718,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Maya Civilization: Innovation and Society",
-        "summary": "Grade 6 Social Studies strand: the Maya civilization, centred in present-day Mexico and Central America, developed advanced achievements in mathematics, astronomy, and writing.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=iaKofHyZ00c",
+        "title": "Social Studies: Ancient Japan — Early Society and Culture",
+        "summary": "Grade 4 Social Studies strand: ancient Japan developed a unique early society influenced by its island geography, featuring farming communities, emperors, and rich traditions in art and religion.",
+        "resourceLabel": "YouTube: Social Studies: Ancient Japan — Early Society and Culture",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Japan%20%E2%80%94%20Early%20Society%20and%20Culture%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Maya civilization was centred in present-day ___.",
+            "q": "What type of geography influenced ancient Japans development?",
             "options": [
-              "East Asia",
-              "Mexico and Central America",
-              "Northern Europe",
-              "A region unrelated to the Maya civilization"
+              "A landlocked plain",
+              "A vast desert",
+              "A mountain range with no coast",
+              "Its island location"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which of these was a notable achievement of the Maya civilization?",
+            "q": "What role did an emperor typically hold in ancient Japan?",
             "options": [
-              "A concept unrelated to Maya achievements",
-              "A sophisticated calendar system based on astronomical observation",
-              "No knowledge of mathematics whatsoever",
-              "A complete lack of any written language"
+              "No role at all",
+              "A foreign visitor",
+              "A random villager",
+              "A central figure of authority and tradition"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "The Maya developed a mathematical system that notably included the concept of ___.",
+            "q": "What was a common economic activity in early Japanese society?",
             "options": [
-              "Zero",
-              "Fractions expressed only in Roman numerals",
-              "A concept unrelated to Maya mathematics",
-              "Negative decimals only"
+              "Only fishing",
+              "Only mining",
+              "Farming, especially rice cultivation",
+              "Only trading with no farming"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Maya cities often featured large stone structures such as ___.",
+            "q": "Why is Japans island geography significant to its early history?",
             "options": [
-              "Pyramids and temples",
-              "Structures built entirely underground",
-              "Skyscrapers made of steel",
-              "A structure unrelated to Maya architecture"
+              "It caused constant flooding with no benefits",
+              "It prevented any culture from forming",
+              "It shaped trade, culture, and how the society developed somewhat separately",
+              "It made no difference to society"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why do historians study the Maya civilization’s achievements in mathematics and astronomy?",
+            "q": "What aspect of ancient Japanese culture became influential in art and religion?",
             "options": [
-              "They demonstrate a highly advanced understanding of science for their time",
-              "A reason unrelated to the Maya civilization",
-              "The Maya made no notable contributions to mathematics or astronomy",
-              "These achievements had no influence on how the Maya tracked time"
+              "Modern technology only",
+              "A complete absence of art",
+              "European traditions only",
+              "Traditions passed down and refined over centuries"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ]
+        ],
+        "topic": "World Geography & Cultures"
       }
     ]
   },
@@ -15971,63 +15967,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The French Revolution: Causes and Impact",
-        "summary": "Grade 6 Social Studies strand: the French Revolution began in 1789 as widespread inequality and financial crisis led citizens to overthrow the monarchy and reshape France’s government.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=lTTvKwCylFY",
+        "title": "Social Studies: Canada-United States Trade Relationship",
+        "summary": "Grade 4 Social Studies strand: Canada and the United States share one of the largest trading relationships in the world, exchanging goods such as vehicles, energy, and agricultural products across the border.",
+        "resourceLabel": "YouTube: Social Studies: Canada-United States Trade Relationship",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada-United%20States%20Trade%20Relationship%20grade%206%20educational",
         "quiz": [
           {
-            "q": "A major cause of the French Revolution was ___.",
+            "q": "Canada shares one of the largest trading relationships in the world with which country?",
             "options": [
-              "Widespread inequality and a financial crisis affecting the country",
-              "An agreement between all social classes with no conflict",
-              "A period with no economic or social problems at all",
-              "A concept unrelated to the French Revolution"
+              "Australia",
+              "The United States",
+              "Brazil",
+              "Japan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might Canada and the United States exchange through trade?",
+            "options": [
+              "Vehicles, energy, and agricultural products",
+              "Only historical documents",
+              "Nothing at all",
+              "Only artwork"
             ],
             "answer": 0
           },
           {
-            "q": "The French Revolution began in the year ___.",
+            "q": "Why is trade between neighbouring countries often significant?",
             "options": [
-              "A year unrelated to the French Revolution",
-              "1600",
-              "1900",
-              "1789"
+              "Neighbouring countries never trade",
+              "Shared borders make transporting goods easier and more efficient",
+              "Distance has no effect on trade",
+              "Trade only happens between distant countries"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which group faced the greatest hardship under France’s social and tax system before the revolution?",
+            "q": "What is one benefit of strong trade relationships between countries?",
             "options": [
-              "The common people, known as the Third Estate",
-              "A group unrelated to French society at the time",
-              "The nobility, who paid the highest taxes",
-              "The clergy, who faced the same burdens as commoners"
+              "No goods are exchanged",
+              "Access to a wider variety of goods and economic growth",
+              "Trade always harms both countries",
+              "Countries lose all their resources"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "One major outcome of the French Revolution was ___.",
+            "q": "Trade agreements between countries like Canada and the United States help ___.",
             "options": [
-              "The overthrow of the monarchy and a reshaping of France’s government",
-              "A concept unrelated to the French Revolution",
-              "No change to France’s system of government",
-              "The strengthening of the king’s absolute power"
+              "Prevent any trade from happening",
+              "Eliminate all industries",
+              "Set clear rules for how goods are exchanged",
+              "Stop economic growth"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the French Revolution considered an important turning point in world history?",
-            "options": [
-              "It challenged the idea of absolute monarchy and inspired ideas about rights and citizenship",
-              "A reason unrelated to its historical significance",
-              "It only affected a small, isolated village with no wider impact",
-              "It had no influence on political ideas beyond France"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Natural Resources & Industry"
       }
     ]
   },
@@ -18431,63 +18427,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Canadian Charter of Rights and Freedoms",
-        "summary": "Grade 6 Social Studies strand: the Canadian Charter of Rights and Freedoms, part of Canada’s Constitution since 1982, guarantees fundamental rights and freedoms to people in Canada, including equality, expression, and legal rights.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: The Canadian Pacific Railway — Connecting the Country",
+        "summary": "Grade 4 Social Studies strand: the Canadian Pacific Railway, completed in 1885, linked the country from coast to coast, encouraging settlement and trade, and helping fulfill a promise made to British Columbia when it joined Confederation.",
+        "resourceLabel": "YouTube: Social Studies: The Canadian Pacific Railway — Connecting the Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Pacific%20Railway%20%E2%80%94%20Connecting%20the%20Country%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Canadian Charter of Rights and Freedoms is best described as ___.",
+            "q": "What did the Canadian Pacific Railway connect?",
             "options": [
-              "A set of rules that apply only to elected officials",
-              "A part of Canada’s Constitution that guarantees fundamental rights and freedoms",
-              "A concept unrelated to Canadian rights",
-              "A document with no legal significance in Canada"
+              "Nothing of importance",
+              "Communities from coast to coast across Canada",
+              "Canada to another country by land",
+              "Only two neighbouring cities"
             ],
             "answer": 1
           },
           {
-            "q": "The Canadian Charter of Rights and Freedoms became part of Canada’s Constitution in which year?",
+            "q": "In what year was the Canadian Pacific Railway completed?",
             "options": [
-              "A year unrelated to the Charter",
+              "1900",
+              "1885",
               "1867",
-              "1982",
-              "1945"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is an example of a right protected under the Charter?",
-            "options": [
-              "The right to ignore all laws",
-              "Freedom of expression",
-              "The right to prevent others from voting",
-              "A concept unrelated to the Charter"
+              "1812"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the equality guarantee in the Charter considered significant?",
+            "q": "Why was building the railway important for British Columbia joining Confederation?",
             "options": [
-              "A reason unrelated to the Charter",
-              "The equality guarantee applies to no one in Canada",
-              "It affirms that everyone is entitled to equal protection and benefit of the law",
-              "It allows certain groups to be treated unfairly under the law"
+              "Canada promised a railway to connect BC to the rest of the country",
+              "The railway was built before BC existed",
+              "BC had no interest in railways",
+              "BC refused any transportation link"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is the Charter considered an important part of Canadian identity and government?",
+            "q": "What did the railway help encourage across Canada?",
             "options": [
-              "The Charter has been removed from Canada’s Constitution",
-              "The Charter has no influence on Canadian laws or society",
-              "It sets out core rights and freedoms that shape how laws and society operate",
-              "A reason unrelated to the Charter’s significance"
+              "Settlement and trade",
+              "The end of all trade",
+              "Fewer communities",
+              "Isolation between regions"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "What kind of workers helped build the railway, including through dangerous mountain sections?",
+            "options": [
+              "Only government officials",
+              "No workers were needed",
+              "Only farmers",
+              "Labourers, including many Chinese workers"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -18923,63 +18919,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Métis Nation and the Red River Resistance",
-        "summary": "Grade 6 Social Studies strand: the Métis Nation, descended from First Nations and European ancestry, developed a distinct culture in the Red River area, and the Red River Resistance of 1869-1870, led by Louis Riel, arose to protect Métis land and rights.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: The Klondike Gold Rush",
+        "summary": "Grade 4 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, shaping the growth of towns such as Dawson City and the history of northern Canada.",
+        "resourceLabel": "YouTube: Social Studies: The Klondike Gold Rush",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Klondike%20Gold%20Rush%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Métis Nation developed from a blend of ___.",
+            "q": "What resource drew thousands of prospectors to the Yukon during the Klondike Gold Rush?",
             "options": [
-              "A concept unrelated to the Métis Nation",
-              "First Nations and European ancestry and culture",
-              "Only Indigenous groups with no European connection",
-              "Only European settlers, with no Indigenous connection"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Red River Resistance took place in the region now known as ___.",
-            "options": [
-              "Manitoba",
-              "Newfoundland and Labrador",
-              "A region unrelated to the Red River Resistance",
-              "British Columbia"
+              "Gold",
+              "Diamonds",
+              "Oil",
+              "Coal"
             ],
             "answer": 0
           },
           {
-            "q": "Who was the key Métis leader during the Red River Resistance?",
+            "q": "In which decade did the Klondike Gold Rush mainly take place?",
             "options": [
-              "A leader who represented only the federal government",
-              "Louis Riel",
-              "A leader from an entirely different region of Canada",
-              "A leader unrelated to the Red River Resistance"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What was a major goal of the Red River Resistance?",
-            "options": [
-              "Expanding Métis territory into other countries",
-              "A concept unrelated to the Red River Resistance",
-              "Protecting Métis land, rights, and way of life as settlers moved westward",
-              "Removing all settlers from Canada entirely"
+              "The 1700s",
+              "The 1600s",
+              "The 1890s",
+              "The 1950s"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Red River Resistance considered an important event in Canadian history?",
+            "q": "Which town grew rapidly because of the Klondike Gold Rush?",
             "options": [
-              "The resistance had no lasting impact on Canadian history",
-              "It led to the creation of Manitoba as a province and highlighted Métis rights",
-              "A reason unrelated to its historical significance",
-              "It occurred in a region that never became part of Canada"
+              "Halifax",
+              "Ottawa",
+              "Toronto",
+              "Dawson City"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "What challenges did prospectors often face traveling to the Klondike?",
+            "options": [
+              "Harsh terrain and difficult northern conditions",
+              "Easy travel by highway",
+              "Warm tropical weather",
+              "No challenges at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Klondike Gold Rush affect northern Canada?",
+            "options": [
+              "It had no lasting effect",
+              "It caused the region to become empty",
+              "It only affected southern Canada",
+              "It brought rapid population growth and development to the region"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Indigenous Peoples & First Nations"
+        ]
       }
     ]
   },
@@ -19414,62 +19409,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "The Great Depression in Canada",
-        "summary": "Grade 6 Social Studies strand: the Great Depression of the 1930s brought widespread unemployment, poverty, and hardship to Canada, prompting government relief efforts and long-term changes to economic and social policy.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Our Senate: Another Part of Canadas Government",
+        "summary": "Grade 1 Social Studies strand: the Senate is a part of Canadas government that reviews new laws to help make sure they are fair before they are approved.",
+        "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The Great Depression brought widespread ___.",
+            "q": "What is the Senate?",
             "options": [
-              "A sudden increase in average wages across Canada",
-              "A concept unrelated to the Great Depression",
-              "Economic prosperity with no hardship at all",
-              "Unemployment, poverty, and economic hardship"
+              "A kind of store",
+              "A sports team",
+              "A type of school",
+              "A part of Canadas government that reviews laws"
             ],
             "answer": 3
           },
           {
-            "q": "The Great Depression is generally associated with which decade?",
+            "q": "What does the Senate help do before a new law is approved?",
             "options": [
-              "The 1980s",
-              "The 1950s",
-              "A decade unrelated to the Great Depression",
-              "The 1930s"
+              "Delete it right away",
+              "Sell it",
+              "Review it to help make sure it is fair",
+              "Ignore it completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the Senate part of how Canada is governed?",
+            "options": [
+              "Only in one province",
+              "No",
+              "Yes",
+              "Only during elections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about the Senate helps students understand ___.",
+            "options": [
+              "Nothing about government",
+              "A make-believe story",
+              "Only foreign governments",
+              "How laws are made and reviewed in Canada"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these was a hardship many Canadians faced during the Great Depression?",
+            "q": "The Senate works alongside other parts of government, such as the ___.",
             "options": [
-              "Difficulty finding steady work and providing for their families",
-              "A concept unrelated to the Great Depression",
-              "No effect at all on Canadian households",
-              "An abundance of well-paying jobs for everyone"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How did the Canadian government respond to widespread hardship during the Great Depression?",
-            "options": [
-              "It refused to take any action to help struggling citizens",
-              "A response unrelated to the Great Depression",
-              "It eliminated all forms of government assistance",
-              "It introduced relief efforts and work programs to help struggling citizens"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the Great Depression considered an important turning point in Canadian economic and social policy?",
-            "options": [
-              "The Great Depression had no lasting effect on Canadian policy",
-              "Government policy remained completely unchanged after this period",
-              "It led to lasting changes in how government supports citizens during economic hardship",
-              "A reason unrelated to its historical significance"
+              "Local bakery",
+              "Grocery store",
+              "Prime Minister and Parliament",
+              "School principal"
             ],
             "answer": 2
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the Senate?",
+            "answers": [
+              "a part of Canadas government",
+              "a group that reviews laws"
+            ]
+          },
+          {
+            "prompt": "What does the Senate help do with new laws?",
+            "answers": [
+              "review them",
+              "make sure they are fair"
+            ]
+          },
+          {
+            "prompt": "Is the Senate part of how Canada is governed?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ],
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -20273,63 +20292,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Solving Multi-Step Equations with Variables on Both Sides",
-        "summary": "Grade 6 Math strand: students learn to solve equations with a variable on both sides, such as 3n plus 2 equals n plus 10, by first combining variable terms on one side.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Comparing Prices: Unit Rate and Best Value",
+        "summary": "Grade 4 Math strand: comparing prices using unit rate means finding the cost of a single item or unit, which helps shoppers decide which option offers the best value.",
+        "resourceLabel": "YouTube: Comparing Prices: Unit Rate and Best Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Prices%3A%20Unit%20Rate%20and%20Best%20Value%20grade%206%20educational",
         "quiz": [
           {
-            "q": "To solve 3n plus 2 equals n plus 10, what is a good first step?",
+            "q": "A unit rate compares the cost of ___.",
             "options": [
-              "Add n to both sides",
-              "Subtract n from both sides",
-              "A concept unrelated to solving equations",
-              "Multiply both sides by n"
+              "A single item or unit",
+              "X unrelated to unit rate",
+              "Only the tax on a purchase",
+              "An entire store’s total sales"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "After subtracting n from both sides of 3n plus 2 equals n plus 10, what do you get?",
+            "q": "If 4 apples cost 2 dollars, what is the unit rate per apple?",
             "options": [
-              "n plus 2 equals 10",
-              "3n equals 10",
-              "2n plus 2 equals n",
-              "2n plus 2 equals 10"
+              "2 dollars per apple",
+              "4 dollars per apple",
+              "X unrelated to this unit rate",
+              "0.50 dollars per apple"
             ],
             "answer": 3
           },
           {
-            "q": "If 2n plus 2 equals 10, what is the value of n?",
+            "q": "A pack of 5 pencils costs 5 dollars, and a pack of 10 pencils costs 8 dollars. Which has the better unit rate?",
             "options": [
-              "2",
-              "8",
-              "4",
-              "5"
+              "The pack of 5 pencils",
+              "X unrelated to comparing unit rates",
+              "Both packs have the exact same unit rate",
+              "The pack of 10 pencils"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is it useful to combine variable terms on one side before solving an equation?",
+            "q": "Why is finding the unit rate helpful when shopping?",
             "options": [
-              "This concept has no connection to solving equations",
-              "It simplifies the equation into a form that is easier to solve",
-              "Combining variable terms never simplifies an equation",
-              "Variables should always stay on both sides forever"
+              "Unit rate makes it impossible to compare prices",
+              "It helps shoppers compare prices fairly to find the best value",
+              "X unrelated to comparing prices",
+              "The total price is always more useful than the unit rate"
             ],
             "answer": 1
           },
           {
-            "q": "If 5n minus 3 equals 2n plus 9, what is the value of n?",
+            "q": "If 3 juice boxes cost 6 dollars, what is the cost per juice box?",
             "options": [
-              "6",
-              "3",
-              "4",
-              "2"
+              "3 dollars",
+              "6 dollars",
+              "2 dollars",
+              "X unrelated to this unit rate"
             ],
             "answer": 2
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -20393,63 +20412,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Space Race: Cold War Competition",
-        "summary": "Grade 6 Social Studies strand: the Space Race was a period of intense competition during the Cold War between the United States and the Soviet Union to achieve milestones in space exploration.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: How Provinces Make Laws — Provincial Legislatures",
+        "summary": "Grade 4 Social Studies strand: each Canadian province has its own legislature that debates and passes provincial laws on matters such as education and health care, led by a premier and elected members.",
+        "resourceLabel": "YouTube: Social Studies: How Provinces Make Laws — Provincial Legislatures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Provinces%20Make%20Laws%20%E2%80%94%20Provincial%20Legislatures%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What was the Space Race?",
+            "q": "What is a provincial legislature responsible for?",
             "options": [
-              "A concept unrelated to history",
-              "A modern car racing competition",
-              "A sporting event held on the Moon",
-              "A period of competition to achieve milestones in space exploration"
+              "Debating and passing provincial laws",
+              "Passing laws for other countries",
+              "Running local sports teams",
+              "Managing federal military forces"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Which two countries were the main competitors during the Space Race?",
+            "q": "Who typically leads a provincial government?",
             "options": [
-              "Canada and Mexico",
-              "The United States and the Soviet Union",
-              "France and Germany",
-              "A concept unrelated to the Space Race"
+              "The Prime Minister",
+              "The premier",
+              "The mayor",
+              "The Governor General"
             ],
             "answer": 1
           },
           {
-            "q": "Did the Space Race take place during the Cold War?",
+            "q": "Name one area that provincial governments often oversee.",
             "options": [
-              "Yes",
-              "No, it took place during a completely different era",
-              "A concept unrelated to history",
-              "The Space Race and Cold War have no connection"
+              "National defence",
+              "Education and health care",
+              "International treaties",
+              "Foreign trade agreements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How are members of a provincial legislature usually chosen?",
+            "options": [
+              "Elected by voters in the province",
+              "Inherited through family",
+              "Chosen at random",
+              "Appointed by another country"
             ],
             "answer": 0
           },
           {
-            "q": "Why might achieving a space milestone, like landing on the Moon, have been important during the Cold War?",
+            "q": "Why does Canada have both federal and provincial governments?",
             "options": [
-              "It served as a symbol of technological and political strength between rival countries",
-              "This concept has no connection to the Cold War",
-              "The Space Race had no connection to competition between countries",
-              "Space milestones never had any political significance"
+              "To share responsibilities between national and regional levels",
+              "Because Canada has no federal government",
+              "To eliminate all local decision-making",
+              "Because provinces have no responsibilities"
             ],
             "answer": 0
-          },
-          {
-            "q": "Why might studying the Space Race help students understand how competition can drive innovation?",
-            "options": [
-              "The Space Race never resulted in any new technology",
-              "This concept has no relevance to social studies",
-              "It shows how rivalry between countries pushed rapid advances in science and technology",
-              "Competition never leads to any scientific advancement"
-            ],
-            "answer": 2
           }
         ],
-        "topic": "Cold War & 20th Century Canada"
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -20519,63 +20538,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Introduction to Slope",
-        "summary": "Grade 6 Math strand: slope describes the steepness of a line, calculated by dividing the vertical change, or rise, by the horizontal change, or run, between two points.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Dividing Decimals by Whole Numbers",
+        "summary": "Grade 4 Math strand: students learn to divide a decimal number by a whole number, such as finding 6.4 divided by 2, keeping careful track of the decimal point in the answer.",
+        "resourceLabel": "YouTube: Dividing Decimals by Whole Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Dividing%20Decimals%20by%20Whole%20Numbers%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does slope describe about a line?",
+            "q": "What is 6.4 divided by 2?",
             "options": [
-              "Its steepness",
-              "A concept unrelated to geometry",
-              "Its exact length",
-              "Its colour"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Slope is calculated by dividing what two measurements?",
-            "options": [
-              "Run by rise",
-              "Height by width only, with no division",
-              "A concept unrelated to slope",
-              "Rise by run"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If a line rises 4 units and runs 2 units, what is its slope?",
-            "options": [
-              "0.5",
-              "6",
-              "4",
-              "2"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If a line rises 6 units and runs 3 units, what is its slope?",
-            "options": [
-              "9",
-              "2",
-              "6",
-              "3"
+              "2.2",
+              "3.2",
+              "32",
+              "3.4"
             ],
             "answer": 1
           },
           {
-            "q": "Why is understanding slope useful for describing real-world situations, like a wheelchair ramp?",
+            "q": "What is 8.4 divided by 4?",
             "options": [
-              "Ramps are never measured using slope",
-              "This concept has no connection to math",
-              "It helps measure how steep or gradual an incline is",
-              "Slope has no connection to real-world inclines"
+              "4.2",
+              "2.1",
+              "84",
+              "2.4"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "What is 9.0 divided by 3?",
+            "options": [
+              "90",
+              "3.0",
+              "2.7",
+              "3.9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When dividing a decimal by a whole number, what should you carefully keep track of?",
+            "options": [
+              "The position of the decimal point",
+              "Only the colour of the numbers",
+              "Only the size of the whole number",
+              "A concept unrelated to division"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5.5 divided by 5?",
+            "options": [
+              "1.1",
+              "5.5",
+              "1.5",
+              "11"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Linear Relations"
+        "topic": "Decimals"
       },
       {
         "subject": "Science",
@@ -21498,63 +21517,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Introduction to the Pythagorean Theorem",
-        "summary": "Grade 6 Math strand: the Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the two other sides, written as a squared plus b squared equals c squared.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Data: Stem-and-Leaf Plots",
+        "summary": "Grade 4 Math strand: a stem-and-leaf plot organizes numerical data by splitting each number into a stem, its leading digit or digits, and a leaf, its final digit, making patterns in the data easier to see.",
+        "resourceLabel": "YouTube: Data: Stem-and-Leaf Plots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Stem-and-Leaf%20Plots%20grade%206%20educational",
         "quiz": [
           {
-            "q": "In a right triangle, what does the Pythagorean theorem relate?",
+            "q": "In a stem-and-leaf plot, what does the stem usually represent?",
             "options": [
-              "The lengths of the three sides",
-              "A concept unrelated to geometry",
-              "The colour of the triangle",
-              "The three angles only"
+              "The leading digit or digits of a number",
+              "A concept unrelated to data",
+              "The colour of the data",
+              "The final digit of a number"
             ],
             "answer": 0
           },
           {
-            "q": "What is the longest side of a right triangle called?",
+            "q": "In a stem-and-leaf plot, what does the leaf usually represent?",
             "options": [
-              "The height only",
-              "The base",
-              "A concept unrelated to right triangles",
-              "The hypotenuse"
+              "A concept unrelated to data",
+              "The leading digit of a number",
+              "The average of the data",
+              "The final digit of a number"
             ],
             "answer": 3
           },
           {
-            "q": "If a right triangle has legs of 3 and 4, what is the length of the hypotenuse?",
+            "q": "In the number 42, if 4 is the stem, what is the leaf?",
             "options": [
-              "5",
-              "12",
-              "25",
-              "7"
+              "24",
+              "4",
+              "42",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a stem-and-leaf plot be useful for organizing a set of test scores?",
+            "options": [
+              "It can show patterns in the data, like where most scores cluster",
+              "This concept has no connection to organizing data",
+              "Stem-and-leaf plots never show any patterns",
+              "Test scores can never be organized in a plot"
             ],
             "answer": 0
           },
           {
-            "q": "The Pythagorean theorem is written as a squared plus b squared equals ___.",
+            "q": "What is a key benefit of a stem-and-leaf plot compared to just a list of numbers?",
             "options": [
-              "D squared",
-              "A squared",
-              "C squared",
-              "B squared"
+              "Lists of numbers are always clearer than a stem-and-leaf plot",
+              "A stem-and-leaf plot always hides the exact values",
+              "It keeps the exact values while also showing the data’s overall shape",
+              "This concept has no benefit at all"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is the Pythagorean theorem useful for solving real-world problems, like finding the shortest distance across a park?",
-            "options": [
-              "This concept has no connection to geometry",
-              "Right triangles never appear in real-world problems",
-              "The Pythagorean theorem never applies to any real-world situation",
-              "It helps calculate an unknown side length when two other sides of a right triangle are known"
-            ],
-            "answer": 3
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Data Literacy"
       },
       {
         "subject": "Science",
@@ -21618,63 +21637,85 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Urbanization: The Growth of Megacities",
-        "summary": "Grade 6 Social Studies strand: urbanization is the growth of cities as more people move from rural areas to urban centres, sometimes creating megacities, cities with populations over 10 million people.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Our Court System: Judges and Fair Decisions",
+        "summary": "Grade 1 Social Studies strand: courts are places where judges listen carefully and help make fair decisions when people disagree or when someone breaks a rule.",
+        "resourceLabel": "YouTube: Our Court System: Judges and Fair Decisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Court%20System%3A%20Judges%20and%20Fair%20Decisions%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is urbanization?",
+            "q": "Who listens and helps make fair decisions in a court?",
             "options": [
-              "The growth of cities as more people move from rural areas",
-              "The shrinking of cities over time",
-              "A concept unrelated to geography",
-              "The growth of rural farmland only"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do we call a city with a population over 10 million people?",
-            "options": [
-              "A small town",
-              "A rural village",
-              "A concept unrelated to urbanization",
-              "A megacity"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does urbanization involve people moving from rural areas to urban centres?",
-            "options": [
-              "No, urbanization involves no movement of people at all",
-              "Yes",
-              "Urbanization only involves moving from cities to rural areas",
-              "A concept unrelated to urbanization"
+              "A chef",
+              "A judge",
+              "A pilot",
+              "A firefighter"
             ],
             "answer": 1
           },
           {
-            "q": "Why might people choose to move from rural areas to cities?",
+            "q": "When might people go to a court?",
             "options": [
-              "Cities often offer more job opportunities, services, and education options",
-              "Rural areas always offer more opportunities than cities",
-              "People never have any reason to move to a city",
-              "This concept has no connection to urbanization"
+              "To buy groceries",
+              "To watch a movie",
+              "When they disagree or someone breaks a rule",
+              "To play a game"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for courts to be fair?",
+            "options": [
+              "Fairness does not matter",
+              "So everyone is treated fairly under the rules",
+              "Courts do not need to be fair",
+              "Only some people deserve fairness"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A judges main job is to help ___.",
+            "options": [
+              "Make fair decisions",
+              "Cook meals",
+              "Drive buses",
+              "Deliver mail"
             ],
             "answer": 0
           },
           {
-            "q": "Why might rapid urbanization create challenges for a city’s infrastructure?",
+            "q": "Courts are an important part of how a community ___.",
             "options": [
-              "This concept has no relevance to social studies",
-              "Cities never need to plan for population growth",
-              "Urbanization never creates any challenges for a city",
-              "A fast-growing population can strain housing, transportation, and public services"
+              "Plans parties",
+              "Ignores all rules",
+              "Solves disagreements fairly",
+              "Avoids helping people"
             ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "Population & Urbanization"
+        "worksheet": [
+          {
+            "prompt": "Who helps make fair decisions in a court?",
+            "answers": [
+              "a judge",
+              "judges"
+            ]
+          },
+          {
+            "prompt": "When might people go to court?",
+            "answers": [
+              "when they disagree",
+              "when someone breaks a rule"
+            ]
+          },
+          {
+            "prompt": "Why is fairness important in a court?",
+            "answers": [
+              "so decisions are fair for everyone",
+              "helps everyone be treated fairly"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -21804,63 +21845,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Genetic Engineering: An Introduction",
-        "summary": "Grade 6 Science strand: genetic engineering is a technology that allows scientists to directly modify an organism’s genes, used in areas such as agriculture and medicine to create desired traits.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Animal Behaviours: Migration and Hibernation",
+        "summary": "Grade 4 Science strand: some animals survive seasonal changes through migration, travelling long distances to a different climate, while others survive through hibernation, a long period of deep rest during which their body slows down.",
+        "resourceLabel": "YouTube: Animal Behaviours: Migration and Hibernation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Behaviours%3A%20Migration%20and%20Hibernation%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does genetic engineering allow scientists to do?",
+            "q": "Migration is best described as an animal ___.",
             "options": [
-              "A concept unrelated to biology",
-              "Only observe an organism from a distance",
-              "Nothing at all related to genes",
-              "Directly modify an organism’s genes"
+              "X unrelated to migration",
+              "Changing colour to match its surroundings",
+              "Sleeping through the entire winter without moving",
+              "Travelling long distances to reach a different climate"
             ],
             "answer": 3
           },
           {
-            "q": "Name one area where genetic engineering is used, such as agriculture or medicine.",
+            "q": "Hibernation is best described as a long period during which an animal’s body ___.",
             "options": [
-              "Agriculture",
-              "A concept unrelated to genetic engineering",
-              "Cooking recipes",
-              "Weather forecasting"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Can genetic engineering be used to create desired traits in organisms?",
-            "options": [
-              "No, genetic engineering has no connection to traits",
-              "Traits can never be influenced by genetic engineering",
-              "A concept unrelated to genetic engineering",
-              "Yes"
+              "X unrelated to hibernation",
+              "Grows a completely new set of fur",
+              "Moves faster than usual",
+              "Slows down and enters a deep, resting state"
             ],
             "answer": 3
           },
           {
-            "q": "Why might scientists use genetic engineering to help crops resist certain diseases?",
+            "q": "Which of these animals is well known for migrating long distances each year?",
             "options": [
-              "Genetic engineering never affects how a crop grows",
-              "Crops can never be modified in any way",
-              "This concept has no connection to agriculture",
-              "It can directly modify a plant’s genes to build in disease resistance"
+              "X unrelated to migration",
+              "The Canada goose",
+              "A pet goldfish",
+              "A garden snail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals is well known for hibernating through the winter?",
+            "options": [
+              "A migrating whale",
+              "X unrelated to hibernation",
+              "The Canada goose",
+              "The black bear"
             ],
             "answer": 3
           },
           {
-            "q": "Why do some people have questions or concerns about genetic engineering?",
+            "q": "Why might migration and hibernation both help animals survive cold winters?",
             "options": [
-              "No one has ever raised any questions about genetic engineering",
-              "Changing genes can raise ethical and safety questions that need careful consideration",
-              "This concept has no relevance to science",
-              "Genetic engineering has no possible risks or considerations at all"
+              "X unrelated to animal survival strategies",
+              "They help animals avoid harsh conditions or a shortage of food",
+              "These behaviours make survival more difficult for animals",
+              "All animals behave the exact same way in winter"
             ],
             "answer": 1
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Animal Adaptations & Behaviour"
       },
       {
         "subject": "SocialStudies",
@@ -22596,63 +22637,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Truth and Reconciliation Commission of Canada",
-        "summary": "Grade 6 Social Studies strand: the Truth and Reconciliation Commission was established to document the experiences of Indigenous survivors of residential schools and to make recommendations, known as Calls to Action, toward reconciliation in Canada.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "The Underground Railroad: A Journey to Freedom",
+        "summary": "Grade 1 Social Studies strand: the Underground Railroad was a secret network of routes and helpers that guided people escaping slavery in the United States toward freedom, with many finding safety in Canada.",
+        "resourceLabel": "YouTube: The Underground Railroad: A Journey to Freedom",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%3A%20A%20Journey%20to%20Freedom%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What did the Truth and Reconciliation Commission document?",
+            "q": "What was the Underground Railroad?",
             "options": [
-              "The founding of Canadian cities",
-              "The experiences of Indigenous survivors of residential schools",
-              "A concept unrelated to Canadian history",
-              "The history of Canadian sports"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What are the Commission’s recommendations for reconciliation known as?",
-            "options": [
-              "Trade Agreements",
-              "Provincial Laws",
-              "A concept unrelated to the Commission",
-              "Calls to Action"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Was the Truth and Reconciliation Commission focused on Indigenous experiences in Canada?",
-            "options": [
-              "Yes",
-              "A concept unrelated to Canadian history",
-              "No, it focused only on international trade",
-              "It had no connection to Indigenous peoples"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might listening to survivor testimonies have been an important part of the Commission’s work?",
-            "options": [
-              "The Commission ignored the experiences of survivors entirely",
-              "Survivor testimonies were never included in the Commission’s work",
-              "It helped create an accurate record of history and acknowledge the harm experienced by survivors",
-              "This concept has no connection to social studies"
+              "A type of game",
+              "An actual underground train",
+              "A secret network of routes and helpers guiding people to freedom",
+              "A modern subway system"
             ],
             "answer": 2
           },
           {
-            "q": "Why is reconciliation described as an ongoing process rather than a single completed event?",
+            "q": "Many people who used the Underground Railroad were trying to reach ___.",
             "options": [
-              "Reconciliation was fully completed the moment the Commission ended",
-              "Rebuilding trust and addressing historical harms takes sustained effort over time",
-              "This concept has no relevance to social studies",
-              "Reconciliation has no connection to Indigenous and non-Indigenous relationships"
+              "A school",
+              "A different planet",
+              "Freedom, often in Canada",
+              "The moon"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why is the story of the Underground Railroad important to learn about?",
+            "options": [
+              "It shows courage and the importance of freedom",
+              "It is not important",
+              "It only matters in one country",
+              "It was not a real event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "People who helped others along the Underground Railroad were showing ___.",
+            "options": [
+              "Indifference",
+              "Carelessness",
+              "Unfairness",
+              "Bravery and kindness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about the Underground Railroad helps students understand ___.",
+            "options": [
+              "A make-believe story",
+              "Something unrelated to history",
+              "A modern invention",
+              "An important part of history about freedom"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Human Rights & Social Movements"
+        "worksheet": [
+          {
+            "prompt": "What was the Underground Railroad?",
+            "answers": [
+              "a secret network of routes to freedom",
+              "a path to freedom"
+            ]
+          },
+          {
+            "prompt": "Where did many people travel to for safety and freedom?",
+            "answers": [
+              "Canada",
+              "freedom in Canada"
+            ]
+          },
+          {
+            "prompt": "Why is the Underground Railroad an important story?",
+            "answers": [
+              "it shows courage and the search for freedom",
+              "people worked together to help others"
+            ]
+          }
+        ],
+        "topic": "History: Colonial & 19th Century Canada"
       }
     ]
   },
@@ -23086,58 +23150,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Nubia: Kingdoms Along the Nile",
-        "summary": "Grade 6 Social Studies strand: ancient Nubia was home to a series of powerful kingdoms south of Egypt along the Nile River, known for skilled ironworking, extensive trade networks, and, during the Kingdom of Kush, even ruling over Egypt itself.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: The Role of the Lieutenant Governor",
+        "summary": "Grade 4 Social Studies strand: the Lieutenant Governor is the representative of the Crown at the provincial level, performing ceremonial duties and formally granting royal assent to provincial laws.",
+        "resourceLabel": "YouTube: Social Studies: The Role of the Lieutenant Governor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20the%20Lieutenant%20Governor%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Where was ancient Nubia located?",
+            "q": "Who does the Lieutenant Governor represent at the provincial level?",
             "options": [
-              "North of Rome",
-              "In present-day South America",
-              "South of Egypt along the Nile River",
-              "A concept unrelated to ancient history"
+              "The Crown",
+              "A foreign government",
+              "The Prime Minister",
+              "The United Nations"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What skill was ancient Nubia known for?",
+            "q": "What must a provincial bill receive from the Lieutenant Governor to become law?",
             "options": [
-              "A concept unrelated to Nubia",
-              "Manufacturing cars",
-              "Ironworking",
-              "Building skyscrapers"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Did the Kingdom of Kush, a Nubian kingdom, ever rule over Egypt?",
-            "options": [
-              "Egypt and Nubia never interacted at all",
-              "Yes",
-              "No, Nubia never had any connection to Egypt",
-              "A concept unrelated to Nubian history"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might Nubia’s location along the Nile River have supported extensive trade networks?",
-            "options": [
-              "This concept has no connection to Nubian history",
-              "Nubia had no access to any waterways at all",
-              "Rivers never provide any benefit for trade",
-              "The river provided a natural route for transporting goods and connecting distant regions"
+              "A court ruling",
+              "A public vote only",
+              "A newspaper announcement",
+              "Royal assent"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it important for students to learn about African civilizations like ancient Nubia alongside better-known ones like ancient Egypt?",
+            "q": "What type of duties does the Lieutenant Governor often perform?",
             "options": [
-              "It gives a fuller and more accurate picture of the achievements of ancient African societies",
-              "This concept has no relevance to social studies",
-              "Only ancient Egypt is worth studying in African history",
-              "Ancient Nubia had no notable achievements of its own"
+              "Coaching sports teams",
+              "Running a business",
+              "Ceremonial duties",
+              "Managing a citys police force"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the role of Lieutenant Governor compare to the Governor General?",
+            "options": [
+              "They are exactly the same job with the same title",
+              "The Lieutenant Governor governs another country",
+              "It is a similar role but at the provincial level instead of the federal level",
+              "The Lieutenant Governor has no connection to the Crown"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does Canada have a Lieutenant Governor in each province?",
+            "options": [
+              "To represent the Crown and perform formal duties provincially",
+              "To replace the premier entirely",
+              "To manage international trade only",
+              "Provinces have no need for this role"
             ],
             "answer": 0
           }
@@ -23330,60 +23394,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Structure and Role of the Canadian Senate",
-        "summary": "Grade 6 Social Studies strand: the Canadian Senate is the upper house of Parliament, made up of appointed members who review, debate, and can propose changes to bills before they become law.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies Review: Ancient Civilizations, Geography, and Canadian History",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Byzantine Empire, the Rocky Mountains, the Canadian Pacific Railway, Canadas fishing industry, and the National Day for Truth and Reconciliation.",
+        "resourceLabel": "YouTube: Social Studies Review: Ancient Civilizations, Geography, and Canadian History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Ancient%20Civilizations%2C%20Geography%2C%20and%20Canadian%20History%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is the Canadian Senate?",
+            "q": "What was the Byzantine Empire a continuation of?",
             "options": [
-              "A municipal council",
-              "A concept unrelated to government",
-              "The upper house of Parliament",
-              "A provincial court"
+              "The ancient Egyptian empire",
+              "The Greek city-states",
+              "The eastern Roman Empire",
+              "A brand new empire with no history"
             ],
             "answer": 2
           },
           {
-            "q": "Are members of the Senate appointed or elected?",
+            "q": "In which part of Canada are the Rocky Mountains located?",
             "options": [
-              "A concept unrelated to the Senate",
-              "Elected",
-              "Neither appointed nor elected",
-              "Appointed"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can the Senate review and debate bills before they become law?",
-            "options": [
-              "A concept unrelated to the Senate",
-              "No, the Senate has no role in reviewing bills",
-              "Yes",
-              "Only the House of Commons is allowed to review bills"
+              "Southern Ontario",
+              "Eastern Canada",
+              "Western Canada",
+              "Northern Canada only"
             ],
             "answer": 2
           },
           {
-            "q": "Why might having a Senate review bills already passed by the House of Commons be useful?",
+            "q": "What did the Canadian Pacific Railway connect?",
             "options": [
-              "Bills never need to be reviewed more than once",
-              "It provides an additional layer of scrutiny that could catch problems before a bill becomes law",
-              "A second review of a bill never serves any purpose",
-              "This concept has no connection to Canadian government"
+              "Canada to another country by land",
+              "Only two neighbouring cities",
+              "Communities from coast to coast across Canada",
+              "Nothing of importance"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why do some Canadians debate whether Senators should be appointed or elected?",
+            "q": "What does the fishing industry harvest from Canadas coastal waters?",
             "options": [
-              "People have different views on which method best ensures the Senate is fair and accountable",
-              "The method of choosing Senators has never changed or been debated",
-              "No one in Canada has ever discussed how Senators are chosen",
-              "This concept has no relevance to social studies"
+              "Seafood such as fish and shellfish",
+              "Only minerals",
+              "Only fresh vegetables",
+              "Only lumber"
             ],
             "answer": 0
+          },
+          {
+            "q": "On what date is the National Day for Truth and Reconciliation observed?",
+            "options": [
+              "October 31",
+              "September 30",
+              "November 11",
+              "July 1"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -23455,63 +23519,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Independent and Dependent Events",
-        "summary": "Grade 6 Math strand: an independent event is one where the outcome does not affect another event, like flipping a coin twice, while a dependent event is one where the outcome does affect another, like drawing cards without replacement.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Fractions: Adding Mixed Numbers",
+        "summary": "Grade 4 Math strand: students learn to add two mixed numbers, such as 2 and 1 fourth plus 1 and 2 fourths, by adding the whole numbers and the fractions separately, then combining the results.",
+        "resourceLabel": "YouTube: Fractions: Adding Mixed Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Adding%20Mixed%20Numbers%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is an independent event?",
+            "q": "What is 2 and 1 fourth plus 1 and 2 fourths?",
             "options": [
-              "An event whose outcome does not affect another event",
-              "An event that never has any outcome",
-              "A concept unrelated to probability",
-              "An event that always affects another event"
+              "3 and 2 fourths",
+              "4 and 3 fourths",
+              "3 and 1 fourth",
+              "3 and 3 fourths"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is a dependent event?",
+            "q": "What is 1 and 1 third plus 1 and 1 third?",
             "options": [
-              "An event whose outcome does affect another event",
-              "An event that never affects anything else",
-              "A concept unrelated to probability",
-              "An event with no possible outcomes"
+              "1 and 2 thirds",
+              "3 and 2 thirds",
+              "2 and 1 third",
+              "2 and 2 thirds"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Is flipping a coin twice an example of independent or dependent events?",
+            "q": "What is 3 and 1 fifth plus 2 and 2 fifths?",
             "options": [
-              "Neither independent nor dependent",
-              "Dependent",
-              "Independent",
-              "A concept unrelated to probability"
+              "5 and 1 fifth",
+              "5 and 2 fifths",
+              "5 and 3 fifths",
+              "6 and 3 fifths"
             ],
             "answer": 2
           },
           {
-            "q": "Is drawing two cards from a deck without replacing the first card an example of independent or dependent events?",
+            "q": "When adding mixed numbers, what should you add first?",
             "options": [
-              "Neither independent nor dependent",
-              "A concept unrelated to probability",
-              "Independent",
-              "Dependent"
+              "Only the fractions, ignoring the whole numbers completely",
+              "Only the whole numbers, ignoring the fractions completely",
+              "Neither part should ever be added",
+              "The whole numbers and the fractions can each be added separately"
             ],
             "answer": 3
           },
           {
-            "q": "Why does removing a card from a deck without replacing it change the probability of the next draw?",
+            "q": "What is 4 and 2 sixths plus 1 and 3 sixths?",
             "options": [
-              "This concept has no connection to probability",
-              "The deck always has the exact same number of cards no matter what",
-              "Removing a card never affects the probability of future draws",
-              "There are fewer total cards left, so the chances for each remaining card change"
+              "5 and 6 sixths",
+              "6 and 5 sixths",
+              "5 and 2 sixths",
+              "5 and 5 sixths"
             ],
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -24066,63 +24130,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Spread of World Religions Through Trade and Migration",
-        "summary": "Grade 6 Social Studies strand: major world religions, such as Buddhism, Christianity, and Islam, spread to new regions over centuries through trade routes, migration, and cultural exchange, shaping societies far from where each religion began.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: The Role of Canadian Embassies Abroad",
+        "summary": "Grade 4 Social Studies strand: a Canadian embassy is an official office located in another country that represents Canadas government, assists Canadian citizens abroad, and supports relationships between countries.",
+        "resourceLabel": "YouTube: Social Studies: The Role of Canadian Embassies Abroad",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20Canadian%20Embassies%20Abroad%20grade%206%20educational",
         "quiz": [
           {
-            "q": "Name one way that world religions have historically spread to new regions.",
+            "q": "What is a Canadian embassy?",
             "options": [
-              "Trade routes",
-              "Only through modern air travel",
-              "Religions have never spread anywhere",
-              "A concept unrelated to religious history"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Did trade routes play a role in spreading religions like Buddhism and Islam?",
-            "options": [
-              "No, trade routes never had any connection to religion",
-              "Religions have only ever spread within a single region",
-              "A concept unrelated to world religions",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can migration contribute to the spread of a religion to a new area?",
-            "options": [
-              "No, migration never spreads religious beliefs",
-              "Yes",
-              "Religions can only be spread through conquest",
-              "A concept unrelated to migration"
+              "A private Canadian business",
+              "An official office in another country that represents Canadas government",
+              "A Canadian military base only",
+              "A type of Canadian national park"
             ],
             "answer": 1
           },
           {
-            "q": "Why might merchants travelling along trade routes have helped spread religious beliefs to new regions?",
+            "q": "What might a Canadian embassy help with?",
             "options": [
-              "As they traded goods, they also shared ideas, customs, and beliefs with the people they met",
-              "Trade routes were only ever used to transport food",
-              "Merchants only ever traded goods with no exchange of ideas",
-              "This concept has no connection to social studies"
+              "Building highways in Canada",
+              "Assisting Canadian citizens who are traveling or living abroad",
+              "Running Canadian elections",
+              "Managing Canadian school boards"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is understanding the spread of world religions helpful for understanding global cultures today?",
+            "q": "Where is a Canadian embassy typically located?",
             "options": [
-              "This concept has no relevance to social studies",
-              "Religious beliefs never had any influence on culture",
-              "World religions have no connection to any modern society",
-              "Many modern societies were shaped by religious traditions that arrived through historical trade and migration"
+              "In outer space",
+              "In a Canadian province only",
+              "Underground",
+              "In another country"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why are embassies important for relationships between countries?",
+            "options": [
+              "They have no diplomatic purpose",
+              "They only exist to sell goods",
+              "They prevent any communication between countries",
+              "They help support communication and cooperation between governments"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who might work at a Canadian embassy?",
+            "options": [
+              "Only students on vacation",
+              "Only private business owners",
+              "Diplomats and government representatives",
+              "Only foreign tourists"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -25044,62 +25107,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Persia: The Achaemenid Empire",
-        "summary": "Grade 6 Social Studies strand: the Achaemenid Empire of ancient Persia was one of the largest empires in the ancient world, known for its extensive road system, tolerance of local customs, and administrative organization into provinces called satrapies.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: Credit Unions and Cooperative Banking in Canada",
+        "summary": "Grade 4 Social Studies strand: a credit union is a cooperative financial institution owned by its members, offering banking services such as savings accounts and loans, with profits often returned to members rather than outside shareholders.",
+        "resourceLabel": "YouTube: Social Studies: Credit Unions and Cooperative Banking in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Credit%20Unions%20and%20Cooperative%20Banking%20in%20Canada%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What was the Achaemenid Empire?",
+            "q": "What is a credit union?",
             "options": [
-              "A modern country in North America",
-              "One of the largest empires in the ancient world, centred in ancient Persia",
-              "A concept unrelated to ancient history",
-              "A small city-state with no influence beyond its borders"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What were the provinces of the Achaemenid Empire called?",
-            "options": [
-              "A concept unrelated to Persian history",
-              "Territories only found in Egypt",
-              "Boroughs",
-              "Satrapies"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Was the Achaemenid Empire known for building an extensive road system?",
-            "options": [
-              "Yes",
-              "A concept unrelated to ancient Persia",
-              "No, the empire never built any roads",
-              "Roads were only built much later by other empires"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might tolerating the customs and religions of conquered peoples have helped the Achaemenid Empire stay stable?",
-            "options": [
-              "The empire never conquered any other peoples",
-              "Tolerating other customs always made the empire weaker",
-              "Allowing local traditions to continue could reduce resistance and rebellion across a large empire",
-              "This concept has no connection to ancient history"
+              "A national park",
+              "A type of grocery store",
+              "A cooperative financial institution owned by its members",
+              "A government tax office"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a well-organized road system have been important for governing such a large empire?",
+            "q": "Who owns a credit union?",
             "options": [
-              "Roads never had any effect on how easily an empire could be governed",
-              "It allowed messages, soldiers, and goods to move quickly across vast distances",
-              "This concept has no relevance to social studies",
-              "The empire had no need to communicate across its territory"
+              "A foreign government",
+              "Its members",
+              "No one owns a credit union",
+              "A single wealthy owner"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What services might a credit union offer?",
+            "options": [
+              "Only construction services",
+              "Only grocery delivery",
+              "Only postal services",
+              "Savings accounts and loans"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are credit union profits often used?",
+            "options": [
+              "They are often returned to members instead of outside shareholders",
+              "They disappear completely",
+              "They are never distributed to anyone",
+              "They are always given to a foreign government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to bank with a credit union?",
+            "options": [
+              "Credit unions are not allowed to offer banking services",
+              "Because it is member-owned and may offer benefits back to its community of members",
+              "Credit unions only serve large businesses",
+              "Credit unions offer no benefits at all"
             ],
             "answer": 1
           }
-        ]
+        ],
+        "topic": "Money, Jobs & Economy (Basic)"
       }
     ]
   },
@@ -25473,60 +25537,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Levers: The Three Classes and Their Mechanical Advantage",
-        "summary": "Grade 6 Science strand: a lever is a simple machine made of a rigid bar that pivots on a fixed point called a fulcrum, and levers are classified into three classes based on the relative positions of the fulcrum, the effort, and the load.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Comets and Asteroids",
+        "summary": "Grade 4 Science strand: a comet is a ball of ice and dust that develops a glowing tail as it nears the Sun, while an asteroid is a rocky object that orbits the Sun, often found in a belt between Mars and Jupiter.",
+        "resourceLabel": "YouTube: Science: Comets and Asteroids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Comets%20and%20Asteroids%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is a lever?",
+            "q": "What is a comet mostly made of?",
             "options": [
-              "A concept unrelated to simple machines",
-              "A tool used only for cutting",
-              "A simple machine made of a rigid bar that pivots on a fulcrum",
-              "A machine that only spins in circles"
+              "A concept unrelated to space",
+              "Only solid rock",
+              "Ice and dust",
+              "Only metal"
             ],
             "answer": 2
           },
           {
-            "q": "What is the fixed point that a lever pivots on called?",
+            "q": "What is an asteroid mostly made of?",
             "options": [
-              "The fulcrum",
-              "A concept unrelated to levers",
-              "The load",
-              "The effort"
+              "Rock",
+              "A concept unrelated to space",
+              "Only gas",
+              "Only ice"
             ],
             "answer": 0
           },
           {
-            "q": "How many classes of levers are there, based on the positions of the fulcrum, effort, and load?",
+            "q": "Does a comet develop a glowing tail as it nears the Sun?",
             "options": [
-              "Three",
-              "Two",
-              "A concept unrelated to levers",
-              "Five"
+              "No, comets never develop a tail",
+              "Only asteroids develop tails",
+              "A concept unrelated to comets",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is a well-known belt of asteroids located in our solar system?",
+            "options": [
+              "A concept unrelated to the solar system",
+              "Beyond Pluto only",
+              "Between Mars and Jupiter",
+              "Between Earth and the Moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists study comets and asteroids?",
+            "options": [
+              "They can teach us about the early materials that formed our solar system",
+              "This concept has no relevance to space science",
+              "Comets and asteroids have no connection to the solar system",
+              "Studying comets and asteroids has no scientific value"
             ],
             "answer": 0
-          },
-          {
-            "q": "In a first-class lever, such as a see-saw, where is the fulcrum located?",
-            "options": [
-              "A concept unrelated to levers",
-              "There is no fulcrum in a first-class lever",
-              "Between the effort and the load",
-              "At one end, with the effort in the middle"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might using a lever make it easier to lift a heavy object?",
-            "options": [
-              "A lever always requires more force than lifting an object directly",
-              "Levers never make lifting a heavy object any easier",
-              "A lever can multiply the force applied, allowing a smaller effort to move a larger load",
-              "This concept has no relevance to science"
-            ],
-            "answer": 2
           }
         ]
       },
@@ -26023,60 +26087,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The October Crisis and the War Measures Act",
-        "summary": "Grade 6 Social Studies strand: the October Crisis of 1970 was a period of political turmoil in Quebec involving kidnappings by a militant group, leading the federal government to invoke the War Measures Act, which temporarily suspended certain civil liberties.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies Review: World Empires, Canadian Landmarks, and Explorers",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Mongol Empire, the Bay of Fundy, David Thompson, the Bluenose, and Point Pelee National Park.",
+        "resourceLabel": "YouTube: Social Studies Review: World Empires, Canadian Landmarks, and Explorers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20World%20Empires%2C%20Canadian%20Landmarks%2C%20and%20Explorers%20grade%206%20educational",
         "quiz": [
           {
-            "q": "In what decade did the October Crisis take place?",
+            "q": "Who founded the Mongol Empire?",
             "options": [
-              "The 1990s",
-              "The 1970s",
-              "A concept unrelated to Canadian history",
-              "The 1920s"
+              "Alexander the Great",
+              "Genghis Khan",
+              "Hammurabi",
+              "Julius Caesar"
             ],
             "answer": 1
           },
           {
-            "q": "What Canadian province was at the centre of the October Crisis?",
+            "q": "In which two provinces is the Bay of Fundy located?",
             "options": [
-              "British Columbia",
-              "Quebec",
-              "A concept unrelated to the October Crisis",
-              "Nova Scotia"
+              "Nova Scotia and New Brunswick",
+              "Manitoba and Saskatchewan",
+              "British Columbia and Alberta",
+              "Ontario and Quebec"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What federal law did the government invoke during the October Crisis?",
+            "q": "What was David Thompson known for?",
             "options": [
-              "The Constitution Act",
-              "A concept unrelated to the October Crisis",
-              "The War Measures Act",
-              "The Multiculturalism Act"
+              "Founding the city of Toronto",
+              "Leading a naval fleet",
+              "Mapping vast areas of western Canada",
+              "Building the CN Tower"
             ],
             "answer": 2
           },
           {
-            "q": "Why was the government’s use of the War Measures Act controversial?",
+            "q": "What type of ship was the Bluenose?",
             "options": [
-              "The Act was never actually used during the crisis",
-              "It temporarily suspended certain civil liberties, such as the right to be free from arrest without charge",
-              "This concept has no connection to Canadian history",
-              "The Act had no real effect on anyone’s rights"
+              "A cruise ship",
+              "A racing schooner",
+              "A cargo tanker",
+              "A submarine"
             ],
             "answer": 1
           },
           {
-            "q": "Why do historians still debate the government’s response to the October Crisis today?",
+            "q": "Where is Point Pelee National Park located?",
             "options": [
-              "No one has ever discussed the government’s response to the crisis",
-              "The events of the October Crisis had no lasting impact on Canada",
-              "People weigh differently the need for public safety against the importance of protecting civil liberties",
-              "This concept has no relevance to social studies"
+              "At the southern tip of mainland Canada",
+              "In the Canadian Arctic",
+              "In northern Quebec",
+              "On the west coast of British Columbia"
             ],
-            "answer": 2
+            "answer": 0
           }
         ]
       }
@@ -26267,63 +26331,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Japanese Canadian Internment During World War II",
-        "summary": "Grade 6 Social Studies strand: during World War II, the Canadian government forcibly relocated and interned thousands of Japanese Canadians, seizing their property, in a policy now recognized as a serious violation of their rights.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: Residential Schools and the Path to Reconciliation",
+        "summary": "Grade 4 Social Studies strand: residential schools were institutions that separated Indigenous children from their families and cultures for over a century, and Canada is now working toward reconciliation by acknowledging this history and rebuilding trust with Indigenous peoples.",
+        "resourceLabel": "YouTube: Social Studies: Residential Schools and the Path to Reconciliation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Residential%20Schools%20and%20the%20Path%20to%20Reconciliation%20grade%206%20educational",
         "quiz": [
           {
-            "q": "During which conflict were Japanese Canadians forcibly interned by the Canadian government?",
+            "q": "What were residential schools designed to do?",
             "options": [
-              "World War I",
-              "A concept unrelated to Canadian history",
-              "World War II",
-              "The Cold War"
+              "Provide extra holidays for students",
+              "Teach all students about Indigenous traditions",
+              "Separate Indigenous children from their families and cultures",
+              "Build new roads across Canada"
             ],
             "answer": 2
           },
           {
-            "q": "What happened to the property of many interned Japanese Canadians?",
+            "q": "Roughly how long did the residential school system operate in Canada?",
             "options": [
-              "It was left completely untouched",
-              "A concept unrelated to internment",
-              "It was seized by the government",
-              "It was carefully protected and returned immediately"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Is the internment of Japanese Canadians now recognized as a violation of their rights?",
-            "options": [
-              "Yes",
-              "A concept unrelated to Japanese Canadian history",
-              "This event never actually happened",
-              "No, it is considered to have been entirely justified"
+              "Over a century",
+              "Less than a month",
+              "Only a single year",
+              "It never actually operated"
             ],
             "answer": 0
           },
           {
-            "q": "Why might the Canadian government’s wartime fears have led to unjust treatment of Japanese Canadians?",
+            "q": "What does reconciliation mean in this context?",
             "options": [
-              "Japanese Canadians were treated exactly the same as all other Canadians during the war",
-              "Fear and prejudice during wartime led to policies that violated the rights of an entire community based on ancestry",
-              "The government’s actions had no connection to fear or prejudice",
-              "This concept has no connection to Canadian history"
+              "Preventing any further learning about the past",
+              "Erasing all records of what happened",
+              "Acknowledging past harms and working to rebuild trust with Indigenous peoples",
+              "Ignoring history completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is learning about residential schools considered important today?",
+            "options": [
+              "It should never be discussed",
+              "It helps Canadians understand history and support reconciliation efforts",
+              "This history has no relevance today",
+              "It is not connected to reconciliation at all"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it important for students to learn about historical injustices like Japanese Canadian internment?",
+            "q": "What is one way Canada has worked toward reconciliation?",
             "options": [
-              "This event has no connection to how Canada addresses rights today",
-              "Learning about past injustices serves no purpose today",
-              "Understanding past injustices can help prevent similar mistakes and support reconciliation efforts",
-              "This concept has no relevance to social studies"
+              "Formal acknowledgements, apologies, and commemorative actions",
+              "Removing the history from all records",
+              "Ignoring requests from Indigenous communities",
+              "Refusing to discuss the topic at all"
             ],
-            "answer": 2
+            "answer": 0
           }
         ],
-        "topic": "World War II"
+        "topic": "Indigenous Peoples & First Nations"
       }
     ]
   },
@@ -26699,58 +26763,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: The Greenhouse Effect and Global Warming",
-        "summary": "Grade 6 Science strand: the greenhouse effect occurs when gases in the atmosphere, such as carbon dioxide, trap heat from the sun near Earth’s surface, and human activities that increase these gases are contributing to global warming.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Air Pollution and Clean Air Initiatives",
+        "summary": "Grade 4 Science strand: air pollution happens when harmful substances, such as smoke or chemicals, enter the air, and clean air initiatives, like reducing car emissions, help protect air quality.",
+        "resourceLabel": "YouTube: Science: Air Pollution and Clean Air Initiatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Air%20Pollution%20and%20Clean%20Air%20Initiatives%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does the greenhouse effect do?",
+            "q": "What happens when harmful substances like smoke enter the air?",
             "options": [
-              "A concept unrelated to Earth science",
-              "Cools Earth’s surface rapidly",
-              "Removes all heat from the atmosphere",
-              "Traps heat from the sun near Earth’s surface"
+              "Photosynthesis",
+              "A concept unrelated to air quality",
+              "Air pollution",
+              "Clean air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one example of a clean air initiative, such as reducing car emissions.",
+            "options": [
+              "A concept unrelated to air quality",
+              "Ignoring air quality completely",
+              "Increasing pollution on purpose",
+              "Reducing car emissions"
             ],
             "answer": 3
           },
           {
-            "q": "Name one gas that contributes to the greenhouse effect, such as carbon dioxide.",
+            "q": "Can air pollution be harmful to people and the environment?",
             "options": [
-              "Carbon dioxide",
-              "A concept unrelated to the greenhouse effect",
-              "Pure oxygen only",
-              "Only water in its solid form"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Are human activities, such as burning fossil fuels, increasing the amount of greenhouse gases in the atmosphere?",
-            "options": [
-              "No, human activities have no effect on greenhouse gases",
-              "Greenhouse gases can never increase in the atmosphere",
-              "A concept unrelated to global warming",
+              "No, air pollution is never harmful",
+              "Air pollution only affects plants, never people",
+              "A concept unrelated to air quality",
               "Yes"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the greenhouse effect itself considered a naturally necessary process for life on Earth?",
+            "q": "Why might a city encourage people to use public transportation instead of cars?",
             "options": [
-              "The greenhouse effect has never had any role in keeping Earth warm",
-              "Earth would be exactly the same temperature with no atmosphere at all",
-              "This concept has no connection to science",
-              "Without any greenhouse effect, Earth would be far too cold to support most life"
+              "It can help reduce air pollution from car emissions",
+              "Using cars always improves air quality",
+              "Public transportation has no connection to air quality",
+              "This concept has no relevance to science"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why are scientists concerned about the enhanced greenhouse effect caused by human activity?",
+            "q": "Why is monitoring air quality important for a community’s health?",
             "options": [
-              "Global temperatures never change no matter the amount of greenhouse gases",
-              "Extra greenhouse gases trap additional heat, contributing to rising global temperatures and climate change",
               "This concept has no relevance to science",
-              "Extra greenhouse gases have no effect on global temperatures"
+              "Poor air quality can affect breathing and overall health",
+              "Air pollution never actually affects anyone’s health",
+              "Air quality has no connection to health"
             ],
             "answer": 1
           }
@@ -27371,63 +27435,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Volume of Cones and Pyramids",
-        "summary": "Grade 6 Math strand: the volume of a cone or pyramid is one-third the volume of a cylinder or prism with the same base area and height.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Probability: Calculating Simple Probability as a Fraction",
+        "summary": "Grade 4 Math strand: students learn to express the probability of an event as a fraction, such as the chance of rolling a 4 on a 6-sided die being 1 out of 6.",
+        "resourceLabel": "YouTube: Probability: Calculating Simple Probability as a Fraction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Calculating%20Simple%20Probability%20as%20a%20Fraction%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "q": "What is the probability, as a fraction, of rolling a 4 on a 6-sided die?",
             "options": [
-              "One-half",
-              "Two-thirds",
-              "The same as the cylinder",
-              "One-third"
+              "1 sixth",
+              "1 half",
+              "4 sixths",
+              "1 fourth"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "The volume of a pyramid is what fraction of a prism with the same base and height?",
+            "q": "What is the probability, as a fraction, of flipping heads on a coin?",
             "options": [
-              "Three-quarters",
-              "One-third",
-              "One-half",
-              "The same as the prism"
+              "1 third",
+              "1 fourth",
+              "1 half",
+              "1 sixth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a bag has 3 red marbles and 2 blue marbles, what is the probability of picking a red marble?",
+            "options": [
+              "3 halves",
+              "3 fifths",
+              "1 fifth",
+              "2 fifths"
             ],
             "answer": 1
           },
           {
-            "q": "If a cylinder has a volume of 120 cubic units, what is the volume of a cone with the same base and height?",
+            "q": "To express probability as a fraction, what goes in the denominator?",
             "options": [
-              "40",
-              "60",
-              "120",
-              "80"
+              "The number of favourable outcomes only",
+              "A concept unrelated to probability",
+              "Always the number 100",
+              "The total number of possible outcomes"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What two measurements are typically needed to find the volume of a pyramid?",
+            "q": "If a spinner has 4 equal sections and only 1 is red, what is the probability of landing on red?",
             "options": [
-              "Base area and height",
-              "Only the radius",
-              "Only the height",
-              "Only the base area"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Volume of any 3D shape is expressed in ___.",
-            "options": [
-              "No units at all",
-              "Linear units only",
-              "Cubic units",
-              "Square units"
+              "1 half",
+              "1 third",
+              "1 fourth",
+              "4 fourths"
             ],
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Probability"
       },
       {
         "subject": "Science",
@@ -27616,63 +27680,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data Management: Scatter Plots and Line of Best Fit",
-        "summary": "Grade 6 Math strand: a scatter plot shows pairs of related data as points, and a line of best fit is a straight line drawn to approximate the overall trend of the data.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Patterning: Algebraic Expressions with a Variable",
+        "summary": "Grade 4 Math strand: students learn to write simple algebraic expressions using a variable, such as letting n represent an unknown number in the expression n plus 5.",
+        "resourceLabel": "YouTube: Patterning: Algebraic Expressions with a Variable",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Patterning%3A%20Algebraic%20Expressions%20with%20a%20Variable%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does a scatter plot show?",
+            "q": "In the expression n plus 5, what does the letter n represent?",
             "options": [
-              "Pairs of related data as points on a graph",
-              "A single number",
-              "A list of names",
-              "Only categories"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a line of best fit?",
-            "options": [
-              "A line connecting every single point exactly",
-              "A line that approximates the overall trend of scattered data",
-              "A curved line only",
-              "A line with no relationship to the data"
+              "Always the number 5",
+              "An unknown number",
+              "A concept unrelated to algebra",
+              "The answer to the expression"
             ],
             "answer": 1
           },
           {
-            "q": "If data points trend upward together, the correlation is ___.",
+            "q": "If n equals 3, what is the value of n plus 5?",
             "options": [
-              "Impossible",
-              "Negative",
-              "Positive",
-              "Nonexistent"
+              "5",
+              "15",
+              "3",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If n equals 10, what is the value of n minus 4?",
+            "options": [
+              "14",
+              "6",
+              "10",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a letter used to represent an unknown number in an expression?",
+            "options": [
+              "A constant",
+              "A concept unrelated to algebra",
+              "A variable",
+              "An operation"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a line of best fit be useful?",
+            "q": "If a expression is written as 2 times n, and n equals 4, what is the value?",
             "options": [
-              "It has no practical use",
-              "It helps predict values and see overall trends",
-              "It always passes through every point",
-              "It removes the need for any data"
+              "8",
+              "4",
+              "6",
+              "2"
             ],
-            "answer": 1
-          },
-          {
-            "q": "A scatter plot with points scattered randomly with no pattern shows ___.",
-            "options": [
-              "A strong negative correlation",
-              "A perfect line",
-              "A strong positive correlation",
-              "Little to no correlation"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Patterning"
       },
       {
         "subject": "Science",
@@ -28599,120 +28663,119 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Rational vs Irrational Numbers",
-        "summary": "Grade 6 Math strand: a rational number can be written as a fraction of two integers, while an irrational number, like pi, cannot be written as a simple fraction and has a non-repeating, non-ending decimal.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Review: Decimals, Fractions, and Data (Days 81-89)",
+        "summary": "Grade 4 Math strand review: students revisit multiplying and dividing decimals, classifying quadrilaterals, stem-and-leaf plots, adding mixed numbers, converting mass, probability as a fraction, algebraic expressions, and simple interest.",
+        "resourceLabel": "YouTube: Review: Decimals, Fractions, and Data (Days 81-89)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Decimals%2C%20Fractions%2C%20and%20Data%20%28Days%2081-89%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is a rational number?",
+            "q": "What is 0.4 times 3?",
             "options": [
-              "A number that can be written as a fraction of two integers",
-              "A number that never ends",
-              "A number with no value",
-              "Only a negative number"
+              "1.2",
+              "0.7",
+              "12",
+              "1.4"
             ],
             "answer": 0
           },
           {
-            "q": "What is an irrational number?",
+            "q": "What is 6.4 divided by 2?",
             "options": [
-              "Any number greater than zero",
-              "A number with only one digit",
-              "A number that is always negative",
-              "A number that cannot be written as a simple fraction"
+              "3.2",
+              "3.4",
+              "2.2",
+              "32"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Which of these is a well-known irrational number?",
+            "q": "How many equal sides does a rhombus have?",
             "options": [
-              "1/2",
-              "0.5",
-              "Pi (3.14159...)",
-              "4"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Is the number 3/4 rational or irrational?",
-            "options": [
-              "Both",
-              "Rational",
-              "Irrational",
-              "Neither"
+              "Zero",
+              "Four",
+              "Two",
+              "Three"
             ],
             "answer": 1
           },
           {
-            "q": "An irrational numbers decimal representation is ___.",
+            "q": "What is 2 and 1 fourth plus 1 and 2 fourths?",
             "options": [
-              "Always exactly two digits",
-              "Always a whole number",
-              "Non-repeating and non-ending",
-              "Always zero"
+              "3 and 3 fourths",
+              "4 and 3 fourths",
+              "3 and 1 fourth",
+              "3 and 2 fourths"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "What is the probability, as a fraction, of flipping heads on a coin?",
+            "options": [
+              "1 half",
+              "1 sixth",
+              "1 fourth",
+              "1 third"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Groundwater and Aquifers",
-        "summary": "Grade 6 Science strand: groundwater is water that soaks into the ground and collects in layers of rock and soil called aquifers, an important source of fresh water for many communities.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Desert Survival Strategies",
+        "summary": "Grade 4 Science strand: desert plants and animals have special adaptations for survival, such as storing water, being active at night to avoid heat, and having features that reduce water loss.",
+        "resourceLabel": "YouTube: Science: Desert Survival Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Desert%20Survival%20Strategies%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is groundwater?",
+            "q": "Name one adaptation of a desert plant, such as storing water.",
             "options": [
-              "Water in the ocean only",
-              "Water in a swimming pool",
-              "Water in the clouds",
-              "Water that soaks into the ground and collects underground"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is an aquifer?",
-            "options": [
-              "A type of cloud",
-              "A kind of river",
-              "A weather instrument",
-              "An underground layer of rock or soil that holds water"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is groundwater important?",
-            "options": [
-              "It has no importance",
-              "It cannot be used by people",
-              "It only exists in oceans",
-              "It is a major source of fresh water for many communities"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does water typically get into an aquifer?",
-            "options": [
-              "It never enters an aquifer",
-              "It is pumped in by machines only",
-              "It falls directly from space",
-              "It soaks down through soil and rock"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Protecting groundwater from pollution is important because ___.",
-            "options": [
-              "Many communities rely on it for drinking water",
-              "Aquifers cannot be polluted",
-              "Groundwater is never used by people",
-              "Pollution never affects groundwater"
+              "Storing water",
+              "A concept unrelated to desert survival",
+              "Growing in deep snow",
+              "Living underwater"
             ],
             "answer": 0
+          },
+          {
+            "q": "Do some desert animals stay active at night to avoid daytime heat?",
+            "options": [
+              "No, all desert animals are active only during the hottest part of the day",
+              "Desert animals are never affected by heat",
+              "A concept unrelated to adaptations",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a desert animal have features that reduce water loss?",
+            "options": [
+              "Water is scarce in the desert, so conserving it helps the animal survive",
+              "This concept has no relevance to adaptations",
+              "Water loss has no connection to desert survival",
+              "Deserts always have plenty of available water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many desert animals rest during the hottest part of the day?",
+            "options": [
+              "Desert animals never need to avoid the heat",
+              "To avoid losing too much water and overheating",
+              "Resting has no connection to surviving desert heat",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a cactus’s thick, waxy skin help it survive in the desert?",
+            "options": [
+              "Cacti never need to store any water",
+              "Thick skin has no connection to water loss",
+              "It helps the plant hold onto its stored water longer",
+              "This concept has no relevance to desert adaptations"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -28963,63 +29026,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Auditor General — Watching How Government Spends Money",
-        "summary": "Grade 6 Social Studies strand: the Auditor General is an independent officer who reviews how the federal government spends public money, reporting on waste, mismanagement, or inefficiency.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight",
+        "summary": "Grade 4 Social Studies strand review: students revisit Underground Railroad conductors, the Hudson Strait, the Auditor General, residential schools and reconciliation, and the Suez Crisis.",
+        "resourceLabel": "YouTube: Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Freedom%20Seekers%2C%20Arctic%20Geography%2C%20and%20Government%20Oversight%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is the Auditor Generals main job?",
+            "q": "What was the role of a conductor on the Underground Railroad?",
             "options": [
-              "Teaching in schools",
-              "Reviewing how the government spends public money",
-              "Managing a hospital",
-              "Running a business"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it important for the Auditor General to be independent?",
-            "options": [
-              "So the review is unbiased and not controlled by the government being reviewed",
-              "Independence makes the reports less accurate",
-              "The government should review itself only",
-              "Independence does not matter"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What might the Auditor Generals reports reveal?",
-            "options": [
-              "Only good news",
-              "Waste, mismanagement, or inefficiency in spending",
-              "Nothing useful",
-              "Sports statistics"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Who does the Auditor General typically report to?",
-            "options": [
-              "No one",
-              "Parliament",
-              "A private company",
-              "A single citizen"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might citizens care about the Auditor Generals reports?",
-            "options": [
-              "Citizens have no interest in government spending",
-              "The reports are always secret",
-              "They show how tax dollars are being used",
-              "Reports never affect citizens"
+              "Collecting taxes from travellers",
+              "Repairing roads between towns",
+              "Guiding freedom seekers along secret routes toward freedom",
+              "Building railway tracks across Canada"
             ],
             "answer": 2
+          },
+          {
+            "q": "What does the Hudson Strait connect?",
+            "options": [
+              "The Rocky Mountains to the prairies",
+              "The Pacific Ocean to the Great Lakes",
+              "Hudson Bay to the Atlantic Ocean",
+              "Lake Ontario to Lake Erie"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Auditor General of Canada examine?",
+            "options": [
+              "The scores of national sports teams",
+              "The design of new highways",
+              "The weather across Canada",
+              "How the federal government spends public money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What were residential schools designed to do?",
+            "options": [
+              "Teach all students about Indigenous traditions",
+              "Separate Indigenous children from their families and cultures",
+              "Build new roads across Canada",
+              "Provide extra holidays for students"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who proposed the idea of a United Nations peacekeeping force during the Suez Crisis?",
+            "options": [
+              "John A. Macdonald",
+              "Lester B. Pearson",
+              "David Thompson",
+              "Terry Fox"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -29209,63 +29271,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Magna Cartas Influence on Canadian Law",
-        "summary": "Grade 6 Social Studies strand: the Magna Carta, signed in England in 1215, established early principles like the rule of law that influenced legal systems, including Canadas, centuries later.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies: Elections Canada — Running Canadas Federal Elections",
+        "summary": "Grade 4 Social Studies strand: Elections Canada is the independent federal agency responsible for organizing and overseeing national elections, ensuring that voting is fair, accessible, and accurately counted.",
+        "resourceLabel": "YouTube: Social Studies: Elections Canada — Running Canadas Federal Elections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Elections%20Canada%20%E2%80%94%20Running%20Canadas%20Federal%20Elections%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What was the Magna Carta?",
+            "q": "What is Elections Canada?",
             "options": [
-              "A modern Canadian law",
-              "An early document establishing principles like the rule of law",
-              "A type of currency",
-              "A national holiday"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Roughly when was the Magna Carta signed?",
-            "options": [
-              "In the 1200s",
-              "Last year",
-              "It has not happened yet",
-              "In the 1900s"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What important principle did the Magna Carta help establish?",
-            "options": [
-              "That laws do not apply to anyone",
-              "That only kings make all decisions with no limits",
-              "That courts should not exist",
-              "The rule of law, meaning even rulers must follow the law"
+              "A television network that reports election results",
+              "A private company that sells voting machines",
+              "A group that only counts votes in one city",
+              "The independent federal agency responsible for organizing national elections"
             ],
             "answer": 3
           },
           {
-            "q": "How did the Magna Carta influence legal systems like Canadas?",
+            "q": "What is one responsibility of Elections Canada?",
             "options": [
-              "It was immediately forgotten",
-              "Its principles shaped ideas about law and rights over centuries",
-              "Canada copied it word for word",
-              "It has no connection to modern law"
+              "Building new highways",
+              "Setting provincial tax rates",
+              "Managing national parks",
+              "Ensuring that federal voting is fair and accurately counted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for Elections Canada to be independent?",
+            "options": [
+              "So elections never actually take place",
+              "So only one political party can ever win",
+              "So elections are run fairly without political interference",
+              "So votes are never counted at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might Elections Canada do to help make voting accessible?",
+            "options": [
+              "Require voters to pay a fee to vote",
+              "Provide multiple ways to vote, such as by mail or in person",
+              "Only allow voting in one single city",
+              "Prevent citizens from voting entirely"
             ],
             "answer": 1
           },
           {
-            "q": "Why do historians and legal scholars still study the Magna Carta today?",
+            "q": "Why is a fair and accurate election process important in a democracy?",
             "options": [
-              "It has no historical significance",
-              "It laid early groundwork for modern legal principles",
-              "It only applied for one day",
-              "It was written very recently"
+              "Democracy does not require any elections at all",
+              "Fair elections have no importance in a democracy",
+              "It ensures that the results reflect the true will of the voters",
+              "Accuracy in vote counting is never necessary"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -29335,63 +29396,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Surface Area of a Sphere",
-        "summary": "Grade 6 Math strand: the surface area of a sphere is found using the formula 4 times pi times the radius squared, describing the total area covering the outside of the sphere.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Fractions: Subtracting Mixed Numbers",
+        "summary": "Grade 4 Math strand: students learn to subtract one mixed number from another, such as finding 3 and 3 fourths minus 1 and 1 fourth, by subtracting the whole numbers and the fractions separately.",
+        "resourceLabel": "YouTube: Fractions: Subtracting Mixed Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Subtracting%20Mixed%20Numbers%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What shape is a basketball an example of?",
+            "q": "What is 3 and 3 fourths minus 1 and 1 fourth?",
             "options": [
-              "A cube",
-              "A sphere",
-              "A cylinder",
-              "A cone"
+              "3 and 2 fourths",
+              "1 and 2 fourths",
+              "2 and 4 fourths",
+              "2 and 2 fourths"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What measurement is needed to find the surface area of a sphere?",
+            "q": "What is 5 and 2 fifths minus 2 and 1 fifth?",
             "options": [
-              "The circumference alone",
-              "The volume only",
-              "The radius",
-              "Only the diameter squared with no radius"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The formula for surface area of a sphere involves which constant?",
-            "options": [
-              "Pi",
-              "One",
-              "Ten",
-              "Zero"
+              "3 and 1 fifth",
+              "3 and 3 fifths",
+              "4 and 1 fifth",
+              "2 and 1 fifth"
             ],
             "answer": 0
           },
           {
-            "q": "If a spheres radius doubles, what generally happens to its surface area?",
+            "q": "What is 4 and 5 sixths minus 2 and 2 sixths?",
             "options": [
-              "It stays exactly the same",
-              "It increases significantly (by a factor of four)",
-              "It decreases",
-              "It becomes zero"
+              "2 and 3 sixths",
+              "1 and 3 sixths",
+              "3 and 3 sixths",
+              "2 and 5 sixths"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Surface area of a sphere is measured in ___.",
+            "q": "When subtracting mixed numbers, what should you subtract first?",
             "options": [
-              "No units at all",
-              "Linear units only",
-              "Square units",
-              "Cubic units"
+              "Only the fractions, ignoring the whole numbers completely",
+              "Neither part should ever be subtracted",
+              "The whole numbers and the fractions can each be subtracted separately",
+              "Only the whole numbers, ignoring the fractions completely"
             ],
             "answer": 2
+          },
+          {
+            "q": "What is 6 and 3 fourths minus 4 and 1 fourth?",
+            "options": [
+              "2 and 1 fourth",
+              "3 and 2 fourths",
+              "2 and 4 fourths",
+              "2 and 2 fourths"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -29579,62 +29640,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Geometry, Number Sense, and Financial Literacy",
-        "summary": "Grade 6 Math strand review: students revisit cone and pyramid volume, scatter plots, absolute value, imperial/metric conversion, outliers, sphere surface area, and credit card interest.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Financial Literacy: Understanding Sales Tax (GST/HST)",
+        "summary": "Grade 4 Math strand: sales tax is an extra percentage added to the price of many goods and services, such as the HST in Ontario, which increases the total amount a customer pays at checkout.",
+        "resourceLabel": "YouTube: Financial Literacy: Understanding Sales Tax (GST/HST)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Understanding%20Sales%20Tax%20%28GST/HST%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "q": "What do we call the extra percentage added to the price of many goods and services?",
             "options": [
-              "Two-thirds",
-              "The same as the cylinder",
-              "One-third",
-              "One-half"
+              "Sales tax",
+              "A refund",
+              "A concept unrelated to money",
+              "A discount"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of the sales tax charged in Ontario?",
+            "options": [
+              "ATM",
+              "GDP",
+              "HST",
+              "A concept unrelated to finance"
             ],
             "answer": 2
           },
           {
-            "q": "What does absolute value represent?",
+            "q": "Does sales tax increase or decrease the total amount a customer pays?",
             "options": [
-              "The number itself with no change",
-              "The distance a number is from zero",
-              "A type of fraction",
-              "Only negative numbers"
+              "A concept unrelated to sales tax",
+              "Increase",
+              "Sales tax has no effect on the total",
+              "Decrease"
             ],
             "answer": 1
           },
           {
-            "q": "What is an outlier?",
+            "q": "Why might the price shown on a store shelf be different from the amount you actually pay at checkout?",
             "options": [
-              "The most common value",
-              "The total of all values",
-              "The middle value",
-              "A data value much higher or lower than the rest"
+              "Store prices never change at checkout",
+              "This concept has no connection to sales tax",
+              "Sales tax always lowers the amount you pay",
+              "Sales tax is often added to the shelf price at checkout"
             ],
             "answer": 3
           },
           {
-            "q": "What is an irrational number?",
+            "q": "If an item costs 10 dollars and 1 dollar 30 cents in sales tax is added, what is the total cost?",
             "options": [
-              "Any number greater than zero",
-              "A number that is always negative",
-              "A number with only one digit",
-              "A number that cannot be written as a simple fraction"
+              "10 dollars 30 cents",
+              "9 dollars 70 cents",
+              "11 dollars 30 cents",
+              "11 dollars"
             ],
-            "answer": 3
-          },
-          {
-            "q": "What happens if a credit card balance is not paid off in full?",
-            "options": [
-              "The card stops working forever",
-              "The balance automatically disappears",
-              "No consequences occur",
-              "Interest is charged on the amount owed"
-            ],
-            "answer": 3
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
@@ -29822,123 +29884,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Introduction to Scientific Notation",
-        "summary": "Grade 6 Math strand: scientific notation expresses very large or very small numbers as a number between 1 and 10 multiplied by a power of ten, making such numbers easier to read and compare.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Number Sense: Negative Numbers in Everyday Contexts",
+        "summary": "Grade 4 Math strand: negative numbers are numbers less than zero, often used to describe situations such as temperatures below freezing or an elevation below sea level.",
+        "resourceLabel": "YouTube: Number Sense: Negative Numbers in Everyday Contexts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Negative%20Numbers%20in%20Everyday%20Contexts%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does scientific notation help express?",
+            "q": "What do we call a number less than zero?",
             "options": [
-              "Only numbers between 0 and 1",
-              "Fractions with large denominators only",
-              "Numbers that have no decimal point",
-              "Very large or very small numbers in a compact form"
+              "A concept unrelated to number sense",
+              "A fraction",
+              "A positive number",
+              "A negative number"
             ],
             "answer": 3
           },
           {
-            "q": "In scientific notation, the first factor is a number between which two values?",
+            "q": "Which temperature is colder: -5 degrees or 2 degrees?",
             "options": [
-              "0 and 1",
-              "1 and 10",
-              "10 and 100",
-              "100 and 1000"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which of these is 4,500 written in scientific notation?",
-            "options": [
-              "4.5 x 10^3",
-              "45 x 10^2",
-              "0.45 x 10^4",
-              "4.5 x 10^2"
+              "-5 degrees",
+              "They are equally cold",
+              "Cannot be compared",
+              "2 degrees"
             ],
             "answer": 0
           },
           {
-            "q": "Why is scientific notation useful for scientists working with numbers like the distance to a star?",
+            "q": "On a number line, negative numbers are found in which direction from zero?",
             "options": [
-              "It allows extremely large numbers to be written and compared more easily",
-              "It removes the need for any numbers at all",
-              "It makes large numbers harder to read",
-              "Scientific notation can only be used for small numbers"
+              "Straight up",
+              "To the right",
+              "A concept unrelated to number sense",
+              "To the left"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What does the exponent in scientific notation tell you?",
+            "q": "Why is it useful to represent temperatures below freezing with negative numbers?",
             "options": [
-              "Nothing useful about the number",
-              "The number of digits in the answer only",
-              "How many places to move the decimal point",
-              "The exact value of the number with no further calculation"
+              "Negative numbers never represent real values",
+              "Temperatures can never actually go below zero",
+              "This concept has no connection to number sense",
+              "It gives an accurate way to show values that are less than zero"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Which of these numbers is the coldest?",
+            "options": [
+              "-2",
+              "5",
+              "0",
+              "-10"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Exponents & Powers"
+        "topic": "Number Sense: Place Value & Operations"
       },
       {
         "subject": "Science",
-        "title": "Kinetic and Potential Energy",
-        "summary": "Grade 6 Science strand: kinetic energy is the energy of motion, while potential energy is stored energy based on an objects position or condition, and energy can transform between these two forms.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Eclipses — Solar and Lunar",
+        "summary": "Grade 4 Science strand: a solar eclipse happens when the Moon passes between the Sun and Earth, blocking sunlight, while a lunar eclipse happens when Earth passes between the Sun and Moon.",
+        "resourceLabel": "YouTube: Science: Eclipses — Solar and Lunar",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Eclipses%20%E2%80%94%20Solar%20and%20Lunar%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is kinetic energy?",
+            "q": "What happens during a solar eclipse?",
             "options": [
-              "Energy that never changes form",
-              "A type of chemical reaction",
-              "The energy of motion",
-              "Stored energy based on position"
+              "The Moon passes between the Sun and Earth",
+              "A concept unrelated to eclipses",
+              "Earth passes between the Sun and Moon",
+              "Nothing happens in the sky at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during a lunar eclipse?",
+            "options": [
+              "A concept unrelated to eclipses",
+              "The Sun disappears completely",
+              "The Moon passes between the Sun and Earth",
+              "Earth passes between the Sun and Moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During a solar eclipse, what does the Moon block?",
+            "options": [
+              "Sunlight",
+              "Nothing at all",
+              "A concept unrelated to eclipses",
+              "Moonlight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do solar and lunar eclipses not happen every single month?",
+            "options": [
+              "This concept has no connection to the Sun, Earth, and Moon",
+              "The Moon never moves in any predictable pattern",
+              "The Sun, Earth, and Moon must align in a very specific way, which does not happen every month",
+              "Eclipses actually happen every single day"
             ],
             "answer": 2
           },
           {
-            "q": "What is potential energy?",
+            "q": "Why should people avoid looking directly at a solar eclipse without proper eye protection?",
             "options": [
-              "Energy found only in electrical circuits",
-              "The energy of motion only",
-              "Energy that cannot be transformed into anything else",
-              "Stored energy based on an objects position or condition"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A ball held at the top of a hill has mostly what type of energy?",
-            "options": [
-              "Sound energy",
-              "Potential energy",
-              "Kinetic energy",
-              "No energy at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "As the ball rolls down the hill, what happens to its potential energy?",
-            "options": [
-              "It converts into potential energy at the bottom",
-              "It disappears completely with no transformation",
-              "It stays exactly the same the whole way down",
-              "It converts into kinetic energy as the ball speeds up"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding kinetic and potential energy useful for explaining how a roller coaster works?",
-            "options": [
-              "Roller coasters use only kinetic energy at all times",
-              "Energy never changes form on a roller coaster",
-              "The energy continuously transforms between potential and kinetic as the coaster rises and falls",
-              "Roller coasters have no connection to energy transformation"
+              "Solar eclipses are never harmful to look at directly",
+              "Eclipses always make the Sun completely safe to view directly",
+              "Looking directly at the Sun, even during an eclipse, can damage the eyes",
+              "This concept has no connection to eye safety"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Energy"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -30068,63 +30129,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Sum of Interior Angles in Polygons",
-        "summary": "Grade 6 Math strand: the sum of the interior angles of a polygon can be found using the formula (n minus 2) times 180 degrees, where n is the number of sides, extending the idea that a triangles angles sum to 180 degrees.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Algebra: Solving Equations with an Unknown Value",
+        "summary": "Grade 4 Math strand: students learn to find the value of an unknown, often shown as a letter or symbol, in a simple equation, such as solving n plus 5 equals 12 for n.",
+        "resourceLabel": "YouTube: Algebra: Solving Equations with an Unknown Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Equations%20with%20an%20Unknown%20Value%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What formula finds the sum of the interior angles of a polygon with n sides?",
+            "q": "What is the value of n in n plus 5 equals 12?",
             "options": [
-              "(n minus 2) times 180 degrees",
-              "n times 90 degrees",
-              "(n plus 2) times 180 degrees",
-              "n times 180 degrees"
+              "7",
+              "17",
+              "5",
+              "12"
             ],
             "answer": 0
           },
           {
-            "q": "What is the sum of the interior angles of a quadrilateral (4 sides)?",
+            "q": "What is the value of x in x minus 3 equals 9?",
             "options": [
-              "180 degrees",
-              "360 degrees",
-              "720 degrees",
-              "540 degrees"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the sum of the interior angles of a pentagon (5 sides)?",
-            "options": [
-              "900 degrees",
-              "360 degrees",
-              "540 degrees",
-              "450 degrees"
+              "6",
+              "3",
+              "12",
+              "9"
             ],
             "answer": 2
           },
           {
-            "q": "Why does the interior angle sum formula start by subtracting 2 from the number of sides?",
+            "q": "What is the value of y in y times 4 equals 20?",
             "options": [
-              "The formula ignores the number of sides entirely",
-              "Any polygon can be divided into (n minus 2) triangles, each contributing 180 degrees",
-              "Every polygon has exactly 2 fewer angles than sides",
-              "Subtracting 2 has no mathematical meaning in this formula"
+              "24",
+              "5",
+              "80",
+              "16"
             ],
             "answer": 1
           },
           {
-            "q": "As the number of sides in a regular polygon increases, what happens to the sum of its interior angles?",
+            "q": "Why is it helpful to check your answer by substituting it back into the equation?",
             "options": [
-              "It decreases",
-              "It always equals 180 degrees",
-              "It stays exactly the same",
-              "It increases"
+              "It confirms whether the value makes the equation true",
+              "Substituting a value always makes an equation false",
+              "This concept has no connection to algebra",
+              "Checking an answer never actually proves anything"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "What is the value of a in 6 plus a equals 14?",
+            "options": [
+              "8",
+              "14",
+              "20",
+              "6"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Equations & Inequalities"
       },
       {
         "subject": "Science",
@@ -30313,63 +30374,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Classifying Angles Formed by a Transversal",
-        "summary": "Grade 6 Math strand: when a transversal line crosses two parallel lines, it creates pairs of angles, such as corresponding angles and alternate interior angles, that have special equal or supplementary relationships.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Number Sense: Introduction to Percent",
+        "summary": "Grade 4 Math strand: percent means out of one hundred, and students learn to represent simple percentages such as 50% (half) and 25% (a quarter) using models and fractions.",
+        "resourceLabel": "YouTube: Number Sense: Introduction to Percent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Introduction%20to%20Percent%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is a transversal?",
+            "q": "What does percent mean?",
             "options": [
-              "A curved line with no straight sections",
-              "A single point where two lines meet",
-              "A line that never crosses any other line",
-              "A line that crosses two or more other lines"
+              "Out of ten",
+              "Out of one",
+              "Out of one thousand",
+              "Out of one hundred"
             ],
             "answer": 3
           },
           {
-            "q": "When a transversal crosses two parallel lines, what is true about corresponding angles?",
+            "q": "What fraction is equal to 50%?",
             "options": [
-              "They always add up to 90 degrees",
-              "They are equal in measure",
-              "They are never related to each other",
-              "They are always different in measure"
+              "1/10",
+              "1/2",
+              "1/4",
+              "1/5"
             ],
             "answer": 1
           },
           {
-            "q": "What are alternate interior angles?",
+            "q": "What fraction is equal to 25%?",
             "options": [
-              "Angles that are always equal to 90 degrees",
-              "Angles that never appear when a transversal crosses parallel lines",
-              "Angles on opposite sides of the transversal, between the two parallel lines",
-              "Angles that are always outside the parallel lines"
+              "1/4",
+              "1/2",
+              "3/4",
+              "1/5"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "If two lines crossed by a transversal are parallel, what is true about alternate interior angles?",
+            "q": "If a shape is 100% shaded, how much of it is shaded?",
             "options": [
-              "They always add up to 360 degrees",
-              "They are always supplementary",
-              "They are equal in measure",
-              "They have no relationship to each other"
+              "All of it",
+              "A quarter of it",
+              "None of it",
+              "Half of it"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is understanding transversal angle relationships useful in geometry?",
+            "q": "The percent symbol is written as ___.",
             "options": [
-              "It only applies to lines that are not parallel",
-              "It has no practical use in solving geometry problems",
-              "It replaces the need to know about triangles",
-              "It helps determine unknown angle measures when parallel lines are involved"
+              "@",
+              "#",
+              "%",
+              "&"
             ],
-            "answer": 3
+            "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Number Sense: Place Value & Operations"
       },
       {
         "subject": "Science",
@@ -30559,63 +30620,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Volume of a Sphere",
-        "summary": "Grade 6 Math strand: the volume of a sphere is found using the formula four-thirds times pi times the radius cubed, describing how much space is enclosed inside a perfectly round three-dimensional shape.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Number Sense: Order of Operations",
+        "summary": "Grade 4 Math strand: the order of operations tells us the sequence to solve a math expression -- brackets, exponents, multiplication and division, then addition and subtraction.",
+        "resourceLabel": "YouTube: Number Sense: Order of Operations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Order%20of%20Operations%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What formula is used to find the volume of a sphere?",
+            "q": "What do we solve first in the order of operations?",
             "options": [
-              "Two-thirds times pi times the radius cubed",
-              "Pi times the radius squared times the height",
-              "Four-thirds times pi times the radius cubed",
-              "Four times pi times the radius squared"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What measurement is needed to calculate the volume of a sphere?",
-            "options": [
-              "The circumference alone",
-              "The surface area alone",
-              "Only the diameter with no other calculation",
-              "The radius"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A basketball is an example of what three-dimensional shape?",
-            "options": [
-              "A cylinder",
-              "A cone",
-              "A sphere",
-              "A pyramid"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If a spheres radius is doubled, what happens to its volume?",
-            "options": [
-              "It increases significantly, by a factor of eight",
-              "It doubles exactly",
-              "It decreases",
-              "It stays exactly the same"
+              "Brackets",
+              "Addition",
+              "Whatever comes first left to right, always",
+              "Subtraction"
             ],
             "answer": 0
           },
           {
-            "q": "Volume of a sphere, like all volume measurements, is expressed in what type of units?",
+            "q": "In the order of operations, which comes before addition and subtraction?",
             "options": [
-              "No units at all",
-              "Linear units only",
-              "Cubic units",
-              "Square units"
+              "Nothing, addition is always first",
+              "Multiplication and division",
+              "Exponents are ignored",
+              "Brackets are solved last"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 3 + 4 x 2 using the order of operations?",
+            "options": [
+              "9",
+              "14",
+              "11",
+              "10"
             ],
             "answer": 2
+          },
+          {
+            "q": "What is (3 + 4) x 2 using the order of operations?",
+            "options": [
+              "10",
+              "14",
+              "9",
+              "11"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we follow a consistent order of operations?",
+            "options": [
+              "To make math harder on purpose",
+              "Order never affects the answer",
+              "It does not matter what order we use",
+              "So everyone gets the same answer to the same expression"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "Ratios & Rates"
       },
       {
         "subject": "Science",
@@ -30925,58 +30986,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Komagata Maru Incident",
-        "summary": "Grade 6 Social Studies strand: in 1914, the ship Komagata Maru arrived in Vancouver carrying passengers from India who were denied entry to Canada under discriminatory immigration laws of the time, an event now recognized as an injustice in Canadian history.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "title": "Social Studies Review: Ancient Civilizations, Geography, and Government",
+        "summary": "Grade 4 Social Studies strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit the Kingdom of Axum, Canadas Prairie provinces, the Bank of Canada, Elections Canada, and Canadas Coat of Arms.",
+        "resourceLabel": "YouTube: Social Studies Review: Ancient Civilizations, Geography, and Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Ancient%20Civilizations%2C%20Geography%2C%20and%20Government%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What was the Komagata Maru?",
+            "q": "Where was the ancient Kingdom of Axum located?",
             "options": [
-              "A ship carrying passengers from India that arrived in Vancouver in 1914",
-              "A modern cruise ship",
+              "In what is now France",
+              "In what is now Japan",
+              "In what is now Ethiopia and Eritrea",
+              "In what is now Mexico"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which three provinces are commonly known as the Prairie provinces?",
+            "options": [
+              "New Brunswick, Newfoundland, and Labrador",
+              "Ontario, Quebec, and Nova Scotia",
+              "British Columbia, Yukon, and Nunavut",
+              "Alberta, Saskatchewan, and Manitoba"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the Bank of Canada?",
+            "options": [
+              "A private company that sells cars",
+              "Canadas central bank",
+              "A local bank branch in one city",
+              "A museum about Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is Elections Canada?",
+            "options": [
+              "A television network that reports election results",
+              "The independent federal agency responsible for organizing national elections",
+              "A group that only counts votes in one city",
+              "A private company that sells voting machines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Coat of Arms of Canada?",
+            "options": [
+              "A style of Canadian clothing",
+              "An official symbol representing Canada, featuring heraldic images",
               "A type of Canadian currency",
-              "A Canadian warship built in the 1800s"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What happened to most of the passengers aboard the Komagata Maru?",
-            "options": [
-              "They were granted full Canadian citizenship on arrival",
-              "They were welcomed immediately with no restrictions",
-              "They were denied entry to Canada under discriminatory immigration laws",
-              "They never actually reached Canada by ship"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "In what year did the Komagata Maru incident take place?",
-            "options": [
-              "1867",
-              "1945",
-              "1914",
-              "1970"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Komagata Maru incident now studied as an example of historical injustice?",
-            "options": [
-              "It reflects discriminatory immigration policies that unfairly excluded people based on their origin",
-              "The incident was entirely fictional and never occurred",
-              "The event demonstrates fair and equal treatment of all passengers",
-              "It has no connection to immigration history"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might learning about events like the Komagata Maru incident be valuable for understanding Canadian history today?",
-            "options": [
-              "Historical injustices have no connection to present-day understanding",
-              "It helps Canadians understand past injustices and how immigration policy has changed over time",
-              "This event has no relevance to modern Canadian society",
-              "Immigration policy in Canada has never changed since 1914"
+              "A national holiday"
             ],
             "answer": 1
           }
@@ -31845,62 +31906,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Watersheds and Drainage Basins",
-        "summary": "Grade 6 Science strand: a watershed, or drainage basin, is an area of land where all the surface water, from rain and melting snow, drains into a common river, lake, or other body of water.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: How a Generator Makes Electricity",
+        "summary": "Grade 4 Science strand: a generator produces electricity by using motion, such as spinning magnets near coils of wire, to convert mechanical energy into electrical energy.",
+        "resourceLabel": "YouTube: Science: How a Generator Makes Electricity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20a%20Generator%20Makes%20Electricity%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is a watershed?",
+            "q": "What does a generator produce?",
             "options": [
-              "A body of water with no connection to surrounding land",
-              "A type of underground cave system",
-              "A device used to measure rainfall",
-              "An area of land where all surface water drains into a common body of water"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What are the two main sources of water that flow into a watershed?",
-            "options": [
-              "Underground mining and drilling",
-              "Ocean currents and tides",
-              "Industrial waste and sewage only",
-              "Rain and melting snow"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Where does water within a watershed eventually drain to?",
-            "options": [
-              "It never moves anywhere",
-              "A common river, lake, or other body of water",
-              "Directly into outer space",
-              "Only into the soil, with no further movement"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might pollution entering a watershed in one location affect communities far downstream?",
-            "options": [
-              "Watersheds have no connection between different locations",
-              "Downstream communities are never affected by upstream events",
-              "Water carries pollutants as it flows through the watershed toward a common body of water",
-              "Pollution never spreads beyond its original location"
+              "Sunlight",
+              "A concept unrelated to energy",
+              "Electricity",
+              "Fresh water"
             ],
             "answer": 2
           },
           {
-            "q": "Why is protecting a watershed considered important for both ecosystems and human communities?",
+            "q": "Does a generator use motion, such as spinning magnets, to produce electricity?",
             "options": [
-              "Many people and wildlife depend on the same water sources within a watershed",
-              "Watersheds are unrelated to drinking water supplies",
-              "Watersheds have no impact on either ecosystems or communities",
-              "Protecting a watershed only benefits a single organism"
+              "Yes",
+              "A concept unrelated to generators",
+              "No, generators never use any motion",
+              "Generators only use sunlight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of energy does a generator convert into electrical energy?",
+            "options": [
+              "Only light energy",
+              "Mechanical energy",
+              "Only sound energy",
+              "A concept unrelated to energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a generator be useful during a power outage?",
+            "options": [
+              "Generators can only be used when regular power is already working",
+              "Generators are never useful during a power outage",
+              "This concept has no connection to electricity",
+              "It can produce electricity when the regular power supply is unavailable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding how a generator works helpful for understanding renewable energy, like wind power?",
+            "options": [
+              "Many renewable energy sources, like wind turbines, also use motion to generate electricity",
+              "Wind power never actually produces any electricity",
+              "This concept has no relevance to science",
+              "Generators have no connection to renewable energy"
             ],
             "answer": 0
           }
-        ]
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -32029,62 +32091,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Number Sense, Geometry, and Data Management",
-        "summary": "Grade 6 Math strand review: students revisit scientific notation, the sum of interior angles in polygons, the volume of a sphere, translating word problems into expressions, and weighted averages.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Number Sense: Least Common Multiple and Greatest Common Factor",
+        "summary": "Grade 4 Math strand: the least common multiple (LCM) is the smallest number that is a multiple of two numbers, while the greatest common factor (GCF) is the largest number that divides evenly into both.",
+        "resourceLabel": "YouTube: Number Sense: Least Common Multiple and Greatest Common Factor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Least%20Common%20Multiple%20and%20Greatest%20Common%20Factor%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does scientific notation help express?",
+            "q": "What does LCM stand for?",
             "options": [
-              "Fractions with large denominators only",
-              "Numbers that have no decimal point",
-              "Very large or very small numbers in a compact form",
-              "Only numbers between 0 and 1"
+              "Longest common multiple",
+              "Least counted multiple",
+              "Largest common measure",
+              "Least common multiple"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What formula finds the sum of the interior angles of a polygon with n sides?",
+            "q": "What is the LCM of 4 and 6?",
             "options": [
-              "n times 90 degrees",
-              "(n minus 2) times 180 degrees",
-              "(n plus 2) times 180 degrees",
-              "n times 180 degrees"
+              "10",
+              "12",
+              "24",
+              "6"
             ],
             "answer": 1
           },
           {
-            "q": "What formula is used to find the volume of a sphere?",
+            "q": "What does GCF stand for?",
             "options": [
-              "Four times pi times the radius squared",
-              "Two-thirds times pi times the radius cubed",
-              "Pi times the radius squared times the height",
-              "Four-thirds times pi times the radius cubed"
+              "Grouped common factor",
+              "General common fraction",
+              "Greatest common factor",
+              "Greatest counted fraction"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Which expression represents five more than a number n?",
+            "q": "What is the GCF of 8 and 12?",
             "options": [
-              "5n",
-              "5/n",
-              "n - 5",
-              "n + 5"
+              "2",
+              "8",
+              "4",
+              "24"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What does a weighted average take into account that a simple average does not?",
+            "q": "Finding the GCF can help when ___.",
             "options": [
-              "Nothing different from a simple average",
-              "Only the largest value in a data set",
-              "Only the smallest value in a data set",
-              "The different levels of importance, or weight, given to each value"
+              "Measuring angles",
+              "Multiplying decimals",
+              "Reading a clock",
+              "Simplifying fractions"
             ],
             "answer": 3
           }
-        ]
+        ],
+        "topic": "Number Sense: Place Value & Operations"
       },
       {
         "subject": "Science",
@@ -33498,63 +33561,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Financial Literacy: Understanding Payroll Deductions and Net Income",
-        "summary": "Grade 6 Math strand: net income is the amount of money left after payroll deductions, such as taxes and other contributions, are subtracted from gross income, the total amount earned before deductions.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Data Management: Identifying Outliers in a Data Set",
+        "summary": "Grade 4 Math strand: an outlier is a data value that is much higher or lower than the rest of the data, and it can affect measures like the mean.",
+        "resourceLabel": "YouTube: Data Management: Identifying Outliers in a Data Set",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Identifying%20Outliers%20in%20a%20Data%20Set%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is gross income?",
+            "q": "What is an outlier?",
             "options": [
-              "Money earned only from investments",
-              "The total cost of monthly expenses",
-              "The total amount earned before any deductions",
-              "The amount left after taxes are subtracted"
+              "The total of all values",
+              "The most common value",
+              "The middle value",
+              "A data value much higher or lower than the rest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the data set 4, 5, 6, 5, 40, which value is the outlier?",
+            "options": [
+              "40",
+              "6",
+              "5",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can an outlier affect the mean of a data set?",
+            "options": [
+              "It always makes the mean exactly zero",
+              "It removes all other data",
+              "It can pull the mean higher or lower than expected",
+              "It has no effect on the mean"
             ],
             "answer": 2
           },
           {
-            "q": "What is net income?",
+            "q": "Why is it important to notice outliers in data?",
             "options": [
-              "The amount left after deductions are subtracted from gross income",
-              "The total amount earned before any deductions",
-              "The amount spent on entertainment each month",
-              "A fixed amount that never changes"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which of these is an example of a payroll deduction?",
-            "options": [
-              "Income tax",
-              "A birthday gift",
-              "A restaurant meal",
-              "A grocery bill"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If gross income is 800 dollars and deductions total 150 dollars, what is the net income?",
-            "options": [
-              "800 dollars",
-              "650 dollars",
-              "150 dollars",
-              "950 dollars"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it important to understand the difference between gross and net income when budgeting?",
-            "options": [
-              "Gross income is always the amount available to spend",
-              "Deductions never affect how much money a person can spend",
-              "Budgeting does not require knowing either amount",
-              "Net income reflects the actual amount available to spend or save"
+              "They automatically fix the data",
+              "Outliers are never meaningful",
+              "Outliers should always be ignored completely",
+              "They may indicate an error or something unusual worth investigating"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which of these data sets has an obvious outlier?",
+            "options": [
+              "2, 3, 3, 4, 50",
+              "2, 3, 4, 5, 6",
+              "10, 11, 12, 13, 14",
+              "5, 5, 5, 5, 5"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -33743,63 +33806,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Comparing and Ordering Numbers in Scientific Notation",
-        "summary": "Grade 6 Math strand: numbers written in scientific notation can be compared by first comparing their powers of ten, and if those are equal, comparing the leading decimal factors.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Measurement: Volume of Composite Rectangular Prisms",
+        "summary": "Grade 4 Math strand: the volume of a composite shape made of rectangular prisms is found by breaking it into simple prisms, finding each volume, then adding them together.",
+        "resourceLabel": "YouTube: Measurement: Volume of Composite Rectangular Prisms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Volume%20of%20Composite%20Rectangular%20Prisms%20grade%206%20educational",
         "quiz": [
           {
-            "q": "When comparing two numbers in scientific notation, what should be compared first?",
+            "q": "How do you find the volume of a composite shape made of rectangular prisms?",
             "options": [
-              "The decimal point only",
-              "The colour used to write the number",
-              "The number of digits in the answer",
-              "The powers of ten"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which number is greater: 3.2 x 10^5 or 4.1 x 10^4?",
-            "options": [
-              "3.2 x 10^5",
-              "It cannot be determined",
-              "4.1 x 10^4",
-              "They are equal"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If two numbers in scientific notation have the same power of ten, what determines which is greater?",
-            "options": [
-              "Nothing can be determined in this case",
-              "The colour used to display the number",
-              "The leading decimal factor",
-              "The number of zeros in the original number"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is scientific notation useful for comparing very large numbers?",
-            "options": [
-              "It only works for comparing small numbers",
-              "It allows numbers to be compared quickly using their exponents",
-              "Scientific notation removes the ability to compare numbers",
-              "It makes numbers impossible to compare"
+              "Multiply all side lengths of the whole shape at once",
+              "Break it into prisms, find each volume, and add them",
+              "Guess the volume",
+              "Measure only the height"
             ],
             "answer": 1
           },
           {
-            "q": "Which number is smaller: 5.6 x 10^3 or 5.9 x 10^3?",
+            "q": "If two rectangular prisms have volumes of 24 and 10, what is the total composite volume?",
             "options": [
-              "5.6 x 10^3",
-              "It cannot be determined",
-              "5.9 x 10^3",
-              "They are equal"
+              "14",
+              "10",
+              "34",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What formula finds the volume of a single rectangular prism?",
+            "options": [
+              "Length x width x height",
+              "Length x width only",
+              "Height only",
+              "Length + width + height"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why might real objects require composite volume calculations?",
+            "options": [
+              "Real objects are always simple cubes",
+              "Many real objects are combinations of simple 3D shapes",
+              "Composite volume is never used practically",
+              "Volume only applies to 2D shapes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The units for volume are typically expressed in ___.",
+            "options": [
+              "No units at all",
+              "Linear units only",
+              "Cubic units",
+              "Square units"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Measurement: Volume & Surface Area"
       },
       {
         "subject": "Science",
@@ -35209,63 +35272,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Surface Area of Cones",
-        "summary": "Grade 6 Math strand: the surface area of a cone is the sum of the area of its circular base and the area of its curved lateral surface, giving the total area of all the surfaces that cover the shape.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Math Review: Number Sense, Geometry, and Measurement",
+        "summary": "Grade 4 Math strand review: students revisit percent, order of operations, LCM/GCF, prime factorization, outliers, composite area, scale drawings, and composite volume.",
+        "resourceLabel": "YouTube: Math Review: Number Sense, Geometry, and Measurement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Sense%2C%20Geometry%2C%20and%20Measurement%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What two parts make up the surface area of a cone?",
+            "q": "What does percent mean?",
             "options": [
-              "The circular base and the curved lateral surface",
-              "The volume and the radius",
-              "Only the circular base, with no other surface",
-              "Only the apex point of the cone"
+              "Out of one",
+              "Out of one thousand",
+              "Out of one hundred",
+              "Out of ten"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What shape is the base of a cone?",
+            "q": "What is 3 + 4 x 2 using the order of operations?",
             "options": [
-              "A square",
-              "A circle",
-              "A rectangle",
-              "A triangle"
+              "14",
+              "11",
+              "9",
+              "10"
             ],
             "answer": 1
           },
           {
-            "q": "What is the curved surface of a cone called?",
+            "q": "What is the LCM of 4 and 6?",
             "options": [
-              "The diameter",
-              "The lateral surface",
-              "The vertex",
-              "The base"
+              "10",
+              "6",
+              "24",
+              "12"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the surface area of a cone always measured in square units?",
+            "q": "What is the prime factorization of 12?",
             "options": [
-              "Because a cone has no circular base",
-              "Because surface area measures a two-dimensional covering over a three-dimensional shape",
-              "Because square units apply only to volume",
-              "Because cones have no measurable surface"
+              "2 x 6",
+              "1 x 12",
+              "3 x 4",
+              "2 x 2 x 3"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might an ice cream cone wrapper need to be shaped to match the cones lateral surface?",
+            "q": "What is an outlier?",
             "options": [
-              "Surface area has no connection to real-world wrapping",
-              "So the flat wrapper can fold to cover the curved surface without gaps or overlap",
-              "Wrappers never need to match the shape they cover",
-              "Cones do not have a lateral surface to wrap"
+              "The total of all values",
+              "The most common value",
+              "The middle value",
+              "A data value much higher or lower than the rest"
             ],
-            "answer": 1
+            "answer": 3
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Science",
@@ -35455,63 +35517,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Finding the Midpoint and Length of a Line Segment",
-        "summary": "Grade 6 Math strand: the midpoint of a line segment on a coordinate grid is the point exactly halfway between its two endpoints, and the length of a horizontal or vertical segment can be found by counting units or subtracting coordinates.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Fractions: Adding Fractions with Unlike Denominators",
+        "summary": "Grade 4 Math strand: to add fractions with unlike denominators, students find a common denominator, rewrite each fraction as an equivalent fraction, then add the numerators.",
+        "resourceLabel": "YouTube: Fractions: Adding Fractions with Unlike Denominators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Adding%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is the midpoint of a line segment?",
+            "q": "What must fractions have before they can be added directly?",
             "options": [
-              "Either one of the two endpoints",
-              "A point that is never on the segment itself",
-              "The point exactly halfway between the two endpoints",
-              "The point farthest from both endpoints"
+              "The same numerator",
+              "The same sign",
+              "Different denominators",
+              "A common denominator"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is the midpoint of a segment with endpoints at 2 and 8 on a number line?",
+            "q": "What is 1/2 + 1/4?",
             "options": [
-              "5",
-              "4",
-              "6",
-              "10"
+              "1/6",
+              "3/4",
+              "2/6",
+              "2/4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1/3 + 1/6?",
+            "options": [
+              "1/2",
+              "2/9",
+              "7/6",
+              "1/9"
             ],
             "answer": 0
           },
           {
-            "q": "How can you find the length of a horizontal segment on a coordinate grid?",
+            "q": "What is the first step in adding fractions with unlike denominators?",
             "options": [
-              "Add both y-coordinates together",
-              "Count only the y-coordinates",
-              "Multiply the two x-coordinates together",
-              "Subtract the smaller x-coordinate from the larger x-coordinate"
+              "Find a common denominator",
+              "Subtract the fractions",
+              "Add the denominators",
+              "Multiply the numerators"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What is the length of a horizontal segment from x equals 3 to x equals 9?",
+            "q": "Why cant we add fraction numerators directly when denominators differ?",
             "options": [
-              "3 units",
-              "12 units",
-              "6 units",
-              "9 units"
+              "Denominators do not matter",
+              "Numerators are always equal",
+              "Because the pieces are different sizes until denominators match",
+              "Fractions can never be added"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is finding a midpoint a useful skill in coordinate geometry?",
-            "options": [
-              "Midpoints can only be found using a ruler",
-              "Midpoints have no real use in mathematics",
-              "Midpoints are identical to endpoints",
-              "It helps locate the exact centre of a segment for tasks like bisecting or designing"
-            ],
-            "answer": 3
           }
         ],
-        "topic": "Analytic & Coordinate Geometry"
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -36193,58 +36255,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Calculating Expected Value",
-        "summary": "Grade 6 Math strand: expected value is the average outcome of a probability experiment if it were repeated many times, calculated by multiplying each possible outcome by its probability and adding the results together.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Data Management: Expressing Probability as a Percent",
+        "summary": "Grade 4 Math strand: probability can be expressed as a fraction, decimal, or percent, showing the likelihood of an event, such as a 1/2 chance being expressed as 50%.",
+        "resourceLabel": "YouTube: Data Management: Expressing Probability as a Percent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Expressing%20Probability%20as%20a%20Percent%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does expected value represent?",
+            "q": "Probability can be expressed as a fraction, decimal, or ___.",
             "options": [
-              "A value that has no connection to probability",
-              "The largest possible outcome in an experiment",
-              "The average outcome of an experiment if it were repeated many times",
-              "The single outcome that will always occur every time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How is expected value calculated?",
-            "options": [
-              "By adding all possible outcomes without using probability",
-              "By multiplying each outcome by its probability and adding the results",
-              "By choosing the most frequent outcome only",
-              "By dividing the number of outcomes by two"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If a game has a fifty percent chance of winning ten points and a fifty percent chance of winning zero points, what is the expected value?",
-            "options": [
-              "Twenty points",
-              "Zero points",
-              "Ten points",
-              "Five points"
+              "Whole number only",
+              "Negative number",
+              "Ratio only",
+              "Percent"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a business use expected value when making decisions?",
+            "q": "What percent represents a probability of 1/2?",
             "options": [
-              "Businesses never need to consider probability",
-              "Expected value has no use in real-world decision making",
-              "To estimate the average result of a decision involving uncertain outcomes",
-              "Expected value only applies to games with dice"
+              "25%",
+              "100%",
+              "50%",
+              "10%"
             ],
             "answer": 2
           },
           {
-            "q": "Why does expected value not need to match any single actual outcome?",
+            "q": "What percent represents a probability of 1/4?",
             "options": [
-              "It represents an average over many repeated trials, not one single result",
-              "Expected value must always match the very first outcome observed",
-              "Every trial of an experiment always produces the expected value exactly",
-              "Expected value is only calculated after an experiment ends"
+              "25%",
+              "100%",
+              "50%",
+              "75%"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an event is certain to happen, what is its probability as a percent?",
+            "options": [
+              "0%",
+              "50%",
+              "100%",
+              "25%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an event is impossible, what is its probability as a percent?",
+            "options": [
+              "0%",
+              "100%",
+              "25%",
+              "50%"
             ],
             "answer": 0
           }
@@ -37415,123 +37477,122 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data Management: Quartiles and Interquartile Range",
-        "summary": "Grade 6 Math strand: quartiles divide an ordered data set into four equal parts, and the interquartile range is the difference between the third quartile and the first quartile, describing the spread of the middle half of the data.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Financial Literacy: Calculating Discounts and Sale Prices",
+        "summary": "Grade 4 Math strand: a discount reduces the original price of an item by a percent, and the sale price is found by subtracting the discount amount from the original price.",
+        "resourceLabel": "YouTube: Financial Literacy: Calculating Discounts and Sale Prices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Discounts%20and%20Sale%20Prices%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What do quartiles do to an ordered data set?",
+            "q": "What does a discount do to the original price of an item?",
             "options": [
-              "Rearrange the data set randomly",
-              "Divide it into four equal parts",
-              "Remove the highest and lowest values",
-              "Divide it into two unequal parts"
+              "Reduces it",
+              "Keeps it the same",
+              "Doubles it",
+              "Increases it"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What is the interquartile range?",
+            "q": "If a $20 item has a 10% discount, how much is the discount?",
             "options": [
-              "The middle value of a data set",
-              "The average of all values in a data set",
-              "The difference between the third quartile and the first quartile",
-              "The difference between the highest and lowest values"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which part of a data set does the interquartile range describe?",
-            "options": [
-              "The spread of only the smallest values",
-              "The spread of only the largest values",
-              "It describes nothing about the data spread",
-              "The spread of the middle half of the data"
+              "$18",
+              "$10",
+              "$20",
+              "$2"
             ],
             "answer": 3
           },
           {
-            "q": "Why might the interquartile range be more useful than the full range for describing spread?",
+            "q": "If a $20 item has a 10% discount, what is the sale price?",
             "options": [
-              "It ignores the middle half of the data entirely",
-              "Outliers always make the interquartile range less accurate",
-              "It is less affected by extreme outlier values",
-              "It is always identical to the full range"
+              "$22",
+              "$10",
+              "$18",
+              "$2"
             ],
             "answer": 2
           },
           {
-            "q": "If the first quartile is 10 and the third quartile is 25, what is the interquartile range?",
+            "q": "To find the sale price, you should ___.",
             "options": [
-              "10",
-              "15",
-              "35",
-              "25"
+              "Multiply the original price by 100",
+              "Subtract the discount amount from the original price",
+              "Ignore the discount",
+              "Add the discount to the original price"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why might stores offer discounts?",
+            "options": [
+              "To make prices permanently higher",
+              "To confuse shoppers",
+              "To encourage customers to buy items",
+              "Discounts are never offered"
+            ],
+            "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Financial Literacy"
       },
       {
         "subject": "Science",
-        "title": "DNA — The Blueprint of Life",
-        "summary": "Grade 6 Science strand: DNA is a molecule found inside cells that carries the genetic instructions used for the growth, development, and functioning of living things, and is passed from parents to offspring.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Review: Ecosystems, Earth and Space, and Physical Science (Days 81-89)",
+        "summary": "Grade 4 Science strand review: students revisit food webs, comets and asteroids, weather fronts, air pollution, desert adaptations, chemical reactions, eclipses, invasive species, and generators.",
+        "resourceLabel": "YouTube: Review: Ecosystems, Earth and Space, and Physical Science (Days 81-89)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Earth%20and%20Space%2C%20and%20Physical%20Science%20%28Days%2081-89%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does DNA carry?",
+            "q": "Does a food web show a single path of energy, or many connected food chains?",
             "options": [
-              "A record of an organisms daily behaviour",
-              "Only information about an organisms diet",
-              "Genetic instructions for the growth and functioning of living things",
-              "Energy used directly for muscle movement"
+              "Many connected food chains",
+              "A single path only",
+              "No connections at all",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "A concept unrelated to space",
+              "Only solid rock",
+              "Ice and dust",
+              "Only metal"
             ],
             "answer": 2
           },
           {
-            "q": "Where in a cell is DNA typically found?",
+            "q": "What do we call the place where two different air masses meet?",
             "options": [
-              "Only in muscle tissue",
-              "Outside the cell entirely",
-              "Only in the bloodstream",
-              "Inside the nucleus"
+              "A front",
+              "A tide",
+              "A rock cycle",
+              "A concept unrelated to weather"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "How is DNA passed from one generation to the next?",
+            "q": "What happens during a solar eclipse?",
             "options": [
-              "DNA cannot be passed between generations",
-              "It is created new in every individual with no connection to parents",
-              "It is passed from parents to their offspring",
-              "It only exists in adult organisms"
+              "Nothing happens in the sky at all",
+              "Earth passes between the Sun and Moon",
+              "The Moon passes between the Sun and Earth",
+              "A concept unrelated to eclipses"
             ],
             "answer": 2
           },
           {
-            "q": "Why do siblings often share similar traits?",
+            "q": "What does a generator produce?",
             "options": [
-              "DNA has no connection to physical traits",
-              "They inherit similar genetic instructions from their shared parents",
-              "Siblings never share any genetic similarities",
-              "Traits are determined entirely by the environment, not DNA"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is DNA sometimes compared to a blueprint?",
-            "options": [
-              "A blueprint and DNA have no meaningful similarities",
-              "Blueprints and genetic material are identical substances",
-              "DNA only affects the outward appearance of an organism",
-              "It contains detailed instructions for building and operating a living organism"
+              "Sunlight",
+              "A concept unrelated to energy",
+              "Fresh water",
+              "Electricity"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Genetics & Heredity"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -37720,62 +37781,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Homeostasis — How the Body Maintains Balance",
-        "summary": "Grade 6 Science strand: homeostasis is the process by which the body maintains a stable internal environment, such as regulating temperature and fluid levels, even when outside conditions change.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Space: The Moon’s Effect on Earth — Tides",
+        "summary": "Grade 4 Science strand: the Moon’s gravity pulls on Earth’s oceans, causing tides, the regular rising and falling of sea levels along coastlines.",
+        "resourceLabel": "YouTube: Science: Space: The Moon’s Effect on Earth — Tides",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Space%3A%20The%20Moon%E2%80%99s%20Effect%20on%20Earth%20%E2%80%94%20Tides%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is homeostasis?",
+            "q": "What causes tides, the regular rising and falling of sea levels?",
             "options": [
-              "The process by which the body grows taller over time",
-              "A type of cell found only in the brain",
-              "The process by which the body maintains a stable internal environment",
-              "A disease that affects the immune system"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one example of something the body regulates through homeostasis?",
-            "options": [
-              "Shoe size",
-              "Eye colour",
-              "Body temperature",
-              "Hair colour"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What might the body do to cool down when it becomes too warm?",
-            "options": [
-              "Sweat to release heat through evaporation",
-              "Stop all bodily functions completely",
-              "Grow additional hair for insulation",
-              "Immediately raise its internal temperature further"
+              "The Moon’s gravity pulling on Earth’s oceans",
+              "A concept unrelated to tides",
+              "The Sun’s heat warming the oceans",
+              "Wind blowing across the ocean surface only"
             ],
             "answer": 0
           },
           {
-            "q": "Why is maintaining a stable internal environment important for the body?",
+            "q": "Do tides cause sea levels along coastlines to rise and fall?",
             "options": [
-              "Many bodily processes function properly only within a narrow range of conditions",
-              "Body temperature and fluid levels never need to be regulated",
-              "The bodys internal environment has no effect on its functioning",
-              "A stable internal environment is never necessary for survival"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a persons body need to adjust differently in a very cold environment compared to a very hot one?",
-            "options": [
-              "Cold and hot environments have no effect on the bodys internal balance",
-              "Homeostasis only applies to warm environments",
-              "The body responds identically no matter the outside temperature",
-              "Homeostasis requires different responses depending on the outside conditions the body faces"
+              "A concept unrelated to tides",
+              "Tides only affect rivers, never oceans",
+              "No, sea levels never change",
+              "Yes"
             ],
             "answer": 3
+          },
+          {
+            "q": "What force from the Moon is mainly responsible for tides?",
+            "options": [
+              "Gravity",
+              "Wind",
+              "A concept unrelated to tides",
+              "Sunlight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might coastal communities need to know the tide schedule?",
+            "options": [
+              "This concept has no relevance to science",
+              "Tide schedules never change and do not need tracking",
+              "Tides can affect boating, fishing, and beach safety",
+              "Tides have no connection to coastal communities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the Moon, despite being far away, have a noticeable effect on Earth’s oceans?",
+            "options": [
+              "The Moon has no gravitational pull at all",
+              "Distance always makes gravity completely disappear",
+              "Its gravitational pull is strong enough to move huge amounts of ocean water",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
           }
-        ]
+        ],
+        "topic": "Space & Astronomy"
       },
       {
         "subject": "SocialStudies",
@@ -38946,63 +39008,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Rust and Corrosion — A Chemical Reaction",
-        "summary": "Grade 6 Science strand: rust forms when iron reacts with oxygen and moisture in the air, producing iron oxide, a chemical reaction known as corrosion that gradually weakens metal over time.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Forces: Streamlining and Reducing Drag in Water",
+        "summary": "Grade 4 Science strand: streamlining is shaping an object to move smoothly through water with less resistance, called drag, which is why boats and fish often have narrow, smooth, pointed shapes.",
+        "resourceLabel": "YouTube: Science: Forces: Streamlining and Reducing Drag in Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Forces%3A%20Streamlining%20and%20Reducing%20Drag%20in%20Water%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What two substances react with iron to produce rust?",
+            "q": "What do we call the force that resists an object’s motion through water?",
             "options": [
-              "Oxygen and moisture",
-              "Carbon dioxide and sunlight",
-              "Salt and sand",
-              "Nitrogen and heat"
+              "A concept unrelated to forces",
+              "Magnetism",
+              "Gravity",
+              "Drag"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is the chemical name for rust?",
+            "q": "What do we call shaping an object to move smoothly through water with less resistance?",
             "options": [
-              "Iron oxide",
-              "Iron carbonate",
-              "Iron nitrate",
-              "Iron sulfide"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What term describes the gradual weakening of metal caused by reactions like rust formation?",
-            "options": [
-              "Condensation",
-              "Photosynthesis",
+              "Streamlining",
               "Evaporation",
-              "Corrosion"
+              "Erosion",
+              "A concept unrelated to forces"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why might painting a metal surface help prevent rust?",
+            "q": "Do fish often have narrow, smooth, pointed shapes to help them move through water?",
             "options": [
-              "Paint has no effect on preventing corrosion",
-              "Paint speeds up the process of rust formation",
-              "Paint creates a barrier that blocks oxygen and moisture from reaching the metal",
-              "Rust cannot form on metal under any circumstances"
+              "Fish are always shaped like perfect cubes",
+              "Yes",
+              "A concept unrelated to streamlining",
+              "No, fish shapes have no connection to moving through water"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is understanding corrosion important for engineers who design bridges and buildings?",
+            "q": "Why might boat designers shape a hull to be narrow and smooth?",
             "options": [
-              "Bridges and buildings are never made using metal materials",
-              "Corrosion never affects large metal structures",
-              "Engineers do not need to consider chemical reactions when designing structures",
-              "It helps them choose materials and protective coatings that reduce long-term structural damage"
+              "A wide, blocky shape always moves fastest through water",
+              "A streamlined shape reduces drag, helping the boat move faster and more efficiently",
+              "This concept has no relevance to science",
+              "Boat shape has no connection to how fast it can travel"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Why might a wide, flat object experience more drag moving through water than a narrow, pointed one?",
+            "options": [
+              "It pushes against more water at once, increasing resistance",
+              "This concept has no relevance to forces",
+              "Flat objects always move through water with no resistance at all",
+              "Shape never affects how much resistance an object experiences"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Forces & Motion"
       },
       {
         "subject": "SocialStudies",
@@ -41335,63 +41397,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Exponent Laws — Multiplying and Dividing Powers",
-        "summary": "Grade 6 Math strand: when multiplying powers with the same base, the exponents are added together, and when dividing powers with the same base, the exponents are subtracted.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Math Review: Fractions, Number Sense, and Data",
+        "summary": "Grade 4 Math strand review: students revisit adding fractions with unlike denominators, square numbers and square roots, divisibility rules, tessellations, and same-perimeter-different-area shapes.",
+        "resourceLabel": "YouTube: Math Review: Fractions, Number Sense, and Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Number%20Sense%2C%20and%20Data%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What rule applies when multiplying two powers with the same base?",
+            "q": "What must fractions have before they can be added directly?",
             "options": [
-              "The exponents are added together",
-              "The exponents are subtracted from each other",
-              "The exponents are multiplied together",
-              "The bases are added together"
+              "The same sign",
+              "Different denominators",
+              "A common denominator",
+              "The same numerator"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What rule applies when dividing two powers with the same base?",
+            "q": "What is a square number?",
             "options": [
-              "The exponents are subtracted",
-              "The exponents are added",
-              "The exponents are multiplied together",
-              "The bases are divided and the exponents stay the same"
+              "Any even number",
+              "A number multiplied by itself",
+              "A number added to itself",
+              "A number divided by itself"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What is the value of 2 to the power of 3 multiplied by 2 to the power of 2, expressed as a single power?",
+            "q": "A number is divisible by 3 if ___.",
             "options": [
-              "4 to the power of 5",
-              "2 to the power of 1",
-              "2 to the power of 6",
-              "2 to the power of 5"
+              "It ends in 0",
+              "It is a prime number",
+              "It ends in an even digit",
+              "The sum of its digits is divisible by 3"
             ],
             "answer": 3
           },
           {
-            "q": "What is the value of 5 to the power of 6 divided by 5 to the power of 2, expressed as a single power?",
+            "q": "What is a tessellation?",
             "options": [
-              "5 to the power of 4",
-              "5 to the power of 8",
-              "5 to the power of 12",
-              "5 to the power of 3"
+              "A single isolated shape",
+              "A 3D solid figure",
+              "A shape with curved sides only",
+              "A repeating pattern of shapes covering a surface with no gaps or overlaps"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why must the bases of two powers be the same before adding or subtracting their exponents?",
+            "q": "What does perimeter measure?",
             "options": [
-              "Exponents can always be combined even with completely different bases",
-              "Exponent rules apply equally well regardless of the base used",
-              "The bases of powers never need to match for these rules to work",
-              "The exponent rules for multiplying and dividing powers only apply when the bases match"
+              "The weight of a shape",
+              "The space inside a shape",
+              "The number of sides only",
+              "The distance around a shape"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Multiplication & Division"
+        ]
       },
       {
         "subject": "Science",
@@ -42370,60 +42431,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Osmosis and Diffusion in Cells",
-        "summary": "Grade 6 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, while osmosis is the diffusion of water specifically across a cells membrane.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Review: Structures, Matter, Energy, and Earth and Space Systems (Days 91-99)",
+        "summary": "Grade 4 Science strand review: students revisit shell/frame/solid structures, separating mixtures, potential and kinetic energy, precipitation, rocks and minerals, the wedge, tides, drag in water, and keystone species.",
+        "resourceLabel": "YouTube: Review: Structures, Matter, Energy, and Earth and Space Systems (Days 91-99)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Structures%2C%20Matter%2C%20Energy%2C%20and%20Earth%20and%20Space%20Systems%20%28Days%2091-99%29%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is diffusion?",
+            "q": "What do we call a structure with a strong outer covering and a hollow inside?",
             "options": [
-              "The movement of particles from low to high concentration only",
-              "The complete stopping of particle movement",
-              "A process that only happens outside of living cells",
-              "The movement of particles from an area of higher concentration to lower concentration"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is osmosis?",
-            "options": [
-              "The movement of light through a cell",
-              "The diffusion of water specifically across a cells membrane",
-              "A process that only occurs in gases",
-              "The diffusion of solid particles through a rock"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does diffusion happen naturally without added energy?",
-            "options": [
-              "Diffusion only occurs when a cell is not alive",
-              "Particles always require an external energy source to move at all",
-              "Particles move randomly toward areas of higher concentration only",
-              "Particles naturally move to spread out evenly from areas of high to low concentration"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is osmosis important for a living cells survival?",
-            "options": [
-              "A cells membrane blocks all movement of water at all times",
-              "Osmosis prevents any water from ever entering a cell",
-              "Cells never need water to survive",
-              "It allows water to move into and out of a cell to help maintain proper internal conditions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a plant wilt if it does not receive enough water?",
-            "options": [
-              "Without enough water entering its cells through osmosis, the cells lose the pressure that keeps the plant upright",
-              "Plants do not rely on water movement through their cells at all",
-              "Wilting has no connection to water movement inside plant cells",
-              "Osmosis only affects animal cells, never plant cells"
+              "A shell structure",
+              "A frame structure",
+              "A concept unrelated to structures",
+              "A solid structure"
             ],
             "answer": 0
+          },
+          {
+            "q": "What do we call stored energy an object has because of its position?",
+            "options": [
+              "A concept unrelated to energy",
+              "Kinetic energy",
+              "Potential energy",
+              "Sound energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one everyday product made using a mineral, such as pencils made with graphite.",
+            "options": [
+              "Pencils made with graphite",
+              "Bread made with flour",
+              "Clothing made only from cotton",
+              "A concept unrelated to rocks and minerals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes tides, the regular rising and falling of sea levels?",
+            "options": [
+              "Wind blowing across the ocean surface only",
+              "The Sun’s heat warming the oceans",
+              "The Moon’s gravity pulling on Earth’s oceans",
+              "A concept unrelated to tides"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a species that has a very large effect on its ecosystem compared to its numbers?",
+            "options": [
+              "An invasive species",
+              "A concept unrelated to ecosystems",
+              "A domesticated species",
+              "A keystone species"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -42615,63 +42676,86 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Cellular Respiration — How Cells Release Energy",
-        "summary": "Grade 6 Science strand: cellular respiration is the process by which cells break down glucose using oxygen to release energy, producing carbon dioxide and water as byproducts.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Simple Circuits: How a Light Bulb Turns On",
+        "summary": "Students learn that a simple circuit needs a battery, a wire, and a light bulb connected in a loop for electricity to flow and make the bulb light up.",
+        "resourceLabel": "YouTube: Simple Circuits: How a Light Bulb Turns On",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Circuits%3A%20How%20a%20Light%20Bulb%20Turns%20On%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does cellular respiration break down to release energy?",
+            "q": "What is needed to make a simple circuit light up a bulb?",
             "options": [
-              "Oxygen only",
-              "Water only",
-              "Glucose",
-              "Carbon dioxide only"
+              "Nothing at all",
+              "Only water",
+              "A battery, a wire, and a light bulb connected in a loop",
+              "Only a light bulb by itself"
             ],
             "answer": 2
           },
           {
-            "q": "What gas do cells use during cellular respiration?",
+            "q": "What happens when a circuit is broken, or not connected in a full loop?",
             "options": [
-              "Helium",
-              "Hydrogen",
-              "Nitrogen",
-              "Oxygen"
+              "The light bulb always stays lit",
+              "The battery disappears",
+              "The light bulb does not light up",
+              "Nothing changes at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What provides the electricity in a simple circuit like this?",
+            "options": [
+              "The battery",
+              "The air around it",
+              "The light bulb",
+              "The wire alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the wire, battery, and bulb be connected in a complete loop?",
+            "options": [
+              "A complete loop has no effect on whether the bulb lights up",
+              "Electricity can flow even without a complete loop",
+              "Electricity needs an unbroken path to flow all the way around and light the bulb",
+              "The bulb lights up only when the loop is broken"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is learning about simple circuits useful for understanding everyday electronics?",
+            "options": [
+              "Electronics never use anything like a circuit",
+              "This concept only applies to one single light bulb",
+              "Circuits have no connection to everyday electronics",
+              "Many devices use circuits made of a power source, wires, and a part like a bulb"
             ],
             "answer": 3
-          },
-          {
-            "q": "What are the two main byproducts produced by cellular respiration?",
-            "options": [
-              "Salt and sugar",
-              "Oxygen and glucose",
-              "Carbon dioxide and water",
-              "Nitrogen and hydrogen"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why do living organisms need cellular respiration to survive?",
-            "options": [
-              "It provides the energy cells need to carry out their basic functions",
-              "Cells can function normally without any source of energy",
-              "Living organisms never need energy from their cells",
-              "Cellular respiration removes all energy from a cell"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might cellular respiration be thought of as roughly the opposite process to photosynthesis?",
-            "options": [
-              "Cellular respiration uses oxygen and glucose to release energy while producing carbon dioxide and water, while photosynthesis uses carbon dioxide and water to store energy while producing oxygen and glucose",
-              "Photosynthesis only occurs in animal cells, never in plants",
-              "Cellular respiration and photosynthesis are identical processes with no differences",
-              "Cellular respiration produces glucose instead of breaking it down"
-            ],
-            "answer": 0
           }
         ],
-        "topic": "Energy"
+        "worksheet": [
+          {
+            "prompt": "Name one part needed to make a simple circuit, like a battery.",
+            "answers": [
+              "battery",
+              "wire",
+              "light bulb"
+            ]
+          },
+          {
+            "prompt": "Does electricity need to flow in a complete loop to light a bulb?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What happens to a light bulb when a circuit is complete?",
+            "answers": [
+              "it lights up",
+              "it turns on"
+            ]
+          }
+        ],
+        "topic": "Electricity & Magnetism"
       },
       {
         "subject": "SocialStudies",
@@ -42861,63 +42945,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: The Doppler Effect and Changes in Sound",
-        "summary": "Grade 6 Science strand: the Doppler effect is the change in pitch heard when a sound source moves toward or away from a listener, such as a siren sounding higher as it approaches and lower as it moves away.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Science: Ocean and Coastal Ecosystems",
+        "summary": "Grade 4 Science strand: ocean and coastal ecosystems include tide pools, coral reefs, and open water habitats that support a wide variety of plants and animals adapted to salty water.",
+        "resourceLabel": "YouTube: Science: Ocean and Coastal Ecosystems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Ocean%20and%20Coastal%20Ecosystems%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What is the Doppler effect?",
+            "q": "What do we call a shoreline habitat that fills and empties with the rise and fall of tides?",
             "options": [
-              "A change in the volume of a sound with no connection to motion",
-              "A change in the colour of light only",
-              "The change in pitch heard when a sound source moves toward or away from a listener",
-              "The complete disappearance of sound over long distances"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to a sirens pitch as it approaches a listener?",
-            "options": [
-              "It sounds higher",
-              "It sounds lower",
-              "It disappears completely",
-              "It stays exactly the same"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What happens to a sirens pitch as it moves away from a listener?",
-            "options": [
-              "It sounds lower",
-              "It becomes silent instantly",
-              "It stays exactly the same",
-              "It sounds higher"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does the pitch of a moving sound source change for a listener?",
-            "options": [
-              "Sound waves never change based on the motion of their source",
-              "Pitch is determined only by the volume of a sound",
-              "The listener always hears the exact same pitch regardless of motion",
-              "The motion compresses or stretches the sound waves reaching the listener, changing their frequency"
+              "A concept unrelated to ecosystems",
+              "A desert",
+              "A tundra",
+              "A tide pool"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Doppler effect useful for technologies such as weather radar or measuring the speed of vehicles?",
+            "q": "What colourful underwater ecosystem is built by tiny ocean animals?",
             "options": [
-              "The speed of a moving object cannot be measured using wave frequency",
-              "The Doppler effect has no practical application in technology",
-              "Measuring the shift in frequency of reflected waves can reveal information about motion and speed",
-              "Weather radar never relies on any properties of sound or waves"
+              "A concept unrelated to ecosystems",
+              "A prairie",
+              "A coral reef",
+              "A rainforest canopy"
             ],
             "answer": 2
+          },
+          {
+            "q": "Are ocean organisms usually adapted to survive in salty water?",
+            "options": [
+              "Only freshwater organisms live in oceans",
+              "A concept unrelated to ecosystems",
+              "No, ocean organisms cannot survive in salt water",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a tide pool be considered a challenging habitat for the organisms living there?",
+            "options": [
+              "Tide pool conditions never change at all",
+              "Tide pools are always exactly the same as the open ocean",
+              "Conditions like water level and temperature change constantly as tides rise and fall",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an ocean or coastal ecosystem?",
+            "options": [
+              "A desert dune",
+              "A mountain forest",
+              "A concept unrelated to ecosystems",
+              "A coral reef"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Ecosystems & Environment"
       },
       {
         "subject": "SocialStudies",
@@ -43839,62 +43923,87 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: How Refrigerators and Heat Pumps Move Heat",
-        "summary": "Grade 6 Science strand: a refrigerator uses a cycle of compressing and expanding a special fluid to absorb heat from inside its compartment and release that heat outside, a process similar to how a heat pump can warm or cool a building.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "Our Eyes: How We See Colours and Shapes",
+        "summary": "Grade 1 Science strand: eyes are the body part we use to see colours, shapes, and light around us, and they send messages to our brain.",
+        "resourceLabel": "YouTube: Our Eyes: How We See Colours and Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Eyes%3A%20How%20We%20See%20Colours%20and%20Shapes%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does a refrigerator remove from the inside of its compartment?",
+            "q": "What body part helps us see?",
             "options": [
-              "Heat",
-              "Light",
-              "Cold air only",
-              "Sound"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of substance does a refrigerator use to absorb and release heat?",
-            "options": [
-              "A special fluid called a refrigerant",
-              "Only ordinary tap water",
-              "Compressed air with no fluid involved",
-              "Solid ice blocks only"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a heat pump able to do for a building?",
-            "options": [
-              "Create heat without moving it from anywhere",
-              "Only ever warm a building, never cool it",
-              "Warm or cool it by moving heat rather than generating it directly",
-              "Only ever cool a building, never warm it"
+              "Ears",
+              "Skin",
+              "Eyes",
+              "Nose"
             ],
             "answer": 2
           },
           {
-            "q": "Why does a refrigerator feel warm on the outside, such as near its back panel, while the inside stays cold?",
+            "q": "Our eyes send messages to the ___.",
             "options": [
-              "Heat removed from inside the refrigerator is released into the surrounding air outside",
-              "Heat is created inside the refrigerator rather than removed from it",
-              "The inside and outside of a refrigerator are never at different temperatures",
-              "Refrigerators never produce any heat on their exterior surfaces"
+              "Lungs",
+              "Stomach",
+              "Brain",
+              "Heart"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these can our eyes help us notice?",
+            "options": [
+              "Soft textures",
+              "Loud sounds",
+              "Sweet tastes",
+              "Colours and shapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we need to be able to see things?",
+            "options": [
+              "Light",
+              "Cold air",
+              "Darkness only",
+              "Silence"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a heat pump be considered a more energy-efficient way to heat a building compared to some other heating methods?",
+            "q": "Which sense organ is used for seeing?",
             "options": [
-              "Moving existing heat from one place to another can require less energy than generating new heat directly",
-              "Moving heat from place to place has no effect on energy efficiency",
-              "Generating new heat directly always uses less energy than moving existing heat",
-              "Heat pumps always use more energy than any other heating method"
+              "Tongue",
+              "Ears",
+              "Skin",
+              "Eyes"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to see?",
+            "answers": [
+              "eyes",
+              "our eyes"
+            ]
+          },
+          {
+            "prompt": "What do our eyes send messages to?",
+            "answers": [
+              "the brain",
+              "our brain"
+            ]
+          },
+          {
+            "prompt": "Name one thing our eyes help us see.",
+            "answers": [
+              "colours",
+              "shapes",
+              "light"
+            ]
+          }
+        ],
+        "topic": "Human Body (Basic)"
       },
       {
         "subject": "SocialStudies",
@@ -44450,63 +44559,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Grammar: The Subjunctive Mood and Its Uses",
-        "summary": "Grade 6 Language strand: the subjunctive mood expresses a wish, suggestion, or a condition that is not currently true, often appearing in clauses such as if I were you or the teacher suggested that he arrive early.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "title": "Grammar: Active and Passive Voice",
+        "summary": "Grade 4 Language strand: in the active voice, the subject performs the action, such as The dog chased the ball, while in the passive voice, the subject receives the action, such as The ball was chased by the dog.",
+        "resourceLabel": "YouTube: Grammar: Active and Passive Voice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Active%20and%20Passive%20Voice%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does the subjunctive mood typically express?",
+            "q": "In the active voice, does the subject perform the action or receive it?",
             "options": [
-              "A command given to a group",
-              "A wish, suggestion, or a condition that is not currently true",
-              "A question about the past",
-              "A simple statement of fact"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which sentence uses the subjunctive mood correctly?",
-            "options": [
-              "If I was taller, I would join the team.",
-              "If I will be taller, I would join the team.",
-              "If I am taller, I would join the team.",
-              "If I were taller, I would join the team."
+              "A concept unrelated to grammar",
+              "Neither perform nor receive it",
+              "Receive it",
+              "Perform it"
             ],
             "answer": 3
           },
           {
-            "q": "Which word in the sentence The coach suggested that she practice every day signals the subjunctive mood?",
+            "q": "In the passive voice, does the subject perform the action or receive it?",
             "options": [
-              "Practice, the base form used instead of practices",
-              "Coach",
-              "Every day",
-              "Suggested"
+              "Receive it",
+              "Perform it",
+              "Neither perform nor receive it",
+              "A concept unrelated to grammar"
             ],
             "answer": 0
           },
           {
-            "q": "Why does English use were instead of was in subjunctive statements like If I were you?",
+            "q": "Which sentence is written in the active voice?",
             "options": [
-              "Were is only used when talking about more than one person",
-              "The special verb form signals that the statement describes a hypothetical or unreal situation",
-              "Was is grammatically incorrect in every sentence",
-              "The subjunctive mood has no connection to hypothetical situations"
+              "A concept unrelated to grammar",
+              "The ball chased itself.",
+              "The ball was chased by the dog.",
+              "The dog chased the ball."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "A concept unrelated to grammar",
+              "The ball was chased by the dog.",
+              "The dog is fast.",
+              "The dog chased the ball."
             ],
             "answer": 1
           },
           {
-            "q": "Why might a writer choose subjunctive phrasing such as I wish I were rather than a simple statement?",
+            "q": "Why might a writer choose the active voice over the passive voice?",
             "options": [
-              "The subjunctive mood cannot be used to express wishes",
-              "Simple statements always convey hypothetical ideas more clearly than the subjunctive",
-              "Subjunctive phrasing always makes a sentence factually true",
-              "It clearly signals that the wish describes something not currently true, adding precision to the sentences meaning"
+              "This concept has no connection to writing style",
+              "Active voice often sounds clearer and more direct",
+              "Passive voice always sounds clearer than active voice",
+              "The active voice is never used by writers"
             ],
-            "answer": 3
+            "answer": 1
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Grammar"
       },
       {
         "subject": "Math",
@@ -44754,63 +44863,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Algebra: Solving Systems of Two Linear Equations by Graphing",
-        "summary": "Grade 6 Math strand: a system of two linear equations can be solved by graphing both lines on the same coordinate plane and identifying the point where they intersect, which represents the solution that satisfies both equations.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Fractions: Subtracting Fractions with Unlike Denominators",
+        "summary": "Grade 4 Math strand: to subtract fractions with unlike denominators, students find a common denominator, rewrite each fraction as an equivalent fraction, then subtract the numerators.",
+        "resourceLabel": "YouTube: Fractions: Subtracting Fractions with Unlike Denominators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Subtracting%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does the point of intersection of two graphed lines represent in a system of equations?",
+            "q": "What must fractions have before they can be subtracted directly?",
             "options": [
-              "The starting point of the first line only",
-              "The steepest point on either line",
-              "A point that satisfies neither equation",
-              "The solution that satisfies both equations"
+              "A common denominator",
+              "Different denominators",
+              "The same numerator",
+              "A common numerator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1/2 - 1/4?",
+            "options": [
+              "3/4",
+              "0",
+              "1/2",
+              "1/4"
             ],
             "answer": 3
           },
           {
-            "q": "How many solutions does a system of two linear equations typically have if the lines intersect at exactly one point?",
+            "q": "What is 2/3 - 1/6?",
             "options": [
-              "One solution",
-              "No solution",
-              "Infinite solutions",
-              "Two solutions"
+              "5/6",
+              "1/3",
+              "1/2",
+              "1/6"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What does it mean if two lines in a system never intersect?",
+            "q": "What is the first step in subtracting fractions with unlike denominators?",
             "options": [
-              "The system has no solution",
-              "The system has infinite solutions",
-              "The lines are the same line",
-              "The system has exactly one solution"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does graphing provide a visual way to solve a system of two linear equations?",
-            "options": [
-              "The intersection point can be seen directly on the graph, showing the values that make both equations true at the same time",
-              "A graph can only display a single equation at once",
-              "Graphing never shows where two equations share a common solution",
-              "Intersection points on a graph have no connection to solving equations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might graphing be less precise than other methods for solving a system of equations with a solution that includes fractions?",
-            "options": [
-              "Graphing always gives a more precise answer than any other method",
-              "Fractional solutions can never be estimated using a graph",
-              "Graphing and algebraic methods always produce identical levels of precision",
-              "Reading exact fractional coordinates from a hand-drawn graph can be difficult, making the graphical method better suited for estimating or checking a solution"
+              "Add the fractions",
+              "Multiply the numerators",
+              "Subtract the denominators",
+              "Find a common denominator"
             ],
             "answer": 3
+          },
+          {
+            "q": "Why cant we subtract fraction numerators directly when denominators differ?",
+            "options": [
+              "Subtraction is impossible with fractions",
+              "Because the pieces are different sizes until denominators match",
+              "Denominators do not matter",
+              "Numerators are always equal"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -45000,122 +45109,146 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data Management: Calculating Percentiles in a Data Set",
-        "summary": "Grade 6 Math strand: a percentile indicates the percentage of values in a data set that fall below a particular value, helping compare an individual score to the rest of a group.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Geometry: Surface Area of Rectangular Prisms",
+        "summary": "Grade 4 Math strand: the surface area of a rectangular prism is the total area of all six of its faces, found by calculating the area of each face and adding them together.",
+        "resourceLabel": "YouTube: Geometry: Surface Area of Rectangular Prisms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Surface%20Area%20of%20Rectangular%20Prisms%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does a percentile indicate about a value in a data set?",
+            "q": "What is surface area?",
             "options": [
-              "The exact average of the entire data set",
-              "The percentage of values in the data set that fall below it",
-              "The total number of values in the data set",
-              "The largest value found anywhere in the data set"
+              "The space inside a shape",
+              "The total area of all the faces of a 3D shape",
+              "The distance around a shape",
+              "The height of a shape only"
             ],
             "answer": 1
           },
           {
-            "q": "If a students test score is at the 80th percentile, what does that mean?",
+            "q": "How many faces does a rectangular prism have?",
             "options": [
-              "The student scored in the bottom 20 percent",
-              "The student answered exactly 80 percent of questions correctly",
-              "About 80 percent of scores in the data set are below that students score",
-              "80 students took the test"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What percentile represents the median of a data set?",
-            "options": [
-              "The 50th percentile",
-              "The 25th percentile",
-              "The 100th percentile",
-              "The 0th percentile"
+              "Six",
+              "Three",
+              "Four",
+              "Eight"
             ],
             "answer": 0
           },
           {
-            "q": "Why are percentiles useful for comparing an individual result to a larger group?",
+            "q": "To find the surface area of a rectangular prism, you should ___.",
             "options": [
-              "Percentiles cannot be used to compare individual results at all",
-              "Percentiles always hide how an individual compares to a group",
-              "They show relative standing within the group rather than just a raw score, making comparisons easier to interpret",
-              "Raw scores always provide more useful comparisons than percentiles"
+              "Add only two of the faces",
+              "Find the area of each face and add them together",
+              "Ignore the top and bottom faces",
+              "Multiply only the length and width once"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might two data sets with different total numbers of values still be compared fairly using percentiles?",
+            "q": "Why might builders need to know the surface area of a box?",
             "options": [
-              "Percentiles always require identical sample sizes to be meaningful",
-              "Data sets of different sizes can never be compared in any way",
-              "Percentiles can only be calculated when two data sets have the exact same number of values",
-              "Percentiles are based on relative position within each data set, so they allow meaningful comparisons regardless of how many values each set contains"
+              "To find out how heavy the box is",
+              "To know how much material is needed to cover its outside",
+              "To find how loud the box is",
+              "Surface area has no real use"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "If a cube has six identical square faces each with an area of 4 square units, what is its total surface area?",
+            "options": [
+              "16 square units",
+              "24 square units",
+              "4 square units",
+              "20 square units"
+            ],
+            "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "2D/3D Geometry & Shapes"
       },
       {
         "subject": "Science",
-        "title": "Science: The Maillard Reaction — The Chemistry of Browning Food",
-        "summary": "Grade 6 Science strand: the Maillard reaction is a chemical reaction between amino acids and sugars that occurs when food is heated, producing the browned colour and rich flavour found in foods such as toasted bread and seared meat.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "title": "The Digestive System: Where Food Goes",
+        "summary": "Grade 1 Science strand: after we eat, food travels through our body from the mouth to the stomach, where our body breaks it down for energy.",
+        "resourceLabel": "YouTube: The Digestive System: Where Food Goes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Digestive%20System%3A%20Where%20Food%20Goes%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What two substances react with each other during the Maillard reaction?",
+            "q": "Where does food first enter the digestive system?",
             "options": [
-              "Oil and vinegar",
-              "Water and salt",
-              "Oxygen and carbon dioxide",
-              "Amino acids and sugars"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What condition is needed for the Maillard reaction to occur in food?",
-            "options": [
-              "The food must be heated",
-              "The food must be frozen",
-              "The food must be left in complete darkness",
-              "The food must be soaked in water"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What visible change does the Maillard reaction typically produce in food?",
-            "options": [
-              "No visible change at all",
-              "A transparent appearance",
-              "A browned colour",
-              "A bright blue colour"
+              "The heart",
+              "The lungs",
+              "The mouth",
+              "The stomach"
             ],
             "answer": 2
           },
           {
-            "q": "Why does toasted bread taste and look different from untoasted bread?",
+            "q": "After the mouth, food travels down a tube toward the ___.",
             "options": [
-              "Toasting bread removes all of its flavour compounds",
-              "Heating triggers the Maillard reaction, producing new flavour compounds and a browned colour that are not present in the unheated bread",
-              "The Maillard reaction only occurs in liquids, never in bread",
-              "Heat has no effect on the flavour or colour of bread"
+              "Ears",
+              "Stomach",
+              "Skin",
+              "Brain"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a cook sear meat at a high temperature before finishing it in a lower-temperature oven?",
+            "q": "Why does the body digest food?",
             "options": [
-              "The high heat triggers the Maillard reaction on the surface, developing a browned crust and rich flavour that a lower temperature alone would not produce",
-              "Searing meat always removes its flavour entirely",
-              "High heat prevents any chemical reactions from occurring in food",
-              "The Maillard reaction only happens at very low temperatures"
+              "To get energy from it",
+              "For no reason",
+              "To make it heavier",
+              "To make it disappear"
             ],
             "answer": 0
+          },
+          {
+            "q": "The stomach helps to ___ food.",
+            "options": [
+              "Colour",
+              "Freeze",
+              "Break down",
+              "Ignore"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body system is used to process the food we eat?",
+            "options": [
+              "The nervous system",
+              "The digestive system",
+              "The respiratory system",
+              "The skeletal system"
+            ],
+            "answer": 1
           }
-        ]
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where does food first enter your body?",
+            "answers": [
+              "your mouth",
+              "the mouth"
+            ]
+          },
+          {
+            "prompt": "What body part helps break down food after the mouth?",
+            "answers": [
+              "stomach",
+              "the stomach"
+            ]
+          },
+          {
+            "prompt": "Why does our body break down food?",
+            "answers": [
+              "for energy",
+              "to get energy"
+            ]
+          }
+        ],
+        "topic": "Human Body Systems"
       },
       {
         "subject": "SocialStudies",
@@ -45245,63 +45378,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Conditional Probability and Real-World Applications",
-        "summary": "Grade 6 Math strand: conditional probability is the likelihood of an event occurring given that another event has already happened, and it is often used to make more accurate predictions when extra information is available.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Data Management: Range as a Measure of Spread",
+        "summary": "Grade 4 Math strand: the range of a data set is found by subtracting the smallest value from the largest value, showing how spread out the data is.",
+        "resourceLabel": "YouTube: Data Management: Range as a Measure of Spread",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Range%20as%20a%20Measure%20of%20Spread%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does conditional probability measure?",
+            "q": "What is the range of a data set?",
             "options": [
-              "The likelihood of an event that has no connection to any other event",
-              "The likelihood of an event occurring given that another event has already happened",
-              "The total number of outcomes in a sample space",
-              "The average of all possible outcomes"
+              "The middle value",
+              "The average of all values",
+              "The difference between the largest and smallest values",
+              "The most common value"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "If it is known that a card drawn from a deck is a face card, how does this information affect the probability of it being a king?",
+            "q": "What is the range of this data set: 4, 7, 9, 12, 15?",
             "options": [
-              "It changes the probability, since only face cards are now being considered",
-              "It has no effect on the probability at all",
-              "It always makes the probability equal to one",
-              "It always makes the probability equal to zero"
+              "9",
+              "15",
+              "11",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do you calculate the range?",
+            "options": [
+              "Subtract the smallest value from the largest value",
+              "Add all the values together",
+              "Multiply the largest and smallest values",
+              "Count the number of values"
             ],
             "answer": 0
           },
           {
-            "q": "What is one everyday example where conditional probability could be used?",
+            "q": "What does a large range suggest about a data set?",
             "options": [
-              "Counting the total number of days in a year",
-              "Estimating the chance of rain given that it is already cloudy",
-              "Calculating the area of a rectangle",
-              "Measuring the length of a table"
+              "The data values are spread far apart",
+              "The data set has no largest value",
+              "All the data values are identical",
+              "The data set has no smallest value"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why does having extra information often change a probability calculation?",
+            "q": "What does a small range suggest about a data set?",
             "options": [
-              "Probability calculations always ignore any new information provided",
-              "Extra information always makes a probability calculation less accurate",
-              "Extra information can narrow down the possible outcomes being considered, making the estimate more specific and accurate",
-              "Additional information never changes the outcomes being considered"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might conditional probability be useful in fields such as medicine, such as interpreting the result of a medical test?",
-            "options": [
-              "Medical test results have no connection to probability of any kind",
-              "Conditional probability cannot be applied to any real-world situation",
-              "It helps estimate the likelihood of a condition being present given a specific test result, providing more meaningful information than considering the test result alone",
-              "Test results always provide complete certainty with no need for probability"
+              "The data cannot be measured",
+              "The data values are spread very far apart",
+              "The data values are close together",
+              "There is no data at all"
             ],
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Statistics & Data"
       },
       {
         "subject": "Science",
@@ -45490,60 +45623,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Exterior Angles of Polygons",
-        "summary": "Grade 6 Math strand: an exterior angle of a polygon is formed by extending one side of the polygon, and the sum of the exterior angles of any convex polygon, one at each vertex, always equals 360 degrees.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Geometry: Area of Triangles Using a Formula",
+        "summary": "Grade 4 Math strand: the area of a triangle is found using the formula base multiplied by height, divided by two, since a triangle is half of a parallelogram with the same base and height.",
+        "resourceLabel": "YouTube: Geometry: Area of Triangles Using a Formula",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Area%20of%20Triangles%20Using%20a%20Formula%20grade%206%20educational",
         "quiz": [
           {
-            "q": "How is an exterior angle of a polygon formed?",
+            "q": "What is the formula for finding the area of a triangle?",
             "options": [
-              "By connecting two opposite vertices",
-              "By measuring the area of the polygon",
-              "By extending one side of the polygon",
-              "By drawing a line through the center of the polygon"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the sum of the exterior angles of any convex polygon, taking one at each vertex?",
-            "options": [
-              "720 degrees",
-              "90 degrees",
-              "180 degrees",
-              "360 degrees"
+              "Base multiplied by height multiplied by two",
+              "Base plus height",
+              "Base multiplied by height",
+              "Base multiplied by height, divided by two"
             ],
             "answer": 3
           },
           {
-            "q": "What is the measure of each exterior angle of a regular hexagon?",
+            "q": "What is the area of a triangle with a base of 6 and a height of 4?",
             "options": [
-              "45 degrees",
-              "60 degrees",
-              "90 degrees",
-              "120 degrees"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does the sum of the exterior angles remain 360 degrees regardless of how many sides a convex polygon has?",
-            "options": [
-              "A polygon with more sides always has a larger total of exterior angles",
-              "Walking around the entire shape and returning to the starting point and direction always requires turning through a full 360-degree rotation",
-              "Exterior angles of a polygon never add up to a consistent total",
-              "The number of sides always changes the total turning angle needed"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is knowing that exterior angles sum to 360 degrees useful for finding the exterior angle of a regular polygon with many sides?",
-            "options": [
-              "Exterior angles of a regular polygon can never be calculated using this total",
-              "The number of sides has no connection to the size of each exterior angle",
-              "Dividing 360 degrees by the number of sides only works for irregular polygons",
-              "It allows the measure of each equal exterior angle to be found quickly by dividing 360 degrees by the number of sides"
+              "24",
+              "10",
+              "20",
+              "12"
             ],
             "answer": 3
+          },
+          {
+            "q": "What is the area of a triangle with a base of 10 and a height of 5?",
+            "options": [
+              "25",
+              "50",
+              "45",
+              "15"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the area of a triangle half of base times height?",
+            "options": [
+              "A triangle is half of a parallelogram with the same base and height",
+              "A triangle always has zero area",
+              "Area formulas are chosen randomly",
+              "Triangles have no relationship to parallelograms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which measurement is needed along with the base to find a triangles area?",
+            "options": [
+              "The height",
+              "The perimeter",
+              "The number of sides",
+              "The colour"
+            ],
+            "answer": 0
           }
         ],
         "topic": "2D/3D Geometry & Shapes"
@@ -45734,63 +45867,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Multiplying and Dividing Numbers in Scientific Notation",
-        "summary": "Grade 6 Math strand: numbers in scientific notation are multiplied or divided by first multiplying or dividing the decimal parts and then adding or subtracting the exponents on the powers of ten.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Number Sense: Comparing Fractions Decimals and Percents",
+        "summary": "Grade 4 Math strand: fractions, decimals, and percents are different ways of representing the same value, and converting between them helps students compare and order numbers.",
+        "resourceLabel": "YouTube: Number Sense: Comparing Fractions Decimals and Percents",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Comparing%20Fractions%20Decimals%20and%20Percents%20grade%206%20educational",
         "quiz": [
           {
-            "q": "When multiplying two numbers in scientific notation, what happens to the exponents on the powers of ten?",
+            "q": "What do fractions, decimals, and percents all represent?",
             "options": [
-              "They stay exactly the same",
-              "They are multiplied together",
-              "They are subtracted",
-              "They are added together"
+              "Only negative numbers",
+              "Completely unrelated concepts",
+              "Only whole numbers",
+              "Different ways of showing the same value"
             ],
             "answer": 3
           },
           {
-            "q": "What is 2 times 10 to the power of 3, multiplied by 3 times 10 to the power of 2, in scientific notation?",
+            "q": "What is 1/2 written as a decimal?",
             "options": [
-              "5 x 10 to the power of 5",
-              "6 x 10 to the power of 6",
-              "6 x 10 to the power of 1",
-              "6 x 10 to the power of 5"
+              "0.5",
+              "0.2",
+              "1.5",
+              "0.25"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "When dividing two numbers in scientific notation, what happens to the exponents on the powers of ten?",
+            "q": "What is 0.5 written as a percent?",
             "options": [
-              "They stay exactly the same",
-              "They are subtracted",
-              "They are added together",
-              "They are multiplied together"
+              "0.5%",
+              "500%",
+              "50%",
+              "5%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is greater, 1/4 or 0.4?",
+            "options": [
+              "1/4",
+              "0.4",
+              "They are equal",
+              "They cannot be compared"
             ],
             "answer": 1
           },
           {
-            "q": "Why does multiplying numbers in scientific notation involve adding the exponents rather than multiplying them?",
+            "q": "Why is it useful to convert between fractions, decimals, and percents?",
             "options": [
-              "Exponents on powers of ten are never affected by multiplication",
-              "Adding exponents always produces an incorrect result when multiplying",
-              "Multiplying numbers in scientific notation always requires subtracting the exponents instead",
-              "Multiplying powers of ten with the same base combines the total number of factors of ten, which corresponds to adding their exponents"
+              "Fractions and decimals can never be compared",
+              "It makes it easier to compare and order different values",
+              "Conversion is never useful in math",
+              "Percents cannot represent fractions"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why is scientific notation especially useful when multiplying or dividing very large or very small numbers?",
-            "options": [
-              "It keeps the calculation manageable by separating the decimal part from the power of ten, avoiding long strings of zeros",
-              "Very large or very small numbers can never be expressed in scientific notation",
-              "Scientific notation removes the need to track any exponents at all",
-              "Scientific notation always makes calculations more difficult to manage"
-            ],
-            "answer": 0
+            "answer": 1
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Fractions"
       },
       {
         "subject": "Science",
@@ -45977,60 +46110,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: The Final Chapter — Number Systems, Geometry, and Probability",
-        "summary": "Grade 6 Math strand review: as the capstone lesson completing the full 187-day Grade 6 curriculum, students revisit modular arithmetic, solving systems of equations by graphing, percentiles, conditional probability, and exterior angles of polygons.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "title": "Math Review: Circles, Fractions, and Time",
+        "summary": "Grade 4 Math strand review: students revisit dividing by 10, 100, and 1,000, the circumference of a circle, simplifying fractions, converting units of time, and scatter plots.",
+        "resourceLabel": "YouTube: Math Review: Circles, Fractions, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Circles%2C%20Fractions%2C%20and%20Time%20grade%206%20educational",
         "quiz": [
           {
-            "q": "What does modular arithmetic calculate?",
+            "q": "What happens to a number when it is divided by 10?",
             "options": [
-              "The square root of a number",
-              "The average of a list of numbers",
-              "The sum of two numbers",
-              "The remainder after dividing one number by another"
+              "The number is multiplied by 10",
+              "The decimal point moves one place to the right",
+              "The number stays exactly the same",
+              "The decimal point moves one place to the left"
             ],
             "answer": 3
           },
           {
-            "q": "What does the point of intersection of two graphed lines represent in a system of equations?",
+            "q": "What is the circumference of a circle?",
             "options": [
-              "The steepest point on either line",
-              "The starting point of the first line only",
-              "The solution that satisfies both equations",
-              "A point that satisfies neither equation"
+              "The distance across the middle of the circle",
+              "The area inside the circle",
+              "The distance around the outer edge of the circle",
+              "The number of sides a circle has"
             ],
             "answer": 2
           },
           {
-            "q": "What does a percentile indicate about a value in a data set?",
+            "q": "What does it mean to simplify a fraction to lowest terms?",
             "options": [
-              "The total number of values in the data set",
-              "The exact average of the entire data set",
-              "The largest value found anywhere in the data set",
-              "The percentage of values in the data set that fall below it"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does conditional probability measure?",
-            "options": [
-              "The average of all possible outcomes",
-              "The likelihood of an event occurring given that another event has already happened",
-              "The likelihood of an event that has no connection to any other event",
-              "The total number of outcomes in a sample space"
+              "Changing the fraction into a whole number",
+              "Dividing the numerator and denominator by their greatest common factor",
+              "Adding one to the numerator only",
+              "Multiplying the numerator and denominator by two"
             ],
             "answer": 1
           },
           {
-            "q": "How is an exterior angle of a polygon formed?",
+            "q": "How many seconds are in one minute?",
             "options": [
-              "By drawing a line through the center of the polygon",
-              "By connecting two opposite vertices",
-              "By measuring the area of the polygon",
-              "By extending one side of the polygon"
+              "24",
+              "30",
+              "60",
+              "100"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "What does a scatter plot use to display data?",
+            "options": [
+              "Bars of different heights",
+              "Lines connecting single values only",
+              "Points plotted on a grid",
+              "Slices of a circle"
+            ],
+            "answer": 2
           }
         ]
       },
