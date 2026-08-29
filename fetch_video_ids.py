@@ -45,6 +45,19 @@ Usage:
 No third-party dependencies -- uses only the Python standard library.
 (build_json.py, invoked automatically at the end, does shell out to `npx
 tsx`, but that's its concern, not this script's.)
+
+2026-08-29: a curriculum-leveling audit found that roughly 30% of Days
+31-187 across all 13 grades sit two or more grade levels above their
+stated grade (e.g. Grade 8 Math reaching university linear algebra,
+Grade 1 SocialStudies reaching Confederation/the Senate) -- see
+data/video_search_exclusions.json and the project's curriculum-leveling-
+audit doc for full detail. Those lessons are getting rewritten, so
+searching for a video on their current (soon-to-be-replaced) title would
+waste API quota. This script now skips any (grade, day, subject) listed
+in data/video_search_exclusions.json entirely -- no lookup spent, no
+videoUrl written, chunk left unchanged. That file needs to be regenerated
+(or the fixed entries removed from it) as lessons actually get re-leveled,
+otherwise a rewritten lesson could stay stuck un-searched indefinitely.
 """
 import os
 import re
@@ -59,6 +72,35 @@ import urllib.error
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
+
+def load_exclusions():
+    """Loads data/video_search_exclusions.json (built by the 2026-08-29
+    curriculum-leveling audit) and returns a set of (grade:int, day:int,
+    subject:str) tuples to skip entirely -- these lessons are flagged as
+    2+ grade levels above their stated grade and are getting rewritten, so
+    searching for a video on their current title would waste API quota.
+    Missing file / bad JSON -> empty set (fails open, not closed)."""
+    path = os.path.join(DATA_DIR, 'video_search_exclusions.json')
+    if not os.path.exists(path):
+        return set()
+    try:
+        with open(path) as f:
+            raw = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f'WARNING: could not load {path}: {e}', file=sys.stderr)
+        return set()
+    out = set()
+    for grade_str, entries in raw.items():
+        try:
+            grade = int(grade_str)
+        except ValueError:
+            continue
+        for day, subject in entries:
+            out.add((grade, day, subject))
+    return out
+
+
+EXCLUSIONS = load_exclusions()
 
 # 2026-07-20: a Grade 7 parent reported that the Social Studies Day 3 video
 # ("Physical Patterns in a Changing World") was an unrelated Hindi-language
@@ -114,17 +156,35 @@ def relevance_score(lesson_title, candidate_title):
 
 # Splits a whole file into: [header_before_day1, day1_block_text, day2_block_text, ...]
 # Each day_block_text starts at "{day:N," and runs up to (not including) the next "{day:".
-DAY_SPLIT_RE = re.compile(r'(?=\{day:\d+,)')
+DAY_SPLIT_RE = re.compile(r'(?=\{\s*\n\s*"day":\s*\d+,)')
 
-# Each subject block looks like:
-#   {subject:"Math", title:"Multiplication Facts", summary:"...",
-#    resourceLabel:"YouTube: ...", resourceUrl:"https://...",
-#    videoUrl:"https://www.youtube.com/watch?v=XXXXXXXXXXX",   <- optional, what we add
-#    quiz:[
+# 2026-08-29: the .ts data files no longer use the compact unquoted-key
+# object-literal style these regexes were originally written for -- at some
+# point they became pretty-printed, JSON-style (quoted keys, one field per
+# line), e.g.:
+#   {
+#     "subject": "Math",
+#     "title": "Multiplication Facts",
+#     "summary": "...",
+#     "resourceLabel": "YouTube: ...",
+#     "resourceUrl": "https://...",
+#     "videoUrl": "https://www.youtube.com/watch?v=XXXXXXXXXXX",  <- optional, what we add
+#     "quiz": [
+# The old regexes matched zero blocks against this format (verified via
+# --dry-run finding 0 candidates across every grade), so this script has
+# been a silent no-op for some time; the real per-day video fills visible
+# in git history came from the curriculum-video-backfill Cowork task's own
+# agent-driven protocol editing files directly, not from this script
+# actually running. Rewritten below to match the current format. "title"/
+# "summary" may contain escaped quotes/backslashes (real JSON escaping),
+# hence the (?:[^"\\]|\\.)* pieces instead of a plain [^"]+.
 BLOCK_RE = re.compile(
-    r'(\{subject:"([^"]+)", title:"([^"]+)",.*?\n\s*resourceLabel:"[^"]*", resourceUrl:"[^"]*",\n)'
-    r'(\s*videoUrl:"[^"]*",\n)?',
-    re.DOTALL,
+    r'(\{\s*\n\s*"subject":\s*"([^"]+)",\s*\n'
+    r'\s*"title":\s*"((?:[^"\\]|\\.)*)",\s*\n'
+    r'(?:\s*"summary":\s*"(?:[^"\\]|\\.)*",\s*\n)?'
+    r'\s*"resourceLabel":\s*"(?:[^"\\]|\\.)*",\s*\n'
+    r'([ \t]*)"resourceUrl":\s*"(?:[^"\\]|\\.)*",\s*\n)'
+    r'(\s*"videoUrl":\s*"(?:[^"\\]|\\.)*",\s*\n)?',
 )
 
 
@@ -188,7 +248,10 @@ def process_day_chunk(chunk, grade, day, remaining, dry_run):
 
     def repl(m):
         nonlocal changed
-        prefix, subject, title, existing_video = m.group(1), m.group(2), m.group(3), m.group(4)
+        prefix, subject, title, indent, existing_video = m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)
+        if (grade, day, subject) in EXCLUSIONS:
+            print(f'    SKIP (flagged for re-leveling) grade{grade} day{day} "{title}" ({subject})')
+            return m.group(0)
         if existing_video:
             return m.group(0)
         if remaining[0] <= 0:
@@ -220,7 +283,7 @@ def process_day_chunk(chunk, grade, day, remaining, dry_run):
 
         changed = True
         print(f'    grade{grade} day{day} "{title}" -> https://www.youtube.com/watch?v={vid}  ({remaining[0]} lookups left this run)')
-        return f'{prefix}   videoUrl:"https://www.youtube.com/watch?v={vid}",\n'
+        return f'{prefix}{indent}"videoUrl": "https://www.youtube.com/watch?v={vid}",\n'
 
     new_chunk = BLOCK_RE.sub(repl, chunk)
     return new_chunk, changed
