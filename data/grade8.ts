@@ -12081,6 +12081,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand review: students revisit cone and pyramid volume, scatter plots, absolute value, imperial/metric conversion, outliers, sphere surface area, and credit card interest.",
         "resourceLabel": "YouTube: Math Review: Geometry, Number Sense, and Financial Literacy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Geometry%2C%20Number%20Sense%2C%20and%20Financial%20Literacy%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e_jqJtObKfI",
+        "videoUrls": [{"label":"Cone and Pyramid Volume","url":"https://www.youtube.com/watch?v=e_jqJtObKfI"},{"label":"Sphere Surface Area","url":"https://www.youtube.com/watch?v=TKqV4hHRTbc"},{"label":"Scatter Plots","url":"https://www.youtube.com/watch?v=Ly3NmogR1cU"}],
         "quiz": [
           {
             "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
@@ -12328,6 +12330,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: scientific notation expresses very large or very small numbers as a number between 1 and 10 multiplied by a power of ten, making such numbers easier to read and compare.",
         "resourceLabel": "YouTube: Number Sense: Introduction to Scientific Notation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Introduction%20to%20Scientific%20Notation%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mEi5xWUMNkQ",
         "quiz": [
           {
             "q": "What does scientific notation help express?",

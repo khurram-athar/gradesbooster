@@ -12353,6 +12353,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: Newton’s three laws of motion describe how objects behave under forces — an object at rest or in motion maintains its state unless acted on by a force, force equals mass times acceleration, and every action has an equal and opposite reaction.",
         "resourceLabel": "YouTube: Physics: Newton’s Laws of Motion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Newton%E2%80%99s%20Laws%20of%20Motion%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
         "quiz": [
           {
             "q": "Newton’s First Law of Motion states that an object ___.",

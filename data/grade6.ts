@@ -12476,6 +12476,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand review: students revisit the Aztec civilization, museums, Canadian peacekeeping, comparing government systems, the United Nations, immigration policy, land acknowledgements, currency history, and global trade.",
         "resourceLabel": "YouTube: Review: Ancient Societies, Government, and Global Connections (Days 81-89)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ancient%20Societies%2C%20Government%2C%20and%20Global%20Connections%20%28Days%2081-89%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TUs56Z3xJG8",
+        "videoUrls": [{"label":"Ancient Aztec Civilization","url":"https://www.youtube.com/watch?v=TUs56Z3xJG8"},{"label":"Canada's Peacekeeping Role","url":"https://www.youtube.com/watch?v=M1xHm5FFohU"},{"label":"The Role of the United Nations","url":"https://www.youtube.com/watch?v=SaAmfiJtV4I"}],
         "quiz": [
           {
             "q": "What was the name of the Aztec capital city?",
