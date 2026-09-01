@@ -10466,6 +10466,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Math strand: the median of a data set is the middle number when the values are arranged in order from least to greatest.",
         "resourceLabel": "YouTube: Data: Finding the Median of a Data Set",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Finding%20the%20Median%20of%20a%20Data%20Set%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y7M_KNwIZvw",
         "quiz": [
           {
             "q": "What is the median of the data set 2, 4, 6?",
@@ -10586,6 +10587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the justice system uses courts and judges to make fair decisions when people disagree or when someone breaks a law.",
         "resourceLabel": "YouTube: Canadas Justice System: Judges and Courts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Justice%20System%3A%20Judges%20and%20Courts%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Vd9g119FupM",
         "quiz": [
           {
             "q": "Who makes decisions in a courtroom?",
@@ -10831,60 +10833,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Trade Between Provinces: Sharing Resources Across Canada",
-        "summary": "Grade 1 Social Studies strand: different provinces in Canada have different resources, so they trade goods like fish, lumber, and grain with one another.",
-        "resourceLabel": "YouTube: Trade Between Provinces: Sharing Resources Across Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Between%20Provinces%3A%20Sharing%20Resources%20Across%20Canada%20grade%205%20educational",
+        "title": "Building the Canadian Pacific Railway: Connecting a Nation",
+        "summary": "Grade 5 Social Studies strand: completed in 1885, the Canadian Pacific Railway linked communities from coast to coast, letting people, goods, and resources move across the country and helping unite Canada as one nation.",
+        "resourceLabel": "YouTube: Building the Canadian Pacific Railway: Connecting a Nation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Building%20the%20Canadian%20Pacific%20Railway%3A%20Connecting%20a%20Nation%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
-            "q": "Why do Canadian provinces trade goods with each other?",
+            "q": "What was the main purpose of building the Canadian Pacific Railway?",
             "options": [
-              "Trade is not allowed",
-              "They all have identical resources",
-              "They each have different resources",
-              "They never need anything"
+              "To connect communities across Canada from coast to coast",
+              "To replace all roads in Canada",
+              "To separate the provinces from each other",
+              "To transport only mail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Canadian Pacific Railway completed?",
+            "options": [
+              "1812",
+              "1867",
+              "1885",
+              "1920"
             ],
             "answer": 2
           },
           {
-            "q": "Which is an example of a resource a province might trade?",
+            "q": "How did the railway help Canada's economy?",
             "options": [
-              "Air",
-              "Silence",
-              "Sunshine",
-              "Fish"
+              "It stopped goods from moving between provinces",
+              "It let people, goods, and resources move more easily across the country",
+              "It had no effect on trade",
+              "It only carried passengers, never goods"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What word describes provinces exchanging goods with each other?",
+            "q": "Which group of workers played a major role in building the railway but faced unfair treatment?",
             "options": [
-              "Trade",
-              "Ignoring",
-              "Wasting",
-              "Hiding"
+              "Chinese railway workers",
+              "Bank tellers",
+              "Ship captains",
+              "Newspaper editors"
             ],
             "answer": 0
           },
           {
-            "q": "How does trading resources help Canadians?",
+            "q": "Why is the Canadian Pacific Railway still an important part of Canadian history today?",
             "options": [
-              "It lets people get things their own province may not have",
-              "It has no benefit",
-              "It hurts communities",
-              "It stops all sharing"
+              "It has no lasting significance",
+              "It helped unite the country and shaped how Canadians travel and trade",
+              "It was torn down shortly after being built",
+              "It only ever operated for a few months"
             ],
-            "answer": 0
-          },
-          {
-            "q": "A province known for forests might trade ___.",
-            "options": [
-              "Only ice",
-              "Only sand",
-              "Nothing at all",
-              "Lumber"
-            ],
-            "answer": 3
+            "answer": 1
           }
         ],
         "worksheet": [
@@ -10986,6 +10989,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: dividing a three-digit number by a one-digit number can be done by breaking the number into hundreds, tens, and ones and dividing each part, such as 936 divided by 3.",
         "resourceLabel": "YouTube: Division: Three-Digit by One-Digit Division",
         "resourceUrl": "https://www.youtube.com/results?search_query=Division%3A%20Three-Digit%20by%20One-Digit%20Division%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ITpzAicMmqo",
         "quiz": [
           {
             "q": "What is 936 divided by 3?",

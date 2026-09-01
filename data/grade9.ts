@@ -10443,6 +10443,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: nominalization turns a verb or adjective into a noun, such as changing decide into decision, often used in formal writing to create more complex, abstract sentences.",
         "resourceLabel": "YouTube: Grammar: Nominalization and Sentence Complexity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Nominalization%20and%20Sentence%20Complexity%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I-9QbYaxclc",
         "quiz": [
           {
             "q": "What does nominalization do to a verb or adjective?",
@@ -10752,6 +10753,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the substitution method solves a system of two equations by solving one equation for a variable, then substituting that expression into the other equation.",
         "resourceLabel": "YouTube: Solving Systems of Equations by Substitution",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Systems%20of%20Equations%20by%20Substitution%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=V7H1oUHXPkg",
         "quiz": [
           {
             "q": "In the substitution method, what do you do first with one of the equations?",
@@ -10812,6 +10814,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: biotechnology uses living organisms or their processes to develop useful products, and genetic engineering involves directly modifying an organism’s DNA for a specific purpose.",
         "resourceLabel": "YouTube: Biotechnology and Genetic Engineering (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biotechnology%20and%20Genetic%20Engineering%20%28Intro%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JNgONZ8Dq9I",
         "quiz": [
           {
             "q": "Biotechnology uses ___.",
