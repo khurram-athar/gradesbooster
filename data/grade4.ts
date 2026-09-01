@@ -7786,6 +7786,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that laws are made by elected governments to keep people safe and treated fairly, and that police and courts help make sure laws are followed and enforced.",
         "resourceLabel": "YouTube: How Laws Are Made and Enforced",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Laws%20Are%20Made%20and%20Enforced%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cROwtySHqZQ",
         "quiz": [
           {
             "q": "Who is responsible for making laws?",
@@ -8055,6 +8056,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that countries trade goods with each other, sending exports to other countries and receiving imports from other countries, so people can access products not made locally.",
         "resourceLabel": "YouTube: Trade Between Countries: Imports and Exports",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Between%20Countries%3A%20Imports%20and%20Exports%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MwjIerN8Urk",
         "quiz": [
           {
             "q": "What are exports?",

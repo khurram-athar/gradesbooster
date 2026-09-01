@@ -7735,6 +7735,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Canadian Confederation was the joining together of separate colonies in 1867 to form the country of Canada, with its own government to make decisions.",
         "resourceLabel": "YouTube: Canadian Confederation: How Canada Became a Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
         "quiz": [
           {
             "q": "What was Canadian Confederation?",
@@ -7882,6 +7883,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: multiplying two 2-digit numbers can be done by breaking each number into tens and ones and multiplying the parts before adding the results together.",
         "resourceLabel": "YouTube: Multiplication: Introducing 2-Digit by 2-Digit Multiplication",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Introducing%202-Digit%20by%202-Digit%20Multiplication%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
         "quiz": [
           {
             "q": "To multiply 23 x 12, one strategy is to break 12 into ___.",
@@ -7942,6 +7944,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the human body has many bones that make up a skeleton, which supports the body, protects organs like the heart, and helps us move.",
         "resourceLabel": "YouTube: The Human Skeleton: Bones That Support Us",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Skeleton%3A%20Bones%20That%20Support%20Us%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vRuh9aBwUdM",
         "quiz": [
           {
             "q": "What do we call all the bones in the body together?",
@@ -8026,6 +8029,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that in an election, people vote to choose their leaders, such as a mayor or prime minister, and that the person with the most votes usually wins.",
         "resourceLabel": "YouTube: Voting and Elections: How We Choose Our Leaders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Voting%20and%20Elections%3A%20How%20We%20Choose%20Our%20Leaders%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TTWi3HjzsxI",
         "quiz": [
           {
             "q": "What is an election?",
@@ -8113,6 +8117,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Language strand: foreshadowing is when an author gives readers small clues or hints early in a story about events that will happen later.",
         "resourceLabel": "YouTube: Foreshadowing: Hints About What Will Happen",
         "resourceUrl": "https://www.youtube.com/results?search_query=Foreshadowing%3A%20Hints%20About%20What%20Will%20Happen%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FeAnyf6GSfc",
         "quiz": [
           {
             "q": "What is foreshadowing?",
@@ -8294,6 +8299,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that the United Nations is a group made up of many countries, including Canada, that work together to solve world problems and keep peace.",
         "resourceLabel": "YouTube: The United Nations: Countries Working Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20United%20Nations%3A%20Countries%20Working%20Together%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SaAmfiJtV4I",
         "quiz": [
           {
             "q": "What is the United Nations?",
@@ -8563,6 +8569,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that Canada has a history of sending peacekeepers to help calm conflicts and support peace in other parts of the world.",
         "resourceLabel": "YouTube: Canadian Peacekeeping: Helping Keep the Peace Around the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Peacekeeping%3A%20Helping%20Keep%20the%20Peace%20Around%20the%20World%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU",
         "quiz": [
           {
             "q": "What is a peacekeeper?",
@@ -9081,6 +9088,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that in a democracy, citizens have a say in decisions and choose their leaders through voting, and that Canada is a democratic country.",
         "resourceLabel": "YouTube: What Is a Democracy? Citizens Have a Voice in Decisions",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Is%20a%20Democracy%3F%20Citizens%20Have%20a%20Voice%20in%20Decisions%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ofyM-Cq3LMw",
         "quiz": [
           {
             "q": "What is a democracy?",

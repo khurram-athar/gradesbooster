@@ -8346,6 +8346,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: students learn to solve equations with a variable on both sides, such as 3n plus 2 equals n plus 10, by first combining variable terms on one side.",
         "resourceLabel": "YouTube: Solving Multi-Step Equations with Variables on Both Sides",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Multi-Step%20Equations%20with%20Variables%20on%20Both%20Sides%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eZsyV0ISzV8",
         "quiz": [
           {
             "q": "To solve 3n plus 2 equals n plus 10, what is a good first step?",
@@ -8844,6 +8845,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: slope describes the steepness of a line, calculated by dividing the vertical change, or rise, by the horizontal change, or run, between two points.",
         "resourceLabel": "YouTube: Introduction to Slope",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Slope%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pmOiN4u9Bvo",
         "quiz": [
           {
             "q": "What does slope describe about a line?",
