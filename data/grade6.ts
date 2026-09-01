@@ -12726,6 +12726,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Inca civilization built a large empire along the Andes Mountains in South America, known for its capital city Cusco, extensive road system, and the mountaintop city of Machu Picchu.",
         "resourceLabel": "YouTube: Social Studies: Ancient Inca Civilization",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Inca%20Civilization%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UO5ktwPXsyM",
         "quiz": [
           {
             "q": "Where did the Inca civilization build its empire?",

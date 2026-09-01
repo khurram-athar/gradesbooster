@@ -12616,6 +12616,8 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the nervous system transmits electrical signals between the brain, spinal cord, and body through neurons, and a reflex action is a rapid, automatic response to a stimulus that bypasses conscious thought in the brain.",
         "resourceLabel": "YouTube: Health Science: The Nervous System and Reflex Actions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Health%20Science%3A%20The%20Nervous%20System%20and%20Reflex%20Actions%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RNLceVI8jcc",
+        "videoUrls": [{"label":"The Nervous System","url":"https://www.youtube.com/watch?v=RNLceVI8jcc"},{"label":"Reflex Actions","url":"https://www.youtube.com/watch?v=Nn2RHLWST-k"}],
         "quiz": [
           {
             "q": "The nervous system transmits signals through specialized cells called ___.",

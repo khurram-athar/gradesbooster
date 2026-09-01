@@ -12770,6 +12770,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the elimination method solves a system of two equations by adding or subtracting the equations to cancel out one variable, making it possible to solve for the other.",
         "resourceLabel": "YouTube: Solving Systems of Equations by Elimination",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Systems%20of%20Equations%20by%20Elimination%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vA-55wZtLeE",
         "quiz": [
           {
             "q": "In the elimination method, what is added or subtracted to cancel out a variable?",

@@ -12602,6 +12602,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a square number is the product of a whole number multiplied by itself, such as 4 x 4 = 16, and the square root is the number that produces it, such as the square root of 16 is 4.",
         "resourceLabel": "YouTube: Number Sense: Square Numbers and Square Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Square%20Numbers%20and%20Square%20Roots%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mbc3_e5lWw0",
         "quiz": [
           {
             "q": "What is a square number?",
