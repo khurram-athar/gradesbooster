@@ -13019,6 +13019,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: payroll deductions are amounts subtracted from an employee’s gross pay, such as income tax, that result in the smaller net pay amount the employee actually receives.",
         "resourceLabel": "YouTube: Financial Literacy: Taxes and Payroll Deductions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Taxes%20and%20Payroll%20Deductions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=800fs5KXqts",
         "quiz": [
           {
             "q": "What are payroll deductions?",
@@ -13079,6 +13080,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the lymphatic system helps defend the body against infection by producing and transporting white blood cells and filtering harmful substances through lymph nodes.",
         "resourceLabel": "YouTube: The Lymphatic System and Immunity",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Lymphatic%20System%20and%20Immunity%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I7orwMgTQ5I",
         "quiz": [
           {
             "q": "What is one main role of the lymphatic system?",

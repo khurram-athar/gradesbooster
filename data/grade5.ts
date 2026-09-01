@@ -13106,6 +13106,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a frequency table organizes data by showing how many times each value or category occurs, making patterns in the data easier to see.",
         "resourceLabel": "YouTube: Data: Creating and Reading a Frequency Table",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Creating%20and%20Reading%20a%20Frequency%20Table%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=249_f6E_WBg",
         "quiz": [
           {
             "q": "What does a frequency table show?",
@@ -13227,6 +13228,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties and formally approving laws passed by Parliament.",
         "resourceLabel": "YouTube: Social Studies: The Governor General — Representing the Crown in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Governor%20General%20%E2%80%94%20Representing%20the%20Crown%20in%20Canada%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mD-jb8odRNQ",
         "quiz": [
           {
             "q": "Who does the Governor General represent in Canada?",
@@ -13475,6 +13477,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: early Canadian explorers travelled by canoe, ship, and on foot to map rivers, lakes, and coastlines across the land.",
         "resourceLabel": "YouTube: Canadian Explorers: Discovering New Places",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Explorers%3A%20Discovering%20New%20Places%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p6vzrjbvj5M",
         "quiz": [
           {
             "q": "How did many early Canadian explorers often travel?",
