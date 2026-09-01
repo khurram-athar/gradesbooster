@@ -11799,6 +11799,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that renewable energy, like sunlight and wind, can be used again and again, while non-renewable energy, like coal and oil, is limited and takes a very long time to form.",
         "resourceLabel": "YouTube: Renewable and Non-Renewable Energy: Where Our Power Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%3A%20Where%20Our%20Power%20Comes%20From%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tUmZ9djDHh8",
         "quiz": [
           {
             "q": "What is renewable energy?",

@@ -11064,6 +11064,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the integumentary system, made up of the skin, hair, and nails, protects the body from injury and infection while helping regulate body temperature.",
         "resourceLabel": "YouTube: The Integumentary System: Skin, Hair, and Nails",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Integumentary%20System%3A%20Skin%2C%20Hair%2C%20and%20Nails%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wjo7qe9cgGQ",
         "quiz": [
           {
             "q": "The integumentary system is made up of the skin, hair, and ___.",
@@ -11751,6 +11752,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a credit score is a number that reflects how reliably a person has repaid borrowed money in the past, affecting their ability to get loans or lower interest rates in the future.",
         "resourceLabel": "YouTube: Financial Literacy: Understanding Credit Scores",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Understanding%20Credit%20Scores%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Hy7emWoXdmk",
         "quiz": [
           {
             "q": "What does a credit score reflect?",

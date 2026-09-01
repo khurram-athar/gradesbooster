@@ -11086,6 +11086,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a scatter plot shows pairs of related data as points, and a line of best fit is a straight line drawn to approximate the overall trend of the data.",
         "resourceLabel": "YouTube: Data Management: Scatter Plots and Line of Best Fit",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Scatter%20Plots%20and%20Line%20of%20Best%20Fit%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ly3NmogR1cU",
         "quiz": [
           {
             "q": "What does a scatter plot show?",
@@ -11334,6 +11335,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a rational number can be written as a fraction of two integers, while an irrational number, like pi, cannot be written as a simple fraction and has a non-repeating, non-ending decimal.",
         "resourceLabel": "YouTube: Number Sense: Rational vs Irrational Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Rational%20vs%20Irrational%20Numbers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cLP7INqs3JM",
         "quiz": [
           {
             "q": "What is a rational number?",

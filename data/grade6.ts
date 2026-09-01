@@ -10950,6 +10950,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: countries can be governed in different ways, including a monarchy led by a king or queen, a democracy where citizens vote for leaders, and a dictatorship led by one person with total control.",
         "resourceLabel": "YouTube: Social Studies: Comparing Monarchy, Democracy, and Dictatorship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Comparing%20Monarchy%2C%20Democracy%2C%20and%20Dictatorship%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w_zIq1Ad0mg",
         "quiz": [
           {
             "q": "In a monarchy, who typically leads the country?",
@@ -11199,6 +11200,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the United Nations is an international organization where countries work together on issues like peace, human rights, and humanitarian aid.",
         "resourceLabel": "YouTube: Social Studies: The Role of the United Nations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20the%20United%20Nations%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SaAmfiJtV4I",
         "quiz": [
           {
             "q": "What do we call the international organization where countries work together on global issues?",
@@ -11448,6 +11450,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada has immigration policies today that determine how people from other countries can come to live, work, or study in Canada, contributing to the country’s diversity.",
         "resourceLabel": "YouTube: Social Studies: Canada’s Immigration Policies Today",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Immigration%20Policies%20Today%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9IAWkWsY4hY",
         "quiz": [
           {
             "q": "What do we call the rules that determine how people can come to live in Canada?",

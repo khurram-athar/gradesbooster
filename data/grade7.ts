@@ -11113,6 +11113,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: offspring often resemble their parents because they inherit traits, such as eye colour or height tendencies, through genetic information passed down from both parents.",
         "resourceLabel": "YouTube: Science: Genetics Basics: Why Offspring Resemble Parents",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Genetics%20Basics%3A%20Why%20Offspring%20Resemble%20Parents%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=71X7a8eu73k",
         "quiz": [
           {
             "q": "Why do offspring often resemble their parents?",
@@ -11612,6 +11613,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: the lymphatic system is a network of vessels and nodes that helps fight infection and remove waste from the body, working closely with the immune system.",
         "resourceLabel": "YouTube: Science: The Lymphatic System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Lymphatic%20System%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY",
         "quiz": [
           {
             "q": "What body system helps fight infection and remove waste, working with the immune system?",
