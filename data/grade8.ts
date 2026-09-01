@@ -11771,6 +11771,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: the subjunctive mood is used to express a wish, a suggestion, or a situation that is not currently true, often appearing after words like if or wish and pairing with were instead of was.",
         "resourceLabel": "YouTube: Grammar: The Subjunctive Mood",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20The%20Subjunctive%20Mood%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UchifoqFGNA",
         "quiz": [
           {
             "q": "What does the subjunctive mood often express?",
@@ -11831,6 +11832,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: the surface area of a sphere is found using the formula 4 times pi times the radius squared, describing the total area covering the outside of the sphere.",
         "resourceLabel": "YouTube: Geometry: Surface Area of a Sphere",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Surface%20Area%20of%20a%20Sphere%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TKqV4hHRTbc",
         "quiz": [
           {
             "q": "What shape is a basketball an example of?",

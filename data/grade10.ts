@@ -11840,6 +11840,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: a mutation is a change in an organism’s DNA sequence that can arise spontaneously or from environmental factors, and mutations are a key source of the genetic variation that natural selection acts upon.",
         "resourceLabel": "YouTube: Genetics: Mutations and Genetic Variation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Mutations%20and%20Genetic%20Variation%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vl6Vlf2thvI",
         "quiz": [
           {
             "q": "A mutation is best described as ___.",

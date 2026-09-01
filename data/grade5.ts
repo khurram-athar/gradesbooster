@@ -12382,6 +12382,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: Canadas coat of arms is an official symbol that includes images like lions, a unicorn, and maple leaves, representing our countrys history.",
         "resourceLabel": "YouTube: Canadas Coat of Arms: A Symbol of Our Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Coat%20of%20Arms%3A%20A%20Symbol%20of%20Our%20Country%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=B4PFfV8Z6aU",
         "quiz": [
           {
             "q": "What is a coat of arms?",
@@ -12681,6 +12682,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the Governor General represents the King or Queen in Canada and performs ceremonial duties, such as welcoming important visitors.",
         "resourceLabel": "YouTube: Canadas Governor General: A Ceremonial Role",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Governor%20General%3A%20A%20Ceremonial%20Role%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mD-jb8odRNQ",
         "quiz": [
           {
             "q": "Who does Canadas Governor General represent?",
