@@ -13225,6 +13225,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: a non-governmental organization, or NGO, is a group that is not run by the government and works to help people or protect the environment, such as providing disaster relief or supporting education.",
         "resourceLabel": "YouTube: Social Studies: The Role of Non-Governmental Organizations (NGOs)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20Non-Governmental%20Organizations%20%28NGOs%29%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=si1IHXLg0G0",
         "quiz": [
           {
             "q": "What does NGO stand for?",
@@ -13662,6 +13663,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: a circuit diagram uses standard symbols to represent parts of an electric circuit, such as a battery, switch, and light bulb, showing how they are connected.",
         "resourceLabel": "YouTube: Electricity: Reading Simple Circuit Diagrams",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electricity%3A%20Reading%20Simple%20Circuit%20Diagrams%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=p_T7aDxtA90",
         "quiz": [
           {
             "q": "A circuit diagram uses symbols to represent ___.",
@@ -13722,6 +13724,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Indus Valley civilization developed along the Indus River in present-day Pakistan and India, known for well-planned cities such as Mohenjo-daro that had organized streets and drainage systems.",
         "resourceLabel": "YouTube: Social Studies: The Indus Valley Civilization",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Indus%20Valley%20Civilization%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n7ndRwqJYDM",
         "quiz": [
           {
             "q": "Along which river did the Indus Valley civilization develop?",

@@ -13648,6 +13648,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: an air mass is a large body of air with a similar temperature and moisture, and a front is where two different air masses meet, often causing changes in the weather.",
         "resourceLabel": "YouTube: Science: Weather Fronts and Air Masses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Weather%20Fronts%20and%20Air%20Masses%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nVooyj73dwA",
         "quiz": [
           {
             "q": "What do we call a large body of air with a similar temperature and moisture?",

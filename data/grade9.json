@@ -13266,6 +13266,7 @@
         "summary": "Grade 7 Math strand: the Pythagorean theorem can be extended into three dimensions to find the diagonal length of a rectangular prism, using the length, width, and height of the shape.",
         "resourceLabel": "YouTube: The Pythagorean Theorem in Three Dimensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Pythagorean%20Theorem%20in%20Three%20Dimensions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1UQ5IbihJNI",
         "quiz": [
           {
             "q": "What can the Pythagorean theorem help find when extended into three dimensions?",
@@ -13515,6 +13516,7 @@
         "summary": "Grade 7 Math strand: the angle of elevation is the angle looking upward from a horizontal line to an object, while the angle of depression is the angle looking downward, both used to describe sightlines to distant objects.",
         "resourceLabel": "YouTube: Geometry: Angle of Elevation and Depression",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Angle%20of%20Elevation%20and%20Depression%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Sja5rEqmpa4",
         "quiz": [
           {
             "q": "What is the angle of elevation?",
@@ -13825,6 +13827,17 @@
         "summary": "Grade 7 Science strand: blood is made up of plasma, red blood cells, white blood cells, and platelets, and a persons blood type is determined by specific markers on the surface of their red blood cells.",
         "resourceLabel": "YouTube: Blood Composition and Blood Types",
         "resourceUrl": "https://www.youtube.com/results?search_query=Blood%20Composition%20and%20Blood%20Types%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QjLuir4lxgw",
+        "videoUrls": [
+          {
+            "label": "Blood Composition",
+            "url": "https://www.youtube.com/watch?v=QjLuir4lxgw"
+          },
+          {
+            "label": "Blood Types (ABO)",
+            "url": "https://www.youtube.com/watch?v=Amn2EWTY2Lk"
+          }
+        ],
         "quiz": [
           {
             "q": "What are the main components of blood?",
