@@ -9095,6 +9095,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: the Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the two other sides, written as a squared plus b squared equals c squared.",
         "resourceLabel": "YouTube: Introduction to the Pythagorean Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20the%20Pythagorean%20Theorem%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AA6RfgP-AHU",
         "quiz": [
           {
             "q": "In a right triangle, what does the Pythagorean theorem relate?",
@@ -9839,6 +9840,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: simple interest is extra money earned or owed based on a percentage of an original amount, such as earning interest on money kept in a savings account.",
         "resourceLabel": "YouTube: Financial Literacy: Simple Interest Basics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20Interest%20Basics%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=79HS3N1IBt8",
         "quiz": [
           {
             "q": "What do we call extra money earned based on a percentage of an original amount?",
@@ -10087,6 +10089,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: an independent event is one where the outcome does not affect another event, like flipping a coin twice, while a dependent event is one where the outcome does affect another, like drawing cards without replacement.",
         "resourceLabel": "YouTube: Probability: Independent and Dependent Events",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Independent%20and%20Dependent%20Events%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lWAdPyvm400",
         "quiz": [
           {
             "q": "What is an independent event?",
