@@ -14070,6 +14070,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise skip counting by 7s, saying the numbers 7, 14, 21, 28, and so on, to build number sense and recognize patterns.",
         "resourceLabel": "YouTube: Skip Counting by 7s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%207s%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WdF_vFAxwas",
         "quiz": [
           {
             "q": "When skip counting by 7s, what number comes after 7?",
@@ -14464,6 +14465,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Canada has different levels of leadership, with a mayor leading a city or town, a premier leading a province, and a prime minister leading the whole country.",
         "resourceLabel": "YouTube: Levels of Leadership: Mayor, Premier, and Prime Minister",
         "resourceUrl": "https://www.youtube.com/results?search_query=Levels%20of%20Leadership%3A%20Mayor%2C%20Premier%2C%20and%20Prime%20Minister%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yfc5K9C0UxM",
         "quiz": [
           {
             "q": "Who is the leader of a city or town?",
@@ -14610,6 +14612,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify three kinds of angles: a right angle, which looks like the corner of a square, an acute angle, which is smaller than a right angle, and an obtuse angle, which is larger.",
         "resourceLabel": "YouTube: Measuring Angles: Right, Acute, and Obtuse",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Angles%3A%20Right%2C%20Acute%2C%20and%20Obtuse%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g7K4zztMXT0",
         "quiz": [
           {
             "q": "What is a right angle?",
@@ -14690,6 +14693,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a desert is a very dry habitat with little rain, and that some plants and animals, such as cactuses and camels, are specially suited to live there.",
         "resourceLabel": "YouTube: Deserts: A Very Dry Habitat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Deserts%3A%20A%20Very%20Dry%20Habitat%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n4crvs-KTBw",
         "quiz": [
           {
             "q": "Is a desert usually a wet place or a dry place?",

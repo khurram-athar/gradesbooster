@@ -13973,6 +13973,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through trade in gold and salt across the Sahara Desert.",
         "resourceLabel": "YouTube: Social Studies: Ancient Kingdoms of West Africa — Ghana, Mali, and Songhai",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ancient%20Kingdoms%20of%20West%20Africa%20%E2%80%94%20Ghana%2C%20Mali%2C%20and%20Songhai%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hwbZ-HsH0EY",
         "quiz": [
           {
             "q": "Name one ancient kingdom of West Africa.",
@@ -14221,6 +14222,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada’s justice system includes courts that interpret and apply laws, with judges making rulings and everyone having the right to a fair trial.",
         "resourceLabel": "YouTube: Social Studies: Canada’s Justice System and Courts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Justice%20System%20and%20Courts%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sTTTGEtU67M",
         "quiz": [
           {
             "q": "What is the main role of courts in Canada’s justice system?",
@@ -14470,6 +14472,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Metis are a distinct Indigenous people with mixed First Nations and European ancestry, and the Red River Resistance, led by Louis Riel, was a stand to protect Metis land and rights in present-day Manitoba.",
         "resourceLabel": "YouTube: Social Studies: The Metis Nation and the Red River Resistance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Metis%20Nation%20and%20the%20Red%20River%20Resistance%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ptbQdW6UwvM",
         "quiz": [
           {
             "q": "Who are the Metis?",

@@ -13115,6 +13115,12 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand review: students revisit epigenetics, superconductors, coral reefs, quantum physics, immunology, bioplastics, black holes, epidemiology, and battery chemistry.",
         "resourceLabel": "YouTube: Review: Physics, Biology, and Chemistry (Days 81-89)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Physics%2C%20Biology%2C%20and%20Chemistry%20%28Days%2081-89%29%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
+        "videoUrls": [
+          {"label": "Black Holes", "url": "https://www.youtube.com/watch?v=kOEDG3j1bjs"},
+          {"label": "Coral Reefs", "url": "https://www.youtube.com/watch?v=ZiULxLLP32s"},
+          {"label": "Quantum Physics", "url": "https://www.youtube.com/watch?v=Usu9xZfabPM"}
+        ],
         "quiz": [
           {
             "q": "What does epigenetics study?",
@@ -14123,6 +14129,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: meiosis is a type of cell division that produces reproductive cells with half the usual number of chromosomes, increasing genetic diversity among offspring.",
         "resourceLabel": "YouTube: Science: Meiosis and Genetic Diversity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Meiosis%20and%20Genetic%20Diversity%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VzDMG7ke69g",
         "quiz": [
           {
             "q": "What does meiosis produce?",

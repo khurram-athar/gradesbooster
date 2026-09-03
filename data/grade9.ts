@@ -14017,6 +14017,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: conditional probability is the probability that an event happens given that another event has already occurred, and it often differs from the probability of that event occurring on its own.",
         "resourceLabel": "YouTube: Probability: Conditional Probability (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Conditional%20Probability%20%28Intro%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6xPkG2pA-TU",
         "quiz": [
           {
             "q": "What does conditional probability measure?",
@@ -14077,6 +14078,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: a vaccine introduces a weakened, inactivated, or partial form of a pathogen so the immune system can learn to recognize it and build a faster, stronger defense if the real pathogen is encountered later.",
         "resourceLabel": "YouTube: How Vaccines Train the Immune System",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Vaccines%20Train%20the%20Immune%20System%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rb7TVW77ZCs",
         "quiz": [
           {
             "q": "What does a vaccine typically introduce into the body?",
@@ -14265,6 +14267,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: depreciation is the gradual decrease in the value of an asset, such as a car or electronic device, over time due to age, wear, and changing market conditions.",
         "resourceLabel": "YouTube: Financial Literacy: Understanding Depreciation and Asset Value Over Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Understanding%20Depreciation%20and%20Asset%20Value%20Over%20Time%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AD31kO2NwuA",
         "quiz": [
           {
             "q": "What is depreciation?",

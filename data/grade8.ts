@@ -13848,6 +13848,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: the volume of a sphere is found using the formula four-thirds times pi times the radius cubed, describing how much space is enclosed inside a perfectly round three-dimensional shape.",
         "resourceLabel": "YouTube: Geometry: Volume of a Sphere",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Volume%20of%20a%20Sphere%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KY2pJofL7dU",
         "quiz": [
           {
             "q": "What formula is used to find the volume of a sphere?",
@@ -14156,6 +14157,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: a lever is a simple machine made of a rigid bar that pivots on a fixed point called a fulcrum, and levers are classified into three classes based on the relative positions of the fulcrum, the effort, and the load.",
         "resourceLabel": "YouTube: Science: Levers: The Three Classes and Their Mechanical Advantage",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Levers%3A%20The%20Three%20Classes%20and%20Their%20Mechanical%20Advantage%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A0y_2b8SSbs",
         "quiz": [
           {
             "q": "What is a lever?",

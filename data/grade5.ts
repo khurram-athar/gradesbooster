@@ -14587,6 +14587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a semicolon can join two closely related independent clauses into a single sentence without using a conjunction such as and or but.",
         "resourceLabel": "YouTube: Grammar: Using Semicolons to Join Related Ideas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Using%20Semicolons%20to%20Join%20Related%20Ideas%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=th-zyfvwDdI",
         "quiz": [
           {
             "q": "What can a semicolon join?",
