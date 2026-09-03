@@ -15918,6 +15918,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a protractor is a tool used to measure the size of an angle in degrees, with the flat edge lined up along one side of the angle and zero on the scale.",
         "resourceLabel": "YouTube: Measurement: Measuring Angles with a Protractor",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Measuring%20Angles%20with%20a%20Protractor%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dw41PMWek6U",
         "quiz": [
           {
             "q": "What tool is used to measure the size of an angle?",
@@ -16039,6 +16040,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Canada has contributed to space exploration through achievements such as Canadian astronauts travelling to space and the Canadarm robotic arm used on space missions.",
         "resourceLabel": "YouTube: Social Studies: Canadas Achievements in Space Exploration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Achievements%20in%20Space%20Exploration%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=W1wj1d2EeSM",
         "quiz": [
           {
             "q": "What is the Canadarm?",

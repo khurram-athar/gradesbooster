@@ -15327,6 +15327,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: the Doppler effect is the change in pitch heard when a sound source moves relative to a listener, with pitch rising as the source approaches and falling as it moves away, caused by sound waves being compressed or stretched.",
         "resourceLabel": "YouTube: The Doppler Effect and Changing Sound",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Doppler%20Effect%20and%20Changing%20Sound%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vD9xvRs3oqk",
         "quiz": [
           {
             "q": "What is the Doppler effect?",
@@ -15518,6 +15519,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: an inscribed circle fits perfectly inside a polygon, touching each side exactly once, while a circumscribed circle passes through every vertex of a polygon, surrounding it completely.",
         "resourceLabel": "YouTube: Geometry: Inscribed and Circumscribed Circles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Inscribed%20and%20Circumscribed%20Circles%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lvS4dNlqQAc",
         "quiz": [
           {
             "q": "What does it mean for a circle to be inscribed in a polygon?",

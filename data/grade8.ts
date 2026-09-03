@@ -14344,6 +14344,12 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand review: students revisit scientific notation, the sum of interior angles in polygons, the volume of a sphere, translating word problems into expressions, and weighted averages.",
         "resourceLabel": "YouTube: Math Review: Number Sense, Geometry, and Data Management",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Sense%2C%20Geometry%2C%20and%20Data%20Management%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qG3HnRccrQU",
+        "videoUrls": [
+          {"label": "Sum of Interior Angles in Polygons", "url": "https://www.youtube.com/watch?v=qG3HnRccrQU"},
+          {"label": "Volume of a Sphere", "url": "https://www.youtube.com/watch?v=KY2pJofL7dU"},
+          {"label": "Weighted Averages", "url": "https://www.youtube.com/watch?v=slFqL86q3EA"}
+        ],
         "quiz": [
           {
             "q": "What does scientific notation help express?",
