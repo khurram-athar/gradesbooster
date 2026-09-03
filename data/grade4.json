@@ -16085,6 +16085,21 @@
         "summary": "Students review recent Science topics: our eyes, animal coverings, migration, bees and pollination, our skeleton, deserts, and oceans.",
         "resourceLabel": "YouTube: Science Review: Bodies, Habitats, and Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Animals%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qWc8X6YeTv8",
+        "videoUrls": [
+          {
+            "label": "Bees and Pollination",
+            "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8"
+          },
+          {
+            "label": "Animal Migration",
+            "url": "https://www.youtube.com/watch?v=hMAS4SdPj-w"
+          },
+          {
+            "label": "Our Skeleton",
+            "url": "https://www.youtube.com/watch?v=vRuh9aBwUdM"
+          }
+        ],
         "quiz": [
           {
             "q": "How many eyes does a person usually have?",

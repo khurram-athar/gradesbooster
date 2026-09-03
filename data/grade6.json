@@ -15545,6 +15545,21 @@
         "summary": "Grade 4 Social Studies strand review: students revisit the RCMP, the Senate, how a bill becomes a law, NATO, Canadian inventions, bilingualism, the Franklin Expedition, Terry Fox, and the census.",
         "resourceLabel": "YouTube: Social Studies Review: Government, History, and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Canadian%20Identity%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vcS2eNJaC3Q",
+        "videoUrls": [
+          {
+            "label": "RCMP",
+            "url": "https://www.youtube.com/watch?v=vcS2eNJaC3Q"
+          },
+          {
+            "label": "How a Bill Becomes a Law",
+            "url": "https://www.youtube.com/watch?v=biMC4vn_ysc"
+          },
+          {
+            "label": "Terry Fox",
+            "url": "https://www.youtube.com/watch?v=70WbeqNOJQs"
+          }
+        ],
         "quiz": [
           {
             "q": "What does RCMP stand for?",
@@ -16042,6 +16057,7 @@
         "summary": "Grade 4 Social Studies strand: Canada and the United States share one of the largest trading relationships in the world, exchanging goods such as vehicles, energy, and agricultural products across the border.",
         "resourceLabel": "YouTube: Social Studies: Canada-United States Trade Relationship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada-United%20States%20Trade%20Relationship%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=T41aOrHVveU",
         "quiz": [
           {
             "q": "Canada shares one of the largest trading relationships in the world with which country?",

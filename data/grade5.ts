@@ -16417,6 +16417,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a discount lowers the original price of an item, and the sale price can be found by subtracting the discount amount from the original price.",
         "resourceLabel": "YouTube: Financial Literacy: Calculating Discounts and Sale Prices",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Calculating%20Discounts%20and%20Sale%20Prices%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5qxX222sLtE",
         "quiz": [
           {
             "q": "What does a discount do to the price of an item?",
@@ -16788,6 +16789,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: a land acknowledgement is a statement recognizing the Indigenous peoples who traditionally lived on and cared for the land where an event or gathering is taking place.",
         "resourceLabel": "YouTube: Social Studies: Understanding Land Acknowledgements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Understanding%20Land%20Acknowledgements%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i7juFo9nKmM",
         "quiz": [
           {
             "q": "What is a land acknowledgement?",
