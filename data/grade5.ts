@@ -15540,6 +15540,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Canadian Charter of Rights and Freedoms is a document that protects important rights for everyone in Canada, such as freedom of speech and equality.",
         "resourceLabel": "YouTube: Our Charter of Rights and Freedoms: Protecting Our Rights",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Charter%20of%20Rights%20and%20Freedoms%3A%20Protecting%20Our%20Rights%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bGu9ZExFNWs",
         "quiz": [
           {
             "q": "What does the Charter of Rights and Freedoms protect?",

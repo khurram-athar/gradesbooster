@@ -15221,6 +15221,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the idea of a global village means that people, goods, and information can connect quickly with other countries around the world.",
         "resourceLabel": "YouTube: The Global Village: How We Are Connected to Other Countries",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Global%20Village%3A%20How%20We%20Are%20Connected%20to%20Other%20Countries%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=P4YmvLwHthg",
         "quiz": [
           {
             "q": "What does the term global village describe?",

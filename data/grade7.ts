@@ -15147,6 +15147,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: signs that a chemical reaction has occurred include a colour change, bubbles forming, a new smell, or heat being given off, showing that a new substance was created.",
         "resourceLabel": "YouTube: Science: Chemical Reactions: Signs That a New Substance Formed",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Chemical%20Reactions%3A%20Signs%20That%20a%20New%20Substance%20Formed%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x49BtB5dOwg",
         "quiz": [
           {
             "q": "Name one sign that a chemical reaction may have occurred, such as bubbles forming.",

@@ -14840,6 +14840,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: numbers written in scientific notation can be compared by first comparing their powers of ten, and if those are equal, comparing the leading decimal factors.",
         "resourceLabel": "YouTube: Number Sense: Comparing and Ordering Numbers in Scientific Notation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Comparing%20and%20Ordering%20Numbers%20in%20Scientific%20Notation%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xYTYQRXofQU",
         "quiz": [
           {
             "q": "When comparing two numbers in scientific notation, what should be compared first?",
@@ -15088,6 +15089,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: the volume of a triangular prism is found by multiplying the area of its triangular base by the length of the prism.",
         "resourceLabel": "YouTube: Geometry: Volume of Triangular Prisms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Volume%20of%20Triangular%20Prisms%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4pV7_NuGO2g",
         "quiz": [
           {
             "q": "What shape is the base of a triangular prism?",
