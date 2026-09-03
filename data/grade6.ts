@@ -14722,6 +14722,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Senate is the second chamber of Canadas Parliament, where appointed senators review and can suggest changes to proposed laws.",
         "resourceLabel": "YouTube: Social Studies: The Canadian Senate — The Other House of Parliament",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Senate%20%E2%80%94%20The%20Other%20House%20of%20Parliament%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "What is the Senate?",
@@ -14970,6 +14971,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Official Languages Act recognizes English and French as Canadas two official languages, guaranteeing services in both languages at the federal level.",
         "resourceLabel": "YouTube: Social Studies: Canadas Official Languages Act — Bilingualism in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Official%20Languages%20Act%20%E2%80%94%20Bilingualism%20in%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
         "quiz": [
           {
             "q": "What are Canadas two official languages?",

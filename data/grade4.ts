@@ -14902,6 +14902,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to estimate the product of a multiplication problem by rounding one or both numbers to a friendly number first, making the multiplication easier to do quickly.",
         "resourceLabel": "YouTube: Estimating Products: Rounding Before Multiplying",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Products%3A%20Rounding%20Before%20Multiplying%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mBWr8c0Lsx4",
         "quiz": [
           {
             "q": "To estimate 4 times 11, what friendly number could 11 be rounded to?",

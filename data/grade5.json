@@ -15182,6 +15182,7 @@
         "summary": "Grade 3 Math strand: an improper fraction has a numerator greater than or equal to its denominator, representing an amount greater than or equal to one whole, such as 5/4.",
         "resourceLabel": "YouTube: Fractions: Fractions Greater Than One (Improper Fractions)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Fractions%20Greater%20Than%20One%20%28Improper%20Fractions%29%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3so23FeOe7U",
         "quiz": [
           {
             "q": "What is an improper fraction?",
@@ -15242,6 +15243,7 @@
         "summary": "Students learn that our lungs are two body parts inside our chest that help us breathe, taking in air when we inhale and pushing air out when we exhale.",
         "resourceLabel": "YouTube: Our Lungs: Breathing In and Out",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Lungs%3A%20Breathing%20In%20and%20Out%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8NUxvJS-_0k",
         "quiz": [
           {
             "q": "What body part helps us breathe?",
@@ -15386,60 +15388,61 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Regional Dialects and Word Choice",
-        "summary": "Grade 3 Language strand: a dialect is a way of speaking used by people in a particular region, and speakers of different dialects may use different words or expressions for the same thing.",
-        "resourceLabel": "YouTube: Vocabulary: Regional Dialects and Word Choice",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Regional%20Dialects%20and%20Word%20Choice%20grade%205%20educational",
+        "title": "Vocabulary: Connotation and Denotation",
+        "summary": "Grade 5 Language strand: denotation is a word's exact dictionary meaning, while connotation is the feeling or association a word carries beyond that literal meaning, and writers choose words carefully based on the connotations they create.",
+        "resourceLabel": "YouTube: Vocabulary: Connotation and Denotation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Connotation%20and%20Denotation%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XRt1N0sJJQo",
         "quiz": [
           {
-            "q": "What is a dialect?",
+            "q": "What is denotation?",
             "options": [
-              "A silent letter in a word",
+              "A type of punctuation mark",
+              "A word's exact, literal dictionary meaning",
               "A rule for capitalization",
-              "A way of speaking used by people in a particular region",
-              "A type of punctuation mark"
+              "A silent letter in a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is connotation?",
+            "options": [
+              "The number of syllables in a word",
+              "The spelling pattern of a word",
+              "The feeling or association a word carries beyond its literal meaning",
+              "A word that has no meaning at all"
             ],
             "answer": 2
           },
           {
-            "q": "Why might two people from different regions use different words for the same object?",
+            "q": "Which pair of words has similar denotations but different connotations?",
             "options": [
-              "Because they speak different regional dialects",
-              "Because dialects do not exist",
-              "Because words never change between places",
-              "Because one of them is wrong about the object"
+              "Cat and dog",
+              "Slender and skinny",
+              "Run and jump",
+              "Blue and red"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Which is an example of dialect differences?",
+            "q": "Why do writers pay attention to connotation when choosing words?",
             "options": [
-              "Every region uses identical words always",
-              "Dialects only affect spelling of names",
-              "One region calls it soda while another calls it pop",
-              "Dialects only affect punctuation"
+              "Because connotations never affect how readers feel",
+              "Because word choice can shape how a reader feels about the subject",
+              "Because only dictionaries need connotations",
+              "Because connotation only matters in poetry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A word with a positive connotation, like 'confident,' might be replaced with a word with a negative connotation, like ___, to describe the same trait differently.",
+            "options": [
+              "Cheerful",
+              "Proud",
+              "Cocky",
+              "Assured"
             ],
             "answer": 2
-          },
-          {
-            "q": "Studying regional dialects helps readers understand ___.",
-            "options": [
-              "That language can vary between places and communities",
-              "That all English speakers sound identical",
-              "That dialects are always mistakes",
-              "That there is only one correct way to speak"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A dialect can include differences in ___.",
-            "options": [
-              "Only page numbers",
-              "Only handwriting style",
-              "Only the alphabet used",
-              "Word choice, pronunciation, and expressions"
-            ],
-            "answer": 3
           }
         ],
         "topic": "Vocabulary"
@@ -15598,6 +15601,7 @@
         "summary": "Grade 3 Social Studies strand: the Parliament of Canada is made up of the House of Commons, whose members are elected, and the Senate, whose members are appointed, and both review proposed laws.",
         "resourceLabel": "YouTube: Social Studies: The Canadian Senate and House of Commons",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Senate%20and%20House%20of%20Commons%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XS-A6iit9bk",
         "quiz": [
           {
             "q": "What are the two parts of the Parliament of Canada?",
