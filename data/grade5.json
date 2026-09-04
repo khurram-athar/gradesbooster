@@ -37660,60 +37660,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Interest Groups and Lobbying in Canadian Politics",
-        "summary": "Grade 5 Social Studies strand: an interest group is an organization that tries to influence government decisions on a specific issue, often through lobbying, which means directly encouraging lawmakers to support their cause.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "How Municipal Governments Work: Mayors, Councils, and City Services",
+        "summary": "Students learn how cities and towns are run by an elected mayor and council, and how municipal governments provide everyday services like water, roads, garbage collection, and parks.",
+        "resourceLabel": "YouTube: How Municipal Governments Work: Mayors, Councils, and City Services",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Municipal%20Governments%20Work%3A%20Mayors%2C%20Councils%2C%20and%20City%20Services%20grade%205%20educational",
+        "topic": "Local Community & Civic Participation",
         "quiz": [
           {
-            "q": "What is an interest group?",
+            "q": "Who is typically the head of a municipal (city or town) government in Canada?",
             "options": [
-              "A type of national election",
-              "An organization that tries to influence government decisions on a specific issue",
-              "A group that has no opinion on any issue",
-              "A branch of the federal court system"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does lobbying involve?",
-            "options": [
-              "Writing a new national anthem",
-              "Running in a federal election",
-              "Refusing to communicate with any government official",
-              "Directly encouraging lawmakers to support a particular cause"
+              "The Prime Minister",
+              "The Premier",
+              "The Governor General",
+              "The Mayor"
             ],
             "answer": 3
           },
           {
-            "q": "What might an interest group focus on, such as an environmental organization?",
+            "q": "Which of these is a service usually provided by a municipal government?",
             "options": [
-              "Running a public school system",
-              "Encouraging government action on a specific issue, like protecting the environment",
-              "Managing a countrys currency",
-              "Selling unrelated products to the public"
+              "Printing money",
+              "Garbage collection and local roads",
+              "National defence",
+              "Foreign trade agreements"
             ],
             "answer": 1
           },
           {
-            "q": "Why might interest groups try to communicate with elected officials?",
+            "q": "City councillors are elected to represent...",
             "options": [
-              "This concept has no connection to social studies",
-              "To share information and try to influence decisions that affect their cause",
-              "Elected officials never listen to any outside opinions",
-              "Interest groups are never allowed to contact elected officials"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it important for citizens to understand how interest groups and lobbying work?",
-            "options": [
-              "Lobbying is illegal in Canada and never takes place",
-              "This concept has no relevance to social studies",
-              "Interest groups have no effect on government decisions",
-              "It helps citizens understand different influences on government decision-making"
+              "The whole country",
+              "Other provinces",
+              "Foreign nations",
+              "One specific ward or district within the city"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which statement about municipal government is correct?",
+            "options": [
+              "Municipal governments rely on the province for many of their powers",
+              "Municipal governments print Canadian currency",
+              "Municipal governments can declare war",
+              "Municipal governments set their own criminal laws"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A city council usually makes decisions about local matters through what process?",
+            "options": [
+              "A national referendum",
+              "A royal decree",
+              "Voting on motions during council meetings",
+              "A Supreme Court ruling"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -37902,60 +37903,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Parks, Government, and Canadian History",
-        "summary": "Grade 5 Social Studies strand review: students revisit national parks, political parties, Crown land, the Canadian Armed Forces, and government budgets.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Halifax Explosion of 1917",
+        "summary": "Students explore the 1917 collision in Halifax Harbour that caused the largest human-made explosion before nuclear weapons, and its lasting impact on the city and Canada's disaster response.",
+        "resourceLabel": "YouTube: The Halifax Explosion of 1917",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Halifax%20Explosion%20of%201917%20grade%205%20educational",
+        "topic": "History: 20th Century Canada",
         "quiz": [
           {
-            "q": "What is the purpose of a national park?",
+            "q": "What caused the Halifax Explosion of 1917?",
             "options": [
-              "To sell natural resources as quickly as possible",
-              "To build as many new roads as possible",
-              "To protect wildlife, ecosystems, and landscapes for future generations",
-              "To prevent anyone from ever visiting the area"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a political party?",
-            "options": [
-              "A group of people who share similar ideas about how government should be run",
-              "A type of national holiday",
-              "A single elected official with no supporters",
-              "A branch of the court system"
+              "A ship carrying wartime explosives collided with another ship in the harbour",
+              "A hurricane struck the coast",
+              "A fire started in a factory",
+              "An earthquake hit the city"
             ],
             "answer": 0
           },
           {
-            "q": "What is Crown land?",
+            "q": "In what year did the Halifax Explosion occur?",
             "options": [
-              "Land that no one is allowed to use for any purpose",
-              "Public land owned by the federal or provincial government",
-              "Land that belongs to a foreign country",
-              "Land owned only by private individuals"
+              "1917",
+              "1937",
+              "1897",
+              "1957"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which city was devastated by the explosion?",
+            "options": [
+              "Toronto",
+              "Halifax",
+              "Vancouver",
+              "Winnipeg"
             ],
             "answer": 1
           },
           {
-            "q": "What are the three main branches of the Canadian Armed Forces?",
+            "q": "Why was Halifax an important wartime port in 1917?",
             "options": [
-              "The Army, Navy, and Air Force",
-              "The Federal, Provincial, and Municipal governments",
-              "The Police, Fire Department, and Coast Guard",
-              "The Senate, House of Commons, and Courts"
+              "It was a hub for ships carrying troops and supplies for World War I",
+              "It had no shipping industry",
+              "It was far from the ocean",
+              "It was Canada's capital city"
             ],
             "answer": 0
           },
           {
-            "q": "What does a government budget outline?",
+            "q": "How did other communities respond after the disaster?",
             "options": [
-              "Planned spending and expected revenue for the year",
-              "The names of every citizen in the country",
-              "A list of every book in a library",
-              "The exact weather forecast for the year"
+              "The explosion had no lasting effect on the city",
+              "They ignored it",
+              "Cities like Boston sent aid, supplies, and medical help",
+              "No help was given"
             ],
-            "answer": 0
+            "answer": 2
           }
         ]
       }
@@ -38147,63 +38149,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Auditor Generals Reports — Reviewing Government Spending",
-        "summary": "Grade 5 Social Studies strand: the Auditor General examines how government departments spend public money and publishes reports that highlight waste, inefficiency, or good practices for elected officials and citizens to review.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Energy Resources: Oil, Hydroelectricity, and Renewables",
+        "summary": "Students examine the main sources of energy used and produced in Canada, including oil and gas from Alberta, hydroelectric power from rivers, and growing renewable sources like wind and solar.",
+        "resourceLabel": "YouTube: Canada's Energy Resources: Oil, Hydroelectricity, and Renewables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Energy%20Resources%3A%20Oil%2C%20Hydroelectricity%2C%20and%20Renewables%20grade%205%20educational",
+        "topic": "Natural Resources & Industry",
         "quiz": [
           {
-            "q": "What does the Auditor General examine?",
+            "q": "Which province is Canada's largest producer of oil?",
             "options": [
-              "How government departments spend public money",
-              "The results of sports competitions",
-              "Private business decisions only",
-              "The weather across Canada"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the Auditor General produce after an examination?",
-            "options": [
-              "A list of new laws",
-              "A national holiday calendar",
-              "A private letter seen by no one",
-              "Reports that highlight findings about government spending"
+              "Nova Scotia",
+              "Prince Edward Island",
+              "Manitoba",
+              "Alberta"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a report from the Auditor General matter to citizens?",
+            "q": "Hydroelectric power is generated using the energy of...",
             "options": [
-              "These reports are never shared with the public",
-              "This concept has no connection to government",
-              "The Auditor General has no connection to public spending",
-              "It helps citizens understand whether public money is being used responsibly"
+              "Wind turbines",
+              "Burning coal",
+              "Sunlight",
+              "Moving water"
             ],
             "answer": 3
           },
           {
-            "q": "What might an Auditor Generals report reveal about a government department?",
+            "q": "Which of these is considered a renewable energy source?",
             "options": [
-              "Only positive information with no criticism ever included",
-              "Wasteful spending or inefficient use of public money",
-              "Information unrelated to money or spending",
-              "The department private employee schedules only"
+              "Oil",
+              "Wind power",
+              "Natural gas",
+              "Coal"
             ],
             "answer": 1
           },
           {
-            "q": "Why is an independent Auditor General considered important in government?",
+            "q": "Which province generates most of its electricity from hydroelectric dams?",
             "options": [
-              "An Auditor General is chosen by a single company",
-              "Independence helps ensure spending is reviewed fairly, without political influence",
-              "This concept has no relevance to social studies",
-              "Independence has no effect on how a report is written"
+              "Alberta",
+              "Nunavut",
+              "Quebec",
+              "Saskatchewan"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are renewable energy sources like wind and solar becoming more important in Canada?",
+            "options": [
+              "They never need any equipment",
+              "They produce fewer greenhouse gas emissions than fossil fuels",
+              "They are cheaper than all other resources in every province",
+              "They are the only energy sources allowed by law"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -38393,60 +38395,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas Equalization Program — Sharing Wealth in Practice",
-        "summary": "Grade 5 Social Studies strand: equalization is a federal program that transfers money to provinces with less economic capacity so that all provinces can offer comparable public services, such as health care and education, at similar tax rates.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Great Lakes: Canada's Freshwater Giants",
+        "summary": "Students learn about the five Great Lakes on the Canada-U.S. border, their importance for shipping, drinking water, and industry, and locate them on a map of Ontario.",
+        "resourceLabel": "YouTube: The Great Lakes: Canada's Freshwater Giants",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Great%20Lakes%3A%20Canada%27s%20Freshwater%20Giants%20grade%205%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "What is the goal of Canadas equalization program?",
+            "q": "How many Great Lakes are there?",
             "options": [
-              "To eliminate all provincial governments",
-              "To help provinces offer comparable public services at similar tax rates",
-              "To end all interprovincial trade",
-              "To give every province exactly the same population"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which level of government provides equalization payments?",
-            "options": [
-              "A foreign government",
-              "The federal government",
-              "A private company",
-              "Only municipal governments"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which provinces are more likely to receive equalization payments?",
-            "options": [
-              "Only provinces bordering the United States",
-              "Every province receives the exact same amount regardless of need",
-              "Provinces with less economic capacity relative to others",
-              "Only the province with the most oil reserves"
+              "Four",
+              "Seven",
+              "Five",
+              "Three"
             ],
             "answer": 2
           },
           {
-            "q": "Why might equalization payments matter for services like health care and education?",
+            "q": "Which of these is one of the Great Lakes?",
             "options": [
-              "They help ensure residents across provinces can access similar levels of public services",
-              "This concept has no relevance to social studies",
-              "Equalization has no connection to public services",
-              "Equalization payments only fund national parks"
+              "Great Slave Lake",
+              "Great Bear Lake",
+              "Lake Ontario",
+              "Lake Winnipeg"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Great Lakes form part of the border between Canada and which country?",
+            "options": [
+              "Greenland",
+              "Mexico",
+              "The United States",
+              "France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are the Great Lakes important to Ontario's economy?",
+            "options": [
+              "They provide shipping routes, drinking water, and support industry",
+              "They are entirely frozen year-round",
+              "They have no economic importance",
+              "They are used only for sightseeing"
             ],
             "answer": 0
           },
           {
-            "q": "Why might this program be considered part of Canadian federalism?",
+            "q": "Which Great Lake is entirely within Canada's borders (not shared with the U.S.)?",
             "options": [
-              "It reflects cooperation between federal and provincial governments to share resources fairly",
-              "Provinces never interact with the federal government",
-              "This concept has no connection to Canadian government",
-              "Federalism has no connection to how money is shared between governments"
+              "Lake Huron",
+              "Lake Erie",
+              "None of the Great Lakes are entirely within Canada",
+              "Lake Ontario"
             ],
-            "answer": 0
+            "answer": 2
           }
         ]
       }
@@ -38637,63 +38640,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Underground Railroads Ontario Terminus Communities",
-        "summary": "Grade 5 Social Studies strand: many freedom seekers who escaped enslavement in the United States settled in southern Ontario communities such as Windsor, Chatham, and Buxton, which became important terminus points of the Underground Railroad.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Creation of Nunavut: Inuit Self-Determination",
+        "summary": "Students learn how Nunavut became Canada's newest territory in 1999 through a land claim agreement with the Inuit, giving Inuit people greater control over their homeland and government.",
+        "resourceLabel": "YouTube: The Creation of Nunavut: Inuit Self-Determination",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Creation%20of%20Nunavut%3A%20Inuit%20Self-Determination%20grade%205%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "What was a terminus community along the Underground Railroad?",
+            "q": "In what year was Nunavut created as a Canadian territory?",
             "options": [
-              "A city located only in the southern United States",
-              "A place where enslaved people were recaptured",
-              "A settlement where freedom seekers arrived and often settled permanently",
-              "A type of railway station for trains"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is an example of an Ontario terminus community for the Underground Railroad?",
-            "options": [
-              "Vancouver",
-              "Halifax",
-              "Chatham",
-              "Winnipeg"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why did many freedom seekers choose to settle in southern Ontario?",
-            "options": [
-              "It was located far from the United States border",
-              "This concept has no relevance to Canadian history",
-              "Ontario had no connection to the Underground Railroad",
-              "It was close to the border and offered freedom under British law"
+              "2010",
+              "1949",
+              "1982",
+              "1999"
             ],
             "answer": 3
           },
           {
-            "q": "What did many of these Ontario communities become known for after settlement?",
+            "q": "Nunavut was created mainly as a result of...",
             "options": [
-              "Areas that immediately became abandoned",
-              "Vibrant communities that contributed to local economic and cultural life",
-              "This concept has no connection to social studies",
-              "Places where no lasting communities were ever formed"
+              "A land claim agreement with the Inuit",
+              "A trade agreement with the United States",
+              "A war",
+              "A provincial election"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which group of Indigenous peoples make up the majority of Nunavut's population?",
+            "options": [
+              "Métis",
+              "Inuit",
+              "First Nations",
+              "Acadian"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it important for students to learn about these terminus communities today?",
+            "q": "What was Nunavut created out of?",
             "options": [
-              "They highlight an important part of Canadian and Black history",
-              "These communities have no historical significance",
-              "They only ever existed in the United States",
-              "This concept has no relevance to social studies"
+              "Part of British Columbia",
+              "Part of the Northwest Territories",
+              "Part of Ontario",
+              "Part of Quebec"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes what \"self-determination\" means in this context?",
+            "options": [
+              "A group being ruled entirely by another country",
+              "A group losing their traditional territory",
+              "A group having greater control over decisions affecting their own community and government",
+              "A group having no say in decisions about their land"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Communities & Community Helpers"
+        ]
       }
     ]
   },
@@ -38883,63 +38886,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Treaty Rights and Natural Resource Sharing",
-        "summary": "Grade 5 Social Studies strand: treaty rights are the rights held by Indigenous peoples under historic and modern treaties, and they often include agreements about how natural resources such as land, water, and wildlife are used and shared.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Chinese Immigration and the Head Tax",
+        "summary": "Students learn about Chinese immigrants who helped build the Canadian Pacific Railway and the discriminatory head tax the Canadian government later charged Chinese immigrants, along with the eventual apology.",
+        "resourceLabel": "YouTube: Chinese Immigration and the Head Tax",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chinese%20Immigration%20and%20the%20Head%20Tax%20grade%205%20educational",
+        "topic": "Immigration & Settlement",
         "quiz": [
           {
-            "q": "What are treaty rights?",
+            "q": "Many Chinese immigrants came to Canada in the late 1800s to work on...",
             "options": [
-              "Rights held by Indigenous peoples under historic and modern treaties",
-              "Rights that were never written down or recorded",
-              "Rights that apply only to non-Indigenous Canadians",
-              "A type of municipal bylaw"
+              "Government offices",
+              "The Canadian Navy",
+              "The Canadian Pacific Railway",
+              "Fishing boats only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the \"head tax\"?",
+            "options": [
+              "A tax all Canadians paid equally",
+              "A fee charged only to Chinese immigrants entering Canada",
+              "A tax on farm animals",
+              "A fee for mailing letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How did the head tax amount change over time?",
+            "options": [
+              "It increased significantly, making immigration harder for Chinese families",
+              "It disappeared immediately after being introduced",
+              "It stayed exactly the same forever",
+              "It was replaced by a discount for large families"
             ],
             "answer": 0
           },
           {
-            "q": "What kinds of resources might treaty agreements address?",
+            "q": "In 2006, the Canadian government formally...",
             "options": [
-              "Land, water, and wildlife use",
-              "Only the naming of new cities",
-              "Only decisions about school curriculum",
-              "Only decisions about national sports teams"
+              "Banned all immigration",
+              "Reinstated the head tax",
+              "Renamed the railway",
+              "Apologized for the head tax and related discriminatory laws"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might treaty rights be important when discussing natural resource use in Canada today?",
+            "q": "What does this history teach about Canada's past immigration policies?",
             "options": [
-              "They can affect decisions about how land and resources are managed and shared",
-              "Treaty rights have no connection to modern resource use",
-              "Treaties were never made regarding natural resources",
-              "This concept has no relevance to social studies"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do governments and Indigenous communities sometimes need to discuss treaty rights together?",
-            "options": [
-              "To ensure resource decisions respect agreements made in treaties",
-              "Only non-Indigenous communities are affected by treaties",
-              "This concept has no connection to Canadian history",
-              "Treaty rights never require any discussion"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is understanding treaty rights considered important for all Canadians?",
-            "options": [
-              "Treaty rights only matter to a small number of people",
-              "This concept has no relevance to social studies",
-              "Treaty rights have no connection to Canadian history",
-              "It helps Canadians understand the historic agreements that shape the country today"
+              "Canada has never apologized for any past policy",
+              "All immigration policies in Canadian history were fair to every group",
+              "Only European immigrants ever faced restrictions",
+              "Some past policies unfairly targeted specific groups based on where they came from"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -39129,60 +39132,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Role of the Chief Electoral Officer",
-        "summary": "Grade 5 Social Studies strand: the Chief Electoral Officer leads Elections Canada, the independent agency responsible for administering federal elections fairly and ensuring the voting process follows Canadian law.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Canadian Bill of Rights of 1960",
+        "summary": "Students learn about the Canadian Bill of Rights, passed in 1960, which was the first federal law to protect basic rights and freedoms and paved the way for the later Charter of Rights and Freedoms.",
+        "resourceLabel": "YouTube: The Canadian Bill of Rights of 1960",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Bill%20of%20Rights%20of%201960%20grade%205%20educational",
+        "topic": "Human Rights & Social Movements",
         "quiz": [
           {
-            "q": "What agency does the Chief Electoral Officer lead?",
+            "q": "In what year was the Canadian Bill of Rights passed?",
             "options": [
-              "Elections Canada",
-              "The Senate",
-              "The Bank of Canada",
-              "The Supreme Court"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the Chief Electoral Officers main responsibility?",
-            "options": [
-              "Writing all federal laws",
-              "Administering federal elections fairly",
-              "Managing the countrys currency",
-              "Leading the Canadian Armed Forces"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is it important for the Chief Electoral Officer to be independent from political parties?",
-            "options": [
-              "Independence has no connection to fair elections",
-              "The Chief Electoral Officer is always a member of one political party",
-              "This concept has no relevance to social studies",
-              "Independence helps ensure elections are conducted fairly and without political bias"
+              "1867",
+              "1927",
+              "1982",
+              "1960"
             ],
             "answer": 3
           },
           {
-            "q": "What might Elections Canada help ensure during a federal election?",
+            "q": "The Canadian Bill of Rights was an early step toward protecting...",
             "options": [
-              "That elections are cancelled if too many people want to vote",
-              "That only one political party is allowed to participate",
-              "That voting procedures follow Canadian law and are accessible to eligible voters",
-              "This concept has no connection to Canadian government"
+              "Provincial borders",
+              "Basic rights and freedoms of Canadians",
+              "Foreign trade",
+              "Municipal budgets"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why do Canadians rely on an independent body to oversee elections?",
+            "q": "Which later document expanded on the ideas in the Canadian Bill of Rights?",
             "options": [
-              "An independent body has no effect on public trust",
-              "This concept has no relevance to democracy",
-              "It helps maintain public trust in the fairness of the democratic process",
-              "Elections do not require any oversight at all"
+              "The Statute of Westminster",
+              "The Charter of Rights and Freedoms",
+              "The Indian Act",
+              "The War Measures Act"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Who was the Prime Minister when the Canadian Bill of Rights was introduced?",
+            "options": [
+              "John Diefenbaker",
+              "Lester B. Pearson",
+              "John A. Macdonald",
+              "Pierre Trudeau"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A key limitation of the 1960 Bill of Rights, later addressed by the Charter, was that it...",
+            "options": [
+              "Gave the Prime Minister unlimited power",
+              "Applied only to federal laws, not provincial ones",
+              "Was written in a language no one could read",
+              "Applied to every country in the world"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -39373,60 +39377,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas Supply Management System",
-        "summary": "Grade 5 Social Studies strand: supply management is a Canadian system that controls the production of certain farm products, such as dairy and eggs, to help stabilize prices for farmers and maintain a steady supply for consumers.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Japanese Canadian Internment During World War II",
+        "summary": "Students learn how, during World War II, the Canadian government forcibly relocated and interned Japanese Canadians and seized their property, and later issued a formal apology and redress in 1988.",
+        "resourceLabel": "YouTube: Japanese Canadian Internment During World War II",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Japanese%20Canadian%20Internment%20During%20World%20War%20II%20grade%205%20educational",
+        "topic": "History: 20th Century Canada",
         "quiz": [
           {
-            "q": "What does Canadas supply management system control?",
+            "q": "During which war were Japanese Canadians forcibly interned by the Canadian government?",
             "options": [
-              "The number of cars manufactured in Canada",
-              "The amount of snow that falls each winter",
-              "The production of certain farm products, such as dairy and eggs",
-              "The number of students allowed in schools"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one goal of supply management?",
-            "options": [
-              "To make farm products more expensive with no limit",
-              "To increase imports of every product",
-              "To help stabilize prices for farmers",
-              "To eliminate farming in Canada entirely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these products is commonly associated with Canadas supply management system?",
-            "options": [
-              "Automobiles",
-              "Dairy",
-              "Electronics",
-              "Steel"
+              "The Korean War",
+              "World War II",
+              "The Cold War",
+              "World War I"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a steady supply of certain farm products matter to consumers?",
+            "q": "What happened to the property of many interned Japanese Canadians?",
             "options": [
-              "It can help ensure product availability and more predictable prices",
-              "A steady supply has no effect on consumers at all",
-              "Supply management always leads to product shortages",
-              "This concept has no connection to social studies"
+              "It was sold off by the government, often without fair compensation",
+              "It was carefully protected and returned in full",
+              "It was given to their neighbours to look after",
+              "Nothing happened to it"
             ],
             "answer": 0
           },
           {
-            "q": "Why might farmers support a supply management system?",
+            "q": "In what year did the Canadian government issue a formal apology and redress for the internment?",
             "options": [
-              "Supply management always reduces farmer income to zero",
-              "It can provide more predictable income by managing production and pricing",
-              "This concept has no relevance to social studies",
-              "Farmers are never affected by how much they produce"
+              "2001",
+              "1945",
+              "1988",
+              "1968"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where were many interned Japanese Canadians moved to?",
+            "options": [
+              "Other countries",
+              "Internment camps in the B.C. interior and elsewhere",
+              "Naval bases",
+              "Large cities on the west coast"
             ],
             "answer": 1
+          },
+          {
+            "q": "What was one stated reason the government gave for the internment at the time?",
+            "options": [
+              "A shortage of housing",
+              "A trade dispute",
+              "A request from Japanese Canadians themselves",
+              "Claimed (but unproven) concerns about national security"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -39863,63 +39868,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Interprovincial Migration Patterns in Canada",
-        "summary": "Grade 5 Social Studies strand: interprovincial migration refers to Canadians moving from one province or territory to another, often influenced by factors such as job opportunities, cost of living, or climate.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Official Multiculturalism Policy of 1971",
+        "summary": "Students learn how Canada became the first country in the world to adopt an official multiculturalism policy in 1971, encouraging cultural diversity as part of Canadian identity.",
+        "resourceLabel": "YouTube: Canada's Official Multiculturalism Policy of 1971",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Official%20Multiculturalism%20Policy%20of%201971%20grade%205%20educational",
+        "topic": "Culture, Diversity & Multiculturalism",
         "quiz": [
           {
-            "q": "What does interprovincial migration mean?",
+            "q": "In what year did Canada adopt its official Multiculturalism Policy?",
             "options": [
-              "A type of government election",
-              "Animals migrating between provinces",
-              "People moving between different countries",
-              "Canadians moving from one province or territory to another"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is one factor that might influence someones decision to move to a different province?",
-            "options": [
-              "The number of letters in the province name",
-              "Job opportunities",
-              "The colour of the provincial flag",
-              "The name of the provincial capital"
+              "1999",
+              "1971",
+              "1867",
+              "1931"
             ],
             "answer": 1
           },
           {
-            "q": "Why might the cost of living affect interprovincial migration?",
+            "q": "Canada was the first country in the world to do what?",
             "options": [
-              "People may move to provinces where housing and daily expenses are more affordable",
-              "The cost of living is always identical in every province",
-              "Cost of living has no connection to where people choose to live",
-              "This concept has no relevance to social studies"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might governments track interprovincial migration patterns?",
-            "options": [
-              "To understand population changes and plan services like schools and housing",
-              "Tracking migration patterns serves no purpose for governments",
-              "Population data is never useful for planning services",
-              "This concept has no connection to social studies"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a province experiencing population growth need to plan carefully?",
-            "options": [
-              "Provinces never experience changes in population",
-              "Growth can increase demand for housing, schools, and other public services",
-              "This concept has no relevance to social studies",
-              "Population growth never affects the need for public services"
+              "Hold a federal election",
+              "Adopt an official multiculturalism policy",
+              "Create a national anthem",
+              "Ban immigration"
             ],
             "answer": 1
+          },
+          {
+            "q": "What is the main idea behind Canada's multiculturalism policy?",
+            "options": [
+              "All newcomers must give up their original culture",
+              "Only one culture is officially recognized",
+              "Cultural diversity should be encouraged and respected as part of Canadian identity",
+              "Multiculturalism applies only to Indigenous peoples"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Multiculturalism in Canada is different from bilingualism because it focuses on...",
+            "options": [
+              "Trade agreements",
+              "Provincial borders",
+              "Respect for many different cultural backgrounds, not just two founding languages",
+              "The use of French and English languages"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of multiculturalism policy in action in Canadian communities?",
+            "options": [
+              "Requiring all citizens to speak the same language at home",
+              "Closing all places of worship",
+              "Supporting cultural festivals, heritage languages, and diverse community organizations",
+              "Banning cultural festivals"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Population & Urbanization"
+        ]
       }
     ]
   },
@@ -40352,60 +40357,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Government Oversight, History, and Community",
-        "summary": "Grade 5 Social Studies strand review: students revisit the Auditor General, equalization payments, Underground Railroad terminus communities, treaty rights, and the Chief Electoral Officer.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Supply and Demand: How Markets Work",
+        "summary": "Students learn the basic economic concept of supply and demand -- how the amount of a good available and how much people want it affect prices in the marketplace.",
+        "resourceLabel": "YouTube: Supply and Demand: How Markets Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Supply%20and%20Demand%3A%20How%20Markets%20Work%20grade%205%20educational",
+        "topic": "Economics & Trade",
         "quiz": [
           {
-            "q": "What does the Auditor General examine?",
+            "q": "What generally happens to the price of an item when demand is high but supply is low?",
             "options": [
-              "The results of sports competitions",
-              "The weather across Canada",
-              "How government departments spend public money",
-              "Private business decisions only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the goal of Canadas equalization program?",
-            "options": [
-              "To give every province exactly the same population",
-              "To help provinces offer comparable public services at similar tax rates",
-              "To end all interprovincial trade",
-              "To eliminate all provincial governments"
+              "The item disappears from stores permanently",
+              "The price tends to go up",
+              "The price never changes",
+              "The price tends to go down"
             ],
             "answer": 1
           },
           {
-            "q": "What was a terminus community along the Underground Railroad?",
+            "q": "\"Supply\" refers to...",
             "options": [
-              "A city located only in the southern United States",
-              "A place where enslaved people were recaptured",
-              "A type of railway station for trains",
-              "A settlement where freedom seekers arrived and often settled permanently"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What are treaty rights?",
-            "options": [
-              "Rights that were never written down or recorded",
-              "Rights held by Indigenous peoples under historic and modern treaties",
-              "A type of municipal bylaw",
-              "Rights that apply only to non-Indigenous Canadians"
+              "The cost of shipping",
+              "How much of a good or service is available",
+              "How much people want to buy something",
+              "The price a government sets"
             ],
             "answer": 1
           },
           {
-            "q": "What agency does the Chief Electoral Officer lead?",
+            "q": "If a new, more efficient way to grow apples means farmers can produce many more apples, what would likely happen to apple prices, all else being equal?",
             "options": [
-              "The Senate",
-              "The Bank of Canada",
-              "The Supreme Court",
-              "Elections Canada"
+              "Prices would likely fall, since supply increased",
+              "Prices would likely rise",
+              "Prices would stay exactly the same",
+              "Apples would disappear from the market"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "\"Demand\" refers to...",
+            "options": [
+              "The location of a factory",
+              "How much people want to buy something at a given price",
+              "How much of something is available for sale",
+              "The rules a store must follow"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which situation shows supply and demand affecting price in daily life?",
+            "options": [
+              "Umbrella prices rising during an unexpected rainy season due to high demand",
+              "Stores never changing any prices",
+              "The price of milk being fixed forever by law",
+              "Every product always costing exactly the same everywhere"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -40597,60 +40603,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Federal Cabinet and the Role of Ministers",
-        "summary": "Grade 5 Social Studies strand: the federal cabinet is a group of ministers, chosen by the prime minister, who each oversee a specific government department and help decide government policy.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Terry Fox and the Marathon of Hope",
+        "summary": "Students learn about Terry Fox, a young Canadian who ran partway across Canada on one leg to raise money for cancer research, and how his Marathon of Hope continues to inspire annual fundraising runs today.",
+        "resourceLabel": "YouTube: Terry Fox and the Marathon of Hope",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Terry%20Fox%20and%20the%20Marathon%20of%20Hope%20grade%205%20educational",
+        "topic": "Famous Canadians & History (Basic)",
         "quiz": [
           {
-            "q": "Who chooses the members of the federal cabinet?",
+            "q": "What was the name of Terry Fox's cross-Canada run?",
             "options": [
-              "The prime minister",
-              "The Supreme Court",
-              "The Governor General alone",
-              "The Chief Electoral Officer"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a cabinet minister typically oversee?",
-            "options": [
-              "A single school in one city",
-              "A professional sports league",
-              "A private business with no government connection",
-              "A specific government department"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is one main role of the federal cabinet as a group?",
-            "options": [
-              "Managing the affairs of individual municipalities only",
-              "Helping decide government policy",
-              "Selecting the winners of national sports championships",
-              "Deciding the outcome of court cases"
+              "The Hope Marathon Trail",
+              "The Marathon of Hope",
+              "The Freedom Run",
+              "The Canada Challenge"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a prime minister choose ministers with different areas of expertise?",
+            "q": "Why did Terry Fox undertake his run?",
             "options": [
-              "Different ministers can focus on different policy areas such as health or finance",
-              "Every minister must focus on the exact same department",
-              "This concept has no relevance to Canadian government",
-              "Expertise has no connection to being a cabinet minister"
+              "To promote a new product",
+              "To win a race",
+              "To raise money and awareness for cancer research",
+              "To become famous"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What made Terry Fox's achievement especially remarkable?",
+            "options": [
+              "He ran without stopping to eat or sleep",
+              "He ran using a prosthetic leg after losing part of his leg to cancer",
+              "He was over 70 years old",
+              "He ran the fastest marathon ever recorded"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what decade did Terry Fox begin his Marathon of Hope?",
+            "options": [
+              "1980s",
+              "1960s",
+              "1990s",
+              "1970s"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the cabinet considered an important part of the federal government?",
+            "q": "How is Terry Fox's legacy honoured in Canada today?",
             "options": [
-              "This concept has no connection to social studies",
-              "The cabinet only exists at the municipal level",
-              "It helps develop and carry out government policy across many departments",
-              "The cabinet has no role in Canadian government at all"
+              "Only doctors participate in events honouring him",
+              "Through annual Terry Fox Runs held in communities across the country",
+              "A single race was held once and never repeated",
+              "His story is no longer taught or remembered"
             ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }
@@ -40842,58 +40849,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Speaker of the House of Commons",
-        "summary": "Grade 5 Social Studies strand: the Speaker of the House of Commons is a Member of Parliament elected by other MPs to preside over debates, maintain order, and ensure the rules of Parliament are followed.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Prairie Provinces: The Breadbasket of Canada",
+        "summary": "Students explore Alberta, Saskatchewan, and Manitoba, learning why the flat, fertile land of the Prairies makes the region one of the world's most important sources of wheat and other grain crops.",
+        "resourceLabel": "YouTube: Canada's Prairie Provinces: The Breadbasket of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Prairie%20Provinces%3A%20The%20Breadbasket%20of%20Canada%20grade%205%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "Who elects the Speaker of the House of Commons?",
+            "q": "Which three provinces make up Canada's Prairie region?",
             "options": [
-              "The Prime Minister alone",
-              "Other Members of Parliament",
-              "The Governor General alone",
-              "The Supreme Court"
+              "Alberta, Saskatchewan, Manitoba",
+              "Ontario, Quebec, Nova Scotia",
+              "British Columbia, Yukon, Alberta",
+              "New Brunswick, PEI, Nova Scotia"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What is a main responsibility of the Speaker?",
+            "q": "Why is the Prairie region well suited for growing grain crops like wheat?",
             "options": [
-              "Leading the Canadian Armed Forces",
-              "Writing every federal law personally",
-              "Managing the countrys currency",
-              "Presiding over debates and maintaining order"
+              "It is mostly mountainous",
+              "It has no farmland at all",
+              "It is covered in dense rainforest",
+              "It has flat, fertile land and a suitable growing season"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it important for the Speaker to remain impartial during debates?",
+            "q": "What nickname is often given to the Canadian Prairies because of their importance for grain production?",
             "options": [
-              "Impartiality has no connection to how debates are run",
-              "Impartiality helps ensure fair and orderly discussion among all Members of Parliament",
-              "The Speaker is always a member of the governing party alone",
-              "This concept has no relevance to social studies"
+              "The Iron Belt",
+              "The Golden Coast",
+              "The Fishing Grounds",
+              "The Breadbasket of Canada"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What might the Speaker do if Members of Parliament are not following the rules of debate?",
+            "q": "Besides farming, what other major industry is important in the Prairie provinces?",
             "options": [
-              "Cancel the entire session of Parliament immediately",
-              "Call them to order and enforce the rules of Parliament",
-              "This concept has no connection to Canadian government",
-              "Ignore any rule-breaking completely"
+              "Oil and gas extraction",
+              "Whaling",
+              "Tropical fruit growing",
+              "Deep-sea fishing"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why does the House of Commons need someone in the role of Speaker?",
+            "q": "Which prairie province is generally the flattest, with the least variation in landscape?",
             "options": [
-              "A Speaker has no useful role in Parliament",
-              "Debates could never be organized without complete chaos regardless of a Speaker",
-              "To help debates run fairly, calmly, and according to established rules",
-              "This concept has no relevance to Canadian government"
+              "British Columbia",
+              "Newfoundland",
+              "Saskatchewan",
+              "Quebec"
             ],
             "answer": 2
           }
@@ -41333,63 +41341,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Credit Unions and Cooperatives: Banking Owned by Members",
-        "summary": "Grade 5 Social Studies strand: a credit union is a financial cooperative owned and controlled by its members, who share in decision-making and any profits, unlike a bank owned by outside shareholders.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Supreme Court of Canada and Its Role",
+        "summary": "Students learn about the Supreme Court of Canada, the highest court in the country, including how its judges are appointed and why its decisions are final.",
+        "resourceLabel": "YouTube: The Supreme Court of Canada and Its Role",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Supreme%20Court%20of%20Canada%20and%20Its%20Role%20grade%205%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "Who owns a credit union?",
+            "q": "What is the Supreme Court of Canada?",
             "options": [
-              "Its members",
-              "A foreign company",
-              "A single wealthy shareholder",
-              "Only the federal government"
+              "A provincial court found in every city",
+              "The lowest court in the country",
+              "The highest court in the country, whose decisions are final",
+              "A court that only handles traffic tickets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many judges typically sit on the Supreme Court of Canada?",
+            "options": [
+              "9",
+              "50",
+              "3",
+              "1"
             ],
             "answer": 0
           },
           {
-            "q": "How does a credit union differ from a typical bank?",
+            "q": "Who formally appoints judges to the Supreme Court of Canada?",
             "options": [
-              "A credit union is always owned by the federal government",
-              "A credit union has no connection to banking services at all",
-              "This concept has no relevance to social studies",
-              "A credit union is owned by its members rather than outside shareholders"
+              "The United Nations",
+              "The Governor General, on the advice of the Prime Minister",
+              "The voters, in a direct election",
+              "The mayor of Ottawa"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What might members of a credit union be able to do that shareholders of a typical bank cannot?",
+            "q": "What kind of cases might reach the Supreme Court of Canada?",
             "options": [
-              "Take part more directly in decision-making about the cooperative",
-              "This concept has no connection to cooperatives",
-              "Members of a credit union have no say in how it operates",
-              "Only bank shareholders can ever vote on decisions"
+              "Only minor local disputes",
+              "Only cases about traffic laws",
+              "Important cases involving significant legal questions, often appealed from lower courts",
+              "Only cases involving other countries"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why might some people choose to use a credit union instead of a large bank?",
+            "q": "Why is it significant that the Supreme Court of Canada's decisions are final?",
             "options": [
-              "They may value being a member-owner with a voice in the organization",
-              "This concept has no relevance to financial literacy",
-              "Credit unions are identical in every way to large banks",
-              "Credit unions never offer any banking services to their members"
+              "They can always be appealed to another country's court",
+              "They can be overturned by any provincial government",
+              "There is no higher court in Canada to appeal to after its ruling",
+              "They only apply for one year"
             ],
-            "answer": 0
-          },
-          {
-            "q": "What is one way that profits might be shared in a credit union?",
-            "options": [
-              "They may be returned to members or reinvested in services",
-              "A credit union never earns any profit",
-              "This concept has no connection to cooperatives",
-              "Profits are always kept by a single owner alone"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        ]
       }
     ]
   },
@@ -41578,63 +41586,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Canadian Human Rights Commission and Its Role",
-        "summary": "Grade 5 Social Studies strand: the Canadian Human Rights Commission investigates complaints of discrimination in federally regulated workplaces and services, working to promote equality across Canada.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Vimy Ridge and Canada's Coming of Age",
+        "summary": "Students learn about the Battle of Vimy Ridge in 1917, where Canadian troops fought together as one force for the first time, a victory often seen as a defining moment in Canadian national identity.",
+        "resourceLabel": "YouTube: Vimy Ridge and Canada's Coming of Age",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vimy%20Ridge%20and%20Canada%27s%20Coming%20of%20Age%20grade%205%20educational",
+        "topic": "History: 20th Century Canada",
         "quiz": [
           {
-            "q": "What does the Canadian Human Rights Commission investigate?",
+            "q": "During which war did the Battle of Vimy Ridge take place?",
             "options": [
-              "The design of Canadian currency",
-              "International trade agreements",
-              "Complaints of discrimination in federally regulated workplaces and services",
-              "The results of provincial sports competitions"
+              "World War II",
+              "The War of 1812",
+              "The Korean War",
+              "World War I"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What made the Battle of Vimy Ridge significant for Canadian identity?",
+            "options": [
+              "It ended World War I",
+              "It was fought entirely by British troops",
+              "It was the first time all four Canadian divisions fought together as one force",
+              "It took place in Canada"
             ],
             "answer": 2
           },
           {
-            "q": "What is one goal of the Canadian Human Rights Commission?",
+            "q": "In what year did the Battle of Vimy Ridge take place?",
             "options": [
-              "Managing national parks",
-              "Promoting equality across Canada",
-              "Setting the countrys interest rates",
-              "Eliminating all federal government departments"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Who might bring a complaint to the Canadian Human Rights Commission?",
-            "options": [
-              "Only foreign governments",
-              "Only large corporations",
-              "Only members of Parliament",
-              "A person who believes they experienced discrimination in a federally regulated setting"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might an independent commission be useful for addressing discrimination complaints?",
-            "options": [
-              "This concept has no relevance to social studies",
-              "Complaints are always reviewed unfairly regardless of independence",
-              "Independence has no connection to reviewing complaints fairly",
-              "Independence can help ensure complaints are reviewed fairly"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might learning about the Canadian Human Rights Commission be important for students?",
-            "options": [
-              "It helps students understand how Canada works to protect equality and fairness",
-              "Human rights protections do not apply anywhere in Canada",
-              "This concept has no relevance to social studies",
-              "This organization has no connection to Canadian rights"
+              "1917",
+              "1867",
+              "1970",
+              "1945"
             ],
             "answer": 0
+          },
+          {
+            "q": "Where is Vimy Ridge located?",
+            "options": [
+              "In Belgium",
+              "In Canada",
+              "In Germany",
+              "In France"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the Battle of Vimy Ridge commemorated today?",
+            "options": [
+              "It is forgotten and not marked in any way",
+              "It is celebrated only in one small town",
+              "No memorial exists anywhere",
+              "A Canadian National Vimy Memorial stands at the site in France"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Human Rights & Social Movements"
+        ]
       }
     ]
   },
@@ -42582,63 +42590,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Role of Access to Information Laws in Canadian Government",
-        "summary": "Grade 5 Social Studies strand: access to information laws allow citizens to request records and documents from government institutions, helping keep government actions transparent and accountable to the public.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Aging Population and Its Effects",
+        "summary": "Students examine how Canada's population is aging as birth rates fall and life expectancy rises, and consider the effects on health care, the workforce, and government planning.",
+        "resourceLabel": "YouTube: Canada's Aging Population and Its Effects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Aging%20Population%20and%20Its%20Effects%20grade%205%20educational",
+        "topic": "Population & Urbanization",
         "quiz": [
           {
-            "q": "What do access to information laws allow citizens to do?",
+            "q": "What does it mean when we say a country's population is \"aging\"?",
             "options": [
-              "Run for a seat in the House of Commons at any age",
-              "Change a law without any government process",
-              "Request records and documents from government institutions",
-              "Vote in a federal election before the age of eighteen"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one goal of access to information laws?",
-            "options": [
-              "This concept has no connection to Canadian government",
-              "Eliminating all forms of government record keeping",
-              "Keeping government actions transparent and accountable",
-              "Preventing citizens from ever learning about government decisions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a journalist use access to information laws?",
-            "options": [
-              "To request government records that help inform public reporting",
-              "This concept has no relevance to social studies",
-              "Journalists are never allowed to request government information",
-              "Access to information laws only apply to elected officials"
+              "The proportion of older people in the population is increasing",
+              "The country's buildings are getting older",
+              "The population is shrinking every year",
+              "The country's currency is losing value"
             ],
             "answer": 0
           },
           {
-            "q": "Why might transparency be considered important in a democratic government?",
+            "q": "Which factor contributes to Canada's aging population?",
             "options": [
-              "This concept has no relevance to Canadian government",
-              "Citizens never need to know about government decisions",
-              "It helps citizens understand and hold their government accountable",
-              "Transparency has no connection to how a democracy functions"
+              "Increasing rainfall",
+              "Rising life expectancy",
+              "A shrinking land area",
+              "A decrease in the number of provinces"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What might happen if a government had no access to information laws at all?",
+            "q": "An aging population can put more pressure on which government service in particular?",
             "options": [
-              "Government transparency would automatically increase without these laws",
-              "This concept has no connection to social studies",
-              "Nothing would change since these laws have no real purpose",
-              "Citizens might find it harder to learn about or question government actions"
+              "Space exploration",
+              "Health care and pension systems",
+              "Highway construction only",
+              "National parks"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Besides an aging population, which other factor affects how quickly a population's age balance shifts?",
+            "options": [
+              "Birth rate",
+              "The colour of the national flag",
+              "The number of time zones",
+              "The name of the capital city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one strategy governments may use to address the effects of an aging population?",
+            "options": [
+              "Banning retirement",
+              "Ignoring the trend completely",
+              "Encouraging immigration to help balance the age structure of the workforce",
+              "Reducing the number of hospitals"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -42825,60 +42833,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "SocialStudies Review: Government Institutions, Trade, and Global Connections",
-        "summary": "Grade 5 Social Studies strand review: students revisit the federal cabinet, the Speaker of the House of Commons, municipal bylaws, credit unions and cooperatives, and the Canadian Human Rights Commission.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Quiet Revolution in Quebec",
+        "summary": "Students learn about the Quiet Revolution, a period of rapid social, political, and economic change in Quebec during the 1960s that reshaped the province's identity and its relationship with the rest of Canada.",
+        "resourceLabel": "YouTube: The Quiet Revolution in Quebec",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Quiet%20Revolution%20in%20Quebec%20grade%205%20educational",
+        "topic": "History: 20th Century Canada",
         "quiz": [
           {
-            "q": "Who chooses the members of the federal cabinet?",
+            "q": "During which decade did Quebec's Quiet Revolution take place?",
             "options": [
-              "The Chief Electoral Officer",
-              "The Governor General alone",
-              "The Supreme Court",
-              "The prime minister"
+              "1980s",
+              "2000s",
+              "1960s",
+              "1930s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The term \"Quiet Revolution\" refers to a period of major change in Quebec that was largely...",
+            "options": [
+              "Led entirely by another country",
+              "Focused only on sports",
+              "Violent and involved armed conflict",
+              "Peaceful, achieved through political and social reform rather than war"
             ],
             "answer": 3
           },
           {
-            "q": "Who elects the Speaker of the House of Commons?",
+            "q": "Which area of Quebec society saw major change during the Quiet Revolution?",
             "options": [
-              "Other Members of Parliament",
-              "The Governor General alone",
-              "The Supreme Court",
-              "The Prime Minister alone"
+              "The role of the Roman Catholic Church in schools and health care declined as the provincial government took on more responsibility",
+              "All schools in Quebec were closed permanently",
+              "Quebec's population decreased to zero",
+              "Quebec left Confederation entirely"
             ],
             "answer": 0
           },
           {
-            "q": "Who passes municipal bylaws?",
+            "q": "The Quiet Revolution helped strengthen a sense of what in Quebec?",
             "options": [
-              "City or town councils",
-              "The Supreme Court",
-              "A private company",
-              "The federal Parliament"
+              "A new national anthem for Canada",
+              "Loyalty to another country",
+              "Quebec nationalism and provincial identity",
+              "Interest in Arctic exploration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of change happened to Quebec's economy during this period?",
+            "options": [
+              "The provincial government took a larger, more active role in managing the economy",
+              "Quebec stopped trading with other provinces",
+              "The economy became entirely agricultural",
+              "All industries were shut down"
             ],
             "answer": 0
-          },
-          {
-            "q": "Who owns a credit union?",
-            "options": [
-              "Only the federal government",
-              "A foreign company",
-              "A single wealthy shareholder",
-              "Its members"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the Canadian Human Rights Commission investigate?",
-            "options": [
-              "The results of provincial sports competitions",
-              "International trade agreements",
-              "The design of Canadian currency",
-              "Complaints of discrimination in federally regulated workplaces and services"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -43069,63 +43078,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Privy Council and Its Role in Canadian Government",
-        "summary": "Grade 5 Social Studies strand: the Privy Council is a formal body that advises the Governor General, though in practice most of its authority is exercised by the Cabinet on behalf of the prime minister.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Indigenous Peoples and the Fur Trade Economy",
+        "summary": "Students learn how First Nations peoples were essential trading partners in the historic fur trade, providing knowledge, skills, and furs that shaped the early Canadian economy and relationships with European traders.",
+        "resourceLabel": "YouTube: Indigenous Peoples and the Fur Trade Economy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Indigenous%20Peoples%20and%20the%20Fur%20Trade%20Economy%20grade%205%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "Who does the Privy Council formally advise?",
+            "q": "What role did First Nations peoples play in the historic fur trade?",
             "options": [
-              "The Supreme Court",
-              "The Governor General",
-              "A foreign government",
-              "A municipal council"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In practice, who exercises most of the authority connected to the Privy Council?",
-            "options": [
-              "A single unelected official",
-              "The Speaker of the House of Commons alone",
-              "The Cabinet, on behalf of the prime minister",
-              "This concept has no connection to Canadian government"
+              "They only observed from a distance",
+              "They were forbidden from trading",
+              "They were essential trading partners who trapped, prepared, and traded furs",
+              "They had no involvement in the fur trade"
             ],
             "answer": 2
           },
           {
-            "q": "What government office supports the daily work connected to the Privy Council?",
+            "q": "Which resource was most central to the fur trade economy?",
             "options": [
-              "The Supreme Court Registry",
-              "This concept has no relevance to Canadian government",
-              "The Bank of Canada",
-              "The Privy Council Office"
+              "Beaver pelts",
+              "Oil",
+              "Wheat",
+              "Gold"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did European traders often offer First Nations traders in exchange for furs?",
+            "options": [
+              "Only paper money",
+              "Goods such as metal tools, cloth, and firearms",
+              "Land titles",
+              "Nothing in return"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was Indigenous knowledge important to the success of the fur trade?",
+            "options": [
+              "It was not important at all",
+              "All fur trade routes were mapped by satellite",
+              "Fur traders never needed guides",
+              "Indigenous peoples' knowledge of the land, waterways, and animals guided trade routes and trapping"
             ],
             "answer": 3
           },
           {
-            "q": "Why might Canada keep a formal body like the Privy Council even though the Cabinet carries out most of its work?",
+            "q": "How did the fur trade affect relationships between Indigenous nations and European traders?",
             "options": [
-              "This concept has no connection to social studies",
-              "It preserves a long-standing constitutional structure for advising the Crown",
-              "The Privy Council has no purpose in Canadian government at all",
-              "The Privy Council replaced the Cabinet entirely long ago"
+              "It created complex alliances and trading partnerships, though it also brought disruption and conflict over time",
+              "It had no effect on relationships",
+              "It only involved European nations trading with each other",
+              "It ended all contact between the two groups"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is understanding the Privy Council useful when learning about Canadian government?",
-            "options": [
-              "The Privy Council has no connection to how Canada is governed",
-              "Every part of Canadian government works in exactly the same way",
-              "It shows how formal and practical roles in government can differ from each other",
-              "This concept has no relevance to social studies"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -43315,60 +43324,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Supreme Court of Canada and Its Role",
-        "summary": "Grade 5 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on legal disputes and interpreting how the Constitution and the Charter of Rights and Freedoms apply.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Types of Taxes: Income, Sales, and Property Tax",
+        "summary": "Students learn about the main types of taxes Canadians pay -- income tax, sales tax, and property tax -- and how each is collected and used to fund public services.",
+        "resourceLabel": "YouTube: Types of Taxes: Income, Sales, and Property Tax",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Taxes%3A%20Income%2C%20Sales%2C%20and%20Property%20Tax%20grade%205%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "What is the Supreme Court of Canada?",
+            "q": "Income tax is a tax based on...",
             "options": [
-              "The highest court in the country",
-              "A court found only in one province",
-              "A committee that writes new federal laws",
-              "A court that only handles municipal bylaws"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is one role of the Supreme Court of Canada?",
-            "options": [
-              "Interpreting how the Constitution and the Charter of Rights and Freedoms apply",
-              "Managing the Canadian Armed Forces",
-              "Running national elections",
-              "Collecting federal taxes"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Whose decisions can be appealed all the way up to the Supreme Court of Canada?",
-            "options": [
-              "This concept has no connection to social studies",
-              "Decisions made only by foreign governments",
-              "Decisions made only by municipal councils",
-              "Decisions made by lower courts across the country"
+              "The value of a person's home",
+              "A person's age",
+              "How many items a person buys",
+              "How much money a person earns"
             ],
             "answer": 3
           },
           {
-            "q": "Why might having a single highest court be important for the country?",
+            "q": "Sales tax, like the HST or GST, is charged...",
             "options": [
-              "A highest court has no effect on how laws are applied",
-              "It provides a final, consistent interpretation of the law for all of Canada",
-              "This concept has no relevance to Canadian government",
-              "Every province could otherwise interpret national laws in a completely different way with no resolution"
+              "Only in one province in Canada",
+              "When people purchase most goods and services",
+              "Only once a year on income",
+              "Only to businesses, never to individual shoppers"
             ],
             "answer": 1
           },
           {
-            "q": "Why might the Supreme Court of Canada be considered especially important when a case involves the Charter of Rights and Freedoms?",
+            "q": "Property tax is typically collected by which level of government?",
             "options": [
-              "Its rulings can determine how rights and freedoms are protected across the country",
-              "The Supreme Court has no connection to the Charter of Rights and Freedoms",
-              "Charter cases are never reviewed by the Supreme Court",
-              "This concept has no relevance to social studies"
+              "The United Nations",
+              "Municipal (local) government",
+              "No government collects property tax",
+              "Federal government only"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes why governments collect these different taxes?",
+            "options": [
+              "Only to pay for national holidays",
+              "Taxes serve no real purpose",
+              "To fund public services like schools, roads, and hospitals",
+              "To keep the money for personal use by politicians"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If someone owns a house, which type of tax would they pay based on the value of that house?",
+            "options": [
+              "Income tax",
+              "Property tax",
+              "Sales tax",
+              "Import tax"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -43828,63 +43838,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Sixties Scoop and Its Impact on Indigenous Families",
-        "summary": "Grade 5 Social Studies strand: the Sixties Scoop refers to a period when many Indigenous children in Canada were removed from their families and placed in non-Indigenous homes, disrupting their connection to their culture and communities.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Three Territories: Yukon, NWT, and Nunavut",
+        "summary": "Students compare Canada's three northern territories -- Yukon, the Northwest Territories, and Nunavut -- exploring how they differ from provinces and what makes each territory unique.",
+        "resourceLabel": "YouTube: Canada's Three Territories: Yukon, NWT, and Nunavut",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Three%20Territories%3A%20Yukon%2C%20NWT%2C%20and%20Nunavut%20grade%205%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "What does the term Sixties Scoop refer to?",
+            "q": "How many territories does Canada have?",
             "options": [
-              "A period when many Indigenous children were removed from their families and placed in non-Indigenous homes",
-              "This concept has no connection to Canadian history",
-              "A national sports competition held in the 1960s",
-              "A program that built new highways across Canada"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What was one major effect of the Sixties Scoop on Indigenous children?",
-            "options": [
-              "This concept has no relevance to social studies",
-              "No effect on their lives at all",
-              "A disrupted connection to their culture and communities",
-              "An improved connection to their culture and communities"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Around which decade did the Sixties Scoop primarily take place?",
-            "options": [
-              "The 1600s",
-              "The 1990s only",
-              "The 1960s and into later decades",
-              "This concept has no connection to Canadian history"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is learning about the Sixties Scoop considered important for understanding Canadian history?",
-            "options": [
-              "The Sixties Scoop had no lasting impact on anyone",
-              "This concept has no relevance to social studies",
-              "This event has no connection to Canadian history",
-              "It helps students understand the lasting impact of past policies on Indigenous families and communities"
+              "Five",
+              "One",
+              "Two",
+              "Three"
             ],
             "answer": 3
           },
           {
-            "q": "Why might learning about the Sixties Scoop connect to broader lessons about reconciliation in Canada?",
+            "q": "Which of these is one of Canada's three territories?",
             "options": [
-              "Understanding past harms can help support present-day efforts toward reconciliation",
-              "The Sixties Scoop has no relationship to reconciliation efforts",
-              "This concept has no relevance to social studies",
-              "Reconciliation has no connection to past events like the Sixties Scoop"
+              "Nova Scotia",
+              "Yukon",
+              "Manitoba",
+              "Alberta"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "How do territories differ from provinces in Canada?",
+            "options": [
+              "Only provinces have capital cities",
+              "Territories get their powers directly from the federal government, while provinces have powers set out in the Constitution",
+              "There is no difference at all",
+              "Territories have more power than provinces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which territory has the largest Inuit population?",
+            "options": [
+              "None of the territories have an Inuit population",
+              "Northwest Territories",
+              "Nunavut",
+              "Yukon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the capital of the Northwest Territories?",
+            "options": [
+              "Ottawa",
+              "Yellowknife",
+              "Whitehorse",
+              "Iqaluit"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Indigenous Peoples & First Nations"
+        ]
       }
     ]
   },
@@ -44809,58 +44819,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas Role in International Development and Foreign Aid",
-        "summary": "Grade 5 Social Studies strand: international development and foreign aid involve Canada providing money, resources, or expertise to help other countries address challenges such as poverty, education, and health care.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Underground Railroad and Black Canadian History",
+        "summary": "Students learn about the Underground Railroad, the secret network that helped freedom seekers escape slavery in the United States to reach freedom in Canada, and the Black Canadian communities that grew as a result.",
+        "resourceLabel": "YouTube: The Underground Railroad and Black Canadian History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%20and%20Black%20Canadian%20History%20grade%205%20educational",
+        "topic": "History: 19th Century Canada",
         "quiz": [
           {
-            "q": "What does foreign aid generally involve?",
+            "q": "What was the Underground Railroad?",
             "options": [
-              "This concept has no connection to social studies",
-              "Building highways only within Canada",
-              "Providing money, resources, or expertise to help other countries",
-              "Collecting taxes from other countries"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these challenges might Canadian foreign aid help address in another country?",
-            "options": [
-              "The scheduling of a countrys sports events",
-              "This concept has no relevance to foreign aid",
-              "The design of a countrys national flag",
-              "Poverty and access to health care"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which types of organizations might help carry out Canadas international development work?",
-            "options": [
-              "This concept has no connection to international development",
-              "Only professional sports leagues",
-              "Only private individual citizens acting alone",
-              "Government agencies and non-governmental organizations"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a country like Canada choose to provide foreign aid to other nations?",
-            "options": [
-              "This concept has no relevance to social studies",
-              "To help address global challenges and support international cooperation",
-              "Foreign aid has no connection to international cooperation",
-              "Countries never provide assistance to other nations"
+              "A highway built in the 1900s",
+              "A secret network of routes and safe houses that helped enslaved people escape to freedom",
+              "A subway system in Toronto",
+              "An actual railway line with trains"
             ],
             "answer": 1
           },
           {
-            "q": "Why might learning about international development help students understand Canadas global role?",
+            "q": "Why did many freedom seekers travel to Canada using the Underground Railroad?",
             "options": [
-              "Canada has no involvement in supporting other countries",
-              "International development has no connection to Canadas global role",
-              "This concept has no relevance to social studies",
-              "It shows how Canada engages with and supports other countries beyond its own borders"
+              "Canada had no laws at all",
+              "Slavery had been abolished in Canada, making it a destination for freedom",
+              "It was the closest country to Africa",
+              "Canada offered free land to everyone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Around what time period was the Underground Railroad most active?",
+            "options": [
+              "The 1990s",
+              "The 1950s",
+              "The early-to-mid 1800s",
+              "The early 1600s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What developed in parts of Ontario as a result of the Underground Railroad?",
+            "options": [
+              "Nothing changed in Ontario",
+              "New provinces were created",
+              "All freedom seekers immediately returned to the United States",
+              "Black Canadian communities grew and became established, particularly in southern Ontario"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these people is known for helping guide freedom seekers along the Underground Railroad?",
+            "options": [
+              "A Vimy Ridge general",
+              "Terry Fox",
+              "John A. Macdonald",
+              "Harriet Tubman"
             ],
             "answer": 3
           }
@@ -45054,63 +45065,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The World Trade Organization and Canadas Trade Policy",
-        "summary": "Grade 5 Social Studies strand: the World Trade Organization is an international organization that sets rules for trade between countries, and Canada is a member that follows these rules while also negotiating its own trade agreements.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Credit Unions and Banks: How Canadians Save and Borrow",
+        "summary": "Students learn the difference between banks and credit unions, how Canadians use these institutions to save money and borrow, and basic concepts like savings accounts and interest.",
+        "resourceLabel": "YouTube: Credit Unions and Banks: How Canadians Save and Borrow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Credit%20Unions%20and%20Banks%3A%20How%20Canadians%20Save%20and%20Borrow%20grade%205%20educational",
+        "topic": "Economy, Trade & Currency",
         "quiz": [
           {
-            "q": "What does the World Trade Organization do?",
+            "q": "What is one main purpose of a bank or credit union?",
             "options": [
-              "This concept has no connection to trade",
-              "Sets rules for trade between countries",
-              "Manages the currency of every country",
-              "Organizes international sports competitions"
+              "To build roads",
+              "To help people save money and borrow money",
+              "To print newspapers",
+              "To sell groceries"
             ],
             "answer": 1
           },
           {
-            "q": "What is Canadas relationship to the World Trade Organization?",
+            "q": "How is a credit union different from a typical bank?",
             "options": [
-              "Canada is a member that follows its rules for international trade",
-              "This concept has no relevance to social studies",
-              "Canada leads the organization on its own",
-              "Canada has no connection to the World Trade Organization"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What might the World Trade Organization help resolve between countries?",
-            "options": [
-              "Disputes about national sports team rankings",
-              "This concept has no connection to trade policy",
-              "Trade disputes between member countries",
-              "Disagreements about weather forecasting"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might having shared international trade rules benefit countries like Canada?",
-            "options": [
-              "This concept has no relevance to social studies",
-              "Shared trade rules have no benefit to any country",
-              "Shared rules can make trade between countries fairer and more predictable",
-              "Trade between countries never requires any agreed-upon rules"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might Canada also negotiate its own separate trade agreements in addition to following World Trade Organization rules?",
-            "options": [
-              "World Trade Organization rules always replace the need for any other trade agreements",
-              "Canada never negotiates any trade agreements of its own",
-              "This concept has no relevance to social studies",
-              "Separate agreements can address specific trading relationships with particular countries or regions"
+              "A bank cannot lend money",
+              "There is no difference between them",
+              "A credit union does not allow deposits",
+              "A credit union is owned by its members, while a bank is typically owned by shareholders"
             ],
             "answer": 3
+          },
+          {
+            "q": "When you put money in a savings account, the bank or credit union often pays you...",
+            "options": [
+              "Nothing ever",
+              "A fine",
+              "A different currency",
+              "Interest, a small extra amount over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If someone borrows money from a bank, they usually have to pay back...",
+            "options": [
+              "Exactly the same amount with no extra cost",
+              "The amount borrowed plus interest",
+              "Only in another country's currency",
+              "Nothing at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of using a bank or credit union?",
+            "options": [
+              "Voting in a federal election",
+              "Opening a savings account to set aside money for the future",
+              "Growing wheat on a farm",
+              "Building a highway"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -45297,60 +45308,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "SocialStudies Review: Government Institutions, Data, and Trade",
-        "summary": "Grade 5 Social Studies strand review: students revisit the Privy Council, the Supreme Court of Canada, Statistics Canada, the Sixties Scoop, and voter turnout and civic engagement.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Role of the Cabinet and Government Ministers",
+        "summary": "Students learn how the Prime Minister selects Members of Parliament to serve as Cabinet ministers, each responsible for a specific government department such as health, education, or defence.",
+        "resourceLabel": "YouTube: The Role of the Cabinet and Government Ministers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Cabinet%20and%20Government%20Ministers%20grade%205%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "Who does the Privy Council formally advise?",
+            "q": "Who selects the members of the federal Cabinet?",
             "options": [
-              "A municipal council",
-              "A foreign government",
-              "The Governor General",
-              "The Supreme Court"
+              "The Supreme Court",
+              "The voters directly",
+              "The Prime Minister",
+              "The Governor General alone"
             ],
             "answer": 2
           },
           {
-            "q": "What is the Supreme Court of Canada?",
+            "q": "What is a Cabinet minister generally responsible for?",
             "options": [
-              "A court found only in one province",
-              "A committee that writes new federal laws",
-              "The highest court in the country",
-              "A court that only handles municipal bylaws"
+              "Managing one municipal library",
+              "Writing the national anthem",
+              "Running a specific government department, such as health or finance",
+              "Only attending ceremonies"
             ],
             "answer": 2
           },
           {
-            "q": "What is Statistics Canada responsible for?",
+            "q": "Which of these is an example of a Cabinet position?",
             "options": [
-              "Printing Canadian currency",
-              "Collecting and publishing data about the countrys population, economy, and society",
-              "Enforcing municipal bylaws",
-              "Running the Canadian Armed Forces"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the term Sixties Scoop refer to?",
-            "options": [
-              "A program that built new highways across Canada",
-              "This concept has no connection to Canadian history",
-              "A national sports competition held in the 1960s",
-              "A period when many Indigenous children were removed from their families and placed in non-Indigenous homes"
+              "Mayor of Toronto",
+              "Chief Justice of a provincial court",
+              "School principal",
+              "Minister of Finance"
             ],
             "answer": 3
           },
           {
-            "q": "What does voter turnout measure?",
+            "q": "Cabinet ministers are usually chosen from among...",
             "options": [
-              "The number of political parties in an election",
-              "The percentage of eligible voters who actually cast a ballot",
-              "The total population of a country",
-              "This concept has no connection to elections"
+              "Foreign leaders",
+              "Elected Members of Parliament from the governing party",
+              "Provincial premiers only",
+              "Random members of the public"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why does the Prime Minister create a Cabinet with different ministers?",
+            "options": [
+              "To replace the House of Commons",
+              "To reduce the number of government departments to one",
+              "To share the responsibility of running various parts of government among trusted colleagues",
+              "Because the Prime Minister is not allowed to make any decisions"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -45542,58 +45554,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "The Canadian Bill of Rights of 1960",
-        "summary": "Grade 5 Social Studies strand: the Canadian Bill of Rights, passed in 1960, was an early federal law protecting basic rights and freedoms, later expanded upon by the Charter of Rights and Freedoms in 1982.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Interprovincial Migration: Canadians on the Move",
+        "summary": "Students explore why Canadians move from one province to another -- for jobs, cost of living, or lifestyle -- and how this interprovincial migration shapes population growth in different parts of the country.",
+        "resourceLabel": "YouTube: Interprovincial Migration: Canadians on the Move",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Interprovincial%20Migration%3A%20Canadians%20on%20the%20Move%20grade%205%20educational",
+        "topic": "Population & Urbanization",
         "quiz": [
           {
-            "q": "What was the Canadian Bill of Rights?",
+            "q": "What is \"interprovincial migration\"?",
             "options": [
-              "A law that created the Supreme Court of Canada",
-              "An early federal law protecting basic rights and freedoms",
-              "A treaty between Canada and another country",
-              "This concept has no connection to Canadian history"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In what year was the Canadian Bill of Rights passed?",
-            "options": [
-              "1982",
-              "1867",
-              "1960",
-              "1945"
+              "Movement of animals between seasons",
+              "Movement of people between countries",
+              "Movement of people from one province or territory to another within Canada",
+              "Trade of goods between provinces"
             ],
             "answer": 2
           },
           {
-            "q": "What later document expanded upon the protections in the Canadian Bill of Rights?",
+            "q": "Which of these is a common reason Canadians move to a different province?",
             "options": [
-              "The Statute of Westminster",
-              "The Charter of Rights and Freedoms",
-              "This concept has no relevance to Canadian government",
-              "The Indian Act"
+              "A change in the currency",
+              "A new national flag",
+              "A change in the number of time zones",
+              "Job opportunities"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the Canadian Bill of Rights considered an important step in Canadian history?",
+            "q": "If a province has a booming economy with many new jobs, what might happen to its population due to interprovincial migration?",
             "options": [
-              "It removed all rights that Canadians previously had",
-              "It had no effect on rights or freedoms in Canada",
-              "It was one of the first federal laws to formally protect basic rights and freedoms",
-              "This concept has no connection to social studies"
+              "The population would likely decrease",
+              "The population would stay exactly the same",
+              "The population may increase as people move there for work",
+              "The province would lose its status as a province"
             ],
             "answer": 2
           },
           {
-            "q": "Why might the Charter of Rights and Freedoms be considered stronger than the earlier Canadian Bill of Rights?",
+            "q": "Interprovincial migration is different from immigration because it involves...",
             "options": [
-              "This concept has no relevance to social studies",
-              "The Charter is entrenched in the Constitution, giving it greater legal authority",
-              "The Canadian Bill of Rights was always more powerful than the Charter",
-              "The Charter has no connection to the Canadian Bill of Rights"
+              "People moving from other countries into Canada",
+              "People leaving Canada permanently",
+              "People moving within Canada, from one province or territory to another",
+              "People moving only to cities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which factor might cause people to move away from a province rather than to it?",
+            "options": [
+              "A famous national park",
+              "A struggling local economy with fewer job opportunities",
+              "A well-known sports team",
+              "A strong local economy with low unemployment"
             ],
             "answer": 1
           }
@@ -45787,63 +45800,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Responsible Government — How Canada Gained Self-Rule",
-        "summary": "Grade 5 Social Studies strand: responsible government means that the elected representatives, rather than an appointed governor, hold the real power to make decisions, a principle Canada gradually achieved during the 1800s.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Powwows and Indigenous Cultural Celebrations Today",
+        "summary": "Students learn about powwows and other contemporary Indigenous cultural celebrations, exploring their significance as gatherings that celebrate music, dance, regalia, and community connection.",
+        "resourceLabel": "YouTube: Powwows and Indigenous Cultural Celebrations Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Powwows%20and%20Indigenous%20Cultural%20Celebrations%20Today%20grade%205%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "What does responsible government mean?",
+            "q": "What is a powwow?",
             "options": [
-              "This concept has no connection to Canadian history",
-              "Elected representatives, rather than an appointed governor, hold the real power to make decisions",
-              "A government controlled entirely by a foreign monarch",
-              "A government with no elected representatives at all"
+              "A type of government meeting",
+              "A federal law",
+              "A style of Canadian currency",
+              "A gathering that celebrates Indigenous culture through music, dance, and community"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Roughly when did Canada gradually achieve responsible government?",
+            "q": "What might you see at a powwow?",
             "options": [
-              "This concept has no relevance to Canadian history",
-              "During the 1800s",
-              "During the 1960s",
-              "During the 1600s"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Before responsible government, who held much of the real decision-making power in the colonies?",
-            "options": [
-              "This concept has no connection to social studies",
-              "An appointed governor",
-              "Ordinary citizens through public votes",
-              "The elected assembly alone"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might colonists have pushed for responsible government?",
-            "options": [
-              "They wanted elected representatives, who were accountable to voters, to hold real decision-making power",
-              "They had no interest in how their colony was governed",
-              "This concept has no relevance to Canadian history",
-              "They wanted an appointed governor to have even more power"
+              "Traditional dancing, drumming, and regalia",
+              "Parliamentary debates",
+              "Court trials",
+              "Ice hockey games only"
             ],
             "answer": 0
           },
           {
-            "q": "Why is responsible government considered an important step toward modern Canadian democracy?",
+            "q": "Why are powwows important to many Indigenous communities today?",
             "options": [
-              "This concept has no relevance to social studies",
-              "It shifted real political power to representatives accountable to the people",
-              "It had no effect on how Canada is governed today",
-              "It removed all elected representatives from government"
+              "They are a type of government tax",
+              "They have no cultural meaning",
+              "They are only tourist attractions with no deeper meaning",
+              "They help pass on traditions, strengthen community bonds, and celebrate Indigenous identity"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "What is \"regalia\" in the context of a powwow?",
+            "options": [
+              "A government document",
+              "A musical instrument only",
+              "A type of food",
+              "Traditional clothing and adornments worn by dancers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who is generally welcome to attend many public powwows in Canada?",
+            "options": [
+              "No one is ever allowed to attend",
+              "Only people from one specific province",
+              "Only government officials",
+              "Members of the public are often welcomed to observe and learn, alongside community members"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -46033,63 +46046,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadas Role in the Cold War",
-        "summary": "Grade 5 Social Studies strand: during the Cold War, a long period of tension between the United States and the Soviet Union after the Second World War, Canada joined alliances such as NATO and contributed to efforts like NORAD to help defend North America.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "The Winnipeg General Strike of 1919",
+        "summary": "Students learn about the Winnipeg General Strike of 1919, when tens of thousands of workers walked off their jobs to demand better wages and working conditions, marking a major moment in Canadian labour history.",
+        "resourceLabel": "YouTube: The Winnipeg General Strike of 1919",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Winnipeg%20General%20Strike%20of%201919%20grade%205%20educational",
+        "topic": "History: 20th Century Canada",
         "quiz": [
           {
-            "q": "What was the Cold War?",
+            "q": "In what year did the Winnipeg General Strike take place?",
             "options": [
-              "This concept has no connection to social studies",
-              "A short battle fought only in Canada",
-              "A war fought entirely with weather and climate technology",
-              "A long period of tension between the United States and the Soviet Union after the Second World War"
+              "1959",
+              "1899",
+              "1939",
+              "1919"
             ],
             "answer": 3
           },
           {
-            "q": "Which alliance did Canada join partly in response to Cold War tensions?",
+            "q": "What were striking workers in Winnipeg mainly demanding?",
             "options": [
-              "The World Trade Organization",
-              "NATO",
-              "This concept has no relevance to the Cold War",
-              "The Commonwealth of Nations only"
+              "A new provincial capital",
+              "Better wages and working conditions",
+              "Free train tickets",
+              "A new national holiday"
             ],
             "answer": 1
           },
           {
-            "q": "What was NORAD, which Canada contributed to during this period?",
+            "q": "About how many workers took part in the Winnipeg General Strike?",
             "options": [
-              "A joint effort with the United States to help defend North American airspace",
-              "A Canadian sports league",
-              "This concept has no connection to Canadian history",
-              "A Canadian trade agreement with Europe"
+              "Tens of thousands",
+              "A few dozen",
+              "Only government employees",
+              "A few hundred"
             ],
             "answer": 0
           },
           {
-            "q": "Why might Canada have joined alliances like NATO during the Cold War?",
+            "q": "The Winnipeg General Strike is remembered as an important event in the history of...",
             "options": [
-              "To cooperate with other countries for collective defence and security",
-              "Alliances like NATO had no connection to the Cold War",
-              "This concept has no relevance to social studies",
-              "Canada had no interest in international defence during this period"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is understanding the Cold War useful for learning about twentieth-century Canadian foreign policy?",
-            "options": [
-              "Canada was never involved in any international alliances during this period",
-              "It shows how global tensions shaped Canadas alliances and defence decisions",
-              "The Cold War had no effect on Canadian foreign policy",
-              "This concept has no relevance to social studies"
+              "Canadian space exploration",
+              "The Canadian labour movement and workers' rights",
+              "Canadian currency design",
+              "Canada's national parks"
             ],
             "answer": 1
+          },
+          {
+            "q": "How did authorities respond to the strike?",
+            "options": [
+              "There was significant conflict, including arrests and a violent confrontation known as \"Bloody Saturday\"",
+              "They immediately agreed to every demand with no conflict",
+              "The government ignored the strike completely",
+              "The strike ended peacefully with no response at all"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Cold War & 20th Century Canada"
+        ]
       }
     ]
   },
@@ -46546,60 +46559,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Understanding GST, PST, and HST in Canada",
-        "summary": "Grade 5 Social Studies strand: Canadians pay different sales taxes depending on their province, including the federal Goods and Services Tax, provincial sales taxes, and the Harmonized Sales Tax, which combines federal and provincial tax into one rate.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Understanding GDP: Measuring Canada's Economy",
+        "summary": "Students are introduced to Gross Domestic Product (GDP) as a way economists measure the total value of goods and services a country produces, and how it helps show whether an economy is growing.",
+        "resourceLabel": "YouTube: Understanding GDP: Measuring Canada's Economy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Understanding%20GDP%3A%20Measuring%20Canada%27s%20Economy%20grade%205%20educational",
+        "topic": "Economics & Trade",
         "quiz": [
           {
-            "q": "What does GST stand for?",
+            "q": "What does GDP stand for?",
             "options": [
-              "General Spending Tax",
-              "Government Savings Trust",
-              "This concept has no connection to social studies",
-              "Goods and Services Tax"
+              "General Development Plan",
+              "Gross Domestic Product",
+              "Global Distribution Process",
+              "Government Deficit Percentage"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What does the Harmonized Sales Tax, or HST, do?",
+            "q": "GDP measures...",
             "options": [
-              "Removes all sales tax entirely",
-              "This concept has no relevance to sales tax",
-              "Combines the federal and provincial tax into one rate",
-              "Applies only to international purchases"
+              "The height of a country's tallest building",
+              "The total value of goods and services produced in a country over a period of time",
+              "The number of people living in a country",
+              "The number of provinces in a country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a country's GDP grows from one year to the next, this generally suggests the economy is...",
+            "options": [
+              "Frozen",
+              "Growing",
+              "Shrinking",
+              "Nonexistent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would count toward Canada's GDP?",
+            "options": [
+              "The colour of the Canadian flag",
+              "The number of holidays in a year",
+              "The value of cars manufactured and sold in Canada",
+              "The population of another country"
             ],
             "answer": 2
           },
           {
-            "q": "What is a provincial sales tax, sometimes called PST, collected by?",
+            "q": "Economists and governments use GDP mainly to...",
             "options": [
-              "A foreign government only",
-              "A private company with no government connection",
-              "This concept has no connection to Canadian taxes",
-              "A provincial government"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might sales tax amounts differ depending on which province a purchase is made in?",
-            "options": [
-              "Provinces have no role in setting any taxes at all",
-              "Sales tax is always exactly the same amount in every province",
-              "Provinces can set their own provincial tax rates, which combine differently with federal tax",
-              "This concept has no relevance to social studies"
+              "Decide the weather forecast",
+              "Set the price of a single product",
+              "Understand and compare the overall size and health of an economy",
+              "Choose a national anthem"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is understanding sales tax useful when planning a purchase?",
-            "options": [
-              "Tax is never added to the price of an item in Canada",
-              "This concept has no relevance to social studies",
-              "Sales tax never affects the total cost of a purchase",
-              "It helps a person estimate the total cost, including tax, before buying something"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -46791,63 +46805,63 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canada as a Founding Member of the United Nations",
-        "summary": "Grade 5 Social Studies strand: Canada was one of the original member countries when the United Nations was formed in 1945, and it has continued to support the organizations goals of international peace, cooperation, and human rights.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Access to Information: How Citizens Can Request Government Records",
+        "summary": "Students learn about access-to-information laws that give Canadians the right to request records and documents from government, supporting transparency and accountability.",
+        "resourceLabel": "YouTube: Access to Information: How Citizens Can Request Government Records",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Access%20to%20Information%3A%20How%20Citizens%20Can%20Request%20Government%20Records%20grade%205%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "When was Canada one of the original member countries of the United Nations?",
+            "q": "What is the main purpose of access-to-information laws in Canada?",
             "options": [
-              "1960",
-              "1982",
-              "1867",
-              "1945"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is one goal of the United Nations that Canada has continued to support?",
-            "options": [
-              "Removing every countrys individual government",
-              "International peace, cooperation, and human rights",
-              "Ending all international trade between countries",
-              "This concept has no connection to social studies"
+              "To prevent citizens from ever contacting government",
+              "To give citizens the right to request certain government records and documents",
+              "To keep all government records permanently secret",
+              "To replace elections"
             ],
             "answer": 1
           },
           {
-            "q": "What kind of organization is the United Nations?",
+            "q": "Access-to-information laws support which important value in government?",
             "options": [
-              "A private company that sells goods internationally",
-              "A single countrys national government",
-              "This concept has no relevance to the United Nations",
-              "An international organization made up of member countries"
+              "Higher taxes",
+              "Transparency and accountability",
+              "Faster elections",
+              "Secrecy"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a country choose to become a founding member of an organization like the United Nations?",
+            "q": "If a citizen wants to know how a government department spent its budget, what tool might help them find out?",
             "options": [
-              "To help shape international cooperation on shared global challenges from the very beginning",
-              "This concept has no relevance to social studies",
-              "Founding membership has no effect on international cooperation",
-              "Countries never choose to join international organizations"
+              "A trade agreement",
+              "An access-to-information request",
+              "A powwow",
+              "A land acknowledgement"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might Canadas long membership in the United Nations be considered part of its global identity?",
+            "q": "Are all government records available through access-to-information requests?",
             "options": [
-              "Membership in the United Nations has no connection to a countrys global identity",
-              "Canada has never been involved with the United Nations in any way",
-              "It reflects a long-standing commitment to international cooperation and human rights",
-              "This concept has no relevance to social studies"
+              "Yes, absolutely every document with no exceptions",
+              "Only records about sports are available",
+              "No, some information may be withheld, such as records that could affect national security or personal privacy",
+              "No government records can ever be requested"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why might a journalist use access-to-information laws?",
+            "options": [
+              "To request records that help inform the public about government decisions",
+              "To buy government property",
+              "To create a new political party",
+              "To change a law without an election"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Canada & International Relations"
+        ]
       }
     ]
   },
@@ -47057,58 +47071,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "SocialStudies Review: Capstone — Rights, Government History, and Global Citizenship",
-        "summary": "Grade 5 Social Studies strand review, and the capstone lesson of the full 187-day program: students revisit the Canadian Bill of Rights of 1960, responsible government, Canadas role in the Cold War, the Royal Canadian Mint, and GST, PST, and HST.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "title": "Canada's Climate Zones and Regional Weather Patterns",
+        "summary": "Students explore how Canada's huge size creates very different climate zones across the country, from the mild west coast to the cold Arctic, and how climate shapes life in each region.",
+        "resourceLabel": "YouTube: Canada's Climate Zones and Regional Weather Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Climate%20Zones%20and%20Regional%20Weather%20Patterns%20grade%205%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "What was the Canadian Bill of Rights?",
+            "q": "Why does Canada have such a wide variety of climate zones?",
             "options": [
-              "A law that created the Supreme Court of Canada",
-              "A treaty between Canada and another country",
-              "This concept has no connection to Canadian history",
-              "An early federal law protecting basic rights and freedoms"
+              "Canada has no seasons",
+              "Canada is a very small country",
+              "Canada is located entirely in the tropics",
+              "Canada spans a huge area from south to north and coast to coast"
             ],
             "answer": 3
           },
           {
-            "q": "What does responsible government mean?",
+            "q": "Which region of Canada generally has the mildest, wettest winters?",
             "options": [
-              "A government controlled entirely by a foreign monarch",
-              "This concept has no connection to Canadian history",
-              "Elected representatives, rather than an appointed governor, hold the real power to make decisions",
-              "A government with no elected representatives at all"
+              "The Prairies",
+              "The Pacific (west) coast, such as coastal British Columbia",
+              "Northern Quebec",
+              "The Arctic"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What was the Cold War?",
+            "q": "What kind of climate is typical of Canada's Arctic region?",
             "options": [
-              "A short battle fought only in Canada",
-              "This concept has no connection to social studies",
-              "A long period of tension between the United States and the Soviet Union after the Second World War",
-              "A war fought entirely with weather and climate technology"
+              "Hot and humid year-round",
+              "Very cold winters and short, cool summers",
+              "Mild with no snow ever",
+              "Tropical with heavy rainfall"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What is the Royal Canadian Mint responsible for?",
+            "q": "How does climate influence life in different Canadian regions?",
             "options": [
-              "Printing Canadas paper currency",
-              "This concept has no connection to social studies",
-              "Setting interest rates for Canadian banks",
-              "Producing Canadas circulating coins"
+              "It determines a province's official language",
+              "It affects things like housing design, clothing, transportation, and available crops",
+              "It only affects the colour of provincial flags",
+              "It has no effect on how people live"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What does GST stand for?",
+            "q": "Which factor, along with latitude, strongly influences a region's climate in Canada?",
             "options": [
-              "Government Savings Trust",
-              "Goods and Services Tax",
-              "General Spending Tax",
-              "This concept has no connection to social studies"
+              "The province's population size",
+              "Nearby oceans, mountains, and elevation",
+              "The number of municipal governments",
+              "The name of the capital city"
             ],
             "answer": 1
           }

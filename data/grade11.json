@@ -20879,63 +20879,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Epigenetics — Gene Expression Beyond DNA Sequence",
-        "summary": "Grade 11 Biology strand: epigenetics studies how environmental factors can influence whether specific genes are turned on or off, without altering the underlying DNA sequence itself.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology: Homeostasis and Negative Feedback Mechanisms",
+        "summary": "Students examine how negative feedback loops involving receptors, control centres, and effectors keep internal conditions within a narrow set point, and contrast this with the body's rarer use of positive feedback.",
+        "resourceLabel": "YouTube: Biology: Homeostasis and Negative Feedback Mechanisms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Homeostasis%20and%20Negative%20Feedback%20Mechanisms%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What does epigenetics study?",
+            "q": "What is the primary purpose of a negative feedback loop in the body?",
             "options": [
-              "How environmental factors influence whether genes are turned on or off",
-              "How DNA sequences are physically rewritten",
-              "A concept unrelated to biology",
-              "How cells divide during mitosis"
+              "To speed up cell division",
+              "To return a variable to its set point after a deviation",
+              "To permanently change the body's set point",
+              "To amplify a change further away from the set point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a negative feedback loop, which structure detects a change in the internal environment?",
+            "options": [
+              "Receptor",
+              "Effector",
+              "Control centre",
+              "Set point"
             ],
             "answer": 0
           },
           {
-            "q": "Does epigenetics involve changing the underlying DNA sequence?",
+            "q": "Childbirth contractions, which intensify until delivery, are a classic example of what kind of feedback?",
             "options": [
-              "A concept unrelated to epigenetics",
-              "Yes, it always changes the DNA sequence",
-              "No",
-              "DNA sequence has no connection to epigenetics"
+              "Neutral feedback",
+              "Reflex feedback",
+              "Negative feedback",
+              "Positive feedback"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After a large meal, blood glucose rises above the set point. Which sequence correctly shows a negative feedback response?",
+            "options": [
+              "Kidneys excrete insulin, blood glucose stays elevated",
+              "Pancreas releases glucagon, blood glucose rises further",
+              "Pancreas releases insulin, cells take up glucose, blood glucose falls back to the set point",
+              "Liver releases glucose, blood glucose rises further"
             ],
             "answer": 2
           },
           {
-            "q": "Name one environmental factor that could influence gene expression, such as diet.",
+            "q": "Which term describes the narrow range around a target value that the body tries to maintain?",
             "options": [
-              "A random guess with no scientific basis",
-              "A favourite hobby",
-              "Diet",
-              "A concept unrelated to epigenetics"
+              "Feedback threshold",
+              "Homeostatic set point",
+              "Control gradient",
+              "Effector range"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why might identical twins, who share the same DNA, develop some different traits over their lives?",
-            "options": [
-              "Different environmental experiences could lead to different epigenetic changes affecting gene expression",
-              "Identical twins can never develop any different traits",
-              "This concept has no connection to epigenetics",
-              "DNA sequence alone always determines every trait with no other influence"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is epigenetics considered a valuable area of modern biological research?",
-            "options": [
-              "It helps explain how environment and genetics interact to influence health and traits",
-              "Genes are the only factor that ever influences an organism’s traits",
-              "This concept has no relevance to science",
-              "Epigenetics has no connection to health or biology"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Genetics & Heredity"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -22836,63 +22836,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Molecular Biology: The Operon Model and Prokaryotic Gene Regulation",
-        "summary": "Grade 11 Biology strand: the operon model explains how prokaryotic cells switch groups of related genes on or off together in response to environmental conditions, using a shared promoter and operator to control transcription.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Molecular Biology: DNA Structure and the Double Helix",
+        "summary": "Students study Watson and Crick's double helix model of DNA, including antiparallel strands, complementary base pairing held together by hydrogen bonds, and Chargaff's rules relating base proportions.",
+        "resourceLabel": "YouTube: Molecular Biology: DNA Structure and the Double Helix",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Molecular%20Biology%3A%20DNA%20Structure%20and%20the%20Double%20Helix%20grade%2011%20educational",
+        "topic": "Genetics & Heredity",
         "quiz": [
           {
-            "q": "What does the operon model explain in prokaryotic cells?",
+            "q": "According to Chargaff's rules, if a DNA sample is 22% adenine, what percentage is guanine?",
             "options": [
-              "How groups of related genes are switched on or off together",
-              "How cells physically divide during mitosis",
-              "A concept unrelated to biology",
-              "How a single unrelated protein is broken down"
+              "22%",
+              "28%",
+              "44%",
+              "56%"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Does an operon typically include a shared promoter and operator controlling nearby genes?",
+            "q": "How many hydrogen bonds form between a guanine-cytosine base pair?",
             "options": [
-              "Yes",
-              "No, an operon never involves any shared promoter or operator",
-              "A concept unrelated to the operon model",
-              "Promoters and operators have no connection to gene regulation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "In the classic lac operon, does the presence of lactose typically switch on the genes needed to digest it?",
-            "options": [
-              "A concept unrelated to prokaryotic gene regulation",
-              "No, lactose has no connection to activating the lac operon",
-              "The lac operon genes are always active regardless of lactose presence",
-              "Yes"
+              "4",
+              "1",
+              "2",
+              "3"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it efficient for a bacterium to regulate several related genes together as a single operon rather than individually?",
+            "q": "The two strands of the DNA double helix run in opposite directions. This property is called:",
             "options": [
-              "Genes involved in the same metabolic pathway are needed at the same time, so controlling them together allows a faster, coordinated response",
-              "This concept has no connection to biology",
-              "Regulating genes together as an operon never provides any efficiency benefit",
-              "Bacteria never need to coordinate the expression of multiple genes at once"
+              "Semi-conservative",
+              "Complementary",
+              "Homologous",
+              "Antiparallel"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is the operon model considered a foundational concept in understanding prokaryotic gene regulation?",
+            "q": "Which base pairs with adenine in DNA?",
             "options": [
-              "It reveals how bacteria efficiently respond to changing environmental conditions by coordinating gene expression",
-              "Prokaryotic gene regulation never involves any environmental response",
-              "The operon model has no connection to how bacteria respond to their environment",
-              "This concept has no relevance to biology"
+              "Uracil",
+              "Cytosine",
+              "Thymine",
+              "Guanine"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "What forms the 'backbone' of each DNA strand?",
+            "options": [
+              "Amino acid chains",
+              "Nitrogenous bases bonded together",
+              "Alternating sugar and phosphate groups",
+              "Hydrogen bonds between bases"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Atoms, Elements & Compounds"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -28490,63 +28490,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Telomeres and Cellular Aging",
-        "summary": "Grade 11 Biology strand: telomeres are protective caps at the ends of chromosomes that shorten with each cell division, a process linked to cellular aging and playing a role in limiting how many times a cell can divide.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Cell Biology: Organelle Structure and Function",
+        "summary": "A survey of major eukaryotic organelles -- mitochondria, rough and smooth endoplasmic reticulum, the Golgi apparatus, lysosomes, and the nucleus -- and how each organelle's structure supports its specific job in the cell.",
+        "resourceLabel": "YouTube: Cell Biology: Organelle Structure and Function",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cell%20Biology%3A%20Organelle%20Structure%20and%20Function%20grade%2011%20educational",
+        "topic": "Cells & Microorganisms",
         "quiz": [
           {
-            "q": "What are telomeres?",
+            "q": "Which organelle modifies, sorts, and packages proteins for secretion?",
             "options": [
-              "A type of sugar molecule used in digestion",
-              "A type of protein found only in muscle tissue",
-              "A structure located outside the cell entirely",
-              "Protective caps at the ends of chromosomes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What happens to telomeres with each cell division?",
-            "options": [
-              "They grow longer indefinitely",
-              "They gradually shorten",
-              "They disappear completely after a single division",
-              "They remain exactly the same length forever"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What biological process is telomere shortening linked to?",
-            "options": [
-              "Cellular growth with no limit",
-              "Cellular aging",
-              "Immediate cell death with no aging process",
-              "Digestion of nutrients"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What role do telomeres play in how many times a cell can divide?",
-            "options": [
-              "They help limit the total number of divisions a cell can undergo",
-              "They immediately stop all cell division from the start",
-              "They allow unlimited cell division with no restriction",
-              "They have no connection to cell division at all"
+              "Golgi apparatus",
+              "Nucleus",
+              "Mitochondrion",
+              "Lysosome"
             ],
             "answer": 0
           },
           {
-            "q": "Why are telomeres of interest in aging and cancer research?",
+            "q": "The folded inner membrane of a mitochondrion, called the crista, increases which of the following?",
             "options": [
-              "They are only found in plant cells",
-              "Their length and behaviour are linked to cellular lifespan and abnormal cell growth",
-              "They play no role in any disease research",
-              "Telomeres have no connection to human health"
+              "Rigidity of the cell wall",
+              "Rate of protein folding",
+              "Storage volume for waste",
+              "Surface area for ATP production"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Rough endoplasmic reticulum appears 'rough' under a microscope because it is studded with:",
+            "options": [
+              "Ribosomes",
+              "Microtubules",
+              "Mitochondria",
+              "Lysosomes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organelle contains hydrolytic enzymes used to break down waste materials and worn-out organelles?",
+            "options": [
+              "Centriole",
+              "Vacuole",
+              "Lysosome",
+              "Peroxisome"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pancreatic cell that secretes large amounts of digestive enzymes would be expected to have an especially well-developed:",
+            "options": [
+              "Rough ER and Golgi apparatus",
+              "Cell wall",
+              "Chloroplast",
+              "Cytoskeleton only"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -28735,63 +28735,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Apoptosis — Programmed Cell Death",
-        "summary": "Grade 11 Biology strand: apoptosis is a regulated, programmed process by which cells self-destruct in a controlled manner, essential for normal development, tissue maintenance, and preventing the growth of damaged or cancerous cells.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Ecology: Energy Flow and the 10% Rule in Food Chains",
+        "summary": "Students learn how energy is lost as heat at each trophic transfer, apply the approximate 10% rule to calculate energy available at each level, and explain why food chains rarely extend beyond four or five levels.",
+        "resourceLabel": "YouTube: Ecology: Energy Flow and the 10% Rule in Food Chains",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Energy%20Flow%20and%20the%2010%25%20Rule%20in%20Food%20Chains%20grade%2011%20educational",
+        "topic": "Ecosystems & Environment",
         "quiz": [
           {
-            "q": "What is apoptosis?",
+            "q": "Approximately what percentage of energy is transferred from one trophic level to the next?",
             "options": [
-              "An uncontrolled process where cells burst open randomly",
-              "A type of cell division unrelated to cell death",
-              "A process where cells grow uncontrollably forever",
-              "A regulated, programmed process by which cells self-destruct"
+              "50%",
+              "90%",
+              "10%",
+              "1%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If producers in an ecosystem contain 10,000 kJ of energy, approximately how much energy is available to primary consumers?",
+            "options": [
+              "5,000 kJ",
+              "9,000 kJ",
+              "1,000 kJ",
+              "100 kJ"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Most of the energy lost between trophic levels leaves the ecosystem as:",
+            "options": [
+              "Undigested biomass only",
+              "Stored fat",
+              "Light energy",
+              "Metabolic heat"
             ],
             "answer": 3
           },
           {
-            "q": "Why is apoptosis important for normal development?",
+            "q": "Why do food chains rarely have more than four or five trophic levels?",
             "options": [
-              "It has no role in development at all",
-              "It only occurs after an organism has died",
-              "It prevents any cells from ever being removed",
-              "It helps remove unnecessary or damaged cells in a controlled way"
+              "Decomposers block further transfer",
+              "Predators run out of prey species",
+              "So little energy remains after several transfers that it cannot support another level",
+              "Producers stop growing after five levels"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "How does apoptosis differ from necrosis, an uncontrolled form of cell death?",
+            "q": "In an energy pyramid, which trophic level always holds the greatest amount of energy?",
             "options": [
-              "Apoptosis and necrosis are identical processes",
-              "Apoptosis always results from external injury only",
-              "Necrosis is always a planned, regulated process",
-              "Apoptosis is a controlled, regulated process, while necrosis is often due to injury or damage"
+              "Tertiary consumers",
+              "Producers",
+              "Secondary consumers",
+              "Primary consumers"
             ],
-            "answer": 3
-          },
-          {
-            "q": "What can happen if apoptosis fails to occur properly in damaged cells?",
-            "options": [
-              "The organism immediately dies in every case",
-              "Nothing happens, since apoptosis has no biological importance",
-              "The damaged cells are always instantly repaired with no consequence",
-              "Damaged or abnormal cells may survive and potentially become cancerous"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Apoptosis plays an important role in shaping structures during ___.",
-            "options": [
-              "Embryonic development, such as forming separate fingers and toes",
-              "Only plant growth, never in animals",
-              "Only the aging process, with no role in development",
-              "Only wound healing, with no other function"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -28979,63 +28979,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: The Gut-Brain Axis and the Enteric Nervous System",
-        "summary": "Grade 11 Biology strand: the gut-brain axis is the bidirectional communication network linking the digestive system and the brain, involving the enteric nervous system, hormones, and gut microbiota that can influence mood and behaviour.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Evolution: Adaptive Radiation and Niche Diversification",
+        "summary": "Students explore how a single ancestral species can rapidly diversify into many descendant species that fill different ecological niches, using classic examples such as Darwin's finches and Anolis lizards.",
+        "resourceLabel": "YouTube: Evolution: Adaptive Radiation and Niche Diversification",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Evolution%3A%20Adaptive%20Radiation%20and%20Niche%20Diversification%20grade%2011%20educational",
+        "topic": "Evolution",
         "quiz": [
           {
-            "q": "What is the gut-brain axis?",
+            "q": "Adaptive radiation is best defined as:",
             "options": [
-              "A type of muscle found in the digestive tract with no nerve connection",
-              "A bidirectional communication network linking the digestive system and the brain",
-              "A one-way connection with no communication between organs",
-              "A structure found only in the brain, unrelated to digestion"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the enteric nervous system?",
-            "options": [
-              "A type of hormone released only by the kidneys",
-              "A structure found exclusively in the lungs",
-              "A network of neurons embedded in the lining of the digestive tract",
-              "A part of the brain unrelated to digestion"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What role can gut microbiota play in the gut-brain axis?",
-            "options": [
-              "They can influence mood and behaviour through chemical signalling",
-              "They only affect digestion, with no other bodily influence",
-              "They have no connection to the brain whatsoever",
-              "They exist without any interaction with the nervous system"
+              "The rapid diversification of one ancestral lineage into many species occupying different niches",
+              "A sudden mass extinction event",
+              "The gradual convergence of unrelated species toward one body form",
+              "The migration of a species to a new continent"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the gut sometimes referred to as a second brain?",
+            "q": "Darwin's finches on the Galápagos Islands are a classic example of adaptive radiation because they show:",
             "options": [
-              "The gut has no nervous tissue at all",
-              "It contains a large, complex network of neurons capable of independent function",
-              "This description has no scientific basis whatsoever",
-              "The gut is scientifically identical to the brain in every way"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Research on the gut-brain axis has explored potential links to which of these?",
-            "options": [
-              "Only eye colour, with no other connection",
-              "Only bone density, with no other connection",
-              "Mood disorders and mental health",
-              "Only hair growth, with no other connection"
+              "A single species that never diverged",
+              "Identical beak shapes across all islands",
+              "Beak shapes that vary with each species' food source",
+              "No genetic differences among islands"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which condition most favours adaptive radiation after a species colonizes a new island?",
+            "options": [
+              "Intense competition from many established species",
+              "A completely uniform habitat",
+              "Few competitors and many unused ecological niches",
+              "Total isolation from all resources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Adaptive radiation typically results in species that are:",
+            "options": [
+              "Unrelated species sharing one niche",
+              "Genetically identical but behaviourally different",
+              "Distantly related but structurally identical",
+              "Closely related but structurally and ecologically distinct"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following would NOT typically drive adaptive radiation?",
+            "options": [
+              "Complete absence of genetic variation in the population",
+              "Lack of predators in a new habitat",
+              "Geographic isolation on separate islands",
+              "Availability of unexploited resources"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Human Body Systems"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -29956,63 +29956,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: The Cytoskeleton — Structure and Cellular Movement",
-        "summary": "Grade 11 Biology strand: the cytoskeleton is a dynamic network of protein filaments, including microtubules, microfilaments, and intermediate filaments, that maintains cell shape, enables intracellular transport, and drives cellular movement.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Cell Biology: The Cytoskeleton -- Shape, Support, and Movement",
+        "summary": "Students examine the three main cytoskeletal fibre types -- microfilaments, intermediate filaments, and microtubules -- and their roles in maintaining cell shape, enabling movement, and organizing organelle transport.",
+        "resourceLabel": "YouTube: Cell Biology: The Cytoskeleton -- Shape, Support, and Movement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cell%20Biology%3A%20The%20Cytoskeleton%20--%20Shape%2C%20Support%2C%20and%20Movement%20grade%2011%20educational",
+        "topic": "Cells & Microorganisms",
         "quiz": [
           {
-            "q": "What is the cytoskeleton?",
+            "q": "Which cytoskeletal component is the thickest and forms the tracks for organelle transport by motor proteins?",
             "options": [
-              "A type of carbohydrate stored in the nucleus",
-              "A structure found only in bacterial cells",
-              "A dynamic network of protein filaments within a cell",
-              "A rigid outer shell surrounding the cell membrane"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which of these is a component of the cytoskeleton?",
-            "options": [
-              "Mitochondria",
-              "Ribosomes",
-              "The nucleolus",
+              "Intermediate filaments",
+              "Cell wall",
+              "Microfilaments",
               "Microtubules"
             ],
             "answer": 3
           },
           {
-            "q": "What role does the cytoskeleton play in cellular movement?",
+            "q": "Microfilaments are composed mainly of which protein?",
             "options": [
-              "It only functions in plant cells",
-              "It provides the structural framework that enables movement such as muscle contraction and cell migration",
-              "It prevents all movement within or by the cell",
-              "It has no connection to movement of any kind"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does the cytoskeleton help maintain cell shape?",
-            "options": [
-              "It has no role in shape at all",
-              "It surrounds the cell in a hard mineral shell",
-              "It dissolves the cell membrane to allow flexibility",
-              "It forms an internal scaffold of filaments that supports the cell structure"
+              "Tubulin",
+              "Collagen",
+              "Keratin",
+              "Actin"
             ],
             "answer": 3
           },
           {
-            "q": "What is one function of microtubules within the cytoskeleton?",
+            "q": "Which cytoskeletal fibres provide the greatest mechanical strength and help anchor the nucleus in place?",
             "options": [
-              "Storing genetic information",
-              "Digesting waste products in the cell",
-              "Guiding the separation of chromosomes during cell division",
-              "Producing energy through cellular respiration"
+              "Flagella",
+              "Intermediate filaments",
+              "Microtubules",
+              "Microfilaments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During cell division, which cytoskeletal structure forms the spindle fibres that separate chromosomes?",
+            "options": [
+              "Microfilaments",
+              "Intermediate filaments",
+              "Microtubules",
+              "Peroxisomes"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which of the following is a function of the cytoskeleton?",
+            "options": [
+              "Synthesizing lipids",
+              "Maintaining cell shape and enabling intracellular movement",
+              "Producing ATP through respiration",
+              "Storing genetic information"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -30690,63 +30690,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: The Blood-Brain Barrier — Structure and Function",
-        "summary": "Grade 11 Biology strand: the blood-brain barrier is a selectively permeable layer of tightly joined cells lining the brain capillaries, protecting neural tissue by restricting the passage of pathogens, toxins, and many large molecules from the bloodstream.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Genetics: Dihybrid Crosses and Independent Assortment",
+        "summary": "Students apply Mendel's Law of Independent Assortment to dihybrid crosses, using Punnett squares to predict the classic 9:3:3:1 phenotypic ratio produced when two individuals heterozygous for two genes are crossed.",
+        "resourceLabel": "YouTube: Genetics: Dihybrid Crosses and Independent Assortment",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Dihybrid%20Crosses%20and%20Independent%20Assortment%20grade%2011%20educational",
+        "topic": "Genetics & Heredity",
         "quiz": [
           {
-            "q": "What is the blood-brain barrier?",
+            "q": "In a standard dihybrid cross between two individuals heterozygous for two independently assorting genes (AaBb x AaBb), what phenotypic ratio is expected in the offspring?",
             "options": [
-              "A layer of skin on the outside of the skull",
-              "A type of muscle found only in the heart",
-              "A selectively permeable layer of tightly joined cells lining the brain capillaries",
-              "A bone structure that surrounds the entire brain"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the main function of the blood-brain barrier?",
-            "options": [
-              "Protecting neural tissue by restricting harmful substances from entering the brain",
-              "Allowing all substances in the blood to enter the brain freely",
-              "Pumping blood throughout the entire body",
-              "Producing new neurons continuously"
+              "9:3:3:1",
+              "1:2:1",
+              "1:1:1:1",
+              "3:1"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these might the blood-brain barrier typically block from entering brain tissue?",
+            "q": "The Law of Independent Assortment states that:",
             "options": [
-              "Glucose needed for energy",
-              "Many pathogens and toxins circulating in the blood",
-              "Oxygen needed for cellular respiration",
-              "Water molecules entirely"
+              "Alleles for different genes on different chromosomes segregate independently during gamete formation",
+              "Dominant alleles always mask recessive ones in every generation",
+              "All alleles are always inherited together",
+              "Genes on the same chromosome always separate together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A pea plant with genotype AaBb produces gametes. How many genetically distinct gamete types can it produce, assuming the genes assort independently?",
+            "options": [
+              "8",
+              "4",
+              "16",
+              "2"
             ],
             "answer": 1
           },
           {
-            "q": "Why can the blood-brain barrier make treating certain brain diseases with medication difficult?",
+            "q": "In a dihybrid testcross, AaBb x aabb, what phenotypic ratio is expected in the offspring?",
             "options": [
-              "It can prevent many drugs from reaching brain tissue effectively",
-              "It only exists in animals, never in humans",
-              "It always allows every drug to pass through with no resistance",
-              "It has no effect on medication delivery at all"
+              "1:1:1:1",
+              "9:3:3:1",
+              "1:2:1",
+              "3:1"
             ],
             "answer": 0
           },
           {
-            "q": "What structural feature of the cells lining brain capillaries helps form the blood-brain barrier?",
+            "q": "Independent assortment is most directly explained by the behaviour of chromosomes during which stage of meiosis?",
             "options": [
-              "A complete absence of any cell membrane",
-              "Large gaps between cells that allow anything to pass freely",
-              "Cells that constantly divide and never connect to each other",
-              "Tight junctions between adjacent cells that limit what can pass between them"
+              "Anaphase of mitosis",
+              "Metaphase I, when homologous pairs align randomly",
+              "Prophase II",
+              "Interphase"
             ],
-            "answer": 3
+            "answer": 1
           }
-        ],
-        "topic": "Structures, Materials & Engineering"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -31181,63 +31181,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Quorum Sensing — Bacterial Cell-to-Cell Communication",
-        "summary": "Grade 11 Biology strand: quorum sensing is a form of cell-to-cell communication in which bacteria release and detect signalling molecules to coordinate group behaviours, such as biofilm formation, once the bacterial population reaches a critical density.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Physiology: Hemoglobin and Oxygen Transport",
+        "summary": "Students examine hemoglobin's structure and cooperative binding of oxygen, and how factors like pH and carbon dioxide concentration shift the oxygen-hemoglobin dissociation curve to release more oxygen where it is needed.",
+        "resourceLabel": "YouTube: Physiology: Hemoglobin and Oxygen Transport",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physiology%3A%20Hemoglobin%20and%20Oxygen%20Transport%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What is quorum sensing?",
+            "q": "Each hemoglobin molecule can bind up to how many oxygen molecules?",
             "options": [
-              "A process where bacteria are permanently destroyed",
-              "A structure used exclusively for bacterial movement",
-              "A type of photosynthesis found only in plants",
-              "A form of cell-to-cell communication that lets bacteria coordinate group behaviours"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What triggers bacteria to begin coordinated group behaviours through quorum sensing?",
-            "options": [
-              "A sudden and complete absence of any bacteria",
-              "Exposure to bright sunlight alone",
-              "A drop in signalling molecule concentration to zero",
-              "Reaching a critical population density that raises signalling molecule concentration"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which of these bacterial behaviours can be coordinated through quorum sensing?",
-            "options": [
-              "Random, uncoordinated individual movement only",
-              "Photosynthesis using chlorophyll",
-              "The complete cessation of all bacterial activity",
-              "Biofilm formation"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What do bacteria release and detect during quorum sensing?",
-            "options": [
-              "Radioactive isotopes",
-              "Solid mineral particles",
-              "Only pure water",
-              "Signalling molecules"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is quorum sensing of interest to researchers studying antibiotic resistance?",
-            "options": [
-              "Disrupting quorum sensing signals could potentially prevent harmful coordinated bacterial behaviours like biofilm formation",
-              "Quorum sensing is a phenomenon found only in animal cells",
-              "Quorum sensing has no connection to bacterial behaviour or resistance",
-              "Antibiotic resistance always eliminates the need for any communication between bacteria"
+              "4",
+              "1",
+              "2",
+              "8"
             ],
             "answer": 0
+          },
+          {
+            "q": "In actively exercising muscle tissue, increased CO2 and lower pH cause hemoglobin to:",
+            "options": [
+              "Convert to myoglobin",
+              "Stop binding oxygen entirely",
+              "Bind oxygen more tightly and release less",
+              "Release oxygen more readily to the tissue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "This rightward shift in the oxygen-hemoglobin dissociation curve, caused by higher CO2 and lower pH, is known as:",
+            "options": [
+              "The Bohr effect",
+              "The Chargaff effect",
+              "The Krebs effect",
+              "The Hardy-Weinberg effect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Hemoglobin is found primarily within which blood component?",
+            "options": [
+              "Red blood cells",
+              "Plasma",
+              "White blood cells",
+              "Platelets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of the hemoglobin molecule directly binds the oxygen atom?",
+            "options": [
+              "The globin protein chain alone",
+              "The cell membrane of the red blood cell",
+              "The iron atom within the heme group",
+              "A phosphate group"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -31670,58 +31670,59 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: RNA Interference and Gene Silencing",
-        "summary": "Grade 11 Biology strand: RNA interference is a natural cellular mechanism in which small RNA molecules bind to complementary messenger RNA, blocking or degrading it and effectively silencing the expression of a specific gene.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Ecology: Measuring Biodiversity -- Richness and Diversity Indices",
+        "summary": "Students distinguish species richness from species evenness as components of biodiversity, and see how ecologists use simple diversity indices to compare the variety and balance of species across different ecosystems.",
+        "resourceLabel": "YouTube: Ecology: Measuring Biodiversity -- Richness and Diversity Indices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Measuring%20Biodiversity%20--%20Richness%20and%20Diversity%20Indices%20grade%2011%20educational",
+        "topic": "Ecosystems & Environment",
         "quiz": [
           {
-            "q": "What is RNA interference?",
+            "q": "Species richness refers to:",
             "options": [
-              "A type of DNA replication error",
-              "A structure found only in the cell nucleus with no function",
-              "A natural mechanism in which small RNA molecules silence the expression of a specific gene",
-              "A process that always increases the expression of every gene"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does RNA interference silence a gene?",
-            "options": [
-              "It has no interaction with messenger RNA at all",
-              "Small RNA molecules bind to complementary messenger RNA, blocking or degrading it",
-              "It permanently deletes the gene from the DNA sequence",
-              "It increases the number of copies of the targeted messenger RNA"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What must be true about the small RNA molecule and its messenger RNA target for RNA interference to occur?",
-            "options": [
-              "They must have completely unrelated sequences",
-              "Their sequences must be complementary to each other",
-              "The messenger RNA must be located outside the cell",
-              "The small RNA must be identical to a protein"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is RNA interference of interest for potential medical therapies?",
-            "options": [
-              "It offers a way to selectively silence genes responsible for disease",
-              "It can only be used to increase gene expression, never decrease it",
-              "It only functions in plant cells, never in humans",
-              "It has no potential medical applications at all"
+              "The total number of different species in a community",
+              "The number of trophic levels present",
+              "The total biomass of an ecosystem",
+              "The relative abundance of each species"
             ],
             "answer": 0
           },
           {
-            "q": "RNA interference is considered a mechanism of gene regulation that occurs ___.",
+            "q": "Two forests each have 5 tree species. Forest X has these species in nearly equal numbers, while Forest Y is 95% dominated by one species. Forest X has higher:",
             "options": [
-              "Only in cells that are actively dividing",
-              "Only before DNA replication begins",
-              "Only within the mitochondria",
-              "After messenger RNA has already been produced, rather than at the DNA level"
+              "Species richness",
+              "Total biomass",
+              "Carrying capacity",
+              "Species evenness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A community with high species richness but very low evenness would most likely be:",
+            "options": [
+              "Impossible to measure",
+              "Automatically classified as a monoculture",
+              "Considered equally diverse as a community with high richness and high evenness",
+              "Dominated by one or a few species even though many species are technically present"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following would most directly increase the measured biodiversity of a wetland?",
+            "options": [
+              "Adding several new native species without eliminating existing ones",
+              "Removing the top predator entirely",
+              "A drought that kills all amphibians",
+              "A new invasive species outcompeting and eliminating native species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ecologists use diversity indices primarily to:",
+            "options": [
+              "Measure the pH of soil",
+              "Calculate the exact age of an ecosystem",
+              "Predict earthquake activity",
+              "Compare the variety and balance of species between different communities"
             ],
             "answer": 3
           }
@@ -33380,63 +33381,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Countercurrent Exchange Systems in Animals",
-        "summary": "Grade 11 Biology strand: countercurrent exchange is a biological arrangement in which two fluids flow in opposite directions past each other, maintaining a concentration or temperature gradient along the entire length of the exchange surface and greatly increasing the efficiency of processes such as gas exchange in fish gills.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Genetics: Meiosis and the Sources of Genetic Variation",
+        "summary": "Students examine how crossing over during prophase I and independent assortment during metaphase I generate genetic variation in gametes, and distinguish the outcomes of meiosis from those of mitosis.",
+        "resourceLabel": "YouTube: Genetics: Meiosis and the Sources of Genetic Variation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Meiosis%20and%20the%20Sources%20of%20Genetic%20Variation%20grade%2011%20educational",
+        "topic": "Genetics & Heredity",
         "quiz": [
           {
-            "q": "What is countercurrent exchange?",
+            "q": "Crossing over, which exchanges segments between homologous chromosomes, occurs during which phase of meiosis?",
             "options": [
-              "An arrangement where two fluids flow in opposite directions past each other to increase exchange efficiency",
-              "A system where two fluids always flow in the exact same direction",
-              "A process that stops all fluid flow completely",
-              "An arrangement used only for storing waste products"
+              "Metaphase II",
+              "Prophase I",
+              "Anaphase I",
+              "Telophase II"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many haploid daughter cells are produced from one diploid cell that completes meiosis?",
+            "options": [
+              "4",
+              "8",
+              "2",
+              "1"
             ],
             "answer": 0
           },
           {
-            "q": "What does the opposite-direction flow in countercurrent exchange maintain?",
+            "q": "Which of the following is a key difference between meiosis and mitosis?",
             "options": [
-              "A concentration or temperature gradient along the entire exchange surface",
-              "A gradient only at a single point, nowhere else",
-              "Complete equilibrium with no gradient at all",
-              "A gradient that reverses randomly with no consistent pattern"
+              "Meiosis produces four diploid cells",
+              "Mitosis produces genetically varied cells while meiosis produces identical cells",
+              "Mitosis only occurs in plant cells",
+              "Meiosis includes two rounds of division and produces genetically varied haploid cells, while mitosis includes one round and produces identical diploid cells"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The random alignment of homologous chromosome pairs at the metaphase plate during meiosis I is called:",
+            "options": [
+              "Independent assortment",
+              "Synapsis",
+              "Nondisjunction",
+              "Crossing over"
             ],
             "answer": 0
           },
           {
-            "q": "In which animal structure is countercurrent exchange well known for increasing oxygen uptake from water?",
+            "q": "A human diploid cell has 46 chromosomes. After meiosis is complete, each resulting gamete contains:",
             "options": [
-              "Fish gills",
-              "Bird feathers",
-              "The human liver",
-              "The mammalian stomach"
+              "92 chromosomes",
+              "23 chromosomes",
+              "12 chromosomes",
+              "46 chromosomes"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is countercurrent exchange more efficient than a system where both fluids flow in the same direction?",
-            "options": [
-              "A gradient is maintained along the whole exchange surface rather than only at the start",
-              "Efficiency has no relationship to the direction of fluid flow",
-              "Countercurrent exchange eliminates the need for any gradient whatsoever",
-              "Same-direction flow always transfers more material overall"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Besides gas exchange, what other kind of exchange can a countercurrent system help conserve in some animals?",
-            "options": [
-              "Light, helping animals see in the dark",
-              "Electrical signals in the nervous system",
-              "Heat, helping limbs conserve body temperature",
-              "Sound, helping animals communicate over long distances"
-            ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Animals & Wildlife (Basic)"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -34131,58 +34132,59 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: The Renin-Angiotensin System and Blood Pressure Regulation",
-        "summary": "Grade 11 Biology strand: the renin-angiotensin system is a hormonal pathway in which the kidneys release renin in response to low blood pressure, triggering a cascade that produces angiotensin II, a potent hormone that raises blood pressure by constricting blood vessels and promoting sodium and water retention.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Human Biology: The Neuron -- Structure and the Action Potential",
+        "summary": "Students study the structure of a neuron -- dendrites, cell body, axon, and myelin sheath -- and the electrical basis of the action potential, including depolarization and repolarization driven by sodium and potassium ion movement.",
+        "resourceLabel": "YouTube: Human Biology: The Neuron -- Structure and the Action Potential",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Biology%3A%20The%20Neuron%20--%20Structure%20and%20the%20Action%20Potential%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What organ releases renin in response to low blood pressure?",
+            "q": "Which part of a neuron receives incoming signals from other neurons?",
             "options": [
-              "The liver",
-              "The lungs",
-              "The pancreas",
-              "The kidneys"
+              "Dendrites",
+              "Axon terminal",
+              "Axon",
+              "Myelin sheath"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What hormone does the renin-angiotensin cascade ultimately produce to raise blood pressure?",
+            "q": "During depolarization of an action potential, which ion rushes into the neuron?",
             "options": [
-              "Insulin",
-              "Melatonin",
-              "Angiotensin II",
-              "Adrenaline exclusively"
+              "Potassium (K+)",
+              "Calcium (Ca2+), exclusive to muscle cells",
+              "Sodium (Na+)",
+              "Chloride (Cl-)"
             ],
             "answer": 2
           },
           {
-            "q": "How does angiotensin II raise blood pressure?",
+            "q": "The myelin sheath surrounding many axons primarily functions to:",
             "options": [
-              "By constricting blood vessels and promoting sodium and water retention",
-              "By stopping the heart from beating temporarily",
-              "By dilating blood vessels and increasing water loss",
-              "By reducing the total volume of blood in the body"
+              "Speed up signal transmission by insulating the axon",
+              "Generate the action potential",
+              "Absorb excess ions",
+              "Store neurotransmitters"
             ],
             "answer": 0
           },
           {
-            "q": "What condition triggers the kidneys to release renin?",
+            "q": "A neuron's resting membrane potential is typically around -70 mV, meaning the inside of the cell is:",
             "options": [
-              "Low blood pressure",
-              "High blood pressure that is already elevated",
-              "A decrease in heart rate only",
-              "A sudden increase in body temperature"
+              "Impossible to measure",
+              "More positive than the outside",
+              "More negative than the outside",
+              "Equal in charge to the outside"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is the renin-angiotensin system considered a hormonal feedback pathway?",
+            "q": "After an action potential fires, the neuron enters a brief refractory period during which it:",
             "options": [
-              "It only responds to changes in blood sugar, not blood pressure",
-              "It permanently raises blood pressure with no regulatory feedback",
-              "A drop in blood pressure triggers a hormone cascade that acts to restore blood pressure toward normal",
-              "It operates with no connection between blood pressure and hormone release"
+              "Reverses its resting potential permanently",
+              "Loses its myelin sheath",
+              "Cannot fire another action potential immediately",
+              "Fires continuously without stopping"
             ],
             "answer": 2
           }
@@ -34375,60 +34377,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Genomic Imprinting and Parent-of-Origin Gene Expression",
-        "summary": "Grade 11 Biology strand: genomic imprinting is an epigenetic phenomenon in which certain genes are expressed differently depending on whether they were inherited from the mother or the father, with one parental copy chemically silenced while the other remains active.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Ecology: Island Biogeography and Species-Area Relationships",
+        "summary": "Students learn how island biogeography theory predicts species richness on an island based on the balance between immigration and extinction rates, and how island size and distance from the mainland shift that balance.",
+        "resourceLabel": "YouTube: Ecology: Island Biogeography and Species-Area Relationships",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Island%20Biogeography%20and%20Species-Area%20Relationships%20grade%2011%20educational",
+        "topic": "Ecosystems & Environment",
         "quiz": [
           {
-            "q": "What is genomic imprinting?",
+            "q": "According to island biogeography theory, larger islands tend to support more species mainly because they have:",
             "options": [
-              "A form of asexual reproduction with no parental contribution",
-              "A permanent mutation in the DNA sequence of a gene",
-              "An epigenetic phenomenon where certain genes are expressed differently depending on parental origin",
-              "A process that always silences every gene equally regardless of origin"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "In genomic imprinting, what happens to one of the two parental gene copies?",
-            "options": [
-              "Both copies are always expressed equally with no silencing",
-              "It is chemically silenced while the other copy remains active",
-              "It is duplicated many times over",
-              "It is physically deleted from the chromosome"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What determines which parental copy of an imprinted gene is silenced?",
-            "options": [
-              "The order in which the gene was discovered by scientists",
-              "The physical size of the chromosome carrying the gene",
-              "Whether the gene copy was inherited from the mother or the father",
-              "The colour of the offsprings eyes"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Is genomic imprinting a change to the underlying DNA sequence itself?",
-            "options": [
-              "Yes, it always permanently alters the DNA sequence",
-              "No, it is an epigenetic modification rather than a change to the DNA sequence",
-              "Yes, it deletes the gene from the genome entirely",
-              "It replaces the DNA sequence with RNA permanently"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does genomic imprinting complicate simple predictions based on Mendelian inheritance alone?",
-            "options": [
-              "The parent of origin of a gene copy can affect whether it is expressed, not just which allele is inherited",
-              "Genomic imprinting has no effect on inheritance patterns at all",
-              "Mendelian inheritance already accounts fully for parent-of-origin effects",
-              "Imprinting only affects traits that are never inherited at all"
+              "More available habitat and resources, lowering extinction rates",
+              "Higher extinction rates",
+              "No competition among species",
+              "Lower immigration rates"
             ],
             "answer": 0
+          },
+          {
+            "q": "Islands located closer to the mainland typically have higher species richness because they experience:",
+            "options": [
+              "No immigration at all",
+              "Higher immigration rates",
+              "Lower immigration rates",
+              "Higher extinction rates only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Island biogeography theory predicts that species richness on an island reaches equilibrium when:",
+            "options": [
+              "Every available niche is permanently filled by one species",
+              "Immigration completely stops",
+              "The rate of new species immigrating equals the rate of species going extinct",
+              "All species have gone extinct"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which island would be predicted to have the LOWEST species richness according to the theory?",
+            "options": [
+              "A small island far from the mainland",
+              "A small island close to the mainland",
+              "A large island far from the mainland",
+              "A large island close to the mainland"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Island biogeography principles are also useful for studying:",
+            "options": [
+              "Only actual ocean islands",
+              "Habitat fragments surrounded by human development, which act like ecological islands",
+              "The chemical composition of rocks",
+              "Weather patterns unrelated to ecology"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -34866,60 +34869,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Horizontal Gene Transfer in Bacteria",
-        "summary": "Grade 11 Biology strand: horizontal gene transfer is the movement of genetic material between organisms of the same generation rather than from parent to offspring, and in bacteria it occurs through transformation, transduction, and conjugation, spreading traits such as antibiotic resistance rapidly through a population.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Microbiology: Horizontal Gene Transfer in Bacteria",
+        "summary": "Students compare the three natural mechanisms bacteria use to exchange genetic material without reproduction -- transformation, conjugation, and transduction -- and discuss their role in spreading traits like antibiotic resistance.",
+        "resourceLabel": "YouTube: Microbiology: Horizontal Gene Transfer in Bacteria",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Microbiology%3A%20Horizontal%20Gene%20Transfer%20in%20Bacteria%20grade%2011%20educational",
+        "topic": "Genetics & Heredity",
         "quiz": [
           {
-            "q": "What is horizontal gene transfer?",
+            "q": "In bacterial conjugation, genetic material is transferred:",
             "options": [
-              "A process that never occurs in bacteria",
-              "The transfer of genetic material only from parent to offspring",
-              "The complete destruction of genetic material within a cell",
-              "The movement of genetic material between organisms of the same generation, rather than from parent to offspring"
+              "By bacteria absorbing free DNA from their environment",
+              "Directly between two bacterial cells through a pilus",
+              "Through a virus that infects two different bacteria",
+              "Only during bacterial binary fission"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Transformation refers to a bacterium's ability to:",
+            "options": [
+              "Inject DNA into a virus",
+              "Divide asexually",
+              "Change its own genome spontaneously with no outside source",
+              "Take up free DNA fragments from its surrounding environment"
             ],
             "answer": 3
           },
           {
-            "q": "Name one mechanism bacteria use for horizontal gene transfer.",
+            "q": "In transduction, genetic material is transferred between bacteria by:",
             "options": [
-              "Photosynthesis",
-              "Mitosis exclusively",
-              "Conjugation",
-              "Meiosis exclusively"
+              "Binary fission",
+              "Diffusion through the cell wall",
+              "Direct cell-to-cell contact through a pilus",
+              "A bacteriophage (virus) that accidentally packages bacterial DNA"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What trait can spread rapidly through a bacterial population via horizontal gene transfer?",
+            "q": "Horizontal gene transfer is a major concern in medicine because it can rapidly spread:",
             "options": [
-              "Antibiotic resistance",
-              "Eye colour",
-              "Leaf shape",
-              "Fur pattern"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does horizontal gene transfer differ from normal vertical inheritance?",
-            "options": [
-              "It moves genes between organisms of the same generation instead of from parent to offspring",
-              "It only occurs across different species of animals",
-              "It never involves the movement of genetic material at all",
-              "It is identical to vertical inheritance in every way"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is horizontal gene transfer significant for public health?",
-            "options": [
-              "It only affects viruses, never bacteria",
-              "It can spread antibiotic resistance genes quickly across a bacterial population",
-              "It eliminates the need for any antibiotics at all",
-              "It has no connection to antibiotic resistance whatsoever"
+              "Viral DNA into human cells",
+              "Antibiotic resistance genes between different bacterial species",
+              "Mitochondrial DNA between organisms",
+              "Chromosomal mutations in humans"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which structure allows two bacterial cells to connect directly during conjugation?",
+            "options": [
+              "Pilus",
+              "Ribosome",
+              "Flagellum",
+              "Capsule"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -35355,63 +35359,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Cell Signaling — Ligands, Receptors, and Signal Transduction",
-        "summary": "Grade 11 Biology strand: cell signaling begins when a signaling molecule called a ligand binds to a specific receptor on or in a target cell, triggering a signal transduction pathway that relays and amplifies the message inside the cell to produce a specific cellular response.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology: Embryonic Development -- Cleavage to Differentiation",
+        "summary": "Students trace early animal embryonic development, from the rapid cell divisions of cleavage through gastrulation and the formation of the three primary germ layers that give rise to all body tissues.",
+        "resourceLabel": "YouTube: Biology: Embryonic Development -- Cleavage to Differentiation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Embryonic%20Development%20--%20Cleavage%20to%20Differentiation%20grade%2011%20educational",
+        "topic": "Reproduction & Development",
         "quiz": [
           {
-            "q": "What is a ligand in the context of cell signaling?",
+            "q": "The rapid series of cell divisions immediately following fertilization, which increases cell number without increasing overall embryo size, is called:",
             "options": [
-              "A structural protein found only in the cell wall",
-              "A type of carbohydrate stored for energy",
-              "A signaling molecule that binds to a specific receptor",
-              "An enzyme that breaks down DNA exclusively"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does a ligand bind to on or in a target cell?",
-            "options": [
-              "Any random molecule inside the cell",
-              "A specific receptor",
-              "Nothing, since ligands do not bind to anything",
-              "The cell nucleus exclusively, with no receptor involved"
+              "Differentiation",
+              "Cleavage",
+              "Ovulation",
+              "Gastrulation"
             ],
             "answer": 1
           },
           {
-            "q": "What is a signal transduction pathway?",
+            "q": "Gastrulation is the process during which the embryo:",
             "options": [
-              "A pathway with no connection to cellular response",
-              "A series of steps that relay and amplify a signal inside the cell",
-              "A structure used only for cell division",
-              "A pathway that immediately destroys the incoming signal"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the end result of a completed signal transduction pathway?",
-            "options": [
-              "No change to the cell whatsoever",
-              "The complete destruction of the target cell in every case",
-              "A specific cellular response",
-              "The permanent removal of all receptors from the cell"
+              "Fuses with the sperm nucleus",
+              "Implants directly into the ovary",
+              "Forms the three primary germ layers",
+              "Produces its first single cell"
             ],
             "answer": 2
           },
           {
-            "q": "Why is receptor specificity important in cell signaling?",
+            "q": "Which of the three germ layers gives rise to the skin and nervous system?",
             "options": [
-              "It ensures that a ligand triggers a response only in the appropriate target cells",
-              "Receptors bind to every ligand in the body equally",
-              "Specificity has no role in determining which cells respond",
-              "Receptor specificity guarantees every cell responds identically to every ligand"
+              "Mesoderm",
+              "Ectoderm",
+              "Endoderm",
+              "Blastoderm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The mesoderm layer typically develops into which of the following structures?",
+            "options": [
+              "The lining of the digestive tract only",
+              "The outer skin layer only",
+              "Muscles, bones, and the circulatory system",
+              "Hair and nails only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Cell differentiation during development occurs even though nearly all cells in the embryo contain:",
+            "options": [
+              "The same genome, because different genes are turned on or off in different cells",
+              "Randomly mutated DNA",
+              "No DNA at all",
+              "Different sets of chromosomes"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -36089,63 +36093,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Embryonic Development — Cleavage, Gastrulation, and Differentiation",
-        "summary": "Grade 11 Biology strand: early embryonic development proceeds through cleavage, rapid cell division that partitions the fertilized egg into many smaller cells, followed by gastrulation, which establishes the three primary germ layers, and cellular differentiation, in which cells become specialized for distinct roles.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology: Innate Immunity -- The Body's First Line of Defense",
+        "summary": "Students distinguish the body's innate, non-specific defences -- physical barriers, phagocytic cells, and the inflammatory response -- from the slower, targeted adaptive immune response, and explain why innate immunity acts first.",
+        "resourceLabel": "YouTube: Biology: Innate Immunity -- The Body's First Line of Defense",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Innate%20Immunity%20--%20The%20Body%27s%20First%20Line%20of%20Defense%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What happens during cleavage in early embryonic development?",
+            "q": "Which of the following is an example of a physical barrier that is part of innate immunity?",
             "options": [
-              "The fertilized egg is destroyed and replaced",
-              "The embryo stops dividing entirely for an extended period",
-              "Specialized organs form immediately without any cell division",
-              "Rapid cell division partitions the fertilized egg into many smaller cells"
+              "Vaccination",
+              "Skin and mucous membranes",
+              "Memory T cells",
+              "Antibodies produced by B cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Innate immunity is described as 'non-specific' because it:",
+            "options": [
+              "Only activates after a second exposure to a pathogen",
+              "Responds in the same general way to a wide range of pathogens",
+              "Requires prior exposure to develop",
+              "Targets one particular pathogen only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During the inflammatory response, blood vessels near an injury site widen (vasodilation) mainly in order to:",
+            "options": [
+              "Deliver more white blood cells and clotting factors to the site",
+              "Reduce blood flow to the area",
+              "Lower the local temperature",
+              "Prevent phagocytes from reaching the wound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which cell type engulfs and digests invading pathogens as part of the innate immune response?",
+            "options": [
+              "Memory cell",
+              "B lymphocyte",
+              "Plasma cell",
+              "Phagocyte (e.g., macrophage)"
             ],
             "answer": 3
           },
           {
-            "q": "What does gastrulation establish in a developing embryo?",
+            "q": "Compared to the adaptive immune response, the innate immune response:",
             "options": [
-              "A single, undifferentiated layer of cells with no further structure",
-              "The adult skeletal system directly, with no intermediate stages",
-              "The three primary germ layers",
-              "A fully formed nervous system"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is cellular differentiation?",
-            "options": [
-              "The process by which all cells become identical to one another",
-              "The process by which cells become specialized for distinct roles",
-              "The complete cessation of all cell activity",
-              "A process that only occurs after an organism reaches adulthood"
+              "Only occurs after vaccination",
+              "Acts within minutes to hours and does not require prior exposure",
+              "Produces long-lasting immunological memory",
+              "Is slower but highly specific to one pathogen"
             ],
             "answer": 1
-          },
-          {
-            "q": "In what order do cleavage, gastrulation, and differentiation typically proceed?",
-            "options": [
-              "All three occur simultaneously with no particular order",
-              "Cleavage first, then gastrulation, then further differentiation",
-              "Gastrulation first, followed by differentiation, then cleavage",
-              "Differentiation first, followed by cleavage, then gastrulation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is gastrulation considered a critical stage in embryonic development?",
-            "options": [
-              "Gastrulation permanently halts all further embryonic development",
-              "Gastrulation only occurs in plants, not animals",
-              "It establishes the basic body plan by forming the three germ layers that later tissues and organs develop from",
-              "Gastrulation has no effect on the embryos later development"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Reproduction & Development"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -36825,60 +36829,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Prions and Protein Misfolding Disease",
-        "summary": "Grade 11 Biology strand: a prion is an infectious agent made entirely of misfolded protein, with no genetic material of its own, that causes disease by inducing normal proteins in the brain to adopt the same abnormal shape, leading to progressive neurodegeneration.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Human Biology: Synaptic Transmission and Neurotransmitters",
+        "summary": "Students follow a nerve signal across the synaptic cleft, from the release of neurotransmitter from the presynaptic axon terminal to receptor binding and signal termination on the postsynaptic cell.",
+        "resourceLabel": "YouTube: Human Biology: Synaptic Transmission and Neurotransmitters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Biology%3A%20Synaptic%20Transmission%20and%20Neurotransmitters%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What is a prion made of?",
+            "q": "When an action potential reaches the axon terminal, it triggers the release of neurotransmitter from:",
             "options": [
-              "Misfolded protein, with no genetic material of its own",
-              "A carbohydrate molecule with no protein at all",
-              "A complete virus particle with RNA",
-              "DNA exclusively, with no protein component"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does a prion cause disease?",
-            "options": [
-              "By inducing normal proteins to adopt the same abnormal, misfolded shape",
-              "By inserting its own genetic material into a host cell",
-              "By dividing rapidly like a bacterial cell",
-              "By producing toxins that have no connection to protein shape"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Where in the body do prion diseases typically cause damage?",
-            "options": [
-              "The tooth enamel exclusively",
-              "The fingernails, with no effect elsewhere",
-              "The brain, leading to progressive neurodegeneration",
-              "The hair follicles exclusively"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What makes prions unusual compared to viruses and bacteria as infectious agents?",
-            "options": [
-              "They are visible to the naked eye, unlike viruses and bacteria",
-              "They contain no genetic material and are made entirely of misfolded protein",
-              "They can only infect plant cells, never animal cells",
-              "They contain more genetic material than any virus or bacterium"
+              "The postsynaptic membrane",
+              "Synaptic vesicles in the presynaptic neuron",
+              "The cell body of the receiving neuron",
+              "The myelin sheath"
             ],
             "answer": 1
           },
           {
-            "q": "What happens to normal proteins when they come into contact with a prion?",
+            "q": "Neurotransmitter molecules cross the synaptic cleft and bind to receptors on the:",
             "options": [
-              "They can be induced to misfold into the same abnormal shape",
-              "They are completely unaffected by any contact with a prion",
-              "They immediately destroy the prion on contact",
-              "They convert the prion back into a normal, correctly folded protein"
+              "Nucleus of the sending neuron",
+              "Presynaptic membrane",
+              "Myelin sheath",
+              "Postsynaptic membrane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following correctly ends a signal at a synapse?",
+            "options": [
+              "The axon terminal dissolving",
+              "Neurotransmitter accumulating permanently in the synaptic cleft",
+              "The postsynaptic neuron dividing",
+              "Neurotransmitter being broken down by enzymes or reabsorbed by the presynaptic neuron"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Acetylcholine is an example of a:",
+            "options": [
+              "Neurotransmitter",
+              "Structural protein",
+              "Enzyme cofactor",
+              "Hormone"
             ],
             "answer": 0
+          },
+          {
+            "q": "An inhibitory neurotransmitter, when it binds its receptor, typically makes the postsynaptic neuron:",
+            "options": [
+              "Release its own neurotransmitter in return",
+              "Less likely to fire an action potential",
+              "More likely to fire an action potential",
+              "Immediately die"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -38292,63 +38297,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Plant Biology: C3, C4, and CAM Photosynthetic Pathways",
-        "summary": "Grade 11 Biology strand: C3 plants fix carbon dioxide directly through the standard Calvin cycle, C4 plants first concentrate carbon dioxide in specialized cells to reduce losses in hot dry climates, and CAM plants open their stomata only at night to conserve water, each pathway representing an adaptation to different environmental pressures.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biochemistry: Cellular Respiration and ATP Production",
+        "summary": "Students trace the three main stages of aerobic cellular respiration -- glycolysis, the Krebs cycle, and the electron transport chain -- and see how each stage contributes to the overall production of ATP.",
+        "resourceLabel": "YouTube: Biochemistry: Cellular Respiration and ATP Production",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biochemistry%3A%20Cellular%20Respiration%20and%20ATP%20Production%20grade%2011%20educational",
+        "topic": "Cells & Microorganisms",
         "quiz": [
           {
-            "q": "How do C3 plants fix carbon dioxide?",
+            "q": "Where in the cell does glycolysis take place?",
             "options": [
-              "By avoiding the Calvin cycle entirely",
-              "By opening their stomata only at night",
-              "Directly through the standard Calvin cycle",
-              "By absorbing carbon dioxide through their roots only"
+              "Inner mitochondrial membrane",
+              "Mitochondrial matrix",
+              "Nucleus",
+              "Cytoplasm (cytosol)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The electron transport chain is located in the:",
+            "options": [
+              "Inner mitochondrial membrane",
+              "Nucleus",
+              "Cytoplasm",
+              "Golgi apparatus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which stage of cellular respiration produces the most ATP molecules?",
+            "options": [
+              "The Krebs cycle",
+              "Glycolysis",
+              "The electron transport chain",
+              "Fermentation"
             ],
             "answer": 2
           },
           {
-            "q": "Why do C4 plants first concentrate carbon dioxide in specialized cells?",
+            "q": "In the electron transport chain, oxygen serves as the:",
             "options": [
-              "To prevent any photosynthesis from occurring",
-              "Concentrating carbon dioxide serves no functional purpose",
-              "To reduce losses in hot, dry climates",
-              "To increase water loss as much as possible"
+              "Source of carbon for glucose",
+              "Initial electron donor",
+              "Enzyme that starts glycolysis",
+              "Final electron acceptor, combining with electrons and H+ to form water"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "When do CAM plants open their stomata?",
+            "q": "If oxygen is unavailable, a cell can no longer complete which stage of aerobic respiration?",
             "options": [
-              "Never, since CAM plants have no stomata",
-              "Only at night",
-              "Continuously, at every hour of the day",
-              "Only at the hottest point of midday"
+              "The electron transport chain",
+              "Neither stage is affected",
+              "Glycolysis only",
+              "Only the Krebs cycle continues normally"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why is opening stomata at night advantageous for a CAM plant?",
-            "options": [
-              "It maximizes water loss during the hottest part of the day",
-              "It prevents the plant from absorbing any carbon dioxide at all",
-              "It conserves water by reducing evaporation during the heat of the day",
-              "Nighttime stomata opening has no effect on water conservation"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What do the differences between C3, C4, and CAM pathways represent?",
-            "options": [
-              "A single identical pathway described in three different ways",
-              "Random variations with no adaptive significance",
-              "Adaptations to different environmental pressures",
-              "Differences that only affect flower colour"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Plants & Photosynthesis"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -38536,63 +38541,63 @@
       },
       {
         "subject": "Biology",
-        "title": "Genetics: DNA Repair Mechanisms and Genomic Stability",
-        "summary": "Grade 11 Biology strand: cells rely on a set of DNA repair mechanisms to detect and correct damage such as mismatched bases or broken strands, and failures in these repair pathways allow mutations to accumulate, which is why defective DNA repair genes are linked to a higher risk of cancer.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Physiology: Muscle Contraction and the Sliding Filament Theory",
+        "summary": "Students learn the sliding filament theory of muscle contraction, in which actin and myosin filaments within a sarcomere slide past one another, powered by ATP and triggered by the release of calcium ions.",
+        "resourceLabel": "YouTube: Physiology: Muscle Contraction and the Sliding Filament Theory",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physiology%3A%20Muscle%20Contraction%20and%20the%20Sliding%20Filament%20Theory%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What do DNA repair mechanisms detect and correct?",
+            "q": "According to the sliding filament theory, muscle contraction occurs when:",
             "options": [
-              "Damage to bones and muscle tissue exclusively",
-              "Only damage to the cell membrane, never to DNA itself",
-              "Damage such as mismatched bases or broken strands",
-              "Errors in an organisms diet"
+              "Myosin filaments dissolve",
+              "Actin and myosin filaments shorten individually",
+              "The entire muscle cell divides",
+              "Actin and myosin filaments slide past each other without changing length"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which ion triggers the interaction between actin and myosin at the start of muscle contraction?",
+            "options": [
+              "Sodium",
+              "Chloride",
+              "Potassium",
+              "Calcium"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The functional contractile unit of a skeletal muscle fibre is called a:",
+            "options": [
+              "Neuron",
+              "Mitochondrion",
+              "Sarcomere",
+              "Nephron"
             ],
             "answer": 2
           },
           {
-            "q": "What can happen to a cell when its DNA repair pathways fail?",
+            "q": "ATP is required during muscle contraction primarily to:",
             "options": [
-              "Mutations accumulate",
-              "The cell becomes completely immune to any further change",
-              "All mutations are instantly and permanently prevented",
-              "DNA repair failure has no effect on the cell whatsoever"
+              "Release calcium from the bloodstream",
+              "Build new actin filaments",
+              "Break down the sarcomere permanently",
+              "Detach the myosin head from actin so the cycle can repeat"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why are defective DNA repair genes linked to a higher risk of cancer?",
+            "q": "During muscle contraction, which zone of the sarcomere shortens as the filaments slide?",
             "options": [
-              "DNA repair genes have no connection to cancer risk",
-              "Failed repair allows mutations to accumulate unchecked",
-              "Cancer only develops when DNA repair works perfectly",
-              "Defective repair genes always prevent cancer entirely"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of damage might a DNA repair mechanism target?",
-            "options": [
-              "An increase in the cells overall size",
-              "A mismatched base pair",
-              "A shift in the organisms body temperature",
-              "A change in the colour of the cell membrane"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is genomic stability important for a cell?",
-            "options": [
-              "It helps prevent the accumulation of mutations that can disrupt normal cell function",
-              "Genomic stability has no relevance to normal cell function",
-              "Stability only matters for cells that never divide",
-              "Genomic instability always improves a cells performance"
+              "The I band",
+              "The Z line width",
+              "The M line only",
+              "The A band (myosin length)"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Genetics & Heredity"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -39269,60 +39274,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Physiology: Metabolic Rate and Body Size — Allometric Scaling",
-        "summary": "Grade 11 Biology strand: allometric scaling describes how an organisms metabolic rate does not increase in direct proportion to its body mass, since larger animals typically have a lower metabolic rate per unit of body mass than smaller animals, a relationship first described mathematically by Max Kleiber.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Plant Biology: Transpiration and the Cohesion-Tension Theory",
+        "summary": "Students learn how the cohesion-tension theory explains the upward movement of water through xylem, driven by transpiration pulling on a continuous water column held together by hydrogen bonding between water molecules.",
+        "resourceLabel": "YouTube: Plant Biology: Transpiration and the Cohesion-Tension Theory",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Transpiration%20and%20the%20Cohesion-Tension%20Theory%20grade%2011%20educational",
+        "topic": "Plants & Photosynthesis",
         "quiz": [
           {
-            "q": "What does allometric scaling describe?",
+            "q": "According to the cohesion-tension theory, water moves upward through the xylem primarily because of:",
             "options": [
-              "A relationship that applies only to plants, never animals",
-              "The number of offspring an animal produces annually",
-              "The exact colour pattern of an animals fur",
-              "How an organisms metabolic rate relates to its body mass"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does metabolic rate increase in direct proportion to body mass?",
-            "options": [
-              "No, larger animals have a lower metabolic rate per unit of body mass",
-              "Body mass has no relationship to metabolic rate at all",
-              "Yes, metabolic rate always increases in exact direct proportion to body mass",
-              "Metabolic rate decreases to zero as body mass increases"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which tend to have a higher metabolic rate per unit of body mass, larger or smaller animals?",
-            "options": [
-              "Larger animals",
-              "Both have an identical metabolic rate per unit of mass",
-              "Smaller animals",
-              "Neither, since metabolic rate is unrelated to body mass"
+              "Photosynthesis directly generating water flow",
+              "Gravity pulling water down from the roots",
+              "Evaporation (transpiration) from leaves creating tension that pulls a continuous water column upward",
+              "Active pumping by root cells"
             ],
             "answer": 2
           },
           {
-            "q": "Who is credited with first describing this metabolic scaling relationship mathematically?",
+            "q": "'Cohesion' in the context of water transport refers to:",
             "options": [
-              "Gregor Mendel",
-              "Max Kleiber",
-              "Isaac Newton",
-              "Charles Darwin"
+              "Minerals dissolving in water",
+              "Water molecules sticking to the xylem walls",
+              "Water molecules being attracted to each other via hydrogen bonds",
+              "Water evaporating from stomata"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why might a smaller animal need a proportionally higher metabolic rate than a larger animal?",
+            "q": "Which structures on a leaf's surface open and close to regulate water loss through transpiration?",
             "options": [
-              "Body size has no effect on the rate of heat loss",
-              "Larger animals always lose heat more quickly than smaller ones",
-              "Smaller animals never need to generate any body heat",
-              "Smaller animals lose heat more quickly relative to their body mass and must generate more energy to compensate"
+              "Lenticels",
+              "Chloroplasts",
+              "Root hairs",
+              "Stomata"
             ],
             "answer": 3
+          },
+          {
+            "q": "On a hot, dry, windy day, transpiration rate typically:",
+            "options": [
+              "Increases, pulling water upward faster",
+              "Stays exactly the same",
+              "Stops entirely",
+              "Decreases significantly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "'Adhesion' contributes to water transport in the xylem by describing the attraction between:",
+            "options": [
+              "Water molecules and each other",
+              "Carbon dioxide and water",
+              "Water molecules and the walls of the xylem vessels",
+              "Two separate xylem vessels"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -39452,60 +39458,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Advanced Calculus, Cryptography, and Statistical Inference",
-        "summary": "Grade 11 Functions strand review: students revisit related rates, concavity and inflection points, implicit differentiation, cryptography and the RSA algorithm, the traveling salesman problem, the t-distribution, tax brackets, the scalar triple product, and calculus-based optimization.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Domain and Range in Interval and Set Notation",
+        "summary": "Students determine the domain and range of polynomial, radical, and rational functions and express restrictions using interval notation and set notation.",
+        "resourceLabel": "YouTube: Functions: Domain and Range in Interval and Set Notation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Domain%20and%20Range%20in%20Interval%20and%20Set%20Notation%20grade%2011%20educational",
+        "topic": "Functions: General/Intro",
         "quiz": [
           {
-            "q": "What technique do related rates problems rely on to connect changing quantities?",
+            "q": "What is the domain of f(x) = √(x - 3)?",
             "options": [
-              "The quadratic formula",
-              "The Pythagorean Theorem alone with no calculus",
-              "The chain rule",
-              "A method that ignores any equation linking the quantities"
+              "x ≥ 3",
+              "x ≤ 3",
+              "x > 3",
+              "all real numbers"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "When is implicit differentiation needed?",
+            "q": "What is the domain of g(x) = 1/(x + 5)?",
             "options": [
-              "Only when an equation contains no y term whatsoever",
-              "When a function is already fully solved for y",
-              "When y is not isolated on one side of an equation",
-              "Only when a function has no variables at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the traveling salesman problem ask for?",
-            "options": [
-              "The longest possible route that avoids every city entirely",
-              "The average distance between two randomly chosen cities",
-              "A route that visits only a single city forever",
-              "The shortest possible route visiting a set of cities exactly once and returning to the start"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a progressive tax system apply to successive brackets of income?",
-            "options": [
-              "No tax whatsoever, regardless of income",
-              "Increasing tax rates",
-              "A single fixed tax rate with no brackets at all",
-              "Decreasing tax rates as income rises"
+              "all real numbers except x = 5",
+              "all real numbers except x = -5",
+              "all real numbers",
+              "x ≥ -5"
             ],
             "answer": 1
           },
           {
-            "q": "How is the scalar triple product of three vectors formed?",
+            "q": "Which notation correctly represents \"all real numbers greater than or equal to 2\"?",
             "options": [
-              "By taking the cross product of all three vectors at once",
-              "By adding all three vectors together with no other operation",
-              "By dividing one vector by the sum of the other two",
-              "By taking the dot product of one vector with the cross product of the other two"
+              "(2, ∞)",
+              "{x | x > 2}",
+              "(-∞, 2]",
+              "[2, ∞)"
             ],
             "answer": 3
+          },
+          {
+            "q": "What is the range of f(x) = x² + 4?",
+            "options": [
+              "y ≥ 4",
+              "all real numbers",
+              "y ≥ 0",
+              "y ≤ 4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the domain of h(x) = √(9 - x²)?",
+            "options": [
+              "all real numbers",
+              "x ≤ -3 or x ≥ 3",
+              "-3 ≤ x ≤ 3",
+              "x ≥ 3"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -40183,58 +40190,59 @@
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: An Introduction to Generating Functions",
-        "summary": "Grade 11 Functions strand: a generating function encodes an entire sequence of numbers as the coefficients of a single power series, turning problems about counting or recurrence relations into problems about algebraic manipulation of that series, a technique that connects discrete sequences to continuous algebraic tools.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Financial Mathematics: Simple Interest and Calculating Total Amount",
+        "summary": "Students calculate simple interest earned or owed using I = Prt and determine the total amount accumulated on loans and investments over time.",
+        "resourceLabel": "YouTube: Financial Mathematics: Simple Interest and Calculating Total Amount",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Mathematics%3A%20Simple%20Interest%20and%20Calculating%20Total%20Amount%20grade%2011%20educational",
+        "topic": "Financial Literacy",
         "quiz": [
           {
-            "q": "What does a generating function encode?",
+            "q": "Using I = Prt, what is the simple interest earned on a $2000 investment at 4% per year for 3 years?",
             "options": [
-              "An entire sequence of numbers as the coefficients of a power series",
-              "A sequence that has no numerical values at all",
-              "The exact colour of a graph",
-              "A single isolated number with no connection to any sequence"
+              "$240",
+              "$2400",
+              "$2240",
+              "$80"
             ],
             "answer": 0
           },
           {
-            "q": "What kind of mathematical object is a generating function built from?",
+            "q": "A loan of $1500 accrues simple interest at 6% per year. What is the total amount owed after 2 years?",
             "options": [
-              "A geometric shape with no algebraic description",
-              "A matrix with only zero entries",
-              "A power series",
-              "A single linear equation with no series involved"
+              "$180",
+              "$1500",
+              "$1860",
+              "$1680"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which formula correctly represents simple interest, where P is principal, r is the annual rate, and t is time in years?",
+            "options": [
+              "I = Prt",
+              "I = Pr / t",
+              "I = P(1 + r)^t",
+              "I = P / rt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If $800 earns $96 in simple interest over 2 years, what is the annual interest rate?",
+            "options": [
+              "8%",
+              "5%",
+              "6%",
+              "4%"
             ],
             "answer": 2
           },
           {
-            "q": "What kinds of problems can generating functions help turn into algebraic manipulation?",
+            "q": "Which earns more simple interest after 4 years: Investment A ($1200 at 3%) or Investment B ($900 at 5%)?",
             "options": [
-              "Problems about counting or recurrence relations",
-              "Problems that have already been fully solved with no further work needed",
-              "Only problems involving geometric shapes",
-              "Problems with no numerical content of any kind"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What broader connection do generating functions illustrate?",
-            "options": [
-              "A connection between two entirely unrelated fields with no mathematical link",
-              "A connection between discrete sequences and continuous algebraic tools",
-              "A connection limited only to geometry, with no algebra involved",
-              "A connection that proves discrete sequences do not exist"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a generating function make a recurrence relation easier to analyze?",
-            "options": [
-              "It makes the recurrence relation impossible to solve",
-              "It removes all information about the original sequence",
-              "It converts the recurrence into an algebraic equation involving the power series",
-              "It has no relationship to recurrence relations at all"
+              "Cannot be determined",
+              "They earn the same amount",
+              "Investment B",
+              "Investment A"
             ],
             "answer": 2
           }
@@ -40427,120 +40435,121 @@
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Perfect Numbers and Amicable Numbers",
-        "summary": "Grade 11 Functions strand: a perfect number equals the sum of its proper divisors, as with six, which equals one plus two plus three, while a pair of amicable numbers consists of two different numbers, each of which equals the sum of the proper divisors of the other, a relationship known since antiquity.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Financial Mathematics: Compound Interest and the Future Value Formula",
+        "summary": "Students apply the compound interest formula A = P(1 + r/n)^(nt) to calculate the future value of investments and compare compounding frequencies.",
+        "resourceLabel": "YouTube: Financial Mathematics: Compound Interest and the Future Value Formula",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Mathematics%3A%20Compound%20Interest%20and%20the%20Future%20Value%20Formula%20grade%2011%20educational",
+        "topic": "Financial Literacy",
         "quiz": [
           {
-            "q": "What defines a perfect number?",
+            "q": "Using A = P(1 + r)^t, what is the value of a $1000 investment after 2 years at 5% annual interest compounded annually?",
             "options": [
-              "It equals the sum of its proper divisors",
-              "It has no divisors of any kind other than itself",
-              "It equals the product, not the sum, of its proper divisors",
-              "It is always an odd number with no exceptions"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What are the proper divisors of six that make it a perfect number?",
-            "options": [
-              "One, two, and three",
-              "Only the number six itself",
-              "Six and twelve",
-              "Two and four"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What defines a pair of amicable numbers?",
-            "options": [
-              "Both numbers must be identical to each other",
-              "Each number equals the sum of the proper divisors of the other",
-              "Each number equals its own square root",
-              "Neither number can have any divisors at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How long has the concept of amicable numbers been studied?",
-            "options": [
-              "Since antiquity",
-              "Only since the twenty-first century",
-              "Only within the last decade",
-              "Amicable numbers have never been studied at any point in history"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What operation is used to test whether a number is perfect?",
-            "options": [
-              "Multiplying the number by itself",
-              "Comparing the number to every prime number simultaneously",
-              "Summing its proper divisors and comparing the sum to the number itself",
-              "Dividing the number by zero"
+              "$1100",
+              "$1050",
+              "$1102.50",
+              "$1200"
             ],
             "answer": 2
+          },
+          {
+            "q": "In the formula A = P(1 + r/n)^(nt), what does n represent?",
+            "options": [
+              "the number of times interest compounds per year",
+              "the interest rate",
+              "the principal amount",
+              "the total number of years"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which compounding frequency results in the greatest future value, assuming the same nominal annual rate and time period?",
+            "options": [
+              "Daily",
+              "Monthly",
+              "Annually",
+              "Semi-annually"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A $500 investment compounds annually at 8%. Approximately how much is it worth after 3 years?",
+            "options": [
+              "$629.86",
+              "$700",
+              "$580",
+              "$540"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does compound interest grow an investment faster than simple interest at the same rate over the same period?",
+            "options": [
+              "Simple interest compounds more frequently",
+              "Compound interest uses a lower rate",
+              "Compound interest is only applied once",
+              "Compound interest is calculated on the principal plus previously earned interest"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Biology",
-        "title": "Microbiology: Biofilms and Bacterial Communities",
-        "summary": "Grade 11 Biology strand: a biofilm forms when bacteria attach to a surface and secrete a protective matrix of extracellular material, creating a structured community that is often far more resistant to antibiotics and disinfectants than the same bacteria would be if they were free-floating and isolated.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology: Photosynthesis -- Light Reactions and the Calvin Cycle",
+        "summary": "Students distinguish the light-dependent reactions, which occur in the thylakoid membrane and produce ATP and NADPH, from the light-independent Calvin cycle in the stroma, which uses those products to fix carbon dioxide into sugar.",
+        "resourceLabel": "YouTube: Biology: Photosynthesis -- Light Reactions and the Calvin Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Photosynthesis%20--%20Light%20Reactions%20and%20the%20Calvin%20Cycle%20grade%2011%20educational",
+        "topic": "Plants & Photosynthesis",
         "quiz": [
           {
-            "q": "What happens when bacteria form a biofilm?",
+            "q": "The light-dependent reactions of photosynthesis take place in the:",
             "options": [
-              "They immediately die upon contact with any surface",
-              "They attach to a surface and secrete a protective matrix",
-              "They lose the ability to reproduce in any way",
-              "They convert entirely into a different species"
+              "Mitochondrial matrix",
+              "Thylakoid membrane",
+              "Stroma",
+              "Cell wall"
             ],
             "answer": 1
           },
           {
-            "q": "What does the protective matrix in a biofilm consist of?",
+            "q": "Which two energy-carrying molecules are produced by the light-dependent reactions and used to power the Calvin cycle?",
             "options": [
-              "A layer of pure metal with no biological origin",
-              "A vacuum with no material present at all",
-              "A single bacterial cell wall with nothing surrounding it",
-              "Extracellular material secreted by the bacteria"
+              "ATP and NADPH",
+              "DNA and RNA",
+              "Carbon dioxide and water",
+              "Glucose and oxygen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During the Calvin cycle, carbon dioxide is 'fixed' by combining it with a five-carbon molecule called:",
+            "options": [
+              "Glucose",
+              "RuBP (ribulose bisphosphate)",
+              "ATP",
+              "Pyruvate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The oxygen released during photosynthesis comes from the splitting of:",
+            "options": [
+              "Water molecules",
+              "ATP molecules",
+              "Glucose molecules",
+              "Carbon dioxide molecules"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Unlike the light-dependent reactions, the Calvin cycle can proceed:",
+            "options": [
+              "Only in the presence of oxygen",
+              "Only inside the mitochondria",
+              "Only in complete darkness with no other requirements",
+              "Without light directly, as long as ATP and NADPH are available"
             ],
             "answer": 3
-          },
-          {
-            "q": "How does bacterial resistance in a biofilm typically compare to free-floating bacteria?",
-            "options": [
-              "Biofilm bacteria are often far more resistant to antibiotics and disinfectants",
-              "Resistance is identical whether bacteria are in a biofilm or free-floating",
-              "Biofilms eliminate any need for bacteria to resist anything",
-              "Biofilm bacteria are always less resistant than free-floating bacteria"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What structural quality distinguishes a biofilm from a random scattering of bacteria?",
-            "options": [
-              "The fact that a biofilm contains no bacteria at all",
-              "Its organized, structured community held together by a protective matrix",
-              "A complete absence of any organization among the bacteria present",
-              "A structure that dissolves instantly upon formation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might biofilms be a significant concern in medical settings?",
-            "options": [
-              "Their resistance to antibiotics and disinfectants can make bacterial infections harder to treat",
-              "Medical settings are entirely free of any bacterial biofilms",
-              "Biofilms have no relevance to human health in any setting",
-              "Biofilms always make bacteria easier to eliminate with standard antibiotics"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -40672,60 +40681,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Financial Mathematics: Currency Exchange Rates and Arbitrage",
-        "summary": "Grade 11 Functions strand: a currency exchange rate expresses the value of one currency in terms of another, and arbitrage exploits small inconsistencies between exchange rates across different markets to generate a profit by converting currency through a sequence of trades that returns more of the original currency than was started with.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Sequences: Arithmetic Sequences — General Term and Sum Formulas",
+        "summary": "Students use the general term formula tₙ = a + (n-1)d and the sum formula Sₙ = n/2(2a + (n-1)d) to analyze and solve problems involving arithmetic sequences.",
+        "resourceLabel": "YouTube: Sequences: Arithmetic Sequences — General Term and Sum Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Arithmetic%20Sequences%20%E2%80%94%20General%20Term%20and%20Sum%20Formulas%20grade%2011%20educational",
+        "topic": "Sequences & Series",
         "quiz": [
           {
-            "q": "What does a currency exchange rate express?",
+            "q": "What is the 10th term of the arithmetic sequence 4, 7, 10, 13, ...?",
             "options": [
-              "The total population of a country",
-              "The exact interest rate charged by a single bank",
-              "The value of one currency in terms of another",
-              "A value with no connection to currency at all"
+              "28",
+              "40",
+              "31",
+              "34"
             ],
             "answer": 2
           },
           {
-            "q": "What does arbitrage exploit?",
+            "q": "In the formula tₙ = a + (n-1)d, what does d represent?",
             "options": [
-              "A complete absence of any exchange rate differences",
-              "A rule that forbids converting between currencies",
-              "Small inconsistencies between exchange rates across different markets",
-              "A single exchange rate that never changes in any market"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is the goal of a currency arbitrage strategy?",
-            "options": [
-              "To keep a single currency permanently unconverted",
-              "To eliminate all currency exchange rates worldwide",
-              "To generate a profit by converting currency through a sequence of trades",
-              "To lose as much currency value as possible"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What must the final amount of currency exceed for an arbitrage sequence of trades to be profitable?",
-            "options": [
-              "The original amount of currency that was started with",
-              "The total value of every currency in the world combined",
-              "The exact same amount, with no change at all",
-              "A random unrelated numerical value"
+              "the common difference",
+              "the sum of the sequence",
+              "the first term",
+              "the number of terms"
             ],
             "answer": 0
           },
           {
-            "q": "Why do arbitrage opportunities in currency markets tend to be short-lived?",
+            "q": "What is the sum of the first 20 terms of an arithmetic sequence with first term 5 and common difference 2?",
             "options": [
-              "Arbitrage opportunities are permanent and never disappear",
-              "Exchange rates never change once an arbitrage opportunity appears",
-              "Traders quickly act on the inconsistency, which causes exchange rates to adjust and close the gap",
-              "Currency markets are entirely closed to any form of trading"
+              "480",
+              "460",
+              "520",
+              "500"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "An arithmetic sequence has t₁ = 12 and t₅ = 32. What is the common difference?",
+            "options": [
+              "8",
+              "5",
+              "4",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following sequences is arithmetic?",
+            "options": [
+              "1, 4, 9, 16",
+              "2, 4, 8, 16",
+              "3, 6, 12, 24",
+              "5, 9, 13, 17"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -41404,60 +41414,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Boolean Algebra and Logic Gates",
-        "summary": "Grade 11 Functions strand: Boolean algebra manipulates logical values of true and false using operations such as AND, OR, and NOT, and these operations are physically implemented in computing hardware as logic gates, making Boolean algebra the mathematical foundation underlying how digital circuits process information.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Sequences: Geometric Sequences — General Term and Sum Formulas",
+        "summary": "Students use the general term formula tₙ = a·r^(n-1) and the geometric series sum formula to solve problems involving constant ratios, including growth and finance contexts.",
+        "resourceLabel": "YouTube: Sequences: Geometric Sequences — General Term and Sum Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Geometric%20Sequences%20%E2%80%94%20General%20Term%20and%20Sum%20Formulas%20grade%2011%20educational",
+        "topic": "Sequences & Series",
         "quiz": [
           {
-            "q": "What two values does Boolean algebra manipulate?",
+            "q": "What is the 6th term of the geometric sequence 3, 6, 12, 24, ...?",
             "options": [
-              "True and false",
-              "A continuous range of values between zero and one",
-              "Only positive real numbers",
-              "Only negative integers"
+              "108",
+              "96",
+              "192",
+              "72"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Name one basic operation used in Boolean algebra.",
+            "q": "In the formula tₙ = a·r^(n-1), what does r represent?",
             "options": [
-              "AND",
-              "Square root",
-              "Differentiation",
-              "Integration"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How are Boolean operations physically implemented in computing hardware?",
-            "options": [
-              "As a printed page with no physical circuitry",
-              "As a single unchanging wire with no logic involved",
-              "As mechanical gears with no electronic component",
-              "As logic gates"
+              "the sum of all terms",
+              "the number of terms",
+              "the first term",
+              "the common ratio"
             ],
             "answer": 3
           },
           {
-            "q": "What does Boolean algebra provide the mathematical foundation for?",
+            "q": "What is the common ratio of the geometric sequence 80, 20, 5, 1.25, ...?",
             "options": [
-              "How digital circuits process information",
-              "How ancient civilizations recorded historical events",
-              "How rivers erode surrounding rock over time",
-              "How biological cells divide during mitosis"
+              "4",
+              "1/4",
+              "1/5",
+              "1/2"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is Boolean algebra considered fundamental to computing?",
+            "q": "What is the sum of the first 5 terms of the geometric sequence 2, 6, 18, 54, ...?",
             "options": [
-              "Digital circuits operate using continuous values rather than true/false logic",
-              "Boolean algebra only applies to paper-based calculations, never circuits",
-              "Computing has no reliance on true/false logic of any kind",
-              "Digital circuits rely on true/false logic operations to process and store information"
+              "486",
+              "242",
+              "121",
+              "728"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "A ball dropped from 4 m reaches 60% of its previous height on each bounce. What height does it reach on the 4th bounce?",
+            "options": [
+              "1.44 m",
+              "0.36 m",
+              "0.864 m",
+              "2.4 m"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -41648,63 +41659,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The F-Distribution and Comparing Two Variances",
-        "summary": "Grade 11 Functions strand: the F-distribution is used to compare the variances of two independent samples by examining the ratio of their sample variances, and a ratio far from one suggests the two populations being compared do not share the same underlying variance.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Solving Exponential Equations Using Common Bases",
+        "summary": "Students solve exponential equations by rewriting both sides with a common base and equating exponents, laying the groundwork for logarithmic methods.",
+        "resourceLabel": "YouTube: Functions: Solving Exponential Equations Using Common Bases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Solving%20Exponential%20Equations%20Using%20Common%20Bases%20grade%2011%20educational",
+        "topic": "Exponents & Powers",
         "quiz": [
           {
-            "q": "What does the F-distribution help compare?",
+            "q": "Solve for x: 2^x = 32",
             "options": [
-              "The exact median of an unrelated data set",
-              "The means of a single sample only",
-              "A single data point with no comparison involved",
-              "The variances of two independent samples"
+              "16",
+              "6",
+              "4",
+              "5"
             ],
             "answer": 3
           },
           {
-            "q": "What ratio does the F-distribution examine?",
+            "q": "Solve for x: 3^(x+1) = 81",
             "options": [
-              "The ratio of two unrelated sample sizes only",
-              "A ratio that has no connection to variance",
-              "The ratio of a mean to a median",
-              "The ratio of two sample variances"
+              "2",
+              "5",
+              "3",
+              "4"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What does a ratio far from one suggest when using the F-distribution?",
+            "q": "Solve for x: 9^x = 27",
             "options": [
-              "The two populations are guaranteed to be identical",
-              "The two populations being compared do not share the same underlying variance",
-              "No conclusion can ever be drawn from the F-distribution",
-              "The sample sizes must be reported incorrectly"
+              "1",
+              "3",
+              "1.5",
+              "2"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "How many samples does a typical F-distribution comparison involve?",
+            "q": "Solve for x: 4^(2x) = 8^(x+1)",
             "options": [
-              "Two independent samples",
-              "An unlimited number of samples with no defined count",
-              "Only a single sample with no comparison",
-              "Zero samples, since no data is required"
+              "3",
+              "4",
+              "1",
+              "2"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a researcher use the F-distribution before applying certain other statistical tests?",
+            "q": "Solve for x: (1/2)^x = 16",
             "options": [
-              "To check whether an assumption of equal variances between two groups holds",
-              "It only applies to data with no numerical values",
-              "The F-distribution has no relevance to any other statistical test",
-              "It replaces the need to collect any data at all"
+              "-4",
+              "4",
+              "2",
+              "-2"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -41893,60 +41904,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Higher-Order Calculus, Discrete Structures, and Complex Numbers",
-        "summary": "Grade 11 Functions strand review: students revisit higher-order derivatives, generating functions, currency exchange and arbitrage, complex conjugates, and the F-distribution.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Introduction to Logarithms — Converting Between Exponential and Logarithmic Form",
+        "summary": "Students learn the meaning of a logarithm and practice converting between exponential form and logarithmic form to evaluate simple logarithmic expressions.",
+        "resourceLabel": "YouTube: Functions: Introduction to Logarithms — Converting Between Exponential and Logarithmic Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Introduction%20to%20Logarithms%20%E2%80%94%20Converting%20Between%20Exponential%20and%20Logarithmic%20Form%20grade%2011%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "How is a higher-order derivative found?",
+            "q": "Which logarithmic equation is equivalent to 2^5 = 32?",
             "options": [
-              "By differentiating a function more than once",
-              "By integrating a function a single time",
-              "By setting the function equal to zero and solving",
-              "By graphing the function with no further calculation"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a generating function encode?",
-            "options": [
-              "A sequence that has no numerical values at all",
-              "A single isolated number with no connection to any sequence",
-              "The exact colour of a graph",
-              "An entire sequence of numbers as the coefficients of a power series"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a currency exchange rate express?",
-            "options": [
-              "The value of one currency in terms of another",
-              "The exact interest rate charged by a single bank",
-              "The total population of a country",
-              "A value with no connection to currency at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the complex conjugate of a number do to its imaginary part?",
-            "options": [
-              "Removes it entirely, leaving only zero",
-              "Reverses its sign",
-              "Doubles it in magnitude",
-              "Converts it into a real number with no imaginary component remaining defined"
+              "log₂(5) = 32",
+              "log₂(32) = 5",
+              "log₃₂(2) = 5",
+              "log₅(32) = 2"
             ],
             "answer": 1
           },
           {
-            "q": "What does the F-distribution help compare?",
+            "q": "Evaluate log₃(81).",
             "options": [
-              "The exact median of an unrelated data set",
-              "The means of a single sample only",
-              "The variances of two independent samples",
-              "A single data point with no comparison involved"
+              "27",
+              "5",
+              "4",
+              "3"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which exponential equation is equivalent to log₅(x) = 3?",
+            "options": [
+              "5 = x^3",
+              "x = 3/5",
+              "x = 3^5",
+              "x = 5^3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Evaluate log₁₀(0.01).",
+            "options": [
+              "-2",
+              "2",
+              "100",
+              "-1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of log₇(1)?",
+            "options": [
+              "1",
+              "undefined",
+              "7",
+              "0"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -42196,58 +42208,59 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Hemostasis — The Blood Clotting Cascade",
-        "summary": "Grade 11 Biology strand: hemostasis is the process that stops bleeding after an injury, beginning when platelets gather at a damaged vessel wall and release chemical signals that trigger a cascade of clotting factors, ultimately converting the soluble protein fibrinogen into a mesh of fibrin that stabilizes the clot.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology: Hemostasis and the Blood Clotting Cascade",
+        "summary": "Students trace the sequence of hemostasis, from vascular spasm and platelet plug formation through the clotting cascade that converts fibrinogen into a stabilizing fibrin mesh.",
+        "resourceLabel": "YouTube: Biology: Hemostasis and the Blood Clotting Cascade",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Hemostasis%20and%20the%20Blood%20Clotting%20Cascade%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What is hemostasis?",
+            "q": "What are the three main steps of hemostasis, in order?",
             "options": [
-              "A process that only occurs in bone tissue",
-              "The process that stops bleeding after an injury",
-              "A process with no connection to blood vessels at all",
-              "A process that causes bleeding to increase after an injury"
+              "Platelet plug formation, fibrinolysis, vascular spasm",
+              "Coagulation, vascular spasm, platelet plug formation",
+              "Vascular spasm, platelet plug formation, coagulation (clotting)",
+              "Fibrinolysis, clotting, vascular spasm"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What do platelets do at the site of a damaged vessel wall?",
+            "q": "During the clotting cascade, the soluble plasma protein fibrinogen is converted into:",
             "options": [
-              "They gather at the site and release chemical signals",
-              "They have no role in the clotting process at all",
-              "They immediately dissolve and disappear",
-              "They convert directly into red blood cells"
+              "Hemoglobin",
+              "Red blood cells",
+              "Insoluble fibrin strands that form a mesh",
+              "Platelets"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What protein is converted into a stabilizing mesh during clot formation?",
+            "q": "Platelets are best described as:",
             "options": [
-              "Fibrinogen, converted into fibrin",
-              "Insulin, converted into glucose",
-              "A protein with no role in clotting whatsoever",
-              "Hemoglobin, converted into oxygen"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What triggers the cascade of clotting factors in hemostasis?",
-            "options": [
-              "A signal released only from bone marrow with no connection to injury",
-              "A cascade that begins only after a wound has fully healed",
-              "A random process unrelated to any injury",
-              "Chemical signals released by platelets at the injury site"
+              "Plasma proteins dissolved in blood",
+              "Complete cells with a nucleus",
+              "A type of white blood cell that fights infection",
+              "Small cell fragments that help form the initial plug at a wound site"
             ],
             "answer": 3
           },
           {
-            "q": "Why is a cascade, rather than a single step, useful for the clotting process?",
+            "q": "The immediate narrowing of a damaged blood vessel to reduce blood loss is called:",
             "options": [
-              "Cascades prevent any clot from ever forming",
-              "It amplifies a small initial signal into a rapid, coordinated response at the injury site",
-              "A cascade always slows down the response to an injury",
-              "A single step would always be faster and more effective"
+              "Coagulation",
+              "Fibrinolysis",
+              "Vascular spasm",
+              "Platelet aggregation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A person with hemophilia has a deficiency in a clotting factor, which mainly affects:",
+            "options": [
+              "The vascular spasm step only",
+              "Their ability to form a stable fibrin clot",
+              "Their red blood cell production",
+              "Their platelet count only"
             ],
             "answer": 1
           }
@@ -42381,58 +42394,59 @@
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Big O Notation and Algorithmic Growth Rates",
-        "summary": "Grade 11 Functions strand: big O notation describes how the running time or resource use of an algorithm grows as the size of its input increases, focusing on the dominant term of that growth and ignoring constant factors, which lets mathematicians and programmers compare the efficiency of different algorithms in general terms.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: The Laws of Logarithms — Product, Quotient, and Power Rules",
+        "summary": "Students apply the product, quotient, and power laws of logarithms to expand and simplify logarithmic expressions.",
+        "resourceLabel": "YouTube: Functions: The Laws of Logarithms — Product, Quotient, and Power Rules",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20The%20Laws%20of%20Logarithms%20%E2%80%94%20Product%2C%20Quotient%2C%20and%20Power%20Rules%20grade%2011%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What does big O notation describe?",
+            "q": "Which law of logarithms states that logᵇ(MN) = logᵇ(M) + logᵇ(N)?",
             "options": [
-              "A quantity with no connection to algorithms at all",
-              "The colour scheme of a programming language",
-              "The exact number of lines of code in a program",
-              "How the running time or resource use of an algorithm grows as input size increases"
+              "Power Law",
+              "Quotient Law",
+              "Change of Base Law",
+              "Product Law"
             ],
             "answer": 3
           },
           {
-            "q": "What part of an algorithms growth rate does big O notation focus on?",
+            "q": "Simplify log₂(8) + log₂(4) as a single logarithm.",
             "options": [
-              "A term chosen at random with no mathematical basis",
-              "Only the smallest possible input size",
-              "Every constant factor with no simplification at all",
-              "The dominant term of that growth"
+              "log₂(2)",
+              "log₂(12)",
+              "log₂(4)",
+              "log₂(32)"
             ],
             "answer": 3
           },
           {
-            "q": "What does big O notation typically ignore when describing growth?",
+            "q": "Using the power law, simplify log₅(x³).",
             "options": [
-              "Constant factors",
-              "The size of the input entirely",
-              "The algorithm itself",
-              "Every term in the growth function"
+              "log₅(3x)",
+              "3log₅(x)",
+              "(log₅ x) / 3",
+              "log₅(x)³ as an unsimplified power"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What can big O notation be used to compare?",
+            "q": "Simplify log(100) − log(10), where log is base 10.",
             "options": [
-              "A quantity that has no relevance to computer science",
-              "The physical size of two different computers",
-              "The efficiency of different algorithms in general terms",
-              "The colour of two different computer screens"
+              "2",
+              "1",
+              "10",
+              "90"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might an algorithm described as growing linearly be preferred over one that grows exponentially for large inputs?",
+            "q": "Which expression is equivalent to log₃(x/y)?",
             "options": [
-              "Growth rate has no effect on how an algorithm performs on large inputs",
-              "A linear growth rate increases resource use far more slowly as input size grows",
-              "Exponential growth always uses fewer resources than linear growth",
-              "Both growth rates always require an identical amount of resources"
+              "log₃(x) · log₃(y)",
+              "log₃(x) − log₃(y)",
+              "log₃(x) / log₃(y)",
+              "log₃(x) + log₃(y)"
             ],
             "answer": 1
           }
@@ -42625,63 +42639,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: Wilsons Theorem and Tests for Primality",
-        "summary": "Grade 11 Functions strand: Wilsons theorem states that a whole number greater than one is prime exactly when the factorial of one less than that number, increased by one, is divisible by the number itself, giving a precise algebraic test for primality even though it becomes computationally impractical for very large numbers.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Trigonometry: Special Angles and Exact Trigonometric Values",
+        "summary": "Students use 30-60-90 and 45-45-90 triangles to determine exact values of sine, cosine, and tangent for special angles without a calculator.",
+        "resourceLabel": "YouTube: Trigonometry: Special Angles and Exact Trigonometric Values",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Special%20Angles%20and%20Exact%20Trigonometric%20Values%20grade%2011%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does Wilsons theorem provide a test for?",
+            "q": "What is the exact value of sin(45°)?",
             "options": [
-              "Divisibility by ten only",
-              "Primality",
-              "The sum of a numbers digits",
-              "The square root of a number"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "According to Wilsons theorem, what quantity is examined for a number greater than one?",
-            "options": [
-              "The factorial of one less than the number, increased by one",
-              "The square of the number itself",
-              "The cube root of the number",
-              "The sum of every number smaller than it"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What must be true of that quantity for the original number to be prime, according to Wilsons theorem?",
-            "options": [
-              "It must be divisible by every smaller number simultaneously",
-              "It must be divisible by the number itself",
-              "It must always equal exactly one",
-              "It must always equal zero"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is Wilsons theorem described as computationally impractical for very large numbers?",
-            "options": [
-              "Large numbers have no factorial defined at all",
-              "Factorials become smaller as numbers increase, making calculation trivial",
-              "Calculating a large factorial quickly becomes an enormous computation",
-              "Wilsons theorem cannot be applied to any number larger than ten"
+              "√3/2",
+              "1/2",
+              "√2/2",
+              "1"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of test does Wilsons theorem give for whether a number is prime?",
+            "q": "What is the exact value of cos(30°)?",
             "options": [
-              "A test that only works for even numbers",
-              "A precise algebraic test",
-              "A test with no mathematical basis whatsoever",
-              "A test based only on visual inspection of the number"
+              "1",
+              "1/2",
+              "√3/2",
+              "√2/2"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "What is the exact value of tan(60°)?",
+            "options": [
+              "1/√3",
+              "undefined",
+              "√3",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which special right triangle gives the exact trigonometric ratios for 30° and 60° angles?",
+            "options": [
+              "30-60-90 triangle",
+              "45-45-90 triangle",
+              "an equilateral triangle with a 90° angle",
+              "an isosceles right triangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the exact value of sin(30°) + cos(60°)?",
+            "options": [
+              "1/2",
+              "√3/2",
+              "1",
+              "√2/2"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Biology",
@@ -42870,123 +42884,123 @@
       },
       {
         "subject": "Functions",
-        "title": "Statistics: The Multinomial Distribution and Categorical Outcomes",
-        "summary": "Grade 11 Functions strand: the multinomial distribution extends the binomial distribution from two possible outcomes to three or more categories, modelling the probability of observing a specific combination of counts across those categories when a fixed number of independent trials is repeated, such as rolling a die a set number of times and counting each face.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Trigonometry: Graphing Sine and Cosine — Amplitude, Period, and Phase Shift",
+        "summary": "Students identify and graph the amplitude, period, phase shift, and vertical shift of sinusoidal functions written in the form y = a sin(k(x - d)) + c.",
+        "resourceLabel": "YouTube: Trigonometry: Graphing Sine and Cosine — Amplitude, Period, and Phase Shift",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Graphing%20Sine%20and%20Cosine%20%E2%80%94%20Amplitude%2C%20Period%2C%20and%20Phase%20Shift%20grade%2011%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What distribution does the multinomial distribution extend?",
+            "q": "For y = 3sin(2(x - 1)) + 4, what is the amplitude?",
             "options": [
-              "The binomial distribution",
-              "The normal distribution",
-              "The Poisson distribution",
-              "A distribution with no connection to probability at all"
+              "4",
+              "3",
+              "2",
+              "1"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "How many possible outcome categories does the multinomial distribution allow, compared to the binomial distribution?",
+            "q": "For y = 3sin(2(x - 1)) + 4, what is the period?",
             "options": [
-              "Exactly two categories, identical to the binomial distribution",
-              "An undefined number that cannot be specified",
-              "Only a single category with no variation",
-              "Three or more categories, compared to only two for the binomial distribution"
+              "π/2",
+              "2π",
+              "4π",
+              "π"
             ],
             "answer": 3
           },
           {
-            "q": "What does the multinomial distribution model the probability of?",
+            "q": "For y = 2cos(x - π/3), what is the phase shift?",
             "options": [
-              "Observing a specific combination of counts across several categories",
-              "A single unrepeated event with no trials involved",
-              "An outcome that has no numerical probability at all",
-              "A quantity that never changes between trials"
+              "π/3 to the left",
+              "π/3 to the right",
+              "2π/3 to the right",
+              "there is no phase shift"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Give an example of a scenario the multinomial distribution could model.",
+            "q": "For y = -cos(x) + 5, what is the vertical shift and the maximum value of the function?",
             "options": [
-              "A scenario with no repeated trials of any kind",
-              "Flipping a single coin exactly once",
-              "Measuring the height of a single person",
-              "Rolling a die a set number of times and counting each face"
+              "vertical shift -5, maximum value 4",
+              "vertical shift 5, maximum value 6",
+              "vertical shift 5, maximum value 4",
+              "vertical shift 1, maximum value 5"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What condition is required for the trials underlying a multinomial distribution?",
+            "q": "In y = a sin(k(x - d)) + c, which value determines how many cycles occur over a standard 2π interval?",
             "options": [
-              "Trials that must always produce the same outcome",
-              "Exactly one trial with no repetition",
-              "A fixed number of independent trials",
-              "An unlimited, undefined number of dependent trials"
+              "c",
+              "k",
+              "a",
+              "d"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
-        "title": "Biology: Amphibian Metamorphosis and Endocrine Control",
-        "summary": "Grade 11 Biology strand: amphibian metamorphosis transforms an aquatic, gill-breathing larva such as a tadpole into an air-breathing adult with limbs, a process driven primarily by rising levels of the hormone thyroxine, which triggers tissue remodelling including tail resorption, limb development, and the replacement of gills with lungs.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Human Biology: The Pituitary Gland and Hormonal Control",
+        "summary": "Students examine the pituitary gland's role as the body's 'master gland,' releasing hormones that act directly on the body and others that trigger hormone release from other endocrine glands, under control from the hypothalamus.",
+        "resourceLabel": "YouTube: Human Biology: The Pituitary Gland and Hormonal Control",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Biology%3A%20The%20Pituitary%20Gland%20and%20Hormonal%20Control%20grade%2011%20educational",
+        "topic": "Human Body Systems",
         "quiz": [
           {
-            "q": "What does amphibian metamorphosis transform a larva into?",
+            "q": "The pituitary gland is often called the 'master gland' because it:",
             "options": [
-              "A permanently aquatic organism with no further change",
-              "An organism that never develops limbs of any kind",
-              "An air-breathing adult with limbs",
-              "A completely different species entirely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What hormone primarily drives amphibian metamorphosis?",
-            "options": [
-              "Thyroxine",
-              "Insulin",
-              "Adrenaline",
-              "A hormone that plays no role in metamorphosis"
+              "Releases hormones that regulate the activity of many other endocrine glands",
+              "Is the largest gland in the body",
+              "Controls only digestion",
+              "Produces the largest amount of hormone of any gland"
             ],
             "answer": 0
           },
           {
-            "q": "Name one tissue change that occurs during amphibian metamorphosis.",
+            "q": "The pituitary gland is directly controlled by signals from the:",
             "options": [
-              "Tail resorption",
-              "Loss of all limbs entirely",
-              "Complete disappearance of the digestive system",
-              "Growth of a permanent tail with no resorption at all"
+              "Adrenal cortex",
+              "Hypothalamus",
+              "Pancreas",
+              "Liver"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What respiratory change occurs as a tadpole becomes an adult amphibian?",
+            "q": "Growth hormone, which stimulates growth in bones and tissues, is released by the:",
             "options": [
-              "Lungs are replaced with gills",
-              "The organism stops breathing entirely during metamorphosis",
-              "No respiratory change occurs at any point",
-              "Gills are replaced with lungs"
+              "Pancreas",
+              "Pituitary gland",
+              "Thyroid gland",
+              "Adrenal medulla"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Thyroid-stimulating hormone (TSH), released by the pituitary, causes the thyroid gland to:",
+            "options": [
+              "Shrink permanently",
+              "Stop functioning",
+              "Absorb iodine directly into the blood without releasing hormone",
+              "Release its own hormones, such as thyroxine"
             ],
             "answer": 3
           },
           {
-            "q": "Why is rising thyroxine level considered the primary trigger of amphibian metamorphosis?",
+            "q": "Antidiuretic hormone (ADH), released from the posterior pituitary, primarily helps regulate:",
             "options": [
-              "Metamorphosis occurs at a fixed age regardless of hormone levels",
-              "Thyroxine has no measurable effect on amphibian development",
-              "It coordinates the timing of tissue remodelling throughout the transformation",
-              "Thyroxine only affects mammals, never amphibians"
+              "Water reabsorption by the kidneys",
+              "Blood glucose levels",
+              "Muscle contraction",
+              "Heart rate"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Life Cycles & Growth"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -43604,63 +43618,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Complex Numbers: The Argand Plane and Geometric Representations",
-        "summary": "Grade 11 Functions strand: the Argand plane represents a complex number as a point whose horizontal coordinate is the real part and whose vertical coordinate is the imaginary part, turning algebraic operations on complex numbers into geometric transformations such as reflections, rotations, and translations that can be visualized directly on the plane.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Composition of Functions",
+        "summary": "Students evaluate and simplify composite functions f(g(x)) and g(f(x)) and determine the domain of a composite function.",
+        "resourceLabel": "YouTube: Functions: Composition of Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Composition%20of%20Functions%20grade%2011%20educational",
+        "topic": "Functions: General/Intro",
         "quiz": [
           {
-            "q": "What does the horizontal coordinate represent for a complex number plotted on the Argand plane?",
+            "q": "If f(x) = x + 3 and g(x) = 2x, what is f(g(2))?",
             "options": [
-              "A value with no connection to the complex number at all",
-              "The imaginary part of the complex number",
-              "The magnitude of an unrelated vector",
-              "The real part of the complex number"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the vertical coordinate represent for a complex number plotted on the Argand plane?",
-            "options": [
-              "The imaginary part of the complex number",
-              "A value that has no defined meaning",
-              "The real part of the complex number",
-              "The angle of an unrelated triangle"
+              "7",
+              "10",
+              "5",
+              "8"
             ],
             "answer": 0
           },
           {
-            "q": "What does the Argand plane turn algebraic operations on complex numbers into?",
+            "q": "If f(x) = x² and g(x) = x - 1, what is (f∘g)(x)?",
             "options": [
-              "Operations that cannot be represented visually in any way",
-              "A single unchanging point with no transformation involved",
-              "Geometric transformations that can be visualized directly",
-              "A transformation limited only to real numbers"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Name one type of geometric transformation associated with complex number operations on the Argand plane.",
-            "options": [
-              "Rotation",
-              "A transformation that removes the imaginary part entirely",
-              "A transformation limited strictly to three dimensions",
-              "A transformation that does not exist in geometry"
+              "(x - 1)²",
+              "2x - 1",
+              "x² - 2x",
+              "x² - 1"
             ],
             "answer": 0
           },
           {
-            "q": "Why is visualizing complex numbers on the Argand plane useful?",
+            "q": "If f(x) = √x and g(x) = x + 4, what is the domain of (f∘g)(x)?",
             "options": [
-              "Visualizing complex numbers removes all mathematical meaning from them",
-              "Geometric intuition has no relevance to understanding complex numbers",
-              "The Argand plane can only represent real numbers, never complex ones",
-              "It provides geometric intuition for operations that might otherwise seem purely abstract"
+              "x ≥ -4",
+              "x ≥ 4",
+              "all real numbers",
+              "x ≥ 0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If f(x) = 2x - 1 and g(x) = x + 5, what is g(f(3))?",
+            "options": [
+              "9",
+              "8",
+              "12",
+              "10"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which expression correctly represents \"g composed with f, evaluated at x\"?",
+            "options": [
+              "f(x)·g(x)",
+              "g(f(x))",
+              "f(x) + g(x)",
+              "f(g(x))"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Measurement: Units"
+        ]
       },
       {
         "subject": "Biology",
@@ -44092,60 +44106,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Latin Squares and Combinatorial Design",
-        "summary": "Grade 11 Functions strand: a Latin square is an n by n grid filled with n different symbols so that each symbol appears exactly once in every row and every column, a combinatorial structure related to Sudoku puzzles that is also used in the design of statistical experiments to balance out the effect of unwanted variables.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Quadratic Functions: Completing the Square and Vertex Form",
+        "summary": "Students convert quadratic functions from standard form to vertex form by completing the square, and use vertex form to identify the vertex and axis of symmetry.",
+        "resourceLabel": "YouTube: Quadratic Functions: Completing the Square and Vertex Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic%20Functions%3A%20Completing%20the%20Square%20and%20Vertex%20Form%20grade%2011%20educational",
+        "topic": "Quadratic Relations",
         "quiz": [
           {
-            "q": "What defines a Latin square?",
+            "q": "What is the vertex of y = (x - 2)² + 5?",
             "options": [
-              "An n by n grid where each symbol appears exactly once in every row and column",
-              "A grid where every symbol appears in only one single row",
-              "A grid that allows a symbol to repeat freely within a row",
-              "A grid with no restriction on symbol placement at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What familiar puzzle is structurally related to the Latin square?",
-            "options": [
-              "Chess",
-              "A jigsaw puzzle with no symbols involved",
-              "Sudoku",
-              "A crossword puzzle with no grid restriction"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Where are Latin squares used outside of recreational puzzles?",
-            "options": [
-              "In the design of statistical experiments",
-              "Only in decorative art, with no mathematical use",
-              "Exclusively in poetry, with no numerical structure",
-              "In a context with no connection to mathematics at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do Latin squares help balance out in the design of an experiment?",
-            "options": [
-              "A factor with no connection to experimental design",
-              "The colour scheme of a research report",
-              "The total number of participants in a study",
-              "The effect of unwanted variables"
+              "(-2, -5)",
+              "(2, -5)",
+              "(-2, 5)",
+              "(2, 5)"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the constraint that each symbol appears exactly once per row and column useful in experimental design?",
+            "q": "Convert y = x² + 6x + 5 to vertex form by completing the square.",
             "options": [
-              "It removes the need to control for any variable whatsoever",
-              "The constraint has no useful application outside of puzzles",
-              "It ensures every treatment is tested evenly across different conditions, reducing bias",
-              "It guarantees that only one treatment is ever tested at all"
+              "(x + 3)² + 4",
+              "(x - 3)² - 4",
+              "(x + 3)² - 4",
+              "(x + 6)² - 4"
             ],
             "answer": 2
+          },
+          {
+            "q": "What is the axis of symmetry for y = 2(x - 4)² + 1?",
+            "options": [
+              "x = 4",
+              "x = 1",
+              "x = 2",
+              "x = -4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When completing the square for y = x² - 8x + 3, what value is added and subtracted in the process?",
+            "options": [
+              "16",
+              "8",
+              "64",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which vertex form represents a parabola with vertex (-1, -3) that opens downward and is narrower than y = x² (a = -2)?",
+            "options": [
+              "y = 2(x + 1)² - 3",
+              "y = -2(x + 1)² - 3",
+              "y = -2(x + 1)² + 3",
+              "y = -2(x - 1)² - 3"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -44335,60 +44350,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Log Derivatives, Number Theory, Finance, and Complex Numbers",
-        "summary": "Grade 11 Functions strand review: students revisit derivatives of exponential and logarithmic functions, Wilsons theorem, real versus nominal interest rates, the Argand plane, and Latin squares.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Algebra: Factoring Polynomials — Common Factors, Grouping, and Special Patterns",
+        "summary": "Students factor polynomial expressions using common factoring, factoring by grouping, and special patterns such as difference of squares and perfect square trinomials.",
+        "resourceLabel": "YouTube: Algebra: Factoring Polynomials — Common Factors, Grouping, and Special Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Factoring%20Polynomials%20%E2%80%94%20Common%20Factors%2C%20Grouping%2C%20and%20Special%20Patterns%20grade%2011%20educational",
+        "topic": "Equations & Inequalities",
         "quiz": [
           {
-            "q": "What is notable about the derivative of the natural exponential function?",
+            "q": "Factor completely: 6x² + 9x",
             "options": [
-              "It equals the function itself",
-              "It equals the square of the original function",
-              "It is undefined at every point",
-              "It always equals zero"
+              "x(6x + 9)",
+              "3x(2x + 3)",
+              "3(2x² + 3x)",
+              "3x(2x + 9)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Factor: x² - 49",
+            "options": [
+              "(x - 7)²",
+              "(x - 7)(x + 7)",
+              "(x + 7)²",
+              "(x - 49)(x + 1)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Factor by grouping: x³ + 2x² + 3x + 6",
+            "options": [
+              "(x + 2)(x² + 3)",
+              "(x - 2)(x² + 3)",
+              "(x + 3)(x² + 2)",
+              "(x + 2)(x² + 2)"
             ],
             "answer": 0
           },
           {
-            "q": "What does Wilsons theorem provide a test for?",
+            "q": "Which correctly factors the perfect square trinomial x² + 10x + 25?",
             "options": [
-              "Divisibility by ten only",
-              "The square root of a number",
-              "The sum of a numbers digits",
-              "Primality"
+              "(x - 5)²",
+              "(x + 5)(x - 5)",
+              "(x + 25)(x + 1)",
+              "(x + 5)²"
             ],
             "answer": 3
           },
           {
-            "q": "What is a nominal interest rate?",
+            "q": "Factor completely: 2x² - 8",
             "options": [
-              "A rate that has no connection to money at all",
-              "A rate that applies only to loans, never investments",
-              "The stated rate on an investment or loan before accounting for inflation",
-              "A rate that already accounts fully for inflation"
+              "2(x² - 8)",
+              "2(x - 4)(x + 4)",
+              "2(x - 2)(x + 2)",
+              "(2x - 2)(x + 4)"
             ],
             "answer": 2
-          },
-          {
-            "q": "What does the horizontal coordinate represent for a complex number plotted on the Argand plane?",
-            "options": [
-              "The real part of the complex number",
-              "The imaginary part of the complex number",
-              "The magnitude of an unrelated vector",
-              "A value with no connection to the complex number at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What defines a Latin square?",
-            "options": [
-              "A grid with no restriction on symbol placement at all",
-              "An n by n grid where each symbol appears exactly once in every row and column",
-              "A grid where every symbol appears in only one single row",
-              "A grid that allows a symbol to repeat freely within a row"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -44822,63 +44838,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Number Theory: The Sieve of Eratosthenes and Prime Generation",
-        "summary": "Grade 11 Functions strand: the Sieve of Eratosthenes generates all prime numbers up to a given limit by listing every integer in that range and systematically crossing out the multiples of each prime starting from two, leaving only the primes uncrossed once the process is complete.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Graphing Polynomial Functions — Degree, End Behaviour, and Turning Points",
+        "summary": "Students use the degree and leading coefficient of a polynomial function to predict end behaviour, and determine the maximum number of turning points and zeros a polynomial can have.",
+        "resourceLabel": "YouTube: Functions: Graphing Polynomial Functions — Degree, End Behaviour, and Turning Points",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Graphing%20Polynomial%20Functions%20%E2%80%94%20Degree%2C%20End%20Behaviour%2C%20and%20Turning%20Points%20grade%2011%20educational",
+        "topic": "Functions: General/Intro",
         "quiz": [
           {
-            "q": "What does the Sieve of Eratosthenes generate?",
+            "q": "A polynomial function has degree 4 and a positive leading coefficient. What is its end behaviour?",
             "options": [
-              "A single randomly chosen prime number",
-              "All prime numbers up to a given limit",
-              "Only the multiples of ten within a range",
-              "A list with no connection to prime numbers at all"
+              "left end down, right end up",
+              "both ends point downward",
+              "left end up, right end down",
+              "both ends point upward"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What is systematically crossed out during the Sieve of Eratosthenes process?",
+            "q": "What is the maximum number of turning points a degree-5 polynomial function can have?",
             "options": [
-              "The multiples of each prime, starting from two",
-              "Numbers chosen completely at random",
-              "Only numbers that are already prime",
-              "Every number in the list without exception"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What remains once the Sieve of Eratosthenes process is complete?",
-            "options": [
-              "Only the numbers that were crossed out",
-              "Every number, since none are ever removed",
-              "Only the uncrossed prime numbers",
-              "A list containing no numbers at all"
+              "6",
+              "3",
+              "4",
+              "5"
             ],
             "answer": 2
           },
           {
-            "q": "At what number does the Sieve of Eratosthenes typically begin crossing out multiples?",
+            "q": "A polynomial function has degree 3 and a negative leading coefficient. As x → ∞, what happens to y?",
             "options": [
-              "One thousand",
-              "Two",
-              "Zero",
-              "A number that varies randomly each time"
+              "y → -∞",
+              "y → 0",
+              "y stays constant",
+              "y → ∞"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the maximum number of real zeros a degree-6 polynomial function can have?",
+            "options": [
+              "7",
+              "6",
+              "5",
+              "3"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the Sieve of Eratosthenes considered an efficient method for finding primes within a range?",
+            "q": "Which degree and leading coefficient combination describes a graph that falls to the left and rises to the right?",
             "options": [
-              "It has no systematic method and relies purely on guessing",
-              "It eliminates composite numbers systematically rather than testing each number individually for divisibility",
-              "It generates only even numbers, ignoring primes entirely",
-              "It requires testing every possible divisor of every number one at a time"
+              "even degree, positive leading coefficient",
+              "odd degree, negative leading coefficient",
+              "even degree, negative leading coefficient",
+              "odd degree, positive leading coefficient"
             ],
-            "answer": 1
+            "answer": 3
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Biology",
@@ -45065,63 +45081,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Statistics: Simpsons Paradox and the Danger of Aggregated Data",
-        "summary": "Grade 11 Functions strand: Simpsons paradox occurs when a trend that appears in several separate groups of data reverses or disappears once those groups are combined into a single aggregated data set, showing why statisticians must examine underlying subgroups rather than relying on combined totals alone.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Statistics: Correlation and the Line of Best Fit",
+        "summary": "Students analyze scatter plots to describe the strength and direction of correlation between two variables and use a line of best fit to make predictions.",
+        "resourceLabel": "YouTube: Statistics: Correlation and the Line of Best Fit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Correlation%20and%20the%20Line%20of%20Best%20Fit%20grade%2011%20educational",
+        "topic": "Statistics & Data",
         "quiz": [
           {
-            "q": "What is Simpsons paradox?",
+            "q": "A scatter plot shows points closely clustered around a line that rises from left to right. This indicates:",
             "options": [
-              "A trend that always stays identical whether data is grouped or combined",
-              "A paradox with no connection to statistics at all",
-              "A trend appearing in separate groups that reverses once the groups are combined",
-              "A rule stating that combined data is always more accurate than grouped data"
+              "strong negative correlation",
+              "weak positive correlation",
+              "no correlation",
+              "strong positive correlation"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What can happen to a trend seen in separate groups of data once they are aggregated?",
+            "q": "A correlation coefficient of r = -0.92 indicates:",
             "options": [
-              "It can reverse or disappear entirely",
-              "It always remains exactly the same in every case",
-              "It always becomes stronger and more obvious",
-              "It becomes impossible to observe in the separate groups as well"
+              "a strong negative correlation",
+              "a strong positive correlation",
+              "a weak negative correlation",
+              "no correlation"
             ],
             "answer": 0
           },
           {
-            "q": "What does Simpsons paradox show about relying only on combined totals?",
+            "q": "Using a line of best fit y = 2.5x + 10, what is the predicted value of y when x = 8?",
             "options": [
-              "Aggregated data can never be misleading in any situation",
-              "Combined totals alone can hide or misrepresent an underlying trend",
-              "Subgroups never need to be examined under any circumstance",
-              "Combined totals always reveal every trend accurately"
+              "32",
+              "28",
+              "20",
+              "30"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What should a careful statistician do to avoid being misled by Simpsons paradox?",
+            "q": "Which correlation coefficient represents the weakest relationship between two variables?",
             "options": [
-              "Avoid collecting any subgroup data whatsoever",
-              "Examine the underlying subgroups rather than relying on combined totals alone",
-              "Ignore every subgroup and rely only on the combined total",
-              "Assume that aggregated data is always correct without checking further"
+              "r = 0.12",
+              "r = 0.95",
+              "r = -0.79",
+              "r = -0.88"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why is Simpsons paradox considered a caution for interpreting real-world statistics?",
+            "q": "Using a line of best fit to predict a value far outside the range of the original data is called:",
             "options": [
-              "It proves that no statistical pattern can ever be trusted at all",
-              "It shows that a seemingly clear pattern in combined data can be misleading without deeper analysis",
-              "It shows that aggregated data is always more reliable than subgroup data",
-              "It guarantees that subgroup data is always irrelevant to any conclusion"
+              "interpolation",
+              "regression",
+              "extrapolation",
+              "correlation"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Biology",
@@ -45554,63 +45570,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Discrete Math: Catalan Numbers and Counting Problems",
-        "summary": "Grade 11 Functions strand: Catalan numbers form a sequence that counts a surprising range of combinatorial structures, from the number of ways to correctly match parentheses in an expression to the number of distinct ways to triangulate a polygon, making them a recurring pattern across seemingly unrelated counting problems.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Probability: Permutations and Combinations",
+        "summary": "Students use permutations and combinations to count arrangements and selections, applying the formulas nPr and nCr to solve counting problems.",
+        "resourceLabel": "YouTube: Probability: Permutations and Combinations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Permutations%20and%20Combinations%20grade%2011%20educational",
+        "topic": "Probability",
         "quiz": [
           {
-            "q": "What kind of sequence are Catalan numbers?",
+            "q": "How many ways can 4 different books be arranged in a row on a shelf?",
             "options": [
-              "A sequence that only ever produces the number one",
-              "A sequence limited only to even numbers",
-              "A sequence that counts a range of combinatorial structures",
-              "A sequence with no connection to counting problems"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Name one combinatorial structure that Catalan numbers can count.",
-            "options": [
-              "The number of colours visible in a rainbow",
-              "A structure with no connection to combinatorics at all",
-              "The number of days in a calendar year",
-              "The number of ways to correctly match parentheses in an expression"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What geometric counting problem can also be solved using Catalan numbers?",
-            "options": [
-              "The circumference of a circle",
-              "A problem with no connection to polygons at all",
-              "The exact area of a triangle",
-              "The number of distinct ways to triangulate a polygon"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What makes Catalan numbers notable across different counting problems?",
-            "options": [
-              "They recur as a pattern across seemingly unrelated combinatorial problems",
-              "They only ever apply to problems involving negative numbers",
-              "They apply to only a single, narrow counting problem",
-              "They have no mathematical pattern of any kind"
+              "24",
+              "12",
+              "16",
+              "256"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a mathematician find it useful to recognize a Catalan number pattern in a new problem?",
+            "q": "Evaluate 5P2 (permutations of 5 items taken 2 at a time).",
             "options": [
-              "Recognizing a Catalan pattern provides no useful mathematical information",
-              "Catalan numbers cannot be applied to any newly encountered problem",
-              "Catalan numbers only ever apply to problems already fully solved",
-              "Recognizing the pattern connects the new problem to known counting results and formulas"
+              "10",
+              "20",
+              "120",
+              "60"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Evaluate 6C2 (combinations of 6 items taken 2 at a time).",
+            "options": [
+              "15",
+              "36",
+              "12",
+              "30"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A committee of 3 people is chosen from a group of 8, where order does not matter. How many different committees are possible?",
+            "options": [
+              "56",
+              "336",
+              "168",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which situation requires a permutation rather than a combination?",
+            "options": [
+              "selecting a 4-person committee from 10 people",
+              "assigning 1st, 2nd, and 3rd place medals among 6 runners",
+              "choosing 3 toppings for a pizza from 6 options",
+              "choosing 2 books to bring on vacation from a shelf of 5"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Number Sense: Basic Counting"
+        ]
       },
       {
         "subject": "Biology",
@@ -45859,60 +45875,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Vitamins and Coenzymes in Metabolic Pathways",
-        "summary": "Grade 11 Biology strand: many vitamins function as coenzymes or coenzyme precursors, small molecules that bind to enzymes and are essential for the enzymes catalytic activity, so that a deficiency in even one vitamin can disrupt a specific metabolic pathway and produce a defined set of symptoms throughout the body.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Plant Biology: Flower Structure and Double Fertilization",
+        "summary": "Students examine the structures of a flower involved in sexual reproduction -- sepals, petals, stamen, and carpel -- and learn about double fertilization, the process unique to flowering plants that produces both an embryo and endosperm.",
+        "resourceLabel": "YouTube: Plant Biology: Flower Structure and Double Fertilization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Flower%20Structure%20and%20Double%20Fertilization%20grade%2011%20educational",
+        "topic": "Plants & Photosynthesis",
         "quiz": [
           {
-            "q": "What role do many vitamins play in metabolic pathways?",
+            "q": "In a flower, the stamen is the male reproductive structure made up of the:",
             "options": [
-              "They have no connection to enzyme activity at all",
-              "They function only as structural components of bone",
-              "They function as coenzymes or coenzyme precursors",
-              "They act exclusively as a source of stored energy"
+              "Stigma and style",
+              "Sepal and petal",
+              "Ovary and ovule",
+              "Anther and filament"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Pollen grains land on which part of the flower's female structure to begin fertilization?",
+            "options": [
+              "Stigma",
+              "Ovary",
+              "Filament",
+              "Ovule"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In double fertilization, one sperm nucleus fuses with the egg to form the zygote, while the second sperm nucleus fuses with two polar nuclei to form the:",
+            "options": [
+              "Pollen tube",
+              "Cotyledon only",
+              "Endosperm, a nutritive tissue",
+              "Seed coat"
             ],
             "answer": 2
           },
           {
-            "q": "What does a coenzyme typically bind to in order to function?",
+            "q": "Double fertilization is considered unique because it occurs almost exclusively in:",
             "options": [
-              "A single unrelated water molecule",
-              "An enzyme",
-              "A structural protein with no catalytic role",
-              "A cell membrane with no enzymatic activity"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why are coenzymes considered essential to many metabolic reactions?",
-            "options": [
-              "They have no measurable effect on enzyme activity",
-              "They replace the enzyme entirely during the reaction",
-              "They actively prevent enzymes from catalyzing any reaction",
-              "They are necessary for the enzymes catalytic activity"
+              "Mosses",
+              "Gymnosperms (conifers)",
+              "Ferns",
+              "Angiosperms (flowering plants)"
             ],
             "answer": 3
           },
           {
-            "q": "What can happen if the body is deficient in a specific vitamin that acts as a coenzyme?",
+            "q": "After fertilization, the ovule typically develops into the:",
             "options": [
-              "The enzyme continues to function with no change whatsoever",
-              "Every metabolic pathway in the body improves as a result",
-              "Vitamin deficiency has no effect on any metabolic pathway",
-              "A specific metabolic pathway can be disrupted, producing a defined set of symptoms"
+              "Fruit",
+              "Petal",
+              "Stigma",
+              "Seed"
             ],
             "answer": 3
-          },
-          {
-            "q": "Why might different vitamin deficiencies produce very different sets of symptoms?",
-            "options": [
-              "Each vitamin-dependent coenzyme supports a distinct metabolic pathway with its own function",
-              "All vitamins support the exact same single metabolic pathway",
-              "Vitamin deficiencies never produce any distinguishable symptoms",
-              "Coenzymes have an identical function regardless of which vitamin they come from"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -46042,60 +46059,61 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions Review: Integrals, the Sieve of Eratosthenes, Simpsons Paradox, Plane Geometry, and the Toast to Grade 11 Functions",
-        "summary": "Grade 11 Functions strand review: students revisit definite integrals, the Sieve of Eratosthenes, Simpsons paradox, the distance from a point to a plane, and Catalan numbers, closing out the full 187-day Grade 11 Functions strand.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Functions: Reciprocal Functions and Their Graphs",
+        "summary": "Students graph reciprocal functions of linear and quadratic functions, identifying vertical and horizontal asymptotes and points of discontinuity.",
+        "resourceLabel": "YouTube: Functions: Reciprocal Functions and Their Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Reciprocal%20Functions%20and%20Their%20Graphs%20grade%2011%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does a definite integral calculate?",
+            "q": "What is the vertical asymptote of f(x) = 1/(x - 4)?",
             "options": [
-              "The slope of a curve at a single point",
-              "The exact accumulated area between a curve and the horizontal axis",
-              "A quantity with no connection to area at all",
-              "The number of times a curve crosses the vertical axis"
+              "x = 0",
+              "x = -4",
+              "x = 4",
+              "y = 4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the horizontal asymptote of f(x) = 1/(x + 2)?",
+            "options": [
+              "x = -2",
+              "y = -2",
+              "y = 2",
+              "y = 0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For the reciprocal function f(x) = 1/g(x), a vertical asymptote occurs wherever:",
+            "options": [
+              "g(x) is at its maximum",
+              "f(x) = 0",
+              "g(x) = 0",
+              "g(x) = 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the vertical asymptote of the reciprocal function f(x) = 1/(x² - 9)?",
+            "options": [
+              "x = 3 only",
+              "x = 9",
+              "x = 3 and x = -3",
+              "x = 0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As x approaches a vertical asymptote of a reciprocal function from one side, the graph:",
+            "options": [
+              "approaches zero",
+              "approaches positive or negative infinity",
+              "becomes a horizontal line",
+              "crosses the x-axis"
             ],
             "answer": 1
-          },
-          {
-            "q": "What does the Sieve of Eratosthenes generate?",
-            "options": [
-              "Only the multiples of ten within a range",
-              "A single randomly chosen prime number",
-              "A list with no connection to prime numbers at all",
-              "All prime numbers up to a given limit"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is Simpsons paradox?",
-            "options": [
-              "A rule stating that combined data is always more accurate than grouped data",
-              "A paradox with no connection to statistics at all",
-              "A trend appearing in separate groups that reverses once the groups are combined",
-              "A trend that always stays identical whether data is grouped or combined"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is being calculated when finding the distance from a point to a plane?",
-            "options": [
-              "A quantity with no connection to distance at all",
-              "The longest possible path between the point and the plane",
-              "A distance measured only along the plane itself",
-              "The shortest, perpendicular distance between the point and the plane"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of sequence are Catalan numbers?",
-            "options": [
-              "A sequence limited only to even numbers",
-              "A sequence that only ever produces the number one",
-              "A sequence that counts a range of combinatorial structures",
-              "A sequence with no connection to counting problems"
-            ],
-            "answer": 2
           }
         ]
       },

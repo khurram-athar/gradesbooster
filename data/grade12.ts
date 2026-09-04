@@ -11028,64 +11028,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Optimization: Constrained Problems with Multiple Variables",
-        "summary": "Grade 12 Advanced Functions strand: constrained optimization involves finding the maximum or minimum value of a quantity while satisfying one or more limiting conditions involving multiple variables.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=Mijw1If8Nvg",
+        "title": "Laws of Logarithms: Product, Quotient, and Power Rules",
+        "summary": "Students learn and apply the product, quotient, and power laws of logarithms to expand and condense logarithmic expressions.",
+        "resourceLabel": "YouTube: Laws of Logarithms: Product, Quotient, and Power Rules",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20of%20Logarithms%3A%20Product%2C%20Quotient%2C%20and%20Power%20Rules%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "Constrained optimization involves finding a maximum or minimum value while satisfying ___.",
+            "q": "Which expression is equivalent to log_b(xy)?",
             "options": [
-              "Only conditions involving a single variable, with no others considered",
-              "A concept entirely unrelated to limiting factors",
-              "No conditions whatsoever",
-              "One or more limiting conditions"
+              "log_b x · log_b y",
+              "log_b(x)/log_b(y)",
+              "log_b x - log_b y",
+              "log_b x + log_b y"
             ],
             "answer": 3
           },
           {
-            "q": "These optimization problems typically involve ___ variables.",
+            "q": "Which expression is equivalent to log(x/y)?",
             "options": [
-              "Multiple",
-              "No variables whatsoever",
-              "Exactly one, with no other variables ever involved",
-              "A concept unrelated to variables"
+              "(log x)/(log y)",
+              "log x - log y",
+              "log x + log y",
+              "log x · log y"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify log(a^5).",
+            "options": [
+              "5 log a",
+              "log a + 5",
+              "5/log a",
+              "(log a)^5"
             ],
             "answer": 0
           },
           {
-            "q": "Which is an example of a real-world constrained optimization problem?",
+            "q": "Given log 2 ≈ 0.301 and log 3 ≈ 0.477, what is log 6?",
             "options": [
-              "Maximizing the volume of a box given a fixed amount of material",
-              "A scenario where every possible outcome is equally acceptable",
-              "A problem with no limiting conditions or constraints involved",
-              "A situation entirely unrelated to optimizing a specific quantity"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is it important to express the given constraint mathematically before attempting to solve an optimization problem?",
-            "options": [
-              "The constraint provides no useful mathematical information for solving the problem",
-              "This concept has no connection to the process of solving these problems",
-              "Optimization problems can always be solved with no consideration of any given constraints",
-              "The constraint defines the relationship between variables, which can then be used to reduce the problem to a single variable"
+              "1.431",
+              "0.143",
+              "0.176",
+              "0.778"
             ],
             "answer": 3
           },
           {
-            "q": "Why are constrained optimization problems relevant to fields like business and economics?",
+            "q": "Fully expand log( x²y / z³ ) using the laws of logarithms.",
             "options": [
-              "Businesses never need to consider limiting factors when making decisions",
-              "Constrained optimization has no real-world application in business or economics",
-              "This concept only applies to purely theoretical mathematics with no economic relevance",
-              "Businesses often need to maximize outcomes like profit while working within limited resources like budget or materials"
+              "log x + log y − log z",
+              "2log x − log y − 3log z",
+              "2log x + log y + 3log z",
+              "2log x + log y − 3log z"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Calculus: Applications"
+        ]
       },
       {
         "subject": "Calculus",
@@ -15082,61 +15081,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Introduction to Complex Analysis: The Complex Plane Revisited",
-        "summary": "Grade 12 Advanced Functions strand: complex analysis extends algebraic operations on complex numbers into geometric transformations on the complex plane, where multiplication corresponds to a combined rotation and scaling.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=DMGdNoI91_k",
+        "title": "Solving Exponential Equations Using Common Bases",
+        "summary": "Students solve exponential equations by rewriting both sides with a common base and equating the exponents.",
+        "resourceLabel": "YouTube: Solving Exponential Equations Using Common Bases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20Using%20Common%20Bases%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "In complex analysis, multiplying two complex numbers corresponds geometrically to a combined rotation and ___ on the complex plane.",
+            "q": "Solve 2^x = 32.",
             "options": [
-              "Translation exclusively, with no connection to angle or magnitude",
-              "Reflection exclusively, with no connection to rotation",
-              "Scaling",
-              "A concept unrelated to complex number operations"
+              "6",
+              "5",
+              "4",
+              "16"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve 3^(2x) = 81.",
+            "options": [
+              "1",
+              "8",
+              "2",
+              "4"
             ],
             "answer": 2
           },
           {
-            "q": "A complex number can be represented on the complex plane using its ___ and angle from the positive real axis.",
+            "q": "Solve 4^x = 8^(x-1).",
             "options": [
-              "Magnitude",
-              "Colour, with no connection to a numerical value",
-              "A concept unrelated to representing complex numbers",
-              "Only its real part, ignoring the imaginary part entirely"
+              "1",
+              "6",
+              "3",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve (1/2)^x = 16.",
+            "options": [
+              "-4",
+              "-2",
+              "4",
+              "2"
             ],
             "answer": 0
           },
           {
-            "q": "Adding two complex numbers on the complex plane corresponds geometrically to ___ their position vectors.",
+            "q": "Solve 9^(x+1) = 27^x.",
             "options": [
-              "Multiplying, an entirely different operation",
-              "A concept unrelated to complex number addition",
-              "Adding",
-              "Rotating by ninety degrees regardless of the numbers involved"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why does multiplying a complex number by i correspond to a ninety-degree rotation on the complex plane?",
-            "options": [
-              "Since i has a magnitude of one and an angle of ninety degrees, multiplying by i adds ninety degrees to the original number’s angle without changing its magnitude",
-              "The value i has no defined geometric relationship to rotation on the complex plane",
-              "This concept has no connection to how complex multiplication behaves geometrically",
-              "Multiplying by i always doubles a complex number’s magnitude with no change in angle"
+              "2",
+              "-2",
+              "1",
+              "3"
             ],
             "answer": 0
-          },
-          {
-            "q": "Why is viewing complex numbers as points on a plane, rather than purely as algebraic expressions, valuable for understanding their behaviour under repeated operations?",
-            "options": [
-              "This concept has no relevance to understanding complex number operations",
-              "Complex numbers have no meaningful geometric representation of any kind",
-              "The geometric view reveals patterns, such as rotation and scaling, that are difficult to see from algebraic manipulation alone",
-              "The geometric interpretation of complex numbers provides no additional insight beyond algebraic manipulation"
-            ],
-            "answer": 2
           }
         ]
       },
@@ -15335,61 +15334,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Introduction to Spherical Coordinates",
-        "summary": "Grade 12 Advanced Functions strand: spherical coordinates locate a point in three-dimensional space using a radial distance and two angles, offering an alternative to Cartesian coordinates that is especially useful for problems with a natural centre point.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=hLqexFPSV-w",
+        "title": "Solving Logarithmic Equations and Extraneous Roots",
+        "summary": "Students solve logarithmic equations algebraically and check candidate solutions against the domain of the original logarithms to eliminate extraneous roots.",
+        "resourceLabel": "YouTube: Solving Logarithmic Equations and Extraneous Roots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20and%20Extraneous%20Roots%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "Spherical coordinates locate a point in three-dimensional space using a radial distance and ___ angles.",
+            "q": "Solve log_2(x) = 5.",
             "options": [
-              "Zero, since spherical coordinates use no angles at all",
-              "A concept unrelated to describing a point’s position",
-              "Four, an inaccurate number of angles for this coordinate system",
-              "Two"
+              "10",
+              "25",
+              "64",
+              "32"
             ],
             "answer": 3
           },
           {
-            "q": "Spherical coordinates are especially useful for problems with a natural ___ point.",
+            "q": "Solve log(x) + log(x-3) = 1, and give the valid solution set.",
             "options": [
-              "Corner, a feature unrelated to spherical symmetry",
-              "Edge, which has no special relevance to spherical coordinates",
-              "A concept unrelated to choosing an appropriate coordinate system",
-              "Centre"
+              "x = -2 only",
+              "no solution",
+              "x = 5 and x = -2",
+              "x = 5 only"
             ],
             "answer": 3
           },
           {
-            "q": "The radial distance in spherical coordinates measures how far a point is from the ___.",
+            "q": "Solve log_3 x + log_3(x-2) = 1 and identify the valid solution.",
             "options": [
-              "Origin",
-              "Edge of the coordinate plane, a boundary that does not exist",
-              "Nearest coordinate axis exclusively, with no connection to the origin",
-              "A concept unrelated to spherical coordinates"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might spherical coordinates be more convenient than Cartesian coordinates for describing the position of a satellite orbiting the Earth?",
-            "options": [
-              "Spherical coordinates have no practical advantage over Cartesian coordinates in any real-world application",
-              "This concept has no connection to describing the position of objects in three-dimensional space",
-              "Cartesian coordinates are always simpler than spherical coordinates for describing any orbiting object",
-              "A satellite’s position is naturally described relative to Earth’s centre using a distance and two angles, matching the structure of spherical coordinates"
+              "x = 1",
+              "x = -1",
+              "x = 3 and x = -1",
+              "x = 3"
             ],
             "answer": 3
           },
           {
-            "q": "Why is choosing an appropriate coordinate system, such as spherical instead of Cartesian, an important problem-solving skill in advanced mathematics?",
+            "q": "Why must solutions to a logarithmic equation be checked against the original equation?",
             "options": [
-              "Spherical coordinates can never simplify any three-dimensional mathematical problem",
-              "The choice of coordinate system never affects how difficult a given problem is to solve",
-              "A well-chosen coordinate system can dramatically simplify a problem’s symmetry, making calculations more manageable than a poorly matched system would allow",
-              "This concept has no relevance to solving advanced problems efficiently"
+              "Because squaring always introduces sign errors",
+              "Because logarithms are only defined for positive arguments, so algebraic steps can produce roots outside the domain",
+              "Because logarithms are periodic functions",
+              "Because logarithm bases must be prime numbers"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Solve log_2(x-1) = 3.",
+            "options": [
+              "7",
+              "8",
+              "10",
+              "9"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -15832,61 +15831,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Envelope of a Family of Curves",
-        "summary": "Grade 12 Advanced Functions strand: a family of curves is generated by varying a parameter in a function’s equation, and the envelope of that family is a curve tangent to every member of the family, tracing the boundary of the region they sweep out.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=8QNJWcgIfx0",
+        "title": "The Change of Base Formula for Logarithms",
+        "summary": "Students use the change of base formula to evaluate logarithms of any base with a calculator's common or natural log key, and apply it to compare logarithmic expressions.",
+        "resourceLabel": "YouTube: The Change of Base Formula for Logarithms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Change%20of%20Base%20Formula%20for%20Logarithms%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "A family of curves is generated by varying a ___ in a function’s equation.",
+            "q": "The change of base formula states log_b(x) = ?",
             "options": [
-              "A concept unrelated to generating related curves",
-              "Parameter",
-              "Colour, with no connection to a function’s equation",
-              "Coordinate axis, which does not vary within a single family of curves"
+              "log(x)/log(b)",
+              "log(x-b)",
+              "log(x)·log(b)",
+              "log(b)/log(x)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using log 20 ≈ 1.301 and log 5 ≈ 0.699, evaluate log_5(20).",
+            "options": [
+              "1.86",
+              "4.0",
+              "2.5",
+              "0.54"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using log 50 ≈ 1.699 and log 2 ≈ 0.301, evaluate log_2(50).",
+            "options": [
+              "6.64",
+              "5.64",
+              "3.32",
+              "25"
             ],
             "answer": 1
           },
           {
-            "q": "The envelope of a family of curves is a curve ___ to every member of the family.",
+            "q": "Which expression is equivalent to log_7(3) using natural logarithms?",
             "options": [
-              "A concept unrelated to describing a family of curves",
-              "Perpendicular, an inaccurate description of an envelope curve",
-              "Parallel, an inaccurate description of an envelope curve",
-              "Tangent"
+              "ln3·ln7",
+              "ln7/ln3",
+              "ln(3-7)",
+              "ln3/ln7"
             ],
             "answer": 3
           },
           {
-            "q": "The envelope of a family of curves traces the ___ of the region they sweep out.",
+            "q": "What makes the change of base formula useful in practice?",
             "options": [
-              "Boundary",
-              "Area, a numerical value rather than a traced curve",
-              "Exact centre point, with no connection to the swept region’s edge",
-              "A concept unrelated to describing the envelope"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might the trajectories of projectiles launched at the same speed but different angles form a family of curves with a describable envelope?",
-            "options": [
-              "This concept has no relevance to understanding families of related functions",
-              "Varying the launch angle while keeping speed fixed generates a family of parabolic paths, and the outer boundary they collectively sweep out forms the envelope curve",
-              "The envelope of a family of curves has no connection to any physical or real-world scenario",
-              "Projectile trajectories launched at different angles never share any common mathematical relationship"
+              "It only works when the base is 10",
+              "It converts any logarithm into one that a calculator's LOG or LN key can evaluate directly",
+              "It turns logarithms into linear functions",
+              "It eliminates the need for exponents entirely"
             ],
             "answer": 1
-          },
-          {
-            "q": "Why is the concept of an envelope curve a useful extension of a Grade 12 student’s understanding of families of functions?",
-            "options": [
-              "It shows how varying a single parameter across many related curves can generate a meaningful new boundary curve, deepening insight into how functions relate to one another",
-              "An envelope curve can never be meaningfully defined for any family of functions",
-              "Families of curves generated by a varying parameter have no useful mathematical properties worth studying",
-              "This concept has no relevance to a broader understanding of functions"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -16580,63 +16579,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Introduction to Fourier Series -- Representing Functions as Sums of Waves",
-        "summary": "Grade 12 Advanced Functions strand: a Fourier series expresses a periodic function as an infinite sum of sine and cosine functions of different frequencies, allowing complex periodic behaviour to be broken down into simpler wave components.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Exponential Growth and Decay: Half-Life and Doubling Time",
+        "summary": "Students model exponential growth and decay using half-life and doubling-time formulas and solve for unknown times or quantities.",
+        "resourceLabel": "YouTube: Exponential Growth and Decay: Half-Life and Doubling Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20Growth%20and%20Decay%3A%20Half-Life%20and%20Doubling%20Time%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "A Fourier series expresses a periodic function as an infinite sum of sine and ___ functions of different frequencies.",
+            "q": "A population doubles every 3 years, starting at 100. Using P(t) = 100·2^(t/3), what is the population after 9 years?",
             "options": [
-              "A concept unrelated to representing periodic functions",
-              "Logarithmic, a type of function not used in constructing a Fourier series",
-              "Cosine",
-              "Exponential, a type of function not primarily used in this representation"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A Fourier series allows complex periodic behaviour to be broken down into simpler ___ components.",
-            "options": [
-              "Matrix, a concept unrelated to this type of series",
-              "Wave",
-              "A concept unrelated to Fourier series representation",
-              "Polynomial, a type of component not used in a Fourier series"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For a Fourier series to represent a function, that function must be ___.",
-            "options": [
-              "A concept unrelated to the conditions for a Fourier series",
-              "Periodic",
-              "Entirely random, with no repeating pattern of any kind",
-              "Undefined at every single point in its domain"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a Fourier series be useful for analyzing a complicated periodic sound wave, such as a musical instrument’s tone?",
-            "options": [
-              "Breaking the wave into its individual sine and cosine components reveals the specific frequencies present, corresponding to the fundamental pitch and its overtones",
-              "This concept has no relevance to understanding periodic phenomena",
-              "A Fourier series has no connection to analyzing sound waves or musical tones",
-              "A complicated sound wave can never be broken down into simpler wave components"
+              "800",
+              "300",
+              "600",
+              "900"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the idea of representing a complicated function as a sum of simpler sine and cosine waves considered a powerful mathematical tool?",
+            "q": "A radioactive sample has a half-life of 10 years and an initial mass of 80 g. What is its mass after 30 years?",
             "options": [
-              "Representing a function as a sum of sine and cosine waves never simplifies any subsequent analysis",
-              "Sine and cosine functions have no useful role in representing more complicated periodic functions",
-              "It transforms a potentially difficult function into a structured combination of well-understood, simple periodic components, making analysis and further calculation more manageable",
-              "This concept has no relevance to advanced mathematical analysis"
+              "40 g",
+              "5 g",
+              "20 g",
+              "10 g"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which equation correctly models a quantity decaying with half-life h?",
+            "options": [
+              "A(t) = A0(1/2)^(h/t)",
+              "A(t) = A0(2)^(t/h)",
+              "A(t) = A0 - (t/h)",
+              "A(t) = A0(1/2)^(t/h)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A bacteria culture grows from 200 to 1600 in 12 hours. What is its doubling time?",
+            "options": [
+              "12 h",
+              "6 h",
+              "4 h",
+              "3 h"
             ],
             "answer": 2
+          },
+          {
+            "q": "Solve for t: 50 = 200(1/2)^(t/5).",
+            "options": [
+              "5",
+              "10",
+              "15",
+              "20"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Calculus",
@@ -17072,60 +17071,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Mandelbrot Set and Iterated Complex Functions",
-        "summary": "Grade 12 Advanced Functions strand: the Mandelbrot set is generated by repeatedly applying a simple complex-number function to itself and testing whether the resulting sequence of values stays bounded, producing a boundary of extraordinary geometric complexity.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Compound Interest and Continuous Growth with e",
+        "summary": "Students compare compound interest formulas at increasing compounding frequency to continuous compounding using the number e, and compute future values with both models.",
+        "resourceLabel": "YouTube: Compound Interest and Continuous Growth with e",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Interest%20and%20Continuous%20Growth%20with%20e%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "The Mandelbrot set is generated by repeatedly applying a simple complex-number function to itself and testing whether the resulting sequence of values stays ___.",
+            "q": "Which formula gives the future value of an investment compounded continuously?",
             "options": [
-              "A concept unrelated to how the Mandelbrot set is generated",
-              "Undefined, with no meaningful sequence produced at all",
-              "Bounded",
-              "Exactly zero, in every single case regardless of the starting value"
+              "A = Pe^(rt)",
+              "A = Prt",
+              "A = Pe^(r/t)",
+              "A = P(1+r)^t"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "$1000 is invested at 5% compounded continuously for 2 years. What is the value, to the nearest cent?",
+            "options": [
+              "$1050.00",
+              "$1100.00",
+              "$1105.17",
+              "$1210.00"
             ],
             "answer": 2
           },
           {
-            "q": "The boundary of the Mandelbrot set is known for its extraordinary geometric ___.",
+            "q": "As the number of compounding periods per year in P(1+r/n)^(nt) approaches infinity, the formula approaches:",
             "options": [
-              "A concept unrelated to describing the Mandelbrot set",
-              "Uniformity, an inaccurate description of this intricate boundary",
-              "Simplicity, an inaccurate description of this famous boundary",
-              "Complexity"
+              "P·r·t·e",
+              "P(1+r)^t",
+              "Prt",
+              "Pe^(rt)"
             ],
             "answer": 3
           },
           {
-            "q": "Generating the Mandelbrot set involves repeatedly applying a function to its own previous ___.",
+            "q": "What value does (1 + 1/n)^n approach as n → ∞?",
             "options": [
-              "A concept unrelated to this iterative process",
-              "Colour, a property unrelated to the iterative process involved",
-              "Output",
-              "Original starting input exclusively, ignoring all intermediate outputs"
+              "1",
+              "infinity",
+              "π ≈ 3.14159",
+              "e ≈ 2.718"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which expression gives the value of $500 compounded continuously at 4% for 5 years?",
+            "options": [
+              "500·5·0.04",
+              "500e^(0.04)",
+              "500e^(0.2)",
+              "500(1.04)^5"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why does the process of repeatedly feeding a function’s output back in as its next input, as used in generating the Mandelbrot set, sometimes lead to values that grow without bound?",
-            "options": [
-              "This iterative process always produces a sequence of values that stays exactly the same at every step",
-              "This concept has no relevance to understanding how the Mandelbrot set is generated",
-              "Feeding a function’s output back into itself has no connection to whether resulting values grow or stay bounded",
-              "Depending on the starting complex number, the repeated squaring and adding involved in the function can cause the sequence of resulting values to grow larger and larger rather than settle down"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the Mandelbrot set often cited as an example of complex, intricate structure arising from a remarkably simple underlying rule?",
-            "options": [
-              "The Mandelbrot set requires an extremely complicated underlying formula to produce its distinctive boundary",
-              "A single, simple iterative formula involving complex numbers produces a boundary of endless, self-similar detail, illustrating how simple rules can generate immense complexity",
-              "Simple mathematical rules can never produce genuinely intricate or complex results",
-              "This concept has no relevance to understanding the relationship between simple rules and complex outcomes"
-            ],
-            "answer": 1
           }
         ]
       },
@@ -17325,58 +17325,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Review: Grade 12 Advanced Functions -- Days 61-69 Synthesis",
-        "summary": "Grade 12 Advanced Functions strand review: this lesson revisits spherical coordinates, oblique asymptotes, the logistic function, Benford’s Law, and the Mandelbrot set from Days 61-69.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Transformations of Logarithmic Functions",
+        "summary": "Students apply stretches, reflections, and translations to logarithmic functions and describe the effect on the graph, vertical asymptote, and domain.",
+        "resourceLabel": "YouTube: Transformations of Logarithmic Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Logarithmic%20Functions%20grade%2012%20educational",
+        "topic": "Transformations",
         "quiz": [
           {
-            "q": "Spherical coordinates locate a point in three-dimensional space using a radial distance and ___ angles.",
+            "q": "The graph of y = log(x-3) is the graph of y = log(x) shifted:",
             "options": [
-              "Zero, since spherical coordinates use no angles at all",
-              "Two",
-              "Four, an inaccurate number of angles for this coordinate system",
-              "A concept unrelated to describing a point’s position"
+              "up 3 units",
+              "right 3 units",
+              "down 3 units",
+              "left 3 units"
             ],
             "answer": 1
           },
           {
-            "q": "An oblique asymptote occurs when the degree of a rational function’s numerator exceeds the degree of its denominator by exactly ___.",
+            "q": "What is the vertical asymptote of y = log_2(x+5)?",
             "options": [
-              "Three, an incorrect difference for an oblique asymptote",
-              "One",
-              "A concept unrelated to rational function behaviour",
-              "Zero, meaning the degrees would instead be equal"
+              "y = -5",
+              "x = 0",
+              "x = -5",
+              "x = 5"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "The logistic function models growth that starts nearly exponential but slows and levels off as it approaches a maximum sustainable ___.",
+            "q": "The graph of y = -log(x) is a reflection of y = log(x) in the:",
             "options": [
-              "A concept unrelated to logistic growth",
-              "Rate of change exclusively, with no connection to an upper limit",
-              "Starting point, a value that does not represent the growth ceiling",
-              "Value"
+              "line y = x",
+              "y-axis",
+              "x-axis",
+              "origin"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "According to Benford’s Law, the digit ___ appears as a leading digit more frequently than any other digit in many natural data sets.",
+            "q": "What is the domain of y = log(4-x)?",
             "options": [
-              "5, a digit with only a moderate predicted frequency under Benford’s Law",
-              "A concept unrelated to the specific predictions of Benford’s Law",
-              "9, the digit predicted to appear least frequently under Benford’s Law",
-              "1"
+              "x < 4",
+              "x > 4",
+              "x < -4",
+              "all real numbers"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is it useful to review spherical coordinates, oblique asymptotes, the logistic function, and Benford’s Law together?",
+            "q": "How does the graph of y = 2log(x) + 3 compare to y = log(x)?",
             "options": [
-              "These related math concepts reinforce each other for stronger overall understanding",
-              "Review is never useful in math",
-              "These topics have no connection to each other",
-              "Each topic must be learned in complete isolation"
+              "vertically stretched by 2 and shifted up 3",
+              "vertically stretched by 3 and shifted up 2",
+              "shifted right 2 and up 3",
+              "horizontally stretched by 2 and shifted up 3"
             ],
             "answer": 0
           }
@@ -17569,60 +17570,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Quaternion -- Extending Complex Numbers Beyond the Plane",
-        "summary": "Grade 12 Advanced Functions strand: a quaternion extends the complex numbers by introducing three distinct imaginary units, producing a four-dimensional number system used to represent rotations in three-dimensional space more efficiently than some other methods.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Transformations of Exponential Functions",
+        "summary": "Students analyze transformations of exponential functions including stretches, reflections, and translations, and identify the resulting horizontal asymptote and range.",
+        "resourceLabel": "YouTube: Transformations of Exponential Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Exponential%20Functions%20grade%2012%20educational",
+        "topic": "Transformations",
         "quiz": [
           {
-            "q": "A quaternion extends the complex numbers by introducing ___ distinct imaginary units.",
+            "q": "What is the horizontal asymptote of y = 3^x + 4?",
             "options": [
-              "A concept unrelated to how a quaternion is constructed",
-              "One, an inaccurate count for a quaternion’s imaginary units",
-              "Zero, an inaccurate count that would describe the real numbers instead",
-              "Three"
+              "y = 3",
+              "y = 4",
+              "y = 0",
+              "x = 4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The graph of y = -2^x is a reflection of y = 2^x in the:",
+            "options": [
+              "line y = x",
+              "x-axis",
+              "y-axis",
+              "origin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The graph of y = 2^(x-3) is the graph of y = 2^x shifted:",
+            "options": [
+              "left 3",
+              "right 3",
+              "up 3",
+              "down 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For y = 5·2^x, as x → -∞, y approaches:",
+            "options": [
+              "5",
+              "infinity",
+              "-infinity",
+              "0"
             ],
             "answer": 3
           },
           {
-            "q": "A quaternion produces a ___-dimensional number system.",
+            "q": "Which transformation turns y = 2^x into y = 2^x - 6?",
             "options": [
-              "Six, an inaccurate dimensionality for a quaternion",
-              "A concept unrelated to describing a quaternion’s structure",
-              "Two, the dimensionality of the complex numbers rather than the quaternions",
-              "Four"
+              "a horizontal shift down 6",
+              "a vertical stretch by 6",
+              "a reflection followed by a shift",
+              "a vertical shift down 6, giving a new asymptote y = -6"
             ],
             "answer": 3
-          },
-          {
-            "q": "Quaternions are used to represent ___ in three-dimensional space.",
-            "options": [
-              "Rotations",
-              "Colours, a property unrelated to this mathematical structure’s typical application",
-              "A concept unrelated to a common application of quaternions",
-              "Temperatures, a property unrelated to this mathematical structure’s typical application"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might quaternions be preferred over some other methods for representing rotations in three-dimensional computer graphics or robotics?",
-            "options": [
-              "Other rotation representations are always mathematically superior to quaternions in every situation",
-              "Quaternions have no established application to representing rotations in three-dimensional space",
-              "Quaternions can avoid certain distortions, such as gimbal lock, that affect some other rotation representations, while also combining smoothly under multiplication",
-              "This concept has no relevance to applications of extended number systems"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is extending the complex numbers to quaternions considered a natural next step in the historical development of number systems?",
-            "options": [
-              "It follows a recurring pattern in mathematics of generalizing an existing number system to a larger one that preserves useful properties while enabling new kinds of calculation",
-              "This concept has no relevance to understanding how mathematical structures build on one another",
-              "Extending complex numbers to a four-dimensional system has no connection to how number systems have historically developed",
-              "Quaternions were developed with no connection to the earlier development of complex numbers"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -18064,63 +18066,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Möbius Transformations and Mappings of the Complex Plane",
-        "summary": "Grade 12 Advanced Functions strand: a Möbius transformation is a function that maps points on the complex plane to other points using a ratio of two linear expressions, preserving angles and mapping lines and circles to other lines or circles.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Natural Logarithm and the Function e^x",
+        "summary": "Students are introduced to Euler's number e, the natural exponential function e^x, and its inverse the natural logarithm ln(x), and relate the two as inverse functions.",
+        "resourceLabel": "YouTube: The Natural Logarithm and the Function e^x",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Natural%20Logarithm%20and%20the%20Function%20e%5Ex%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "A Möbius transformation maps points on the complex plane using a ratio of two ___ expressions.",
+            "q": "ln(x) is the inverse of which function?",
             "options": [
-              "Linear",
-              "Trigonometric, an inaccurate description of the expressions used in a Möbius transformation",
-              "Quadratic, an inaccurate description of the expressions used in a Möbius transformation",
-              "A concept unrelated to how this transformation is defined"
+              "x^2",
+              "log_10 x",
+              "e^x",
+              "10^x"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "A Möbius transformation preserves ___ between curves that intersect on the complex plane.",
+            "q": "Evaluate ln(e^5).",
             "options": [
-              "Colours, a property unrelated to this transformation’s defining geometric characteristic",
-              "Weights, a property unrelated to this transformation’s defining geometric characteristic",
-              "A concept unrelated to what a Möbius transformation preserves",
-              "Angles"
+              "e^5",
+              "1",
+              "e",
+              "5"
             ],
             "answer": 3
           },
           {
-            "q": "A Möbius transformation maps lines and circles to other lines or ___.",
+            "q": "Evaluate e^(ln 7).",
             "options": [
-              "Cubes, a three-dimensional shape unrelated to this planar transformation",
-              "Triangles, an inaccurate description of the shapes a Möbius transformation produces",
-              "Circles",
-              "A concept unrelated to how this transformation acts on shapes"
+              "e^7",
+              "1",
+              "7",
+              "ln7"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the angle-preserving property of a Möbius transformation considered a particularly important characteristic within complex analysis?",
+            "q": "What is ln(1)?",
             "options": [
-              "This concept has no relevance to understanding complex analysis",
-              "A transformation that preserves angles always distorts every shape beyond recognition",
-              "Preserving angles means the transformation maintains the local shape of small figures even as it distorts their overall position and size, a property central to conformal mapping in complex analysis",
-              "Angle preservation has no significance to how a Möbius transformation is used or studied"
+              "e",
+              "undefined",
+              "1",
+              "0"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why might Möbius transformations be a useful extension of a Grade 12 student’s earlier study of the complex plane?",
+            "q": "Solve e^x = 12 for x in exact form.",
             "options": [
-              "Möbius transformations have no connection to the earlier study of complex numbers on the complex plane",
-              "They demonstrate how a relatively simple algebraic rule can produce structured, predictable geometric transformations, deepening the connection between algebra and geometry on the complex plane",
-              "This concept has no relevance to extending a student’s understanding of complex numbers",
-              "A transformation on the complex plane can never be meaningfully connected to geometric structure"
+              "x = 12e",
+              "x = log12",
+              "x = e^12",
+              "x = ln12"
             ],
-            "answer": 1
+            "answer": 3
           }
-        ],
-        "topic": "Transformations"
+        ]
       },
       {
         "subject": "Calculus",
@@ -18799,61 +18801,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Markov Chains and Transition Matrices",
-        "summary": "Grade 12 Advanced Functions strand: a Markov chain models a system that moves between a finite set of states, where the probability of moving to the next state depends only on the current state, with these probabilities organized into a transition matrix used to project the system’s behaviour forward.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=1GKtfgwf3ig",
+        "title": "Reciprocal Trigonometric Functions: Secant, Cosecant, and Cotangent",
+        "summary": "Students define the reciprocal trigonometric ratios secant, cosecant, and cotangent, evaluate them for special angles, and identify where each is undefined.",
+        "resourceLabel": "YouTube: Reciprocal Trigonometric Functions: Secant, Cosecant, and Cotangent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reciprocal%20Trigonometric%20Functions%3A%20Secant%2C%20Cosecant%2C%20and%20Cotangent%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "A Markov chain models a system that moves between a finite set of ___.",
+            "q": "sec(θ) is defined as:",
             "options": [
-              "States",
-              "Colours, a concept unrelated to how a Markov chain is structured",
-              "A concept unrelated to this mathematical model",
-              "Constants, a concept unrelated to how a Markov chain is structured"
+              "cos θ / sin θ",
+              "1/sin θ",
+              "1/cos θ",
+              "1/tan θ"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "In a Markov chain, the probability of moving to the next state depends only on the ___ state.",
+            "q": "csc(θ) is defined as:",
             "options": [
-              "A concept unrelated to how a Markov chain’s probabilities work",
-              "Final, an inaccurate description of this defining memoryless property",
-              "Very first, an inaccurate description of this defining memoryless property",
-              "Current"
+              "1/cos θ",
+              "1/tan θ",
+              "1/sin θ",
+              "sin θ / cos θ"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "The probabilities in a Markov chain are organized into a ___ matrix.",
+            "q": "cot(θ) is defined as:",
             "options": [
-              "Identity, a specific type of matrix unrelated to modelling changing states",
-              "Transition",
-              "A concept unrelated to how a Markov chain’s probabilities are represented",
-              "Zero, a matrix that would represent no possible transitions at all"
+              "1/cos θ",
+              "cos θ / sin θ",
+              "sin θ / cos θ",
+              "1/sin θ"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the property that a Markov chain’s next state depends only on its current state, and not on its earlier history, considered a defining simplification of this model?",
+            "q": "Evaluate sec(60°).",
             "options": [
-              "This defining property has no bearing on how a Markov chain’s future states are calculated",
-              "A Markov chain always requires tracking a system’s entire past history to project its future behaviour",
-              "This memoryless property allows the system’s future behaviour to be projected using only the current state and the transition matrix, greatly simplifying calculations compared to tracking a system’s full history",
-              "This concept has no relevance to understanding how this mathematical model is used"
+              "1/2",
+              "2/√3",
+              "2",
+              "√3"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a transition matrix be a useful tool for projecting the long-term behaviour of a system, such as customers moving between competing products over time?",
+            "q": "For which values of θ in [0°, 360°) is csc(θ) undefined?",
             "options": [
-              "Markov chains have no real-world application to modelling systems that change between different states",
-              "A transition matrix has no established use in projecting how a system’s state might change over time",
-              "Repeatedly applying the transition matrix to a current distribution of states projects how that distribution is expected to evolve, revealing long-term trends or a stable equilibrium the system may approach",
-              "This concept has no relevance to using matrices to model changing systems"
+              "0° and 180°",
+              "45° and 225°",
+              "csc(θ) is never undefined",
+              "90° and 270°"
             ],
-            "answer": 2
+            "answer": 0
           }
         ]
       },
@@ -19550,58 +19552,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Cantor Set and the Idea of Self-Similarity",
-        "summary": "Grade 12 Advanced Functions strand: the Cantor set is constructed by repeatedly removing the middle third of a line segment, an infinite process that produces a set with no length yet infinitely many points, illustrating the counterintuitive properties that can arise from self-similar, recursively defined structures.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Pythagorean Trigonometric Identities",
+        "summary": "Students derive and apply the three Pythagorean identities to simplify trigonometric expressions and verify equivalences.",
+        "resourceLabel": "YouTube: The Pythagorean Trigonometric Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Pythagorean%20Trigonometric%20Identities%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "The Cantor set is constructed by repeatedly removing the ___ third of a line segment.",
+            "q": "Which is the fundamental Pythagorean identity?",
             "options": [
-              "Outer, an inaccurate description of the portion removed at each stage of this construction",
-              "First, an inaccurate description of the portion removed at each stage of this construction",
-              "Middle",
-              "A concept unrelated to how the Cantor set is constructed"
+              "sinθ + cosθ = 1",
+              "sinθ · cosθ = 1",
+              "sin²θ + cos²θ = 1",
+              "sin²θ - cos²θ = 1"
             ],
             "answer": 2
           },
           {
-            "q": "The infinite process constructing the Cantor set produces a set with no length yet infinitely many ___.",
+            "q": "1 + tan²θ is equivalent to:",
             "options": [
-              "Colours, a property unrelated to describing this counterintuitive mathematical set",
-              "A concept unrelated to the resulting properties of the Cantor set",
-              "Points",
-              "Dimensions in the ordinary geometric sense, a description that oversimplifies this set’s unusual structure"
+              "sec²θ",
+              "csc²θ",
+              "1",
+              "cos²θ"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "The Cantor set illustrates the counterintuitive properties that can arise from self-similar, ___ defined structures.",
+            "q": "1 + cot²θ is equivalent to:",
             "options": [
-              "Accidentally, an inaccurate description of this deliberately repeated construction process",
-              "A concept unrelated to how the Cantor set’s defining process is described",
-              "Randomly, an inaccurate description of this deliberately repeated construction process",
-              "Recursively"
+              "sec²θ",
+              "1",
+              "tan²θ",
+              "csc²θ"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it considered counterintuitive that the Cantor set has zero total length yet contains infinitely many points?",
+            "q": "If sinθ = 3/5 and θ is in Quadrant I, what is cosθ?",
             "options": [
-              "This concept has no relevance to understanding the unusual properties that infinite recursive constructions can produce",
-              "A set that contains infinitely many points must always have a total length greater than zero",
-              "Removing the middle third at every stage shrinks the total remaining length toward zero even as the process continues indefinitely, leaving behind an infinite scattering of points that nonetheless takes up no length at all",
-              "Removing portions of a line segment repeatedly always leaves behind a set with a substantial positive length"
+              "5/3",
+              "3/4",
+              "5/4",
+              "4/5"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is the Cantor set often used as an introductory example of a self-similar fractal structure?",
+            "q": "Simplify sec²θ - tan²θ.",
             "options": [
-              "Zooming into any small piece of the Cantor set reveals a smaller copy of the same overall pattern, illustrating the defining feature of self-similarity in an unusually simple and visualizable way",
-              "Fractal structures can never be meaningfully introduced using a relatively simple recursive construction",
-              "The Cantor set has no self-similar structure of any kind at any scale",
-              "This concept has no relevance to understanding self-similarity as a mathematical idea"
+              "1",
+              "sin²θ",
+              "2tan²θ",
+              "0"
             ],
             "answer": 0
           }
@@ -19794,58 +19797,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Review: Grade 12 Advanced Functions -- Days 71-79 Synthesis",
-        "summary": "Grade 12 Advanced Functions strand review: this lesson revisits quaternions, the Euclidean algorithm, hypothesis testing, and the golden ratio from Days 71-79.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Compound Angle Formulas: Sum and Difference Identities",
+        "summary": "Students use the sum and difference identities for sine and cosine to evaluate trigonometric expressions for non-special angles and simplify compound-angle expressions.",
+        "resourceLabel": "YouTube: Compound Angle Formulas: Sum and Difference Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Angle%20Formulas%3A%20Sum%20and%20Difference%20Identities%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "A quaternion extends the complex numbers by introducing ___ distinct imaginary units.",
+            "q": "sin(A+B) is equivalent to:",
             "options": [
-              "A concept unrelated to how a quaternion is constructed",
-              "Three",
-              "Zero, an inaccurate count that would describe the real numbers instead",
-              "One, an inaccurate count for a quaternion’s imaginary units"
+              "cosA cosB - sinA sinB",
+              "sinA cosB - cosA sinB",
+              "sinA cosB + cosA sinB",
+              "cosA cosB + sinA sinB"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "The Euclidean algorithm finds the greatest common divisor of two integers by repeatedly replacing the larger number with the ___ of dividing it by the smaller.",
+            "q": "cos(A-B) is equivalent to:",
             "options": [
-              "A concept unrelated to how this algorithm works",
-              "Square root, an inaccurate description of the operation used at each step",
-              "Product, an inaccurate description of the operation used at each step",
-              "Remainder"
+              "cosA cosB - sinA sinB",
+              "sinA cosB - cosA sinB",
+              "cosA cosB + sinA sinB",
+              "sinA sinB - cosA cosB"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
+            "q": "Use sin(75°) = sin(45°+30°) to find its exact value.",
             "options": [
-              "Claim",
-              "Location, a concept unrelated to statistical evidence",
-              "Colour, a concept unrelated to statistical evidence",
-              "A concept unrelated to hypothesis testing"
+              "(√6-√2)/4",
+              "(√2+√3)/4",
+              "(√6+√2)/4",
+              "1/2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Use cos(105°) = cos(60°+45°) to find its exact value.",
+            "options": [
+              "(√2-√6)/4",
+              "(√6-√2)/4",
+              "(√6+√2)/4",
+              "-(√2+√6)/4"
             ],
             "answer": 0
           },
           {
-            "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
+            "q": "Which identity would you use to expand cos(x + π/2)?",
             "options": [
-              "A concept unrelated to how the golden ratio is defined",
-              "Trigonometric, an inaccurate description of the type of equation defining the golden ratio",
-              "Logarithmic, an inaccurate description of the type of equation defining the golden ratio",
-              "Quadratic"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it useful to review quaternions, the Euclidean algorithm, hypothesis testing, and the golden ratio together?",
-            "options": [
-              "These topics have no connection to each other",
-              "Review is never useful in math",
-              "Each topic must be learned in complete isolation",
-              "These related math concepts reinforce each other for stronger overall understanding"
+              "the double angle formula for cosine",
+              "sin(A+B) = sinAcosB + cosAsinB",
+              "sin²θ + cos²θ = 1",
+              "cos(A+B) = cosAcosB - sinAsinB"
             ],
             "answer": 3
           }
@@ -20039,58 +20043,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Riemann Zeta Function — An Introductory Glimpse",
-        "summary": "Grade 12 Advanced Functions strand: the Riemann zeta function is an infinite series that extends far beyond basic algebra, connecting number theory to complex analysis through the distribution of prime numbers.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Double Angle Formulas for Sine, Cosine, and Tangent",
+        "summary": "Students derive the double angle identities for sine, cosine, and tangent from the compound angle formulas and apply them to simplify and evaluate expressions.",
+        "resourceLabel": "YouTube: Double Angle Formulas for Sine, Cosine, and Tangent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Double%20Angle%20Formulas%20for%20Sine%2C%20Cosine%2C%20and%20Tangent%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does the Riemann zeta function connect number theory to?",
+            "q": "sin(2θ) is equivalent to:",
             "options": [
-              "Elementary geometry only",
-              "Only basic arithmetic with whole numbers",
-              "Complex analysis",
-              "A concept unrelated to functions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Is the Riemann zeta function related to the distribution of prime numbers?",
-            "options": [
-              "A concept unrelated to the Riemann zeta function",
-              "Prime numbers are never studied using any function",
-              "Yes",
-              "No, it has no connection to prime numbers at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Is the Riemann zeta function defined as an infinite series?",
-            "options": [
-              "No, it is defined using only a single finite term",
-              "Yes",
-              "A concept unrelated to the Riemann zeta function",
-              "Infinite series have no connection to this function"
+              "sin²θ - cos²θ",
+              "2sinθcosθ",
+              "2sinθ + 2cosθ",
+              "cos²θ - sin²θ"
             ],
             "answer": 1
           },
           {
-            "q": "Why might mathematicians consider the Riemann zeta function to be one of the most important unsolved problems in number theory?",
+            "q": "Which of the following is NOT an equivalent form of cos(2θ)?",
             "options": [
-              "This concept has no connection to functions",
-              "Every question about the Riemann zeta function has already been completely solved",
-              "Questions about where its values equal zero remain unresolved and have deep implications for understanding primes",
-              "The Riemann zeta function has no remaining open questions of any mathematical significance"
+              "2cos²θ - 1",
+              "cos²θ - sin²θ",
+              "1 - 2sin²θ",
+              "2cosθ - 1"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is introducing the Riemann zeta function useful for students planning further study in advanced mathematics?",
+            "q": "If sinθ = 3/5 and cosθ = 4/5, what is sin(2θ)?",
             "options": [
-              "This concept has no relevance to functions",
-              "It offers a glimpse into how seemingly abstract functions connect to major unsolved problems in the field",
-              "This function has no relevance to any area of further mathematical study",
-              "Advanced mathematics never involves studying any function of this type"
+              "24/25",
+              "12/25",
+              "1",
+              "7/25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The double angle formula for tangent is tan(2θ) = ?",
+            "options": [
+              "tan²θ / 2",
+              "2tanθ / (1 - tan²θ)",
+              "2tanθ / (1 + tan²θ)",
+              "(1 - tan²θ) / 2tanθ"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using cos(2θ) = 1 - 2sin²θ, find cos(2θ) when sinθ = 1/2.",
+            "options": [
+              "0",
+              "1/2",
+              "-1/2",
+              "1"
             ],
             "answer": 1
           }
@@ -20529,63 +20534,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Chinese Remainder Theorem",
-        "summary": "Grade 12 Advanced Functions strand: the Chinese remainder theorem provides a method for solving a system of simultaneous congruences, finding a unique solution modulo the product of the given moduli.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Trigonometric Equations Over a Restricted Domain",
+        "summary": "Students solve trigonometric equations algebraically and use the unit circle to find all solutions within a given domain such as [0°, 360°) or [0, 2π).",
+        "resourceLabel": "YouTube: Solving Trigonometric Equations Over a Restricted Domain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Over%20a%20Restricted%20Domain%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does the Chinese remainder theorem help solve?",
+            "q": "Solve sinθ = 1/2 for θ ∈ [0°, 360°).",
             "options": [
-              "A concept unrelated to number theory",
-              "A single simple linear equation only",
-              "A system of simultaneous congruences",
-              "A basic addition problem with whole numbers"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Does the Chinese remainder theorem require the moduli involved to typically be coprime?",
-            "options": [
-              "No, the moduli involved are never required to share any particular relationship",
-              "Yes",
-              "Coprimality has no connection to how this theorem is applied",
-              "A concept unrelated to the Chinese remainder theorem"
+              "{60°, 120°}",
+              "{30°, 150°}",
+              "{150°, 330°}",
+              "{30°, 210°}"
             ],
             "answer": 1
           },
           {
-            "q": "Does the Chinese remainder theorem produce a unique solution modulo the product of the given moduli?",
+            "q": "Solve cosθ = -1/2 for θ ∈ [0°, 360°).",
             "options": [
-              "This theorem only ever applies to a single modulus at a time",
-              "A concept unrelated to the Chinese remainder theorem",
-              "Yes",
-              "No, it never produces a solution of any kind"
+              "{30°, 150°}",
+              "{60°, 300°}",
+              "{120°, 240°}",
+              "{120°, 300°}"
             ],
             "answer": 2
           },
           {
-            "q": "Why might the Chinese remainder theorem be useful in modern computer science, such as in cryptography?",
+            "q": "Solve 2sinθ - 1 = 0 for θ ∈ [0, 2π).",
             "options": [
-              "This concept has no connection to functions",
-              "Cryptography never makes use of any number theory concept",
-              "The Chinese remainder theorem has no connection to computer science or cryptography",
-              "It provides an efficient method for performing certain calculations involving large numbers by breaking them into smaller, manageable pieces"
+              "{π/3, 2π/3}",
+              "{π/6, 7π/6}",
+              "{5π/6, 7π/6}",
+              "{π/6, 5π/6}"
             ],
             "answer": 3
           },
           {
-            "q": "Why is solving a system of congruences using the Chinese remainder theorem often more efficient than checking every possible number individually?",
+            "q": "How many solutions does tanθ = 1 have for θ ∈ [0°, 360°)?",
             "options": [
-              "The theorem provides a direct method to construct the solution rather than requiring an exhaustive, one-by-one search",
-              "This concept has no relevance to functions",
-              "Checking every possible number individually is always the fastest method available",
-              "The Chinese remainder theorem never actually reduces the amount of work required"
+              "1",
+              "2",
+              "4",
+              "3"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Solve cos²θ = 1 for θ ∈ [0°, 360°).",
+            "options": [
+              "{90°, 270°}",
+              "{0°, 180°, 360°}",
+              "{0°}",
+              "{0°, 180°}"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -20776,60 +20781,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Generating Functions — An Introduction",
-        "summary": "Grade 12 Advanced Functions strand: a generating function encodes a sequence of numbers as the coefficients of a power series, providing a powerful algebraic tool for solving counting problems.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Graphing Sinusoidal Functions: Amplitude, Period, and Phase Shift",
+        "summary": "Students identify amplitude, period, phase shift, and vertical shift from the equation of a sinusoidal function and use these features to describe its graph.",
+        "resourceLabel": "YouTube: Graphing Sinusoidal Functions: Amplitude, Period, and Phase Shift",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Sinusoidal%20Functions%3A%20Amplitude%2C%20Period%2C%20and%20Phase%20Shift%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does a generating function encode a sequence of numbers as?",
+            "q": "For y = 3sin(2x), what is the amplitude?",
             "options": [
-              "A random list with no defined structure",
-              "A single unrelated constant value",
-              "A concept unrelated to discrete math",
-              "The coefficients of a power series"
+              "6",
+              "2",
+              "3",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For y = 3sin(2x), what is the period?",
+            "options": [
+              "π/2",
+              "4π",
+              "2π",
+              "π"
             ],
             "answer": 3
           },
           {
-            "q": "Are generating functions a useful tool for solving counting problems?",
+            "q": "For y = sin(x - π/4), what is the phase shift?",
             "options": [
-              "No, generating functions have no application to counting problems",
-              "A concept unrelated to generating functions",
-              "Yes",
-              "Counting problems can never be represented using any function"
+              "left π/4",
+              "right π/4",
+              "down π/4",
+              "up π/4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For y = 2cos(x) + 5, what is the equation of the midline?",
+            "options": [
+              "y = 0",
+              "y = 2",
+              "y = -5",
+              "y = 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the period of y = 4sin(x/2)?",
+            "options": [
+              "2π",
+              "8π",
+              "4π",
+              "π"
             ],
             "answer": 2
-          },
-          {
-            "q": "Does a generating function typically take the form of a power series?",
-            "options": [
-              "A concept unrelated to generating functions",
-              "Power series have no connection to generating functions",
-              "Yes",
-              "No, a generating function is never expressed as a power series"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might a generating function be useful for finding a formula for a recursively defined sequence, like the Fibonacci sequence?",
-            "options": [
-              "Manipulating the generating function algebraically can reveal a closed-form expression for the sequence’s terms",
-              "A closed-form expression for a recursive sequence can never be found using this method",
-              "This concept has no connection to functions",
-              "Generating functions have no connection to recursively defined sequences"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are generating functions considered a valuable tool in combinatorics, the study of counting and arrangement?",
-            "options": [
-              "They allow complex counting problems to be translated into algebraic operations on power series, simplifying the analysis",
-              "This concept has no relevance to functions",
-              "Generating functions have no relevance to the field of combinatorics",
-              "Combinatorics never makes use of any algebraic tool of this kind"
-            ],
-            "answer": 0
           }
         ]
       },
@@ -21020,60 +21026,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Fundamental Theorem of Algebra",
-        "summary": "Grade 12 Advanced Functions strand: the fundamental theorem of algebra states that every non-constant polynomial with complex coefficients has at least one complex root.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Graphing Reciprocal Trigonometric Functions",
+        "summary": "Students graph secant, cosecant, and cotangent by using the reciprocal relationship with sine, cosine, and tangent, and identify the resulting vertical asymptotes and range.",
+        "resourceLabel": "YouTube: Graphing Reciprocal Trigonometric Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Reciprocal%20Trigonometric%20Functions%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does the fundamental theorem of algebra state about a non-constant polynomial?",
+            "q": "The graph of y = csc(x) has vertical asymptotes wherever:",
             "options": [
-              "It has at least one complex root",
-              "It always has exactly zero roots",
-              "A concept unrelated to functions",
-              "It can never be solved using any method"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Does the fundamental theorem of algebra apply to polynomials with complex coefficients?",
-            "options": [
-              "Complex coefficients have no connection to this theorem",
-              "A concept unrelated to the fundamental theorem of algebra",
-              "Yes",
-              "No, it only applies to polynomials with whole number coefficients"
+              "cos x = 0",
+              "tan x = 0",
+              "sin x = 0",
+              "x = 0 only"
             ],
             "answer": 2
           },
           {
-            "q": "Does the fundamental theorem of algebra guarantee that a polynomial has at least one root, even if that root is complex?",
+            "q": "The graph of y = sec(x) has vertical asymptotes at:",
             "options": [
-              "Yes",
-              "A concept unrelated to this theorem",
-              "No, it guarantees a polynomial has absolutely no roots of any kind",
-              "Real roots are the only type of root ever guaranteed by any theorem"
+              "x = π + kπ",
+              "x = π/2 + kπ",
+              "x = kπ",
+              "x = π/4 + kπ"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why is the fundamental theorem of algebra considered significant for understanding polynomial equations?",
+            "q": "The graph of y = cot(x) has vertical asymptotes wherever:",
             "options": [
-              "It guarantees that every polynomial equation can be fully factored over the complex numbers",
-              "This theorem provides no useful information about factoring polynomial equations",
-              "Polynomial equations can never be guaranteed to have any solution at all",
-              "This concept has no connection to functions"
+              "x = π/2",
+              "sin x = 0",
+              "tan x is undefined only at x = 0",
+              "cos x = 0"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might a polynomial with only real coefficients still have complex roots, according to the fundamental theorem of algebra?",
+            "q": "At a point where sin(x) reaches its maximum value, csc(x) has a:",
             "options": [
-              "This concept has no relevance to functions",
-              "The type of coefficients used never affects whether a root is real or complex",
-              "The theorem guarantees roots exist among the complex numbers, which include real numbers as a special case, but complex roots are still possible",
-              "A polynomial with real coefficients can never have any complex roots under any circumstances"
+              "local maximum",
+              "zero",
+              "vertical asymptote",
+              "local minimum"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "What is the range of y = sec(x)?",
+            "options": [
+              "[-1, 1]",
+              "(-∞, -1] ∪ [1, ∞)",
+              "all real numbers",
+              "(0, ∞)"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -21263,63 +21270,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Fermat’s Little Theorem",
-        "summary": "Grade 12 Advanced Functions strand: Fermat’s little theorem states that if p is a prime number, then for any integer a not divisible by p, a raised to the power of p minus 1 is congruent to 1 modulo p.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Proving Trigonometric Identities",
+        "summary": "Students use known identities (Pythagorean, reciprocal, and quotient) to prove that two trigonometric expressions are equivalent by working one side of the identity into the other.",
+        "resourceLabel": "YouTube: Proving Trigonometric Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Proving%20Trigonometric%20Identities%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What must p be, according to Fermat’s little theorem?",
+            "q": "Which is a common strategy for starting a trigonometric identity proof?",
             "options": [
-              "Any even number",
-              "A number divisible by 4",
-              "A concept unrelated to number theory",
-              "A prime number"
+              "Square both sides first",
+              "Substitute one specific numeric angle as proof",
+              "Take the derivative of both sides",
+              "Convert everything to sines and cosines"
             ],
             "answer": 3
           },
           {
-            "q": "Does Fermat’s little theorem apply to any integer a that is not divisible by the prime p?",
+            "q": "Simplify sinθ · cotθ.",
             "options": [
-              "Yes",
-              "No, it only applies to integers that are divisible by p",
-              "The integer a has no connection to this theorem",
-              "A concept unrelated to Fermat’s little theorem"
+              "tanθ",
+              "1",
+              "cosθ",
+              "sinθ"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Does Fermat’s little theorem involve congruence modulo the prime number p?",
+            "q": "Simplify (1 - cos²θ) / sinθ.",
             "options": [
-              "A concept unrelated to Fermat’s little theorem",
-              "Yes",
-              "No, modular arithmetic has no connection to this theorem",
-              "This theorem only ever applies to non-modular arithmetic"
+              "1",
+              "tanθ",
+              "cosθ",
+              "sinθ"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Simplify tanθ · cosθ.",
+            "options": [
+              "cosθ",
+              "sinθ",
+              "secθ",
+              "1"
             ],
             "answer": 1
           },
           {
-            "q": "Why is Fermat’s little theorem useful in modern cryptographic systems?",
+            "q": "Simplify secθ - cosθ.",
             "options": [
-              "This concept has no connection to functions",
-              "It provides a mathematical foundation for certain encryption methods that rely on properties of prime numbers",
-              "Cryptographic systems never rely on any property of prime numbers",
-              "This theorem has no application in any area of cryptography"
+              "1",
+              "cos²θ",
+              "sinθ tanθ",
+              "tanθ"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why might Fermat’s little theorem be used as a quick test to check whether a large number is likely to be prime?",
-            "options": [
-              "This concept has no relevance to functions",
-              "If a number fails the conditions described by the theorem, it cannot be prime, offering an efficient preliminary check",
-              "This theorem provides no useful information for testing whether a number might be prime",
-              "Testing whether a number is prime never involves any theorem from number theory"
-            ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -22016,58 +22023,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Ramsey Theory — An Introduction",
-        "summary": "Grade 12 Advanced Functions strand: Ramsey theory studies the conditions under which a certain kind of order or pattern must eventually appear within a sufficiently large structure, even one that seems random.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Modelling Periodic Phenomena with Sinusoidal Functions",
+        "summary": "Students write sinusoidal equations to model real-world periodic data, such as tides or a Ferris wheel, given amplitude, period, and a reference point, and use the model to make predictions.",
+        "resourceLabel": "YouTube: Modelling Periodic Phenomena with Sinusoidal Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Modelling%20Periodic%20Phenomena%20with%20Sinusoidal%20Functions%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does Ramsey theory study?",
+            "q": "A Ferris wheel has a diameter of 20 m. What amplitude should its height model use?",
             "options": [
-              "Only structures that are guaranteed to remain completely disordered forever",
-              "A single isolated numerical calculation with no broader pattern",
-              "The conditions under which order must eventually appear within a large structure",
-              "A concept unrelated to discrete math"
+              "40 m",
+              "10 m",
+              "5 m",
+              "20 m"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Does Ramsey theory suggest that complete disorder becomes impossible once a structure is sufficiently large?",
+            "q": "A tide cycle repeats every 12 hours. What period should the sinusoidal model use?",
             "options": [
-              "No, Ramsey theory has no connection to order appearing within large structures",
-              "A concept unrelated to Ramsey theory",
-              "Structure size has no connection to whether patterns must appear",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is Ramsey theory associated with a well-known saying that suggests complete disorder is impossible in sufficiently large systems?",
-            "options": [
-              "No, Ramsey theory is never associated with any such idea",
-              "Order and structure have no connection to Ramsey theory whatsoever",
-              "A concept unrelated to Ramsey theory",
-              "Yes"
+              "24 hours",
+              "6 hours",
+              "1 hour",
+              "12 hours"
             ],
             "answer": 3
           },
           {
-            "q": "Why might Ramsey theory be relevant to a simple example like guaranteeing that within a large enough group of people, some subset shares mutual acquaintances or mutual strangers?",
+            "q": "A location's daily temperature oscillates between 5°C and 25°C. What is the midline of the model?",
             "options": [
-              "Ramsey theory guarantees this kind of pattern must emerge once the group reaches a large enough size, regardless of how relationships are arranged",
-              "This kind of guarantee has no connection to any principle within Ramsey theory",
-              "This concept has no connection to functions",
-              "Patterns among relationships in a group can never be guaranteed by any mathematical principle"
+              "10°C",
+              "15°C",
+              "20°C",
+              "25°C"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the same temperature data (5°C to 25°C), what amplitude should the model use?",
+            "options": [
+              "10°C",
+              "5°C",
+              "15°C",
+              "20°C"
             ],
             "answer": 0
           },
           {
-            "q": "Why is Ramsey theory considered a fascinating area of discrete mathematics for advanced students?",
+            "q": "A model h(t) = 10sin(πt/6) + 12 gives a Ferris wheel's height in metres after t minutes. What is the maximum height?",
             "options": [
-              "Ramsey theory has no connection to any patterns found within mathematical structures",
-              "This concept has no relevance to functions",
-              "Discrete mathematics never studies the emergence of patterns within larger structures",
-              "It reveals that seemingly unpredictable systems must still contain guaranteed patterns once they reach a sufficient size"
+              "10 m",
+              "12 m",
+              "20 m",
+              "22 m"
             ],
             "answer": 3
           }
@@ -22260,60 +22268,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Review: Number Theory, Interpolation, and Advanced Structures (Days 81-89)",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit the Riemann zeta function, polynomial interpolation, the Chinese remainder theorem, generating functions, the fundamental theorem of algebra, Fermat’s little theorem, convex and concave functions, undetermined coefficients, and Ramsey theory.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Radian Measure and Arc Length",
+        "summary": "Students convert between degrees and radians, and use the radian-based arc length formula to solve problems involving circles.",
+        "resourceLabel": "YouTube: Radian Measure and Arc Length",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Radian%20Measure%20and%20Arc%20Length%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "What does the Riemann zeta function connect number theory to?",
+            "q": "Convert 180° to radians.",
             "options": [
-              "Only basic arithmetic with whole numbers",
-              "Complex analysis",
-              "Elementary geometry only",
-              "A concept unrelated to functions"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does Lagrange’s method construct?",
-            "options": [
-              "A single straight line with no curvature",
-              "A random polynomial unrelated to any specific data",
-              "A concept unrelated to functions",
-              "A polynomial that passes exactly through a given set of data points"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the fundamental theorem of algebra state about a non-constant polynomial?",
-            "options": [
-              "It can never be solved using any method",
-              "It always has exactly zero roots",
-              "A concept unrelated to functions",
-              "It has at least one complex root"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What shape does a convex function typically curve like?",
-            "options": [
-              "A bowl, curving upward",
-              "A concept unrelated to functions",
-              "A dome, curving downward",
-              "A flat, straight line with no curvature at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does Ramsey theory study?",
-            "options": [
-              "Only structures that are guaranteed to remain completely disordered forever",
-              "A single isolated numerical calculation with no broader pattern",
-              "The conditions under which order must eventually appear within a large structure",
-              "A concept unrelated to discrete math"
+              "2π",
+              "π/2",
+              "π",
+              "π/4"
             ],
             "answer": 2
+          },
+          {
+            "q": "Convert 3π/2 radians to degrees.",
+            "options": [
+              "540°",
+              "180°",
+              "90°",
+              "270°"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The arc length formula (θ in radians, r = radius) is s = ?",
+            "options": [
+              "r/θ",
+              "θ/r",
+              "r²θ",
+              "rθ"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A circle has radius 6 cm. Find the arc length subtended by an angle of π/3 radians.",
+            "options": [
+              "3π cm",
+              "π cm",
+              "2π cm",
+              "6π cm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Convert 45° to radians.",
+            "options": [
+              "π/3",
+              "π/2",
+              "π/6",
+              "π/4"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -23257,63 +23266,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: RSA Encryption and Public-Key Cryptography",
-        "summary": "Grade 12 Advanced Functions strand: RSA encryption relies on the difficulty of factoring the product of two large prime numbers, using Euler’s totient function to generate a public and private key pair for secure communication.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Polynomial Functions: Finite Differences and Degree",
+        "summary": "Students use constant finite differences in a table of values to determine the degree of the polynomial function that models the data, without needing an explicit equation.",
+        "resourceLabel": "YouTube: Polynomial Functions: Finite Differences and Degree",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Finite%20Differences%20and%20Degree%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What mathematical difficulty does the security of RSA encryption rely on?",
+            "q": "If the 3rd differences in a table of values are constant, the data is best modelled by a polynomial of degree:",
             "options": [
-              "Rounding a decimal number to the nearest whole number",
-              "Adding two small even numbers together",
-              "A concept unrelated to number theory",
-              "Factoring the product of two large prime numbers"
+              "1",
+              "3",
+              "4",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For a linear function with equally spaced x-values, which differences are constant?",
+            "options": [
+              "2nd differences",
+              "3rd differences",
+              "none of the differences",
+              "1st differences"
             ],
             "answer": 3
           },
           {
-            "q": "In RSA, if p = 3 and q = 11, what is n = p × q?",
+            "q": "For a quadratic function with equally spaced x-values, which differences are constant?",
             "options": [
-              "14",
+              "3rd differences",
+              "1st differences",
+              "2nd differences",
+              "4th differences"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A table of values shows constant 4th differences. What is the degree of the polynomial?",
+            "options": [
               "3",
-              "33",
-              "11"
+              "5",
+              "2",
+              "4"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Using p = 3 and q = 11, what is Euler’s totient φ(n) = (p − 1)(q − 1)?",
+            "q": "Why are finite differences useful for identifying a polynomial's degree from a table of values?",
             "options": [
-              "14",
-              "30",
-              "20",
-              "33"
+              "They reveal the y-intercept directly",
+              "For a degree-n polynomial with equally spaced x-values, the nth differences are constant",
+              "They only work for linear functions",
+              "Differences always equal zero for polynomials"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why must the public exponent e in RSA be chosen so that gcd(e, φ(n)) = 1?",
-            "options": [
-              "So that e has a multiplicative inverse modulo φ(n), which is required to compute the private key d",
-              "The value of φ(n) has no relevance to choosing the public exponent e",
-              "This concept has no connection to functions",
-              "This condition on e is never actually required by the RSA algorithm"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does RSA encryption become vulnerable if quantum computers can efficiently factor large numbers using Shor’s algorithm?",
-            "options": [
-              "RSA’s security depends on factoring being computationally difficult, so an efficient factoring method would undermine that protection",
-              "This concept has no relevance to functions",
-              "RSA’s security has no connection whatsoever to the difficulty of factoring large numbers",
-              "Quantum computers have no potential effect on any existing cryptographic method"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -23996,63 +24005,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Bézout’s Identity and the Extended Euclidean Algorithm",
-        "summary": "Grade 12 Advanced Functions strand: Bézout’s identity guarantees that the greatest common divisor of two integers a and b can be written as an integer linear combination ax + by, and the extended Euclidean algorithm computes those coefficients x and y.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Polynomial Functions: End Behaviour and the Leading Coefficient Test",
+        "summary": "Students use the degree and sign of the leading coefficient of a polynomial function to determine and describe its end behaviour.",
+        "resourceLabel": "YouTube: Polynomial Functions: End Behaviour and the Leading Coefficient Test",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20End%20Behaviour%20and%20the%20Leading%20Coefficient%20Test%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does Bézout’s identity guarantee about the gcd of two integers a and b?",
+            "q": "For f(x) = -2x^4 + 3x - 1, as x → ±∞, f(x) → ?",
             "options": [
-              "It is always exactly equal to zero",
-              "It can never be expressed using either a or b",
-              "It can be written as an integer linear combination ax + by of a and b",
-              "A concept unrelated to number theory"
+              "+∞ then -∞",
+              "-∞ then +∞",
+              "-∞ on both ends",
+              "+∞ on both ends"
             ],
             "answer": 2
           },
           {
-            "q": "What does the extended Euclidean algorithm compute, in addition to the gcd of two numbers?",
+            "q": "For f(x) = 3x^5 - x^2, as x → -∞, f(x) → ?",
             "options": [
-              "The integer coefficients x and y satisfying Bézout’s identity",
-              "The average of the two numbers being compared",
-              "The exact prime factorization of both numbers",
-              "A concept unrelated to Bézout’s identity"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Using the extended Euclidean algorithm on a = 99 and b = 78, what is gcd(99, 78)?",
-            "options": [
-              "3",
-              "9",
-              "21",
-              "6"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Continuing that example, which of the following is a valid Bézout combination expressing gcd(99, 78) = 3?",
-            "options": [
-              "1(99) + 1(78) = 3",
-              "−11(99) + 14(78) = 3",
-              "3(99) − 2(78) = 3",
-              "A concept unrelated to Bézout’s identity"
+              "0",
+              "-∞",
+              "undefined",
+              "+∞"
             ],
             "answer": 1
           },
           {
-            "q": "Why is Bézout’s identity foundational to computing modular inverses used in cryptographic algorithms like RSA?",
+            "q": "A polynomial with even degree and a positive leading coefficient has end behaviour where:",
             "options": [
-              "Bézout’s identity has no application to computing any kind of modular inverse",
-              "When gcd(a,b) = 1, the coefficient x in ax + by = 1 gives the modular inverse of a modulo b",
-              "Modular inverses are never required by any cryptographic algorithm",
-              "This concept has no relevance to functions"
+              "both ends fall toward -∞",
+              "the graph oscillates forever",
+              "one end goes each direction",
+              "both ends rise toward +∞"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "What determines the end behaviour of a polynomial function?",
+            "options": [
+              "the number of x-intercepts",
+              "the y-intercept",
+              "the degree and the sign of the leading coefficient",
+              "the constant term only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A polynomial has odd degree and a negative leading coefficient. As x → +∞, f(x) → ?",
+            "options": [
+              "the graph oscillates",
+              "+∞",
+              "-∞",
+              "0"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -24484,60 +24493,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Stirling’s Approximation for Factorials",
-        "summary": "Grade 12 Advanced Functions strand: Stirling’s approximation estimates n! using the square root of 2πn multiplied by (n/e)ⁿ, becoming proportionally more accurate as n grows large, and is widely used in combinatorics and statistical mechanics.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Factor Theorem and Factoring Higher-Degree Polynomials",
+        "summary": "Students apply the Factor Theorem to test possible roots and factor cubic and quartic polynomials fully, distinguishing this technique from the closely related Remainder Theorem.",
+        "resourceLabel": "YouTube: The Factor Theorem and Factoring Higher-Degree Polynomials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Factor%20Theorem%20and%20Factoring%20Higher-Degree%20Polynomials%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does Stirling’s approximation estimate?",
+            "q": "The Factor Theorem states that (x-a) is a factor of P(x) if and only if:",
             "options": [
-              "The exact value of a single prime number",
-              "The slope of a randomly chosen straight line",
-              "The value of a large factorial, n!",
-              "A concept unrelated to functions"
+              "P'(a) = 0",
+              "P(a) = 0",
+              "P(0) = a",
+              "P(a) = a"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is (x-2) a factor of P(x) = x³ - 3x² + 4?",
+            "options": [
+              "No, since P(2) ≠ 0",
+              "Only if x = 2 is the only root",
+              "Yes, since P(2) = 0",
+              "Cannot be determined without dividing"
             ],
             "answer": 2
           },
           {
-            "q": "What is the general form of Stirling’s approximation for n!?",
+            "q": "Given that (x-1) is a factor of P(x) = x³ - 6x² + 11x - 6, factor P(x) completely.",
             "options": [
-              "n multiplied by (n − 1), with no exponential term",
-              "A concept unrelated to Stirling’s approximation",
-              "The square root of n, with no other factors involved",
-              "The square root of 2πn, multiplied by (n/e)ⁿ"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "As n becomes very large, what happens to the relative error of Stirling’s approximation compared to the exact value of n!?",
-            "options": [
-              "It grows without bound, making the approximation increasingly inaccurate",
-              "It remains exactly the same regardless of how large n becomes",
-              "A concept unrelated to Stirling’s approximation",
-              "It shrinks toward zero, meaning the approximation becomes proportionally more accurate"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is Stirling’s approximation particularly useful when working with combinatorial expressions like C(2n, n) for large n?",
-            "options": [
-              "Computing exact factorials for huge values of n is impractical, and the approximation simplifies asymptotic analysis of such expressions",
-              "Stirling’s approximation has no application to any combinatorial expression involving factorials",
-              "This concept has no relevance to functions",
-              "Exact factorial values are always trivial to compute for extremely large values of n"
+              "(x-1)(x-2)(x-3)",
+              "(x+1)(x-2)(x-3)",
+              "(x-1)(x+2)(x+3)",
+              "(x-1)(x-2)(x+3)"
             ],
             "answer": 0
           },
           {
-            "q": "Why might Stirling’s approximation be considered essential in fields like statistical mechanics, where quantities involving huge factorials frequently appear?",
+            "q": "Which value of x is a root of P(x) = x³ - 1?",
             "options": [
-              "Statistical mechanics never involves any calculation requiring a factorial of any size",
-              "This concept has no relevance to functions",
-              "Huge factorials never appear in any calculation related to physical systems",
-              "It allows practical, workable estimates to be made for quantities that would otherwise require computing enormous, unwieldy exact factorials"
+              "1",
+              "2",
+              "-1",
+              "0"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "After using the Factor Theorem to find one factor of a cubic, what technique finds the remaining factors?",
+            "options": [
+              "Graph the polynomial and stop there",
+              "Divide by the known factor to reduce to a quadratic, then factor that quadratic",
+              "Guess all remaining roots randomly",
+              "Take the derivative of the polynomial"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -24726,60 +24736,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Review: Roots, Combinatorics, and Number Theory (Days 91-99)",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit Vieta’s formulas, Cardano’s formula, the pigeonhole principle, RSA encryption, Catalan numbers, the AM-GM inequality, Bézout’s identity, Descartes’ rule of signs, and Stirling’s approximation.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Graphing Polynomial Functions from Factored Form",
+        "summary": "Students sketch polynomial functions given in factored form by identifying x-intercepts, their multiplicities, and end behaviour, without plotting a full table of values.",
+        "resourceLabel": "YouTube: Graphing Polynomial Functions from Factored Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Polynomial%20Functions%20from%20Factored%20Form%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What do Vieta’s formulas relate for a polynomial equation?",
+            "q": "For f(x) = (x-2)²(x+1), what happens at x = 2?",
             "options": [
-              "Only the polynomial’s degree to its number of terms",
-              "The polynomial’s coefficients to sums and products of its roots",
-              "The polynomial’s graph to its colour when plotted",
-              "A concept unrelated to functions"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the pigeonhole principle guarantee when more items are placed into containers than there are containers?",
-            "options": [
-              "No container will ever hold any item at all",
-              "Every container will always hold exactly one item",
-              "A concept unrelated to discrete math",
-              "At least one container must hold more than one item"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of counting problems do Catalan numbers frequently solve?",
-            "options": [
-              "Problems that have no possible numerical solution",
-              "Problems involving only simple, one-step addition",
-              "A concept unrelated to discrete math",
-              "Problems counting valid arrangements like balanced parentheses or binary tree shapes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does Bézout’s identity guarantee about the gcd of two integers a and b?",
-            "options": [
-              "It can be written as an integer linear combination ax + by of a and b",
-              "A concept unrelated to number theory",
-              "It can never be expressed using either a or b",
-              "It is always exactly equal to zero"
+              "the graph touches the x-axis and turns around",
+              "the graph crosses the x-axis",
+              "there is a vertical asymptote",
+              "the graph does not touch the x-axis"
             ],
             "answer": 0
           },
           {
-            "q": "What does Stirling’s approximation estimate?",
+            "q": "For f(x) = (x-2)²(x+1), what happens at x = -1?",
             "options": [
-              "The exact value of a single prime number",
-              "The slope of a randomly chosen straight line",
-              "The value of a large factorial, n!",
-              "A concept unrelated to functions"
+              "there is a vertical asymptote",
+              "there is a hole",
+              "the graph touches and turns",
+              "the graph crosses the x-axis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "At most how many x-intercepts, counting multiplicity, can a degree-4 polynomial have?",
+            "options": [
+              "4",
+              "5",
+              "2",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For f(x) = (x+3)³(x-1), what happens at x = -3?",
+            "options": [
+              "there is no intercept there",
+              "there is a vertical asymptote",
+              "the graph crosses with a flattened shape (odd multiplicity 3)",
+              "the graph touches and turns (even multiplicity)"
             ],
             "answer": 2
+          },
+          {
+            "q": "What is the y-intercept of f(x) = (x-2)(x+1)(x-3)?",
+            "options": [
+              "5",
+              "6",
+              "0",
+              "-6"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -24969,63 +24980,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Wilson’s Theorem and Primality",
-        "summary": "Grade 12 Advanced Functions strand: Wilson’s theorem states that a number p greater than 1 is prime if and only if (p−1)! is congruent to −1 modulo p, giving an elegant, if impractical, characterization of primality using factorials.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Vertical and Horizontal Asymptotes",
+        "summary": "Students determine the vertical and horizontal asymptotes of rational functions by analyzing the factored numerator and denominator and comparing their degrees.",
+        "resourceLabel": "YouTube: Rational Functions: Vertical and Horizontal Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Vertical%20and%20Horizontal%20Asymptotes%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does Wilson’s theorem state about (p−1)! for a prime p?",
+            "q": "For f(x) = 1/(x-3), what is the vertical asymptote?",
             "options": [
-              "(p−1)! is congruent to 1 (mod p) for every prime p",
-              "(p−1)! is always exactly equal to p",
-              "(p−1)! is congruent to −1 (mod p)",
-              "A concept unrelated to number theory"
+              "x = -3",
+              "x = 0",
+              "x = 3",
+              "y = 3"
             ],
             "answer": 2
           },
           {
-            "q": "What is 4! mod 5?",
+            "q": "For f(x) = (2x²+1)/(x²-4), what is the horizontal asymptote?",
             "options": [
-              "1",
-              "24",
-              "4",
-              "0"
+              "y = 2",
+              "y = 1",
+              "y = 0",
+              "there is no horizontal asymptote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For f(x) = (x+1)/(x²-9), what is the horizontal asymptote?",
+            "options": [
+              "there is no horizontal asymptote",
+              "y = 1",
+              "y = -9",
+              "y = 0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For f(x) = (x²+1)/(x-2), what kind of asymptote does the graph have, given numerator degree exceeds denominator degree by 1?",
+            "options": [
+              "an oblique (slant) asymptote",
+              "a horizontal asymptote y = 0",
+              "no asymptote at all",
+              "a horizontal asymptote y = 1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For f(x) = (x+5)/((x-1)(x+4)), where do the vertical asymptotes occur?",
+            "options": [
+              "x = -1 and x = 4",
+              "x = -5 only",
+              "x = 1 and x = -4",
+              "x = 1 and x = 4"
             ],
             "answer": 2
-          },
-          {
-            "q": "What is 6! mod 7?",
-            "options": [
-              "0",
-              "6",
-              "1",
-              "7"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is Wilson’s theorem rarely used as a practical primality test for large numbers?",
-            "options": [
-              "This concept has no connection to number theory",
-              "Wilson’s theorem is never true for any prime number",
-              "Computing (n−1)! becomes computationally infeasible for large n, even though the theorem is exact",
-              "Factorials can always be computed instantly regardless of size"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The converse of Wilson’s theorem also holds: if (n−1)! is congruent to −1 (mod n), then n must be prime. Why is this converse significant?",
-            "options": [
-              "This concept has no relevance to number theory",
-              "It shows the congruence is a genuine if-and-only-if characterization of primality, not just a one-way implication",
-              "The converse of Wilson’s theorem is always false for every integer n",
-              "Primality can never be characterized using any modular congruence"
-            ],
-            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -26437,63 +26448,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Graph Colouring and the Chromatic Number",
-        "summary": "Grade 12 Advanced Functions strand: graph colouring assigns colours to a graph’s vertices so that no two adjacent vertices share the same colour, and the chromatic number is the fewest colours needed to achieve this, with applications ranging from scheduling to map colouring.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Points of Discontinuity and Removable Holes",
+        "summary": "Students distinguish removable discontinuities (holes) from vertical asymptotes in rational functions by identifying common factors in the numerator and denominator.",
+        "resourceLabel": "YouTube: Rational Functions: Points of Discontinuity and Removable Holes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Points%20of%20Discontinuity%20and%20Removable%20Holes%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What condition must a valid vertex colouring of a graph satisfy?",
+            "q": "For f(x) = (x-3)(x+2)/(x-3), what type of discontinuity occurs at x = 3?",
             "options": [
-              "Every vertex in the graph must be assigned exactly the same colour",
-              "Only vertices with no edges at all are permitted to be coloured",
-              "No two adjacent vertices may share the same colour",
-              "A concept unrelated to discrete math"
+              "a horizontal asymptote",
+              "a vertical asymptote",
+              "a hole",
+              "there is no discontinuity"
             ],
             "answer": 2
           },
           {
-            "q": "What does the chromatic number of a graph represent?",
+            "q": "What is the y-coordinate of the hole in f(x) = (x-3)(x+2)/(x-3) at x = 3?",
             "options": [
-              "The fewest number of colours needed to validly colour the graph’s vertices",
-              "The number of vertices located at the very centre of the graph",
-              "The exact total number of edges contained in the graph",
-              "A concept unrelated to graph colouring"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the chromatic number of a triangle (three vertices, each pair connected by an edge)?",
-            "options": [
+              "0",
+              "there is no numeric y-value",
               "3",
-              "1",
-              "4",
-              "2"
+              "5"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is the chromatic number of a simple cycle with 4 vertices (a square, where each vertex connects to its two neighbours)?",
+            "q": "For g(x) = (x²-1)/(x-1), the simplified form and discontinuity are:",
             "options": [
-              "3",
-              "2",
-              "4",
-              "1"
+              "x²-1, unchanged",
+              "x-1, with an asymptote at x = 1",
+              "x+1, with an asymptote at x = 1",
+              "x+1, with a hole at x = 1"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is graph colouring a natural mathematical model for a scheduling problem, such as assigning exam time slots so that no student has two exams at once?",
+            "q": "A hole occurs in a rational function's graph when:",
             "options": [
-              "Graph colouring has no meaningful application to any real-world scheduling problem",
-              "Representing exams as vertices and connecting those that share a student with an edge means a valid colouring assigns each exam a time slot with no conflicts",
-              "Scheduling problems can never be represented using vertices, edges, or colours of any kind",
-              "This concept has no relevance to discrete math"
+              "the denominator's degree exceeds the numerator's degree",
+              "the numerator equals zero for all x",
+              "a factor cancels between the numerator and denominator",
+              "the function is undefined for all x"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "For h(x) = (x+4)(x-5) / [(x+4)(x+1)], what occurs at x = -4?",
+            "options": [
+              "an x-intercept",
+              "a horizontal asymptote",
+              "a vertical asymptote",
+              "a hole, since the factor (x+4) cancels"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Calculus",
@@ -26680,63 +26691,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Symmetric Functions and Elementary Symmetric Polynomials",
-        "summary": "Grade 12 Advanced Functions strand: an elementary symmetric polynomial in the roots of a polynomial, such as the sum of the roots or the sum of products of pairs of roots, remains unchanged under any permutation of those roots, directly matching the coefficients described by Vieta’s formulas.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Polynomial Inequalities Using Sign Analysis",
+        "summary": "Students solve polynomial inequalities by finding the zeros of the related polynomial, dividing the number line into intervals, and testing the sign of the polynomial in each interval.",
+        "resourceLabel": "YouTube: Solving Polynomial Inequalities Using Sign Analysis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Polynomial%20Inequalities%20Using%20Sign%20Analysis%20grade%2012%20educational",
+        "topic": "Equations & Inequalities",
         "quiz": [
           {
-            "q": "What defining property does a symmetric function of a polynomial’s roots have?",
+            "q": "To solve (x-2)(x+3) > 0, what are the critical values?",
             "options": [
-              "A concept unrelated to functions",
-              "Its value is unchanged under any permutation (reordering) of the roots",
-              "Its value changes completely with any reordering of the roots",
-              "It is defined using only a single root, with no reference to the others"
+              "x = 0",
+              "x = 2 and x = -3",
+              "x = 2 only",
+              "x = -3 only"
             ],
             "answer": 1
           },
           {
-            "q": "For a cubic with roots r, s, and t, which of the following is the first elementary symmetric polynomial?",
+            "q": "What is the solution set of (x-2)(x+3) > 0?",
             "options": [
-              "r + s + t",
-              "A concept unrelated to symmetric polynomials",
-              "r · s · t",
-              "r² + s² + t²"
+              "x < -3 only",
+              "x < -3 or x > 2",
+              "x > 2 only",
+              "-3 < x < 2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve x² - 4 ≤ 0.",
+            "options": [
+              "-2 ≤ x ≤ 2",
+              "-2 < x < 2",
+              "x ≥ 2",
+              "x ≤ -2 or x ≥ 2"
             ],
             "answer": 0
           },
           {
-            "q": "For the roots r = 1, s = 2, t = 3, what is the second elementary symmetric polynomial, rs + rt + st?",
+            "q": "For the inequality x³ - x < 0, written as x(x-1)(x+1) < 0, what are the critical points?",
             "options": [
-              "6",
-              "14",
-              "11",
-              "9"
+              "x = -1 and x = 1 only",
+              "x = -1, 0, 1",
+              "x = 1 only",
+              "x = 0 only"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is r² + s² + t² considered a symmetric function of the roots, even though it is not one of the elementary symmetric polynomials itself?",
+            "q": "When solving a polynomial inequality by sign analysis, why do you test a value in each interval between the zeros?",
             "options": [
-              "Only the elementary symmetric polynomials are ever considered symmetric functions of any kind",
-              "This concept has no connection to functions",
-              "Its value is still unchanged by any reordering of r, s, and t, satisfying the defining property of a symmetric function, even though it is a different specific expression",
-              "It fails to be a symmetric function because its value changes depending on how the roots are ordered"
+              "Because polynomials never repeat signs across intervals",
+              "Because zeros of a polynomial are always positive",
+              "Because the sign of the polynomial can only change at its zeros, so each interval has one consistent sign",
+              "Because only the leading coefficient determines every interval's sign"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is it useful that r² + s² + t² can be rewritten entirely in terms of elementary symmetric polynomials, specifically as (r+s+t)² − 2(rs+rt+st)?",
-            "options": [
-              "It allows this quantity to be computed directly from a polynomial’s coefficients via Vieta’s formulas, without first having to find the individual roots",
-              "This concept has no relevance to functions",
-              "This rewriting can never be used to compute anything about the original polynomial’s coefficients",
-              "Elementary symmetric polynomials have no mathematical relationship to expressions like r² + s² + t²"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Calculus",
@@ -27413,63 +27424,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Goldbach Conjecture",
-        "summary": "Grade 12 Advanced Functions strand: the Goldbach Conjecture proposes that every even integer greater than 2 can be expressed as the sum of two prime numbers, a statement verified for enormous numbers but still unproven in general.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Factoring Sums and Differences of Cubes",
+        "summary": "Students learn and apply the sum-of-cubes and difference-of-cubes factoring patterns to fully factor cubic binomials.",
+        "resourceLabel": "YouTube: Factoring Sums and Differences of Cubes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Factoring%20Sums%20and%20Differences%20of%20Cubes%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does the Goldbach Conjecture propose?",
+            "q": "The factoring pattern for a³ + b³ is:",
             "options": [
-              "Every odd integer can be written as the sum of two primes",
-              "No even number can ever be written as a sum of primes",
-              "All prime numbers are even",
-              "Every even integer greater than 2 can be written as the sum of two primes"
+              "(a+b)(a²+ab+b²)",
+              "(a+b)³",
+              "(a+b)(a²-ab+b²)",
+              "(a-b)(a²+ab+b²)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The factoring pattern for a³ - b³ is:",
+            "options": [
+              "(a-b)(a²+ab+b²)",
+              "(a-b)³",
+              "(a+b)(a²-ab+b²)",
+              "(a-b)(a²-ab+b²)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Factor x³ + 27 completely.",
+            "options": [
+              "(x+3)³",
+              "(x-3)(x²+3x+9)",
+              "(x+3)(x²+3x+9)",
+              "(x+3)(x²-3x+9)"
             ],
             "answer": 3
           },
           {
-            "q": "Has the Goldbach Conjecture been proven for all even numbers?",
+            "q": "Factor 8x³ - 1 completely.",
             "options": [
-              "It has been disproven completely",
-              "No, it remains unproven in general despite extensive verification",
-              "Yes, it was proven centuries ago",
-              "It only applies to numbers less than ten"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which even number is the smallest example the conjecture applies to?",
-            "options": [
-              "4 (which equals 2 + 2)",
-              "2",
-              "0",
-              "1"
+              "(2x-1)(4x²+2x+1)",
+              "(2x-1)(4x²-2x+1)",
+              "(2x+1)(4x²-2x+1)",
+              "(2x-1)³"
             ],
             "answer": 0
           },
           {
-            "q": "What field of mathematics does the Goldbach Conjecture belong to?",
+            "q": "The mnemonic 'SOAP' for the sign pattern in cube factoring stands for:",
             "options": [
-              "Number theory",
-              "Statistics",
-              "Trigonometry",
-              "Geometry"
+              "Subtract, Overlap, Add, Prove",
+              "Square, Order, Add, Product",
+              "Sum, Only, Add, Product",
+              "Same, Opposite, Always Positive"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the Goldbach Conjecture considered a famous unsolved problem?",
-            "options": [
-              "Mathematicians have shown it to be false",
-              "It has no connection to prime numbers",
-              "It has been tested extensively for huge numbers with no exception found, yet no general proof exists",
-              "It was easily solved using basic arithmetic"
-            ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -27656,63 +27667,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Twin Prime Conjecture",
-        "summary": "Grade 12 Advanced Functions strand: the Twin Prime Conjecture proposes that there are infinitely many pairs of prime numbers that differ by exactly two, such as 11 and 13, a claim still unproven despite significant progress by mathematicians.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Average Rate of Change Over an Interval",
+        "summary": "Students calculate the average rate of change of a function over a given interval using the slope of the secant line, and interpret the result in context.",
+        "resourceLabel": "YouTube: Average Rate of Change Over an Interval",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Average%20Rate%20of%20Change%20Over%20an%20Interval%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does the Twin Prime Conjecture propose?",
+            "q": "The average rate of change of f over [a,b] is given by:",
             "options": [
-              "There are infinitely many pairs of primes that differ by exactly two",
-              "There are only a finite number of prime numbers in total",
-              "Every prime number has exactly one twin",
-              "No two prime numbers can ever differ by two"
+              "(f(b)-f(a))/(b-a)",
+              "f(b) - f(a)",
+              "f(b)/f(a)",
+              "(f(a)-f(b))/(b-a)"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these is an example of twin primes?",
+            "q": "For f(x) = x², find the average rate of change over [1,3].",
             "options": [
-              "2 and 7",
-              "11 and 13",
-              "9 and 12",
-              "4 and 6"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Has the Twin Prime Conjecture been proven?",
-            "options": [
-              "It only applies to numbers less than 100",
-              "Yes, it was proven centuries ago",
-              "No, it remains unproven despite significant mathematical progress",
-              "It has been definitively disproven"
+              "2",
+              "8",
+              "4",
+              "6"
             ],
             "answer": 2
           },
           {
-            "q": "What field of mathematics does the Twin Prime Conjecture belong to?",
+            "q": "The average rate of change of a function over an interval corresponds geometrically to:",
             "options": [
-              "Financial mathematics",
-              "Number theory",
-              "Geometry",
-              "Trigonometry"
+              "the slope of the secant line through the two endpoints",
+              "the maximum value on the interval",
+              "the y-intercept of the function",
+              "the slope of the tangent line at one endpoint"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For f(x) = 2x³, find the average rate of change over [0,2].",
+            "options": [
+              "2",
+              "8",
+              "16",
+              "4"
             ],
             "answer": 1
           },
           {
-            "q": "Why do mathematicians find the Twin Prime Conjecture compelling?",
+            "q": "A car travels 150 km in 3 hours. What is the average rate of change of distance with respect to time?",
             "options": [
-              "It was already fully solved using basic algebra",
-              "Prime numbers become more common as numbers increase, disproving the idea entirely",
-              "It has no connection to prime numbers whatsoever",
-              "It reveals a simple yet deeply unresolved pattern within the prime numbers"
+              "3 km/h",
+              "150 km/h",
+              "450 km/h",
+              "50 km/h"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -27901,63 +27912,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Pells Equation",
-        "summary": "Grade 12 Advanced Functions strand: Pells equation is a Diophantine equation of the form x^2 - Dy^2 = 1, where D is a non-square positive integer, and finding integer solutions connects number theory to continued fractions.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Instantaneous Rate of Change and the Difference Quotient",
+        "summary": "Students estimate the instantaneous rate of change of a function at a point by evaluating the difference quotient for progressively smaller intervals, previewing the concept of a derivative.",
+        "resourceLabel": "YouTube: Instantaneous Rate of Change and the Difference Quotient",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Instantaneous%20Rate%20of%20Change%20and%20the%20Difference%20Quotient%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What is the general form of Pells equation?",
+            "q": "The difference quotient for a function f is defined as:",
             "options": [
-              "xy = D",
-              "x^2 + y^2 = D",
-              "x + y = D",
-              "x^2 - Dy^2 = 1"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What type of number must D be in Pells equation for it to have interesting solutions?",
-            "options": [
-              "Always exactly zero",
-              "A non-square positive integer",
-              "Always a negative fraction",
-              "Always equal to one"
+              "[f(x) - f(x+h)] / h",
+              "[f(x+h) - f(x)] / h",
+              "f(x+h) - f(x)",
+              "[f(x+h) + f(x)] / h"
             ],
             "answer": 1
           },
           {
-            "q": "What kind of solutions are sought when solving Pells equation?",
+            "q": "The instantaneous rate of change at a point is estimated by taking the difference quotient and:",
             "options": [
-              "Only solutions involving imaginary numbers",
-              "No solutions are ever sought",
-              "Integer solutions for x and y",
-              "Only solutions equal to zero"
+              "letting h approach 0",
+              "letting x approach 0",
+              "letting h approach infinity",
+              "setting h = 1"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What earlier mathematical concept is closely connected to solving Pells equation?",
+            "q": "For f(x) = x², the simplified difference quotient [f(x+h)-f(x)]/h equals:",
             "options": [
-              "Basic multiplication tables",
-              "The Pythagorean theorem",
-              "Continued fractions",
-              "Simple linear graphing"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Pells equation is an example of which broader category of equation?",
-            "options": [
-              "An equation with no real-world mathematical significance",
-              "A linear equation with a single unknown",
-              "A simple percentage calculation",
-              "A Diophantine equation, which seeks integer solutions"
+              "2x",
+              "x + h",
+              "h",
+              "2x + h"
             ],
             "answer": 3
+          },
+          {
+            "q": "For f(x) = x², what is the instantaneous rate of change at x = 3, found by letting h → 0 in 2x + h?",
+            "options": [
+              "9",
+              "6",
+              "3",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the difference quotient approximate the instantaneous rate of change as h gets small?",
+            "options": [
+              "The secant line through (x,f(x)) and (x+h,f(x+h)) approaches the tangent line at x as h → 0",
+              "h must equal zero to compute any rate",
+              "Smaller h always increases the function's value",
+              "Average and instantaneous rates are always exactly equal"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -28146,63 +28157,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Fermats Last Theorem — A Historical Overview",
-        "summary": "Grade 12 Advanced Functions strand: Fermats Last Theorem states that no three positive integers a, b, and c can satisfy a^n + b^n = c^n for any integer value of n greater than 2, a claim that remained unproven for over 350 years until Andrew Wiles solved it in 1994.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Composition of Functions",
+        "summary": "Students form and evaluate composite functions f(g(x)) and g(f(x)), and determine the domain of the resulting composite function.",
+        "resourceLabel": "YouTube: Composition of Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composition%20of%20Functions%20grade%2012%20educational",
+        "topic": "Functions",
         "quiz": [
           {
-            "q": "What does Fermats Last Theorem state?",
+            "q": "If f(x) = x+2 and g(x) = x², find f(g(3)).",
             "options": [
-              "All positive integers satisfy this equation for any value of n",
-              "The equation only has solutions when n equals 1",
-              "No three positive integers can satisfy a^n + b^n = c^n for n greater than 2",
-              "Every equation of this form has infinitely many solutions"
+              "9",
+              "11",
+              "5",
+              "25"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) = x+2 and g(x) = x², find g(f(3)).",
+            "options": [
+              "7",
+              "11",
+              "25",
+              "9"
             ],
             "answer": 2
           },
           {
-            "q": "Roughly how long did Fermats Last Theorem remain unproven?",
+            "q": "If f(x) = √x and g(x) = x-4, find (f∘g)(x).",
             "options": [
-              "It has never been proven at all",
-              "Less than one year",
-              "Only a few days",
-              "Over 350 years"
+              "x - 4 - √x",
+              "√x - 4",
+              "√x · (x-4)",
+              "√(x-4)"
             ],
             "answer": 3
           },
           {
-            "q": "Who finally proved Fermats Last Theorem?",
+            "q": "What is the domain of (f∘g)(x) = √(x-4) from the previous question?",
             "options": [
-              "Pythagoras",
-              "Isaac Newton",
-              "Andrew Wiles",
-              "Leonhard Euler"
+              "x ≤ 4",
+              "x ≥ 0",
+              "all real numbers",
+              "x ≥ 4"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "In what year was Fermats Last Theorem finally proven?",
+            "q": "Is f(g(x)) always equal to g(f(x)) for arbitrary functions f and g?",
             "options": [
-              "1994",
-              "2020",
-              "1850",
-              "1700"
+              "No, function composition is generally not commutative",
+              "Only for linear functions",
+              "Yes, always",
+              "Only for quadratic functions"
             ],
             "answer": 0
-          },
-          {
-            "q": "Why is Fermats Last Theorem considered one of the most famous problems in mathematics?",
-            "options": [
-              "It applies only to a single specific value of a, b, and c",
-              "It has no historical significance in mathematics",
-              "Its simple statement contrasted sharply with the extreme difficulty of proving it",
-              "It was proven within days of being proposed"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -28390,60 +28401,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Collatz Conjecture",
-        "summary": "Grade 12 Advanced Functions strand: the Collatz Conjecture proposes that starting from any positive integer and repeatedly applying a simple rule (halve if even, triple and add one if odd) will always eventually reach the number 1, though this remains unproven.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Inverse Functions: Finding and Graphing f⁻¹(x)",
+        "summary": "Students find the inverse of a function algebraically by swapping x and y and solving, and graph the inverse as a reflection of the original function in the line y = x.",
+        "resourceLabel": "YouTube: Inverse Functions: Finding and Graphing f⁻¹(x)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Inverse%20Functions%3A%20Finding%20and%20Graphing%20f%E2%81%BB%C2%B9%28x%29%20grade%2012%20educational",
+        "topic": "Functions",
         "quiz": [
           {
-            "q": "What rule does the Collatz Conjecture apply to a number?",
+            "q": "The graph of f⁻¹(x) is the reflection of the graph of f(x) in the line:",
             "options": [
-              "Always subtract one, regardless of the number",
-              "Always add one, regardless of the number",
-              "Always multiply by two, regardless of the number",
-              "Halve it if even, triple it and add one if odd"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to the Collatz Conjecture, where does this process always eventually lead?",
-            "options": [
-              "The number 1",
-              "A negative number",
-              "A number that increases forever with no end",
-              "The number 0"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Has the Collatz Conjecture been proven for all positive integers?",
-            "options": [
-              "It has been shown to be false for most numbers",
-              "It only applies to numbers less than five",
-              "No, it remains unproven despite extensive computational verification",
-              "Yes, it was proven immediately when first proposed"
+              "x = 0",
+              "y = 0",
+              "y = x",
+              "y = -x"
             ],
             "answer": 2
           },
           {
-            "q": "What happens when you apply the Collatz rule to the number 6?",
+            "q": "Find the inverse of f(x) = 2x + 6.",
             "options": [
-              "It becomes 0 immediately",
-              "It becomes 12, by doubling instead of halving",
-              "It becomes 19, since 6 is treated as odd",
-              "It becomes 3, since 6 is even"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Collatz Conjecture is a well-known example of ___.",
-            "options": [
-              "A simply stated mathematical problem that remains famously difficult to prove",
-              "A basic arithmetic fact proven in elementary school",
-              "A theorem with no connection to number sequences",
-              "An equation with a known, published counterexample"
+              "f⁻¹(x) = (x-6)/2",
+              "f⁻¹(x) = (x+6)/2",
+              "f⁻¹(x) = 2x-6",
+              "f⁻¹(x) = (x-2)/6"
             ],
             "answer": 0
+          },
+          {
+            "q": "For a function's inverse to also be a function, f must be:",
+            "options": [
+              "one-to-one (pass the horizontal line test)",
+              "even",
+              "increasing everywhere and nothing else",
+              "continuous only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If f(3) = 7, what is f⁻¹(7)?",
+            "options": [
+              "-3",
+              "7",
+              "3",
+              "1/7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Find the inverse of f(x) = x³ + 1.",
+            "options": [
+              "f⁻¹(x) = (x-1)³",
+              "f⁻¹(x) = ∛(x+1)",
+              "f⁻¹(x) = ∛x - 1",
+              "f⁻¹(x) = ∛(x-1)"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -28633,63 +28645,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Gaussian Integers and Complex Factorization",
-        "summary": "Grade 12 Advanced Functions strand: Gaussian integers are complex numbers of the form a+bi, where a and b are integers, forming a number system in which certain primes can be factored further than they can within the ordinary integers.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Combining Functions: Graphing Sums and Products",
+        "summary": "Students sketch the graph of the sum or product of two functions by graphically adding or multiplying the corresponding y-values of the original graphs at each x-value.",
+        "resourceLabel": "YouTube: Combining Functions: Graphing Sums and Products",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Combining%20Functions%3A%20Graphing%20Sums%20and%20Products%20grade%2012%20educational",
+        "topic": "Functions",
         "quiz": [
           {
-            "q": "What is a Gaussian integer?",
+            "q": "To graph y = f(x) + g(x) from the graphs of f and g, at each x-value you:",
             "options": [
-              "A complex number of the form a+bi, where a and b are integers",
-              "Only a whole number with no imaginary part",
-              "A number with no defined value",
-              "Only a fraction between zero and one"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What can happen to certain prime numbers when working within the Gaussian integers?",
-            "options": [
-              "They always remain completely unfactorable",
-              "They cease to be numbers entirely",
-              "They automatically become negative numbers",
-              "They can be factored further than within the ordinary integers"
+              "multiply the y-values of f and g at that x",
+              "add the x-values of f and g",
+              "average the y-values of f and g at that x",
+              "add the y-values of f and g at that x"
             ],
             "answer": 3
           },
           {
-            "q": "Which of these is an example of a Gaussian integer?",
+            "q": "If f(2) = 3 and g(2) = -1, what is (f+g)(2)?",
             "options": [
-              "Only the number pi",
-              "Only a percentage value",
-              "3 + 2i",
-              "Only a negative fraction"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Gaussian integers extend which more familiar number system?",
-            "options": [
-              "Only negative decimals",
-              "The ordinary integers",
-              "Only fractions between zero and one",
-              "Only irrational numbers"
+              "4",
+              "2",
+              "-3",
+              "-2"
             ],
             "answer": 1
           },
           {
-            "q": "Studying Gaussian integers connects number theory to which other branch of mathematics?",
+            "q": "If f(x) = x and g(x) = x², what is (fg)(x)?",
             "options": [
-              "Elementary statistics",
-              "Basic geometry with no complex numbers",
-              "Complex numbers",
-              "Simple financial mathematics"
+              "x^4",
+              "x³",
+              "2x²",
+              "x² + x"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "At an x-value where f(x) = 0, the product function (fg)(x) will:",
+            "options": [
+              "also equal 0",
+              "equal g(x)",
+              "reach a maximum",
+              "be undefined"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If f(1) = 5 and g(1) = 5, what is (f-g)(1)?",
+            "options": [
+              "0",
+              "5",
+              "10",
+              "25"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Integers"
+        ]
       },
       {
         "subject": "Calculus",
@@ -28878,63 +28890,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Prime Number Theorem",
-        "summary": "Grade 12 Advanced Functions strand: the Prime Number Theorem describes the approximate distribution of prime numbers, stating that the number of primes less than a given number n is approximately n divided by the natural logarithm of n.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Domain and Range of Combined and Composite Functions",
+        "summary": "Students determine the domain of sum, product, quotient, and composite functions by considering the domains of the original functions and any new restrictions introduced, such as division by zero.",
+        "resourceLabel": "YouTube: Domain and Range of Combined and Composite Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Domain%20and%20Range%20of%20Combined%20and%20Composite%20Functions%20grade%2012%20educational",
+        "topic": "Functions",
         "quiz": [
           {
-            "q": "What does the Prime Number Theorem describe?",
+            "q": "The domain of (f+g)(x) is generally:",
             "options": [
-              "A method for factoring any polynomial",
-              "A rule for solving quadratic equations",
-              "The exact location of every prime number",
-              "The approximate distribution of prime numbers"
+              "always all real numbers",
+              "the union of the domains of f and g",
+              "the intersection of the domains of f and g",
+              "the domain of f only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For (f/g)(x), an additional domain restriction is needed wherever:",
+            "options": [
+              "f(x) = g(x)",
+              "g(x) = 0",
+              "x = 0",
+              "f(x) = 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) = √x (domain x ≥ 0) and g(x) = x+3 (domain all reals), what is the domain of (f+g)(x)?",
+            "options": [
+              "all real numbers",
+              "x > 0",
+              "x ≥ 0",
+              "x ≥ -3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The domain of the composite (f∘g)(x) consists of all x in the domain of g such that:",
+            "options": [
+              "f(x) is in the domain of g",
+              "g(x) is in the domain of f",
+              "x is in the domain of f",
+              "g(x) = 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For f(x) = 1/(x-2) and g(x) = x, what is the domain of (f/g)(x)?",
+            "options": [
+              "all real numbers",
+              "x ≠ 2 only",
+              "x ≠ 0 only",
+              "x ≠ 0 and x ≠ 2"
             ],
             "answer": 3
-          },
-          {
-            "q": "According to the theorem, the number of primes less than n is approximately equal to ___.",
-            "options": [
-              "n multiplied by 2",
-              "The square root of n",
-              "n divided by the natural logarithm of n",
-              "A fixed constant, regardless of n"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "As numbers get larger, what generally happens to the density of prime numbers?",
-            "options": [
-              "Primes become relatively less frequent, though still infinite in number",
-              "Prime density remains exactly constant forever",
-              "Primes become increasingly more frequent with no limit",
-              "The number of primes suddenly stops entirely"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Prime Number Theorem connects number theory to which mathematical function?",
-            "options": [
-              "The sine function",
-              "The tangent function",
-              "The natural logarithm",
-              "The absolute value function"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Prime Number Theorem considered an important result in mathematics?",
-            "options": [
-              "It gives mathematicians a way to estimate how primes are distributed among all integers",
-              "It proves that no prime numbers exist beyond a certain point",
-              "It only applies to even numbers",
-              "It has no connection to prime numbers at all"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -29369,63 +29381,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Zeckendorfs Theorem and Fibonacci Representations",
-        "summary": "Grade 12 Advanced Functions strand: Zeckendorfs Theorem states that every positive integer can be represented uniquely as a sum of non-consecutive Fibonacci numbers, connecting the Fibonacci sequence to a distinctive form of number representation.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rates of Change of Exponential Functions",
+        "summary": "Students investigate how the average rate of change of an exponential function itself grows exponentially, contrasting this behaviour with the linear pattern of change seen in polynomial functions.",
+        "resourceLabel": "YouTube: Rates of Change of Exponential Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rates%20of%20Change%20of%20Exponential%20Functions%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What does Zeckendorfs Theorem state?",
+            "q": "For f(x) = 2^x, the average rate of change over [0,1] is 1 and over [3,4] is 8. What does this show?",
             "options": [
-              "No integer can ever be represented using Fibonacci numbers",
-              "Every positive integer can be uniquely represented as a sum of non-consecutive Fibonacci numbers",
-              "Only even numbers can be represented using Fibonacci numbers",
-              "Every integer has infinitely many different Fibonacci representations"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What restriction does Zeckendorfs Theorem place on the Fibonacci numbers used?",
-            "options": [
-              "There is no restriction on which Fibonacci numbers can be used",
-              "Only even-indexed Fibonacci numbers may be used",
-              "They must be non-consecutive Fibonacci numbers",
-              "They must always be consecutive Fibonacci numbers"
+              "The average rate of change is always 1",
+              "The average rate of change decreases as x increases",
+              "The average rate of change increases as x increases",
+              "The average rate of change is constant"
             ],
             "answer": 2
           },
           {
-            "q": "What earlier sequence does Zeckendorfs Theorem rely on?",
+            "q": "For an exponential growth function, the average rate of change over intervals of the same width:",
             "options": [
-              "The Fibonacci sequence",
-              "The sequence of perfect squares",
-              "The sequence of even numbers only",
-              "The sequence of prime numbers"
+              "is always zero",
+              "is always negative",
+              "stays exactly the same everywhere",
+              "grows proportionally with the function's value"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is the uniqueness of the Zeckendorf representation notable?",
+            "q": "For f(x) = 3^x, find the average rate of change over [1,2].",
             "options": [
-              "It means there are infinitely many valid representations for every integer",
-              "It means there is exactly one valid non-consecutive Fibonacci sum for each positive integer",
-              "It means no representation exists for most integers",
-              "Uniqueness has no mathematical significance in this context"
+              "3",
+              "9",
+              "6",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the rate of change of an exponential growth function compare to a linear function over the long run?",
+            "options": [
+              "They are always equal",
+              "The exponential's rate of change eventually exceeds the linear's, no matter how steep the line",
+              "The linear function's rate always exceeds the exponential's",
+              "Neither has a defined rate of change"
             ],
             "answer": 1
           },
           {
-            "q": "Zeckendorfs Theorem is an example of connecting number theory to ___.",
+            "q": "For g(x) = 100(0.5)^x, as x increases, the magnitude of the average rate of change:",
             "options": [
-              "A method used only in basic arithmetic with whole numbers",
-              "A rule with no mathematical basis",
-              "A specific, structured way of representing numbers",
-              "A completely unrelated branch of geometry"
+              "becomes positive",
+              "decreases, approaching 0",
+              "stays constant",
+              "increases without bound"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -29612,60 +29624,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Famous Conjectures and Number Theory",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit the Goldbach Conjecture, the Twin Prime Conjecture, Pells Equation, Fermats Last Theorem, the Collatz Conjecture, Gaussian integers, the Prime Number Theorem, Farey sequences, and Zeckendorfs Theorem.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rates of Change of Polynomial Functions",
+        "summary": "Students examine how the average rate of change of polynomial functions varies across intervals, connecting the pattern of first differences to the degree of the polynomial.",
+        "resourceLabel": "YouTube: Rates of Change of Polynomial Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rates%20of%20Change%20of%20Polynomial%20Functions%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does the Goldbach Conjecture propose?",
+            "q": "For a linear function, the average rate of change between any two points is:",
             "options": [
-              "No even number can ever be written as a sum of primes",
-              "All prime numbers are even",
-              "Every even integer greater than 2 can be written as the sum of two primes",
-              "Every odd integer can be written as the sum of two primes"
+              "always zero",
+              "always increasing",
+              "always decreasing",
+              "always the same (a constant slope)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For f(x) = x², the average rate of change over [x, x+1] simplifies to:",
+            "options": [
+              "x²",
+              "2x",
+              "2x + 1",
+              "x + 1"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of twin primes?",
+            "q": "For a quadratic function, as x increases, its average rate of change over consecutive unit intervals:",
             "options": [
-              "2 and 7",
-              "11 and 13",
-              "9 and 12",
-              "4 and 6"
+              "is always zero",
+              "changes in a linear pattern",
+              "oscillates randomly",
+              "stays exactly constant"
             ],
             "answer": 1
           },
           {
-            "q": "Who finally proved Fermats Last Theorem?",
+            "q": "For f(x) = x³, find the average rate of change over [1,2].",
             "options": [
-              "Isaac Newton",
-              "Leonhard Euler",
-              "Pythagoras",
-              "Andrew Wiles"
+              "8",
+              "9",
+              "7",
+              "1"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "According to the Collatz Conjecture, where does this process always eventually lead?",
+            "q": "Which best describes how average rate of change relates to a polynomial's degree?",
             "options": [
-              "The number 0",
-              "A negative number",
-              "A number that increases forever with no end",
-              "The number 1"
+              "Average rate of change is unrelated to degree",
+              "For a degree-n polynomial, the average rate of change over unit intervals behaves like a degree-(n-1) polynomial in x",
+              "Average rate of change is always degree n",
+              "Average rate of change is always constant regardless of degree"
             ],
-            "answer": 3
-          },
-          {
-            "q": "What does Zeckendorfs Theorem state?",
-            "options": [
-              "Every integer has infinitely many different Fibonacci representations",
-              "No integer can ever be represented using Fibonacci numbers",
-              "Only even numbers can be represented using Fibonacci numbers",
-              "Every positive integer can be uniquely represented as a sum of non-consecutive Fibonacci numbers"
-            ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
@@ -29855,63 +29868,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Carmichael Numbers and Pseudoprimes",
-        "summary": "Grade 12 Advanced Functions strand: a Carmichael number is a composite number that nonetheless satisfies Fermats Little Theorem for every base coprime to it, making it a pseudoprime that can fool simple primality tests.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Exponential Equations with Unlike Bases",
+        "summary": "Students solve exponential equations whose bases cannot be matched by taking the logarithm of both sides and applying the power law, extending beyond the common-base technique.",
+        "resourceLabel": "YouTube: Solving Exponential Equations with Unlike Bases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20with%20Unlike%20Bases%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What is a Carmichael number?",
+            "q": "To solve 5^x = 20 for x, the first useful step is:",
             "options": [
-              "A prime number with no special properties",
-              "A number that is always divisible by two",
-              "A fraction between zero and one",
-              "A composite number that satisfies Fermats Little Theorem for every coprime base"
+              "take the square root of both sides",
+              "set x = 20/5",
+              "take the log of both sides: log(5^x) = log(20)",
+              "divide both sides by 5"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why are Carmichael numbers called pseudoprimes?",
+            "q": "Solve 3^x = 50 using logarithms (round to two decimal places).",
             "options": [
-              "They have no relationship to primality testing",
-              "They can pass certain primality tests despite not actually being prime",
-              "They are always confirmed to be truly prime",
-              "They are only ever equal to zero"
+              "2.5",
+              "3.56",
+              "16.67",
+              "4.19"
             ],
             "answer": 1
           },
           {
-            "q": "Which theorem do Carmichael numbers satisfy despite being composite?",
+            "q": "Solve 7^(x+1) = 100 using logarithms (round to two decimal places).",
             "options": [
-              "Fermats Little Theorem",
-              "The Pythagorean theorem",
-              "The fundamental theorem of algebra",
-              "The binomial theorem"
+              "2.37",
+              "1.37",
+              "3.37",
+              "0.37"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why are Carmichael numbers significant for computer science and cryptography?",
+            "q": "Which law of logarithms allows the exponent x to be brought down as a coefficient when solving a^x = b?",
             "options": [
-              "They reveal limitations of simple primality tests based on Fermats Little Theorem",
-              "They are used only in elementary arithmetic classes",
-              "They have no relevance to computer science at all",
-              "They guarantee that every primality test is completely accurate"
+              "the quotient law",
+              "the Pythagorean identity",
+              "the product law",
+              "the power law: log(a^x) = x log(a)"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What must be true of the base numbers used when testing a Carmichael number against Fermats Little Theorem?",
+            "q": "Solve 2^(3x) = 5 using logarithms (round to two decimal places).",
             "options": [
-              "The base has no requirement whatsoever",
-              "The base must always be an even number",
-              "The base must be coprime to the Carmichael number",
-              "The base must always equal the Carmichael number itself"
+              "0.77",
+              "0.26",
+              "1.16",
+              "2.32"
             ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -30100,60 +30113,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Ackermann Function and Uncomputable Growth",
-        "summary": "Grade 12 Advanced Functions strand: the Ackermann function is a recursively defined function that grows dramatically faster than any exponential or polynomial function, providing a classic example of a function that is computable yet not primitive recursive.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Trigonometric Equations Involving Multiple Angles",
+        "summary": "Students solve trigonometric equations containing multiple angles, such as sin(2θ) or cos(3θ), by adjusting the domain for the substituted variable and finding all resulting solutions.",
+        "resourceLabel": "YouTube: Solving Trigonometric Equations Involving Multiple Angles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Involving%20Multiple%20Angles%20grade%2012%20educational",
+        "topic": "Trigonometry",
         "quiz": [
           {
-            "q": "How is the Ackermann function typically defined?",
+            "q": "To solve sin(2θ) = 1/2 for θ ∈ [0°, 360°), a useful first step is:",
             "options": [
-              "Recursively, using nested applications of itself",
-              "As a simple linear equation",
-              "Only through a lookup table with no formula",
-              "As a function with a fixed, constant output"
+              "divide both sides by 2 immediately",
+              "let u = 2θ, so u ∈ [0°, 720°), then solve sin(u) = 1/2 for u before dividing by 2",
+              "let u = θ/2 and solve directly for θ",
+              "square both sides of the equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using u = 2θ, sin(u) = 1/2 gives u = 30°, 150°, 390°, 510° on [0°,720°). What are the corresponding values of θ?",
+            "options": [
+              "{60°, 300°}",
+              "{15°, 75°, 195°, 255°}",
+              "{30°, 150°, 390°, 510°}",
+              "{15°, 75°}"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many solutions does cos(2θ) = 0 have for θ ∈ [0°, 360°)?",
+            "options": [
+              "4",
+              "2",
+              "8",
+              "1"
             ],
             "answer": 0
           },
           {
-            "q": "How does the growth rate of the Ackermann function compare to exponential functions?",
+            "q": "When solving sin(3θ) = 0 for θ ∈ [0, 2π), why must the domain for u = 3θ be extended?",
             "options": [
-              "It grows more slowly than a linear function",
-              "It grows dramatically faster than exponential or polynomial functions",
-              "It never grows at all",
-              "It grows at exactly the same rate as a constant function"
+              "3θ is always undefined",
+              "As θ ranges over [0,2π), u = 3θ ranges over a proportionally larger interval [0,6π), which captures all solutions",
+              "Sine only has solutions past 2π",
+              "The domain never actually needs adjusting"
             ],
             "answer": 1
           },
           {
-            "q": "What is the Ackermann function a classic example of in computability theory?",
+            "q": "Solve tan(2θ) = 1 for θ ∈ [0°, 180°).",
             "options": [
-              "A function with no mathematical definition",
-              "A function that cannot be computed under any circumstances",
-              "A function that is computable but not primitive recursive",
-              "A function identical to simple addition"
+              "{22.5°, 112.5°}",
+              "{22.5°, 202.5°}",
+              "{45°, 135°}",
+              "{45°, 225°}"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why might the Ackermann function be used to test computer algorithms?",
-            "options": [
-              "It is unrelated to recursion entirely",
-              "Its explosive growth rate stresses recursive computation and memory limits",
-              "It always produces the same small output regardless of input",
-              "It has no practical use in testing computation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The Ackermann function is often introduced alongside which broader topic?",
-            "options": [
-              "Simple linear graphing",
-              "Elementary geometry",
-              "Basic addition facts for young learners",
-              "Recursion and the limits of computable functions"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ]
       },
@@ -30344,63 +30358,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Lambert W Function and Inverse Exponentials",
-        "summary": "Grade 12 Advanced Functions strand: the Lambert W function is defined as the inverse of the function f(w) equals w times e to the power w, providing a way to solve equations in which the unknown appears both inside and outside an exponential expression.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Rational Equations",
+        "summary": "Students solve equations containing rational expressions by clearing denominators using the common denominator, then check all solutions against the original restrictions to rule out extraneous roots.",
+        "resourceLabel": "YouTube: Solving Rational Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Rational%20Equations%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "The Lambert W function is defined as the inverse of which expression?",
+            "q": "Solve 1/x + 1/2 = 1.",
             "options": [
-              "e raised to the power of w squared",
-              "w divided by e",
-              "w plus e",
-              "w times e to the power w"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of equations can the Lambert W function help solve?",
-            "options": [
-              "Only simple linear equations with one term",
-              "Equations where the unknown appears both inside and outside an exponential expression",
-              "Only equations with no exponential component",
-              "Only equations involving whole numbers less than ten"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the Lambert W function considered useful in advanced function study?",
-            "options": [
-              "It only applies to equations with a single constant term",
-              "It eliminates the need for exponential functions entirely",
-              "It extends the toolkit for solving equations that ordinary algebra cannot isolate directly",
-              "It has no practical use in solving equations"
+              "0.5",
+              "1",
+              "2",
+              "-2"
             ],
             "answer": 2
           },
           {
-            "q": "What relationship does the Lambert W function have to the exponential function?",
+            "q": "Solve (x+1)/(x-2) = 3.",
             "options": [
-              "It has no relationship to exponential functions at all",
-              "It is identical to the exponential function in every case",
-              "It acts as an inverse in a specific sense, undoing an expression involving an exponential",
-              "It only applies to logarithms, never exponentials"
+              "2",
+              "7",
+              "3.5",
+              "-3.5"
             ],
             "answer": 2
           },
           {
-            "q": "In which types of real-world problems might the Lambert W function appear?",
+            "q": "Solve 2/(x-1) = 4/(x+1).",
             "options": [
-              "Problems with no variables at all",
-              "Problems involving only whole-number counting",
-              "Problems limited strictly to geometry",
-              "Problems involving growth processes where a variable multiplies its own exponential"
+              "3",
+              "-1",
+              "1",
+              "6"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "Solve x/(x-3) = 3/(x-3) + 2, checking for extraneous solutions.",
+            "options": [
+              "x = 3",
+              "x = 0",
+              "no solution, since x = 3 is extraneous",
+              "x = -3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must solutions to a rational equation be checked against the original equation?",
+            "options": [
+              "Rational equations are always quadratic",
+              "Rational equations never have real solutions",
+              "Multiplying both sides by an expression containing the variable can introduce values that make an original denominator zero",
+              "Cross-multiplication always doubles the number of solutions"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Exponents & Powers"
+        ]
       },
       {
         "subject": "Calculus",
@@ -30590,58 +30604,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Latin Squares and Combinatorial Designs",
-        "summary": "Grade 12 Advanced Functions strand: a Latin square is an n by n grid filled with n different symbols so that each symbol appears exactly once in every row and every column, forming the basis for combinatorial designs used in experiment planning and puzzle construction.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Logarithmic Scales in Science: pH, Richter, and Decibels",
+        "summary": "Students apply logarithmic scale formulas used in real-world measurement, including pH, the Richter scale, and decibels, to compute values and compare quantities that differ by orders of magnitude.",
+        "resourceLabel": "YouTube: Logarithmic Scales in Science: pH, Richter, and Decibels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Scales%20in%20Science%3A%20pH%2C%20Richter%2C%20and%20Decibels%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What defines a Latin square?",
+            "q": "The pH formula is pH = -log[H+]. If [H+] = 1×10⁻⁵ mol/L, what is the pH?",
             "options": [
-              "A grid with only one row and one column",
-              "A triangular arrangement of numbers",
-              "An n by n grid where each symbol appears exactly once in every row and column",
-              "A grid where symbols may repeat freely within a row"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How many times does each symbol appear in a single row of a Latin square?",
-            "options": [
-              "Zero times",
-              "As many times as there are columns",
-              "Exactly twice",
-              "Exactly once"
+              "10",
+              "-5",
+              "1",
+              "5"
             ],
             "answer": 3
           },
           {
-            "q": "What everyday puzzle is closely related to the structure of a Latin square?",
+            "q": "A solution with pH 3 has [H+] concentration how many times greater than a solution with pH 5?",
             "options": [
-              "Word searches",
-              "Crossword puzzles",
-              "Sudoku",
-              "Anagram puzzles"
+              "2 times",
+              "10 times",
+              "100 times",
+              "1000 times"
             ],
             "answer": 2
           },
           {
-            "q": "In what field are Latin squares used to help plan fair experiments?",
+            "q": "On the logarithmic Richter scale, an earthquake of magnitude 6 has how many times the ground-motion amplitude of a magnitude 4 earthquake?",
             "options": [
-              "Statistics and experimental design",
-              "Musical composition",
-              "Basic geometry",
-              "Elementary arithmetic"
+              "200 times",
+              "20 times",
+              "2 times",
+              "100 times"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a researcher use a Latin square design when testing multiple treatments and subjects?",
+            "q": "Decibel level is calculated as dB = 10 log(I/I₀). If I is 1000 times I₀, what is the decibel level?",
             "options": [
-              "They have no use in experimental design",
-              "Latin square designs cannot be used with more than one treatment",
-              "It helps control for confounding factors by balancing treatments across rows and columns",
-              "Latin squares always introduce unnecessary bias"
+              "1000 dB",
+              "3 dB",
+              "300 dB",
+              "30 dB"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are pH, Richter, and decibel scales all logarithmic rather than linear?",
+            "options": [
+              "Because linear scales cannot represent negative numbers",
+              "Because logarithms are easier to compute by hand",
+              "Because the quantities they measure vary over such an enormous range that a logarithmic scale compresses them into a manageable set of numbers",
+              "Because these quantities are always exactly powers of 10"
             ],
             "answer": 2
           }
@@ -30833,63 +30848,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Cauchy Functional Equation",
-        "summary": "Grade 12 Advanced Functions strand: the Cauchy functional equation, f(x + y) equals f(x) plus f(y), characterizes linear functions of the form f(x) equals kx among well-behaved (such as continuous) functions, while admitting far stranger solutions if continuity is not assumed.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Polynomial Functions: End Behaviour",
+        "summary": "Students examine how the degree and sign of the leading coefficient of a polynomial function determine its end behaviour, using this to predict graph shape without full graphing.",
+        "resourceLabel": "YouTube: Polynomial Functions: End Behaviour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20End%20Behaviour%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What is the general form of the Cauchy functional equation?",
+            "q": "What determines the end behaviour of a polynomial function's graph?",
             "options": [
-              "f(x + y) = f(x) times f(y)",
-              "f(x times y) = f(x) plus f(y)",
-              "f(x) = x squared",
-              "f(x + y) = f(x) + f(y)"
+              "The number of terms",
+              "The y-intercept",
+              "The number of x-intercepts",
+              "The degree and sign of the leading coefficient"
             ],
             "answer": 3
           },
           {
-            "q": "Among continuous functions, what form do solutions to the Cauchy functional equation take?",
+            "q": "A polynomial has an even degree and a negative leading coefficient. Describe its end behaviour.",
             "options": [
-              "f(x) = kx, a linear function through the origin",
-              "No continuous solutions exist at all",
-              "f(x) = the constant one, for every input",
-              "f(x) = x squared, a quadratic function"
+              "Both ends point down",
+              "Both ends point up",
+              "Left up, right down",
+              "Left down, right up"
             ],
             "answer": 0
           },
           {
-            "q": "What happens to the set of possible solutions if continuity is not assumed?",
+            "q": "Which end behaviour describes y = -2x^3 + 5x - 1?",
             "options": [
-              "No solutions exist under any condition",
-              "The equation becomes impossible to define",
-              "Far stranger, highly irregular solutions become possible",
-              "The only possible solution becomes f(x) = 0"
+              "Both ends rise",
+              "As x→∞, y→-∞; as x→-∞, y→∞",
+              "As x→∞, y→∞; as x→-∞, y→-∞",
+              "Both ends fall"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What kind of equation is the Cauchy functional equation?",
+            "q": "A polynomial function has odd degree and positive leading coefficient. As x → -∞, what happens to y?",
             "options": [
-              "An equation with no functions involved",
-              "A geometric equation describing a circle",
-              "A basic linear equation with one unknown number",
-              "A functional equation, relating a functions values rather than solving for a number"
+              "y oscillates",
+              "y → 0",
+              "y → ∞",
+              "y → -∞"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the Cauchy functional equation a useful case study in advanced function theory?",
+            "q": "Which function has the same end behaviour as y = 5x^4 - 3x^2 + 1?",
             "options": [
-              "It shows how an assumption such as continuity can dramatically restrict the possible solutions",
-              "It demonstrates that functional equations never have interesting properties",
-              "It shows that all functions are always linear regardless of assumptions",
-              "It has no connection to the broader study of functions"
+              "y = 6x^3 - 1",
+              "y = -3x^4 + x",
+              "y = -x^5 + 2",
+              "y = 2x^4 - 7"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Calculus",
@@ -31078,63 +31093,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Quadratic Residues and the Legendre Symbol",
-        "summary": "Grade 12 Advanced Functions strand: an integer is a quadratic residue modulo a prime p if it is congruent to some perfect square modulo p, and the Legendre symbol offers a compact notation for indicating whether a given integer is a quadratic residue for that prime.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Finite Differences and Identifying Polynomial Degree",
+        "summary": "Students use finite differences on tables of values with equally spaced x-values to determine the degree of the polynomial function that models the data, connecting constant nth differences to degree n.",
+        "resourceLabel": "YouTube: Finite Differences and Identifying Polynomial Degree",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finite%20Differences%20and%20Identifying%20Polynomial%20Degree%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does it mean for an integer to be a quadratic residue modulo a prime p?",
+            "q": "For a table of values with equally spaced x-values generated by a polynomial function, what indicates the function's degree?",
             "options": [
-              "It is congruent to some perfect square modulo p",
-              "It is always divisible evenly by p with no remainder",
-              "It can never be a whole number",
-              "It is always equal to p itself"
+              "The number of x-intercepts",
+              "The value of the leading coefficient",
+              "The order (level) at which the differences become constant",
+              "The sign of the first difference"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A table shows first differences are not constant, but second differences are constant at 6. What degree is the polynomial?",
+            "options": [
+              "6",
+              "1",
+              "2",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For data generated by a degree-3 (cubic) polynomial with equally spaced x-values, which differences are constant?",
+            "options": [
+              "Third differences",
+              "First differences",
+              "Fourth differences",
+              "Second differences"
             ],
             "answer": 0
           },
           {
-            "q": "What does the Legendre symbol indicate?",
+            "q": "The finite differences of a data set are: 1st differences 3, 5, 7, 9; 2nd differences 2, 2, 2. What degree polynomial models this data?",
             "options": [
-              "The exact square root of a given integer",
-              "The sum of all divisors of a given integer",
-              "The number of primes less than a given integer",
-              "Whether a given integer is a quadratic residue for a particular prime"
+              "2",
+              "3",
+              "1",
+              "4"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What branch of mathematics does the study of quadratic residues belong to?",
+            "q": "Why must x-values be equally spaced to use finite differences to find polynomial degree?",
             "options": [
-              "Basic geometry",
-              "Elementary statistics",
-              "Number theory",
-              "Financial mathematics"
+              "Unequal spacing makes the differences fail to reveal a constant pattern tied to degree",
+              "Polynomials are undefined for unequal spacing",
+              "Finite differences require negative x-values",
+              "The method only works for whole numbers"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why might quadratic residues be relevant to cryptography?",
-            "options": [
-              "Quadratic residues make every encryption system trivially easy to break",
-              "Certain cryptographic systems rely on the difficulty of determining quadratic residues for large primes",
-              "Quadratic residues have no application in cryptography",
-              "Cryptography never uses modular arithmetic"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "For a given odd prime p, roughly what fraction of the nonzero residues modulo p are quadratic residues?",
-            "options": [
-              "None of them",
-              "All of them",
-              "About half",
-              "Exactly one"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -31323,63 +31338,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Twelvefold Way — Counting Functions Between Sets",
-        "summary": "Grade 12 Advanced Functions strand: the twelvefold way is a unifying framework in combinatorics that organizes twelve related counting problems describing functions between a set of size n and a set of size m, varying by whether elements are distinguishable and whether the functions must be injective or surjective.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Factor Theorem and Factoring Higher-Degree Polynomials",
+        "summary": "Students use the Factor Theorem to confirm given factors of cubic and quartic polynomials, then fully factor and solve the resulting equations, including cases where the remaining factor is irreducible over the reals.",
+        "resourceLabel": "YouTube: Factor Theorem and Factoring Higher-Degree Polynomials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Factor%20Theorem%20and%20Factoring%20Higher-Degree%20Polynomials%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does the twelvefold way organize?",
+            "q": "According to the Factor Theorem, (x - a) is a factor of P(x) if and only if what is true?",
             "options": [
-              "Twelve unrelated geometry problems",
-              "A list of prime numbers",
-              "A single formula with no variation",
-              "Twelve related combinatorial counting problems describing functions between two sets"
+              "P(a) = a",
+              "P(0) = a",
+              "P'(a) = 0",
+              "P(a) = 0"
             ],
             "answer": 3
           },
           {
-            "q": "What two properties commonly vary among the twelve counting problems in the twelvefold way?",
+            "q": "Given P(x) = x^3 - 4x^2 + x + 6 and P(-1) = 0, which is a factor?",
             "options": [
-              "The colour and size of the sets involved",
-              "The country in which the problem was first studied",
-              "Whether elements are distinguishable and whether functions must be injective or surjective",
-              "The final numeric answer alone, with no underlying structure"
+              "(x-6)",
+              "(x-1)",
+              "(x+1)",
+              "(x+6)"
             ],
             "answer": 2
           },
           {
-            "q": "What is an injective function, as relevant to the twelvefold way?",
+            "q": "After dividing x^3 - 4x^2 + x + 6 by (x+1), the quotient is x^2 - 5x + 6. Fully factor P(x).",
             "options": [
-              "A function where distinct inputs always map to distinct outputs",
-              "A function that only maps numbers to themselves",
-              "A function where every output is identical",
-              "A function with no defined inputs"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is the twelvefold way considered a useful organizing framework?",
-            "options": [
-              "It only applies to a single, narrow counting problem",
-              "It has no relationship to combinatorics",
-              "It connects many seemingly separate counting problems under a single unified structure",
-              "It eliminates the need to count anything at all"
+              "(x+1)(x-6)(x+1)",
+              "(x-1)(x-2)(x-3)",
+              "(x+1)(x-2)(x-3)",
+              "(x+1)(x+2)(x+3)"
             ],
             "answer": 2
           },
           {
-            "q": "The twelvefold way belongs to which broader branch of mathematics?",
+            "q": "A quartic polynomial P(x) has known factors (x-2) and (x+3), leaving a quotient of x^2+4 after division. What can be said about the remaining roots?",
             "options": [
-              "Combinatorics",
-              "Trigonometry",
-              "Financial mathematics",
-              "Calculus"
+              "There are no more roots",
+              "They are non-real complex numbers, 2i and -2i",
+              "They are x = 2 and x = -2",
+              "They are x = 4 and x = -4"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Which value of P(x) = 2x^3 - 3x^2 - 11x + 6 confirms that (x-3) is a factor?",
+            "options": [
+              "P(3) = 6",
+              "P(-3) = 0",
+              "P(0) = 3",
+              "P(3) = 0"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Number Sense: Basic Counting"
+        ]
       },
       {
         "subject": "Calculus",
@@ -31569,63 +31584,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Padé Approximants and Rational Function Approximation",
-        "summary": "Grade 12 Advanced Functions strand: a Padé approximant approximates a function using a ratio of two polynomials rather than a single polynomial, often matching the behaviour of the original function, including near singularities, more closely than a Taylor polynomial of comparable degree.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Rational Zero Theorem: Finding Possible Roots of Polynomial Equations",
+        "summary": "Students use the Rational Zero Theorem to list all possible rational roots of a polynomial equation from the factors of the constant term and leading coefficient, then test candidates using synthetic division and the Factor Theorem to find actual roots.",
+        "resourceLabel": "YouTube: The Rational Zero Theorem: Finding Possible Roots of Polynomial Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rational%20Zero%20Theorem%3A%20Finding%20Possible%20Roots%20of%20Polynomial%20Equations%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What form does a Padé approximant take?",
+            "q": "According to the Rational Zero Theorem, for a polynomial with integer coefficients, any rational root p/q (in lowest terms) must satisfy which condition?",
             "options": [
-              "A ratio of two polynomials",
-              "A trigonometric expression only",
-              "A constant value with no variables",
-              "A single polynomial with no denominator"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How can a Padé approximant differ in usefulness from a Taylor polynomial of similar degree?",
-            "options": [
-              "It only works for functions with no singularities anywhere",
-              "It can never approximate a function as well as a Taylor polynomial",
-              "It removes the need for polynomials entirely",
-              "It can more closely match the original function, including near singularities"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is a rational function, in the context of Padé approximants?",
-            "options": [
-              "A function limited strictly to whole-number outputs",
-              "A function that is always undefined",
-              "A function expressed as the ratio of two polynomials",
-              "A function with no defined denominator"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might engineers or scientists prefer a Padé approximant over a simple polynomial approximation in some situations?",
-            "options": [
-              "Padé approximants cannot be evaluated numerically",
-              "It can capture certain function behaviours, such as asymptotes, more accurately",
-              "They have no practical scientific use",
-              "Padé approximants are always less accurate than polynomials"
+              "p is a factor of the leading coefficient and q is a factor of the constant term",
+              "p is a factor of the constant term and q is a factor of the leading coefficient",
+              "p and q are both factors of the degree of the polynomial",
+              "p and q must both be prime numbers"
             ],
             "answer": 1
           },
           {
-            "q": "Padé approximants extend ideas most closely related to which earlier calculus concept?",
+            "q": "List the possible rational roots of 2x^3 - 3x^2 - 8x - 3 = 0 using the Rational Zero Theorem.",
             "options": [
-              "Basic arithmetic addition",
-              "Elementary geometry",
-              "Taylor and Maclaurin series approximation",
-              "Simple counting problems"
+              "±1, ±3",
+              "±1/2, ±3/2 only",
+              "±1, ±2, ±3",
+              "±1, ±3, ±1/2, ±3/2"
             ],
-            "answer": 2
+            "answer": 3
+          },
+          {
+            "q": "Once a possible rational root is tested with synthetic division and gives a remainder of 0, what does this confirm?",
+            "options": [
+              "The polynomial is prime",
+              "That value is an actual root, and the quotient is a factor of one lower degree",
+              "The polynomial has no real roots",
+              "The leading coefficient must be adjusted"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Given 2x^3 - 3x^2 - 8x - 3 = 0 has a verified root x = -1, dividing out the factor (x+1) with synthetic division leaves which quotient equation?",
+            "options": [
+              "2x^2 + 5x - 3 = 0",
+              "2x^2 - 5x + 3 = 0",
+              "x^2 - 5x - 3 = 0",
+              "2x^2 - 5x - 3 = 0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Rational Zero Theorem useful when solving higher-degree polynomial equations by hand?",
+            "options": [
+              "It narrows an infinite set of possible roots down to a short, finite list worth testing",
+              "It always finds the exact roots directly without testing",
+              "It guarantees every polynomial has a rational root",
+              "It eliminates the need to check any values at all"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Ratios & Rates"
+        ]
       },
       {
         "subject": "Calculus",
@@ -31813,63 +31828,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Frobenius Coin Problem",
-        "summary": "Grade 12 Advanced Functions strand: the Frobenius coin problem asks for the largest amount that cannot be formed using only coins of two or more given denominations, with the two-denomination case having a known closed-form solution when the denominations share no common factor.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Transformations of Polynomial Functions",
+        "summary": "Students apply combinations of vertical/horizontal stretches, compressions, reflections, and translations to cubic and quartic parent functions, and write the equation of a transformed polynomial function given a description or graph.",
+        "resourceLabel": "YouTube: Transformations of Polynomial Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Polynomial%20Functions%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does the Frobenius coin problem ask for?",
+            "q": "The graph of y = x^3 is vertically stretched by factor 2, reflected in the x-axis, and shifted up 3. Which equation represents this transformation?",
             "options": [
-              "The smallest amount that can be formed using any coins",
-              "The largest amount that cannot be formed using given coin denominations",
-              "The total number of coins in a given collection",
-              "The average value of a set of coins"
+              "y = -2(x-3)^3",
+              "y = -2x^3 + 3",
+              "y = 2(x+3)^3",
+              "y = 2x^3 - 3"
             ],
             "answer": 1
           },
           {
-            "q": "For exactly two coin denominations with no common factor, what kind of solution does the Frobenius coin problem have?",
+            "q": "Which transformation maps y = x^4 to y = (x+2)^4 - 5?",
             "options": [
-              "A solution requiring an infinite number of coins",
-              "A solution that changes randomly each time",
-              "A known closed-form solution",
-              "No solution under any circumstances"
+              "Horizontal shift left 2, vertical shift up 5",
+              "Horizontal shift right 2, vertical shift up 5",
+              "Horizontal shift left 2, vertical shift down 5",
+              "Horizontal shift right 2, vertical shift down 5"
             ],
             "answer": 2
           },
           {
-            "q": "Why must the two coin denominations share no common factor for the classic formula to apply?",
+            "q": "A cubic function y = x^3 is horizontally compressed by a factor of 1/3. Which mapping describes this?",
             "options": [
-              "If they shared a common factor, infinitely many amounts (all multiples of that factor missed) could never be formed",
-              "A common factor always makes every amount formable",
-              "The problem cannot be defined unless the denominations are equal",
-              "Common factors have no effect on which amounts can be formed"
+              "(x,y) → (x, y/3)",
+              "(x,y) → (x, 3y)",
+              "(x,y) → (3x, y)",
+              "(x,y) → (x/3, y)"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "The Frobenius coin problem is also sometimes called by what other informal name, referencing a hypothetical food-based version of the problem?",
+            "q": "What is the effect of the parameter k in y = a(k(x-d))^n + c on a polynomial's graph?",
             "options": [
-              "The apple pie problem",
-              "The chicken nugget problem",
-              "The birthday problem",
-              "The travelling salesman problem"
+              "It shifts the graph vertically",
+              "It stretches or compresses the graph vertically",
+              "It reflects the graph in the y-axis only",
+              "It stretches or compresses the graph horizontally"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What area of mathematics does the Frobenius coin problem belong to?",
+            "q": "The point (1,1) lies on y = x^3. Under the transformation y = -3(x-2)^3 + 4, where does the corresponding image point land?",
             "options": [
-              "Trigonometry",
-              "Elementary probability with no number theory involved",
-              "Number theory",
-              "Basic geometry"
+              "(3, 4)",
+              "(-1, 4)",
+              "(1, -3)",
+              "(3, 1)"
             ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -32057,60 +32072,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Number Theory, Discrete Math, and Special Functions",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit Carmichael numbers, the Ackermann function, the Lambert W function, Latin squares, the Cauchy functional equation, quadratic residues, the twelvefold way, Padé approximants, and the Frobenius coin problem.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Multiplicity of Roots and Graph Behaviour",
+        "summary": "Students connect the multiplicity of a polynomial's roots to whether the graph crosses or touches (bounces off) the x-axis at each intercept, and use this to sketch graphs from factored form.",
+        "resourceLabel": "YouTube: Multiplicity of Roots and Graph Behaviour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplicity%20of%20Roots%20and%20Graph%20Behaviour%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What is a Carmichael number?",
+            "q": "At a root of odd multiplicity, how does a polynomial's graph behave?",
             "options": [
-              "A number that is always divisible by two",
-              "A fraction between zero and one",
-              "A composite number that satisfies Fermats Little Theorem for every coprime base",
-              "A prime number with no special properties"
+              "It crosses straight through the x-axis",
+              "It has a vertical asymptote",
+              "It has a hole",
+              "It touches the x-axis and turns back"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For P(x) = (x-1)^2(x+3), what happens at x = 1?",
+            "options": [
+              "The graph touches the x-axis and bounces back",
+              "The graph is undefined there",
+              "The graph has a vertical asymptote there",
+              "The graph crosses the x-axis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A root with multiplicity 3 shows what additional feature compared to a simple crossing (multiplicity 1)?",
+            "options": [
+              "A sharp corner",
+              "A horizontal asymptote",
+              "No x-intercept at all",
+              "A flattening (inflection-like point) at the x-axis as it crosses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "P(x) = (x+2)^3(x-4)^2 has degree ___ and touches the x-axis at x = ___.",
+            "options": [
+              "5; x = -2",
+              "6; x = 4",
+              "5; x = 4",
+              "6; x = -2"
             ],
             "answer": 2
           },
           {
-            "q": "How does the growth rate of the Ackermann function compare to exponential functions?",
+            "q": "Which factored form describes a polynomial that crosses at x = -1 and bounces off at x = 3?",
             "options": [
-              "It grows more slowly than a linear function",
-              "It grows dramatically faster than exponential or polynomial functions",
-              "It never grows at all",
-              "It grows at exactly the same rate as a constant function"
+              "(x+1)(x-3)",
+              "(x+1)^2(x-3)",
+              "(x+1)(x-3)^2",
+              "(x-1)(x+3)^2"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What kind of equations can the Lambert W function help solve?",
-            "options": [
-              "Only simple linear equations with one term",
-              "Only equations involving whole numbers less than ten",
-              "Only equations with no exponential component",
-              "Equations where the unknown appears both inside and outside an exponential expression"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What defines a Latin square?",
-            "options": [
-              "A grid where symbols may repeat freely within a row",
-              "A grid with only one row and one column",
-              "A triangular arrangement of numbers",
-              "An n by n grid where each symbol appears exactly once in every row and column"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the Frobenius coin problem ask for?",
-            "options": [
-              "The average value of a set of coins",
-              "The smallest amount that can be formed using any coins",
-              "The total number of coins in a given collection",
-              "The largest amount that cannot be formed using given coin denominations"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -32300,63 +32316,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Eulers Totient Function and Counting Coprimes",
-        "summary": "Grade 12 Advanced Functions strand: Eulers totient function, written phi of n, counts the positive integers up to n that are coprime to n, providing a key tool in number theory and in cryptographic systems such as RSA encryption.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Modelling with Polynomial Functions",
+        "summary": "Students fit polynomial models to real-world data sets, such as box volume from a folded sheet, using finite differences to choose degree, then use the model to interpolate and extrapolate values.",
+        "resourceLabel": "YouTube: Modelling with Polynomial Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Modelling%20with%20Polynomial%20Functions%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What does Eulers totient function, phi of n, count?",
+            "q": "A rectangular box is formed by cutting squares of side x from the corners of a 20 cm by 30 cm sheet and folding up the sides. Which degree polynomial models the volume V(x)?",
             "options": [
-              "The positive integers up to n that are coprime to n",
-              "The number of even integers less than n",
-              "The total number of divisors of n",
-              "The sum of all prime factors of n"
+              "Degree 3",
+              "Degree 4",
+              "Degree 1",
+              "Degree 2"
             ],
             "answer": 0
           },
           {
-            "q": "What does it mean for two integers to be coprime?",
+            "q": "For the box-folding volume model V(x) = x(20-2x)(30-2x), which values of x make physical sense?",
             "options": [
-              "Their sum is always an even number",
-              "They are exactly equal to one another",
-              "They are both prime numbers",
-              "Their greatest common divisor is one"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "For a prime number p, what is the value of phi of p?",
-            "options": [
-              "p multiplied by two",
-              "p itself",
-              "p minus one",
-              "Zero, always"
+              "-10 < x < 10",
+              "0 < x < 30",
+              "0 < x < 10",
+              "x > 15"
             ],
             "answer": 2
           },
           {
-            "q": "In which cryptographic system studied in this course does Eulers totient function play a central role?",
+            "q": "A data set has constant third differences. What degree polynomial model best fits it?",
             "options": [
-              "A system that avoids all use of prime numbers",
-              "Simple substitution ciphers only",
-              "A system with no connection to number theory",
-              "RSA encryption and public-key cryptography"
+              "5",
+              "4",
+              "2",
+              "3"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the totient function considered a useful tool in number theory?",
+            "q": "When a polynomial model is used to predict a value far outside the range of the original data, this is called:",
             "options": [
-              "It has no practical or theoretical use whatsoever",
-              "It provides a systematic way to measure how many integers share no common factor with a given number",
-              "It replaces the need for prime numbers entirely",
-              "It only applies to the number zero"
+              "Differentiation",
+              "Interpolation",
+              "Extrapolation",
+              "Regression"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why is extrapolation with polynomial models riskier than interpolation?",
+            "options": [
+              "Extrapolation always gives negative values",
+              "Polynomials cannot be evaluated for large x",
+              "Outside the observed range, the polynomial's end behaviour may not reflect the real-world situation",
+              "Polynomials are undefined outside their domain"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -32544,60 +32560,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Derangements and the Hat-Check Problem",
-        "summary": "Grade 12 Advanced Functions strand: a derangement is a permutation of a set in which no element appears in its original position, classically illustrated by the hat-check problem, which asks for the probability that no person receives their own hat back from a checkroom.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Sketching Polynomial Functions from Key Features",
+        "summary": "Students synthesize end behaviour, zeros and their multiplicities, and the y-intercept to sketch an accurate graph of a polynomial function without technology, and to reconstruct a possible equation from a given sketch.",
+        "resourceLabel": "YouTube: Sketching Polynomial Functions from Key Features",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sketching%20Polynomial%20Functions%20from%20Key%20Features%20grade%2012%20educational",
+        "topic": "Polynomials & Factoring",
         "quiz": [
           {
-            "q": "What defines a derangement of a set?",
+            "q": "To sketch a polynomial function without technology, which set of features is most essential?",
             "options": [
-              "A permutation with exactly one fixed element",
-              "A set with no elements at all",
-              "A permutation in which no element appears in its original position",
-              "A permutation in which every element appears in its original position"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What classic scenario illustrates the concept of a derangement?",
-            "options": [
-              "A problem with no random assignment involved",
-              "A scenario where every person always receives their own item",
-              "The hat-check problem, in which no person receives their own hat back",
-              "A problem involving only sorted, ordered lists"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "As the number of items grows large, what does the probability of a random permutation being a derangement approach?",
-            "options": [
-              "A value that approaches exactly zero",
-              "A value that grows without bound",
-              "A value that approaches exactly one",
-              "A value close to one divided by e, roughly 0.368"
+              "The domain and range alone",
+              "Only the y-intercept",
+              "Only the degree",
+              "End behaviour, zeros with multiplicity, and y-intercept"
             ],
             "answer": 3
           },
           {
-            "q": "What broader mathematical field does the study of derangements belong to?",
+            "q": "A graph shows a polynomial crossing the x-axis at x = -2 and x = 5, touching at x = 0, with both ends rising. Which could be its equation?",
             "options": [
-              "Trigonometry",
-              "Financial mathematics",
-              "Combinatorics",
-              "Basic arithmetic"
+              "y = (x-2)(x+5)x^2",
+              "y = (x+2)(x-5)x^2",
+              "y = (x+2)(x-5)x",
+              "y = -(x+2)(x-5)x^2"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might the hat-check problem be a useful teaching example in combinatorics?",
+            "q": "A sketch shows a cubic with one x-intercept, crossing at x = 3, with the graph falling on the left and rising on the right. What must be true about the other two roots?",
             "options": [
-              "It gives a concrete, intuitive scenario for exploring permutations with no fixed points",
-              "It cannot be generalized beyond hats and people",
-              "It only applies to problems involving exactly two items",
-              "It has no connection to permutations at all"
+              "The graph cannot be a cubic",
+              "They must be non-real complex numbers",
+              "The polynomial must actually be degree 2",
+              "They must both equal x = 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The y-intercept of a polynomial function written in factored form y = a(x-r1)(x-r2)...(x-rn) is found by:",
+            "options": [
+              "Substituting x = 0 into the equation",
+              "Setting a = 0",
+              "Averaging the roots",
+              "Substituting y = 0"
             ],
             "answer": 0
+          },
+          {
+            "q": "A quartic graph touches the x-axis at x = -1 and crosses at x = 2, with both ends falling. What must be true about the leading coefficient a?",
+            "options": [
+              "a is positive",
+              "a is negative",
+              "a equals zero",
+              "a must equal 1"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -33031,63 +33048,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Eulers Formula for Planar Graphs and Polyhedra",
-        "summary": "Grade 12 Advanced Functions strand: Eulers formula states that for any connected planar graph, or for the network of vertices, edges, and faces of a convex polyhedron, the number of vertices minus the number of edges plus the number of faces always equals two.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Vertical Asymptotes and Holes",
+        "summary": "Students distinguish between vertical asymptotes and removable discontinuities (holes) in rational functions by identifying common factors in the numerator and denominator, and determine the coordinates of holes.",
+        "resourceLabel": "YouTube: Rational Functions: Vertical Asymptotes and Holes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Vertical%20Asymptotes%20and%20Holes%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does Eulers formula for planar graphs and polyhedra state?",
+            "q": "A rational function has a factor that cancels between numerator and denominator. This produces:",
             "options": [
-              "Edges alone always equal the number of faces",
-              "Vertices plus edges plus faces always equals zero",
-              "Vertices minus edges plus faces always equals two",
-              "Vertices minus edges minus faces always equals one"
+              "An oblique asymptote",
+              "A horizontal asymptote",
+              "A vertical asymptote",
+              "A hole (removable discontinuity)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For f(x) = (x-2)(x+3) / [(x-2)(x-5)], what occurs at x = 2?",
+            "options": [
+              "A y-intercept at x = 2",
+              "A horizontal asymptote at x = 2",
+              "A hole at x = 2",
+              "A vertical asymptote at x = 2"
             ],
             "answer": 2
           },
           {
-            "q": "What is a planar graph?",
+            "q": "For f(x) = (x-2)(x+3) / [(x-2)(x-5)], where is the vertical asymptote?",
             "options": [
-              "A graph that can only represent numbers, not relationships",
-              "A graph that must always be three-dimensional",
-              "A graph that can be drawn on a flat plane with no edges crossing",
-              "A graph with no vertices at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "To which three-dimensional geometric objects does Eulers formula also apply?",
-            "options": [
-              "Convex polyhedra, such as a cube or a tetrahedron",
-              "Objects with no defined vertices or edges",
-              "Only perfectly flat, two-dimensional shapes",
-              "Curved surfaces with no edges or vertices whatsoever"
+              "x = 5",
+              "x = -3",
+              "x = 0",
+              "x = 2"
             ],
             "answer": 0
           },
           {
-            "q": "For a simple cube, how many vertices, edges, and faces does it have, consistent with Eulers formula?",
+            "q": "To find the y-coordinate of a hole at x = a in a rational function, you should:",
             "options": [
-              "Eight vertices, twelve edges, and six faces",
-              "Twelve vertices, six edges, and eight faces",
-              "Four vertices, four edges, and four faces",
-              "Six vertices, eight edges, and twelve faces"
+              "Substitute x = a into the fully reduced (simplified) form of the function",
+              "Substitute x = a into the original unreduced denominator",
+              "Find the horizontal asymptote instead",
+              "Set the numerator equal to zero"
             ],
             "answer": 0
           },
           {
-            "q": "Why is Eulers formula considered a foundational result in the study of graphs and polyhedra?",
+            "q": "For g(x) = (x+4)(x-1) / [(x+4)(x+4)], classify the behaviour at x = -4.",
             "options": [
-              "It contradicts other results in discrete mathematics",
-              "It only applies to a single specific polyhedron",
-              "It reveals a simple, invariant relationship that holds across an enormous range of connected planar structures",
-              "It has no connection to graph theory"
+              "Both a hole and a vertical asymptote occur at the same point",
+              "Neither — x = -4 is not a restriction",
+              "A vertical asymptote, because one (x+4) factor still remains in the denominator after cancelling",
+              "A hole, because both (x+4) factors in the denominator cancel completely"
             ],
             "answer": 2
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Calculus",
@@ -33521,60 +33538,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Weierstrass Function — Continuous but Nowhere Differentiable",
-        "summary": "Grade 12 Advanced Functions strand: the Weierstrass function is defined as an infinite sum of scaled cosine terms and provides a classic example of a function that is continuous everywhere yet differentiable nowhere, challenging the nineteenth-century assumption that continuity implied smoothness.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Horizontal Asymptotes and End Behaviour",
+        "summary": "Students determine horizontal asymptotes of rational functions by comparing the degrees of the numerator and denominator, connecting this to end behaviour as x approaches positive and negative infinity.",
+        "resourceLabel": "YouTube: Rational Functions: Horizontal Asymptotes and End Behaviour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Horizontal%20Asymptotes%20and%20End%20Behaviour%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What makes the Weierstrass function mathematically remarkable?",
+            "q": "For a rational function f(x) = p(x)/q(x), if the degree of p is less than the degree of q, the horizontal asymptote is:",
             "options": [
-              "It is discontinuous at every single point",
-              "It has no defined value at any point",
-              "It is continuous everywhere yet differentiable nowhere",
-              "It is differentiable everywhere with no exceptions"
+              "y equals the ratio of leading coefficients",
+              "y = 1",
+              "y = 0",
+              "There is no horizontal asymptote"
             ],
             "answer": 2
           },
           {
-            "q": "How is the Weierstrass function typically constructed?",
+            "q": "For f(x) = (3x^2+1)/(x^2-4), what is the horizontal asymptote?",
             "options": [
-              "As an infinite sum of scaled cosine terms",
-              "As a single simple linear expression",
-              "As a finite polynomial of degree two",
-              "As a function with no formula at all"
+              "y = 0",
+              "y = -4",
+              "y = 3",
+              "y = 1/4"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What nineteenth-century mathematical assumption did the Weierstrass function famously challenge?",
+            "q": "For f(x) = (2x+5)/(x^2-1), the degree of the numerator (1) is less than the denominator (2). What happens as x → ∞?",
             "options": [
-              "The assumption that a continuous function must also be smooth, or differentiable",
-              "The assumption that numbers can be negative",
-              "The assumption that a function must have a domain",
-              "The assumption that all functions must be linear"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might the Weierstrass function appear jagged or fractal-like when graphed?",
-            "options": [
-              "The function has no graphical representation",
-              "The infinite sum introduces fine detail and roughness at every scale",
-              "Rounding errors are the only source of any roughness",
-              "The graph is always a perfectly smooth straight line"
+              "f(x) → -1",
+              "f(x) → 0",
+              "f(x) → ∞",
+              "f(x) → 2"
             ],
             "answer": 1
           },
           {
-            "q": "What broader mathematical field does the discovery of the Weierstrass function influence?",
+            "q": "If the degree of the numerator is exactly one more than the degree of the denominator, the rational function has:",
             "options": [
-              "Basic arithmetic with whole numbers",
-              "Elementary geometry with no functions involved",
-              "Financial mathematics exclusively",
-              "Real analysis and the rigorous study of continuity and differentiability"
+              "A horizontal asymptote",
+              "A hole only",
+              "An oblique (slant) asymptote",
+              "No asymptote at all"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "For f(x) = (5x^3 - x)/(x^3+2), what is the horizontal asymptote?",
+            "options": [
+              "y = 1/2",
+              "y = 5",
+              "No horizontal asymptote",
+              "y = 0"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -33950,60 +33968,61 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Translation Theory: Fidelity, Domestication, and Foreignization",
-        "summary": "Grade 12 English strand: translation theory examines the choices a translator makes between fidelity to a source texts literal meaning and readability in the target language, including the contrasting strategies of domestication, which adapts a text to feel familiar, and foreignization, which preserves its foreignness.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literary Theory: Postcolonial Criticism -- Reading Empire and Resistance in Text",
+        "summary": "Introduces postcolonial literary theory, examining how texts represent, resist, or are shaped by the power dynamics of colonialism, with attention to concepts like 'the Other,' hybridity, and the 'writing back' tradition.",
+        "resourceLabel": "YouTube: Literary Theory: Postcolonial Criticism -- Reading Empire and Resistance in Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literary%20Theory%3A%20Postcolonial%20Criticism%20--%20Reading%20Empire%20and%20Resistance%20in%20Text%20grade%2012%20educational",
+        "topic": "Literary Theory",
         "quiz": [
           {
-            "q": "What central tension does translation theory examine?",
+            "q": "What is the central concern of postcolonial literary criticism?",
             "options": [
-              "Whether a text should be translated at all, with no other consideration",
-              "The length of the original text alone",
-              "The cost of printing a translated book",
-              "The balance between fidelity to a source texts meaning and readability in the target language"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a domesticating translation strategy aim to do?",
-            "options": [
-              "Adapt a text to feel familiar to readers in the target language and culture",
-              "Translate a text word for word with no regard for readability",
-              "Preserve every unfamiliar feature of the original culture with no adaptation",
-              "Remove all meaning from the original text"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a foreignizing translation strategy aim to preserve?",
-            "options": [
-              "The publication date of the original text",
-              "A translations complete familiarity to the target audience",
-              "The foreignness and distinct cultural texture of the original text",
-              "The physical binding of the original book"
+              "How a text's rhyme scheme creates musicality",
+              "How punctuation affects a reader's pace",
+              "How literature represents, resists, or is shaped by the power dynamics of colonialism",
+              "How a narrator's memory affects plot chronology"
             ],
             "answer": 2
           },
           {
-            "q": "Why might translators disagree about whether fidelity or readability should be prioritized?",
+            "q": "In postcolonial theory, the term 'the Other' refers to:",
             "options": [
-              "There is never any disagreement among translators",
-              "Strict literal fidelity can sometimes produce awkward, unclear prose in the target language, creating a genuine trade-off",
-              "Readability is considered irrelevant to translation entirely",
-              "Fidelity and readability always align perfectly with no tension"
+              "A group or culture defined by a dominant power as different from and inferior to itself",
+              "A narrator who withholds key information",
+              "The secondary protagonist in a novel",
+              "The historical setting of a novel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Works described as 'writing back' typically:",
+            "options": [
+              "Translate a text word-for-word into the colonizer's language",
+              "Respond to and reframe canonical colonial-era texts from the perspective of the colonized",
+              "Are written as direct sequels to earlier novels",
+              "Use flashback structure exclusively"
             ],
             "answer": 1
           },
           {
-            "q": "How does studying translation theory connect to the study of literature in translation elsewhere in this course?",
+            "q": "In postcolonial criticism, 'hybridity' most nearly refers to:",
             "options": [
-              "It reveals how translation choices shape the version of a text that reaches a new audience",
-              "Translation choices never affect a readers experience of a text",
-              "Every translation of a text is always identical",
-              "Translation theory has no relevance to reading translated literature"
+              "The blending of cultural identities and traditions produced by colonial contact",
+              "The mixing of literary genres within a single work",
+              "The combination of first- and third-person narration",
+              "A poem written in two languages simultaneously for effect"
             ],
             "answer": 0
+          },
+          {
+            "q": "Which question would a postcolonial critic most likely ask of a novel set in a former colony?",
+            "options": [
+              "Is the setting described in enough sensory detail?",
+              "Whose voice is centered, and whose is silenced or stereotyped, in the narrative?",
+              "Does the sonnet's volta occur at the correct line?",
+              "Does the plot follow Freytag's pyramid exactly?"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -34254,63 +34273,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Chebyshev Polynomials and Optimal Approximation",
-        "summary": "Grade 12 Advanced Functions strand: Chebyshev polynomials form a special sequence of polynomials defined through trigonometric identities, and are prized in approximation theory because choosing evaluation points based on their roots minimizes the maximum error when approximating a function by a polynomial.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Sketching Rational Functions: Combining All Key Features",
+        "summary": "Students synthesize intercepts, vertical and horizontal asymptotes, and holes to produce accurate sketches of rational functions and to determine domain and range from the graph.",
+        "resourceLabel": "YouTube: Sketching Rational Functions: Combining All Key Features",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sketching%20Rational%20Functions%3A%20Combining%20All%20Key%20Features%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "Through what kind of identities are Chebyshev polynomials commonly defined?",
+            "q": "When sketching a rational function, which feature indicates where the graph is undefined but does not go to infinity?",
             "options": [
-              "Identities involving only whole-number addition",
-              "Identities defined solely through logarithms",
-              "Trigonometric identities involving cosine",
-              "Identities with no connection to trigonometry"
+              "Vertical asymptote",
+              "x-intercept",
+              "Hole",
+              "y-intercept"
             ],
             "answer": 2
           },
           {
-            "q": "What property makes Chebyshev polynomials especially valuable in approximation theory?",
+            "q": "For f(x) = (x-1)/(x+2), which x-value is excluded from the domain?",
             "options": [
-              "They eliminate the need for polynomials in approximation",
-              "Choosing evaluation points based on their roots minimizes the maximum approximation error",
-              "They apply only to functions with no curvature",
-              "They guarantee an approximation error of exactly zero in every case"
+              "x = 1",
+              "x = 0",
+              "x = -2",
+              "x = -1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The range of f(x) = 1/(x-3) + 2 excludes which value?",
+            "options": [
+              "y = 3",
+              "y = -2",
+              "y = 2",
+              "y = 0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rational function's graph crosses its horizontal asymptote for some values of x. Which statement is true?",
+            "options": [
+              "This is impossible; graphs can never cross a horizontal asymptote",
+              "This is possible; horizontal asymptotes describe end behaviour, not a boundary the graph can never cross",
+              "This only happens for vertical asymptotes",
+              "This means the function is not rational"
             ],
             "answer": 1
           },
           {
-            "q": "How do Chebyshev polynomials relate to earlier approximation methods studied in this course, such as Pade approximants?",
+            "q": "To find the x-intercept(s) of a rational function already in lowest terms, you:",
             "options": [
-              "Both aim to approximate a function more effectively than a naive, evenly spaced approach",
-              "Chebyshev polynomials replace the need for functions entirely",
-              "Pade approximants and Chebyshev polynomials address entirely unrelated problems",
-              "They share no relationship to any other approximation method"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What term describes minimizing the largest possible error across an approximation interval?",
-            "options": [
-              "Constant-error approximation",
-              "Minimax approximation",
-              "Zero-error guarantee",
-              "Maximin subtraction"
+              "Set the denominator equal to 0 and solve",
+              "Set the numerator equal to 0 and solve",
+              "Find where the derivative is 0",
+              "Set the whole function equal to the horizontal asymptote"
             ],
             "answer": 1
-          },
-          {
-            "q": "In which practical fields might Chebyshev polynomials be applied to improve numerical approximation?",
-            "options": [
-              "Fields with no use for numerical approximation whatsoever",
-              "Only in fields unrelated to mathematics",
-              "Exclusively in ancient historical record-keeping",
-              "Numerical analysis and computer algorithms for evaluating functions efficiently"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Calculus",
@@ -34497,58 +34516,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Number Theory, Probability, and Approximation",
-        "summary": "Grade 12 Advanced Functions strand review: students revisit Eulers totient function, derangements and the hat-check problem, Bayes theorem, Eulers formula for planar graphs, generating Pythagorean triples, the Weierstrass function, Lucas sequences, the birthday problem, and Chebyshev polynomials.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rational Functions: Oblique (Slant) Asymptotes",
+        "summary": "Students learn that a rational function has an oblique (slant) asymptote when the degree of the numerator is exactly one more than the degree of the denominator, and use polynomial long division to find the equation of the slant asymptote.",
+        "resourceLabel": "YouTube: Rational Functions: Oblique (Slant) Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Oblique%20%28Slant%29%20Asymptotes%20grade%2012%20educational",
+        "topic": "Functions: Rational",
         "quiz": [
           {
-            "q": "What does Eulers totient function, phi of n, count?",
+            "q": "A rational function f(x) = p(x)/q(x) has an oblique (slant) asymptote when:",
             "options": [
-              "The number of even integers less than n",
-              "The total number of divisors of n",
-              "The positive integers up to n that are coprime to n",
-              "The sum of all prime factors of n"
+              "degree of numerator is exactly one greater than degree of denominator",
+              "the denominator has no real roots",
+              "degree of numerator equals degree of denominator",
+              "degree of numerator is less than degree of denominator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Find the equation of the oblique asymptote of f(x) = (x^2 + 3x + 5)/(x + 1).",
+            "options": [
+              "y = x^2 + 3x + 5",
+              "y = x + 2",
+              "y = x - 1",
+              "y = x + 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When a rational function has an oblique asymptote, can it also have a horizontal asymptote?",
+            "options": [
+              "Only when the function is even",
+              "Only if the denominator is squared",
+              "No — a rational function cannot have both a horizontal and an oblique asymptote",
+              "Yes, always both are present"
             ],
             "answer": 2
           },
           {
-            "q": "What defines a derangement of a set?",
+            "q": "For f(x) = (2x^2 - x - 3)/(x - 2), polynomial long division gives a quotient of 2x + 3 with remainder 3. What is the oblique asymptote?",
             "options": [
-              "A set with no elements at all",
-              "A permutation in which every element appears in its original position",
-              "A permutation with exactly one fixed element",
-              "A permutation in which no element appears in its original position"
+              "y = 2x + 3",
+              "y = 2x",
+              "y = 2x - 3",
+              "y = x + 3"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does Bayes theorem allow a statistician to do?",
+            "q": "As x → ∞ along a rational function with an oblique asymptote y = mx + b, how does the graph of the function behave?",
             "options": [
-              "Determine whether a number is prime",
-              "Graph a function without any data",
-              "Update the probability of an event in light of new evidence",
-              "Calculate the exact mean of any data set"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does Eulers formula for planar graphs and polyhedra state?",
-            "options": [
-              "Vertices plus edges plus faces always equals zero",
-              "Vertices minus edges minus faces always equals one",
-              "Vertices minus edges plus faces always equals two",
-              "Edges alone always equal the number of faces"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a Pythagorean triple?",
-            "options": [
-              "A set of three prime numbers only",
-              "A set of three positive integers satisfying the Pythagorean relationship",
-              "Any three integers with no relationship to a right triangle",
-              "Three integers that always sum to zero"
+              "It oscillates permanently around the asymptote",
+              "It gets arbitrarily close to the line y = mx + b without touching it as x becomes large",
+              "It becomes vertical",
+              "It equals the asymptote exactly at large x"
             ],
             "answer": 1
           }
@@ -34983,63 +35003,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: The Law of Quadratic Reciprocity",
-        "summary": "Grade 12 Advanced Functions strand: the law of quadratic reciprocity relates whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p, for distinct odd primes p and q, forming one of the most celebrated results in classical number theory.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Applications of Rational Functions",
+        "summary": "Students model real-world rate, mixture, and work problems, such as combined work rates and concentration after dilution, using rational functions and interpret asymptotic behaviour in context.",
+        "resourceLabel": "YouTube: Applications of Rational Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Rational%20Functions%20grade%2012%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does the law of quadratic reciprocity relate?",
+            "q": "Pipe A fills a pool in 6 hours alone; Pipe B fills it in 4 hours alone. Their combined rate satisfies 1/6 + 1/4 = 1/t. What is t?",
             "options": [
-              "The value of an unrelated trigonometric identity",
-              "The sum of two unrelated even numbers",
-              "The number of divisors of a composite number only",
-              "Whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p"
+              "5 hours",
+              "2.4 hours",
+              "10 hours",
+              "1.2 hours"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What kind of numbers p and q does the law of quadratic reciprocity concern?",
+            "q": "A tank contains 50 L of water with 5 kg of salt. Pure water is added, giving concentration C(x) = 5/(50+x) as x litres are added. As x → ∞, what happens to the concentration?",
             "options": [
-              "Distinct odd primes",
-              "Any two even numbers",
-              "Non-integer real numbers",
-              "Only the number one and itself"
+              "It approaches 0",
+              "It stays constant at 5/50",
+              "It approaches 5",
+              "It approaches infinity"
             ],
             "answer": 0
           },
           {
-            "q": "What is a quadratic residue modulo n?",
+            "q": "In the concentration model C(x) = 5/(50+x), what does the horizontal asymptote represent physically?",
             "options": [
-              "A number that is always negative",
-              "Any number that is not an integer",
-              "A number congruent to a perfect square modulo n",
-              "A number with no relationship to squares at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which earlier-studied concept does quadratic reciprocity build directly on?",
-            "options": [
-              "Quadratic residues and the Legendre symbol",
-              "The birthday problem",
-              "The concept of derangements",
-              "Chebyshev polynomials"
+              "The concentration becomes arbitrarily dilute as more water is added, though never reaching exactly zero",
+              "The salt disappears instantly",
+              "The concentration increases without bound",
+              "The tank overflows"
             ],
             "answer": 0
           },
           {
-            "q": "Why is quadratic reciprocity considered significant in the history of number theory?",
+            "q": "Two workers can paint a fence together in time t, where 1/t = 1/a + 1/b for their individual times a and b. If one worker becomes extremely slow (b → ∞), what happens to t?",
             "options": [
-              "It only applies to the number zero",
-              "It has no practical or theoretical significance whatsoever",
-              "It provides an efficient way to determine quadratic residues without exhaustive testing and is a celebrated deep result",
-              "It was proven to be false and later discarded"
+              "t approaches a, the faster worker's time alone",
+              "t approaches b",
+              "t approaches infinity",
+              "t approaches 0"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "A cost-per-unit function is C(x) = (500 + 3x)/x, where x is units produced. What does the horizontal asymptote of this function represent?",
+            "options": [
+              "The maximum production capacity",
+              "The per-unit cost the average cost approaches as production increases",
+              "The minimum possible number of units",
+              "The fixed cost only"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -35228,60 +35248,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Abstract Algebra: An Introduction to Group Theory",
-        "summary": "Grade 12 Advanced Functions strand: a group is a set equipped with a single operation that is closed, associative, has an identity element, and gives every element an inverse, a structure that generalizes the arithmetic of numbers, matrices, and symmetries studied earlier in the course.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Laws of Exponents: Simplifying Exponential Expressions",
+        "summary": "Students apply the laws of exponents, including negative, zero, and rational exponents, to simplify complex expressions involving exponential terms with variable and numeric bases.",
+        "resourceLabel": "YouTube: Laws of Exponents: Simplifying Exponential Expressions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20of%20Exponents%3A%20Simplifying%20Exponential%20Expressions%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What four properties define a group under its operation?",
+            "q": "Simplify (x^3 · x^-5) / x^2.",
             "options": [
-              "Closure, associativity, an identity element, and inverses for every element",
-              "A requirement that the set contain exactly one element",
-              "Only closure, with no other requirements",
-              "Commutativity alone, with no identity element required"
+              "x^4",
+              "x^-4",
+              "x^0",
+              "x^-6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Evaluate 8^(2/3).",
+            "options": [
+              "64",
+              "2",
+              "16",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Simplify (2x^2y^-3)^-2.",
+            "options": [
+              "4x^4 / y^6",
+              "y^6 / (4x^4)",
+              "4x^4 y^6",
+              "1 / (4x^4y^6)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which expression is equivalent to a^0 for a ≠ 0?",
+            "options": [
+              "1",
+              "a",
+              "undefined",
+              "0"
             ],
             "answer": 0
           },
           {
-            "q": "What does closure mean for a group operation?",
+            "q": "Simplify 16^(3/4).",
             "options": [
-              "The set must contain infinitely many elements",
-              "Combining any two elements of the set always yields another element of the set",
-              "Every element must be its own inverse",
-              "The operation must always produce zero"
+              "64",
+              "2",
+              "12",
+              "8"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What is an identity element in a group?",
-            "options": [
-              "An element that has no inverse",
-              "An element that leaves other elements unchanged when combined with them",
-              "An element that must always equal zero",
-              "An element that changes every other element into itself"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which familiar set forms a group under an operation studied earlier in the course?",
-            "options": [
-              "A set with no elements at all",
-              "The integers under addition",
-              "A single point with no operation",
-              "The set of all colours under no defined operation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is group theory considered a generalization of arithmetic studied earlier in this course?",
-            "options": [
-              "It replaces arithmetic entirely with an unrelated field",
-              "It abstracts structural properties shared by numbers, matrices, and symmetries under a common set of rules",
-              "It has no relationship to numbers, matrices, or symmetries",
-              "It only applies to a single specific number"
-            ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
@@ -36204,63 +36225,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Fermats Two Squares Theorem",
-        "summary": "Grade 12 Advanced Functions strand: Fermats two squares theorem states that an odd prime can be written as the sum of two perfect squares if and only if it leaves a remainder of one when divided by four, connecting modular arithmetic to the representation of numbers as sums of squares.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Applications of Exponential Functions: Depreciation and Present Value",
+        "summary": "Students apply exponential decay models to real-world depreciation of assets such as vehicles and equipment, and use exponential functions to calculate present value, distinguishing exponential depreciation from straight-line depreciation.",
+        "resourceLabel": "YouTube: Applications of Exponential Functions: Depreciation and Present Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20Functions%3A%20Depreciation%20and%20Present%20Value%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What does Fermats two squares theorem state about an odd prime number?",
+            "q": "A car purchased for $28,000 depreciates at 15% per year. Which function models its value V after t years?",
             "options": [
-              "It can only be expressed as the sum of three perfect squares",
-              "It must always be an even number",
-              "It can be written as the sum of two perfect squares if and only if it is congruent to one modulo four",
-              "It can never be written as the sum of two perfect squares under any condition"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What must an odd prime be congruent to modulo four to be expressible as a sum of two squares?",
-            "options": [
-              "Two",
-              "One",
-              "Zero",
-              "Three"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which primes cannot be written as the sum of two perfect squares, according to this theorem?",
-            "options": [
-              "Only the number two",
-              "All prime numbers without exception",
-              "Primes congruent to one modulo four",
-              "Primes congruent to three modulo four"
+              "V = 28000(0.15)^t",
+              "V = 28000 - 15t",
+              "V = 28000(1.15)^t",
+              "V = 28000(0.85)^t"
             ],
             "answer": 3
           },
           {
-            "q": "Which branch of mathematics connects to Fermats two squares theorem through congruences?",
+            "q": "Using V = 28000(0.85)^t, approximately what is the car's value after 4 years? (0.85^4 ≈ 0.522)",
             "options": [
-              "Basic set theory with no arithmetic involved",
-              "Trigonometric identities",
-              "Modular arithmetic",
-              "Financial mathematics"
+              "≈ $9,800",
+              "≈ $23,800",
+              "≈ $19,800",
+              "≈ $14,600"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does exponential depreciation differ from straight-line (linear) depreciation?",
+            "options": [
+              "Linear depreciation can never reach zero value",
+              "They are mathematically identical",
+              "Exponential depreciation loses a fixed percentage of the current value each year, so the dollar amount lost decreases over time; linear loses a fixed dollar amount each year",
+              "Exponential depreciation loses the same dollar amount each year; linear loses a percentage"
             ],
             "answer": 2
           },
           {
-            "q": "How does Fermats two squares theorem extend ideas from quadratic residues studied earlier in this course?",
+            "q": "Present value P of an amount A to be received in t years, given an annual discount rate r, is modeled by which formula?",
             "options": [
-              "It uses conditions on residues modulo four to determine whether a prime is representable as a sum of two squares",
-              "It has no connection whatsoever to quadratic residues",
-              "It only applies to even numbers, unlike quadratic residues",
-              "It replaces quadratic residues with an unrelated geometric concept"
+              "P = A - rt",
+              "P = A(1 + r)^{-t}",
+              "P = A + rt",
+              "P = A(1 + r)^t"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "An investment will be worth $10,000 in 5 years. Using a discount rate of 6% per year, which expression gives its present value?",
+            "options": [
+              "10000(1.06)^5",
+              "10000 - 0.06(5)",
+              "10000/(1.06)^5",
+              "10000(0.06)^5"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -37425,60 +37446,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Travelling Salesman Problem",
-        "summary": "Grade 12 Advanced Functions strand: the travelling salesman problem asks for the shortest possible route that visits a given set of cities exactly once and returns to the start, a classic combinatorial optimization problem whose exact solution becomes computationally explosive as the number of cities grows.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Exponential Equations Using Logarithms",
+        "summary": "Students solve exponential equations that cannot be rewritten with a common base by applying logarithms to both sides, using the power law of logarithms to isolate the variable.",
+        "resourceLabel": "YouTube: Solving Exponential Equations Using Logarithms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20Using%20Logarithms%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What question does the travelling salesman problem ask?",
+            "q": "To solve 5^x = 40 for x, an appropriate first step is:",
             "options": [
-              "Which city has the largest population in a data set",
-              "How many cities exist in a given country",
-              "What is the longest possible route between exactly two cities",
-              "What is the shortest possible route visiting a given set of cities exactly once and returning to the start"
+              "Take the logarithm of both sides",
+              "Divide both sides by 5",
+              "Square both sides",
+              "Add 5 to both sides"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What type of mathematical problem is the travelling salesman problem classified as?",
+            "q": "Solve 3^x = 20 for x, rounded to two decimal places.",
             "options": [
-              "A simple linear equation with one unknown",
-              "A basic arithmetic addition problem",
-              "A combinatorial optimization problem",
-              "A problem with no numerical component at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What happens to the number of possible routes as more cities are added to the problem?",
-            "options": [
-              "It always decreases as more cities are added",
-              "It stays exactly the same no matter how many cities are added",
-              "It grows explosively, making exact brute-force solutions computationally expensive",
-              "It becomes exactly zero once more than two cities are included"
+              "x ≈ 0.48",
+              "x ≈ 6.67",
+              "x ≈ 2.73",
+              "x ≈ 1.30"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the travelling salesman problem often used as a benchmark example in computer science?",
+            "q": "Solve 2^(x+1) = 15 for x.",
             "options": [
-              "It is always trivially solved regardless of input size",
-              "It illustrates how quickly combinatorial problems can become computationally difficult to solve exactly",
-              "It has no relevance to computing or algorithms whatsoever",
-              "It has already been proven completely unsolvable in every case"
+              "x = log(15)/log(2) ≈ 3.91",
+              "x = log(15)/log(2) - 1 ≈ 2.91",
+              "x = log(15/2) ≈ 0.88",
+              "x = 15/2 - 1 = 6.5"
             ],
             "answer": 1
           },
           {
-            "q": "Which practical fields commonly apply travelling-salesman-style optimization?",
+            "q": "When solving an exponential equation using logs, which log law allows moving the exponent to the front?",
             "options": [
-              "Fields with no connection to routes or scheduling at all",
-              "Only purely theoretical mathematics with no real application",
-              "Logistics and delivery-route planning, among other scheduling applications",
-              "Fields limited exclusively to pure geometry with no optimization involved"
+              "Power law",
+              "Change of base law",
+              "Product law",
+              "Quotient law"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Solve 7^(2x) = 50 for x, rounded to three decimal places.",
+            "options": [
+              "x ≈ 1.005",
+              "x ≈ 0.503",
+              "x ≈ 2.01",
+              "x ≈ 3.56"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -37609,122 +37631,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Digital Humanities and Distant Reading",
-        "summary": "Grade 12 English strand: digital humanities applies computational methods, such as text mining and statistical analysis, to large bodies of literary text, enabling distant reading, which studies patterns across hundreds or thousands of works rather than the close reading of a single text.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Drama: Verbatim Theatre and the Rhetoric of Real Speech",
+        "summary": "Explores documentary and verbatim theatre, where scripts are built word-for-word from interviews, testimony, or public records, and considers the ethical and rhetorical choices playwrights make when staging real people's words.",
+        "resourceLabel": "YouTube: Drama: Verbatim Theatre and the Rhetoric of Real Speech",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Drama%3A%20Verbatim%20Theatre%20and%20the%20Rhetoric%20of%20Real%20Speech%20grade%2012%20educational",
+        "topic": "Drama",
         "quiz": [
           {
-            "q": "What computational approach does digital humanities bring to literary study?",
+            "q": "Verbatim theatre is distinguished from other drama primarily because its dialogue:",
             "options": [
-              "Analyzing only a single word from a single text",
-              "Applying methods such as text mining and statistical analysis to large bodies of text",
-              "Refusing to use any computational tools whatsoever",
-              "Replacing all literary texts with purely numerical data"
+              "Must be performed without any script at all",
+              "Is composed entirely of invented characters' speech",
+              "Is drawn directly from real interviews, testimony, or public records",
+              "Is written only in strict verse form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A key ethical question verbatim playwrights face when editing real testimony is:",
+            "options": [
+              "Whether to use present or past tense throughout",
+              "How much can be cut or rearranged before the speaker's original meaning is distorted",
+              "Which font to use for the stage directions",
+              "Whether the play needs an intermission"
             ],
             "answer": 1
           },
           {
-            "q": "What does distant reading study, in contrast to close reading of one text?",
+            "q": "Verbatim theatre most closely overlaps with which nonfiction tradition studied elsewhere in this course?",
             "options": [
-              "Patterns across hundreds or thousands of works at once",
-              "Only the authors biography, with no reference to the text",
-              "A single sentence in extreme, exhaustive detail",
-              "A single characters name repeated once"
+              "The personal eulogy",
+              "New Journalism and literary reportage",
+              "The annotated bibliography",
+              "The extended metaphor essay"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "How does distant reading differ from the close reading practised in traditional literary analysis?",
+            "q": "Why might a director cast actors to embody real speakers rather than simply play recordings in a verbatim production?",
             "options": [
-              "Distant reading refuses to use any texts at all",
-              "The two approaches are methodologically identical in every way",
-              "Distant reading identifies large-scale patterns across many texts rather than focusing intensively on one text",
-              "Close reading always requires analyzing thousands of texts at once"
+              "Actors are required to improvise well beyond the transcript",
+              "Live embodiment creates dramatic presence while still anchoring dialogue in documented words",
+              "Recordings are legally prohibited in all theatre",
+              "It removes the need for a script entirely"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What kind of literary questions is distant reading particularly well suited to answering?",
+            "q": "Which of the following is a risk verbatim theatre runs that wholly invented drama does not?",
             "options": [
-              "Questions about broad trends, such as changing word usage or genre conventions over time",
-              "Questions about the precise emotional tone of a single line of poetry",
-              "Questions that require no literary text of any kind",
-              "Questions limited strictly to a single characters dialogue"
+              "Overusing metaphor in dialogue",
+              "Misrepresenting a real, identifiable person through selective editing",
+              "Losing the audience's attention during a long scene",
+              "Failing to follow a three-act structure"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a literary scholar combine both distant and close reading in a single research project?",
-            "options": [
-              "Combining the two methods is prohibited in literary scholarship",
-              "The two methods can never be used together under any circumstances",
-              "Distant reading can reveal broad patterns worth investigating in depth through close reading of specific texts",
-              "Close reading always contradicts and invalidates distant reading"
-            ],
-            "answer": 2
+            "answer": 1
           }
         ]
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Network Flow and the Max-Flow Min-Cut Theorem",
-        "summary": "Grade 12 Advanced Functions strand: network flow models a directed graph with capacities on its edges, where the max-flow min-cut theorem states that the maximum possible flow from a source to a sink equals the minimum total capacity of edges that must be removed to disconnect them.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Exponential Growth and Decay: Modelling Real-World Situations",
+        "summary": "Students construct and interpret exponential growth and decay models for contexts such as population growth, radioactive decay, and depreciation, and solve for time, rate, or initial amount within the model.",
+        "resourceLabel": "YouTube: Exponential Growth and Decay: Modelling Real-World Situations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20Growth%20and%20Decay%3A%20Modelling%20Real-World%20Situations%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What structure does network flow use to model a system?",
+            "q": "A population of 2000 grows at 3% per year. Which model represents the population after t years?",
             "options": [
-              "A single number with no graph structure involved",
-              "A directed graph with capacities assigned to its edges",
-              "An undirected graph with no capacities of any kind",
-              "A list of unrelated names with no connections"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does the max-flow min-cut theorem state?",
-            "options": [
-              "The maximum flow from source to sink equals the minimum total capacity of edges needed to disconnect them",
-              "The minimum cut is always larger than the maximum possible flow",
-              "The maximum flow is always exactly zero in every network",
-              "Cuts and flows have no mathematical relationship to one another"
+              "P(t) = 2000(1.03)^t",
+              "P(t) = 2000(0.97)^t",
+              "P(t) = 2000(3)^t",
+              "P(t) = 2000 + 3t"
             ],
             "answer": 0
           },
           {
-            "q": "What are the two special vertices typically identified in a network flow problem?",
+            "q": "A radioactive sample decays according to A(t) = A0(0.5)^(t/h), where h is the half-life. If A0 = 100 g and h = 10 days, how much remains after 30 days?",
             "options": [
-              "The root and the leaf",
-              "The vertex and the edge",
-              "The origin and the destination axis",
-              "The source and the sink"
+              "12.5 g",
+              "6.25 g",
+              "50 g",
+              "25 g"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A car worth $25,000 depreciates 15% per year. Which expression gives its value after 4 years?",
+            "options": [
+              "25000(0.15)^4",
+              "25000 - 0.15(4)",
+              "25000(1.15)^4",
+              "25000(0.85)^4"
             ],
             "answer": 3
           },
           {
-            "q": "What does a cut represent in the context of network flow?",
+            "q": "For continuous growth modelled by A(t) = A0 e^(kt) with k = 0.05, what does k represent?",
             "options": [
-              "The total number of vertices in the graph",
-              "A single vertex with no edges attached",
-              "An edge with infinite capacity",
-              "A set of edges whose removal disconnects the source from the sink"
+              "The half-life",
+              "The doubling time",
+              "The continuous growth rate per unit time",
+              "The initial amount"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Which practical problems commonly rely on network flow and the max-flow min-cut theorem?",
+            "q": "A bacteria culture doubles every 3 hours starting at 500. How many bacteria are present after 9 hours?",
             "options": [
-              "Purely artistic problems with no quantitative structure",
-              "Problems entirely unrelated to graphs or networks",
-              "Only problems involving a single isolated point",
-              "Problems such as optimizing traffic, logistics networks, and bipartite matching"
+              "8000",
+              "1500",
+              "2000",
+              "4000"
             ],
             "answer": 3
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Calculus",
@@ -38403,63 +38426,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Amicable Numbers and Sociable Number Chains",
-        "summary": "Grade 12 Advanced Functions strand: two numbers are amicable if each equals the sum of the proper divisors of the other, generalizing perfect numbers, and sociable numbers extend this idea to longer cyclic chains where each number is the sum of the proper divisors of the one before it.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Compound Interest and the Number e",
+        "summary": "Students compare compound interest formulas for different compounding frequencies and examine how increasing the compounding frequency without bound leads to continuous compounding and the natural exponential base e.",
+        "resourceLabel": "YouTube: Compound Interest and the Number e",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Interest%20and%20the%20Number%20e%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What defines a pair of amicable numbers?",
+            "q": "The compound interest formula A = P(1 + r/n)^(nt) uses n to represent:",
             "options": [
-              "Each number equals the sum of the proper divisors of the other",
-              "Neither number may have any divisors at all",
-              "Each number must be a prime number with no other properties",
-              "Both numbers must be identical to each other"
+              "The number of years",
+              "The principal amount",
+              "The interest rate",
+              "The number of times interest is compounded per year"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Which earlier-studied class of numbers do amicable numbers generalize?",
+            "q": "As the number of compounding periods n increases without bound, (1 + r/n)^(nt) approaches which formula?",
             "options": [
-              "Even numbers with no other property",
-              "Prime numbers in general",
-              "Perfect numbers",
-              "Negative integers"
+              "A = P(1+r)^t",
+              "A = Prt",
+              "A = Pe^(rt)",
+              "A = P + rt"
             ],
             "answer": 2
           },
           {
-            "q": "What is a sociable number chain?",
+            "q": "$1000 is invested at 6% compounded monthly for 5 years. Which expression gives the final amount?",
             "options": [
-              "A chain that must always contain exactly two numbers",
-              "A list of numbers with no defined mathematical relationship",
-              "A single number with no relationship to any other number",
-              "A cyclic chain of numbers where each is the sum of the proper divisors of the one before it"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How many numbers can a sociable chain contain, compared to an amicable pair?",
-            "options": [
-              "A sociable chain can never contain more than one number",
-              "A sociable chain can contain more than two numbers, cycling back to the start",
-              "A sociable chain must contain an infinite, non-repeating sequence",
-              "A sociable chain must always contain exactly two numbers, identical to an amicable pair"
+              "1000(1 + 0.06)^5",
+              "1000(1 + 0.06/12)^60",
+              "1000(1.06)^60",
+              "1000(1 + 0.06/12)^5"
             ],
             "answer": 1
           },
           {
-            "q": "Why are amicable and sociable numbers considered part of the same broader family of ideas as perfect numbers?",
+            "q": "Which compounding frequency yields the greatest final amount for the same nominal rate and time, all else equal?",
             "options": [
-              "They are defined using an entirely unrelated operation, such as multiplication",
-              "They have no shared property connecting them to each other",
-              "Only perfect numbers involve divisors; the other two do not",
-              "All three concepts are defined using the sum of a numbers proper divisors"
+              "Semi-annual",
+              "Annual",
+              "Monthly",
+              "Continuous"
             ],
             "answer": 3
+          },
+          {
+            "q": "The number e used in continuous growth models is best described as:",
+            "options": [
+              "The base of common (base-10) logarithms",
+              "An irrational constant approximately 2.71828, the limit of (1+1/n)^n as n→∞",
+              "A rational number equal to 22/7",
+              "A variable that changes with the interest rate"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -39866,63 +39889,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Statistics: Analysis of Variance (ANOVA) and Comparing Multiple Means",
-        "summary": "Grade 12 Advanced Functions strand: analysis of variance, or ANOVA, tests whether the means of three or more groups differ significantly by comparing the variance between group means to the variance within each group, extending simpler two-sample comparison methods to studies with multiple groups at once.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Logarithmic Inequalities",
+        "summary": "Students solve inequalities involving logarithmic expressions by applying the properties of logarithms, accounting for domain restrictions (arguments must be positive), and testing intervals to determine the solution set.",
+        "resourceLabel": "YouTube: Solving Logarithmic Inequalities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Inequalities%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What question does an ANOVA test primarily answer?",
+            "q": "When solving a logarithmic inequality such as log₂(x) > 3, what is the first restriction that must be applied?",
             "options": [
-              "Whether a sample was collected using a random method",
-              "Whether exactly two population parameters are identical",
-              "Whether a single data point is an outlier",
-              "Whether the means of three or more groups differ significantly from one another"
+              "x must be positive, since the logarithm's argument must be greater than 0",
+              "x must equal 0",
+              "There is no restriction on x",
+              "x must be negative"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve log₂(x) > 3.",
+            "options": [
+              "x > 8",
+              "x < 8",
+              "0 < x < 8",
+              "x > 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve log₃(x - 2) ≤ 2, including the domain restriction.",
+            "options": [
+              "x ≥ 2",
+              "0 < x ≤ 9",
+              "x ≤ 11",
+              "2 < x ≤ 11"
             ],
             "answer": 3
           },
           {
-            "q": "What two sources of variance does ANOVA compare to draw its conclusion?",
+            "q": "Why can't the inequality log(x) < log(x - 1) simply be solved by dropping the logs to get x < x - 1?",
             "options": [
-              "The variance between group means and the variance within each group",
-              "The mean and the mode of a single group only",
-              "The correlation coefficient and the regression slope",
-              "The sample size and the number of variables measured"
+              "Because x must be squared first",
+              "Because logarithms are always negative",
+              "Because logs cannot be compared directly at all",
+              "Because dropping logs is valid, and x < x-1 correctly shows there's no solution — but the domain (x > 1) must still be checked first"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is ANOVA useful when a study involves more than two groups?",
+            "q": "For the inequality log₀.₅(x) > 1 (base between 0 and 1, so the log function is decreasing), how does solving differ from a log with base greater than 1?",
             "options": [
-              "It allows comparing all groups at once, rather than requiring many separate two-group comparisons",
-              "ANOVA can only ever compare exactly two groups at a time",
-              "It removes the need to ever compare group means",
-              "ANOVA is limited to studies with a single group only"
+              "There is no difference in either the process or the result",
+              "The base being less than 1 means the argument x can be negative",
+              "Because the base is between 0 and 1, the log function is decreasing, so the inequality direction flips when converting to an expression without logs",
+              "The inequality must be squared instead of exponentiated"
             ],
-            "answer": 0
-          },
-          {
-            "q": "How does ANOVA relate to hypothesis testing and the p-value, studied in an earlier batch?",
-            "options": [
-              "ANOVA always produces a p-value of exactly zero",
-              "ANOVA produces a test statistic and an associated p-value used to decide whether observed group differences are statistically significant",
-              "ANOVA has no connection whatsoever to hypothesis testing",
-              "Hypothesis testing cannot be applied to comparisons involving more than one group"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might a researcher choose ANOVA over running several separate two-sample tests on the same data?",
-            "options": [
-              "Running many separate tests increases the chance of a false positive, which ANOVA is designed to control for when comparing multiple groups at once",
-              "ANOVA and separate two-sample tests always produce identical, interchangeable results",
-              "ANOVA requires more groups than could ever be tested individually",
-              "Running separate tests always gives more reliable results than ANOVA"
-            ],
-            "answer": 0
+            "answer": 2
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Calculus",
@@ -40110,63 +40133,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Hamiltonian Paths and Cycles in Graphs",
-        "summary": "Grade 12 Advanced Functions strand: a Hamiltonian path visits every vertex of a graph exactly once, and a Hamiltonian cycle does so while also returning to its starting vertex, a concept closely related to the travelling salesman problem but focused on the existence of such a route rather than its optimal cost.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Logarithmic Equations",
+        "summary": "Students solve logarithmic equations by condensing to a single logarithm and converting to exponential form, and verify solutions against the domain restrictions of logarithmic functions.",
+        "resourceLabel": "YouTube: Solving Logarithmic Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What must a Hamiltonian path do, with respect to the vertices of a graph?",
+            "q": "Solve log base 2 of x = 5.",
             "options": [
-              "Visit every vertex exactly once",
-              "Avoid visiting any vertex at all",
-              "Visit every edge exactly once, ignoring the vertices",
-              "Visit only a single vertex, ignoring all others"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What additional requirement distinguishes a Hamiltonian cycle from a Hamiltonian path?",
-            "options": [
-              "A Hamiltonian cycle must visit each vertex more than once",
-              "A Hamiltonian cycle has no relationship to the starting vertex",
-              "A Hamiltonian cycle must also return to its starting vertex",
-              "A Hamiltonian cycle may skip some vertices entirely"
+              "x = 25",
+              "x = 10",
+              "x = 32",
+              "x = 7"
             ],
             "answer": 2
           },
           {
-            "q": "How does the Hamiltonian path problem relate to the travelling salesman problem, studied in an earlier batch?",
+            "q": "Solving log(x) + log(x-3) = 1 leads to x = 5 or x = -2. What is the final valid solution?",
             "options": [
-              "Both concern visiting every vertex once, but the travelling salesman problem also seeks the lowest-cost such route among weighted edges",
-              "Hamiltonian paths always ignore the structure of the underlying graph",
-              "The travelling salesman problem ignores whether every vertex is visited",
-              "The two problems are entirely unrelated to one another"
+              "x = -2",
+              "No solution",
+              "x = 5",
+              "x = 5 and x = -2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve ln(x+2) = 3.",
+            "options": [
+              "x = e^3 - 2",
+              "x = 3e - 2",
+              "x = e^3 + 2",
+              "x = ln(3) - 2"
             ],
             "answer": 0
           },
           {
-            "q": "Is determining whether a general graph contains a Hamiltonian cycle considered an easy problem to solve exactly for large graphs?",
+            "q": "When solving log(2x-1) = log(x+4), the solution is found by:",
             "options": [
-              "Yes, it can always be solved instantly regardless of graph size",
-              "No, it is computationally difficult in general, similar in spirit to other hard combinatorial problems",
-              "It is only meaningful for graphs with a single vertex",
-              "The question has no defined answer for any graph"
+              "Cross-multiplying the logs",
+              "Setting 2x-1 = 0",
+              "Squaring both sides",
+              "Setting 2x-1 = x+4, since the logs are equal only if their arguments are equal (and both positive)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve log base 3 of (x-1) = 2.",
+            "options": [
+              "x = 8",
+              "x = 10",
+              "x = 7",
+              "x = 9"
             ],
             "answer": 1
-          },
-          {
-            "q": "Why are Hamiltonian cycles relevant to practical routing and network design problems?",
-            "options": [
-              "Practical routing problems never require visiting every location",
-              "Hamiltonian cycles have no application outside of pure graph theory",
-              "Finding a route that visits every required location exactly once and returns to the start models many real scheduling and logistics tasks",
-              "Hamiltonian cycles are only relevant to graphs with no edges"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Calculus",
@@ -40541,120 +40564,121 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Ergodic Literature and Hypertext Fiction: Reading as Navigation",
-        "summary": "Grade 12 English strand: ergodic literature requires a reader to perform non-trivial effort to traverse the text, as in hypertext fiction, where clicking or choosing links creates a non-linear reading path, turning the act of reading itself into an act of navigation and making each readers experience of the same work potentially unique.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Grammar and Style: Nominalization and the Weight of Abstract Nouns",
+        "summary": "Examines nominalization -- turning verbs and adjectives into abstract nouns -- and how overusing it can make academic prose sound authoritative but also dense or evasive; students practice converting nominalized sentences back into direct, active prose.",
+        "resourceLabel": "YouTube: Grammar and Style: Nominalization and the Weight of Abstract Nouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%20and%20Style%3A%20Nominalization%20and%20the%20Weight%20of%20Abstract%20Nouns%20grade%2012%20educational",
+        "topic": "Grammar: Sentence Structure",
         "quiz": [
           {
-            "q": "What does ergodic literature require of its reader, beyond ordinary sequential reading?",
+            "q": "Nominalization is best defined as:",
             "options": [
-              "No reading effort of any kind beyond turning pages in a fixed order",
-              "The complete removal of any reader choice or interaction",
-              "Non-trivial effort to traverse the text",
-              "A single, identical reading path for every possible reader"
+              "Removing all nouns from a sentence",
+              "Converting a verb or adjective into an abstract noun, such as 'decide' into 'decision'",
+              "Turning a proper noun into a common noun",
+              "Capitalizing key terms for emphasis"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What structural feature defines hypertext fiction as a form of ergodic literature?",
+            "q": "Which sentence demonstrates heavy nominalization?",
             "options": [
-              "Clicking or choosing links creates a non-linear reading path through the text",
-              "Hypertext fiction is printed exclusively on paper with no digital component",
-              "Hypertext fiction removes all links and choices from the reading experience",
-              "The text can only ever be read in one single, fixed linear order"
+              "The committee's decision resulted in the rejection of the proposal.",
+              "They said no to the proposal.",
+              "The committee decided to reject the proposal.",
+              "The committee rejected the proposal quickly."
             ],
             "answer": 0
           },
           {
-            "q": "How does hypertext fiction turn reading into an act of navigation?",
+            "q": "A common effect of overusing nominalizations in academic writing is that prose:",
             "options": [
-              "Hypertext fiction eliminates the reader entirely from the reading process",
-              "Readers actively choose a path through branching or linked text rather than passively following one fixed sequence",
-              "Navigation in hypertext fiction refers only to a physical, real-world location",
-              "Readers have no ability to make choices while engaging with hypertext fiction"
+              "becomes more vivid and concrete",
+              "gains a sense of formality but can feel dense or vague",
+              "gains far more active verbs",
+              "shrinks dramatically in overall length"
             ],
             "answer": 1
           },
           {
-            "q": "How does ergodic literature compare to the choices explored in video game narrative, studied in an earlier batch?",
+            "q": "Rewriting 'There was an increase in the rate of participation' as 'More people participated' primarily achieves what stylistic effect?",
             "options": [
-              "Ergodic literature can never involve any digital medium",
-              "Both can give a reader or player meaningful agency in shaping how a narrative unfolds, though ergodic literature applies this idea broadly across written and digital texts",
-              "Video game narrative always follows a single, fixed linear sequence",
-              "The two concepts describe entirely unrelated forms of storytelling"
+              "It adds a nominalization for emphasis",
+              "It replaces an abstract noun phrase with a direct verb, increasing clarity",
+              "It removes the sentence's only action verb",
+              "It shifts the sentence into passive voice"
             ],
             "answer": 1
           },
           {
-            "q": "Why might two different readers of the same ergodic, hypertext work have genuinely different reading experiences?",
+            "q": "A skilled academic writer might deliberately choose a nominalization instead of a verb when:",
             "options": [
-              "Ergodic texts contain no branching points or reader choices whatsoever",
-              "Differences between readers experiences are always due to printing errors alone",
-              "All readers of an ergodic text are forced to follow the exact same sequence regardless of choice",
-              "Their choices at branching points can lead them through different sequences of the same underlying text"
+              "they want the sentence to feel more casual and conversational",
+              "they are writing dialogue in a short story",
+              "the abstract concept itself, not the action, is the true subject of the sentence",
+              "they need to shorten the sentence at any cost"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Reading: Fiction & Story Elements"
+        ]
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Stable Marriage Problem and the Gale-Shapley Algorithm",
-        "summary": "Grade 12 Advanced Functions strand: the stable marriage problem asks how to pair up two equal-sized groups, each with ranked preferences over the other group, so that no two unmatched members would both prefer each other over their assigned partners, a stable pairing that the Gale-Shapley algorithm is guaranteed to construct.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Graphing Logarithmic Functions and Their Transformations",
+        "summary": "Students graph logarithmic functions and their transformations, identifying the vertical asymptote, domain, range, and key points, and relate logarithmic graphs to their exponential inverses.",
+        "resourceLabel": "YouTube: Graphing Logarithmic Functions and Their Transformations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Logarithmic%20Functions%20and%20Their%20Transformations%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What does the stable marriage problem ask for?",
+            "q": "What is the vertical asymptote of y = log(x)?",
             "options": [
-              "The single largest possible group with no pairing involved",
-              "A pairing chosen entirely at random with no reference to preferences",
-              "A pairing of two equal-sized groups, based on preferences, with no unmatched pair that would both prefer each other over their assigned partners",
-              "A method for counting the total number of people in two groups"
+              "x = 1",
+              "y = 1",
+              "y = 0",
+              "x = 0"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What information does each member of the two groups provide in this problem?",
+            "q": "What is the domain of y = log(x-3) + 2?",
             "options": [
-              "A single random number with no connection to preference",
-              "The exact age of every other member in both groups",
-              "A ranked list of preferences over members of the other group",
-              "No preferences of any kind"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What guarantee does the Gale-Shapley algorithm provide about the pairing it produces?",
-            "options": [
-              "It never terminates and produces no pairing at all",
-              "It ignores the preferences of one of the two groups entirely",
-              "It always produces a stable pairing, with no pair that would mutually prefer each other over their assigned partners",
-              "It always produces a pairing that is guaranteed to be unstable"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does the stable marriage problem relate to bipartite matching, referenced in earlier discrete math batches?",
-            "options": [
-              "It is a specific type of bipartite matching problem, adding preference rankings and a stability requirement on top of simple matching",
-              "Stable marriage matching requires only one group rather than two",
-              "The two ideas have no mathematical relationship whatsoever",
-              "Bipartite matching always ignores whether the two groups are equal in size"
+              "x > 3",
+              "All real numbers",
+              "x > 0",
+              "x > -3"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the stable marriage problem relevant to real-world applications such as matching students to schools?",
+            "q": "The graph of y = log base 2 of x is transformed to y = -log base 2 of (x+4). What happens to the vertical asymptote?",
             "options": [
-              "Real-world matching problems never involve any preferences at all",
-              "It has no real-world application beyond a purely abstract mathematical puzzle",
-              "It models how to pair participants with ranked preferences in a way that avoids pairs who would both prefer to swap partners",
-              "The algorithm can only be applied to problems with a single participant"
+              "It becomes a horizontal asymptote at y = -4",
+              "It shifts to x = 4 with no reflection",
+              "It stays at x = 0",
+              "It shifts to x = -4 and the graph reflects vertically"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which point always lies on the graph of y = log_b(x) for any base b > 0, b ≠ 1?",
+            "options": [
+              "(0, 0)",
+              "(b, 0)",
+              "(1, 0)",
+              "(0, 1)"
             ],
             "answer": 2
+          },
+          {
+            "q": "How is the graph of y = log(x) related to the graph of y = 10^x?",
+            "options": [
+              "They are reflections across the x-axis",
+              "They are reflections of each other across the line y = x",
+              "They are identical graphs",
+              "They have the same vertical asymptote"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -40845,63 +40869,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Fermat Primes and Constructible Regular Polygons",
-        "summary": "Grade 12 Advanced Functions strand: a Fermat prime is a prime number of the special form two raised to a power of two plus one, and a classical result connects these primes to geometry, showing that a regular polygon can be constructed using only a compass and straightedge exactly when its number of sides meets a condition built from distinct Fermat primes.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Logarithmic Scales in Science: pH, Decibels, and the Richter Scale",
+        "summary": "Students apply logarithmic scales used in real-world measurement, including pH, sound intensity (decibels), and the Richter earthquake scale, to compare quantities that differ by orders of magnitude.",
+        "resourceLabel": "YouTube: Logarithmic Scales in Science: pH, Decibels, and the Richter Scale",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Scales%20in%20Science%3A%20pH%2C%20Decibels%2C%20and%20the%20Richter%20Scale%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What special algebraic form defines a Fermat prime?",
+            "q": "A solution with pH 4 is how many times more acidic (in H+ concentration) than a solution with pH 6?",
             "options": [
-              "A prime number of the form two raised to a power of two, plus one",
-              "Any prime number that is also an even number",
-              "A prime number that is exactly one less than a power of two",
-              "Any number that is the sum of two smaller prime numbers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What classical geometric question do Fermat primes connect to?",
-            "options": [
-              "How to bisect an arbitrary angle using only a compass",
-              "How to determine the volume of a general polyhedron",
-              "Which regular polygons can be constructed using only a compass and straightedge",
-              "How to compute the exact area of any triangle"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How many Fermat primes have been confirmed to exist, based on current mathematical knowledge?",
-            "options": [
-              "None at all; Fermat primes have been proven never to exist",
-              "Infinitely many, with a simple formula generating every one",
-              "Exactly one, and no others are believed to exist",
-              "Only a small, known finite number, with no further ones confirmed despite extensive searching"
+              "2 times",
+              "20 times",
+              "10 times",
+              "100 times"
             ],
             "answer": 3
           },
           {
-            "q": "How does the Fermat prime construction result build on ideas from the Euclidean algorithm and modular arithmetic studied earlier?",
+            "q": "An earthquake measuring 6.0 on the Richter scale has an amplitude how many times greater than one measuring 4.0?",
             "options": [
-              "It has no relationship whatsoever to number theory, relying only on geometry",
-              "It draws on deep number-theoretic results about primes to answer a question originally posed in classical geometry",
-              "It shows that geometry and number theory can never be meaningfully connected",
-              "It relies entirely on calculus, with no connection to number theory"
+              "20 times",
+              "1000 times",
+              "2 times",
+              "100 times"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why is the link between Fermat primes and constructible polygons considered a striking result in mathematics?",
+            "q": "The decibel scale is defined as dB = 10·log10(I/I0). If sound A is 30 dB louder than sound B, how many times more intense is sound A?",
             "options": [
-              "It shows that geometry and number theory are entirely unrelated fields",
-              "It applies only to polygons with an even number of sides",
-              "It connects a purely number-theoretic property of certain primes to a concrete geometric construction question, bridging two very different areas of mathematics",
-              "It proves that no regular polygon can ever be constructed with compass and straightedge"
+              "1000 times",
+              "3 times",
+              "300 times",
+              "30 times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A solution has [H+] = 10^-8 mol/L. What is its pH?",
+            "options": [
+              "0.8",
+              "10^-8",
+              "8",
+              "-8"
             ],
             "answer": 2
+          },
+          {
+            "q": "Why are logarithmic scales like pH and decibels useful for measuring quantities such as acidity or sound intensity?",
+            "options": [
+              "They only work for negative quantities",
+              "They compress an enormous range of values into a smaller, more manageable set of numbers",
+              "They eliminate the need for units",
+              "They make all measurements equal to zero"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -41089,63 +41113,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Bertrands Postulate and Prime Gaps",
-        "summary": "Grade 12 Advanced Functions strand: Bertrands postulate states that for every integer greater than one, there is always at least one prime number between it and its double, a guarantee about how far apart consecutive primes can be that complements broader results such as the prime number theorem studied earlier.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Change of Base Formula and Evaluating Logarithms",
+        "summary": "Students use the change of base formula to evaluate logarithms with bases not available on a standard calculator, and apply it to compare and order logarithmic expressions with different bases.",
+        "resourceLabel": "YouTube: Change of Base Formula and Evaluating Logarithms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Change%20of%20Base%20Formula%20and%20Evaluating%20Logarithms%20grade%2012%20educational",
+        "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
-            "q": "What does Bertrands postulate guarantee about primes near a given integer greater than one?",
+            "q": "The change of base formula states log_b(x) equals:",
             "options": [
-              "The integer itself must always be prime",
-              "No prime number can ever exist between the integer and its double",
-              "Exactly one hundred primes always exist in that range",
-              "At least one prime number exists between the integer and its double"
+              "log(b)/log(x)",
+              "log(x-b)",
+              "log(x)/log(b)",
+              "log(x) · log(b)"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What kind of mathematical statement is Bertrands postulate, despite its name?",
+            "q": "Evaluate log base 5 of 100 using change of base, rounded to two decimal places.",
             "options": [
-              "An unproven conjecture with no known proof",
-              "A proven theorem about the distribution of prime numbers",
-              "A purely geometric statement with no connection to prime numbers",
-              "A statement that has been definitively disproven"
+              "0.70",
+              "2.86",
+              "5.00",
+              "1.43"
             ],
             "answer": 1
           },
           {
-            "q": "How does Bertrands postulate relate to the concept of prime gaps?",
+            "q": "Which is larger, log base 3 of 50 or log base 7 of 50?",
             "options": [
-              "Bertrands postulate has no connection to the spacing between primes",
-              "It proves that prime gaps must always be exactly one",
-              "It shows that prime gaps grow without any bound whatsoever, even for small integers",
-              "It places an upper bound on how large the gap between certain consecutive primes can be"
+              "They are equal",
+              "log base 7 of 50, because a larger base always gives a larger logarithm",
+              "log base 3 of 50, because a smaller base gives a larger logarithm for the same argument greater than 1",
+              "Cannot be determined without a calculator"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Evaluate log base 2 of 0.125.",
+            "options": [
+              "0.125",
+              "-0.125",
+              "-3",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using change of base, log base 8 of 1000 is equivalent to which expression?",
+            "options": [
+              "ln(1000-8)",
+              "ln(8)/ln(1000)",
+              "8/1000",
+              "ln(1000)/ln(8)"
             ],
             "answer": 3
-          },
-          {
-            "q": "How does Bertrands postulate complement the prime number theorem, studied in an earlier batch?",
-            "options": [
-              "Bertrands postulate replaces the need for the prime number theorem entirely",
-              "The two results contradict each other directly",
-              "Both describe how primes are distributed among the integers, though the prime number theorem gives an average density while Bertrands postulate gives a guaranteed local bound",
-              "The prime number theorem and Bertrands postulate address entirely unrelated mathematical questions"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is a guaranteed bound like Bertrands postulate useful, even though it is a relatively coarse statement about prime spacing?",
-            "options": [
-              "It gives the exact location of every prime number with no uncertainty at all",
-              "A coarse guarantee about prime spacing has no mathematical usefulness whatsoever",
-              "It provides a simple, reliable guarantee about locating a prime within a specific range, which can be a useful stepping stone in other proofs",
-              "It applies only to a single specific integer and no others"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -41335,60 +41359,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Liouville Numbers and the Existence of Transcendental Numbers",
-        "summary": "Grade 12 Advanced Functions strand: a Liouville number is a real number that can be approximated extremely closely by rational numbers, closely enough to prove it cannot be the root of any polynomial with integer coefficients, making Liouville numbers the first numbers ever explicitly proven to be transcendental.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Unit Circle and Trigonometric Ratios for Any Angle",
+        "summary": "Students use the unit circle to define sine, cosine, and tangent for any angle, including angles beyond 0°-90°, connecting coordinates on the circle to trigonometric ratios and the signs of ratios in each quadrant.",
+        "resourceLabel": "YouTube: The Unit Circle and Trigonometric Ratios for Any Angle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Unit%20Circle%20and%20Trigonometric%20Ratios%20for%20Any%20Angle%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What special approximation property defines a Liouville number?",
+            "q": "On the unit circle, a point at angle θ has coordinates (x, y). Which pair of definitions is correct?",
             "options": [
-              "It can be approximated extremely closely by rational numbers, more closely than typical irrational numbers allow",
-              "It is defined only as the root of a specific integer polynomial",
-              "It cannot be approximated by any rational number whatsoever",
-              "It is always itself a rational number with a simple fraction form"
+              "cos θ = 1/x, sin θ = 1/y",
+              "cos θ = y, sin θ = x",
+              "cos θ = x, sin θ = y",
+              "cos θ = x/y, sin θ = y/x"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which quadrant are both sin θ and cos θ negative?",
+            "options": [
+              "Quadrant I",
+              "Quadrant II",
+              "Quadrant III",
+              "Quadrant IV"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the unit circle, what is cos(180°)?",
+            "options": [
+              "-1",
+              "undefined",
+              "1",
+              "0"
             ],
             "answer": 0
           },
           {
-            "q": "What broader category of numbers does every Liouville number belong to?",
+            "q": "What is tan θ in terms of the unit circle coordinates (x, y), and why is it undefined at θ = 90°?",
             "options": [
-              "Transcendental numbers, meaning it is not the root of any polynomial with integer coefficients",
-              "Algebraic numbers that satisfy some polynomial with integer coefficients",
-              "Prime numbers with no fractional or decimal component",
-              "Rational numbers expressible as a simple fraction"
+              "tan θ = y + x; undefined when x = -y",
+              "tan θ = y/x; undefined when x = 0, which happens at θ = 90°",
+              "tan θ = x/y; undefined when y = 0",
+              "tan θ = xy; undefined when x = y"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What was historically significant about the discovery of Liouville numbers?",
+            "q": "How does the unit circle explain why sin(θ) = sin(180° - θ) for angles in Quadrant II?",
             "options": [
-              "They were the first numbers shown to be roots of integer polynomials",
-              "They disproved the existence of any transcendental number",
-              "They were the first numbers ever proven to be rational",
-              "They were the first numbers ever explicitly proven to be transcendental"
+              "Because all angles have the same sine value",
+              "Because Quadrant II has no y-coordinate",
+              "Because Quadrant II angles reflect Quadrant I angles across the y-axis, giving the same y-coordinate (sine value) but an opposite x-coordinate (cosine value)",
+              "Because sine is always equal to cosine"
             ],
-            "answer": 3
-          },
-          {
-            "q": "How does the concept of a Liouville number relate to continued fractions, studied in an earlier batch?",
-            "options": [
-              "Extremely good rational approximations, similar to those produced by continued fraction truncations, are central to how Liouville numbers are constructed and identified",
-              "Continued fractions have no relationship whatsoever to how well a number can be approximated",
-              "Continued fractions apply only to rational numbers, never to transcendental ones",
-              "Liouville numbers can only ever be represented as a single simple fraction"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why was proving the existence of transcendental numbers considered an important mathematical milestone?",
-            "options": [
-              "It had no impact on the broader understanding of the real number system",
-              "It showed that transcendental numbers and rational numbers are exactly the same set",
-              "It proved that every real number must be algebraic, with no exceptions",
-              "It confirmed that not every real number can be described as the root of a polynomial with integer coefficients, revealing a genuinely different class of numbers"
-            ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -41578,63 +41603,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Runge Phenomenon and the Limits of Polynomial Interpolation",
-        "summary": "Grade 12 Advanced Functions strand: the Runge phenomenon is the tendency of a high-degree polynomial interpolation through equally spaced points to oscillate wildly near the edges of the interval, showing that simply increasing polynomial degree does not always improve the accuracy of an interpolated approximation.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Determining the Equation of a Sinusoidal Function From Its Graph",
+        "summary": "Students analyze a sinusoidal graph to determine its amplitude, period, vertical shift, and phase shift, then write the corresponding equation in the form y = a sin(k(x - d)) + c or y = a cos(k(x - d)) + c.",
+        "resourceLabel": "YouTube: Determining the Equation of a Sinusoidal Function From Its Graph",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Determining%20the%20Equation%20of%20a%20Sinusoidal%20Function%20From%20Its%20Graph%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What does the Runge phenomenon describe?",
+            "q": "A sinusoidal graph oscillates between a maximum of 8 and a minimum of 2. What is its amplitude and vertical shift (c)?",
             "options": [
-              "A phenomenon that only ever occurs with linear, first-degree interpolation",
-              "A guarantee that higher-degree polynomial interpolation always improves accuracy everywhere",
-              "The complete failure of any polynomial to pass through the given data points",
-              "Wild oscillation near the edges of an interval when interpolating with a high-degree polynomial through equally spaced points"
+              "amplitude = 6, c = 5",
+              "amplitude = 3, c = 10",
+              "amplitude = 3, c = 5",
+              "amplitude = 5, c = 3"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What spacing of interpolation points is classically associated with triggering the Runge phenomenon?",
+            "q": "A sinusoidal graph completes one full cycle every 8 units. What value of k should be used in y = a sin(kx)?",
             "options": [
-              "Points spaced according to a special, unevenly clustered pattern near the edges",
-              "Points chosen entirely at random with no fixed spacing rule",
-              "A single repeated point used many times over",
-              "Equally spaced points"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the Runge phenomenon reveal about the relationship between polynomial degree and interpolation accuracy?",
-            "options": [
-              "Higher polynomial degree always produces a strictly better approximation with no exceptions",
-              "Simply increasing the polynomial degree does not always improve the accuracy of the interpolated approximation",
-              "Only degree-one polynomials can ever be used for interpolation",
-              "Polynomial degree has no effect whatsoever on interpolation accuracy"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does the Runge phenomenon relate to polynomial interpolation and Lagranges method, studied in an earlier batch?",
-            "options": [
-              "It reveals a practical limitation of naive high-degree polynomial interpolation using equally spaced points, a method built directly on Lagranges approach",
-              "Lagranges method is entirely immune to the Runge phenomenon under all conditions",
-              "It has no connection whatsoever to polynomial interpolation of any kind",
-              "The Runge phenomenon only applies to trigonometric functions, not polynomials"
+              "k = π/4",
+              "k = 8",
+              "k = π/8",
+              "k = 2π"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the Runge phenomenon an important practical consideration for anyone building a numerical approximation from sampled data?",
+            "q": "A cosine graph has its maximum value at x = 3 instead of at x = 0. What does this indicate about the equation?",
             "options": [
-              "It shows that careful choice of interpolation points and method matters, since a naive high-degree fit at equally spaced points can actually worsen accuracy",
-              "It only matters for functions with an already simple, low-degree closed form",
-              "It shows that interpolation should always use the highest possible polynomial degree with no other consideration",
-              "It proves that numerical approximation from data is always perfectly accurate regardless of method"
+              "The period must be 3",
+              "There is no phase shift needed",
+              "The amplitude must be negative",
+              "The graph has a horizontal (phase) shift of 3 units to the right"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Given a sine graph with amplitude 4, period 12, vertical shift +1, and no phase shift, which equation matches?",
+            "options": [
+              "y = 4 cos(π/6 x) - 1",
+              "y = 4 sin(12x) + 1",
+              "y = 4 sin(π/6 x) + 1",
+              "y = 1 sin(π/6 x) + 4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a sinusoidal graph be modeled with a cosine function instead of a sine function, given the same shape?",
+            "options": [
+              "If the graph reaches a maximum or minimum at x = 0 (or the chosen starting point), a cosine function needs no phase shift, whereas a sine function might",
+              "It cannot — sine and cosine graphs are never interchangeable",
+              "Cosine functions always have larger amplitude",
+              "Cosine functions can never model periodic data"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Calculus",
@@ -41822,60 +41847,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Inference, Graph Algorithms, and Prime Structure",
-        "summary": "Grade 12 Advanced Functions review: revisiting the Student t-distribution, ANOVA, Hamiltonian paths and cycles, Dijkstras algorithm, and the stable marriage problem from Days 161-165.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Exact Values of Trigonometric Ratios Using Compound Angle Formulas",
+        "summary": "Students apply the compound angle (sum and difference) formulas to calculate exact trigonometric values for angles such as 15°, 75°, and 105° by expressing them as sums or differences of special angles (30°, 45°, 60°).",
+        "resourceLabel": "YouTube: Exact Values of Trigonometric Ratios Using Compound Angle Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exact%20Values%20of%20Trigonometric%20Ratios%20Using%20Compound%20Angle%20Formulas%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "When is the Student t-distribution typically used instead of the normal distribution?",
+            "q": "To find the exact value of sin(75°) using compound angle formulas, which sum of special angles should be used?",
             "options": [
-              "When estimating a population mean from a small sample with an unknown population standard deviation",
-              "Only when the entire population has already been measured directly",
-              "When the population standard deviation is known exactly in advance",
-              "Only for samples larger than several thousand observations"
+              "75° = 60° + 30°",
+              "75° = 90° - 30°",
+              "75° = 30° + 45°",
+              "75° = 45° + 45°"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What question does an ANOVA test primarily answer?",
+            "q": "Using sin(75°) = sin(45° + 30°) = sin45°cos30° + cos45°sin30°, what is the exact value?",
             "options": [
-              "Whether a sample was collected using a random method",
-              "Whether a single data point is an outlier",
-              "Whether exactly two population parameters are identical",
-              "Whether the means of three or more groups differ significantly from one another"
+              "(√2 + √3)/2",
+              "(√6 - √2)/4",
+              "(√6 + √2)/4",
+              "(√6 + √2)/2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the exact value of cos(15°), found using cos(45° - 30°) = cos45°cos30° + sin45°sin30°?",
+            "options": [
+              "(√6 + √2)/2",
+              "(√6 - √2)/4",
+              "(√3 - √2)/4",
+              "(√6 + √2)/4"
             ],
             "answer": 3
           },
           {
-            "q": "What must a Hamiltonian path do, with respect to the vertices of a graph?",
+            "q": "Why does the exact value of cos(15°) equal the exact value of sin(75°)?",
             "options": [
-              "Visit every vertex exactly once",
-              "Visit every edge exactly once, ignoring the vertices",
-              "Visit only a single vertex, ignoring all others",
-              "Avoid visiting any vertex at all"
+              "Because 15° and 75° are complementary angles (they sum to 90°), and cos θ = sin(90° - θ)",
+              "Because both angles are acute",
+              "It's a coincidence with no underlying reason",
+              "Because compound angle formulas always give equal results"
             ],
             "answer": 0
           },
           {
-            "q": "What problem does Dijkstras algorithm solve?",
+            "q": "Which compound angle expression would you use to find the exact value of tan(105°)?",
             "options": [
-              "Counting the total number of vertices in a graph",
-              "Finding the shortest path from a starting vertex to every other vertex in a weighted graph",
-              "Finding the longest possible path between exactly two vertices",
-              "Determining whether a graph contains any cycles at all"
+              "tan(105°) cannot be found using compound angle formulas",
+              "tan(105°) = tan(60° + 45°) using the tangent sum formula",
+              "tan(105°) = tan(35° + 70°) using the tangent sum formula",
+              "tan(105°) = tan(90° + 15°), which is always undefined"
             ],
             "answer": 1
-          },
-          {
-            "q": "What does the stable marriage problem ask for?",
-            "options": [
-              "A pairing chosen entirely at random with no reference to preferences",
-              "The single largest possible group with no pairing involved",
-              "A pairing of two equal-sized groups, based on preferences, with no unmatched pair that would both prefer each other over their assigned partners",
-              "A method for counting the total number of people in two groups"
-            ],
-            "answer": 2
           }
         ]
       },
@@ -42496,58 +42522,59 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Post-Structuralism and the Play of the Signifier",
-        "summary": "Grade 12 English strand: post-structuralism challenges structuralisms assumption that language rests on stable, fixed relationships between signifier and signified, arguing instead that meaning is unstable and endlessly deferred as each signifier points to further signifiers rather than settling on a single fixed meaning.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Poetry: Imagism and the Haiku's Influence on Modern Verse",
+        "summary": "Traces the early-20th-century Imagist movement, with its call for precise, unadorned images and its debt to Japanese haiku, and asks students to analyze and write compressed, image-centered poems that avoid abstraction and ornament.",
+        "resourceLabel": "YouTube: Poetry: Imagism and the Haiku's Influence on Modern Verse",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Imagism%20and%20the%20Haiku%27s%20Influence%20on%20Modern%20Verse%20grade%2012%20educational",
+        "topic": "Reading: Poetry",
         "quiz": [
           {
-            "q": "What structuralist assumption does post-structuralism challenge?",
+            "q": "The Imagist movement, associated with poets like Ezra Pound, called for poetry that:",
             "options": [
-              "That language has any structure whatsoever",
-              "That texts can ever be analyzed using critical theory",
-              "That meaning is always entirely stable and fixed in every text",
-              "That language rests on stable, fixed relationships between signifier and signified"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "According to post-structuralist thought, what happens to meaning as one signifier is examined?",
-            "options": [
-              "It disappears entirely, leaving no meaning of any kind",
-              "It becomes identical to the physical object it names",
-              "It settles instantly and permanently on one single meaning",
-              "It points toward further signifiers rather than settling on a single fixed meaning"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What term is often used to describe this endless deferral of settled meaning?",
-            "options": [
-              "Meaning is described as identical across every possible reader",
-              "Meaning is described as completely fixed and unchanging",
-              "Meaning is described as unstable and endlessly deferred",
-              "Meaning is described as irrelevant to any interpretation of a text"
+              "used elaborate, ornamental language and long narrative arcs",
+              "told a moral fable through extended allegory",
+              "presented a precise, concrete image with minimal abstraction or excess wording",
+              "rhymed every line according to a strict meter"
             ],
             "answer": 2
           },
           {
-            "q": "How does post-structuralism relate to structuralism and semiotics, studied in an earlier batch?",
+            "q": "Imagist poets drew significant inspiration from which non-Western poetic form?",
             "options": [
-              "Structuralism and post-structuralism are simply two names for the identical theory",
-              "Post-structuralism predates structuralism by several centuries",
-              "The two theories have no relationship to one another whatsoever",
-              "Post-structuralism builds directly on structuralist ideas about signs while critiquing and destabilizing structuralisms assumption of fixed structure"
+              "Chinese regulated verse exclusively",
+              "The Persian ghazal",
+              "The Arabic qasida",
+              "The Japanese haiku"
             ],
             "answer": 3
           },
           {
-            "q": "Why might post-structuralist theory be considered a significant challenge to earlier, more stable models of textual meaning?",
+            "q": "A traditional haiku's structure is most commonly described as:",
             "options": [
-              "It removes the reader entirely from the process of constructing meaning",
-              "It reframes interpretation as an open-ended process rather than a search for one single, fixed, recoverable meaning",
-              "It has no impact on how texts are read or interpreted",
-              "It confirms that every text has exactly one correct, fixed interpretation"
+              "a single long line built on internal rhyme",
+              "fourteen lines ending in a rhymed couplet",
+              "four stanzas of equal length joined by a refrain",
+              "three unrhymed lines, often patterned 5-7-5 syllables, capturing a single moment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which line best exemplifies an Imagist aesthetic?",
+            "options": [
+              "'The theme of this poem is loneliness and regret, as I will now explain'",
+              "'Petals on a wet, black bough'",
+              "'Oh, how my heart doth ache with sorrows deep and vast tonight'",
+              "'Once upon a time, in a kingdom far away, there lived a poet'"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a central difference between Imagism and the confessional poetry studied earlier in this course?",
+            "options": [
+              "Imagism requires strict rhyme, while confessional poetry never rhymes",
+              "Imagism favors compressed, external imagery over sustained autobiographical disclosure",
+              "There is no meaningful difference between the two movements",
+              "Confessional poetry never uses imagery of any kind"
             ],
             "answer": 1
           }
@@ -42555,60 +42582,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: The Chinese Postman Problem and Eulerian Circuits",
-        "summary": "Grade 12 Advanced Functions strand: the Chinese postman problem asks for the shortest possible route that traverses every edge of a graph at least once and returns to the starting point, a question closely tied to Eulerian circuits, which exist only in graphs where every vertex has an even degree.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Trigonometric Identities: Pythagorean Identities",
+        "summary": "Students prove and apply the Pythagorean trigonometric identities, including sin²θ + cos²θ = 1 and its derived forms, to simplify expressions and verify other trigonometric identities.",
+        "resourceLabel": "YouTube: Trigonometric Identities: Pythagorean Identities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%3A%20Pythagorean%20Identities%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What does the Chinese postman problem ask for?",
+            "q": "Which identity is a direct consequence of the Pythagorean theorem applied to the unit circle?",
             "options": [
-              "The shortest route that visits every vertex exactly once with no reference to edges",
-              "The shortest possible route that traverses every edge of a graph at least once and returns to the starting point",
-              "A route that avoids traversing any edge of the graph",
-              "The single longest possible route through a graph with no return requirement"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is an Eulerian circuit?",
-            "options": [
-              "A closed route that traverses every edge of a graph exactly once",
-              "A route that visits every vertex exactly once and ignores edges entirely",
-              "A route that never returns to its starting point",
-              "A route that avoids using any edge more than zero times"
+              "sin²θ + cos²θ = 1",
+              "sinθ · cosθ = 1",
+              "sinθ + cosθ = 1",
+              "sin²θ - cos²θ = 1"
             ],
             "answer": 0
           },
           {
-            "q": "Under what condition on vertex degree does a graph contain an Eulerian circuit?",
+            "q": "Dividing sin²θ + cos²θ = 1 by cos²θ produces which identity?",
             "options": [
-              "Vertex degree has no bearing on the existence of an Eulerian circuit",
-              "Every vertex in the graph must have an even degree",
-              "Every vertex must have an odd degree",
-              "The graph must contain no vertices with any defined degree"
+              "tan²θ - 1 = sec²θ",
+              "tan²θ + 1 = sec²θ",
+              "1 + cot²θ = csc²θ",
+              "sin²θ = 1 - tan²θ"
             ],
             "answer": 1
           },
           {
-            "q": "How does the Chinese postman problem compare to Hamiltonian paths and cycles, studied in an earlier batch?",
+            "q": "Simplify sin²θ / (1 - cos²θ).",
             "options": [
-              "The Chinese postman problem ignores the structure of the graph entirely",
-              "The two problems are defined in exactly the same way with no distinction",
-              "Both concern finding an efficient route through a graph, but the Chinese postman problem covers every edge at least once, while a Hamiltonian path or cycle visits every vertex exactly once",
-              "Hamiltonian cycles require covering every edge rather than every vertex"
+              "1",
+              "2sinθ",
+              "cos²θ",
+              "0"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is the Chinese postman problem relevant to real-world logistics, such as mail delivery or street sweeping routes?",
+            "q": "If sinθ = 3/5 and θ is in the first quadrant, what is cosθ using the Pythagorean identity?",
             "options": [
-              "Real-world delivery routes never require covering every street segment",
-              "It models the practical need to efficiently cover every street or route segment in an area and return to a starting depot",
-              "The problem only applies to graphs with no edges at all",
-              "It has no application to any real-world routing or logistics scenario"
+              "-4/5",
+              "5/4",
+              "3/5",
+              "4/5"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Which expression is equivalent to 1 + cot²θ?",
+            "options": [
+              "1 - sin²θ",
+              "sec²θ",
+              "tan²θ",
+              "csc²θ"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -42800,63 +42828,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Sophie Germain Primes and Safe Primes",
-        "summary": "Grade 12 Advanced Functions strand: a Sophie Germain prime is a prime number p for which two p plus one is also prime, and the resulting prime two p plus one is called a safe prime, a pairing named for the mathematician Sophie Germain that plays a role in both number theory and cryptography.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Compound Angle Formulas",
+        "summary": "Students derive and apply the compound (sum and difference) angle formulas for sine, cosine, and tangent to evaluate exact trigonometric values for non-special angles and to simplify expressions.",
+        "resourceLabel": "YouTube: Compound Angle Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Angle%20Formulas%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What defining property must a Sophie Germain prime p satisfy?",
+            "q": "Which is the correct compound angle formula for sin(A+B)?",
             "options": [
-              "Two p plus one must also be a prime number",
-              "p must be an even number greater than two",
-              "p must be exactly one less than a power of two",
-              "p must equal the sum of two smaller primes"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the resulting prime, two p plus one, called when p is a Sophie Germain prime?",
-            "options": [
-              "A twin prime",
-              "A Mersenne prime",
-              "A Fermat prime",
-              "A safe prime"
+              "sinA cosB - cosA sinB",
+              "cosA cosB - sinA sinB",
+              "cosA cosB + sinA sinB",
+              "sinA cosB + cosA sinB"
             ],
             "answer": 3
           },
           {
-            "q": "After which mathematician is the Sophie Germain prime named?",
+            "q": "Use the compound angle formula to find the exact value of cos(75°) using cos(45°+30°).",
             "options": [
-              "Sophie Germain",
-              "A mathematician with no historical connection to number theory",
-              "A mathematician who worked exclusively in geometry with no interest in primes",
-              "A twentieth-century computer scientist with no connection to classical number theory"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the concept of a Sophie Germain prime compare to a Fermat prime, studied in an earlier batch?",
-            "options": [
-              "A Sophie Germain prime is always also a Fermat prime",
-              "The two concepts describe identical sets of prime numbers",
-              "Fermat primes and Sophie Germain primes have no defining algebraic relationship at all",
-              "Both describe primes defined by a special algebraic relationship, though a Fermat prime has the form two to a power of two plus one, while a Sophie Germain prime is defined by the primality of two p plus one"
+              "(√6 + √2)/4",
+              "(√2 - √6)/4",
+              "√2/4",
+              "(√6 - √2)/4"
             ],
             "answer": 3
           },
           {
-            "q": "Why are Sophie Germain and safe primes of particular interest beyond pure number theory?",
+            "q": "Which identity correctly expresses tan(A-B)?",
             "options": [
-              "Sophie Germain primes are used exclusively in geometry with no connection to encryption",
-              "Cryptography never makes use of any special class of prime numbers",
-              "They play a practical role in cryptography, including constructing secure keys for encryption systems",
-              "They have no application whatsoever outside of pure number theory"
+              "(tanA - tanB)/(1 + tanA tanB)",
+              "(tanA + tanB)/(1 - tanA tanB)",
+              "(tanA - tanB)/(1 - tanA tanB)",
+              "tanA - tanB"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Evaluate sin(15°) exactly using sin(45°-30°).",
+            "options": [
+              "(√6 - √2)/4",
+              "(√2 - √6)/4",
+              "1/4",
+              "(√6 + √2)/4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify cos(x)cos(y) - sin(x)sin(y) using a compound angle formula.",
+            "options": [
+              "cos(x+y)",
+              "sin(x-y)",
+              "cos(x-y)",
+              "sin(x+y)"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -43533,63 +43561,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Turans Theorem and Extremal Graph Theory",
-        "summary": "Grade 12 Advanced Functions strand: Turans theorem gives the maximum number of edges a graph can have while still avoiding a complete subgraph of a specified size, a foundational result in extremal graph theory that studies how large or dense a graph can become before a particular structure becomes unavoidable.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Double Angle Formulas",
+        "summary": "Students derive the double angle formulas for sine, cosine, and tangent from the compound angle formulas, use the three equivalent forms of cos(2θ), and apply them to solve equations and simplify expressions.",
+        "resourceLabel": "YouTube: Double Angle Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Double%20Angle%20Formulas%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What does Turans theorem determine about a graph?",
+            "q": "Which is the standard double angle formula for sin(2θ)?",
             "options": [
-              "The shortest path between any two vertices in a graph",
-              "The minimum number of vertices required for any graph to exist",
-              "The exact number of Hamiltonian cycles contained in a graph",
-              "The maximum number of edges a graph can have while still avoiding a complete subgraph of a specified size"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What broader area of mathematics does Turans theorem belong to?",
-            "options": [
-              "Extremal graph theory",
-              "Differential calculus",
-              "Basic arithmetic with no connection to graphs",
-              "Trigonometry"
+              "2sinθ cosθ",
+              "2cos²θ - 1",
+              "sinθ + cosθ",
+              "sin²θ + cos²θ"
             ],
             "answer": 0
           },
           {
-            "q": "What general question does extremal graph theory investigate?",
+            "q": "Which of these is NOT an equivalent form of cos(2θ)?",
             "options": [
-              "How to compute the derivative of a graphs defining function",
-              "How to convert a graph into a system of linear equations only",
-              "How large or dense a graph can become before a particular structure becomes unavoidable",
-              "How to measure the physical distance between vertices on a printed page"
+              "cos²θ - sin²θ",
+              "1 - 2sin²θ",
+              "2sinθcosθ",
+              "2cos²θ - 1"
             ],
             "answer": 2
           },
           {
-            "q": "How does Turans theorem relate to Ramsey theory, studied in an earlier batch?",
+            "q": "If cosθ = 3/5 with θ in Quadrant I, find cos(2θ) using cos(2θ) = 2cos²θ - 1.",
             "options": [
-              "Both are foundational results in extremal graph theory concerned with when patterns must appear, though Ramsey theory guarantees a substructure appears given enough size while Turans theorem bounds edge count to avoid one",
-              "Turans theorem has no connection to when patterns must appear in a graph",
-              "Ramsey theory and Turans theorem prove exactly the same statement",
-              "The two theories are entirely unrelated fields of mathematics"
+              "7/25",
+              "24/25",
+              "-7/25",
+              "-18/25"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is Turans theorem considered a foundational result in graph theory?",
+            "q": "If sinθ = 1/3, find cos(2θ) using cos(2θ) = 1 - 2sin²θ.",
             "options": [
-              "It has had no influence on the later development of graph theory",
-              "It shows that graph density has no relationship to substructure avoidance",
-              "The theorem applies only to graphs with a single vertex",
-              "It gives one of the first precise answers to how dense a graph can be while still avoiding a specific forbidden substructure"
+              "-7/9",
+              "1/9",
+              "7/9",
+              "2/9"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "Which expression correctly simplifies (2sinθcosθ)/(cos²θ - sin²θ)?",
+            "options": [
+              "tan(2θ)",
+              "sin(2θ)",
+              "cos(2θ)",
+              "tan²θ"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Calculus",
@@ -43779,63 +43807,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Practical Numbers and Egyptian Fraction Representations",
-        "summary": "Grade 12 Advanced Functions strand: a practical number is a positive integer whose smaller positive divisors can be combined by addition to represent every smaller positive integer, a property closely connected to Egyptian fractions, which express a rational number as a sum of distinct unit fractions.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Solving Trigonometric Equations over a Given Interval",
+        "summary": "Students solve trigonometric equations algebraically over a restricted domain such as 0 ≤ x < 2π, finding all solutions using the unit circle, related angles, and, where needed, factoring or identities.",
+        "resourceLabel": "YouTube: Solving Trigonometric Equations over a Given Interval",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20over%20a%20Given%20Interval%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What defining property must a practical number have?",
+            "q": "Solve 2sinx - 1 = 0 for 0 ≤ x < 2π.",
             "options": [
-              "It must be a perfect square with no odd divisors",
-              "It must have exactly two positive divisors in total",
-              "Its smaller positive divisors can be combined by addition to represent every smaller positive integer",
-              "It must be prime with no divisors other than one and itself"
+              "x = π/2",
+              "x = π/3, 2π/3",
+              "x = π/6, 5π/6",
+              "x = π/6, 7π/6"
             ],
             "answer": 2
           },
           {
-            "q": "What is an Egyptian fraction?",
+            "q": "Solve cos²x - 1 = 0 for 0 ≤ x < 2π.",
             "options": [
-              "A fraction with a denominator that must always equal zero",
-              "A fraction that cannot be expressed using any unit fractions",
-              "A representation of a rational number as a sum of distinct unit fractions",
-              "A representation using only negative numbers"
+              "x = 0, π",
+              "x = π",
+              "x = π/2, 3π/2",
+              "x = 0, 2π"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve 2cos²x + cosx - 1 = 0 for 0 ≤ x < 2π by factoring as (2cosx-1)(cosx+1) = 0.",
+            "options": [
+              "x = π/3, 5π/3, π",
+              "x = π/6, π",
+              "x = π/3, 2π/3, π",
+              "x = π/3, π"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve tanx = -1 for 0 ≤ x < 2π.",
+            "options": [
+              "x = 3π/4, 7π/4",
+              "x = π/4, 3π/4",
+              "x = π/4, 5π/4",
+              "x = 3π/4, 5π/4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many solutions does sin(2x) = 0 have on the interval 0 ≤ x < 2π?",
+            "options": [
+              "5",
+              "2",
+              "4",
+              "1"
             ],
             "answer": 2
-          },
-          {
-            "q": "What does a unit fraction refer to in the context of Egyptian fractions?",
-            "options": [
-              "A fraction with a numerator of one",
-              "A fraction that is always negative",
-              "A fraction where numerator and denominator are equal",
-              "A fraction with a denominator of one"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does the concept of a practical number relate to perfect numbers, studied in an earlier batch?",
-            "options": [
-              "Both are special classes of integers defined by properties of their divisors, though a perfect number requires its divisors to sum to the number itself, while a practical number requires its divisors to be combinable to represent every smaller integer",
-              "A practical number must always also be a perfect number",
-              "Perfect numbers and practical numbers have no relationship to divisors at all",
-              "The two concepts describe exactly the same set of integers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might practical numbers be useful for constructing Egyptian fraction representations?",
-            "options": [
-              "Practical numbers have no connection to constructing fraction representations",
-              "Practical numbers make it impossible to represent any rational number as a sum of unit fractions",
-              "Egyptian fractions can only ever be built from prime numbers",
-              "Their divisor structure makes it possible to build sums of unit fractions that represent a wide range of target values systematically"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Fractions"
+        ]
       },
       {
         "subject": "Calculus",
@@ -43964,122 +43992,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literature: The Carnivalesque and Bakhtins Theory of Inversion",
-        "summary": "Grade 12 English strand: the carnivalesque, a concept developed by theorist Mikhail Bakhtin, describes moments in literature when the usual social order is temporarily inverted, with hierarchy, decorum, and authority mocked or suspended in a spirit of festive, communal disruption.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Writing: The Precis -- Condensing Argument Without Losing Its Logic",
+        "summary": "Teaches the precis as a distinct form of summary writing that preserves a source text's structure and reasoning, not just its content, and gives students practice compressing dense academic or opinion writing into a fraction of its original length while staying faithful to the author's argument.",
+        "resourceLabel": "YouTube: Writing: The Precis -- Condensing Argument Without Losing Its Logic",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Precis%20--%20Condensing%20Argument%20Without%20Losing%20Its%20Logic%20grade%2012%20educational",
+        "topic": "Writing: Process & Editing",
         "quiz": [
           {
-            "q": "What happens to the usual social order during a carnivalesque moment in literature?",
+            "q": "A precis differs from a general summary chiefly because it:",
             "options": [
-              "It becomes permanently and irreversibly fixed with no possibility of change",
-              "It disappears from the narrative entirely with no depiction of society at all",
-              "It is temporarily inverted, with hierarchy and authority mocked or suspended",
-              "It is reinforced and celebrated with no disruption of any kind"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which theorist developed the concept of the carnivalesque?",
-            "options": [
-              "A theorist with no connection to literary criticism",
-              "A theorist working exclusively in ancient Greece",
-              "A dramatist rather than a literary theorist",
-              "Mikhail Bakhtin"
+              "adds the writer's own opinion of the source",
+              "is always longer than the original text",
+              "only lists keywords pulled from the source",
+              "preserves the original text's logical structure and reasoning in condensed form"
             ],
             "answer": 3
           },
           {
-            "q": "What spirit typically characterizes carnivalesque disruption?",
+            "q": "Which is a defining constraint typically placed on precis writing?",
             "options": [
-              "A spirit with no connection to community or festivity",
-              "A festive, communal spirit of disruption",
-              "A spirit of strict, unquestioning obedience to authority",
-              "A solemn, entirely joyless atmosphere"
+              "A ban on using any of the author's key terms",
+              "A minimum length equal to the original text",
+              "A requirement to quote the source verbatim throughout",
+              "A strict word or sentence limit that forces ruthless compression"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "How does the carnivalesque compare to Menippean satire, studied in an earlier batch?",
+            "q": "When writing a precis of an argumentative essay, a student should prioritize capturing:",
             "options": [
-              "Menippean satire always depicts a festive communal celebration",
-              "Both can destabilize serious authority through disruption, though the carnivalesque centres on festive, communal reversal of hierarchy rather than Menippean satires mockery of intellectual attitudes",
-              "The two concepts describe exactly the same literary device with no distinction",
-              "The carnivalesque has no connection to mocking or suspending authority"
+              "every example and anecdote from the essay",
+              "only the essay's opening sentence",
+              "the author's biography",
+              "the essay's central claim and the main line of reasoning that supports it"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Why might an author use carnivalesque inversion to critique authority or social hierarchy?",
+            "q": "A precis that inserts the summarizer's own counterargument has committed what error?",
             "options": [
-              "Festive disruption is incapable of exposing anything about social hierarchy",
-              "Temporarily upending the normal order in a festive context can expose its arbitrariness and open space for critique",
-              "Carnivalesque inversion always reinforces existing authority with no critical effect",
-              "The carnivalesque removes any possibility of social commentary from a text"
+              "It has violated a rule against using pronouns",
+              "None -- this is expected in precis writing",
+              "It has failed the core requirement of neutrally representing the source's argument",
+              "It has made the precis too short"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Precis writing is most useful as practice for which later academic task?",
+            "options": [
+              "Accurately and concisely representing sources when synthesizing research",
+              "Writing free verse poetry",
+              "Memorizing vocabulary lists",
+              "Formatting a bibliography"
+            ],
+            "answer": 0
           }
         ]
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Newtons Identities and Power Sums of Polynomial Roots",
-        "summary": "Grade 12 Advanced Functions strand: Newtons identities relate the power sums of a polynomials roots, meaning the sums of each root raised to a fixed power, to the polynomials coefficients, providing a systematic way to compute these power sums without ever finding the individual roots directly.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Reciprocal Trigonometric Functions: Secant, Cosecant, Cotangent",
+        "summary": "Students define the reciprocal trigonometric functions secant, cosecant, and cotangent in terms of sine, cosine, and tangent, evaluate them at special angles, and determine their domains based on where the reciprocal is undefined.",
+        "resourceLabel": "YouTube: Reciprocal Trigonometric Functions: Secant, Cosecant, Cotangent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reciprocal%20Trigonometric%20Functions%3A%20Secant%2C%20Cosecant%2C%20Cotangent%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What do Newtons identities relate to a polynomials coefficients?",
+            "q": "How is secθ defined in terms of cosθ?",
             "options": [
-              "The power sums of the polynomials roots",
-              "The exact numerical value of each individual root",
-              "The derivative of the polynomial at each root",
-              "The graph of the polynomial at a single fixed point"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is meant by a power sum of a polynomials roots?",
-            "options": [
-              "The product of all the roots multiplied together",
-              "The average of the coefficients of the polynomial",
-              "The sum of each root raised to a fixed power",
-              "The difference between the largest and smallest root"
+              "secθ = -cosθ",
+              "secθ = cosθ",
+              "secθ = 1/cosθ",
+              "secθ = 1/sinθ"
             ],
             "answer": 2
           },
           {
-            "q": "What practical advantage do Newtons identities offer when working with a polynomials roots?",
+            "q": "What is cscθ when θ = π/6?",
             "options": [
-              "They allow power sums of the roots to be computed without ever finding the individual roots directly",
-              "They require every individual root to be computed first before anything else can be found",
-              "They only apply to polynomials with exactly one root",
-              "They eliminate the need to know the polynomials coefficients"
+              "1/2",
+              "√3",
+              "2",
+              "√2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For which values is cotθ undefined?",
+            "options": [
+              "Where sinθ = 0",
+              "Where cosθ = 1",
+              "Where cosθ = 0",
+              "Where tanθ = 1"
             ],
             "answer": 0
           },
           {
-            "q": "How do Newtons identities relate to Vietas formulas, studied in an earlier batch?",
+            "q": "What is sec(60°)?",
             "options": [
-              "Newtons identities require the roots to be irrational in every case",
-              "Vietas formulas and Newtons identities are simply two different names for an identical statement",
-              "The two results describe entirely unrelated relationships between roots and coefficients",
-              "Both connect a polynomials roots to its coefficients, though Vietas formulas give elementary symmetric functions directly while Newtons identities give a recursive way to compute power sums"
+              "√3",
+              "2",
+              "√3/2",
+              "1/2"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why are Newtons identities a useful tool in algebra and beyond?",
+            "q": "Which of the following is equivalent to cotθ?",
             "options": [
-              "They make it impossible to relate a polynomials roots to its coefficients",
-              "They have no practical use outside of a single narrow theoretical context",
-              "They give a systematic, coefficient-based method for computing quantities related to a polynomials roots, useful from algebra to numerical analysis",
-              "Newtons identities can only be applied to polynomials of degree one"
+              "1/sinθ",
+              "cosθ/sinθ",
+              "1/cosθ",
+              "sinθ/cosθ"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Calculus",
@@ -44267,58 +44296,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: Probability Pitfalls, Graph Circuits, and Prime Variants",
-        "summary": "Grade 12 Advanced Functions review: revisiting Simpsons paradox, Type I and Type II errors, the Chinese postman problem, Sophie Germain primes, and the error function from Days 171-175.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Graphing Tangent, Secant, Cosecant, and Cotangent Functions",
+        "summary": "Students graph the tangent, secant, cosecant, and cotangent functions, identifying their vertical asymptotes, periods, and domains as they relate to the zeros and undefined points of sine and cosine.",
+        "resourceLabel": "YouTube: Graphing Tangent, Secant, Cosecant, and Cotangent Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Tangent%2C%20Secant%2C%20Cosecant%2C%20and%20Cotangent%20Functions%20grade%2012%20educational",
+        "topic": "Functions: Trigonometric",
         "quiz": [
           {
-            "q": "What happens in Simpsons paradox to a trend observed within separate groups of data?",
+            "q": "The graph of y = tanx has vertical asymptotes where:",
             "options": [
-              "The trend can reverse or disappear when the groups are combined into a single aggregated data set",
-              "The trend remains completely unchanged regardless of how the data is grouped",
-              "The paradox only occurs when there is exactly one group of data",
-              "The trend always becomes stronger and more obvious once the groups are combined"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What happens during a Type I error?",
-            "options": [
-              "A false null hypothesis is correctly rejected",
-              "A true null hypothesis is correctly retained",
-              "No hypothesis of any kind is being tested",
-              "A true null hypothesis is incorrectly rejected"
+              "sinx = 0",
+              "x = 0",
+              "tanx = 0",
+              "cosx = 0"
             ],
             "answer": 3
           },
           {
-            "q": "What does the Chinese postman problem ask for?",
+            "q": "What is the period of y = tanx?",
             "options": [
-              "A route that avoids traversing any edge of the graph",
-              "The single longest possible route through a graph with no return requirement",
-              "The shortest possible route that traverses every edge of a graph at least once and returns to the starting point",
-              "The shortest route that visits every vertex exactly once with no reference to edges"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What defining property must a Sophie Germain prime p satisfy?",
-            "options": [
-              "Two p plus one must also be a prime number",
-              "p must be an even number greater than two",
-              "p must be exactly one less than a power of two",
-              "p must equal the sum of two smaller primes"
+              "π",
+              "4π",
+              "π/2",
+              "2π"
             ],
             "answer": 0
           },
           {
-            "q": "How is the error function defined?",
+            "q": "The graph of y = cscx has vertical asymptotes at the same x-values where:",
             "options": [
-              "By a purely geometric construction with no reference to integration",
-              "By an integral that has no elementary closed form",
-              "By a simple polynomial expression with a finite number of terms",
-              "By a ratio of two integers with no integral involved"
+              "y = sinx reaches its maximum",
+              "y = tanx has a zero",
+              "y = sinx crosses the x-axis",
+              "y = cosx crosses the x-axis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which function's graph consists of U-shaped branches opening alternately upward and downward, with vertical asymptotes wherever cosine is zero?",
+            "options": [
+              "y = cotx",
+              "y = secx",
+              "y = tanx",
+              "y = cscx"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the period of y = cotx?",
+            "options": [
+              "2π",
+              "π",
+              "4π",
+              "π/2"
             ],
             "answer": 1
           }
@@ -44510,63 +44540,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Statistics: The Bootstrap Method and Resampling for Statistical Inference",
-        "summary": "Grade 12 Advanced Functions strand: the bootstrap method estimates the sampling distribution of a statistic by repeatedly resampling, with replacement, from an observed data set, building an empirical picture of variability without relying on a known theoretical distribution.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Sums, Differences, Products, and Quotients of Functions",
+        "summary": "Students form new functions by adding, subtracting, multiplying, and dividing given functions, determine the resulting domain restrictions, and evaluate and graph these combined functions.",
+        "resourceLabel": "YouTube: Sums, Differences, Products, and Quotients of Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sums%2C%20Differences%2C%20Products%2C%20and%20Quotients%20of%20Functions%20grade%2012%20educational",
+        "topic": "Functions: Combining & Composing",
         "quiz": [
           {
-            "q": "What does the bootstrap method use to estimate the sampling distribution of a statistic?",
+            "q": "If f(x) = x² and g(x) = x - 3, what is (f+g)(x)?",
             "options": [
-              "Resampling without replacement performed exactly once",
-              "A single fixed theoretical formula with no resampling involved",
-              "An entirely new, independent experiment collected each time",
-              "Repeated resampling, with replacement, from an observed data set"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What advantage does the bootstrap method offer compared to methods that rely on a known theoretical distribution?",
-            "options": [
-              "It removes any need to ever collect an original data sample",
-              "It guarantees a result identical to the true population parameter",
-              "It requires assuming the data follows a normal distribution exactly",
-              "It builds an empirical picture of variability without assuming a specific theoretical distribution"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is distinctive about how a bootstrap sample is drawn from the original data?",
-            "options": [
-              "Each observation may be used only once across every resample combined",
-              "A bootstrap sample must always be larger than the original data set",
-              "A bootstrap sample never draws from the original observed data",
-              "The same observation can appear more than once because sampling is done with replacement"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How does the bootstrap method relate to confidence intervals studied in an earlier batch?",
-            "options": [
-              "Both aim to quantify uncertainty around a sample estimate, though the bootstrap builds an interval empirically from resampled data rather than from a theoretical formula",
-              "Confidence intervals can only ever be constructed through resampling",
-              "The bootstrap method removes the need to ever consider a sample estimate",
-              "The two concepts have no relationship to quantifying uncertainty"
+              "x² + x - 3",
+              "x³ - 3x²",
+              "x² - x + 3",
+              "x² · (x-3)"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the bootstrap method especially useful for a statistic such as the median, where a simple theoretical formula for sampling variability is not readily available?",
+            "q": "If f(x) = 2x and g(x) = x+1, what is (f·g)(x)?",
             "options": [
-              "It provides a general, distribution-free way to approximate the variability of a statistic directly from the data itself",
-              "It only works for a statistic that already has a well-known theoretical formula",
-              "The bootstrap method cannot be applied to any statistic other than the mean",
-              "It removes the need to consider variability in any statistic"
+              "2x + 1",
+              "x² + 2x",
+              "2x - 1",
+              "2x² + 2x"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If f(x) = 1/x and g(x) = x-4, what is the domain of (f/g)(x)?",
+            "options": [
+              "All real numbers except x = 4",
+              "All real numbers except x = 0 and x = 4",
+              "All real numbers except x = 0",
+              "All real numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) = √x and g(x) = x-2, what is the domain of (f-g)(x)?",
+            "options": [
+              "x ≥ 2",
+              "x ≥ 0",
+              "All real numbers",
+              "x > 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) = x²-1 and g(x) = x+1, simplify (f/g)(x) for x ≠ -1.",
+            "options": [
+              "x - 1",
+              "1/(x+1)",
+              "x² - 1",
+              "x + 1"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Calculus",
@@ -44756,63 +44786,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Statistics: The Kolmogorov-Smirnov Test for Comparing Distributions",
-        "summary": "Grade 12 Advanced Functions strand: the Kolmogorov-Smirnov test compares an observed data set to a reference distribution, or compares two data sets to each other, by measuring the largest gap between their cumulative distribution functions, providing a nonparametric way to test whether the data plausibly came from that distribution.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Decomposing Composite Functions: Identifying Inner and Outer Functions",
+        "summary": "Students practice the reverse of function composition: given a composite function h(x), they identify component functions f(x) and g(x) such that h(x) = f(g(x)), recognizing the 'inner' and 'outer' functions.",
+        "resourceLabel": "YouTube: Decomposing Composite Functions: Identifying Inner and Outer Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Decomposing%20Composite%20Functions%3A%20Identifying%20Inner%20and%20Outer%20Functions%20grade%2012%20educational",
+        "topic": "Functions: Combining & Composing",
         "quiz": [
           {
-            "q": "What quantity does the Kolmogorov-Smirnov test measure to compare two distributions?",
+            "q": "Given h(x) = (3x + 1)^5, which decomposition correctly expresses h(x) = f(g(x))?",
             "options": [
-              "The total number of data points collected in each set",
-              "The largest gap between their cumulative distribution functions",
-              "The average of every individual data point in both sets",
-              "The colour or category label assigned to each observation"
+              "f(x) = 5x, g(x) = 3x + 1",
+              "f(x) = x^5, g(x) = 3x + 1",
+              "f(x) = x^3, g(x) = 5x + 1",
+              "f(x) = 3x + 1, g(x) = x^5"
             ],
             "answer": 1
           },
           {
-            "q": "What two kinds of comparisons can the Kolmogorov-Smirnov test perform?",
+            "q": "In a decomposition h(x) = f(g(x)), the function g(x) is referred to as the:",
             "options": [
-              "Comparing an observed data set to a reference distribution, or comparing two data sets to each other",
-              "Comparing a data set to a value that is always exactly zero",
-              "Comparing only categorical labels with no numerical values",
-              "Comparing a single number to itself with no data set involved"
+              "composite function",
+              "inner function",
+              "outer function",
+              "inverse function"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What kind of statistical test is the Kolmogorov-Smirnov test, in terms of its assumptions about the data?",
+            "q": "Decompose h(x) = √(x^2 - 4) into f(g(x)).",
             "options": [
-              "A test that requires assuming the data is drawn from a normal distribution",
-              "A test that assumes every observation in the data set is identical",
-              "A nonparametric test, since it does not assume a specific parametric form for the underlying distribution",
-              "A test that can only be applied to a data set of exactly one observation"
+              "f(x) = x^2, g(x) = √x - 4",
+              "f(x) = √(x-4), g(x) = x^2",
+              "f(x) = √x, g(x) = x^2 - 4",
+              "f(x) = x^2 - 4, g(x) = √x"
             ],
             "answer": 2
           },
           {
-            "q": "How does the Kolmogorov-Smirnov test relate to the chi-squared goodness of fit test studied in an earlier batch?",
+            "q": "Is the decomposition of a composite function into f(g(x)) always unique?",
             "options": [
-              "The two tests are identical in every computational detail",
-              "Both test whether observed data is consistent with a reference distribution, though the chi-squared test compares binned counts while the Kolmogorov-Smirnov test compares cumulative distribution functions directly",
-              "The chi-squared test can only be applied to continuous, unbinned data",
-              "The Kolmogorov-Smirnov test requires grouping data into categories before it can be used"
+              "Decomposition is impossible for any function",
+              "No — more than one valid pair of f and g can sometimes produce the same composite function",
+              "Only linear functions can be decomposed",
+              "Yes, there is always exactly one correct decomposition"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the Kolmogorov-Smirnov test a useful tool alongside parametric tests such as the t-test studied in an earlier batch?",
+            "q": "Decompose h(x) = 1/(x + 3)^2 into f(g(x)) using g(x) = x + 3 as the inner function.",
             "options": [
-              "It removes any need to ever compare an observed data set to a reference distribution",
-              "It allows a comparison of distributions without assuming the data follows a specific parametric form, which is valuable when that assumption is doubtful",
-              "It can only be used when the data is already known to be normally distributed",
-              "It always produces exactly the same conclusion as every parametric test"
+              "f(x) = x + 3, g(x) = 1/x^2",
+              "f(x) = 1/x, g(x) = (x+3)^2",
+              "f(x) = 1/x^2 + 3, g(x) = x",
+              "f(x) = 1/x^2, g(x) = x + 3"
             ],
-            "answer": 1
+            "answer": 3
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Calculus",
@@ -45001,63 +45031,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Kuratowskis Theorem and the Planarity of Graphs",
-        "summary": "Grade 12 Advanced Functions strand: Kuratowskis theorem states that a graph is planar, meaning it can be drawn in the plane with no edges crossing, if and only if it contains no subdivision of the two specific forbidden graphs known as K5 and K3,3, giving a precise structural test for planarity.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Inverse Functions: Finding and Verifying",
+        "summary": "Students find the inverse of a function algebraically by switching x and y and solving, verify that two functions are inverses using composition, and relate the graphs of a function and its inverse as reflections in the line y = x.",
+        "resourceLabel": "YouTube: Inverse Functions: Finding and Verifying",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Inverse%20Functions%3A%20Finding%20and%20Verifying%20grade%2012%20educational",
+        "topic": "Functions: Combining & Composing",
         "quiz": [
           {
-            "q": "What does it mean for a graph to be planar?",
+            "q": "To find the inverse of a function algebraically, you:",
             "options": [
-              "It must contain at least one pair of crossing edges",
-              "It has no vertices or edges of any kind",
-              "It can be drawn in the plane with no edges crossing",
-              "It can only be drawn using exactly two dimensions of colour"
+              "Reflect the function in the x-axis",
+              "Multiply the function by -1",
+              "Switch x and y, then solve for y",
+              "Take the derivative"
             ],
             "answer": 2
           },
           {
-            "q": "According to Kuratowskis theorem, what determines whether a graph is planar?",
+            "q": "Find the inverse of f(x) = 3x - 6.",
             "options": [
-              "Whether the graph contains no subdivision of the two forbidden graphs K5 and K3,3",
-              "Whether every vertex in the graph has exactly the same degree",
-              "Whether the graph has an even number of vertices",
-              "Whether the graph contains any edges at all"
+              "f⁻¹(x) = (x+6)/3",
+              "f⁻¹(x) = 3x+6",
+              "f⁻¹(x) = x/3 - 6",
+              "f⁻¹(x) = (x-6)/3"
             ],
             "answer": 0
           },
           {
-            "q": "What kind of test does Kuratowskis theorem provide for determining planarity?",
+            "q": "How can you verify that f(x) and g(x) are true inverses of each other?",
             "options": [
-              "A test with no connection to the structure of the graph",
-              "A precise structural test based on forbidden subgraphs",
-              "A test that can only be applied to graphs with no edges",
-              "A test that relies entirely on counting the number of colours needed"
+              "Show that f(0) = g(0)",
+              "Show that f(x) = g(x) for all x",
+              "Show that f(x) + g(x) = 0",
+              "Show that f(g(x)) = x and g(f(x)) = x"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "How does Kuratowskis theorem relate to Eulers formula for planar graphs studied in an earlier batch?",
+            "q": "The graph of a function and the graph of its inverse are related by:",
             "options": [
-              "Eulers formula determines planarity using the same forbidden subgraphs as Kuratowskis theorem",
-              "Both concern planar graphs, though Eulers formula relates the counts of vertices, edges, and faces for a planar graph, while Kuratowskis theorem gives a structural criterion for determining planarity in the first place",
-              "The two results state exactly the same relationship between vertices and edges",
-              "Kuratowskis theorem has no connection to the study of planar graphs"
+              "A 90° rotation about the origin",
+              "Reflection across the x-axis",
+              "Reflection across the line y = x",
+              "Reflection across the y-axis"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why is Kuratowskis theorem considered a foundational result in graph theory?",
+            "q": "If (3, 7) is a point on the graph of f(x), which point must lie on the graph of f⁻¹(x)?",
             "options": [
-              "It shows that every graph, without exception, is planar",
-              "It gives a complete and precise characterization of exactly which graphs can be drawn without any crossing edges",
-              "It applies only to graphs with a single vertex and no edges",
-              "The theorem provides no way to determine whether a given graph is planar"
+              "(-7, -3)",
+              "(7, 3)",
+              "(3, 7)",
+              "(-3, -7)"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Data Literacy"
+        ]
       },
       {
         "subject": "Calculus",
@@ -45187,58 +45217,59 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Theory: Ecocriticism and Reading Literature Through an Environmental Lens",
-        "summary": "Grade 12 English strand: ecocriticism examines how literature represents the natural world and the relationship between humans and their environment, asking how texts shape, reflect, or challenge cultural attitudes toward nature, land, and ecological crisis.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "title": "Literature: Afrofuturism and the Reimagining of Identity Through Speculative Form",
+        "summary": "Introduces Afrofuturism as a literary and cultural movement that uses science fiction, fantasy, and speculative imagery to reimagine Black history, identity, and futures, and examines how the genre repurposes speculative conventions toward specific cultural and political ends.",
+        "resourceLabel": "YouTube: Literature: Afrofuturism and the Reimagining of Identity Through Speculative Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Afrofuturism%20and%20the%20Reimagining%20of%20Identity%20Through%20Speculative%20Form%20grade%2012%20educational",
+        "topic": "Reading: Fiction & Story Elements",
         "quiz": [
           {
-            "q": "What does ecocriticism primarily examine in a literary text?",
+            "q": "Afrofuturism is best described as a movement that:",
             "options": [
-              "Only the texts publication date, with no reference to its content",
-              "The biography of the author with no reference to environmental themes",
-              "The economic sales figures of the text with no reference to its themes",
-              "How the text represents the natural world and the relationship between humans and their environment"
+              "uses science fiction and speculative imagery to explore Black history, identity, and imagined futures",
+              "rejects all forms of speculative or science fiction writing",
+              "focuses exclusively on historical realism set in the past",
+              "is a subgenre of pastoral poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A central technique Afrofuturist writers often use is:",
+            "options": [
+              "avoiding any references to technology or space",
+              "setting every story in a realistic contemporary office",
+              "writing strictly in traditional sonnet form",
+              "reimagining historical trauma, such as displacement or enslavement, through speculative or science-fictional metaphor"
             ],
             "answer": 3
           },
           {
-            "q": "What kind of questions does an ecocritical reading typically ask of a text?",
+            "q": "How does Afrofuturism most directly relate to the cyberpunk genre studied earlier in this course?",
             "options": [
-              "Questions concerned only with a texts publication history",
-              "Questions with no connection to the natural world at all",
-              "Questions concerned only with a texts rhyme scheme",
-              "How the text shapes, reflects, or challenges cultural attitudes toward nature, land, and ecological crisis"
+              "They are simply two names for the identical genre",
+              "Both are speculative genres, but Afrofuturism centers Black cultural identity and history in ways classic cyberpunk typically does not",
+              "Afrofuturism rejects all technology, unlike cyberpunk",
+              "Cyberpunk always includes Afrofuturist themes by definition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose a speculative or futuristic setting to explore questions of identity and history rather than a strictly realist one?",
+            "options": [
+              "Speculative settings make political commentary impossible",
+              "Speculative fiction cannot address serious themes",
+              "Realist settings are always easier to write",
+              "Distance from a strictly realistic setting can create imaginative space to reframe familiar histories and power structures"
             ],
             "answer": 3
           },
           {
-            "q": "What broad concern can motivate an ecocritical approach to reading literature?",
+            "q": "Which element would most likely appear in an Afrofuturist work?",
             "options": [
-              "A concern with a texts commercial success alone",
-              "A concern exclusively with grammar and sentence-level style",
-              "A concern with ecological crisis and how literature represents human relationships to land and nature",
-              "A concern that excludes any interest in the natural world"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does ecocriticism compare to ecofeminism, studied in an earlier batch?",
-            "options": [
-              "Ecocriticism only ever considers questions of gender and never questions of land or nature",
-              "Ecofeminism has no connection to environmental themes in literature",
-              "Both examine the representation of the natural world in literature, though ecofeminism specifically foregrounds the intersection of gender and environment while ecocriticism addresses environmental representation more broadly",
-              "The two approaches are simply two different names for an identical critical method"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might ecocriticism be considered an increasingly relevant critical lens for reading literature today?",
-            "options": [
-              "Environmental themes have no relevance to how a literary text can be interpreted",
-              "Growing concern about ecological crisis has made how literature represents nature and human responsibility toward it a pressing critical question",
-              "Ecocriticism is a lens that can only be applied to texts written before any environmental concern existed",
-              "Literature has never engaged with questions of nature or the environment in any way"
+              "A strict adherence to nineteenth-century literary realism",
+              "A narrative blending African diasporic culture, history, and futuristic or speculative elements",
+              "A purely nostalgic memoir with no imagined technology or future",
+              "An absence of any cultural or historical reference points"
             ],
             "answer": 1
           }
@@ -45246,60 +45277,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Discrete Math: Halls Marriage Theorem and Bipartite Matching",
-        "summary": "Grade 12 Advanced Functions strand: Halls marriage theorem gives a precise condition, that every subset of one side of a bipartite graph has enough neighbours on the other side, under which a perfect matching pairing every vertex on one side with a distinct vertex on the other must exist.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Restricting Domains to Create Invertible Functions",
+        "summary": "Students determine why many functions, such as quadratics and sinusoidal functions, are not invertible over their natural domain, apply the horizontal line test, and restrict the domain to create a well-defined inverse function.",
+        "resourceLabel": "YouTube: Restricting Domains to Create Invertible Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Restricting%20Domains%20to%20Create%20Invertible%20Functions%20grade%2012%20educational",
+        "topic": "Functions: Combining & Composing",
         "quiz": [
           {
-            "q": "What kind of graph does Halls marriage theorem concern?",
+            "q": "A function has an inverse that is also a function only if the original function is:",
             "options": [
-              "A graph with no edges connecting any vertices",
-              "A graph containing exactly one vertex in total",
-              "A graph with no division into separate sides of any kind",
-              "A bipartite graph, with vertices divided into two distinct sides"
+              "Defined for all real numbers",
+              "Continuous",
+              "Increasing everywhere",
+              "One-to-one (passes the horizontal line test)"
             ],
             "answer": 3
           },
           {
-            "q": "What condition does Halls marriage theorem require of every subset of one side of the graph?",
+            "q": "Why does y = x² not have an inverse function over its full domain of all real numbers?",
             "options": [
-              "That the subset has strictly fewer neighbours than its own size",
-              "That the subset is connected to every vertex in the entire graph",
-              "That the subset has enough neighbours on the other side",
-              "That the subset contains no vertices at all"
+              "Because its domain is restricted",
+              "Because it has no y-intercept",
+              "Because it is not continuous",
+              "Because it fails the horizontal line test — two different x-values give the same y-value"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What does Halls marriage theorem guarantee when this condition is satisfied?",
+            "q": "To create an invertible version of f(x) = x², a common domain restriction is:",
             "options": [
-              "A perfect matching, pairing every vertex on one side with a distinct vertex on the other",
-              "That the graph cannot be described as bipartite",
-              "That every vertex on one side is paired with the same single vertex",
-              "That the graph contains no edges whatsoever"
+              "-1 ≤ x ≤ 1",
+              "x ≠ 0",
+              "x ≤ -1",
+              "x ≥ 0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the inverse of f(x) = x² restricted to x ≥ 0?",
+            "options": [
+              "f⁻¹(x) = x²",
+              "f⁻¹(x) = ±√x",
+              "f⁻¹(x) = -√x",
+              "f⁻¹(x) = √x"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must y = sinx be restricted to [-π/2, π/2] before defining its inverse, y = sin⁻¹x?",
+            "options": [
+              "Sine repeats the same y-values across many x-values outside this interval, so it fails the horizontal line test elsewhere",
+              "Sine is negative outside this interval",
+              "Sine is undefined outside this interval",
+              "This interval is where sine has its maximum amplitude"
             ],
             "answer": 0
-          },
-          {
-            "q": "How does Halls marriage theorem relate to the stable marriage problem and the Gale-Shapley algorithm, studied in an earlier batch?",
-            "options": [
-              "The two results describe exactly the same theorem with no distinction",
-              "The Gale-Shapley algorithm proves Halls theorem is always false",
-              "Both concern pairing elements from two groups, though Halls theorem states a condition guaranteeing a perfect matching exists, while the Gale-Shapley algorithm constructs a matching that is additionally stable with respect to preferences",
-              "Halls marriage theorem has no connection to matching problems of any kind"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is Halls marriage theorem a useful result beyond its original matchmaking framing?",
-            "options": [
-              "It has no application to any problem beyond pairing romantic partners",
-              "Bipartite graphs can never be used to model any real assignment problem",
-              "The theorem guarantees a perfect matching exists in every possible graph with no condition required",
-              "Its condition for a perfect matching applies broadly to resource allocation and assignment problems modelled as bipartite graphs"
-            ],
-            "answer": 3
           }
         ]
       },
@@ -45489,63 +45521,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Number Theory: Primitive Roots and the Multiplicative Order Modulo n",
-        "summary": "Grade 12 Advanced Functions strand: the multiplicative order of an integer modulo n is the smallest positive power to which it must be raised to return to one, and a primitive root modulo n is an integer whose powers generate every nonzero residue modulo n, meaning its order equals the size of the multiplicative group itself.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Average Rate of Change vs Instantaneous Rate of Change",
+        "summary": "Students distinguish between average rate of change over an interval (the slope of a secant line) and instantaneous rate of change at a point (the slope of a tangent line), calculating average rates of change for polynomial and other functions.",
+        "resourceLabel": "YouTube: Average Rate of Change vs Instantaneous Rate of Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Average%20Rate%20of%20Change%20vs%20Instantaneous%20Rate%20of%20Change%20grade%2012%20educational",
+        "topic": "Rates of Change",
         "quiz": [
           {
-            "q": "What does the multiplicative order of an integer modulo n measure?",
+            "q": "The average rate of change of a function over an interval [a,b] is calculated as:",
             "options": [
-              "A quantity with no connection to powers of the integer at all",
-              "The largest power to which it can ever be raised",
-              "The smallest positive power to which it must be raised to return to one",
-              "The total number of integers smaller than n"
+              "f(b)/f(a)",
+              "(f(b) + f(a)) / 2",
+              "f(b) - f(a)",
+              "(f(b) - f(a)) / (b - a)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The average rate of change of f(x) = x² over [1,4] is:",
+            "options": [
+              "16",
+              "3",
+              "15",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Geometrically, the average rate of change over an interval corresponds to the slope of:",
+            "options": [
+              "The tangent line at the left endpoint",
+              "The tangent line at the right endpoint",
+              "The secant line connecting the two endpoints",
+              "A vertical line through the midpoint"
             ],
             "answer": 2
           },
           {
-            "q": "What defines a primitive root modulo n?",
+            "q": "The instantaneous rate of change of a function at a point is best approximated by:",
             "options": [
-              "Its powers generate only the number one, with no other residue",
-              "It is defined only for even values of n",
-              "It is always equal to n itself",
-              "Its powers generate every nonzero residue modulo n"
+              "The value of the function at that point",
+              "The y-intercept of the function",
+              "The average rate of change over the entire domain",
+              "The average rate of change over increasingly small intervals around that point"
             ],
             "answer": 3
           },
           {
-            "q": "How does the order of a primitive root modulo n compare to the size of the multiplicative group modulo n?",
+            "q": "A ball's height is h(t) = -5t² + 20t. What is the average rate of change of height between t=1 and t=3?",
             "options": [
-              "The order of a primitive root always exceeds the size of the multiplicative group",
-              "A primitive roots order has no defined relationship to the group size",
-              "The order of a primitive root is always exactly one, regardless of n",
-              "The order of a primitive root equals the size of the multiplicative group itself"
+              "-10 m/s",
+              "0 m/s",
+              "5 m/s",
+              "10 m/s"
             ],
-            "answer": 3
-          },
-          {
-            "q": "How does the concept of a primitive root relate to Eulers totient function studied in an earlier batch?",
-            "options": [
-              "The totient function counts the size of the multiplicative group modulo n, which equals the order of any primitive root modulo n when one exists",
-              "Eulers totient function can only be computed once a primitive root has first been found",
-              "The totient function and primitive roots describe entirely unrelated ideas in number theory",
-              "A primitive root always has an order strictly greater than the value given by the totient function"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are primitive roots a useful concept beyond pure number theory?",
-            "options": [
-              "Primitive roots have no application whatsoever outside of abstract number theory",
-              "They are used exclusively to prove that no integer can ever be a perfect square",
-              "Primitive roots exist for every possible value of n with no exception",
-              "Their generating property underlies practical applications such as constructing certain cryptographic and pseudorandom number systems"
-            ],
-            "answer": 3
+            "answer": 1
           }
-        ],
-        "topic": "Place Value & Number Sense"
+        ]
       },
       {
         "subject": "Calculus",
@@ -45734,63 +45766,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: The Dirichlet Function and the Limits of Continuity",
-        "summary": "Grade 12 Advanced Functions strand: the Dirichlet function assigns one value to every rational number and a different value to every irrational number, producing a function that is discontinuous at every single point, a striking example used to probe the boundary between continuity and discontinuity in real analysis.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "The Difference Quotient and Estimating Instantaneous Rate of Change",
+        "summary": "Students use the difference quotient [f(x+h)-f(x)]/h to estimate the instantaneous rate of change of a function at a point by evaluating it for progressively smaller values of h.",
+        "resourceLabel": "YouTube: The Difference Quotient and Estimating Instantaneous Rate of Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Difference%20Quotient%20and%20Estimating%20Instantaneous%20Rate%20of%20Change%20grade%2012%20educational",
+        "topic": "Rates of Change",
         "quiz": [
           {
-            "q": "What rule defines the Dirichlet function?",
+            "q": "The difference quotient is expressed as:",
             "options": [
-              "It assigns one value to every rational number and a different value to every irrational number",
-              "It assigns a different value to every individual rational number separately",
-              "It assigns the same single value to every real number without exception",
-              "It is defined only for negative numbers, with no output for positive numbers"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "At how many points is the Dirichlet function continuous?",
-            "options": [
-              "It is discontinuous at every single point",
-              "It is continuous everywhere except at exactly one point",
-              "It is continuous only at the number zero",
-              "It is continuous at every single point"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What broader mathematical purpose does the Dirichlet function serve?",
-            "options": [
-              "It is used exclusively for basic arithmetic calculations with no theoretical purpose",
-              "It provides a striking example used to probe the boundary between continuity and discontinuity in real analysis",
-              "It has no role in illustrating any property of functions",
-              "It is used only to compute the area under a simple polynomial curve"
+              "f(x+h) · f(x)",
+              "[f(x+h) - f(x)] / h",
+              "[f(x) - f(x+h)] / h",
+              "f(x+h) / f(x)"
             ],
             "answer": 1
           },
           {
-            "q": "How does the Dirichlet function compare to the Weierstrass function studied in an earlier batch?",
+            "q": "For f(x) = x², the difference quotient [f(x+h)-f(x)]/h simplifies to:",
             "options": [
-              "Neither function has any relevance to the study of continuity or differentiability",
-              "The Weierstrass function is discontinuous everywhere, just like the Dirichlet function",
-              "Both are notable pathological examples in real analysis, though the Weierstrass function is continuous everywhere but differentiable nowhere, while the Dirichlet function is discontinuous at every point",
-              "The two functions behave in exactly the same way at every point"
+              "2x - h",
+              "2x + h",
+              "x² + h",
+              "2x · h"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is a function like the Dirichlet function valuable for students of real analysis, despite having no simple graph that can be sketched by hand?",
+            "q": "As h approaches 0 in the difference quotient for f(x)=x² at x=3, the expression 2x+h approaches:",
             "options": [
-              "It shows that every function encountered in mathematics must be continuous everywhere",
-              "The Dirichlet function can be sketched easily using only a ruler and no other tool",
-              "It sharpens understanding of the precise definitions of continuity and limit by presenting a case where ordinary graphical intuition fails completely",
-              "Such a function has no value for developing a rigorous understanding of continuity"
+              "6",
+              "0",
+              "3",
+              "9"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Using the difference quotient with h=0.01, the estimated instantaneous rate of change of f(x)=x³ at x=2 (exact value is 12) is closest to:",
+            "options": [
+              "12.0601",
+              "2",
+              "14",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the difference quotient provide only an approximation of the instantaneous rate of change unless h is taken to a limit of 0?",
+            "options": [
+              "Because the difference quotient only works for linear functions",
+              "Because for any nonzero h, the quotient measures an average rate of change over a small interval, not the exact rate at a single point",
+              "Because h must always be negative",
+              "Because functions are undefined at h=0"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Calculus: Limits & Rates of Change"
+        ]
       },
       {
         "subject": "Calculus",
@@ -45979,58 +46011,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "AdvancedFunctions Review: The Capstone Survey of Statistics, Discrete Math, and Number Theory",
-        "summary": "Grade 12 Advanced Functions review: revisiting the bootstrap method, the Kolmogorov-Smirnov test, Kuratowskis theorem, Halls marriage theorem, and primitive roots from Days 181-185 -- the final Advanced Functions review of the complete 187-day Grade 12 curriculum.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "title": "Rates of Change in Exponential and Trigonometric Models",
+        "summary": "Students calculate and interpret average rates of change for exponential and trigonometric functions in applied contexts, and compare how the rate of change itself varies across the domain, unlike in linear functions.",
+        "resourceLabel": "YouTube: Rates of Change in Exponential and Trigonometric Models",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rates%20of%20Change%20in%20Exponential%20and%20Trigonometric%20Models%20grade%2012%20educational",
+        "topic": "Rates of Change",
         "quiz": [
           {
-            "q": "What does the bootstrap method use to estimate the sampling distribution of a statistic?",
+            "q": "For an exponential growth function, how does the instantaneous rate of change behave as x increases?",
             "options": [
-              "A single fixed theoretical formula with no resampling involved",
-              "Repeated resampling, with replacement, from an observed data set",
-              "An entirely new, independent experiment collected each time",
-              "Resampling without replacement performed exactly once"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What quantity does the Kolmogorov-Smirnov test measure to compare two distributions?",
-            "options": [
-              "The average of every individual data point in both sets",
-              "The total number of data points collected in each set",
-              "The colour or category label assigned to each observation",
-              "The largest gap between their cumulative distribution functions"
+              "It becomes negative",
+              "It stays constant",
+              "It decreases toward zero",
+              "It increases, growing proportionally with the function's own value"
             ],
             "answer": 3
           },
           {
-            "q": "What does it mean for a graph to be planar?",
+            "q": "A bacteria population is modelled by P(t) = 200(1.5)^t. What is the average rate of change between t=2 and t=4 (in bacteria per hour)?",
             "options": [
-              "It can only be drawn using exactly two dimensions of colour",
-              "It has no vertices or edges of any kind",
-              "It can be drawn in the plane with no edges crossing",
-              "It must contain at least one pair of crossing edges"
+              "281.25",
+              "450",
+              "112.5",
+              "225"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What kind of graph does Halls marriage theorem concern?",
+            "q": "What is the average rate of change of h(t) = sin(t) over the interval [0, π]?",
             "options": [
-              "A graph with no edges connecting any vertices",
-              "A graph with no division into separate sides of any kind",
-              "A graph containing exactly one vertex in total",
-              "A bipartite graph, with vertices divided into two distinct sides"
+              "π",
+              "-1",
+              "1",
+              "0"
             ],
             "answer": 3
           },
           {
-            "q": "What does the multiplicative order of an integer modulo n measure?",
+            "q": "Why is the average rate of change of a sinusoidal function generally NOT constant across different intervals of equal width, unlike a linear function?",
             "options": [
-              "The largest power to which it can ever be raised",
-              "A quantity with no connection to powers of the integer at all",
-              "The smallest positive power to which it must be raised to return to one",
-              "The total number of integers smaller than n"
+              "Because sinusoidal functions have no rate of change",
+              "Because sinusoidal functions are not continuous",
+              "Because sine only takes values between -1 and 1",
+              "Because the slope of the sinusoidal curve varies continuously along the curve, unlike a straight line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Compare the average rate of change of f(x) = 2^x on [0,1] versus [3,4]. What do you observe?",
+            "options": [
+              "The rate of change on [0,1] is larger",
+              "Both rates of change are zero",
+              "The rate of change on [3,4] is much larger, since exponential growth accelerates",
+              "The rate of change is the same on both intervals"
             ],
             "answer": 2
           }

@@ -28861,60 +28861,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Canadian Senate — The Other House of Parliament",
-        "summary": "Grade 4 Social Studies strand: the Senate is the second chamber of Canadas Parliament, where appointed senators review and can suggest changes to proposed laws.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Religion and Belief Systems",
+        "summary": "Students explore how early societies explained the world through gods, myths, and sacred rituals, and how temples and priests shaped daily life and government.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Religion and Belief Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Religion%20and%20Belief%20Systems%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What is the Senate?",
+            "q": "Why did many early societies build large temples?",
             "options": [
-              "The second chamber of Canadas Parliament",
-              "A city government",
-              "A type of court",
-              "A sports league"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How do people typically become senators in Canada?",
-            "options": [
-              "They are chosen by lottery",
-              "They inherit the position",
-              "They are appointed",
-              "They are elected by the public"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one role of the Senate?",
-            "options": [
-              "Running local schools",
-              "Reviewing and suggesting changes to proposed laws",
-              "Managing hospitals",
-              "Selling products"
+              "To defend against enemy armies",
+              "To honour and worship their gods",
+              "To house the ruling family only",
+              "To store surplus grain for winter"
             ],
             "answer": 1
           },
           {
-            "q": "Parliament in Canada is made up of the House of Commons and the ___.",
+            "q": "In many early civilizations, who often had special religious authority and communicated with the gods on behalf of the people?",
             "options": [
-              "City Council",
-              "Cabinet only",
-              "Supreme Court",
-              "Senate"
+              "Soldiers",
+              "Priests",
+              "Farmers",
+              "Merchants"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a country have two chambers reviewing proposed laws?",
+            "q": "Which statement best describes early societies' beliefs about nature?",
             "options": [
-              "To slow down all government forever",
-              "Two chambers serve no purpose",
-              "Only one chamber is ever needed",
-              "To provide additional review and balance"
+              "They believed only kings could see the gods",
+              "They believed forces of nature like rain and floods were controlled by spirits or gods",
+              "They ignored the changing seasons",
+              "They believed nature had no connection to daily life"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "Myths in early societies were mainly used to ___.",
+            "options": [
+              "record tax payments",
+              "map trade routes",
+              "explain natural events and teach lessons",
+              "train soldiers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of how religion shaped early society architecture?",
+            "options": [
+              "Building ziggurats and pyramids as sacred structures",
+              "Building small mud houses for everyone",
+              "Avoiding any large public buildings",
+              "Building bridges exclusively for trade"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -29105,63 +29106,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: How a Bill Becomes a Law in Canada",
-        "summary": "Grade 4 Social Studies strand: a proposed law, called a bill, must be debated and approved by the House of Commons and the Senate before receiving royal assent to become law.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Map Skills: Compass Directions and the Compass Rose",
+        "summary": "Students learn to read a compass rose, identify the cardinal and intercardinal directions, and use direction to describe locations and travel routes on a map of Canada.",
+        "resourceLabel": "YouTube: Social Studies: Map Skills: Compass Directions and the Compass Rose",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Map%20Skills%3A%20Compass%20Directions%20and%20the%20Compass%20Rose%20grade%204%20educational",
+        "topic": "Map Skills & Geography Basics",
         "quiz": [
           {
-            "q": "What is a bill?",
+            "q": "What are the four cardinal directions?",
             "options": [
-              "A type of tax",
-              "A type of currency",
-              "A court decision",
-              "A proposed law"
+              "Left, right, north, south",
+              "Near, far, high, low",
+              "North, South, East, West",
+              "Up, down, left, right"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Which groups must approve a bill before it becomes law?",
+            "q": "On a standard map, which direction usually points toward the top of the page?",
             "options": [
-              "No one needs to approve it",
-              "Only the mayor",
-              "Only the public directly",
-              "The House of Commons and the Senate"
+              "West",
+              "North",
+              "South",
+              "East"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is the final step for a bill to become law?",
+            "q": "Which of these is an intercardinal (in-between) direction?",
             "options": [
-              "Receiving royal assent",
-              "Being renamed",
-              "Being ignored",
-              "Being erased"
+              "Southeast",
+              "West",
+              "South",
+              "North"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a bill go through multiple steps of review?",
+            "q": "A city located between north and east on a compass rose would be described as being in which direction?",
             "options": [
-              "To skip debate entirely",
-              "Review is not necessary",
-              "To ensure it is carefully considered before becoming law",
-              "To make the process instant"
+              "Northwest",
+              "Southwest",
+              "Southeast",
+              "Northeast"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "A bill is debated in Parliament to ___.",
+            "q": "Why do mapmakers include a compass rose on a map?",
             "options": [
-              "Immediately reject all bills",
-              "Ignore public interest",
-              "Discuss its strengths and weaknesses",
-              "Avoid making decisions"
+              "To list the map's legend symbols",
+              "To show the map's scale",
+              "So readers can tell which direction is which and navigate",
+              "To show the population of a region"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Government & Civics"
+        ]
       }
     ]
   },
@@ -29351,58 +29352,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Canadas Role in NATO",
-        "summary": "Grade 4 Social Studies strand: NATO is an international alliance of countries, including Canada, that agree to support and defend one another for collective security.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Clothing, Textiles, and Adornment",
+        "summary": "Students examine what people in early societies wore, the materials and techniques used to make cloth, and how clothing and jewellery signalled social status or role.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Clothing, Textiles, and Adornment",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Clothing%2C%20Textiles%2C%20and%20Adornment%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What does NATO stand for?",
+            "q": "What natural materials did many early societies commonly use to make clothing?",
             "options": [
-              "North Atlantic Treaty Organization",
-              "National Association of Trade Organizations",
-              "National Alliance for Territorial Order",
-              "North American Trade Office"
+              "Plastic and rubber",
+              "Glass fibres",
+              "Only paper",
+              "Wool, cotton, and linen from plants and animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In many early civilizations, why might a ruler or noble wear brightly dyed or finely woven clothing?",
+            "options": [
+              "Because dye did not exist for common people",
+              "To blend in with farmers",
+              "Because it was required by law for everyone",
+              "To show wealth and high social status"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What process turns raw wool or plant fibre into thread that can be woven?",
+            "options": [
+              "Spinning",
+              "Smelting",
+              "Grinding",
+              "Firing"
             ],
             "answer": 0
           },
           {
-            "q": "Is Canada a member of NATO?",
+            "q": "Jewellery and adornment in early societies were often made from which of the following?",
             "options": [
-              "Yes",
-              "Canada has never joined",
-              "No",
-              "Canada withdrew long ago"
+              "Only cardboard",
+              "Synthetic fabric",
+              "Modern plastic beads",
+              "Beads, shells, and metal"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What is the main purpose of NATO?",
+            "q": "Which best explains why archaeologists study ancient clothing and textiles?",
             "options": [
-              "Collective security and mutual defence among member countries",
-              "Organizing sports competitions",
-              "Managing world weather",
-              "Selling goods internationally"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does collective security mean in the context of NATO?",
-            "options": [
-              "Only one country makes decisions",
-              "Members agree to support each other if one is threatened",
-              "Each country defends only itself",
-              "No countries cooperate at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Being part of an international alliance like NATO helps Canada ___.",
-            "options": [
-              "Lose its own identity",
-              "Isolate itself from the world",
-              "Avoid all international relationships",
-              "Build cooperative relationships with other countries"
+              "They cannot survive long enough to study",
+              "Clothing has no historical value",
+              "They only tell us about weather",
+              "They reveal information about trade, technology, and social roles"
             ],
             "answer": 3
           }
@@ -29864,63 +29866,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Canadas Official Languages Act — Bilingualism in Canada",
-        "summary": "Grade 4 Social Studies strand: the Official Languages Act recognizes English and French as Canadas two official languages, guaranteeing services in both languages at the federal level.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Rights and Responsibilities of Canadian Citizens",
+        "summary": "Students learn about rights Canadian citizens hold, such as freedom of expression and the right to vote, alongside responsibilities they share, like obeying laws and respecting others.",
+        "resourceLabel": "YouTube: Social Studies: Rights and Responsibilities of Canadian Citizens",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Rights%20and%20Responsibilities%20of%20Canadian%20Citizens%20grade%204%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "What are Canadas two official languages?",
+            "q": "Which of the following is a responsibility of Canadian citizens, not a right?",
             "options": [
-              "English and French",
-              "French and German",
-              "English and Spanish",
-              "English only"
+              "Freedom of speech",
+              "Obeying Canada's laws",
+              "The right to vote",
+              "Freedom of religion"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What does the Official Languages Act guarantee?",
+            "q": "At what age can Canadian citizens vote in a federal election?",
             "options": [
-              "No language rights at all",
-              "Services in only one language",
-              "Services only in provinces",
-              "Federal services in both English and French"
+              "16",
+              "18",
+              "25",
+              "21"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a country recognize more than one official language?",
+            "q": "Which of these is considered a fundamental right protected in Canada?",
             "options": [
-              "To confuse citizens on purpose",
-              "Only one language should ever be used",
-              "To reflect the diverse linguistic heritage of its population",
-              "Languages do not matter to government"
+              "The right to ignore jury duty",
+              "The right to break traffic laws",
+              "Freedom of peaceful assembly",
+              "The right to skip paying taxes"
             ],
             "answer": 2
           },
           {
-            "q": "Which province in Canada has a large French-speaking population historically tied to this policy?",
+            "q": "Why is jury duty considered a responsibility of citizenship?",
             "options": [
-              "Quebec",
-              "British Columbia",
-              "Alberta",
-              "Manitoba only"
+              "It is optional entertainment",
+              "Only politicians can serve on juries",
+              "It helps the justice system work fairly by having citizens help decide cases",
+              "It replaces voting"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Bilingualism in Canada reflects the countrys ___.",
+            "q": "Which statement best balances rights and responsibilities?",
             "options": [
-              "English and French heritage",
-              "Rejection of French language rights",
-              "Lack of cultural diversity",
-              "Single-language history"
+              "Only adults have responsibilities",
+              "Rights come with no responsibilities",
+              "Responsibilities apply only to immigrants",
+              "Citizens enjoy rights and freedoms while also sharing responsibilities to their community"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Culture, Diversity & Multiculturalism"
+        ]
       }
     ]
   },
@@ -30913,58 +30915,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Government, History, and Canadian Identity",
-        "summary": "Grade 4 Social Studies strand review: students revisit the RCMP, the Senate, how a bill becomes a law, NATO, Canadian inventions, bilingualism, the Franklin Expedition, Terry Fox, and the census.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Numbers, Counting, and Early Mathematics",
+        "summary": "Students discover how early societies such as Mesopotamia and the Maya developed number systems and used mathematics for trade, building, and tracking time.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Numbers, Counting, and Early Mathematics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Numbers%2C%20Counting%2C%20and%20Early%20Mathematics%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What does RCMP stand for?",
+            "q": "Why did early societies need reliable number systems?",
             "options": [
-              "Royal Canadian Mounted Police",
-              "Regional Canadian Municipal Patrol",
-              "Real Canadian Mail Post",
-              "Royal Canadian Medical Program"
+              "Only for playing games",
+              "They had no practical use",
+              "For trade, taxes, and building projects",
+              "Only priests used numbers"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is the Senate?",
+            "q": "The ancient Mesopotamians used a number system based on which value?",
             "options": [
-              "A sports league",
-              "The second chamber of Canadas Parliament",
-              "A type of court",
-              "A city government"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What does NATO stand for?",
-            "options": [
-              "North Atlantic Treaty Organization",
-              "North American Trade Office",
-              "National Alliance for Territorial Order",
-              "National Association of Trade Organizations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What are Canadas two official languages?",
-            "options": [
-              "French and German",
-              "English and French",
-              "English only",
-              "English and Spanish"
+              "10",
+              "60",
+              "12",
+              "100"
             ],
             "answer": 1
           },
           {
-            "q": "What is a census?",
+            "q": "What is a numeral system?",
             "options": [
-              "A type of holiday",
-              "A kind of map",
-              "A sports event",
-              "An official count of everyone in a country"
+              "A style of ancient clothing",
+              "A type of ancient farming tool",
+              "A religious ceremony",
+              "A set of symbols used to represent numbers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Maya civilization is known for developing an early concept of which important mathematical idea?",
+            "options": [
+              "Fractions only",
+              "Algebra",
+              "Zero as a placeholder",
+              "Negative numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did early builders likely use mathematics?",
+            "options": [
+              "Math was invented after all buildings were finished",
+              "Only for counting animals",
+              "They did not use math for building",
+              "To measure and plan structures like temples and pyramids accurately"
             ],
             "answer": 3
           }
@@ -31158,63 +31161,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Japan — Early Society and Culture",
-        "summary": "Grade 4 Social Studies strand: ancient Japan developed a unique early society influenced by its island geography, featuring farming communities, emperors, and rich traditions in art and religion.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Canada's Forest Regions: Boreal, Carolinian, and Coastal Rainforest",
+        "summary": "Students compare three of Canada's major forest regions, examining the trees, climate, and wildlife found in the boreal forest, the Carolinian forest of southern Ontario, and the coastal rainforest of British Columbia.",
+        "resourceLabel": "YouTube: Social Studies: Canada's Forest Regions: Boreal, Carolinian, and Coastal Rainforest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%27s%20Forest%20Regions%3A%20Boreal%2C%20Carolinian%2C%20and%20Coastal%20Rainforest%20grade%204%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "What type of geography influenced ancient Japans development?",
+            "q": "Which forest region stretches across much of northern Canada and contains mostly coniferous trees?",
             "options": [
-              "A landlocked plain",
-              "A vast desert",
-              "A mountain range with no coast",
-              "Its island location"
+              "Carolinian forest",
+              "Boreal forest",
+              "Desert scrub",
+              "Coastal rainforest"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Carolinian forest region is found in which part of Canada?",
+            "options": [
+              "Northern Nunavut",
+              "Coastal Labrador",
+              "The Rocky Mountains",
+              "Southern Ontario"
             ],
             "answer": 3
           },
           {
-            "q": "What role did an emperor typically hold in ancient Japan?",
+            "q": "What makes British Columbia's coastal rainforest different from the boreal forest?",
             "options": [
-              "No role at all",
-              "A foreign visitor",
-              "A random villager",
-              "A central figure of authority and tradition"
+              "It is located in the Arctic",
+              "It receives much heavier rainfall and has giant trees like cedar and Douglas fir",
+              "It never rains there",
+              "It has no trees at all"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What was a common economic activity in early Japanese society?",
+            "q": "Which of these is a typical tree found in the boreal forest?",
             "options": [
-              "Only fishing",
-              "Only mining",
-              "Farming, especially rice cultivation",
-              "Only trading with no farming"
+              "Mango",
+              "Palm",
+              "Spruce",
+              "Cactus"
             ],
             "answer": 2
           },
           {
-            "q": "Why is Japans island geography significant to its early history?",
+            "q": "Why do different forest regions in Canada contain different types of trees and animals?",
             "options": [
-              "It caused constant flooding with no benefits",
-              "It prevented any culture from forming",
-              "It shaped trade, culture, and how the society developed somewhat separately",
-              "It made no difference to society"
+              "Differences in climate, rainfall, and temperature across the country",
+              "Trees are planted randomly by people",
+              "All Canadian forests are identical",
+              "Forest type depends only on province borders"
             ],
-            "answer": 2
-          },
-          {
-            "q": "What aspect of ancient Japanese culture became influential in art and religion?",
-            "options": [
-              "Modern technology only",
-              "A complete absence of art",
-              "European traditions only",
-              "Traditions passed down and refined over centuries"
-            ],
-            "answer": 3
+            "answer": 0
           }
-        ],
-        "topic": "World Geography & Cultures"
+        ]
       }
     ]
   },
@@ -32654,63 +32657,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Canada-United States Trade Relationship",
-        "summary": "Grade 4 Social Studies strand: Canada and the United States share one of the largest trading relationships in the world, exchanging goods such as vehicles, energy, and agricultural products across the border.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Calendars and Measuring Time",
+        "summary": "Students investigate how early societies tracked days, months, and seasons using the sun, moon, and stars, and why accurate calendars mattered for farming and festivals.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Calendars and Measuring Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Calendars%20and%20Measuring%20Time%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "Canada shares one of the largest trading relationships in the world with which country?",
+            "q": "Why was it important for early farming societies to develop calendars?",
             "options": [
-              "Australia",
-              "The United States",
-              "Brazil",
-              "Japan"
+              "To count their pets",
+              "To know when to plant and harvest crops",
+              "To decorate their homes",
+              "Calendars were not important to farmers"
             ],
             "answer": 1
           },
           {
-            "q": "What might Canada and the United States exchange through trade?",
+            "q": "Many early calendars were based on the cycles of which object in the sky?",
             "options": [
-              "Vehicles, energy, and agricultural products",
-              "Only historical documents",
-              "Nothing at all",
-              "Only artwork"
+              "A comet",
+              "The moon",
+              "A distant planet",
+              "Clouds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The ancient Maya are especially well known for creating what kind of tool?",
+            "options": [
+              "An early telephone",
+              "A highly accurate calendar system",
+              "A steam engine",
+              "The first printing press"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What natural event did many ancient calendars use to mark the start of a new year?",
+            "options": [
+              "A solstice or the flooding of a river",
+              "A modern national holiday",
+              "The birthday of a merchant",
+              "A random school holiday"
             ],
             "answer": 0
           },
           {
-            "q": "Why is trade between neighbouring countries often significant?",
+            "q": "Which of these best describes a \"solar calendar\"?",
             "options": [
-              "Neighbouring countries never trade",
-              "Shared borders make transporting goods easier and more efficient",
-              "Distance has no effect on trade",
-              "Trade only happens between distant countries"
+              "A calendar based only on trade schedules",
+              "A calendar based on the sun's yearly cycle",
+              "A calendar with no connection to nature",
+              "A calendar that changes every day randomly"
             ],
             "answer": 1
-          },
-          {
-            "q": "What is one benefit of strong trade relationships between countries?",
-            "options": [
-              "No goods are exchanged",
-              "Access to a wider variety of goods and economic growth",
-              "Trade always harms both countries",
-              "Countries lose all their resources"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Trade agreements between countries like Canada and the United States help ___.",
-            "options": [
-              "Prevent any trade from happening",
-              "Eliminate all industries",
-              "Set clear rules for how goods are exchanged",
-              "Stop economic growth"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -33657,60 +33660,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Byzantine Empire — An Ancient Civilization",
-        "summary": "Grade 4 Social Studies strand: the Byzantine Empire was the eastern continuation of the Roman Empire, centered on the city of Constantinople, known for its trade, architecture, and preservation of learning.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: How a Bill Becomes a Law in Canada",
+        "summary": "Students follow the basic steps a proposed law, or bill, goes through in Canada's Parliament before it can become an official law of the land.",
+        "resourceLabel": "YouTube: Social Studies: How a Bill Becomes a Law in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20a%20Bill%20Becomes%20a%20Law%20in%20Canada%20grade%204%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "What was the Byzantine Empire a continuation of?",
+            "q": "What is a proposed law called before it is officially passed?",
             "options": [
-              "A brand new empire with no history",
-              "The Greek city-states",
-              "The eastern Roman Empire",
-              "The ancient Egyptian empire"
+              "A treaty",
+              "A bill",
+              "A bylaw",
+              "A charter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Canada, where must a bill be debated and voted on before it can become law?",
+            "options": [
+              "In a newspaper",
+              "At a school assembly",
+              "In Parliament",
+              "At city hall only"
             ],
             "answer": 2
           },
           {
-            "q": "What was the capital city of the Byzantine Empire?",
+            "q": "What typically happens after a bill passes a vote in the House of Commons?",
             "options": [
-              "Rome",
-              "Cairo",
-              "Athens",
-              "Constantinople"
+              "It is sent to another country",
+              "It goes to the Senate for review",
+              "It automatically becomes a bylaw",
+              "It is thrown away"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who must give final approval, called Royal Assent, before a bill becomes law in Canada?",
+            "options": [
+              "A random citizen",
+              "A school principal",
+              "The mayor",
+              "The Governor General"
             ],
             "answer": 3
           },
           {
-            "q": "What was the Byzantine Empire known for preserving?",
+            "q": "Why does a bill usually go through several stages of debate and review before becoming law?",
             "options": [
-              "Nothing of value",
-              "Ancient learning, art, and knowledge",
-              "Only weapons",
-              "Only farming tools"
+              "To make sure the law is carefully considered and fair",
+              "To make the process as slow as possible for no reason",
+              "Bills do not need review in Canada",
+              "Because only one person is allowed to read it"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What helped the Byzantine Empire grow wealthy?",
-            "options": [
-              "Having no cities",
-              "Avoiding all contact with other regions",
-              "Trade along important routes",
-              "Ignoring all trade opportunities"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Byzantine Empire important to study?",
-            "options": [
-              "It had no lasting influence",
-              "It shows how earlier civilizations influenced later ones",
-              "It never existed",
-              "It only affected modern Italy"
-            ],
-            "answer": 1
+            "answer": 0
           }
         ]
       }
@@ -34188,63 +34192,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Canadian Pacific Railway — Connecting the Country",
-        "summary": "Grade 4 Social Studies strand: the Canadian Pacific Railway, completed in 1885, linked the country from coast to coast, encouraging settlement and trade, and helping fulfill a promise made to British Columbia when it joined Confederation.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Weapons, Warfare, and Defense",
+        "summary": "Students learn how early societies protected their cities and resources, examining the weapons, armour, and fortifications used and how conflict shaped early civilizations.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Weapons, Warfare, and Defense",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Weapons%2C%20Warfare%2C%20and%20Defense%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What did the Canadian Pacific Railway connect?",
+            "q": "Why did many early cities build tall walls around themselves?",
             "options": [
-              "Nothing of importance",
-              "Communities from coast to coast across Canada",
-              "Canada to another country by land",
-              "Only two neighbouring cities"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In what year was the Canadian Pacific Railway completed?",
-            "options": [
-              "1900",
-              "1885",
-              "1867",
-              "1812"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why was building the railway important for British Columbia joining Confederation?",
-            "options": [
-              "Canada promised a railway to connect BC to the rest of the country",
-              "The railway was built before BC existed",
-              "BC had no interest in railways",
-              "BC refused any transportation link"
+              "To defend against invaders and protect resources",
+              "To block sunlight",
+              "To separate wealthy neighbourhoods only",
+              "To create shade for farming"
             ],
             "answer": 0
           },
           {
-            "q": "What did the railway help encourage across Canada?",
+            "q": "Which material did early societies commonly use before they developed iron weapons?",
             "options": [
-              "Settlement and trade",
-              "The end of all trade",
-              "Fewer communities",
-              "Isolation between regions"
+              "Steel alloy",
+              "Titanium",
+              "Bronze",
+              "Plastic"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What kind of workers helped build the railway, including through dangerous mountain sections?",
+            "q": "What is a fortification?",
             "options": [
-              "Only government officials",
-              "No workers were needed",
-              "Only farmers",
-              "Labourers, including many Chinese workers"
+              "A religious ceremony",
+              "A structure built to defend a place, like a wall or fort",
+              "A type of ancient farming tool",
+              "A trade agreement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might warfare have affected trade between early societies?",
+            "options": [
+              "Warfare always increased trade instantly",
+              "Conflict could disrupt trade routes and damage economies",
+              "Trade only existed during wars",
+              "Warfare had no effect on trade"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these was a common early weapon used before gunpowder reached most societies?",
+            "options": [
+              "Rockets",
+              "Cannons",
+              "Rifles",
+              "Bows and arrows"
             ],
             "answer": 3
           }
-        ],
-        "topic": "History: Colonial & 19th Century Canada"
+        ]
       }
     ]
   },
@@ -34970,60 +34974,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Klondike Gold Rush",
-        "summary": "Grade 4 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, shaping the growth of towns such as Dawson City and the history of northern Canada.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Provincial and Territorial Emblems: Flowers, Birds, and Trees",
+        "summary": "Students explore the official flowers, birds, and trees chosen by Canada's provinces and territories, and discuss why regions select natural symbols to represent their identity.",
+        "resourceLabel": "YouTube: Social Studies: Provincial and Territorial Emblems: Flowers, Birds, and Trees",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Provincial%20and%20Territorial%20Emblems%3A%20Flowers%2C%20Birds%2C%20and%20Trees%20grade%204%20educational",
+        "topic": "Canadian Places & Symbols (Basic)",
         "quiz": [
           {
-            "q": "What resource drew thousands of prospectors to the Yukon during the Klondike Gold Rush?",
+            "q": "What is a provincial emblem, such as an official flower or bird?",
             "options": [
-              "Gold",
-              "Diamonds",
-              "Oil",
-              "Coal"
+              "A symbol chosen to represent a province or territory's identity",
+              "A style of government",
+              "A law about wildlife hunting",
+              "A type of tax"
             ],
             "answer": 0
           },
           {
-            "q": "In which decade did the Klondike Gold Rush mainly take place?",
+            "q": "Ontario's official flower is the:",
             "options": [
-              "The 1700s",
-              "The 1600s",
-              "The 1890s",
-              "The 1950s"
+              "Sunflower",
+              "White trillium",
+              "Rose",
+              "Tulip"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a province choose a native tree or bird as its official symbol?",
+            "options": [
+              "Because it is common and meaningful to that region's environment",
+              "Because it is imported from another country",
+              "Symbols are chosen at random each year",
+              "Because it has no connection to the land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an official provincial or territorial symbol?",
+            "options": [
+              "A national credit card",
+              "An international passport",
+              "A provincial bird",
+              "A federal tax form"
             ],
             "answer": 2
           },
           {
-            "q": "Which town grew rapidly because of the Klondike Gold Rush?",
+            "q": "Provincial emblems are different from provincial flags mainly because emblems usually represent:",
             "options": [
-              "Halifax",
-              "Ottawa",
-              "Toronto",
-              "Dawson City"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What challenges did prospectors often face traveling to the Klondike?",
-            "options": [
-              "Harsh terrain and difficult northern conditions",
-              "Easy travel by highway",
-              "Warm tropical weather",
-              "No challenges at all"
+              "Natural symbols like plants and animals, while flags use colours and designs",
+              "Emblems and flags are exactly the same thing",
+              "Only sports teams",
+              "Only weather patterns"
             ],
             "answer": 0
-          },
-          {
-            "q": "How did the Klondike Gold Rush affect northern Canada?",
-            "options": [
-              "It had no lasting effect",
-              "It caused the region to become empty",
-              "It only affected southern Canada",
-              "It brought rapid population growth and development to the region"
-            ],
-            "answer": 3
           }
         ]
       }
@@ -35238,63 +35243,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: How Provinces Make Laws — Provincial Legislatures",
-        "summary": "Grade 4 Social Studies strand: each Canadian province has its own legislature that debates and passes provincial laws on matters such as education and health care, led by a premier and elected members.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Boats, Roads, and Early Transportation",
+        "summary": "Students explore how early societies moved people and goods over land and water, from simple rafts and roads to more advanced ships and trade routes.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Boats, Roads, and Early Transportation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Boats%2C%20Roads%2C%20and%20Early%20Transportation%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What is a provincial legislature responsible for?",
+            "q": "Why was transportation important to early societies?",
             "options": [
-              "Debating and passing provincial laws",
-              "Passing laws for other countries",
-              "Running local sports teams",
-              "Managing federal military forces"
+              "It was only used for entertainment",
+              "Early societies never traveled",
+              "It allowed people to trade goods and travel between settlements",
+              "It had no real purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these was an early form of water transportation?",
+            "options": [
+              "A dugout canoe or raft",
+              "A cruise ship",
+              "A jet ski",
+              "A submarine"
             ],
             "answer": 0
           },
           {
-            "q": "Who typically leads a provincial government?",
+            "q": "Ancient road networks, like those built by some early civilizations, mainly helped with:",
             "options": [
-              "The Prime Minister",
-              "The premier",
-              "The mayor",
-              "The Governor General"
+              "Storing water",
+              "Blocking travel between regions",
+              "Connecting cities for trade, travel, and messages",
+              "Growing crops"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What natural feature did many early societies rely on for both transportation and trade?",
+            "options": [
+              "Glaciers",
+              "Rivers",
+              "Volcanoes",
+              "Deserts"
             ],
             "answer": 1
           },
           {
-            "q": "Name one area that provincial governments often oversee.",
+            "q": "How did improved transportation likely affect early trade networks?",
             "options": [
-              "National defence",
-              "Education and health care",
-              "International treaties",
-              "Foreign trade agreements"
+              "It had no impact on trade",
+              "It allowed goods and ideas to spread farther and faster",
+              "It only affected local travel within one village",
+              "It made trade impossible"
             ],
             "answer": 1
-          },
-          {
-            "q": "How are members of a provincial legislature usually chosen?",
-            "options": [
-              "Elected by voters in the province",
-              "Inherited through family",
-              "Chosen at random",
-              "Appointed by another country"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does Canada have both federal and provincial governments?",
-            "options": [
-              "To share responsibilities between national and regional levels",
-              "Because Canada has no federal government",
-              "To eliminate all local decision-making",
-              "Because provinces have no responsibilities"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        ]
       }
     ]
   },
@@ -35773,60 +35778,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the Lieutenant Governor",
-        "summary": "Grade 4 Social Studies strand: the Lieutenant Governor is the representative of the Crown at the provincial level, performing ceremonial duties and formally granting royal assent to provincial laws.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Confederation: How Canada Became a Country",
+        "summary": "Students learn the basic story of Confederation in 1867, when several British colonies joined together to form the Dominion of Canada, and identify the original provinces involved.",
+        "resourceLabel": "YouTube: Social Studies: Confederation: How Canada Became a Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%204%20educational",
+        "topic": "History: Colonial & 19th Century Canada",
         "quiz": [
           {
-            "q": "Who does the Lieutenant Governor represent at the provincial level?",
+            "q": "In what year did Confederation create the Dominion of Canada?",
             "options": [
-              "The Crown",
-              "A foreign government",
-              "The Prime Minister",
-              "The United Nations"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What must a provincial bill receive from the Lieutenant Governor to become law?",
-            "options": [
-              "A court ruling",
-              "A public vote only",
-              "A newspaper announcement",
-              "Royal assent"
+              "1776",
+              "1900",
+              "1812",
+              "1867"
             ],
             "answer": 3
           },
           {
-            "q": "What type of duties does the Lieutenant Governor often perform?",
+            "q": "What does \"Confederation\" refer to in Canadian history?",
             "options": [
-              "Coaching sports teams",
-              "Running a business",
-              "Ceremonial duties",
-              "Managing a citys police force"
+              "The building of the Trans-Canada Highway",
+              "A war between Canada and another nation",
+              "The joining of separate British colonies into one country",
+              "The signing of a trade deal with the United States"
             ],
             "answer": 2
           },
           {
-            "q": "How does the role of Lieutenant Governor compare to the Governor General?",
+            "q": "Which of these was one of the original four provinces at Confederation?",
             "options": [
-              "They are exactly the same job with the same title",
-              "The Lieutenant Governor governs another country",
-              "It is a similar role but at the provincial level instead of the federal level",
-              "The Lieutenant Governor has no connection to the Crown"
+              "British Columbia",
+              "Manitoba",
+              "Ontario",
+              "Alberta"
             ],
             "answer": 2
           },
           {
-            "q": "Why does Canada have a Lieutenant Governor in each province?",
+            "q": "Confederation is often celebrated each year on which Canadian holiday?",
             "options": [
-              "To represent the Crown and perform formal duties provincially",
-              "To replace the premier entirely",
-              "To manage international trade only",
-              "Provinces have no need for this role"
+              "Canada Day",
+              "Remembrance Day",
+              "Victoria Day",
+              "Thanksgiving"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why did colonial leaders decide to unite into one country?",
+            "options": [
+              "They were forced to by another country",
+              "They wanted to eliminate all provinces",
+              "For reasons including shared defense, economic growth, and building a railway together",
+              "There was no specific reason"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -36040,60 +36046,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Ancient Civilizations, Geography, and Canadian History",
-        "summary": "Grade 4 Social Studies strand review: students revisit the Byzantine Empire, the Rocky Mountains, the Canadian Pacific Railway, Canadas fishing industry, and the National Day for Truth and Reconciliation.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Medicine and Healing Practices",
+        "summary": "Students investigate how early societies understood illness and healing, from herbal remedies and rituals to early surgical tools, and compare these practices to modern medicine.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Medicine and Healing Practices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Medicine%20and%20Healing%20Practices%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What was the Byzantine Empire a continuation of?",
+            "q": "What did many early societies use to treat illness before modern medicine existed?",
             "options": [
-              "The ancient Egyptian empire",
-              "The Greek city-states",
-              "The eastern Roman Empire",
-              "A brand new empire with no history"
+              "X-ray machines",
+              "Only modern pills",
+              "Antibiotics",
+              "Herbal remedies and natural plants"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "In which part of Canada are the Rocky Mountains located?",
+            "q": "In some early societies, who was often responsible for healing the sick?",
             "options": [
-              "Southern Ontario",
-              "Eastern Canada",
-              "Western Canada",
-              "Northern Canada only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What did the Canadian Pacific Railway connect?",
-            "options": [
-              "Canada to another country by land",
-              "Only two neighbouring cities",
-              "Communities from coast to coast across Canada",
-              "Nothing of importance"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the fishing industry harvest from Canadas coastal waters?",
-            "options": [
-              "Seafood such as fish and shellfish",
-              "Only minerals",
-              "Only fresh vegetables",
-              "Only lumber"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "On what date is the National Day for Truth and Reconciliation observed?",
-            "options": [
-              "October 31",
-              "September 30",
-              "November 11",
-              "July 1"
+              "Only kings",
+              "Healers, priests, or medicine people",
+              "Foreign traders",
+              "Nobody cared for the sick"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an early medical tool that has been found by archaeologists?",
+            "options": [
+              "An MRI machine",
+              "A simple surgical or dental tool made of stone or metal",
+              "A modern stethoscope",
+              "A microscope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does studying early medicine help us understand a society?",
+            "options": [
+              "It tells us nothing useful",
+              "It reveals modern hospital designs",
+              "It only shows what people ate",
+              "It shows what people believed about health, science, and the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which best compares early and modern medicine?",
+            "options": [
+              "They are exactly the same",
+              "Early medicine was more advanced than modern medicine",
+              "Modern medicine has no connection to early practices",
+              "Early medicine often relied on natural remedies and belief, while modern medicine uses scientific research and technology"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -36371,63 +36378,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Analyzing Character Foils",
-        "summary": "Grade 4 Language strand: a character foil is a character whose traits contrast with another character, highlighting specific qualities of the main character through the difference.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Grammar: Subject and Object Pronouns",
+        "summary": "Students learn to tell subject pronouns (I, you, he, she, it, we, they) apart from object pronouns (me, you, him, her, it, us, them) and practice choosing the correct one in a sentence.",
+        "resourceLabel": "YouTube: Grammar: Subject and Object Pronouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Subject%20and%20Object%20Pronouns%20grade%204%20educational",
+        "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
-            "q": "What is a character foil?",
+            "q": "Which pronoun correctly completes: \"___ went to the park after school.\"?",
             "options": [
-              "A character who looks exactly like the main character",
-              "A character whose traits contrast with another character to highlight qualities",
-              "A type of punctuation mark",
-              "A character who never appears in the story"
+              "Them",
+              "She",
+              "Her",
+              "Me"
             ],
             "answer": 1
           },
           {
-            "q": "What does a foil help readers notice about the main character?",
+            "q": "Which sentence uses an object pronoun correctly?",
             "options": [
-              "The authors name",
-              "Nothing useful about the story",
-              "Only the setting of the story",
-              "Specific traits or qualities through contrast"
+              "Give the book to they.",
+              "Give the book to I.",
+              "Give the book to she.",
+              "Give the book to her."
             ],
             "answer": 3
           },
           {
-            "q": "If a brave character is paired with a timid character, what literary device might this show?",
+            "q": "In the sentence \"The teacher praised him for his hard work,\" which word is the object pronoun?",
             "options": [
-              "A character foil emphasizing bravery through contrast",
-              "A simile comparing two objects",
-              "A type of onomatopoeia",
-              "An example of alliteration"
+              "praised",
+              "his",
+              "teacher",
+              "him"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Where might a character foil appear in a story?",
+            "q": "Which subject pronoun correctly replaces \"Marco and I\" in \"Marco and I built a fort.\"?",
             "options": [
-              "As a friend, sibling, or rival with opposite traits",
-              "Only in the table of contents",
-              "Never in fiction",
-              "Only in the title of the book"
+              "Him",
+              "Them",
+              "Us",
+              "We"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why do authors use character foils?",
+            "q": "Which pronoun correctly completes: \"Mom gave the tickets to ___ and me.\"?",
             "options": [
-              "To avoid describing any characters",
-              "To make certain traits of a character stand out more clearly",
-              "To remove conflict from a story",
-              "To confuse readers with no purpose"
+              "she",
+              "they",
+              "him",
+              "he"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Reading: Fiction & Story Elements"
+        ]
       },
       {
         "subject": "Math",
@@ -36906,123 +36913,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Understanding Jargon and Technical Vocabulary",
-        "summary": "Grade 4 Language strand: jargon is special vocabulary used by people in a particular field or group, such as doctors or athletes, that may be unfamiliar to general readers.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Vocabulary: Using a Thesaurus for Precise Word Choice",
+        "summary": "Students practice using a thesaurus to find synonyms and choose the word that best fits the meaning and tone of a sentence, making their writing more precise and interesting.",
+        "resourceLabel": "YouTube: Vocabulary: Using a Thesaurus for Precise Word Choice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Using%20a%20Thesaurus%20for%20Precise%20Word%20Choice%20grade%204%20educational",
+        "topic": "Vocabulary",
         "quiz": [
           {
-            "q": "What is jargon?",
+            "q": "A thesaurus is most useful for finding...",
             "options": [
-              "A word with no meaning at all",
-              "A type of punctuation mark",
-              "A grammar rule for verbs",
-              "Special vocabulary used by people in a particular field or group"
+              "rhyming words",
+              "word definitions",
+              "synonyms and antonyms",
+              "page numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is the strongest synonym for \"happy\" in the sentence \"She was ___ about winning the contest.\"?",
+            "options": [
+              "annoyed",
+              "confused",
+              "tired",
+              "thrilled"
             ],
             "answer": 3
           },
           {
-            "q": "Who might use medical jargon?",
+            "q": "Replacing the word \"said\" with a more precise synonym like \"whispered\" or \"shouted\" helps a writer...",
             "options": [
-              "Only fictional characters",
-              "No one uses jargon",
-              "Doctors and nurses",
-              "Only young children"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might jargon be confusing to general readers?",
-            "options": [
-              "It always uses the simplest words possible",
-              "It uses specialized terms unfamiliar outside that field",
-              "Jargon is identical in every field",
-              "Jargon never appears in real language"
+              "make the sentence shorter",
+              "show exactly how something was said",
+              "avoid using punctuation",
+              "change the topic of the story"
             ],
             "answer": 1
           },
           {
-            "q": "What should a writer do when using jargon for a general audience?",
+            "q": "Which pair of words are synonyms?",
             "options": [
-              "Avoid all vocabulary completely",
-              "Use only jargon with no explanation",
-              "Explain or define the specialized terms",
-              "Assume everyone already knows it"
+              "big / tiny",
+              "fast / quick",
+              "hot / cold",
+              "up / down"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Which is an example of sports jargon?",
+            "q": "Which word would NOT be a good synonym for \"difficult\" in \"The test was very ___.\"?",
             "options": [
-              "A term like slam dunk used among basketball players",
-              "A punctuation mark",
-              "A common word like table",
-              "A silent letter"
+              "tricky",
+              "challenging",
+              "tough",
+              "simple"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Vocabulary"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Data Management: Interpreting Stacked Bar Graphs",
-        "summary": "Grade 4 Math strand: a stacked bar graph shows multiple categories within a single bar, with each section representing a different part of the total for that bar.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Multiplying 3-Digit by 1-Digit Numbers",
+        "summary": "Students multiply 3-digit numbers by a single digit using the standard algorithm with regrouping, applying the skill to word problems about everyday quantities.",
+        "resourceLabel": "YouTube: Multiplying 3-Digit by 1-Digit Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%203-Digit%20by%201-Digit%20Numbers%20grade%204%20educational",
+        "topic": "Multiplication & Division",
         "quiz": [
           {
-            "q": "What does a stacked bar graph show within a single bar?",
+            "q": "What is 213 × 4?",
             "options": [
-              "Nothing measurable",
-              "Multiple categories stacked to show parts of a total",
-              "Only one category with no divisions",
-              "A single number with no comparison"
+              "842",
+              "852",
+              "862",
+              "824"
             ],
             "answer": 1
           },
           {
-            "q": "How can you find the total value represented by a stacked bar?",
+            "q": "A school orders 3 boxes of pencils. Each box has 124 pencils. How many pencils are there in total?",
             "options": [
-              "Add up all the sections stacked within that bar",
-              "Only look at the top section",
-              "Multiply the number of sections",
-              "Subtract each section from the others"
+              "362",
+              "348",
+              "382",
+              "372"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why might a stacked bar graph be useful for comparing data?",
+            "q": "Which of these multiplication problems needs you to regroup ('carry') from the ones column to the tens column?",
             "options": [
-              "It hides all the data",
-              "It shows both individual parts and the overall total at once",
-              "It cannot be used to compare anything",
-              "It only shows a single value with no detail"
+              "121 × 3",
+              "210 × 4",
+              "128 × 3",
+              "143 × 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the exact product of 407 × 6?",
+            "options": [
+              "2,542",
+              "2,442",
+              "2,402",
+              "2,432"
             ],
             "answer": 1
           },
           {
-            "q": "What might different colours within a stacked bar represent?",
+            "q": "A recipe uses 132 mL of milk per batch. How much milk is needed for 5 batches?",
             "options": [
-              "Only decoration",
-              "Nothing at all",
-              "The title of the graph",
-              "Different categories or subgroups of data"
+              "600 mL",
+              "665 mL",
+              "660 mL",
+              "650 mL"
             ],
-            "answer": 3
-          },
-          {
-            "q": "If one bar shows red for 3 units and blue for 2 units stacked together, what is the total height of that bar?",
-            "options": [
-              "3 units",
-              "2 units",
-              "6 units",
-              "5 units"
-            ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
@@ -37086,58 +37093,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the Supreme Court of Canada",
-        "summary": "Grade 4 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on important legal cases and ensuring laws follow the Canadian Constitution.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Map Skills: Grid References and Coordinates",
+        "summary": "Students learn to use letter-number grid systems on maps and atlases to locate specific places, building on earlier map skills like scale and compass direction.",
+        "resourceLabel": "YouTube: Social Studies: Map Skills: Grid References and Coordinates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Map%20Skills%3A%20Grid%20References%20and%20Coordinates%20grade%204%20educational",
+        "topic": "Map Skills & Geography Basics",
         "quiz": [
           {
-            "q": "What is the Supreme Court of Canada?",
+            "q": "What is a grid reference used for on a map?",
             "options": [
-              "A private business court",
-              "A local municipal office",
-              "A branch of the police force",
-              "The highest court in the country"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What kind of decisions does the Supreme Court of Canada make?",
-            "options": [
-              "Decisions about sports team rules",
-              "Final decisions on important legal cases",
-              "Decisions about school lunch menus",
-              "Decisions about weather forecasts"
+              "To measure temperature",
+              "To help locate a specific place using letters and numbers",
+              "To list the population of a city",
+              "To show the map's title"
             ],
             "answer": 1
           },
           {
-            "q": "What document must Canadian laws align with, according to the Supreme Court?",
+            "q": "On a typical map grid, letters usually run along which axis?",
             "options": [
-              "A local city bylaw only",
-              "A foreign countrys constitution",
-              "The Canadian Constitution",
-              "A private companys rules"
+              "The top (horizontal)",
+              "There are no letters on a grid",
+              "Only the bottom-left corner",
+              "Diagonally"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is having a highest court important for a country?",
+            "q": "If a location is found at grid square C4, what two things does that reference combine?",
             "options": [
-              "It only handles minor disputes",
-              "It replaces the need for any other courts",
-              "It provides a final, consistent decision on major legal questions",
-              "It has no real purpose in government"
+              "A column letter and a row number",
+              "Two column letters",
+              "A colour and a shape",
+              "Two row numbers"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Who might bring a case to the Supreme Court of Canada?",
+            "q": "Why are grid references especially useful in an atlas with many place names?",
             "options": [
-              "Only young children",
-              "Only foreign governments",
-              "People or groups involved in significant legal disputes",
-              "No one is allowed to bring cases"
+              "They replace the need for a map key",
+              "They help readers quickly find a specific location without searching the whole map",
+              "They show which direction is north",
+              "They indicate a location's population"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which map skill would you use together with grid references to fully describe a location's place and direction?",
+            "options": [
+              "A pie chart",
+              "A calendar",
+              "A compass rose",
+              "A thermometer"
             ],
             "answer": 2
           }
@@ -37331,60 +37339,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Israel and the Fertile Crescent",
-        "summary": "Grade 4 Social Studies strand: ancient Israel developed within the Fertile Crescent, a region with rich soil and access to water that supported early farming, trade, and the growth of significant historical societies.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Laws and Codes of Justice",
+        "summary": "Students examine how early societies created written laws, such as the Code of Hammurabi, to keep order, resolve disputes, and define punishments.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Laws and Codes of Justice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Laws%20and%20Codes%20of%20Justice%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What is the Fertile Crescent known for?",
+            "q": "What was the Code of Hammurabi?",
             "options": [
-              "Being a completely dry desert with no water",
-              "Being located entirely underwater",
-              "Having no history of early civilizations",
-              "Rich soil and water access that supported early farming"
+              "A religious festival",
+              "A trade agreement with China",
+              "One of the earliest known written sets of laws, from ancient Mesopotamia",
+              "A type of ancient boat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did early societies begin writing down their laws?",
+            "options": [
+              "To confuse citizens",
+              "Laws were never written down in early societies",
+              "Only for record-keeping about taxes",
+              "To create clear, consistent rules that everyone could be judged by"
             ],
             "answer": 3
           },
           {
-            "q": "Why did early societies often settle near rivers in the Fertile Crescent?",
+            "q": "In many early legal codes, who was responsible for enforcing the laws?",
             "options": [
-              "Rivers had no value to ancient peoples",
-              "Early societies avoided rivers completely",
-              "Rivers made travel and farming impossible",
-              "Rivers provided water for farming and daily life"
+              "No one enforced early laws",
+              "Foreign visitors",
+              "Only farmers",
+              "Rulers, judges, or officials"
             ],
             "answer": 3
           },
           {
-            "q": "What activity was strongly supported by the fertile land in this region?",
+            "q": "What might happen to someone in an early society who broke an important law?",
             "options": [
-              "Mountain climbing",
-              "Farming",
-              "Deep sea fishing only",
-              "Ice fishing"
+              "They would automatically become a ruler",
+              "Nothing ever happened",
+              "They could face a punishment set out in the code of laws",
+              "They were given a reward"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What is ancient Israel an example of in this region?",
+            "q": "How do early written law codes help historians today?",
             "options": [
-              "A society with no connection to farming",
-              "A significant historical society that developed in the Fertile Crescent",
-              "A civilization located in Antarctica",
-              "A modern country with no ancient history"
+              "They were written in a language no one can study",
+              "They provide no useful historical information",
+              "They only describe farming techniques",
+              "They reveal what early societies valued and how they kept order"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why do historians study the Fertile Crescent today?",
-            "options": [
-              "It helps explain the origins of early farming and civilization",
-              "It was never inhabited by ancient peoples",
-              "It is important only for its modern buildings",
-              "It has no historical significance"
-            ],
-            "answer": 0
+            "answer": 3
           }
         ]
       }
@@ -37396,63 +37405,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Grammar: Understanding Verb Moods — Indicative, Imperative, and Interrogative",
-        "summary": "Grade 4 Language strand: verb mood shows the purpose of a sentence, with the indicative mood stating facts, the imperative mood giving commands, and the interrogative mood asking questions.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Reading: Identifying an Author's Purpose",
+        "summary": "Students learn to identify whether a text's main purpose is to persuade, inform, or entertain, using clues from the author's word choice, structure, and content.",
+        "resourceLabel": "YouTube: Reading: Identifying an Author's Purpose",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Identifying%20an%20Author%27s%20Purpose%20grade%204%20educational",
+        "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
-            "q": "What does the indicative mood do?",
+            "q": "A recipe for chocolate chip cookies is written mainly to...",
             "options": [
-              "Expresses a wish",
-              "Gives a command",
-              "States a fact or opinion",
-              "Asks a question"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the imperative mood do?",
-            "options": [
-              "Asks a question",
-              "Describes a feeling only",
-              "Gives a command or request",
-              "States a fact"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which sentence is in the interrogative mood?",
-            "options": [
-              "Close the door.",
-              "The sky is blue.",
-              "Did you finish your homework?",
-              "Please sit down."
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which sentence is in the imperative mood?",
-            "options": [
-              "The window is open.",
-              "Is the window open?",
-              "The window was closed yesterday.",
-              "Please close the window."
+              "persuade",
+              "confuse",
+              "entertain",
+              "inform"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it useful to recognize verb mood?",
+            "q": "An advertisement that says \"Buy now — the best shoes you'll ever own!\" is written mainly to...",
             "options": [
-              "Verb mood has no real use",
-              "It helps understand the purpose of a sentence",
-              "It only matters in poetry",
-              "It replaces the need for punctuation"
+              "describe",
+              "inform",
+              "persuade",
+              "entertain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A funny story about a talking dog who gets into trouble is written mainly to...",
+            "options": [
+              "inform",
+              "entertain",
+              "instruct",
+              "persuade"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which clue would most help you figure out an author's purpose?",
+            "options": [
+              "the number of pages in the book",
+              "the size of the font used",
+              "the color of the book cover",
+              "the words and details the author chooses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A newspaper article explaining how a new bridge was built is written mainly to...",
+            "options": [
+              "persuade",
+              "inform",
+              "entertain",
+              "complain"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Grammar: Parts of Speech"
+        ]
       },
       {
         "subject": "Math",
@@ -37932,123 +37941,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Identifying Bias in Historical Accounts",
-        "summary": "Grade 4 Language strand: bias in a historical account occurs when a writer presents information in a way that favours one perspective, often leaving out other viewpoints or important facts.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Writing: Writing How-To Instructions",
+        "summary": "Students learn to write clear, step-by-step instructions for completing a simple task, using sequence words like \"first,\" \"next,\" and \"finally\" to guide the reader in the correct order.",
+        "resourceLabel": "YouTube: Writing: Writing How-To Instructions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20How-To%20Instructions%20grade%204%20educational",
+        "topic": "Writing: Informational/Expository",
         "quiz": [
           {
-            "q": "What is bias in a historical account?",
+            "q": "Which word usually signals the first step in a set of instructions?",
             "options": [
-              "Presenting every perspective completely equally",
-              "A summary with no opinions at all",
-              "A type of punctuation mark",
-              "Presenting information in a way that favours one perspective"
+              "Sometimes",
+              "First",
+              "Meanwhile",
+              "Finally"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might a biased historical account leave out certain facts?",
+            "q": "Why do writers use sequence words like \"next\" and \"then\" in instructions?",
             "options": [
-              "Bias never affects which facts are included",
-              "All historical accounts are automatically unbiased",
-              "To support one particular viewpoint over others",
-              "To always present a fully balanced view"
+              "to make the writing longer",
+              "to change the topic",
+              "to show the correct order of the steps",
+              "to add extra descriptions"
             ],
             "answer": 2
           },
           {
-            "q": "How can readers identify possible bias in a text?",
+            "q": "Which sentence is the best example of a clear instructional step?",
             "options": [
-              "By ignoring the source of the text",
-              "By trusting every single text completely",
-              "By checking whether other viewpoints or facts are missing",
-              "Bias cannot ever be identified"
+              "I love baking cookies.",
+              "Flour is made from wheat.",
+              "The kitchen was sunny that morning.",
+              "Pour two cups of flour into the bowl."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should a writer usually include at the start of a set of instructions?",
+            "options": [
+              "a character description",
+              "a list of materials needed",
+              "a joke",
+              "a poem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a sequence word incorrectly for a set of instructions?",
+            "options": [
+              "First, plug in the toaster.",
+              "Finally, wait for the toast to pop up.",
+              "Yesterday, press the lever down.",
+              "Next, put the bread in the slots."
             ],
             "answer": 2
-          },
-          {
-            "q": "Why is it useful to compare multiple historical sources?",
-            "options": [
-              "Multiple sources always say the exact same thing",
-              "Comparing sources is never useful",
-              "One source is always enough",
-              "It helps reveal different perspectives and possible bias"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What might indicate a source has strong bias?",
-            "options": [
-              "Including dates and verified facts",
-              "Citing multiple credible sources",
-              "Presenting balanced evidence from multiple sides",
-              "Only describing one groups viewpoint as entirely correct"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Reading Comprehension & Strategies"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Comparing Fractions Decimals and Percents",
-        "summary": "Grade 4 Math strand: fractions, decimals, and percents are different ways of representing the same value, and converting between them helps students compare and order numbers.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Comparing Fractions Using Benchmarks",
+        "summary": "Students compare fractions with unlike denominators by reasoning about their size relative to the benchmarks 0, 1/2, and 1, without needing to find a common denominator.",
+        "resourceLabel": "YouTube: Comparing Fractions Using Benchmarks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Fractions%20Using%20Benchmarks%20grade%204%20educational",
+        "topic": "Fractions",
         "quiz": [
           {
-            "q": "What do fractions, decimals, and percents all represent?",
+            "q": "Which benchmark is 3/8 closest to?",
             "options": [
-              "Only negative numbers",
-              "Completely unrelated concepts",
-              "Only whole numbers",
-              "Different ways of showing the same value"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is 1/2 written as a decimal?",
-            "options": [
-              "0.5",
-              "0.2",
-              "1.5",
-              "0.25"
+              "1/2",
+              "1",
+              "2",
+              "0"
             ],
             "answer": 0
           },
           {
-            "q": "What is 0.5 written as a percent?",
+            "q": "Which of these fractions is greater than 1/2?",
             "options": [
-              "0.5%",
-              "500%",
-              "50%",
-              "5%"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is greater, 1/4 or 0.4?",
-            "options": [
-              "1/4",
-              "0.4",
-              "They are equal",
-              "They cannot be compared"
+              "3/8",
+              "5/8",
+              "4/9",
+              "2/5"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to convert between fractions, decimals, and percents?",
+            "q": "Which fraction is closest to 0?",
             "options": [
-              "Fractions and decimals can never be compared",
-              "It makes it easier to compare and order different values",
-              "Conversion is never useful in math",
-              "Percents cannot represent fractions"
+              "9/10",
+              "1/10",
+              "5/6",
+              "4/5"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which fraction falls between the benchmarks 1/2 and 1?",
+            "options": [
+              "1/6",
+              "5/8",
+              "3/10",
+              "2/5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sam ate 5/6 of a pizza and Mia ate 2/5 of a same-size pizza. Using benchmark reasoning, who ate more?",
+            "options": [
+              "Sam",
+              "They ate the same amount",
+              "Mia",
+              "Cannot be determined"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Fractions"
+        ]
       },
       {
         "subject": "Science",
@@ -38200,63 +38209,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Understanding Euphemisms",
-        "summary": "Grade 4 Language strand: a euphemism is a mild or indirect word or phrase used in place of one that might be considered harsh, unpleasant, or too direct.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Grammar: Types of Adverbs",
+        "summary": "Students identify and use adverbs of manner, time, place, and frequency to tell how, when, where, and how often an action happens, adding more detail to their sentences.",
+        "resourceLabel": "YouTube: Grammar: Types of Adverbs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Types%20of%20Adverbs%20grade%204%20educational",
+        "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
-            "q": "What is a euphemism?",
+            "q": "In \"She sang loudly,\" the adverb \"loudly\" tells...",
             "options": [
-              "A word that means the exact same as its opposite",
-              "A grammar rule for verbs",
-              "A mild or indirect word used in place of a harsher one",
-              "A type of punctuation mark"
+              "where",
+              "how often",
+              "when",
+              "how"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is the adverb that tells \"when\" in \"We will leave tomorrow.\"?",
+            "options": [
+              "leave",
+              "we",
+              "tomorrow",
+              "will"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a writer use a euphemism?",
+            "q": "Which sentence contains an adverb of place?",
             "options": [
-              "To soften language about a sensitive or unpleasant topic",
-              "To make language more harsh and direct",
-              "To confuse the reader on purpose",
-              "Euphemisms are never used in writing"
+              "I always brush my teeth.",
+              "He runs quickly.",
+              "They played outside.",
+              "She arrived early."
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Which is an example of a euphemism for passed away?",
+            "q": "Which word is an adverb of frequency?",
             "options": [
-              "Died suddenly",
-              "Stopped breathing forever",
-              "Was killed instantly",
-              "Passed on"
+              "yesterday",
+              "upstairs",
+              "quietly",
+              "usually"
             ],
             "answer": 3
           },
           {
-            "q": "What might using a euphemism accomplish in conversation?",
+            "q": "Choose the adverb that best completes: \"The cat crept ___ across the room.\"",
             "options": [
-              "Removing all meaning from a sentence",
-              "Confusing the listener with random words",
-              "Making a topic feel more harsh",
-              "Making a difficult topic feel gentler to discuss"
+              "never",
+              "carefully",
+              "tomorrow",
+              "everywhere"
             ],
-            "answer": 3
-          },
-          {
-            "q": "In which situation might someone use a euphemism?",
-            "options": [
-              "When discussing a sensitive topic politely",
-              "When writing a shopping list",
-              "When labelling a diagram",
-              "When stating a simple math fact"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Vocabulary"
+        ]
       },
       {
         "subject": "Math",
@@ -38445,117 +38454,118 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Language Review: Sentence Craft, Character, and Media Texts",
-        "summary": "Grade 4 Language strand review: students revisit parallel structure, character foils, public service announcements, jargon, and comparing texts on the same topic.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Language Review: Grammar, Vocabulary, and Reading Skills (Days 141-149)",
+        "summary": "A review of parallel sentence structure, thesaurus use, author's purpose, procedural writing, and adverbs, pulling together the grammar, vocabulary, and reading skills covered in Days 141-149.",
+        "resourceLabel": "YouTube: Language Review: Grammar, Vocabulary, and Reading Skills (Days 141-149)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Grammar%2C%20Vocabulary%2C%20and%20Reading%20Skills%20%28Days%20141-149%29%20grade%204%20educational",
         "quiz": [
           {
-            "q": "What is parallel structure in a sentence?",
+            "q": "Which sentence uses parallel structure correctly?",
             "options": [
-              "A title and a subtitle",
-              "Using the same grammatical pattern for items in a series",
-              "Using a different verb tense for each item",
-              "Two unrelated topics"
+              "I like running, swimming, and biking.",
+              "I like to run, swimming, and biking.",
+              "I like run, swim, and biking.",
+              "I like running, swimming, and to bike."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A public service announcement is mainly written to...",
+            "options": [
+              "entertain readers with a funny story",
+              "inform or persuade the public about an important issue",
+              "sell a brand-name product",
+              "tell a made-up fantasy story"
             ],
             "answer": 1
           },
           {
-            "q": "What is a character foil?",
+            "q": "When comparing two texts on the same topic, a reader should look for...",
             "options": [
-              "A type of punctuation mark",
-              "A character who looks exactly like the main character",
-              "A character who never appears in the story",
-              "A character whose traits contrast with another character to highlight qualities"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the purpose of a public service announcement?",
-            "options": [
-              "To sell a specific brand of toy",
-              "To inform the public about an issue and encourage action",
-              "To share a private diary entry",
-              "To tell a made-up bedtime story"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is jargon?",
-            "options": [
-              "A type of punctuation mark",
-              "A word with no meaning at all",
-              "Special vocabulary used by people in a particular field or group",
-              "A grammar rule for verbs"
+              "only the page numbers",
+              "the font used in each text",
+              "similarities and differences in information and viewpoint",
+              "the length of each title"
             ],
             "answer": 2
           },
           {
-            "q": "What does comparing two texts on the same topic involve?",
+            "q": "A thesaurus mainly helps writers find...",
             "options": [
-              "Reading only one of the texts",
-              "Ignoring the topic entirely",
-              "Copying one text exactly",
-              "Identifying similarities and differences between the texts"
+              "definitions only",
+              "spelling rules",
+              "synonyms and antonyms",
+              "punctuation marks"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "Which word is an adverb of manner?",
+            "options": [
+              "tomorrow",
+              "quickly",
+              "upstairs",
+              "often"
+            ],
+            "answer": 1
           }
         ]
       },
       {
         "subject": "Math",
-        "title": "Math Review: Operations, Measurement, and Data",
-        "summary": "Grade 4 Math strand review: students revisit dividing a fraction by a whole number, volume of triangular prisms, integers, stacked bar graphs, and rounding to the nearest ten thousand.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Setting and Tracking a Savings Goal",
+        "summary": "Students practice setting a realistic savings goal, then use addition and division to plan weekly or monthly savings amounts needed to reach it by a target date.",
+        "resourceLabel": "YouTube: Setting and Tracking a Savings Goal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Setting%20and%20Tracking%20a%20Savings%20Goal%20grade%204%20educational",
+        "topic": "Financial Literacy",
         "quiz": [
           {
-            "q": "What happens to the denominator when dividing a fraction by a whole number?",
+            "q": "Mia wants to save $60 for a bike helmet in 6 weeks, saving the same amount each week. How much must she save weekly?",
             "options": [
-              "The denominator is divided by the whole number",
-              "The denominator is multiplied by the whole number",
-              "The denominator stays exactly the same",
-              "The numerator disappears"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What shape is the base of a triangular prism?",
-            "options": [
-              "A square",
-              "A circle",
-              "A triangle",
-              "A pentagon"
+              "$12",
+              "$6",
+              "$10",
+              "$15"
             ],
             "answer": 2
           },
           {
-            "q": "What are integers?",
+            "q": "Jayden has saved $18 toward his $45 goal. How much more does he need to save?",
             "options": [
-              "Positive numbers, negative numbers, and zero",
-              "Only positive numbers",
-              "Only decimals",
-              "Only fractions"
+              "$27",
+              "$23",
+              "$17",
+              "$63"
             ],
             "answer": 0
           },
           {
-            "q": "What does a stacked bar graph show within a single bar?",
+            "q": "Which is the BEST strategy for reaching a savings goal faster?",
             "options": [
-              "A single number with no comparison",
-              "Only one category with no divisions",
-              "Multiple categories stacked to show parts of a total",
-              "Nothing measurable"
+              "Borrow money and pay it back later",
+              "Spend allowance right away",
+              "Only save money left over, with no plan",
+              "Save a set amount from allowance each week"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What digit do you check when rounding to the nearest ten thousand?",
+            "q": "Priya saves $5 per week toward a goal. After how many weeks will she have saved at least $35?",
             "options": [
-              "The thousands digit",
-              "The tenths digit",
-              "The hundred thousands digit",
-              "The ones digit"
+              "5 weeks",
+              "8 weeks",
+              "6 weeks",
+              "7 weeks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A savings goal is best described as:",
+            "options": [
+              "A specific amount of money you plan to save by a certain time",
+              "The total in a store's cash register",
+              "Money someone gives you as a gift",
+              "An amount of money you plan to spend right away"
             ],
             "answer": 0
           }
@@ -38891,58 +38901,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Carthage and the Phoenician Traders",
-        "summary": "Grade 4 Social Studies strand: ancient Carthage was a powerful trading city founded by the Phoenicians, known for its skilled sailors, extensive trade routes, and influence across the Mediterranean Sea.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Canada's Major Islands: Vancouver Island, Baffin Island, and PEI",
+        "summary": "Students locate and compare three of Canada's significant islands, learning about their geography, size, and importance to the surrounding provinces or territories.",
+        "resourceLabel": "YouTube: Social Studies: Canada's Major Islands: Vancouver Island, Baffin Island, and PEI",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%27s%20Major%20Islands%3A%20Vancouver%20Island%2C%20Baffin%20Island%2C%20and%20PEI%20grade%204%20educational",
+        "topic": "Canadian Geography & Regions",
         "quiz": [
           {
-            "q": "Who founded the ancient city of Carthage?",
+            "q": "Vancouver Island is located off the coast of which province?",
             "options": [
-              "The Phoenicians",
-              "The Romans",
-              "The Greeks",
-              "The Egyptians"
+              "Ontario",
+              "Newfoundland and Labrador",
+              "British Columbia",
+              "Nova Scotia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Prince Edward Island is unique among Canadian provinces because it is:",
+            "options": [
+              "Canada's smallest province and an island",
+              "Canada's largest province",
+              "Landlocked with no coastline",
+              "Located in the Arctic"
             ],
             "answer": 0
           },
           {
-            "q": "What were the Phoenicians especially well known for?",
+            "q": "Baffin Island is located in which territory?",
             "options": [
-              "Farming rice",
-              "Mining coal",
-              "Building pyramids",
-              "Being skilled sailors and traders"
+              "Ontario",
+              "Nunavut",
+              "Yukon",
+              "Northwest Territories"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Where was ancient Carthage located?",
+            "q": "Which of these islands is one of the largest islands in the world?",
             "options": [
-              "On the coast of the Mediterranean Sea",
-              "On a small island in the Pacific Ocean",
-              "In the mountains far from any coastline",
-              "In the middle of a large desert with no water access"
+              "A man-made island",
+              "An island with no name",
+              "Baffin Island",
+              "A small pond island"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why was trade important to the city of Carthage?",
+            "q": "Why might island geography affect how communities travel and trade?",
             "options": [
-              "It helped Carthage grow wealthy and powerful through Mediterranean trade routes",
-              "Carthage refused to trade with any other cities",
-              "Trade had no effect on Carthages growth",
-              "Carthage only relied on farming for its economy"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why do historians still study ancient Carthage today?",
-            "options": [
-              "Carthage has no historical importance",
-              "Carthage was never involved in trade",
-              "It reveals how trade and seafaring shaped ancient Mediterranean societies",
-              "Carthage was located far from any trade routes"
+              "Islands never need transportation",
+              "Islands are always connected by bridges",
+              "Islands often rely more on ferries, ships, or planes to connect with the mainland",
+              "Islands cannot have any communities"
             ],
             "answer": 2
           }
@@ -39016,63 +39027,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Geometry: Finding the Circumference of a Circle (Introduction)",
-        "summary": "Grade 4 Math strand: the circumference of a circle is the distance around its outer edge, and students explore how it relates to the circles diameter as an introduction to measuring circles.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Measuring Length with a Ruler: Centimetres and Millimetres",
+        "summary": "Students practice reading a ruler precisely to measure objects to the nearest centimetre and millimetre, and convert between the two units.",
+        "resourceLabel": "YouTube: Measuring Length with a Ruler: Centimetres and Millimetres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Length%20with%20a%20Ruler%3A%20Centimetres%20and%20Millimetres%20grade%204%20educational",
+        "topic": "Measurement: Units",
         "quiz": [
           {
-            "q": "What is the circumference of a circle?",
+            "q": "How many millimetres are in 1 centimetre?",
             "options": [
-              "The area inside the circle",
-              "The distance around the outer edge of the circle",
-              "The number of sides a circle has",
-              "The distance across the middle of the circle"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What part of a circle stretches from one side to the other through the centre?",
-            "options": [
-              "The circumference",
-              "The diameter",
-              "The radius only",
-              "The arc"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If you wrapped a string around a circular plate, what would you be measuring?",
-            "options": [
-              "The radius",
-              "The circumference",
-              "The area",
-              "The diameter"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might someone need to know the circumference of a circle?",
-            "options": [
-              "To measure the distance around circular objects like wheels or plates",
-              "To find how much space is inside a square",
-              "To count the number of sides on a shape",
-              "Circumference has no real world use"
+              "10",
+              "100",
+              "1,000",
+              "1"
             ],
             "answer": 0
           },
           {
-            "q": "Which shape has a circumference instead of a perimeter made of straight sides?",
+            "q": "A pencil measures 14 cm and 5 mm on a ruler. What is this length written entirely in millimetres?",
             "options": [
-              "A triangle",
-              "A circle",
-              "A square",
-              "A rectangle"
+              "154 mm",
+              "145 mm",
+              "140 mm",
+              "105 mm"
             ],
             "answer": 1
+          },
+          {
+            "q": "When measuring an object with a ruler, where should you line up the object's edge?",
+            "options": [
+              "At the 0 mark",
+              "Anywhere on the ruler",
+              "At the 1 cm mark",
+              "At the halfway mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An eraser is 32 mm long. What is this length in centimetres?",
+            "options": [
+              "3.02 cm",
+              "32 cm",
+              "0.32 cm",
+              "3.2 cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which unit would be BEST for measuring the length of an ant?",
+            "options": [
+              "Metres",
+              "Litres",
+              "Millimetres",
+              "Kilometres"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Science",
@@ -39774,63 +39785,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data Management: Introduction to Scatter Plots",
-        "summary": "Grade 4 Math strand: a scatter plot uses points on a grid to show the relationship between two sets of data, helping students see patterns or trends between the values.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Estimating Angle Measures",
+        "summary": "Students learn to estimate the size of an angle in degrees by comparing it to benchmark angles like 45°, 90°, and 180°, before checking their estimate with a protractor.",
+        "resourceLabel": "YouTube: Estimating Angle Measures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Angle%20Measures%20grade%204%20educational",
+        "topic": "Angles",
         "quiz": [
           {
-            "q": "What does a scatter plot use to display data?",
+            "q": "Which benchmark angle measures exactly 90°?",
             "options": [
-              "Bars of different heights",
-              "Slices of a circle",
-              "Points plotted on a grid",
-              "Lines connecting single values only"
+              "Reflex angle",
+              "Straight angle",
+              "Right angle",
+              "Acute angle"
             ],
             "answer": 2
           },
           {
-            "q": "What can a scatter plot help you see between two sets of data?",
+            "q": "An angle looks a bit smaller than a right angle. Which is the BEST estimate for its measure?",
             "options": [
-              "Nothing meaningful about the data",
-              "The exact colour of each data point",
-              "A pattern or trend between the values",
-              "The title of the graph only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If points on a scatter plot generally rise from left to right, what might this suggest?",
-            "options": [
-              "A positive relationship between the two sets of data",
-              "That the data must be incorrect",
-              "No relationship at all",
-              "A relationship that cannot be shown visually"
+              "85°",
+              "40°",
+              "175°",
+              "95°"
             ],
             "answer": 0
           },
           {
-            "q": "What are the two axes of a scatter plot used to represent?",
+            "q": "A straight angle measures how many degrees?",
             "options": [
-              "Nothing measurable",
-              "Only one type of data repeated twice",
-              "Only categories with no numbers",
-              "Two different sets of data being compared"
+              "180°",
+              "45°",
+              "360°",
+              "90°"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An angle that looks wide open, more than a straight line, is called a(n) ___ angle.",
+            "options": [
+              "Right",
+              "Straight",
+              "Acute",
+              "Reflex"
             ],
             "answer": 3
           },
           {
-            "q": "Why might scientists or researchers use scatter plots?",
+            "q": "Liam estimates an angle to be about 45°, but when he measures it carefully with a protractor, it reads 89°. What should he do?",
             "options": [
-              "To avoid comparing information",
-              "To hide patterns in data",
-              "Scatter plots have no practical use",
-              "To visually explore relationships between two variables"
+              "Assume the protractor is broken",
+              "Average the two numbers together",
+              "Trust the careful protractor measurement of 89°",
+              "Ignore the protractor and keep his estimate"
             ],
-            "answer": 3
+            "answer": 2
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
@@ -40385,58 +40396,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Ancient Babylon and the Code of Hammurabi",
-        "summary": "Grade 4 Social Studies strand: ancient Babylon was a powerful city in Mesopotamia, known for the Code of Hammurabi, one of the earliest known sets of written laws that governed behaviour in society.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Bartering and Early Forms of Money",
+        "summary": "Students explore how early societies exchanged goods before coins existed, from direct bartering to early forms of currency like shells, grain, and metal tokens.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Bartering and Early Forms of Money",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Bartering%20and%20Early%20Forms%20of%20Money%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "What ancient region was the city of Babylon located in?",
+            "q": "What is bartering?",
             "options": [
-              "Ancient Egypt",
-              "Ancient Greece",
-              "Ancient Rome",
-              "Mesopotamia"
+              "Growing crops for personal use only",
+              "Collecting taxes",
+              "Trading goods or services directly without using money",
+              "Paying with a credit card"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What is the Code of Hammurabi?",
+            "q": "Which of these was sometimes used as an early form of currency before coins?",
             "options": [
-              "A type of ancient currency",
-              "One of the earliest known sets of written laws",
-              "A religious ceremony",
-              "A famous ancient painting"
+              "Paper receipts",
+              "Plastic cards",
+              "Shells or grain",
+              "Digital coins"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why was the Code of Hammurabi important to Babylonian society?",
+            "q": "What is one challenge of bartering that early societies faced?",
             "options": [
-              "It banned all forms of trade",
-              "It helped establish rules that governed behaviour in society",
-              "It only applied to farming activities",
-              "It had no effect on daily life"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What material were early written laws like the Code of Hammurabi often carved into?",
-            "options": [
-              "Stone",
-              "Glass",
-              "Paper",
-              "Plastic"
+              "Finding someone who wanted exactly what you had to trade",
+              "Bartering was always instant and easy",
+              "Bartering required no negotiation",
+              "Everyone always wanted the same goods"
             ],
             "answer": 0
           },
           {
-            "q": "Why do historians consider the Code of Hammurabi historically significant?",
+            "q": "Why might early societies eventually move from bartering to using standardized money?",
             "options": [
-              "It is one of the earliest examples of a written legal system",
-              "It was created in modern times",
-              "It has no connection to the history of law",
-              "It was never actually used by anyone"
+              "Bartering was more efficient than money",
+              "Money made trading goods of different value easier and more consistent",
+              "Standardized money had no benefits",
+              "Money was invented before bartering existed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which best describes the value of early trade goods like grain or metal used as money?",
+            "options": [
+              "They had a recognized worth that people agreed to accept in exchange",
+              "They could only be used once",
+              "They were worthless symbols",
+              "They had no value at all"
             ],
             "answer": 0
           }
@@ -40510,63 +40522,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Comparing Theoretical and Experimental Probability",
-        "summary": "Grade 4 Math strand: theoretical probability predicts outcomes based on possible results, while experimental probability is based on the actual results of repeated trials, and the two can be compared.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Creating Number Patterns with a Rule",
+        "summary": "Students design their own number patterns by choosing a starting number and an operation rule, then challenge a partner to figure out the rule from the pattern.",
+        "resourceLabel": "YouTube: Creating Number Patterns with a Rule",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Creating%20Number%20Patterns%20with%20a%20Rule%20grade%204%20educational",
+        "topic": "Patterning",
         "quiz": [
           {
-            "q": "What is theoretical probability based on?",
+            "q": "Sofia starts at 4 and uses the rule 'add 6' repeatedly. What are the first four terms of her pattern?",
             "options": [
-              "The actual results of trials already conducted",
-              "Random guessing with no calculation",
-              "Only outcomes that have already occurred",
-              "The possible outcomes that could happen"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is experimental probability based on?",
-            "options": [
-              "The actual results of trials that have been carried out",
-              "Only outcomes that could theoretically happen",
-              "A prediction made without any testing",
-              "Guessing without any data"
+              "4, 10, 16, 22",
+              "4, 6, 12, 18",
+              "6, 10, 16, 22",
+              "4, 10, 17, 22"
             ],
             "answer": 0
           },
           {
-            "q": "If you flip a coin, what is the theoretical probability of landing on heads?",
+            "q": "A pattern begins 3, 9, 27, 81. Which rule describes this pattern?",
             "options": [
-              "1",
-              "0",
-              "1/2",
-              "1/4"
+              "Add 9",
+              "Add 6",
+              "Multiply by 3",
+              "Subtract 3"
             ],
             "answer": 2
           },
           {
-            "q": "If you flip a coin 10 times and get heads 7 times, what is the experimental probability of heads?",
+            "q": "Ben's pattern rule is 'subtract 5', starting at 50. What is the 4th term?",
             "options": [
-              "10/7",
-              "3/10",
-              "1/2",
-              "7/10"
+              "45",
+              "35",
+              "40",
+              "30"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why might experimental probability differ from theoretical probability?",
+            "q": "Which starting number and rule would create the pattern 2, 5, 8, 11, 14?",
             "options": [
-              "Real trials can vary due to chance even when outcomes are equally likely",
-              "They are always exactly identical in every situation",
-              "Theoretical probability changes with every trial",
-              "Experimental probability is always incorrect"
+              "Start at 5, add 2",
+              "Start at 2, add 2",
+              "Start at 2, add 3",
+              "Start at 2, multiply by 3"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "When creating your own pattern for a partner to solve, which is MOST important to include?",
+            "options": [
+              "Random numbers with no rule",
+              "A clear starting number and a consistent rule",
+              "Only even numbers",
+              "A very long list of at least 20 numbers"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -40875,60 +40887,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of Canadian Embassies Abroad",
-        "summary": "Grade 4 Social Studies strand: a Canadian embassy is an official office located in another country that represents Canadas government, assists Canadian citizens abroad, and supports relationships between countries.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: How a Municipal Council Meeting Works",
+        "summary": "Students learn what happens at a municipal council meeting, including how a mayor and councillors discuss issues, debate ideas, and vote on decisions that affect their community.",
+        "resourceLabel": "YouTube: Social Studies: How a Municipal Council Meeting Works",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20a%20Municipal%20Council%20Meeting%20Works%20grade%204%20educational",
+        "topic": "Local Community & Civic Participation",
         "quiz": [
           {
-            "q": "What is a Canadian embassy?",
+            "q": "Who typically leads a municipal council meeting?",
             "options": [
-              "A private Canadian business",
-              "An official office in another country that represents Canadas government",
-              "A Canadian military base only",
-              "A type of Canadian national park"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What might a Canadian embassy help with?",
-            "options": [
-              "Building highways in Canada",
-              "Assisting Canadian citizens who are traveling or living abroad",
-              "Running Canadian elections",
-              "Managing Canadian school boards"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Where is a Canadian embassy typically located?",
-            "options": [
-              "In outer space",
-              "In a Canadian province only",
-              "Underground",
-              "In another country"
+              "A random citizen",
+              "The Prime Minister",
+              "A police officer",
+              "The mayor"
             ],
             "answer": 3
           },
           {
-            "q": "Why are embassies important for relationships between countries?",
+            "q": "What is a council \"agenda\"?",
             "options": [
-              "They have no diplomatic purpose",
-              "They only exist to sell goods",
-              "They prevent any communication between countries",
-              "They help support communication and cooperation between governments"
+              "A type of bylaw",
+              "A list of topics and issues to be discussed at the meeting",
+              "A tax form",
+              "A city map"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Who might work at a Canadian embassy?",
+            "q": "How do councillors typically make an official decision at a meeting?",
             "options": [
-              "Only students on vacation",
-              "Only private business owners",
-              "Diplomats and government representatives",
-              "Only foreign tourists"
+              "By voting on a motion",
+              "Decisions are made only by the mayor alone",
+              "By drawing names",
+              "By flipping a coin"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "Why are many municipal council meetings open to the public?",
+            "options": [
+              "Only reporters may attend",
+              "So residents can see how decisions affecting their community are made",
+              "The public is never allowed to attend",
+              "Meetings are always private"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a topic a municipal council might discuss?",
+            "options": [
+              "International trade agreements",
+              "Whether to build a new local park",
+              "Federal income tax rates",
+              "National defense policy"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -40999,60 +41012,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Circles, Fractions, and Time",
-        "summary": "Grade 4 Math strand review: students revisit dividing by 10, 100, and 1,000, the circumference of a circle, simplifying fractions, converting units of time, and scatter plots.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Multiplying 2-Digit Numbers Using an Area Model",
+        "summary": "Students use an area (box) model to break apart two 2-digit numbers by place value and multiply the partial products, building a visual understanding of the standard algorithm.",
+        "resourceLabel": "YouTube: Multiplying 2-Digit Numbers Using an Area Model",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%202-Digit%20Numbers%20Using%20an%20Area%20Model%20grade%204%20educational",
+        "topic": "Multiplication & Division",
         "quiz": [
           {
-            "q": "What happens to a number when it is divided by 10?",
+            "q": "To multiply 23 × 14 using an area model, you break the numbers into which parts?",
             "options": [
-              "The number is multiplied by 10",
-              "The decimal point moves one place to the right",
-              "The number stays exactly the same",
-              "The decimal point moves one place to the left"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the circumference of a circle?",
-            "options": [
-              "The distance across the middle of the circle",
-              "The area inside the circle",
-              "The distance around the outer edge of the circle",
-              "The number of sides a circle has"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does it mean to simplify a fraction to lowest terms?",
-            "options": [
-              "Changing the fraction into a whole number",
-              "Dividing the numerator and denominator by their greatest common factor",
-              "Adding one to the numerator only",
-              "Multiplying the numerator and denominator by two"
+              "23 and 14 stay whole",
+              "20 + 3 and 10 + 4",
+              "200 + 30 and 100 + 40",
+              "2 + 3 and 1 + 4"
             ],
             "answer": 1
           },
           {
-            "q": "How many seconds are in one minute?",
+            "q": "Using an area model for 23 × 14, one of the four partial products is 20 × 10. What is this partial product?",
             "options": [
-              "24",
-              "30",
-              "60",
-              "100"
+              "20",
+              "230",
+              "2",
+              "200"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The four partial products for 23 × 14 are 200, 80, 30, and 12. What is the total product?",
+            "options": [
+              "320",
+              "312",
+              "322",
+              "332"
             ],
             "answer": 2
           },
           {
-            "q": "What does a scatter plot use to display data?",
+            "q": "Which expression correctly breaks apart 32 × 15 for an area model?",
             "options": [
-              "Bars of different heights",
-              "Lines connecting single values only",
-              "Points plotted on a grid",
-              "Slices of a circle"
+              "(3 + 2) × (1 + 5)",
+              "(30 × 2) × (10 × 5)",
+              "(30 + 2) × (10 + 5)",
+              "(30 + 2) + (10 + 5)"
             ],
             "answer": 2
+          },
+          {
+            "q": "Malik uses an area model and finds partial products 400, 60, 40, and 6 for a multiplication problem. What is the final product?",
+            "options": [
+              "506",
+              "516",
+              "460",
+              "500"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -41385,63 +41399,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Mongol Empire — Conquest and Trade Across Asia",
-        "summary": "Grade 4 Social Studies strand: the Mongol Empire, led by Genghis Khan, became one of the largest empires in history, connecting distant regions of Asia and Europe through conquest and extensive trade routes.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Early Societies: Inventions We Still Use Today",
+        "summary": "Students identify inventions and ideas from early societies, such as the wheel, written numbers, and irrigation, that continue to shape everyday life in the modern world.",
+        "resourceLabel": "YouTube: Social Studies: Early Societies: Inventions We Still Use Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Early%20Societies%3A%20Inventions%20We%20Still%20Use%20Today%20grade%204%20educational",
+        "topic": "Early Societies",
         "quiz": [
           {
-            "q": "Who founded the Mongol Empire?",
+            "q": "Which early invention helped people transport heavy loads more easily?",
             "options": [
-              "Julius Caesar",
-              "Alexander the Great",
-              "Hammurabi",
-              "Genghis Khan"
+              "The lightbulb",
+              "The smartphone",
+              "The wheel",
+              "The airplane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Irrigation systems developed by early societies were mainly used to:",
+            "options": [
+              "Create electricity",
+              "Power early factories",
+              "Heat homes",
+              "Bring water to crops for farming"
             ],
             "answer": 3
           },
           {
-            "q": "What made the Mongol Empire notable in size?",
+            "q": "Which of the following is an idea from early societies still used in daily life today?",
             "options": [
-              "It became one of the largest empires in history",
-              "It only existed for a single day",
-              "It had no connection to trade",
-              "It never expanded beyond one small village"
+              "The internet",
+              "A written number system",
+              "Television",
+              "Electric cars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians consider the invention of writing to be so important?",
+            "options": [
+              "It allowed societies to record laws, trade, and history for future generations",
+              "Writing was only used for art",
+              "Writing replaced farming",
+              "Writing had no lasting impact"
             ],
             "answer": 0
           },
           {
-            "q": "How did the Mongol Empire affect trade between distant regions?",
+            "q": "What do inventions like the calendar, the wheel, and early number systems have in common?",
             "options": [
-              "It only allowed trade within one city",
-              "It had no effect on trade at all",
-              "It completely blocked all trade",
-              "It helped connect trade routes across Asia and Europe"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What skill were Mongol warriors especially known for?",
-            "options": [
-              "Building pyramids",
-              "Deep sea navigation",
-              "Farming rice paddies",
-              "Skilled horseback riding and archery"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why do historians still study the Mongol Empire today?",
-            "options": [
-              "It only affected a small unimportant area",
-              "It never interacted with other civilizations",
-              "It reshaped trade, culture, and borders across a huge part of the world",
-              "It has no historical importance"
+              "They were only used once and abandoned",
+              "They were all invented in the last century",
+              "They were developed thousands of years ago and are still useful today",
+              "They are no longer used anywhere"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -41511,63 +41525,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Multiplying a 3-Digit Number by a 2-Digit Number",
-        "summary": "Grade 4 Math strand: multiplying a 3-digit number by a 2-digit number involves breaking the 2-digit number into tens and ones, multiplying each part separately, and adding the partial products together.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Reading Bar Graphs with Scaled Intervals",
+        "summary": "Students practice reading and interpreting bar graphs where the vertical axis is scaled in jumps of 2, 5, or 10 rather than by ones, so each gridline represents more than one unit.",
+        "resourceLabel": "YouTube: Reading Bar Graphs with Scaled Intervals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Bar%20Graphs%20with%20Scaled%20Intervals%20grade%204%20educational",
+        "topic": "Statistics & Data",
         "quiz": [
           {
-            "q": "What is a common first step to multiply a 3-digit number by a 2-digit number?",
+            "q": "On a bar graph, the scale on the vertical axis goes up by 5s (0, 5, 10, 15, 20...). If a bar's top lines up exactly halfway between the 10 and 15 marks, about how many does it represent?",
             "options": [
-              "Add the two numbers together",
-              "Round both numbers to zero",
-              "Break the 2-digit number into tens and ones",
-              "Divide the numbers first"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is 213 multiplied by 12?",
-            "options": [
-              "2,356",
-              "2,600",
-              "2,486",
-              "2,556"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is 145 multiplied by 21?",
-            "options": [
-              "3,145",
-              "2,945",
-              "3,245",
-              "3,045"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "After multiplying by the tens digit and the ones digit separately, what should you do next?",
-            "options": [
-              "Divide both products by 10",
-              "Add the two partial products together",
-              "Subtract the smaller product from the larger one",
-              "Multiply the two partial products together"
+              "Exactly 10",
+              "About 12 or 13",
+              "About 20",
+              "Exactly 15"
             ],
             "answer": 1
           },
           {
-            "q": "Why is breaking numbers into tens and ones helpful when multiplying larger numbers?",
+            "q": "A bar graph uses a scale of 2 (0, 2, 4, 6, 8...) to show pets per family. If a bar reaches the mark labeled 8, how many pets does that bar represent?",
             "options": [
-              "It only works with 1-digit numbers",
-              "It removes the need for any calculation",
-              "It makes the multiplication easier to manage in smaller steps",
-              "It always produces an incorrect answer"
+              "16",
+              "8",
+              "2",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a graph maker use a scale that counts by 10s instead of by 1s?",
+            "options": [
+              "To make all the bars the same height",
+              "To fit very large numbers on the graph in less space",
+              "To make the graph harder to read",
+              "Scales of 10 are required by law"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a graph scaled by 5s, one bar reaches 25 and another reaches 15. How much greater is the first bar than the second?",
+            "options": [
+              "15",
+              "5",
+              "10",
+              "40"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A bar graph showing favourite fruits is scaled by 2s. The bar for apples reaches exactly halfway between the 6 and 8 marks. What value does this represent?",
+            "options": [
+              "6",
+              "14",
+              "7",
+              "8"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Multiplication & Division"
+        ]
       },
       {
         "subject": "Science",
@@ -41816,63 +41830,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Spiders and Other Arachnids — Unique Adaptations",
-        "summary": "Grade 4 Science strand: spiders and other arachnids, such as scorpions and ticks, have eight legs and two main body parts, and many spiders have special adaptations like silk-spinning glands used to build webs for catching prey.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Gears: How They Change Speed and Direction",
+        "summary": "Students explore how interlocking gears transfer motion, changing speed and direction, and identify gears in everyday machines like clocks and bicycles.",
+        "resourceLabel": "YouTube: Gears: How They Change Speed and Direction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gears%3A%20How%20They%20Change%20Speed%20and%20Direction%20grade%204%20educational",
+        "topic": "Structures, Materials & Engineering",
         "quiz": [
           {
-            "q": "How many legs do spiders and other arachnids typically have?",
+            "q": "What happens to a small gear when it is turned by a larger gear it is connected to?",
             "options": [
-              "Ten",
-              "Six",
-              "Four",
-              "Eight"
+              "It spins faster than the large gear",
+              "It spins at the exact same speed",
+              "It stops turning",
+              "It moves backward only"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "How many main body parts does a typical spider have?",
+            "q": "When two gears are directly meshed together (teeth touching), what happens to their direction of rotation?",
             "options": [
-              "Four",
-              "Two",
-              "Three",
-              "One"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is one adaptation many spiders use to catch prey?",
-            "options": [
-              "Growing wings",
-              "Producing bright flowers",
-              "Spinning silk webs",
-              "Breathing underwater only"
+              "They only move when a pulley is added",
+              "They always spin in the same direction",
+              "They spin in opposite directions",
+              "One spins and the other stays still"
             ],
             "answer": 2
           },
           {
-            "q": "Which of these is an example of an arachnid other than a spider?",
+            "q": "Which of these is a real-life example of gears working together?",
             "options": [
-              "A bee",
-              "A scorpion",
-              "A ladybug",
-              "A butterfly"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How are arachnids different from insects?",
-            "options": [
-              "Arachnids have eight legs while insects have six",
-              "Insects always have more body parts than arachnids",
-              "Arachnids have wings while insects never do",
-              "Arachnids have no legs at all"
+              "The gears inside a mechanical clock",
+              "A magnet picking up a paperclip",
+              "Water flowing downhill",
+              "A rubber band stretching"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why do machines use gears of different sizes together?",
+            "options": [
+              "To control how fast or how powerfully something turns",
+              "To make the machine heavier",
+              "To stop all motion completely",
+              "To change the colour of the machine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name for the pointed parts that stick out around the edge of a gear and lock into another gear?",
+            "options": [
+              "Petals",
+              "Spokes",
+              "Blades",
+              "Teeth"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Evolution"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -41941,180 +41955,181 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Understanding Motifs in Literature",
-        "summary": "Grade 4 Language strand: a motif is a recurring image, symbol, or idea that appears throughout a text and helps reinforce its theme or deeper meaning.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Reading: Finding the Main Idea and Supporting Details",
+        "summary": "Students practice identifying the main idea of a paragraph or passage and locating the specific details that support and explain it.",
+        "resourceLabel": "YouTube: Reading: Finding the Main Idea and Supporting Details",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Finding%20the%20Main%20Idea%20and%20Supporting%20Details%20grade%204%20educational",
+        "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
-            "q": "What is a motif in literature?",
+            "q": "The main idea of a paragraph is...",
             "options": [
-              "The title of a book",
-              "A type of punctuation mark",
-              "A single event that happens only once",
-              "A recurring image, symbol, or idea throughout a text"
+              "a small example from the text",
+              "always the last sentence",
+              "the most important point the paragraph is about",
+              "a supporting detail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Supporting details in a paragraph...",
+            "options": [
+              "contradict the main idea",
+              "give examples or facts about the main idea",
+              "are always found in the title",
+              "replace the main idea"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Read: \"Dogs make great pets. They are loyal, they can be trained to help around the house, and they provide companionship.\" What is the main idea?",
+            "options": [
+              "Dogs need companionship",
+              "Dogs can be trained to help",
+              "Dogs are loyal animals",
+              "Dogs make great pets"
             ],
             "answer": 3
           },
           {
-            "q": "What does a motif help reinforce in a story?",
+            "q": "Where is the main idea most often found in a paragraph?",
             "options": [
-              "The font used in printing",
-              "The authors name",
-              "The theme or deeper meaning of the text",
-              "The page numbers of the book"
+              "only in the middle sentence",
+              "in a footnote",
+              "in the topic sentence",
+              "it is never stated directly"
             ],
             "answer": 2
           },
           {
-            "q": "If the colour red appears repeatedly around moments of danger in a story, what might this be an example of?",
+            "q": "Which of these is a supporting detail rather than a main idea?",
             "options": [
-              "A grammar rule",
-              "A motif connected to danger or warning",
-              "A random unrelated detail",
-              "A type of punctuation"
+              "Rainforests are important ecosystems.",
+              "Rainforests produce a large amount of the world's oxygen.",
+              "Importance can be subjective.",
+              "Ecosystems matter to our planet."
             ],
             "answer": 1
-          },
-          {
-            "q": "How is a motif different from a symbol used only once?",
-            "options": [
-              "A motif has no connection to meaning",
-              "A motif repeats throughout the text while a single symbol may appear only once",
-              "A motif never repeats",
-              "A motif and a single symbol are exactly the same thing"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might authors use motifs in their writing?",
-            "options": [
-              "To subtly reinforce important ideas throughout a story",
-              "Motifs are never used in literature",
-              "To remove meaning from a text",
-              "To confuse readers with no purpose"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Reading Comprehension & Strategies"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Probability: Using Tree Diagrams to List Possible Outcomes",
-        "summary": "Grade 4 Math strand: a tree diagram is a branching diagram used to list all possible outcomes of an event or combination of events, making it easier to count outcomes and calculate probability.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Parallel and Perpendicular Lines",
+        "summary": "Students learn to identify, describe, and draw parallel lines (which never meet) and perpendicular lines (which meet at a right angle) in shapes and everyday objects.",
+        "resourceLabel": "YouTube: Parallel and Perpendicular Lines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Parallel%20and%20Perpendicular%20Lines%20grade%204%20educational",
+        "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
-            "q": "What is a tree diagram used for?",
+            "q": "Two lines that never meet, no matter how far they are extended, and stay the same distance apart are called:",
             "options": [
-              "Listing all possible outcomes of an event",
-              "Comparing prices at a store",
-              "Measuring the length of an object",
-              "Showing the temperature over time"
+              "Parallel lines",
+              "Perpendicular lines",
+              "Intersecting lines",
+              "Curved lines"
             ],
             "answer": 0
           },
           {
-            "q": "If you flip a coin and then roll a die, how would a tree diagram help?",
+            "q": "Two lines that cross to form a right angle (90°) are called:",
             "options": [
-              "It would show every possible combination of coin and die results",
-              "It would only show the coin results",
-              "It would show no useful information",
-              "It would only show the die results"
+              "Perpendicular lines",
+              "Diagonal lines",
+              "Parallel lines",
+              "Skew lines"
             ],
             "answer": 0
           },
           {
-            "q": "How many outcomes are shown by a tree diagram for flipping two coins?",
+            "q": "Which capital block letter contains a pair of parallel lines?",
             "options": [
-              "Two",
-              "Four",
-              "Six",
-              "Eight"
+              "O",
+              "H",
+              "S",
+              "C"
             ],
             "answer": 1
           },
           {
-            "q": "What does each branch of a tree diagram usually represent?",
+            "q": "In a rectangle, how many pairs of parallel sides are there?",
             "options": [
-              "One possible choice or outcome at that stage",
-              "A type of punctuation mark",
-              "A fixed number that never changes",
-              "An unrelated topic"
+              "4",
+              "1",
+              "2",
+              "3"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why are tree diagrams useful in probability?",
+            "q": "Which real-world example best shows perpendicular lines?",
             "options": [
-              "They only work with one outcome at a time",
-              "They have no connection to probability",
-              "They help organize and count all possible outcomes clearly",
-              "They make outcomes impossible to count"
+              "Two lanes of a highway running side by side",
+              "The hands of a clock at 6:00, pointing opposite directions",
+              "The corner where a wall meets the floor",
+              "The two rails of a train track"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: The Layers of a Rainforest — Canopy, Understory, and Forest Floor",
-        "summary": "Grade 4 Science strand: a tropical rainforest has distinct layers, including the emergent layer of tallest trees, the canopy that forms a dense leafy roof, the understory of smaller plants, and the forest floor, each supporting different plants and animals.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Friction: Helpful and Harmful Effects",
+        "summary": "Students investigate friction, the force that resists motion between surfaces, and evaluate situations where friction helps us versus where it wastes energy or wears down machine parts.",
+        "resourceLabel": "YouTube: Friction: Helpful and Harmful Effects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Friction%3A%20Helpful%20and%20Harmful%20Effects%20grade%204%20educational",
+        "topic": "Forces & Motion",
         "quiz": [
           {
-            "q": "What is the canopy of a rainforest?",
+            "q": "What is friction?",
             "options": [
-              "A type of river found only in rainforests",
-              "A dense leafy layer formed by the crowns of tall trees",
-              "The layer of soil beneath the forest",
-              "The tallest single tree in the forest"
+              "A force that only works in outer space",
+              "A force that resists motion between two surfaces touching each other",
+              "A force that pulls objects toward the centre of the Earth",
+              "A type of energy stored in food"
             ],
             "answer": 1
           },
           {
-            "q": "What is found at the very top of a rainforest, above the canopy?",
+            "q": "Which surface would create the MOST friction when you slide a book across it?",
             "options": [
-              "The root layer",
-              "The emergent layer of the tallest trees",
-              "The forest floor",
-              "The understory"
+              "Smooth ice",
+              "Rough sandpaper",
+              "Polished glass",
+              "Wet tile"
             ],
             "answer": 1
           },
           {
-            "q": "What is the understory of a rainforest?",
+            "q": "Which of these is an example of friction being HELPFUL?",
             "options": [
-              "A layer found only underwater",
-              "A layer of smaller plants growing beneath the canopy",
-              "The tallest layer of trees",
-              "A layer made entirely of rock"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why does very little sunlight reach the forest floor of a rainforest?",
-            "options": [
-              "The canopy has no effect on sunlight",
-              "Rainforests receive no sunlight at all",
-              "The dense canopy blocks most sunlight from passing through",
-              "The forest floor is located underground"
+              "A ball rolling forever without slowing down",
+              "Wind pushing a sailboat forward",
+              "Rubber tire treads gripping the road so a car doesn't skid",
+              "A skater gliding smoothly across ice"
             ],
             "answer": 2
           },
           {
-            "q": "Why do rainforest layers support different types of plants and animals?",
+            "q": "Which of these is an example of friction being a PROBLEM engineers try to reduce?",
             "options": [
-              "Only the forest floor supports any life",
-              "Each layer offers different amounts of light, temperature, and space",
-              "All layers are exactly identical",
-              "Rainforest layers have no effect on living things"
+              "Moving metal parts inside an engine rubbing together and wearing out",
+              "Sandpaper smoothing a piece of wood",
+              "Bicycle brake pads slowing down a wheel",
+              "Shoes gripping the pavement while running"
             ],
-            "answer": 1
+            "answer": 0
+          },
+          {
+            "q": "What do engineers often add to machine parts to reduce friction between them?",
+            "options": [
+              "Sand",
+              "Water",
+              "Extra weight",
+              "Oil or grease"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -42185,183 +42200,183 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Identifying an Unreliable Narrator",
-        "summary": "Grade 4 Language strand: an unreliable narrator is a storyteller whose account of events may be inaccurate, biased, or incomplete, requiring readers to question and look beyond what is being told.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Spelling: Adding Suffixes -ed and -ing",
+        "summary": "Students learn spelling rules for adding -ed and -ing to base words, including doubling the final consonant, dropping a silent e, and changing y to i.",
+        "resourceLabel": "YouTube: Spelling: Adding Suffixes -ed and -ing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Spelling%3A%20Adding%20Suffixes%20-ed%20and%20-ing%20grade%204%20educational",
+        "topic": "Spelling",
         "quiz": [
           {
-            "q": "What is an unreliable narrator?",
+            "q": "What is the correct spelling of \"hop\" + -ing?",
             "options": [
-              "A character who never speaks in the story",
-              "The author of the book",
-              "A storyteller whose account may be inaccurate or biased",
-              "A narrator who always tells the complete truth"
+              "hoping",
+              "hopping",
+              "hopp",
+              "hopeing"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might readers need to question an unreliable narrators account?",
+            "q": "What is the correct spelling of \"bake\" + -ing?",
             "options": [
-              "Because unreliable narrators are always completely accurate",
-              "Because unreliable narrators cannot tell a story",
-              "Because the narrator never appears in the story",
-              "Because the narrators version of events may be incomplete or biased"
+              "bakeing",
+              "bakiing",
+              "bakking",
+              "baking"
             ],
             "answer": 3
           },
           {
-            "q": "What might cause a narrator to be unreliable?",
+            "q": "Which spelling rule applies when adding -ed to \"carry\"?",
             "options": [
-              "Speaking in the first person",
-              "Describing the setting",
-              "Being the main character of the story",
-              "Limited knowledge, strong bias, or a reason to hide the truth"
+              "double the final r",
+              "change the y to i and add ed",
+              "keep the word exactly the same",
+              "drop the final e"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "How can readers detect that a narrator might be unreliable?",
+            "q": "What is the correct spelling of \"stop\" + -ed?",
             "options": [
-              "Unreliable narrators cannot be detected",
-              "By ignoring the narrator entirely",
-              "By noticing contradictions or gaps between the narrators claims and other details",
-              "By trusting every statement completely"
+              "stopped",
+              "stoppd",
+              "stopeed",
+              "stoped"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might an author choose to use an unreliable narrator?",
+            "q": "Which word is spelled correctly?",
             "options": [
-              "Unreliable narrators are never used in literature",
-              "To remove all meaning from a story",
-              "To create suspense or challenge readers to think critically about the story",
-              "To make the story impossible to understand"
+              "hopeing",
+              "running",
+              "planing",
+              "swiming"
             ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Reading Comprehension & Strategies"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Financial Literacy: Calculating Simple Profit and Loss",
-        "summary": "Grade 4 Math strand: profit occurs when the money earned from selling something is greater than the cost to make or buy it, while a loss occurs when the cost is greater than the money earned.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Conducting a Probability Experiment",
+        "summary": "Students design and carry out a simple probability experiment, such as rolling a die or drawing coloured counters, recording results in a tally chart and comparing them to the predicted probability.",
+        "resourceLabel": "YouTube: Conducting a Probability Experiment",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Conducting%20a%20Probability%20Experiment%20grade%204%20educational",
+        "topic": "Probability",
         "quiz": [
           {
-            "q": "What is profit?",
+            "q": "Before running an experiment, a statement of what is likely to happen based on math is called:",
             "options": [
-              "The amount lost after a sale",
-              "The price customers pay before tax",
-              "The amount earned that is greater than the cost",
-              "The total cost of making an item"
+              "A tally",
+              "A graph",
+              "A result",
+              "A prediction"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is a loss?",
+            "q": "Aiden rolls a die 20 times and records how many times each number comes up. This record of results is called:",
             "options": [
-              "When an item is sold for exactly its cost",
-              "When the cost of an item is greater than the money earned from selling it",
-              "When profit is very high",
-              "When no money is spent at all"
+              "An estimate",
+              "Data",
+              "A rule",
+              "A prediction"
             ],
             "answer": 1
           },
           {
-            "q": "If a lemonade stand spends 5 dollars on supplies and earns 12 dollars in sales, what is the profit?",
+            "q": "A bag has 3 red counters and 1 blue counter. If you pull one counter out without looking, which colour are you more LIKELY to pull?",
             "options": [
-              "12 dollars",
-              "5 dollars",
-              "7 dollars",
-              "17 dollars"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If a stand spends 10 dollars on supplies and only earns 6 dollars in sales, what happened?",
-            "options": [
-              "The stand broke even exactly",
-              "The stand earned exactly 10 dollars",
-              "The stand had a loss of 4 dollars",
-              "The stand had a profit of 4 dollars"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is it useful for a business to track profit and loss?",
-            "options": [
-              "It helps determine whether the business is making or losing money",
-              "Tracking profit and loss has no real purpose",
-              "Loss has no effect on a business",
-              "All businesses always make the same amount of profit"
+              "Red",
+              "Equally likely",
+              "Blue",
+              "Impossible to say"
             ],
             "answer": 0
+          },
+          {
+            "q": "In a class experiment, a coin was flipped 10 times and landed on heads 6 times. What fraction of the flips landed on heads?",
+            "options": [
+              "10/6",
+              "6/10",
+              "4/10",
+              "6/4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to repeat a probability experiment many times, such as flipping a coin 50 times instead of just 2 times?",
+            "options": [
+              "It makes the experiment take longer, which is the goal",
+              "It has no effect on the results",
+              "The results become more reliable and closer to the expected probability",
+              "It guarantees heads and tails occur the exact same number of times"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Financial Literacy"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: Tsunamis — Powerful Waves Triggered Beneath the Ocean",
-        "summary": "Grade 4 Science strand: a tsunami is a series of powerful ocean waves usually triggered by an underwater earthquake, volcanic eruption, or landslide, capable of causing major flooding when it reaches the shore.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "The Phases of the Moon",
+        "summary": "Students learn why the Moon appears to change shape throughout the month, tracing the cycle from new moon to full moon and back again as it orbits Earth.",
+        "resourceLabel": "YouTube: The Phases of the Moon",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Phases%20of%20the%20Moon%20grade%204%20educational",
+        "topic": "Space & Astronomy",
         "quiz": [
           {
-            "q": "What most commonly triggers a tsunami?",
+            "q": "Why does the Moon appear to change shape (go through phases) over about a month?",
             "options": [
-              "A sunny day",
-              "A change in air temperature",
-              "A full moon",
-              "An underwater earthquake"
+              "We see different amounts of its sunlit side as it orbits Earth",
+              "The Moon actually changes size",
+              "The Moon spins so fast it blurs",
+              "Clouds on Earth block parts of the Moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name for the phase when the Moon is completely lit up and appears as a full circle?",
+            "options": [
+              "New moon",
+              "Quarter moon",
+              "Crescent moon",
+              "Full moon"
             ],
             "answer": 3
           },
           {
-            "q": "What is a tsunami?",
+            "q": "What is the name for the phase when the Moon is not visible in the sky because its dark side faces Earth?",
             "options": [
-              "A type of cloud formation",
-              "A type of underground cave",
-              "A gentle ripple in a pond",
-              "A series of powerful ocean waves"
+              "Full moon",
+              "Gibbous moon",
+              "New moon",
+              "Half moon"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Besides earthquakes, what else can trigger a tsunami?",
+            "q": "About how long does it take the Moon to go through one complete cycle of phases?",
             "options": [
-              "A light breeze",
-              "An underwater volcanic eruption or landslide",
-              "A sunny afternoon",
-              "A change in the tide alone"
+              "About one year",
+              "About one month",
+              "About one week",
+              "About one day"
             ],
             "answer": 1
           },
           {
-            "q": "What can happen when a tsunami reaches the shore?",
+            "q": "Which phase comes right after a new moon as the Moon becomes more visible each night?",
             "options": [
-              "It has no effect on coastal areas",
-              "It only affects deep ocean water",
-              "It always disappears before reaching land",
-              "It can cause major flooding and damage"
+              "A waning gibbous",
+              "A thin waxing crescent",
+              "A third quarter",
+              "A full moon"
             ],
-            "answer": 3
-          },
-          {
-            "q": "Why do scientists monitor the ocean floor for tsunami warning signs?",
-            "options": [
-              "To warn coastal communities early and help keep people safe",
-              "Warning systems have no effect on safety",
-              "Tsunamis cannot be detected in any way",
-              "Monitoring the ocean floor has no benefit"
-            ],
-            "answer": 0
+            "answer": 1
           }
-        ],
-        "topic": "Light & Sound"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -42551,58 +42566,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Hurricanes and Tropical Storms",
-        "summary": "Grade 4 Science strand: a hurricane is a powerful rotating storm that forms over warm ocean water, bringing strong winds, heavy rain, and dangerous storm surges when it reaches land.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Mixtures: Solutions vs Suspensions",
+        "summary": "Students compare how solutions, where one substance fully dissolves into another, differ from suspensions, where tiny particles stay mixed in but do not dissolve and can settle out over time.",
+        "resourceLabel": "YouTube: Mixtures: Solutions vs Suspensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mixtures%3A%20Solutions%20vs%20Suspensions%20grade%204%20educational",
+        "topic": "Matter & Materials",
         "quiz": [
           {
-            "q": "Where do hurricanes typically form?",
+            "q": "What happens to sugar when it is stirred into warm water to make a solution?",
             "options": [
-              "Over warm ocean water",
-              "Over frozen tundra",
-              "Underground",
-              "Over mountain peaks"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is a key feature of a hurricane?",
-            "options": [
-              "A complete lack of rain",
-              "Freezing temperatures",
-              "No wind at all",
-              "Strong rotating winds"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What can a hurricane bring when it reaches land?",
-            "options": [
-              "Only cold temperatures",
-              "Only light breezes",
-              "Strong winds, heavy rain, and storm surges",
-              "Only clear skies"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a storm surge?",
-            "options": [
-              "A gentle wave with no danger",
-              "A rise in sea level pushed toward the coast by a storm",
-              "A type of desert wind",
-              "A calm ocean current"
+              "It sinks to the bottom and stays as solid chunks",
+              "It dissolves completely and seems to disappear into the water",
+              "It floats on top as a solid layer",
+              "It turns the water into a gas"
             ],
             "answer": 1
           },
           {
-            "q": "Why do meteorologists closely track hurricanes?",
+            "q": "In a suspension, like muddy water, what will happen if you leave it sitting still for a while?",
             "options": [
-              "Hurricanes never affect people on land",
-              "To warn coastal communities and help people prepare for safety",
-              "Hurricanes cannot be tracked in any way",
-              "Tracking hurricanes has no benefit"
+              "The particles will dissolve after a few minutes",
+              "The water will disappear completely",
+              "The solid particles will slowly settle to the bottom",
+              "Nothing will ever change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a solution?",
+            "options": [
+              "Sand stirred into water",
+              "Oil floating on water",
+              "Flour mixed into water",
+              "Salt fully dissolved in water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can a suspension like sand-and-water be separated by filtering, but a true solution like salt water cannot be separated that way?",
+            "options": [
+              "The sand particles are too big to pass through the filter, but dissolved salt particles are too small",
+              "Salt water is not a real mixture",
+              "Filters only work on hot liquids",
+              "Sand is a liquid and salt is a solid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which best describes a suspension?",
+            "options": [
+              "A liquid that has been boiled until it evaporates",
+              "A mixture where solid particles are spread through a liquid but not dissolved",
+              "A pure substance made of only one type of particle",
+              "A mixture where two gases combine permanently"
             ],
             "answer": 1
           }
@@ -42796,123 +42812,123 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: How Batteries Store and Release Energy",
-        "summary": "Grade 4 Science strand: a battery stores chemical energy and converts it into electrical energy through a chemical reaction inside the battery, allowing it to power devices when connected in a circuit.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Habitat Basics: What Every Living Thing Needs to Survive",
+        "summary": "Students identify the essential needs of living things -- food, water, shelter, and space -- and explain how a habitat must provide all four for a population of organisms to survive.",
+        "resourceLabel": "YouTube: Habitat Basics: What Every Living Thing Needs to Survive",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Habitat%20Basics%3A%20What%20Every%20Living%20Thing%20Needs%20to%20Survive%20grade%204%20educational",
+        "topic": "Ecosystems & Environment",
         "quiz": [
           {
-            "q": "What type of energy does a battery store?",
+            "q": "Which of the following are the four basic needs every living thing must get from its habitat?",
             "options": [
-              "Chemical energy",
-              "Wind energy",
-              "Sound energy",
-              "Light energy"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does a battery convert its stored energy into?",
-            "options": [
-              "Electrical energy",
-              "Heat energy only",
-              "Sound energy only",
-              "Nuclear energy"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How does a battery release its stored energy?",
-            "options": [
-              "By freezing",
-              "Through a chemical reaction inside the battery",
-              "By spinning rapidly",
-              "By absorbing sunlight"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is needed for a battery to power a device?",
-            "options": [
-              "The device must have no wires",
-              "The battery must be left disconnected",
-              "The battery must be connected in a complete circuit",
-              "The battery must be exposed to sunlight"
+              "Music, colour, noise, and heat",
+              "Toys, roads, buildings, and cars",
+              "Food, water, shelter, and space",
+              "Sunlight, sand, rocks, and wind"
             ],
             "answer": 2
           },
           {
-            "q": "Why do batteries eventually stop working and need to be replaced or recharged?",
+            "q": "Why might a habitat that has plenty of food but no shelter still be a poor home for an animal?",
             "options": [
-              "Their stored chemical energy runs out over time",
-              "Batteries create energy from nothing",
-              "Batteries never run out of energy",
-              "Batteries only work for one second"
-            ],
-            "answer": 0
-          }
-        ],
-        "topic": "Energy"
-      },
-      {
-        "subject": "SocialStudies",
-        "title": "Social Studies: Credit Unions and Cooperative Banking in Canada",
-        "summary": "Grade 4 Social Studies strand: a credit union is a cooperative financial institution owned by its members, offering banking services such as savings accounts and loans, with profits often returned to members rather than outside shareholders.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "quiz": [
-          {
-            "q": "What is a credit union?",
-            "options": [
-              "A national park",
-              "A type of grocery store",
-              "A cooperative financial institution owned by its members",
-              "A government tax office"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Who owns a credit union?",
-            "options": [
-              "A foreign government",
-              "Its members",
-              "No one owns a credit union",
-              "A single wealthy owner"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What services might a credit union offer?",
-            "options": [
-              "Only construction services",
-              "Only grocery delivery",
-              "Only postal services",
-              "Savings accounts and loans"
+              "Animals never need to hide from anything",
+              "Food is not actually needed by animals",
+              "Shelter has nothing to do with survival",
+              "The animal would have no safe place to rest, hide from predators, or raise its young"
             ],
             "answer": 3
           },
           {
-            "q": "How are credit union profits often used?",
+            "q": "A pond dries up completely during a drought. What is the most likely result for the fish that lived there?",
             "options": [
-              "They are often returned to members instead of outside shareholders",
-              "They disappear completely",
-              "They are never distributed to anyone",
-              "They are always given to a foreign government"
+              "The fish will simply stop needing water",
+              "The fish will grow legs and walk to a new pond",
+              "The fish will not survive because their habitat no longer meets their need for water",
+              "The fish will not be affected at all"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why might someone choose to bank with a credit union?",
+            "q": "If too many animals move into a habitat that has only a small amount of space and food, what usually happens?",
             "options": [
-              "Credit unions are not allowed to offer banking services",
-              "Because it is member-owned and may offer benefits back to its community of members",
-              "Credit unions only serve large businesses",
-              "Credit unions offer no benefits at all"
+              "The habitat instantly grows larger",
+              "All the animals automatically get more food",
+              "Competition for resources increases and some animals may not survive",
+              "Nothing changes for any of the animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is the best definition of a \"habitat\"?",
+            "options": [
+              "Any object that an animal touches",
+              "A place with no plants or animals",
+              "The natural place where an organism lives and finds everything it needs to survive",
+              "A cage built by humans"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada's Climate Zones: From Coast to Coast",
+        "summary": "Students compare Canada's different climate zones, from the mild west coast to the cold Arctic north, and consider how climate shapes the way people live in each region.",
+        "resourceLabel": "YouTube: Social Studies: Canada's Climate Zones: From Coast to Coast",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%27s%20Climate%20Zones%3A%20From%20Coast%20to%20Coast%20grade%204%20educational",
+        "topic": "Canadian Geography & Environment",
+        "quiz": [
+          {
+            "q": "Which part of Canada generally experiences the mildest, wettest winters?",
+            "options": [
+              "The Prairies",
+              "The Arctic",
+              "Northern Quebec",
+              "The west coast of British Columbia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main difference between weather and climate?",
+            "options": [
+              "Weather only refers to temperature",
+              "Weather is day-to-day conditions, while climate is the long-term pattern of weather in a region",
+              "Climate changes every hour",
+              "Weather and climate mean exactly the same thing"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why do Canada's Arctic regions have such cold climates?",
+            "options": [
+              "They are located near the equator",
+              "Their high latitude and distance from the equator receive less direct sunlight",
+              "They have no connection to the sun's position",
+              "The Arctic is actually the warmest region in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Prairies generally experience which type of climate?",
+            "options": [
+              "A tropical climate all year",
+              "A desert climate with no seasons",
+              "A continental climate with hot summers and cold winters",
+              "A rainforest climate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might climate affect the type of homes and clothing found in a Canadian region?",
+            "options": [
+              "Clothing choices are unrelated to weather",
+              "Climate has no effect on housing or clothing",
+              "All Canadians build identical homes regardless of climate",
+              "People adapt homes and clothing to suit local temperature and weather patterns"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        ]
       }
     ]
   },
@@ -43041,120 +43057,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Bioluminescence — Living Things That Glow",
-        "summary": "Grade 4 Science strand: bioluminescence is the ability of certain living things, such as fireflies, jellyfish, and deep-sea fish, to produce their own light through a chemical reaction inside their bodies.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Sound Insulation: Materials That Block or Absorb Sound",
+        "summary": "Students test how different materials, such as foam, cardboard, and fabric, absorb or block sound vibrations, and explore why soundproofing materials are used in places like recording studios and apartment walls.",
+        "resourceLabel": "YouTube: Sound Insulation: Materials That Block or Absorb Sound",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20Insulation%3A%20Materials%20That%20Block%20or%20Absorb%20Sound%20grade%204%20educational",
+        "topic": "Light & Sound",
         "quiz": [
           {
-            "q": "What is bioluminescence?",
+            "q": "What does a soundproofing material do to sound waves passing through it?",
             "options": [
-              "The ability of living things to produce their own light",
-              "The ability of living things to change colour",
-              "The ability of living things to fly",
-              "The ability of living things to breathe underwater"
+              "It turns sound into light",
+              "It absorbs or blocks much of the sound energy so less passes through",
+              "It makes the sound louder before letting it through",
+              "It has no effect on sound at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which material would most likely block sound BEST?",
+            "options": [
+              "Empty air",
+              "A thin sheet of glass",
+              "A metal pipe",
+              "Thick, soft foam"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do recording studios often line their walls with thick foam panels?",
+            "options": [
+              "To absorb sound and reduce echoes so recordings sound clearer",
+              "To reflect all sound back and forth loudly",
+              "To make the walls waterproof",
+              "To make the room warmer"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these is a well-known example of a bioluminescent animal?",
+            "q": "A student wraps a ticking clock in a thick towel and notices it sounds much quieter. What does this show?",
             "options": [
-              "A robin",
-              "A firefly",
-              "A squirrel",
-              "A deer"
+              "The towel is absorbing some of the sound's vibrations before they reach our ears",
+              "Sound cannot travel through fabric at all",
+              "The towel stopped the clock from working",
+              "The towel created new sound waves"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "How do bioluminescent organisms produce light?",
+            "q": "Why might apartment buildings use thick materials inside walls between units?",
             "options": [
-              "By using electricity from wires",
-              "By absorbing sunlight during the day",
-              "By reflecting moonlight only",
-              "Through a chemical reaction inside their bodies"
+              "To make the building lighter",
+              "To make the walls transparent",
+              "To help the building conduct electricity",
+              "To reduce how much noise travels from one apartment to another"
             ],
             "answer": 3
-          },
-          {
-            "q": "Where might many bioluminescent creatures be found besides on land?",
-            "options": [
-              "In outer space",
-              "On mountain peaks",
-              "In the desert",
-              "In the deep ocean"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might bioluminescence be useful to an animal?",
-            "options": [
-              "It has no useful purpose for animals",
-              "It always harms the animal that produces it",
-              "It can help attract mates, lure prey, or ward off predators",
-              "It prevents animals from being seen at all"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Classification of Living Things (Basic)"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the Ombudsman in Protecting Citizens Rights",
-        "summary": "Grade 4 Social Studies strand: an ombudsman is an independent official who investigates complaints from citizens about unfair treatment by government services, helping ensure fairness and accountability.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: The Role of a Provincial Premier and Legislature",
+        "summary": "Students learn about the role of a provincial premier and the provincial legislature, comparing their responsibilities to those of the federal government led by the Prime Minister.",
+        "resourceLabel": "YouTube: Social Studies: The Role of a Provincial Premier and Legislature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20a%20Provincial%20Premier%20and%20Legislature%20grade%204%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "What does an ombudsman do?",
+            "q": "What is the title given to the leader of a provincial government in Canada?",
             "options": [
-              "Builds highways across the country",
-              "Investigates complaints from citizens about unfair treatment",
-              "Runs a private business",
-              "Manages a countrys military"
+              "President",
+              "Prime Minister",
+              "Governor",
+              "Premier"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do elected members debate and pass laws at the provincial level?",
+            "options": [
+              "The provincial legislature",
+              "City hall",
+              "The Senate",
+              "The Supreme Court"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is typically a provincial responsibility in Canada?",
+            "options": [
+              "Signing international treaties",
+              "Printing federal currency",
+              "Education and healthcare",
+              "National defense"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a premier's role differ from the Prime Minister's role?",
+            "options": [
+              "A premier leads a provincial government, while the Prime Minister leads the federal government",
+              "They have identical powers over the entire country",
+              "A premier has more power than the Prime Minister nationwide",
+              "There is no difference between the two roles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does someone typically become a provincial premier?",
+            "options": [
+              "They inherit the position",
+              "Their political party wins the most seats in a provincial election",
+              "They are chosen randomly from the public",
+              "They are appointed by the Governor General with no election"
             ],
             "answer": 1
-          },
-          {
-            "q": "Why is an ombudsman considered independent?",
-            "options": [
-              "They are controlled entirely by a single business",
-              "They have no connection to government services",
-              "They investigate fairly without taking sides between citizens and government",
-              "They always side with the government"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Who might contact an ombudsman for help?",
-            "options": [
-              "Only large corporations",
-              "No one is allowed to contact an ombudsman",
-              "A citizen who feels they were treated unfairly by a government service",
-              "Only foreign governments"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is one goal of having an ombudsman in government?",
-            "options": [
-              "Preventing citizens from ever complaining",
-              "Ensuring fairness and accountability in public services",
-              "Removing all rules from government",
-              "Making government services less accountable"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the role of an ombudsman valuable to a community?",
-            "options": [
-              "It has no value to citizens",
-              "It removes all citizen rights",
-              "It gives citizens a way to seek fair treatment and hold services accountable",
-              "It only benefits government workers"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -43226,123 +43243,123 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Ordering Integers on a Number Line",
-        "summary": "Grade 4 Math strand: integers can be ordered from least to greatest by plotting them on a number line, remembering that numbers further to the left are smaller and numbers further to the right are larger, even with negative numbers.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Elapsed Time: Calculating Duration Across Hours",
+        "summary": "Students calculate how much time has passed between a start time and an end time, including situations that cross over the hour or move from a.m. to p.m.",
+        "resourceLabel": "YouTube: Elapsed Time: Calculating Duration Across Hours",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Elapsed%20Time%3A%20Calculating%20Duration%20Across%20Hours%20grade%204%20educational",
+        "topic": "Time & Money",
         "quiz": [
           {
-            "q": "On a number line, which direction do numbers increase in value?",
+            "q": "A movie starts at 1:15 p.m. and ends at 3:05 p.m. How long is the movie?",
             "options": [
-              "To the right",
-              "To the left",
-              "Upward only",
-              "Downward only"
+              "2 hours 10 minutes",
+              "1 hour 50 minutes",
+              "1 hour 40 minutes",
+              "2 hours"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Practice begins at 9:40 a.m. and lasts 1 hour 35 minutes. What time does practice end?",
+            "options": [
+              "11:15 a.m.",
+              "10:75 a.m.",
+              "11:05 a.m.",
+              "11:25 a.m."
             ],
             "answer": 0
           },
           {
-            "q": "Which integer is greater, -2 or 3?",
+            "q": "How many minutes pass between 2:50 and 3:00?",
             "options": [
-              "-2",
-              "They are equal",
-              "3",
-              "Cannot be determined"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which integer is smaller, -7 or -1?",
-            "options": [
-              "Cannot be determined",
-              "-1",
-              "-7",
-              "They are equal"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How would you order -4, 2, and -1 from least to greatest?",
-            "options": [
-              "-4, -1, 2",
-              "-1, -4, 2",
-              "2, -1, -4",
-              "2, -4, -1"
+              "10",
+              "20",
+              "50",
+              "40"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful to plot integers on a number line before ordering them?",
+            "q": "A train leaves at 10:20 a.m. and arrives at 12:05 p.m. How long is the trip?",
             "options": [
-              "It makes ordering integers impossible",
-              "It has no effect on comparing values",
-              "It gives a clear visual way to compare their positions and values",
-              "Number lines cannot include negative numbers"
+              "1 hour 35 minutes",
+              "2 hours 15 minutes",
+              "1 hour 45 minutes",
+              "1 hour 55 minutes"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which strategy works best for finding elapsed time that crosses from a.m. to p.m.?",
+            "options": [
+              "Count minutes to reach 12:00 noon first, then add the remaining time",
+              "Ignore the a.m./p.m. change",
+              "Multiply the hours by 60 only",
+              "Always subtract the smaller number from the larger number"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Integers"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: Types of Volcanoes — Shield, Cinder Cone, and Composite",
-        "summary": "Grade 4 Science strand: volcanoes can be classified by shape and eruption style, including shield volcanoes with gently sloping sides, cinder cone volcanoes with steep sides built from erupted debris, and composite volcanoes formed from alternating layers of lava and ash.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Landforms: Mountains, Valleys, and Plains",
+        "summary": "Students identify and describe major types of landforms found across Canada and the world, including mountains, valleys, and plains, and discuss how each one shapes the plants, animals, and people living there.",
+        "resourceLabel": "YouTube: Landforms: Mountains, Valleys, and Plains",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Landforms%3A%20Mountains%2C%20Valleys%2C%20and%20Plains%20grade%204%20educational",
+        "topic": "Earth Systems",
         "quiz": [
           {
-            "q": "What is a shield volcano known for?",
+            "q": "Which landform is described as a large area of flat or gently rolling land, often used for farming?",
             "options": [
-              "Having extremely steep sides",
-              "Never erupting at all",
-              "Being made entirely of ice",
-              "Having gently sloping sides formed by runny lava"
+              "A plain",
+              "A canyon",
+              "A mountain",
+              "A peninsula"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a valley?",
+            "options": [
+              "A low area of land, often between hills or mountains, sometimes formed by a river",
+              "A flat area found only in deserts",
+              "A body of salt water surrounded by land",
+              "The tallest point of a mountain range"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is the best description of a mountain?",
+            "options": [
+              "A small hill found only near oceans",
+              "A landform made entirely of sand",
+              "A landform that is completely flat",
+              "A landform that rises high above the surrounding land, often with steep sides"
             ],
             "answer": 3
           },
           {
-            "q": "What is a cinder cone volcano built from?",
+            "q": "Many valleys form over long periods of time because of which process?",
             "options": [
-              "Only flowing water",
-              "Erupted debris that piles up into steep sides",
-              "Only solid rock with no eruptions",
-              "Only sand from a desert"
+              "A lake freezing solid",
+              "A river slowly wearing away rock and soil as it flows",
+              "A volcano suddenly erupting",
+              "Wind blowing sand into piles"
             ],
             "answer": 1
           },
           {
-            "q": "What forms a composite volcano?",
+            "q": "Why might farmers prefer to grow crops on a plain rather than on a steep mountainside?",
             "options": [
-              "A single layer of sand",
-              "A layer of only water",
-              "A single layer of ice",
-              "Alternating layers of lava and ash"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which type of volcano tends to have the steepest, most cone-shaped profile?",
-            "options": [
-              "Shield volcanoes only",
-              "Composite or cinder cone volcanoes",
-              "Volcanoes have no shape",
-              "All volcanoes look identical"
+              "Mountains have better soil for farming",
+              "Flat land is easier to plant, water, and harvest crops from",
+              "Plains never get enough sunlight",
+              "Crops cannot grow near rivers"
             ],
             "answer": 1
-          },
-          {
-            "q": "Why do scientists classify volcanoes into different types?",
-            "options": [
-              "All volcanoes behave in exactly the same way",
-              "Volcanoes cannot be studied or classified",
-              "It helps predict eruption style and potential hazards",
-              "Classifying volcanoes has no scientific use"
-            ],
-            "answer": 2
           }
-        ],
-        "topic": "Rocks, Fossils & Earth's History"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -43471,58 +43488,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Geometry, Multiplication, and Data",
-        "summary": "Grade 4 Math strand review: students revisit points lines and rays, multiplying a 3-digit number by a 2-digit number, line plots, tree diagrams, and profit and loss.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Equivalent Fractions Using Fraction Models",
+        "summary": "Students use fraction strips and area models to discover that different fractions, like 1/2 and 2/4, can represent the same amount, and practice generating equivalent fractions.",
+        "resourceLabel": "YouTube: Equivalent Fractions Using Fraction Models",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Equivalent%20Fractions%20Using%20Fraction%20Models%20grade%204%20educational",
+        "topic": "Fractions",
         "quiz": [
           {
-            "q": "What is a point in geometry?",
+            "q": "Which fraction is equivalent to 1/2?",
             "options": [
-              "A measurement of an angle",
-              "A shape with four sides",
-              "A line that never ends",
-              "An exact location in space with no size"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is a common first step to multiply a 3-digit number by a 2-digit number?",
-            "options": [
-              "Divide the numbers first",
-              "Add the two numbers together",
-              "Break the 2-digit number into tens and ones",
-              "Round both numbers to zero"
+              "1/3",
+              "3/5",
+              "2/4",
+              "2/3"
             ],
             "answer": 2
           },
           {
-            "q": "What does a line plot use to show how many times a value occurs?",
+            "q": "A fraction strip shows 3/6 shaded. Which single fraction, in simplest terms, represents the same amount?",
             "options": [
-              "Symbols such as Xs or dots stacked above a number line",
-              "Slices of a circle",
-              "Bars of different colours",
-              "Multiple separate graphs"
+              "2/3",
+              "3/4",
+              "1/2",
+              "1/3"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "What is a tree diagram used for?",
+            "q": "To create an equivalent fraction, you multiply the numerator and denominator by:",
             "options": [
-              "Listing all possible outcomes of an event",
-              "Measuring the length of an object",
-              "Comparing prices at a store",
-              "Showing the temperature over time"
+              "Zero",
+              "The same number",
+              "Only by 2",
+              "Any two different numbers"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What is profit?",
+            "q": "Which pair of fractions are NOT equivalent?",
             "options": [
-              "The total cost of making an item",
-              "The price customers pay before tax",
-              "The amount lost after a sale",
-              "The amount earned that is greater than the cost"
+              "1/3 and 2/6",
+              "3/4 and 6/8",
+              "2/3 and 3/4",
+              "2/5 and 4/10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pizza is cut into 8 equal slices, and 4 are eaten. Which fraction, written in simplest form, shows how much was eaten?",
+            "options": [
+              "1/4",
+              "4/8 only",
+              "1/3",
+              "1/2"
             ],
             "answer": 3
           }
@@ -43530,119 +43548,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science Review: Cells, Ecosystems, and Natural Forces",
-        "summary": "Grade 4 Science strand review: students revisit cells, elements compounds and mixtures, spiders and arachnids, rainforest layers, and tsunamis.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Life Cycle of a Plant: From Seed to Seed",
+        "summary": "Students trace the life cycle of a flowering plant through its stages -- seed, germination, seedling, mature plant, flower, and new seeds -- and compare how this cycle repeats generation after generation.",
+        "resourceLabel": "YouTube: Life Cycle of a Plant: From Seed to Seed",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20From%20Seed%20to%20Seed%20grade%204%20educational",
+        "topic": "Life Cycles & Growth",
         "quiz": [
           {
-            "q": "What are cells?",
+            "q": "What is the first stage in the life cycle of a flowering plant?",
             "options": [
-              "A form of energy",
-              "A type of weather pattern",
-              "A type of rock",
-              "The basic building blocks of living things"
+              "Fruit",
+              "Seed",
+              "Seedling",
+              "Flower"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is \"germination\"?",
+            "options": [
+              "The process where a plant makes its own food using sunlight",
+              "The process where a flower attracts insects",
+              "The process where a plant loses its leaves in fall",
+              "The process where a seed begins to sprout and grow into a seedling"
             ],
             "answer": 3
           },
           {
-            "q": "What is an element?",
+            "q": "What usually happens after a flower on a mature plant is pollinated?",
             "options": [
-              "A mixture of many substances",
-              "A liquid that cannot be separated",
-              "A type of rock only",
-              "A pure substance made of only one type of atom"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How many legs do spiders and other arachnids typically have?",
-            "options": [
-              "Eight",
-              "Six",
-              "Ten",
-              "Four"
+              "The flower can develop fruit containing new seeds",
+              "The roots stop growing",
+              "The plant immediately dies",
+              "The plant turns back into a seed"
             ],
             "answer": 0
           },
           {
-            "q": "What is the canopy of a rainforest?",
+            "q": "Why is a plant's life cycle described as a repeating cycle rather than a straight line?",
             "options": [
-              "The tallest single tree in the forest",
-              "A type of river found only in rainforests",
-              "The layer of soil beneath the forest",
-              "A dense leafy layer formed by the crowns of tall trees"
+              "Because plants never actually produce seeds",
+              "Because plants skip the seedling stage every other generation",
+              "Because each plant only goes through the stages once and then disappears forever",
+              "Because the seeds a mature plant produces can grow into new plants that repeat the same stages"
             ],
             "answer": 3
           },
           {
-            "q": "What most commonly triggers a tsunami?",
+            "q": "Which of the following lists the stages of a plant's life cycle in the correct order?",
             "options": [
-              "An underwater earthquake",
-              "A change in air temperature",
-              "A sunny day",
-              "A full moon"
+              "Seedling, seed, germination, mature plant with flowers",
+              "Germination, mature plant with flowers, seed, seedling",
+              "Seed, germination, seedling, mature plant with flowers",
+              "Mature plant with flowers, seed, seedling, germination"
             ],
-            "answer": 0
+            "answer": 2
           }
         ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: World Empires, Canadian Landmarks, and Explorers",
-        "summary": "Grade 4 Social Studies strand review: students revisit the Mongol Empire, the Bay of Fundy, David Thompson, the Bluenose, and Point Pelee National Park.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: How Rivers and Watersheds Shape Canada's Landscape",
+        "summary": "Students learn what a watershed is and explore how Canada's major rivers collect and carry water across the landscape, shaping where communities settle and how ecosystems function.",
+        "resourceLabel": "YouTube: Social Studies: How Rivers and Watersheds Shape Canada's Landscape",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Rivers%20and%20Watersheds%20Shape%20Canada%27s%20Landscape%20grade%204%20educational",
+        "topic": "Canadian Geography & Environment",
         "quiz": [
           {
-            "q": "Who founded the Mongol Empire?",
+            "q": "What is a watershed?",
             "options": [
-              "Alexander the Great",
-              "Genghis Khan",
-              "Hammurabi",
-              "Julius Caesar"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In which two provinces is the Bay of Fundy located?",
-            "options": [
-              "Nova Scotia and New Brunswick",
-              "Manitoba and Saskatchewan",
-              "British Columbia and Alberta",
-              "Ontario and Quebec"
+              "An area of land where all the water drains toward the same river, lake, or ocean",
+              "A federal government department",
+              "A device used to measure temperature",
+              "A type of Canadian building"
             ],
             "answer": 0
           },
           {
-            "q": "What was David Thompson known for?",
+            "q": "Why have many communities in Canada historically settled near rivers?",
             "options": [
-              "Founding the city of Toronto",
-              "Leading a naval fleet",
-              "Mapping vast areas of western Canada",
-              "Building the CN Tower"
+              "Rivers provide water, transportation, and fertile land",
+              "Communities always avoid rivers",
+              "Rivers have no practical benefits",
+              "Rivers make travel impossible"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What type of ship was the Bluenose?",
+            "q": "What happens to rainwater and melted snow within a single watershed?",
             "options": [
-              "A cruise ship",
-              "A racing schooner",
-              "A cargo tanker",
-              "A submarine"
+              "It always flows in opposite directions",
+              "It eventually flows into the same body of water, like a river or lake",
+              "It disappears completely",
+              "It has no connection to nearby rivers"
             ],
             "answer": 1
           },
           {
-            "q": "Where is Point Pelee National Park located?",
+            "q": "Which of these could affect the health of a watershed?",
             "options": [
-              "At the southern tip of mainland Canada",
-              "In the Canadian Arctic",
-              "In northern Quebec",
-              "On the west coast of British Columbia"
+              "The colour of nearby buildings",
+              "Pollution entering rivers or streams within that drainage area",
+              "The name given to the watershed",
+              "The number of road signs in a town"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding watersheds be important for protecting the environment?",
+            "options": [
+              "Watersheds have no effect on ecosystems",
+              "Pollution in one part of a watershed can affect water quality throughout the whole system",
+              "Each part of a watershed is completely separate",
+              "Watersheds only matter in the winter"
+            ],
+            "answer": 1
           }
         ]
       }
@@ -43774,58 +43794,59 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: The Water Table and Aquifer Recharge",
-        "summary": "Grade 4 Science strand: the water table is the upper level of groundwater stored underground in an aquifer, and it rises or falls as rain and melting snow soak into the ground to recharge the supply.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Mass vs Weight: Measuring Matter",
+        "summary": "Students learn the difference between mass, the amount of matter in an object, and weight, the pull of gravity on that object, and practice using a balance scale to measure and compare the mass of everyday objects.",
+        "resourceLabel": "YouTube: Mass vs Weight: Measuring Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mass%20vs%20Weight%3A%20Measuring%20Matter%20grade%204%20educational",
+        "topic": "Matter & Materials",
         "quiz": [
           {
-            "q": "What is the water table?",
+            "q": "What is \"mass\"?",
             "options": [
-              "The upper level of groundwater stored underground",
-              "A machine used to pump ocean water",
-              "A table used to measure rainfall",
-              "A type of river on the surface"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is an aquifer?",
-            "options": [
-              "A machine that purifies water",
-              "A type of cloud formation",
-              "An underground layer of rock or soil that stores groundwater",
-              "A surface lake found only in deserts"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What can cause the water table to rise?",
-            "options": [
-              "Paving over natural land with concrete",
-              "A long period with no precipitation at all",
-              "Removing water without any replacement",
-              "Rain and melting snow soaking into the ground"
+              "The temperature of an object",
+              "The colour of an object",
+              "The pull of gravity on an object",
+              "The amount of matter that makes up an object"
             ],
             "answer": 3
           },
           {
-            "q": "What does it mean for an aquifer to be recharged?",
+            "q": "Which tool would a student use in the classroom to measure and compare the mass of two objects?",
             "options": [
-              "The aquifer is permanently emptied",
-              "Water is added back into it from rain or snowmelt seeping down",
-              "The aquifer stops storing water forever",
-              "The aquifer turns into solid rock"
+              "A ruler",
+              "A balance scale",
+              "A thermometer",
+              "A stopwatch"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it important for communities to manage groundwater use carefully?",
+            "q": "An astronaut's mass stays the same on the Moon as it is on Earth, but their weight changes. Why?",
             "options": [
-              "Groundwater can never be used up",
-              "Groundwater has no connection to drinking water supplies",
-              "Overusing groundwater faster than it recharges can lower the water table",
-              "Aquifers refill instantly no matter how much is used"
+              "Astronauts lose matter from their bodies in space",
+              "Mass and weight always change together no matter what",
+              "The Moon has stronger gravity than Earth",
+              "The amount of matter in their body doesn't change, but the Moon's gravity pulling on them is weaker than Earth's"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A balance scale is level with a rock on one side and several small metal cubes on the other side. What does this tell you?",
+            "options": [
+              "The rock is heavier than the cubes",
+              "The rock and the metal cubes have the same mass",
+              "The scale is broken",
+              "The cubes have no mass at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would most likely be used to measure the mass of a small toy car in a science class?",
+            "options": [
+              "Degrees Celsius",
+              "Metres",
+              "Grams",
+              "Litres"
             ],
             "answer": 2
           }
@@ -43899,63 +43920,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Grammar: The Subjunctive Mood",
-        "summary": "Grade 4 Language strand: the subjunctive mood is used to express a wish, a suggestion, or a situation that is not currently true, often appearing after words like if or wish and pairing with were instead of was.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Writing: Writing a Myth",
+        "summary": "Students learn the features of a myth — such as gods, heroes, and explanations for natural events — and write their own short myth using these story elements.",
+        "resourceLabel": "YouTube: Writing: Writing a Myth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Myth%20grade%204%20educational",
+        "topic": "Writing",
         "quiz": [
           {
-            "q": "What does the subjunctive mood often express?",
+            "q": "A myth often explains...",
             "options": [
-              "A question about a location",
-              "A simple fact that is happening right now",
-              "A wish or a situation that is not currently true",
-              "A direct command"
+              "how to bake bread",
+              "current news events",
+              "a natural event or the origin of something",
+              "how to solve a math problem"
             ],
             "answer": 2
           },
           {
-            "q": "Which sentence correctly uses the subjunctive mood?",
+            "q": "Which of these characters would most likely appear in a myth?",
             "options": [
-              "If I was taller, I could reach the shelf.",
-              "If I were taller, I could reach the shelf.",
-              "If I be taller, I could reach the shelf.",
-              "If I am taller, I could reach the shelf."
+              "a librarian",
+              "a bus driver",
+              "a powerful god or hero",
+              "a math teacher"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Myths are different from fables mainly because myths...",
+            "options": [
+              "always have talking animals that teach a lesson",
+              "are always written as rhyming poems",
+              "often explain the origins of the world or nature and feature gods or heroes",
+              "are always completely true stories"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence would fit best in a myth about why the sky is blue?",
+            "options": [
+              "The scientist recorded the data in her notebook.",
+              "Long ago, the sky god spread his cloak across the heavens.",
+              "Please remember your umbrella today.",
+              "The weather forecast predicts rain."
             ],
             "answer": 1
           },
           {
-            "q": "Which word often introduces a subjunctive statement?",
+            "q": "What is one key feature a myth should usually include?",
             "options": [
-              "So",
-              "And",
-              "If",
-              "But"
+              "a multiple-choice quiz",
+              "an explanation tied to nature or the world",
+              "a list of ingredients",
+              "a bibliography of sources"
             ],
-            "answer": 2
-          },
-          {
-            "q": "In the subjunctive mood, which verb form is often used instead of was?",
-            "options": [
-              "Is",
-              "Been",
-              "Being",
-              "Were"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a writer use the subjunctive mood?",
-            "options": [
-              "To ask a direct question",
-              "To give a simple command",
-              "To describe a wish or hypothetical situation that is not real",
-              "To describe something that is definitely true right now"
-            ],
-            "answer": 2
+            "answer": 1
           }
-        ],
-        "topic": "Literary Devices & Analysis"
+        ]
       },
       {
         "subject": "Math",
@@ -44019,63 +44040,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Predator-Prey Cycles in Ecosystems",
-        "summary": "Grade 4 Science strand: predator and prey populations rise and fall in connected cycles, since more prey allows predator populations to grow, while more predators can then cause prey populations to shrink.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Electromagnets: How Electricity Creates Magnetism",
+        "summary": "Students build a simple electromagnet by wrapping wire around a nail and connecting it to a battery, discovering how an electric current flowing through a coiled wire can create a temporary magnetic field.",
+        "resourceLabel": "YouTube: Electromagnets: How Electricity Creates Magnetism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnets%3A%20How%20Electricity%20Creates%20Magnetism%20grade%204%20educational",
+        "topic": "Electricity & Magnetism",
         "quiz": [
           {
-            "q": "What happens to a predator population when prey becomes more plentiful?",
+            "q": "What is an electromagnet?",
             "options": [
-              "The predator population has no reaction at all",
-              "The predator population disappears completely",
-              "The predator population tends to grow",
-              "The predator population instantly doubles overnight"
+              "A magnet that only works underwater",
+              "A magnet that never loses its power",
+              "A permanent magnet found in rocks",
+              "A magnet created by electricity flowing through a coil of wire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a simple electromagnet made from a nail, wire, and battery, what causes the nail to become magnetic?",
+            "options": [
+              "Sunlight shining on the coiled wire",
+              "The weight of the nail pressing on the wire",
+              "Electric current flowing through the wire coiled around it",
+              "Heat from the battery melting the nail"
             ],
             "answer": 2
           },
           {
-            "q": "What can happen to a prey population when predators become too numerous?",
+            "q": "What happens to most simple electromagnets when the battery is disconnected?",
             "options": [
-              "The prey population tends to shrink",
-              "The prey population is unaffected",
-              "The prey population becomes extinct instantly",
-              "The prey population always grows larger"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why are predator and prey populations described as being in a cycle?",
-            "options": [
-              "Their population sizes rise and fall in a connected, repeating pattern",
-              "Only prey populations ever change in an ecosystem",
-              "Predators and prey have no effect on each other",
-              "Their populations never change over time"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What might happen if a predator species were removed from an ecosystem entirely?",
-            "options": [
-              "The prey population would disappear immediately",
-              "The prey population could grow rapidly without natural control",
-              "Nothing in the ecosystem would change at all",
-              "Other predators would automatically disappear too"
+              "They start attracting only plastic",
+              "They stop being magnetic",
+              "They become permanently stronger magnets",
+              "They turn into a different metal"
             ],
             "answer": 1
           },
           {
-            "q": "Why do scientists study predator-prey cycles?",
+            "q": "Which change would most likely make a simple electromagnet stronger?",
             "options": [
-              "Studying these cycles has no real-world use",
-              "Predator-prey cycles have no scientific importance",
-              "To understand how ecosystems stay balanced over time",
-              "Ecosystems never change based on predators or prey"
+              "Adding more coils of wire around the nail",
+              "Removing the battery completely",
+              "Using a shorter piece of wire with fewer coils",
+              "Painting the nail a different colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a real-world use of electromagnets?",
+            "options": [
+              "Wooden rulers used for measuring",
+              "Rubber tires on bicycles",
+              "Giant electromagnets in scrapyards that lift and move heavy metal",
+              "Glass windows in houses"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Ecosystems & Environment"
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -44204,180 +44225,181 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Data Management: Calculating the Mean of a Data Set",
-        "summary": "Grade 4 Math strand: the mean, or average, of a data set is found by adding all the values together and dividing the sum by the number of values in the set.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Multi-Digit Addition and Subtraction with Regrouping",
+        "summary": "Students strengthen their skills adding and subtracting multi-digit numbers that require regrouping (carrying and borrowing) across several place values, applied to real-life totals.",
+        "resourceLabel": "YouTube: Multi-Digit Addition and Subtraction with Regrouping",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multi-Digit%20Addition%20and%20Subtraction%20with%20Regrouping%20grade%204%20educational",
+        "topic": "Place Value & Number Sense",
         "quiz": [
           {
-            "q": "How do you calculate the mean of a data set?",
+            "q": "What is 3,847 + 2,956?",
             "options": [
-              "Find the largest value only",
-              "Find the smallest value only",
-              "Multiply all the values together",
-              "Add all the values and divide by the number of values"
+              "6,793",
+              "5,803",
+              "6,813",
+              "6,803"
             ],
             "answer": 3
           },
           {
-            "q": "What is the mean of the data set 4, 6, 8?",
+            "q": "What is 5,204 − 1,867?",
             "options": [
-              "8",
-              "4",
-              "6",
-              "18"
+              "3,347",
+              "3,237",
+              "3,337",
+              "3,437"
             ],
             "answer": 2
           },
           {
-            "q": "What is the mean of the data set 10, 20, 30, 40?",
+            "q": "When adding 4,678 + 1,345, in which place value(s) do you need to regroup?",
             "options": [
-              "25",
-              "100",
-              "20",
-              "30"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If a data set has five values summing to 50, what is the mean?",
-            "options": [
-              "5",
-              "25",
-              "50",
-              "10"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is the mean a useful way to describe a data set?",
-            "options": [
-              "It always equals the smallest value in the set",
-              "It gives a single value representing the typical or central amount",
-              "It only shows the largest value in the set",
-              "It has no connection to the data set at all"
+              "Tens only",
+              "Ones, tens, and hundreds",
+              "No regrouping is needed",
+              "Ones only"
             ],
             "answer": 1
+          },
+          {
+            "q": "A school raised $2,375 in September and $1,489 in October. How much did they raise in total?",
+            "options": [
+              "$3,964",
+              "$3,854",
+              "$3,864",
+              "$3,764"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A stadium had 8,240 tickets. After 3,675 were sold, how many tickets remain?",
+            "options": [
+              "4,475",
+              "3,565",
+              "4,665",
+              "4,565"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: Ruminant Animals — How Cows and Other Grazers Digest Grass",
-        "summary": "Grade 4 Science strand: ruminant animals, such as cows, sheep, and deer, have a specialized four-chambered stomach that allows them to break down tough plant fibres by chewing their food more than once.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Predator and Prey: How Animals Hunt and Avoid Being Hunted",
+        "summary": "Students examine predator-prey relationships in nature, exploring adaptations predators use to catch food and adaptations prey use to detect danger, escape, or defend themselves.",
+        "resourceLabel": "YouTube: Predator and Prey: How Animals Hunt and Avoid Being Hunted",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Predator%20and%20Prey%3A%20How%20Animals%20Hunt%20and%20Avoid%20Being%20Hunted%20grade%204%20educational",
+        "topic": "Animal Adaptations & Behaviour",
         "quiz": [
           {
-            "q": "What is a ruminant animal?",
+            "q": "In a predator-prey relationship, what is a \"predator\"?",
             "options": [
-              "An animal with a specialized four-chambered stomach for digesting plants",
-              "An animal that never eats at all",
-              "An animal that lives only underwater",
-              "An animal that only eats meat"
+              "A plant that traps insects",
+              "An animal that hunts and eats other animals for food",
+              "An animal that only eats plants",
+              "An animal that is always hunted by others"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Which of these is an example of a ruminant animal?",
+            "q": "Which of these is an adaptation that helps a PREY animal avoid being caught?",
             "options": [
-              "A cow",
-              "An eagle",
-              "A shark",
-              "A lion"
+              "Powerful jaws for biting",
+              "Eyes positioned on the sides of its head to spot danger from many directions",
+              "Sharp claws used to grab prey",
+              "Excellent night vision used only for hunting"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "What is unique about how ruminant animals digest their food?",
+            "q": "Why do many predators, such as wolves or lions, have eyes positioned at the front of their heads?",
             "options": [
-              "They only eat food that has already been digested by another animal",
-              "They swallow food whole and never digest it",
-              "They never chew their food at all",
-              "They chew their food more than once to help break down tough fibres"
+              "It has nothing to do with hunting",
+              "It helps them hide from other predators",
+              "Front-facing eyes let them see all around without turning their heads",
+              "Forward-facing eyes help judge distance accurately when chasing prey"
             ],
             "answer": 3
           },
           {
-            "q": "What term describes food that a ruminant animal brings back up to chew again?",
+            "q": "If a prey population in an area suddenly drops very low, what is a likely effect on the predators that depend on them for food?",
             "options": [
-              "Pollen",
-              "Compost",
-              "Cud",
-              "Sap"
+              "The predator population may also decline because there is less food available",
+              "Predators will immediately switch to eating only plants",
+              "The predator population will always increase instead",
+              "There will be no effect on the predators at all"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is a multi-chambered stomach helpful for animals that eat grass?",
+            "q": "Which of the following is an example of a prey animal's defensive adaptation?",
             "options": [
-              "It prevents the animal from digesting any food at all",
-              "It only works for animals that eat meat",
-              "It allows tough plant fibres to be broken down more completely for energy",
-              "It has no effect on digestion"
+              "A spider's sticky web used to trap food",
+              "A hawk's sharp talons for grabbing prey",
+              "A shark's rows of sharp teeth",
+              "A rabbit's fast running speed to escape from foxes"
             ],
-            "answer": 2
+            "answer": 3
           }
-        ],
-        "topic": "Animals & Wildlife (Basic)"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the Auditor General of Canada",
-        "summary": "Grade 4 Social Studies strand: the Auditor General is an independent official who examines how the federal government spends public money, reporting to Parliament on whether spending was managed responsibly.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Treaties Between Indigenous Peoples and the Crown",
+        "summary": "Students learn what a treaty is and explore the basic purpose of historical treaties made between Indigenous peoples and the Crown in Canada, including how these agreements continue to matter today.",
+        "resourceLabel": "YouTube: Social Studies: Treaties Between Indigenous Peoples and the Crown",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Treaties%20Between%20Indigenous%20Peoples%20and%20the%20Crown%20grade%204%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "What does the Auditor General of Canada examine?",
+            "q": "What is a treaty?",
             "options": [
-              "The weather across Canada",
-              "The design of new highways",
-              "How the federal government spends public money",
-              "The scores of national sports teams"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Who does the Auditor General report to?",
-            "options": [
-              "A foreign government",
-              "No one at all",
-              "Parliament",
-              "A private company"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Auditor General considered independent?",
-            "options": [
-              "They examine government spending without taking political sides",
-              "They have no connection to government spending",
-              "They are controlled by a single business",
-              "They always agree with whatever the government wants"
+              "A formal agreement made between two or more groups, such as nations",
+              "A type of map",
+              "A religious ceremony",
+              "A style of clothing"
             ],
             "answer": 0
           },
           {
-            "q": "What is one goal of having an Auditor General?",
+            "q": "In Canadian history, treaties were often made between Indigenous peoples and:",
             "options": [
-              "Removing accountability from government spending",
-              "Hiding government spending from the public",
-              "Ensuring public money is spent responsibly and transparently",
-              "Preventing the government from ever spending any money"
+              "Other Indigenous nations exclusively",
+              "Only local farmers",
+              "Foreign trading companies from Asia",
+              "The Crown (representing the British or Canadian government)"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why is the role of the Auditor General valuable to Canadian citizens?",
+            "q": "Why are historical treaties still important in Canada today?",
             "options": [
-              "It helps hold government spending accountable to the public",
-              "It has no value to citizens",
-              "It gives citizens no information about government spending",
-              "It only benefits government workers"
+              "Treaties applied only to non-Indigenous settlers",
+              "Treaties are only studied in other countries",
+              "They were cancelled and have no modern relevance",
+              "They continue to affect land rights and relationships between Indigenous peoples and the government"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a historical treaty have addressed?",
+            "options": [
+              "Land use, resources, and relationships between groups",
+              "Only sports competitions",
+              "Weather forecasting methods",
+              "International space exploration"
             ],
             "answer": 0
+          },
+          {
+            "q": "Why is it important to understand treaties when learning about Canadian history?",
+            "options": [
+              "They have no connection to Canadian history",
+              "They apply only to countries outside of Canada",
+              "They shape the relationship between Indigenous peoples and the rest of Canada, past and present",
+              "Treaties were never actually signed in Canada"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -44389,63 +44411,63 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Analyzing a Plays Structure — Acts and Scenes",
-        "summary": "Grade 4 Language strand: a play is organized into acts and scenes, with acts marking major divisions of the story and scenes marking smaller sections within an act, often set in a single time and place.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Grammar: Comparative and Superlative Adverbs",
+        "summary": "Students learn how to form and use comparative adverbs (e.g., faster, more carefully) and superlative adverbs (e.g., fastest, most carefully) to compare how two or more actions are done.",
+        "resourceLabel": "YouTube: Grammar: Comparative and Superlative Adverbs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Comparative%20and%20Superlative%20Adverbs%20grade%204%20educational",
+        "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
-            "q": "What is an act in a play?",
+            "q": "Which is the comparative form of \"fast\"?",
             "options": [
-              "A type of stage prop",
-              "The name of a character",
-              "A single line of dialogue",
-              "A major division of the story"
+              "faster",
+              "most fast",
+              "fastest",
+              "fastly"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What is a scene in a play?",
+            "q": "Which is the superlative form of \"carefully\"?",
             "options": [
-              "The entire play from start to finish",
-              "A list of actors names",
-              "A type of costume",
-              "A smaller section within an act, often in one time and place"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How are acts and scenes usually organized in relation to each other?",
-            "options": [
-              "A play can only have one scene total",
-              "Acts and scenes are exactly the same thing",
-              "Scenes are divided into acts",
-              "A play is divided into acts, and acts are divided into scenes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What might change between one scene and the next?",
-            "options": [
-              "The title of the play",
-              "The time or place of the action",
-              "The name of the playwright",
-              "The type of paper the play is printed on"
+              "more carefully",
+              "most carefully",
+              "carefully",
+              "carefulest"
             ],
             "answer": 1
           },
           {
-            "q": "Why is understanding a plays structure of acts and scenes helpful to readers?",
+            "q": "Choose the correct sentence.",
             "options": [
-              "It helps track how the story is organized and how it progresses",
-              "It makes a play impossible to follow",
-              "Acts and scenes only exist in novels, not plays",
-              "Structure has no connection to understanding a play"
+              "She runs fast than her brother.",
+              "She runs more fast than her brother.",
+              "She runs faster than her brother.",
+              "She runs fastest than her brother."
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "Which adverb needs \"most\" instead of \"-est\" to form its superlative?",
+            "options": [
+              "slow",
+              "quickly",
+              "hard",
+              "fast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Complete: \"Of all three runners, Ana finished ___.\"",
+            "options": [
+              "quicker",
+              "quick",
+              "most quickly",
+              "quickly"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Reading Comprehension & Strategies"
+        ]
       },
       {
         "subject": "Math",
@@ -44509,123 +44531,123 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: The Northern Lights — Aurora Borealis",
-        "summary": "Grade 4 Science strand: the aurora borealis, or northern lights, is a natural light display caused by charged particles from the sun interacting with gases in Earths atmosphere, most visible near the North Pole.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Making a Hypothesis: The First Step in Scientific Inquiry",
+        "summary": "Students learn how scientists turn a question into a testable hypothesis -- an educated guess written as an \"if...then...\" statement -- before designing an experiment to test it.",
+        "resourceLabel": "YouTube: Making a Hypothesis: The First Step in Scientific Inquiry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20a%20Hypothesis%3A%20The%20First%20Step%20in%20Scientific%20Inquiry%20grade%204%20educational",
+        "topic": "Scientific Inquiry & Skills",
         "quiz": [
           {
-            "q": "What causes the aurora borealis?",
+            "q": "What is a hypothesis?",
             "options": [
-              "Reflections of city lights bouncing off clouds",
-              "Charged particles from the sun interacting with Earths atmosphere",
-              "Sunlight passing through raindrops",
-              "A type of volcanic eruption"
+              "A fact that has already been proven true",
+              "The final conclusion of an experiment",
+              "A random guess with no reasoning behind it",
+              "An educated guess or prediction that can be tested by an experiment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is written in proper \"if...then...\" hypothesis form?",
+            "options": [
+              "My plant grew taller than yours",
+              "If a plant gets more sunlight, then it will grow taller",
+              "Plants need sunlight to survive",
+              "Sunlight is a form of energy"
             ],
             "answer": 1
           },
           {
-            "q": "Where is the aurora borealis most commonly visible?",
+            "q": "A student wants to test whether plants grow better with tap water or salt water. What should come BEFORE writing the hypothesis?",
             "options": [
-              "Near the North Pole",
-              "Underwater",
-              "In deserts only",
-              "Near the equator"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is another common name for the aurora borealis?",
-            "options": [
-              "The northern lights",
-              "The southern cross",
-              "The midnight sun",
-              "The polar vortex"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What gives the aurora borealis its glowing colours?",
-            "options": [
-              "Light bouncing off mountain snow",
-              "Fireworks launched from the ground",
-              "Reflections from the ocean surface",
-              "Charged particles interacting with different gases in the atmosphere"
+              "Buying new plant pots",
+              "Writing the final conclusion",
+              "Publishing the results",
+              "Asking a clear, testable question about the two types of water"
             ],
             "answer": 3
           },
           {
-            "q": "Why do scientists study the aurora borealis?",
+            "q": "Why is it important for a hypothesis to be testable?",
             "options": [
-              "It has no connection to the sun",
-              "The aurora borealis has no scientific value",
-              "It never changes and cannot be studied",
-              "To better understand solar activity and its effects on Earths atmosphere"
+              "So it can never be proven wrong",
+              "So other scientists cannot repeat the experiment",
+              "So it sounds more scientific",
+              "So an experiment can be designed to check whether the prediction is correct"
             ],
             "answer": 3
+          },
+          {
+            "q": "After running an experiment, a student finds their results do NOT match their hypothesis. What should the student do?",
+            "options": [
+              "Accept the actual results and explain that the hypothesis was not supported by the evidence",
+              "Ignore the experiment and never test anything again",
+              "Change the results so they match the hypothesis",
+              "Refuse to record what actually happened"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Weather, Sky & Space (Basic)"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Residential Schools and the Path to Reconciliation",
-        "summary": "Grade 4 Social Studies strand: residential schools were institutions that separated Indigenous children from their families and cultures for over a century, and Canada is now working toward reconciliation by acknowledging this history and rebuilding trust with Indigenous peoples.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Renewable and Non-Renewable Resources in Canada",
+        "summary": "Students learn the difference between renewable resources, like forests and wind, and non-renewable resources, like oil and minerals, and consider how Canadians use both types.",
+        "resourceLabel": "YouTube: Social Studies: Renewable and Non-Renewable Resources in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Renewable%20and%20Non-Renewable%20Resources%20in%20Canada%20grade%204%20educational",
+        "topic": "Natural Resources & Industry",
         "quiz": [
           {
-            "q": "What were residential schools designed to do?",
+            "q": "What is a renewable resource?",
             "options": [
-              "Provide extra holidays for students",
-              "Teach all students about Indigenous traditions",
-              "Separate Indigenous children from their families and cultures",
-              "Build new roads across Canada"
+              "A resource that can never be used again once it is used",
+              "A resource that does not exist in Canada",
+              "A resource found only underground",
+              "A resource that can be replenished naturally over time, like trees or wind"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Roughly how long did the residential school system operate in Canada?",
+            "q": "Which of these is an example of a non-renewable resource?",
             "options": [
-              "Over a century",
-              "Less than a month",
-              "Only a single year",
-              "It never actually operated"
+              "Sunlight",
+              "Wind",
+              "Forests, if managed sustainably",
+              "Oil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for Canada to manage its natural resources carefully?",
+            "options": [
+              "To ensure resources remain available for future generations",
+              "Canada has no natural resources to manage",
+              "Resource management only applies to other countries",
+              "Resources never run out, so management is unnecessary"
             ],
             "answer": 0
           },
           {
-            "q": "What does reconciliation mean in this context?",
+            "q": "Which of these energy sources is considered renewable?",
             "options": [
-              "Preventing any further learning about the past",
-              "Erasing all records of what happened",
-              "Acknowledging past harms and working to rebuild trust with Indigenous peoples",
-              "Ignoring history completely"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is learning about residential schools considered important today?",
-            "options": [
-              "It should never be discussed",
-              "It helps Canadians understand history and support reconciliation efforts",
-              "This history has no relevance today",
-              "It is not connected to reconciliation at all"
+              "Natural gas",
+              "Wind power",
+              "Oil",
+              "Coal"
             ],
             "answer": 1
           },
           {
-            "q": "What is one way Canada has worked toward reconciliation?",
+            "q": "Why can minerals and fossil fuels like oil be described as non-renewable?",
             "options": [
-              "Formal acknowledgements, apologies, and commemorative actions",
-              "Removing the history from all records",
-              "Ignoring requests from Indigenous communities",
-              "Refusing to discuss the topic at all"
+              "They are man-made materials",
+              "They are replaced every single day",
+              "They have unlimited natural supply",
+              "They take millions of years to form and cannot be quickly replaced once used"
             ],
-            "answer": 0
+            "answer": 3
           }
-        ],
-        "topic": "Indigenous Peoples & First Nations"
+        ]
       }
     ]
   },
@@ -44815,63 +44837,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Canadas Peacekeeping Role in the Suez Crisis",
-        "summary": "Grade 4 Social Studies strand: during the Suez Crisis of 1956, Canadian diplomat Lester B. Pearson proposed the creation of a United Nations peacekeeping force, an idea that helped resolve the conflict and later earned him the Nobel Peace Prize.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: First Nations, Métis, and Inuit: Understanding the Differences",
+        "summary": "Students learn about the three distinct groups of Indigenous peoples recognized in Canada — First Nations, Métis, and Inuit — and explore how each has its own history, culture, and communities.",
+        "resourceLabel": "YouTube: Social Studies: First Nations, Métis, and Inuit: Understanding the Differences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20First%20Nations%2C%20M%C3%A9tis%2C%20and%20Inuit%3A%20Understanding%20the%20Differences%20grade%204%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "What was the Suez Crisis?",
+            "q": "What term describes the three main groups of Indigenous peoples recognized in Canada?",
             "options": [
-              "A natural disaster in northern Canada",
-              "A 1956 international conflict involving Egypt and other nations",
-              "A Canadian provincial election",
-              "A trade agreement between Canada and the United States"
+              "Provinces, territories, and municipalities",
+              "First Nations, Métis, and Inuit",
+              "Settlers, colonists, and explorers",
+              "Farmers, traders, and hunters"
             ],
             "answer": 1
           },
           {
-            "q": "Who proposed the idea of a United Nations peacekeeping force during the Suez Crisis?",
+            "q": "The Métis Nation developed from the mixing of which two groups?",
             "options": [
-              "David Thompson",
-              "John A. Macdonald",
-              "Lester B. Pearson",
-              "Terry Fox"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What recognition did Lester B. Pearson later receive for his role in the crisis?",
-            "options": [
-              "The Nobel Peace Prize",
-              "The Governor General Award for literature",
-              "An Olympic gold medal",
-              "The Stanley Cup"
+              "First Nations and European settlers",
+              "Inuit and Vikings",
+              "Two different First Nations only",
+              "Settlers from two different European countries"
             ],
             "answer": 0
           },
           {
-            "q": "What is the purpose of a United Nations peacekeeping force?",
+            "q": "The Inuit traditionally live mainly in which region of Canada?",
             "options": [
-              "To replace the governments of other countries",
-              "To start new wars between countries",
-              "To help maintain peace and stability during or after conflicts",
-              "To prevent all countries from communicating"
+              "Southern Ontario",
+              "The Maritime provinces",
+              "The Rocky Mountains",
+              "The Arctic and northern regions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it inaccurate to describe all Indigenous peoples in Canada as being exactly the same?",
+            "options": [
+              "Only one Indigenous group exists in Canada",
+              "Indigenous peoples have no cultural differences",
+              "First Nations, Métis, and Inuit each have distinct histories, languages, and cultures",
+              "All Indigenous groups share one identical culture"
             ],
             "answer": 2
           },
           {
-            "q": "Why is the Suez Crisis significant in Canadian history?",
+            "q": "Which of these is true about First Nations peoples in Canada?",
             "options": [
-              "It has no connection to Canadian history",
-              "It highlighted Canadas role in developing international peacekeeping",
-              "Canada played no part in resolving the crisis",
-              "It only involved countries outside of the United Nations"
+              "They have no distinct communities",
+              "They are a single, identical nation with one language",
+              "They exist only in one province",
+              "They include many distinct nations, each with its own traditions and communities"
             ],
-            "answer": 1
+            "answer": 3
           }
-        ],
-        "topic": "Cold War & 20th Century Canada"
+        ]
       }
     ]
   },
@@ -44941,63 +44963,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Measurement: Calculating Perimeter Using Algebraic Expressions",
-        "summary": "Grade 4 Math strand: the perimeter of a shape with unknown side lengths can be represented using an algebraic expression, where each side is written as a variable or expression and then combined.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Sorting 3D Objects by Faces, Edges, and Vertices",
+        "summary": "Students examine and sort 3D objects like cubes, prisms, pyramids, cones, and spheres by counting and comparing their number of faces, edges, and vertices.",
+        "resourceLabel": "YouTube: Sorting 3D Objects by Faces, Edges, and Vertices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%203D%20Objects%20by%20Faces%2C%20Edges%2C%20and%20Vertices%20grade%204%20educational",
+        "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
-            "q": "If a square has a side length of s, what algebraic expression represents its perimeter?",
+            "q": "How many faces does a cube have?",
             "options": [
-              "s squared",
-              "2s",
-              "4s",
-              "s plus 4"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "If a rectangle has length L and width W, what expression represents its perimeter?",
-            "options": [
-              "L minus W",
-              "2L plus 2W",
-              "L plus W",
-              "L times W"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "If a triangle has sides represented by a, b, and c, what expression represents its perimeter?",
-            "options": [
-              "a minus b minus c",
-              "a times b times c",
-              "a divided by b",
-              "a plus b plus c"
+              "12",
+              "4",
+              "8",
+              "6"
             ],
             "answer": 3
           },
           {
-            "q": "If a square has a side length of x equal to 6, what is its perimeter using the expression 4x?",
+            "q": "How many vertices (corners) does a rectangular prism have?",
             "options": [
-              "18",
-              "20",
-              "24",
-              "30"
+              "8",
+              "12",
+              "4",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A square-based pyramid has how many faces in total, including the base?",
+            "options": [
+              "4",
+              "6",
+              "5",
+              "8"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it useful to write perimeter as an algebraic expression?",
+            "q": "Which 3D shape has no flat faces, no edges, and no vertices?",
             "options": [
-              "Algebraic expressions can never represent a real measurement",
-              "It removes the need to know the shape of the figure",
-              "It only works for shapes with exactly one side",
-              "It allows the perimeter to be calculated for any value of the unknown side length"
+              "Cone",
+              "Cylinder",
+              "Sphere",
+              "Cube"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "How many edges does a triangular prism have?",
+            "options": [
+              "9",
+              "12",
+              "6",
+              "8"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Algebraic Expressions"
+        ]
       },
       {
         "subject": "Science",
@@ -45185,63 +45207,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Probability of Independent Events",
-        "summary": "Grade 4 Math strand: two events are independent when the outcome of one does not affect the outcome of the other, and the probability of both independent events occurring is found by multiplying their individual probabilities.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Estimating and Measuring Mass in Grams and Kilograms",
+        "summary": "Students estimate the mass of everyday objects, then use a scale to measure and check their estimates in grams and kilograms.",
+        "resourceLabel": "YouTube: Estimating and Measuring Mass in Grams and Kilograms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20and%20Measuring%20Mass%20in%20Grams%20and%20Kilograms%20grade%204%20educational",
+        "topic": "Measurement: Units",
         "quiz": [
           {
-            "q": "What does it mean for two events to be independent?",
+            "q": "Which unit would you use to measure the mass of a paperclip?",
             "options": [
-              "Independent events can never both occur",
-              "One event always causes the other to happen",
-              "The two events always happen at the exact same time",
-              "The outcome of one event does not affect the other"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How do you find the probability of two independent events both occurring?",
-            "options": [
-              "Multiply their individual probabilities together",
-              "Subtract one probability from the other",
-              "Divide one probability by the other",
-              "Add their individual probabilities together"
+              "Grams",
+              "Litres",
+              "Metres",
+              "Kilograms"
             ],
             "answer": 0
           },
           {
-            "q": "If the probability of flipping heads is 1/2 and rolling a 6 is 1/6, what is the probability of both happening?",
+            "q": "Which is the BEST estimate for the mass of a bag of 5 apples?",
             "options": [
-              "7/12",
-              "1/6",
-              "1/12",
-              "1/2"
+              "1 gram",
+              "1 kilogram",
+              "100 kilograms",
+              "10 grams"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Is drawing a card and then flipping a coin an example of independent events?",
+            "q": "A textbook has a mass of 900 grams. Is this more or less than 1 kilogram?",
             "options": [
-              "Yes, because the card drawn does not affect the coin flip",
-              "Yes, but only if the same object is used twice",
-              "No, because the two events are always connected",
-              "No, because a coin flip always affects a card draw"
+              "Less than 1 kilogram",
+              "More than 1 kilogram",
+              "Exactly 1 kilogram",
+              "Cannot be compared"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful to understand independent events in probability?",
+            "q": "Which object would most likely have a mass close to 1 kilogram?",
             "options": [
-              "Independent events can never be calculated",
-              "It has no real use in probability",
-              "It helps accurately calculate the chances of multiple events happening together",
-              "It only applies to events that always happen"
+              "A bicycle",
+              "A bag of sugar",
+              "A single grape",
+              "A house"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "Before weighing an object on a scale, why is it useful to make an estimate first?",
+            "options": [
+              "It helps you check if your measured answer is reasonable",
+              "It replaces the need to ever measure",
+              "It has no real purpose",
+              "Estimates are always more accurate than scales"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -45371,240 +45393,241 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Understanding Allegory",
-        "summary": "Grade 4 Language strand: an allegory is a story in which characters, events, or settings represent a deeper meaning or message beyond the literal plot, often related to a moral, political, or spiritual idea.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Reading: How Word Choice Creates Mood",
+        "summary": "Students examine how an author's specific word choices — such as using \"gloomy\" versus \"cheerful\" language — create a mood or feeling for the reader.",
+        "resourceLabel": "YouTube: Reading: How Word Choice Creates Mood",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20How%20Word%20Choice%20Creates%20Mood%20grade%204%20educational",
+        "topic": "Literary Devices & Analysis",
         "quiz": [
           {
-            "q": "What is an allegory?",
+            "q": "Mood in a story refers to...",
             "options": [
-              "A story where characters or events represent a deeper meaning",
-              "A list of unrelated facts",
-              "A type of punctuation mark",
-              "A story that has no meaning beyond the literal plot"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What might the characters in an allegory represent?",
-            "options": [
-              "Ideas, values, or real-world concepts beyond themselves",
-              "Only the authors personal diary entries",
-              "Nothing beyond their literal actions",
-              "Only random unrelated objects"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might an author choose to write an allegory instead of stating an idea directly?",
-            "options": [
-              "To explore a deeper message in an engaging, indirect way",
-              "Direct statements are always more effective than allegories",
-              "Allegories cannot convey any meaning at all",
-              "Allegories always confuse readers on purpose"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of message might an allegory often explore?",
-            "options": [
-              "Only a recipe for cooking",
-              "A moral, political, or spiritual idea",
-              "Only a list of numbers",
-              "Only the weather forecast"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How can readers identify that a story might be an allegory?",
-            "options": [
-              "By checking the total number of pages",
-              "Allegories cannot be identified in any way",
-              "By ignoring the plot entirely",
-              "By noticing that characters or events seem to symbolize larger ideas"
+              "the number of chapters in the book",
+              "the main character's name",
+              "the setting only",
+              "the feeling or atmosphere the reader experiences"
             ],
             "answer": 3
+          },
+          {
+            "q": "Which word choice would most likely create a spooky mood?",
+            "options": [
+              "eerie",
+              "cheerful",
+              "bright",
+              "sunny"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "\"The old house creaked and groaned in the howling wind.\" This sentence creates a mood of...",
+            "options": [
+              "calmness",
+              "excitement about a party",
+              "joy",
+              "fear or unease"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An author who wants to create a peaceful mood would most likely use words like...",
+            "options": [
+              "gentle",
+              "shattered",
+              "screeching",
+              "chaotic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which technique does an author use to build mood?",
+            "options": [
+              "choosing descriptive words and details carefully",
+              "listing facts in a table",
+              "using only very short sentences",
+              "avoiding adjectives completely"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Reading Comprehension & Strategies"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Estimating Square Roots",
-        "summary": "Grade 4 Math strand: the square root of a number that is not a perfect square can be estimated by identifying the two perfect squares it falls between and judging which one it is closer to.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Needs vs. Wants in Spending Decisions",
+        "summary": "Students learn to distinguish between needs (things required for daily life) and wants (things that are nice to have), and practice using this thinking to make smart spending choices.",
+        "resourceLabel": "YouTube: Needs vs. Wants in Spending Decisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Needs%20vs.%20Wants%20in%20Spending%20Decisions%20grade%204%20educational",
+        "topic": "Financial Literacy",
         "quiz": [
           {
-            "q": "What are the two perfect squares that 20 falls between?",
+            "q": "Which of the following is a NEED?",
             "options": [
-              "25 and 36",
-              "9 and 16",
-              "16 and 25",
-              "1 and 9"
+              "A new video game",
+              "A toy figurine",
+              "Winter boots",
+              "A comic book"
             ],
             "answer": 2
           },
           {
-            "q": "Since 20 falls between 16 and 25, is the square root of 20 closer to 4 or 5?",
+            "q": "Which of the following is a WANT?",
             "options": [
-              "Closer to 6",
-              "Closer to 4",
-              "Exactly halfway",
-              "Closer to 5"
+              "Healthy food",
+              "A warm coat",
+              "A place to sleep",
+              "A trip to an amusement park"
             ],
             "answer": 3
           },
           {
-            "q": "What are the two perfect squares that 40 falls between?",
+            "q": "Malia has $20 and must choose between groceries for dinner or a new poster for her room. Which choice best reflects prioritizing a need over a want?",
             "options": [
-              "25 and 36",
-              "49 and 64",
-              "16 and 25",
-              "36 and 49"
+              "Buying half of each",
+              "Buying the groceries",
+              "Buying the poster",
+              "Saving all the money instead"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What is a reasonable estimate for the square root of 40?",
+            "q": "Which statement is TRUE about needs and wants?",
             "options": [
-              "About 10",
-              "About 20",
-              "About 6.3",
-              "About 4"
+              "Needs and wants are exactly the same thing",
+              "Wants should always be purchased before needs",
+              "Needs are required to live and function, while wants are things we'd like but don't require",
+              "Everyone has the same wants"
             ],
             "answer": 2
           },
           {
-            "q": "Why is estimating square roots a useful skill?",
+            "q": "Why is it helpful to think about needs versus wants before spending money?",
             "options": [
-              "Estimating has no mathematical value",
-              "Square roots never need to be estimated",
-              "Square roots can only be calculated for perfect squares",
-              "It helps approximate values for numbers that are not perfect squares"
+              "It helps make sure important things are paid for first",
+              "It means you can never buy anything fun",
+              "It has no effect on spending decisions",
+              "It guarantees you'll never want anything again"
             ],
-            "answer": 3
+            "answer": 0
           }
-        ],
-        "topic": "Square Roots & Radicals"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: Fermentation — How Microorganisms Transform Food",
-        "summary": "Grade 4 Science strand: fermentation is a process in which microorganisms such as yeast or bacteria break down sugars, producing gases or acids that change food, as seen in bread rising or yogurt forming.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Natural Resources: Using Earth's Materials Wisely",
+        "summary": "Students identify natural resources such as water, forests, and minerals that come from the Earth, and discuss why using them wisely and reducing waste helps protect the environment for the future.",
+        "resourceLabel": "YouTube: Natural Resources: Using Earth's Materials Wisely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Natural%20Resources%3A%20Using%20Earth%27s%20Materials%20Wisely%20grade%204%20educational",
+        "topic": "Earth Systems",
         "quiz": [
           {
-            "q": "What is fermentation?",
+            "q": "What is a natural resource?",
             "options": [
-              "A process where food is frozen solid",
-              "A process where microorganisms break down sugars in food",
-              "A process where food is boiled at high heat",
-              "A process that removes all microorganisms from food"
+              "A type of computer software",
+              "A man-made plastic bottle",
+              "A toy manufactured in a factory",
+              "A material that comes from the Earth and is used by people, such as water, trees, or minerals"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Which microorganism is commonly used to help bread rise?",
+            "q": "Which of the following is an example of a natural resource?",
             "options": [
-              "Yeast",
-              "A type of bird",
-              "A type of insect",
-              "A type of fish"
+              "A paved highway",
+              "A plastic ruler",
+              "A video game",
+              "Fresh water from a lake"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "What does fermentation produce that can cause bread dough to rise?",
+            "q": "Why is it important for communities to use natural resources like fresh water carefully?",
             "options": [
-              "Pure water only",
-              "Solid metal",
-              "Gases, such as carbon dioxide",
-              "Sunlight"
+              "Natural resources can never run out no matter how much is used",
+              "Fresh water is not actually a natural resource",
+              "Some natural resources are limited and can run out or take a long time to replace",
+              "Using resources carefully has no real benefit"
             ],
             "answer": 2
           },
           {
-            "q": "Which food is commonly made using fermentation?",
+            "q": "Which action best shows \"using natural resources wisely\"?",
             "options": [
-              "Yogurt",
-              "Ice cubes",
-              "Plain uncooked rice",
-              "Fresh raw carrots"
+              "Turning off the tap while brushing your teeth to avoid wasting water",
+              "Throwing usable materials into the garbage instead of recycling them",
+              "Cutting down a forest without planting new trees",
+              "Leaving lights on in every empty room"
             ],
             "answer": 0
           },
           {
-            "q": "Why is fermentation useful in food preparation?",
+            "q": "Forests are a natural resource that provide wood, but they also provide which important environmental benefit?",
             "options": [
-              "Fermentation has no effect on food at all",
-              "It can change food texture, flavour, and help with preservation",
-              "Fermentation destroys all nutrients instantly",
-              "Fermentation only works on liquids, never solids"
+              "A source of drinking water only",
+              "A place with no living things",
+              "A habitat for wildlife and a source of clean air",
+              "A resource that can be replaced overnight"
             ],
-            "answer": 1
+            "answer": 2
           }
-        ],
-        "topic": "Cells & Microorganisms"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the CRTC — Regulating Broadcasting and Telecommunications",
-        "summary": "Grade 4 Social Studies strand: the Canadian Radio-television and Telecommunications Commission, or CRTC, is a federal agency that regulates radio, television, and telecommunications services to serve the public interest across Canada.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Where Canada Gets Its Energy: Hydro, Oil, and Wind",
+        "summary": "Students explore the main sources Canada uses to generate energy, including hydroelectric power, oil and gas, and growing renewable sources like wind and solar.",
+        "resourceLabel": "YouTube: Social Studies: Where Canada Gets Its Energy: Hydro, Oil, and Wind",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Where%20Canada%20Gets%20Its%20Energy%3A%20Hydro%2C%20Oil%2C%20and%20Wind%20grade%204%20educational",
+        "topic": "Natural Resources & Industry",
         "quiz": [
           {
-            "q": "What does the CRTC stand for?",
+            "q": "What is hydroelectric power generated from?",
             "options": [
-              "Central Recreation and Tourism Commission",
-              "Canadian Retail and Trade Corporation",
-              "Canadian Road Transportation and Trade Council",
-              "Canadian Radio-television and Telecommunications Commission"
+              "Burning coal",
+              "The movement of flowing water",
+              "Wind turbines",
+              "Sunlight only"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "What kinds of services does the CRTC regulate?",
+            "q": "Which Canadian region is well known for producing large amounts of oil and natural gas?",
             "options": [
-              "National parks and forests",
-              "Postal delivery services",
-              "Farming and agriculture",
-              "Radio, television, and telecommunications services"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Is the CRTC a federal or municipal agency?",
-            "options": [
-              "Provincial only",
-              "International only",
-              "Municipal",
-              "Federal"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might the CRTC set rules for Canadian broadcasting content?",
-            "options": [
-              "To help ensure Canadian content and public interest are represented",
-              "To give complete control to foreign broadcasters only",
-              "To prevent any radio or television broadcasting from existing",
-              "Broadcasting has no connection to public interest"
+              "Alberta",
+              "Prince Edward Island",
+              "New Brunswick",
+              "Nunavut"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful for a country to regulate broadcasting and telecommunications?",
+            "q": "Why might Canada be investing more in wind and solar energy?",
             "options": [
-              "Broadcasting never needs any oversight",
-              "It helps ensure fair access, quality standards, and public interest protections",
-              "Regulation has no benefit to the public",
-              "Telecommunications services require no rules at all"
+              "They are the only energy sources Canada has ever used",
+              "They are more expensive with no environmental benefit",
+              "They are renewable sources that produce less pollution than fossil fuels",
+              "Wind and solar power do not exist in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A dam that generates hydroelectric power is usually built on which type of geographic feature?",
+            "options": [
+              "A desert",
+              "A river",
+              "An ocean coastline only",
+              "A mountain peak with no water"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which of these best explains why Canada uses a mix of different energy sources?",
+            "options": [
+              "All provinces use identical energy sources",
+              "Only one type of energy source exists in the world",
+              "Different regions have access to different natural resources suited to different types of energy production",
+              "Energy mix has no relation to geography"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -45676,63 +45699,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Financial Literacy: Reading and Interpreting a Budget",
-        "summary": "Grade 4 Math strand: a budget is a plan that organizes expected income and expenses over a period of time, helping individuals or families track money coming in and money going out.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Comparing Data Sets Using Range and Mode",
+        "summary": "Students compare two related sets of data by calculating and interpreting their range and mode, deciding what these measures reveal about spread and typical values.",
+        "resourceLabel": "YouTube: Comparing Data Sets Using Range and Mode",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Data%20Sets%20Using%20Range%20and%20Mode%20grade%204%20educational",
+        "topic": "Statistics & Data",
         "quiz": [
           {
-            "q": "What is a budget?",
+            "q": "Team A's scores are 12, 15, 15, 18, 20. What is the range of Team A's scores?",
             "options": [
-              "A type of bank building",
-              "A list of favourite foods",
-              "A schedule of sports games",
-              "A plan that organizes expected income and expenses"
+              "8",
+              "20",
+              "15",
+              "12"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What does income refer to in a budget?",
+            "q": "Team B's scores are 10, 10, 10, 22, 23. What is the mode of Team B's scores?",
             "options": [
-              "Money spent on groceries",
-              "Money coming in, such as from a job or allowance",
-              "A type of tax only",
-              "Money that has been lost"
+              "15",
+              "10",
+              "22",
+              "23"
             ],
             "answer": 1
           },
           {
-            "q": "What does an expense refer to in a budget?",
+            "q": "Team A's scores have a range of 8, and Team B's scores have a range of 13. Which team's scores are more spread out?",
             "options": [
-              "A type of income only",
-              "Money saved in a bank account",
-              "Money earned from a job",
-              "Money going out, such as for bills or purchases"
+              "Cannot be determined",
+              "Both are equally spread out",
+              "Team A",
+              "Team B"
             ],
             "answer": 3
           },
           {
-            "q": "If a family budget shows 500 dollars in income and 350 dollars in expenses, how much money is left over?",
+            "q": "A data set has no number repeated more than any other. What can you say about its mode?",
             "options": [
-              "850 dollars",
-              "350 dollars",
-              "150 dollars",
-              "500 dollars"
+              "It has no mode",
+              "Its mode is always 0",
+              "Its mode is the smallest number",
+              "Its mode is the largest number"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why is creating a budget a helpful financial habit?",
+            "q": "Which measure tells you the difference between the highest and lowest values in a data set?",
             "options": [
-              "It helps track and plan how money is earned and spent",
-              "Tracking income and expenses has no real purpose",
-              "Budgets only apply to large businesses",
-              "Budgets have no effect on managing money"
+              "Range",
+              "Total",
+              "Average",
+              "Mode"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Financial Literacy"
+        ]
       },
       {
         "subject": "Science",
@@ -45921,178 +45944,181 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Quadrilaterals, Division, and Data",
-        "summary": "Grade 4 Math strand review: students revisit classifying quadrilaterals by parallel sides, dividing a 4-digit number by a 1-digit divisor, calculating the mean, Venn diagrams for factors, and converting fractions to decimals.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Using a Balance Model to Understand Equality",
+        "summary": "Students use a pan-balance model to understand that the equal sign means 'the same value as,' and apply this idea to keep both sides of an equation balanced when solving for an unknown.",
+        "resourceLabel": "YouTube: Using a Balance Model to Understand Equality",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20a%20Balance%20Model%20to%20Understand%20Equality%20grade%204%20educational",
+        "topic": "Equations & Inequalities",
         "quiz": [
           {
-            "q": "What defines a parallelogram?",
+            "q": "On a balance scale, one side has 5 + 3 and the other side has 8. What does this show?",
             "options": [
-              "It has two pairs of parallel sides",
-              "It has exactly one pair of parallel sides",
-              "It has five sides",
-              "It has no parallel sides"
+              "The right side is heavier",
+              "The sides balance because both equal 8",
+              "The left side is heavier",
+              "The sides are unequal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the equation 4 + n = 9, what value of n keeps both sides equal?",
+            "options": [
+              "5",
+              "9",
+              "13",
+              "4"
             ],
             "answer": 0
           },
           {
-            "q": "What is a common first step when dividing a 4-digit number by a 1-digit divisor?",
+            "q": "A balance is level with 6 + 2 on one side and 5 + x on the other. What is the value of x?",
             "options": [
-              "Multiply the two numbers together",
-              "Start by dividing the leftmost digit or digits by the divisor",
-              "Add the divisor to the 4-digit number",
-              "Start by dividing the rightmost digit by the divisor"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How do you calculate the mean of a data set?",
-            "options": [
-              "Add all the values and divide by the number of values",
-              "Multiply all the values together",
-              "Find the smallest value only",
-              "Find the largest value only"
+              "3",
+              "2",
+              "8",
+              "4"
             ],
             "answer": 0
           },
           {
-            "q": "What can a Venn diagram show when comparing two numbers?",
+            "q": "If you add 3 to the left side of a balanced equation, what must you do to keep it balanced?",
             "options": [
-              "Only their difference",
-              "Their shared and unique factors or multiples",
-              "Only their product",
-              "Only their sum"
+              "Do nothing to the right side",
+              "Subtract 3 from the right side",
+              "Multiply the right side by 3",
+              "Add 3 to the right side too"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "How can you convert a fraction to a decimal?",
+            "q": "Which of these equations is balanced, meaning both sides are truly equal?",
             "options": [
-              "Add the numerator and denominator",
-              "Divide the numerator by the denominator",
-              "Subtract the denominator from the numerator",
-              "Multiply the numerator by the denominator"
+              "7 + 2 = 10",
+              "5 + 5 = 12",
+              "3 + 6 = 8",
+              "6 + 4 = 9 + 1"
             ],
-            "answer": 1
+            "answer": 3
           }
         ]
       },
       {
         "subject": "Science",
-        "title": "Science Review: Water, Ecosystems, and the Human Body",
-        "summary": "Grade 4 Science strand review: students revisit the water table, predator-prey cycles, ruminant digestion, the northern lights, and how vaccines work.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Stars: Why Some Shine Brighter Than Others",
+        "summary": "Students explore why stars in the night sky appear to differ in brightness, learning that both a star's actual size or temperature and its distance from Earth affect how bright it looks to us.",
+        "resourceLabel": "YouTube: Stars: Why Some Shine Brighter Than Others",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Stars%3A%20Why%20Some%20Shine%20Brighter%20Than%20Others%20grade%204%20educational",
+        "topic": "Space & Astronomy",
         "quiz": [
           {
-            "q": "What is the water table?",
+            "q": "Besides how hot or large a star is, what is another major factor that affects how bright a star appears to us on Earth?",
             "options": [
-              "A table used to measure rainfall",
-              "A type of river on the surface",
-              "A machine used to pump ocean water",
-              "The upper level of groundwater stored underground"
+              "The colour of the sky during the day",
+              "The number of planets orbiting it",
+              "The star's distance from Earth",
+              "The shape of the constellation it is in"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a very large, hot star still look dim in our night sky?",
+            "options": [
+              "All stars are exactly the same distance from Earth",
+              "Large hot stars are always dim",
+              "Distance does not affect how bright a star looks",
+              "It could be extremely far away from Earth"
             ],
             "answer": 3
           },
           {
-            "q": "What happens to a predator population when prey becomes more plentiful?",
+            "q": "Our Sun looks far brighter than any other star in the sky mainly for which reason?",
             "options": [
-              "The predator population disappears completely",
-              "The predator population tends to grow",
-              "The predator population has no reaction at all",
-              "The predator population instantly doubles overnight"
+              "It is the largest star in the entire universe",
+              "It is the only star that produces light",
+              "It is much, much closer to Earth than any other star",
+              "It is closer to the Moon than other stars are"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tool do astronomers often use to see faint, distant stars more clearly?",
+            "options": [
+              "A microscope",
+              "A telescope",
+              "A thermometer",
+              "A compass"
             ],
             "answer": 1
           },
           {
-            "q": "What is a ruminant animal?",
+            "q": "Which statement is TRUE about the stars we see at night?",
             "options": [
-              "An animal that lives only underwater",
-              "An animal with a specialized four-chambered stomach for digesting plants",
-              "An animal that only eats meat",
-              "An animal that never eats at all"
+              "Stars can differ greatly in size, temperature, and distance from Earth, which is why their brightness varies",
+              "Every star in the sky is the exact same size and brightness",
+              "Only one star is visible from Earth at night",
+              "Stars never change in brightness for any reason"
             ],
-            "answer": 1
-          },
-          {
-            "q": "What causes the aurora borealis?",
-            "options": [
-              "A type of volcanic eruption",
-              "Sunlight passing through raindrops",
-              "Reflections of city lights bouncing off clouds",
-              "Charged particles from the sun interacting with Earths atmosphere"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a vaccine help the body do?",
-            "options": [
-              "Grow taller more quickly",
-              "Recognize and fight a specific germ",
-              "See in the dark",
-              "Digest food more efficiently"
-            ],
-            "answer": 1
+            "answer": 0
           }
         ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight",
-        "summary": "Grade 4 Social Studies strand review: students revisit Underground Railroad conductors, the Hudson Strait, the Auditor General, residential schools and reconciliation, and the Suez Crisis.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Municipal and Provincial Elections in Canada",
+        "summary": "Students compare how Canadians elect their local municipal councils and provincial governments, learning how these elections differ from federal elections in scale and responsibility.",
+        "resourceLabel": "YouTube: Social Studies: Municipal and Provincial Elections in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Municipal%20and%20Provincial%20Elections%20in%20Canada%20grade%204%20educational",
+        "topic": "Government & Civics",
         "quiz": [
           {
-            "q": "What was the role of a conductor on the Underground Railroad?",
+            "q": "What do voters elect during a municipal election?",
             "options": [
-              "Collecting taxes from travellers",
-              "Repairing roads between towns",
-              "Guiding freedom seekers along secret routes toward freedom",
-              "Building railway tracks across Canada"
+              "A mayor and local councillors",
+              "Supreme Court judges",
+              "The Prime Minister",
+              "Senators"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "What does the Hudson Strait connect?",
+            "q": "What is elected during a provincial election?",
             "options": [
-              "The Rocky Mountains to the prairies",
-              "The Pacific Ocean to the Great Lakes",
-              "Hudson Bay to the Atlantic Ocean",
-              "Lake Ontario to Lake Erie"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What does the Auditor General of Canada examine?",
-            "options": [
-              "The scores of national sports teams",
-              "The design of new highways",
-              "The weather across Canada",
-              "How the federal government spends public money"
+              "Municipal bylaw officers",
+              "The Governor General",
+              "The federal cabinet",
+              "Members of the provincial legislature"
             ],
             "answer": 3
           },
           {
-            "q": "What were residential schools designed to do?",
+            "q": "How do municipal and provincial elections differ from a federal election?",
             "options": [
-              "Teach all students about Indigenous traditions",
-              "Separate Indigenous children from their families and cultures",
-              "Build new roads across Canada",
-              "Provide extra holidays for students"
+              "Municipal and provincial elections do not exist",
+              "They elect representatives for a smaller level of government, focused on local or provincial issues",
+              "Only federal elections choose government leaders",
+              "They are exactly the same as federal elections"
             ],
             "answer": 1
           },
           {
-            "q": "Who proposed the idea of a United Nations peacekeeping force during the Suez Crisis?",
+            "q": "Which of these issues would most likely be decided by a provincial election outcome?",
             "options": [
-              "John A. Macdonald",
-              "Lester B. Pearson",
-              "David Thompson",
-              "Terry Fox"
+              "International trade agreements",
+              "The design of Canada's currency",
+              "National immigration policy",
+              "Funding for provincial schools and hospitals"
             ],
-            "answer": 1
+            "answer": 3
+          },
+          {
+            "q": "Why might a citizen choose to vote in a municipal election?",
+            "options": [
+              "To have a say in decisions that directly affect their local community, like roads and parks",
+              "Municipal votes have no effect on daily life",
+              "Only non-residents can vote in municipal elections",
+              "Municipal elections are optional for everyone except the mayor"
+            ],
+            "answer": 0
           }
         ]
       }
@@ -46283,63 +46309,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Kingdom of Axum — Ancient Trade Power of Africa",
-        "summary": "Grade 4 Social Studies strand: the Kingdom of Axum was a powerful ancient trading civilization in what is now Ethiopia and Eritrea, known for its wealth from trade routes connecting Africa, Arabia, and the Mediterranean world.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Indigenous Art and Storytelling Traditions",
+        "summary": "Students explore how Indigenous peoples in Canada have used art forms such as carving, beadwork, and oral storytelling to pass down history, values, and cultural knowledge across generations.",
+        "resourceLabel": "YouTube: Social Studies: Indigenous Art and Storytelling Traditions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Indigenous%20Art%20and%20Storytelling%20Traditions%20grade%204%20educational",
+        "topic": "Indigenous Peoples & First Nations",
         "quiz": [
           {
-            "q": "Where was the ancient Kingdom of Axum located?",
+            "q": "What is oral storytelling?",
             "options": [
-              "In what is now Japan",
-              "In what is now Mexico",
-              "In what is now Ethiopia and Eritrea",
-              "In what is now France"
+              "A modern invention with no historical roots",
+              "Passing down history and knowledge by speaking rather than writing",
+              "Writing stories in a printed book",
+              "Recording stories only on video"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What made the Kingdom of Axum wealthy and powerful?",
+            "q": "Which of these is a traditional Indigenous art form found in parts of Canada?",
             "options": [
-              "Its isolation from all other civilizations",
-              "Its control over the Arctic Ocean",
-              "Its large fishing fleet in the Pacific Ocean",
-              "Its trade routes connecting Africa, Arabia, and the Mediterranean"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What goods might have been traded along Axums routes?",
-            "options": [
-              "Only automobiles",
-              "Only plastic goods",
-              "Only modern electronics",
-              "Items such as ivory, gold, and spices"
+              "Modern digital animation",
+              "Printmaking from Japan",
+              "Oil painting from Europe",
+              "Totem pole carving"
             ],
             "answer": 3
           },
           {
-            "q": "Why are trade routes important to understanding an ancient civilizations power?",
+            "q": "Why has storytelling been an important tradition for many Indigenous communities?",
             "options": [
-              "They show how a civilization built wealth and connections with others",
-              "Trade routes have no connection to a civilizations power",
-              "Ancient civilizations never engaged in trade",
-              "Trade routes only existed in modern times"
+              "It has no connection to culture or history",
+              "It preserves history, teachings, and cultural values across generations",
+              "It was only used for entertainment with no deeper meaning",
+              "It replaced the need for community gatherings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Beadwork created by many Indigenous artists often carries what kind of significance?",
+            "options": [
+              "No meaning at all",
+              "It is a recently invented craft",
+              "Only decorative value with no history",
+              "Cultural and symbolic meaning tied to community and tradition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to learn about Indigenous art and storytelling as part of Canadian history?",
+            "options": [
+              "It reflects the rich and diverse cultures of Indigenous peoples who have lived on this land for thousands of years",
+              "Indigenous art has no place in Canadian history",
+              "Indigenous cultures have no artistic traditions",
+              "Storytelling traditions ended long ago"
             ],
             "answer": 0
-          },
-          {
-            "q": "Why do historians study ancient trading powers like Axum?",
-            "options": [
-              "Ancient trading powers have no historical importance",
-              "Trade has never shaped history",
-              "Axum has no connection to African history",
-              "To understand how early civilizations connected and influenced each other"
-            ],
-            "answer": 3
           }
-        ],
-        "topic": "Natural Resources & Industry"
+        ]
       }
     ]
   },
@@ -46349,123 +46375,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Malapropisms and Word Mix-Ups",
-        "summary": "Grade 4 Language strand: a malapropism is the mistaken use of a word in place of a similar-sounding word, often creating a humorous or nonsensical sentence.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Writing: Writing a Comic Strip Script",
+        "summary": "Students learn how comic strips combine images, dialogue in speech bubbles, and captions to tell a story, then plan the panels and dialogue for their own short comic strip.",
+        "resourceLabel": "YouTube: Writing: Writing a Comic Strip Script",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Comic%20Strip%20Script%20grade%204%20educational",
+        "topic": "Writing",
         "quiz": [
           {
-            "q": "What is a malapropism?",
+            "q": "In a comic strip, a character's dialogue is usually shown inside a...",
             "options": [
-              "A word that has two opposite meanings",
-              "The mistaken use of a word in place of a similar-sounding word",
-              "A word borrowed from another language",
-              "A word that rhymes with another word"
+              "index",
+              "footnote",
+              "speech bubble",
+              "title box"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A caption in a comic strip is used to...",
+            "options": [
+              "show the price of the comic",
+              "give background information or describe what is happening",
+              "list the author's name",
+              "show a character's spoken words"
             ],
             "answer": 1
           },
           {
-            "q": "Which sentence contains a malapropism?",
+            "q": "Each box in a comic strip is called a...",
             "options": [
-              "We must go quickly.",
-              "We need to leave now.",
-              "We need to escape this dangerous situation, said the peaceful leader.",
-              "We need to escape this dangerous situation, said the pacific leader."
+              "stanza",
+              "paragraph",
+              "panel",
+              "verse"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why do malapropisms often create humor?",
+            "q": "Why do comic strip writers usually keep dialogue short?",
             "options": [
-              "Malapropisms are never noticed by readers",
-              "They always use the exact correct word",
-              "Malapropisms always make perfect sense",
-              "The mixed-up word creates an unexpected or silly meaning"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What might cause a person to use a malapropism?",
-            "options": [
-              "Using a thesaurus correctly",
-              "Speaking in complete silence",
-              "Reading a dictionary definition aloud correctly",
-              "Confusing two words that sound alike but have different meanings"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it helpful to recognize malapropisms while reading or editing?",
-            "options": [
-              "Malapropisms never affect the meaning of a sentence",
-              "It helps identify and correct word-choice errors that change meaning",
-              "Malapropisms are always used on purpose by careful writers",
-              "Recognizing them has no value for writers"
-            ],
-            "answer": 1
-          }
-        ],
-        "topic": "Vocabulary"
-      },
-      {
-        "subject": "Math",
-        "title": "Geometry: Complementary and Supplementary Angles",
-        "summary": "Grade 4 Math strand: complementary angles are two angles that add up to 90 degrees, while supplementary angles are two angles that add up to 180 degrees.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
-        "quiz": [
-          {
-            "q": "What do complementary angles add up to?",
-            "options": [
-              "90 degrees",
-              "180 degrees",
-              "360 degrees",
-              "45 degrees"
+              "because speech bubbles have limited space",
+              "because every panel must be blank",
+              "because captions are not allowed",
+              "because comics cannot include any words"
             ],
             "answer": 0
           },
           {
-            "q": "What do supplementary angles add up to?",
+            "q": "Which is most important when planning a comic strip script?",
             "options": [
-              "360 degrees",
-              "270 degrees",
-              "90 degrees",
-              "180 degrees"
+              "using only one panel for the whole story",
+              "deciding what happens in each panel and what characters say",
+              "avoiding any illustrations",
+              "writing a long descriptive essay"
             ],
-            "answer": 3
-          },
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Quotients Using Compatible Numbers",
+        "summary": "Students learn to estimate division answers quickly by rounding the dividend to a nearby 'compatible' number that divides evenly by the divisor.",
+        "resourceLabel": "YouTube: Estimating Quotients Using Compatible Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Quotients%20Using%20Compatible%20Numbers%20grade%204%20educational",
+        "topic": "Multiplication & Division",
+        "quiz": [
           {
-            "q": "If one angle measures 30 degrees, what does its complementary angle measure?",
+            "q": "To estimate 243 ÷ 5, which compatible number would you round 243 to?",
             "options": [
-              "90 degrees",
-              "70 degrees",
-              "150 degrees",
-              "60 degrees"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "If one angle measures 110 degrees, what does its supplementary angle measure?",
-            "options": [
-              "250 degrees",
-              "80 degrees",
-              "110 degrees",
-              "70 degrees"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it useful to know about complementary and supplementary angles?",
-            "options": [
-              "Angles never add up to a fixed total",
-              "Complementary and supplementary angles always measure the same amount",
-              "It helps find missing angle measures when two angles form a right angle or straight line",
-              "These angle types are never found in real shapes"
+              "244",
+              "246",
+              "250",
+              "242"
             ],
             "answer": 2
+          },
+          {
+            "q": "Using compatible numbers, what is a good estimate for 362 ÷ 6?",
+            "options": [
+              "60",
+              "50",
+              "70",
+              "36"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which compatible number pair would help you estimate 481 ÷ 7 most easily?",
+            "options": [
+              "480 and 7",
+              "490 and 7",
+              "500 and 7",
+              "400 and 7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we use compatible numbers instead of the exact numbers when estimating a quotient?",
+            "options": [
+              "It's required to use a calculator instead",
+              "Compatible numbers are always the exact answer",
+              "Compatible numbers divide evenly, making mental math quick and easy",
+              "Compatible numbers are always smaller than the real numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Estimate 178 ÷ 9 using compatible numbers.",
+            "options": [
+              "20",
+              "18",
+              "25",
+              "16"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Science",
@@ -46655,63 +46681,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Probability: Complementary Events",
-        "summary": "Grade 4 Math strand: complementary events are two outcomes where exactly one must happen, and their probabilities always add up to 1, so the probability of an event not happening equals 1 minus the probability of it happening.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Identifying Right Angles in Everyday Objects",
+        "summary": "Students search for and identify right angles (90°) in classroom objects and shapes, and use a paper corner as a tool to check whether an angle is exactly, more than, or less than a right angle.",
+        "resourceLabel": "YouTube: Identifying Right Angles in Everyday Objects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Identifying%20Right%20Angles%20in%20Everyday%20Objects%20grade%204%20educational",
+        "topic": "Angles",
         "quiz": [
           {
-            "q": "What are complementary events?",
+            "q": "A right angle measures exactly:",
             "options": [
-              "Two outcomes with the exact same probability",
-              "Two outcomes that can never happen",
-              "Two outcomes that always happen together",
-              "Two outcomes where exactly one of them must happen"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What do the probabilities of complementary events always add up to?",
-            "options": [
-              "1",
-              "2",
-              "100",
-              "0"
+              "90°",
+              "360°",
+              "45°",
+              "180°"
             ],
             "answer": 0
           },
           {
-            "q": "If the probability of rain tomorrow is 1/4, what is the probability it will not rain?",
+            "q": "Which object typically has four right angles?",
             "options": [
-              "1/2",
-              "1/4",
-              "4/4",
-              "3/4"
+              "A cone-shaped hat",
+              "A rectangular door",
+              "A triangular flag",
+              "A circular clock"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "If the probability of drawing a red marble is 0.3, what is the probability of not drawing a red marble?",
+            "q": "If you use the corner of a piece of paper to check an angle and it fits perfectly with no gap or overlap, the angle is:",
             "options": [
-              "0.03",
-              "0.3",
-              "1.3",
-              "0.7"
+              "Reflex",
+              "Obtuse",
+              "A right angle",
+              "Acute"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is understanding complementary events useful in probability?",
+            "q": "An angle that is smaller than a right angle is called:",
             "options": [
-              "It only applies to events that are impossible",
-              "It allows the probability of an event not happening to be calculated easily",
-              "Complementary events always have equal probabilities of exactly 0.5",
-              "Complementary events can never be calculated"
+              "Obtuse",
+              "Straight",
+              "Acute",
+              "Reflex"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which corners of a typical classroom window frame would you expect to be right angles?",
+            "options": [
+              "Only the bottom corners",
+              "Every corner of the frame",
+              "No corners of the frame",
+              "Only the top corners"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -46775,63 +46801,63 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Bank of Canada — Canadas Central Bank",
-        "summary": "Grade 4 Social Studies strand: the Bank of Canada is the countrys central bank, responsible for issuing Canadian currency and working to keep prices stable by managing the countrys money supply.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Air Travel and Canada's Major Airports",
+        "summary": "Students explore how air travel connects Canada's vast geography, identifying major airports and considering why flying is especially important for reaching remote or northern communities.",
+        "resourceLabel": "YouTube: Social Studies: Air Travel and Canada's Major Airports",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Air%20Travel%20and%20Canada%27s%20Major%20Airports%20grade%204%20educational",
+        "topic": "Transportation & Infrastructure",
         "quiz": [
           {
-            "q": "What is the Bank of Canada?",
+            "q": "Why is air travel especially important for many remote northern communities in Canada?",
             "options": [
-              "A museum about Canadian history",
-              "A private company that sells cars",
-              "A local bank branch in one city",
-              "Canadas central bank"
+              "Roads may not reach these communities, making flying a key way to transport people and goods",
+              "All northern communities are connected by highways",
+              "Northern communities never need transportation",
+              "Air travel is banned in northern Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these cities is home to one of Canada's busiest airports?",
+            "options": [
+              "A remote research station",
+              "Toronto",
+              "A town with no airport",
+              "A location with no runways"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one advantage of air travel compared to travelling by road across Canada?",
+            "options": [
+              "Airports do not exist in Canada",
+              "Air travel has no advantages over roads",
+              "It can cover Canada's vast distances much faster than driving",
+              "It is always slower than driving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides passengers, what else do airplanes often transport to remote Canadian communities?",
+            "options": [
+              "Airplanes cannot carry cargo",
+              "Cargo such as food, mail, and medical supplies",
+              "Nothing else is ever transported by plane",
+              "Only tourists are transported by air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might building roads to some northern Canadian communities be especially difficult?",
+            "options": [
+              "Roads are cheaper to build in the Arctic than anywhere else",
+              "There are no challenges to building roads in the north",
+              "Northern Canada has no difficult terrain",
+              "Challenges like permafrost, distance, and rugged terrain make road construction difficult"
             ],
             "answer": 3
-          },
-          {
-            "q": "What is one key responsibility of the Bank of Canada?",
-            "options": [
-              "Issuing Canadian currency",
-              "Regulating television broadcasting",
-              "Building highways",
-              "Running national parks"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does the Bank of Canada aim to keep stable?",
-            "options": [
-              "Prices, by managing the countrys money supply",
-              "The number of provinces in Canada",
-              "The weather across the country",
-              "The length of the school year"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How is the Bank of Canada different from a regular retail bank a person might use daily?",
-            "options": [
-              "It manages the national economy rather than serving individual customers directly",
-              "It is owned by a single private citizen",
-              "It only operates outside of Canada",
-              "It has no role in Canadas economy"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is a central bank important to a countrys economy?",
-            "options": [
-              "It helps manage currency and stabilize prices for the whole country",
-              "It only affects one small business",
-              "Central banks have no effect on an economy",
-              "A country cannot have any currency without a branch in every town"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        ]
       }
     ]
   },
@@ -46901,178 +46927,179 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Financial Literacy: Understanding Currency Exchange Rates",
-        "summary": "Grade 4 Math strand: a currency exchange rate shows how much one countrys money is worth compared to another countrys money, and it is used to convert an amount from one currency into another.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Using Ratio Tables to Solve Problems",
+        "summary": "Students build and use ratio tables to organize equivalent ratios and solve problems involving recipes, mixing colours, and shopping quantities.",
+        "resourceLabel": "YouTube: Using Ratio Tables to Solve Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Ratio%20Tables%20to%20Solve%20Problems%20grade%204%20educational",
+        "topic": "Ratios & Rates",
         "quiz": [
           {
-            "q": "What does a currency exchange rate show?",
+            "q": "A recipe uses a ratio of 2 cups of flour to 1 cup of sugar. Using a ratio table, how much sugar is needed for 6 cups of flour?",
             "options": [
-              "The temperature in a country",
-              "The total population of a country",
-              "The distance between two countries",
-              "How much one countrys money is worth compared to another countrys money"
+              "2 cups",
+              "6 cups",
+              "3 cups",
+              "4 cups"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A ratio table shows 3 red beads to 5 blue beads. If there are 15 blue beads, how many red beads are there, keeping the same ratio?",
+            "options": [
+              "15",
+              "10",
+              "12",
+              "9"
             ],
             "answer": 3
           },
           {
-            "q": "What is a currency exchange rate used for?",
+            "q": "Which pair of numbers correctly continues this ratio table? Apples : Baskets = 4:1, 8:2, 12:3, ?:4",
             "options": [
-              "Converting an amount of money from one currency into another",
-              "Calculating the time zone of a country",
-              "Determining a countrys official language",
-              "Measuring the size of a country"
+              "15",
+              "14",
+              "20",
+              "16"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A juice recipe mixes water and concentrate in a ratio of 3:1. If you use 4 cups of concentrate, how many cups of water are needed?",
+            "options": [
+              "12 cups",
+              "16 cups",
+              "4 cups",
+              "7 cups"
             ],
             "answer": 0
           },
           {
-            "q": "If 1 Canadian dollar equals 0.75 US dollars, how many US dollars would 10 Canadian dollars convert to?",
+            "q": "What is the main benefit of organizing numbers in a ratio table?",
             "options": [
-              "0.75 US dollars",
-              "7.50 US dollars",
-              "10.75 US dollars",
-              "75 US dollars"
+              "It helps you see and extend equivalent ratios in an organized way",
+              "It replaces the need for multiplication",
+              "It makes numbers bigger",
+              "It only works with money problems"
             ],
-            "answer": 1
-          },
-          {
-            "q": "Why might exchange rates change over time?",
-            "options": [
-              "Exchange rates only apply to one single day in history",
-              "Exchange rates are always fixed and never change",
-              "Currency values have no connection to economics",
-              "Economic factors can cause the relative value of currencies to shift"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is understanding exchange rates useful when travelling to another country?",
-            "options": [
-              "Money never needs to be converted between countries",
-              "Exchange rates have no effect on travel",
-              "It helps travellers know how much their money is worth in the local currency",
-              "Every country uses the exact same currency"
-            ],
-            "answer": 2
+            "answer": 0
           }
-        ],
-        "topic": "Financial Literacy"
+        ]
       },
       {
         "subject": "Science",
-        "title": "Science: Tornadoes — How They Form and Safety",
-        "summary": "Grade 4 Science strand: a tornado is a rapidly rotating column of air that forms during severe thunderstorms when warm and cold air masses collide, and knowing safety steps like sheltering in a basement or interior room can help keep people safe.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Reading and Making Bar Graphs in Science",
+        "summary": "Students practice organizing collected data, such as measurements from a class experiment, into a bar graph, and learn how to read bar graphs to compare results and draw conclusions.",
+        "resourceLabel": "YouTube: Reading and Making Bar Graphs in Science",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20and%20Making%20Bar%20Graphs%20in%20Science%20grade%204%20educational",
+        "topic": "Scientific Inquiry & Skills",
         "quiz": [
           {
-            "q": "What is a tornado?",
+            "q": "What is the main purpose of a bar graph in a science experiment?",
             "options": [
-              "A rapidly rotating column of air extending from a thunderstorm to the ground",
-              "A slow-moving cloud with no wind",
-              "A type of ocean wave",
-              "A calm, sunny weather pattern"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What kind of storm can produce a tornado?",
-            "options": [
-              "A gentle breeze",
-              "A severe thunderstorm",
-              "A light drizzle",
-              "A clear, cloudless sky"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What often happens when warm and cold air masses collide?",
-            "options": [
-              "All clouds instantly disappear",
-              "Temperatures instantly become equal everywhere",
-              "Conditions can become unstable enough to form severe storms, including tornadoes",
-              "The weather always stays exactly the same"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What is a recommended safety step during a tornado warning?",
-            "options": [
-              "Opening all the windows in the house",
-              "Standing outside to watch the tornado",
-              "Driving directly toward the tornado",
-              "Sheltering in a basement or interior room away from windows"
+              "To store a scientist's personal opinions",
+              "To write a hypothesis",
+              "To replace the need for collecting data",
+              "To organize and compare data visually using bars of different heights or lengths"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it important to understand tornado safety?",
+            "q": "On a bar graph showing how many students chose each of four favourite fruits, what does the tallest bar represent?",
             "options": [
-              "Knowing safety steps can help protect people during a dangerous storm",
-              "Safety steps only apply to other types of weather",
-              "Tornado safety has no effect on protecting people",
-              "Tornadoes never pose any danger"
+              "The order the fruits were tested in",
+              "The fruit that was chosen by the most students",
+              "The fruit that was chosen by the fewest students",
+              "The fruit that costs the most money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Before drawing a bar graph, what must a scientist do first?",
+            "options": [
+              "Skip labeling the graph",
+              "Collect and organize the data being measured or counted",
+              "Guess what the results might be without measuring anything",
+              "Draw the bars in random order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to label the x-axis and y-axis on a bar graph?",
+            "options": [
+              "So other people can understand exactly what is being compared and measured",
+              "Labels are only decorative and have no real purpose",
+              "To make the bars look taller",
+              "So the graph does not need a title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A class measures plant height in centimetres for four different plants and wants to compare them at a glance. Which type of display would work best?",
+            "options": [
+              "A bar graph with one bar per plant",
+              "A single number with no graph",
+              "A hypothesis statement",
+              "A drawing of the classroom"
             ],
             "answer": 0
           }
-        ],
-        "topic": "Weather, Sky & Space (Basic)"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Elections Canada — Running Canadas Federal Elections",
-        "summary": "Grade 4 Social Studies strand: Elections Canada is the independent federal agency responsible for organizing and overseeing national elections, ensuring that voting is fair, accessible, and accurately counted.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Needs vs. Wants: The Basics of Economics",
+        "summary": "Students learn to distinguish between needs, the things people must have to survive, and wants, the things people would like to have, and apply this idea to personal and community decision-making.",
+        "resourceLabel": "YouTube: Social Studies: Needs vs. Wants: The Basics of Economics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Needs%20vs.%20Wants%3A%20The%20Basics%20of%20Economics%20grade%204%20educational",
+        "topic": "Economics & Trade",
         "quiz": [
           {
-            "q": "What is Elections Canada?",
+            "q": "Which of these is an example of a basic human need?",
             "options": [
-              "A television network that reports election results",
-              "A private company that sells voting machines",
-              "A group that only counts votes in one city",
-              "The independent federal agency responsible for organizing national elections"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is one responsibility of Elections Canada?",
-            "options": [
-              "Building new highways",
-              "Setting provincial tax rates",
-              "Managing national parks",
-              "Ensuring that federal voting is fair and accurately counted"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it important for Elections Canada to be independent?",
-            "options": [
-              "So elections never actually take place",
-              "So only one political party can ever win",
-              "So elections are run fairly without political interference",
-              "So votes are never counted at all"
+              "A new toy",
+              "A video game",
+              "Clean water",
+              "A vacation trip"
             ],
             "answer": 2
           },
           {
-            "q": "What might Elections Canada do to help make voting accessible?",
+            "q": "Which of these is best described as a \"want\" rather than a \"need\"?",
             "options": [
-              "Require voters to pay a fee to vote",
-              "Provide multiple ways to vote, such as by mail or in person",
-              "Only allow voting in one single city",
-              "Prevent citizens from voting entirely"
+              "Food",
+              "Shelter",
+              "A new bicycle",
+              "Clothing appropriate for the weather"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why is a fair and accurate election process important in a democracy?",
+            "q": "Why is it useful for communities and governments to understand the difference between needs and wants?",
             "options": [
-              "Democracy does not require any elections at all",
-              "Fair elections have no importance in a democracy",
-              "It ensures that the results reflect the true will of the voters",
-              "Accuracy in vote counting is never necessary"
+              "Needs and wants are always identical",
+              "Governments only ever fund wants",
+              "It helps them make decisions about how to spend limited money and resources wisely",
+              "There is no practical use for this distinction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which statement best defines a \"need\"?",
+            "options": [
+              "Something essential for survival and well-being",
+              "Something that costs the least money",
+              "Something people simply enjoy having",
+              "Something only wealthy people require"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A family budgeting their money would most likely prioritize which of these first?",
+            "options": [
+              "Purchasing extra toys",
+              "Buying the newest video game console",
+              "Paying for housing and groceries",
+              "Booking an unnecessary vacation"
             ],
             "answer": 2
           }
@@ -47086,123 +47113,123 @@ const curriculum: DayContent[] = [
     "subjects": [
       {
         "subject": "Language",
-        "title": "Grammar: Em Dashes and Ellipses in Writing",
-        "summary": "Grade 4 Language strand: an em dash can be used to set off extra information or create a dramatic pause, while an ellipsis, made of three dots, shows that words have been left out or that a thought trails off.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "title": "Vocabulary: Homographs",
+        "summary": "Students learn about homographs, words that are spelled the same but can have different meanings and sometimes different pronunciations, and use context clues to figure out which meaning is intended.",
+        "resourceLabel": "YouTube: Vocabulary: Homographs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Homographs%20grade%204%20educational",
+        "topic": "Vocabulary",
         "quiz": [
           {
-            "q": "What can an em dash be used for in a sentence?",
+            "q": "A homograph is a word that...",
             "options": [
-              "Starting the first word of every sentence",
-              "Replacing all commas in a piece of writing",
-              "Ending every sentence in a paragraph",
-              "Setting off extra information or creating a dramatic pause"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "How many dots make up an ellipsis?",
-            "options": [
-              "Five",
-              "Three",
-              "Two",
-              "One"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What can an ellipsis show in a sentence?",
-            "options": [
-              "That a word is misspelled",
-              "That words have been left out or a thought trails off",
-              "That a sentence is a question",
-              "That a sentence must be read loudly"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which sentence correctly uses an em dash to add extra information?",
-            "options": [
-              "The trip — though long and tiring — was worth it in the end.",
-              "The trip, though, long, and, tiring was worth it, in the end.",
-              "The trip; though long and tiring; was worth it in the end.",
-              "The trip though long and tiring was worth it in the end"
+              "is spelled the same as another word but may have a different meaning or pronunciation",
+              "sounds the same as another word but is spelled differently",
+              "is always a compound word",
+              "has the exact same meaning as another word"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a writer choose an em dash instead of a comma?",
+            "q": "In \"I need to record the score\" versus \"I bought a new record,\" the word \"record\" is an example of a...",
             "options": [
-              "Commas can never set off extra information",
-              "Em dashes are never used in writing",
-              "To create a stronger pause or emphasize the extra information",
-              "Em dashes and commas always mean the exact same thing"
+              "homograph",
+              "antonym",
+              "synonym",
+              "homophone"
             ],
-            "answer": 2
+            "answer": 0
+          },
+          {
+            "q": "In \"Please close the door\" versus \"We sat close to the stage,\" the word \"close\" is an example of a...",
+            "options": [
+              "homograph",
+              "synonym",
+              "antonym",
+              "homophone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What helps a reader figure out which meaning of a homograph is intended?",
+            "options": [
+              "the length of the word",
+              "the context of the sentence",
+              "the number of syllables only",
+              "the color of the text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair is an example of homographs (same spelling)?",
+            "options": [
+              "\"bass\" (the fish) and \"bass\" (the instrument)",
+              "\"meet\" and \"meat\"",
+              "\"night\" and \"knight\"",
+              "\"flower\" and \"flour\""
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Grammar: Sentence Structure"
+        ]
       },
       {
         "subject": "Math",
-        "title": "Number Sense: Dividing a 3-Digit Number by a 2-Digit Divisor",
-        "summary": "Grade 4 Math strand: dividing a 3-digit number by a 2-digit divisor involves estimating how many times the divisor fits into the leading digits, then dividing, multiplying, subtracting, and bringing down the next digit.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Checking Division Using Multiplication (Inverse Operations)",
+        "summary": "Students learn to verify a division answer is correct by multiplying the quotient by the divisor, and adding any remainder, to see if it matches the original dividend.",
+        "resourceLabel": "YouTube: Checking Division Using Multiplication (Inverse Operations)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Checking%20Division%20Using%20Multiplication%20%28Inverse%20Operations%29%20grade%204%20educational",
+        "topic": "Multiplication & Division",
         "quiz": [
           {
-            "q": "What is a helpful strategy when starting to divide a 3-digit number by a 2-digit divisor?",
+            "q": "To check if 84 ÷ 4 = 21 is correct, which multiplication should you do?",
             "options": [
-              "Add the divisor to the 3-digit number",
-              "Estimate how many times the divisor fits into the leading digits",
-              "Multiply the two numbers together",
-              "Immediately guess the final answer with no estimation"
+              "21 × 21",
+              "21 × 4",
+              "84 × 4",
+              "4 × 4"
             ],
             "answer": 1
           },
           {
-            "q": "What is 288 divided by 12?",
+            "q": "A student divides and gets 156 ÷ 6 = 26. Checking with multiplication, 26 × 6 = 156. Is the division correct?",
             "options": [
-              "20",
-              "26",
-              "24",
-              "22"
+              "No",
+              "Cannot tell",
+              "Only partly correct",
+              "Yes"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is 455 divided by 13?",
+            "q": "If a division problem has a remainder, how do you check the answer using multiplication?",
             "options": [
-              "33",
-              "35",
-              "37",
-              "31"
+              "Multiply the quotient by the divisor, then add the remainder, and see if it equals the dividend",
+              "Divide the remainder by the quotient",
+              "Multiply the quotient by the remainder only",
+              "Ignore the remainder entirely"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "After dividing and multiplying at each step, what should you do next?",
+            "q": "A student says 97 ÷ 5 = 19 remainder 2. Checking: 19 × 5 + 2 = ?",
             "options": [
-              "Skip the remaining digits entirely",
-              "Add the divisor to the quotient",
-              "Subtract, then bring down the next digit if there is one",
-              "Multiply again by the same divisor"
+              "No, it equals 95",
+              "Yes, it equals 90",
+              "No, it equals 100",
+              "Yes, it equals 97, so the answer is correct"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Why might dividing by a 2-digit divisor be more challenging than dividing by a 1-digit divisor?",
+            "q": "Why is checking division with multiplication a useful strategy?",
             "options": [
-              "It never requires any estimation at all",
-              "It often requires estimating multiples of a larger number",
-              "2-digit divisors always divide evenly",
-              "Dividing by a 2-digit number is never used in math"
+              "Multiplication and division are inverse operations, so it helps confirm the answer is correct",
+              "It takes longer without any benefit",
+              "It only works for even numbers",
+              "It replaces the need to divide in the first place"
             ],
-            "answer": 1
+            "answer": 0
           }
-        ],
-        "topic": "Number Sense: Place Value & Operations"
+        ]
       },
       {
         "subject": "Science",
@@ -47452,120 +47479,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Science",
-        "title": "Science: Desert Plant Adaptations — Cacti and Succulents",
-        "summary": "Grade 4 Science strand: desert plants such as cacti and succulents have adaptations like thick, water-storing tissue and small or spiny leaves that help them survive in hot, dry environments with little rainfall.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "title": "Man-Made Satellites: Eyes and Ears in Space",
+        "summary": "Students learn what artificial satellites are and how they orbit Earth to help with tasks such as weather forecasting, communication, and GPS navigation.",
+        "resourceLabel": "YouTube: Man-Made Satellites: Eyes and Ears in Space",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Man-Made%20Satellites%3A%20Eyes%20and%20Ears%20in%20Space%20grade%204%20educational",
+        "topic": "Space & Astronomy",
         "quiz": [
           {
-            "q": "What is one adaptation common to many desert plants like cacti?",
+            "q": "What is a man-made (artificial) satellite?",
             "options": [
-              "Large, thin leaves that lose water quickly",
-              "A need for extremely cold temperatures",
-              "Roots that only grow in constantly flooded soil",
-              "Thick, water-storing tissue"
+              "A type of star found only in our solar system",
+              "A natural object like the Moon that orbits a planet",
+              "A weather balloon that never leaves Earth's atmosphere",
+              "An object built by humans and launched into space to orbit Earth or another body"
             ],
             "answer": 3
           },
           {
-            "q": "Why might a cactus have spines instead of large leaves?",
+            "q": "Which of the following is a common use for satellites orbiting Earth?",
             "options": [
-              "Spines increase water loss significantly",
-              "Spines reduce water loss and can help protect the plant",
-              "Spines are only used for producing flowers",
-              "Spines have no function for the plant"
+              "Growing food crops in outer space",
+              "Helping forecast weather by taking pictures of clouds and storms from space",
+              "Changing the colour of the sky",
+              "Providing oxygen for astronauts on Earth"
             ],
             "answer": 1
           },
           {
-            "q": "What is a succulent?",
+            "q": "How do satellites help devices like phones and cars determine their exact location (GPS)?",
             "options": [
-              "A type of tree found only in rainforests",
-              "A plant that cannot survive any sunlight",
-              "A plant that stores water in its thick leaves or stems",
-              "A plant that only grows underwater"
+              "Satellites physically pull the device to the correct location",
+              "Satellites take a photograph and mail it to the device",
+              "GPS does not use satellites at all",
+              "Satellites send signals that GPS devices use to calculate their position on Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What keeps a satellite moving in a steady path (orbit) around Earth instead of flying off into space?",
+            "options": [
+              "Wind in space keeps pushing them in a circle",
+              "Earth's gravity continually pulls the satellite toward it",
+              "Satellites have their own engines running at all times",
+              "Satellites are attached to Earth with a long cable"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Besides weather and GPS, which of these is also a common purpose of satellites?",
+            "options": [
+              "Producing electricity for cities",
+              "Cooling down Earth's atmosphere",
+              "Relaying television and telephone signals across long distances",
+              "Watering crops on farms directly"
             ],
             "answer": 2
-          },
-          {
-            "q": "Why do desert plants need special adaptations to survive?",
-            "options": [
-              "Desert environments are hot and dry with little rainfall",
-              "Desert plants face no environmental challenges",
-              "Deserts are always cold with abundant water",
-              "Deserts receive constant heavy rainfall"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is studying desert plant adaptations valuable to scientists?",
-            "options": [
-              "It helps explain how living things survive in extreme environments",
-              "Desert plants have no adaptations worth studying",
-              "Adaptations only occur in animals, never in plants",
-              "Studying plants has no scientific value"
-            ],
-            "answer": 0
           }
-        ],
-        "topic": "Evolution"
+        ]
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: The Role of the Speaker of the House of Commons",
-        "summary": "Grade 4 Social Studies strand: the Speaker of the House of Commons is a Member of Parliament chosen to preside over debates, maintain order, and ensure that parliamentary rules are followed during sittings.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Goods and Services in Our Community",
+        "summary": "Students explore the difference between goods, physical items people buy and sell, and services, tasks people perform for others, and identify examples of each within their own community.",
+        "resourceLabel": "YouTube: Social Studies: Goods and Services in Our Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Goods%20and%20Services%20in%20Our%20Community%20grade%204%20educational",
+        "topic": "Economics & Trade",
         "quiz": [
           {
-            "q": "What is the Speaker of the House of Commons?",
+            "q": "What is a \"good\" in economic terms?",
             "options": [
-              "A Member of Parliament chosen to preside over debates",
-              "A newspaper reporter covering Parliament",
-              "The leader of a foreign country",
-              "A judge on the Supreme Court"
+              "A physical item that can be bought or sold, like bread or a bicycle",
+              "A type of tax",
+              "A task performed for someone else",
+              "A government law"
             ],
             "answer": 0
           },
           {
-            "q": "What is one key responsibility of the Speaker?",
+            "q": "Which of these is an example of a \"service\"?",
             "options": [
-              "Maintaining order during debates in the House of Commons",
-              "Managing a citys public library",
-              "Setting municipal parking bylaws",
-              "Running a national park"
+              "A bicycle",
+              "A loaf of bread",
+              "A book",
+              "A haircut from a hairdresser"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which community worker primarily provides a service rather than a good?",
+            "options": [
+              "A firefighter",
+              "A farmer selling vegetables",
+              "A bakery selling bread",
+              "A furniture maker"
             ],
             "answer": 0
           },
           {
-            "q": "How is the Speaker of the House of Commons chosen?",
+            "q": "Why do communities depend on both goods and services?",
             "options": [
-              "Chosen by a single vote in one town",
-              "Selected randomly from the public",
-              "Elected by fellow Members of Parliament",
-              "Appointed by a foreign government"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is it important for the Speaker to remain impartial during debates?",
-            "options": [
-              "To ensure fairness for all Members of Parliament regardless of party",
-              "Fairness is never required in Parliament",
-              "Impartiality has no role in running debates",
-              "The Speaker should always favour one political party"
+              "People need physical items as well as help from others to meet their daily needs",
+              "Communities only ever need goods",
+              "Services have no value to a community",
+              "Goods and services are the same thing"
             ],
             "answer": 0
           },
           {
-            "q": "Why is the role of the Speaker important to how Parliament functions?",
+            "q": "Which of the following best sorts an example into \"goods\" versus \"services\"?",
             "options": [
-              "Parliament could function identically with no Speaker at all",
-              "It helps ensure debates are conducted in an orderly, fair manner",
-              "The Speaker has no effect on how Parliament runs",
-              "The Speakers role is purely ceremonial with no real duties"
+              "Neither a grocery store nor a dentist provides goods or services",
+              "A grocery store and a dentist both sell identical products",
+              "Goods and services cannot be found in the same community",
+              "A grocery store sells goods, while a dentist provides a service"
             ],
-            "answer": 1
+            "answer": 3
           }
         ]
       }
@@ -47636,60 +47664,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Math",
-        "title": "Math Review: Multiplication, Angles, and Probability",
-        "summary": "Grade 4 Math strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit multiplying a 4-digit number by a 1-digit number, complementary and supplementary angles, complementary events, currency exchange rates, and dividing a 3-digit number by a 2-digit divisor.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "title": "Constructing a Pictograph with a Scaled Key",
+        "summary": "Students build their own pictographs using a key where each picture symbol represents more than one item, such as 1 symbol = 5 votes, and practice drawing partial symbols for amounts in between.",
+        "resourceLabel": "YouTube: Constructing a Pictograph with a Scaled Key",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Constructing%20a%20Pictograph%20with%20a%20Scaled%20Key%20grade%204%20educational",
+        "topic": "Statistics & Data",
         "quiz": [
           {
-            "q": "What is a good first step when multiplying a 4-digit number by a 1-digit number?",
+            "q": "In a pictograph, the key shows that 1 star symbol = 4 books read. If a row shows 3 full stars, how many books does that row represent?",
             "options": [
-              "Multiply the ones digit first, then regroup as needed",
-              "Multiply the thousands digit first",
-              "Divide the 4-digit number by the 1-digit number",
-              "Add the two numbers together"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What do complementary angles add up to?",
-            "options": [
-              "90 degrees",
-              "180 degrees",
-              "360 degrees",
-              "45 degrees"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What are complementary events?",
-            "options": [
-              "Two outcomes that can never happen",
-              "Two outcomes with the exact same probability",
-              "Two outcomes that always happen together",
-              "Two outcomes where exactly one of them must happen"
+              "7",
+              "3",
+              "4",
+              "12"
             ],
             "answer": 3
           },
           {
-            "q": "What does a currency exchange rate show?",
+            "q": "Using the key 1 symbol = 4 students, how would you show a row of exactly 10 students?",
             "options": [
-              "The temperature in a country",
-              "The distance between two countries",
-              "The total population of a country",
-              "How much one countrys money is worth compared to another countrys money"
+              "1 full symbol and 1 half symbol",
+              "3 full symbols",
+              "2 full symbols and 1 half symbol",
+              "10 full symbols"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "What is a helpful strategy when starting to divide a 3-digit number by a 2-digit divisor?",
+            "q": "A pictograph's key says 1 apple symbol = 2 votes. A row shows 4 and a half apple symbols. How many votes does this represent?",
             "options": [
-              "Estimate how many times the divisor fits into the leading digits",
-              "Immediately guess the final answer with no estimation",
-              "Multiply the two numbers together",
-              "Add the divisor to the 3-digit number"
+              "10",
+              "4.5",
+              "9",
+              "8"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "Why do pictograph makers sometimes use a key where 1 symbol equals more than 1 item?",
+            "options": [
+              "Symbols are not allowed to equal 1",
+              "It is required for every graph type",
+              "To represent large numbers of items without drawing hundreds of symbols",
+              "To make the graph confusing on purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pictograph key is 1 symbol = 10 pets. If a class has 25 pets, how many full symbols and how much of a partial symbol should be drawn?",
+            "options": [
+              "3 full symbols",
+              "2 full symbols only, ignoring the extra 5",
+              "25 full symbols",
+              "2 full symbols and a half symbol"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -47754,60 +47783,61 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies Review: Ancient Civilizations, Geography, and Government",
-        "summary": "Grade 4 Social Studies strand review: as the final lesson of the 187-day Grade 4 curriculum, students revisit the Kingdom of Axum, Canadas Prairie provinces, the Bank of Canada, Elections Canada, and Canadas Coat of Arms.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "title": "Social Studies: Jacques Cartier and Samuel de Champlain: Early European Explorers",
+        "summary": "Students learn about French explorers Jacques Cartier and Samuel de Champlain, examining their voyages to what is now Canada and their roles in early European contact and settlement.",
+        "resourceLabel": "YouTube: Social Studies: Jacques Cartier and Samuel de Champlain: Early European Explorers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Jacques%20Cartier%20and%20Samuel%20de%20Champlain%3A%20Early%20European%20Explorers%20grade%204%20educational",
+        "topic": "New France & Early Canada",
         "quiz": [
           {
-            "q": "Where was the ancient Kingdom of Axum located?",
+            "q": "What did Jacques Cartier famously explore in the 1530s?",
             "options": [
-              "In what is now France",
-              "In what is now Japan",
-              "In what is now Ethiopia and Eritrea",
-              "In what is now Mexico"
+              "The St. Lawrence River",
+              "The Arctic Ocean",
+              "The Pacific Ocean coastline",
+              "The Great Lakes only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Samuel de Champlain is often remembered for founding which important early settlement?",
+            "options": [
+              "Quebec City",
+              "Halifax",
+              "Toronto",
+              "Vancouver"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did early French explorers like Cartier and Champlain travel to what is now Canada?",
+            "options": [
+              "To avoid all contact with Indigenous peoples",
+              "To search for resources, trade routes, and opportunities for France",
+              "To establish a British colony",
+              "To build the Trans-Canada Highway"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role did Indigenous peoples play during early European exploration of Canada?",
+            "options": [
+              "They had extensive knowledge of the land and often interacted with, traded with, and guided explorers",
+              "They had no contact with European explorers",
+              "They were unaware Europeans had arrived",
+              "They played no role in early exploration history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are Cartier and Champlain considered important figures in early Canadian history?",
+            "options": [
+              "They arrived after Confederation",
+              "They have no connection to Canadian history",
+              "Their voyages and settlements marked key moments in early European contact and the founding of New France",
+              "They were Canadian-born explorers"
             ],
             "answer": 2
-          },
-          {
-            "q": "Which three provinces are commonly known as the Prairie provinces?",
-            "options": [
-              "New Brunswick, Newfoundland, and Labrador",
-              "Ontario, Quebec, and Nova Scotia",
-              "British Columbia, Yukon, and Nunavut",
-              "Alberta, Saskatchewan, and Manitoba"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What is the Bank of Canada?",
-            "options": [
-              "A private company that sells cars",
-              "Canadas central bank",
-              "A local bank branch in one city",
-              "A museum about Canadian history"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is Elections Canada?",
-            "options": [
-              "A television network that reports election results",
-              "The independent federal agency responsible for organizing national elections",
-              "A group that only counts votes in one city",
-              "A private company that sells voting machines"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What is the Coat of Arms of Canada?",
-            "options": [
-              "A style of Canadian clothing",
-              "An official symbol representing Canada, featuring heraldic images",
-              "A type of Canadian currency",
-              "A national holiday"
-            ],
-            "answer": 1
           }
         ]
       }
