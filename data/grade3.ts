@@ -16686,6 +16686,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Ontario has many historic buildings and sites that communities work to preserve, protecting these places so future generations can learn about the past.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=lOzxUVCCSug",
         "quiz": [
           {
             "q": "Communities work to preserve historic buildings and sites, protecting these places so ___ can learn about the past.",

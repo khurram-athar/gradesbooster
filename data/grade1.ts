@@ -20294,6 +20294,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a theme is the underlying lesson or message of a story, something readers can learn or take away after reading.",
         "resourceLabel": "YouTube: Story Theme: The Lesson of a Story",
         "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Theme%3A%20The%20Lesson%20of%20a%20Story%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dtecX1DVJ3M",
         "quiz": [
           {
             "q": "What is the theme of a story?",

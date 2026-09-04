@@ -16820,6 +16820,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: realistic dialogue reflects how people actually speak, reveals character personality, and follows proper punctuation conventions like quotation marks and new paragraphs for each speaker.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3karpPpLToM",
         "quiz": [
           {
             "q": "Realistic dialogue in a story should ___.",
@@ -16880,6 +16881,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: elapsed time is the amount of time that passes between a start and an end time, and the 24-hour clock expresses time using hours 00 to 23 without needing a.m. or p.m.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=t6xXsxq0shw",
+        "videoUrls": [
+          {
+            "label": "Calculating Elapsed Time",
+            "url": "https://www.youtube.com/watch?v=t6xXsxq0shw"
+          },
+          {
+            "label": "24-Hour Clock Time",
+            "url": "https://www.youtube.com/watch?v=NrjCp56GMN4"
+          }
+        ],
         "quiz": [
           {
             "q": "Elapsed time is best described as ___.",
@@ -16940,6 +16952,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: Earth’s atmosphere is made up of distinct layers, including the troposphere and stratosphere, each with different characteristics that support weather, climate, and life.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=cogpvf8lMXg",
         "quiz": [
           {
             "q": "The layer of the atmosphere closest to Earth’s surface, where most weather occurs, is the ___.",
@@ -17000,6 +17013,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada is a constitutional monarchy, meaning the monarch is head of state, represented in Canada by the Governor General, while elected officials hold governing power.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=FizWPJXz12I",
+        "videoUrls": [
+          {
+            "label": "The Monarchy in Canada",
+            "url": "https://www.youtube.com/watch?v=FizWPJXz12I"
+          },
+          {
+            "label": "Canada's Federal Government and the Governor General",
+            "url": "https://www.youtube.com/watch?v=mD-jb8odRNQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Canada is best described politically as a ___.",

@@ -17278,6 +17278,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a tally chart uses marks to record how often something occurs, and this data can be organized into a frequency table showing the total count for each category.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=JuEpHNhRJlA",
         "quiz": [
           {
             "q": "A tally chart uses marks to record ___.",
@@ -17338,6 +17339,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the heart is a strong muscle inside our chest that beats and pumps blood all through our body, and that exercise can make our heart beat faster.",
         "resourceLabel": "YouTube: Our Heart: Beating and Pumping Blood",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Heart%3A%20Beating%20and%20Pumping%20Blood%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rnIUFrx0DjI",
         "quiz": [
           {
             "q": "What body part pumps blood through our body?",
@@ -17419,6 +17421,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: different regions of Canada face different natural hazards, such as floods near rivers, forest fires in dry forested areas, and earthquakes along the west coast.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ay416AyoqRU",
         "quiz": [
           {
             "q": "A natural hazard is an event caused by nature that can ___.",
