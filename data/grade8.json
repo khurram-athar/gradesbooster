@@ -16600,6 +16600,7 @@
         "summary": "Grade 8 Language strand: an idiom is a phrase whose meaning cannot be understood from the literal definitions of its individual words, and recognizing idioms supports fluent reading and clear communication.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=35PzoZWJpIM",
         "quiz": [
           {
             "q": "An idiom is a phrase whose meaning ___.",
@@ -16660,6 +16661,17 @@
         "summary": "Grade 8 Math strand: congruent figures have exactly the same size and shape, and geometric constructions use tools such as a compass and straightedge to accurately create congruent segments, angles, and bisectors.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=IrRTGbqr8MQ",
+        "videoUrls": [
+          {
+            "label": "Geometric Constructions",
+            "url": "https://www.youtube.com/watch?v=IrRTGbqr8MQ"
+          },
+          {
+            "label": "Triangle Congruence (SSS and SAS)",
+            "url": "https://www.youtube.com/watch?v=I5Ni6brMjnQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Two figures are congruent if they have ___.",
@@ -16720,6 +16732,7 @@
         "summary": "Grade 8 Science strand: acids and bases are chemical substances with contrasting properties, measured on the pH scale, where values below 7 indicate an acid, values above 7 indicate a base, and 7 is neutral.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ckbsHM2igT0",
         "quiz": [
           {
             "q": "On the pH scale, a value below 7 indicates ___.",

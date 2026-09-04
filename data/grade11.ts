@@ -16518,6 +16518,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a confessional poem draws directly on the poet’s own personal, often intimate or painful experiences, using a candid first-person voice to explore emotions that earlier poetic traditions frequently kept private.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=iJn0ZPd6mYo",
         "quiz": [
           {
             "q": "A confessional poem draws directly on the poet’s own ___.",
@@ -16578,6 +16579,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a system of three linear equations in three variables can be solved using elimination or substitution to systematically reduce the system, and its solution represents the single point where all three planes intersect, if one exists.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=UcYbFN49uGc",
         "quiz": [
           {
             "q": "A system of three linear equations in three variables has a solution that represents ___.",
@@ -16638,6 +16640,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: animals living in extreme environments, such as deserts, polar regions, or high altitudes, have evolved specialized structural, physiological, and behavioural adaptations that allow them to survive conditions that would be lethal to most other species.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=eQz8Df_5qeo",
         "quiz": [
           {
             "q": "An adaptation is best described as a trait that ___.",
@@ -16698,6 +16701,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: soaps and detergents are surfactants, molecules with a water-attracting head and a water-repelling, fat-attracting tail, allowing them to surround grease and oil particles so they can be lifted away and rinsed off with water.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=kuujbd3sg7o",
         "quiz": [
           {
             "q": "A surfactant molecule, such as one found in soap, has a structure with ___.",

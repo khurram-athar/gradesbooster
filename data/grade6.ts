@@ -16562,6 +16562,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: active listening involves fully focusing on a speaker and responding thoughtfully, while effective note-taking captures key ideas concisely rather than every single word.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=TexR8c96i88",
         "quiz": [
           {
             "q": "Active listening involves ___.",
@@ -16622,6 +16623,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: solving equations involving decimals uses the same inverse-operation steps as whole-number equations, applied carefully to decimal values.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=9b_SxjkBZng",
         "quiz": [
           {
             "q": "To solve an equation with a decimal, you generally ___.",
@@ -16682,6 +16684,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: drones are unpiloted aircraft controlled remotely or by onboard computers, using propellers and the same basic forces of flight as other aircraft.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ubPYuJ4mDgI",
         "quiz": [
           {
             "q": "A drone is best described as ___.",
@@ -16741,6 +16744,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canadians participate in democracy by voting in elections for candidates who often represent political parties with differing platforms and ideas.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=TTWi3HjzsxI",
+        "videoUrls": [
+          {
+            "label": "How Canadian Elections Work",
+            "url": "https://www.youtube.com/watch?v=TTWi3HjzsxI"
+          },
+          {
+            "label": "Political Parties in Canada Explained",
+            "url": "https://www.youtube.com/watch?v=J3Orunjgvmk"
+          }
+        ],
         "quiz": [
           {
             "q": "In a Canadian election, citizens generally vote for ___.",

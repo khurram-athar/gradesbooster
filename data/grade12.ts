@@ -11032,6 +11032,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn and apply the product, quotient, and power laws of logarithms to expand and condense logarithmic expressions.",
         "resourceLabel": "YouTube: Laws of Logarithms: Product, Quotient, and Power Rules",
         "resourceUrl": "https://www.youtube.com/results?search_query=Laws%20of%20Logarithms%3A%20Product%2C%20Quotient%2C%20and%20Power%20Rules%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5B0iVHgd_5s",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -15085,6 +15086,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve exponential equations by rewriting both sides with a common base and equating the exponents.",
         "resourceLabel": "YouTube: Solving Exponential Equations Using Common Bases",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Exponential%20Equations%20Using%20Common%20Bases%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gFsz4GsWXpA",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -15338,6 +15340,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve logarithmic equations algebraically and check candidate solutions against the domain of the original logarithms to eliminate extraneous roots.",
         "resourceLabel": "YouTube: Solving Logarithmic Equations and Extraneous Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Logarithmic%20Equations%20and%20Extraneous%20Roots%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nJrdnr4f5Dg",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -15835,6 +15838,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the change of base formula to evaluate logarithms of any base with a calculator's common or natural log key, and apply it to compare logarithmic expressions.",
         "resourceLabel": "YouTube: The Change of Base Formula for Logarithms",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Change%20of%20Base%20Formula%20for%20Logarithms%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FFm-zaFW_X4",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -16523,6 +16527,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: an extended definition essay explores the meaning of an abstract concept, such as justice or courage, by examining its various dimensions through examples, comparisons, and consideration of what the concept is not.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vz5EsldZHCM",
         "quiz": [
           {
             "q": "An extended definition essay explores the meaning of an abstract concept, such as justice or ___.",
@@ -16583,6 +16588,17 @@ const curriculum: DayContent[] = [
         "summary": "Students model exponential growth and decay using half-life and doubling-time formulas and solve for unknown times or quantities.",
         "resourceLabel": "YouTube: Exponential Growth and Decay: Half-Life and Doubling Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20Growth%20and%20Decay%3A%20Half-Life%20and%20Doubling%20Time%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pJAbfRCIEis",
+        "videoUrls": [
+          {
+            "label": "Half-Life Decay Model",
+            "url": "https://www.youtube.com/watch?v=pJAbfRCIEis"
+          },
+          {
+            "label": "Exponential Growth: Doubling Time",
+            "url": "https://www.youtube.com/watch?v=ymvXf7azTZE"
+          }
+        ],
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {

@@ -16945,6 +16945,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a direct object is the noun or pronoun that receives the action of a verb in a sentence, answering the question what or whom.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=l5uSWIzqCLo",
         "quiz": [
           {
             "q": "A direct object is the part of a sentence that ___.",
@@ -17005,6 +17006,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn that when a group of objects cannot be shared equally, there may be some left over, called a remainder, such as sharing 10 stickers among 3 friends leaving 1 remainder.",
         "resourceLabel": "YouTube: Division with Remainders: When Sharing Does Not Come Out Even",
         "resourceUrl": "https://www.youtube.com/results?search_query=Division%20with%20Remainders%3A%20When%20Sharing%20Does%20Not%20Come%20Out%20Even%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-fbioMIaNG0",
         "quiz": [
           {
             "q": "If 9 cookies are shared equally among 4 people, how many cookies are left over?",
@@ -17087,6 +17089,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: the shape of a structure affects its strength, and triangles are especially strong because their fixed angles resist bending and twisting better than squares.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "quiz": [
           {
             "q": "Triangles are considered a strong shape in structures because their angles ___.",
@@ -17147,6 +17150,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: because Canada spans such a wide area from east to west, it is divided into six time zones, meaning it can be a different time of day in different parts of the country at once.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=m6gnEcMQsZg",
         "quiz": [
           {
             "q": "Canada is divided into time zones because it ___.",
@@ -17213,6 +17217,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: skimming means quickly reading a text to get its general idea, while scanning means searching a text quickly for specific facts, such as a date or name.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=F1wPYHa5nUg",
         "quiz": [
           {
             "q": "Skimming a text means reading quickly to ___.",

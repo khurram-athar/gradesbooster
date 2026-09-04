@@ -12956,6 +12956,7 @@
         "summary": "Students learn to identify recurring symbols in a text and explain how an author uses a concrete object, color, or image to represent an abstract idea.",
         "resourceLabel": "YouTube: Reading: Analyzing Symbolism in Literature",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Symbolism%20in%20Literature%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dM8Ix1YJ05c",
         "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
@@ -13704,6 +13705,7 @@
         "summary": "Students distinguish coordinating conjunctions (the FANBOYS) from subordinating conjunctions and practice using each to combine ideas with the right level of emphasis.",
         "resourceLabel": "YouTube: Grammar: Coordinating and Subordinating Conjunctions in Complex Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Coordinating%20and%20Subordinating%20Conjunctions%20in%20Complex%20Sentences%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Bg8T8m5O7mg",
         "topic": "Grammar: Sentence Structure",
         "quiz": [
           {
@@ -13961,6 +13963,7 @@
         "summary": "Students examine how authors use a 'story within a story' structure, exploring how the outer frame shapes a reader's interpretation of the inner tale.",
         "resourceLabel": "YouTube: Reading: Analyzing Frame Narratives and Nested Stories",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Frame%20Narratives%20and%20Nested%20Stories%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg",
         "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
@@ -16755,6 +16758,17 @@
         "summary": "Grade 9 Writing strand: a business letter or professional email follows a clear, formal structure and tone, including a proper greeting, concise purpose, and polite closing, appropriate for communicating in academic or workplace settings.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=7xUTguLaaXI",
+        "videoUrls": [
+          {
+            "label": "Writing a Formal Business Letter",
+            "url": "https://www.youtube.com/watch?v=7xUTguLaaXI"
+          },
+          {
+            "label": "Email Etiquette for Students",
+            "url": "https://www.youtube.com/watch?v=SMnjShkHCug"
+          }
+        ],
         "quiz": [
           {
             "q": "A business letter or professional email should generally use a ___ tone.",
@@ -16815,6 +16829,7 @@
         "summary": "Grade 7 Math strand: graphing a linear inequality in two variables involves drawing the boundary line for the related equation, then shading the region of the Cartesian plane that contains all the points satisfying the inequality.",
         "resourceLabel": "YouTube: Algebra: Graphing Linear Inequalities in Two Variables on the Cartesian Plane",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Graphing%20Linear%20Inequalities%20in%20Two%20Variables%20on%20the%20Cartesian%20Plane%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_h3z9CGPGoA",
         "quiz": [
           {
             "q": "What is the first step in graphing a linear inequality in two variables?",
@@ -16875,6 +16890,7 @@
         "summary": "Grade 9 Science Earth and Space Systems strand: ocean currents are large-scale movements of seawater driven by wind, temperature, and salinity differences, and they play a major role in distributing heat and shaping regional climate patterns.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SAsblo4pLis",
         "quiz": [
           {
             "q": "Ocean currents are large-scale movements of seawater driven by factors such as ___.",
@@ -16935,6 +16951,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: an urban food desert is an area, often within a city, where residents have limited access to affordable, healthy food due to a lack of nearby grocery stores or fresh food retailers.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=dRd9CloivY8",
         "quiz": [
           {
             "q": "An urban food desert is best described as an area where residents have limited access to ___.",

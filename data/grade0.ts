@@ -8475,6 +8475,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn to tell living things apart from non-living things by noticing that living things grow, eat, and need air and water, while non-living things do not.",
         "resourceLabel": "YouTube: Living and Non-Living Things",
         "resourceUrl": "https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Things%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yW5VbMEDRJk",
         "topic": "Classification of Living Things (Basic)",
         "quiz": [
           {
@@ -8795,6 +8796,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the basic needs of living things -- air, water, food, and shelter -- using simple examples from plants, animals, and people.",
         "resourceLabel": "YouTube: What Living Things Need",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Living%20Things%20Need%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4p5e2l-zd5U",
         "topic": "Ecosystems & Environment",
         "quiz": [
           {
@@ -10132,6 +10134,7 @@ const curriculum: DayContent[] = [
         "summary": "Children identify the main parts of a plant -- roots, stem, and leaves -- and learn the simple job each part does for the whole plant.",
         "resourceLabel": "YouTube: Parts of a Plant: Roots, Stem, and Leaves",
         "resourceUrl": "https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%3A%20Roots%2C%20Stem%2C%20and%20Leaves%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {
@@ -10448,6 +10451,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids explore what a seed is and what a seed needs -- water, soil, and warmth -- to sprout and grow into a brand-new plant.",
         "resourceLabel": "YouTube: Seeds: How New Plants Begin",
         "resourceUrl": "https://www.youtube.com/results?search_query=Seeds%3A%20How%20New%20Plants%20Begin%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tkFPyue5X3Q",
         "topic": "Plants & Photosynthesis",
         "quiz": [
           {
@@ -19621,6 +19625,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice a core science skill -- observing and sorting objects by size -- by comparing which things are bigger and which are smaller.",
         "resourceLabel": "YouTube: Sorting by Size: Big and Small",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Size%3A%20Big%20and%20Small%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4EFLltiMTmk",
         "quiz": [
           {
             "q": "Which animal is usually bigger?",
@@ -19931,6 +19936,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids sort a mixed group of objects by colour, practicing an early science skill for organizing and comparing what they observe.",
         "resourceLabel": "YouTube: Sorting by Colour: Red, Blue, Yellow, and More",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Colour%3A%20Red%2C%20Blue%2C%20Yellow%2C%20and%20More%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8kcbajwxEfE",
         "quiz": [
           {
             "q": "If you are sorting blocks by colour, where does a red block belong?",
@@ -20078,6 +20084,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a long vowel sound says the letter name, such as the long a in cake or the long o in boat, compared to a short vowel sound.",
         "resourceLabel": "YouTube: Long Vowel Sounds: Saying the Letter Name",
         "resourceUrl": "https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%3A%20Saying%20the%20Letter%20Name%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=58pw9qwY7bg",
         "quiz": [
           {
             "q": "Which word has a long a sound?",
@@ -20159,6 +20166,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore simple grids made of rows and columns, learning to find and describe the position of an object using words like row and column.",
         "resourceLabel": "YouTube: Position on a Grid: Rows and Columns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20on%20a%20Grid%3A%20Rows%20and%20Columns%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1vfHkq-dVpI",
         "quiz": [
           {
             "q": "What word describes a line of boxes going across a grid?",
@@ -20239,6 +20247,7 @@ const curriculum: DayContent[] = [
         "summary": "Children use their sense of touch to compare how different objects feel, sorting things into rough and smooth groups.",
         "resourceLabel": "YouTube: Rough and Smooth: Exploring Texture",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rough%20and%20Smooth%3A%20Exploring%20Texture%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tDVS9XSqt90",
         "topic": "Matter & Materials",
         "quiz": [
           {
@@ -20299,6 +20308,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn simple playground rules that help everyone play safely and fairly, such as taking turns on the slide and not pushing others.",
         "resourceLabel": "YouTube: Rules at the Playground: Playing Safely",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rules%20at%20the%20Playground%3A%20Playing%20Safely%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9wlTLwmQP4c",
         "quiz": [
           {
             "q": "Should you push other children on the playground?",

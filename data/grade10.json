@@ -16555,6 +16555,7 @@
         "summary": "Grade 10 English strand: a process analysis essay explains how to complete a task or how something works by breaking it down into a clear, logically ordered sequence of steps.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=1DX466Oxqrw",
         "quiz": [
           {
             "q": "A process analysis essay explains how to complete a task by breaking it down into ___.",
@@ -16615,6 +16616,7 @@
         "summary": "Grade 10 Data Management strand (extension): set theory describes relationships between groups of items, and a Venn diagram visually represents these relationships, helping calculate probabilities involving overlapping events.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=MCsC1N333jo",
         "quiz": [
           {
             "q": "A Venn diagram is used to visually represent ___.",
@@ -16675,6 +16677,17 @@
         "summary": "Grade 10 Physics strand: fluid mechanics examines how liquids and gases behave under pressure, including the concept of buoyancy, the upward force a fluid exerts on an object that allows some objects to float.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=16HDJNoXQII",
+        "videoUrls": [
+          {
+            "label": "Buoyancy and Archimedes' Principle",
+            "url": "https://www.youtube.com/watch?v=16HDJNoXQII"
+          },
+          {
+            "label": "Introduction to Pressure and Fluids",
+            "url": "https://www.youtube.com/watch?v=kkq8ruV8_Jw"
+          }
+        ],
         "quiz": [
           {
             "q": "Fluid mechanics examines how liquids and gases behave under ___.",
@@ -16734,6 +16747,7 @@
         "summary": "Grade 10 History strand: the 1985 bombing of Air India Flight 182, planned in Canada, killed all 329 people aboard and remains the deadliest terrorist attack in Canadian history, prompting lasting debate over airport security and the treatment of victims’ families.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=lcqXufK5yYw",
         "quiz": [
           {
             "q": "The Air India bombing took place in which year?",
