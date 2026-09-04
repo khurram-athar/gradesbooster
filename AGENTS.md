@@ -72,3 +72,13 @@ Current design system (read from `gradesbooster-lovable/src/styles.css` and comp
 
 When proposing a visual change (new page, new component, redesign of an existing one), treat it as additive — same tokens, same components, better content/imagery — unless Khurram explicitly asks for a redesign. If a Lovable prompt risks touching visual style, add an explicit line telling it not to change colors, buttons, the logo, or existing charts.
 <!-- END:visual-design-lock -->
+
+<!-- BEGIN:git-lock-cleanup -->
+# Stale git locks in this repo: use scripts/git_lock_cleanup.sh, never ad hoc renaming (added 2026-09-04)
+
+The device-bridge shell used by automated Cowork sessions (including the `curriculum-video-backfill` scheduled task) can rename files but **cannot delete them** — `rm`/`unlink` fails with "Operation not permitted" by design of the sandbox. When a `git` command dies mid-write it can leave a lock file behind (`.git/index.lock`, `.git/HEAD.lock`, `.git/refs/heads/<branch>.lock`, etc.) that blocks every subsequent `git` command with `fatal: Unable to create '.../*.lock': File exists`.
+
+**Always run `bash scripts/git_lock_cleanup.sh` before any `git add`/`commit`/`pull`/`push` in an automated session, and again with `--force` immediately if a git command fails on a lock.** Do not invent a new ad hoc rename (`.bak`, `.stale`, `.pre`, `.old`, `.retryN`, ...) — that undisciplined pattern is exactly what caused the problem this script fixes: it scattered several hundred stray files loose in `.git/` over the months before 2026-09-04, and on that date one of them ended up literally inside `.git/refs/heads/` (`main.lock.bak.<ts>`, empty) — git scans every file in `refs/heads/` as a candidate branch ref, so the empty one broke `git pull` for Khurram with `fatal: bad object refs/heads/main.lock.bak.<ts>`.
+
+The script relocates any stale lock into one contained directory, `.git/.stale-locks/` — being inside `.git/` (not the working tree), nothing placed there can ever be tracked, staged, or scanned as a ref, no matter what it's named. It also sweeps any already-existing clutter from before it existed. Full rationale is in the script's own header comment.
+<!-- END:git-lock-cleanup -->
