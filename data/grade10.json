@@ -16813,6 +16813,17 @@
         "summary": "Grade 10 English strand: foreshadowing is a technique in which an author hints at future events, building suspense and encouraging readers to anticipate what will happen next in a narrative.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=abkFO8T-mjg",
+        "videoUrls": [
+          {
+            "label": "Foreshadowing",
+            "url": "https://www.youtube.com/watch?v=abkFO8T-mjg"
+          },
+          {
+            "label": "Building Suspense",
+            "url": "https://www.youtube.com/watch?v=xjKruwAfZWk"
+          }
+        ],
         "quiz": [
           {
             "q": "Foreshadowing is a technique in which an author ___.",
@@ -16873,6 +16884,7 @@
         "summary": "Grade 10 Algebra strand (extension): linear programming finds the maximum or minimum value of a linear expression subject to a system of linear constraints, often solved by evaluating a feasible region’s corner points.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Y7e7DCsDUMY",
         "quiz": [
           {
             "q": "Linear programming finds the maximum or minimum value of a linear expression subject to ___.",
@@ -16933,6 +16945,7 @@
         "summary": "Grade 10 Earth Science strand: the water cycle describes the continuous movement of water through evaporation, condensation, and precipitation, and a watershed is the land area that drains water into a common outlet like a lake or river.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=ek3l_SZKsY0",
         "quiz": [
           {
             "q": "The water cycle describes the continuous movement of water through processes including ___.",
@@ -16993,6 +17006,7 @@
         "summary": "Grade 10 History strand: completed in stages through the 1950s and 1960s, the Trans-Canada Highway was a major federal infrastructure project intended to physically connect the country and support postwar economic growth.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=0mg6vLpDCKs",
         "quiz": [
           {
             "q": "The Trans-Canada Highway was primarily built during which decades?",
@@ -17059,6 +17073,7 @@
         "summary": "Grade 10 English strand: analyzing theme across multiple texts involves identifying a shared central idea or message and comparing how different authors develop that idea through their own distinct characters, settings, and structures.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=dI34pqtNRHA",
         "quiz": [
           {
             "q": "Analyzing theme across multiple texts involves identifying a shared ___.",
@@ -17119,6 +17134,7 @@
         "summary": "Grade 10 Geometry strand (extension): congruent figures are identical in shape and size, while similar figures share the same shape but may differ in size, and formal proofs use established criteria to justify these relationships.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mJ4Ms6SXEgg",
         "quiz": [
           {
             "q": "Congruent figures are identical in ___.",
@@ -17179,6 +17195,7 @@
         "summary": "Grade 10 Biology strand: taxonomy is the scientific system for classifying living things into a hierarchy of groups, from broad categories like kingdom down to specific species, based on shared characteristics and evolutionary relationships.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=F38BmgPcZ_I",
         "quiz": [
           {
             "q": "Taxonomy is best described as the scientific system for ___.",
@@ -17239,6 +17256,7 @@
         "summary": "Grade 10 History strand: the 1972 Summit Series, a hockey competition between Canada and the Soviet Union, became a symbol of Cold War rivalry and national pride, with Canada’s dramatic final victory remembered as a defining moment in Canadian identity.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=6YA4mAWN_tY",
         "quiz": [
           {
             "q": "The 1972 Summit Series was a hockey competition between Canada and ___.",

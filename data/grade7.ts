@@ -16772,6 +16772,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: transitional phrases, such as “in addition” or “as a result,” connect ideas within and between paragraphs, helping writing flow logically and clearly.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=CpDTxvxuFpM",
         "quiz": [
           {
             "q": "Transitional phrases help writing by ___.",
@@ -16832,6 +16833,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: net worth is calculated by subtracting total expenses or debts from total income or assets, helping individuals understand and track their overall financial position.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=pjpxeZfBXcE",
         "quiz": [
           {
             "q": "Net worth is calculated by ___.",
@@ -16892,6 +16894,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: groundwater is water stored beneath the Earth’s surface in soil and rock, and the water table marks the upper boundary of the area saturated with this water.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xoeDCxjBnVs",
         "quiz": [
           {
             "q": "Groundwater is water that is stored ___.",
@@ -16951,6 +16954,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: urban areas are densely populated with access to many services, while rural areas have lower population density and often rely more on agriculture or natural resources, creating distinct lifestyles across Canada.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=gyJI_wGgTRA",
         "quiz": [
           {
             "q": "Urban areas are generally characterized by ___.",
@@ -17017,6 +17021,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: evaluating an author’s credentials and expertise involves considering their background, training, and experience to judge how reliable their claims about a topic might be.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gf9U_i7_U5s",
         "quiz": [
           {
             "q": "An author’s credentials refer to their ___.",
@@ -17077,6 +17082,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: triangles can be constructed using given side lengths or angles, and an angle bisector is a line that divides an angle into two equal parts.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=NzcTKGxwCCE",
+        "videoUrls": [
+          {
+            "label": "Constructing Triangles",
+            "url": "https://www.youtube.com/watch?v=NzcTKGxwCCE"
+          },
+          {
+            "label": "Angle Bisectors",
+            "url": "https://www.youtube.com/watch?v=3viWgGJmkFo"
+          }
+        ],
         "quiz": [
           {
             "q": "An angle bisector divides an angle into ___.",
@@ -17196,6 +17212,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: Canada’s mining and natural resource industries extract valuable materials like minerals and metals, playing a significant role in the economy while raising important questions about environmental impact.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Nl7BlosJVHA",
         "quiz": [
           {
             "q": "Canada’s mining industry primarily focuses on extracting ___.",

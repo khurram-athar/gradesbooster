@@ -16842,6 +16842,7 @@
         "summary": "Grade 12 English strand: confessional literature presents deeply personal, often taboo or painful material -- including mental illness, trauma, or family conflict -- with a directness that challenges earlier conventions of poetic and narrative restraint.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=iJn0ZPd6mYo",
         "quiz": [
           {
             "q": "Confessional literature presents deeply personal, often taboo or painful material with a directness that challenges earlier conventions of poetic and narrative ___.",
@@ -16902,6 +16903,7 @@
         "summary": "Grade 12 Advanced Functions strand: Benford’s Law describes the surprising, non-uniform frequency with which each digit from 1 to 9 appears as the leading digit in many naturally occurring numerical data sets, following a pattern based on logarithms.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=XXjlR2OK1kM",
         "quiz": [
           {
             "q": "Benford’s Law describes the surprising, non-uniform frequency with which each digit appears as the ___ digit in many naturally occurring data sets.",
@@ -16961,6 +16963,7 @@
         "summary": "Grade 12 Calculus strand: escape velocity, the minimum speed needed for an object to break free of a planet’s gravitational pull without further propulsion, can be derived by integrating the work done against a gravitational force that weakens with distance.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=LfYi5bTFmws",
         "quiz": [
           {
             "q": "Escape velocity is the minimum speed needed for an object to break free of a planet’s gravitational pull without further ___.",
@@ -17087,6 +17090,7 @@
         "summary": "Grade 12 English strand: a public letter is addressed to a specific named audience, such as a government official or organization, while anticipating a wider readership, requiring a writer to balance direct address with broader persuasive appeal.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=w4k6eo1NlP4",
         "quiz": [
           {
             "q": "A public letter is addressed to a specific named audience while anticipating a ___ readership.",
@@ -17147,6 +17151,7 @@
         "summary": "Students compare compound interest formulas at increasing compounding frequency to continuous compounding using the number e, and compute future values with both models.",
         "resourceLabel": "YouTube: Compound Interest and Continuous Growth with e",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Interest%20and%20Continuous%20Growth%20with%20e%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OyZN57xaojI",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -17207,6 +17212,7 @@
         "summary": "Grade 12 Calculus strand: analyzing the equilibrium shape of a flexible, uniformly dense cable hanging under its own weight leads to a differential equation whose solution, the catenary curve, has practical applications in the engineering of arches and suspension structures.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=-vmVMTzbIxA",
         "quiz": [
           {
             "q": "Analyzing the equilibrium shape of a flexible, uniformly dense cable hanging under its own weight leads to a ___ equation.",

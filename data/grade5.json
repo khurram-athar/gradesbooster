@@ -17420,6 +17420,7 @@
         "summary": "Grade 5 Language strand: direct speech repeats a speaker’s exact words, often in quotation marks, while indirect speech reports what someone said without quoting them exactly.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=gvFTbru2Zvg",
         "quiz": [
           {
             "q": "Direct speech repeats a speaker’s ___.",
@@ -17667,6 +17668,7 @@
         "summary": "Grade 5 Language strand: drawing a conclusion means combining evidence from the text with what you already know to form a logical judgment about something the author does not state directly.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=R14gE1soOe0",
         "quiz": [
           {
             "q": "Drawing a conclusion means combining text evidence with ___.",
@@ -17727,6 +17729,17 @@
         "summary": "Grade 5 Math strand: elapsed time is the amount of time that passes between a start time and an end time, and time zones account for differences in time across regions.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=yPkr_Uhi0zQ",
+        "videoUrls": [
+          {
+            "label": "Time Zones",
+            "url": "https://www.youtube.com/watch?v=yPkr_Uhi0zQ"
+          },
+          {
+            "label": "Elapsed Time",
+            "url": "https://www.youtube.com/watch?v=t6xXsxq0shw"
+          }
+        ],
         "quiz": [
           {
             "q": "Elapsed time is the amount of time that ___.",
@@ -17787,6 +17800,7 @@
         "summary": "Grade 5 Science strand: the human eye detects light and sends signals to the brain, which interprets them as images, allowing us to see the world around us.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=NTZkyntqHCA",
         "quiz": [
           {
             "q": "The human eye allows us to see by detecting ___.",
@@ -17846,6 +17860,7 @@
         "summary": "Grade 5 Social Studies strand: Canada’s national symbols, such as the flag, coat of arms, and national anthem, represent the country’s identity and history.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=OGv5AqZiG7A",
         "quiz": [
           {
             "q": "Canada’s current national flag, featuring a red maple leaf, was officially adopted in ___.",

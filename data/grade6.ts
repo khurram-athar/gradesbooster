@@ -17090,6 +17090,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: nonfiction texts are often organized using structure patterns such as sequence, cause and effect, compare and contrast, or problem and solution, and recognizing these patterns supports comprehension.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=7kWGQ-_ipBY",
         "quiz": [
           {
             "q": "Recognizing a text’s structure pattern can help a reader ___.",
@@ -17150,6 +17151,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a stem-and-leaf plot organizes numerical data by splitting each value into a stem (leading digit or digits) and a leaf (the final digit), keeping the original values visible.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Uysh0CbbRFE",
         "quiz": [
           {
             "q": "In a stem-and-leaf plot, the stem usually represents ___.",
@@ -17210,6 +17212,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: insects, including many pollinators like bees and butterflies, play essential roles in ecosystems by helping plants reproduce and supporting food webs.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=rOALjGOUtoY",
         "quiz": [
           {
             "q": "Pollinators help plants reproduce by ___.",
@@ -17270,6 +17273,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the rule of law means everyone, including government leaders, must follow the law, and Canada’s court system interprets and applies laws fairly through an independent judiciary.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=OqyooLXn4oc",
         "quiz": [
           {
             "q": "The rule of law means that ___.",

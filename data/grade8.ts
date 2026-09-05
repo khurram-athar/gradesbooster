@@ -16803,6 +16803,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Reading strand: a graphic novel tells a story through a combination of images and text, using panels, gutters, and visual cues to convey action, emotion, and the passage of time.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Xe-FYIqrZrI",
         "quiz": [
           {
             "q": "A graphic novel tells a story through ___.",
@@ -16863,6 +16864,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a tessellation is a repeating pattern of shapes that covers a plane with no gaps or overlaps, and symmetry describes how a shape can be reflected, rotated, or translated while still appearing unchanged.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PiOa_vWKJA4",
+        "videoUrls": [
+          {
+            "label": "Tessellations",
+            "url": "https://www.youtube.com/watch?v=PiOa_vWKJA4"
+          },
+          {
+            "label": "Symmetry",
+            "url": "https://www.youtube.com/watch?v=QHq3CSoal0I"
+          }
+        ],
         "quiz": [
           {
             "q": "A tessellation is a repeating pattern of shapes that ___.",
@@ -16923,6 +16935,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: a physical change alters the form or appearance of a substance without changing its chemical composition, while a chemical change produces a new substance with different properties.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=n5cZ5CWuUJA",
         "quiz": [
           {
             "q": "A physical change alters ___.",
@@ -17048,6 +17061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Language strand: transitional words and phrases connect ideas within and between sentences, creating cohesion that helps a reader follow the logical flow of a piece of writing.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3EzJICqv3WY",
         "quiz": [
           {
             "q": "Transitional words and phrases function to ___.",
@@ -17108,6 +17122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a box-and-whisker plot displays the distribution of a data set using five key values — minimum, first quartile, median, third quartile, and maximum — making it easy to visualize spread and identify outliers.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=nV8jR8M8C74",
         "quiz": [
           {
             "q": "A box-and-whisker plot displays a data set using ___.",
@@ -17168,6 +17183,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: the solar system consists of the Sun and the objects that orbit it, including planets held in elliptical orbits by the Sun’s gravitational pull, with orbital period increasing as distance from the Sun increases.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=libKVRa01L8",
         "quiz": [
           {
             "q": "The solar system consists of the Sun and ___.",
@@ -17228,6 +17244,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 History strand: in 1980, Terry Fox began the Marathon of Hope, an attempt to run across Canada to raise money and awareness for cancer research after losing his leg to the disease, inspiring a legacy that continues through annual fundraising runs.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=70WbeqNOJQs",
         "quiz": [
           {
             "q": "Terry Fox began the Marathon of Hope in ___.",

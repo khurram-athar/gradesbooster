@@ -20634,6 +20634,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to use context clues, hints from the words and sentences around an unknown word, to figure out what that word means.",
         "resourceLabel": "YouTube: Using Context Clues to Find Word Meaning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Context%20Clues%20to%20Find%20Word%20Meaning%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eHCpJ86XDY4",
         "quiz": [
           {
             "q": "What are context clues?",
@@ -20716,6 +20717,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn simple ways shapes and objects can move, such as a slide, which moves an object in a straight direction, and a turn, which rotates an object around a point.",
         "resourceLabel": "YouTube: Position and Movement: Turns and Slides",
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20and%20Movement%3A%20Turns%20and%20Slides%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Bbl-crA2CGU",
         "quiz": [
           {
             "q": "What do we call moving a shape in a straight direction without turning it?",
@@ -20798,6 +20800,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about simple tools used to measure weather, such as a thermometer that measures temperature and a rain gauge that measures how much rain has fallen.",
         "resourceLabel": "YouTube: Simple Weather Tools: Thermometers and Rain Gauges",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Weather%20Tools%3A%20Thermometers%20and%20Rain%20Gauges%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oQB68rvRWBM",
         "quiz": [
           {
             "q": "What tool measures how hot or cold it is outside?",
@@ -20880,6 +20883,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a bank is a safe place where people can keep and save their money, and that saving money can help people pay for things later.",
         "resourceLabel": "YouTube: Banks: A Safe Place to Save Money",
         "resourceUrl": "https://www.youtube.com/results?search_query=Banks%3A%20A%20Safe%20Place%20to%20Save%20Money%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CqD3hnjZBTM",
         "quiz": [
           {
             "q": "What is a bank?",

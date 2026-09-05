@@ -17018,6 +17018,7 @@
         "summary": "Grade 9 Writing strand: in the active voice, the subject of a sentence performs the action, while in the passive voice, the subject receives the action, often shifting emphasis and requiring a form of the verb “to be.”",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=u4ZN7eaZATs",
         "quiz": [
           {
             "q": "In the active voice, the subject of a sentence ___.",
@@ -17078,6 +17079,7 @@
         "summary": "Grade 7 Math strand: insurance is a way of managing financial risk in which a person pays regular premiums to a company that agrees to cover certain losses, helping individuals and families protect themselves against large, unexpected costs.",
         "resourceLabel": "YouTube: Financial Literacy: Understanding Insurance and Risk Management",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Understanding%20Insurance%20and%20Risk%20Management%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YmB8h9eEPMw",
         "quiz": [
           {
             "q": "What is insurance designed to help manage?",
@@ -17138,6 +17140,7 @@
         "summary": "Grade 7 Science strand: the human microbiome is the vast community of bacteria and other microorganisms living in and on the body, especially in the digestive system, where many species assist with digestion, produce vitamins, and support the immune system.",
         "resourceLabel": "YouTube: The Human Microbiome and Gut Bacteria",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Microbiome%20and%20Gut%20Bacteria%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JaXMGFShqDE",
         "quiz": [
           {
             "q": "What is the human microbiome?",
@@ -17197,6 +17200,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: space exploration and satellite technology rely on carefully chosen launch sites and orbital paths, and satellites support geographic applications such as weather forecasting, communication, and Earth observation.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ror4P1UAv_g",
         "quiz": [
           {
             "q": "The choice of a launch site for space exploration is often influenced by geographic factors such as ___.",
@@ -17263,6 +17267,7 @@
         "summary": "Grade 9 Reading strand: a flashback interrupts a story’s present action to show an earlier event, while foreshadowing hints at events that will occur later, and both techniques shape a reader’s understanding of a narrative’s timeline and meaning.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=wufYU_DDw5o",
         "quiz": [
           {
             "q": "A flashback is best described as a technique that ___.",
@@ -17323,6 +17328,7 @@
         "summary": "Grade 7 Math strand: a system of linear equations can be solved by graphing both lines on the same coordinate plane, since the point where the two lines intersect represents the values of x and y that satisfy both equations at once.",
         "resourceLabel": "YouTube: Algebra: Solving Systems of Linear Equations by Graphing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Systems%20of%20Linear%20Equations%20by%20Graphing%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=opAHlg-jolU",
         "quiz": [
           {
             "q": "What does the solution to a system of two linear equations represent on a graph?",
@@ -17383,6 +17389,7 @@
         "summary": "Grade 4 Science strand: matter can be classified as an element, a pure substance made of only one type of atom, a compound, made of two or more elements chemically joined, or a mixture, made of substances that are combined but not chemically joined.",
         "resourceLabel": "YouTube: Science: Elements, Compounds, and Mixtures — Classifying Matter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Elements%2C%20Compounds%2C%20and%20Mixtures%20%E2%80%94%20Classifying%20Matter%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dggHWvFJ8Xs",
         "quiz": [
           {
             "q": "What is an element?",
@@ -17443,6 +17450,17 @@
         "summary": "Grade 9 Social Studies (Geography) strand: light and noise pollution are byproducts of urban development that can disrupt ecosystems, obscure the night sky, and affect the health and well-being of city residents.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=V_A78zDBwYE",
+        "videoUrls": [
+          {
+            "label": "Light Pollution",
+            "url": "https://www.youtube.com/watch?v=V_A78zDBwYE"
+          },
+          {
+            "label": "Noise Pollution",
+            "url": "https://www.youtube.com/watch?v=OQWmaYjyolE"
+          }
+        ],
         "quiz": [
           {
             "q": "Light and noise pollution are commonly associated with ___.",

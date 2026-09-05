@@ -16850,6 +16850,7 @@
         "summary": "Grade 11 English strand: an elegy is a reflective piece of writing, often a poem, composed to mourn or commemorate someone or something that has been lost, typically moving from an expression of grief toward some form of consolation or acceptance.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=5RpE8M_mWY0",
         "quiz": [
           {
             "q": "An elegy is best described as a reflective piece of writing composed to ___.",
@@ -16910,6 +16911,7 @@
         "summary": "Grade 11 Functions strand: the real number system organizes numbers into nested categories — natural numbers, whole numbers, integers, rational numbers, and irrational numbers — each broader category containing the ones before it.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=vbPUS-0Wbv4",
         "quiz": [
           {
             "q": "A rational number is best described as a number that can be expressed as ___.",
@@ -16970,6 +16972,7 @@
         "summary": "Grade 11 Biology strand: the human brain is organized into regions, including the cerebrum, cerebellum, and brainstem, each responsible for different functions ranging from voluntary movement and higher-order thinking to basic life-sustaining processes.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=jvIr7b0roYI",
         "quiz": [
           {
             "q": "The cerebrum is primarily responsible for ___.",
@@ -17030,6 +17033,7 @@
         "summary": "Grade 11 Chemistry strand: the Maillard reaction is a chemical reaction between amino acids and reducing sugars that occurs when food is heated, producing the browning, flavour, and aroma characteristic of foods such as toasted bread and seared meat.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=rs1JLYXROVU",
         "quiz": [
           {
             "q": "The Maillard reaction occurs between amino acids and ___.",
@@ -17095,6 +17099,7 @@
         "summary": "Grade 11 English strand: postmodern fiction often rejects a single, linear plot in favour of a fragmented narrative structure, non-traditional chronology, and self-aware storytelling that challenges a reader’s expectations of how a story should be told.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=RQNiW8EQkoo",
         "quiz": [
           {
             "q": "Postmodern fiction often rejects a ___ in favour of a fragmented narrative structure.",
@@ -17155,6 +17160,7 @@
         "summary": "Grade 11 Functions strand: a circle is a conic section defined as the set of all points equidistant from a fixed centre point, and its equation can be written in standard form using the coordinates of the centre and the length of the radius.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=JUvo3GrgWHk",
         "quiz": [
           {
             "q": "A circle is defined as the set of all points that are ___ from a fixed centre point.",
@@ -17215,6 +17221,17 @@
         "summary": "Grade 11 Biology strand: freshwater ecosystems, including lakes, rivers, and wetlands, form part of larger watersheds, and the health of these systems depends on factors such as water quality, nutrient levels, and the surrounding land use within that watershed.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=SexLZIyo_FA",
+        "videoUrls": [
+          {
+            "label": "Freshwater Ecosystems",
+            "url": "https://www.youtube.com/watch?v=SexLZIyo_FA"
+          },
+          {
+            "label": "Watershed Health",
+            "url": "https://www.youtube.com/watch?v=Q6XO4vy6rKQ"
+          }
+        ],
         "quiz": [
           {
             "q": "A watershed is best described as an area of land that ___.",
@@ -17275,6 +17292,7 @@
         "summary": "Grade 11 Chemistry strand: a phase diagram shows the conditions of temperature and pressure under which a substance exists as a solid, liquid, or gas, and sublimation is the direct transition from a solid to a gas without passing through a liquid state.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=QrHlwgmMTq4",
         "quiz": [
           {
             "q": "A phase diagram shows the conditions of ___ under which a substance exists as a solid, liquid, or gas.",

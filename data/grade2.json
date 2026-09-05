@@ -20987,6 +20987,17 @@
         "summary": "Students learn that a root word is the base part of a word that carries its main meaning, and that other words can be built from it, such as play, playful, and player, all coming from the root word play.",
         "resourceLabel": "YouTube: Root Words and Word Families",
         "resourceUrl": "https://www.youtube.com/results?search_query=Root%20Words%20and%20Word%20Families%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6ej6JU44CCY",
+        "videoUrls": [
+          {
+            "label": "Root Words",
+            "url": "https://www.youtube.com/watch?v=6ej6JU44CCY"
+          },
+          {
+            "label": "Word Families",
+            "url": "https://www.youtube.com/watch?v=CtH32mlJQI8"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call the base part of a word that carries its main meaning?",
@@ -21070,6 +21081,7 @@
         "summary": "Students learn and practice basic multiplication facts for the 2 times table, 5 times table, and 10 times table, such as 2 times 3 equals 6.",
         "resourceLabel": "YouTube: Multiplication Facts: 2s, 5s, and 10s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%202s%2C%205s%2C%20and%2010s%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dkWvwUheqfY",
         "quiz": [
           {
             "q": "What is 2 times 3?",
@@ -21153,6 +21165,7 @@
         "summary": "Students learn that animals can be grouped by what they eat, such as herbivores that eat only plants, carnivores that eat only meat, and omnivores that eat both plants and meat.",
         "resourceLabel": "YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "What do we call an animal that eats only plants?",
@@ -21236,6 +21249,7 @@
         "summary": "Students learn that Northern Canada has a cold climate with long winters, and that communities there have adapted their ways of living, travel, and clothing to the environment.",
         "resourceLabel": "YouTube: Life in Northern Canada: Weather and Ways of Living",
         "resourceUrl": "https://www.youtube.com/results?search_query=Life%20in%20Northern%20Canada%3A%20Weather%20and%20Ways%20of%20Living%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XnkUMC2mZ0c",
         "quiz": [
           {
             "q": "What kind of climate does Northern Canada generally have?",
