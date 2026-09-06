@@ -20087,6 +20087,21 @@
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oCPjgv2Pccc",
+        "videoUrls": [
+          {
+            "label": "Plate Tectonics",
+            "url": "https://www.youtube.com/watch?v=oCPjgv2Pccc"
+          },
+          {
+            "label": "Organic Compounds",
+            "url": "https://www.youtube.com/watch?v=m9jM8lWxrAE"
+          },
+          {
+            "label": "Radioactivity in Medicine",
+            "url": "https://www.youtube.com/watch?v=03f4Nhkd1Cw"
+          }
         ]
       }
     ]
@@ -24846,7 +24861,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=E5SmMV9-UbM"
       },
       {
         "subject": "AdvancedFunctions",
@@ -24965,7 +24981,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0"
       },
       {
         "subject": "Physics",
@@ -25023,6 +25040,21 @@
               "A concept unrelated to physics"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yYjnl_fj6IA",
+        "videoUrls": [
+          {
+            "label": "Projectile Motion",
+            "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"
+          },
+          {
+            "label": "Genetic Engineering",
+            "url": "https://www.youtube.com/watch?v=YNrGLjVuCso"
+          },
+          {
+            "label": "Simple Harmonic Motion",
+            "url": "https://www.youtube.com/watch?v=tNpuTx7UQbw"
           }
         ]
       }
@@ -28141,7 +28173,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0"
       },
       {
         "subject": "Physics",
@@ -43605,6 +43638,21 @@
               "Only light energy"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
+        "videoUrls": [
+          {
+            "label": "Electromagnetism",
+            "url": "https://www.youtube.com/watch?v=pkzY7QfTowM"
+          },
+          {
+            "label": "Organic Chemistry",
+            "url": "https://www.youtube.com/watch?v=ULiLt2rtpAg"
+          },
+          {
+            "label": "Life Cycle of Stars",
+            "url": "https://www.youtube.com/watch?v=PM9CQDlQI0A"
           }
         ]
       }

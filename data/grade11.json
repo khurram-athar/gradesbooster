@@ -22454,7 +22454,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
       },
       {
         "subject": "Biology",
@@ -22572,7 +22573,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=74-X94OP2XI"
       }
     ]
   },
@@ -24907,6 +24909,21 @@
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VKpr311IZfg",
+        "videoUrls": [
+          {
+            "label": "Quadratic Inequalities",
+            "url": "https://www.youtube.com/watch?v=VKpr311IZfg"
+          },
+          {
+            "label": "Law of Sines and Cosines",
+            "url": "https://www.youtube.com/watch?v=T--nPHdS1Vo"
+          },
+          {
+            "label": "Piecewise Functions",
+            "url": "https://www.youtube.com/watch?v=tedzsRH0Jas"
+          }
         ]
       },
       {
@@ -25024,6 +25041,21 @@
               "A concept unrelated to chemistry"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+        "videoUrls": [
+          {
+            "label": "Work, Energy, and Power",
+            "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo"
+          },
+          {
+            "label": "Genetic Mutations",
+            "url": "https://www.youtube.com/watch?v=vl6Vlf2thvI"
+          },
+          {
+            "label": "Waves",
+            "url": "https://www.youtube.com/watch?v=BL2MtP7j-xk"
           }
         ]
       }
@@ -27489,7 +27521,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZqCMR7PjZRU"
       }
     ]
   },
@@ -31777,7 +31810,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
       },
       {
         "subject": "Biology",

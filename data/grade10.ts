@@ -12617,7 +12617,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Health Science: The Nervous System and Reflex Actions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Health%20Science%3A%20The%20Nervous%20System%20and%20Reflex%20Actions%20grade%2010%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=RNLceVI8jcc",
-        "videoUrls": [{"label":"The Nervous System","url":"https://www.youtube.com/watch?v=RNLceVI8jcc"},{"label":"Reflex Actions","url":"https://www.youtube.com/watch?v=Nn2RHLWST-k"}],
+        "videoUrls": [
+          {
+            "label": "The Nervous System",
+            "url": "https://www.youtube.com/watch?v=RNLceVI8jcc"
+          },
+          {
+            "label": "Reflex Actions",
+            "url": "https://www.youtube.com/watch?v=Nn2RHLWST-k"
+          }
+        ],
         "quiz": [
           {
             "q": "The nervous system transmits signals through specialized cells called ___.",
@@ -13117,9 +13126,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Physics%2C%20Biology%2C%20and%20Chemistry%20%28Days%2081-89%29%20grade%2010%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
         "videoUrls": [
-          {"label": "Black Holes", "url": "https://www.youtube.com/watch?v=kOEDG3j1bjs"},
-          {"label": "Coral Reefs", "url": "https://www.youtube.com/watch?v=ZiULxLLP32s"},
-          {"label": "Quantum Physics", "url": "https://www.youtube.com/watch?v=Usu9xZfabPM"}
+          {
+            "label": "Black Holes",
+            "url": "https://www.youtube.com/watch?v=kOEDG3j1bjs"
+          },
+          {
+            "label": "Coral Reefs",
+            "url": "https://www.youtube.com/watch?v=ZiULxLLP32s"
+          },
+          {
+            "label": "Quantum Physics",
+            "url": "https://www.youtube.com/watch?v=Usu9xZfabPM"
+          }
         ],
         "quiz": [
           {
@@ -14752,7 +14770,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
         "videoUrl": "https://www.youtube.com/watch?v=4PqGPZtyFtw",
-        "videoUrls": [{"label": "Narrative Forms", "url": "https://www.youtube.com/watch?v=4PqGPZtyFtw"}, {"label": "Rhetoric", "url": "https://www.youtube.com/watch?v=CC_7h6jHIzQ"}, {"label": "War Literature", "url": "https://www.youtube.com/watch?v=G2q2lGtDa18"}],
+        "videoUrls": [
+          {
+            "label": "Narrative Forms",
+            "url": "https://www.youtube.com/watch?v=4PqGPZtyFtw"
+          },
+          {
+            "label": "Rhetoric",
+            "url": "https://www.youtube.com/watch?v=CC_7h6jHIzQ"
+          },
+          {
+            "label": "War Literature",
+            "url": "https://www.youtube.com/watch?v=G2q2lGtDa18"
+          }
+        ],
         "quiz": [
           {
             "q": "A bildungsroman is best described as a novel that traces ___.",
@@ -14874,7 +14905,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
         "videoUrl": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw",
-        "videoUrls": [{"label": "Chemistry", "url": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw"}, {"label": "Biology", "url": "https://www.youtube.com/watch?v=VitFvNvRIIY"}, {"label": "Physics Applications", "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"}],
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw"
+          },
+          {
+            "label": "Biology",
+            "url": "https://www.youtube.com/watch?v=VitFvNvRIIY"
+          },
+          {
+            "label": "Physics Applications",
+            "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"
+          }
+        ],
         "quiz": [
           {
             "q": "Colligative properties depend primarily on ___.",
@@ -14935,7 +14979,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
         "videoUrl": "https://www.youtube.com/watch?v=FucZpJGZe6A",
-        "videoUrls": [{"label": "The Halifax Explosion", "url": "https://www.youtube.com/watch?v=FucZpJGZe6A"}, {"label": "The Suez Crisis and Peacekeeping", "url": "https://www.youtube.com/watch?v=SDm4qX0UGe0"}, {"label": "Japanese Canadian Internment", "url": "https://www.youtube.com/watch?v=C8TQTuMqM9g"}],
+        "videoUrls": [
+          {
+            "label": "The Halifax Explosion",
+            "url": "https://www.youtube.com/watch?v=FucZpJGZe6A"
+          },
+          {
+            "label": "The Suez Crisis and Peacekeeping",
+            "url": "https://www.youtube.com/watch?v=SDm4qX0UGe0"
+          },
+          {
+            "label": "Japanese Canadian Internment",
+            "url": "https://www.youtube.com/watch?v=C8TQTuMqM9g"
+          }
+        ],
         "quiz": [
           {
             "q": "The Halifax Explosion was caused by ___.",
@@ -15311,7 +15368,10 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=SLV600BpHpE",
-        "videoUrls": ["https://www.youtube.com/watch?v=SLV600BpHpE", "https://www.youtube.com/watch?v=0gicD4STzpg"],
+        "videoUrls": [
+          "https://www.youtube.com/watch?v=SLV600BpHpE",
+          "https://www.youtube.com/watch?v=0gicD4STzpg"
+        ],
         "quiz": [
           {
             "q": "A radical function contains a variable inside a ___.",
@@ -37003,7 +37063,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=prD8n_h7f2w"
       },
       {
         "subject": "Math",

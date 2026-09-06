@@ -21831,7 +21831,8 @@
               "cry"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9BhY_0He-Bk"
       },
       {
         "subject": "Math",
@@ -21911,7 +21912,8 @@
               "20"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=RhldXFWJdSo"
       },
       {
         "subject": "Science",
@@ -21994,7 +21996,8 @@
             ]
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=CNkc-bXDogQ"
       },
       {
         "subject": "SocialStudies",
@@ -22078,7 +22081,8 @@
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=yCH_Ux0uEiQ"
       }
     ]
   },

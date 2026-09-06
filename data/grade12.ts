@@ -14297,7 +14297,7 @@ const curriculum: DayContent[] = [
               "Engineered pleasure, consumerism, and distraction rather than fear",
               "The complete absence of technology"
             ],
-              "answer": 2
+            "answer": 2
           },
           {
             "q": "Why do critics often argue Nineteen Eighty-Four feels newly relevant in the era of state surveillance and 'fake news'?",
@@ -14776,7 +14776,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
         "videoUrl": "https://www.youtube.com/watch?v=MZ_6u7JbvU0",
-        "videoUrls": [{"label": "Existentialist Philosophy", "url": "https://www.youtube.com/watch?v=MZ_6u7JbvU0"}, {"label": "Synthetic Media", "url": "https://www.youtube.com/watch?v=q5_PrTvNypY"}, {"label": "Diasporic Identity", "url": "https://www.youtube.com/watch?v=tCVN2-KrI0w"}],
+        "videoUrls": [
+          {
+            "label": "Existentialist Philosophy",
+            "url": "https://www.youtube.com/watch?v=MZ_6u7JbvU0"
+          },
+          {
+            "label": "Synthetic Media",
+            "url": "https://www.youtube.com/watch?v=q5_PrTvNypY"
+          },
+          {
+            "label": "Diasporic Identity",
+            "url": "https://www.youtube.com/watch?v=tCVN2-KrI0w"
+          }
+        ],
         "quiz": [
           {
             "q": "Existentialist literature explores themes of individual freedom and the necessity of creating ___ in a universe without inherent purpose.",
@@ -14837,7 +14850,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
         "videoUrl": "https://www.youtube.com/watch?v=h1RQw7yaoGM",
-        "videoUrls": [{"label": "Eigenvalues and Eigenvectors", "url": "https://www.youtube.com/watch?v=h1RQw7yaoGM"}, {"label": "Normal Distribution", "url": "https://www.youtube.com/watch?v=Pn03dfOz-Cs"}, {"label": "Rational Exponents", "url": "https://www.youtube.com/watch?v=Llrngdh3Rrg"}],
+        "videoUrls": [
+          {
+            "label": "Eigenvalues and Eigenvectors",
+            "url": "https://www.youtube.com/watch?v=h1RQw7yaoGM"
+          },
+          {
+            "label": "Normal Distribution",
+            "url": "https://www.youtube.com/watch?v=Pn03dfOz-Cs"
+          },
+          {
+            "label": "Rational Exponents",
+            "url": "https://www.youtube.com/watch?v=Llrngdh3Rrg"
+          }
+        ],
         "quiz": [
           {
             "q": "An eigenvector of a matrix is a nonzero vector whose ___ remains unchanged when the matrix is applied to it.",
@@ -14898,7 +14924,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
         "videoUrl": "https://www.youtube.com/watch?v=igJdDN-DPgA",
-        "videoUrls": [{"label": "The Squeeze Theorem", "url": "https://www.youtube.com/watch?v=igJdDN-DPgA"}, {"label": "Hyperbolic Functions", "url": "https://www.youtube.com/watch?v=Q6-QZxUDfE0"}, {"label": "Center of Mass", "url": "https://www.youtube.com/watch?v=SWu_i-19Rn0"}],
+        "videoUrls": [
+          {
+            "label": "The Squeeze Theorem",
+            "url": "https://www.youtube.com/watch?v=igJdDN-DPgA"
+          },
+          {
+            "label": "Hyperbolic Functions",
+            "url": "https://www.youtube.com/watch?v=Q6-QZxUDfE0"
+          },
+          {
+            "label": "Center of Mass",
+            "url": "https://www.youtube.com/watch?v=SWu_i-19Rn0"
+          }
+        ],
         "quiz": [
           {
             "q": "The Squeeze Theorem determines the limit of a function by trapping it between ___.",
@@ -14959,7 +14998,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
         "videoUrl": "https://www.youtube.com/watch?v=mXxsT1ut35Q",
-        "videoUrls": [{"label": "The Bohr Model", "url": "https://www.youtube.com/watch?v=mXxsT1ut35Q"}, {"label": "Neutron Stars", "url": "https://www.youtube.com/watch?v=4xIQGbYur9Q"}, {"label": "The Uncertainty Principle", "url": "https://www.youtube.com/watch?v=TQKELOE9eY4"}],
+        "videoUrls": [
+          {
+            "label": "The Bohr Model",
+            "url": "https://www.youtube.com/watch?v=mXxsT1ut35Q"
+          },
+          {
+            "label": "Neutron Stars",
+            "url": "https://www.youtube.com/watch?v=4xIQGbYur9Q"
+          },
+          {
+            "label": "The Uncertainty Principle",
+            "url": "https://www.youtube.com/watch?v=TQKELOE9eY4"
+          }
+        ],
         "quiz": [
           {
             "q": "The Bohr model describes electrons orbiting the nucleus in ___.",
@@ -15149,8 +15201,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
         "videoUrl": "https://www.youtube.com/watch?v=ND9cEdfCFr0",
         "videoUrls": [
-          { "label": "Improper Integrals", "url": "https://www.youtube.com/watch?v=ND9cEdfCFr0" },
-          { "label": "Infinite Series", "url": "https://www.youtube.com/watch?v=0YeON4p0ogw" }
+          {
+            "label": "Improper Integrals",
+            "url": "https://www.youtube.com/watch?v=ND9cEdfCFr0"
+          },
+          {
+            "label": "Infinite Series",
+            "url": "https://www.youtube.com/watch?v=0YeON4p0ogw"
+          }
         ],
         "quiz": [
           {
@@ -20031,6 +20089,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oCPjgv2Pccc",
+        "videoUrls": [
+          {
+            "label": "Plate Tectonics",
+            "url": "https://www.youtube.com/watch?v=oCPjgv2Pccc"
+          },
+          {
+            "label": "Organic Compounds",
+            "url": "https://www.youtube.com/watch?v=m9jM8lWxrAE"
+          },
+          {
+            "label": "Radioactivity in Medicine",
+            "url": "https://www.youtube.com/watch?v=03f4Nhkd1Cw"
+          }
         ]
       }
     ]
@@ -24790,7 +24863,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=E5SmMV9-UbM"
       },
       {
         "subject": "AdvancedFunctions",
@@ -24909,7 +24983,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0"
       },
       {
         "subject": "Physics",
@@ -24967,6 +25042,21 @@ const curriculum: DayContent[] = [
               "A concept unrelated to physics"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yYjnl_fj6IA",
+        "videoUrls": [
+          {
+            "label": "Projectile Motion",
+            "url": "https://www.youtube.com/watch?v=yYjnl_fj6IA"
+          },
+          {
+            "label": "Genetic Engineering",
+            "url": "https://www.youtube.com/watch?v=YNrGLjVuCso"
+          },
+          {
+            "label": "Simple Harmonic Motion",
+            "url": "https://www.youtube.com/watch?v=tNpuTx7UQbw"
           }
         ]
       }
@@ -28085,7 +28175,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0"
       },
       {
         "subject": "Physics",
@@ -43549,6 +43640,21 @@ const curriculum: DayContent[] = [
               "Only light energy"
             ],
             "answer": 0
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
+        "videoUrls": [
+          {
+            "label": "Electromagnetism",
+            "url": "https://www.youtube.com/watch?v=pkzY7QfTowM"
+          },
+          {
+            "label": "Organic Chemistry",
+            "url": "https://www.youtube.com/watch?v=ULiLt2rtpAg"
+          },
+          {
+            "label": "Life Cycle of Stars",
+            "url": "https://www.youtube.com/watch?v=PM9CQDlQI0A"
           }
         ]
       }

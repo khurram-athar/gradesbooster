@@ -12082,7 +12082,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Math Review: Geometry, Number Sense, and Financial Literacy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Geometry%2C%20Number%20Sense%2C%20and%20Financial%20Literacy%20grade%208%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=e_jqJtObKfI",
-        "videoUrls": [{"label":"Cone and Pyramid Volume","url":"https://www.youtube.com/watch?v=e_jqJtObKfI"},{"label":"Sphere Surface Area","url":"https://www.youtube.com/watch?v=TKqV4hHRTbc"},{"label":"Scatter Plots","url":"https://www.youtube.com/watch?v=Ly3NmogR1cU"}],
+        "videoUrls": [
+          {
+            "label": "Cone and Pyramid Volume",
+            "url": "https://www.youtube.com/watch?v=e_jqJtObKfI"
+          },
+          {
+            "label": "Sphere Surface Area",
+            "url": "https://www.youtube.com/watch?v=TKqV4hHRTbc"
+          },
+          {
+            "label": "Scatter Plots",
+            "url": "https://www.youtube.com/watch?v=Ly3NmogR1cU"
+          }
+        ],
         "quiz": [
           {
             "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
@@ -14346,9 +14359,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Sense%2C%20Geometry%2C%20and%20Data%20Management%20grade%208%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=qG3HnRccrQU",
         "videoUrls": [
-          {"label": "Sum of Interior Angles in Polygons", "url": "https://www.youtube.com/watch?v=qG3HnRccrQU"},
-          {"label": "Volume of a Sphere", "url": "https://www.youtube.com/watch?v=KY2pJofL7dU"},
-          {"label": "Weighted Averages", "url": "https://www.youtube.com/watch?v=slFqL86q3EA"}
+          {
+            "label": "Sum of Interior Angles in Polygons",
+            "url": "https://www.youtube.com/watch?v=qG3HnRccrQU"
+          },
+          {
+            "label": "Volume of a Sphere",
+            "url": "https://www.youtube.com/watch?v=KY2pJofL7dU"
+          },
+          {
+            "label": "Weighted Averages",
+            "url": "https://www.youtube.com/watch?v=slFqL86q3EA"
+          }
         ],
         "quiz": [
           {
@@ -14786,7 +14808,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
         "videoUrl": "https://www.youtube.com/watch?v=qNPzq-WW_gI",
-        "videoUrls": [{"label": "Symbolism", "url": "https://www.youtube.com/watch?v=qNPzq-WW_gI"}, {"label": "Active and Passive Voice", "url": "https://www.youtube.com/watch?v=RV8PHPVBlBM"}, {"label": "Editorials", "url": "https://www.youtube.com/watch?v=3GkN4qul82Y"}],
+        "videoUrls": [
+          {
+            "label": "Symbolism",
+            "url": "https://www.youtube.com/watch?v=qNPzq-WW_gI"
+          },
+          {
+            "label": "Active and Passive Voice",
+            "url": "https://www.youtube.com/watch?v=RV8PHPVBlBM"
+          },
+          {
+            "label": "Editorials",
+            "url": "https://www.youtube.com/watch?v=3GkN4qul82Y"
+          }
+        ],
         "quiz": [
           {
             "q": "Symbolism is a literary device in which ___.",
@@ -14908,7 +14943,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=FbbwaAIMvvs",
-        "videoUrls": [{"label": "Plate Tectonics", "url": "https://www.youtube.com/watch?v=FbbwaAIMvvs"}, {"label": "The Rock Cycle", "url": "https://www.youtube.com/watch?v=Vp_S3BDiR-I"}, {"label": "Electromagnetism", "url": "https://www.youtube.com/watch?v=f-6FbdpJPTA"}],
+        "videoUrls": [
+          {
+            "label": "Plate Tectonics",
+            "url": "https://www.youtube.com/watch?v=FbbwaAIMvvs"
+          },
+          {
+            "label": "The Rock Cycle",
+            "url": "https://www.youtube.com/watch?v=Vp_S3BDiR-I"
+          },
+          {
+            "label": "Electromagnetism",
+            "url": "https://www.youtube.com/watch?v=f-6FbdpJPTA"
+          }
+        ],
         "quiz": [
           {
             "q": "Earthquakes are typically caused by ___.",
@@ -15845,7 +15893,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=JRf7_RKF3uA",
-        "videoUrls": [{"label": "Currency Exchange Rates", "url": "https://www.youtube.com/watch?v=JRf7_RKF3uA"}, {"label": "Unit Pricing", "url": "https://www.youtube.com/watch?v=kFNEqLWy1P4"}],
+        "videoUrls": [
+          {
+            "label": "Currency Exchange Rates",
+            "url": "https://www.youtube.com/watch?v=JRf7_RKF3uA"
+          },
+          {
+            "label": "Unit Pricing",
+            "url": "https://www.youtube.com/watch?v=kFNEqLWy1P4"
+          }
+        ],
         "quiz": [
           {
             "q": "A currency exchange rate determines ___.",
@@ -19884,7 +19941,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=A6LTx2hlBZc"
       },
       {
         "subject": "Math",
@@ -19943,7 +20001,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Veo6jftWyNw"
       },
       {
         "subject": "Science",
@@ -20002,7 +20061,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA"
       },
       {
         "subject": "History",

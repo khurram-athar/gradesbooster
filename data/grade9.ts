@@ -13830,7 +13830,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Blood Composition and Blood Types",
         "resourceUrl": "https://www.youtube.com/results?search_query=Blood%20Composition%20and%20Blood%20Types%20grade%209%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=QjLuir4lxgw",
-        "videoUrls": [{"label":"Blood Composition","url":"https://www.youtube.com/watch?v=QjLuir4lxgw"},{"label":"Blood Types (ABO)","url":"https://www.youtube.com/watch?v=Amn2EWTY2Lk"}],
+        "videoUrls": [
+          {
+            "label": "Blood Composition",
+            "url": "https://www.youtube.com/watch?v=QjLuir4lxgw"
+          },
+          {
+            "label": "Blood Types (ABO)",
+            "url": "https://www.youtube.com/watch?v=Amn2EWTY2Lk"
+          }
+        ],
         "quiz": [
           {
             "q": "What are the main components of blood?",
@@ -14956,7 +14965,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
         "videoUrl": "https://www.youtube.com/watch?v=9k7pOZNIxZQ",
-        "videoUrls": [{"label": "Foil Characters", "url": "https://www.youtube.com/watch?v=9k7pOZNIxZQ"}, {"label": "Personal Essays", "url": "https://www.youtube.com/watch?v=E5SmMV9-UbM"}, {"label": "Frame Narratives", "url": "https://www.youtube.com/watch?v=e9_Ize7ZDwg"}],
+        "videoUrls": [
+          {
+            "label": "Foil Characters",
+            "url": "https://www.youtube.com/watch?v=9k7pOZNIxZQ"
+          },
+          {
+            "label": "Personal Essays",
+            "url": "https://www.youtube.com/watch?v=E5SmMV9-UbM"
+          },
+          {
+            "label": "Frame Narratives",
+            "url": "https://www.youtube.com/watch?v=e9_Ize7ZDwg"
+          }
+        ],
         "quiz": [
           {
             "q": "A foil character is best described as ___.",
@@ -15078,7 +15100,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=16HDJNoXQII",
-        "videoUrls": [{"label": "Buoyancy", "url": "https://www.youtube.com/watch?v=16HDJNoXQII"}, {"label": "Redox Reactions", "url": "https://www.youtube.com/watch?v=DvYs1HILq1g"}, {"label": "Energy", "url": "https://www.youtube.com/watch?v=lnbfPlpAKx0"}],
+        "videoUrls": [
+          {
+            "label": "Buoyancy",
+            "url": "https://www.youtube.com/watch?v=16HDJNoXQII"
+          },
+          {
+            "label": "Redox Reactions",
+            "url": "https://www.youtube.com/watch?v=DvYs1HILq1g"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=lnbfPlpAKx0"
+          }
+        ],
         "quiz": [
           {
             "q": "Archimedes’ principle states that a submerged object experiences a buoyant force equal to ___.",
@@ -15139,7 +15174,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
         "videoUrl": "https://www.youtube.com/watch?v=j9d6n_uUfFo",
-        "videoUrls": [{"label": "Coastal Geography", "url": "https://www.youtube.com/watch?v=j9d6n_uUfFo"}, {"label": "Governance", "url": "https://www.youtube.com/watch?v=Pco_xElw99o"}, {"label": "Refugee Settlement", "url": "https://www.youtube.com/watch?v=5Z55k7CqZ0c"}],
+        "videoUrls": [
+          {
+            "label": "Coastal Geography",
+            "url": "https://www.youtube.com/watch?v=j9d6n_uUfFo"
+          },
+          {
+            "label": "Governance",
+            "url": "https://www.youtube.com/watch?v=Pco_xElw99o"
+          },
+          {
+            "label": "Refugee Settlement",
+            "url": "https://www.youtube.com/watch?v=5Z55k7CqZ0c"
+          }
+        ],
         "quiz": [
           {
             "q": "Coastal geography examines the physical features and human activity found ___.",
@@ -15456,8 +15504,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
         "videoUrl": "https://www.youtube.com/watch?v=Fo1Csn-xBS8",
         "videoUrls": [
-          { "label": "The Narrative Essay", "url": "https://www.youtube.com/watch?v=Fo1Csn-xBS8" },
-          { "label": "Show, Don't Tell", "url": "https://www.youtube.com/watch?v=-U1pBoBOj9w" }
+          {
+            "label": "The Narrative Essay",
+            "url": "https://www.youtube.com/watch?v=Fo1Csn-xBS8"
+          },
+          {
+            "label": "Show, Don't Tell",
+            "url": "https://www.youtube.com/watch?v=-U1pBoBOj9w"
+          }
         ],
         "quiz": [
           {
@@ -27579,7 +27633,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nPJ2NSWWy50"
       }
     ]
   },

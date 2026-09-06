@@ -15175,7 +15175,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=WWGTeutbW2U",
-        "videoUrls": [{"label": "Fractions", "url": "https://www.youtube.com/watch?v=WWGTeutbW2U"}, {"label": "Decimals", "url": "https://www.youtube.com/watch?v=KrAQneGhyuE"}, {"label": "Patterns", "url": "https://www.youtube.com/watch?v=vV7C7bXm4VI"}],
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=WWGTeutbW2U"
+          },
+          {
+            "label": "Decimals",
+            "url": "https://www.youtube.com/watch?v=KrAQneGhyuE"
+          },
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=vV7C7bXm4VI"
+          }
+        ],
         "quiz": [
           {
             "q": "Multiplying a fraction by a whole number is the same as ___.",
@@ -15236,7 +15249,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=rnlHxAYwCbg",
-        "videoUrls": [{"label": "Forces", "url": "https://www.youtube.com/watch?v=rnlHxAYwCbg"}, {"label": "Structures", "url": "https://www.youtube.com/watch?v=mBHJtWbsiaA"}, {"label": "Systems", "url": "https://www.youtube.com/watch?v=vQSECrMIygg"}],
+        "videoUrls": [
+          {
+            "label": "Forces",
+            "url": "https://www.youtube.com/watch?v=rnlHxAYwCbg"
+          },
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=mBHJtWbsiaA"
+          },
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=vQSECrMIygg"
+          }
+        ],
         "quiz": [
           {
             "q": "Interdependence in an ecosystem means living things ___.",
@@ -15297,7 +15323,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
         "videoUrl": "https://www.youtube.com/watch?v=RgI2qoF4DEg",
-        "videoUrls": [{"label": "Mapping Skills", "url": "https://www.youtube.com/watch?v=RgI2qoF4DEg"}, {"label": "Comparing Government Systems", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"}, {"label": "Cultural Diversity", "url": "https://www.youtube.com/watch?v=UYElf0rSEvc"}],
+        "videoUrls": [
+          {
+            "label": "Mapping Skills",
+            "url": "https://www.youtube.com/watch?v=RgI2qoF4DEg"
+          },
+          {
+            "label": "Comparing Government Systems",
+            "url": "https://www.youtube.com/watch?v=ped-vegY6WA"
+          },
+          {
+            "label": "Cultural Diversity",
+            "url": "https://www.youtube.com/watch?v=UYElf0rSEvc"
+          }
+        ],
         "quiz": [
           {
             "q": "Why might a student consider access to fresh water when designing a model community?",
@@ -16049,7 +16088,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Science Review: Bodies, Habitats, and Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Animals%20grade%204%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=qWc8X6YeTv8",
-        "videoUrls": [{"label": "Bees and Pollination", "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8"}, {"label": "Animal Migration", "url": "https://www.youtube.com/watch?v=hMAS4SdPj-w"}, {"label": "Our Skeleton", "url": "https://www.youtube.com/watch?v=vRuh9aBwUdM"}],
+        "videoUrls": [
+          {
+            "label": "Bees and Pollination",
+            "url": "https://www.youtube.com/watch?v=qWc8X6YeTv8"
+          },
+          {
+            "label": "Animal Migration",
+            "url": "https://www.youtube.com/watch?v=hMAS4SdPj-w"
+          },
+          {
+            "label": "Our Skeleton",
+            "url": "https://www.youtube.com/watch?v=vRuh9aBwUdM"
+          }
+        ],
         "quiz": [
           {
             "q": "How many eyes does a person usually have?",
@@ -16257,7 +16309,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=RILEY1MWXLI",
-        "videoUrls": [{"label": "Estimating Products", "url": "https://www.youtube.com/watch?v=RILEY1MWXLI"}, {"label": "Estimating Quotients", "url": "https://www.youtube.com/watch?v=9VkvqQ5hcsQ"}],
+        "videoUrls": [
+          {
+            "label": "Estimating Products",
+            "url": "https://www.youtube.com/watch?v=RILEY1MWXLI"
+          },
+          {
+            "label": "Estimating Quotients",
+            "url": "https://www.youtube.com/watch?v=9VkvqQ5hcsQ"
+          }
+        ],
         "quiz": [
           {
             "q": "Estimating a product or quotient means ___.",
@@ -20407,7 +20468,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2teemgSaLdc"
       },
       {
         "subject": "Math",
@@ -20466,7 +20528,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=syeYX3bO648"
       },
       {
         "subject": "Science",
@@ -20525,7 +20588,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SexLZIyo_FA"
       },
       {
         "subject": "SocialStudies",
@@ -20584,7 +20648,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
       }
     ]
   },

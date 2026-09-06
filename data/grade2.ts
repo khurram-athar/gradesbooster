@@ -1107,9 +1107,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Vowel%20Sounds%2C%20Nouns%20%26%20Verbs%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=-EbzKgs6Aiw",
         "videoUrls": [
-          { "label": "Vowel Sounds", "url": "https://www.youtube.com/watch?v=-EbzKgs6Aiw" },
-          { "label": "Nouns", "url": "https://www.youtube.com/watch?v=3K5vg_QsKCc" },
-          { "label": "Action Verbs", "url": "https://www.youtube.com/watch?v=iwfUZAYyqR0" }
+          {
+            "label": "Vowel Sounds",
+            "url": "https://www.youtube.com/watch?v=-EbzKgs6Aiw"
+          },
+          {
+            "label": "Nouns",
+            "url": "https://www.youtube.com/watch?v=3K5vg_QsKCc"
+          },
+          {
+            "label": "Action Verbs",
+            "url": "https://www.youtube.com/watch?v=iwfUZAYyqR0"
+          }
         ],
         "quiz": [
           {
@@ -1172,9 +1181,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Addition%20%26%20Subtraction%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=9XZypM2Z3Ro",
         "videoUrls": [
-          { "label": "Numbers to 50", "url": "https://www.youtube.com/watch?v=9XZypM2Z3Ro" },
-          { "label": "Addition Within 20", "url": "https://www.youtube.com/watch?v=ZgzpTx-s9Zo" },
-          { "label": "Subtraction Within 20", "url": "https://www.youtube.com/watch?v=Ds226Vh7epg" }
+          {
+            "label": "Numbers to 50",
+            "url": "https://www.youtube.com/watch?v=9XZypM2Z3Ro"
+          },
+          {
+            "label": "Addition Within 20",
+            "url": "https://www.youtube.com/watch?v=ZgzpTx-s9Zo"
+          },
+          {
+            "label": "Subtraction Within 20",
+            "url": "https://www.youtube.com/watch?v=Ds226Vh7epg"
+          }
         ],
         "quiz": [
           {
@@ -1237,9 +1255,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Matter%20%26%20Movement%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=QmQvdUaH7hE",
         "videoUrls": [
-          { "label": "Living vs. Nonliving Things", "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE" },
-          { "label": "Properties of Liquids and Solids", "url": "https://www.youtube.com/watch?v=qYzjg5nRMOg" },
-          { "label": "Structures and Mechanisms: Movement", "url": "https://www.youtube.com/watch?v=1R6MxJpEjfs" }
+          {
+            "label": "Living vs. Nonliving Things",
+            "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE"
+          },
+          {
+            "label": "Properties of Liquids and Solids",
+            "url": "https://www.youtube.com/watch?v=qYzjg5nRMOg"
+          },
+          {
+            "label": "Structures and Mechanisms: Movement",
+            "url": "https://www.youtube.com/watch?v=1R6MxJpEjfs"
+          }
         ],
         "quiz": [
           {
@@ -1302,9 +1329,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Community%2C%20Traditions%20%26%20Maps%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=lGC0zxgRNJQ",
         "videoUrls": [
-          { "label": "My Family and Community", "url": "https://www.youtube.com/watch?v=lGC0zxgRNJQ" },
-          { "label": "Traditions and Celebrations", "url": "https://www.youtube.com/watch?v=pD8dTo4NxHM" },
-          { "label": "Maps and Globes", "url": "https://www.youtube.com/watch?v=KS6R6xSV9Vc" }
+          {
+            "label": "My Family and Community",
+            "url": "https://www.youtube.com/watch?v=lGC0zxgRNJQ"
+          },
+          {
+            "label": "Traditions and Celebrations",
+            "url": "https://www.youtube.com/watch?v=pD8dTo4NxHM"
+          },
+          {
+            "label": "Maps and Globes",
+            "url": "https://www.youtube.com/watch?v=KS6R6xSV9Vc"
+          }
         ],
         "quiz": [
           {
@@ -2369,9 +2405,18 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Language Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%202%20educational",
         "videoUrls": [
-          { "label": "Adjectives", "url": "https://www.youtube.com/watch?v=5ZkMbLkGims" },
-          { "label": "Main Idea", "url": "https://www.youtube.com/watch?v=xJGQIYU_xhs" },
-          { "label": "Sequencing Events", "url": "https://www.youtube.com/watch?v=4AMptAmS_xM" }
+          {
+            "label": "Adjectives",
+            "url": "https://www.youtube.com/watch?v=5ZkMbLkGims"
+          },
+          {
+            "label": "Main Idea",
+            "url": "https://www.youtube.com/watch?v=xJGQIYU_xhs"
+          },
+          {
+            "label": "Sequencing Events",
+            "url": "https://www.youtube.com/watch?v=4AMptAmS_xM"
+          }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=o73GnZotE_Y",
         "quiz": [
@@ -2434,9 +2479,18 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Math Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%202%20educational",
         "videoUrls": [
-          { "label": "Place Value: Tens and Ones", "url": "https://www.youtube.com/watch?v=_dHu5TFxPtk" },
-          { "label": "Skip Counting by 2s, 5s, and 10s", "url": "https://www.youtube.com/watch?v=DS3W9WLIxlQ" },
-          { "label": "Telling Time to the Hour and Half Hour", "url": "https://www.youtube.com/watch?v=MaVgBjVh4b8" }
+          {
+            "label": "Place Value: Tens and Ones",
+            "url": "https://www.youtube.com/watch?v=_dHu5TFxPtk"
+          },
+          {
+            "label": "Skip Counting by 2s, 5s, and 10s",
+            "url": "https://www.youtube.com/watch?v=DS3W9WLIxlQ"
+          },
+          {
+            "label": "Telling Time to the Hour and Half Hour",
+            "url": "https://www.youtube.com/watch?v=MaVgBjVh4b8"
+          }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=joHaCejRnmo",
         "quiz": [
@@ -2499,9 +2553,18 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Science Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%202%20educational",
         "videoUrls": [
-          { "label": "Growth and Changes in Animals", "url": "https://www.youtube.com/watch?v=LHcQWk1dHzk" },
-          { "label": "Pushes and Pulls", "url": "https://www.youtube.com/watch?v=zI-vmLrBQzU" },
-          { "label": "Weather and Seasons", "url": "https://www.youtube.com/watch?v=4HeeCYVqf3U" }
+          {
+            "label": "Growth and Changes in Animals",
+            "url": "https://www.youtube.com/watch?v=LHcQWk1dHzk"
+          },
+          {
+            "label": "Pushes and Pulls",
+            "url": "https://www.youtube.com/watch?v=zI-vmLrBQzU"
+          },
+          {
+            "label": "Weather and Seasons",
+            "url": "https://www.youtube.com/watch?v=4HeeCYVqf3U"
+          }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=4VapPTbbGkA",
         "quiz": [
@@ -2564,9 +2627,18 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Social Studies Skills",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%202%20educational",
         "videoUrls": [
-          { "label": "Rules and Responsibilities", "url": "https://www.youtube.com/watch?v=5dtuZkposkk" },
-          { "label": "Jobs and Community Helpers", "url": "https://www.youtube.com/watch?v=wlBC2ljoGAk" },
-          { "label": "Finding Directions on a Map", "url": "https://www.youtube.com/watch?v=mtsx8V3mE8o" }
+          {
+            "label": "Rules and Responsibilities",
+            "url": "https://www.youtube.com/watch?v=5dtuZkposkk"
+          },
+          {
+            "label": "Jobs and Community Helpers",
+            "url": "https://www.youtube.com/watch?v=wlBC2ljoGAk"
+          },
+          {
+            "label": "Finding Directions on a Map",
+            "url": "https://www.youtube.com/watch?v=mtsx8V3mE8o"
+          }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=4Ub0dIC4ezw",
         "quiz": [
@@ -3627,7 +3699,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Compound Words, Contractions, Synonyms & Antonyms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Compound%20Words%2C%20Contractions%2C%20Synonyms%20%26%20Antonyms%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=82G-ZWzUHhU",
-        "videoUrls": [{"label":"Compound Words","url":"https://www.youtube.com/watch?v=82G-ZWzUHhU"},{"label":"Contractions","url":"https://www.youtube.com/watch?v=gubPH3WEurg"},{"label":"Synonyms and Antonyms","url":"https://www.youtube.com/watch?v=PDI2xlOBcM4"}],
+        "videoUrls": [
+          {
+            "label": "Compound Words",
+            "url": "https://www.youtube.com/watch?v=82G-ZWzUHhU"
+          },
+          {
+            "label": "Contractions",
+            "url": "https://www.youtube.com/watch?v=gubPH3WEurg"
+          },
+          {
+            "label": "Synonyms and Antonyms",
+            "url": "https://www.youtube.com/watch?v=PDI2xlOBcM4"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word is a compound word?",
@@ -3688,7 +3773,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Addition, Subtraction, Coins & Measuring",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Addition%2C%20Subtraction%2C%20Coins%20%26%20Measuring%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=c4xw9DqOKH4",
-        "videoUrls": [{"label":"Addition Within 100","url":"https://www.youtube.com/watch?v=c4xw9DqOKH4"},{"label":"Subtraction Within 100","url":"https://www.youtube.com/watch?v=Ds226Vh7epg"},{"label":"Counting Coins","url":"https://www.youtube.com/watch?v=BxrzwF6oV6s"}],
+        "videoUrls": [
+          {
+            "label": "Addition Within 100",
+            "url": "https://www.youtube.com/watch?v=c4xw9DqOKH4"
+          },
+          {
+            "label": "Subtraction Within 100",
+            "url": "https://www.youtube.com/watch?v=Ds226Vh7epg"
+          },
+          {
+            "label": "Counting Coins",
+            "url": "https://www.youtube.com/watch?v=BxrzwF6oV6s"
+          }
+        ],
         "quiz": [
           {
             "q": "34 + 23 = ?",
@@ -3749,7 +3847,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Plants, Habitats, Senses & Ramps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Plants%2C%20Habitats%2C%20Senses%20%26%20Ramps%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=u46A0WKp2nk",
-        "videoUrls": [{"label":"What Plants Need to Grow","url":"https://www.youtube.com/watch?v=u46A0WKp2nk"},{"label":"Animal Habitats","url":"https://www.youtube.com/watch?v=Xj1ASC-TlsI"},{"label":"The Five Senses","url":"https://www.youtube.com/watch?v=q1xNuU7gaAQ"}],
+        "videoUrls": [
+          {
+            "label": "What Plants Need to Grow",
+            "url": "https://www.youtube.com/watch?v=u46A0WKp2nk"
+          },
+          {
+            "label": "Animal Habitats",
+            "url": "https://www.youtube.com/watch?v=Xj1ASC-TlsI"
+          },
+          {
+            "label": "The Five Senses",
+            "url": "https://www.youtube.com/watch?v=q1xNuU7gaAQ"
+          }
+        ],
         "quiz": [
           {
             "q": "What do plants need to grow?",
@@ -3810,7 +3921,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Canada Symbols, Indigenous Peoples, Change & Needs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Canada%20Symbols%2C%20Indigenous%20Peoples%2C%20Change%20%26%20Needs%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=38BGXJ572Y8",
-        "videoUrls": [{"label":"Symbols of Canada","url":"https://www.youtube.com/watch?v=38BGXJ572Y8"},{"label":"Indigenous Peoples and First Nations of Canada","url":"https://www.youtube.com/watch?v=Qo7aTFHyhPE"},{"label":"How Communities Change Over Time","url":"https://www.youtube.com/watch?v=FnF5I3_q0H4"}],
+        "videoUrls": [
+          {
+            "label": "Symbols of Canada",
+            "url": "https://www.youtube.com/watch?v=38BGXJ572Y8"
+          },
+          {
+            "label": "Indigenous Peoples and First Nations of Canada",
+            "url": "https://www.youtube.com/watch?v=Qo7aTFHyhPE"
+          },
+          {
+            "label": "How Communities Change Over Time",
+            "url": "https://www.youtube.com/watch?v=FnF5I3_q0H4"
+          }
+        ],
         "quiz": [
           {
             "q": "What leaf is on the Canadian flag?",
@@ -4875,7 +4999,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Story Elements, Plurals, Possessives & Question Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Story%20Elements%2C%20Plurals%2C%20Possessives%20%26%20Question%20Words%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=1M0pFLXegG0",
-        "videoUrls": [{"label":"Story Elements","url":"https://www.youtube.com/watch?v=1M0pFLXegG0"},{"label":"Plural Nouns","url":"https://www.youtube.com/watch?v=lD1OaD4FBqM"},{"label":"Possessive Nouns","url":"https://www.youtube.com/watch?v=h7_aNX-wj9A"}],
+        "videoUrls": [
+          {
+            "label": "Story Elements",
+            "url": "https://www.youtube.com/watch?v=1M0pFLXegG0"
+          },
+          {
+            "label": "Plural Nouns",
+            "url": "https://www.youtube.com/watch?v=lD1OaD4FBqM"
+          },
+          {
+            "label": "Possessive Nouns",
+            "url": "https://www.youtube.com/watch?v=h7_aNX-wj9A"
+          }
+        ],
         "quiz": [
           {
             "q": "The 'setting' of a story is...",
@@ -4936,7 +5073,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Patterns, Fractions, Graphs & Equal Groups",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Patterns%2C%20Fractions%2C%20Graphs%20%26%20Equal%20Groups%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=JcNCfb0c8nc",
-        "videoUrls": [{"label":"Growing and Shrinking Patterns","url":"https://www.youtube.com/watch?v=JcNCfb0c8nc"},{"label":"Fractions: Halves and Quarters","url":"https://www.youtube.com/watch?v=362JVVvgYPE"},{"label":"Reading Graphs","url":"https://www.youtube.com/watch?v=zF_dBk8EPDk"}],
+        "videoUrls": [
+          {
+            "label": "Growing and Shrinking Patterns",
+            "url": "https://www.youtube.com/watch?v=JcNCfb0c8nc"
+          },
+          {
+            "label": "Fractions: Halves and Quarters",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Reading Graphs",
+            "url": "https://www.youtube.com/watch?v=zF_dBk8EPDk"
+          }
+        ],
         "quiz": [
           {
             "q": "What comes next: 4, 8, 12, 16, __?",
@@ -4997,7 +5147,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Materials, Shadows, Light & Body",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Materials%2C%20Shadows%2C%20Light%20%26%20Body%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=veUUii1U8-o",
-        "videoUrls": [{"label":"Properties of Materials","url":"https://www.youtube.com/watch?v=veUUii1U8-o"},{"label":"Day, Night, and Shadows","url":"https://www.youtube.com/watch?v=3ydqMIvAWz4"},{"label":"Light and Sound as Forms of Energy","url":"https://www.youtube.com/watch?v=cDaWohR_DVo"}],
+        "videoUrls": [
+          {
+            "label": "Properties of Materials",
+            "url": "https://www.youtube.com/watch?v=veUUii1U8-o"
+          },
+          {
+            "label": "Day, Night, and Shadows",
+            "url": "https://www.youtube.com/watch?v=3ydqMIvAWz4"
+          },
+          {
+            "label": "Light and Sound as Forms of Energy",
+            "url": "https://www.youtube.com/watch?v=cDaWohR_DVo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word describes the feel of sandpaper?",
@@ -5058,7 +5221,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Money, Continents, Environment & Citizenship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Z7hwaeaDk-I",
-        "videoUrls": [{"label":"How Money and Trading Work","url":"https://www.youtube.com/watch?v=Z7hwaeaDk-I"},{"label":"The Seven Continents and Five Oceans","url":"https://www.youtube.com/watch?v=K6DSMZ8b3LE"},{"label":"Caring for the Environment","url":"https://www.youtube.com/watch?v=X2YgM1Zw4_E"}],
+        "videoUrls": [
+          {
+            "label": "How Money and Trading Work",
+            "url": "https://www.youtube.com/watch?v=Z7hwaeaDk-I"
+          },
+          {
+            "label": "The Seven Continents and Five Oceans",
+            "url": "https://www.youtube.com/watch?v=K6DSMZ8b3LE"
+          },
+          {
+            "label": "Caring for the Environment",
+            "url": "https://www.youtube.com/watch?v=X2YgM1Zw4_E"
+          }
+        ],
         "quiz": [
           {
             "q": "What is bartering?",
@@ -6124,9 +6300,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Alphabetical%20Order%2C%20Punctuation%2C%20Sentence%20Types%20%26%20Predictions%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=z9tqxFdmx5k",
         "videoUrls": [
-          { "label": "Alphabetical Order", "url": "https://www.youtube.com/watch?v=z9tqxFdmx5k" },
-          { "label": "Punctuation in Context", "url": "https://www.youtube.com/watch?v=LdCOswMeXFQ" },
-          { "label": "Types of Sentences", "url": "https://www.youtube.com/watch?v=g9_DQOwETMo" }
+          {
+            "label": "Alphabetical Order",
+            "url": "https://www.youtube.com/watch?v=z9tqxFdmx5k"
+          },
+          {
+            "label": "Punctuation in Context",
+            "url": "https://www.youtube.com/watch?v=LdCOswMeXFQ"
+          },
+          {
+            "label": "Types of Sentences",
+            "url": "https://www.youtube.com/watch?v=g9_DQOwETMo"
+          }
         ],
         "quiz": [
           {
@@ -6189,9 +6374,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Position%20Words%2C%20Doubles%2C%20Estimation%20%26%20Capacity%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=HnlJzWhsNnw",
         "videoUrls": [
-          { "label": "Position Words", "url": "https://www.youtube.com/watch?v=HnlJzWhsNnw" },
-          { "label": "Estimation Then Counting to Check", "url": "https://www.youtube.com/watch?v=xnUkIsdvfGY" },
-          { "label": "Doubles Facts", "url": "https://www.youtube.com/watch?v=qaqLjzMyyHI" }
+          {
+            "label": "Position Words",
+            "url": "https://www.youtube.com/watch?v=HnlJzWhsNnw"
+          },
+          {
+            "label": "Estimation Then Counting to Check",
+            "url": "https://www.youtube.com/watch?v=xnUkIsdvfGY"
+          },
+          {
+            "label": "Doubles Facts",
+            "url": "https://www.youtube.com/watch?v=qaqLjzMyyHI"
+          }
         ],
         "quiz": [
           {
@@ -6254,9 +6448,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Animal%20Adaptations%2C%20Tools%20%26%20Senses%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=QmQvdUaH7hE",
         "videoUrls": [
-          { "label": "Living vs. Non-Living Things", "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE" },
-          { "label": "Using Tools: Thermometers and Magnifying Glasses", "url": "https://www.youtube.com/watch?v=AmrFkCwd1Lc" },
-          { "label": "The Five Senses in Science Observations", "url": "https://www.youtube.com/watch?v=q1xNuU7gaAQ" }
+          {
+            "label": "Living vs. Non-Living Things",
+            "url": "https://www.youtube.com/watch?v=QmQvdUaH7hE"
+          },
+          {
+            "label": "Using Tools: Thermometers and Magnifying Glasses",
+            "url": "https://www.youtube.com/watch?v=AmrFkCwd1Lc"
+          },
+          {
+            "label": "The Five Senses in Science Observations",
+            "url": "https://www.youtube.com/watch?v=q1xNuU7gaAQ"
+          }
         ],
         "quiz": [
           {
@@ -6319,9 +6522,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Transportation%2C%20Celebrations%2C%20Canadian%20Communities%20%26%20Environment%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=7WME-lWSbDw",
         "videoUrls": [
-          { "label": "Transportation Long Ago vs. Today", "url": "https://www.youtube.com/watch?v=7WME-lWSbDw" },
-          { "label": "Celebrations and Traditions Around the World", "url": "https://www.youtube.com/watch?v=RwSYrsjTiW4" },
-          { "label": "Alphabetical Review: Canadian Communities", "url": "https://www.youtube.com/watch?v=Qo7aTFHyhPE" }
+          {
+            "label": "Transportation Long Ago vs. Today",
+            "url": "https://www.youtube.com/watch?v=7WME-lWSbDw"
+          },
+          {
+            "label": "Celebrations and Traditions Around the World",
+            "url": "https://www.youtube.com/watch?v=RwSYrsjTiW4"
+          },
+          {
+            "label": "Alphabetical Review: Canadian Communities",
+            "url": "https://www.youtube.com/watch?v=Qo7aTFHyhPE"
+          }
         ],
         "quiz": [
           {
@@ -17635,7 +17847,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Language Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=39mPS4fnJn0",
-        "videoUrls": [{"label": "Past Tense Verbs", "url": "https://www.youtube.com/watch?v=39mPS4fnJn0"}, {"label": "Capitalization", "url": "https://www.youtube.com/watch?v=bnRfLdFPHQI"}, {"label": "Multiple-Meaning Words", "url": "https://www.youtube.com/watch?v=CNMj-4giv6c"}],
+        "videoUrls": [
+          {
+            "label": "Past Tense Verbs",
+            "url": "https://www.youtube.com/watch?v=39mPS4fnJn0"
+          },
+          {
+            "label": "Capitalization",
+            "url": "https://www.youtube.com/watch?v=bnRfLdFPHQI"
+          },
+          {
+            "label": "Multiple-Meaning Words",
+            "url": "https://www.youtube.com/watch?v=CNMj-4giv6c"
+          }
+        ],
         "quiz": [
           {
             "q": "What ending do we usually add to a verb to show something already happened?",
@@ -17718,7 +17943,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Math Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=_D6IPnvX0dY",
-        "videoUrls": [{"label": "Skip Counting", "url": "https://www.youtube.com/watch?v=_D6IPnvX0dY"}, {"label": "Division", "url": "https://www.youtube.com/watch?v=IAIi92Rrn_U"}, {"label": "Probability", "url": "https://www.youtube.com/watch?v=lYXDQ5-I7Qk"}],
+        "videoUrls": [
+          {
+            "label": "Skip Counting",
+            "url": "https://www.youtube.com/watch?v=_D6IPnvX0dY"
+          },
+          {
+            "label": "Division",
+            "url": "https://www.youtube.com/watch?v=IAIi92Rrn_U"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=lYXDQ5-I7Qk"
+          }
+        ],
         "quiz": [
           {
             "q": "Skip count by 4s: 4, 8, 12, ___",
@@ -17802,7 +18040,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Science Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=YOIRci0CKzg",
-        "videoUrls": [{"label": "Animal Camouflage", "url": "https://www.youtube.com/watch?v=YOIRci0CKzg"}, {"label": "Butterfly Metamorphosis", "url": "https://www.youtube.com/watch?v=BH3SH42a9h4"}, {"label": "Bones and Muscles", "url": "https://www.youtube.com/watch?v=fbmD0Y8_OWE"}],
+        "videoUrls": [
+          {
+            "label": "Animal Camouflage",
+            "url": "https://www.youtube.com/watch?v=YOIRci0CKzg"
+          },
+          {
+            "label": "Butterfly Metamorphosis",
+            "url": "https://www.youtube.com/watch?v=BH3SH42a9h4"
+          },
+          {
+            "label": "Bones and Muscles",
+            "url": "https://www.youtube.com/watch?v=fbmD0Y8_OWE"
+          }
+        ],
         "quiz": [
           {
             "q": "Why might an animal use camouflage?",
@@ -17884,7 +18135,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Social Studies Skills (Days 51-59)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=KKm4H6LxgnU",
-        "videoUrls": [{"label": "Terry Fox", "url": "https://www.youtube.com/watch?v=KKm4H6LxgnU"}, {"label": "Canadian Inventions", "url": "https://www.youtube.com/watch?v=g76h6PE9y70"}, {"label": "Water Systems", "url": "https://www.youtube.com/watch?v=5Ssty1ejoek"}],
+        "videoUrls": [
+          {
+            "label": "Terry Fox",
+            "url": "https://www.youtube.com/watch?v=KKm4H6LxgnU"
+          },
+          {
+            "label": "Canadian Inventions",
+            "url": "https://www.youtube.com/watch?v=g76h6PE9y70"
+          },
+          {
+            "label": "Water Systems",
+            "url": "https://www.youtube.com/watch?v=5Ssty1ejoek"
+          }
+        ],
         "quiz": [
           {
             "q": "Which sport was invented by a Canadian named James Naismith?",
@@ -21903,7 +22167,8 @@ const curriculum: DayContent[] = [
               "below"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PuUqO_7eGTU"
       },
       {
         "subject": "Math",
@@ -21985,7 +22250,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=ELvXOb4PASk"
       },
       {
         "subject": "Science",
@@ -22068,7 +22334,8 @@ const curriculum: DayContent[] = [
               "easier"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lueqE0lxLyc"
       },
       {
         "subject": "SocialStudies",
@@ -22153,7 +22420,8 @@ const curriculum: DayContent[] = [
               "to avoid spending money on things you do not need"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2u0Ke01p93g"
       }
     ]
   },
@@ -24625,7 +24893,8 @@ const curriculum: DayContent[] = [
               "edit"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=b7wVc_5UuxQ"
       },
       {
         "subject": "Math",
@@ -24704,7 +24973,8 @@ const curriculum: DayContent[] = [
               "6"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wBhwDtn5Xeg"
       },
       {
         "subject": "Science",
@@ -24785,7 +25055,8 @@ const curriculum: DayContent[] = [
               "precipitation"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ"
       },
       {
         "subject": "SocialStudies",
@@ -24868,7 +25139,8 @@ const curriculum: DayContent[] = [
               "july 1st"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yJGfHDSGlHs"
       }
     ]
   },

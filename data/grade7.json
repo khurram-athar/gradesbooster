@@ -19953,7 +19953,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QoI9abR7JKs"
       },
       {
         "subject": "Math",
@@ -20012,7 +20013,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zHx4rl1_zdE"
       },
       {
         "subject": "Science",
@@ -20071,7 +20073,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AVVDP_XJHkA"
       },
       {
         "subject": "SocialStudies",
@@ -20130,7 +20133,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zAg-E4-ZvMs"
       }
     ]
   },
@@ -22403,7 +22407,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=41s2xrDH-Pw"
       },
       {
         "subject": "Math",
@@ -22461,6 +22466,17 @@
               "A number greater than 1 with exactly two factors, 1 and itself"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m7pCJKPdkHE",
+        "videoUrls": [
+          {
+            "label": "Circles",
+            "url": "https://www.youtube.com/watch?v=m7pCJKPdkHE"
+          },
+          {
+            "label": "Adding and Subtracting Integers",
+            "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"
           }
         ]
       },
@@ -24912,6 +24928,21 @@
               "How data is perceived"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Q1F3T_okqbU",
+        "videoUrls": [
+          {
+            "label": "Scale Drawings",
+            "url": "https://www.youtube.com/watch?v=Q1F3T_okqbU"
+          },
+          {
+            "label": "Multiplying and Dividing Integers",
+            "url": "https://www.youtube.com/watch?v=FeP-EVRW-RA"
+          },
+          {
+            "label": "Exponents",
+            "url": "https://www.youtube.com/watch?v=yQ3SZgdqb7I"
           }
         ]
       },
@@ -33237,6 +33268,17 @@
               "A concept unrelated to probability"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m7pCJKPdkHE",
+        "videoUrls": [
+          {
+            "label": "Circles",
+            "url": "https://www.youtube.com/watch?v=m7pCJKPdkHE"
+          },
+          {
+            "label": "Adding and Subtracting Integers",
+            "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"
           }
         ]
       },

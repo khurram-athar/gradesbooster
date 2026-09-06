@@ -3630,8 +3630,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Habitats%20Review%20and%20Biodiversity%20grade%203%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Xj1ASC-TlsI",
         "videoUrls": [
-          { "label": "Habitats", "url": "https://www.youtube.com/watch?v=Xj1ASC-TlsI" },
-          { "label": "Biodiversity", "url": "https://www.youtube.com/watch?v=rVZktiOxsww" }
+          {
+            "label": "Habitats",
+            "url": "https://www.youtube.com/watch?v=Xj1ASC-TlsI"
+          },
+          {
+            "label": "Biodiversity",
+            "url": "https://www.youtube.com/watch?v=rVZktiOxsww"
+          }
         ],
         "quiz": [
           {
@@ -14682,9 +14688,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "videoUrl": "https://www.youtube.com/watch?v=bKIGBcAtVfQ",
         "videoUrls": [
-          {"label": "Local Government Decision-Making", "url": "https://www.youtube.com/watch?v=bKIGBcAtVfQ"},
-          {"label": "Trade Between Communities", "url": "https://www.youtube.com/watch?v=OSKArnFOnZo"},
-          {"label": "Community Helpers", "url": "https://www.youtube.com/watch?v=9Wzqrp4iMrg"}
+          {
+            "label": "Local Government Decision-Making",
+            "url": "https://www.youtube.com/watch?v=bKIGBcAtVfQ"
+          },
+          {
+            "label": "Trade Between Communities",
+            "url": "https://www.youtube.com/watch?v=OSKArnFOnZo"
+          },
+          {
+            "label": "Community Helpers",
+            "url": "https://www.youtube.com/watch?v=9Wzqrp4iMrg"
+          }
         ],
         "quiz": [
           {
@@ -14813,7 +14828,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
-        "videoUrls": [{"label": "Multiplication", "url": "https://www.youtube.com/watch?v=PZjIT9CH6bM"}, {"label": "Division", "url": "https://www.youtube.com/watch?v=7ydIF4UmXnE"}, {"label": "Geometry", "url": "https://www.youtube.com/watch?v=Y-AFX5cq4U0"}],
+        "videoUrls": [
+          {
+            "label": "Multiplication",
+            "url": "https://www.youtube.com/watch?v=PZjIT9CH6bM"
+          },
+          {
+            "label": "Division",
+            "url": "https://www.youtube.com/watch?v=7ydIF4UmXnE"
+          },
+          {
+            "label": "Geometry",
+            "url": "https://www.youtube.com/watch?v=Y-AFX5cq4U0"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 23 × 3?",
@@ -14874,7 +14902,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=L9j8N6WKprY",
-        "videoUrls": [{"label": "Rocks", "url": "https://www.youtube.com/watch?v=L9j8N6WKprY"}, {"label": "Energy", "url": "https://www.youtube.com/watch?v=1kUE0BZtTRc"}, {"label": "Living Things", "url": "https://www.youtube.com/watch?v=l7mXl-4TXmQ"}],
+        "videoUrls": [
+          {
+            "label": "Rocks",
+            "url": "https://www.youtube.com/watch?v=L9j8N6WKprY"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=1kUE0BZtTRc"
+          },
+          {
+            "label": "Living Things",
+            "url": "https://www.youtube.com/watch?v=l7mXl-4TXmQ"
+          }
+        ],
         "quiz": [
           {
             "q": "The rock cycle describes how rocks slowly ___ over long periods of time.",
@@ -14935,7 +14976,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "videoUrl": "https://www.youtube.com/watch?v=WpJSP2q5-M4",
-        "videoUrls": [{"label": "Local Government", "url": "https://www.youtube.com/watch?v=WpJSP2q5-M4"}, {"label": "Indigenous Contributions", "url": "https://www.youtube.com/watch?v=glSIDAyyPJA"}, {"label": "Immigration Stories", "url": "https://www.youtube.com/watch?v=cX02bJ1pyw4"}],
+        "videoUrls": [
+          {
+            "label": "Local Government",
+            "url": "https://www.youtube.com/watch?v=WpJSP2q5-M4"
+          },
+          {
+            "label": "Indigenous Contributions",
+            "url": "https://www.youtube.com/watch?v=glSIDAyyPJA"
+          },
+          {
+            "label": "Immigration Stories",
+            "url": "https://www.youtube.com/watch?v=cX02bJ1pyw4"
+          }
+        ],
         "quiz": [
           {
             "q": "Why is it valuable for students to understand how local government decisions are made?",
@@ -15125,7 +15179,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=h3AfKj37mbo",
-        "videoUrls": [{"label": "Screw", "url": "https://www.youtube.com/watch?v=h3AfKj37mbo"}, {"label": "Wedge", "url": "https://www.youtube.com/watch?v=z-MOrUvjNm8"}],
+        "videoUrls": [
+          {
+            "label": "Screw",
+            "url": "https://www.youtube.com/watch?v=h3AfKj37mbo"
+          },
+          {
+            "label": "Wedge",
+            "url": "https://www.youtube.com/watch?v=z-MOrUvjNm8"
+          }
+        ],
         "quiz": [
           {
             "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
@@ -17873,7 +17936,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=8_eM9g9of2I"
       },
       {
         "subject": "Math",
@@ -17933,7 +17997,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=aXAq6eryRjc"
       },
       {
         "subject": "Science",
@@ -17993,7 +18058,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=sV3HKdnCwRI"
       },
       {
         "subject": "SocialStudies",
@@ -18053,7 +18119,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=HJV7SbkeC60"
       }
     ]
   },

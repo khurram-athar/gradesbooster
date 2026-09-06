@@ -511,7 +511,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Theme and Tone",
         "resourceUrl": "https://www.youtube.com/results?search_query=Theme%20and%20Tone%20grade%207%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=MAu3e5GZo4k",
-        "videoUrls": [{"label":"Theme","url":"https://www.youtube.com/watch?v=MAu3e5GZo4k"},{"label":"Tone","url":"https://www.youtube.com/watch?v=TnpwyZLyUJE"}],
+        "videoUrls": [
+          {
+            "label": "Theme",
+            "url": "https://www.youtube.com/watch?v=MAu3e5GZo4k"
+          },
+          {
+            "label": "Tone",
+            "url": "https://www.youtube.com/watch?v=TnpwyZLyUJE"
+          }
+        ],
         "quiz": [
           {
             "q": "Theme refers to...",
@@ -7239,7 +7248,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Setting%2FMood%2C%20Sentence%20Variety%2C%20Feedback%2C%20Presentation%20grade%207%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=SQq7XZ_Im34",
-        "videoUrls": [{"label":"Setting and Mood","url":"https://www.youtube.com/watch?v=SQq7XZ_Im34"},{"label":"Sentence Variety","url":"https://www.youtube.com/watch?v=IgEN9iKcZ5s"},{"label":"Peer Editing and Feedback","url":"https://www.youtube.com/watch?v=dvxEoW2waac"}],
+        "videoUrls": [
+          {
+            "label": "Setting and Mood",
+            "url": "https://www.youtube.com/watch?v=SQq7XZ_Im34"
+          },
+          {
+            "label": "Sentence Variety",
+            "url": "https://www.youtube.com/watch?v=IgEN9iKcZ5s"
+          },
+          {
+            "label": "Peer Editing and Feedback",
+            "url": "https://www.youtube.com/watch?v=dvxEoW2waac"
+          }
+        ],
         "quiz": [
           {
             "q": "Setting refers to...",
@@ -7300,7 +7322,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Negative%20Numbers%2C%20Probability%2C%20Unit%20Conversions%20grade%207%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=rpMu98yRk40",
-        "videoUrls": [{"label":"Coordinate Geometry: Distance Between Points","url":"https://www.youtube.com/watch?v=rpMu98yRk40"},{"label":"Negative Number Applications","url":"https://www.youtube.com/watch?v=OAoLCXpao6s"},{"label":"Probability: Independent Events","url":"https://www.youtube.com/watch?v=jcggUGY3vIg"}],
+        "videoUrls": [
+          {
+            "label": "Coordinate Geometry: Distance Between Points",
+            "url": "https://www.youtube.com/watch?v=rpMu98yRk40"
+          },
+          {
+            "label": "Negative Number Applications",
+            "url": "https://www.youtube.com/watch?v=OAoLCXpao6s"
+          },
+          {
+            "label": "Probability: Independent Events",
+            "url": "https://www.youtube.com/watch?v=jcggUGY3vIg"
+          }
+        ],
         "quiz": [
           {
             "q": "The distance between (2,3) and (2,7) is...",
@@ -7361,7 +7396,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: pH, Energy Flow, Design Process, Environmental Assessment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20pH%2C%20Energy%20Flow%2C%20Design%20Process%2C%20Environmental%20Assessment%20grade%207%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Xeuyc55LqiY",
-        "videoUrls": [{"label":"pH and Acids/Bases","url":"https://www.youtube.com/watch?v=Xeuyc55LqiY"},{"label":"Ecosystems and Energy Flow","url":"https://www.youtube.com/watch?v=-oVavgmveyY"},{"label":"Technological Design Process","url":"https://www.youtube.com/watch?v=W-eqjMc1Efs"}],
+        "videoUrls": [
+          {
+            "label": "pH and Acids/Bases",
+            "url": "https://www.youtube.com/watch?v=Xeuyc55LqiY"
+          },
+          {
+            "label": "Ecosystems and Energy Flow",
+            "url": "https://www.youtube.com/watch?v=-oVavgmveyY"
+          },
+          {
+            "label": "Technological Design Process",
+            "url": "https://www.youtube.com/watch?v=W-eqjMc1Efs"
+          }
+        ],
         "quiz": [
           {
             "q": "A pH of 7 is considered...",
@@ -7422,7 +7470,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Government%20Structure%2C%20Canada-US%20Relations%2C%20SDGs%2C%20Geographic%20Inquiry%20grade%207%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=7C8uDuhLqvg",
-        "videoUrls": [{"label":"The Structure of Canadian Government","url":"https://www.youtube.com/watch?v=7C8uDuhLqvg"},{"label":"Canada's Relationship with the United States","url":"https://www.youtube.com/watch?v=wyS5-hSfx8o"},{"label":"Sustainable Development Goals","url":"https://www.youtube.com/watch?v=7dzFbP2AgFo"}],
+        "videoUrls": [
+          {
+            "label": "The Structure of Canadian Government",
+            "url": "https://www.youtube.com/watch?v=7C8uDuhLqvg"
+          },
+          {
+            "label": "Canada's Relationship with the United States",
+            "url": "https://www.youtube.com/watch?v=wyS5-hSfx8o"
+          },
+          {
+            "label": "Sustainable Development Goals",
+            "url": "https://www.youtube.com/watch?v=7dzFbP2AgFo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which level of government is responsible for national defence?",
@@ -14838,7 +14899,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=ffLLmV4mZwU",
-        "videoUrls": [{"label": "Polynomials", "url": "https://www.youtube.com/watch?v=ffLLmV4mZwU"}, {"label": "Pythagorean Applications", "url": "https://www.youtube.com/watch?v=FdnH3GPYOQA"}, {"label": "Data Displays", "url": "https://www.youtube.com/watch?v=B1HEzNTGeZ4"}],
+        "videoUrls": [
+          {
+            "label": "Polynomials",
+            "url": "https://www.youtube.com/watch?v=ffLLmV4mZwU"
+          },
+          {
+            "label": "Pythagorean Applications",
+            "url": "https://www.youtube.com/watch?v=FdnH3GPYOQA"
+          },
+          {
+            "label": "Data Displays",
+            "url": "https://www.youtube.com/watch?v=B1HEzNTGeZ4"
+          }
+        ],
         "quiz": [
           {
             "q": "A polynomial is an expression made up of ___.",
@@ -14899,7 +14973,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=xMmFTA9AThw",
-        "videoUrls": [{"label": "Motion", "url": "https://www.youtube.com/watch?v=xMmFTA9AThw"}, {"label": "Sound", "url": "https://www.youtube.com/watch?v=YQ2JrOL-7fs"}, {"label": "Structures", "url": "https://www.youtube.com/watch?v=PsHmXEsk47k"}],
+        "videoUrls": [
+          {
+            "label": "Motion",
+            "url": "https://www.youtube.com/watch?v=xMmFTA9AThw"
+          },
+          {
+            "label": "Sound",
+            "url": "https://www.youtube.com/watch?v=YQ2JrOL-7fs"
+          },
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=PsHmXEsk47k"
+          }
+        ],
         "quiz": [
           {
             "q": "Newton’s first law of motion describes ___.",
@@ -15836,7 +15923,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=x8wEnG4GURQ",
-        "videoUrls": [{"label": "Volume and Surface Area of Pyramids", "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"}, {"label": "Volume and Surface Area of Cones", "url": "https://www.youtube.com/watch?v=crxFsKRGEqk"}],
+        "videoUrls": [
+          {
+            "label": "Volume and Surface Area of Pyramids",
+            "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"
+          },
+          {
+            "label": "Volume and Surface Area of Cones",
+            "url": "https://www.youtube.com/watch?v=crxFsKRGEqk"
+          }
+        ],
         "quiz": [
           {
             "q": "The volume of a pyramid or cone is ___ the volume of a prism or cylinder with the same base and height.",
@@ -19859,7 +19955,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QoI9abR7JKs"
       },
       {
         "subject": "Math",
@@ -19918,7 +20015,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zHx4rl1_zdE"
       },
       {
         "subject": "Science",
@@ -19977,7 +20075,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AVVDP_XJHkA"
       },
       {
         "subject": "SocialStudies",
@@ -20036,7 +20135,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zAg-E4-ZvMs"
       }
     ]
   },
@@ -22309,7 +22409,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=41s2xrDH-Pw"
       },
       {
         "subject": "Math",
@@ -22367,6 +22468,17 @@ const curriculum: DayContent[] = [
               "A number greater than 1 with exactly two factors, 1 and itself"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m7pCJKPdkHE",
+        "videoUrls": [
+          {
+            "label": "Circles",
+            "url": "https://www.youtube.com/watch?v=m7pCJKPdkHE"
+          },
+          {
+            "label": "Adding and Subtracting Integers",
+            "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"
           }
         ]
       },
@@ -24818,6 +24930,21 @@ const curriculum: DayContent[] = [
               "How data is perceived"
             ],
             "answer": 3
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Q1F3T_okqbU",
+        "videoUrls": [
+          {
+            "label": "Scale Drawings",
+            "url": "https://www.youtube.com/watch?v=Q1F3T_okqbU"
+          },
+          {
+            "label": "Multiplying and Dividing Integers",
+            "url": "https://www.youtube.com/watch?v=FeP-EVRW-RA"
+          },
+          {
+            "label": "Exponents",
+            "url": "https://www.youtube.com/watch?v=yQ3SZgdqb7I"
           }
         ]
       },
@@ -33143,6 +33270,17 @@ const curriculum: DayContent[] = [
               "A concept unrelated to probability"
             ],
             "answer": 1
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m7pCJKPdkHE",
+        "videoUrls": [
+          {
+            "label": "Circles",
+            "url": "https://www.youtube.com/watch?v=m7pCJKPdkHE"
+          },
+          {
+            "label": "Adding and Subtracting Integers",
+            "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"
           }
         ]
       },

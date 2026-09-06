@@ -2374,7 +2374,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Electrical Safety and Energy Conservation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electrical%20Safety%20and%20Energy%20Conservation%20grade%206%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Pr9YntO7V1U",
-        "videoUrls": [{"label":"Electrical Safety","url":"https://www.youtube.com/watch?v=Pr9YntO7V1U"},{"label":"Energy Conservation","url":"https://www.youtube.com/watch?v=covYNhyNGyo"}],
+        "videoUrls": [
+          {
+            "label": "Electrical Safety",
+            "url": "https://www.youtube.com/watch?v=Pr9YntO7V1U"
+          },
+          {
+            "label": "Energy Conservation",
+            "url": "https://www.youtube.com/watch?v=covYNhyNGyo"
+          }
+        ],
         "quiz": [
           {
             "q": "Why should you never use electrical appliances near water?",
@@ -12477,7 +12486,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Review: Ancient Societies, Government, and Global Connections (Days 81-89)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Ancient%20Societies%2C%20Government%2C%20and%20Global%20Connections%20%28Days%2081-89%29%20grade%206%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=TUs56Z3xJG8",
-        "videoUrls": [{"label":"Ancient Aztec Civilization","url":"https://www.youtube.com/watch?v=TUs56Z3xJG8"},{"label":"Canada's Peacekeeping Role","url":"https://www.youtube.com/watch?v=M1xHm5FFohU"},{"label":"The Role of the United Nations","url":"https://www.youtube.com/watch?v=SaAmfiJtV4I"}],
+        "videoUrls": [
+          {
+            "label": "Ancient Aztec Civilization",
+            "url": "https://www.youtube.com/watch?v=TUs56Z3xJG8"
+          },
+          {
+            "label": "Canada's Peacekeeping Role",
+            "url": "https://www.youtube.com/watch?v=M1xHm5FFohU"
+          },
+          {
+            "label": "The Role of the United Nations",
+            "url": "https://www.youtube.com/watch?v=SaAmfiJtV4I"
+          }
+        ],
         "quiz": [
           {
             "q": "What was the name of the Aztec capital city?",
@@ -14850,7 +14872,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=QMWifyZa4SY",
-        "videoUrls": [{"label": "Exponents", "url": "https://www.youtube.com/watch?v=QMWifyZa4SY"}, {"label": "Inequalities", "url": "https://www.youtube.com/watch?v=Odf2TzlZYNI"}, {"label": "Graphing", "url": "https://www.youtube.com/watch?v=5xzLht5_BNc"}],
+        "videoUrls": [
+          {
+            "label": "Exponents",
+            "url": "https://www.youtube.com/watch?v=QMWifyZa4SY"
+          },
+          {
+            "label": "Inequalities",
+            "url": "https://www.youtube.com/watch?v=Odf2TzlZYNI"
+          },
+          {
+            "label": "Graphing",
+            "url": "https://www.youtube.com/watch?v=5xzLht5_BNc"
+          }
+        ],
         "quiz": [
           {
             "q": "An exponent shows ___.",
@@ -14911,7 +14946,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=SRsorIm-5Bk",
-        "videoUrls": [{"label": "Matter", "url": "https://www.youtube.com/watch?v=SRsorIm-5Bk"}, {"label": "Energy", "url": "https://www.youtube.com/watch?v=PDJ6ws7NZ-I"}, {"label": "Body Systems", "url": "https://www.youtube.com/watch?v=XtHucs6VDYU"}],
+        "videoUrls": [
+          {
+            "label": "Matter",
+            "url": "https://www.youtube.com/watch?v=SRsorIm-5Bk"
+          },
+          {
+            "label": "Energy",
+            "url": "https://www.youtube.com/watch?v=PDJ6ws7NZ-I"
+          },
+          {
+            "label": "Body Systems",
+            "url": "https://www.youtube.com/watch?v=XtHucs6VDYU"
+          }
+        ],
         "quiz": [
           {
             "q": "Density describes ___.",
@@ -15435,7 +15483,10 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
-        "videoUrls": ["https://www.youtube.com/watch?v=AQ5vty8f9Xc", "https://www.youtube.com/watch?v=qJqGg3Xe4iE"],
+        "videoUrls": [
+          "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
+          "https://www.youtube.com/watch?v=qJqGg3Xe4iE"
+        ],
         "quiz": [
           {
             "q": "The Moon’s phases are caused by ___.",
@@ -15497,7 +15548,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Social Studies Review: Government, History, and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Canadian%20Identity%20grade%206%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=vcS2eNJaC3Q",
-        "videoUrls": [{"label": "RCMP", "url": "https://www.youtube.com/watch?v=vcS2eNJaC3Q"}, {"label": "How a Bill Becomes a Law", "url": "https://www.youtube.com/watch?v=biMC4vn_ysc"}, {"label": "Terry Fox", "url": "https://www.youtube.com/watch?v=70WbeqNOJQs"}],
+        "videoUrls": [
+          {
+            "label": "RCMP",
+            "url": "https://www.youtube.com/watch?v=vcS2eNJaC3Q"
+          },
+          {
+            "label": "How a Bill Becomes a Law",
+            "url": "https://www.youtube.com/watch?v=biMC4vn_ysc"
+          },
+          {
+            "label": "Terry Fox",
+            "url": "https://www.youtube.com/watch?v=70WbeqNOJQs"
+          }
+        ],
         "quiz": [
           {
             "q": "What does RCMP stand for?",
@@ -19946,7 +20010,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2O4ckpd_UjE"
       },
       {
         "subject": "Math",
@@ -20005,7 +20070,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6fLNcGSa_L4"
       },
       {
         "subject": "Science",
@@ -20064,7 +20130,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZBZWgrfZFbU"
       },
       {
         "subject": "SocialStudies",
@@ -20123,7 +20190,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=efNVeGxLdCg"
       }
     ]
   },

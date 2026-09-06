@@ -17444,7 +17444,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Language Review: Describing, Stories, and Sounds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Describing%2C%20Stories%2C%20and%20Sounds%20kindergarten%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=-NqnQJjDmB0",
-        "videoUrls": [{"label": "Describing Words", "url": "https://www.youtube.com/watch?v=-NqnQJjDmB0"}, {"label": "Story Feelings", "url": "https://www.youtube.com/watch?v=s0U_CaZeuw8"}, {"label": "Middle Sounds", "url": "https://www.youtube.com/watch?v=f21moJ3tNEU"}],
+        "videoUrls": [
+          {
+            "label": "Describing Words",
+            "url": "https://www.youtube.com/watch?v=-NqnQJjDmB0"
+          },
+          {
+            "label": "Story Feelings",
+            "url": "https://www.youtube.com/watch?v=s0U_CaZeuw8"
+          },
+          {
+            "label": "Middle Sounds",
+            "url": "https://www.youtube.com/watch?v=f21moJ3tNEU"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word is an adjective in the phrase a big red apple?",
@@ -17526,7 +17539,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Math Review: Comparing, Shapes, and Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Comparing%2C%20Shapes%2C%20and%20Time%20kindergarten%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=yDlHjcAb1o0",
-        "videoUrls": [{"label": "Comparing Groups", "url": "https://www.youtube.com/watch?v=yDlHjcAb1o0"}, {"label": "Shapes", "url": "https://www.youtube.com/watch?v=24Uv8Cl5hvI"}, {"label": "Telling Time", "url": "https://www.youtube.com/watch?v=oRMsWNaDZIE"}],
+        "videoUrls": [
+          {
+            "label": "Comparing Groups",
+            "url": "https://www.youtube.com/watch?v=yDlHjcAb1o0"
+          },
+          {
+            "label": "Shapes",
+            "url": "https://www.youtube.com/watch?v=24Uv8Cl5hvI"
+          },
+          {
+            "label": "Telling Time",
+            "url": "https://www.youtube.com/watch?v=oRMsWNaDZIE"
+          }
+        ],
         "quiz": [
           {
             "q": "A group has 6 balls and another has 3 balls. Which group has more?",
@@ -17610,7 +17636,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Weather",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Weather%20kindergarten%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=lf_2PetBDjY",
-        "videoUrls": [{"label": "Our Bodies", "url": "https://www.youtube.com/watch?v=lf_2PetBDjY"}, {"label": "Baby Animals", "url": "https://www.youtube.com/watch?v=3U0efIdE940"}, {"label": "Weather", "url": "https://www.youtube.com/watch?v=Uo8lbeVVb4M"}],
+        "videoUrls": [
+          {
+            "label": "Our Bodies",
+            "url": "https://www.youtube.com/watch?v=lf_2PetBDjY"
+          },
+          {
+            "label": "Baby Animals",
+            "url": "https://www.youtube.com/watch?v=3U0efIdE940"
+          },
+          {
+            "label": "Weather",
+            "url": "https://www.youtube.com/watch?v=Uo8lbeVVb4M"
+          }
+        ],
         "quiz": [
           {
             "q": "How many ears does a person usually have?",
@@ -17692,7 +17731,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Social Studies Review: Safety, Kindness, and Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Safety%2C%20Kindness%2C%20and%20Community%20kindergarten%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=PJKoGkmtNyI",
-        "videoUrls": [{"label": "Personal Safety", "url": "https://www.youtube.com/watch?v=PJKoGkmtNyI"}, {"label": "Kindness", "url": "https://www.youtube.com/watch?v=BNNcpAcF0GM"}, {"label": "Community", "url": "https://www.youtube.com/watch?v=wP_IbZSxhEs"}],
+        "videoUrls": [
+          {
+            "label": "Personal Safety",
+            "url": "https://www.youtube.com/watch?v=PJKoGkmtNyI"
+          },
+          {
+            "label": "Kindness",
+            "url": "https://www.youtube.com/watch?v=BNNcpAcF0GM"
+          },
+          {
+            "label": "Community",
+            "url": "https://www.youtube.com/watch?v=wP_IbZSxhEs"
+          }
+        ],
         "quiz": [
           {
             "q": "If something feels unsafe, what should you do?",
@@ -20470,7 +20522,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bQXDxknVSec"
       },
       {
         "subject": "Math",
@@ -21436,7 +21489,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dcBfSesrnOI"
       },
       {
         "subject": "Math",
@@ -21496,7 +21550,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=epEq3HXtkZE"
       },
       {
         "subject": "Science",
@@ -21556,7 +21611,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Yv_vDQerOBk"
       },
       {
         "subject": "SocialStudies",
@@ -21636,7 +21692,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=CqD3hnjZBTM"
       }
     ]
   },
@@ -56060,7 +56117,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/kindergarten",
         "quiz": [
           {
-            "q": "Look quickly: \u26ab\u26ab\u26ab How many dots is that, without counting one at a time?",
+            "q": "Look quickly: ⚫⚫⚫ How many dots is that, without counting one at a time?",
             "options": [
               "3",
               "2",
@@ -56082,7 +56139,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which numeral is written correctly as the number 'three'?",
             "options": [
-              "\u03b5",
+              "ε",
               "E",
               "8",
               "3"

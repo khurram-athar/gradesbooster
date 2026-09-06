@@ -3500,7 +3500,12 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: English: Year in Review and Looking Ahead to Grade 12",
         "resourceUrl": "https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Lfx7ukqc3qw",
-        "videoUrls": [{"label": "Reflecting on Growth", "url": "https://www.youtube.com/watch?v=Lfx7ukqc3qw"}],
+        "videoUrls": [
+          {
+            "label": "Reflecting on Growth",
+            "url": "https://www.youtube.com/watch?v=Lfx7ukqc3qw"
+          }
+        ],
         "quiz": [
           {
             "q": "The most significant shift in Grade 11 English from Grade 10 is ___.",
@@ -14770,7 +14775,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
         "videoUrl": "https://www.youtube.com/watch?v=MEjgDeSnBMs",
-        "videoUrls": [{"label": "Anti-Heroes", "url": "https://www.youtube.com/watch?v=MEjgDeSnBMs"}, {"label": "Braided Essays", "url": "https://www.youtube.com/watch?v=X8VqVsIFWiI"}, {"label": "Rhetorical Analysis", "url": "https://www.youtube.com/watch?v=Wj3_2AeJMpE"}],
+        "videoUrls": [
+          {
+            "label": "Anti-Heroes",
+            "url": "https://www.youtube.com/watch?v=MEjgDeSnBMs"
+          },
+          {
+            "label": "Braided Essays",
+            "url": "https://www.youtube.com/watch?v=X8VqVsIFWiI"
+          },
+          {
+            "label": "Rhetorical Analysis",
+            "url": "https://www.youtube.com/watch?v=Wj3_2AeJMpE"
+          }
+        ],
         "quiz": [
           {
             "q": "An anti-hero is best described as a central character who ___.",
@@ -14831,7 +14849,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
         "videoUrl": "https://www.youtube.com/watch?v=10I_TVuYLkQ",
-        "videoUrls": [{"label": "Equations", "url": "https://www.youtube.com/watch?v=10I_TVuYLkQ"}, {"label": "Trigonometry", "url": "https://www.youtube.com/watch?v=nA-lGOWJ0g8"}, {"label": "Discrete Mathematics", "url": "https://www.youtube.com/watch?v=Tm2PJPvAULs"}],
+        "videoUrls": [
+          {
+            "label": "Equations",
+            "url": "https://www.youtube.com/watch?v=10I_TVuYLkQ"
+          },
+          {
+            "label": "Trigonometry",
+            "url": "https://www.youtube.com/watch?v=nA-lGOWJ0g8"
+          },
+          {
+            "label": "Discrete Mathematics",
+            "url": "https://www.youtube.com/watch?v=Tm2PJPvAULs"
+          }
+        ],
         "quiz": [
           {
             "q": "To solve an equation like 2 to the power of x equals 8 using logarithms, a useful first step is to ___.",
@@ -14892,7 +14923,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
         "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY",
-        "videoUrls": [{"label": "Systems", "url": "https://www.youtube.com/watch?v=C_Bii6TfwuY"}, {"label": "Senses", "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM"}, {"label": "Evolutionary History", "url": "https://www.youtube.com/watch?v=8X5aDyGUKjE"}],
+        "videoUrls": [
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
+          },
+          {
+            "label": "Senses",
+            "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM"
+          },
+          {
+            "label": "Evolutionary History",
+            "url": "https://www.youtube.com/watch?v=8X5aDyGUKjE"
+          }
+        ],
         "quiz": [
           {
             "q": "The lymphatic system’s primary role in fluid balance is to ___.",
@@ -14953,7 +14997,20 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
         "videoUrl": "https://www.youtube.com/watch?v=tRKkGRBndto",
-        "videoUrls": [{"label": "Bonding", "url": "https://www.youtube.com/watch?v=tRKkGRBndto"}, {"label": "Separation", "url": "https://www.youtube.com/watch?v=iHrKsfw827c"}, {"label": "Applied Chemistry", "url": "https://www.youtube.com/watch?v=PQS_xFG7lpw"}],
+        "videoUrls": [
+          {
+            "label": "Bonding",
+            "url": "https://www.youtube.com/watch?v=tRKkGRBndto"
+          },
+          {
+            "label": "Separation",
+            "url": "https://www.youtube.com/watch?v=iHrKsfw827c"
+          },
+          {
+            "label": "Applied Chemistry",
+            "url": "https://www.youtube.com/watch?v=PQS_xFG7lpw"
+          }
+        ],
         "quiz": [
           {
             "q": "The systematic naming of inorganic compounds follows rules established by ___.",
@@ -15768,7 +15825,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
         "videoUrl": "https://www.youtube.com/watch?v=Was6whYtbC8",
-        "videoUrls": [{"label": "Debate Rebuttal", "url": "https://www.youtube.com/watch?v=Was6whYtbC8"}, {"label": "Cross-Examination", "url": "https://www.youtube.com/watch?v=n9qO4O4ihbQ"}],
+        "videoUrls": [
+          {
+            "label": "Debate Rebuttal",
+            "url": "https://www.youtube.com/watch?v=Was6whYtbC8"
+          },
+          {
+            "label": "Cross-Examination",
+            "url": "https://www.youtube.com/watch?v=n9qO4O4ihbQ"
+          }
+        ],
         "quiz": [
           {
             "q": "An effective rebuttal directly addresses an opponent’s argument using ___.",
@@ -16389,7 +16455,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
         "videoUrl": "https://www.youtube.com/watch?v=MvuYATh7Y74",
-        "videoUrls": [{"label": "DNA Sequencing", "url": "https://www.youtube.com/watch?v=MvuYATh7Y74"}, {"label": "Bioinformatics", "url": "https://www.youtube.com/watch?v=W-Ov2cUaYQY"}],
+        "videoUrls": [
+          {
+            "label": "DNA Sequencing",
+            "url": "https://www.youtube.com/watch?v=MvuYATh7Y74"
+          },
+          {
+            "label": "Bioinformatics",
+            "url": "https://www.youtube.com/watch?v=W-Ov2cUaYQY"
+          }
+        ],
         "quiz": [
           {
             "q": "Bioinformatics combines biology with ___.",
@@ -16451,7 +16526,16 @@ const curriculum: DayContent[] = [
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
         "videoUrl": "https://www.youtube.com/watch?v=6RbbbzPl9Ow",
-        "videoUrls": [{"label": "Flame Tests", "url": "https://www.youtube.com/watch?v=6RbbbzPl9Ow"}, {"label": "Atomic Emission", "url": "https://www.youtube.com/watch?v=IZK_HjQFA24"}],
+        "videoUrls": [
+          {
+            "label": "Flame Tests",
+            "url": "https://www.youtube.com/watch?v=6RbbbzPl9Ow"
+          },
+          {
+            "label": "Atomic Emission",
+            "url": "https://www.youtube.com/watch?v=IZK_HjQFA24"
+          }
+        ],
         "quiz": [
           {
             "q": "A flame test identifies certain metal ions based on the ___ they produce when heated.",
@@ -22372,7 +22456,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
       },
       {
         "subject": "Biology",
@@ -22490,7 +22575,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=74-X94OP2XI"
       }
     ]
   },
@@ -24825,6 +24911,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VKpr311IZfg",
+        "videoUrls": [
+          {
+            "label": "Quadratic Inequalities",
+            "url": "https://www.youtube.com/watch?v=VKpr311IZfg"
+          },
+          {
+            "label": "Law of Sines and Cosines",
+            "url": "https://www.youtube.com/watch?v=T--nPHdS1Vo"
+          },
+          {
+            "label": "Piecewise Functions",
+            "url": "https://www.youtube.com/watch?v=tedzsRH0Jas"
+          }
         ]
       },
       {
@@ -24942,6 +25043,21 @@ const curriculum: DayContent[] = [
               "A concept unrelated to chemistry"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+        "videoUrls": [
+          {
+            "label": "Work, Energy, and Power",
+            "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo"
+          },
+          {
+            "label": "Genetic Mutations",
+            "url": "https://www.youtube.com/watch?v=vl6Vlf2thvI"
+          },
+          {
+            "label": "Waves",
+            "url": "https://www.youtube.com/watch?v=BL2MtP7j-xk"
           }
         ]
       }
@@ -27407,7 +27523,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZqCMR7PjZRU"
       }
     ]
   },
@@ -31695,7 +31812,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CESXLJaq6Mk"
       },
       {
         "subject": "Biology",

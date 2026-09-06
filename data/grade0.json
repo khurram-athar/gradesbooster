@@ -20520,7 +20520,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bQXDxknVSec"
       },
       {
         "subject": "Math",
@@ -21486,7 +21487,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dcBfSesrnOI"
       },
       {
         "subject": "Math",
@@ -21546,7 +21548,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=epEq3HXtkZE"
       },
       {
         "subject": "Science",
@@ -21606,7 +21609,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Yv_vDQerOBk"
       },
       {
         "subject": "SocialStudies",
@@ -21686,7 +21690,8 @@
             ]
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=CqD3hnjZBTM"
       }
     ]
   },
