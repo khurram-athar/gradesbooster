@@ -406,7 +406,6 @@ const curriculum: DayContent[] = [
         "summary": "Students count objects from 6 to 10, match numerals to quantities, and practise counting on from 5.",
         "resourceLabel": "YouTube: Counting 6 to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%206%20to%2010%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mKSNQuQrsm0",
         "quiz": [
           {
             "q": "What number comes after 7?",
@@ -903,7 +902,6 @@ const curriculum: DayContent[] = [
         "summary": "Students arrange numbers 1-10 in order, identify missing numbers, and understand more/fewer using a number line.",
         "resourceLabel": "YouTube: Number Order 1-10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Order%201-10%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mKSNQuQrsm0",
         "quiz": [
           {
             "q": "What number is missing? 1, 2, ___, 4, 5",
@@ -2642,7 +2640,6 @@ const curriculum: DayContent[] = [
         "summary": "Students add two groups with totals up to 10. They use number lines, counters, and drawings.",
         "resourceLabel": "YouTube: Addition to 10",
         "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20to%2010%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mjlsSYLLOSE",
         "quiz": [
           {
             "q": "4 + 6 = ?",
@@ -4004,7 +4001,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the school as a community. They identify helpers such as the principal, caretaker, librarian, and office staff.",
         "resourceLabel": "YouTube: Our School Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Community%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=srlhUBYJ1YQ",
         "quiz": [
           {
             "q": "Who is the leader of a school?",
@@ -4379,7 +4375,6 @@ const curriculum: DayContent[] = [
         "summary": "Students identify, copy, extend, and create repeating patterns using objects, sounds, and actions.",
         "resourceLabel": "YouTube: Patterns: ABAB and AABB",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20ABAB%20and%20AABB%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Js45cR_7wFE",
         "quiz": [
           {
             "q": "In an ABAB pattern, what comes after A?",
@@ -4440,7 +4435,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore characteristics of animals. All animals move, eat, grow, and produce offspring. They are sorted by habitat and diet.",
         "resourceLabel": "YouTube: Living Things: Animals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Living%20Things%3A%20Animals%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Gy60BqCnTG4",
         "quiz": [
           {
             "q": "All animals ___.",
@@ -4689,7 +4683,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the Sun as Earth's main source of light and heat. They observe that the sky changes from day to night.",
         "resourceLabel": "YouTube: The Sun and Sky",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Sun%20and%20Sky%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=sePqPIXMsAc",
         "quiz": [
           {
             "q": "The Sun gives Earth ___ and ___.",
@@ -5619,7 +5612,6 @@ const curriculum: DayContent[] = [
         "summary": "Students use non-standard units (paper clips, blocks) to measure and compare the length of objects. They use terms: longer, shorter, same.",
         "resourceLabel": "YouTube: Measurement: Length",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Length%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=2wUsdsae0ro",
         "quiz": [
           {
             "q": "Measurement tells you ___.",
@@ -6362,7 +6354,6 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and sort 3D shapes: sphere, cube, cylinder, and cone. They describe them using faces, edges, and vertices.",
         "resourceLabel": "YouTube: Sorting 3D Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%203D%20Shapes%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=guNdJ5MtX1A",
         "quiz": [
           {
             "q": "A sphere looks like ___.",
@@ -8136,7 +8127,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the nose helps us smell, the tongue helps us taste, and skin helps us feel or touch. They explore how these senses give us information about our world.",
         "resourceLabel": "YouTube: Five Senses: Smelling, Tasting, and Touching",
         "resourceUrl": "https://www.youtube.com/results?search_query=Five%20Senses%3A%20Smelling%2C%20Tasting%2C%20and%20Touching%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=52_w0PIIfjs",
         "quiz": [
           {
             "q": "Which body part helps you smell a flower?",
@@ -10689,7 +10679,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore different two-dimensional shapes and practise sorting them by their attributes, such as number of sides and corners. This helps build early geometry skills and an understanding of how shapes can be grouped and compared.",
         "resourceLabel": "YouTube: Shapes: Sorting 2D Shapes by Attributes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shapes%3A%20Sorting%202D%20Shapes%20by%20Attributes%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Ux_kLd7qAcY",
         "quiz": [
           {
             "q": "How many sides does a triangle have?",
@@ -10860,7 +10849,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn what a community is and explore the people, places, and jobs that make up the community where they live. They discuss how community members work together and help one another.",
         "resourceLabel": "YouTube: What Is a Community?",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Is%20a%20Community%3F%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=wP_IbZSxhEs",
         "quiz": [
           {
             "q": "Which word means a group of people who live and work together in the same area?",
@@ -11119,7 +11107,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the stages a plant goes through, starting as a small seed, sprouting into a seedling, and growing into a full plant that may bloom with flowers.",
         "resourceLabel": "YouTube: Life Cycle of a Plant: Seed to Flower",
         "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tkFPyue5X3Q",
         "quiz": [
           {
             "q": "What is the first stage of a plant life cycle?",
@@ -12566,7 +12553,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the importance of sharing toys and materials, and taking turns, when playing and working with others.",
         "resourceLabel": "YouTube: Sharing and Taking Turns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sharing%20and%20Taking%20Turns%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=TgILVD1AxBE",
         "quiz": [
           {
             "q": "What does it mean to share?",
@@ -16182,7 +16168,6 @@ const curriculum: DayContent[] = [
         "summary": "Students compare two numbers and describe which is greater and which is less, beginning to connect the ideas of more and fewer to number comparisons within 20.",
         "resourceLabel": "YouTube: Comparing Numbers with Symbols: Greater and Less",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%20with%20Symbols%3A%20Greater%20and%20Less%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=E34PAOGYRNk",
         "quiz": [
           {
             "q": "Between 12 and 7, which number is greater?",
@@ -16938,7 +16923,6 @@ const curriculum: DayContent[] = [
         "summary": "Students observe clouds in the sky and learn that clouds can look different, such as fluffy white clouds on a sunny day or dark grey clouds before rain.",
         "resourceLabel": "YouTube: Clouds in the Sky: Watching the Weather",
         "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Watching%20the%20Weather%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Uo8lbeVVb4M",
         "quiz": [
           {
             "q": "What do we call the fluffy shapes we see in the sky?",
@@ -18414,7 +18398,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the firehall as a special building in the community where firefighters work, sleep, and keep their fire trucks ready to help.",
         "resourceLabel": "YouTube: Our Firehall: Where Firefighters Work",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Firehall%3A%20Where%20Firefighters%20Work%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=MDhfKlbkzs4",
         "quiz": [
           {
             "q": "What is the building called where firefighters work?",
@@ -18748,7 +18731,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the grocery store as a community place where families go to buy food and other everyday items they need.",
         "resourceLabel": "YouTube: Our Grocery Store: Where Food Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Grocery%20Store%3A%20Where%20Food%20Comes%20From%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=WazK8e88axE",
         "quiz": [
           {
             "q": "Where do many families buy food?",
@@ -19906,7 +19888,6 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and extend repeating patterns that use three different elements, such as an ABC pattern of circle, square, triangle, circle, square, triangle.",
         "resourceLabel": "YouTube: Repeating Patterns with Three Elements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Three%20Elements%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Js45cR_7wFE",
         "quiz": [
           {
             "q": "In the pattern star, moon, sun, star, moon, ___, what comes next?",
@@ -19988,7 +19969,6 @@ const curriculum: DayContent[] = [
         "summary": "Kids sort a mixed group of objects by colour, practicing an early science skill for organizing and comparing what they observe.",
         "resourceLabel": "YouTube: Sorting by Colour: Red, Blue, Yellow, and More",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Colour%3A%20Red%2C%20Blue%2C%20Yellow%2C%20and%20More%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=8kcbajwxEfE",
         "quiz": [
           {
             "q": "If you are sorting blocks by colour, where does a red block belong?",
@@ -20959,7 +20939,6 @@ const curriculum: DayContent[] = [
         "summary": "Children predict and then test whether different objects sink or float in a tub of water, an early hands-on physical science investigation.",
         "resourceLabel": "YouTube: Sink or Float: Testing Objects in Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sink%20or%20Float%3A%20Testing%20Objects%20in%20Water%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=eQuW8G2QV_Q",
         "topic": "Matter & Materials",
         "quiz": [
           {
@@ -21209,7 +21188,6 @@ const curriculum: DayContent[] = [
         "summary": "Kids practice touching each object exactly once while counting a small group, building the foundation that each number word matches one object.",
         "resourceLabel": "YouTube: One-to-One Correspondence: Touch and Count",
         "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touch%20and%20Count%20kindergarten%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=WM8VrBcimes",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {

@@ -1914,7 +1914,6 @@ const curriculum: DayContent[] = [
         "summary": "Energy can come from many sources and can be transformed from one form to another, like electrical energy becoming light or heat.",
         "resourceLabel": "YouTube: Energy Sources and Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Energy%20Sources%20and%20Transformations%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=YSFR7ByqTps",
         "quiz": [
           {
             "q": "A student rubs their hands together quickly and feels warmth. This shows energy transforming from...",
@@ -2228,7 +2227,6 @@ const curriculum: DayContent[] = [
         "summary": "Canada's government has three branches: legislative (makes laws), executive (carries out laws), and judicial (interprets laws).",
         "resourceLabel": "YouTube: Canada's Government Branches",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Government%20Branches%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ped-vegY6WA",
         "quiz": [
           {
             "q": "A new law is proposed, debated, and voted on in Parliament. Which branch is primarily responsible?",
@@ -4491,7 +4489,6 @@ const curriculum: DayContent[] = [
         "summary": "Canada's provinces each have their own capital cities, geography, and key features that make them unique.",
         "resourceLabel": "YouTube: Comparing Canada's Provinces",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Canada%27s%20Provinces%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "quiz": [
           {
             "q": "Why might Alberta's economy differ significantly from Prince Edward Island's, based on geography?",
@@ -5990,7 +5987,6 @@ const curriculum: DayContent[] = [
         "summary": "Local (municipal) governments make decisions about community services like roads, parks, libraries, and waste collection.",
         "resourceLabel": "YouTube: Local Government and Your Municipality",
         "resourceUrl": "https://www.youtube.com/results?search_query=Local%20Government%20and%20Your%20Municipality%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=ped-vegY6WA",
         "quiz": [
           {
             "q": "Why might a municipal government be better suited than the federal government to decide on local speed limits?",
@@ -7176,7 +7172,6 @@ const curriculum: DayContent[] = [
         "summary": "Energy pyramids show that less energy is available at each higher level of a food chain, which limits how many organisms an ecosystem can support.",
         "resourceLabel": "YouTube: Energy Pyramids and Ecosystem Balance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Energy%20Pyramids%20and%20Ecosystem%20Balance%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=-oVavgmveyY",
         "quiz": [
           {
             "q": "An ecosystem has 10,000 units of energy at the producer level, and only about 10% transfers between levels. What would you expect at the top predator level?",
@@ -10587,7 +10582,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the justice system uses courts and judges to make fair decisions when people disagree or when someone breaks a law.",
         "resourceLabel": "YouTube: Canadas Justice System: Judges and Courts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Justice%20System%3A%20Judges%20and%20Courts%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Vd9g119FupM",
         "quiz": [
           {
             "q": "Who makes decisions in a courtroom?",
@@ -10776,7 +10770,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: a compound machine combines two or more simple machines, such as a wheelbarrow (lever and wheel-and-axle) or scissors (two levers), to make tasks easier.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "quiz": [
           {
             "q": "A compound machine is made up of ___.",
@@ -11111,7 +11104,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: different regions of Canada have distinct economies based on their available resources and industries, such as fishing in Atlantic Canada or oil production in Alberta.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=a-yVNNF00r8",
         "quiz": [
           {
             "q": "Atlantic Canada’s economy has historically relied heavily on ___.",
@@ -11799,7 +11791,6 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that renewable energy, like sunlight and wind, can be used again and again, while non-renewable energy, like coal and oil, is limited and takes a very long time to form.",
         "resourceLabel": "YouTube: Renewable and Non-Renewable Energy: Where Our Power Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%3A%20Where%20Our%20Power%20Comes%20From%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=tUmZ9djDHh8",
         "quiz": [
           {
             "q": "What is renewable energy?",
@@ -11882,7 +11873,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: in a democracy, citizens have a voice in how they are governed, most directly through voting, and are expected to stay informed and participate so that government reflects the will of the people.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=ofyM-Cq3LMw",
         "quiz": [
           {
             "q": "In a democracy, citizens most directly have a voice in government through ___.",
@@ -13228,7 +13218,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties and formally approving laws passed by Parliament.",
         "resourceLabel": "YouTube: Social Studies: The Governor General — Representing the Crown in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Governor%20General%20%E2%80%94%20Representing%20the%20Crown%20in%20Canada%20grade%205%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=mD-jb8odRNQ",
         "quiz": [
           {
             "q": "Who does the Governor General represent in Canada?",
@@ -13816,7 +13805,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: foreshadowing is a writing technique where an author hints at events that will happen later in a story.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
-        "videoUrl": "https://www.youtube.com/watch?v=FeAnyf6GSfc",
         "quiz": [
           {
             "q": "Foreshadowing is a technique where an author ___.",
@@ -17038,7 +17026,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: each of Canada’s provinces and territories has its own capital city, which is home to that region’s government.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "quiz": [
           {
             "q": "The capital city of Ontario is ___.",
@@ -17987,7 +17974,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: multiplying two two-digit numbers involves breaking the numbers into tens and ones, multiplying each part, and adding the partial products together.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
         "quiz": [
           {
             "q": "When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.",

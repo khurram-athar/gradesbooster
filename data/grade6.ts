@@ -1257,7 +1257,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Writing strand: each paragraph in an expository text should focus on one main idea, supported by specific details and evidence. The topic sentence states the main idea clearly.",
         "resourceLabel": "YouTube: Writing Expository Paragraphs with Evidence",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Expository%20Paragraphs%20with%20Evidence%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=66Q7goGamCI",
         "quiz": [
           {
             "q": "What is the purpose of a topic sentence in a paragraph?",
@@ -3818,7 +3817,6 @@ const curriculum: DayContent[] = [
         "summary": "Students understand ratios as comparisons of two quantities. They write ratios in three forms (a:b, a to b, a/b) and find equivalent ratios.",
         "resourceLabel": "YouTube: Ratios",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ratios%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RQ2nYUBVvqI",
         "quiz": [
           {
             "q": "A ratio compares ___.",
@@ -3879,7 +3877,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the eight planets, dwarf planets, moons, asteroids, and comets. They compare planet characteristics and orbital patterns.",
         "resourceLabel": "YouTube: Space: The Solar System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Qd6nLM2QlWw",
         "quiz": [
           {
             "q": "The correct order of planets from the Sun is ___.",
@@ -4006,7 +4003,6 @@ const curriculum: DayContent[] = [
         "summary": "Students write a multi-paragraph argumentative essay with a clear claim, organized supporting points with evidence, counterargument acknowledgement, and a conclusion.",
         "resourceLabel": "YouTube: Writing: Argumentative Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Argumentative%20Essay%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=VZKUeEBryOk",
         "quiz": [
           {
             "q": "The claim in an argumentative essay is ___.",
@@ -4067,7 +4063,6 @@ const curriculum: DayContent[] = [
         "summary": "Students understand percentages as rates per 100. They convert between fractions, decimals, and percentages, and solve percent problems.",
         "resourceLabel": "YouTube: Percentages",
         "resourceUrl": "https://www.youtube.com/results?search_query=Percentages%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=JeVSmq1Nrpw",
         "quiz": [
           {
             "q": "A percentage is a ratio out of ___.",
@@ -4626,7 +4621,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the four forces of flight (lift, weight, thrust, drag) and Bernoulli's principle. They investigate how wing shape generates lift.",
         "resourceLabel": "YouTube: Flight and Aerodynamics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Flight%20and%20Aerodynamics%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Gg0TXNXgz-w",
         "quiz": [
           {
             "q": "The four forces acting on an aircraft in flight are ___.",
@@ -4687,7 +4681,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the feudal system, the role of the Church, the Crusades, the Black Death, and the transition from the Middle Ages to the Renaissance.",
         "resourceLabel": "YouTube: Medieval Europe",
         "resourceUrl": "https://www.youtube.com/results?search_query=Medieval%20Europe%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=yHughcfloZM",
         "quiz": [
           {
             "q": "The feudal system in Medieval Europe was ___.",
@@ -4753,7 +4746,6 @@ const curriculum: DayContent[] = [
         "summary": "Students identify and write complex sentences using independent and dependent clauses. They use subordinating conjunctions (because, although, when, if, while, unless).",
         "resourceLabel": "YouTube: Grammar: Complex Sentences and Clauses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Complex%20Sentences%20and%20Clauses%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=smgyeUomfyA",
         "quiz": [
           {
             "q": "An independent clause can ___.",
@@ -4936,7 +4928,6 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the Renaissance as a period of renewed interest in classical learning, humanism, art, science, and exploration (14th–17th century).",
         "resourceLabel": "YouTube: The Renaissance",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Renaissance%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=GOjBbkGiwq0",
         "quiz": [
           {
             "q": "Renaissance means ___.",
@@ -5185,7 +5176,6 @@ const curriculum: DayContent[] = [
         "summary": "Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
         "resourceLabel": "YouTube: The Age of Exploration",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=sGeXtUZQScc",
         "quiz": [
           {
             "q": "The main motivations for European exploration were ___.",
@@ -5312,7 +5302,6 @@ const curriculum: DayContent[] = [
         "summary": "Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
         "resourceLabel": "YouTube: Geometry: Transformations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=a6MQTpBSNBk",
         "quiz": [
           {
             "q": "A translation (slide) moves a shape ___.",
@@ -5500,7 +5489,6 @@ const curriculum: DayContent[] = [
         "summary": "Students participate in structured debates and discussions. They learn to present arguments clearly, listen actively, ask probing questions, and respond respectfully to opposing views.",
         "resourceLabel": "YouTube: Oral Literacy: Debate and Discussion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Literacy%3A%20Debate%20and%20Discussion%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=1TSkkxu8on0",
         "quiz": [
           {
             "q": "In a formal debate, the proposition side ___.",
@@ -5871,7 +5859,6 @@ const curriculum: DayContent[] = [
         "summary": "Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
         "resourceLabel": "YouTube: Simple and Complex Machines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "quiz": [
           {
             "q": "A screw is essentially ___.",
@@ -6059,7 +6046,6 @@ const curriculum: DayContent[] = [
         "summary": "Students create and interpret various graphs (bar, line, circle/pie) and draw conclusions from data, considering bias and sample size.",
         "resourceLabel": "YouTube: Data: Graphing and Interpreting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Graphing%20and%20Interpreting%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=hcgThf5mv38",
         "quiz": [
           {
             "q": "A line graph is most useful for showing ___.",
@@ -9462,7 +9448,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Social Studies People and Environments strand: globalization is the increasing connection between countries through trade, technology, and culture, which affects Canada’s economy and daily life in various ways.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=IoN71vnK-ZM",
         "quiz": [
           {
             "q": "Globalization refers to ___.",
@@ -9778,7 +9763,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Reading strand: evaluating an author’s credibility involves considering their expertise, potential motives, and perspective, which can shape how information in a text is presented.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
-        "videoUrl": "https://www.youtube.com/watch?v=q1k8rcYUmbQ",
         "quiz": [
           {
             "q": "Evaluating an author’s credibility involves considering ___.",
@@ -11087,7 +11071,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a ratio compares two quantities, such as 2 red marbles for every 3 blue marbles, and can be used to solve simple proportional problems.",
         "resourceLabel": "YouTube: Ratios and Simple Proportional Reasoning (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ratios%20and%20Simple%20Proportional%20Reasoning%20%28Intro%29%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RQ2nYUBVvqI",
         "quiz": [
           {
             "q": "A ratio is used to ___.",
@@ -11209,7 +11192,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the United Nations is an international organization where countries work together on issues like peace, human rights, and humanitarian aid.",
         "resourceLabel": "YouTube: Social Studies: The Role of the United Nations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20the%20United%20Nations%20grade%206%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=SaAmfiJtV4I",
         "quiz": [
           {
             "q": "What do we call the international organization where countries work together on global issues?",
@@ -11526,7 +11508,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 6 Media Literacy strand: comparing how different news outlets report on the same event can reveal differences in tone, word choice, and focus that may indicate bias.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
-        "videoUrl": "https://www.youtube.com/watch?v=6R6-2_8m4Co",
         "quiz": [
           {
             "q": "Comparing multiple news outlets on the same event can reveal ___.",
@@ -17082,10 +17063,6 @@ const curriculum: DayContent[] = [
           {
             "label": "The Monarchy in Canada",
             "url": "https://www.youtube.com/watch?v=FizWPJXz12I"
-          },
-          {
-            "label": "Canada's Federal Government and the Governor General",
-            "url": "https://www.youtube.com/watch?v=mD-jb8odRNQ"
           }
         ],
         "quiz": [

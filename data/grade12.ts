@@ -759,7 +759,6 @@ const curriculum: DayContent[] = [
         "summary": "Students plan and write a 1000+ word critical essay on a literary text, meeting university standards for argument, evidence, and analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=UvsH5y91Eoo",
         "quiz": [
           {
             "q": "University literary essays are evaluated primarily on ___.",
@@ -3057,7 +3056,6 @@ const curriculum: DayContent[] = [
         "summary": "Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
         "resourceLabel": "Khan Academy: Mathematical Modeling",
         "resourceUrl": "https://www.youtube.com/watch?v=A3M9Ksxrd9c",
-        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
         "quiz": [
           {
             "q": "When data shows exponential growth that eventually levels off, the best model is ___.",
@@ -3117,7 +3115,6 @@ const curriculum: DayContent[] = [
         "summary": "Students apply differentiation and integration to physics (motion, work, fluid pressure) and examine the role of calculus in modern science.",
         "resourceLabel": "Khan Academy: Calculus Applications",
         "resourceUrl": "https://www.youtube.com/watch?v=m2MIpDrF7Es",
-        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "If s(t) is position, then v(t) = s'(t) and a(t) = v'(t) = s''(t). To find displacement from t₁ to t₂:",
@@ -3856,7 +3853,6 @@ const curriculum: DayContent[] = [
         "summary": "Students solve multi-step related rates problems in geometry, physics, and engineering contexts.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=I9mVUo-bhM8",
-        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A",
         "quiz": [
           {
             "q": "The key step in any related rates problem is ___.",
@@ -4726,7 +4722,6 @@ const curriculum: DayContent[] = [
         "summary": "Students write and revise a fully documented research essay integrating primary texts, secondary criticism, and their own analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
-        "videoUrl": "https://www.youtube.com/watch?v=UvsH5y91Eoo",
         "quiz": [
           {
             "q": "A literary research essay differs from a personal response in that ___.",
@@ -6527,7 +6522,6 @@ const curriculum: DayContent[] = [
         "summary": "Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=LkwT1GQVJP8",
-        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "Determine all values of k for which x³ + 5x² + kx + 2 has (x+2) as a factor.",
@@ -6588,7 +6582,6 @@ const curriculum: DayContent[] = [
         "summary": "Rigorous examination-level problems for Calculus and Vectors.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=6HkBGVPWIXA",
-        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "Find the area between y=e^x, y=x, x=0, x=1.",
@@ -6649,7 +6642,6 @@ const curriculum: DayContent[] = [
         "summary": "Comprehensive examination-level physics problems spanning all SPH4U topics.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-        "videoUrl": "https://www.youtube.com/watch?v=CwkhvFlNFp0",
         "quiz": [
           {
             "q": "A 0.5 kg ball on a 1 m string moves in a horizontal circle at 3 m/s. Tension in string (ignore gravity):",
@@ -7141,7 +7133,6 @@ const curriculum: DayContent[] = [
         "summary": "Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
         "resourceLabel": "Parth G: 3 Reasons Why YOU Should Study PHYSICS",
         "resourceUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
-        "videoUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
         "quiz": [
           {
             "q": "The most important conceptual development in Grade 12 Physics is ___.",
@@ -9693,7 +9684,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: revising a personal essay for depth and precision involves moving beyond surface-level description to sharpen reflection, cut unnecessary language, and ensure every detail serves the essay’s central meaning.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=Xz94wRwFOCI",
         "quiz": [
           {
             "q": "Revising a personal essay for depth involves moving beyond ___.",
@@ -10099,7 +10089,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: three-dimensional related rates problems involve finding how one changing quantity, such as volume or surface area, relates to the rate of change of another quantity over time.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A",
         "quiz": [
           {
             "q": "Three-dimensional related rates problems involve finding how one changing quantity relates to ___.",
@@ -15199,17 +15188,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: connecting the convergence behaviour of improper integrals to that of infinite series highlights a shared underlying question -- whether an unbounded accumulation process settles toward a finite value.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=ND9cEdfCFr0",
-        "videoUrls": [
-          {
-            "label": "Improper Integrals",
-            "url": "https://www.youtube.com/watch?v=ND9cEdfCFr0"
-          },
-          {
-            "label": "Infinite Series",
-            "url": "https://www.youtube.com/watch?v=0YeON4p0ogw"
-          }
-        ],
         "quiz": [
           {
             "q": "Both improper integrals and infinite series raise the shared question of whether an unbounded accumulation process settles toward a ___ value.",
@@ -16085,7 +16063,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a college application essay uses a specific, personal story to reveal character and voice to admissions readers, favouring a narrow, concrete moment over a broad summary of accomplishments.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
-        "videoUrl": "https://www.youtube.com/watch?v=Xz94wRwFOCI",
         "quiz": [
           {
             "q": "A strong college application essay uses a specific, personal story mainly to reveal the writer’s ___.",
@@ -16778,7 +16755,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Physics strand: nuclear fission splits a large atomic nucleus into smaller parts, while nuclear fusion combines small nuclei into a larger one, both releasing significant amounts of energy.",
         "resourceLabel": "YouTube: Nuclear Reactions: Fission and Fusion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Reactions%3A%20Fission%20and%20Fusion%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=fES21E0qebw",
         "quiz": [
           {
             "q": "Nuclear fission involves ___.",
@@ -19977,7 +19953,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
         "resourceLabel": "YouTube: Rational Functions: Graphing and Asymptotes in Depth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Graphing%20and%20Asymptotes%20in%20Depth%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
         "quiz": [
           {
             "q": "A vertical asymptote of a rational function typically occurs where ___.",
@@ -20729,7 +20704,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra strand (non-linear relations): a rational function is a ratio of two polynomials, and it can have a vertical asymptote where the denominator equals zero and a horizontal asymptote describing its end behaviour.",
         "resourceLabel": "YouTube: Rational Functions and Asymptotes (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%20and%20Asymptotes%20%28Intro%29%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
         "quiz": [
           {
             "q": "A rational function is best described as ___.",
@@ -21711,7 +21685,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Number strand (extension): the binomial theorem provides a method for expanding expressions like (a + b) raised to a power, and Pascal’s triangle offers a visual way to determine the coefficients used in that expansion.",
         "resourceLabel": "YouTube: The Binomial Theorem and Pascal’s Triangle",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Binomial%20Theorem%20and%20Pascal%E2%80%99s%20Triangle%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=s19dWIHficY",
         "quiz": [
           {
             "q": "The binomial theorem provides a method for expanding expressions like ___.",
@@ -30385,7 +30358,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Physics strand: electromagnetic induction occurs when a changing magnetic field produces an electric current in a nearby conductor, a principle that underlies how electrical generators convert motion into electricity.",
         "resourceLabel": "YouTube: Physics: Electromagnetic Induction and Generators",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetic%20Induction%20and%20Generators%20grade%2012%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM",
         "quiz": [
           {
             "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",

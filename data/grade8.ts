@@ -3312,7 +3312,6 @@ const curriculum: DayContent[] = [
         "summary": "Students calculate probabilities of independent and dependent compound events and use simulations to explore experimental probability.",
         "resourceLabel": "YouTube: Probability: Compound Events and Simulations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Compound%20Events%20and%20Simulations%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
         "quiz": [
           {
             "q": "Independent events are events where ___.",
@@ -6224,7 +6223,6 @@ const curriculum: DayContent[] = [
         "summary": "Students synthesise Canadian history from New France to the present, examining recurring themes and their relevance to contemporary Canada.",
         "resourceLabel": "YouTube: Year-End History Synthesis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Year-End%20History%20Synthesis%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=MtbL8HZ4hGM",
         "quiz": [
           {
             "q": "Which recurring theme links Indigenous history from colonial times to today?",
@@ -8596,7 +8594,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Geometry strand: the volume of a sphere is found using four-thirds pi r cubed, while the volume of a cone is found using one-third times the base area times height.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=eBAq_caikJ4",
         "quiz": [
           {
             "q": "The formula for the volume of a sphere is ___.",
@@ -9840,7 +9837,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: simple interest is extra money earned or owed based on a percentage of an original amount, such as earning interest on money kept in a savings account.",
         "resourceLabel": "YouTube: Financial Literacy: Simple Interest Basics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20Interest%20Basics%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=79HS3N1IBt8",
         "quiz": [
           {
             "q": "What do we call extra money earned based on a percentage of an original amount?",
@@ -13175,7 +13171,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: genetic engineering is a technology that allows scientists to directly modify an organism’s genes, used in areas such as agriculture and medicine to create desired traits.",
         "resourceLabel": "YouTube: Science: Genetic Engineering: An Introduction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Genetic%20Engineering%3A%20An%20Introduction%20grade%208%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=CDw4WPng2iE",
         "quiz": [
           {
             "q": "What does genetic engineering allow scientists to do?",

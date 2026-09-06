@@ -1402,7 +1402,6 @@ const curriculum: DayContent[] = [
         "summary": "Pure substances have characteristic properties like melting point, boiling point, and density that can be used to identify them.",
         "resourceLabel": "YouTube: Properties of Pure Substances",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Pure%20Substances%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=jCVQwr_TWpY",
         "quiz": [
           {
             "q": "Melting point is a property that helps...",
@@ -4446,7 +4445,6 @@ const curriculum: DayContent[] = [
         "summary": "The world is divided into climate regions (such as tropical, arid, temperate, and polar) based on temperature and precipitation patterns.",
         "resourceLabel": "YouTube: Climate Regions of the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Climate%20Regions%20of%20the%20World%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5tC8OOxOFEk",
         "quiz": [
           {
             "q": "Climate regions are classified mainly based on...",
@@ -5319,7 +5317,6 @@ const curriculum: DayContent[] = [
         "summary": "Mean, median, and mode summarize data sets, and the choice of measure can affect how data is interpreted, especially with outliers.",
         "resourceLabel": "YouTube: Data: Measures of Central Tendency with Real Data Sets",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Measures%20of%20Central%20Tendency%20with%20Real%20Data%20Sets%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=B1HEzNTGeZ4",
         "quiz": [
           {
             "q": "An outlier in a data set is a value that is...",
@@ -7981,7 +7978,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the Rebellions of 1837 in Upper and Lower Canada were uprisings by reformers seeking more democratic, accountable government, led in part by figures like William Lyon Mackenzie.",
         "resourceLabel": "YouTube: The Rebellions of 1837",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rebellions%20of%201837%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=RdGy5dHgkCU",
         "quiz": [
           {
             "q": "The Rebellions of 1837 mainly took place in ___.",
@@ -8548,7 +8544,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 7 Reading strand: comparing how a similar theme, such as courage or friendship, is explored differently across genres like poetry, fiction, and nonfiction reveals how form shapes meaning.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
-        "videoUrl": "https://www.youtube.com/watch?v=MAu3e5GZo4k",
         "quiz": [
           {
             "q": "Comparing themes across genres involves examining ___.",
@@ -9108,7 +9103,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 7 Financial Literacy strand: compound interest is calculated on both the original principal and any interest already earned, causing savings or debt to grow faster than with simple interest over time.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=lxZszd8rDZY",
         "quiz": [
           {
             "q": "Compound interest is calculated based on ___.",
@@ -9295,7 +9289,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 7 Writing strand: while active voice is often clearer, passive voice can be used effectively when the focus should be on the action or receiver rather than who performed it, such as in scientific writing.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
-        "videoUrl": "https://www.youtube.com/watch?v=4xS2BgkjsFg",
         "quiz": [
           {
             "q": "Passive voice can be effective when ___.",
@@ -13507,21 +13500,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about residential schools, peacekeeping, the Métis Nation, and Canadian government to build a timeline of significant milestones.",
         "resourceLabel": "YouTube: Culminating Task: A Timeline of Canadian Milestones",
         "resourceUrl": "https://www.youtube.com/results?search_query=Culminating%20Task%3A%20A%20Timeline%20of%20Canadian%20Milestones%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=VFgNI1lfe0A",
-        "videoUrls": [
-          {
-            "label": "Residential Schools",
-            "url": "https://www.youtube.com/watch?v=VFgNI1lfe0A"
-          },
-          {
-            "label": "Peacekeeping",
-            "url": "https://www.youtube.com/watch?v=M1xHm5FFohU"
-          },
-          {
-            "label": "The Metis Nation",
-            "url": "https://www.youtube.com/watch?v=YIxJ7I8vRzU"
-          }
-        ],
         "quiz": [
           {
             "q": "Why might a student include residential schools on a timeline of Canadian milestones?",
@@ -13709,7 +13687,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: an air mass is a large body of air with a similar temperature and moisture, and a front is where two different air masses meet, often causing changes in the weather.",
         "resourceLabel": "YouTube: Science: Weather Fronts and Air Masses",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Weather%20Fronts%20and%20Air%20Masses%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=nVooyj73dwA",
         "quiz": [
           {
             "q": "What do we call a large body of air with a similar temperature and moisture?",
@@ -13770,7 +13747,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Confederation in 1867 united several British colonies into the Dominion of Canada, creating a new country with its own federal government.",
         "resourceLabel": "YouTube: Confederation: The Birth of Canada in 1867",
         "resourceUrl": "https://www.youtube.com/results?search_query=Confederation%3A%20The%20Birth%20of%20Canada%20in%201867%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5h5Pqgkjgws",
         "quiz": [
           {
             "q": "Confederation in 1867 united several British colonies to form ___.",
@@ -14709,7 +14685,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: acids and bases are two types of chemical substances that can be measured on the pH scale, with acids like lemon juice below 7 and bases like baking soda above 7.",
         "resourceLabel": "YouTube: Science: Acids and Bases",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Acids%20and%20Bases%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Xeuyc55LqiY",
         "quiz": [
           {
             "q": "What scale is used to measure whether a substance is an acid or a base?",
@@ -15545,7 +15520,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the War of 1812 was fought between the United States and Britain (with its colonies, including present-day Canada), shaping early Canadian identity and border relations.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=efNVeGxLdCg",
         "quiz": [
           {
             "q": "The War of 1812 was fought between the United States and ___.",
@@ -15795,7 +15769,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Red River Resistance was led by Louis Riel and the Métis people to protect their land, rights, and way of life as Canada expanded westward in the late 1800s.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=YIxJ7I8vRzU",
         "quiz": [
           {
             "q": "The Red River Resistance was led by ___.",
@@ -27589,7 +27562,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: a square number is the result of multiplying a whole number by itself, and its square root is the number that was multiplied to produce it.",
         "resourceLabel": "YouTube: Square Numbers and Square Roots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Square%20Numbers%20and%20Square%20Roots%20grade%207%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=B4zejSI8zho",
         "quiz": [
           {
             "q": "A square number is the result of ___.",

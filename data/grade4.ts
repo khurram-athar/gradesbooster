@@ -818,7 +818,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
         "resourceLabel": "YouTube: Introduction to Long Division",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Long%20Division%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=2-sP854NMLw",
         "quiz": [
           {
             "q": "In division, the number being divided is the ___.",
@@ -2065,7 +2064,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Number strand: hundredths represent parts of a whole divided into 100 equal parts. 0.23 = 23/100 = 2 tenths + 3 hundredths.",
         "resourceLabel": "YouTube: Decimals: Hundredths",
         "resourceUrl": "https://www.youtube.com/results?search_query=Decimals%3A%20Hundredths%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=KrAQneGhyuE",
         "quiz": [
           {
             "q": "0.47 means ___.",
@@ -2375,7 +2373,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science Energy strand: refraction is the bending of light as it passes from one medium to another (e.g., from air to water).",
         "resourceLabel": "YouTube: Properties of Light: Refraction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Refraction%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=DzpHXtnXFCI",
         "quiz": [
           {
             "q": "Refraction is the ___ of light.",
@@ -3563,7 +3560,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Measurement strand: mass is measured in grams (g) and kilograms (kg). Volume is measured in litres (L) and millilitres (mL). 1 kg = 1000 g; 1 L = 1000 mL.",
         "resourceLabel": "YouTube: Mass and Volume Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mass%20and%20Volume%20Measurement%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=AVC-426M6V0",
         "quiz": [
           {
             "q": "1 kilogram = ___ grams.",
@@ -4932,7 +4928,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies: Confederation (1867) united four provinces into the Dominion of Canada. Canadian identity includes bilingualism, multiculturalism, and respect for Indigenous peoples.",
         "resourceLabel": "YouTube: Confederation and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Confederation%20and%20Canadian%20Identity%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Qo7aTFHyhPE",
         "quiz": [
           {
             "q": "Confederation in 1867 united which four provinces?",
@@ -11910,7 +11905,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 4 Social Studies People and Environments strand: Canada is divided into several large physical regions, such as the Arctic Lowlands, the Canadian Shield, the Interior Plains, and the Western Cordillera, each with its own landforms and natural features.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
         "quiz": [
           {
             "q": "Canada is divided into several large areas called ___.",
@@ -13110,7 +13104,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: rocks are classified into three types based on how they form -- igneous (from cooled magma), sedimentary (from compressed layers), and metamorphic (changed by heat and pressure).",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=XvVvfPnrhd0",
         "quiz": [
           {
             "q": "Igneous rock forms when ___.",
@@ -14985,7 +14978,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: many everyday devices transform energy from one form to another, such as a toaster changing electrical energy into heat energy.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=VhIBReUVSk8",
         "quiz": [
           {
             "q": "Energy transformation means energy ___.",
@@ -15046,7 +15038,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: Canada is home to people from many different cultural backgrounds, and multiculturalism celebrates and protects this diversity as an official policy.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=UYElf0rSEvc",
         "quiz": [
           {
             "q": "Multiculturalism is a policy that ___.",
@@ -15322,21 +15313,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about mapping, government, industries, settlement, and diversity to design a model community.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=RgI2qoF4DEg",
-        "videoUrls": [
-          {
-            "label": "Mapping Skills",
-            "url": "https://www.youtube.com/watch?v=RgI2qoF4DEg"
-          },
-          {
-            "label": "Comparing Government Systems",
-            "url": "https://www.youtube.com/watch?v=ped-vegY6WA"
-          },
-          {
-            "label": "Cultural Diversity",
-            "url": "https://www.youtube.com/watch?v=UYElf0rSEvc"
-          }
-        ],
         "quiz": [
           {
             "q": "Why might a student consider access to fresh water when designing a model community?",
@@ -16181,7 +16157,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: early societies developed tools and technology, such as farming implements, pottery, and metalworking, to meet their daily needs and improve their way of life.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=RRJkMSBByAA",
         "quiz": [
           {
             "q": "Early societies developed tools mainly to ___.",
@@ -16439,7 +16414,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: early societies organized leadership in different ways, from kings and pharaohs to councils of elders, to make decisions and maintain order.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
-        "videoUrl": "https://www.youtube.com/watch?v=_j6-Jxx_d9M",
         "quiz": [
           {
             "q": "Many early societies were led by a single powerful ruler, such as a ___.",
@@ -17067,7 +17041,6 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Number strand: students learn that when a group of objects cannot be shared equally, there may be some left over, called a remainder, such as sharing 10 stickers among 3 friends leaving 1 remainder.",
         "resourceLabel": "YouTube: Division with Remainders: When Sharing Does Not Come Out Even",
         "resourceUrl": "https://www.youtube.com/results?search_query=Division%20with%20Remainders%3A%20When%20Sharing%20Does%20Not%20Come%20Out%20Even%20grade%204%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=-fbioMIaNG0",
         "quiz": [
           {
             "q": "If 9 cookies are shared equally among 4 people, how many cookies are left over?",
@@ -17150,7 +17123,6 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: the shape of a structure affects its strength, and triangles are especially strong because their fixed angles resist bending and twisting better than squares.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
-        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "quiz": [
           {
             "q": "Triangles are considered a strong shape in structures because their angles ___.",
