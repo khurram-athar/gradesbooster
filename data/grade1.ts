@@ -21381,6 +21381,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the letters ng and nk work together at the end of a word to make one ending sound, as in sing and ring for ng, and sink and pink for nk.",
         "resourceLabel": "YouTube: Digraph Endings: -ng and -nk",
         "resourceUrl": "https://www.youtube.com/results?search_query=Digraph%20Endings%3A%20-ng%20and%20-nk%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lpcwgQ6j95M",
         "quiz": [
           {
             "q": "Which word ends with the ng sound?",
@@ -21464,6 +21465,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify and use ordinal numbers from first to tenth to describe position and order, such as who is first in line or which day comes third in a week.",
         "resourceLabel": "YouTube: Ordinal Numbers: First to Tenth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%20to%20Tenth%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-IAIrsUIcUo",
         "topic": "Number Sense",
         "quiz": [
           {
@@ -21524,6 +21526,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that clouds are made of tiny drops of water high in the sky, and that clouds can look fluffy, flat, or wispy, with grey clouds often meaning rain is coming.",
         "resourceLabel": "YouTube: Clouds in the Sky: Types of Clouds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Types%20of%20Clouds%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dvCa1rjGNH0",
         "quiz": [
           {
             "q": "What are clouds mostly made of?",
@@ -21609,6 +21612,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that police officers help keep people safe, follow and enforce community rules, help in emergencies, and assist people who need help, such as directing traffic.",
         "resourceLabel": "YouTube: Police Officers: Keeping Our Community Safe",
         "resourceUrl": "https://www.youtube.com/results?search_query=Police%20Officers%3A%20Keeping%20Our%20Community%20Safe%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fJ7oGJRU9A8",
         "quiz": [
           {
             "q": "What is the main job of a police officer?",

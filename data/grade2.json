@@ -21340,6 +21340,25 @@
         "summary": "Students review Language skills from Days 61 to 69: irregular past tense verbs, sentence fragments, quotation marks, point of view, opinion writing, idioms, alliteration, reading fluency, and root words.",
         "resourceLabel": "YouTube: Final Review: Language Skills (Days 61-69)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Zdmufwnsd_w",
+        "videoUrls": [
+          {
+            "label": "Irregular Past Tense Verbs",
+            "url": "https://www.youtube.com/watch?v=Zdmufwnsd_w"
+          },
+          {
+            "label": "Quotation Marks in Dialogue",
+            "url": "https://www.youtube.com/watch?v=s8a19kuole0"
+          },
+          {
+            "label": "Idioms and Expressions",
+            "url": "https://www.youtube.com/watch?v=_s_CH4yXXHQ"
+          },
+          {
+            "label": "Root Words and Word Families",
+            "url": "https://www.youtube.com/watch?v=6ej6JU44CCY"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the past tense of the verb go?",
@@ -21421,6 +21440,25 @@
         "summary": "Students review Math skills from Days 61 to 69: place value to 1000, adding three numbers, missing number equations, arrays, thermometers, near doubles, number patterns, line plots, and multiplication facts.",
         "resourceLabel": "YouTube: Final Review: Math Skills (Days 61-69)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XhJVqYbjhSY",
+        "videoUrls": [
+          {
+            "label": "Place Value to 1000",
+            "url": "https://www.youtube.com/watch?v=XhJVqYbjhSY"
+          },
+          {
+            "label": "Arrays",
+            "url": "https://www.youtube.com/watch?v=XfLQb2QdVR4"
+          },
+          {
+            "label": "Input and Output Number Patterns",
+            "url": "https://www.youtube.com/watch?v=F4OLuphaGWA"
+          },
+          {
+            "label": "Multiplication Facts",
+            "url": "https://www.youtube.com/watch?v=dkWvwUheqfY"
+          }
+        ],
         "quiz": [
           {
             "q": "How many hundreds are in the number 342?",
@@ -21503,6 +21541,25 @@
         "summary": "Students review Science topics from Days 61 to 69: frog life cycles, fossils, wheels and axles, decomposers, plant adaptations, planets, breathing and lungs, clouds and weather, and animal diets.",
         "resourceLabel": "YouTube: Final Review: Science Skills (Days 61-69)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FEgdsLBHWAU",
+        "videoUrls": [
+          {
+            "label": "Life Cycle of a Frog",
+            "url": "https://www.youtube.com/watch?v=FEgdsLBHWAU"
+          },
+          {
+            "label": "Fossils",
+            "url": "https://www.youtube.com/watch?v=HubmDAQSo64"
+          },
+          {
+            "label": "Planets in Our Solar System",
+            "url": "https://www.youtube.com/watch?v=e8YzKyot4Pc"
+          },
+          {
+            "label": "Animal Diets",
+            "url": "https://www.youtube.com/watch?v=0pHXXP-xlG8"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the first stage of a frog life cycle?",
@@ -21585,6 +21642,25 @@
         "summary": "Students review Social Studies topics from Days 61 to 69: local businesses, schools long ago and today, Canadian currency, national parks, time zones, food from around the world, addresses, severe weather safety, and life in Northern Canada.",
         "resourceLabel": "YouTube: Final Review: Social Studies Skills (Days 61-69)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Jd4kD9TicbA",
+        "videoUrls": [
+          {
+            "label": "Local Businesses",
+            "url": "https://www.youtube.com/watch?v=Jd4kD9TicbA"
+          },
+          {
+            "label": "Canadian Currency",
+            "url": "https://www.youtube.com/watch?v=GayRX_u4G2Q"
+          },
+          {
+            "label": "Time Zones",
+            "url": "https://www.youtube.com/watch?v=SgE60sLvolE"
+          },
+          {
+            "label": "Life in Northern Canada",
+            "url": "https://www.youtube.com/watch?v=XnkUMC2mZ0c"
+          }
+        ],
         "quiz": [
           {
             "q": "Which of these is an example of a local business?",
@@ -21673,6 +21749,7 @@
         "summary": "Students learn that a simile is a figure of speech that compares two different things using the words like or as, helping readers picture an idea more clearly, such as as brave as a lion.",
         "resourceLabel": "YouTube: Similes: Comparing with Like and As",
         "resourceUrl": "https://www.youtube.com/results?search_query=Similes%3A%20Comparing%20with%20Like%20and%20As%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b7wVc_5UuxQ",
         "quiz": [
           {
             "q": "What do we call a phrase that compares two things using like or as?",
@@ -21755,6 +21832,7 @@
         "summary": "Students learn to add two three-digit numbers that require regrouping, carrying a group of ten ones into the tens place or a group of ten tens into the hundreds place.",
         "resourceLabel": "YouTube: Three-Digit Addition with Regrouping",
         "resourceUrl": "https://www.youtube.com/results?search_query=Three-Digit%20Addition%20with%20Regrouping%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wBhwDtn5Xeg",
         "quiz": [
           {
             "q": "What is 236 + 148?",
@@ -21836,6 +21914,7 @@
         "summary": "Students learn to identify the main parts of a plant, including the roots that absorb water, the stem that supports the plant, the leaves that capture sunlight, and the flower that helps make seeds.",
         "resourceLabel": "YouTube: Parts of a Plant: Roots, Stem, Leaves, and Flower",
         "resourceUrl": "https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%3A%20Roots%2C%20Stem%2C%20Leaves%2C%20and%20Flower%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=v6YhghG7mzQ",
         "quiz": [
           {
             "q": "Which part of a plant absorbs water from the soil?",
@@ -21919,6 +21998,7 @@
         "summary": "Students learn that many of the clothes and toys we use are made in factories, sometimes in other countries, using materials that started as raw resources like cotton or plastic.",
         "resourceLabel": "YouTube: Where Our Clothes and Toys Come From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Our%20Clothes%20and%20Toys%20Come%20From%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yJGfHDSGlHs",
         "quiz": [
           {
             "q": "Where are many clothes and toys made before they reach a store?",

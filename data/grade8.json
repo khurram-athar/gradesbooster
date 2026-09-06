@@ -17366,6 +17366,25 @@
         "summary": "Grade 8 Language strand: this review lesson revisits key ideas from Days 61-69, including foreshadowing and flashback, compare-and-contrast essays, conditional sentences, filter bubbles, allegory, cover letters, idioms, graphic novels, and transitional words.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IL2_SD3Sc50",
+        "videoUrls": [
+          {
+            "label": "Analyzing Foreshadowing and Flashback",
+            "url": "https://www.youtube.com/watch?v=IL2_SD3Sc50"
+          },
+          {
+            "label": "Media Literacy: Filter Bubbles",
+            "url": "https://www.youtube.com/watch?v=9F_sJRyGMkc"
+          },
+          {
+            "label": "Idioms and Figurative Expressions",
+            "url": "https://www.youtube.com/watch?v=35PzoZWJpIM"
+          },
+          {
+            "label": "Transitional Words and Cohesion",
+            "url": "https://www.youtube.com/watch?v=3EzJICqv3WY"
+          }
+        ],
         "quiz": [
           {
             "q": "Foreshadowing is a literary technique in which ___.",
@@ -17425,6 +17444,21 @@
         "summary": "Grade 8 Math strand review: this lesson revisits the midpoint and distance formulas, measures of central tendency, absolute value equations, theoretical versus experimental probability, and box-and-whisker plots from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=e3uY2LraXts",
+        "videoUrls": [
+          {
+            "label": "Mean, Median, Mode, and Range",
+            "url": "https://www.youtube.com/watch?v=e3uY2LraXts"
+          },
+          {
+            "label": "Theoretical vs Experimental Probability",
+            "url": "https://www.youtube.com/watch?v=Ay5pnC-0bVI"
+          },
+          {
+            "label": "Box-and-Whisker Plots",
+            "url": "https://www.youtube.com/watch?v=nV8jR8M8C74"
+          }
+        ],
         "quiz": [
           {
             "q": "The midpoint formula finds ___.",
@@ -17484,6 +17518,25 @@
         "summary": "Grade 8 Science strand review: this lesson revisits watersheds and the water cycle, groundwater and aquifers, simple machines, density and buoyancy, acids and bases, chemical versus physical changes, and planetary motion from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Vp1Eq5lQyGw",
+        "videoUrls": [
+          {
+            "label": "Watersheds and the Water Cycle",
+            "url": "https://www.youtube.com/watch?v=Vp1Eq5lQyGw"
+          },
+          {
+            "label": "Simple Machines and Mechanical Advantage",
+            "url": "https://www.youtube.com/watch?v=SPTNKnCqlW4"
+          },
+          {
+            "label": "Acids, Bases, and pH",
+            "url": "https://www.youtube.com/watch?v=ckbsHM2igT0"
+          },
+          {
+            "label": "The Solar System and Planetary Motion",
+            "url": "https://www.youtube.com/watch?v=libKVRa01L8"
+          }
+        ],
         "quiz": [
           {
             "q": "A watershed is best described as ___.",
@@ -17543,6 +17596,21 @@
         "summary": "Grade 8 History strand review: this lesson revisits the Red River Resistance, the Canadian Pacific Railway, residential schools, the Sixties Scoop, Pier 21, the patriation of the Constitution, and the Statute of Westminster from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=baqnC9S45Wk",
+        "videoUrls": [
+          {
+            "label": "The Red River Resistance and the Métis Nation",
+            "url": "https://www.youtube.com/watch?v=baqnC9S45Wk"
+          },
+          {
+            "label": "The Canadian Pacific Railway",
+            "url": "https://www.youtube.com/watch?v=YGrSLn32_FU"
+          },
+          {
+            "label": "Residential Schools and Their Legacy",
+            "url": "https://www.youtube.com/watch?v=IWeH_SDhEYU"
+          }
+        ],
         "quiz": [
           {
             "q": "The Red River Resistance was led primarily by ___.",
@@ -17608,6 +17676,7 @@
         "summary": "Grade 8 Reading strand: mood is the emotional atmosphere a reader feels while reading a text, while tone is the author’s attitude toward the subject, often revealed through word choice, imagery, and sentence structure.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=A6LTx2hlBZc",
         "quiz": [
           {
             "q": "Mood in a text is best described as ___.",
@@ -17668,6 +17737,7 @@
         "summary": "Grade 8 Math strand: prime factorization expresses a number as a product of prime numbers, and this factorization can be used to find the greatest common factor (GCF) and least common multiple (LCM) of two or more numbers.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Veo6jftWyNw",
         "quiz": [
           {
             "q": "Prime factorization expresses a number as ___.",
@@ -17728,6 +17798,7 @@
         "summary": "Grade 8 Science strand: a structure must be designed to withstand different types of load and stress, such as compression, tension, and shear, and engineers select shapes and materials that distribute these forces effectively.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "quiz": [
           {
             "q": "A load applied to a structure is best described as ___.",
@@ -17788,6 +17859,7 @@
         "summary": "Grade 8 History strand: the Klondike Gold Rush of 1896-99 drew tens of thousands of prospectors to the Yukon after gold was discovered near Dawson City, rapidly transforming the region and prompting Canada to establish stronger governance in the north.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=QmpIjD3xZOQ",
         "quiz": [
           {
             "q": "The Klondike Gold Rush took place primarily in ___.",

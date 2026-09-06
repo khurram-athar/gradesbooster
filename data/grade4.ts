@@ -17737,6 +17737,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: this review lesson revisits key ideas from Days 61-69, including analogies, alliteration, interjections, theme, and skimming and scanning.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ZrBBylNNf6A",
+        "videoUrls": [
+          {
+            "label": "Analogies",
+            "url": "https://www.youtube.com/watch?v=ZrBBylNNf6A"
+          },
+          {
+            "label": "Alliteration",
+            "url": "https://www.youtube.com/watch?v=5_b845Lxtq4"
+          },
+          {
+            "label": "Identifying Theme",
+            "url": "https://www.youtube.com/watch?v=QD_jKGySIzs"
+          },
+          {
+            "label": "Skimming and Scanning",
+            "url": "https://www.youtube.com/watch?v=F1wPYHa5nUg"
+          }
+        ],
         "quiz": [
           {
             "q": "An analogy compares two pairs of words that share the same ___.",
@@ -17796,6 +17815,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: this review lesson revisits key ideas from Days 61-69, including place value, multiplying 2-digit numbers, rounding decimals, classifying polygons, and tally charts.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XhNHrtipltM",
+        "videoUrls": [
+          {
+            "label": "Place Value to 10,000",
+            "url": "https://www.youtube.com/watch?v=XhNHrtipltM"
+          },
+          {
+            "label": "Rounding Decimals",
+            "url": "https://www.youtube.com/watch?v=xJIBA2L_ihE"
+          },
+          {
+            "label": "Classifying Polygons",
+            "url": "https://www.youtube.com/watch?v=-HovCOsuKm8"
+          },
+          {
+            "label": "Tally Charts and Frequency Tables",
+            "url": "https://www.youtube.com/watch?v=JuEpHNhRJlA"
+          }
+        ],
         "quiz": [
           {
             "q": "In the number 6,482, the digit 4 represents ___.",
@@ -17855,6 +17893,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: this review lesson revisits key ideas from Days 61-69, including Canadian biomes, camouflage, Earth’s rotation, buoyancy, air resistance, and structural strength.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=CvQP7hI9UvM",
+        "videoUrls": [
+          {
+            "label": "Canadian Biomes",
+            "url": "https://www.youtube.com/watch?v=CvQP7hI9UvM"
+          },
+          {
+            "label": "Buoyancy",
+            "url": "https://www.youtube.com/watch?v=nMlXU97E-uQ"
+          },
+          {
+            "label": "Air Resistance and Motion",
+            "url": "https://www.youtube.com/watch?v=IP9qwbn6lik"
+          },
+          {
+            "label": "Structural Strength",
+            "url": "https://www.youtube.com/watch?v=mBHJtWbsiaA"
+          }
+        ],
         "quiz": [
           {
             "q": "A biome is best described as a large region with a distinct ___.",
@@ -17914,6 +17971,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the Maya, Nubia, early leadership, the Canadian Shield, time zones, and population distribution.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_j6-Jxx_d9M",
+        "videoUrls": [
+          {
+            "label": "Early Societies: Leadership and Government",
+            "url": "https://www.youtube.com/watch?v=_j6-Jxx_d9M"
+          },
+          {
+            "label": "The Canadian Shield",
+            "url": "https://www.youtube.com/watch?v=lQ0VSa6XLlo"
+          },
+          {
+            "label": "Time Zones Across Canada",
+            "url": "https://www.youtube.com/watch?v=m6gnEcMQsZg"
+          },
+          {
+            "label": "Canada's Population Distribution",
+            "url": "https://www.youtube.com/watch?v=3XsKRPF1zUA"
+          }
+        ],
         "quiz": [
           {
             "q": "The ancient Maya civilization was located in ___.",
@@ -17979,6 +18055,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: a proverb or adage is a short, well-known saying that expresses a piece of traditional wisdom or advice, such as look before you leap.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2teemgSaLdc",
         "quiz": [
           {
             "q": "A proverb or adage is best described as a short saying that expresses ___.",
@@ -18039,6 +18116,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: comparing and ordering numbers to 10,000 means using place value to decide whether one number is greater than, less than, or equal to another, and arranging numbers from least to greatest or greatest to least.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=syeYX3bO648",
         "quiz": [
           {
             "q": "To compare two numbers, you should first look at the digit with the greatest ___.",
@@ -18099,6 +18177,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: freshwater habitats, such as ponds, lakes, and rivers, contain low levels of salt and support plants and animals, such as frogs, fish, and cattails, that are adapted to living in fresh water.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SexLZIyo_FA",
         "quiz": [
           {
             "q": "A freshwater habitat contains water with ___.",
@@ -18159,6 +18238,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Social Studies strand: students learn that the fur trade was an early industry in Canadian history, where Indigenous peoples and European traders exchanged furs, such as beaver pelts, for goods.",
         "resourceLabel": "YouTube: The Fur Trade: An Early Canadian Industry",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fur%20Trade%3A%20An%20Early%20Canadian%20Industry%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
         "quiz": [
           {
             "q": "What was the fur trade?",

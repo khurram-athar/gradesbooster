@@ -17340,6 +17340,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: this review lesson revisits key ideas from Days 61-69, including prepositional phrases, descriptive writing, fact versus opinion, prefixes and suffixes, and text structure patterns.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=-bAHvHTSYUE",
+        "videoUrls": [
+          {
+            "label": "Prepositional Phrases and Their Function",
+            "url": "https://www.youtube.com/watch?v=-bAHvHTSYUE"
+          },
+          {
+            "label": "Distinguishing Fact from Opinion",
+            "url": "https://www.youtube.com/watch?v=Gs9ZGW_1oMM"
+          },
+          {
+            "label": "Prefixes, Suffixes, and Root Words",
+            "url": "https://www.youtube.com/watch?v=60IcoXhBouU"
+          },
+          {
+            "label": "Identifying Text Structure Patterns",
+            "url": "https://www.youtube.com/watch?v=7kWGQ-_ipBY"
+          }
+        ],
         "quiz": [
           {
             "q": "A prepositional phrase begins with a preposition and ends with a ___.",
@@ -17399,6 +17418,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: this review lesson revisits key ideas from Days 61-69, including adding and subtracting decimals, nets of 3D figures, quadrilaterals, symmetry, and stem-and-leaf plots.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-SUKE9oibIo",
+        "videoUrls": [
+          {
+            "label": "Adding and Subtracting Decimals",
+            "url": "https://www.youtube.com/watch?v=-SUKE9oibIo"
+          },
+          {
+            "label": "Nets of 3D Figures",
+            "url": "https://www.youtube.com/watch?v=LzcbTPwTOuw"
+          },
+          {
+            "label": "Line and Rotational Symmetry",
+            "url": "https://www.youtube.com/watch?v=WRps2iJaSPE"
+          },
+          {
+            "label": "Stem-and-Leaf Plots",
+            "url": "https://www.youtube.com/watch?v=Uysh0CbbRFE"
+          }
+        ],
         "quiz": [
           {
             "q": "To add or subtract decimals correctly, you must first ___.",
@@ -17458,6 +17496,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: this review lesson revisits key ideas from Days 61-69, including animal adaptations, the Moon’s phases, gravity, conductors and insulators, and Earth’s atmosphere.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=6pwCkEZE7rA",
+        "videoUrls": [
+          {
+            "label": "Animal Adaptations and Survival Strategies",
+            "url": "https://www.youtube.com/watch?v=6pwCkEZE7rA"
+          },
+          {
+            "label": "The Moon's Phases and Eclipses",
+            "url": "https://www.youtube.com/watch?v=AQ5vty8f9Xc"
+          },
+          {
+            "label": "Conductors and Insulators",
+            "url": "https://www.youtube.com/watch?v=qZjDMQbn3a0"
+          },
+          {
+            "label": "The Layers of Earth's Atmosphere",
+            "url": "https://www.youtube.com/watch?v=cogpvf8lMXg"
+          }
+        ],
         "quiz": [
           {
             "q": "An adaptation is best described as ___.",
@@ -17517,6 +17574,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the Indus Valley Civilization, West African kingdoms, the French and American Revolutions, and levels of Canadian government.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=8Gf2CAQ-rfE",
+        "videoUrls": [
+          {
+            "label": "Ancient Japan: Early Society and Culture",
+            "url": "https://www.youtube.com/watch?v=8Gf2CAQ-rfE"
+          },
+          {
+            "label": "The American Revolution",
+            "url": "https://www.youtube.com/watch?v=BZ4hyttwzFY"
+          },
+          {
+            "label": "Levels of Government in Canada",
+            "url": "https://www.youtube.com/watch?v=WYhqg3VVmQw"
+          },
+          {
+            "label": "How Canadians Vote",
+            "url": "https://www.youtube.com/watch?v=TTWi3HjzsxI"
+          }
+        ],
         "quiz": [
           {
             "q": "The Indus Valley Civilization developed along which river system?",
@@ -17582,6 +17658,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: an adverb modifies a verb, adjective, or other adverb, often telling how, when, where, or to what extent something happens, and an adverbial phrase is a group of words serving the same function.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2O4ckpd_UjE",
         "quiz": [
           {
             "q": "An adverb typically modifies a ___.",
@@ -17642,6 +17719,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: multiplying a decimal by a power of ten moves the decimal point to the right, while dividing by a power of ten moves the decimal point to the left, with the number of places matching the power’s exponent.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=6fLNcGSa_L4",
         "quiz": [
           {
             "q": "When you multiply a decimal by 10, the decimal point moves ___.",
@@ -17702,6 +17780,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the digestive system breaks down food into nutrients that the body can absorb and use for energy, growth, and repair, through organs including the stomach, small intestine, and large intestine.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ZBZWgrfZFbU",
         "quiz": [
           {
             "q": "The main purpose of the digestive system is to ___.",
@@ -17762,6 +17841,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the War of 1812 was fought between the United States and Britain (including its colonies in British North America), and its outcome helped shape a distinct identity for the colonies that would later become Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=efNVeGxLdCg",
         "quiz": [
           {
             "q": "The War of 1812 was fought primarily between Britain (with its colonies) and ___.",

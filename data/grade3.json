@@ -17314,6 +17314,25 @@
         "summary": "Grade 3 Language strand review: this lesson revisits idioms and expressions, contractions, homophones, quotation marks in dialogue, and making predictions while reading.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_s_CH4yXXHQ",
+        "videoUrls": [
+          {
+            "label": "Idioms and Expressions",
+            "url": "https://www.youtube.com/watch?v=_s_CH4yXXHQ"
+          },
+          {
+            "label": "Contractions",
+            "url": "https://www.youtube.com/watch?v=gubPH3WEurg"
+          },
+          {
+            "label": "Homophones",
+            "url": "https://www.youtube.com/watch?v=f9fy4NREF-E"
+          },
+          {
+            "label": "Making Predictions",
+            "url": "https://www.youtube.com/watch?v=cIhRCMeDz6k"
+          }
+        ],
         "quiz": [
           {
             "q": "The idiom “it’s raining cats and dogs” really means ___.",
@@ -17373,6 +17392,25 @@
         "summary": "Grade 3 Math strand review: this lesson revisits division with remainders, multiplying multiples of ten, subtracting fractions with the same denominator, and the doubling and halving strategy.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EfU8kA1CWdw",
+        "videoUrls": [
+          {
+            "label": "Division with Remainders",
+            "url": "https://www.youtube.com/watch?v=EfU8kA1CWdw"
+          },
+          {
+            "label": "Multiplying Multiples of Ten",
+            "url": "https://www.youtube.com/watch?v=lY7q52L3yN0"
+          },
+          {
+            "label": "Subtracting Fractions with the Same Denominator",
+            "url": "https://www.youtube.com/watch?v=x-6h5ZOKHtg"
+          },
+          {
+            "label": "Doubling and Halving Strategy",
+            "url": "https://www.youtube.com/watch?v=kx7dxyhNLv8"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 13 ÷ 4, including the remainder?",
@@ -17432,6 +17470,25 @@
         "summary": "Grade 3 Science strand review: this lesson revisits the screw and wedge, weather instruments, vertebrates and invertebrates, and Earth’s layers.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=h3AfKj37mbo",
+        "videoUrls": [
+          {
+            "label": "Simple Machines: Screw and Wedge",
+            "url": "https://www.youtube.com/watch?v=h3AfKj37mbo"
+          },
+          {
+            "label": "Weather Instruments",
+            "url": "https://www.youtube.com/watch?v=oQB68rvRWBM"
+          },
+          {
+            "label": "Vertebrates and Invertebrates",
+            "url": "https://www.youtube.com/watch?v=mRidGna-V4E"
+          },
+          {
+            "label": "Earth's Layers",
+            "url": "https://www.youtube.com/watch?v=2j-Z3AZ_hwU"
+          }
+        ],
         "quiz": [
           {
             "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
@@ -17491,6 +17548,25 @@
         "summary": "Grade 3 Social Studies strand review: this lesson revisits Canada’s provinces and capitals, elections, entrepreneurs, and Ontario’s farmland and agriculture.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
+        "videoUrls": [
+          {
+            "label": "Canada's Provinces and Capitals",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          },
+          {
+            "label": "How Elections Work",
+            "url": "https://www.youtube.com/watch?v=2aUxNi4c2fk"
+          },
+          {
+            "label": "Ontario's Farmland and Agriculture",
+            "url": "https://www.youtube.com/watch?v=yAQ8Y3UiMcg"
+          },
+          {
+            "label": "Canada's Currency",
+            "url": "https://www.youtube.com/watch?v=qY5kN665hsg"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the capital city of Ontario?",
@@ -17556,6 +17632,7 @@
         "summary": "Grade 3 Language strand: figurative language uses words in imaginative ways, and a simile compares two things using “like” or “as,” while a metaphor says one thing is another thing without using those words.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=35PzoZWJpIM",
         "quiz": [
           {
             "q": "A simile compares two things using ___.",
@@ -17616,6 +17693,7 @@
         "summary": "Grade 3 Math strand: when multiplying three numbers together, you can multiply any two of the factors first and then multiply that answer by the third factor, and the product will stay the same.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=xN6bGeTbjQM",
         "quiz": [
           {
             "q": "When multiplying three factors, you can multiply any two of them first and then multiply by ___.",
@@ -17676,6 +17754,7 @@
         "summary": "Grade 3 Science strand: a butterfly goes through complete metamorphosis, changing from an egg to a larva (caterpillar), then to a pupa (chrysalis), and finally into an adult butterfly.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=3kZD6rlSLUw",
         "quiz": [
           {
             "q": "A butterfly goes through complete metamorphosis, changing from an egg to a larva, then to a pupa, and finally to ___.",
@@ -17736,6 +17815,7 @@
         "summary": "Grade 3 Social Studies strand: laws are rules made by governments, and bylaws are rules made by a municipal government, both of which help keep people safe and communities running smoothly.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5dtuZkposkk",
         "quiz": [
           {
             "q": "Bylaws are rules made by a ___ government.",

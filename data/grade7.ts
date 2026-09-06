@@ -17279,6 +17279,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: this review lesson revisits key ideas from Days 61-69, including author’s purpose, business letters, run-on sentences, homophones, conflict, memes, PSAs, transitions, and author credibility.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=R_bgo8j6jxc",
+        "videoUrls": [
+          {
+            "label": "Analyzing Author's Purpose and Craft",
+            "url": "https://www.youtube.com/watch?v=R_bgo8j6jxc"
+          },
+          {
+            "label": "Homophones and Homographs",
+            "url": "https://www.youtube.com/watch?v=_fTf8zbEqcQ"
+          },
+          {
+            "label": "Analyzing Memes and Internet Culture",
+            "url": "https://www.youtube.com/watch?v=N2FPDCPnkGo"
+          },
+          {
+            "label": "Evaluating Author Credibility",
+            "url": "https://www.youtube.com/watch?v=gf9U_i7_U5s"
+          }
+        ],
         "quiz": [
           {
             "q": "An author’s purpose for writing is often to ___.",
@@ -17338,6 +17357,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: this review lesson revisits key ideas from Days 61-69, including fraction operations, order of operations, pyramid and cone volume, combinations and permutations, and financial literacy.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=XsW8HJutIgM",
+        "videoUrls": [
+          {
+            "label": "Adding and Subtracting Fractions with Unlike Denominators",
+            "url": "https://www.youtube.com/watch?v=XsW8HJutIgM"
+          },
+          {
+            "label": "Order of Operations with Integers and Exponents",
+            "url": "https://www.youtube.com/watch?v=JhxfMbvXcvE"
+          },
+          {
+            "label": "Volume and Surface Area of Pyramids and Cones",
+            "url": "https://www.youtube.com/watch?v=x8wEnG4GURQ"
+          },
+          {
+            "label": "Financial Literacy: Income, Expenses, and Net Worth",
+            "url": "https://www.youtube.com/watch?v=pjpxeZfBXcE"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 1/4 + 1/2?",
@@ -17397,6 +17435,21 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: this review lesson revisits key ideas from Days 61-69, including the nervous system, volcanoes and earthquakes, magnetism, the greenhouse effect, and biotechnology.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=0SK-jYdEgfE",
+        "videoUrls": [
+          {
+            "label": "Volcanoes and Earthquakes",
+            "url": "https://www.youtube.com/watch?v=0SK-jYdEgfE"
+          },
+          {
+            "label": "Magnetism and Electromagnets",
+            "url": "https://www.youtube.com/watch?v=SOi9jW5XlaQ"
+          },
+          {
+            "label": "The Greenhouse Effect and Climate Change",
+            "url": "https://www.youtube.com/watch?v=YpfxiDktSoI"
+          }
+        ],
         "quiz": [
           {
             "q": "The nervous system is primarily made up of the brain, spinal cord, and ___.",
@@ -17456,6 +17509,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the fur trade, the War of 1812, the Red River Resistance, Confederation’s expansion, human rights, and Canada’s electoral system.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=mbDXjEISWPE",
+        "videoUrls": [
+          {
+            "label": "The Fur Trade",
+            "url": "https://www.youtube.com/watch?v=mbDXjEISWPE"
+          },
+          {
+            "label": "The War of 1812",
+            "url": "https://www.youtube.com/watch?v=efNVeGxLdCg"
+          },
+          {
+            "label": "The Red River Resistance",
+            "url": "https://www.youtube.com/watch?v=YIxJ7I8vRzU"
+          },
+          {
+            "label": "Canada's Territorial Evolution",
+            "url": "https://www.youtube.com/watch?v=uCaTbrJ8fdM"
+          }
+        ],
         "quiz": [
           {
             "q": "The fur trade was primarily built on the exchange of ___.",
@@ -17521,6 +17593,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: point of view describes who is telling a story — first-person narrators use I, third-person limited narrators reveal one character’s thoughts, and third-person omniscient narrators know the thoughts of every character.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=QoI9abR7JKs",
         "quiz": [
           {
             "q": "A first-person narrator tells a story using ___.",
@@ -17581,6 +17654,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: a circle graph (pie chart) represents data as proportional slices of a circle, where each slice’s size corresponds to its percentage of the whole data set.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=zHx4rl1_zdE",
         "quiz": [
           {
             "q": "A circle graph represents data using ___.",
@@ -17641,6 +17715,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: atoms are the basic building blocks of matter, elements are pure substances made of only one type of atom, and the periodic table organizes all known elements by their properties.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=AVVDP_XJHkA",
         "quiz": [
           {
             "q": "An atom is ___.",
@@ -17701,6 +17776,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Acadian Expulsion, known as Le Grand Dérangement, was the forced removal of thousands of Acadian settlers from their homes by the British in the 1750s.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=zAg-E4-ZvMs",
         "quiz": [
           {
             "q": "The Acadian Expulsion involved the forced removal of ___.",

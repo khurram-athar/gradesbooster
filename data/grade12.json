@@ -17348,6 +17348,25 @@
         "summary": "Grade 12 English strand review: this lesson revisits magical realism, the epistolary and archival narrative form, the bildungsroman, the confessional mode in poetry and prose, and the public letter from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=8YDcUuz8dhs",
+        "videoUrls": [
+          {
+            "label": "Magical Realism and the Blending of Worlds",
+            "url": "https://www.youtube.com/watch?v=8YDcUuz8dhs"
+          },
+          {
+            "label": "The Bildungsroman",
+            "url": "https://www.youtube.com/watch?v=Kvk2KGXGzp8"
+          },
+          {
+            "label": "The Confessional Mode in Poetry and Prose",
+            "url": "https://www.youtube.com/watch?v=iJn0ZPd6mYo"
+          },
+          {
+            "label": "The Public Letter",
+            "url": "https://www.youtube.com/watch?v=w4k6eo1NlP4"
+          }
+        ],
         "quiz": [
           {
             "q": "Magical realism presents fantastical or supernatural events within an otherwise ___ setting.",
@@ -17407,6 +17426,7 @@
         "summary": "Students apply stretches, reflections, and translations to logarithmic functions and describe the effect on the graph, vertical asymptote, and domain.",
         "resourceLabel": "YouTube: Transformations of Logarithmic Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Logarithmic%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=geGH75wCh64",
         "topic": "Transformations",
         "quiz": [
           {
@@ -17467,6 +17487,21 @@
         "summary": "Grade 12 Calculus strand review: this lesson revisits the Laplace transform, the Mean Value Theorem for Integrals, Torricelli’s Trumpet, the Gamma function, and the catenary from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=bLeglo-c5Tw",
+        "videoUrls": [
+          {
+            "label": "The Mean Value Theorem for Integrals",
+            "url": "https://www.youtube.com/watch?v=bLeglo-c5Tw"
+          },
+          {
+            "label": "Torricelli's Trumpet",
+            "url": "https://www.youtube.com/watch?v=SR2uKgBWOCU"
+          },
+          {
+            "label": "The Catenary Revisited",
+            "url": "https://www.youtube.com/watch?v=-vmVMTzbIxA"
+          }
+        ],
         "quiz": [
           {
             "q": "The Laplace transform converts a function of time into a function of a complex ___ variable.",
@@ -17652,6 +17687,7 @@
         "summary": "Students analyze transformations of exponential functions including stretches, reflections, and translations, and identify the resulting horizontal asymptote and range.",
         "resourceLabel": "YouTube: Transformations of Exponential Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Transformations%20of%20Exponential%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gVkONK_G8bg",
         "topic": "Transformations",
         "quiz": [
           {

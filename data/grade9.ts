@@ -17475,6 +17475,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Reading and Writing strands review: this lesson revisits analyzing setting, direct and indirect characterization, advertising persuasion techniques, and active and passive voice from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Gf6MmdzhubI",
+        "videoUrls": [
+          {
+            "label": "Analyzing Setting as a Literary Element",
+            "url": "https://www.youtube.com/watch?v=Gf6MmdzhubI"
+          },
+          {
+            "label": "Analyzing Direct and Indirect Characterization",
+            "url": "https://www.youtube.com/watch?v=KWYPzVveuKY"
+          },
+          {
+            "label": "Analyzing Advertising Techniques and Persuasion",
+            "url": "https://www.youtube.com/watch?v=mss1kiD2GRw"
+          },
+          {
+            "label": "Active and Passive Voice",
+            "url": "https://www.youtube.com/watch?v=u4ZN7eaZATs"
+          }
+        ],
         "quiz": [
           {
             "q": "A story’s setting refers to ___.",
@@ -17534,6 +17553,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra and Measurement strands review: this lesson revisits simplifying radicals, solving systems of linear equations by elimination, the surface area and volume of spheres and cones, and logarithms from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=G3ucF7dMXY4",
+        "videoUrls": [
+          {
+            "label": "Simplifying Radicals and Square Roots",
+            "url": "https://www.youtube.com/watch?v=G3ucF7dMXY4"
+          },
+          {
+            "label": "Solving Systems of Linear Equations by Elimination",
+            "url": "https://www.youtube.com/watch?v=vA-55wZtLeE"
+          },
+          {
+            "label": "Surface Area and Volume of Spheres and Cones",
+            "url": "https://www.youtube.com/watch?v=2ZfjME7lTek"
+          },
+          {
+            "label": "Solving Systems of Linear Equations by Graphing",
+            "url": "https://www.youtube.com/watch?v=opAHlg-jolU"
+          }
+        ],
         "quiz": [
           {
             "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
@@ -17593,6 +17631,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: animals with radial symmetry, such as sea stars and jellyfish, have body parts arranged evenly around a central point, while animals with bilateral symmetry, such as most vertebrates and insects, have a left and right side that mirror each other.",
         "resourceLabel": "YouTube: Biology: Radial and Bilateral Symmetry in Animal Body Plans",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Radial%20and%20Bilateral%20Symmetry%20in%20Animal%20Body%20Plans%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-RMZ8K6RceI",
         "quiz": [
           {
             "q": "What is radial symmetry?",
@@ -17653,6 +17692,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) review: this lesson revisits map projections, urban heat islands, political geography in Canada, and urban food deserts from Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HyQM6uBB9_8",
+        "videoUrls": [
+          {
+            "label": "Cartography: Map Projections and Distortion",
+            "url": "https://www.youtube.com/watch?v=HyQM6uBB9_8"
+          },
+          {
+            "label": "Geography of Urban Heat Islands",
+            "url": "https://www.youtube.com/watch?v=304Eo7Ux_wE"
+          },
+          {
+            "label": "Political Geography: Federal, Provincial, and Municipal Boundaries",
+            "url": "https://www.youtube.com/watch?v=-oxAojygZLA"
+          },
+          {
+            "label": "The Geography of Urban Food Deserts",
+            "url": "https://www.youtube.com/watch?v=dRd9CloivY8"
+          }
+        ],
         "quiz": [
           {
             "q": "A map projection is best described as ___.",
@@ -17718,6 +17776,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Reading strand: a paradox is a statement that seems contradictory but reveals a deeper truth, while an oxymoron combines two seemingly contradictory terms within a single phrase for rhetorical or poetic effect.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=DCPobSssiHk",
         "quiz": [
           {
             "q": "A paradox is best described as ___.",
@@ -17778,6 +17837,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: the absolute value of a number is its distance from zero on a number line, always expressed as a non-negative value, so an equation like the absolute value of x equals 5 has two possible solutions, x equals 5 and x equals negative 5.",
         "resourceLabel": "YouTube: Algebra: Solving Absolute Value Equations (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Absolute%20Value%20Equations%20%28Intro%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_cHbhzQVd7Y",
         "quiz": [
           {
             "q": "What does the absolute value of a number represent?",
@@ -17838,6 +17898,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: the digestive system breaks down food both mechanically and chemically into nutrients that can be absorbed into the bloodstream, primarily through the stomach, small intestine, and large intestine.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Og5xAdC8EUI",
         "quiz": [
           {
             "q": "The digestive system breaks down food into ___.",
@@ -17898,6 +17959,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: weathering breaks down rock into smaller pieces through physical or chemical processes, while erosion transports those weathered materials elsewhere, together gradually reshaping landforms over time.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=QJUs4e2X5Uo",
         "quiz": [
           {
             "q": "Weathering is best described as the process that ___.",

@@ -17323,6 +17323,25 @@
         "summary": "Grade 10 English strand: this review lesson revisits the anti-hero, setting and atmosphere, active and passive voice, editorial cartoons, active listening, historical fiction, the process analysis essay, foreshadowing and suspense, and theme across texts covered across Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=43Vrnaz8fYU",
+        "videoUrls": [
+          {
+            "label": "Characterization: How Authors Build Complex Characters",
+            "url": "https://www.youtube.com/watch?v=43Vrnaz8fYU"
+          },
+          {
+            "label": "Active and Passive Voice",
+            "url": "https://www.youtube.com/watch?v=4xS2BgkjsFg"
+          },
+          {
+            "label": "Historical Fiction and Its Purpose",
+            "url": "https://www.youtube.com/watch?v=nkFhEfvtam0"
+          },
+          {
+            "label": "Analyzing Theme Across Multiple Texts",
+            "url": "https://www.youtube.com/watch?v=dI34pqtNRHA"
+          }
+        ],
         "quiz": [
           {
             "q": "An anti-hero is best described as a central character who ___.",
@@ -17382,6 +17401,25 @@
         "summary": "Grade 10 Math strand review: this lesson revisits inverse functions, radical functions, expected value, matrices, absolute value functions, trigonometric identities, set theory, linear programming, and congruence/similarity proofs covered across Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k",
+        "videoUrls": [
+          {
+            "label": "Introduction to Inverse Functions",
+            "url": "https://www.youtube.com/watch?v=TN4ybFiuV3k"
+          },
+          {
+            "label": "Matrices: Introduction and Basic Operations",
+            "url": "https://www.youtube.com/watch?v=ZFVFtVbeerI"
+          },
+          {
+            "label": "Set Theory and Venn Diagrams in Probability",
+            "url": "https://www.youtube.com/watch?v=MCsC1N333jo"
+          },
+          {
+            "label": "Congruence and Similarity Proofs",
+            "url": "https://www.youtube.com/watch?v=mJ4Ms6SXEgg"
+          }
+        ],
         "quiz": [
           {
             "q": "An inverse function reverses the effect of the original function by ___.",
@@ -17441,6 +17479,25 @@
         "summary": "Grade 10 Science strand review: this lesson revisits redox reactions, the endocrine system, electromagnetic induction, the rock cycle, intermolecular forces, the immune system, fluid mechanics, the water cycle, and taxonomy covered across Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dF5lB7gRtcA",
+        "videoUrls": [
+          {
+            "label": "Redox Reactions and Oxidation Numbers",
+            "url": "https://www.youtube.com/watch?v=dF5lB7gRtcA"
+          },
+          {
+            "label": "The Rock Cycle and Mineral Formation",
+            "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"
+          },
+          {
+            "label": "The Water Cycle and Watershed Management",
+            "url": "https://www.youtube.com/watch?v=ek3l_SZKsY0"
+          },
+          {
+            "label": "Taxonomy and Classification of Living Things",
+            "url": "https://www.youtube.com/watch?v=F38BmgPcZ_I"
+          }
+        ],
         "quiz": [
           {
             "q": "A redox reaction involves the transfer of ___ between substances.",
@@ -17500,6 +17557,25 @@
         "summary": "Grade 10 History strand review: this lesson revisits the Great Depression and Regina Riot, the Komagata Maru incident, Tommy Douglas and Medicare, the Official Languages Act, the White Paper of 1969, Africville, the Air India bombing, the Trans-Canada Highway, and the 1972 Summit Series covered across Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=tWrw75ZfUJ0",
+        "videoUrls": [
+          {
+            "label": "The Great Depression and the Regina Riot",
+            "url": "https://www.youtube.com/watch?v=tWrw75ZfUJ0"
+          },
+          {
+            "label": "Tommy Douglas and the Birth of Medicare",
+            "url": "https://www.youtube.com/watch?v=JzzhoB_AGFs"
+          },
+          {
+            "label": "Africville and the Destruction of a Black Canadian Community",
+            "url": "https://www.youtube.com/watch?v=iTtNtVWTEo8"
+          },
+          {
+            "label": "The 1972 Summit Series",
+            "url": "https://www.youtube.com/watch?v=6YA4mAWN_tY"
+          }
+        ],
         "quiz": [
           {
             "q": "The Regina Riot in 1935 arose out of protests connected to ___.",
@@ -17565,6 +17641,7 @@
         "summary": "Grade 10 English strand: an unreliable narrator is a narrator whose credibility is compromised, whether by bias, limited knowledge, or deliberate deception, requiring readers to critically evaluate the accuracy of the account being presented.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=n0eqEZ7jQa0",
         "quiz": [
           {
             "q": "An unreliable narrator is best described as a narrator whose ___.",
@@ -17625,6 +17702,7 @@
         "summary": "Grade 10 Quadratics strand (extension): the discriminant, b² - 4ac, determines the number and type of roots a quadratic equation has, indicating whether the roots are real and distinct, real and equal, or non-real.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=6fU9ZgwbU74",
         "quiz": [
           {
             "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
@@ -17685,6 +17763,7 @@
         "summary": "Grade 10 Chemistry strand (extension): periodic trends describe predictable patterns in properties such as atomic radius, ionization energy, and electronegativity as one moves across a period or down a group of the periodic table.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=hePb00CqvP0",
         "quiz": [
           {
             "q": "Periodic trends describe predictable patterns in properties as one moves across a ___ of the periodic table.",
@@ -17744,6 +17823,7 @@
         "summary": "Grade 10 History strand: Canada entered the First World War in 1914 as part of the British Empire, and the 1917 victory at Vimy Ridge, where Canadian troops fought together as a unified force for the first time, became a defining symbol of emerging Canadian national identity.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=mJnXQU1QDLg",
         "quiz": [
           {
             "q": "Canada entered the First World War in which year?",

@@ -20758,6 +20758,25 @@
         "summary": "Students review recent Language skills: consonant blends, number of s and -ing endings, sentence types, book authors, and story lessons.",
         "resourceLabel": "YouTube: Language Review: Blends, Words, and Stories",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Words%2C%20and%20Stories%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6n656GWy6ew",
+        "videoUrls": [
+          {
+            "label": "Consonant Blends",
+            "url": "https://www.youtube.com/watch?v=6n656GWy6ew"
+          },
+          {
+            "label": "Adding an S",
+            "url": "https://www.youtube.com/watch?v=174ycaguljc"
+          },
+          {
+            "label": "Sentence Types",
+            "url": "https://www.youtube.com/watch?v=g9_DQOwETMo"
+          },
+          {
+            "label": "Story Author and Illustrator",
+            "url": "https://www.youtube.com/watch?v=ANCBSXjn_qc"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word begins with the blend bl?",
@@ -20837,6 +20856,25 @@
         "summary": "Students review recent Math skills: number words, counting to 50, number bonds to 20, shapes with many sides, patterns, grids, and telling time to the hour.",
         "resourceLabel": "YouTube: Math Review: Numbers, Patterns, and Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Patterns%2C%20and%20Time%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m_ZF1G5Sb6o",
+        "videoUrls": [
+          {
+            "label": "Number Words",
+            "url": "https://www.youtube.com/watch?v=m_ZF1G5Sb6o"
+          },
+          {
+            "label": "Counting to 50",
+            "url": "https://www.youtube.com/watch?v=OXGaGttahxY"
+          },
+          {
+            "label": "Shapes with Many Sides",
+            "url": "https://www.youtube.com/watch?v=pRiOQHgVP6c"
+          },
+          {
+            "label": "Telling Time to the Hour",
+            "url": "https://www.youtube.com/watch?v=r2K1Py9U87I"
+          }
+        ],
         "quiz": [
           {
             "q": "Which number word matches the numeral 12?",
@@ -20918,6 +20956,7 @@
         "summary": "Children predict and then test whether different objects sink or float in a tub of water, an early hands-on physical science investigation.",
         "resourceLabel": "YouTube: Sink or Float: Testing Objects in Water",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sink%20or%20Float%3A%20Testing%20Objects%20in%20Water%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eQuW8G2QV_Q",
         "topic": "Matter & Materials",
         "quiz": [
           {
@@ -20978,6 +21017,25 @@
         "summary": "Students review recent Social Studies topics: postal workers, firefighters, grocery stores, bakeries, getting to school, teamwork, playground rules, and doctor offices.",
         "resourceLabel": "YouTube: Social Studies Review: Community Helpers and Habits",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%20Helpers%20and%20Habits%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nTXhCXASgLQ",
+        "videoUrls": [
+          {
+            "label": "Postal Worker",
+            "url": "https://www.youtube.com/watch?v=nTXhCXASgLQ"
+          },
+          {
+            "label": "Firefighters",
+            "url": "https://www.youtube.com/watch?v=MDhfKlbkzs4"
+          },
+          {
+            "label": "Grocery Store",
+            "url": "https://www.youtube.com/watch?v=WazK8e88axE"
+          },
+          {
+            "label": "Doctor Office",
+            "url": "https://www.youtube.com/watch?v=gXXmVqS3tLk"
+          }
+        ],
         "quiz": [
           {
             "q": "What does a postal worker deliver?",
@@ -21068,6 +21126,7 @@
         "summary": "Students learn that certain pairs of letters, such as sh, ch, and th, blend together to make one brand new sound instead of two separate sounds, as in ship, chip, and think.",
         "resourceLabel": "YouTube: Digraphs: sh, ch, and th",
         "resourceUrl": "https://www.youtube.com/results?search_query=Digraphs%3A%20sh%2C%20ch%2C%20and%20th%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d4PKjUFyyoM",
         "quiz": [
           {
             "q": "Which word begins with the digraph sh?",
@@ -21147,6 +21206,7 @@
         "summary": "Kids practice touching each object exactly once while counting a small group, building the foundation that each number word matches one object.",
         "resourceLabel": "YouTube: One-to-One Correspondence: Touch and Count",
         "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touch%20and%20Count%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=WM8VrBcimes",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -21207,6 +21267,7 @@
         "summary": "Kids explore and sort objects and materials as wet or dry, and talk about how things change when water is added or removed.",
         "resourceLabel": "YouTube: Wet and Dry: Sorting Materials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wet%20and%20Dry%3A%20Sorting%20Materials%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JpUIytR9Aes",
         "quiz": [
           {
             "q": "Which of these is usually wet?",
@@ -21266,6 +21327,7 @@
         "summary": "Students learn about the job of a dentist, a community helper who checks our teeth, helps keep them clean and healthy, and teaches us how to brush properly.",
         "resourceLabel": "YouTube: Our Dentist: Keeping Our Teeth Healthy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Dentist%3A%20Keeping%20Our%20Teeth%20Healthy%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MHcPzoMgxnc",
         "quiz": [
           {
             "q": "Who checks and helps keep our teeth healthy?",

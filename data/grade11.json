@@ -17358,6 +17358,25 @@
         "summary": "Grade 11 English strand review: this lesson revisits the epistolary novel, the persuasive manifesto, news bias and fact-checking, debate rebuttal and cross-examination, the character study essay, cohesion and coherence, the confessional poem, the elegy, and postmodern fragmented narrative.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=n5aNAIzy-EY",
+        "videoUrls": [
+          {
+            "label": "The Epistolary Novel",
+            "url": "https://www.youtube.com/watch?v=n5aNAIzy-EY"
+          },
+          {
+            "label": "Analyzing News Bias and Fact-Checking",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          },
+          {
+            "label": "The Character Study Essay",
+            "url": "https://www.youtube.com/watch?v=PxgOIP6USxc"
+          },
+          {
+            "label": "Postmodern Fiction and Fragmented Narrative",
+            "url": "https://www.youtube.com/watch?v=RQNiW8EQkoo"
+          }
+        ],
         "quiz": [
           {
             "q": "An epistolary novel tells its story primarily through ___.",
@@ -17417,6 +17436,25 @@
         "summary": "Grade 11 Functions strand review: this lesson revisits set theory and Venn diagrams, graph theory, the ambiguous case of the sine law, measures of central tendency and spread, optimization with quadratic models, solving equations graphically versus algebraically, systems of three linear equations, the real number system, and conic sections.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=AKyb4Y4k0ks",
+        "videoUrls": [
+          {
+            "label": "The Ambiguous Case of the Sine Law",
+            "url": "https://www.youtube.com/watch?v=AKyb4Y4k0ks"
+          },
+          {
+            "label": "Optimization Problems Using Quadratic Models",
+            "url": "https://www.youtube.com/watch?v=rZwXrvEq3nE"
+          },
+          {
+            "label": "Systems of Three Linear Equations",
+            "url": "https://www.youtube.com/watch?v=UcYbFN49uGc"
+          },
+          {
+            "label": "Introduction to Conic Sections",
+            "url": "https://www.youtube.com/watch?v=JUvo3GrgWHk"
+          }
+        ],
         "quiz": [
           {
             "q": "A set is best described as ___.",
@@ -17476,6 +17514,25 @@
         "summary": "Grade 11 Biology strand review: this lesson revisits sex-linked inheritance and pedigree analysis, the Hardy-Weinberg principle, comparative anatomy, extremophiles, pollination strategies, bioinformatics, animal adaptations to extreme environments, the brain, and freshwater ecosystems.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=Gd09V2AkZv4",
+        "videoUrls": [
+          {
+            "label": "Sex-Linked Inheritance and Pedigree Analysis",
+            "url": "https://www.youtube.com/watch?v=Gd09V2AkZv4"
+          },
+          {
+            "label": "Extremophiles and the Limits of Life",
+            "url": "https://www.youtube.com/watch?v=ppJQOePUO08"
+          },
+          {
+            "label": "Animal Adaptations to Extreme Environments",
+            "url": "https://www.youtube.com/watch?v=eQz8Df_5qeo"
+          },
+          {
+            "label": "Freshwater Ecosystems and Watershed Health",
+            "url": "https://www.youtube.com/watch?v=SexLZIyo_FA"
+          }
+        ],
         "quiz": [
           {
             "q": "A sex-linked trait is carried on ___.",
@@ -17535,6 +17592,25 @@
         "summary": "Grade 11 Chemistry strand review: this lesson revisits periodic trends in atomic properties, empirical and molecular formula determination, colorimetry, acid rain, photochemistry, flame tests, surfactant chemistry, food chemistry, and phase diagrams.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=hePb00CqvP0",
+        "videoUrls": [
+          {
+            "label": "Periodic Table: Trends in Atomic Properties",
+            "url": "https://www.youtube.com/watch?v=hePb00CqvP0"
+          },
+          {
+            "label": "Acid Rain and Atmospheric Chemistry",
+            "url": "https://www.youtube.com/watch?v=P4I-abHPa-I"
+          },
+          {
+            "label": "Soaps, Detergents, and Surfactant Chemistry",
+            "url": "https://www.youtube.com/watch?v=kuujbd3sg7o"
+          },
+          {
+            "label": "Phase Diagrams and Sublimation",
+            "url": "https://www.youtube.com/watch?v=QrHlwgmMTq4"
+          }
+        ],
         "quiz": [
           {
             "q": "Atomic radius generally ___ across a period from left to right.",
@@ -17600,6 +17676,7 @@
         "summary": "Grade 11 English strand: absurdist literature, exemplified by playwrights such as Samuel Beckett and Eugène Ionesco, portrays a universe that resists rational explanation, using illogical plots, circular dialogue, and characters trapped in meaningless routines to dramatize the human search for purpose in an indifferent world.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ7w2I83ba4",
         "quiz": [
           {
             "q": "Absurdist literature typically portrays a universe that ___.",
@@ -17721,6 +17798,17 @@
         "summary": "Grade 11 Biology strand: enzymes are protein catalysts with a specific active site that binds a substrate, lowering the activation energy needed for a reaction, and their activity can be reduced by inhibitors that block or alter that active site.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=qgVFkRn8f10",
+        "videoUrls": [
+          {
+            "label": "Enzyme Structure and Function",
+            "url": "https://www.youtube.com/watch?v=qgVFkRn8f10"
+          },
+          {
+            "label": "Enzyme Inhibition and Feedback Inhibition",
+            "url": "https://www.youtube.com/watch?v=6EDBlowVST0"
+          }
+        ],
         "quiz": [
           {
             "q": "An enzyme is best described as a protein that functions as a ___.",
@@ -17781,6 +17869,7 @@
         "summary": "Grade 11 Chemistry strand: a hydrate is an ionic compound with a fixed number of water molecules incorporated into its crystal structure, known as water of crystallization, and heating a hydrate drives off that water, allowing its formula to be determined from the resulting mass loss.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=t3A69QIlpwM",
         "quiz": [
           {
             "q": "A hydrate is best described as an ionic compound that incorporates a fixed number of ___ within its crystal structure.",

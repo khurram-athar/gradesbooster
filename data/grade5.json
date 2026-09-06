@@ -17927,6 +17927,25 @@
         "summary": "Grade 5 Language strand: this review lesson revisits key ideas from Days 61-69, including identifying bias, prepositional phrases, flashback, and personification and metaphor.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=6R6-2_8m4Co",
+        "videoUrls": [
+          {
+            "label": "Identifying Bias in a Text",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          },
+          {
+            "label": "Prepositional Phrases",
+            "url": "https://www.youtube.com/watch?v=2diHLxIdRPY"
+          },
+          {
+            "label": "Understanding Flashback",
+            "url": "https://www.youtube.com/watch?v=27swTdNKRy8"
+          },
+          {
+            "label": "Personification and Metaphor",
+            "url": "https://www.youtube.com/watch?v=NegoYIuXoEA"
+          }
+        ],
         "quiz": [
           {
             "q": "Bias in a text means the writing ___.",
@@ -17986,6 +18005,21 @@
         "summary": "Grade 5 Math strand: this review lesson revisits key ideas from Days 61-69, including adding and subtracting decimals, exponents, prime factorization, and congruent and similar shapes.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=sob2L2gkYvY",
+        "videoUrls": [
+          {
+            "label": "Adding and Subtracting Decimals",
+            "url": "https://www.youtube.com/watch?v=sob2L2gkYvY"
+          },
+          {
+            "label": "Prime Factorization",
+            "url": "https://www.youtube.com/watch?v=XBnUWjo3TgM"
+          },
+          {
+            "label": "Congruent and Similar Shapes",
+            "url": "https://www.youtube.com/watch?v=gr3IJ1DmrbU"
+          }
+        ],
         "quiz": [
           {
             "q": "When adding decimals, it is important to first ___.",
@@ -18045,6 +18079,25 @@
         "summary": "Grade 5 Science strand: this review lesson revisits key ideas from Days 61-69, including magnetism, the layers of the Earth, volcanoes, and the skin and human eye.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=IgtIdttfGVw",
+        "videoUrls": [
+          {
+            "label": "Magnetism and Magnetic Forces",
+            "url": "https://www.youtube.com/watch?v=IgtIdttfGVw"
+          },
+          {
+            "label": "The Layers of the Earth",
+            "url": "https://www.youtube.com/watch?v=PFzTZJHKkZE"
+          },
+          {
+            "label": "Volcanoes: Formation and Types",
+            "url": "https://www.youtube.com/watch?v=sd8cVCtIRO4"
+          },
+          {
+            "label": "The Human Eye and Vision",
+            "url": "https://www.youtube.com/watch?v=NTZkyntqHCA"
+          }
+        ],
         "quiz": [
           {
             "q": "A magnet has two poles, called the ___.",
@@ -18104,6 +18157,25 @@
         "summary": "Grade 5 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including Confederation, Canada’s economy, provincial capitals, and national symbols.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=HJV7SbkeC60",
+        "videoUrls": [
+          {
+            "label": "Taxes and Government Services",
+            "url": "https://www.youtube.com/watch?v=HJV7SbkeC60"
+          },
+          {
+            "label": "The Invention of Basketball",
+            "url": "https://www.youtube.com/watch?v=rwUR1fEO1us"
+          },
+          {
+            "label": "Canada's Provincial and Territorial Capitals",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          },
+          {
+            "label": "Canada's National Symbols",
+            "url": "https://www.youtube.com/watch?v=OGv5AqZiG7A"
+          }
+        ],
         "quiz": [
           {
             "q": "Confederation in 1867 united several British colonies to form ___.",
@@ -18169,6 +18241,7 @@
         "summary": "Grade 5 Language strand: irony occurs when there is a difference between what is expected to happen and what actually happens, or between what is said and what is truly meant.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=DL6n-v5MAxU",
         "quiz": [
           {
             "q": "Irony occurs when there is a difference between what is expected and ___.",
@@ -18229,6 +18302,7 @@
         "summary": "Grade 5 Math strand: multiplying two two-digit numbers involves breaking the numbers into tens and ones, multiplying each part, and adding the partial products together.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PZjIT9CH6bM",
         "quiz": [
           {
             "q": "When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.",
@@ -18289,6 +18363,7 @@
         "summary": "Students learn that the heart is a strong muscle inside our chest that pumps blood through our body, delivering the oxygen and nutrients our body needs.",
         "resourceLabel": "YouTube: Our Heart: A Muscle That Pumps Blood",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Heart%3A%20A%20Muscle%20That%20Pumps%20Blood%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rnIUFrx0DjI",
         "quiz": [
           {
             "q": "What is the heart?",
@@ -18369,6 +18444,7 @@
         "summary": "Grade 3 Social Studies strand: the Coat of Arms is an official symbol of Canada that includes images such as lions, a unicorn, and maple leaves, representing the countrys history and values.",
         "resourceLabel": "YouTube: Social Studies: Canadas Coat of Arms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canadas%20Coat%20of%20Arms%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2wNw5eBurAo",
         "quiz": [
           {
             "q": "What is the Coat of Arms?",
