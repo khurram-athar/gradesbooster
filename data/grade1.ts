@@ -20972,6 +20972,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Language skills: consonant blends, vowel teams, suffixes, prefixes, multiple-meaning words, author purpose, story theme, and context clues.",
         "resourceLabel": "YouTube: Language Review: Blends, Vowel Teams, and Word Meaning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Vowel%20Teams%2C%20and%20Word%20Meaning%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i9kINwIoT1w",
+        "videoUrls": [
+          {
+            "label": "Consonant Blends",
+            "url": "https://www.youtube.com/watch?v=i9kINwIoT1w"
+          },
+          {
+            "label": "Suffixes -ed and -es",
+            "url": "https://www.youtube.com/watch?v=nzXAASiSrDs"
+          },
+          {
+            "label": "Author Purpose",
+            "url": "https://www.youtube.com/watch?v=Xw1WZPdXmso"
+          },
+          {
+            "label": "Context Clues",
+            "url": "https://www.youtube.com/watch?v=eHCpJ86XDY4"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word begins with the sc blend?",
@@ -21052,6 +21071,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Math skills: days and months, adding coins, comparing fractions, number bonds to 20, skip counting by 6s, equal groups, missing number sentences, measuring length, and turns and slides.",
         "resourceLabel": "YouTube: Math Review: Time, Money, Fractions, and Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Time%2C%20Money%2C%20Fractions%2C%20and%20Measurement%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xkUYTmRDSko",
+        "videoUrls": [
+          {
+            "label": "Days and Months",
+            "url": "https://www.youtube.com/watch?v=xkUYTmRDSko"
+          },
+          {
+            "label": "Comparing Fractions",
+            "url": "https://www.youtube.com/watch?v=362JVVvgYPE"
+          },
+          {
+            "label": "Skip Counting by 6s",
+            "url": "https://www.youtube.com/watch?v=1PzW8LwH7CU"
+          },
+          {
+            "label": "Measuring Length",
+            "url": "https://www.youtube.com/watch?v=2wUsdsae0ro"
+          }
+        ],
         "quiz": [
           {
             "q": "How many days are in one week?",
@@ -21134,6 +21172,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Science topics: spiders, migration, evergreen and deciduous trees, fossils, shadows, pollination, farm animals, endangered animals, and weather tools.",
         "resourceLabel": "YouTube: Science Review: Creatures, Plants, and Weather",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Creatures%2C%20Plants%2C%20and%20Weather%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a2ilmR8kg5E",
+        "videoUrls": [
+          {
+            "label": "Spiders and Small Creatures",
+            "url": "https://www.youtube.com/watch?v=a2ilmR8kg5E"
+          },
+          {
+            "label": "Evergreen and Deciduous Trees",
+            "url": "https://www.youtube.com/watch?v=DMq3MzZ8pcA"
+          },
+          {
+            "label": "Pollination",
+            "url": "https://www.youtube.com/watch?v=r1cYQsFGFqg"
+          },
+          {
+            "label": "Weather Tools",
+            "url": "https://www.youtube.com/watch?v=oQB68rvRWBM"
+          }
+        ],
         "quiz": [
           {
             "q": "How many legs does a spider have?",
@@ -21215,6 +21272,25 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Social Studies topics: weather and clothing, public transportation, sportsmanship, chores at home, schools then and now, newspapers, farmers markets, community gardens, and banks.",
         "resourceLabel": "YouTube: Social Studies Review: Community, Money, and Cooperation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Money%2C%20and%20Cooperation%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m-g3QmRXnXY",
+        "videoUrls": [
+          {
+            "label": "Weather and Clothing",
+            "url": "https://www.youtube.com/watch?v=m-g3QmRXnXY"
+          },
+          {
+            "label": "Schools Then and Now",
+            "url": "https://www.youtube.com/watch?v=n4lFPv82M_s"
+          },
+          {
+            "label": "Farmers Markets",
+            "url": "https://www.youtube.com/watch?v=f86BI7HcqBQ"
+          },
+          {
+            "label": "Banks",
+            "url": "https://www.youtube.com/watch?v=CqD3hnjZBTM"
+          }
+        ],
         "quiz": [
           {
             "q": "Which clothing would be best on a cold winter day?",
@@ -57341,6 +57417,7554 @@ const curriculum: DayContent[] = [
             "answers": [
               "a gathering to celebrate Indigenous culture"
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Consonant Digraphs: sh, ch, th, wh; Word Families: -it and -in; Word Families: -ug and -ub; Beginning Blends: sp, sm, sn, sw.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word begins with the digraph sh?",
+            "options": [
+              "Cat",
+              "Dog",
+              "Ship",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word starts with the blend 'sm'?",
+            "options": [
+              "Smile",
+              "Sun",
+              "Top",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -it word family?",
+            "options": [
+              "Sit",
+              "Dog",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -ub word family?",
+            "options": [
+              "Bug",
+              "Rub",
+              "Sit",
+              "Hat"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Counting to 100; Numbers to 100: Tens and Ones; Comparing Numbers: Greater Than and Less Than; Fractions: Quarters.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What number comes right after 69?",
+            "options": [
+              "68",
+              "69",
+              "70",
+              "71"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is greater, 45 or 32?",
+            "options": [
+              "32",
+              "Same",
+              "45",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many tens are in the number 52?",
+            "options": [
+              "2",
+              "50",
+              "5",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A shape is cut into 4 equal parts. What do we call one of those parts?",
+            "options": [
+              "A half",
+              "A whole",
+              "A double",
+              "A quarter"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Seasonal Changes: Spring; Seasonal Changes: Summer; Insects and Their Body Parts; Nocturnal Animals: Creatures of the Night.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What usually happens to the weather in spring?",
+            "options": [
+              "It gets colder",
+              "It stays exactly the same",
+              "It disappears",
+              "It gets warmer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "Six",
+              "Four",
+              "Eight",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which season is usually the warmest of the year?",
+            "options": [
+              "Spring",
+              "Winter",
+              "Fall",
+              "Summer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the word 'nocturnal' mean?",
+            "options": [
+              "Awake during the day",
+              "Awake during the night",
+              "Lives in water",
+              "Cannot move"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our Neighbourhood: Places We Visit; Jobs People Do: Goods and Services; Needs and Wants: What We Really Need; Transportation Then and Now.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these is a place you might find in a neighbourhood?",
+            "options": [
+              "The ocean floor",
+              "Outer space",
+              "A volcano",
+              "A park"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is something people need to survive?",
+            "options": [
+              "A toy",
+              "A video game",
+              "Water",
+              "Candy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes an item that is made or sold, like a toy?",
+            "options": [
+              "A season",
+              "A good",
+              "A rule",
+              "A service"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Long ago, how did many people travel before cars were invented?",
+            "options": [
+              "By airplane",
+              "By subway",
+              "By rocket",
+              "By horse and wagon"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Rhyming Words; Sequencing Events: First, Next, Last; Fiction and Non-Fiction: Comparing Texts; Asking and Answering Questions About a Text.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word rhymes with cat?",
+            "options": [
+              "Sun",
+              "Pig",
+              "Hat",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of book tells a make-believe story?",
+            "options": [
+              "Fiction",
+              "Non-fiction",
+              "A dictionary",
+              "A phone book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word describes the event that happens at the beginning of a story?",
+            "options": [
+              "Middle only",
+              "First",
+              "Never",
+              "Last"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "After reading a story, what can you ask to check if you understood it?",
+            "options": [
+              "A shopping list",
+              "A question about the story",
+              "A math problem",
+              "A weather report"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measuring Capacity: More and Less; Symmetry: Matching Halves; Sorting and Classifying Objects; Money: Making Small Amounts.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which container usually holds more water, a bucket or a teacup?",
+            "options": [
+              "Teacup",
+              "Cannot tell",
+              "Bucket",
+              "They hold the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you sort toys by colour, which group would a red ball and a red block go in?",
+            "options": [
+              "The round group",
+              "The heavy group",
+              "The red group",
+              "The wooden group"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a shape to be symmetrical?",
+            "options": [
+              "The shape is coloured red",
+              "The shape has no sides",
+              "The shape is always a circle",
+              "Both halves match exactly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "You have a nickel (5 cents) and a penny (1 cent). How much money do you have in total?",
+            "options": [
+              "4 cents",
+              "5 cents",
+              "10 cents",
+              "6 cents"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Moon and Its Phases; Recycling and Reducing Waste; Taking Care of Our Teeth; The Five Senses.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call it when the Moon looks like a complete circle in the sky?",
+            "options": [
+              "New moon",
+              "Crescent moon",
+              "Half moon",
+              "Full moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should you do every day to keep your teeth healthy?",
+            "options": [
+              "Brush your teeth",
+              "Eat only candy",
+              "Never see a dentist",
+              "Skip brushing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these materials can often be recycled?",
+            "options": [
+              "Paper",
+              "Sunlight",
+              "Rainbows",
+              "Air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sense do you use to hear music?",
+            "options": [
+              "Sight",
+              "Hearing",
+              "Smell",
+              "Taste"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: My Body Belongs to Me: Personal Safety; Communication Then and Now; Cooperation and Teamwork in a Group; Our Capital City: Ottawa.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What should you do if someone makes you feel unsafe?",
+            "options": [
+              "Ignore the feeling",
+              "Run away and hide alone",
+              "Stay quiet forever",
+              "Tell a trusted adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a group project, what does teamwork mean?",
+            "options": [
+              "Working alone the whole time",
+              "Refusing to share ideas",
+              "Working together to reach a goal",
+              "Ignoring your teammates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did many people send messages long ago before phones were common?",
+            "options": [
+              "By writing letters",
+              "By text message",
+              "By email",
+              "By video call"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ottawa is the capital city of which country?",
+            "options": [
+              "United States",
+              "Mexico",
+              "France",
+              "Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Letter Writing: A Note to a Friend; Common Sight Words for Grade 1; Consonant Blends: br, cr, dr, gr; Ending Blends: st, nd, nt, mp.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What word often begins a friendly letter?",
+            "options": [
+              "Chapter One",
+              "Dear",
+              "The End",
+              "Once"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with the blend 'gr'?",
+            "options": [
+              "Green",
+              "Cat",
+              "Sun",
+              "Top"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a sight word?",
+            "options": [
+              "A word with no vowels",
+              "A common word you should recognize instantly",
+              "A word only used in math",
+              "A very long word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word ends with the blend 'mp'?",
+            "options": [
+              "Cat",
+              "Jump",
+              "Sun",
+              "Dog"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Time: Half Past the Hour; Skip Counting by 2s, 5s, and 10s; Addition and Subtraction Fact Families; Doubles Facts in Addition.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "At half past the hour, where does the long hand point?",
+            "options": [
+              "The 6",
+              "The 12",
+              "The 3",
+              "The 9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 3 + 4 = 7, which subtraction fact belongs to the same fact family?",
+            "options": [
+              "7 + 3 = 10",
+              "3 - 4 = 1",
+              "7 - 3 = 4",
+              "4 + 4 = 8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When skip counting by 2s starting at 2, what comes after 2, 4, 6?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the doubles fact for 6 + 6?",
+            "options": [
+              "11",
+              "13",
+              "10",
+              "12"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Changing Materials: Heating and Cooling; Living and Non-Living Things; Taking Care of Our Bodies: Exercise and Rest; Healthy Eating and Food Groups.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens to ice when it is heated?",
+            "options": [
+              "It turns to stone",
+              "It disappears completely",
+              "It gets colder",
+              "It melts into water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to get enough sleep at night?",
+            "options": [
+              "It helps your body rest and grow",
+              "It makes you weaker",
+              "It makes you hungrier",
+              "It has no effect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a living thing?",
+            "options": [
+              "A rock",
+              "A tree",
+              "A chair",
+              "A car"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which food group do apples and bananas belong to?",
+            "options": [
+              "Grains",
+              "Fruits",
+              "Dairy",
+              "Meat"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Niagara Falls: A Famous Canadian Landmark; All About Canada: Geography, People, and Facts; Farms and Where Our Food Comes From; Local Government: Our Town Leaders.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is Niagara Falls?",
+            "options": [
+              "A famous waterfall",
+              "A shopping mall",
+              "A type of tree",
+              "A small pond"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does milk that we drink usually come from?",
+            "options": [
+              "A factory only",
+              "The ocean",
+              "A farm",
+              "A forest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the capital city of Canada?",
+            "options": [
+              "Toronto",
+              "Vancouver",
+              "Ottawa",
+              "Montreal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who helps make decisions and rules for a town or city?",
+            "options": [
+              "Zoo animals",
+              "Tourists",
+              "Astronauts",
+              "Local government leaders"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vowel Teams: ai and ay; Vowel Teams: oa and ow; Plural Nouns: Adding -s and -es; Alphabetical Order; Comparing Adjectives: -er and -est.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which letters make the long a sound in the word rain?",
+            "options": [
+              "ee",
+              "ai",
+              "ay",
+              "oa"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word means more than one 'box'?",
+            "options": [
+              "Boxes",
+              "Boxs",
+              "Boxies",
+              "Box's"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letters make the long o sound in the word boat?",
+            "options": [
+              "ee",
+              "ai",
+              "ow",
+              "oa"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word would come first in alphabetical order: 'apple', 'banana', 'cat'?",
+            "options": [
+              "Banana",
+              "Apple",
+              "Cat",
+              "They are the same"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Skip Counting by 3s; Number Bonds to 10; Odd and Even Numbers; Time: Quarter Past and Quarter To; Money: Comparing Amounts.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "When skip counting by 3s, what number comes after 3?",
+            "options": [
+              "4",
+              "5",
+              "7",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these numbers is an even number?",
+            "options": [
+              "7",
+              "9",
+              "8",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number pairs with 7 to make 10?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At quarter past the hour, where does the long hand point?",
+            "options": [
+              "The 12",
+              "The 6",
+              "The 9",
+              "The 3"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Germs and Staying Healthy; Air All Around Us; Floating and Sinking; Fish and Their Body Parts; Birds and Their Body Parts.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are germs?",
+            "options": [
+              "Tiny living things that can make people sick",
+              "A type of weather",
+              "A kind of plant",
+              "Large rocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to a heavy rock when you put it in water?",
+            "options": [
+              "It sinks",
+              "It floats",
+              "It disappears",
+              "It turns to ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can we usually see the air around us?",
+            "options": [
+              "Yes, always",
+              "No, we cannot see it",
+              "Only in winter",
+              "Only at night"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What body part do fish use to breathe underwater?",
+            "options": [
+              "Lungs",
+              "Gills",
+              "Wings",
+              "Fur"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadian Currency: Our Coins and Bills; Saving and Spending Money Wisely; Emergency Workers and Calling for Help; Fire Safety at Home and School; Caring for Pets and Animals.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is the name of the Canadian one dollar coin?",
+            "options": [
+              "Toonie",
+              "Nickel",
+              "Loonie",
+              "Dime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number should you call in Canada in an emergency?",
+            "options": [
+              "411",
+              "611",
+              "911",
+              "211"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Throwing money away",
+              "Spending all money right away",
+              "Keeping money to use later",
+              "Losing money"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one way to take good care of a pet dog?",
+            "options": [
+              "Never feed it",
+              "Leave it outside all the time ignored",
+              "Take away its water",
+              "Give it food, water, and love"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Following Written Instructions; Capital Letters: Names and Sentence Beginnings; Language Review: Blends, Vowel Teams, and Sentences; Consonant Digraphs: ph and ck.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Why is it important to read instructions carefully?",
+            "options": [
+              "So you know what steps to follow and in what order",
+              "You should skip reading them",
+              "Order never matters",
+              "Instructions do not matter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the ph sound, like in the word phone?",
+            "options": [
+              "Photo",
+              "Chip",
+              "Shop",
+              "Duck"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of letter should begin the first word of a sentence?",
+            "options": [
+              "A capital letter",
+              "A number",
+              "A lowercase letter",
+              "No letter at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a complete sentence?",
+            "options": [
+              "Under the table.",
+              "The big dog barked.",
+              "Running fast.",
+              "Blue and green."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Positional Language: Above, Below, Beside, Between; Adding Three Numbers Together; Math Review: Facts, Patterns, and Time; Numbers to 120.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "If a cloud is high in the sky over a house, the cloud is ___ the house.",
+            "options": [
+              "Beside",
+              "Below",
+              "Above",
+              "Inside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number comes right after 99?",
+            "options": [
+              "89",
+              "9",
+              "100",
+              "110"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3 add 2 add 1?",
+            "options": [
+              "5",
+              "7",
+              "8",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The cat sat ___ the two chairs.",
+            "options": [
+              "Above",
+              "Beside",
+              "Under",
+              "Between"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Camouflage: Hiding in Nature; Temperature: Hot and Cold; Science Review: Bodies, Air, and Animals; Reptiles and Their Body Parts.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "A type of weather",
+              "When an animal color or pattern helps it blend into its surroundings",
+              "A kind of food",
+              "A loud animal sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which body part covering protects reptiles like snakes and lizards?",
+            "options": [
+              "Scales",
+              "Feathers",
+              "Fur",
+              "Gills"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tool do we use to measure temperature?",
+            "options": [
+              "A scale",
+              "A ruler",
+              "A clock",
+              "A thermometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do you breathe in from the air to stay alive?",
+            "options": [
+              "Sand",
+              "Air",
+              "Paint",
+              "Glue"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Toys and Games: Then and Now; Road and Bicycle Safety Rules; Social Studies Review: Safety, Money, and Community Helpers; Rural and Urban Communities: City and Country Life.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a toy children may have played with long ago?",
+            "options": [
+              "A tablet",
+              "A smartphone app",
+              "A video game console",
+              "A simple wooden toy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these would you be most likely to see in a busy city?",
+            "options": [
+              "A large farm field",
+              "Many cows grazing",
+              "Tall apartment buildings",
+              "A quiet country road"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should you do before crossing the street?",
+            "options": [
+              "Run across quickly without looking",
+              "Close your eyes",
+              "Look both ways for traffic",
+              "Ignore traffic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do people use to pay for things at a store?",
+            "options": [
+              "Leaves",
+              "Rocks",
+              "Paper clips",
+              "Money"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Silent Letters: kn and wr; Word Families: -op, -et, -en, and -ed; Vowel Teams: ee and ea; R-Controlled Vowels: ar and or.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "In the word knee, which letter makes no sound?",
+            "options": [
+              "e",
+              "all letters are heard",
+              "k",
+              "n"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the same long e sound as in the word tree?",
+            "options": [
+              "Seed",
+              "Bread",
+              "Bed",
+              "Red"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -op word family?",
+            "options": [
+              "Bed",
+              "Sun",
+              "Hop",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the ar sound, like in the word car?",
+            "options": [
+              "Corn",
+              "Star",
+              "Fort",
+              "Torn"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Skip Counting by 4s; Fractions: Thirds; Adding and Subtracting Tens; Comparing Numbers on a Number Line.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "When skip counting by 4s, what number comes after 8?",
+            "options": [
+              "12",
+              "10",
+              "9",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 40 minus 10?",
+            "options": [
+              "20",
+              "50",
+              "30",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a shape is split into three equal parts, each part is called ___.",
+            "options": [
+              "A quarter",
+              "A whole",
+              "A half",
+              "A third"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, which number is farther to the right: 12 or 18?",
+            "options": [
+              "12",
+              "They are the same",
+              "Neither is on the line",
+              "18"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Amphibians and Their Life Cycle; Mammals and Their Body Parts; The Water Cycle; Day and Night.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these animals is an amphibian?",
+            "options": [
+              "A shark",
+              "A frog",
+              "A robin",
+              "A turtle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to water when the sun heats it up and it rises into the air?",
+            "options": [
+              "It evaporates",
+              "It freezes",
+              "It turns into rock",
+              "It disappears forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What usually covers the skin of a mammal?",
+            "options": [
+              "Scales",
+              "Feathers",
+              "Fur",
+              "Fins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these causes day and night?",
+            "options": [
+              "The clouds moving",
+              "The Earth turning",
+              "The wind blowing",
+              "The rain falling"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadian Inventions and Inventors; Taking Care of Library Books; How Mail Gets Delivered: Post Office Helpers; National Parks: Protecting Nature in Canada.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a person who creates something new and useful?",
+            "options": [
+              "An inventor",
+              "A farmer",
+              "A pilot",
+              "A dentist"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who delivers letters and packages to our homes?",
+            "options": [
+              "A firefighter",
+              "A chef",
+              "A mail carrier",
+              "A pilot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should we take good care of library books?",
+            "options": [
+              "So other people can also enjoy them",
+              "Books do not need care",
+              "Only librarians can touch them",
+              "So we never have to return them"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do we protect national parks in Canada?",
+            "options": [
+              "To build more roads",
+              "To cut down all the trees",
+              "To fill them with garbage",
+              "To keep nature and animals safe"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Homophones: to, too, and two; Types of Sentences: Statements and Commands; Making Inferences While Reading; Sorting Words into Categories; Language Review: Digraphs, Vowel Teams, and Sentence Types.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word means the number 2?",
+            "options": [
+              "Two",
+              "Too",
+              "To",
+              "Threw"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sam is wearing a raincoat and boots. What can you infer about the weather?",
+            "options": [
+              "It is raining",
+              "It is sunny",
+              "It is snowing heavily",
+              "It is very hot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is a statement?",
+            "options": [
+              "Close the door.",
+              "Please sit down.",
+              "The sky is blue.",
+              "Pick it up."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word does NOT belong with apple, banana, and pear?",
+            "options": [
+              "Orange",
+              "Chair",
+              "Mango",
+              "Grape"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Bar Graphs; Repeating Patterns: AB and ABC; Estimating: More, Fewer, and About How Many; Digital Time: Reading Digital Clocks; Math Review: Numbers, Patterns, and Time.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What does a bar graph use to show data?",
+            "options": [
+              "Only words",
+              "Only numbers",
+              "Bars of different heights",
+              "Only colours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Look at a small pile of 3 apples and a big pile of 20 apples. Which pile has fewer apples?",
+            "options": [
+              "The pile of 20",
+              "They are equal",
+              "The pile of 3",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the pattern red, blue, red, blue, red, what comes next?",
+            "options": [
+              "Red",
+              "Green",
+              "Blue",
+              "Yellow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A digital clock shows 7:00. What time is it?",
+            "options": [
+              "Seven thirty",
+              "Seventeen o'clock",
+              "Seven minutes",
+              "Seven o'clock"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Forces: Gravity Pulls Things Down; Life Cycle of a Butterfly; Animal Coverings: Fur, Feathers, and Scales; Ocean Animals: Creatures of the Sea; Science Review: Animals, Water, and Sky.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the name of the force that pulls objects down toward the ground?",
+            "options": [
+              "Sound",
+              "Magnetism",
+              "Light",
+              "Gravity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal covering helps birds fly?",
+            "options": [
+              "Feathers",
+              "Fur",
+              "Scales",
+              "Shell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first stage of a butterfly life cycle?",
+            "options": [
+              "Egg",
+              "Adult butterfly",
+              "Caterpillar",
+              "Chrysalis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals lives in the ocean?",
+            "options": [
+              "Squirrel",
+              "Dolphin",
+              "Rabbit",
+              "Owl"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Community Helpers and the Jobs They Do; Making Fair Choices in a Group; Museums: Learning About the Past; Grocery Stores and Where We Buy Our Food; Social Studies Review: Places, Inventions, and Fair Choices.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Who helps put out fires in a community?",
+            "options": [
+              "A firefighter",
+              "A mail carrier",
+              "A doctor",
+              "A librarian"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can you learn about by visiting a museum?",
+            "options": [
+              "Only new video games",
+              "Only sports scores",
+              "The past and old objects",
+              "Only weather forecasts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a fair way for a group to make a choice?",
+            "options": [
+              "Ignoring what others want",
+              "Taking turns and listening to everyone",
+              "Only one person deciding every time",
+              "Arguing without listening"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do families usually go to buy food like fruits and bread?",
+            "options": [
+              "A fire station",
+              "A library",
+              "A museum",
+              "A grocery store"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Consonant Blends: sc, sk, sl, tw; Vowel Teams: oi and oy; Vowel Teams: ue and ew; Suffixes: -ed and -es; Prefixes: pre- and dis-.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word begins with the sc blend?",
+            "options": [
+              "Sun",
+              "Cat",
+              "Dog",
+              "Scarf"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Add -ed to the word walk. What is the new word?",
+            "options": [
+              "Walked",
+              "Walks",
+              "Walking",
+              "Walker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letters make the vowel sound in the word coin?",
+            "options": [
+              "ea",
+              "oy",
+              "oi",
+              "ee"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The prefix dis- can make a word mean the opposite. What does disagree mean?",
+            "options": [
+              "To agree",
+              "To not agree",
+              "To agree loudly",
+              "To agree quietly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Time: Days of the Week and Months of the Year; Money: Adding Coins to Make a Total; Fractions: Comparing Halves, Thirds, and Quarters; Number Bonds to 20; Skip Counting by 6s.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which day comes right after Monday?",
+            "options": [
+              "Wednesday",
+              "Sunday",
+              "Tuesday",
+              "Friday"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number bond is correct: 12 + ___ = 20?",
+            "options": [
+              "10",
+              "6",
+              "8",
+              "12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A nickel plus a dime equals how many cents?",
+            "options": [
+              "5 cents",
+              "20 cents",
+              "15 cents",
+              "10 cents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When skip counting by 6s, what comes after 12?",
+            "options": [
+              "16",
+              "14",
+              "20",
+              "18"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Spiders and Other Small Creatures; Migration: Animals That Travel with the Seasons; Trees: Evergreen and Deciduous; Fossils: Clues from the Past; Shadows: Light and Dark.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "How many legs does a spider have?",
+            "options": [
+              "Four",
+              "Eight",
+              "Six",
+              "Ten"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of tree keeps its green needles all year round?",
+            "options": [
+              "An evergreen tree",
+              "A deciduous tree",
+              "A tree with no leaves",
+              "A dead tree"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call animals travelling to a new place as the seasons change?",
+            "options": [
+              "Hibernation",
+              "Camouflage",
+              "Pollination",
+              "Migration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A shadow forms when something blocks ___.",
+            "options": [
+              "Water",
+              "Light",
+              "Sound",
+              "Wind"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Weather and Clothing: Dressing for the Season; Public Transportation: Getting Around Our Community; Fair Play and Good Sportsmanship in Games; Helping at Home: Chores and Family Responsibilities; Schools Then and Now.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which clothing would be best on a cold winter day?",
+            "options": [
+              "A warm coat and mittens",
+              "A swimsuit",
+              "Shorts and sandals",
+              "A sun hat only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does good sportsmanship look like after losing a game?",
+            "options": [
+              "Yelling at the winner",
+              "Refusing to play again",
+              "Shaking hands and saying good game",
+              "Throwing the equipment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a kind of public transportation?",
+            "options": [
+              "A single bicycle",
+              "A backpack",
+              "A city bus",
+              "A skateboard"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a chore that helps your family at home?",
+            "options": [
+              "Watching TV all day",
+              "Playing video games",
+              "Taking a nap",
+              "Making your bed"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Multiple-Meaning Words; Author Purpose: To Tell, To Teach, To Entertain; Story Theme: The Lesson of a Story; Using Context Clues to Find Word Meaning.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word can mean both a flying animal and something used to hit a ball?",
+            "options": [
+              "Bat",
+              "Cat",
+              "Sun",
+              "Cup"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a story where a slow turtle wins a race by not giving up, what is the theme, or lesson, of the story?",
+            "options": [
+              "Keep going and don't give up",
+              "Never try hard",
+              "Always give up when things are hard",
+              "Turtles are faster than rabbits always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a book gives facts about how plants grow, the author purpose is likely to ___.",
+            "options": [
+              "Only entertain with jokes",
+              "Confuse the reader",
+              "Teach",
+              "Sell toys"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence 'The puppy was famished, so he ate his food quickly,' what does the word famished mean?",
+            "options": [
+              "Very sleepy",
+              "Very hungry",
+              "Very cold",
+              "Very happy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Making Equal Groups: Sharing Fairly; Missing Number Addition Sentences; Measuring Length with a Ruler: Centimetres; Position and Movement: Turns and Slides.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "If you share 6 apples equally between 2 friends, how many does each friend get?",
+            "options": [
+              "2",
+              "4",
+              "6",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which tool would you use to measure the length of your pencil in centimetres?",
+            "options": [
+              "A clock",
+              "A thermometer",
+              "A ruler",
+              "A scale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is missing: 4 add ___ equals 9?",
+            "options": [
+              "4",
+              "3",
+              "6",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word describes moving a shape by sliding it straight across, without turning it?",
+            "options": [
+              "A turn",
+              "A spin",
+              "A flip",
+              "A slide"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Pollination: How Bees Help Flowers Grow; Farm Animals and How They Help Us; Endangered Animals: Protecting Wildlife; Simple Weather Tools: Thermometers and Rain Gauges.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is pollen?",
+            "options": [
+              "A powder that helps plants make seeds",
+              "A type of animal fur",
+              "A kind of rock",
+              "A kind of water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean when an animal is endangered?",
+            "options": [
+              "There are very few of them left in the wild",
+              "There are too many of them",
+              "It lives only in zoos",
+              "It is not a real animal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which farm animal gives us milk?",
+            "options": [
+              "A sheep",
+              "A chicken",
+              "A pig",
+              "A cow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a thermometer measure?",
+            "options": [
+              "How much rain fell",
+              "How hot or cold it is",
+              "How windy it is",
+              "How loud thunder is"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Newspapers and News: Learning About Our Community; Farmers Markets: Buying Local Food; Community Gardens: Growing Food Together; Banks: A Safe Place to Save Money.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is a newspaper?",
+            "options": [
+              "A musical instrument",
+              "A printed paper that shares news and stories",
+              "A type of clothing",
+              "A kind of food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens at a community garden?",
+            "options": [
+              "People watch movies together",
+              "People buy cars there",
+              "Neighbours work together to grow food",
+              "People swim together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a farmers market?",
+            "options": [
+              "A place to see art",
+              "A place where local farmers sell food directly to people",
+              "A place to borrow books",
+              "A place to mail letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one reason people use a bank?",
+            "options": [
+              "To watch TV shows",
+              "To buy groceries only",
+              "To get haircuts",
+              "To keep their money safe"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Blends, Vowel Teams, and Word Meaning; Digraph Endings: -ng and -nk; The Letter Y as a Vowel: sky, my, happy; R-Controlled Vowels: er, ir, ur.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word has an r-controlled vowel sound?",
+            "options": [
+              "Bird",
+              "Cat",
+              "Sun",
+              "Top"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the word 'sky', what sound does the letter y make?",
+            "options": [
+              "The sound of long i",
+              "The sound of long e",
+              "The sound of short a",
+              "It makes no sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word ends with the ng sound?",
+            "options": [
+              "Sing",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has an r-controlled vowel sound, like in 'first'?",
+            "options": [
+              "Cat",
+              "Turtle",
+              "Sun",
+              "Dog"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Time, Money, Fractions, and Measurement; Ordinal Numbers: First to Tenth; Ordering Numbers from Least to Greatest; Missing Number Subtraction Sentences.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "6",
+              "7",
+              "5",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which list of numbers is ordered from least to greatest?",
+            "options": [
+              "9, 3, 5",
+              "7, 1, 6",
+              "2, 4, 8",
+              "5, 5, 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word tells you someone is in the very first spot in a line?",
+            "options": [
+              "Last",
+              "First",
+              "Fifth",
+              "Third"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number is missing: 10 minus ___ equals 4?",
+            "options": [
+              "4",
+              "5",
+              "7",
+              "6"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Creatures, Plants, and Weather; Clouds in the Sky: Types of Clouds; Plant Parts We Eat: Roots, Stems, and Leaves; Seasonal Changes: Fall.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which part of a carrot do we eat?",
+            "options": [
+              "Root",
+              "Leaf",
+              "Flower",
+              "Seed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Carrots are a vegetable we eat. Which part of the plant is a carrot?",
+            "options": [
+              "A root",
+              "A leaf",
+              "A flower",
+              "A seed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are clouds mostly made of?",
+            "options": [
+              "Tiny drops of water",
+              "Solid rock",
+              "Sand",
+              "Metal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these usually happens in the fall season?",
+            "options": [
+              "The days are the hottest of the year",
+              "Leaves change colour and fall off trees",
+              "Snow covers the ground for months",
+              "Flowers first bloom after winter"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Community, Money, and Cooperation; Police Officers: Keeping Our Community Safe; Hospitals and Doctors: Healthcare in Our Community; Volunteers: Helping Without Pay.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What does a doctor use to listen to your heartbeat?",
+            "options": [
+              "A stethoscope",
+              "A thermometer",
+              "A bandage",
+              "A microscope"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where would you go if you were very sick and needed a doctor's help right away?",
+            "options": [
+              "A movie theatre",
+              "A grocery store",
+              "A hospital",
+              "A library"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main job of a police officer?",
+            "options": [
+              "Cooking food for a restaurant",
+              "Teaching a classroom",
+              "Delivering mail",
+              "Keeping people in the community safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a volunteer?",
+            "options": [
+              "Someone who is paid a lot of money",
+              "Someone who never helps anyone",
+              "Someone who only works at a bank",
+              "Someone who helps others without being paid"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Compound Sentences: Joining Two Ideas with And; Onomatopoeia: Sound Words in Stories; Similes: Comparing with Like and As; Making Connections: Text to Self.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word can join two short sentences into one longer sentence?",
+            "options": [
+              "Is",
+              "Was",
+              "The",
+              "And"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is a simile that compares two things using like or as?",
+            "options": [
+              "The dog was as fast as lightning.",
+              "The dog ran fast.",
+              "The dog is brown.",
+              "The dog sat down."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is onomatopoeia?",
+            "options": [
+              "A word with no meaning",
+              "A silent letter",
+              "A type of punctuation",
+              "A word that sounds like the noise it describes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a reader thinks, 'This story reminds me of my own birthday party,' what are they doing?",
+            "options": [
+              "Ignoring the story",
+              "Making a text-to-self connection",
+              "Writing a new book",
+              "Skipping the pictures"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions: Equal and Unequal Parts; Money: Counting Up to One Dollar; Solving Simple Addition and Subtraction Word Problems; Comparing Length: Longer, Shorter, and the Same.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "If a pizza is cut into two same-size pieces, the parts are ___.",
+            "options": [
+              "Missing",
+              "Equal",
+              "Unequal",
+              "Doubled"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sam has 5 stickers. His friend gives him 4 more stickers. How many stickers does Sam have now?",
+            "options": [
+              "8",
+              "10",
+              "9",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many cents make one dollar?",
+            "options": [
+              "10 cents",
+              "100 cents",
+              "50 cents",
+              "75 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A red ribbon is longer than a blue ribbon. The blue ribbon is ___ than the red ribbon.",
+            "options": [
+              "Taller",
+              "Equal",
+              "Wider",
+              "Shorter"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Rainbows: Sunlight and Colours; Deserts: Life in a Dry Habitat; Arctic Animals: Life in the Cold; Composting: Turning Food Scraps into Soil.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is needed to make a rainbow?",
+            "options": [
+              "Sunlight and raindrops",
+              "Only wind",
+              "Only darkness",
+              "Only snow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is well suited to live in the cold Arctic?",
+            "options": [
+              "A polar bear",
+              "A camel",
+              "A desert lizard",
+              "A monkey"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a desert?",
+            "options": [
+              "A dry habitat that gets very little rain",
+              "A habitat found only underwater",
+              "A habitat covered in ice",
+              "A habitat with constant rain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to food scraps in a compost bin?",
+            "options": [
+              "They turn into plastic",
+              "They break down and turn into soil",
+              "They turn into glass",
+              "They disappear forever with no change"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Newcomers to Canada: Welcoming New Families; Earning Money: Jobs and Working; Airports: Travelling by Airplane; Weather Around the World: Hot and Cold Climates.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is a newcomer?",
+            "options": [
+              "A type of building",
+              "A person or family who has recently moved to a new country",
+              "A kind of holiday",
+              "A person born in the same town forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do people mainly do at an airport?",
+            "options": [
+              "Go swimming",
+              "Plant gardens",
+              "Board airplanes to travel",
+              "Borrow library books"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do most people earn money?",
+            "options": [
+              "Money grows on trees",
+              "By working at a job",
+              "It appears for free",
+              "By doing nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In places with a hot climate, like a desert, the weather is usually ___.",
+            "options": [
+              "Snowy and freezing",
+              "Rainy all year",
+              "Icy and windy",
+              "Hot and dry"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Descriptive Writing: Painting a Picture with Words; Asking Questions Before, During, and After Reading; Language Review: Y as a Vowel, R-Controlled Vowels, and Reading Strategies; Vowel Teams: oo in Book and Moon; Text Features: Titles, Headings, and Bold Words.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is descriptive writing?",
+            "options": [
+              "A type of math problem",
+              "A list of numbers",
+              "Writing that uses detailed words to help readers picture something",
+              "Writing with no details at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the same oo sound as in 'moon'?",
+            "options": [
+              "Spoon",
+              "Book",
+              "Foot",
+              "Look"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader ask a question before starting a book?",
+            "options": [
+              "To predict what the book might be about",
+              "To avoid reading",
+              "To skip the book entirely",
+              "To ignore the title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you want to quickly find out what a chapter is about, which text feature would help most?",
+            "options": [
+              "A random word",
+              "The heading",
+              "The page number",
+              "The last letter"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Time: Morning, Afternoon, and Evening; Data: Making a Simple Survey and Chart; Math Review: Counting, Fractions, Money, and Time; Skip Counting by 8s and 9s; Numbers to 150: Reading Larger Numbers.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which activity usually happens in the morning?",
+            "options": [
+              "Watching the sunset",
+              "Eating breakfast",
+              "Eating dinner",
+              "Going to bed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What comes next when skip counting by 9s: 9, 18, 27, ___?",
+            "options": [
+              "30",
+              "35",
+              "36",
+              "40"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a survey?",
+            "options": [
+              "A type of shape",
+              "Asking a group of people the same question to collect information",
+              "A math symbol",
+              "A kind of clock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number comes right after 129?",
+            "options": [
+              "128",
+              "120",
+              "140",
+              "130"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Ladybugs and Beetles: Helpful Insects; Animal Diets: Herbivores, Carnivores, and Omnivores; Science Review: Weather, Plants, Habitats, and Animals; Seasonal Changes: Winter; What Living Things Need to Survive.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which insect is known for helping gardens by eating small pests?",
+            "options": [
+              "A mosquito",
+              "A moth",
+              "A ladybug",
+              "A housefly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a sign that winter has come?",
+            "options": [
+              "Snow falls and the air feels very cold",
+              "Flowers bloom everywhere",
+              "The days become very hot",
+              "Leaves grow bright green"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an animal that eats only plants?",
+            "options": [
+              "An omnivore",
+              "A predator only",
+              "A carnivore",
+              "A herbivore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these does a living thing need to survive?",
+            "options": [
+              "A television",
+              "Water",
+              "A bicycle",
+              "A video game"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Knowing Your Address: Where You Live; Time Capsules: Saving Memories for the Future; Social Studies Review: Helpers, Newcomers, and Travel; Our Fire Department: Firefighters Keeping Us Safe; Recycling Centres: Where Our Bottles and Cans Go.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is an address?",
+            "options": [
+              "A type of food",
+              "The street name and number where a person lives",
+              "A kind of game",
+              "A school subject"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a firefighter?",
+            "options": [
+              "Delivering mail",
+              "Selling food",
+              "Putting out fires and keeping people safe",
+              "Teaching math"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a time capsule?",
+            "options": [
+              "A container of objects saved to be opened in the future",
+              "A type of vehicle",
+              "A musical instrument",
+              "A kind of clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to bottles and cans at a recycling centre?",
+            "options": [
+              "They are buried in a garden",
+              "They are thrown into the ocean",
+              "They are burned for fun",
+              "They are sorted and made into new materials"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Story Mood: How a Story Makes Us Feel; Word Endings: Adding -ful and -less; Comparing Two Stories: How They Are Alike and Different.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is the mood of a story?",
+            "options": [
+              "The number of pages in the book",
+              "The overall feeling the story gives its reader",
+              "The colour of the book cover",
+              "The name of the main character"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does adding -less to a word usually mean?",
+            "options": [
+              "Without something",
+              "Full of something",
+              "Before something",
+              "After something"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does adding -ful to a word usually mean?",
+            "options": [
+              "After something",
+              "Before something",
+              "Full of something",
+              "Without something"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When you compare two stories, what are you looking for?",
+            "options": [
+              "Only which book is longer",
+              "The price of each book",
+              "The name of the illustrator",
+              "How the stories are alike and different"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions: Recognizing a Whole; Measuring with Non-Standard Units: Paper Clips and Cubes; Data: Venn Diagrams for Sorting into Two Groups.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What is a whole?",
+            "options": [
+              "Only a quarter of an object",
+              "Only half of an object",
+              "One complete object or shape",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a Venn diagram with two overlapping circles, where do items go if they belong to BOTH groups?",
+            "options": [
+              "Outside both circles",
+              "In the middle part where the circles overlap",
+              "Only in the left circle",
+              "Only in the right circle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When measuring length with paper clips, how should they be placed?",
+            "options": [
+              "End to end with no gaps",
+              "Stacked on top of each other",
+              "Scattered randomly",
+              "Placed far apart"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When you measure how long a book is using cubes, what are you counting?",
+            "options": [
+              "How heavy the book is",
+              "How many pages the book has",
+              "What colour the book is",
+              "How many cubes fit alongside the book"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Natural and Human-Made Structures; Coral Reefs: Colourful Ocean Habitats; Hibernation: How Animals Sleep Through Winter.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is a NATURAL structure?",
+            "options": [
+              "A skyscraper",
+              "A beehive",
+              "A bridge",
+              "A bicycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean when an animal hibernates for the winter?",
+            "options": [
+              "It flies to a warmer country",
+              "It grows a thicker shell",
+              "It sleeps deeply through winter to save energy",
+              "It stays awake hunting all night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a coral reef?",
+            "options": [
+              "A kind of desert",
+              "A mountain found on land",
+              "A colourful underwater habitat built by coral",
+              "A type of cloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a HUMAN-MADE structure?",
+            "options": [
+              "A bridge",
+              "A beehive",
+              "A spider web",
+              "A bird's nest"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: City Hall: Where Local Leaders Work; Indigenous Traditions: Storytelling and the Land; Our National Anthem: O Canada.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is city hall?",
+            "options": [
+              "A place that delivers mail",
+              "A building where local leaders work to help their town or city",
+              "A place that sells groceries",
+              "A place with no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is O Canada?",
+            "options": [
+              "A children's counting song",
+              "A type of Canadian food",
+              "A rule used in hockey",
+              "Canada's national anthem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is storytelling?",
+            "options": [
+              "A rule about traffic safety",
+              "A type of building",
+              "A kind of food",
+              "Sharing stories, often passed down through generations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In many Indigenous traditions, why is the land considered important?",
+            "options": [
+              "It is not important at all",
+              "It is connected to stories, culture, and daily life",
+              "It is only used for shopping malls",
+              "It is only important in winter"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Giving an Opinion: I Think, I Believe; Reading with Expression: Using Our Voice When We Read; Idioms: Sayings That Do Not Mean What They Say; Building Vocabulary: Learning New Words While Reading.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is an opinion?",
+            "options": [
+              "A fact that is always true for everyone",
+              "A number in a math problem",
+              "Your own idea or feeling about something",
+              "A rule that everyone must follow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an idiom?",
+            "options": [
+              "A saying that means exactly what it says",
+              "A math symbol",
+              "A saying whose meaning is different from its actual words",
+              "A punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to read with expression?",
+            "options": [
+              "Reading as quietly as possible at all times",
+              "Reading every sentence in exactly the same flat voice",
+              "Skipping every punctuation mark",
+              "Changing your voice to match a sentences feeling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to build your vocabulary?",
+            "options": [
+              "Learning new words so you can understand and use them",
+              "Building a tower out of blocks",
+              "Erasing words you already know",
+              "Only looking at pictures in a book"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Addition: Making Ten to Add; Subtraction: Counting Back Strategy; Time: Elapsed Time and How Long Did It Take?; Money: Making Change from a Dollar.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "To solve 9 plus 4 using making ten, what number completes 9 to make 10?",
+            "options": [
+              "1",
+              "0",
+              "4",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you start reading a book at 3 o'clock and stop at 4 o'clock, how much time has passed?",
+            "options": [
+              "10 minutes",
+              "30 minutes",
+              "3 hours",
+              "1 hour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To solve 8 minus 2 using counting back, where do you start counting?",
+            "options": [
+              "At 10",
+              "At 0",
+              "At 2, and count forward",
+              "At 8, and count backward 2 times"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "You pay with a one-dollar coin for a toy that costs 75 cents. How much change should you get back?",
+            "options": [
+              "75 cents",
+              "1 dollar",
+              "25 cents",
+              "50 cents"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Northern Lights: Colourful Skies; Properties of Materials: Hard and Soft; Properties of Materials: Rough and Smooth; Our Nose and Taste Buds: Smelling and Tasting Together.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the northern lights?",
+            "options": [
+              "Lights found only underwater",
+              "Streetlights found in every city",
+              "Colourful lights that glow and dance in the night sky",
+              "A kind of daytime rainbow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these objects usually feels ROUGH?",
+            "options": [
+              "A smooth glass window",
+              "Sandpaper",
+              "A silk scarf",
+              "Still water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these objects is HARD?",
+            "options": [
+              "A pillow",
+              "A rock",
+              "A sponge",
+              "A cotton ball"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do your taste buds help you do?",
+            "options": [
+              "Hear sounds",
+              "Smell flowers",
+              "See colours",
+              "Taste flavours like sweet or sour"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our Provincial Flag and Symbols; Bake Sales and Fundraisers: Helping Our Community; Weather Emergencies: Staying Safe in a Storm; Being a Good Neighbour: Kindness Close to Home.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Does each Canadian province have its own flag?",
+            "options": [
+              "Only cities have flags",
+              "No",
+              "Only one province has a flag",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During a big winter storm, what is a safe thing to do?",
+            "options": [
+              "Stay inside and listen to a trusted adult",
+              "Go outside and play in the street",
+              "Ignore all storm warnings",
+              "Walk far from home alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a fundraiser?",
+            "options": [
+              "A rule about traffic safety",
+              "An event where a community raises money for a shared goal",
+              "A store that sells only toys",
+              "A place that delivers mail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of being a good neighbour?",
+            "options": [
+              "Making a lot of noise late at night",
+              "Throwing garbage on a neighbour's lawn",
+              "Helping shovel snow for an elderly neighbour",
+              "Refusing to say hello"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Vowel Teams, Text Features, and Word Meaning; Vowel Teams: ie and igh (Long I Sound); Contractions: Joining Two Words Into One; Root Words: Finding the Base Word Inside.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word has the long oo sound, like in moon?",
+            "options": [
+              "Wood",
+              "Spoon",
+              "Book",
+              "Foot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is the contraction for 'do not'?",
+            "options": [
+              "Dont's",
+              "Don't",
+              "Do'nt",
+              "Donot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the long i sound spelled ie?",
+            "options": [
+              "Pit",
+              "Pie",
+              "Sit",
+              "Pin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word inside 'jumping'?",
+            "options": [
+              "Ing",
+              "Ping",
+              "Jumpi",
+              "Jump"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Numbers, Fractions, and Time; Numbers to 200: Counting Beyond 150; Doubles Plus One: A Mental Math Strategy; Data Management: Probability Language - Likely, Unlikely, Certain, and Impossible.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "If you skip count by 9s, what comes after 9?",
+            "options": [
+              "16",
+              "10",
+              "18",
+              "19"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using doubles plus one, what is 7 + 8? (Hint: 7 + 7 = 14)",
+            "options": [
+              "13",
+              "14",
+              "15",
+              "16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number comes right after 159?",
+            "options": [
+              "161",
+              "169",
+              "150",
+              "160"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If something is CERTAIN to happen, that means it...",
+            "options": [
+              "Will definitely happen",
+              "Will never happen",
+              "Might happen or might not",
+              "Is impossible"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Magnets: The Invisible Pull; What Magnets Attract and What They Don't; How Sounds Are Made: Vibrations; Icebergs and Glaciers: Frozen Water.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What force does a magnet use to move objects toward it?",
+            "options": [
+              "Melting",
+              "Pushing",
+              "Pulling (attraction)",
+              "Bouncing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What makes a sound when you pluck a guitar string?",
+            "options": [
+              "The string changing colour",
+              "The string vibrating back and forth quickly",
+              "The string melting",
+              "The string growing longer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which material is usually attracted to a magnet?",
+            "options": [
+              "Metal like a steel paper clip",
+              "Wood",
+              "Plastic",
+              "Paper"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are icebergs and glaciers made of?",
+            "options": [
+              "Frozen fresh water",
+              "Melted sand",
+              "Liquid rock",
+              "Soft cotton"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Leaders, Traditions, and Community Care; Land Acknowledgements: Respecting Indigenous Territory; What Is a Map? Introducing Simple Maps; Map Symbols: Reading a Simple Map Key.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is a map symbol used for?",
+            "options": [
+              "To show a real place or thing in a simple picture",
+              "To show the weather",
+              "To tell a made-up story",
+              "To show the time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a map?",
+            "options": [
+              "A song about a place",
+              "A list of numbers",
+              "A drawing that shows where places are located",
+              "A kind of hat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A type of building",
+              "A statement that recognizes Indigenous Peoples connected to the land",
+              "A kind of food",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a simple map, what does a map key (legend) help you do?",
+            "options": [
+              "Change the map's colours",
+              "Understand what the symbols on the map mean",
+              "Lock the map so no one can read it",
+              "Tell you tomorrow's weather"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Alliteration: Repeating Beginning Sounds; Text Features: Captions and Diagrams; Persuasive Writing: Convincing Someone With Words; Story Endings: Writing a New Ending for a Tale.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "A word with no vowels",
+              "A type of punctuation mark",
+              "When words close together start with the same sound",
+              "A word that means the opposite of another word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of persuasive writing?",
+            "options": [
+              "To convince someone to think or do something",
+              "To list facts with no opinions",
+              "To describe a made-up dream",
+              "To draw a picture instead of writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a caption?",
+            "options": [
+              "A kind of punctuation mark",
+              "A title at the top of a book",
+              "A short sentence written under a picture",
+              "A number on a page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you write a new ending for a story, what part of the story are you changing?",
+            "options": [
+              "The title of the book",
+              "The names of the illustrator",
+              "How the story finishes",
+              "The cover picture"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Growing Patterns: Patterns That Get Bigger; 3D Shapes: Faces, Edges, and Vertices; Fractions: Sharing a Group of Objects Equally; Money: Trading Coins for Equal Value.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What is a growing pattern?",
+            "options": [
+              "A pattern where each step gets bigger",
+              "A pattern that only uses colours",
+              "A pattern that always stays the same",
+              "A pattern with no numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 8 apples are shared equally between 2 friends, how many apples does each friend get?",
+            "options": [
+              "2",
+              "4",
+              "6",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the flat surfaces of a 3D shape?",
+            "options": [
+              "Faces",
+              "Corners only",
+              "Vertices",
+              "Edges"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which group of coins could you trade for one quarter (25 cents)?",
+            "options": [
+              "Two nickels (10 cents)",
+              "Three nickels (15 cents)",
+              "One dime and one nickel (15 cents)",
+              "Two dimes and one nickel (25 cents)"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Adaptation: How Animals Survive in Their Habitat; Dinosaurs: Animals from Long Ago; Loud and Soft, High and Low: Exploring Sound; Sources of Light: Natural and Human-Made.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an adaptation?",
+            "options": [
+              "A place where animals shop",
+              "A type of food animals eat only once",
+              "A special feature or behaviour that helps an animal survive",
+              "A rule animals must follow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which pair of words describes how loud or quiet a sound is?",
+            "options": [
+              "Loud and soft",
+              "High and low",
+              "Fast and slow",
+              "Big and small"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What were dinosaurs?",
+            "options": [
+              "A type of plant",
+              "A kind of cloud",
+              "Animals that lived on Earth a very long time ago",
+              "Animals that live in cities today"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a natural source of light?",
+            "options": [
+              "Lightbulb",
+              "Sun",
+              "Flashlight",
+              "Candle"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Classroom Jobs: Helping Our Classroom Run Smoothly; Public Signs and Symbols: Understanding Signs Around Us; Thanksgiving in Canada: A Time to Give Thanks; Remembrance Day: Honouring Those Who Served.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is a classroom job?",
+            "options": [
+              "A job only adults can do",
+              "A job that pays money",
+              "A rule about traffic safety",
+              "A responsibility that helps the classroom run smoothly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is Thanksgiving in Canada a time for?",
+            "options": [
+              "Giving thanks",
+              "Planting seeds",
+              "Building snowmen",
+              "Learning to swim"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a public sign?",
+            "options": [
+              "A type of story",
+              "A kind of song",
+              "A sign that shares important information using shapes, colours, or pictures",
+              "A private note between friends"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Remembrance Day help us do?",
+            "options": [
+              "Plant trees",
+              "Honour people who served our country",
+              "Celebrate a birthday",
+              "Learn about weather"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Nonsense Words: Practising Phonics Skills; Character Traits: Describing What a Character Is Like; Language Review: Vowel Teams, Word Parts, and Story Craft; Possessive Nouns: Showing Ownership with s.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a nonsense word?",
+            "options": [
+              "A real word with a meaning",
+              "A made-up word that follows real spelling patterns",
+              "A type of sentence",
+              "A punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a vowel team (two vowels that work together to make one sound)?",
+            "options": [
+              "ai",
+              "bt",
+              "sk",
+              "cr"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "A word that describes what a character is like",
+              "The name of a character",
+              "The last part of a story",
+              "The place where a story happens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses a possessive noun to show the dog owns the ball?",
+            "options": [
+              "The dog run fast.",
+              "The dog's ball is red.",
+              "The dog bone red is.",
+              "Dogs ball are red."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measuring Mass: Heavier, Lighter, and Balancing; Addition and Subtraction: Choosing the Best Strategy; Math Review: Numbers, Patterns, and Strategies; Place Value: Hundreds, Tens, and Ones to 200.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What tool can be used to compare the mass of two objects?",
+            "options": [
+              "A ruler",
+              "A thermometer",
+              "A clock",
+              "A balance scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the number 147, how many tens are there?",
+            "options": [
+              "4",
+              "1",
+              "7",
+              "14"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which strategy works well for solving 8 plus 8?",
+            "options": [
+              "Counting back",
+              "None of these",
+              "Skip counting by 10s",
+              "Doubles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 2s, what number comes after 14?",
+            "options": [
+              "15",
+              "16",
+              "18",
+              "20"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Our Eyes: How We See the World; Our Ears: How We Hear Sounds; Our Skin: The Sense of Touch; The Sun: Our Nearest Star.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which body part do we use for the sense of sight?",
+            "options": [
+              "Skin",
+              "Ears",
+              "Eyes",
+              "Nose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body part helps us feel if something is soft, hard, hot, or cold?",
+            "options": [
+              "Ears",
+              "Skin",
+              "Eyes",
+              "Nose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which body part do we use for the sense of hearing?",
+            "options": [
+              "Tongue",
+              "Nose",
+              "Ears",
+              "Eyes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Sun?",
+            "options": [
+              "A planet",
+              "A moon",
+              "A star",
+              "A cloud"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Money From Around the World: Comparing Currencies; Recycling, Reusing, and Reducing: The Three Rs; Social Studies Review: Leadership, Traditions, and Caring for Our World; Our Municipal Services: Water, Garbage, and Roads.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is currency?",
+            "options": [
+              "The money used in a country",
+              "A type of food",
+              "A rule about traffic safety",
+              "A kind of building"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a service our municipality (town or city) provides?",
+            "options": [
+              "Picking up garbage",
+              "Baking birthday cakes",
+              "Writing school textbooks",
+              "Making toys"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the three Rs?",
+            "options": [
+              "Reduce, reuse, and recycle",
+              "Run, ride, and roll",
+              "Read, write, and run",
+              "Rest, relax, and repeat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which action shows you are caring for our world?",
+            "options": [
+              "Littering in the park",
+              "Turning off lights when not needed",
+              "Wasting water",
+              "Throwing garbage in the river"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading Comprehension: Sequencing in Nonfiction; Exclamatory Sentences: Showing Strong Feeling; Word Families: -ock and -uck; Setting the Scene: Describing Where a Story Happens.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word is a clue that something happens first?",
+            "options": [
+              "First",
+              "Jump",
+              "Cat",
+              "Blue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -ock word family?",
+            "options": [
+              "clock",
+              "duck",
+              "hat",
+              "run"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an exclamatory sentence?",
+            "options": [
+              "We won the game!",
+              "We might win the game",
+              "Did we win the game?",
+              "We won the game."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the setting of a story tell us?",
+            "options": [
+              "The names of the characters",
+              "Where and when the story happens",
+              "The ending of the story",
+              "The author's favourite colour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Two-Digit Addition Without Regrouping; Two-Digit Subtraction Without Regrouping; Ten Frames: Representing Numbers; Comparing 2D and 3D Shapes.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What is 12 plus 24?",
+            "options": [
+              "35",
+              "38",
+              "36",
+              "34"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A ten frame has 7 counters filled in. How many empty spaces are left?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 39 minus 16?",
+            "options": [
+              "23",
+              "22",
+              "25",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which shape is a 2D shape (flat, not solid)?",
+            "options": [
+              "Cube",
+              "Sphere",
+              "Circle",
+              "Cone"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Owls: Nocturnal Birds of Prey; Bats: Flying Mammals of the Night; The Life Cycle of a Frog; Penguins: Birds That Cannot Fly.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "When do owls usually hunt for food?",
+            "options": [
+              "At night",
+              "Only underwater",
+              "Never",
+              "Only at noon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What comes right after an egg in a frog's life cycle?",
+            "options": [
+              "Tadpole",
+              "Adult frog",
+              "Froglet",
+              "Tree"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of animal is a bat?",
+            "options": [
+              "An insect",
+              "A mammal",
+              "A fish",
+              "A reptile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can't penguins fly?",
+            "options": [
+              "They are too small",
+              "They live in trees",
+              "Their wings are made for swimming, not flying",
+              "They have no eyes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Near and Far: Describing Where Things Are; Left, Right, and In Between: Giving Simple Directions; Mapping Our Classroom: A Bird's-Eye View; Mapping Our School Grounds.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which word describes something that is close to you?",
+            "options": [
+              "Near",
+              "Far",
+              "Someday",
+              "Yesterday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a bird's-eye view map of the classroom showing?",
+            "options": [
+              "A photograph of the teacher",
+              "The classroom at night",
+              "The classroom seen from outside the window",
+              "The classroom seen from above"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you are facing the classroom door and the reading corner is on your left, which hand points toward it?",
+            "options": [
+              "Your left hand",
+              "Both hands",
+              "Neither hand",
+              "Your right hand"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do we make a map of our school grounds?",
+            "options": [
+              "To show what students are wearing",
+              "To show where things are located outside our school",
+              "To show the weather forecast",
+              "To show what time school starts"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Blends: fr, tr, pr; Common and Proper Nouns; Story Problem and Solution; Author Message: What Is the Story Teaching Us.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word starts with the fr blend?",
+            "options": [
+              "Tree",
+              "Frog",
+              "Prize",
+              "Snail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a story, the 'solution' is",
+            "options": [
+              "the picture on the cover",
+              "the name of the book",
+              "the last word in the story",
+              "how the character fixes the problem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a proper noun?",
+            "options": [
+              "school",
+              "dog",
+              "city",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The message an author wants readers to learn from a story is called the",
+            "options": [
+              "title",
+              "glossary",
+              "author's message",
+              "table of contents"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Estimating Before Measuring; Counting Forward and Backward Within 200; Fact Families to 20; Combining Coins and Bills to Make an Amount.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What is an estimate?",
+            "options": [
+              "A reasonable guess made before measuring exactly",
+              "An exact measurement with no guessing",
+              "A kind of number pattern",
+              "A type of shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which subtraction fact belongs to the same fact family as 7 + 5 = 12?",
+            "options": [
+              "12 - 7 = 5",
+              "12 - 5 = 8",
+              "7 - 5 = 3",
+              "5 - 12 = 7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes right before 120?",
+            "options": [
+              "110",
+              "119",
+              "121",
+              "118"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "You have 1 dime and 1 nickel. How much money do you have?",
+            "options": [
+              "10 cents",
+              "15 cents",
+              "20 cents",
+              "5 cents"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Stars in the Night Sky; Wind: Moving Air We Cannot See; Animal Tracks: Footprints in the Snow; Ants: Tiny but Mighty Workers.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "When can we usually see stars in the sky?",
+            "options": [
+              "Only during storms",
+              "At night, when the sky is dark",
+              "Only at noon",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can animal tracks in the snow show us?",
+            "options": [
+              "What an animal ate for lunch",
+              "What kind of animal walked by and which way it went",
+              "The animal's name",
+              "The weather next week"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is wind?",
+            "options": [
+              "Frozen water",
+              "Moving air",
+              "A kind of light",
+              "A type of cloud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ants are known for being",
+            "options": [
+              "Lazy and slow",
+              "Unable to carry anything",
+              "Strong workers that work together",
+              "Not really insects"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Natural and Built Features in Our Community; Finding Landmarks Near Home; Kinds of Families: Big, Small, and Different; How My Family Helps Each Other.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these is a natural feature?",
+            "options": [
+              "A bridge",
+              "A road",
+              "A river",
+              "A house"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Families can look",
+            "options": [
+              "Exactly the same in every home",
+              "Different in size and in the people who are part of them",
+              "Only made of two people",
+              "The same in every country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A landmark is",
+            "options": [
+              "A kind of food",
+              "A rule for a classroom game",
+              "A place or object that helps people recognize a location",
+              "A type of weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of family members helping each other?",
+            "options": [
+              "Refusing to share toys",
+              "Ignoring a sibling who is upset",
+              "Helping a parent set the table for dinner",
+              "Leaving messes for others to clean"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Nouns, Sentences, and Story Elements; Adverbs: Words That Describe Verbs; Word Families: -ell and -ick; Reading Dialogue: Who Is Talking?.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which phrase correctly shows ownership?",
+            "options": [
+              "Ball Mia",
+              "The ball Mia",
+              "Mia ball",
+              "Mias ball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word belongs to the -ick word family?",
+            "options": [
+              "Bell",
+              "Sick",
+              "Well",
+              "Shell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is an adverb?",
+            "options": [
+              "Happy",
+              "Dog",
+              "Table",
+              "Quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story, quotation marks show us",
+            "options": [
+              "The title of the book",
+              "A math equation",
+              "Words that a character is saying out loud",
+              "The page number"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Place Value, Operations, and Data; Two-Digit Addition With Regrouping; Two-Digit Subtraction With Regrouping; Congruent Shapes: Same Size and Shape.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "In the number 174, how many hundreds are there?",
+            "options": [
+              "7",
+              "0",
+              "4",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 42 - 15?",
+            "options": [
+              "33",
+              "27",
+              "37",
+              "26"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 26 + 7?",
+            "options": [
+              "34",
+              "33",
+              "32",
+              "35"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two shapes that are exactly the same size and shape are called",
+            "options": [
+              "Similar",
+              "Different",
+              "Symmetrical",
+              "Congruent"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Our Bodies, Animals, and Energy; What Plants Need to Grow; How Seeds Travel; Comparing Plants and Animals: Living Thing Characteristics.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the largest organ of our body?",
+            "options": [
+              "Brain",
+              "Skin",
+              "Heart",
+              "Lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can the wind help a seed?",
+            "options": [
+              "It waters the seed",
+              "It can carry the seed far away to a new spot",
+              "It plants the seed underground",
+              "It eats the seed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these does a plant need to grow well?",
+            "options": [
+              "Sunlight",
+              "A television",
+              "Music",
+              "A backpack"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is true about both plants and animals?",
+            "options": [
+              "They are both living things that grow",
+              "Both can run and jump",
+              "Both have fur",
+              "Neither one needs food or water"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Rules at Home: Keeping Our Family Safe and Happy; Rules at School and Rules at Home: What's the Same, What's Different; Growing Up: Chores I Do Now and Chores I Used to Do; Following Classroom Routines: Why a Schedule Helps Us.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Why do families often have a bedtime rule for children?",
+            "options": [
+              "Because rules are only for school",
+              "To help children get enough rest to stay healthy",
+              "To make children upset",
+              "To keep children awake all night"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As children grow older, the chores they do usually",
+            "options": [
+              "Disappear completely",
+              "Stay exactly the same forever",
+              "Can become bigger or more responsible",
+              "Are only done by adults"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which rule would most likely be found both at home and at school?",
+            "options": [
+              "\"Be kind to others.\"",
+              "\"Sit in your assigned classroom seat.\"",
+              "\"Raise your hand before speaking to the whole class.\"",
+              "\"Line up for the bell.\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does following a classroom schedule help students?",
+            "options": [
+              "It makes the day confusing",
+              "It helps students know what to expect and do next",
+              "It stops all learning",
+              "It is not helpful at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Subject Pronouns: I, You, He, She, It, We, They; Predicting: What Will Happen Next?; Compound Words: Two Small Words Joined Together; Journal Writing: Writing About My Day.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a pronoun?",
+            "options": [
+              "A word that takes the place of a noun",
+              "A word that shows action",
+              "A word that joins two sentences",
+              "A word that describes a noun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a compound word?",
+            "options": [
+              "Sunshine",
+              "Happy",
+              "Jump",
+              "Blue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to predict while reading?",
+            "options": [
+              "To find the title of a book",
+              "To copy a sentence",
+              "To guess what might happen next using clues",
+              "To read the last page first"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A journal entry about your day usually tells about",
+            "options": [
+              "Made-up dragons only",
+              "Things that really happened to you",
+              "Math formulas",
+              "A dictionary's words"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterns: Shrinking Patterns; Time: Estimating How Long an Activity Takes; Measuring Length in Metres: Longer Distances; Perimeter: Measuring Around a Shape.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "In the pattern 18, 14, 10, ___, what comes next?",
+            "options": [
+              "6",
+              "8",
+              "4",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which tool would you use to measure the length of a classroom in metres?",
+            "options": [
+              "A measuring tape or metre stick",
+              "A clock",
+              "A thermometer",
+              "A balance scale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how long does it take to brush your teeth?",
+            "options": [
+              "A few minutes",
+              "A few hours",
+              "A whole day",
+              "A few seconds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is perimeter?",
+            "options": [
+              "The area inside a shape",
+              "The distance all the way around a shape",
+              "The number of corners a shape has",
+              "The colour of a shape"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Mixing Materials: Combining Solids and Liquids; Animal Shelters: Nests, Burrows, and Shells; Baby Teeth and Adult Teeth: How Our Teeth Change; Simple Machines: Wheels and Axles.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens when you stir sugar into warm water?",
+            "options": [
+              "Nothing happens",
+              "It turns into a gas",
+              "It sinks and stays solid",
+              "It dissolves into the water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What usually happens to baby teeth as children grow?",
+            "options": [
+              "They stay forever and never change",
+              "They fall out and are replaced by adult teeth",
+              "They turn into adult teeth without falling out",
+              "They disappear with no new teeth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shelter do many birds build?",
+            "options": [
+              "A burrow",
+              "A nest",
+              "A shell",
+              "A den"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A wheel and axle is an example of a",
+            "options": [
+              "Living thing",
+              "Weather pattern",
+              "Kind of food",
+              "Simple machine that helps things move"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Playground Safety: Rules for Playing Together; Zoos and Wildlife Parks: Caring for Animals in Human Care; The Terry Fox Run: A Canadian Tradition of Giving; Taking Turns and Sharing: Fair Rules for Group Play.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Why do playgrounds have safety rules?",
+            "options": [
+              "To make playing boring",
+              "To keep everyone safe while having fun",
+              "To stop all games",
+              "Rules are not needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Terry Fox Run is an event where people",
+            "options": [
+              "Race for prize money only",
+              "Run or walk together to raise money to help others",
+              "Compete to win a trophy",
+              "Watch a movie about sports"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one job of a zoo?",
+            "options": [
+              "Selling toys only",
+              "Ignoring animals",
+              "Farming crops",
+              "Caring for and studying animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Taking turns during a game means",
+            "options": [
+              "Only the fastest person gets to play",
+              "One person plays the whole time",
+              "Everyone gets a fair chance to play",
+              "No one is allowed to play"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Sensory Words: Describing with Our Five Senses; Story Grammar: Characters, Setting, Problem, and Solution Together; Language Review: Adverbs, Dialogue, and Story Grammar; Metaphors: Describing One Thing as Another.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What do sensory words help describe?",
+            "options": [
+              "Only shapes",
+              "Only numbers",
+              "Only colours",
+              "What something looks, sounds, smells, tastes, or feels like"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A metaphor describes one thing by saying it",
+            "options": [
+              "Is exactly like a math problem",
+              "Is another thing, without using 'like' or 'as'",
+              "Is compared using 'like' or 'as'",
+              "Has no meaning at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which four parts make up story grammar?",
+            "options": [
+              "Characters, setting, problem, and solution",
+              "Beginning, ending only",
+              "Title, author, cover, pages",
+              "Loud, quiet, fast, slow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When we read words inside quotation marks, we know",
+            "options": [
+              "A character is speaking",
+              "The book has ended",
+              "It's a math number",
+              "It's the title"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Using a Number Line to Add and Subtract; Repeated Addition: Adding Equal Groups; Math Review: Regrouping, Shapes, and Patterns; Naming 2D Shapes: Circles, Squares, Triangles, and Rectangles.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "On a number line, which direction shows addition?",
+            "options": [
+              "Backward",
+              "Forward",
+              "It does not matter",
+              "Sideways"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shape has exactly 3 sides?",
+            "options": [
+              "Square",
+              "Triangle",
+              "Circle",
+              "Rectangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which repeated addition shows 4 groups of 2?",
+            "options": [
+              "2+2+2+2",
+              "4+4",
+              "2+4",
+              "4+2+2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding two-digit numbers, we regroup when",
+            "options": [
+              "The ones add up to 10 or more",
+              "The tens are both even",
+              "The numbers are both odd",
+              "We are subtracting"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Erosion: How Wind and Water Change the Land; Plant Adaptations: Surviving in Dry and Cold Places; Science Review: Our Bodies, Space, and the Land; Homes for People: Types of Shelters Around the World.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is erosion?",
+            "options": [
+              "Land suddenly appearing",
+              "Rain falling from clouds",
+              "Plants growing quickly",
+              "Wind or water slowly wearing away soil and rock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body part helps us breathe air?",
+            "options": [
+              "Lungs",
+              "Stomach",
+              "Ears",
+              "Skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes special features that help plants survive their environment?",
+            "options": [
+              "Predators",
+              "Adaptations",
+              "Migrations",
+              "Habitats"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Around the world, people build different kinds of homes mainly based on",
+            "options": [
+              "Their favourite colour",
+              "The weather and materials found in their area",
+              "The day of the week",
+              "Random chance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Famous Canadians: People Who Made a Difference; Why We Have Rules: Keeping Everyone Safe and Fair; Solving Disagreements Fairly with Friends; Our Crossing Guard: Helping Us Cross the Street Safely.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What does it mean when someone makes a difference?",
+            "options": [
+              "They do nothing at all",
+              "They ignore their community",
+              "They help or improve something for others",
+              "They cause problems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two friends disagree about a game, a fair way to solve it is to",
+            "options": [
+              "Yell until one gives up",
+              "Stop being friends",
+              "Ignore the other person forever",
+              "Talk calmly and listen to find a solution both agree on"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one main reason communities and classrooms have rules?",
+            "options": [
+              "Rules serve no purpose",
+              "To stop people from ever having fun",
+              "To help keep people safe and treat everyone fairly",
+              "To make life more confusing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a crossing guard help people do?",
+            "options": [
+              "Cross the street safely",
+              "Buy groceries",
+              "Ride the bus",
+              "Do homework"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Possessive Pronouns: My, Your, His, and Her; Word Choice: Choosing Strong, Precise Words; Editing Our Writing: Checking for Mistakes; Procedural Writing: Writing Steps in Order.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word is a possessive pronoun?",
+            "options": [
+              "Quickly",
+              "Happy",
+              "Her",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When you edit your writing, what are you checking for?",
+            "options": [
+              "Mistakes like spelling and punctuation",
+              "How many pages you wrote",
+              "What color pen you used",
+              "How fast you can write"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a more precise choice than said?",
+            "options": [
+              "Word",
+              "Whispered",
+              "Speak",
+              "Talk"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In procedural writing, like a recipe, what is most important to get right?",
+            "options": [
+              "Using rhyming words",
+              "Writing the steps in the correct order",
+              "Making the writing very short",
+              "Using only capital letters"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Composing New Shapes by Combining Shapes; Measuring Area: Covering a Surface with Non-Standard Units; Money: Recognizing Coins by Name and Value; Reading a Calendar: Weeks and Dates.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "If you put two square pattern blocks together side by side, what new shape can you make?",
+            "options": [
+              "A circle",
+              "A hexagon",
+              "A rectangle",
+              "A triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which coin is worth 25 cents?",
+            "options": [
+              "Penny",
+              "Nickel",
+              "Quarter",
+              "Dime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to measure the area of your desktop using square tiles?",
+            "options": [
+              "Counting how tall the desk is",
+              "Counting how much the desk weighs",
+              "Counting how many legs the desk has",
+              "Counting how many tiles cover the whole top of the desk"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many days are in one full week?",
+            "options": [
+              "5",
+              "6",
+              "10",
+              "7"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Simple Machines: Levers and Inclined Planes; Precipitation: Rain, Snow, Sleet, and Hail; Whales and Dolphins: Ocean Mammals; Animal Communication: How Animals Talk to Each Other.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What simple machine helps lift a heavy object by pushing down on one end?",
+            "options": [
+              "A screw",
+              "A wedge",
+              "A lever",
+              "A wheel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do whales and dolphins need to do that fish do not?",
+            "options": [
+              "Come up to breathe air",
+              "Swim in water",
+              "Eat food",
+              "Have a tail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is precipitation?",
+            "options": [
+              "Water falling from clouds",
+              "Sunlight warming the earth",
+              "A type of rock",
+              "Wind blowing across the land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might a dog show that it is happy?",
+            "options": [
+              "By hissing",
+              "By wagging its tail",
+              "By croaking",
+              "By roaring"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our Veterinarian: Caring for Sick and Injured Animals; Our School Custodian: Keeping Our School Clean; Our School Bus Driver: Getting Us to School Safely; Voting for a Class Decision: How Groups Choose.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a doctor who cares for animals?",
+            "options": [
+              "A veterinarian",
+              "A pilot",
+              "A teacher",
+              "A librarian"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the most important job of a school bus driver?",
+            "options": [
+              "Selling snacks",
+              "Cleaning classrooms",
+              "Driving students to school safely",
+              "Grading homework"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main job of a school custodian?",
+            "options": [
+              "Selling books",
+              "Teaching lessons",
+              "Driving students home",
+              "Keeping the school clean and in good repair"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a class votes to make a decision, what happens?",
+            "options": [
+              "The teacher decides without asking anyone",
+              "One student decides for everyone",
+              "The class flips a coin",
+              "Each person picks a choice and the one with the most votes wins"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Text Features: Glossary and Labels; Counting Syllables in Longer Words; Compound Sentences: Joining Ideas with But and Or; Retelling Nonfiction: Using Key Facts; Language Review: Word Choice, Metaphors, and Nonfiction Retelling.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a glossary used for?",
+            "options": [
+              "Explaining the meaning of tricky words",
+              "Showing the authors name",
+              "Listing chapter titles",
+              "Showing pictures only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word can join two short sentences together, like 'I like cats but I like dogs more'?",
+            "options": [
+              "But",
+              "Jump",
+              "Blue",
+              "Slowly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many syllables does the word elephant have?",
+            "options": [
+              "3",
+              "2",
+              "4",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When you retell a nonfiction book, what should you share?",
+            "options": [
+              "A made-up ending",
+              "Key facts from the book",
+              "Your favorite color",
+              "A song"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Tally Marks and Tally Charts; Data: Reading a Pictograph; Subitizing: Recognizing Quantities Instantly; Number Patterns: Finding the Addition Rule; Addition Strategies: Adding Zero.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "In a tally chart, how many single tally marks are grouped together before you draw a line across them?",
+            "options": [
+              "4",
+              "3",
+              "5",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "You glance at a group of dots and instantly know there are 3, without counting one by one. What is this called?",
+            "options": [
+              "Skip counting",
+              "Measuring",
+              "Subitizing",
+              "Estimating"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a pictograph, what does each small picture usually stand for?",
+            "options": [
+              "One item being counted",
+              "Nothing, it is just decoration",
+              "A whole day",
+              "A group of ten items"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 6 + 0?",
+            "options": [
+              "0",
+              "5",
+              "7",
+              "6"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Push and Pull: Forces That Move Things; Fast and Slow: Comparing How Things Move; Honeybees: Life Inside a Hive; States of Water: Ice, Liquid, and Vapour; Waterproof or Absorbent: Testing Materials.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Opening a drawer by moving it toward you is an example of a...",
+            "options": [
+              "Pull",
+              "Push",
+              "A magnet",
+              "Neither push nor pull"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the group of bees that live together in a hive?",
+            "options": [
+              "A colony",
+              "A herd",
+              "A pack",
+              "A litter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these usually moves FASTER?",
+            "options": [
+              "A sleeping cat",
+              "A parked car",
+              "A running cheetah",
+              "A snail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ice is water in which state?",
+            "options": [
+              "A gas",
+              "A solid",
+              "A liquid",
+              "A rock"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Being a Responsible Classroom Citizen; Community Helpers Who Work at Night; Jobs That Help Protect Our Environment; Guide Dogs and Helper Animals: Working Animals in Our Community; Trading Without Money: What Is a Barter?.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these shows being a responsible classroom citizen?",
+            "options": [
+              "Taking supplies without asking",
+              "Putting materials back where they belong after using them",
+              "Ignoring classroom agreements",
+              "Leaving a mess for someone else to clean up"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What job is a guide dog trained to do?",
+            "options": [
+              "Herd sheep on a farm",
+              "Guard a bank",
+              "Help guide a person who cannot see",
+              "Do tricks at a circus"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a job someone might do at night?",
+            "options": [
+              "A school principal greeting students in the morning",
+              "A daytime mail carrier delivering letters",
+              "A night-shift hospital nurse caring for patients",
+              "A daytime crossing guard helping students cross the street"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to barter?",
+            "options": [
+              "To pay with coins",
+              "To save money in a bank",
+              "To throw an item away",
+              "To trade one item for another without using money"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vowel Teams: au and aw; Prefixes: mis- and non-; Adding -ly to Make Adverbs; Text Features: Maps and Charts; Personification: Giving Human Qualities to Objects.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word has the au vowel team?",
+            "options": [
+              "Fun",
+              "Sauce",
+              "Cat",
+              "Bike"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is an adverb made by adding -ly?",
+            "options": [
+              "Quickly",
+              "Quick",
+              "Quack",
+              "Quicken"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the prefix mis- usually mean?",
+            "options": [
+              "Not needed",
+              "Again",
+              "Wrong or badly",
+              "Before"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses personification by giving human qualities to something that is not human?",
+            "options": [
+              "The dog ran across the yard.",
+              "The wind whispered through the trees.",
+              "The ball is round.",
+              "The sun is bright."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Subtraction: How Many More? Comparison Word Problems; Ordering Objects by Length: Shortest to Longest; 3D Shapes: Do They Roll, Stack, or Slide?; Time: Sequencing Events in a Day; Skip Counting Backwards by 5s.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Mia has 8 stickers and Sam has 5 stickers. How many more stickers does Mia have than Sam?",
+            "options": [
+              "3",
+              "4",
+              "2",
+              "13"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which 3D shape can roll in every direction because it is round all over?",
+            "options": [
+              "Cube",
+              "Pyramid",
+              "Sphere",
+              "Rectangular prism"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pencil, a crayon, and a ruler are compared. The pencil is shorter than the ruler but longer than the crayon. What is the correct order from shortest to longest?",
+            "options": [
+              "Pencil, crayon, ruler",
+              "Crayon, pencil, ruler",
+              "Ruler, pencil, crayon",
+              "Crayon, ruler, pencil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Skip counting backward by 5s: 20, 15, 10, ___?",
+            "options": [
+              "0",
+              "9",
+              "1",
+              "5"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Octopuses and Squid: Ocean Creatures Without Bones; Animals of the Desert: Staying Cool and Finding Water; Dressing for the Weather: Clothing and the Seasons; Weather Instruments: Wind Vanes and Measuring Wind; Comparing Baby Animals and Adult Animals.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Do octopuses have bones inside their bodies?",
+            "options": [
+              "Only when young",
+              "Yes",
+              "No",
+              "Only in their arms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should you wear outside on a snowy winter day?",
+            "options": [
+              "A warm coat, hat, and mittens",
+              "Shorts and a t-shirt",
+              "A swimsuit",
+              "Sandals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a desert animal?",
+            "options": [
+              "Polar bear",
+              "Salmon",
+              "Penguin",
+              "Camel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a wind vane help you tell?",
+            "options": [
+              "How much it rained",
+              "Which direction the wind is blowing",
+              "How hot it is",
+              "What day it is"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our School Principal: Leading Our School; Indoor Jobs and Outdoor Jobs: Comparing Where People Work; What Makes a Good Worker? Skills and Attitudes; People Who Work From Home; How Food Travels: From Farm to Truck to Store.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is the main role of a school principal?",
+            "options": [
+              "Cleaning the hallways",
+              "Driving the school bus",
+              "Cooking lunch",
+              "Leading and supporting the whole school"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shows being a good worker?",
+            "options": [
+              "Arriving late and not helping others",
+              "Ignoring instructions",
+              "Listening carefully and doing your best",
+              "Leaving tasks unfinished"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which job is mostly done outdoors?",
+            "options": [
+              "A mail carrier delivering letters along a street",
+              "A teacher reading to a class inside a classroom",
+              "A librarian organizing books inside a library",
+              "A dentist checking teeth in an office"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After food is picked on a farm, where does it usually go before reaching a store?",
+            "options": [
+              "It stays on the farm forever",
+              "Directly to your house by mail",
+              "Into outer space",
+              "Onto a truck to be transported"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Sentence Fragments: Complete vs Incomplete Thoughts; Syllables: Clapping the Beats in Words; Fact and Opinion: Two Kinds of Statements; Silent Letters: mb and gh.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a sentence fragment?",
+            "options": [
+              "A question only",
+              "An incomplete thought missing a subject or verb",
+              "A complete thought with a subject and verb",
+              "A very long sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is a fact, not an opinion?",
+            "options": [
+              "Ice cream is the best dessert",
+              "Rainy days are boring",
+              "A week has seven days",
+              "Blue is prettier than red"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many syllables does the word rabbit have?",
+            "options": [
+              "2",
+              "4",
+              "3",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has a silent letter in it?",
+            "options": [
+              "comb",
+              "lamp",
+              "cup",
+              "sun"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Length: Comparing Metres and Centimetres; Choosing the Right Measuring Tool; Estimating Groups of Ten; Patterns on a Hundred Chart.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which unit is longer, a metre or a centimetre?",
+            "options": [
+              "Neither is a unit of length",
+              "A metre",
+              "They are the same",
+              "A centimetre"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "You have a group of counters that looks like two groups of ten. About how many counters are there?",
+            "options": [
+              "10",
+              "20",
+              "5",
+              "50"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which tool would best measure the length of a pencil?",
+            "options": [
+              "A thermometer",
+              "A clock",
+              "A ruler",
+              "A scale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a hundred chart, what number is directly below 23?",
+            "options": [
+              "24",
+              "13",
+              "22",
+              "33"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Beavers: Canadas National Animal; How Our Bodies Move: Joints and Bending; Turtles and Tortoises: Reptiles with Shells; Taking Care of Our Heart: Why Exercise Matters.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which animal is known as Canadas national animal?",
+            "options": [
+              "The polar bear",
+              "The loon",
+              "The beaver",
+              "The moose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where do most tortoises live, unlike many turtles?",
+            "options": [
+              "Mostly on land",
+              "Only in the ocean",
+              "Only in rivers",
+              "In the sky"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the parts of our body where bones meet and allow bending, like the elbow?",
+            "options": [
+              "Muscles only",
+              "Skin cells",
+              "Blood vessels",
+              "Joints"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is exercise good for our heart?",
+            "options": [
+              "It makes our heart weaker",
+              "It stops our heart from beating",
+              "It helps keep our heart strong and healthy",
+              "It helps our heart grow tired permanently"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Orange Shirt Day: Every Child Matters; Caring for Our Classroom Plants and Green Spaces; Saving Water at Home and School; Litter and How It Affects Our Community.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What colour do people wear to take part in Orange Shirt Day?",
+            "options": [
+              "Orange",
+              "Green",
+              "Blue",
+              "Purple"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which action helps save water at home?",
+            "options": [
+              "Filling the bathtub every hour",
+              "Turning off the tap while you brush your teeth",
+              "Leaving the tap running while you brush your teeth",
+              "Watering the driveway all day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do most plants need to grow well?",
+            "options": [
+              "Ice and salt",
+              "Water and sunlight",
+              "Nothing at all",
+              "Loud noise and darkness"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does litter affect our community?",
+            "options": [
+              "It makes the community cleaner",
+              "It has no effect at all",
+              "It helps plants grow better",
+              "It can hurt animals and make places look messy"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Vowel Teams, Prefixes, and Figurative Language; Vowel Teams: ow and ou; Prefixes: over- and under-; Suffixes: Adding -ness to Make Nouns.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which word has the aw vowel team?",
+            "options": [
+              "Dog",
+              "Cup",
+              "Claw",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the prefix 'under-' mean in the word 'underground'?",
+            "options": [
+              "Below the ground",
+              "Above the ground",
+              "Next to the ground",
+              "Made of ground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has the ow vowel team making the same sound as in cow?",
+            "options": [
+              "Cow",
+              "Row",
+              "Grow",
+              "Snow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word do you get when you add -ness to 'sad'?",
+            "options": [
+              "sadly",
+              "unsad",
+              "sadness",
+              "sadful"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Skip Counting, Time, and Number Patterns; Missing Numbers on a Number Line; Skip Counting by 7s; Money: Do I Have Enough?.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What comes next: 20, 40, 60, ___?",
+            "options": [
+              "75",
+              "80",
+              "90",
+              "70"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What comes next when skip counting by 7s: 7, 14, 21, ___?",
+            "options": [
+              "22",
+              "28",
+              "27",
+              "30"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A number line shows 4, 5, __, 7, 8. What number is missing?",
+            "options": [
+              "6",
+              "5",
+              "9",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "You have 10 cents. A sticker costs 8 cents. Do you have enough money to buy it?",
+            "options": [
+              "No, you need more money",
+              "You have exactly enough with none left",
+              "Money cannot buy stickers",
+              "Yes, you have enough and some left over"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Safety Around Water: Staying Safe Near Lakes and Pools; Sun Safety: Protecting Our Skin; Reduce, Reuse, Repair: Caring for Our Things; Saving Water: Why Water Is Precious.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why is it important to swim only when an adult is watching?",
+            "options": [
+              "Adults can help keep you safe in the water",
+              "Adults cannot help with water safety",
+              "It is not actually important",
+              "Adults enjoy watching for no reason"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to 'reuse' something?",
+            "options": [
+              "Use it again instead of throwing it away",
+              "Throw it away right after one use",
+              "Buy a brand new one every day",
+              "Break it on purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can we put on our skin to help protect it from the sun?",
+            "options": [
+              "Paint",
+              "Chalk",
+              "Glue",
+              "Sunscreen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is water precious and important to save?",
+            "options": [
+              "Because we will never run out no matter what",
+              "Because all living things need clean water to live",
+              "Because it is not needed by plants or animals",
+              "Because it costs nothing to make more"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: How Our Community Changes With the Seasons; Our School Librarian: Helping Us Find Books; Our Local Radio and TV: Sharing News and Weather; Canadian Peacekeepers: Helping Around the World.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Which activity would people in many Canadian communities most likely do in winter?",
+            "options": [
+              "Picking apples from trees in bloom",
+              "Shovelling snow from sidewalks",
+              "Swimming outdoors in a lake",
+              "Planting a garden in the snow"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can we learn by watching the local news on TV?",
+            "options": [
+              "Only cartoons",
+              "Only sports scores from other planets",
+              "Weather and events happening in our community",
+              "Nothing useful at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main job of a school librarian?",
+            "options": [
+              "Helping students find and borrow books",
+              "Driving the school bus",
+              "Cooking school lunches",
+              "Teaching math class"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do Canadian peacekeepers help do around the world?",
+            "options": [
+              "Start arguments between countries",
+              "Only play sports internationally",
+              "Sell goods in other countries",
+              "Help keep peace and support people in other countries"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Text Features: Bold Print and Italics; Personal Narrative: Writing About a Real Event; Compare and Contrast: Two Characters in a Story; Word Families: -est and -end.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What does bold print usually look like?",
+            "options": [
+              "Darker, thicker letters",
+              "Tiny letters",
+              "Underlined letters only",
+              "Slanted letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When we compare and contrast two characters in a story, what are we doing?",
+            "options": [
+              "Ignoring both characters completely",
+              "Looking at how they are the same and different",
+              "Only naming the characters",
+              "Counting the pages in the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a personal narrative?",
+            "options": [
+              "A true story about something that happened to the writer",
+              "A poem with no meaning",
+              "A made-up fairy tale",
+              "A list of facts with no story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the same word family as 'send' and 'bend'?",
+            "options": [
+              "best",
+              "nest",
+              "cup",
+              "mend"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Interpreting a Bar Graph; Doubles Minus One: A Mental Math Strategy; Probability: Conducting a Simple Spinner Experiment; Following Directions on a Grid.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "On a bar graph about favourite pets, the tallest bar is above 'Dogs'. What does this tell you?",
+            "options": [
+              "Dogs was the least popular choice",
+              "Dogs was the most popular choice",
+              "No one chose dogs",
+              "The graph has a mistake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A spinner has 4 equal parts: red, blue, green, yellow. Which colour is the spinner most likely to land on?",
+            "options": [
+              "All colours are equally likely",
+              "Red",
+              "Blue",
+              "Green"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "You know that 5 + 5 = 10. How can this help you solve 5 + 4?",
+            "options": [
+              "5 + 4 equals 10, the same as 5 + 5",
+              "5 + 4 is 1 less than 5 + 5, so it equals 9",
+              "5 + 4 is 1 more than 5 + 5, so it equals 11",
+              "5 + 4 has nothing to do with 5 + 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a grid, if you move away from the top of the page toward the bottom, which direction are you moving?",
+            "options": [
+              "Up",
+              "Left",
+              "Down",
+              "Right"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Life Cycle of a Plant: Seed to Flower; Extreme Weather: Storms and Lightning; Sharks: Ocean Predators; Frogs and Toads: Comparing Two Amphibians.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the first stage of a plants life cycle?",
+            "options": [
+              "Seed",
+              "Leaf",
+              "Flower",
+              "Root"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are sharks?",
+            "options": [
+              "Plants that grow underwater",
+              "Birds that swim",
+              "Insects that live in water",
+              "Ocean predators that hunt other animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is extreme weather?",
+            "options": [
+              "A quiet cloudy day",
+              "Very strong or unusual weather",
+              "A calm sunny day",
+              "A light breeze"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is one difference between frogs and toads?",
+            "options": [
+              "There are no differences at all",
+              "Frogs usually have smooth, moist skin while toads have dry, bumpy skin",
+              "Toads can fly and frogs cannot",
+              "Frogs live only in trees and toads live only in the ocean"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our School Board: Supporting Many Schools; Water Systems: How Clean Water Reaches Our Homes; World Landmarks: Famous Places Around the World; Wild Animals That Live Near Our Community.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What does a school board oversee?",
+            "options": [
+              "Many schools in an area",
+              "Only school buses",
+              "Only sports teams",
+              "Just one single classroom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a landmark?",
+            "options": [
+              "A famous place that people recognize",
+              "A type of food",
+              "A kind of weather",
+              "A school subject"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does the water used in our homes often come from originally?",
+            "options": [
+              "Lakes, rivers, or wells",
+              "Only from bottled water trucks",
+              "Nowhere, it appears instantly",
+              "Only from the clouds directly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a wild animal that might live near many Canadian communities?",
+            "options": [
+              "A lion",
+              "A penguin",
+              "A raccoon",
+              "A camel"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading Nonfiction for Information; Transition Words: First, Then, Finally; Language Review: New Vowel Teams, Word Parts, and Writing Skills; Suffixes: Adding -y to Make Adjectives; Prefixes: in- and im-.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What kind of information do we learn from a nonfiction book?",
+            "options": [
+              "Made-up stories about dragons",
+              "Nothing real at all",
+              "True facts about real topics",
+              "Only pictures with no facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Adding -y to the word 'rain' makes 'rainy'. What kind of word does -y often make?",
+            "options": [
+              "A naming word (noun)",
+              "An action word (verb)",
+              "A number word",
+              "A describing word (adjective)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the transition word first usually tell us?",
+            "options": [
+              "Nothing about order",
+              "What happens at the beginning",
+              "What happens at the end",
+              "A characters name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The prefix 'im-' in the word 'impossible' means...?",
+            "options": [
+              "Not",
+              "Very",
+              "Again",
+              "Before"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Words: Reading and Writing Numbers to Twenty; Telling Time: Reading a Clock to the Hour; Number Words: Reading and Writing Zero to Twenty; Ten Frames: Representing Numbers to Twenty; Skip Counting by 50s.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which numeral matches the number word 'twelve'?",
+            "options": [
+              "12",
+              "13",
+              "11",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two full ten frames are completely filled with dots. How many dots are there in total?",
+            "options": [
+              "10",
+              "15",
+              "20",
+              "12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a clock, the minute hand points straight up at the 12 and the hour hand points at the 4. What time is it?",
+            "options": [
+              "4:00",
+              "12:00",
+              "12:04",
+              "4:30"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What comes next when skip counting by 50s: 50, 100, 150, ___?",
+            "options": [
+              "175",
+              "200",
+              "160",
+              "250"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Rainforest: A Warm Wet Habitat; Wind Power: How Wind Can Be Useful; Materials That Bend and Materials That Break; Building Strong Structures: Shapes That Support Weight; Tornadoes: Spinning Storms.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of climate does a rainforest have?",
+            "options": [
+              "Cold and dry",
+              "Warm and wet",
+              "Frozen year round",
+              "Hot and dry like a desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which material would most likely bend instead of break when you push on it?",
+            "options": [
+              "Rubber band",
+              "Glass",
+              "Dry spaghetti",
+              "A dinner plate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What helps a kite rise and stay up in the sky?",
+            "options": [
+              "Water",
+              "Magnets",
+              "Sunlight alone",
+              "Wind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which shape is known for helping structures like bridges stay strong and support weight?",
+            "options": [
+              "Circle",
+              "Oval",
+              "Line",
+              "Triangle"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Comparing a Map and a Photograph of the Same Place; Our School Yearbook: Remembering the School Year; Up, Down, Over, Under: Position Words We Use Every Day; Family Day: A Special Ontario Holiday; Our Postal Code: A Special Set of Letters and Numbers.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What can a photograph of a park show that a simple map might not?",
+            "options": [
+              "Nothing at all",
+              "Photographs and maps always look identical",
+              "A photograph shows less information than a map, always",
+              "The exact colours and details of what things really look like"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word means the opposite of 'up'?",
+            "options": [
+              "Up",
+              "Over",
+              "Down",
+              "Under"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a school yearbook?",
+            "options": [
+              "A calendar with no pictures",
+              "A book filled with photos and memories from the school year",
+              "A math textbook",
+              "A list of school rules only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When is Family Day celebrated in Ontario?",
+            "options": [
+              "In the summer",
+              "In February",
+              "On New Year's Day",
+              "In October"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Hyperbole: Exaggerating for Effect; Book Genres: Fantasy, Realistic Fiction, and Fairy Tales; Plural Nouns: Irregular Plurals; Conjunctions: Joining Ideas with Because.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A word that sounds like its meaning",
+              "A big exaggeration that is not really true",
+              "A word that means the opposite of another word",
+              "Comparing two things using like or as"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the plural (more than one) of the word 'child'?",
+            "options": [
+              "childs",
+              "childes",
+              "childies",
+              "children"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might you find in a fantasy story?",
+            "options": [
+              "Only true facts",
+              "Only real people",
+              "Only numbers",
+              "Magic and made-up creatures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses the word 'because' to explain a reason?",
+            "options": [
+              "I like apples and bananas.",
+              "I wore a coat because it was cold outside.",
+              "The dog ran fast.",
+              "She sang a song."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Time: Understanding AM and PM; Money: Counting Up to Five Dollars; Measurement: Weight in Kilograms and Grams; Measurement: Capacity in Litres.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What part of the day does AM usually refer to?",
+            "options": [
+              "Midnight to noon",
+              "Noon to midnight",
+              "Only nighttime",
+              "Only lunchtime"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which unit would you use to measure how heavy a small toy is?",
+            "options": [
+              "Litres",
+              "Grams",
+              "Hours",
+              "Metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many loonies would you need to make five dollars?",
+            "options": [
+              "4",
+              "2",
+              "3",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which unit do we use to measure how much water fits in a bottle?",
+            "options": [
+              "Litres",
+              "Grams",
+              "Kilograms",
+              "Minutes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Polar Bears: Giants of the Arctic; The Ocean Floor: Exploring Under the Sea; Chameleons: Colour-Changing Lizards; Jellyfish: Ocean Animals Without Bones.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where do polar bears live?",
+            "options": [
+              "The desert",
+              "The ocean floor",
+              "The Arctic",
+              "The rainforest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What special thing can a chameleon do?",
+            "options": [
+              "Fly through the air",
+              "Change the colour of its skin",
+              "Breathe underwater like a fish",
+              "Grow a new head"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the ocean floor?",
+            "options": [
+              "A kind of fish",
+              "The ground under the sea",
+              "A type of cloud",
+              "The top of the water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is special about a jellyfish's body?",
+            "options": [
+              "It has no bones",
+              "It has 100 legs",
+              "It has fur",
+              "It has feathers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadas National Sports: Hockey and Lacrosse; Our School Nurse: Keeping Us Healthy at School; Needs and Wants Around the World: Comparing What People Use; Being a Good Listener: Following Directions at School.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is Canadas official winter sport?",
+            "options": [
+              "Basketball",
+              "Soccer",
+              "Hockey",
+              "Tennis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a need that all people around the world share?",
+            "options": [
+              "A video game",
+              "Clean water",
+              "A bicycle",
+              "A television"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a school nurse?",
+            "options": [
+              "Helping students who feel sick or hurt",
+              "Driving the school bus",
+              "Teaching math class",
+              "Cooking school lunches"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a good listener do when someone is giving directions?",
+            "options": [
+              "Talks over the person",
+              "Looks away and plays with toys",
+              "Pays attention and follows the steps",
+              "Walks away"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: List Writing: Making a List for a Purpose; Text Features: Text Boxes and Sidebars; Shape Poems: Poetry You Can See; Language Review: Genres, Figurative Language, and Word Parts.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a list used for?",
+            "options": [
+              "Singing a song",
+              "Telling a made-up story",
+              "Drawing a picture",
+              "Writing down items or steps in order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What makes a shape poem special?",
+            "options": [
+              "It never has any words",
+              "It is only sung, not read",
+              "Its words are arranged to form a picture related to the topic",
+              "It must rhyme every line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a text box used for on a page?",
+            "options": [
+              "Ending the book",
+              "Replacing all pictures",
+              "Hiding the main text",
+              "Giving extra facts or information"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word part is added to the end of a word, such as the -ing in 'jumping'?",
+            "options": [
+              "A prefix",
+              "A suffix",
+              "A synonym",
+              "A genre"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Sorting Information into a Table; Patterns: Repeating Patterns with Shape, Colour, and Size; Geometry: Sorting 2D Shapes by Number of Sides; Math Review: Numbers, Measurement, and Data.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What does a table help us do with information?",
+            "options": [
+              "Sort and organize it",
+              "Erase it",
+              "Make it confusing",
+              "Hide it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many sides does a triangle have?",
+            "options": [
+              "2",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an attribute a pattern could be based on?",
+            "options": [
+              "A feeling",
+              "Colour",
+              "A season",
+              "A story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which tool would you use to measure how long a pencil is?",
+            "options": [
+              "A clock",
+              "A ruler",
+              "A thermometer",
+              "A scale"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earthworms: Helpers in the Soil; Elephants: The Largest Land Animals; Giraffes: The Tallest Land Animals; Science Review: Weather, Animals, and the Human Body.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where do earthworms usually live?",
+            "options": [
+              "In the sky",
+              "In trees",
+              "In the ocean",
+              "Underground in the soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a giraffe have such a long neck?",
+            "options": [
+              "To swim faster",
+              "To reach leaves high in trees",
+              "To dig underground burrows",
+              "To fly to warmer places"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is special about the size of an elephant?",
+            "options": [
+              "It is the largest land animal",
+              "It is the fastest land animal",
+              "It is the tallest tree",
+              "It is the smallest land animal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of your body pumps blood all through you?",
+            "options": [
+              "Your lungs",
+              "Your heart",
+              "Your stomach",
+              "Your ears"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadian Astronauts: Exploring Space for Canada; Our Local Conservation Area: Protecting Nature Nearby; Grandparents and Elders: Learning from Our Elders; Social Studies Review: Holidays, Helpers, and Geography.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "Where do Canadian astronauts travel for their work?",
+            "options": [
+              "The ocean floor",
+              "The rainforest",
+              "The desert",
+              "Space"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can grandparents and elders often share with younger people?",
+            "options": [
+              "Stories and wisdom from their own lives",
+              "Homework answers",
+              "New video games",
+              "Traffic rules"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a conservation area?",
+            "options": [
+              "A factory",
+              "A parking lot",
+              "A shopping mall",
+              "A protected piece of land that keeps nature safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a community helper?",
+            "options": [
+              "A firefighter",
+              "A cartoon character",
+              "A cloud",
+              "A river"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Articles: Using A, An, and The; Vowel Teams: ey and eigh (Long A Sound); Three-Letter Blends: str, spr, and scr; Interjections: Showing Strong Feelings with Wow and Hooray; Silent Letters: gn and st.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which article goes before a word starting with a vowel sound, such as apple?",
+            "options": [
+              "A",
+              "An",
+              "No article",
+              "The"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with a three-letter blend like 'str' or 'scr'?",
+            "options": [
+              "cat",
+              "street",
+              "sun",
+              "top"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What sound do the vowel teams ey and eigh often make?",
+            "options": [
+              "Short i",
+              "Short a",
+              "Long a",
+              "Long e"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an interjection that shows strong feeling?",
+            "options": [
+              "Hooray!",
+              "table",
+              "walk",
+              "blue"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Counting On: A Mental Math Strategy for Addition; Comparing Sets Using One-to-One Matching; Fractions: Splitting Shapes into Halves and Fourths; Naming 3D Shapes in the World: Cubes, Spheres, Cones, and Cylinders; Geometry: Sorting 3D Shapes by Number of Faces.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "To solve 6 + 3 using counting on, which number should you start counting from?",
+            "options": [
+              "9",
+              "1",
+              "3",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you cut a pizza into 2 equal pieces, what is each piece called?",
+            "options": [
+              "A whole",
+              "A half",
+              "A fourth",
+              "A third"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "You match 5 apples to 5 baskets and every apple has exactly one basket, with none left over. What does this tell you?",
+            "options": [
+              "The two groups are equal",
+              "You cannot tell",
+              "There are more apples than baskets",
+              "There are more baskets than apples"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which 3D shape looks like a ball?",
+            "options": [
+              "Cube",
+              "Cone",
+              "Sphere",
+              "Cylinder"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Moose: Canadas Large Forest Animal; Raccoons: Clever Nighttime Visitors; Snails: Slow Movers with Shells; Crabs: Sideways Walkers of the Shore; Comparing Materials: Wood, Metal, Plastic, and Fabric.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where does a moose usually live?",
+            "options": [
+              "The desert",
+              "The ocean",
+              "A city street",
+              "Forests near lakes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a crab usually move?",
+            "options": [
+              "Sideways",
+              "Backwards only",
+              "Straight up in the air",
+              "It cannot move"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When are raccoons usually active?",
+            "options": [
+              "At night",
+              "Only in the morning",
+              "Only at noon",
+              "Never"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which material would bend and tear easily, like a shirt is made of?",
+            "options": [
+              "Metal",
+              "Fabric",
+              "Wood",
+              "Glass"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Respecting Different Family Traditions in Our Class; The Loon: A Canadian Symbol on Our Coins; Helping Make Our Classroom a Community; Citizenship Ceremony: Becoming a Canadian Citizen; Translators and Interpreters: Helping People Communicate.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What is a family tradition?",
+            "options": [
+              "A rule made only by the government",
+              "A kind of weather",
+              "A special activity or custom a family does regularly, often passed down over time",
+              "A type of map"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which action helps make a classroom feel like a community?",
+            "options": [
+              "Sharing and helping classmates",
+              "Ignoring classmates who need help",
+              "Keeping all the supplies for yourself",
+              "Refusing to take turns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of animal is a loon?",
+            "options": [
+              "A fish",
+              "A bird",
+              "A mammal",
+              "An insect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens at a citizenship ceremony?",
+            "options": [
+              "People buy new cars",
+              "People become new Canadian citizens",
+              "People go on vacation",
+              "People plant trees"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Cause and Effect: Why Things Happen; Main Idea and Details; Synonyms: Words That Mean the Same; Antonyms: Words That Mean the Opposite; Media Literacy: Comparing Books, TV, and Advertisements.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is a 'cause'?",
+            "options": [
+              "The last sentence in a story",
+              "What happens as a result",
+              "The title of a story",
+              "The reason something happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is a synonym for 'happy'?",
+            "options": [
+              "Sad",
+              "Glad",
+              "Angry",
+              "Tired"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main idea of a passage?",
+            "options": [
+              "The title only",
+              "The last sentence of the passage",
+              "The most important point the passage is about",
+              "A small extra fact"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an antonym (opposite) of 'big'?",
+            "options": [
+              "Large",
+              "Huge",
+              "Small",
+              "Giant"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Addition: Adding a Two-Digit Number and a One-Digit Number; Subtraction: Subtracting a One-Digit Number from a Two-Digit Number; Data: Sorting Objects into a Venn Diagram with Three Groups; Number Sense: Before, After, and Between to 500; Math Review: Larger Numbers, Shapes, and Operations.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "What is 23 plus 4?",
+            "options": [
+              "27",
+              "25",
+              "26",
+              "28"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a Venn diagram with circles help you show?",
+            "options": [
+              "How loud sounds are",
+              "How things are the same and different",
+              "The time of day",
+              "The weather forecast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 27 minus 4?",
+            "options": [
+              "21",
+              "24",
+              "22",
+              "23"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number comes between 298 and 300?",
+            "options": [
+              "297",
+              "301",
+              "302",
+              "299"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Why We Sleep: Rest and Growing Bodies; Sneezing and Coughing Safely: Stopping Germs from Spreading; Camels: Animals Built for the Desert; Fireflies: Insects That Glow in the Dark; Science Review: New Animals, Earth Materials, and Simple Machines.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why do our bodies need sleep?",
+            "options": [
+              "To rest, heal, and help us grow",
+              "To stop our hearts from beating",
+              "Sleep has no real purpose",
+              "To make us more tired"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can camels travel a long time without drinking water?",
+            "options": [
+              "They store fat in their humps for energy",
+              "They drink salty ocean water",
+              "They never need any energy",
+              "They sleep for the whole trip"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a good way to cover a sneeze so germs don't spread to others?",
+            "options": [
+              "Sneeze into your bare hands and touch things right after",
+              "Sneeze into your elbow or a tissue",
+              "Never cover a sneeze",
+              "Sneeze directly toward a friend"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When do fireflies usually glow?",
+            "options": [
+              "In the bright daytime sun",
+              "At night in the dark",
+              "Only in winter",
+              "Only underwater"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: National Flag of Canada Day: Celebrating Our Flag; Canadian Olympians: Representing Canada in Sports; Our Local Food Bank: Helping Neighbours in Need; Snow Removal and Winter Road Crews: Keeping Us Safe in Winter; Social Studies Review: Symbols, Leaders, and Newcomers.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "In what month is National Flag of Canada Day celebrated?",
+            "options": [
+              "June",
+              "December",
+              "February",
+              "October"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main job of a food bank?",
+            "options": [
+              "Selling toys to children",
+              "Giving food to families and neighbours who need help",
+              "Washing cars for money",
+              "Teaching students math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Canadian Olympian?",
+            "options": [
+              "A school subject",
+              "A government leader",
+              "A type of coin",
+              "An athlete who competes for Canada at the Olympics"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do winter road crews do to help keep people safe?",
+            "options": [
+              "Plant flowers in gardens",
+              "Clear snow and ice from roads",
+              "Paint houses",
+              "Sell hot chocolate"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Verb Tenses: Past, Present, and Future; The Five W Questions: Who, What, When, Where, Why; Book Parts: Cover, Title Page, and Author; Environmental Print: Reading Words We See Every Day.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which sentence is in the present tense (happening now)?",
+            "options": [
+              "I will walk to school.",
+              "I walk to school.",
+              "I had walked to school.",
+              "I walked to school."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a book, what is the title page used for?",
+            "options": [
+              "Telling us the title and who wrote the book",
+              "Showing the price of the book",
+              "Listing all the words in the book",
+              "Telling us how many pages are left"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which question word asks about a person?",
+            "options": [
+              "When",
+              "Who",
+              "Where",
+              "What"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of environmental print?",
+            "options": [
+              "A drawing with no words",
+              "A stop sign that says STOP",
+              "A silent letter",
+              "A made-up word with no meaning"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Sorting Shapes by Straight and Curved Sides; Position Words: Inside, Outside, Left, and Right; Sequencing Daily Events: First, Next, and Last; Reading a Calendar: Days and Dates.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which shape has only straight sides?",
+            "options": [
+              "Semi-circle",
+              "Square",
+              "Oval",
+              "Circle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "You wake up, eat breakfast, then brush your teeth. What do you do first?",
+            "options": [
+              "Brush your teeth",
+              "Eat breakfast",
+              "Wake up",
+              "Go to bed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A fish swimming in a fishbowl is:",
+            "options": [
+              "Below the bowl",
+              "Outside the bowl",
+              "Inside the bowl",
+              "Above the bowl"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which day comes right after Monday on a calendar?",
+            "options": [
+              "Sunday",
+              "Tuesday",
+              "Wednesday",
+              "Saturday"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Foxes: Clever Hunters of the Forest; Squirrels: Gathering Food for Winter; Simple Machines: Screws and Wedges; Friction: A Force That Slows Things Down.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of tail does a fox have?",
+            "options": [
+              "A flat tail",
+              "A bushy tail",
+              "No tail at all",
+              "A shell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which simple machine do we turn to hold two things tightly together, like a jar lid?",
+            "options": [
+              "A screw",
+              "A wedge",
+              "A wheel",
+              "A lever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do squirrels gather in the fall?",
+            "options": [
+              "Fish",
+              "Ice",
+              "Leaves only",
+              "Nuts and seeds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does friction do when two surfaces rub together?",
+            "options": [
+              "It makes things invisible",
+              "It slows things down",
+              "It makes things heavier",
+              "It makes things faster"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Labour Day: Celebrating Workers; Our Dentist: Caring for Our Teeth; Reading a Simple Weather Symbol Chart; Indigenous Games: Traditional Sports and Play.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What does Labour Day celebrate?",
+            "options": [
+              "A famous hockey game",
+              "The hard work of people in many jobs",
+              "A new school building",
+              "A type of weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a weather chart, a picture of a sun means the weather is:",
+            "options": [
+              "Snowy",
+              "Windy",
+              "Sunny",
+              "Rainy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a dentist help take care of?",
+            "options": [
+              "Our teeth",
+              "Our shoes",
+              "Our hair",
+              "Our eyes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Traditional Indigenous games often use running and throwing to help players build:",
+            "options": [
+              "Reading skills",
+              "Math facts",
+              "Cooking skills",
+              "Strength and teamwork"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Brainstorming: Gathering Ideas Before We Write; Story Maps: Planning a Story Before Writing; Listening Actively: Being a Good Listener; Chunking: Breaking Big Words into Smaller Parts.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What is brainstorming?",
+            "options": [
+              "Reading a finished book",
+              "Writing a final copy neatly",
+              "Thinking of many ideas quickly before writing",
+              "Erasing all our ideas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows you are listening actively to a friend?",
+            "options": [
+              "Looking at them and nodding",
+              "Looking at your phone",
+              "Talking over them",
+              "Walking away"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a story map?",
+            "options": [
+              "A drawing of a classroom",
+              "A graphic organizer for planning a story",
+              "A list of spelling words",
+              "A map of a real country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When we chunk the word 'sunset', we break it into what smaller parts?",
+            "options": [
+              "s-u",
+              "sun-set",
+              "se-t",
+              "t-se"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Identifying Coins: Penny, Nickel, Dime, and Quarter; Money: Skip Counting Coins of the Same Value; Plus One and Minus One Facts; Comparison Subtraction: How Many More?.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which coin is worth 10 cents?",
+            "options": [
+              "Dime",
+              "Quarter",
+              "Penny",
+              "Nickel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one more than 7?",
+            "options": [
+              "6",
+              "9",
+              "8",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To count a pile of 4 nickels, you skip count by:",
+            "options": [
+              "10s",
+              "5s",
+              "1s",
+              "2s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sam has 9 stickers. Mia has 5 stickers. How many more stickers does Sam have than Mia?",
+            "options": [
+              "14",
+              "5",
+              "3",
+              "4"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Growing Up: How Our Bodies Change Over Time; Wolves: Animals That Live and Hunt in Packs; Skunks: Animals with a Stinky Defence; Black Bears: Foragers of the Forest.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one way our bodies change as we grow older?",
+            "options": [
+              "We become smaller each year",
+              "We get taller and stronger",
+              "We stop needing food",
+              "We always stay exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do skunks protect themselves from danger?",
+            "options": [
+              "They spray a stinky smell",
+              "They fly away",
+              "They roar loudly",
+              "They change colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a group of wolves called?",
+            "options": [
+              "A pack",
+              "A flock",
+              "A colony",
+              "A herd"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are black bears looking for when they forage in the forest?",
+            "options": [
+              "Other bears' dens",
+              "Food like berries and plants",
+              "Rocks to collect",
+              "Metal tools"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Victoria Day: An Ontario Spring Holiday; Sanitation Workers: Keeping Our Community Clean; Our Pharmacist: Helping Us Stay Healthy; The Prairies: Canadas Flat Farming Land.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "In which month is Victoria Day celebrated?",
+            "options": [
+              "July",
+              "May",
+              "February",
+              "September"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a pharmacist help give people to make them feel better?",
+            "options": [
+              "Haircuts",
+              "Mail",
+              "Medicine",
+              "Books"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do sanitation workers collect?",
+            "options": [
+              "Books for the library",
+              "Money for the bank",
+              "Garbage and recycling",
+              "Mail and packages"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is special about the land in the Prairies?",
+            "options": [
+              "It is covered in tall mountains",
+              "It is under the ocean",
+              "It is a big city with no fields",
+              "It is flat farming land"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Revising: Making Our Writing Even Better; Language Review: Word Study, Media Literacy, and Writing Process; Vowel Team oe: The Long O Sound in Toe and Hoe; Text Features: Speech Bubbles in Comics and Graphic Novels.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "What does revising mean?",
+            "options": [
+              "Throwing away the writing completely",
+              "Copying a story word for word",
+              "Rereading writing and making changes to improve it",
+              "Reading someone elses story instead"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the long o sound spelled with 'oe', like in 'toe'?",
+            "options": [
+              "Hoe",
+              "Hot",
+              "Toy",
+              "Hop"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does adding a silent e to the word kit turn it into?",
+            "options": [
+              "Kitten",
+              "Kitted",
+              "Kits",
+              "Kite"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a comic book, what is inside a speech bubble?",
+            "options": [
+              "The page number",
+              "The words a character is saying",
+              "The name of the author",
+              "A list of ingredients"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Using the Symbols > and < to Compare Numbers; Counting Backwards from Twenty; Place Value: Grouping Tens and Ones; Data: Collecting Data with Tally Marks.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "Which symbol means 'greater than'?",
+            "options": [
+              "+",
+              "<",
+              "=",
+              ">"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The number 14 has 1 ten and how many ones?",
+            "options": [
+              "1",
+              "0",
+              "4",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number comes right after 15 when counting backwards from 20?",
+            "options": [
+              "17",
+              "16",
+              "13",
+              "14"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When we count with tally marks, each group of five is shown by:",
+            "options": [
+              "Five separate dots",
+              "One big circle",
+              "Ten small squares",
+              "Four lines with one line crossed through them"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Deer: Graceful Animals of the Forest; Science Review: Forest Animals, Forces, and Growth; Rabbits: Hopping Mammals of Meadows and Gardens; Groundhogs: Diggers That Sleep All Winter.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where do deer usually live?",
+            "options": [
+              "The desert only",
+              "Forests and fields",
+              "The ocean floor",
+              "Under the ice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Rabbits are known for what kind of movement?",
+            "options": [
+              "Hopping",
+              "Swimming",
+              "Flying",
+              "Slithering"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When does a fox often hunt for food?",
+            "options": [
+              "Only in winter",
+              "Only underwater",
+              "At dawn and dusk",
+              "Only at noon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do groundhogs do during the winter?",
+            "options": [
+              "They fly south",
+              "They sleep in their burrows",
+              "They swim in lakes",
+              "They build nests in trees"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Halloween: Community Safety and Fun; Social Studies Review: Holidays, Community Helpers, and Landmarks; The CN Tower: A Famous Toronto Landmark; Groundhog Day: A Late-Winter Tradition.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "In which month is Halloween celebrated?",
+            "options": [
+              "January",
+              "October",
+              "March",
+              "June"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The CN Tower is a famous landmark found in which city?",
+            "options": [
+              "Vancouver",
+              "Ottawa",
+              "Toronto",
+              "Montreal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The CN Tower is a famous landmark located in which city?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Montreal",
+              "Vancouver"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On Groundhog Day, what do people watch a groundhog do?",
+            "options": [
+              "Whether it can swim",
+              "Whether it can sing",
+              "Whether it eats breakfast",
+              "Whether it sees its shadow"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Character Feelings: Understanding How a Character Feels; Acrostic Poems: Writing a Poem Using a Word; Book Talk: Sharing Our Favourite Books With Others; Expanding Sentences: Adding More Detail to Our Writing; Language Review: A Year of Words, Stories, and Poems.",
+        "resourceLabel": "TVO Learn: Grade 1 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-language",
+        "quiz": [
+          {
+            "q": "Which of these can show how a character feels?",
+            "options": [
+              "The font size",
+              "The book cover colour",
+              "The page number",
+              "Their words and actions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence has been expanded with more detail?",
+            "options": [
+              "The dog ran fast across the sunny park.",
+              "The dog ran.",
+              "Dog ran.",
+              "The dog."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an acrostic poem use to begin each line?",
+            "options": [
+              "A random number",
+              "A question mark",
+              "A drawing",
+              "A letter from the chosen word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "This year we learned that a sentence should always start with:",
+            "options": [
+              "A lowercase letter",
+              "A capital letter",
+              "A number",
+              "A question mark"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Translating Patterns: Same Pattern, Different Materials; Number Patterns: Finding the Missing Number in a Sequence; Measuring Area: Covering a Surface with Shapes; Comparing Capacity with Non-Standard Units; Ordering Objects by Length.",
+        "resourceLabel": "TVO Learn: Grade 1 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-mathematics",
+        "quiz": [
+          {
+            "q": "A pattern goes red, blue, red, blue. If you show the same pattern with sounds, which pattern matches?",
+            "options": [
+              "Stomp, stomp, clap, clap",
+              "Clap, clap, clap, clap",
+              "Clap, stomp, stomp, clap",
+              "Clap, stomp, clap, stomp"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To measure the area of a piece of paper, we can cover it completely with:",
+            "options": [
+              "Water",
+              "Nothing at all",
+              "Small shapes like squares",
+              "A single line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "2, 4, 6, ___, 10. What is the missing number?",
+            "options": [
+              "9",
+              "8",
+              "12",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is the shortest?",
+            "options": [
+              "A school bus",
+              "A car",
+              "A house",
+              "A pencil"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Animal Mimicry: Looking Like Something Else for Safety; Chickens: From Egg to Hen; Shadows Throughout the Day: How Shadows Change; Mixing Colours: Primary and Secondary Colours; Science Review: A Year of Discovering Our World.",
+        "resourceLabel": "TVO Learn: Grade 1 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is mimicry?",
+            "options": [
+              "When an animal looks like something else to stay safe",
+              "When an animal hides underground",
+              "When an animal changes colour to blend in",
+              "When an animal migrates south"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At the middle of the day, when the sun is high up, shadows are usually:",
+            "options": [
+              "Short",
+              "Very long",
+              "Purple",
+              "Missing completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do baby chickens hatch from?",
+            "options": [
+              "Cocoons",
+              "Seeds",
+              "Eggs",
+              "Nests only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What colour do you get when you mix blue and yellow paint together?",
+            "options": [
+              "Purple",
+              "Green",
+              "Orange",
+              "Red"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Bakers: Baking Bread and Treats for Our Community; Ferries and Ships: Travelling on the Water; Foods from Around the World: Sharing Culture Through Food; Powwows: Celebrating Indigenous Culture Through Dance and Music; Social Studies Review: A Year of Community, Culture, and Canada.",
+        "resourceLabel": "TVO Learn: Grade 1 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-1-social-studies",
+        "quiz": [
+          {
+            "q": "What does a baker make?",
+            "options": [
+              "Furniture",
+              "Medicine",
+              "Mail and packages",
+              "Bread, cakes, and other treats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Trying foods from different countries helps us learn about:",
+            "options": [
+              "Math facts",
+              "The weather",
+              "Different cultures",
+              "Traffic rules"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do ferries and ships often carry?",
+            "options": [
+              "Only mail",
+              "Only ice",
+              "People, cars, and goods",
+              "Only animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "At a powwow, Indigenous communities celebrate their culture through:",
+            "options": [
+              "Building bridges",
+              "Grocery shopping",
+              "Playing video games",
+              "Dance and music"
+            ],
+            "answer": 3
           }
         ]
       }
