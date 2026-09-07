@@ -8199,7 +8199,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=XUMiPK6LZBI"
       },
       {
         "subject": "SocialStudies",
@@ -10755,7 +10756,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ZtMnCj59tos"
       },
       {
         "subject": "Science",
@@ -10928,7 +10930,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=NR7z9FbUf5k"
       }
     ]
   },
@@ -11183,7 +11186,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=2SBVz4MgeIE"
       },
       {
         "subject": "SocialStudies",
@@ -12628,7 +12632,8 @@ const curriculum: DayContent[] = [
               "it is fair"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8QmzQUQDpwc"
       }
     ]
   },

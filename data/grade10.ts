@@ -10834,7 +10834,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=ZfjzxEBa1jQ"
       },
       {
         "subject": "Science",
@@ -10954,7 +10955,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6mOoovnguNs"
       }
     ]
   },
@@ -12861,7 +12863,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=6xPkG2pA-TU"
       },
       {
         "subject": "Science",

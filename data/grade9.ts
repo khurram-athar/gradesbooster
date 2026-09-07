@@ -11051,7 +11051,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=qIw-yFC-HNU"
       },
       {
         "subject": "Science",
@@ -11549,7 +11550,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=Ly3NmogR1cU"
       },
       {
         "subject": "Science",

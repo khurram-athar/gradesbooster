@@ -9985,7 +9985,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=VUqvpaDHjgU"
       }
     ]
   },
@@ -10482,7 +10483,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=Bzzu1DDFtxI"
       }
     ]
   },
@@ -10731,7 +10733,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Canadian Geography & Regions"
+        "topic": "Canadian Geography & Regions",
+        "videoUrl": "https://www.youtube.com/watch?v=GOrAaaqNk3I"
       }
     ]
   },

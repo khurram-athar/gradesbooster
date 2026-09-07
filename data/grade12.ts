@@ -9736,7 +9736,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing: Process & Editing"
+        "topic": "Writing: Process & Editing",
+        "videoUrl": "https://www.youtube.com/watch?v=hhVic18H4u4"
       },
       {
         "subject": "AdvancedFunctions",
@@ -10140,7 +10141,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8dm0UtPyYj8"
       },
       {
         "subject": "Physics",

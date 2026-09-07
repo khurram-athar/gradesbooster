@@ -7887,7 +7887,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=IiPL5HgPehs"
       },
       {
         "subject": "Chemistry",

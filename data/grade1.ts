@@ -8036,7 +8036,18 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=hw3gmFwM64A",
+        "videoUrls": [
+          {
+            "label": "-it Word Family",
+            "url": "https://www.youtube.com/watch?v=hw3gmFwM64A"
+          },
+          {
+            "label": "-in Word Family",
+            "url": "https://www.youtube.com/watch?v=P6UFtbsLXPY"
+          }
+        ]
       },
       {
         "subject": "Math",
@@ -10954,7 +10965,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=bWBrusrCmX4"
       },
       {
         "subject": "SocialStudies",
@@ -11034,7 +11046,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=QBQ5ZhHlkkY"
       }
     ]
   },
@@ -14571,6 +14584,17 @@ const curriculum: DayContent[] = [
               "dolphin",
               "elephant"
             ]
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xU9NBzN98F0",
+        "videoUrls": [
+          {
+            "label": "CK Sound",
+            "url": "https://www.youtube.com/watch?v=xU9NBzN98F0"
+          },
+          {
+            "label": "Digraphs incl. PH",
+            "url": "https://www.youtube.com/watch?v=NK8_Tvu6bJk"
           }
         ]
       },

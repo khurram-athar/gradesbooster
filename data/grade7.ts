@@ -8030,7 +8030,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Rebellions & Political Change (pre-1900)"
+        "topic": "Rebellions & Political Change (pre-1900)",
+        "videoUrl": "https://www.youtube.com/watch?v=vpKUXjrrHXs"
       }
     ]
   },
@@ -8596,7 +8597,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=mvLtdCswNWM"
       },
       {
         "subject": "Math",
@@ -9155,7 +9157,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Hn0eLcOSQGw"
       },
       {
         "subject": "Science",
@@ -9341,7 +9344,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=TZd7rDVNi58"
       },
       {
         "subject": "Math",

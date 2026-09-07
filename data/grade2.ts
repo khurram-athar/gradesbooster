@@ -10958,7 +10958,8 @@ const curriculum: DayContent[] = [
               "a word made of two smaller words"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=d34s3Vv_1bg"
       },
       {
         "subject": "Math",
@@ -11039,7 +11040,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=NCAWsawkJgo"
       },
       {
         "subject": "Science",

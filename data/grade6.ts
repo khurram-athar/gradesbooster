@@ -9500,7 +9500,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=15d818t9UZ0"
       }
     ]
   },
@@ -9815,7 +9816,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=v4HhzvSgUpU"
       },
       {
         "subject": "Math",
@@ -11123,7 +11125,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=buDRUn1EHoA"
       },
       {
         "subject": "Science",
@@ -11244,7 +11247,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canada & International Relations"
+        "topic": "Canada & International Relations",
+        "videoUrl": "https://www.youtube.com/watch?v=Ttoad811t88"
       }
     ]
   },
@@ -11560,7 +11564,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=nMgglZyiz3E"
       },
       {
         "subject": "Math",

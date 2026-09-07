@@ -8197,7 +8197,8 @@
             ]
           }
         ],
-        "topic": "Human Body & Health"
+        "topic": "Human Body & Health",
+        "videoUrl": "https://www.youtube.com/watch?v=XUMiPK6LZBI"
       },
       {
         "subject": "SocialStudies",
@@ -10753,7 +10754,8 @@
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ZtMnCj59tos"
       },
       {
         "subject": "Science",
@@ -10926,7 +10928,8 @@
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=NR7z9FbUf5k"
       }
     ]
   },
@@ -11181,7 +11184,8 @@
             ]
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=2SBVz4MgeIE"
       },
       {
         "subject": "SocialStudies",
@@ -12626,7 +12630,8 @@
               "it is fair"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8QmzQUQDpwc"
       }
     ]
   },

@@ -8646,7 +8646,18 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=5nRVEDte2bY",
+        "videoUrls": [
+          {
+            "label": "Volume of a Sphere",
+            "url": "https://www.youtube.com/watch?v=5nRVEDte2bY"
+          },
+          {
+            "label": "Volume and Surface Area of a Cone",
+            "url": "https://www.youtube.com/watch?v=crxFsKRGEqk"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -9889,7 +9900,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=jtFE94lf7Vw"
       },
       {
         "subject": "Science",
@@ -13223,7 +13235,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=AWAqVMmYjC8"
       },
       {
         "subject": "History",

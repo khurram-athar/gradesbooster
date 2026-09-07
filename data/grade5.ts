@@ -10582,6 +10582,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the justice system uses courts and judges to make fair decisions when people disagree or when someone breaks a law.",
         "resourceLabel": "YouTube: Canadas Justice System: Judges and Courts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Justice%20System%3A%20Judges%20and%20Courts%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TUvG2CzXfc0",
         "quiz": [
           {
             "q": "Who makes decisions in a courtroom?",
@@ -10770,6 +10771,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: a compound machine combines two or more simple machines, such as a wheelbarrow (lever and wheel-and-axle) or scissors (two levers), to make tasks easier.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=I71HcXG9vso",
         "quiz": [
           {
             "q": "A compound machine is made up of ___.",
@@ -11104,6 +11106,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: different regions of Canada have distinct economies based on their available resources and industries, such as fishing in Atlantic Canada or oil production in Alberta.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=CmU5CVO5lg8",
         "quiz": [
           {
             "q": "Atlantic Canada’s economy has historically relied heavily on ___.",
@@ -11791,6 +11794,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that renewable energy, like sunlight and wind, can be used again and again, while non-renewable energy, like coal and oil, is limited and takes a very long time to form.",
         "resourceLabel": "YouTube: Renewable and Non-Renewable Energy: Where Our Power Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%3A%20Where%20Our%20Power%20Comes%20From%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jwzupl9pf6Y",
         "quiz": [
           {
             "q": "What is renewable energy?",
@@ -11873,6 +11877,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: in a democracy, citizens have a voice in how they are governed, most directly through voting, and are expected to stay informed and participate so that government reflects the will of the people.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_bIpFwcMGvs",
         "quiz": [
           {
             "q": "In a democracy, citizens most directly have a voice in government through ___.",
@@ -13218,6 +13223,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties and formally approving laws passed by Parliament.",
         "resourceLabel": "YouTube: Social Studies: The Governor General — Representing the Crown in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Governor%20General%20%E2%80%94%20Representing%20the%20Crown%20in%20Canada%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jRHuBs_ZhEU",
         "quiz": [
           {
             "q": "Who does the Governor General represent in Canada?",

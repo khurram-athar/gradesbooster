@@ -11957,7 +11957,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Regions"
+        "topic": "Canadian Geography & Regions",
+        "videoUrl": "https://www.youtube.com/watch?v=TE8FkcLAp_o"
       }
     ]
   },
@@ -13156,7 +13157,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=ty2Za-O9h6w"
       },
       {
         "subject": "SocialStudies",
