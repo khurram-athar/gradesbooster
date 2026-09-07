@@ -16172,7 +16172,7 @@ const curriculum: DayContent[] = [
         "title": "Comparing Numbers with Symbols: Greater and Less",
         "summary": "Students compare two numbers and describe which is greater and which is less, beginning to connect the ideas of more and fewer to number comparisons within 20.",
         "resourceLabel": "YouTube: Comparing Numbers with Symbols: Greater and Less",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%20with%20Symbols%3A%20Greater%20and%20Less%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%20with%20Symbols%3A%20Greater%20and%20Less%20grade%200%20educational",
         "quiz": [
           {
             "q": "Between 12 and 7, which number is greater?",
@@ -16247,7 +16247,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=SQ6wK_Tm9Yo"
       },
       {
         "subject": "Science",
@@ -16927,7 +16928,7 @@ const curriculum: DayContent[] = [
         "title": "Clouds in the Sky: Watching the Weather",
         "summary": "Students observe clouds in the sky and learn that clouds can look different, such as fluffy white clouds on a sunny day or dark grey clouds before rain.",
         "resourceLabel": "YouTube: Clouds in the Sky: Watching the Weather",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Watching%20the%20Weather%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Watching%20the%20Weather%20grade%200%20educational",
         "quiz": [
           {
             "q": "What do we call the fluffy shapes we see in the sky?",
@@ -17001,7 +17002,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=4VXP-ZvBAEM"
       },
       {
         "subject": "SocialStudies",
@@ -18402,7 +18404,7 @@ const curriculum: DayContent[] = [
         "title": "Our Firehall: Where Firefighters Work",
         "summary": "Students learn about the firehall as a special building in the community where firefighters work, sleep, and keep their fire trucks ready to help.",
         "resourceLabel": "YouTube: Our Firehall: Where Firefighters Work",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Firehall%3A%20Where%20Firefighters%20Work%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Firehall%3A%20Where%20Firefighters%20Work%20grade%200%20educational",
         "quiz": [
           {
             "q": "What is the building called where firefighters work?",
@@ -18477,7 +18479,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Community Helpers & Civic Roles (Basic)"
+        "topic": "Community Helpers & Civic Roles (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=VpIK60zWVTI"
       }
     ]
   },
@@ -18735,7 +18738,7 @@ const curriculum: DayContent[] = [
         "title": "Our Grocery Store: Where Food Comes From",
         "summary": "Students learn about the grocery store as a community place where families go to buy food and other everyday items they need.",
         "resourceLabel": "YouTube: Our Grocery Store: Where Food Comes From",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Grocery%20Store%3A%20Where%20Food%20Comes%20From%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Grocery%20Store%3A%20Where%20Food%20Comes%20From%20grade%200%20educational",
         "quiz": [
           {
             "q": "Where do many families buy food?",
@@ -18812,7 +18815,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=2PFnYMbfJqw"
       }
     ]
   },
@@ -19892,7 +19896,7 @@ const curriculum: DayContent[] = [
         "title": "Repeating Patterns with Three Elements",
         "summary": "Students identify and extend repeating patterns that use three different elements, such as an ABC pattern of circle, square, triangle, circle, square, triangle.",
         "resourceLabel": "YouTube: Repeating Patterns with Three Elements",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Three%20Elements%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Three%20Elements%20grade%200%20educational",
         "quiz": [
           {
             "q": "In the pattern star, moon, sun, star, moon, ___, what comes next?",
@@ -19966,14 +19970,15 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=E8Rx4aBBnYw"
       },
       {
         "subject": "Science",
         "title": "Sorting by Colour: Red, Blue, Yellow, and More",
         "summary": "Kids sort a mixed group of objects by colour, practicing an early science skill for organizing and comparing what they observe.",
         "resourceLabel": "YouTube: Sorting by Colour: Red, Blue, Yellow, and More",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Colour%3A%20Red%2C%20Blue%2C%20Yellow%2C%20and%20More%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20by%20Colour%3A%20Red%2C%20Blue%2C%20Yellow%2C%20and%20More%20grade%200%20educational",
         "quiz": [
           {
             "q": "If you are sorting blocks by colour, where does a red block belong?",
@@ -20025,7 +20030,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xz5rA5ssww8"
       },
       {
         "subject": "SocialStudies",
@@ -20943,7 +20949,7 @@ const curriculum: DayContent[] = [
         "title": "Sink or Float: Testing Objects in Water",
         "summary": "Children predict and then test whether different objects sink or float in a tub of water, an early hands-on physical science investigation.",
         "resourceLabel": "YouTube: Sink or Float: Testing Objects in Water",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Sink%20or%20Float%3A%20Testing%20Objects%20in%20Water%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sink%20or%20Float%3A%20Testing%20Objects%20in%20Water%20grade%200%20educational",
         "topic": "Matter & Materials",
         "quiz": [
           {
@@ -20996,7 +21002,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=RY9kFJ55uno"
       },
       {
         "subject": "SocialStudies",
@@ -21192,7 +21199,7 @@ const curriculum: DayContent[] = [
         "title": "One-to-One Correspondence: Touch and Count",
         "summary": "Kids practice touching each object exactly once while counting a small group, building the foundation that each number word matches one object.",
         "resourceLabel": "YouTube: One-to-One Correspondence: Touch and Count",
-        "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touch%20and%20Count%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touch%20and%20Count%20grade%200%20educational",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -21245,7 +21252,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KwnibD9zVo8"
       },
       {
         "subject": "Science",

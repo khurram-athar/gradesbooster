@@ -14978,8 +14978,8 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Energy Transformations in Everyday Devices",
         "summary": "Grade 4 Science strand: many everyday devices transform energy from one form to another, such as a toaster changing electrical energy into heat energy.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Energy Transformations in Everyday Devices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Energy%20Transformations%20in%20Everyday%20Devices%20grade%204%20educational",
         "quiz": [
           {
             "q": "Energy transformation means energy ___.",
@@ -15032,14 +15032,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=jRucyeL1XIE"
       },
       {
         "subject": "SocialStudies",
         "title": "Cultural Diversity and Multiculturalism in Canada",
         "summary": "Grade 4 Social Studies strand: Canada is home to people from many different cultural backgrounds, and multiculturalism celebrates and protects this diversity as an official policy.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Cultural Diversity and Multiculturalism in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cultural%20Diversity%20and%20Multiculturalism%20in%20Canada%20grade%204%20educational",
         "quiz": [
           {
             "q": "Multiculturalism is a policy that ___.",
@@ -15092,7 +15093,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Culture, Diversity & Multiculturalism"
+        "topic": "Culture, Diversity & Multiculturalism",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE"
       }
     ]
   },
@@ -15313,8 +15315,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Culminating Task: Designing a Model Community",
         "summary": "Grade 4 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about mapping, government, industries, settlement, and diversity to design a model community.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Culminating Task: Designing a Model Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Culminating%20Task%3A%20Designing%20a%20Model%20Community%20grade%204%20educational",
         "quiz": [
           {
             "q": "Why might a student consider access to fresh water when designing a model community?",
@@ -15366,7 +15368,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gnnUid8Hof0"
       }
     ]
   },
@@ -16157,8 +16160,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Early Societies: Tools and Technology",
         "summary": "Grade 4 Social Studies strand: early societies developed tools and technology, such as farming implements, pottery, and metalworking, to meet their daily needs and improve their way of life.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Early Societies: Tools and Technology",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Early%20Societies%3A%20Tools%20and%20Technology%20grade%204%20educational",
         "quiz": [
           {
             "q": "Early societies developed tools mainly to ___.",
@@ -16210,7 +16213,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=PoA305dIWYU"
       }
     ]
   },
@@ -16414,8 +16418,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Early Societies: Leadership and Government Structures",
         "summary": "Grade 4 Social Studies strand: early societies organized leadership in different ways, from kings and pharaohs to councils of elders, to make decisions and maintain order.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Early Societies: Leadership and Government Structures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Early%20Societies%3A%20Leadership%20and%20Government%20Structures%20grade%204%20educational",
         "quiz": [
           {
             "q": "Many early societies were led by a single powerful ruler, such as a ___.",
@@ -16468,7 +16472,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=Sg3cLtQ_hYE"
       }
     ]
   },
@@ -17117,14 +17122,15 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=8D1F5poW_5w"
       },
       {
         "subject": "Science",
         "title": "Structures: Why Shape Affects Strength (Triangles vs Squares)",
         "summary": "Grade 4 Science strand: the shape of a structure affects its strength, and triangles are especially strong because their fixed angles resist bending and twisting better than squares.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Structures: Why Shape Affects Strength (Triangles vs Squares)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Structures%3A%20Why%20Shape%20Affects%20Strength%20%28Triangles%20vs%20Squares%29%20grade%204%20educational",
         "quiz": [
           {
             "q": "Triangles are considered a strong shape in structures because their angles ___.",
@@ -17177,7 +17183,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Structures, Materials & Engineering"
+        "topic": "Structures, Materials & Engineering",
+        "videoUrl": "https://www.youtube.com/watch?v=Ofol8YG_uz8"
       },
       {
         "subject": "SocialStudies",

@@ -15425,8 +15425,8 @@
         "subject": "Science",
         "title": "Biology: The Endocrine System and Hormonal Regulation",
         "summary": "Grade 10 Biology strand: the endocrine system uses glands to release hormones directly into the bloodstream, regulating body processes such as growth, metabolism, and the response to stress over a longer timescale than the nervous system.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Biology: The Endocrine System and Hormonal Regulation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20The%20Endocrine%20System%20and%20Hormonal%20Regulation%20grade%2010%20educational",
         "quiz": [
           {
             "q": "The endocrine system regulates the body using ___.",
@@ -15478,7 +15478,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eWHH9je2zG4"
       },
       {
         "subject": "History",
@@ -15726,7 +15727,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=P_SD5Rt6XMk"
       },
       {
         "subject": "History",

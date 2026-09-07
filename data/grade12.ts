@@ -15188,8 +15188,8 @@ const curriculum: DayContent[] = [
         "subject": "Calculus",
         "title": "Calculus: Improper Integrals and Infinite Series -- A Second Look",
         "summary": "Grade 12 Calculus strand: connecting the convergence behaviour of improper integrals to that of infinite series highlights a shared underlying question -- whether an unbounded accumulation process settles toward a finite value.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "resourceLabel": "YouTube: Calculus: Improper Integrals and Infinite Series -- A Second Look",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Improper%20Integrals%20and%20Infinite%20Series%20--%20A%20Second%20Look%20grade%2012%20educational",
         "quiz": [
           {
             "q": "Both improper integrals and infinite series raise the shared question of whether an unbounded accumulation process settles toward a ___ value.",
@@ -15242,7 +15242,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=ND9cEdfCFr0",
+        "videoUrls": [
+          {
+            "label": "YouTube: Sequences and Series Convergence Tests",
+            "url": "https://www.youtube.com/watch?v=0YeON4p0ogw"
+          }
+        ]
       },
       {
         "subject": "Physics",
@@ -16063,8 +16070,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The College Application Essay",
         "summary": "Grade 12 English strand: a college application essay uses a specific, personal story to reveal character and voice to admissions readers, favouring a narrow, concrete moment over a broad summary of accomplishments.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Writing: The College Application Essay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20College%20Application%20Essay%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A strong college application essay uses a specific, personal story mainly to reveal the writer’s ___.",
@@ -16117,7 +16124,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=rm12AJ1TkME"
       },
       {
         "subject": "AdvancedFunctions",
@@ -16808,7 +16816,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3nvkHjn1ETU"
       }
     ]
   },
@@ -17605,8 +17614,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: The Verse Novel -- Narrative Through Poetic Form",
         "summary": "Grade 12 English strand: a verse novel tells an extended narrative using poetic form, most often free verse, combining the emotional compression and imagery of poetry with a novel’s sustained plot and character development, often unfolding through multiple first-person voices.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literature: The Verse Novel -- Narrative Through Poetic Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Verse%20Novel%20--%20Narrative%20Through%20Poetic%20Form%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
@@ -17659,7 +17668,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=IYWbUh0r-EI"
       },
       {
         "subject": "AdvancedFunctions",

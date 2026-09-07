@@ -10866,6 +10866,7 @@
         "summary": "Grade 2 Social Studies strand: the justice system uses courts and judges to make fair decisions when people disagree or when someone breaks a law.",
         "resourceLabel": "YouTube: Canadas Justice System: Judges and Courts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Justice%20System%3A%20Judges%20and%20Courts%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TUvG2CzXfc0",
         "quiz": [
           {
             "q": "Who makes decisions in a courtroom?",
@@ -10918,8 +10919,7 @@
             "answer": 1
           }
         ],
-        "topic": "Canadian Institutions & Justice",
-        "videoUrl": "https://www.youtube.com/watch?v=TUvG2CzXfc0"
+        "topic": "Canadian Institutions & Justice"
       }
     ]
   },
@@ -11055,6 +11055,7 @@
         "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: a compound machine combines two or more simple machines, such as a wheelbarrow (lever and wheel-and-axle) or scissors (two levers), to make tasks easier.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=I71HcXG9vso",
         "quiz": [
           {
             "q": "A compound machine is made up of ___.",
@@ -11107,8 +11108,7 @@
             "answer": 1
           }
         ],
-        "topic": "Atoms, Elements & Compounds",
-        "videoUrl": "https://www.youtube.com/watch?v=I71HcXG9vso"
+        "topic": "Atoms, Elements & Compounds"
       },
       {
         "subject": "SocialStudies",
@@ -11390,6 +11390,7 @@
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: different regions of Canada have distinct economies based on their available resources and industries, such as fishing in Atlantic Canada or oil production in Alberta.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=CmU5CVO5lg8",
         "quiz": [
           {
             "q": "Atlantic Canada’s economy has historically relied heavily on ___.",
@@ -11442,8 +11443,7 @@
             "answer": 0
           }
         ],
-        "topic": "Economics & Trade",
-        "videoUrl": "https://www.youtube.com/watch?v=CmU5CVO5lg8"
+        "topic": "Economics & Trade"
       }
     ]
   },
@@ -12078,6 +12078,7 @@
         "summary": "Students learn that renewable energy, like sunlight and wind, can be used again and again, while non-renewable energy, like coal and oil, is limited and takes a very long time to form.",
         "resourceLabel": "YouTube: Renewable and Non-Renewable Energy: Where Our Power Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%3A%20Where%20Our%20Power%20Comes%20From%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jwzupl9pf6Y",
         "quiz": [
           {
             "q": "What is renewable energy?",
@@ -12152,8 +12153,7 @@
             ]
           }
         ],
-        "topic": "Energy",
-        "videoUrl": "https://www.youtube.com/watch?v=jwzupl9pf6Y"
+        "topic": "Energy"
       },
       {
         "subject": "SocialStudies",
@@ -12161,6 +12161,7 @@
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: in a democracy, citizens have a voice in how they are governed, most directly through voting, and are expected to stay informed and participate so that government reflects the will of the people.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_bIpFwcMGvs",
         "quiz": [
           {
             "q": "In a democracy, citizens most directly have a voice in government through ___.",
@@ -12213,8 +12214,7 @@
             "answer": 2
           }
         ],
-        "topic": "Government & Civics",
-        "videoUrl": "https://www.youtube.com/watch?v=_bIpFwcMGvs"
+        "topic": "Government & Civics"
       }
     ]
   },
@@ -13507,6 +13507,7 @@
         "summary": "Grade 3 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties and formally approving laws passed by Parliament.",
         "resourceLabel": "YouTube: Social Studies: The Governor General — Representing the Crown in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Governor%20General%20%E2%80%94%20Representing%20the%20Crown%20in%20Canada%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jRHuBs_ZhEU",
         "quiz": [
           {
             "q": "Who does the Governor General represent in Canada?",
@@ -13559,8 +13560,7 @@
             "answer": 3
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)",
-        "videoUrl": "https://www.youtube.com/watch?v=jRHuBs_ZhEU"
+        "topic": "Canadian Places & Symbols (Basic)"
       }
     ]
   },
@@ -14093,8 +14093,8 @@
         "subject": "Language",
         "title": "Reading: Understanding Foreshadowing",
         "summary": "Grade 5 Language strand: foreshadowing is a writing technique where an author hints at events that will happen later in a story.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Reading: Understanding Foreshadowing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Foreshadowing%20grade%205%20educational",
         "quiz": [
           {
             "q": "Foreshadowing is a technique where an author ___.",
@@ -14147,7 +14147,8 @@
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=abkFO8T-mjg"
       },
       {
         "subject": "Math",
@@ -17345,8 +17346,8 @@
         "subject": "SocialStudies",
         "title": "Canada’s Provincial and Territorial Capitals",
         "summary": "Grade 5 Social Studies strand: each of Canada’s provinces and territories has its own capital city, which is home to that region’s government.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Canada’s Provincial and Territorial Capitals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%E2%80%99s%20Provincial%20and%20Territorial%20Capitals%20grade%205%20educational",
         "quiz": [
           {
             "q": "The capital city of Ontario is ___.",
@@ -17399,7 +17400,8 @@
             "answer": 0
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=DzHwLbYiqos"
       }
     ]
   },
@@ -18293,8 +18295,8 @@
         "subject": "Math",
         "title": "Multiplying Two-Digit Numbers",
         "summary": "Grade 5 Math strand: multiplying two two-digit numbers involves breaking the numbers into tens and ones, multiplying each part, and adding the partial products together.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Multiplying Two-Digit Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Two-Digit%20Numbers%20grade%205%20educational",
         "quiz": [
           {
             "q": "When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.",
@@ -18347,7 +18349,8 @@
             "answer": 3
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=RVYwunbpMHA"
       },
       {
         "subject": "Science",

@@ -18053,6 +18053,13 @@ const curriculum: DayContent[] = [
               "tw"
             ]
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=WA6I1_-fTJs",
+        "videoUrls": [
+          {
+            "label": "YouTube: TW Consonant Blend",
+            "url": "https://www.youtube.com/watch?v=QUjJORMpY2M"
+          }
         ]
       },
       {
@@ -18816,7 +18823,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=UBiYzF-0txw"
       },
       {
         "subject": "Science",
@@ -19073,7 +19081,8 @@ const curriculum: DayContent[] = [
               "walked"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YrdNpA8eqs4"
       },
       {
         "subject": "Math",
@@ -20518,7 +20527,8 @@ const curriculum: DayContent[] = [
               "centimetre"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ftB5VU64yGA"
       },
       {
         "subject": "Science",

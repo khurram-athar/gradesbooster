@@ -14640,8 +14640,8 @@
         "subject": "SocialStudies",
         "title": "Geography of Natural Disaster Preparedness and Resilience",
         "summary": "Grade 9 Social Studies (Geography) strand: disaster preparedness involves planning and infrastructure designed to reduce harm from natural hazards, and resilience refers to a community’s ability to recover and adapt after a disaster occurs.",
-        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "resourceLabel": "YouTube: Geography of Natural Disaster Preparedness and Resilience",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geography%20of%20Natural%20Disaster%20Preparedness%20and%20Resilience%20grade%209%20educational",
         "quiz": [
           {
             "q": "Disaster preparedness involves planning and infrastructure designed to ___.",
@@ -14694,7 +14694,8 @@
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=USLHmwvpjX8"
       }
     ]
   },
@@ -15814,8 +15815,8 @@
         "subject": "Math",
         "title": "Solving Systems of Linear Equations by Elimination",
         "summary": "Grade 9 Algebra strand: the elimination method solves a system of linear equations by adding or subtracting the equations to cancel out one variable, allowing the remaining variable to be solved directly.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Solving Systems of Linear Equations by Elimination",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Systems%20of%20Linear%20Equations%20by%20Elimination%20grade%209%20educational",
         "quiz": [
           {
             "q": "The elimination method solves a system of linear equations by ___.",
@@ -15868,7 +15869,8 @@
             "answer": 2
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=HL2fDIOMLJ0"
       },
       {
         "subject": "Science",

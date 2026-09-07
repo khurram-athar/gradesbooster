@@ -9182,8 +9182,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Communities in Canada, 1780-1850: Roles in the Community",
         "summary": "Ontario Grade 3 Social Studies Heritage and Identity strand: early Canadian communities depended on workers with specific roles, such as blacksmiths, millers, farmers, and merchants, each contributing skills the community needed.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Communities in Canada, 1780-1850: Roles in the Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Communities%20in%20Canada%2C%201780-1850%3A%20Roles%20in%20the%20Community%20grade%203%20educational",
         "quiz": [
           {
             "q": "A blacksmith in an early settler community mainly worked with ___.",
@@ -9236,7 +9236,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=9LB4dZtzOHc"
       }
     ]
   },
@@ -14432,8 +14433,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: How Ontario Uses Its Resources",
         "summary": "Grade 3 Social Studies strand: Ontario uses its natural resources, such as forests, minerals, and freshwater, to support industries and communities, while also facing the responsibility of managing these resources sustainably.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: How Ontario Uses Its Resources",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Ontario%20Uses%20Its%20Resources%20grade%203%20educational",
         "quiz": [
           {
             "q": "Ontario uses natural resources like forests, minerals, and freshwater to support ___.",
@@ -14486,7 +14487,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=q416HremOuM"
       }
     ]
   },
@@ -14970,8 +14972,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Grade 3 Social Studies: Extending Our Community Knowledge",
         "summary": "Grade 3 Social Studies strand: this lesson celebrates and extends the Days 51-60 learning about local government, community helpers, trade, national parks, Indigenous contributions, immigration, and Ontario’s resources.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Grade 3 Social Studies: Extending Our Community Knowledge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grade%203%20Social%20Studies%3A%20Extending%20Our%20Community%20Knowledge%20grade%203%20educational",
         "quiz": [
           {
             "q": "Why is it valuable for students to understand how local government decisions are made?",
@@ -15024,7 +15026,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=GYSqYSVOoc0"
       }
     ]
   },
@@ -15229,8 +15232,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Canada’s Provinces and Capital Cities",
         "summary": "Grade 3 Social Studies strand: Canada is made up of ten provinces and three territories, and each province has its own capital city where its provincial government meets.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Provinces and Capital Cities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Provinces%20and%20Capital%20Cities%20grade%203%20educational",
         "quiz": [
           {
             "q": "Canada is made up of ten provinces and ___ territories.",
@@ -15283,7 +15286,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=DzHwLbYiqos"
       }
     ]
   },
@@ -16978,8 +16982,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Ontario’s Farmland and Agriculture Today",
         "summary": "Grade 3 Social Studies strand: agriculture is an important part of Ontario’s economy today, with farmland used to grow crops and raise animals that provide food for communities across the province.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Ontario’s Farmland and Agriculture Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ontario%E2%80%99s%20Farmland%20and%20Agriculture%20Today%20grade%203%20educational",
         "quiz": [
           {
             "q": "Farmland in Ontario is used to grow crops and raise animals that provide ___ for communities.",
@@ -17032,7 +17036,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=4LyeGHBhWYk"
       }
     ]
   },

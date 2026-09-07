@@ -13555,6 +13555,17 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=CnEdbmwmSls",
+        "videoUrls": [
+          {
+            "label": "YouTube: The War of 1812: Causes and Consequences",
+            "url": "https://www.youtube.com/watch?v=GVCIm6fuB9c"
+          },
+          {
+            "label": "YouTube: The Red River Resistance and Louis Riel",
+            "url": "https://www.youtube.com/watch?v=baqnC9S45Wk"
+          }
         ]
       }
     ]
@@ -13743,7 +13754,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=f5XNjb9-JzQ"
       },
       {
         "subject": "SocialStudies",
@@ -13803,7 +13815,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Confederation & Government Formation"
+        "topic": "Confederation & Government Formation",
+        "videoUrl": "https://www.youtube.com/watch?v=CnEdbmwmSls"
       }
     ]
   },
@@ -14741,7 +14754,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Chemical Reactions",
+        "videoUrl": "https://www.youtube.com/watch?v=ja7p_tzTTEA"
       },
       {
         "subject": "SocialStudies",
@@ -15522,8 +15536,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The War of 1812: Causes and Consequences",
         "summary": "Grade 7 Social Studies strand: the War of 1812 was fought between the United States and Britain (with its colonies, including present-day Canada), shaping early Canadian identity and border relations.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: The War of 1812: Causes and Consequences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20War%20of%201812%3A%20Causes%20and%20Consequences%20grade%207%20educational",
         "quiz": [
           {
             "q": "The War of 1812 was fought between the United States and ___.",
@@ -15576,7 +15590,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=GVCIm6fuB9c"
       }
     ]
   },
@@ -15771,8 +15786,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The Red River Resistance and Louis Riel",
         "summary": "Grade 7 Social Studies strand: the Red River Resistance was led by Louis Riel and the Métis people to protect their land, rights, and way of life as Canada expanded westward in the late 1800s.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: The Red River Resistance and Louis Riel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Red%20River%20Resistance%20and%20Louis%20Riel%20grade%207%20educational",
         "quiz": [
           {
             "q": "The Red River Resistance was led by ___.",
@@ -15824,7 +15839,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=baqnC9S45Wk"
       }
     ]
   },

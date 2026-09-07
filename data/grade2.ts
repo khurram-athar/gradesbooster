@@ -20532,7 +20532,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=etGmCvIL014"
       },
       {
         "subject": "SocialStudies",

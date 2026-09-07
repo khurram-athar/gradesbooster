@@ -17669,8 +17669,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: Absurdist Fiction and the Theatre of the Absurd",
         "summary": "Grade 11 English strand: absurdist literature, exemplified by playwrights such as Samuel Beckett and Eugène Ionesco, portrays a universe that resists rational explanation, using illogical plots, circular dialogue, and characters trapped in meaningless routines to dramatize the human search for purpose in an indifferent world.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Literature: Absurdist Fiction and the Theatre of the Absurd",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Absurdist%20Fiction%20and%20the%20Theatre%20of%20the%20Absurd%20grade%2011%20educational",
         "quiz": [
           {
             "q": "Absurdist literature typically portrays a universe that ___.",
@@ -17723,7 +17723,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=ahkeJI7_29Q"
       },
       {
         "subject": "Functions",
