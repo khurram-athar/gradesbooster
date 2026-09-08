@@ -22428,6 +22428,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that an interjection is a short word or phrase that expresses strong feeling, such as wow, oh no, or hooray, and is often followed by an exclamation mark.",
         "resourceLabel": "YouTube: Interjections: Showing Strong Feelings",
         "resourceUrl": "https://www.youtube.com/results?search_query=Interjections%3A%20Showing%20Strong%20Feelings%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jsBhTa80qnI",
         "quiz": [
           {
             "q": "What do we call a short word or phrase that expresses strong feeling?",
@@ -22514,6 +22515,17 @@ const curriculum: DayContent[] = [
         "summary": "Students learn and practice basic multiplication facts for the 3 times table and 4 times table, such as 3 times 4 equals 12.",
         "resourceLabel": "YouTube: Multiplication Facts: 3s and 4s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%203s%20and%204s%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc",
+        "videoUrls": [
+          {
+            "label": "Multiply by 3",
+            "url": "https://www.youtube.com/watch?v=t03yW7Oxsoc"
+          },
+          {
+            "label": "Multiply by 4",
+            "url": "https://www.youtube.com/watch?v=LT3t-uLB9qs"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 3 times 4?",
@@ -22594,6 +22606,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the heart is a muscle that pumps blood through the body, delivering oxygen and nutrients to every part, and that exercise helps keep the heart strong.",
         "resourceLabel": "YouTube: The Heart: Pumping Blood Through Our Body",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Heart%3A%20Pumping%20Blood%20Through%20Our%20Body%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rnIUFrx0DjI",
         "quiz": [
           {
             "q": "What organ pumps blood through the body?",
@@ -22680,6 +22693,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that Canada has three levels of government, municipal government that looks after a town or city, provincial government that looks after a province, and federal government that looks after the whole country.",
         "resourceLabel": "YouTube: Levels of Government: Town, Province, and Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Levels%20of%20Government%3A%20Town%2C%20Province%2C%20and%20Country%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uwcMDuSGym4",
         "quiz": [
           {
             "q": "What do we call the level of government that looks after a town or city?",

@@ -17952,8 +17952,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Procedural Writing — How-To Texts",
         "summary": "Grade 6 Language strand: procedural writing gives step-by-step instructions for completing a task, typically using a list of materials, sequential steps, and clear, imperative verbs.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Writing: Procedural Writing — How-To Texts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Writing%20%E2%80%94%20How-To%20Texts%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bvUh3FrhFY8",
         "quiz": [
           {
             "q": "Procedural writing is best described as ___.",
@@ -18012,8 +18013,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Angle Relationships: Complementary, Supplementary, and Vertical Angles",
         "summary": "Grade 6 Math strand: complementary angles sum to 90 degrees, supplementary angles sum to 180 degrees, and vertical angles are formed by intersecting lines and are always equal to each other.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Angle Relationships: Complementary, Supplementary, and Vertical Angles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Angle%20Relationships%3A%20Complementary%2C%20Supplementary%2C%20and%20Vertical%20Angles%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JPjQaELCdC0",
         "quiz": [
           {
             "q": "Two angles are complementary if their measures add up to ___.",
@@ -18072,8 +18074,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Circulatory System: Heart, Blood, and Vessels",
         "summary": "Grade 6 Science strand: the circulatory system, made up of the heart, blood, and blood vessels, transports oxygen and nutrients throughout the body while carrying away waste products.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: The Circulatory System: Heart, Blood, and Vessels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Circulatory%20System%3A%20Heart%2C%20Blood%2C%20and%20Vessels%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Dw0WO2XZ5fM",
         "quiz": [
           {
             "q": "The main function of the circulatory system is to ___.",
@@ -18132,8 +18135,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The Underground Railroad and Its Connection to Canada",
         "summary": "Grade 6 Social Studies strand: the Underground Railroad was a secret network of routes and safe houses that helped enslaved people in the United States escape to freedom, with many settling in British North America (present-day Canada).",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: The Underground Railroad and Its Connection to Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%20and%20Its%20Connection%20to%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MVHASeMqXZ0",
         "quiz": [
           {
             "q": "The Underground Railroad was best described as ___.",
@@ -18198,8 +18202,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Similes, Metaphors, and Personification",
         "summary": "Grade 6 Language strand: a simile compares two things using “like” or “as,” a metaphor states that one thing is another to suggest a comparison, and personification gives human qualities to something non-human.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Similes, Metaphors, and Personification",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Similes%2C%20Metaphors%2C%20and%20Personification%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8MhJP9eDgaQ",
         "quiz": [
           {
             "q": "A simile compares two things using which words?",
@@ -18258,8 +18263,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Least Common Multiple and Greatest Common Factor",
         "summary": "Grade 6 Math strand: the least common multiple (LCM) is the smallest number that is a multiple of two or more numbers, while the greatest common factor (GCF) is the largest number that divides evenly into two or more numbers.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Least Common Multiple and Greatest Common Factor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Least%20Common%20Multiple%20and%20Greatest%20Common%20Factor%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y7Xav-XAhXs",
         "quiz": [
           {
             "q": "The least common multiple of two numbers is ___.",
@@ -18317,8 +18323,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Respiratory System: Breathing and Gas Exchange",
         "summary": "Grade 6 Science strand: the respiratory system brings oxygen into the body and removes carbon dioxide, using the lungs as the main site of gas exchange between air and blood.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: The Respiratory System: Breathing and Gas Exchange",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Respiratory%20System%3A%20Breathing%20and%20Gas%20Exchange%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mOKmjYwfDGU",
         "quiz": [
           {
             "q": "The main function of the respiratory system is to ___.",
@@ -18377,8 +18384,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Treaties and Indigenous-Crown Relations in Canada",
         "summary": "Grade 6 Social Studies strand: treaties are formal agreements made between Indigenous peoples and the Crown, historically involving land, resources, and rights, and they remain an important part of Indigenous-Crown relations in Canada today.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Treaties and Indigenous-Crown Relations in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Treaties%20and%20Indigenous-Crown%20Relations%20in%20Canada%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2rZ3OyK7zz4",
         "quiz": [
           {
             "q": "A treaty between Indigenous peoples and the Crown is best described as ___.",

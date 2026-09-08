@@ -18074,8 +18074,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: The Process (How-To) Essay",
         "summary": "Grade 9 Writing strand: a process essay explains how to complete a task or how something works through a clear sequence of steps, often using transitional words to guide the reader from one stage to the next.",
-        "resourceLabel": "TVO Learn: Grade 9 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "resourceLabel": "YouTube: Writing: The Process (How-To) Essay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Process%20%28How-To%29%20Essay%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Xm2i_bNty0I",
         "quiz": [
           {
             "q": "A process essay primarily explains ___.",
@@ -18134,8 +18135,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Graphing Systems of Linear Inequalities",
         "summary": "Grade 9 Algebra strand: solving a system of linear inequalities involves graphing each inequality on the same coordinate plane and identifying the overlapping shaded region that satisfies every inequality simultaneously.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Graphing Systems of Linear Inequalities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Systems%20of%20Linear%20Inequalities%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FWbcKade3rw",
         "quiz": [
           {
             "q": "The solution to a system of linear inequalities is represented by ___.",
@@ -18194,8 +18196,19 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "The Skeletal and Muscular Systems",
         "summary": "Grade 9 Science Biology strand: the skeletal system provides structural support and protection for the body, while the muscular system works with the skeleton to enable movement through the contraction and relaxation of muscles.",
-        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "resourceLabel": "YouTube: The Skeletal and Muscular Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Skeletal%20and%20Muscular%20Systems%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m26gr04HIVE",
+        "videoUrls": [
+          {
+            "label": "Skeletal System",
+            "url": "https://www.youtube.com/watch?v=m26gr04HIVE"
+          },
+          {
+            "label": "Muscular System",
+            "url": "https://www.youtube.com/watch?v=VVL-8zr2hk4"
+          }
+        ],
         "quiz": [
           {
             "q": "The skeletal system primarily provides the body with ___.",
@@ -18254,8 +18267,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Site and Situation: Why Cities Are Located Where They Are",
         "summary": "Grade 9 Social Studies (Geography) strand: a city’s site refers to its exact physical location and local features, while its situation refers to its position relative to surrounding regions, and both factors influence why cities develop where they do.",
-        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "resourceLabel": "YouTube: Site and Situation: Why Cities Are Located Where They Are",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Site%20and%20Situation%3A%20Why%20Cities%20Are%20Located%20Where%20They%20Are%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ENva1tPb8og",
         "quiz": [
           {
             "q": "A city’s site refers to ___.",
@@ -18319,8 +18333,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Semicolons, Colons, and Complex Punctuation",
         "summary": "Grade 9 Writing strand: a semicolon joins two closely related independent clauses without a coordinating conjunction, while a colon introduces a list, explanation, or example following a complete sentence.",
-        "resourceLabel": "TVO Learn: Grade 9 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "resourceLabel": "YouTube: Grammar: Semicolons, Colons, and Complex Punctuation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Semicolons%2C%20Colons%2C%20and%20Complex%20Punctuation%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xHa5tWKkvd4",
         "quiz": [
           {
             "q": "A semicolon is used to ___.",
@@ -18379,8 +18394,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "The Discriminant and the Nature of Roots",
         "summary": "Grade 9 Algebra strand: in a quadratic equation, the discriminant, calculated as b squared minus 4ac, determines whether the equation has two real roots, one repeated real root, or no real roots.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: The Discriminant and the Nature of Roots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Discriminant%20and%20the%20Nature%20of%20Roots%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n4riwmh-9Xw",
         "quiz": [
           {
             "q": "The discriminant of a quadratic equation is calculated using the formula ___.",
@@ -18440,6 +18456,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: refrigerators and heat pumps do not create cold directly, but instead use a circulating refrigerant fluid and a compressor to absorb heat from one area and release it into another, effectively moving heat from a cooler space to a warmer one using energy input.",
         "resourceLabel": "YouTube: Physics: How Refrigerators and Heat Pumps Move Heat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20How%20Refrigerators%20and%20Heat%20Pumps%20Move%20Heat%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=o3yTt2JKg2s",
         "quiz": [
           {
             "q": "What do refrigerators and heat pumps primarily do?",

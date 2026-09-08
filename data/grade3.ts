@@ -18117,8 +18117,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Multiple-Meaning Words",
         "summary": "Grade 3 Language strand: a multiple-meaning word is a single word that has more than one meaning, such as “bat,” which can mean a flying animal or equipment used to hit a ball.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Vocabulary: Multiple-Meaning Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Multiple-Meaning%20Words%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cl4Q_HO9KbQ",
         "quiz": [
           {
             "q": "A multiple-meaning word is a single word that has ___.",
@@ -18177,8 +18178,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Geometry: Classifying Triangles by Side Length",
         "summary": "Grade 3 Math strand: triangles can be classified by their side lengths as equilateral, with three equal sides, isosceles, with two equal sides, or scalene, with no equal sides.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Geometry: Classifying Triangles by Side Length",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Classifying%20Triangles%20by%20Side%20Length%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mLeNaZcy-hE",
         "quiz": [
           {
             "q": "A triangle with three equal sides is called ___.",
@@ -18237,8 +18239,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Fossils: Clues to the Past",
         "summary": "Grade 3 Science strand: a fossil is the preserved remains or trace of a living thing from long ago, and scientists study fossils to learn what plants and animals were like in the distant past.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Fossils: Clues to the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Fossils%3A%20Clues%20to%20the%20Past%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HubmDAQSo64",
         "quiz": [
           {
             "q": "A fossil is the preserved remains or trace of a living thing from ___.",
@@ -18297,8 +18300,19 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: Ontario’s Mining and Forestry Industries",
         "summary": "Grade 3 Social Studies strand: mining and forestry are important industries in Ontario, providing minerals like nickel and gold, and wood products, that support jobs and the province’s economy.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Ontario’s Mining and Forestry Industries",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ontario%E2%80%99s%20Mining%20and%20Forestry%20Industries%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aFF8k7bJ_80",
+        "videoUrls": [
+          {
+            "label": "Mining",
+            "url": "https://www.youtube.com/watch?v=aFF8k7bJ_80"
+          },
+          {
+            "label": "Forestry",
+            "url": "https://www.youtube.com/watch?v=0zaj18MSZpU"
+          }
+        ],
         "quiz": [
           {
             "q": "Mining and forestry are important industries in Ontario that support jobs and the province’s ___.",

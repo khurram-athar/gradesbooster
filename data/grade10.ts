@@ -17887,8 +17887,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Reading: Motif and Recurring Imagery",
         "summary": "Grade 10 English strand: a motif is a recurring element, image, or idea that appears throughout a text, reinforcing a story’s themes and adding layers of meaning through repetition.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Reading: Motif and Recurring Imagery",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Motif%20and%20Recurring%20Imagery%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sVPtq5G4woc",
         "quiz": [
           {
             "q": "A motif is best described as a recurring ___.",
@@ -17947,8 +17948,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Algebra: Direct and Partial Variation",
         "summary": "Grade 10 Algebra strand (extension): direct variation describes a relationship where one quantity is a constant multiple of another, expressed as y = kx, while partial variation includes an additional constant term, expressed as y = kx + b.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Algebra: Direct and Partial Variation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Direct%20and%20Partial%20Variation%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hNgLm4Q1IS8",
         "quiz": [
           {
             "q": "Direct variation describes a relationship expressed in the form ___.",
@@ -18007,8 +18009,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Biology: The Circulatory and Respiratory Systems",
         "summary": "Grade 10 Biology strand: the circulatory system transports oxygen, nutrients, and waste throughout the body using the heart and blood vessels, working closely with the respiratory system, which exchanges oxygen and carbon dioxide between the body and the environment.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Biology: The Circulatory and Respiratory Systems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20The%20Circulatory%20and%20Respiratory%20Systems%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9fxm85Fy4sQ",
         "quiz": [
           {
             "q": "The circulatory system primarily transports oxygen, nutrients, and waste using the heart and ___.",
@@ -18067,8 +18070,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "The Conscription Crisis of 1917",
         "summary": "Grade 10 History strand: the 1917 Conscription Crisis erupted when the federal government introduced mandatory military service to address wartime troop shortages, a decision that deeply divided English and French Canada and strained national unity.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Conscription Crisis of 1917",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Conscription%20Crisis%20of%201917%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vNZFLEQJKho",
         "quiz": [
           {
             "q": "The Conscription Crisis took place in which year?",
@@ -18132,8 +18136,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Grammar: Sentence Fragments and Run-On Sentences",
         "summary": "Grade 10 English strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, while a run-on sentence improperly joins two or more independent clauses without correct punctuation or conjunctions.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Grammar: Sentence Fragments and Run-On Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Fragments%20and%20Run-On%20Sentences%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GJZzAaexLd4",
         "quiz": [
           {
             "q": "A sentence fragment is best described as a group of words that ___.",
@@ -18252,8 +18257,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Physics: Static Electricity and Electric Charge",
         "summary": "Grade 10 Physics strand: static electricity results from an imbalance of electric charge on an object’s surface, typically caused by the transfer of electrons through friction, and objects with like charges repel while objects with opposite charges attract.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Physics: Static Electricity and Electric Charge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Static%20Electricity%20and%20Electric%20Charge%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Vrh5FeGUTJA",
         "quiz": [
           {
             "q": "Static electricity results from an imbalance of ___ on an object’s surface.",
@@ -18312,8 +18318,9 @@ const curriculum: DayContent[] = [
         "subject": "History",
         "title": "Growing Canadian Autonomy: The Chanak Affair and the Statute of Westminster",
         "summary": "Grade 10 History strand: Canada’s refusal to automatically support Britain during the 1922 Chanak Affair and the 1931 Statute of Westminster, which granted Canada full legal independence in domestic and foreign affairs, marked key steps in Canada’s growing autonomy from Britain.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: Growing Canadian Autonomy: The Chanak Affair and the Statute of Westminster",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Growing%20Canadian%20Autonomy%3A%20The%20Chanak%20Affair%20and%20the%20Statute%20of%20Westminster%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kg4yBQjr9Wk",
         "quiz": [
           {
             "q": "The Chanak Affair took place in which year?",

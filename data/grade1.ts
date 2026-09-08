@@ -22122,6 +22122,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that when the letter r follows a vowel, it changes the vowel sound, as in er in fern, ir in bird, and ur in turn, which often sound alike.",
         "resourceLabel": "YouTube: R-Controlled Vowels: er, ir, ur",
         "resourceUrl": "https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20er%2C%20ir%2C%20ur%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iIQ4GvTShiw",
         "quiz": [
           {
             "q": "Which word has the er sound?",
@@ -22207,6 +22208,7 @@ const curriculum: DayContent[] = [
         "summary": "Students solve subtraction sentences with a missing number, such as 9 minus what number equals 4, using known facts and counting strategies.",
         "resourceLabel": "YouTube: Missing Number Subtraction Sentences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Number%20Subtraction%20Sentences%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8Ss9GezqBCc",
         "quiz": [
           {
             "q": "What number is missing: 9 minus ___ equals 4?",
@@ -22290,6 +22292,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how the weather, leaves, and daylight change as summer turns to fall, and how animals and people get ready for the change.",
         "resourceLabel": "YouTube: Seasonal Changes: Fall",
         "resourceUrl": "https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Fall%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ubLe26x_2pI",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -22350,6 +22353,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a volunteer is someone who helps others without being paid, such as helping clean a park or reading to younger children.",
         "resourceLabel": "YouTube: Volunteers: Helping Without Pay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Volunteers%3A%20Helping%20Without%20Pay%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8KxwtJH6NSo",
         "quiz": [
           {
             "q": "What is a volunteer?",

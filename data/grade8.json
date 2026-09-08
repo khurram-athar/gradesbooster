@@ -17931,8 +17931,19 @@
         "subject": "Language",
         "title": "Writing: The Formal Business Letter and Email",
         "summary": "Grade 8 Writing strand: a formal business letter or email follows a professional structure — a clear subject line or heading, formal greeting, concise body, and polite closing — appropriate for communicating with an organization or unfamiliar recipient.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Writing: The Formal Business Letter and Email",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Formal%20Business%20Letter%20and%20Email%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gMMaDoBacoU",
+        "videoUrls": [
+          {
+            "label": "Business Letter",
+            "url": "https://www.youtube.com/watch?v=gMMaDoBacoU"
+          },
+          {
+            "label": "Formal Email",
+            "url": "https://www.youtube.com/watch?v=r5M4_fIlid8"
+          }
+        ],
         "quiz": [
           {
             "q": "A formal business letter typically begins with ___.",
@@ -17991,8 +18002,9 @@
         "subject": "Math",
         "title": "Algebra: Solving Systems of Equations by Graphing",
         "summary": "Grade 8 Math strand: solving a system of linear equations by graphing involves plotting both equations on the same coordinate plane, where the point of intersection represents the solution that satisfies both equations.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: Algebra: Solving Systems of Equations by Graphing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Systems%20of%20Equations%20by%20Graphing%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dBzrA1fuHP0",
         "quiz": [
           {
             "q": "Solving a system of equations by graphing involves ___.",
@@ -18051,8 +18063,9 @@
         "subject": "Science",
         "title": "Chemistry: Elements, Compounds, and Mixtures",
         "summary": "Grade 8 Science strand: matter can be classified as an element, a pure substance made of only one type of atom, a compound, two or more elements chemically combined, or a mixture, two or more substances physically combined without a fixed ratio.",
-        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Chemistry: Elements, Compounds, and Mixtures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Elements%2C%20Compounds%2C%20and%20Mixtures%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DZ6Ap8Zyb9w",
         "quiz": [
           {
             "q": "An element is a pure substance made of ___.",
@@ -18111,8 +18124,9 @@
         "subject": "History",
         "title": "Canada and the South African (Boer) War",
         "summary": "Grade 8 History strand: Canada sent volunteer troops to fight alongside Britain in the South African War of 1899-1902, marking the country’s first overseas military commitment and sparking early debate over Canada’s independence from British foreign policy.",
-        "resourceLabel": "TVO Learn: Grade 8 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "resourceLabel": "YouTube: Canada and the South African (Boer) War",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20the%20South%20African%20%28Boer%29%20War%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ynBGT8rRaj0",
         "quiz": [
           {
             "q": "The South African War, also known as the Boer War, took place from ___.",
@@ -18178,6 +18192,7 @@
         "summary": "Students learn to distinguish a text's topic from its theme, identifying the underlying message or insight about life that a story conveys through its characters, conflicts, and events.",
         "resourceLabel": "YouTube: Reading: Identifying and Analyzing Theme",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Identifying%20and%20Analyzing%20Theme%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MAu3e5GZo4k",
         "topic": "Reading Comprehension & Strategies",
         "quiz": [
           {
@@ -18236,8 +18251,9 @@
         "subject": "Math",
         "title": "Geometry: Volume and Surface Area of Composite Figures",
         "summary": "Grade 8 Math strand: a composite figure is made by combining two or more simple three-dimensional shapes, and its volume or surface area can be found by calculating each individual shape’s measurement and combining the results.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: Geometry: Volume and Surface Area of Composite Figures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Volume%20and%20Surface%20Area%20of%20Composite%20Figures%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9JcQBBnkrg8",
         "quiz": [
           {
             "q": "A composite figure is a three-dimensional shape formed by ___.",
@@ -18296,8 +18312,19 @@
         "subject": "Science",
         "title": "Earth and Space: Earth’s Internal Layers and Heat Transfer",
         "summary": "Grade 8 Science strand: Earth is composed of distinct internal layers — the crust, mantle, outer core, and inner core — and heat generated in the core drives convection currents in the mantle that influence processes at the surface.",
-        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Earth and Space: Earth’s Internal Layers and Heat Transfer",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20and%20Space%3A%20Earth%E2%80%99s%20Internal%20Layers%20and%20Heat%20Transfer%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=N1DIn_xwvdo",
+        "videoUrls": [
+          {
+            "label": "Earth's Internal Layers",
+            "url": "https://www.youtube.com/watch?v=N1DIn_xwvdo"
+          },
+          {
+            "label": "Heat Transfer",
+            "url": "https://www.youtube.com/watch?v=Me60Ti0E_rY"
+          }
+        ],
         "quiz": [
           {
             "q": "Earth’s outermost layer is called the ___.",

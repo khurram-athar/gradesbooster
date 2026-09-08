@@ -18504,8 +18504,9 @@
         "subject": "Language",
         "title": "Grammar: Subject-Verb Agreement",
         "summary": "Grade 5 Language strand: subject-verb agreement means a singular subject takes a singular verb, and a plural subject takes a plural verb, so the two match in a sentence.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Grammar: Subject-Verb Agreement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Subject-Verb%20Agreement%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tySLFboxzyM",
         "quiz": [
           {
             "q": "Subject-verb agreement means the subject and verb in a sentence must ___.",
@@ -18564,8 +18565,9 @@
         "subject": "Math",
         "title": "Long Division: Interpreting Remainders",
         "summary": "Grade 5 Math strand: when a division problem does not divide evenly, the leftover amount is called the remainder, and how it is interpreted depends on the real-world context of the problem.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Long Division: Interpreting Remainders",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Long%20Division%3A%20Interpreting%20Remainders%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=k5l9E5dSJkM",
         "quiz": [
           {
             "q": "A remainder is the amount left over when a number ___.",
@@ -18624,8 +18626,19 @@
         "subject": "Science",
         "title": "Simple Machines: The Wheel and Axle and the Inclined Plane",
         "summary": "Grade 5 Science strand: a wheel and axle reduces the force needed to move an object by rotating together, while an inclined plane is a sloped surface that reduces the force needed to raise an object.",
-        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Simple Machines: The Wheel and Axle and the Inclined Plane",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20The%20Wheel%20and%20Axle%20and%20the%20Inclined%20Plane%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vYoWCn5r3rQ",
+        "videoUrls": [
+          {
+            "label": "Wheel and Axle",
+            "url": "https://www.youtube.com/watch?v=vYoWCn5r3rQ"
+          },
+          {
+            "label": "Inclined Plane",
+            "url": "https://www.youtube.com/watch?v=5c4J_PW9wsg"
+          }
+        ],
         "quiz": [
           {
             "q": "A wheel and axle reduces the force needed to move an object by ___.",
@@ -18684,8 +18697,9 @@
         "subject": "SocialStudies",
         "title": "Bilingualism and Canada’s Official Languages",
         "summary": "Grade 5 Social Studies strand: Canada has two official languages, English and French, and government services at the federal level are available in both languages.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Bilingualism and Canada’s Official Languages",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bilingualism%20and%20Canada%E2%80%99s%20Official%20Languages%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
         "quiz": [
           {
             "q": "Canada’s two official languages are ___.",
@@ -18750,8 +18764,9 @@
         "subject": "Language",
         "title": "Writing: Writing a Diary Entry from a Character’s Perspective",
         "summary": "Grade 5 Language strand: a diary entry written from a character’s perspective uses first-person voice to express that character’s thoughts, feelings, and experiences about events in a story.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Writing: Writing a Diary Entry from a Character’s Perspective",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Diary%20Entry%20from%20a%20Character%E2%80%99s%20Perspective%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fTJSl6bw3qk",
         "quiz": [
           {
             "q": "A diary entry written from a character’s perspective is written in ___.",
@@ -18810,8 +18825,19 @@
         "subject": "Math",
         "title": "Comparing and Ordering Decimals",
         "summary": "Grade 5 Math strand: comparing and ordering decimals involves lining up the decimal points and comparing digits from left to right, starting with the largest place value.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Comparing and Ordering Decimals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20and%20Ordering%20Decimals%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nhLZcvfdgqs",
+        "videoUrls": [
+          {
+            "label": "Comparing Decimals",
+            "url": "https://www.youtube.com/watch?v=nhLZcvfdgqs"
+          },
+          {
+            "label": "Ordering Decimals",
+            "url": "https://www.youtube.com/watch?v=YWzVA5h94T0"
+          }
+        ],
         "quiz": [
           {
             "q": "When comparing decimals, it helps to first ___.",
@@ -18870,8 +18896,9 @@
         "subject": "Science",
         "title": "Electrical Conductors and Insulators",
         "summary": "Grade 5 Science strand: an electrical conductor allows electric current to pass through it easily, such as metal, while an insulator resists the flow of electric current, such as rubber or plastic.",
-        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Electrical Conductors and Insulators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electrical%20Conductors%20and%20Insulators%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qZjDMQbn3a0",
         "quiz": [
           {
             "q": "An electrical conductor is a material that ___.",
@@ -18930,8 +18957,9 @@
         "subject": "SocialStudies",
         "title": "The Role of the Governor General",
         "summary": "Grade 5 Social Studies strand: the Governor General is the representative of the Crown in Canada, performing ceremonial duties and formally approving new laws passed by Parliament.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: The Role of the Governor General",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Governor%20General%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jsPOHWSZuHg",
         "quiz": [
           {
             "q": "The Governor General is the representative of ___ in Canada.",

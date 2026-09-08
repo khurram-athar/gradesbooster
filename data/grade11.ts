@@ -17929,8 +17929,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Poetry: The Dramatic Monologue — Voice and Persona",
         "summary": "Grade 11 English strand: a dramatic monologue is a poem spoken entirely in the voice of a single fictional or historical speaker addressing a silent listener, revealing that speaker’s character, motives, and blind spots through what they say and how they say it.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Poetry: The Dramatic Monologue — Voice and Persona",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20The%20Dramatic%20Monologue%20%E2%80%94%20Voice%20and%20Persona%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ferWxPUN3ig",
         "quiz": [
           {
             "q": "A dramatic monologue is a poem spoken entirely in the voice of ___.",
@@ -18049,8 +18050,9 @@ const curriculum: DayContent[] = [
         "subject": "Biology",
         "title": "Molecular Biology: DNA Replication, Transcription, and Translation",
         "summary": "Grade 11 Biology strand: DNA replication copies a cell’s genetic material before division, transcription copies a gene’s DNA sequence into messenger RNA, and translation uses that RNA sequence at the ribosome to assemble a specific chain of amino acids into a protein.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Molecular Biology: DNA Replication, Transcription, and Translation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Molecular%20Biology%3A%20DNA%20Replication%2C%20Transcription%2C%20and%20Translation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6gUY5NoX1Lk",
         "quiz": [
           {
             "q": "DNA replication is best described as the process that ___.",
@@ -18109,8 +18111,9 @@ const curriculum: DayContent[] = [
         "subject": "Chemistry",
         "title": "Gas Laws: The Ideal Gas Law and Molar Volume",
         "summary": "Grade 11 Chemistry strand: the ideal gas law, PV = nRT, relates a gas’s pressure, volume, moles, and temperature in a single equation, building on Boyle’s and Charles’s laws, and at standard temperature and pressure one mole of an ideal gas occupies a molar volume of about 22.4 litres.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Gas Laws: The Ideal Gas Law and Molar Volume",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gas%20Laws%3A%20The%20Ideal%20Gas%20Law%20and%20Molar%20Volume%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iaZ96KaQ44c",
         "quiz": [
           {
             "q": "The ideal gas law relates a gas’s pressure, volume, number of moles, and ___.",

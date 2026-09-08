@@ -17864,8 +17864,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Rhetorical Analysis Essay -- Deconstructing Persuasion",
         "summary": "Grade 12 English strand: a rhetorical analysis essay examines how a text persuades its audience, breaking down the writer’s use of ethos, pathos, and logos, along with structural and stylistic choices, to explain how those techniques work rather than whether the argument itself is correct.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Writing: The Rhetorical Analysis Essay -- Deconstructing Persuasion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Rhetorical%20Analysis%20Essay%20--%20Deconstructing%20Persuasion%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FnAR2GtFy-E",
         "quiz": [
           {
             "q": "A rhetorical analysis essay examines how a text ___ its audience.",
@@ -17924,8 +17925,9 @@ const curriculum: DayContent[] = [
         "subject": "AdvancedFunctions",
         "title": "Number Theory: The Euclidean Algorithm and Greatest Common Divisors",
         "summary": "Grade 12 Advanced Functions strand: the Euclidean algorithm efficiently finds the greatest common divisor of two integers by repeatedly replacing the larger number with the remainder of dividing it by the smaller, continuing until a remainder of zero is reached.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Number Theory: The Euclidean Algorithm and Greatest Common Divisors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Theory%3A%20The%20Euclidean%20Algorithm%20and%20Greatest%20Common%20Divisors%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JUzYl1TYMcU",
         "quiz": [
           {
             "q": "The Euclidean algorithm finds the greatest common divisor of two integers by repeatedly replacing the larger number with the ___ of dividing it by the smaller.",
