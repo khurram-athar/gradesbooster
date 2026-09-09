@@ -18195,8 +18195,19 @@
         "subject": "Math",
         "title": "Financial Literacy: Compound Interest and Amortization",
         "summary": "Grade 10 Financial Literacy strand (extension): compound interest is calculated on both the initial principal and the accumulated interest from previous periods, and an amortization schedule breaks down how each loan payment is divided between interest and principal over time.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Compound Interest and Amortization",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Compound%20Interest%20and%20Amortization%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=P182Abv3fOk",
+        "videoUrls": [
+          {
+            "label": "Financial Literacy: Compound Interest and Amortization",
+            "url": "https://www.youtube.com/watch?v=P182Abv3fOk"
+          },
+          {
+            "label": "Amortization Loan Formula",
+            "url": "https://www.youtube.com/watch?v=lkNJvsy0qU8"
+          }
+        ],
         "quiz": [
           {
             "q": "Compound interest is calculated based on ___.",
@@ -18382,8 +18393,9 @@
         "subject": "English",
         "title": "Writing: Analyzing Diction and Tone",
         "summary": "Grade 10 English strand: diction refers to an author’s specific word choices, while tone is the author’s attitude toward a subject conveyed through that diction, style, and other stylistic choices.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: Analyzing Diction and Tone",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Analyzing%20Diction%20and%20Tone%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NsnRs7WSElU",
         "quiz": [
           {
             "q": "Diction refers to an author’s ___.",
@@ -18442,8 +18454,9 @@
         "subject": "Math",
         "title": "Geometry: Angle of Elevation and Depression",
         "summary": "Grade 10 Trigonometry strand: the angle of elevation is the angle measured upward from a horizontal line of sight to an object above, while the angle of depression is the angle measured downward from a horizontal line of sight to an object below.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Geometry: Angle of Elevation and Depression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Angle%20of%20Elevation%20and%20Depression%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uyKvSe6Ltgs",
         "quiz": [
           {
             "q": "The angle of elevation is measured ___ from a horizontal line of sight.",
@@ -18502,8 +18515,9 @@
         "subject": "Science",
         "title": "Earth Science: Renewable and Non-Renewable Energy Resources",
         "summary": "Grade 10 Earth Science strand: renewable energy resources, such as solar and wind, can be replenished naturally within a short time frame, while non-renewable energy resources, such as coal and oil, take millions of years to form and are being depleted faster than they can be replaced.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Earth Science: Renewable and Non-Renewable Energy Resources",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Science%3A%20Renewable%20and%20Non-Renewable%20Energy%20Resources%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=axCR3uIn3Vs",
         "quiz": [
           {
             "q": "Renewable energy resources are best described as resources that ___.",
@@ -18562,8 +18576,9 @@
         "subject": "History",
         "title": "The 1918-1920 Spanish Flu Pandemic in Canada",
         "summary": "Grade 10 History strand: the Spanish Flu pandemic swept through Canada from 1918 to 1920, killing tens of thousands of people, overwhelming healthcare systems already strained by the First World War, and prompting new public health measures.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The 1918-1920 Spanish Flu Pandemic in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%201918-1920%20Spanish%20Flu%20Pandemic%20in%20Canada%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gcxzSwVZxks",
         "quiz": [
           {
             "q": "The Spanish Flu pandemic affected Canada primarily during which years?",

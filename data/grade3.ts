@@ -18377,8 +18377,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing a Comic Strip",
         "summary": "Grade 3 Language strand: a comic strip tells a story using a sequence of small pictures called panels, often combined with short dialogue in speech bubbles to show what characters are saying.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Writing: Writing a Comic Strip",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Comic%20Strip%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ufOXBuGhVWg",
         "quiz": [
           {
             "q": "A comic strip tells a story using a sequence of small pictures called ___.",
@@ -18437,8 +18438,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Patterning: Input-Output Tables",
         "summary": "Grade 3 Math strand: an input-output table shows a set of starting numbers, called inputs, and the numbers you get after applying the same rule to each one, called outputs.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Patterning: Input-Output Tables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Patterning%3A%20Input-Output%20Tables%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=z2IBSAuImyk",
         "quiz": [
           {
             "q": "An input-output table shows starting numbers, called inputs, and the numbers you get after applying the same rule, called ___.",
@@ -18497,8 +18499,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Volcanoes and Earthquakes",
         "summary": "Grade 3 Science strand: volcanoes and earthquakes are powerful events caused by movements deep within the Earth, and studying them helps scientists understand how the Earth’s surface can change quickly.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Volcanoes and Earthquakes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Volcanoes%20and%20Earthquakes%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VFyb3rhjxtg",
         "quiz": [
           {
             "q": "Volcanoes and earthquakes are powerful events caused by movements deep within the ___.",
@@ -18557,8 +18560,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Social Studies: The Great Lakes: Shipping and Trade",
         "summary": "Grade 3 Social Studies strand: the Great Lakes are used as an important shipping route, allowing large ships to carry goods like grain and steel between cities in Canada and the United States.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Great Lakes: Shipping and Trade",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Great%20Lakes%3A%20Shipping%20and%20Trade%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=po3fu_T14xo",
         "quiz": [
           {
             "q": "The Great Lakes are used as an important ___ route.",

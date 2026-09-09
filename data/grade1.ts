@@ -22443,6 +22443,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that two short sentences can be joined into one longer sentence using the word and, making writing smoother and connecting related ideas.",
         "resourceLabel": "YouTube: Compound Sentences: Joining Two Ideas with And",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Sentences%3A%20Joining%20Two%20Ideas%20with%20And%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5o1Qg_zTyaw",
         "quiz": [
           {
             "q": "Which word can join two short sentences into one longer sentence?",
@@ -22525,6 +22526,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to tell the difference between a whole shape cut into equal parts, where each piece is the same size, and a shape cut into unequal parts, where the pieces are different sizes.",
         "resourceLabel": "YouTube: Fractions: Equal and Unequal Parts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20and%20Unequal%20Parts%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wOIU85lUP0Q",
         "quiz": [
           {
             "q": "If a pizza is cut into two same-size pieces, the parts are ___.",
@@ -22607,6 +22609,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a rainbow appears when sunlight passes through raindrops and splits into many colours, and that rainbows always show the colours in the same order.",
         "resourceLabel": "YouTube: Rainbows: Sunlight and Colours",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rainbows%3A%20Sunlight%20and%20Colours%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lVDSvGz4iJs",
         "quiz": [
           {
             "q": "What is needed to make a rainbow?",
@@ -22695,6 +22698,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that many families move to Canada from other countries to start a new life, and that welcoming newcomers with kindness helps them feel at home in their new community.",
         "resourceLabel": "YouTube: Newcomers to Canada: Welcoming New Families",
         "resourceUrl": "https://www.youtube.com/results?search_query=Newcomers%20to%20Canada%3A%20Welcoming%20New%20Families%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mwqwc8Jydp0",
         "quiz": [
           {
             "q": "What is a newcomer?",

@@ -18114,8 +18114,9 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: Historiographic Metafiction -- Fiction That Questions History",
         "summary": "Grade 12 English strand: historiographic metafiction is fiction that self-consciously blends invented narrative with documented historical events, drawing attention to its own constructed nature to question how official histories are written, whose voices they include, and whose they leave out.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literature: Historiographic Metafiction -- Fiction That Questions History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Historiographic%20Metafiction%20--%20Fiction%20That%20Questions%20History%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ED7veD_N4Nk",
         "quiz": [
           {
             "q": "Historiographic metafiction self-consciously blends invented narrative with documented ___ events.",
@@ -18176,6 +18177,7 @@ const curriculum: DayContent[] = [
         "summary": "Students are introduced to Euler's number e, the natural exponential function e^x, and its inverse the natural logarithm ln(x), and relate the two as inverse functions.",
         "resourceLabel": "YouTube: The Natural Logarithm and the Function e^x",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Natural%20Logarithm%20and%20the%20Function%20e%5Ex%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=daUlTsnCNRQ",
         "topic": "Functions: Exponential & Logarithmic",
         "quiz": [
           {
@@ -18234,8 +18236,9 @@ const curriculum: DayContent[] = [
         "subject": "Calculus",
         "title": "Calculus: Simpson’s Rule -- A Refined Method of Numerical Integration",
         "summary": "Grade 12 Calculus strand: Simpson’s Rule approximates a definite integral by fitting parabolic curves through successive groups of points on a function, generally producing a more accurate estimate of the area under a curve than the Trapezoid Rule for the same number of subintervals.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "resourceLabel": "YouTube: Calculus: Simpson’s Rule -- A Refined Method of Numerical Integration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Simpson%E2%80%99s%20Rule%20--%20A%20Refined%20Method%20of%20Numerical%20Integration%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aY6Y66cc4rE",
         "quiz": [
           {
             "q": "Simpson’s Rule approximates a definite integral by fitting ___ curves through successive groups of points on a function.",
@@ -18294,8 +18297,19 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "Physics: Antimatter and Pair Production",
         "summary": "Grade 12 Physics strand: antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric charge, and pair production is a process in which a sufficiently energetic photon converts into a particle-antiparticle pair, directly demonstrating the equivalence of energy and mass.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: Antimatter and Pair Production",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Antimatter%20and%20Pair%20Production%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lo8NmoDL9T8",
+        "videoUrls": [
+          {
+            "label": "Physics: Antimatter and Pair Production",
+            "url": "https://www.youtube.com/watch?v=Lo8NmoDL9T8"
+          },
+          {
+            "label": "Annihilation and Pair Production",
+            "url": "https://www.youtube.com/watch?v=LpngZPWlZAc"
+          }
+        ],
         "quiz": [
           {
             "q": "Antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric ___.",
@@ -18419,8 +18433,9 @@ const curriculum: DayContent[] = [
         "subject": "AdvancedFunctions",
         "title": "Statistics: Hypothesis Testing and the P-Value",
         "summary": "Grade 12 Advanced Functions strand: hypothesis testing is a statistical method for evaluating whether observed data provide enough evidence to reject an assumed default claim, using a p-value to quantify how likely such data would be if that default claim were actually true.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Statistics: Hypothesis Testing and the P-Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Hypothesis%20Testing%20and%20the%20P-Value%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KS6KEWaoOOE",
         "quiz": [
           {
             "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
@@ -18479,8 +18494,9 @@ const curriculum: DayContent[] = [
         "subject": "Calculus",
         "title": "Calculus: The Bisection Method -- Root-Finding by Interval Halving",
         "summary": "Grade 12 Calculus strand: the Bisection Method locates a root of a continuous function by repeatedly halving an interval known to contain a sign change, guaranteeing convergence toward the root as the interval narrows, though typically more slowly than Newton’s Method.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "resourceLabel": "YouTube: Calculus: The Bisection Method -- Root-Finding by Interval Halving",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Bisection%20Method%20--%20Root-Finding%20by%20Interval%20Halving%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mzQFGOvH-mk",
         "quiz": [
           {
             "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
@@ -18538,8 +18554,9 @@ const curriculum: DayContent[] = [
         "subject": "Physics",
         "title": "Physics: Cherenkov Radiation -- Faster Than Light in a Medium",
         "summary": "Grade 12 Physics strand: Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium, such as water, at a speed exceeding the speed of light within that specific medium, though still slower than light’s speed in a vacuum.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: Cherenkov Radiation -- Faster Than Light in a Medium",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Cherenkov%20Radiation%20--%20Faster%20Than%20Light%20in%20a%20Medium%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Yjx0BSXa0Ks",
         "quiz": [
           {
             "q": "Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium at a speed exceeding the speed of ___ within that specific medium.",

@@ -18425,8 +18425,9 @@
         "subject": "Language",
         "title": "Vocabulary: Etymology and Word Origins",
         "summary": "Grade 7 Language strand: etymology is the study of where words come from and how their meanings have changed over time, often tracing roots back to languages such as Latin or Greek.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Vocabulary: Etymology and Word Origins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Etymology%20and%20Word%20Origins%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jWyX8vl6kMs",
         "quiz": [
           {
             "q": "Etymology is the study of ___.",
@@ -18485,8 +18486,19 @@
         "subject": "Math",
         "title": "Congruence and Symmetry in 2D Shapes",
         "summary": "Grade 7 Math strand: congruent shapes are identical in size and shape, and a shape has line symmetry if it can be folded along a line so both halves match exactly.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Congruence and Symmetry in 2D Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Congruence%20and%20Symmetry%20in%202D%20Shapes%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_-4aFZxaj_g",
+        "videoUrls": [
+          {
+            "label": "Congruence and Symmetry in 2D Shapes",
+            "url": "https://www.youtube.com/watch?v=_-4aFZxaj_g"
+          },
+          {
+            "label": "Math Antics - Symmetry",
+            "url": "https://www.youtube.com/watch?v=QHq3CSoal0I"
+          }
+        ],
         "quiz": [
           {
             "q": "Two shapes are congruent if they are ___.",
@@ -18545,8 +18557,9 @@
         "subject": "Science",
         "title": "Adaptations and Natural Selection: An Introduction",
         "summary": "Grade 7 Science strand: an adaptation is a trait that helps an organism survive in its environment, and natural selection is the process by which organisms with helpful adaptations are more likely to survive and reproduce.",
-        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Adaptations and Natural Selection: An Introduction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adaptations%20and%20Natural%20Selection%3A%20An%20Introduction%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7VM9YxmULuo",
         "quiz": [
           {
             "q": "An adaptation is a trait that ___.",
@@ -18607,6 +18620,7 @@
         "summary": "Grade 4 Social Studies strand: countries often join trade organizations or sign agreements to set shared rules for buying and selling goods internationally, helping trade run smoothly.",
         "resourceLabel": "YouTube: Social Studies: Global Trade Organizations and Agreements",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Global%20Trade%20Organizations%20and%20Agreements%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=j04P3SBBfAw",
         "quiz": [
           {
             "q": "What do countries often join to set shared rules for international trade?",

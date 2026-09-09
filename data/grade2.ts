@@ -22784,6 +22784,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that persuasive writing tries to convince a reader to agree with an idea or take an action by giving strong reasons and using words like should or must.",
         "resourceLabel": "YouTube: Persuasive Writing: Convincing Your Reader",
         "resourceUrl": "https://www.youtube.com/results?search_query=Persuasive%20Writing%3A%20Convincing%20Your%20Reader%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=M1irs-qY7Uw",
         "quiz": [
           {
             "q": "What is the main goal of persuasive writing?",
@@ -22869,6 +22870,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to find a fraction of a group of objects, such as finding one half of a group of 8 apples by splitting the group into two equal parts.",
         "resourceLabel": "YouTube: Fractions of a Group: Sharing a Set of Objects",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%20of%20a%20Group%3A%20Sharing%20a%20Set%20of%20Objects%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=npQUHL4Ifxs",
         "quiz": [
           {
             "q": "What is one half of a group of 8 apples?",
@@ -22949,6 +22951,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that digestion is the process the body uses to break down food into nutrients, starting in the mouth and continuing through the stomach and intestines.",
         "resourceLabel": "YouTube: How Our Body Digests Food",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Our%20Body%20Digests%20Food%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZBZWgrfZFbU",
         "quiz": [
           {
             "q": "What do we call the process the body uses to break down food?",
@@ -23033,6 +23036,17 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about two important Canadian holidays: Canada Day on July 1st, which celebrates the birthday of Canada, and Remembrance Day on November 11th, when Canadians honour those who served in the armed forces.",
         "resourceLabel": "YouTube: Canadian Holidays: Canada Day and Remembrance Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Holidays%3A%20Canada%20Day%20and%20Remembrance%20Day%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wBjPIXcZBF8",
+        "videoUrls": [
+          {
+            "label": "Canadian Holidays: Canada Day and Remembrance Day",
+            "url": "https://www.youtube.com/watch?v=wBjPIXcZBF8"
+          },
+          {
+            "label": "Canada Day For Kids",
+            "url": "https://www.youtube.com/watch?v=6phjeZ88oX0"
+          }
+        ],
         "quiz": [
           {
             "q": "On what date is Canada Day celebrated?",

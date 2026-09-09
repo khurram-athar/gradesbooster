@@ -18451,8 +18451,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Using a Thesaurus and Dictionary Effectively",
         "summary": "Grade 6 Language strand: a dictionary provides a word’s definition, pronunciation, and part of speech, while a thesaurus offers synonyms and antonyms to help writers choose more precise or varied words.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Vocabulary: Using a Thesaurus and Dictionary Effectively",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Using%20a%20Thesaurus%20and%20Dictionary%20Effectively%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xjd3AwEfRKE",
         "quiz": [
           {
             "q": "A dictionary is a resource that provides a word’s ___.",
@@ -18511,8 +18512,19 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Estimation Strategies for Multi-Step Problems",
         "summary": "Grade 6 Math strand: estimation strategies, such as rounding numbers before calculating, help predict a reasonable answer to a multi-step problem and check whether a final calculated answer makes sense.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Estimation Strategies for Multi-Step Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimation%20Strategies%20for%20Multi-Step%20Problems%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EvQf38lnAJc",
+        "videoUrls": [
+          {
+            "label": "Estimation Strategies for Multi-Step Problems",
+            "url": "https://www.youtube.com/watch?v=EvQf38lnAJc"
+          },
+          {
+            "label": "Estimating Whole Number Products",
+            "url": "https://www.youtube.com/watch?v=mBWr8c0Lsx4"
+          }
+        ],
         "quiz": [
           {
             "q": "Estimation in math is best described as ___.",
@@ -18570,8 +18582,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "States of Matter and Changes of State",
         "summary": "Grade 6 Science strand: matter exists in states such as solid, liquid, and gas, and changes of state — like melting, freezing, evaporation, and condensation — occur when energy is added to or removed from a substance.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: States of Matter and Changes of State",
+        "resourceUrl": "https://www.youtube.com/results?search_query=States%20of%20Matter%20and%20Changes%20of%20State%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vNvElea-124",
         "quiz": [
           {
             "q": "Which of these is a change of state that occurs when a solid becomes a liquid?",
@@ -18632,6 +18645,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: the Canadian Pacific Railway, completed in 1885, linked the country from coast to coast, encouraging settlement and trade, and helping fulfill a promise made to British Columbia when it joined Confederation.",
         "resourceLabel": "YouTube: Social Studies: The Canadian Pacific Railway — Connecting the Country",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Canadian%20Pacific%20Railway%20%E2%80%94%20Connecting%20the%20Country%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "What did the Canadian Pacific Railway connect?",

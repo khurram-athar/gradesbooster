@@ -18175,8 +18175,9 @@
         "subject": "English",
         "title": "Media Literacy: Data Visualization and Statistical Rhetoric in Reporting",
         "summary": "Grade 11 English strand: journalists and advertisers often use graphs and charts to support a claim, and choices such as a truncated axis, an inconsistent scale, or a cherry-picked time frame can make a data visualization technically accurate yet visually misleading to an unwary reader.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Media Literacy: Data Visualization and Statistical Rhetoric in Reporting",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Data%20Visualization%20and%20Statistical%20Rhetoric%20in%20Reporting%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk",
         "quiz": [
           {
             "q": "A data visualization used in a news report can be technically accurate yet still ___.",
@@ -18296,8 +18297,9 @@
         "subject": "Biology",
         "title": "Taxonomy: Binomial Nomenclature and the Three-Domain System",
         "summary": "Grade 11 Biology strand: binomial nomenclature assigns every species a standardized two-part Latin name consisting of its genus and species, while the three-domain system — Bacteria, Archaea, and Eukarya — organizes all life into broad categories based on fundamental cellular differences.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Taxonomy: Binomial Nomenclature and the Three-Domain System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taxonomy%3A%20Binomial%20Nomenclature%20and%20the%20Three-Domain%20System%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DVouQRAKxYo",
         "quiz": [
           {
             "q": "Binomial nomenclature assigns every species a standardized name consisting of its ___.",
@@ -18356,8 +18358,9 @@
         "subject": "Chemistry",
         "title": "Organic Chemistry: Aromatic Compounds and Benzene Derivatives",
         "summary": "Grade 11 Chemistry strand: aromatic compounds are built around a benzene ring, a stable six-carbon ring with alternating bonds often represented as a delocalized system of electrons, giving these compounds distinct properties from other hydrocarbons and forming the basis of many dyes, medicines, and plastics.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Organic Chemistry: Aromatic Compounds and Benzene Derivatives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Aromatic%20Compounds%20and%20Benzene%20Derivatives%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d86lQloVCf0",
         "quiz": [
           {
             "q": "Aromatic compounds are built around a stable six-carbon ring structure known as a ___.",
@@ -18422,8 +18425,9 @@
         "subject": "English",
         "title": "Independent Reading: Literary Journalism and Creative Non-Fiction",
         "summary": "Grade 11 English strand: literary journalism applies techniques usually associated with fiction, such as scene-setting, dialogue, and a developed narrative voice, to factual reporting, producing creative non-fiction that aims to be both accurate and vivid.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Independent Reading: Literary Journalism and Creative Non-Fiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Literary%20Journalism%20and%20Creative%20Non-Fiction%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RtFci5kE3vk",
         "quiz": [
           {
             "q": "Literary journalism applies techniques usually associated with fiction, such as ___, to factual reporting.",
@@ -18542,8 +18546,9 @@
         "subject": "Biology",
         "title": "Ecology: Keystone Species and Trophic Cascades",
         "summary": "Grade 11 Biology strand: a keystone species has a disproportionately large effect on its ecosystem relative to its abundance, and removing it can trigger a trophic cascade, a chain reaction of population changes that ripples through multiple feeding levels of the food web.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Ecology: Keystone Species and Trophic Cascades",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Keystone%20Species%20and%20Trophic%20Cascades%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hRGg5it5FMI",
         "quiz": [
           {
             "q": "A keystone species is best described as a species that has ___.",
@@ -18601,8 +18606,9 @@
         "subject": "Chemistry",
         "title": "Nuclear Chemistry: Fission, Fusion, and Nuclear Power",
         "summary": "Grade 11 Chemistry strand: nuclear fission splits a heavy atomic nucleus into smaller nuclei, releasing energy that commercial nuclear power plants harness, while nuclear fusion combines light nuclei into a heavier one, releasing even more energy per reaction but requiring extreme conditions to sustain.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Nuclear Chemistry: Fission, Fusion, and Nuclear Power",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Chemistry%3A%20Fission%2C%20Fusion%2C%20and%20Nuclear%20Power%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FU6y1XIADdg",
         "quiz": [
           {
             "q": "Nuclear fission is best described as a process in which a heavy atomic nucleus ___.",

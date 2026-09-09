@@ -882,8 +882,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20and%20Resources%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=YSFR7ByqTps",
         "videoUrls": [
-          {"label": "Energy Transformations", "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"},
-          {"label": "Renewable and Non-Renewable Resources", "url": "https://www.youtube.com/watch?v=H1Vm0W-IP8U"}
+          {
+            "label": "Energy Transformations",
+            "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"
+          },
+          {
+            "label": "Renewable and Non-Renewable Resources",
+            "url": "https://www.youtube.com/watch?v=H1Vm0W-IP8U"
+          }
         ],
         "quiz": [
           {
@@ -1015,9 +1021,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Grammar%20and%20Comprehension%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=7zRih61HCZs",
         "videoUrls": [
-          {"label": "Parts of Speech", "url": "https://www.youtube.com/watch?v=7zRih61HCZs"},
-          {"label": "Sentence Types", "url": "https://www.youtube.com/watch?v=SlU6oo-oHxw"},
-          {"label": "Context Clues", "url": "https://www.youtube.com/watch?v=eHCpJ86XDY4"}
+          {
+            "label": "Parts of Speech",
+            "url": "https://www.youtube.com/watch?v=7zRih61HCZs"
+          },
+          {
+            "label": "Sentence Types",
+            "url": "https://www.youtube.com/watch?v=SlU6oo-oHxw"
+          },
+          {
+            "label": "Context Clues",
+            "url": "https://www.youtube.com/watch?v=eHCpJ86XDY4"
+          }
         ],
         "quiz": [
           {
@@ -1080,9 +1095,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Multiplication%2C%20Division%2C%20and%20Fractions%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=0MqP7aeTszM",
         "videoUrls": [
-          {"label": "Multiplication", "url": "https://www.youtube.com/watch?v=0MqP7aeTszM"},
-          {"label": "Long Division", "url": "https://www.youtube.com/watch?v=6Ij98BwDcOg"},
-          {"label": "Equivalent Fractions", "url": "https://www.youtube.com/watch?v=hnIxLf8KLUY"}
+          {
+            "label": "Multiplication",
+            "url": "https://www.youtube.com/watch?v=0MqP7aeTszM"
+          },
+          {
+            "label": "Long Division",
+            "url": "https://www.youtube.com/watch?v=6Ij98BwDcOg"
+          },
+          {
+            "label": "Equivalent Fractions",
+            "url": "https://www.youtube.com/watch?v=hnIxLf8KLUY"
+          }
         ],
         "quiz": [
           {
@@ -1145,9 +1169,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Structures%2C%20Matter%2C%20and%20Energy%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=MyFRTBisBLA",
         "videoUrls": [
-          {"label": "Forces Acting on Structures", "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"},
-          {"label": "Properties of Matter", "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"},
-          {"label": "Energy Transformations", "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"}
+          {
+            "label": "Forces Acting on Structures",
+            "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"
+          },
+          {
+            "label": "Properties of Matter",
+            "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"
+          },
+          {
+            "label": "Energy Transformations",
+            "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"
+          }
         ],
         "quiz": [
           {
@@ -1210,9 +1243,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Government%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=Bzzu1DDFtxI",
         "videoUrls": [
-          {"label": "Early Encounters and New France", "url": "https://www.youtube.com/watch?v=Bzzu1DDFtxI"},
-          {"label": "First Nations, Métis, and Inuit Peoples", "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"},
-          {"label": "Government in Canada", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"}
+          {
+            "label": "Early Encounters and New France",
+            "url": "https://www.youtube.com/watch?v=Bzzu1DDFtxI"
+          },
+          {
+            "label": "First Nations, Métis, and Inuit Peoples",
+            "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"
+          },
+          {
+            "label": "Government in Canada",
+            "url": "https://www.youtube.com/watch?v=ped-vegY6WA"
+          }
         ],
         "quiz": [
           {
@@ -1839,8 +1881,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=AAY1bsazcgM",
         "videoUrls": [
-          {"label": "Perimeter", "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"},
-          {"label": "Area", "url": "https://www.youtube.com/watch?v=xCdxURXMdFY"}
+          {
+            "label": "Perimeter",
+            "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"
+          },
+          {
+            "label": "Area",
+            "url": "https://www.youtube.com/watch?v=xCdxURXMdFY"
+          }
         ],
         "quiz": [
           {
@@ -2153,8 +2201,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Human%20Body%20and%20Energy%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=0JDCViWGn-0",
         "videoUrls": [
-          {"label": "Human Body Systems", "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"},
-          {"label": "Energy Transformations", "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"}
+          {
+            "label": "Human Body Systems",
+            "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"
+          },
+          {
+            "label": "Energy Transformations",
+            "url": "https://www.youtube.com/watch?v=YSFR7ByqTps"
+          }
         ],
         "quiz": [
           {
@@ -2284,9 +2338,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=MCr_osJSy9w",
         "videoUrls": [
-          {"label": "Fact vs. Opinion", "url": "https://www.youtube.com/watch?v=MCr_osJSy9w"},
-          {"label": "Figurative Language", "url": "https://www.youtube.com/watch?v=YlfzDvrhzuU"},
-          {"label": "Paragraph Structure", "url": "https://www.youtube.com/watch?v=kw9GOUqSc5M"}
+          {
+            "label": "Fact vs. Opinion",
+            "url": "https://www.youtube.com/watch?v=MCr_osJSy9w"
+          },
+          {
+            "label": "Figurative Language",
+            "url": "https://www.youtube.com/watch?v=YlfzDvrhzuU"
+          },
+          {
+            "label": "Paragraph Structure",
+            "url": "https://www.youtube.com/watch?v=kw9GOUqSc5M"
+          }
         ],
         "quiz": [
           {
@@ -2349,9 +2412,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=KG6ILNOiMgM",
         "videoUrls": [
-          {"label": "Decimal Place Value", "url": "https://www.youtube.com/watch?v=KG6ILNOiMgM"},
-          {"label": "Area and Perimeter", "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"},
-          {"label": "Volume", "url": "https://www.youtube.com/watch?v=NohkEnzkaN0"}
+          {
+            "label": "Decimal Place Value",
+            "url": "https://www.youtube.com/watch?v=KG6ILNOiMgM"
+          },
+          {
+            "label": "Area and Perimeter",
+            "url": "https://www.youtube.com/watch?v=AAY1bsazcgM"
+          },
+          {
+            "label": "Volume",
+            "url": "https://www.youtube.com/watch?v=NohkEnzkaN0"
+          }
         ],
         "quiz": [
           {
@@ -2414,9 +2486,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=MyFRTBisBLA",
         "videoUrls": [
-          {"label": "Forces Acting on Structures", "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"},
-          {"label": "Properties of Matter", "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"},
-          {"label": "Human Body Systems", "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"}
+          {
+            "label": "Forces Acting on Structures",
+            "url": "https://www.youtube.com/watch?v=MyFRTBisBLA"
+          },
+          {
+            "label": "Properties of Matter",
+            "url": "https://www.youtube.com/watch?v=t8a2Ys8a6r4"
+          },
+          {
+            "label": "Human Body Systems",
+            "url": "https://www.youtube.com/watch?v=0JDCViWGn-0"
+          }
         ],
         "quiz": [
           {
@@ -2479,9 +2560,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=WDbjZm3RD3E",
         "videoUrls": [
-          {"label": "First Nations, Métis, and Inuit Peoples", "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"},
-          {"label": "Government in Canada", "url": "https://www.youtube.com/watch?v=ped-vegY6WA"},
-          {"label": "Canada's Physical Regions", "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"}
+          {
+            "label": "First Nations, Métis, and Inuit Peoples",
+            "url": "https://www.youtube.com/watch?v=WDbjZm3RD3E"
+          },
+          {
+            "label": "Government in Canada",
+            "url": "https://www.youtube.com/watch?v=ped-vegY6WA"
+          },
+          {
+            "label": "Canada's Physical Regions",
+            "url": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4"
+          }
         ],
         "quiz": [
           {
@@ -3547,9 +3637,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Idioms%2C%20Word%20Meanings%2C%20and%20Purpose%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=_s_CH4yXXHQ",
         "videoUrls": [
-          {"label": "Idioms", "url": "https://www.youtube.com/watch?v=_s_CH4yXXHQ"},
-          {"label": "Multiple-Meaning Words", "url": "https://www.youtube.com/watch?v=LoOzJRXrCMU"},
-          {"label": "Author's Purpose", "url": "https://www.youtube.com/watch?v=Sr9MU0xuW5M"}
+          {
+            "label": "Idioms",
+            "url": "https://www.youtube.com/watch?v=_s_CH4yXXHQ"
+          },
+          {
+            "label": "Multiple-Meaning Words",
+            "url": "https://www.youtube.com/watch?v=LoOzJRXrCMU"
+          },
+          {
+            "label": "Author's Purpose",
+            "url": "https://www.youtube.com/watch?v=Sr9MU0xuW5M"
+          }
         ],
         "quiz": [
           {
@@ -3612,9 +3711,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Operations%2C%20and%20Fractions%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=ydm2cxacPIM",
         "videoUrls": [
-          {"label": "Prime and Composite Numbers", "url": "https://www.youtube.com/watch?v=ydm2cxacPIM"},
-          {"label": "Order of Operations (BEDMAS)", "url": "https://www.youtube.com/watch?v=dAgfnK528RA"},
-          {"label": "Mixed Numbers and Improper Fractions", "url": "https://www.youtube.com/watch?v=KEmCZGbd4R8"}
+          {
+            "label": "Prime and Composite Numbers",
+            "url": "https://www.youtube.com/watch?v=ydm2cxacPIM"
+          },
+          {
+            "label": "Order of Operations (BEDMAS)",
+            "url": "https://www.youtube.com/watch?v=dAgfnK528RA"
+          },
+          {
+            "label": "Mixed Numbers and Improper Fractions",
+            "url": "https://www.youtube.com/watch?v=KEmCZGbd4R8"
+          }
         ],
         "quiz": [
           {
@@ -3677,9 +3785,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Machines%2C%20Water%20Cycle%2C%20and%20Classification%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=8GHRZabpsQE",
         "videoUrls": [
-          {"label": "Simple and Complex Machines", "url": "https://www.youtube.com/watch?v=8GHRZabpsQE"},
-          {"label": "The Water Cycle", "url": "https://www.youtube.com/watch?v=DoZDDN0fwlM"},
-          {"label": "Classification of Living Things", "url": "https://www.youtube.com/watch?v=SIbFuiCfkr8"}
+          {
+            "label": "Simple and Complex Machines",
+            "url": "https://www.youtube.com/watch?v=8GHRZabpsQE"
+          },
+          {
+            "label": "The Water Cycle",
+            "url": "https://www.youtube.com/watch?v=DoZDDN0fwlM"
+          },
+          {
+            "label": "Classification of Living Things",
+            "url": "https://www.youtube.com/watch?v=SIbFuiCfkr8"
+          }
         ],
         "quiz": [
           {
@@ -3742,9 +3859,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Fur%20Trade%2C%20Underground%20Railroad%2C%20and%20Immigration%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=PPEkKOoSXC0",
         "videoUrls": [
-          {"label": "The Fur Trade", "url": "https://www.youtube.com/watch?v=PPEkKOoSXC0"},
-          {"label": "The Underground Railroad and Canada", "url": "https://www.youtube.com/watch?v=5zmOwgqkcec"},
-          {"label": "Immigration Patterns to Canada", "url": "https://www.youtube.com/watch?v=cX02bJ1pyw4"}
+          {
+            "label": "The Fur Trade",
+            "url": "https://www.youtube.com/watch?v=PPEkKOoSXC0"
+          },
+          {
+            "label": "The Underground Railroad and Canada",
+            "url": "https://www.youtube.com/watch?v=5zmOwgqkcec"
+          },
+          {
+            "label": "Immigration Patterns to Canada",
+            "url": "https://www.youtube.com/watch?v=cX02bJ1pyw4"
+          }
         ],
         "quiz": [
           {
@@ -4811,9 +4937,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Inferences%2C%20Text%20Features%2C%20and%20Persuasion%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=xlYhs7xlH9U",
         "videoUrls": [
-          {"label": "Making Inferences", "url": "https://www.youtube.com/watch?v=xlYhs7xlH9U"},
-          {"label": "Text Features in Nonfiction", "url": "https://www.youtube.com/watch?v=y03gQNA2PgE"},
-          {"label": "Writing a Persuasive Paragraph", "url": "https://www.youtube.com/watch?v=vHBdBi1CIEU"}
+          {
+            "label": "Making Inferences",
+            "url": "https://www.youtube.com/watch?v=xlYhs7xlH9U"
+          },
+          {
+            "label": "Text Features in Nonfiction",
+            "url": "https://www.youtube.com/watch?v=y03gQNA2PgE"
+          },
+          {
+            "label": "Writing a Persuasive Paragraph",
+            "url": "https://www.youtube.com/watch?v=vHBdBi1CIEU"
+          }
         ],
         "quiz": [
           {
@@ -4876,9 +5011,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Fractions%2C%20Ratios%2C%20Grids%2C%20and%20Angles%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=2gFCEY9Hxas",
         "videoUrls": [
-          {"label": "Multiplying Fractions by Whole Numbers", "url": "https://www.youtube.com/watch?v=2gFCEY9Hxas"},
-          {"label": "Ratios", "url": "https://www.youtube.com/watch?v=dD8JsS-TchA"},
-          {"label": "Coordinate Grids", "url": "https://www.youtube.com/watch?v=XvjIrfbJ7CM"}
+          {
+            "label": "Multiplying Fractions by Whole Numbers",
+            "url": "https://www.youtube.com/watch?v=2gFCEY9Hxas"
+          },
+          {
+            "label": "Ratios",
+            "url": "https://www.youtube.com/watch?v=dD8JsS-TchA"
+          },
+          {
+            "label": "Coordinate Grids",
+            "url": "https://www.youtube.com/watch?v=XvjIrfbJ7CM"
+          }
         ],
         "quiz": [
           {
@@ -4941,9 +5085,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Light%2C%20Sound%2C%20Rocks%2C%20and%20Matter%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=DzpHXtnXFCI",
         "videoUrls": [
-          {"label": "Light and Reflection", "url": "https://www.youtube.com/watch?v=DzpHXtnXFCI"},
-          {"label": "Sound and Vibration", "url": "https://www.youtube.com/watch?v=AGjxfx8sy6s"},
-          {"label": "The Rock Cycle", "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"}
+          {
+            "label": "Light and Reflection",
+            "url": "https://www.youtube.com/watch?v=DzpHXtnXFCI"
+          },
+          {
+            "label": "Sound and Vibration",
+            "url": "https://www.youtube.com/watch?v=AGjxfx8sy6s"
+          },
+          {
+            "label": "The Rock Cycle",
+            "url": "https://www.youtube.com/watch?v=VByCLpj-I_s"
+          }
         ],
         "quiz": [
           {
@@ -5006,9 +5159,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Territories%2C%20the%20Arctic%2C%20Provinces%2C%20and%20Rights%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0",
         "videoUrls": [
-          {"label": "Canada's Territories", "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"},
-          {"label": "The Arctic: Geography and Peoples", "url": "https://www.youtube.com/watch?v=0_Il1-U2TRA"},
-          {"label": "Rights and Freedoms in Canada", "url": "https://www.youtube.com/watch?v=YAIM1qzO9_w"}
+          {
+            "label": "Canada's Territories",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          },
+          {
+            "label": "The Arctic: Geography and Peoples",
+            "url": "https://www.youtube.com/watch?v=0_Il1-U2TRA"
+          },
+          {
+            "label": "Rights and Freedoms in Canada",
+            "url": "https://www.youtube.com/watch?v=YAIM1qzO9_w"
+          }
         ],
         "quiz": [
           {
@@ -6076,9 +6238,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Description%2C%20Point%20of%20View%2C%20Transitions%2C%20and%20Genre%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=ttVT7YMtQmo",
         "videoUrls": [
-          {"label": "Descriptive Writing with Sensory Details", "url": "https://www.youtube.com/watch?v=ttVT7YMtQmo"},
-          {"label": "Point of View: First vs. Third Person", "url": "https://www.youtube.com/watch?v=iFaaNuA9LKA"},
-          {"label": "Using Transition Words", "url": "https://www.youtube.com/watch?v=i8FrMVY7xjo"}
+          {
+            "label": "Descriptive Writing with Sensory Details",
+            "url": "https://www.youtube.com/watch?v=ttVT7YMtQmo"
+          },
+          {
+            "label": "Point of View: First vs. Third Person",
+            "url": "https://www.youtube.com/watch?v=iFaaNuA9LKA"
+          },
+          {
+            "label": "Using Transition Words",
+            "url": "https://www.youtube.com/watch?v=i8FrMVY7xjo"
+          }
         ],
         "quiz": [
           {
@@ -6141,9 +6312,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Probability%2C%20Shapes%2C%20Transformations%2C%20and%20Graphs%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=KzfWUEJjG18",
         "videoUrls": [
-          {"label": "Probability", "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"},
-          {"label": "2D Shape Properties and Symmetry", "url": "https://www.youtube.com/watch?v=QHq3CSoal0I"},
-          {"label": "Transformations: Translations and Reflections", "url": "https://www.youtube.com/watch?v=no9Drfcw2Zo"}
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          },
+          {
+            "label": "2D Shape Properties and Symmetry",
+            "url": "https://www.youtube.com/watch?v=QHq3CSoal0I"
+          },
+          {
+            "label": "Transformations: Translations and Reflections",
+            "url": "https://www.youtube.com/watch?v=no9Drfcw2Zo"
+          }
         ],
         "quiz": [
           {
@@ -6206,9 +6386,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Circuits%2C%20Digestion%2C%20Food%20Chains%2C%20and%20Adaptations%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=HOFp8bHTN30",
         "videoUrls": [
-          {"label": "Simple Electrical Circuits", "url": "https://www.youtube.com/watch?v=HOFp8bHTN30"},
-          {"label": "The Digestive System in Depth", "url": "https://www.youtube.com/watch?v=1UvuBYUbFk0"},
-          {"label": "Food Chains and Energy Pyramids", "url": "https://www.youtube.com/watch?v=-oVavgmveyY"}
+          {
+            "label": "Simple Electrical Circuits",
+            "url": "https://www.youtube.com/watch?v=HOFp8bHTN30"
+          },
+          {
+            "label": "The Digestive System in Depth",
+            "url": "https://www.youtube.com/watch?v=1UvuBYUbFk0"
+          },
+          {
+            "label": "Food Chains and Energy Pyramids",
+            "url": "https://www.youtube.com/watch?v=-oVavgmveyY"
+          }
         ],
         "quiz": [
           {
@@ -6271,9 +6460,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Voting%2C%20Great%20Lakes%2C%20Trade%2C%20and%20Local%20Government%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=2aUxNi4c2fk",
         "videoUrls": [
-          {"label": "The Importance of Voting and Elections", "url": "https://www.youtube.com/watch?v=2aUxNi4c2fk"},
-          {"label": "Geography of the Great Lakes", "url": "https://www.youtube.com/watch?v=thliEG0B5BE"},
-          {"label": "Trade Between Canada and Other Countries", "url": "https://www.youtube.com/watch?v=a-yVNNF00r8"}
+          {
+            "label": "The Importance of Voting and Elections",
+            "url": "https://www.youtube.com/watch?v=2aUxNi4c2fk"
+          },
+          {
+            "label": "Geography of the Great Lakes",
+            "url": "https://www.youtube.com/watch?v=thliEG0B5BE"
+          },
+          {
+            "label": "Trade Between Canada and Other Countries",
+            "url": "https://www.youtube.com/watch?v=a-yVNNF00r8"
+          }
         ],
         "quiz": [
           {
@@ -7337,9 +7535,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Comparing%20Texts%2C%20Sequence%2C%20Editing%2C%20and%20Word%20Skills%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=TSPz9YOpLgU",
         "videoUrls": [
-          {"label": "Comparing Texts", "url": "https://www.youtube.com/watch?v=TSPz9YOpLgU"},
-          {"label": "Sequence", "url": "https://www.youtube.com/watch?v=_B_ZHOjUrDs"},
-          {"label": "Editing", "url": "https://www.youtube.com/watch?v=cqebXUsZShU"}
+          {
+            "label": "Comparing Texts",
+            "url": "https://www.youtube.com/watch?v=TSPz9YOpLgU"
+          },
+          {
+            "label": "Sequence",
+            "url": "https://www.youtube.com/watch?v=_B_ZHOjUrDs"
+          },
+          {
+            "label": "Editing",
+            "url": "https://www.youtube.com/watch?v=cqebXUsZShU"
+          }
         ],
         "quiz": [
           {
@@ -7402,9 +7609,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Money%2C%20Patterns%2C%20Rounding%2C%20and%20Composite%20Shapes%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=cYGiipJOiLg",
         "videoUrls": [
-          {"label": "Money", "url": "https://www.youtube.com/watch?v=cYGiipJOiLg"},
-          {"label": "Patterns", "url": "https://www.youtube.com/watch?v=z2IBSAuImyk"},
-          {"label": "Rounding", "url": "https://www.youtube.com/watch?v=m41qWPjSUdw"}
+          {
+            "label": "Money",
+            "url": "https://www.youtube.com/watch?v=cYGiipJOiLg"
+          },
+          {
+            "label": "Patterns",
+            "url": "https://www.youtube.com/watch?v=z2IBSAuImyk"
+          },
+          {
+            "label": "Rounding",
+            "url": "https://www.youtube.com/watch?v=m41qWPjSUdw"
+          }
         ],
         "quiz": [
           {
@@ -7467,9 +7683,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Resources%2C%20Stewardship%2C%20Moon%20Phases%2C%20and%20Ecosystems%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=tUmZ9djDHh8",
         "videoUrls": [
-          {"label": "Resources", "url": "https://www.youtube.com/watch?v=tUmZ9djDHh8"},
-          {"label": "Stewardship", "url": "https://www.youtube.com/watch?v=QSM5N5R9PP4"},
-          {"label": "Moon Phases", "url": "https://www.youtube.com/watch?v=Ie2WRraxdPs"}
+          {
+            "label": "Resources",
+            "url": "https://www.youtube.com/watch?v=tUmZ9djDHh8"
+          },
+          {
+            "label": "Stewardship",
+            "url": "https://www.youtube.com/watch?v=QSM5N5R9PP4"
+          },
+          {
+            "label": "Moon Phases",
+            "url": "https://www.youtube.com/watch?v=Ie2WRraxdPs"
+          }
         ],
         "quiz": [
           {
@@ -7532,9 +7757,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Historical%20Figures%2C%20Rural%2FUrban%20Life%2C%20and%20the%20UN%20grade%205%20educational",
         "videoUrl": "https://www.youtube.com/watch?v=YwiTKzbF85c",
         "videoUrls": [
-          {"label": "Environment", "url": "https://www.youtube.com/watch?v=YwiTKzbF85c"},
-          {"label": "Historical Figures", "url": "https://www.youtube.com/watch?v=J04aoVjtsBo"},
-          {"label": "Rural/Urban Life", "url": "https://www.youtube.com/watch?v=YRxNQPmj1-8"}
+          {
+            "label": "Environment",
+            "url": "https://www.youtube.com/watch?v=YwiTKzbF85c"
+          },
+          {
+            "label": "Historical Figures",
+            "url": "https://www.youtube.com/watch?v=J04aoVjtsBo"
+          },
+          {
+            "label": "Rural/Urban Life",
+            "url": "https://www.youtube.com/watch?v=YRxNQPmj1-8"
+          }
         ],
         "quiz": [
           {
@@ -12583,9 +12817,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=Cvy0A0jAWHU",
         "videoUrls": [
-          {"label": "Fractions", "url": "https://www.youtube.com/watch?v=Cvy0A0jAWHU"},
-          {"label": "Percent", "url": "https://www.youtube.com/watch?v=1rpcVbbdwHI"},
-          {"label": "Integers", "url": "https://www.youtube.com/watch?v=OSfDRqxmXAE"}
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=Cvy0A0jAWHU"
+          },
+          {
+            "label": "Percent",
+            "url": "https://www.youtube.com/watch?v=1rpcVbbdwHI"
+          },
+          {
+            "label": "Integers",
+            "url": "https://www.youtube.com/watch?v=OSfDRqxmXAE"
+          }
         ],
         "quiz": [
           {
@@ -12648,9 +12891,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=_vZ0lefPg_0",
         "videoUrls": [
-          {"label": "Circulatory System", "url": "https://www.youtube.com/watch?v=_vZ0lefPg_0"},
-          {"label": "Nervous System", "url": "https://www.youtube.com/watch?v=KK0TXLObpkU"},
-          {"label": "Friction", "url": "https://www.youtube.com/watch?v=IkmAnLmXENo"}
+          {
+            "label": "Circulatory System",
+            "url": "https://www.youtube.com/watch?v=_vZ0lefPg_0"
+          },
+          {
+            "label": "Nervous System",
+            "url": "https://www.youtube.com/watch?v=KK0TXLObpkU"
+          },
+          {
+            "label": "Friction",
+            "url": "https://www.youtube.com/watch?v=IkmAnLmXENo"
+          }
         ],
         "quiz": [
           {
@@ -15200,9 +15452,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=GJjbq1C0MaA",
         "videoUrls": [
-          {"label": "Integers", "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"},
-          {"label": "Algebra", "url": "https://www.youtube.com/watch?v=OF2GtIinL_s"},
-          {"label": "Data Displays", "url": "https://www.youtube.com/watch?v=hcgThf5mv38"}
+          {
+            "label": "Integers",
+            "url": "https://www.youtube.com/watch?v=GJjbq1C0MaA"
+          },
+          {
+            "label": "Algebra",
+            "url": "https://www.youtube.com/watch?v=OF2GtIinL_s"
+          },
+          {
+            "label": "Data Displays",
+            "url": "https://www.youtube.com/watch?v=hcgThf5mv38"
+          }
         ],
         "quiz": [
           {
@@ -15265,9 +15526,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=PSRJfaAYkW4",
         "videoUrls": [
-          {"label": "Body Systems", "url": "https://www.youtube.com/watch?v=PSRJfaAYkW4"},
-          {"label": "Structures", "url": "https://www.youtube.com/watch?v=x3BlGFwAzZY"},
-          {"label": "Earth Processes", "url": "https://www.youtube.com/watch?v=YUb_d3gxIrQ"}
+          {
+            "label": "Body Systems",
+            "url": "https://www.youtube.com/watch?v=PSRJfaAYkW4"
+          },
+          {
+            "label": "Structures",
+            "url": "https://www.youtube.com/watch?v=x3BlGFwAzZY"
+          },
+          {
+            "label": "Earth Processes",
+            "url": "https://www.youtube.com/watch?v=YUb_d3gxIrQ"
+          }
         ],
         "quiz": [
           {
@@ -15896,7 +16166,10 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
         "videoUrl": "https://www.youtube.com/watch?v=q7QfdKpJgxs",
         "videoUrls": [
-          {"label": "Writing a Book Review", "url": "https://www.youtube.com/watch?v=q7QfdKpJgxs"}
+          {
+            "label": "Writing a Book Review",
+            "url": "https://www.youtube.com/watch?v=q7QfdKpJgxs"
+          }
         ],
         "quiz": [
           {
@@ -17455,8 +17728,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=yPkr_Uhi0zQ",
         "videoUrls": [
-          {"label": "Time Zones", "url": "https://www.youtube.com/watch?v=yPkr_Uhi0zQ"},
-          {"label": "Elapsed Time", "url": "https://www.youtube.com/watch?v=t6xXsxq0shw"}
+          {
+            "label": "Time Zones",
+            "url": "https://www.youtube.com/watch?v=yPkr_Uhi0zQ"
+          },
+          {
+            "label": "Elapsed Time",
+            "url": "https://www.youtube.com/watch?v=t6xXsxq0shw"
+          }
         ],
         "quiz": [
           {
@@ -17647,10 +17926,22 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
         "videoUrl": "https://www.youtube.com/watch?v=6R6-2_8m4Co",
         "videoUrls": [
-          {"label": "Identifying Bias in a Text", "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"},
-          {"label": "Prepositional Phrases", "url": "https://www.youtube.com/watch?v=2diHLxIdRPY"},
-          {"label": "Understanding Flashback", "url": "https://www.youtube.com/watch?v=27swTdNKRy8"},
-          {"label": "Personification and Metaphor", "url": "https://www.youtube.com/watch?v=NegoYIuXoEA"}
+          {
+            "label": "Identifying Bias in a Text",
+            "url": "https://www.youtube.com/watch?v=6R6-2_8m4Co"
+          },
+          {
+            "label": "Prepositional Phrases",
+            "url": "https://www.youtube.com/watch?v=2diHLxIdRPY"
+          },
+          {
+            "label": "Understanding Flashback",
+            "url": "https://www.youtube.com/watch?v=27swTdNKRy8"
+          },
+          {
+            "label": "Personification and Metaphor",
+            "url": "https://www.youtube.com/watch?v=NegoYIuXoEA"
+          }
         ],
         "quiz": [
           {
@@ -17713,9 +18004,18 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=sob2L2gkYvY",
         "videoUrls": [
-          {"label": "Adding and Subtracting Decimals", "url": "https://www.youtube.com/watch?v=sob2L2gkYvY"},
-          {"label": "Prime Factorization", "url": "https://www.youtube.com/watch?v=XBnUWjo3TgM"},
-          {"label": "Congruent and Similar Shapes", "url": "https://www.youtube.com/watch?v=gr3IJ1DmrbU"}
+          {
+            "label": "Adding and Subtracting Decimals",
+            "url": "https://www.youtube.com/watch?v=sob2L2gkYvY"
+          },
+          {
+            "label": "Prime Factorization",
+            "url": "https://www.youtube.com/watch?v=XBnUWjo3TgM"
+          },
+          {
+            "label": "Congruent and Similar Shapes",
+            "url": "https://www.youtube.com/watch?v=gr3IJ1DmrbU"
+          }
         ],
         "quiz": [
           {
@@ -17778,10 +18078,22 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=IgtIdttfGVw",
         "videoUrls": [
-          {"label": "Magnetism and Magnetic Forces", "url": "https://www.youtube.com/watch?v=IgtIdttfGVw"},
-          {"label": "The Layers of the Earth", "url": "https://www.youtube.com/watch?v=PFzTZJHKkZE"},
-          {"label": "Volcanoes: Formation and Types", "url": "https://www.youtube.com/watch?v=sd8cVCtIRO4"},
-          {"label": "The Human Eye and Vision", "url": "https://www.youtube.com/watch?v=NTZkyntqHCA"}
+          {
+            "label": "Magnetism and Magnetic Forces",
+            "url": "https://www.youtube.com/watch?v=IgtIdttfGVw"
+          },
+          {
+            "label": "The Layers of the Earth",
+            "url": "https://www.youtube.com/watch?v=PFzTZJHKkZE"
+          },
+          {
+            "label": "Volcanoes: Formation and Types",
+            "url": "https://www.youtube.com/watch?v=sd8cVCtIRO4"
+          },
+          {
+            "label": "The Human Eye and Vision",
+            "url": "https://www.youtube.com/watch?v=NTZkyntqHCA"
+          }
         ],
         "quiz": [
           {
@@ -17844,10 +18156,22 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
         "videoUrl": "https://www.youtube.com/watch?v=HJV7SbkeC60",
         "videoUrls": [
-          {"label": "Taxes and Government Services", "url": "https://www.youtube.com/watch?v=HJV7SbkeC60"},
-          {"label": "The Invention of Basketball", "url": "https://www.youtube.com/watch?v=rwUR1fEO1us"},
-          {"label": "Canada's Provincial and Territorial Capitals", "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"},
-          {"label": "Canada's National Symbols", "url": "https://www.youtube.com/watch?v=OGv5AqZiG7A"}
+          {
+            "label": "Taxes and Government Services",
+            "url": "https://www.youtube.com/watch?v=HJV7SbkeC60"
+          },
+          {
+            "label": "The Invention of Basketball",
+            "url": "https://www.youtube.com/watch?v=rwUR1fEO1us"
+          },
+          {
+            "label": "Canada's Provincial and Territorial Capitals",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          },
+          {
+            "label": "Canada's National Symbols",
+            "url": "https://www.youtube.com/watch?v=OGv5AqZiG7A"
+          }
         ],
         "quiz": [
           {
@@ -18702,8 +19026,9 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Homophones and Homographs",
         "summary": "Grade 5 Language strand: homophones are words that sound alike but have different spellings and meanings, while homographs are spelled the same but can have different meanings and sometimes different pronunciations.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Vocabulary: Homophones and Homographs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Homophones%20and%20Homographs%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hPTk8-ekJnk",
         "quiz": [
           {
             "q": "Homophones are words that ___.",
@@ -18762,8 +19087,9 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Least Common Multiple and Greatest Common Factor",
         "summary": "Grade 5 Math strand: the least common multiple is the smallest number that two numbers both divide into evenly, while the greatest common factor is the largest number that divides evenly into both numbers.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Least Common Multiple and Greatest Common Factor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Least%20Common%20Multiple%20and%20Greatest%20Common%20Factor%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zvaxUJOv6jM",
         "quiz": [
           {
             "q": "The least common multiple of two numbers is the smallest number that ___.",
@@ -18821,8 +19147,9 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Vertebrates and Invertebrates",
         "summary": "Grade 5 Science strand: vertebrates are animals with a backbone, such as fish and mammals, while invertebrates are animals without a backbone, such as insects and worms.",
-        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Vertebrates and Invertebrates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vertebrates%20and%20Invertebrates%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mRidGna-V4E",
         "quiz": [
           {
             "q": "A vertebrate is an animal that has a ___.",
@@ -18881,8 +19208,9 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "Canada’s Currency and Its Symbols",
         "summary": "Grade 5 Social Studies strand: Canada’s currency includes coins and bills featuring symbols such as the loon on the one-dollar coin, reflecting the country’s history, wildlife, and identity.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Canada’s Currency and Its Symbols",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%E2%80%99s%20Currency%20and%20Its%20Symbols%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GayRX_u4G2Q",
         "quiz": [
           {
             "q": "Canada’s one-dollar coin is nicknamed the ___ because of the bird pictured on it.",

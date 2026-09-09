@@ -18449,8 +18449,9 @@
         "subject": "Language",
         "title": "Media Literacy: Fact-Checking and Source Verification",
         "summary": "Grade 8 Media Literacy strand: fact-checking involves verifying claims against reliable, independent sources before accepting or sharing information, an essential skill for evaluating news and content encountered online.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Media Literacy: Fact-Checking and Source Verification",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Fact-Checking%20and%20Source%20Verification%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Kim9ujIU874",
         "quiz": [
           {
             "q": "Fact-checking involves ___.",
@@ -18509,8 +18510,9 @@
         "subject": "Math",
         "title": "Data Management: Two-Way Tables and Conditional Frequency",
         "summary": "Grade 8 Math strand: a two-way table organizes data by two categorical variables, allowing conditional frequencies to be calculated to compare how one variable relates to another within the data set.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: Data Management: Two-Way Tables and Conditional Frequency",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Two-Way%20Tables%20and%20Conditional%20Frequency%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_ETPMszULXc",
         "quiz": [
           {
             "q": "A two-way table organizes data by ___.",
@@ -18571,6 +18573,17 @@
         "summary": "Grade 6 Science strand: the greenhouse effect occurs when gases in the atmosphere, such as carbon dioxide, trap heat from the sun near Earth’s surface, and human activities that increase these gases are contributing to global warming.",
         "resourceLabel": "YouTube: Science: The Greenhouse Effect and Global Warming",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Greenhouse%20Effect%20and%20Global%20Warming%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SN5-DnOHQmE",
+        "videoUrls": [
+          {
+            "label": "Science: The Greenhouse Effect and Global Warming",
+            "url": "https://www.youtube.com/watch?v=SN5-DnOHQmE"
+          },
+          {
+            "label": "Global Warming - The End Game",
+            "url": "https://www.youtube.com/watch?v=Y3gqoDUtmt4"
+          }
+        ],
         "quiz": [
           {
             "q": "What does the greenhouse effect do?",
