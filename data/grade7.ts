@@ -17293,6 +17293,21 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=71X7a8eu73k",
+        "videoUrls": [
+          {
+            "label": "Science: Genetics Basics: Why Offspring Resemble Parents",
+            "url": "https://www.youtube.com/watch?v=71X7a8eu73k"
+          },
+          {
+            "label": "Science: The Lymphatic System",
+            "url": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
+          },
+          {
+            "label": "Science: Acids and Bases",
+            "url": "https://www.youtube.com/watch?v=ja7p_tzTTEA"
+          }
         ]
       },
       {

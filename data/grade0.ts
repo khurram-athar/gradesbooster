@@ -22386,7 +22386,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=ei3dsyr8A20"
       },
       {
         "subject": "Math",
@@ -22446,7 +22447,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=OXjz8vkL_QE"
       },
       {
         "subject": "Science",
@@ -22527,7 +22529,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=ncORPosDrjI"
       },
       {
         "subject": "SocialStudies",
@@ -22606,7 +22609,8 @@ const curriculum: DayContent[] = [
               "unkind"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Cyi4LTL8-to"
       }
     ]
   },

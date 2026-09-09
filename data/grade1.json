@@ -22862,7 +22862,8 @@
               "splash"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=go_ld7lOpGA"
       },
       {
         "subject": "Math",
@@ -22945,7 +22946,8 @@
             ]
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=bWpPqExEY-o"
       },
       {
         "subject": "Science",
@@ -23028,7 +23030,8 @@
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=DAs7lqce1cI"
       },
       {
         "subject": "SocialStudies",
@@ -23114,7 +23117,8 @@
             ]
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=0iRbD5rM5qc"
       }
     ]
   },

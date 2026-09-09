@@ -23212,7 +23212,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=GQ03w1Igolc"
       },
       {
         "subject": "Math",
@@ -23294,7 +23295,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=H3N5To5fO5U"
       },
       {
         "subject": "Science",
@@ -23378,7 +23380,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Weather, Sky & Space (Basic)"
+        "topic": "Weather, Sky & Space (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=-Bg9iP3H8YQ"
       },
       {
         "subject": "SocialStudies",
@@ -23465,7 +23468,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Families & Diversity (Basic)"
+        "topic": "Families & Diversity (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=oAycvCJBswY"
       }
     ]
   },

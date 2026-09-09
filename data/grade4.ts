@@ -19212,7 +19212,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "topic": "Writing: Persuasive/Opinion",
+        "videoUrl": "https://www.youtube.com/watch?v=nuaL1rgRXEM"
       },
       {
         "subject": "Math",
@@ -19272,7 +19273,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=HBSLrN9LWBA"
       },
       {
         "subject": "Science",
@@ -19332,7 +19334,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=lOIGOT88Aqc"
       },
       {
         "subject": "SocialStudies",
@@ -19392,7 +19395,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
       }
     ]
   },

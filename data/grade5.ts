@@ -19449,7 +19449,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=5b9o7yM7YGE"
       },
       {
         "subject": "SocialStudies",

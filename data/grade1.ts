@@ -22864,7 +22864,8 @@ const curriculum: DayContent[] = [
               "splash"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=go_ld7lOpGA"
       },
       {
         "subject": "Math",
@@ -22947,7 +22948,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Time & Money"
+        "topic": "Time & Money",
+        "videoUrl": "https://www.youtube.com/watch?v=bWpPqExEY-o"
       },
       {
         "subject": "Science",
@@ -23030,7 +23032,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=DAs7lqce1cI"
       },
       {
         "subject": "SocialStudies",
@@ -23116,7 +23119,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Money, Jobs & Economy (Basic)"
+        "topic": "Money, Jobs & Economy (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=0iRbD5rM5qc"
       }
     ]
   },

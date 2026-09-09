@@ -18764,7 +18764,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=ECiFApWcrDU"
       },
       {
         "subject": "Math",
@@ -18824,7 +18825,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=UX489ku79hU"
       },
       {
         "subject": "Science",
