@@ -49620,6 +49620,7554 @@ const curriculum: DayContent[] = [
         ]
       }
     ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Advertising and Persuasion; Reading: Making Connections; Grammar: Subject-Verb Agreement; Writing: Descriptive Writing (Show, Don't Tell).",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "An advertisement is mainly created to ___.",
+            "options": [
+              "Tell a fictional story only",
+              "Persuade people to buy or believe something",
+              "Inform without any goal",
+              "Report the weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses correct subject-verb agreement?",
+            "options": [
+              "The dogs runs in the park.",
+              "The dog run in the park.",
+              "The dog runs in the park.",
+              "The dogs is running in the park."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A text-to-self connection means the reader ___.",
+            "options": [
+              "Ignores the text completely",
+              "Compares the text to a news event",
+              "Compares the text to another book",
+              "Relates the text to their own life or experiences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Descriptive writing that 'shows, don't tells' would write ___ instead of 'She was happy.'",
+            "options": [
+              "She was happy.",
+              "She felt an emotion.",
+              "Happy was how she felt.",
+              "She grinned and skipped down the hallway."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Rounding to the Nearest 10 and 100; Comparing and Ordering 3-Digit Numbers; Measurement: Mass (Grams and Kilograms); Measurement: Capacity (Litres and Millilitres).",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Round 47 to the nearest 10.",
+            "options": [
+              "45",
+              "50",
+              "40",
+              "47"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would you use to measure the mass of a small apple?",
+            "options": [
+              "Kilograms",
+              "Grams",
+              "Litres",
+              "Millilitres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is greater: 452 or 425?",
+            "options": [
+              "452",
+              "Cannot tell",
+              "They are equal",
+              "425"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which tool would best measure the capacity of a bottle of juice?",
+            "options": [
+              "A measuring cup marked in millilitres",
+              "A bathroom scale",
+              "A ruler",
+              "A thermometer"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Growth and Changes in Plants: The Life Cycle; Growth and Changes in Plants: Pollination and Seed Dispersal; Structures: Strength and Stability; Structures: Testing and Improving Designs.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the first stage of a plant's life cycle?",
+            "options": [
+              "Seed",
+              "Flower",
+              "Mature plant",
+              "Fruit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Seeds can be dispersed (spread) by all of these EXCEPT ___.",
+            "options": [
+              "Wind",
+              "Animals",
+              "Water",
+              "Photosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which insect commonly helps pollinate flowers?",
+            "options": [
+              "Ladybugs only",
+              "Bees",
+              "Spiders",
+              "Ants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When engineers test a structure and it fails, the next best step is to ___.",
+            "options": [
+              "Give up on the design",
+              "Redesign and improve it based on what was learned",
+              "Ignore the problem",
+              "Build it exactly the same way again"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Physical Regions of Canada: The Canadian Shield; Physical Regions of Canada: The Prairies; Physical Regions of Canada: The Rocky Mountains; Physical Regions of Canada: Coastal Regions.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "The Canadian Shield is mostly made of ___.",
+            "options": [
+              "Ocean water",
+              "Ice sheets only",
+              "Ancient rock",
+              "Sand dunes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Rocky Mountains region of Canada is known for its ___.",
+            "options": [
+              "Flat farmland",
+              "Tall, rugged mountain peaks",
+              "Sandy deserts",
+              "Ancient flat rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Prairie region is known for being ___.",
+            "options": [
+              "Made mostly of islands",
+              "Covered in rainforest",
+              "Flat, with rich farmland",
+              "Mountainous and rocky"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada's coastal regions are located ___.",
+            "options": [
+              "In the centre of the country, far from water",
+              "Along the edges of the country next to oceans",
+              "Only in the north",
+              "Underground"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Sequencing Events; Vocabulary: Synonyms and Antonyms; Writing: Persuasive Writing; Reading: Fact vs Opinion.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which words often signal the order of events?",
+            "options": [
+              "First, next, then, finally",
+              "Big, small, medium",
+              "Happy, sad, angry",
+              "Red, blue, green"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An antonym for 'big' is ___.",
+            "options": [
+              "Large",
+              "Huge",
+              "Small",
+              "Giant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A synonym for happy is ___.",
+            "options": [
+              "Sad",
+              "Angry",
+              "Tired",
+              "Glad"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Persuasive writing is written mainly to ___.",
+            "options": [
+              "Entertain with a made-up story",
+              "Convince the reader to agree with an opinion",
+              "List facts with no opinion",
+              "Describe a scene in detail"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Introducing Angles; Data: Line Graphs; Estimating Sums and Differences; Patterning: Number Patterns and Rules.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A right angle looks like the corner of a ___.",
+            "options": [
+              "Square",
+              "Line",
+              "Circle",
+              "Triangle only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Estimate the sum of 198 + 303 by rounding each number to the nearest hundred first.",
+            "options": [
+              "500",
+              "501",
+              "400",
+              "600"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line graph is most useful for showing ___.",
+            "options": [
+              "Only colours",
+              "Random unrelated facts",
+              "How data changes over time",
+              "A single number with no comparison"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the missing number in the pattern: 5, 10, 15, __, 25?",
+            "options": [
+              "18",
+              "20",
+              "22",
+              "30"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Energy: Renewable vs Non-Renewable Sources; Space: The Sun, Earth, and Moon; Space: Day and Night, and the Seasons; Matter: Changes of State.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which is an example of a renewable energy source?",
+            "options": [
+              "Oil",
+              "Natural gas",
+              "Coal",
+              "Sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Day and night on Earth are caused by ___.",
+            "options": [
+              "The Moon blocking the Sun",
+              "Earth rotating on its axis",
+              "The Sun moving around Earth",
+              "Earth's seasons changing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Sun is best described as a ___.",
+            "options": [
+              "Comet",
+              "Star",
+              "Planet",
+              "Moon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When water freezes, it changes from a liquid to a ___.",
+            "options": [
+              "Gas",
+              "Solid",
+              "Plasma",
+              "It stays a liquid"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Communities in Canada, 1780-1850: Daily Life; Communities in Canada, 1780-1850: Transportation and Travel; Communities in Canada, 1780-1850: Roles in the Community; Then and Now: Technology and Tools.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "In early Canadian settler communities (1780-1850), most families ___.",
+            "options": [
+              "Bought all their food from large supermarkets",
+              "Grew much of their own food and made their own goods",
+              "Never worked",
+              "Ordered everything online"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In early Canadian settler communities, children usually ___.",
+            "options": [
+              "Had no responsibilities at all",
+              "Helped with chores and family work",
+              "Went to school for the whole day only",
+              "Worked in factories overseas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Before cars, how did most early settlers travel long distances?",
+            "options": [
+              "By subway",
+              "By airplane",
+              "By bicycle only",
+              "By foot, horse, canoe, or boat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Compared to tools used long ago, tools used today are usually ___.",
+            "options": [
+              "Exactly the same with no changes",
+              "Powered by electricity or technology, and often faster",
+              "Always simpler",
+              "No longer needed"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Pronouns; Reading: Fact and Opinion; Reading: Author's Purpose; Grammar: Conjunctions.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A pronoun is a word that ___.",
+            "options": [
+              "Is always a number",
+              "Connects two sentences only",
+              "Takes the place of a noun",
+              "Describes an action"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An author writing to make readers laugh has a purpose to ___.",
+            "options": [
+              "Persuade",
+              "Inform",
+              "Entertain",
+              "Instruct"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A fact is a statement that ___.",
+            "options": [
+              "Can be proven true",
+              "Is always someone\u2019s feeling",
+              "Can never be checked",
+              "Is always false"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a conjunction that joins two ideas?",
+            "options": [
+              "Quickly",
+              "And",
+              "Blue",
+              "Running"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions of a Set; Financial Literacy: Earning and Budgeting Basics; Odd and Even Numbers; Multiples and Skip Counting Review.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If 3 out of 6 marbles are blue, what fraction of the marbles are blue?",
+            "options": [
+              "1/6",
+              "3/6",
+              "6/3",
+              "3/3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these numbers is odd?",
+            "options": [
+              "24",
+              "36",
+              "47",
+              "50"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Earning money often comes from ___.",
+            "options": [
+              "Finding it randomly every day",
+              "Doing work or chores",
+              "Wishing for it",
+              "It is never earned"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Skip counting by 5s, what comes next: 5, 10, 15, 20, __?",
+            "options": [
+              "22",
+              "24",
+              "25",
+              "30"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Habitats: Adaptations of Plants and Animals; Environment: Conservation and Recycling; Space: The Solar System; Space: Stars and Constellations.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is a feature that helps a living thing ___.",
+            "options": [
+              "Survive in its habitat",
+              "Move to a new planet",
+              "Stop reproducing",
+              "Avoid growing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which planet in our solar system is known as the 'Red Planet'?",
+            "options": [
+              "Venus",
+              "Mars",
+              "Jupiter",
+              "Saturn"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Conservation means ___.",
+            "options": [
+              "Wasting resources freely",
+              "Using resources wisely to protect the environment",
+              "Using as much as possible with no limits",
+              "Ignoring the environment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A group of stars that forms a pattern in the night sky is called a ___.",
+            "options": [
+              "Galaxy",
+              "Constellation",
+              "Comet",
+              "Nebula"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada's Territories and the North; Ontario's Role in Confederation; The Fur Trade in Early Canada; Communities in Canada, 1780-1850: Relations with Indigenous Peoples.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "How many territories does Canada have?",
+            "options": [
+              "One",
+              "Three",
+              "Two",
+              "Five"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these was one of the four original provinces of Canada at Confederation?",
+            "options": [
+              "Ontario",
+              "Alberta",
+              "Saskatchewan",
+              "Manitoba"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did Confederation create the Dominion of Canada?",
+            "options": [
+              "1867",
+              "1776",
+              "1812",
+              "1900"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The fur trade in early Canada was mainly built around trading ___.",
+            "options": [
+              "Gold and silver",
+              "Animal furs such as beaver pelts",
+              "Corn and wheat",
+              "Fish only"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Compare and Contrast Essay; Vocabulary: Compound Words; Reading: Identifying Theme; Writing: Journal and Diary Entries; Oral Communication: Active Listening.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A compare and contrast essay explains ___.",
+            "options": [
+              "How two things are similar and different",
+              "Only how two things are different",
+              "Only how two things are the same",
+              "A single made-up story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The theme of a story is ___.",
+            "options": [
+              "The exact page count",
+              "The main character's name",
+              "The underlying message or lesson of the story",
+              "The setting where it takes place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A compound word is formed by joining ___.",
+            "options": [
+              "Two smaller words together",
+              "Two punctuation marks",
+              "A word and a number",
+              "A letter and a symbol"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Active listening means ___.",
+            "options": [
+              "Talking the whole time without pausing",
+              "Paying full attention and showing you understand the speaker",
+              "Doing other tasks while someone talks",
+              "Interrupting frequently"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measurement: Temperature; Geometry: Transformations (Slides, Flips, and Turns); Fractions: Adding Fractions with the Same Denominator; Number: Expanded Form; Choosing the Best Graph for Data.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Temperature in Canada is commonly measured in ___.",
+            "options": [
+              "Metres",
+              "Kilograms",
+              "Degrees Celsius",
+              "Litres"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 2/5 + 1/5?",
+            "options": [
+              "3/10",
+              "3/5",
+              "4/5",
+              "1/5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A slide moves a shape ___.",
+            "options": [
+              "In a straight direction without turning it",
+              "By making it disappear",
+              "By flipping it into a mirror image",
+              "By spinning it in a circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The expanded form of 452 is ___.",
+            "options": [
+              "4 + 5 + 2",
+              "400 + 50 + 2",
+              "40 + 50 + 2",
+              "400 + 5 + 2"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Structures: Materials and Their Properties; Structures: Forces Acting on Structures; Classifying Plants and Animals; Energy: Heat and Temperature; Matter: Properties of Materials.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which property describes how well a material resists breaking?",
+            "options": [
+              "Taste",
+              "Strength",
+              "Smell",
+              "Colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Scientists classify living things into groups based mainly on ___.",
+            "options": [
+              "Their favourite habitat colour",
+              "Shared characteristics and features",
+              "Random selection",
+              "Their exact age"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compression is a force that ___.",
+            "options": [
+              "Pulls or stretches a material",
+              "Pushes or squeezes a material",
+              "Has no effect on structures",
+              "Only affects liquids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Heat naturally flows from ___.",
+            "options": [
+              "Cold objects to hot objects",
+              "Hot objects to cold objects",
+              "It does not flow at all",
+              "Only through water"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Physical Regions of Canada: The St. Lawrence Lowlands; Physical Regions of Canada: The Arctic; Map Skills: Legends, Symbols, and the Compass Rose; Levels of Government in Canada: Federal, Provincial, and Municipal; Canada's Multicultural Identity.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "The St. Lawrence Lowlands region is known for ___.",
+            "options": [
+              "Being mostly frozen year-round",
+              "Fertile farmland and major cities",
+              "Being entirely desert",
+              "Having no rivers nearby"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a map, the compass rose is used to show ___.",
+            "options": [
+              "The population of a city",
+              "Directions such as north, south, east, and west",
+              "The temperature",
+              "The map's title"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Arctic region of Canada is best described as ___.",
+            "options": [
+              "Covered in dense rainforest",
+              "Very cold with a tundra landscape",
+              "Mostly farmland",
+              "Warm and tropical"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which level of government is responsible for a whole country, such as Canada?",
+            "options": [
+              "Municipal",
+              "Provincial",
+              "Federal",
+              "Local"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Capitalization Rules; Reading: Using Graphic Organizers; Media Literacy: Recognizing Bias; Reading: Comparing Texts on the Same Topic.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A sentence should always begin with a ___.",
+            "options": [
+              "Lowercase letter",
+              "Question mark",
+              "Number",
+              "Capital letter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words should always be capitalized because it is a proper noun?",
+            "options": [
+              "dog",
+              "Toronto",
+              "chair",
+              "book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A graphic organizer helps readers ___.",
+            "options": [
+              "Skip important details",
+              "Visually organize information and ideas",
+              "Ignore the text completely",
+              "Avoid taking notes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When a writer only tells one side of a story and leaves out other viewpoints, the writing shows ___.",
+            "options": [
+              "A recipe",
+              "Bias",
+              "A table of contents",
+              "A glossary"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning: Growing Patterns with Shapes; Multi-Step Word Problems; Problem Solving: Choosing the Right Operation; Introduction to Multiplying 2-Digit Numbers.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If a pattern of squares goes 1, 3, 5, 7, what is the rule?",
+            "options": [
+              "Add 1",
+              "Add 3",
+              "Subtract 2",
+              "Add 2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A farmer picks 36 apples, sells 15, and then picks 20 more. How many apples does the farmer have now?",
+            "options": [
+              "41",
+              "51",
+              "21",
+              "36"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sam has 24 stickers, gives away 6, then gets 10 more. How many does Sam have now?",
+            "options": [
+              "18",
+              "20",
+              "34",
+              "28"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 14 x 3?",
+            "options": [
+              "42",
+              "17",
+              "45",
+              "40"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Endangered Species and Conservation; Simple Machines Review: Mechanical Advantage; Science Inquiry: The Scientific Method; Science: Food Chains and Food Webs.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "An endangered species is one that is ___.",
+            "options": [
+              "At risk of disappearing entirely",
+              "Not affected by habitat changes",
+              "Extremely common",
+              "Found only in zoos"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is usually the first step in the scientific method?",
+            "options": [
+              "Asking a question",
+              "Writing a conclusion",
+              "Building a robot",
+              "Publishing a book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mechanical advantage means a simple machine ___.",
+            "options": [
+              "Makes a task easier by reducing needed force or changing its direction",
+              "Always requires electricity",
+              "Has no effect on force",
+              "Makes a task harder to complete"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a food chain, an animal that eats only plants is called a ___.",
+            "options": [
+              "Carnivore",
+              "Herbivore",
+              "Decomposer",
+              "Predator"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Protecting Natural Resources for the Future; Canadian Symbols: The Maple Leaf and the Flag; Planning for My Community's Future; Social Studies: Local Government -- How Decisions Are Made.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Sustainability means using resources in a way that ___.",
+            "options": [
+              "Ignores future needs completely",
+              "Keeps them available for future generations",
+              "Uses them all up as fast as possible",
+              "Has no long-term plan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which level of government usually makes decisions about local parks, libraries, and garbage collection?",
+            "options": [
+              "Federal government",
+              "Local (municipal) government",
+              "Provincial government only",
+              "No government at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What plant symbol appears on the Canadian flag?",
+            "options": [
+              "Oak leaf",
+              "Maple leaf",
+              "Palm leaf",
+              "Clover"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When planning for a community's future, city planners often consider things like housing, transportation, and ___.",
+            "options": [
+              "The weather one hundred years ago",
+              "Green spaces and services",
+              "Nothing beyond today",
+              "Only the mayor's opinion"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The How-To Guide; Grammar: Simple and Compound Sentences; Vocabulary: Building Word Families; Reading: Story Elements -- Setting and Plot.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A how-to guide gives instructions in ___.",
+            "options": [
+              "A completely random, mixed-up order",
+              "Only a single step, with no further detail",
+              "A style unrelated to giving instructions",
+              "The correct order, step by step"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A compound sentence joins two complete ideas together using a word like ___.",
+            "options": [
+              "and, but, or or",
+              "a capital letter",
+              "an apostrophe",
+              "a question mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A simple sentence expresses ___.",
+            "options": [
+              "One complete idea",
+              "Two or more completely unrelated ideas",
+              "A concept unrelated to complete thoughts",
+              "No complete idea at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a story, the setting tells the reader ___.",
+            "options": [
+              "The time and place where the story happens",
+              "The main character's name only",
+              "The moral of the story",
+              "The title of the book"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Dividing 2-Digit Numbers by 1-Digit Numbers; Geometry: Classifying 2D Shapes by Properties; Data: Interpreting Double Bar Graphs; Fractions: Mixed Numbers.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Dividing a 2-digit number by a 1-digit number can be approached by sharing the ___ separately.",
+            "options": [
+              "Hundreds, with no connection to the given number",
+              "Tens and ones",
+              "Only the ones digit, with no connection to tens",
+              "A concept unrelated to place value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A double bar graph is useful for comparing ___.",
+            "options": [
+              "Two sets of data side by side",
+              "Only one number",
+              "The alphabet",
+              "A single day's weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "2D shapes can be classified by properties such as the number of ___.",
+            "options": [
+              "A property unrelated to a shape\u2019s structure",
+              "Colours used to draw the shape",
+              "Sides",
+              "People who have drawn the shape before"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a mixed number?",
+            "options": [
+              "3/4",
+              "2 1/2",
+              "8",
+              "5/5"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Rock Cycle; Science: Simple Circuits and Conductors; Science: Properties of Air; Science: Living Things and Their Basic Needs.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "The rock cycle describes how rocks slowly ___ over long periods of time.",
+            "options": [
+              "Change from one type to another",
+              "A concept unrelated to how rocks form",
+              "Disappear completely with no trace remaining",
+              "Always remain exactly the same, with no change at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a property of air?",
+            "options": [
+              "It takes up space",
+              "It has no mass",
+              "It is always visible",
+              "It cannot be compressed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A simple circuit is a complete loop that allows ___ to flow.",
+            "options": [
+              "A concept unrelated to circuits",
+              "Electricity",
+              "Air, with no connection to a circuit",
+              "Water, with no connection to electricity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is NOT a basic need of living things?",
+            "options": [
+              "Water",
+              "Food",
+              "Video games",
+              "Air"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Community Helpers and Their Roles; Social Studies: Comparing Communities Then and Now; Social Studies: Trade Between Communities Today; Niagara Falls: One of Canada\u2019s Natural Wonders.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Community helpers each play a specific role that helps keep a community ___.",
+            "options": [
+              "A concept unrelated to how communities function",
+              "Safe, healthy, and running smoothly",
+              "Isolated from any outside help or support",
+              "Completely disorganized with no structure at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Communities often trade goods with each other because ___.",
+            "options": [
+              "No community has enough of everything it needs",
+              "Trading is against the law",
+              "Every community makes exactly the same things",
+              "Trade never benefits anyone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing communities long ago to communities today reveals differences in daily life, work, and ___.",
+            "options": [
+              "A concept unrelated to how communities differed",
+              "The exact number of residents, with no other differences considered",
+              "Only the colour of buildings",
+              "Available services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Niagara Falls is famous for being one of Canada's ___.",
+            "options": [
+              "Tallest buildings",
+              "Natural wonders",
+              "Underground subway stations",
+              "Smallest lakes"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Giving Your Opinion with Strong Reasons; Media Literacy: Understanding Misinformation; Reading: Skimming and Scanning for Information; Oral Communication: Retelling a Story; Writing: Editing and Proofreading Checklist.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A strong opinion piece states a clear ___ and then supports it with reasons.",
+            "options": [
+              "Opinion",
+              "Recipe",
+              "Weather report",
+              "Math problem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skimming a text means ___.",
+            "options": [
+              "Reading quickly to get the main idea",
+              "Reading every word very slowly",
+              "Memorizing the whole text",
+              "Ignoring the title and headings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Misinformation is information that is ___.",
+            "options": [
+              "Only ever found in printed books, never online",
+              "A concept unrelated to accuracy or truth",
+              "False or misleading",
+              "Always completely accurate and trustworthy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When proofreading your writing, you should check for ___.",
+            "options": [
+              "Spelling and punctuation mistakes",
+              "New ideas to add without checking them",
+              "The color of your pencil",
+              "How long your recess will be"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measurement: Converting Units of Length; Patterning: Number Patterns with Multiplication and Division; Financial Literacy: Comparing Prices and Value; Geometry: Area of Irregular Shapes; Review: Multiplication, Division, and Geometry.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Converting units of length involves changing a measurement from one unit to ___.",
+            "options": [
+              "Another",
+              "Only the exact same unit, with no actual change",
+              "A completely unrelated type of measurement, like time",
+              "A concept unrelated to measurement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A toy costs $12 at one store and $15 at another store, but both toys are exactly the same. Which store offers the better price?",
+            "options": [
+              "Both are the same price",
+              "$15 store",
+              "$12 store",
+              "Cannot be determined"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Number patterns using multiplication and division follow a consistent ___.",
+            "options": [
+              "A concept unrelated to how patterns are formed",
+              "Completely random sequence with no rule involved",
+              "Rule",
+              "Set of unrelated numbers with no connection to each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the area of an irregular shape, you can ___.",
+            "options": [
+              "Guess the number of corners",
+              "Break it into smaller regular shapes and add their areas",
+              "Multiply the shape's perimeter by zero",
+              "Only measure one side"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Camouflage and Survival; Science: Renewable Energy in Everyday Life; Science: Balanced and Unbalanced Forces; Science: Investigating Matter -- Mixtures and Solutions; Review: Rocks, Energy, and Living Things.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Camouflage is an adaptation that helps an animal ___.",
+            "options": [
+              "Change its entire body shape permanently",
+              "A concept unrelated to survival",
+              "Blend into its surroundings",
+              "Always stand out brightly against its surroundings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When forces acting on an object are unbalanced, the object will ___.",
+            "options": [
+              "Become heavier",
+              "Change its motion",
+              "Disappear",
+              "Stay perfectly still forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Renewable energy sources, like sunlight and wind, can be used to power homes, schools, and ___.",
+            "options": [
+              "Only vehicles from long ago, with no modern use",
+              "Communities",
+              "A concept unrelated to energy use",
+              "Nothing at all, since renewable energy has no practical use"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A solution is formed when one substance ___.",
+            "options": [
+              "Never mixes with another substance",
+              "Turns into a solid rock",
+              "Dissolves completely into another substance",
+              "Becomes a living thing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Indigenous Peoples\u2019 Contributions to Canada; Social Studies: Immigration Stories -- Then and Now; Social Studies: How Ontario Uses Its Resources; Review: Government, Trade, and Community; Grade 3 Social Studies: Extending Our Community Knowledge.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Indigenous Peoples have made significant contributions to Canada, including knowledge of ___.",
+            "options": [
+              "The land",
+              "Nothing of lasting value",
+              "A concept entirely unrelated to Canadian history or culture",
+              "Only recent technology, with no historical significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ontario uses natural resources such as forests and minerals to ___.",
+            "options": [
+              "Stop trade with other provinces",
+              "Support jobs and build products",
+              "Avoid all economic activity",
+              "Replace the need for farming entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing immigration stories from the past and present can show how reasons for immigrating have ___.",
+            "options": [
+              "Stayed similar in some ways",
+              "Been completely different in every possible way",
+              "Never had any connection to each other",
+              "A concept unrelated to immigration history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Local governments, trade between communities, and community helpers all work together to ___.",
+            "options": [
+              "Prevent communities from growing",
+              "Eliminate the need for rules",
+              "Keep communities running smoothly",
+              "Stop people from working together"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Understanding Idioms and Expressions; Grammar: Contractions; Vocabulary: Homophones; Writing: Writing a Postcard to a Friend; Reading: Making Predictions.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "An idiom is a group of words whose meaning is ___.",
+            "options": [
+              "Always exactly what the words say",
+              "Different from what the words say on their own",
+              "A concept unrelated to word meaning",
+              "Only found in math, not in language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of words are homophones?",
+            "options": [
+              "cat and dog",
+              "sun and son",
+              "run and walk",
+              "big and small"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A contraction is a shortened form of two words joined together using ___.",
+            "options": [
+              "A comma to separate the two words",
+              "An apostrophe to show missing letters",
+              "A hyphen with no missing letters at all",
+              "A concept unrelated to combining words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When making a prediction about a story, a reader uses clues from the text to ___.",
+            "options": [
+              "Ignore the story completely",
+              "Guess what might happen next",
+              "Change the author's name",
+              "Copy the last page word for word"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Division: Understanding Remainders; Multiplication: Multiplying Multiples of Ten; Fractions: Subtracting Fractions with the Same Denominator; Data: Sorting and Classifying Objects; Time: Reading a Calendar.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "When a number cannot be divided evenly, the amount left over is called the ___.",
+            "options": [
+              "A concept unrelated to division",
+              "Quotient, with no connection to leftover amounts",
+              "Remainder",
+              "Product, which is the answer to a multiplication problem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 5/8 - 2/8?",
+            "options": [
+              "3/16",
+              "3/8",
+              "1/8",
+              "7/8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Multiplying a number by a multiple of ten can be done by multiplying the basic fact first and then ___.",
+            "options": [
+              "Dividing the answer by ten",
+              "A method unrelated to multiplying by tens",
+              "Removing a zero from the original number",
+              "Adding a zero to the answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If today is Monday, what day will it be in 3 days?",
+            "options": [
+              "Wednesday",
+              "Thursday",
+              "Sunday",
+              "Friday"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Simple Machines: Screw and Wedge; Science: Weather: Instruments and Tools; Science: Weather: Clouds and Precipitation; Science: Structures Found in Nature; Science: Sound: How Animals Use Sound to Communicate.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
+            "options": [
+              "Pole",
+              "A concept unrelated to simple machines",
+              "Wheel, which is a completely different simple machine",
+              "Flat surface, with no connection to a pole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Precipitation is water that falls from clouds as ___.",
+            "options": [
+              "Sunlight",
+              "Rain, snow, sleet, or hail",
+              "Dust",
+              "Wind only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Scientists use tools like thermometers, rain gauges, and wind vanes to measure ___.",
+            "options": [
+              "Only the time of day, with no connection to weather",
+              "Different parts of the weather",
+              "A concept unrelated to weather at all",
+              "The number of people in a community"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A beehive is an example of a structure found in nature that is built to ___.",
+            "options": [
+              "Fly through the air",
+              "Provide shelter and storage for bees",
+              "Produce electricity",
+              "Measure the weather"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Provinces and Capital Cities; Social Studies: How Elections Work: Voting for Leaders; Social Studies: Time Zones Across Canada; Social Studies: Goods and Services in the Community; Social Studies: Public Transportation in Communities.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Canada is made up of ten provinces and ___ territories.",
+            "options": [
+              "Three",
+              "Zero, since Canada has no territories",
+              "A concept unrelated to how Canada is divided",
+              "Ten, with no distinction from provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada has multiple time zones because the country ___.",
+            "options": [
+              "Has only one province",
+              "Stretches across a very wide area from east to west",
+              "Never experiences daylight",
+              "Is located entirely at the North Pole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An election is a process where citizens vote to choose their ___.",
+            "options": [
+              "A concept unrelated to government",
+              "Favourite sports team, with no connection to government",
+              "Weather forecast for the week",
+              "Leaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A haircut from a barber is an example of a ___, not a good.",
+            "options": [
+              "Natural resource",
+              "Service",
+              "Manufactured product",
+              "Raw material"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Quotation Marks in Dialogue; Oral Communication: Asking Clarifying Questions; Writing: Writing Riddles and Jokes; Reading: Text Structure \u2014 Problem and Solution.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Quotation marks show exactly which words a character is ___.",
+            "options": [
+              "Writing in a letter, with no connection to speech",
+              "Thinking silently, with no words spoken aloud",
+              "Speaking out loud",
+              "A concept unrelated to dialogue in a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a riddle, the funny or surprising answer is called the ___.",
+            "options": [
+              "A concept unrelated to how riddles work",
+              "Punchline",
+              "Title, with no connection to the riddle's answer",
+              "Setting, with no connection to solving a riddle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A clarifying question is asked to better understand something that was ___.",
+            "options": [
+              "Already perfectly understood, with no confusion at all",
+              "A concept unrelated to listening",
+              "Completely unrelated to the conversation",
+              "Unclear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story with a problem-and-solution structure, the solution is the way the character ___ the problem.",
+            "options": [
+              "Ignores, with no connection to fixing anything",
+              "Solves",
+              "Creates, which is the opposite of fixing it",
+              "A concept unrelated to how the story is organized"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Plotting Points on a Grid; Patterning: Patterns on a Hundred Chart; Measurement: Comparing and Ordering Length, Mass, and Capacity; Multiplication: Doubling and Halving Strategy.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A point can be located on a grid by using a pair of numbers or letters, such as moving across and then ___.",
+            "options": [
+              "Up",
+              "A concept unrelated to locating a point",
+              "Backward in time, with no connection to a grid",
+              "Sideways only, with no vertical movement at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a grid, the first number in a pair tells you how far to move ___ before moving up.",
+            "options": [
+              "Across",
+              "Backward in time, with no connection to a grid",
+              "Diagonally only, with no connection to across-and-up movement",
+              "A concept unrelated to locating a point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A hundred chart arranges the numbers 1 to 100 in rows of ___.",
+            "options": [
+              "A concept unrelated to how numbers are arranged",
+              "Two, with no connection to a hundred chart\u2019s structure",
+              "Ten",
+              "One hundred, with no connection to smaller rows"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To multiply 16 x 5 using the doubling and halving strategy, you can halve 16 to get 8 and double 5 to get ___.",
+            "options": [
+              "10",
+              "15",
+              "20",
+              "25"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Energy: Sources of Light, Natural and Artificial; Science: Classifying Animals: Vertebrates and Invertebrates; Science: Earth\u2019s Layers: Crust, Mantle, and Core; Science: Technology Inspired by Nature (Biomimicry).",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Light can come from natural sources or from ___ sources that people have created.",
+            "options": [
+              "Only imaginary, with no connection to real light sources",
+              "Artificial",
+              "A concept unrelated to where light comes from",
+              "Underground, with no connection to how light is produced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Earth's very center, which is the hottest layer, is called the ___.",
+            "options": [
+              "Crust, which is actually the outermost layer",
+              "Mantle, with no connection to the center",
+              "Core",
+              "A concept unrelated to Earth's structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Animals can be classified as vertebrates, which have a ___.",
+            "options": [
+              "Shell, with no connection to a backbone",
+              "Concept unrelated to how animals are classified",
+              "Set of wings, with no connection to having a backbone",
+              "Backbone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An animal without a backbone, such as an insect or worm, is called an ___.",
+            "options": [
+              "Vertebrate, which is the opposite classification",
+              "Invertebrate",
+              "A concept unrelated to how animals are classified",
+              "Omnivore, which describes diet, not backbone"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: How Electricity Powers Our Community; Social Studies: Preserving Ontario\u2019s Historic Buildings and Sites; Social Studies: Ontario\u2019s Farmland and Agriculture Today; Social Studies: Canada\u2019s Currency: Coins and Bills.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Electricity travels from power plants to homes and schools through a network of ___.",
+            "options": [
+              "A concept unrelated to how a community gets electricity",
+              "Nothing at all, since electricity has no real path to travel",
+              "Only decorations, with no connection to essential services",
+              "Wires and power lines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ontario's farmland is used to grow crops and raise animals, an industry called ___.",
+            "options": [
+              "Manufacturing, with no connection to growing crops",
+              "Agriculture",
+              "Mining, with no connection to farming",
+              "A concept unrelated to how food is produced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Communities work to preserve historic buildings and sites, protecting these places so ___ can learn about the past.",
+            "options": [
+              "Only the people who built the site originally",
+              "Future generations",
+              "A concept unrelated to protecting historic places",
+              "No one at all, since preservation serves no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada's paper money, such as five and ten dollar notes, are called ___.",
+            "options": [
+              "Coins, which are made of metal instead",
+              "Bills",
+              "A concept unrelated to Canada's currency",
+              "Cheques, with no connection to physical currency"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Idioms, Grammar, and Reading Strategies; Reading: Figurative Language \u2014 Similes and Metaphors; Grammar: The Four Types of Sentences; Vocabulary: Multiple-Meaning Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "The idiom \u201cit\u2019s raining cats and dogs\u201d really means ___.",
+            "options": [
+              "The weather is calm and sunny",
+              "It is raining very hard",
+              "Cats and dogs are falling from the sky",
+              "A phrase unrelated to weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A metaphor compares two things by saying one thing ___ another, without using \"like\" or \"as.\"",
+            "options": [
+              "Is",
+              "A concept unrelated to how metaphors work",
+              "Never resembles",
+              "Counts equally with, with no connection to comparison"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A simile compares two things using ___.",
+            "options": [
+              "A concept unrelated to comparing things",
+              "No comparison words at all",
+              "\u201cLike\u201d or \u201cas\u201d",
+              "Only exact numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A sentence that gives a command, such as \"Close the door,\" is called ___.",
+            "options": [
+              "An interrogative sentence, which asks a question instead",
+              "An imperative sentence",
+              "A concept unrelated to sentence types",
+              "An exclamatory sentence, which shows strong feeling instead"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Division, Fractions, and Multiplication Strategies; Multiplication: Multiplying Three Factors; Division: Estimating Quotients; Geometry: Classifying Triangles by Side Length.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 13 \u00f7 4, including the remainder?",
+            "options": [
+              "4 remainder 1",
+              "3 remainder 1",
+              "3 remainder 2",
+              "4 remainder 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To estimate 29 \u00f7 5, you can think of the nearby fact 30 \u00f7 5, which equals ___.",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When multiplying three factors, you can multiply any two of them first and then multiply by ___.",
+            "options": [
+              "A concept unrelated to multiplying three numbers",
+              "Only the largest factor, ignoring the others",
+              "Zero, regardless of the actual factors",
+              "The third factor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangle with all three sides of different lengths is called a ___ triangle.",
+            "options": [
+              "Equilateral, which has three equal sides instead",
+              "Isosceles, which has two equal sides instead",
+              "Scalene",
+              "A concept unrelated to classifying triangles"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Simple Machines, Weather, and Earth Science; Science: Life Cycle of a Butterfly: Metamorphosis; Science: Nocturnal vs Diurnal Animals; Science: Fossils: Clues to the Past.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which tool is used to measure how much rain has fallen?",
+            "options": [
+              "Rain gauge",
+              "Thermometer",
+              "Compass",
+              "Magnifying glass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An animal that sleeps during the day and is active at night, such as an owl, is called ___.",
+            "options": [
+              "Diurnal, which describes daytime activity instead",
+              "Nocturnal",
+              "A concept unrelated to an animal's activity pattern",
+              "Omnivorous, which describes diet instead"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A butterfly goes through complete metamorphosis, changing from an egg to a larva, then to a pupa, and finally to ___.",
+            "options": [
+              "Nothing at all, since the process stops at the pupa stage",
+              "An adult butterfly",
+              "A concept unrelated to a butterfly\u2019s life cycle",
+              "A completely different insect species"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fossils are the preserved remains or traces of living things that give scientists clues about ___.",
+            "options": [
+              "Only the weather today, with no connection to the past",
+              "The past",
+              "A concept unrelated to what fossils reveal",
+              "Future events, with no connection to ancient life"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Government, Geography, and Economy; Social Studies: How Laws and Bylaws Keep Communities Safe; Social Studies: Taxes: How Communities Pay for Shared Services; Social Studies: Ontario\u2019s Mining and Forestry Industries.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the capital city of Ontario?",
+            "options": [
+              "Montreal",
+              "Toronto",
+              "Vancouver",
+              "Ottawa"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Taxes collected by governments are used to pay for shared services such as schools and ___.",
+            "options": [
+              "Roads",
+              "A concept unrelated to how tax money is used",
+              "Only private businesses, with no connection to public services",
+              "Nothing, since taxes are never spent on services"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bylaws are rules made by a ___ government.",
+            "options": [
+              "Municipal",
+              "Provincial, with no connection to local rules",
+              "Federal, with no connection to local community rules",
+              "A concept unrelated to how communities are governed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ontario's forestry industry involves harvesting ___ to make products like lumber and paper.",
+            "options": [
+              "Trees",
+              "Rocks and minerals, which is the mining industry instead",
+              "A concept unrelated to how forestry products are made",
+              "Crops, which is the agriculture industry instead"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Comic Strip; Reading: Understanding Flashbacks in Stories; Grammar: Commas in a Series; Vocabulary: Root Words and Base Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A comic strip tells a story using a sequence of small pictures called ___.",
+            "options": [
+              "A concept unrelated to how a comic strip is organized",
+              "Panels",
+              "Paragraphs, with no connection to a comic strip\u2019s format",
+              "Chapters, with no connection to pictures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence \"I packed apples, bananas, and grapes,\" the commas are used to separate items in a ___.",
+            "options": [
+              "Series",
+              "A concept unrelated to how commas are used",
+              "Question, with no connection to listing items",
+              "Title, with no connection to separating items"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A flashback is a part of a story that interrupts the present action to show an event that happened ___.",
+            "options": [
+              "In the future, with no connection to the past",
+              "Earlier",
+              "At the exact same moment as the present action",
+              "A concept unrelated to how stories are organized"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The root word in \"unhappiness\" is ___.",
+            "options": [
+              "Unhappiness, since the whole word is the root",
+              "Happy",
+              "A concept unrelated to how words are built",
+              "Un-, which is only a prefix"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning: Input-Output Tables; Time: Telling Time on Analog and Digital Clocks; Probability: Conducting a Simple Experiment; Multiplication: The Distributive Property.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "An input-output table shows starting numbers, called inputs, and the numbers you get after applying the same rule, called ___.",
+            "options": [
+              "Remainders, with no connection to input-output tables",
+              "A concept unrelated to how the table works",
+              "Outputs",
+              "Factors, with no connection to applying a rule"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a simple probability experiment like flipping a coin, each possible result, such as heads or tails, is called an ___.",
+            "options": [
+              "Outcome",
+              "A concept unrelated to probability experiments",
+              "Input, with no connection to chance events",
+              "Estimate, with no connection to an actual result"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An analog clock uses moving hands to show the hour and ___.",
+            "options": [
+              "Only the day of the week, with no connection to time",
+              "Season, with no connection to telling time",
+              "A concept unrelated to how an analog clock works",
+              "Minute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using the distributive property, 6 x (10 + 2) can be broken into (6 x 10) + (6 x ___).",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Volcanoes and Earthquakes; Science: Decomposers and the Food Cycle; Science: Insect Body Parts and Characteristics; Science: Earth\u2019s Magnetic Field and Compasses.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Volcanoes and earthquakes are powerful events caused by movements deep within the ___.",
+            "options": [
+              "Sky, with no connection to the ground shifting",
+              "Earth",
+              "Ocean, with no connection to the Earth\u2019s interior",
+              "A concept unrelated to how these events occur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An insect's body is divided into three main parts: the head, thorax, and ___.",
+            "options": [
+              "Abdomen",
+              "A concept unrelated to insect body parts",
+              "Shell, with no connection to an insect's body",
+              "Fin, with no connection to insects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Decomposers break down dead plants and animals, returning important nutrients to the ___.",
+            "options": [
+              "Soil",
+              "Ocean floor exclusively, with no connection to soil",
+              "Sky, with no connection to how decomposers work",
+              "A concept unrelated to what decomposers do"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A compass needle points toward Earth's magnetic ___ because it lines up with Earth's magnetic field.",
+            "options": [
+              "North",
+              "A concept unrelated to how a compass works",
+              "Center, with no connection to magnetic direction",
+              "Equator, with no connection to a compass needle"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Great Lakes: Shipping and Trade; Social Studies: Newspapers and Local Media: Staying Informed; Social Studies: Francophone Communities in Ontario; Social Studies: Treaties Between Canada and Indigenous Peoples.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "The Great Lakes are used as an important ___ route.",
+            "options": [
+              "Shipping",
+              "Only walking, with no connection to large-scale trade",
+              "Underground, with no connection to lakes at all",
+              "A concept unrelated to how goods are transported"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Communities in Ontario where many people speak French as their first language are called ___ communities.",
+            "options": [
+              "Francophone",
+              "A concept unrelated to Ontario's communities",
+              "Anglophone, which refers to English speakers instead",
+              "Indigenous, with no connection to the French language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Newspapers and local media help keep citizens ___ about events happening in their community.",
+            "options": [
+              "Unaware, with no connection to staying informed",
+              "A concept unrelated to how communities share information",
+              "Confused, with no connection to sharing news",
+              "Informed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A treaty is a formal ___ made between the government and Indigenous peoples.",
+            "options": [
+              "Agreement",
+              "A concept unrelated to how treaties work",
+              "Holiday, with no connection to a formal agreement",
+              "Punishment, with no connection to an agreement"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Oral Communication: Giving Clear Directions; Vocabulary: Onomatopoeia and Sound Words; Review: Figurative Language, Sentences, and Vocabulary; Reading: Understanding Foreshadowing; Grammar: Interjections and Exclamations.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Giving clear directions means explaining steps in the correct ___.",
+            "options": [
+              "Volume, with no connection to the order of steps",
+              "A concept unrelated to explaining a process",
+              "Colour, with no connection to giving directions",
+              "Order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Foreshadowing is when an author gives the reader a hint about something that will ___ later in the story.",
+            "options": [
+              "Happen",
+              "A concept unrelated to how stories build suspense",
+              "Never occur, with no connection to future events",
+              "Have already happened, with no connection to the future"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Onomatopoeia is a word that imitates the actual ___ it describes.",
+            "options": [
+              "Sound",
+              "A concept unrelated to how a word is formed",
+              "Colour, with no connection to sound at all",
+              "Shape, with no connection to how a word sounds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The word \"Wow!\" used to express strong feeling is an example of an ___.",
+            "options": [
+              "Interjection",
+              "A concept unrelated to expressing emotion in a sentence",
+              "Adjective, which describes a noun instead",
+              "Conjunction, which joins words together instead"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Venn Diagrams for Sorting; Financial Literacy: Needs vs Wants; Review: Multiplication, Geometry, and Data Strategies; Multiplication: Multiplying by 11 and 12; Geometry: Finding Missing Side Lengths.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A Venn diagram uses overlapping circles to sort items, showing which items share characteristics of ___.",
+            "options": [
+              "Neither group at all",
+              "A concept unrelated to sorting items",
+              "Both groups",
+              "Only a single group, with no overlap possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 12 x 11?",
+            "options": [
+              "121",
+              "132",
+              "144",
+              "110"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A need is something a person must have to ___.",
+            "options": [
+              "A concept unrelated to basic requirements for living",
+              "Simply enjoy their free time, with no connection to survival",
+              "Impress other people, with no connection to survival",
+              "Survive"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A rectangle has a perimeter of 20 cm. If one side is 6 cm, the length of the adjacent side is ___ cm.",
+            "options": [
+              "4",
+              "6",
+              "8",
+              "10"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Severe Weather: Storms and Safety; Science: Plant Adaptations Around the World; Review: Life Cycles, Earth Science, and Adaptations; Science: Adaptations for Winter Survival; Science: How Plants Make Their Own Food.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Severe weather, such as thunderstorms and blizzards, can create ___ conditions.",
+            "options": [
+              "Dangerous",
+              "Completely predictable, with no danger at all",
+              "A concept unrelated to how severe weather affects safety",
+              "Always perfectly calm, with no risk involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Some animals grow a thicker coat of fur in winter to help them stay ___.",
+            "options": [
+              "Warm",
+              "A concept unrelated to winter adaptations",
+              "Cool, which is the opposite of what a thick coat does",
+              "Invisible, with no connection to staying warm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Plants have adaptations that help them survive in different ___.",
+            "options": [
+              "Colours, with no connection to survival",
+              "A concept unrelated to how plants grow",
+              "Time zones, with no connection to plant survival",
+              "Environments"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Plants make their own food through a process called photosynthesis, which uses sunlight, water, and ___.",
+            "options": [
+              "Carbon dioxide",
+              "A concept unrelated to how plants make food",
+              "Soil only, with no connection to sunlight and water",
+              "Salt, with no connection to photosynthesis"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Remembrance Day and Canada\u2019s Veterans; Social Studies: Tourism in Ontario: Visiting Our Province; Review: Laws, Industry, and Communities; Social Studies: Ontario\u2019s Manufacturing Industry; Social Studies: How Municipal Budgets Are Spent.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Remembrance Day is held on ___.",
+            "options": [
+              "November 11th",
+              "July 1st, which is Canada Day instead",
+              "A concept unrelated to a specific date",
+              "January 1st, with no connection to Remembrance Day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ontario's manufacturing industry involves workers using machines and factories to ___ products.",
+            "options": [
+              "Make",
+              "A concept unrelated to how manufacturing works",
+              "Grow, which describes farming instead",
+              "Mine, which describes extracting resources instead"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Tourism is an industry built around people ___ interesting places.",
+            "options": [
+              "Destroying, with no connection to tourism at all",
+              "Visiting",
+              "Ignoring completely, with no connection to travel",
+              "A concept unrelated to how tourism works"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A municipal budget shows how a city or town plans to spend money on shared services such as roads and ___.",
+            "options": [
+              "Parks",
+              "A concept unrelated to how a municipal budget is used",
+              "Only private homes, with no connection to shared services",
+              "Nothing, since budgets are never actually spent"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Prefixes re- and pre-; Writing: Writing an Invitation; Reading: Character Motivation \u2014 Why Characters Act.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "The prefix re- often means ___.",
+            "options": [
+              "A concept unrelated to prefixes",
+              "Before",
+              "Again",
+              "Never"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The prefix pre- usually means ___.",
+            "options": [
+              "After",
+              "Before",
+              "Never",
+              "A concept unrelated to prefixes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of writing tells the reader about an event, including the date and time?",
+            "options": [
+              "An invitation",
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a story, what do we call the reason behind a character's actions?",
+            "options": [
+              "The setting",
+              "Character motivation",
+              "The glossary",
+              "The page number"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Making a Survey and Analyzing Results; Number Sense: Numbers to 10 000; Fractions: Fraction Word Problems.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in conducting a survey?",
+            "options": [
+              "Creating a survey question",
+              "Throwing away all the answers",
+              "A concept unrelated to data collection",
+              "Analyzing the results before asking anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the greatest 4-digit number you can write?",
+            "options": [
+              "9 999",
+              "10 000",
+              "1 000",
+              "9 000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes right after 9 999?",
+            "options": [
+              "10 000",
+              "1 000",
+              "9 998",
+              "10 100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sam ate 1/4 of a pizza and his sister ate 2/4 of the same pizza. How much of the pizza did they eat together?",
+            "options": [
+              "1/4",
+              "2/4",
+              "3/4",
+              "4/4"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Symbiosis: How Living Things Help Each Other; Science: Renewable Building Materials and Sustainable Design; Science: The Layers of the Atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call a close relationship between two different living things?",
+            "options": [
+              "Photosynthesis",
+              "Migration",
+              "A concept unrelated to living things",
+              "Symbiosis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a renewable building material?",
+            "options": [
+              "Wood",
+              "Plastic made from oil",
+              "Concrete only",
+              "A concept unrelated to building"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call design that uses renewable or recycled materials to reduce harm to the environment?",
+            "options": [
+              "A weather pattern",
+              "A math formula",
+              "Sustainable design",
+              "A concept unrelated to building"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which layer of the atmosphere is closest to Earth's surface, where weather happens?",
+            "options": [
+              "The stratosphere",
+              "The troposphere",
+              "The mesosphere",
+              "The exosphere"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Comparing Ontario to Other Provinces; Social Studies: Indigenous Place Names in Ontario; Social Studies: The Role of Non-Profits and Charities Locally.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one Canadian province other than Ontario, such as British Columbia.",
+            "options": [
+              "A city in another country",
+              "British Columbia",
+              "A concept unrelated to Canadian provinces",
+              "An ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is something you might compare between two Canadian provinces?",
+            "options": [
+              "Population size",
+              "The color of the sky",
+              "A concept unrelated to provinces",
+              "The name of a foreign country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do many places in Ontario have names that come from Indigenous languages?",
+            "options": [
+              "Yes",
+              "Only cities in other countries have this feature",
+              "A concept unrelated to Ontario",
+              "No, no places have Indigenous names"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of a non-profit organization?",
+            "options": [
+              "To help the community, not to earn profit for owners",
+              "To make as much money as possible for shareholders",
+              "To avoid helping anyone",
+              "A concept unrelated to charities"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Comparative and Superlative Adjectives; Vocabulary: Antonyms in Context; Reading: Supporting Interpretations with Evidence from the Text; Writing: Writing a Newspaper Article.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A comparative adjective, like taller, compares how many things?",
+            "options": [
+              "Zero",
+              "Two",
+              "Three or more",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A superlative adjective, like tallest, compares how many things?",
+            "options": [
+              "Two",
+              "Three or more",
+              "Zero",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a word that means the opposite of another word?",
+            "options": [
+              "A homophone",
+              "An antonym",
+              "A concept unrelated to vocabulary",
+              "A synonym"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When writing a newspaper article, what should the first paragraph usually include?",
+            "options": [
+              "The most important facts, like who, what, and where",
+              "A poem about the weather",
+              "The author's favorite color",
+              "A list of unrelated jokes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Multiplication: Multiplying by Powers of Ten; Data: Understanding Range in a Data Set; Time: Converting Between Units of Time; Financial Literacy: Simple Profit and Loss in a Lemonade Stand.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 5 times 10?",
+            "options": [
+              "500",
+              "15",
+              "5",
+              "50"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many minutes are in 2 hours?",
+            "options": [
+              "60",
+              "90",
+              "120",
+              "200"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the difference between the highest and lowest values in a data set?",
+            "options": [
+              "The average",
+              "A concept unrelated to data",
+              "The range",
+              "The mode"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If Mia sells lemonade for $1.00 a cup and it costs her $0.25 to make each cup, how much profit does she make per cup?",
+            "options": [
+              "$1.00",
+              "$0.25",
+              "$0.75",
+              "$1.25"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Tides and the Moon\u2019s Pull; Science: Migration Patterns of Canadian Birds; Science: How Sound Travels Through Different Materials; Science: Investigating Density: Why Some Things Float.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the rise and fall of ocean water levels?",
+            "options": [
+              "Tides",
+              "A concept unrelated to oceans",
+              "Erosion",
+              "Precipitation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes the ocean's tides to rise and fall?",
+            "options": [
+              "The pull of the moon's gravity",
+              "The wind blowing",
+              "The temperature of the water",
+              "A concept unrelated to oceans"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call birds traveling long distances each year to find warmer weather?",
+            "options": [
+              "Hibernating",
+              "Migrating",
+              "A concept unrelated to birds",
+              "Photosynthesizing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do some objects float in water while others sink?",
+            "options": [
+              "It depends on the object's density compared to water",
+              "All objects float in water",
+              "All objects sink in water",
+              "A concept unrelated to water"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ontario\u2019s Role in the Underground Railroad; Social Studies: Water Conservation in Ontario Communities; Social Studies: How Weather Affects Ontario\u2019s Economy; Social Studies: Volunteering and Civic Participation.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call the secret network of routes that helped freedom seekers escape enslavement?",
+            "options": [
+              "A type of farm equipment",
+              "A modern subway system",
+              "The Underground Railroad",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which industry in Ontario can be strongly affected by droughts or heavy rainfall?",
+            "options": [
+              "Farming",
+              "Video game design",
+              "A concept unrelated to weather",
+              "Movie animation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes using fresh water carefully and avoiding waste?",
+            "options": [
+              "Water pollution",
+              "Water evaporation",
+              "A concept unrelated to resources",
+              "Water conservation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one way a person can practice civic participation in their community?",
+            "options": [
+              "Volunteering for a local charity",
+              "Ignoring community events",
+              "Refusing to follow any rules",
+              "A concept unrelated to community"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Foreshadowing, Grammar, and Vocabulary; Reading: Understanding Tone and Mood; Grammar: Irregular Plural Nouns; Vocabulary: Homographs.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
+            "options": [
+              "Summary of the whole ending",
+              "List of every character\u2019s name",
+              "Hint",
+              "Concept unrelated to storytelling"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the feeling a reader gets while reading a story, created by details like setting and word choice?",
+            "options": [
+              "Mood",
+              "A concept unrelated to reading",
+              "The title",
+              "The index"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the author\u2019s attitude toward a topic in a piece of writing?",
+            "options": [
+              "Tone",
+              "A concept unrelated to reading",
+              "The title of the book",
+              "The page number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the plural form of the word 'child'?",
+            "options": [
+              "Childs",
+              "Childes",
+              "Children",
+              "Child"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Multiplication, Fractions, and Data; Data: Primary and Secondary Data Sources; Geometry: Classifying Quadrilaterals; Financial Literacy: Comparing Ways to Pay.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 11 times 4?",
+            "options": [
+              "44",
+              "48",
+              "54",
+              "40"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many sides does a quadrilateral have?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call data you collect yourself, such as through your own survey?",
+            "options": [
+              "Secondary data",
+              "Estimated data",
+              "A concept unrelated to data",
+              "Primary data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a way to pay for something without using paper money?",
+            "options": [
+              "A debit card",
+              "A concept unrelated to payment",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Ecosystems, Earth Science, and Physical Science; Science: Life Cycle of a Frog: From Egg to Adult; Science: Freshwater Habitats in Ontario: Lakes and Wetlands; Science: Desert Adaptations: Surviving Extreme Heat and Dryness.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one adaptation animals use to survive winter, such as growing thicker fur.",
+            "options": [
+              "A concept unrelated to survival",
+              "Growing thicker fur",
+              "Losing all their fur",
+              "Ignoring winter completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the stage of a frog's life cycle that comes right after the tadpole stage?",
+            "options": [
+              "Egg",
+              "Adult frog",
+              "Froglet (young frog with legs)",
+              "A concept unrelated to life cycles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the first stage of a frog\u2019s life cycle?",
+            "options": [
+              "Tadpole",
+              "Adult frog",
+              "Egg",
+              "A concept unrelated to life cycles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a freshwater habitat you might find in Ontario?",
+            "options": [
+              "A wetland",
+              "A desert",
+              "An ocean reef",
+              "A volcano"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Industry, History, and Civic Life; Social Studies: United Empire Loyalists and the Founding of Ontario; Social Studies: The War of 1812 in Upper Canada; Social Studies: Black Loyalists and Early Black Communities in Ontario.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call factories producing goods like cars and machinery?",
+            "options": [
+              "Mining",
+              "Farming",
+              "Manufacturing",
+              "A concept unrelated to industry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During the War of 1812, who was Upper Canada fighting against?",
+            "options": [
+              "The United States",
+              "France",
+              "A concept unrelated to Canadian history",
+              "Mexico"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call settlers who stayed loyal to Britain during the American Revolution and moved north?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Early trading partners",
+              "United Empire Loyalists",
+              "Confederation delegates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call communities of Black settlers, including formerly enslaved people, who built new lives in early Ontario?",
+            "options": [
+              "Black Loyalist communities",
+              "A concept unrelated to Canadian history",
+              "Foreign trading posts",
+              "Modern suburbs"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Persuasive Poster; Reading: Author\u2019s Craft \u2014 Word Choice; Grammar: Possessive Nouns; Oral Communication: Storytelling with Expression.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What kind of writing uses a slogan and images to convince someone to take action?",
+            "options": [
+              "A persuasive poster",
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses a possessive noun correctly?",
+            "options": [
+              "The dog's leash is red.",
+              "The dogs leash is red.",
+              "The dog is leash is red.",
+              "The doges leash is red."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an author\u2019s choice of specific words to create meaning or feeling?",
+            "options": [
+              "Word choice",
+              "A concept unrelated to reading",
+              "The index",
+              "The table of contents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When telling a story aloud, what does using expression in your voice help show?",
+            "options": [
+              "The feelings and emotions in the story",
+              "Nothing important",
+              "How fast you can read",
+              "The spelling of words"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number: Fact Families for Addition and Subtraction; Measurement: Estimating Length in Centimetres and Metres; Number: Ordering Numbers to 10 000; Multiplication: Estimating Products.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call a group of related addition and subtraction facts using the same three numbers?",
+            "options": [
+              "A fact family",
+              "A place value chart",
+              "A concept unrelated to number sense",
+              "A number line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which list shows these numbers ordered from least to greatest: 4521, 1452, 5214, 2145?",
+            "options": [
+              "1452, 2145, 4521, 5214",
+              "5214, 4521, 2145, 1452",
+              "1452, 4521, 2145, 5214",
+              "2145, 1452, 5214, 4521"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which unit would you most likely use to measure the length of a pencil?",
+            "options": [
+              "Litres",
+              "Centimetres",
+              "Kilometres",
+              "Metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is the best estimate for 29 x 4?",
+            "options": [
+              "120",
+              "100",
+              "150",
+              "90"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Structures That Withstand Earthquakes; Science: Ferns and Mosses: Plants Without Seeds; Science: The Difference Between Insects and Spiders; Science: Coral Reefs: Ocean Ecosystems Full of Life.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What natural event can cause the ground and buildings to shake suddenly?",
+            "options": [
+              "A concept unrelated to structures",
+              "Photosynthesis",
+              "An earthquake",
+              "A tide"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "Six",
+              "Eight",
+              "Four",
+              "Ten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do ferns and mosses reproduce using seeds or spores?",
+            "options": [
+              "Seeds",
+              "A concept unrelated to plant reproduction",
+              "Neither seeds nor spores",
+              "Spores"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is special about a coral reef ecosystem?",
+            "options": [
+              "It is home to many different ocean plants and animals",
+              "It has no living things",
+              "It is found only in deserts",
+              "It is made entirely of ice"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Religious Diversity in Ontario Communities; Social Studies: Trade Between Ontario and the United States; Social Studies: Recycling and Waste Management Programs in Ontario; Social Studies: Public Libraries as Community Spaces.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one religion practised by people in Ontario communities, such as Christianity.",
+            "options": [
+              "Christianity",
+              "A sport",
+              "A type of government",
+              "A concept unrelated to religion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way communities in Ontario reduce waste?",
+            "options": [
+              "Recycling programs",
+              "Burning all garbage in the street",
+              "Throwing everything into rivers",
+              "Banning all packaging"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name the country that borders Ontario and trades goods with it.",
+            "options": [
+              "The United States",
+              "Australia",
+              "A concept unrelated to trade",
+              "France"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can people do at a public library?",
+            "options": [
+              "Borrow books and use community resources",
+              "Only buy new books",
+              "Pay taxes",
+              "Get a driver's license"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Portmanteau (Blended) Words; Reading: Text Features \u2014 Table of Contents and Index; Review: Tone, Grammar, and Vocabulary; Grammar: Commas in Dates and Addresses.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What do we call a word made by blending parts of two other words together?",
+            "options": [
+              "A portmanteau, or blended word",
+              "A synonym",
+              "A homophone",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What part of a book lists topics in alphabetical order along with page numbers, usually found at the back?",
+            "options": [
+              "The index",
+              "The table of contents",
+              "The glossary",
+              "The title page"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where would you usually find a table of contents in a book, the front or the back?",
+            "options": [
+              "The back",
+              "The front",
+              "In the middle only",
+              "A concept unrelated to books"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where should a comma be placed in the date July 4, 2023?",
+            "options": [
+              "Between the day and the year",
+              "Between the month and the day",
+              "At the very end",
+              "No comma is needed"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Predicting and Testing Outcomes with a Spinner; Geometry: Perimeter of Regular Polygons; Review: Data, Geometry, and Number Sense; Number: Rounding to the Nearest 1000.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What tool can be used to test predictions about chance, such as a ___?",
+            "options": [
+              "A concept unrelated to probability",
+              "Spinner",
+              "A ruler",
+              "A calendar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the perimeter of a regular pentagon with each side measuring 6 cm?",
+            "options": [
+              "30 cm",
+              "25 cm",
+              "36 cm",
+              "24 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a polygon whose sides are all the same length?",
+            "options": [
+              "A concept unrelated to geometry",
+              "A regular polygon",
+              "A circle",
+              "An irregular polygon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 3,482 rounded to the nearest 1000?",
+            "options": [
+              "3,000",
+              "4,000",
+              "3,500",
+              "3,482"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Difference Between Deciduous and Coniferous Trees; Science: How Roots, Stems, and Leaves Work Together; Review: Life Cycles, Habitats, and Plant Science; Science: Bird Adaptations for Flight.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Do deciduous trees lose their leaves in the fall?",
+            "options": [
+              "Only coniferous trees lose their leaves",
+              "No, deciduous trees keep every leaf all year",
+              "A concept unrelated to trees",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do coniferous trees have instead of broad leaves?",
+            "options": [
+              "Needles",
+              "Petals",
+              "Bulbs",
+              "Fronds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What part of a plant absorbs water from the soil?",
+            "options": [
+              "A concept unrelated to plants",
+              "The leaves",
+              "The roots",
+              "The flower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What body feature helps birds fly through the air?",
+            "options": [
+              "Hollow, lightweight bones",
+              "Solid, heavy bones",
+              "Gills",
+              "Fins"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sports and Recreation in Ontario Communities; Social Studies: How Ontario\u2019s Population Has Grown Over Time; Review: Ontario History and Community Life; Social Studies: The Niagara Escarpment \u2014 A Unique Ontario Landform.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one type of recreation program a community might offer, such as a ___.",
+            "options": [
+              "A concept unrelated to recreation",
+              "A tax form",
+              "A traffic law",
+              "Sports league"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community build parks and recreation centres?",
+            "options": [
+              "To give people places to be active and have fun",
+              "To increase traffic",
+              "To reduce the number of trees",
+              "To close schools"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one factor that can cause a province\u2019s population to grow, such as ___.",
+            "options": [
+              "A concept unrelated to population",
+              "A weather pattern",
+              "A math equation",
+              "Immigration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the Niagara Escarpment?",
+            "options": [
+              "A long ridge of rock that stretches across parts of Ontario",
+              "A large ocean",
+              "A type of government building",
+              "A major airport"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Suffixes -ful and -less; Reading: Text Features \u2014 Bold Print and Glossary; Writing: Writing a Thank-You Note; Oral Communication: Understanding Body Language and Tone of Voice.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does the suffix -ful mean?",
+            "options": [
+              "Full of",
+              "After",
+              "Without",
+              "Before"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the suffix -less mean?",
+            "options": [
+              "Without",
+              "Full of",
+              "Again",
+              "Before"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call print that is darker and thicker than the rest of the text?",
+            "options": [
+              "A caption",
+              "Italics",
+              "Bold print",
+              "A footnote"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of a thank-you note?",
+            "options": [
+              "To express gratitude for a gift or kind act",
+              "To complain about something",
+              "To ask for money",
+              "To give a weather report"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions: Comparing Fractions with the Same Numerator; Geometry: Comparing Angles to a Right Angle; Financial Literacy: Calculating Sales Tax on Purchases; Measurement: Introducing Volume with Non-Standard Units.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which fraction is greater: 1/3 or 1/5?",
+            "options": [
+              "Cannot tell",
+              "1/5",
+              "They are equal",
+              "1/3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a toy costs $10 and the sales tax is 8%, about how much extra will you pay in tax?",
+            "options": [
+              "$0.80",
+              "$1.80",
+              "$0.08",
+              "$8.00"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an angle that is exactly the same size as a right angle?",
+            "options": [
+              "A right angle",
+              "A concept unrelated to angles",
+              "An obtuse angle",
+              "An acute angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can you use non-standard units, like small cubes, to measure?",
+            "options": [
+              "The volume of a container",
+              "The temperature of water",
+              "The weight of an object in kilograms",
+              "The time it takes to walk to school"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Ocean Habitats and Life in the Open Sea; Science: Herbivores, Carnivores, and Omnivores; Science: Rainforest Ecosystems and Biodiversity; Science: Mimicry in the Animal Kingdom.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Is ocean water salt water or fresh water?",
+            "options": [
+              "Neither salt nor fresh water",
+              "Fresh water",
+              "A concept unrelated to oceans",
+              "Salt water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do rainforests have so many different kinds of plants and animals?",
+            "options": [
+              "They have warm temperatures and lots of rainfall",
+              "They are very cold and dry all year",
+              "They have almost no sunlight",
+              "They are covered in ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an animal that eats only plants?",
+            "options": [
+              "A concept unrelated to animal diets",
+              "A carnivore",
+              "An omnivore",
+              "A herbivore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is mimicry in animals?",
+            "options": [
+              "When an animal looks like another animal or object to stay safe",
+              "When an animal hibernates all winter",
+              "When an animal migrates to a new habitat",
+              "When an animal only eats meat"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Two Official Languages \u2014 English and French; Social Studies: Ontario\u2019s Provincial Parks and Conservation Areas; Social Studies: The Trans-Canada Highway and Travel Across the Country; Social Studies: Emergency Services That Keep Communities Safe.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What are Canada\u2019s two official languages?",
+            "options": [
+              "A concept unrelated to Canada",
+              "English and French",
+              "French and German",
+              "English and Spanish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Trans-Canada Highway used for?",
+            "options": [
+              "Traveling across the country by road",
+              "Sailing between provinces",
+              "Flying between cities",
+              "Sending mail overseas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one purpose of a provincial park?",
+            "options": [
+              "A concept unrelated to conservation",
+              "To protect natural habitats",
+              "To build more factories",
+              "To remove all trees and plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one emergency service that helps keep communities safe.",
+            "options": [
+              "Firefighters",
+              "A grocery store",
+              "A movie theatre",
+              "A shopping mall"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Plural Possessive Nouns; Reading: Making Inferences from Illustrations; Vocabulary: Alliteration; Writing: Writing a Personal Narrative (Memoir).",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "How do you usually form a possessive noun for a plural noun that already ends in -s?",
+            "options": [
+              "Add -ing",
+              "Add an apostrophe after the s",
+              "Add an apostrophe and another s",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "A rhyme at the end of two words",
+              "The repetition of starting sounds in nearby words",
+              "A word that means the opposite of another",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call an educated guess based on clues in a text or picture?",
+            "options": [
+              "A footnote",
+              "An inference",
+              "A glossary",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a personal narrative (memoir) mainly about?",
+            "options": [
+              "A made-up fantasy world",
+              "A true story from the writer's own life",
+              "Instructions for a recipe",
+              "A list of vocabulary words"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Finding the Mode of a Data Set; Multiplication: Properties of Multiplying by 0 and 1; Patterning: Identifying the Core of a Repeating Pattern; Probability: Fair and Unfair Games.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call the value that appears most often in a data set?",
+            "options": [
+              "A concept unrelated to data",
+              "The total",
+              "The range",
+              "The mode"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 6 multiplied by 0?",
+            "options": [
+              "6",
+              "1",
+              "0",
+              "60"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 7 multiplied by 1?",
+            "options": [
+              "1",
+              "8",
+              "7",
+              "0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a fair game, every player has ___ chance of winning.",
+            "options": [
+              "no",
+              "an unequal",
+              "a guaranteed",
+              "an equal"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: How Our Bodies Use Simple Machines; Science: Complete vs Incomplete Metamorphosis in Insects; Science: Groundwater and How Soil Filters Water; Science: Fungi \u2014 Neither Plant Nor Animal.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What simple machine does your arm act like when you bend it to lift something?",
+            "options": [
+              "A lever",
+              "A pulley",
+              "A wheel-and-axle",
+              "A concept unrelated to simple machines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does soil do to water as it seeps through the ground?",
+            "options": [
+              "Colors it",
+              "Filters it",
+              "Freezes it",
+              "Heats it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many main stages does complete metamorphosis have?",
+            "options": [
+              "Two",
+              "Four",
+              "Three",
+              "Five"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a fungus?",
+            "options": [
+              "Fern",
+              "Moss",
+              "Mushroom",
+              "Cactus"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Wind and Solar Energy Projects in Ontario; Social Studies: Air Travel and Ontario\u2019s Airports; Social Studies: Oral History \u2014 Learning from Elders and Storytellers; Social Studies: Building the Railway and Its Impact on Ontario.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one natural resource used to generate renewable energy in Ontario.",
+            "options": [
+              "Concrete",
+              "Plastic",
+              "Wind",
+              "A concept unrelated to energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is oral history important?",
+            "options": [
+              "It has no real value",
+              "It is only found in encyclopedias",
+              "It preserves stories passed down by elders and storytellers",
+              "It replaces the need for schools"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one large airport located in Ontario.",
+            "options": [
+              "A bus terminal",
+              "A subway station",
+              "A concept unrelated to airports",
+              "Toronto Pearson"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did building the railway affect Ontario?",
+            "options": [
+              "It had no effect on the province",
+              "It helped connect communities and move goods and people",
+              "It stopped all farming",
+              "It only affected air travel"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Grammar, Vocabulary, and Reading Strategies; Grammar: Pronoun-Antecedent Agreement; Reading: Identifying Genre \u2014 Fiction, Nonfiction, and Poetry; Vocabulary: Analogies.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "In the date July 22, 2026, where should the comma be placed?",
+            "options": [
+              "Between the month and the day",
+              "Nowhere, dates never use commas",
+              "Between the day and the year",
+              "At the very end"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which genre is a story about real, true events?",
+            "options": [
+              "Fiction",
+              "Poetry",
+              "Nonfiction",
+              "A concept unrelated to genre"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence Maria lost her book, what is the antecedent of her?",
+            "options": [
+              "Maria",
+              "lost",
+              "book",
+              "her"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Cat is to kitten as dog is to ___.",
+            "options": [
+              "Cub",
+              "Puppy",
+              "Calf",
+              "Chick"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Number, Geometry, and Data; Fractions: Equivalent Fractions; Division: Two-Digit by One-Digit Division; Multiplication: Two-Digit by One-Digit Using the Standard Algorithm.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which digit do you look at to round a number to the nearest 1000?",
+            "options": [
+              "The hundreds digit",
+              "The tens digit",
+              "A concept unrelated to rounding",
+              "The ones digit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 84 divided by 4?",
+            "options": [
+              "20",
+              "22",
+              "21",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which fraction is equivalent to 1/2?",
+            "options": [
+              "1/4",
+              "3/8",
+              "2/3",
+              "2/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 23 multiplied by 3?",
+            "options": [
+              "63",
+              "66",
+              "96",
+              "69"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Adaptations, Ecosystems, and Classification; Science: Owls \u2014 Nocturnal Hunters with Special Adaptations; Science: Bats \u2014 Nocturnal Mammals That Use Echolocation; Science: Comets and Asteroids \u2014 Visitors from Space.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of bones do birds have that help them fly?",
+            "options": [
+              "A concept unrelated to birds",
+              "Lightweight hollow bones",
+              "No bones at all",
+              "Heavy solid bones"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What special ability do bats use to find food and fly in the dark?",
+            "options": [
+              "Camouflage",
+              "Echolocation",
+              "X-ray vision",
+              "Super speed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When are owls typically active?",
+            "options": [
+              "Only underwater",
+              "Never",
+              "At night",
+              "Only at noon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the difference between a comet and an asteroid?",
+            "options": [
+              "A comet is a planet and an asteroid is a moon",
+              "They are exactly the same thing",
+              "A comet is made mostly of ice and dust, while an asteroid is mostly rock and metal",
+              "A comet orbits Earth and an asteroid does not"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Ontario\u2019s Landmarks, Government, and Trade; Social Studies: Physical Regions of Canada \u2014 The Interior Plains; Social Studies: Canadas Head of State \u2014 The Role of the Monarchy; Social Studies: The RCMP \u2014 Canadas National Police Force.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a long, rocky ridge of land such as the Niagara Escarpment?",
+            "options": [
+              "A type of currency",
+              "A type of government",
+              "A landform",
+              "A concept unrelated to geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who is Canada's Head of State?",
+            "options": [
+              "The Prime Minister",
+              "The Premier",
+              "The Monarch (King or Queen)",
+              "The Mayor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Interior Plains region known for?",
+            "options": [
+              "Tropical rainforest",
+              "Tall mountains only",
+              "Coral reefs",
+              "Fertile farmland and grasslands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main job of the RCMP?",
+            "options": [
+              "Delivering the mail across Canada",
+              "Canada's national police force that enforces the law",
+              "Running the school system",
+              "Collecting taxes"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing Dialogue Between Characters; Reading: Summarizing a Nonfiction Article; Reading: Symbolism \u2014 When an Object Means More Than Itself; Oral Communication: Preparing and Giving a Short Speech.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What punctuation is used to show a character speaking?",
+            "options": [
+              "An ellipsis",
+              "A semicolon",
+              "Quotation marks",
+              "A colon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a story, what does it mean when an object is used as a symbol?",
+            "options": [
+              "It is just there for decoration",
+              "It represents something more than its literal meaning",
+              "It replaces a punctuation mark",
+              "It shows the setting of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the first step in summarizing a nonfiction article?",
+            "options": [
+              "Copying the whole article",
+              "Ignoring the article",
+              "Identifying the main topic",
+              "Drawing a picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an important step when preparing to give a short speech?",
+            "options": [
+              "Avoiding eye contact with the audience",
+              "Speaking as fast as possible",
+              "Practicing what you will say",
+              "Reading a book unrelated to the topic"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Line Plots; Financial Literacy: Understanding Interest \u2014 How Savings Grow; Measurement: Perimeter vs Area \u2014 What Is the Difference; Number: Rounding to the Nearest 100.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does a line plot use to show data?",
+            "options": [
+              "Only colours",
+              "Only pie slices",
+              "Marks like Xs or dots above a number line",
+              "Only bars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The space inside a shape",
+              "The distance around the outside of a shape",
+              "The weight of a shape",
+              "The number of angles in a shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is interest?",
+            "options": [
+              "A punishment for saving",
+              "Money taken away from your savings",
+              "A type of coin",
+              "Extra money a bank may add to savings over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 452 rounded to the nearest hundred?",
+            "options": [
+              "400",
+              "460",
+              "450",
+              "500"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Fish \u2014 Gills, Fins, and Life Underwater; Science: Hibernation \u2014 How Some Animals Sleep Through Winter; Science: Tundra Habitats \u2014 Life in the Cold; Science: Lightning and Thunder \u2014 Electricity in the Sky.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What body part do fish use to breathe underwater?",
+            "options": [
+              "Skin only",
+              "Nostrils",
+              "Gills",
+              "Lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the tundra habitat known for?",
+            "options": [
+              "Hot deserts with cacti",
+              "Warm tropical rainforests",
+              "Cold temperatures and very few trees",
+              "Underwater coral reefs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A kind of migration",
+              "A type of summer activity",
+              "A way animals find food quickly",
+              "A deep, long sleep some animals use to survive winter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes thunder?",
+            "options": [
+              "Clouds bumping into each other",
+              "Rain hitting the ground hard",
+              "The rapid heating and expansion of air caused by lightning",
+              "Wind blowing through the trees"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Justice System \u2014 Courts and Judges; Social Studies: The Census \u2014 Counting Everyone in Canada; Social Studies: Terry Fox \u2014 A Canadian Hero and His Marathon of Hope; Social Studies: Canada Day \u2014 Celebrating Our Country.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Who makes decisions in a courtroom?",
+            "options": [
+              "A judge",
+              "A mayor",
+              "A shopkeeper",
+              "A teacher"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was Terry Fox trying to raise awareness and money for during his Marathon of Hope?",
+            "options": [
+              "Building new highways",
+              "Cancer research",
+              "Cleaning the oceans",
+              "New school supplies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a census?",
+            "options": [
+              "An official count of everyone in a country",
+              "A kind of map",
+              "A sports event",
+              "A type of holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Canada celebrate on Canada Day?",
+            "options": [
+              "The founding of Canada as a country",
+              "The end of winter",
+              "A hockey championship",
+              "A provincial election"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Abbreviations and Acronyms; Vocabulary: Shades of Meaning; Language Review: Pronouns, Genre, and Speaking Skills; Grammar: Complex Sentences and Subordinate Clauses.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is an abbreviation?",
+            "options": [
+              "A type of poem",
+              "A full sentence",
+              "A shortened form of a word",
+              "A punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "A rhyming poem",
+              "A punctuation mark",
+              "A word formed from the first letters of several words",
+              "A type of subordinate clause"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does shades of meaning refer to?",
+            "options": [
+              "Small differences in the intensity of similar words",
+              "The colour of a word on a page",
+              "A grammar rule",
+              "A type of punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a complex sentence, what does a subordinate clause do?",
+            "options": [
+              "It always contains the main idea",
+              "It cannot stand alone as a complete sentence",
+              "It always ends with a question mark",
+              "It replaces the subject of the sentence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning: Patterns in a Multiplication Chart; Probability: Certain, Likely, Unlikely, and Impossible; Math Review: Fractions, Division, and Measurement; Geometry: Classifying Triangles by Angle \u2014 Acute, Right, and Obtuse.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "In a multiplication chart, the numbers in the 2s column increase by ___ each row.",
+            "options": [
+              "2",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an event will never happen, it is described as ___.",
+            "options": [
+              "Certain",
+              "Likely",
+              "Unlikely",
+              "Impossible"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an event will definitely happen, it is described as ___.",
+            "options": [
+              "Impossible",
+              "Certain",
+              "Unlikely",
+              "Random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A triangle with one 90-degree angle is called a ___ triangle.",
+            "options": [
+              "Acute",
+              "Right",
+              "Obtuse",
+              "Equilateral"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Fossil Fuels \u2014 Coal, Oil, and Natural Gas; Magnets: Attract and Repel; Rocks and Soil; Animal Babies: Born Live or Hatched from Eggs.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one type of fossil fuel.",
+            "options": [
+              "Wind power",
+              "Water",
+              "Coal",
+              "Solar power"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals hatches from an egg?",
+            "options": [
+              "Dog",
+              "Cat",
+              "Chicken",
+              "Horse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a magnet pull toward it?",
+            "options": [
+              "Water",
+              "Paper only",
+              "Wooden blocks",
+              "Certain metal objects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Weathering breaks down rocks into small pieces that become part of the ___.",
+            "options": [
+              "Ocean",
+              "Soil",
+              "Atmosphere",
+              "Magnet"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sister Cities \u2014 Twin Communities Around the World; Social Studies: The Commonwealth \u2014 Canadas International Connections; Social Studies Review: Government, Geography, and Canadian Identity; Social Studies: Physical Regions of Canada \u2014 The Hudson Bay Lowlands.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a sister city?",
+            "options": [
+              "A city with no people",
+              "A partner community in another country",
+              "A type of building",
+              "A kind of holiday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Hudson Bay Lowlands region mostly known for?",
+            "options": [
+              "Tall mountain peaks",
+              "Sandy deserts",
+              "Wetlands, marshes, and a cold, flat landscape",
+              "Dense tropical jungle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Commonwealth?",
+            "options": [
+              "A single country",
+              "A sports league",
+              "A type of currency",
+              "A voluntary association of countries with shared historical ties"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a symbol of Canadian identity?",
+            "options": [
+              "The Eiffel Tower",
+              "The maple leaf flag",
+              "The Statue of Liberty",
+              "Mount Fuji"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Personification; Reading: Comparing Multiple Versions of the Same Story; Writing: Writing a Biography; Oral Communication: Participating in a Group Discussion.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "A type of punctuation",
+              "A synonym for a noun",
+              "Giving human qualities to something that is not human",
+              "A rhyme scheme in poetry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a biography tell about?",
+            "options": [
+              "A made-up story about dragons",
+              "The true story of a real person's life written by someone else",
+              "A list of math facts",
+              "The rules of a card game"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When comparing two versions of the same story, what might a reader look for?",
+            "options": [
+              "Only the page numbers",
+              "Similarities and differences in characters, setting, and events",
+              "The name of the printer",
+              "The colour of the cover"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When participating in a group discussion, what is important to do?",
+            "options": [
+              "Talk the whole time without stopping",
+              "Listen to others and wait for your turn to speak",
+              "Only talk to your best friend",
+              "Ignore what others say"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Arrays: Rows and Columns of Objects; Place Value: Writing Numbers in Expanded Form; Rounding to the Nearest Ten; Comparison Subtraction: How Many More?.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is an array?",
+            "options": [
+              "A random pile of objects",
+              "A single line of objects",
+              "A type of graph only",
+              "Objects arranged in equal rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 68 rounded to the nearest ten?",
+            "options": [
+              "60",
+              "70",
+              "65",
+              "80"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 47 written in expanded form?",
+            "options": [
+              "40+7",
+              "4+7",
+              "40+70",
+              "470"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sam has 15 stickers and Mia has 9 stickers. How many more stickers does Sam have than Mia?",
+            "options": [
+              "24",
+              "5",
+              "6",
+              "9"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Inside a Seed: How a Plant Begins; Simple Machines: Levers and Pulleys; States of Matter: Solid, Liquid, and Gas; Our Brain: The Body Control Centre.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What tiny object holds everything a new plant needs to grow?",
+            "options": [
+              "A cloud",
+              "A seed",
+              "A shell",
+              "A rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which state of matter has a fixed shape and does not flow?",
+            "options": [
+              "Gas",
+              "Liquid",
+              "Solid",
+              "Steam"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What simple machine uses a bar and a support point to lift things?",
+            "options": [
+              "A pulley",
+              "A ramp",
+              "A wheel only",
+              "A lever"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What part of your body controls your thoughts, movements, and senses?",
+            "options": [
+              "The lungs",
+              "The brain",
+              "The stomach",
+              "The skin"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas National Symbols \u2014 The Flag and Anthem; Social Studies: The Role of the Prime Minister; Social Studies: The Metis Nation and Their History; Social Studies: Statutory Holidays Across Canada.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What image appears on the Canadian flag?",
+            "options": [
+              "A maple leaf",
+              "A crown",
+              "A star",
+              "An eagle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Metis Nation formed from the mixing of which two peoples?",
+            "options": [
+              "First Nations and European settlers",
+              "Inuit and American settlers",
+              "Only French people",
+              "Only British people"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Prime Minister the leader of?",
+            "options": [
+              "A sports league",
+              "A single city",
+              "A school board",
+              "The federal government of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a statutory holiday?",
+            "options": [
+              "A regular school day",
+              "A day off work established by law, like Canada Day",
+              "A type of Canadian coin",
+              "A weekend chore"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Connotation and Denotation; Reading: Text Structure \u2014 Sequence and Chronological Order; Grammar: Using a Thesaurus to Improve Word Choice; Writing: Writing a Research Report; Language Review: Complex Sentences, Personification, and Discussion Skills.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is denotation?",
+            "options": [
+              "The literal, dictionary definition of a word",
+              "A rhyme within a poem",
+              "A type of punctuation",
+              "The feeling a word gives the reader"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is connotation?",
+            "options": [
+              "The literal dictionary meaning of a word",
+              "The feeling or idea a word suggests beyond its literal meaning",
+              "A word's spelling pattern",
+              "The number of syllables in a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sequence text structure show?",
+            "options": [
+              "Events or steps in the order they happen",
+              "A single opinion",
+              "A list of definitions only",
+              "A comparison between two topics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a thesaurus used for?",
+            "options": [
+              "Finding the spelling of a word",
+              "Finding synonyms and antonyms for a word",
+              "Finding the population of a country",
+              "Finding math formulas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Balancing Objects: Heavier and Lighter; Calendar Math: Counting Days Until an Event; Skip Counting by 25s: Counting Quarters; Estimating Cost: About How Much Does It Cost?; Data: Comparing Two Bar Graphs.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What tool helps us compare the weight of two objects?",
+            "options": [
+              "A thermometer",
+              "A ruler",
+              "A clock",
+              "A balance scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 25s, what comes after 25, 50, 75?",
+            "options": [
+              "90",
+              "100",
+              "110",
+              "125"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tool is used to count days until an event?",
+            "options": [
+              "A calendar",
+              "A ruler",
+              "A thermometer",
+              "A scale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how much would 3 items that each cost close to $2 cost in total?",
+            "options": [
+              "$3",
+              "$6",
+              "$9",
+              "$12"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Grassland Habitats: Wide Open Spaces; Rainbows: Colours After the Rain; Sound: Loud, Quiet, High, and Low; Science Review: Bodies, Habitats, and States of Matter; Science Review: Earth, Habitats, and Our Bodies.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What covers most of a grassland habitat?",
+            "options": [
+              "Ice",
+              "Sand dunes only",
+              "Deep water",
+              "Grass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What describes how high or low a sound is?",
+            "options": [
+              "Volume",
+              "Pitch",
+              "Rhythm",
+              "Echo"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What weather event often happens before we see a rainbow?",
+            "options": [
+              "A clear night",
+              "Rain",
+              "Snow",
+              "Wind only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word means a sound is soft, not loud?",
+            "options": [
+              "Loud",
+              "Quiet",
+              "Sharp",
+              "Deep"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadian Inventions That Changed the World; Social Studies: Canada and the United Nations; Social Studies: The Royal Canadian Mint \u2014 How Coins Are Made; Social Studies: Canadas Major Trading Partners; Social Studies Review: Regions, Symbols, and Government.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these inventions is credited to a Canadian context?",
+            "options": [
+              "The telephone",
+              "The printing press",
+              "The wheel",
+              "The compass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Royal Canadian Mint make?",
+            "options": [
+              "Canada's coins",
+              "Canada's flags",
+              "Canada's stamps",
+              "Canada's maps"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the United Nations?",
+            "options": [
+              "A single country",
+              "An international organization that countries join to cooperate",
+              "A sports league",
+              "A type of currency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is Canada's largest trading partner?",
+            "options": [
+              "The United States",
+              "Brazil",
+              "Egypt",
+              "New Zealand"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Correcting Run-on Sentences; Vocabulary: Etymology \u2014 Where Words Come From; Reading: Identifying the Central Argument in Persuasive Text; Writing: Writing a Formal Email; Oral Communication: Interviewing Skills \u2014 Asking and Answering Questions.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a run-on sentence?",
+            "options": [
+              "A question with no answer",
+              "A sentence with no verb",
+              "A sentence that is too short",
+              "Two or more independent clauses joined without proper punctuation or a conjunction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a persuasive text, what is the central argument?",
+            "options": [
+              "A random fact with no purpose",
+              "The main point the author is trying to convince the reader to believe",
+              "The title of the text only",
+              "A list of characters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is etymology?",
+            "options": [
+              "The study of handwriting",
+              "The study of where words come from and how they have changed",
+              "The study of grammar rules only",
+              "The study of punctuation marks"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should you include when writing a formal email?",
+            "options": [
+              "Text message abbreviations like 'lol'",
+              "A polite greeting, clear message, and a proper closing",
+              "Only emojis",
+              "Random doodles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Arrays, Rounding, and Comparing Data; Skip Counting by 20s; Length: Measuring with a Ruler in Centimetres; Numbers to 300: Beyond 200; Skip Counting by 4s to 40.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "An array with 3 rows of 4 has how many objects in total?",
+            "options": [
+              "10",
+              "14",
+              "12",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tool do you use to measure length in centimetres?",
+            "options": [
+              "A thermometer",
+              "A ruler",
+              "A scale",
+              "A clock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What comes next: 20, 40, 60, ___?",
+            "options": [
+              "75",
+              "90",
+              "70",
+              "80"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 4s: 4, 8, 12, 16, ___?",
+            "options": [
+              "18",
+              "20",
+              "24",
+              "22"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Life Cycle of a Chicken: Egg to Hen; Pond Habitats: Life In and Around the Water; Mountain Habitats: Life High Up; Gravity: Why Things Fall Down; Static Electricity: Making Things Stick.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a baby chick hatch out of?",
+            "options": [
+              "An egg",
+              "A rock",
+              "A flower",
+              "A shell of sand"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What pulls objects down toward the Earth?",
+            "options": [
+              "Wind",
+              "Gravity",
+              "Sound",
+              "Light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a pond?",
+            "options": [
+              "A dry desert",
+              "A small habitat of still water",
+              "A huge ocean",
+              "A snowy mountain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can happen when you rub a balloon on your hair, due to static electricity?",
+            "options": [
+              "The balloon melts",
+              "Your hair might stick up and be attracted to the balloon",
+              "The balloon turns a different colour",
+              "Nothing happens at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Inuit \u2014 Culture and Life in the Arctic; Social Studies: Early European Explorers in Canada; Canadas Territories: The North; Trading and Bartering Long Ago; Community Centres: Places to Play and Learn.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "The Inuit are one of how many recognized groups of Indigenous peoples in Canada?",
+            "options": [
+              "One",
+              "Twenty",
+              "Three",
+              "Ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many territories make up the North of Canada?",
+            "options": [
+              "One",
+              "Two",
+              "Three",
+              "Five"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did early European explorers travel to what is now Canada?",
+            "options": [
+              "To avoid all contact with people",
+              "By complete accident with no purpose",
+              "Searching for new trade routes and resources",
+              "To build cities that already existed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bartering?",
+            "options": [
+              "Trading goods or services directly without using money",
+              "Paying only with credit cards",
+              "Giving gifts with nothing in return",
+              "A type of Canadian coin"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Collective Nouns for Groups of Animals and People; Reading: Comparing a Book and Its Film Adaptation; Grammar: Using Transition Words to Link Ideas; Writing: Writing an Eyewitness News Report.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a collective noun?",
+            "options": [
+              "A noun that names only one object",
+              "An adjective that describes a noun",
+              "A noun that names a group treated as one unit",
+              "A verb that describes an action"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a collective noun for a group of animals?",
+            "options": [
+              "Flock",
+              "Puppy",
+              "Bark",
+              "Furry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a film adaptation?",
+            "options": [
+              "A movie version of a book",
+              "A type of poem",
+              "A type of comic strip",
+              "A type of textbook"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of an eyewitness news report?",
+            "options": [
+              "To describe what a person actually saw happen",
+              "To write a fictional fairy tale",
+              "To list a set of math facts",
+              "To draw a picture with no words"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Time to the Nearest Five Minutes; Fractions: Introducing Thirds; Doubling Two-Digit Numbers; Money: Making a Target Amount with Different Coins.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If the minute hand points to the 2, how many minutes past the hour is it?",
+            "options": [
+              "5",
+              "2",
+              "20",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is double 34?",
+            "options": [
+              "68",
+              "64",
+              "38",
+              "17"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape is cut into three equal parts, each part is called ___.",
+            "options": [
+              "A quarter",
+              "A third",
+              "A whole",
+              "A half"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which combination of coins makes exactly 35 cents?",
+            "options": [
+              "A quarter and a dime",
+              "Two dimes",
+              "Three nickels",
+              "A quarter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Moon: Watching It Change Shape; Germs: Staying Healthy and Washing Our Hands; Fossils: Clues from Long Ago; Water Conservation: Saving Our Water.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What object in the night sky appears to change shape over about a month?",
+            "options": [
+              "A star",
+              "The sun",
+              "A cloud",
+              "The moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "The preserved remains or traces of a living thing from long ago",
+              "A type of cloud",
+              "A fresh vegetable",
+              "A kind of modern machine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are germs?",
+            "options": [
+              "Large visible bugs",
+              "Tiny living things too small to see that can make us sick",
+              "Types of clouds",
+              "Colourful rocks"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a good way to conserve water at home?",
+            "options": [
+              "Turning off the tap while brushing your teeth",
+              "Leaving the hose running all day",
+              "Taking very long baths every time",
+              "Washing one dish at a time under running water"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Winter Celebrations Around the World; How Goods Travel: From Factory to Store; Canadas Two Official Languages: English and French; Helping New Students Feel Welcome at School.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What might families do during a winter celebration?",
+            "options": [
+              "Light candles or share a special meal",
+              "Avoid any traditions",
+              "Stay apart from family",
+              "Ignore each other completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are Canada's two official languages?",
+            "options": [
+              "English and French",
+              "English and Spanish",
+              "French and German",
+              "English and Mandarin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where are many goods first made?",
+            "options": [
+              "Inside a store only",
+              "In a factory",
+              "Underground caves only",
+              "On the moon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a kind way to help a new student feel welcome at school?",
+            "options": [
+              "Invite them to join you at lunch or recess",
+              "Ignore them completely",
+              "Keep the school rules a secret from them",
+              "Laugh at the way they talk"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Run-on Sentences, Etymology, and Interview Skills; Dialogue: Using Quotation Marks in Conversation; Text Features: Table of Contents and Index; Run-on Sentences: Too Many Ideas at Once.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which sentence is a run-on sentence?",
+            "options": [
+              "I like dogs I like cats too.",
+              "I like dogs.",
+              "Do you like dogs?",
+              "Dogs are fun pets."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does etymology study?",
+            "options": [
+              "The origin and history of words",
+              "The shapes of leaves",
+              "The distance between planets",
+              "The rules of soccer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What punctuation shows exactly what a character says?",
+            "options": [
+              "An exclamation mark",
+              "A period",
+              "A comma",
+              "Quotation marks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where would you look in a book to quickly find what page a topic is on?",
+            "options": [
+              "The index",
+              "The front cover",
+              "The dedication page",
+              "The back cover art"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Perimeter: Walking Around the Edge of a Shape; Shapes: Introducing the Trapezoid and Rhombus; Estimating Weight: About How Heavy Is It?; Skip Counting Backwards by 10s from 100.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is the perimeter of a shape?",
+            "options": [
+              "Its weight",
+              "The distance all the way around its outside edge",
+              "Its colour",
+              "The space inside it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would you use to estimate how heavy a book is?",
+            "options": [
+              "Grams",
+              "Litres",
+              "Centimetres",
+              "Hours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many sides does a trapezoid have?",
+            "options": [
+              "6",
+              "5",
+              "4",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Skip counting backwards by 10s from 100, what comes after 100, 90, 80?",
+            "options": [
+              "70",
+              "75",
+              "60",
+              "85"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Erosion: How Wind and Water Change the Land; Sound Vibrations: How Sound Travels; Science Review: Habitats, Earth, and Staying Healthy; Science Review: Our Bodies, Earth, and Energy.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call it when wind or water slowly wears away soil or rock?",
+            "options": [
+              "Migration",
+              "Camouflage",
+              "Germination",
+              "Erosion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a habitat?",
+            "options": [
+              "The natural home of a plant or animal",
+              "A type of rock",
+              "A kind of vehicle",
+              "A musical instrument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes sound?",
+            "options": [
+              "Sunlight",
+              "Cold air only",
+              "Vibrations",
+              "Water freezing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What gives our bodies the energy we need to move and grow?",
+            "options": [
+              "Food",
+              "Rocks",
+              "Plastic toys",
+              "Empty air"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Taking Care of Shared Spaces: Parks and Playgrounds; Social Studies Review: Community, Money, and Culture; First Nations, Metis, and Inuit: Three Indigenous Groups in Canada; Our Coast Guard: Keeping People Safe on the Water.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a shared space, like a park or playground?",
+            "options": [
+              "A space no one is allowed to enter",
+              "A space only one family is allowed to use",
+              "A private backyard",
+              "A place everyone in the community can use and enjoy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which Indigenous group in Canada has both First Nations and European ancestry?",
+            "options": [
+              "The Metis",
+              "The First Nations",
+              "The Inuit",
+              "The Coast Guard"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a municipal service?",
+            "options": [
+              "A service a local government provides, like garbage pickup",
+              "A type of food",
+              "A toy sold in stores",
+              "A kind of weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main job of the Canadian Coast Guard?",
+            "options": [
+              "Keeping people safe on the water",
+              "Delivering mail across Canada",
+              "Teaching students math",
+              "Growing crops on farms"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Summarizing: Retelling a Story in Fewer Words; Word Families: -ell Words; Word Families: -ill Words; Prefixes: Adding Re- to Change Meaning.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does it mean to summarize a story?",
+            "options": [
+              "Retell it word for word",
+              "Ignore the story",
+              "Retell only the most important parts in fewer words",
+              "Add many new details"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word belongs to the -ill word family?",
+            "options": [
+              "Hill",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -ell family?",
+            "options": [
+              "Bell",
+              "Top",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does adding the prefix re- to a word usually mean?",
+            "options": [
+              "To do something again",
+              "To make something smaller",
+              "To make something colourful",
+              "To stop doing something"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Missing Addends, Fractions, and Shapes; Doubles Minus One: Near Doubles; Numbers to 400: Beyond 300; Number Bonds: Ways to Make 11.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "3 + ? = 5",
+            "options": [
+              "3",
+              "2",
+              "4",
+              "1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number comes right after 399?",
+            "options": [
+              "400",
+              "410",
+              "390",
+              "500"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 6 + 6 = 12, what is 6 + 5?",
+            "options": [
+              "11",
+              "12",
+              "10",
+              "13"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which pair of numbers makes a number bond for 11?",
+            "options": [
+              "7 and 4",
+              "6 and 6",
+              "4 and 4",
+              "8 and 2"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Our Skin: Protecting Our Body; Our Muscles: Helping Us Move; Woodland Animals: Squirrels, Deer, and Foxes; Puddles: Where Does Rainwater Go?.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the largest organ of our body?",
+            "options": [
+              "Brain",
+              "Heart",
+              "Skin",
+              "Lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a woodland animal commonly found in North American forests?",
+            "options": [
+              "Squirrel",
+              "Penguin",
+              "Dolphin",
+              "Camel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do muscles help us do?",
+            "options": [
+              "See colours",
+              "Smell food",
+              "Move our body",
+              "Hear sounds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What usually happens to a puddle of rainwater on a sunny day?",
+            "options": [
+              "It evaporates into the air",
+              "It turns to ice immediately",
+              "It turns into a rock",
+              "It becomes snow"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadas Neighbours: The United States; Social Studies Review: Indigenous Peoples, Helpers, and Our World; Our Military: Protecting Our Country; Social Studies Review: Helpers, Symbols, and Our History.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Which country shares a long border with Canada?",
+            "options": [
+              "France",
+              "Japan",
+              "Mexico",
+              "The United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main role of Canada's military?",
+            "options": [
+              "Protecting the country and helping in emergencies",
+              "Selling goods in stores",
+              "Teaching school classes",
+              "Building playgrounds only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the three recognized Indigenous groups in Canada?",
+            "options": [
+              "Farmers, Fishers, and Hunters only",
+              "North, South, and East",
+              "Settlers, Explorers, and Traders",
+              "First Nations, Metis, and Inuit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a well-known symbol of Canada?",
+            "options": [
+              "The maple leaf",
+              "The cactus",
+              "The palm tree",
+              "The desert"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Suffixes: Adding -ful to Change Meaning; Homophones: Words That Sound the Same; Contractions: Joining Two Words Together; Dialogue: When Characters Speak; Sequencing Events: Story Order with Pictures.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does the word helpful mean?",
+            "options": [
+              "Full of help, ready to help",
+              "Angry",
+              "Sleepy",
+              "Not helpful at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two words combine to make the contraction don't?",
+            "options": [
+              "do not",
+              "does not",
+              "did not",
+              "doing not"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are homophones?",
+            "options": [
+              "Words that sound the same but have different meanings",
+              "Words that rhyme but sound different",
+              "Words that look the same",
+              "Words with no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to sequence the events in a story?",
+            "options": [
+              "To put them in the order they happened",
+              "To draw a picture instead of writing",
+              "To remove all the events",
+              "To mix up the events randomly"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Subtraction: Counting Up Strategy; Time: Reading a Digital Clock; Fractions: Fourths of a Group; Measurement: Comparing Volume with Containers; Telling Time to the Nearest Minute.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does the counting up strategy help us do?",
+            "options": [
+              "Measure length",
+              "Solve addition only",
+              "Tell time",
+              "Solve subtraction problems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a group of 12 stickers is split into fourths, how many stickers are in each fourth?",
+            "options": [
+              "3",
+              "4",
+              "6",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a digital clock use to show the time?",
+            "options": [
+              "Numbers",
+              "Colours",
+              "Hands",
+              "Pictures only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which container would most likely hold the greatest volume?",
+            "options": [
+              "A bathtub",
+              "A teaspoon",
+              "A juice box",
+              "A coffee cup"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Owls: Hunters of the Night; Penguins: Birds That Cannot Fly; Volcanoes: Mountains That Erupt; Ice and Snow: Water Becomes Solid; Coral Reefs: A Colourful Ocean Home.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Owls are mostly active ___.",
+            "options": [
+              "Never",
+              "Underwater",
+              "During the day",
+              "At night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What comes out of a volcano when it erupts?",
+            "options": [
+              "Hot melted rock called lava",
+              "Cold snow",
+              "Fresh water only",
+              "Sand from a beach"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can penguins fly like most other birds?",
+            "options": [
+              "Yes",
+              "No",
+              "Only in summer",
+              "Only babies fly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Coral reefs are often described as what because of the many colourful sea creatures living there?",
+            "options": [
+              "A colourful ocean home",
+              "A frozen desert",
+              "An empty parking lot",
+              "A dry mountain top"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Canadian Shield: A Special Land Region; Social Studies Review: Helpers, Government, and Our World; The Great Lakes: Canadas Freshwater Giants; The Rocky Mountains: A Famous Canadian Landmark; Social Studies: Reading a Map \u2014 Scale and Distance.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Canadian Shield?",
+            "options": [
+              "A kind of vehicle",
+              "A huge rocky land region in Canada",
+              "A type of building",
+              "A small city park"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the Great Lakes best known as?",
+            "options": [
+              "Canada's freshwater giants",
+              "Small ponds in a backyard",
+              "Salty ocean water",
+              "A chain of underground rivers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main job of a school librarian?",
+            "options": [
+              "Driving the school bus",
+              "Teaching math class",
+              "Helping students find and borrow books",
+              "Cooking school lunches"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Rocky Mountains are located in which part of Canada?",
+            "options": [
+              "Western Canada",
+              "The Atlantic Ocean",
+              "Northern Europe",
+              "Southern Africa"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Question Words: Why and How; Language Review: New Word Families, Word Parts, and Story Skills; Word Families: -ut Words; Word Families: -un Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does the question word why usually ask about?",
+            "options": [
+              "A time",
+              "A reason",
+              "A place",
+              "A person"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the question word how usually ask about?",
+            "options": [
+              "A reason",
+              "The way something is done",
+              "A time",
+              "A person"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word belongs to the -ut family?",
+            "options": [
+              "Nut",
+              "Sun",
+              "Cat",
+              "Top"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -un family?",
+            "options": [
+              "Fun",
+              "Cat",
+              "Top",
+              "Bed"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Money: Counting Dimes and Quarters; Money: Making Amounts Up to Two Dollars; Shapes: Composing Pictures with 2D Shapes; Comparing Three-Digit Numbers.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "How much is one dime worth?",
+            "options": [
+              "5 cents",
+              "10 cents",
+              "1 cent",
+              "25 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How much is one quarter worth?",
+            "options": [
+              "10 cents",
+              "25 cents",
+              "5 cents",
+              "1 cent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which combination makes exactly one dollar?",
+            "options": [
+              "One nickel",
+              "Four quarters",
+              "Two dimes",
+              "Three pennies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is greater, 482 or 428?",
+            "options": [
+              "482",
+              "428",
+              "They are equal",
+              "Cannot tell"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Wind Power: Using Moving Air; Science Review: Bodies, Animals, and Earth; Science Review: Senses, Machines, and Earths Water; Bridges and Structures: Simple Engineering.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is wind?",
+            "options": [
+              "Sunlight",
+              "Moving air",
+              "Water",
+              "Still air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can we use wind power to do?",
+            "options": [
+              "Turn a wind turbine to make electricity",
+              "Make the sun brighter",
+              "Stop rain from falling",
+              "Turn water into ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sense organ helps us see?",
+            "options": [
+              "Eyes",
+              "Ears",
+              "Nose",
+              "Tongue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a bridge?",
+            "options": [
+              "To store water",
+              "To help people and vehicles cross a gap like a river",
+              "To generate wind",
+              "To grow plants"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Rural and Urban Communities \u2014 Comparing Ways of Life; Social Studies: Goods and Services \u2014 What Communities Need; Social Studies: The Woodland First Nations of Ontario; Social Studies: Life of a Voyageur in the Fur Trade.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Which best describes a rural community?",
+            "options": [
+              "A community with open land, farms, and fewer people close together",
+              "A community with no schools or stores",
+              "A community with tall skyscrapers and subways",
+              "A community found only in the Arctic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which best describes an urban community?",
+            "options": [
+              "A community with tall buildings, many people, and busy streets",
+              "A community found only on farms",
+              "A community with no roads",
+              "A community with fewer than ten people"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a good, not a service?",
+            "options": [
+              "A dentist checkup",
+              "A haircut",
+              "A bus ride",
+              "A loaf of bread"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the main job of a voyageur in the fur trade?",
+            "options": [
+              "Paddling canoes to transport furs and trade goods across long distances",
+              "Building skyscrapers",
+              "Teaching in a classroom",
+              "Flying airplanes"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Suffixes: Adding -less to Change Meaning; Prefixes: Adding Pre- to Change Meaning; Vowel Teams: oa and ea; R-Controlled Vowels: er and ir.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does the word careless mean?",
+            "options": [
+              "Full of care",
+              "Without care, not careful",
+              "Very happy",
+              "Very sleepy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the oa vowel team?",
+            "options": [
+              "Boat",
+              "Bat",
+              "Bit",
+              "But"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the word preview mean?",
+            "options": [
+              "To never see something",
+              "To see something after it happens",
+              "To hear something loudly",
+              "To see something before it happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the r-controlled vowel ir?",
+            "options": [
+              "Bird",
+              "Bed",
+              "Bad",
+              "Bud"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Lines: Skip Counting by Twos; Converting Between Metres and Centimetres; Estimating Quantities: About How Many in a Jar; Estimating Sums: About How Many Altogether.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What comes next on a number line: 2, 4, 6, ___?",
+            "options": [
+              "10",
+              "9",
+              "8",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers would you say when skip counting by twos starting at 0?",
+            "options": [
+              "7",
+              "12",
+              "15",
+              "21"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many centimetres are in one metre?",
+            "options": [
+              "1000",
+              "50",
+              "100",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a jar has about 20 candies and another jar has about 30 candies, about how many candies are there altogether?",
+            "options": [
+              "About 50",
+              "About 10",
+              "About 100",
+              "About 25"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Our Bodies, Animals, and Habitats; Science: Parts of a Seed \u2014 What's Inside?; Science Inquiry: Fair Testing \u2014 What Do Plants Need to Grow Best?; Science: Fibrous Roots vs. Taproots \u2014 Two Root Systems.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of our kidneys?",
+            "options": [
+              "Helping us see",
+              "Helping us breathe",
+              "Filtering waste out of our blood",
+              "Pumping blood around the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a fair test about what plants need to grow, why should you only change one thing at a time, like water, and keep everything else the same?",
+            "options": [
+              "So you can tell which change caused the result",
+              "So the test takes longer",
+              "So the plants grow faster",
+              "So you don't need soil"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the outer covering of a seed called?",
+            "options": [
+              "The embryo",
+              "The husk root",
+              "The seed coat",
+              "The cotyledon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a taproot?",
+            "options": [
+              "A thick main root that grows straight down with smaller roots branching off it",
+              "A root that floats on top of water",
+              "A stem that grows underground",
+              "A cluster of many thin roots of equal size"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Seasons and How They Shape Community Life in Canada; Social Studies: Needs vs. Wants \u2014 Making Choices in a Community; Social Studies: Comparing Climate Across Canada's Regions; Social Studies: Local Landmarks and Monuments in My Community.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Which activity is most closely tied to winter in many Canadian communities?",
+            "options": [
+              "Harvesting summer crops",
+              "Planting a garden",
+              "Ice skating and snow shovelling",
+              "Swimming at an outdoor beach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which statement about climate across Canada's regions is true?",
+            "options": [
+              "Climate is exactly the same in every province",
+              "Different regions of Canada can have very different climates, from cold Arctic areas to milder coastal areas",
+              "Canada has no cold regions at all",
+              "Only one province experiences seasons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a need, not a want?",
+            "options": [
+              "Clean water to drink",
+              "A roller coaster ride",
+              "A new video game",
+              "A second pair of designer shoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a local landmark or monument?",
+            "options": [
+              "A well-known place or structure in a community that people recognize, like a statue or historic building",
+              "A type of food eaten only in winter",
+              "A rule made by the government",
+              "A kind of weather pattern"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Story Genre: Fairy Tales and Fables; Main Idea: What Is the Story Mostly About; Alliteration: Words That Start with the Same Sound; Language Review: Word Families, Prefixes and Suffixes, and Story Genres; Word Families: -ad Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What might a fairy tale often include?",
+            "options": [
+              "No characters at all",
+              "Only true facts",
+              "Only real people from history",
+              "Magic and make-believe events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "Sammy sells seashells by the seashore",
+              "The cat sat on the mat",
+              "Once upon a time",
+              "The sun was hot today"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the main idea of a story tell readers?",
+            "options": [
+              "The colour of the cover",
+              "The name of the author only",
+              "The exact number of pages",
+              "What the story is mostly about"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word belongs to the -ad family?",
+            "options": [
+              "Sad",
+              "Sun",
+              "Top",
+              "Bed"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number: Rounding to the Nearest 10 000; Geometry: Parallel and Perpendicular Lines; Data: Reading a Bar Graph with a Scale of More Than One; Multiplication: Finding Missing Factors; Division: Dividing Using Repeated Subtraction.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 47 000 rounded to the nearest 10 000?",
+            "options": [
+              "50 000",
+              "47 000",
+              "45 000",
+              "40 000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is true about perpendicular lines?",
+            "options": [
+              "They never meet",
+              "They cross to form a right angle",
+              "They are always parallel",
+              "They only exist in circles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is true about parallel lines?",
+            "options": [
+              "They always meet at one point",
+              "They are always curved",
+              "They always cross at a right angle",
+              "They never meet and stay the same distance apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number makes this true: 6 times ___ equals 42?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "36"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: How Plants Respond to Light (Phototropism); Science: Annual, Biennial, and Perennial Plants; Science: Comparing Life Cycles \u2014 Bean Plant vs. Sunflower; Science: How People Use Plants \u2014 Food, Fibre, and Medicine; Science: Fruit, Vegetable, or Seed? Sorting Plant Parts We Eat.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What word describes a plant's tendency to grow toward light?",
+            "options": [
+              "Phototropism",
+              "Hibernation",
+              "Pollination",
+              "Metamorphosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a perennial plant?",
+            "options": [
+              "A plant that dies after one year",
+              "A plant that lives for many years, often flowering again each year",
+              "A plant that never grows leaves",
+              "A plant that only grows underwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A plant that grows, flowers, produces seeds, and dies all within one year is called what?",
+            "options": [
+              "An annual",
+              "A perennial",
+              "A biennial",
+              "An evergreen only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A tomato grows from the flower of the plant and has seeds inside it. How do scientists usually classify it?",
+            "options": [
+              "As a fruit",
+              "As a root",
+              "As a stem",
+              "As a leaf"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Bartering and Trade in Early Canadian Communities; Social Studies: Reading Weather and Climate Maps; Social Studies: How Communities Got Their Names; Social Studies: Grid Coordinates \u2014 Finding Places on a Map; Social Studies: The Canada-US Border \u2014 The Longest Undefended Border in the World.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What does it mean to barter?",
+            "options": [
+              "To pay taxes to the government",
+              "To build a road",
+              "To vote in an election",
+              "To trade one good or service directly for another without using money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do grid coordinates help you do on a map?",
+            "options": [
+              "Find the exact location of a place using letters and numbers",
+              "Tell you the weather for the day",
+              "Show how a good is traded",
+              "List the population of a city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On many weather maps, what do different colours across a map of Canada usually represent?",
+            "options": [
+              "Different provincial election results",
+              "Different temperature ranges",
+              "Different languages spoken",
+              "Different types of currency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is special about the Canada-US border?",
+            "options": [
+              "It is the shortest border in the world",
+              "It is the longest undefended border in the world",
+              "It is closed to all travel",
+              "It runs entirely along a coastline"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Word Families: -ag Words; Word Families: -am Words; Vowel Teams: igh Words; Vowel Teams: ow and ou; R-Controlled Vowels: ur Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -ag family?",
+            "options": [
+              "Top",
+              "Sun",
+              "Tag",
+              "Bed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the igh vowel team?",
+            "options": [
+              "Night",
+              "Nit",
+              "Net",
+              "Not"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -am family?",
+            "options": [
+              "Top",
+              "Ham",
+              "Sun",
+              "Bed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the r-controlled vowel ur?",
+            "options": [
+              "Turn",
+              "Ten",
+              "Tan",
+              "Ton"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measurement: Choosing the Right Unit to Measure Everyday Objects; Fractions: Ordering Three or More Fractions with the Same Denominator; Patterning: Creating Your Own Number Pattern Using a Rule; Financial Literacy: Making a Simple Budget for a Class Event; Math Review: Rounding, Parallel Lines, and Budgeting.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which unit would be best to measure the length of a pencil?",
+            "options": [
+              "Centimetres",
+              "Litres",
+              "Kilometres",
+              "Metres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A number pattern starts 3, 6, 9, 12 and follows a rule of adding 3 each time. What number comes next?",
+            "options": [
+              "14",
+              "15",
+              "16",
+              "18"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To order fractions with the same denominator, what should you compare?",
+            "options": [
+              "The number of fractions given",
+              "The colours of the fractions",
+              "The denominators only",
+              "The numerators"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A class budget has $50 total. The class spends $30 on decorations and $15 on snacks. How much money is left?",
+            "options": [
+              "$5",
+              "$20",
+              "$35",
+              "$15"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: What Makes a Structure Stable? Base Width and Centre of Gravity; Science: Triangles vs. Squares \u2014 Which Shape Makes a Stronger Structure?; Science: Why Structures Fail \u2014 Investigating Load and Stress; Science: Joints and Connections \u2014 How Builders Hold Structures Together; Science: The Purpose of Structures \u2014 Shelter, Storage, and Support.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "A structure with a wide base compared to its height is generally:",
+            "options": [
+              "Impossible to build",
+              "More stable and harder to tip over",
+              "More likely to tip over",
+              "Exactly the same stability as a narrow base"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shape generally makes a structure stronger and more resistant to bending?",
+            "options": [
+              "A triangle",
+              "A square",
+              "A circle only",
+              "A straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a gentle push is applied to the side of a square frame made of straws, what usually happens?",
+            "options": [
+              "It turns into a circle",
+              "It shrinks in size",
+              "It easily bends into a slanted shape (like a parallelogram)",
+              "It stays perfectly rigid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one main purpose of a structure like a house or shed?",
+            "options": [
+              "To provide shelter and protect people or things inside",
+              "To create wind",
+              "To make loud noises",
+              "To grow food only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ferries and Water Transportation Across Canada; Social Studies: The Ontario Legislature at Queens Park; Social Studies: Canadas National Wildlife Areas and Migratory Bird Sanctuaries; Social Studies: The Trans-Canada Trail \u2014 Canadas Cross-Country Recreational Trail; Social Studies Review: Borders, Government, and Transportation.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do ferries carry across bodies of water?",
+            "options": [
+              "Only letters and postcards",
+              "Nothing at all",
+              "Passengers, vehicles, and goods",
+              "Only farm animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the purpose of a National Wildlife Area or Migratory Bird Sanctuary in Canada?",
+            "options": [
+              "To protect habitats and animals, including birds that travel long distances",
+              "To build new highways",
+              "To host sporting events",
+              "To sell goods and services"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the Ontario Legislature located?",
+            "options": [
+              "A building outside of Canada",
+              "A building in another province",
+              "A small town in northern Ontario",
+              "Queens Park in Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the Trans-Canada Trail?",
+            "options": [
+              "A single short trail inside one city park",
+              "A cross-country recreational trail that connects communities across Canada",
+              "A highway only for trucks",
+              "A trail found only in the Arctic"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Suffixes: Adding -able to Describe What Can Be Done; Suffixes: Adding -ly to Change Meaning; Note-Taking: Jotting Down Important Ideas; Prefixes: Adding Dis- to Change Meaning.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does adding -able to wash make?",
+            "options": [
+              "Washer",
+              "Washable",
+              "Washed",
+              "Washing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does adding the prefix dis- to the word obey create?",
+            "options": [
+              "Disobey, meaning not to obey",
+              "Obeying, meaning to obey now",
+              "Obeyed, meaning obeyed already",
+              "Reobey, meaning to obey again"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the word quickly mean?",
+            "options": [
+              "Done very slowly",
+              "Not moving at all",
+              "Done loudly only",
+              "Done in a fast way"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When taking notes, what should you jot down?",
+            "options": [
+              "Every single word the speaker says",
+              "Only the important ideas and key words",
+              "Nothing until the speaker is finished",
+              "Only your own opinions about the topic"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number: Comparing Numbers Using Greater Than, Less Than, and Equal To Symbols; Multiplication: Using a Number Line to Multiply; Division: Dividing with Arrays; Fractions: Naming and Writing Fractions in Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does the greater than symbol mean?",
+            "options": [
+              "Not equal to",
+              "Equal to",
+              "Less than",
+              "Greater than"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "You divide 15 counters into an array with 3 equal rows. How many counters are in each row?",
+            "options": [
+              "5",
+              "3",
+              "12",
+              "18"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a number line, what does each equal jump represent when multiplying?",
+            "options": [
+              "The remainder of the problem",
+              "A fraction of the whole",
+              "A subtraction step",
+              "One group being counted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do you write the fraction 3/4 in words?",
+            "options": [
+              "Three-fourths",
+              "Four-thirds",
+              "Three-fifths",
+              "One-fourth"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Push or Pull? Identifying Forces in Everyday Life; Science: Forces at a Distance \u2014 Comparing Magnetism and Gravity; Science: Friction \u2014 The Force That Slows Things Down; Science: Forces and Motion \u2014 Speeding Up, Slowing Down, and Changing Direction.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Opening a drawer by grabbing the handle and moving it toward you is an example of which force?",
+            "options": [
+              "Gravity only",
+              "A push",
+              "A pull",
+              "No force at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is friction?",
+            "options": [
+              "A force that speeds objects up forever",
+              "A force that pushes objects in a circle",
+              "A force that slows down moving objects when surfaces rub together",
+              "A force that only works underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do magnetism and gravity have in common?",
+            "options": [
+              "Both can act on objects without direct contact",
+              "Both only work on wood",
+              "Both only work in outer space",
+              "Neither is a real force"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rolling ball gradually slows down and changes direction after hitting a wall. This shows that forces can:",
+            "options": [
+              "Change an object's speed and direction",
+              "Only make objects heavier",
+              "Only affect liquids",
+              "Never affect motion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Order of Canada and Honouring Citizens Who Make a Difference; Social Studies: The Parliament Buildings and the Peace Tower in Ottawa; Social Studies: How Ottawa Became Canadas Capital City; Social Studies: The Confederation Bridge Connecting Prince Edward Island.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "A type of Canadian currency",
+              "One of the countrys highest honours for citizens",
+              "A law passed by Parliament",
+              "A holiday celebrated every year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Peace Tower in Ottawa part of?",
+            "options": [
+              "A shopping mall",
+              "The Parliament Buildings",
+              "A hockey arena",
+              "A train station"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which city are the Parliament Buildings located?",
+            "options": [
+              "Ottawa",
+              "Montreal",
+              "Vancouver",
+              "Toronto"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Confederation Bridge connects Prince Edward Island to which part of Canada?",
+            "options": [
+              "Newfoundland",
+              "New Brunswick",
+              "Nova Scotia",
+              "Quebec"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Story Climax: The Most Exciting Part of a Story; Punctuation: Commas in a List; Word Sorts: Grouping Words by Sound or Spelling; Language Review: New Word Families, Vowel Teams, and Punctuation.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "The name of the author",
+              "The very first sentence",
+              "The most exciting or important moment",
+              "The title of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When you sort words by their sound or spelling pattern, what are you grouping together?",
+            "options": [
+              "Words that share a similar pattern",
+              "Words in alphabetical order only",
+              "Random unrelated words",
+              "Only the longest words in the list"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What punctuation mark separates items in a list?",
+            "options": [
+              "A period",
+              "An exclamation mark",
+              "A question mark",
+              "A comma"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of letters is a vowel team?",
+            "options": [
+              "oa",
+              "bl",
+              "st",
+              "ck"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Tessellations and Tiling Patterns; Measurement: Introducing the Kilometre for Long Distances; Data: Comparing Two Data Sets Side by Side; Financial Literacy: Splitting a Bill Fairly Among Friends.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A shape that never repeats",
+              "A pattern of shapes that fit together with no gaps or overlaps",
+              "A pattern with large gaps between shapes",
+              "A single shape drawn alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When you compare two data sets side by side, what are you trying to find?",
+            "options": [
+              "Which numbers are prime",
+              "How the two sets are similar and different",
+              "The alphabet order of the data",
+              "The color used on the graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a kilometre used to measure?",
+            "options": [
+              "The mass of a small object",
+              "Long distances",
+              "The capacity of a cup",
+              "The temperature outside"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Three friends share a $12 bill equally. How much does each friend pay?",
+            "options": [
+              "$3",
+              "$4",
+              "$6",
+              "$12"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Simple Machines \u2014 The Wheel and Axle; Science: Simple Machines \u2014 Ramps and Inclined Planes; Science: Simple Machines \u2014 Pulleys for Lifting Loads; Science: Gravity \u2014 Why Everything Falls Down.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which everyday object is a good example of a wheel and axle?",
+            "options": [
+              "A doorknob",
+              "A wedge-shaped doorstop",
+              "A ramp",
+              "A seesaw"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a pulley use to help lift a heavy load?",
+            "options": [
+              "A rope or chain over a wheel",
+              "A flat ramp",
+              "A spinning axle alone",
+              "A sharp blade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An inclined plane is best described as:",
+            "options": [
+              "A flat surface set at an angle, used to raise or lower objects",
+              "A wheel that spins freely",
+              "A rope over a wheel",
+              "A sharp tool used for cutting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do objects fall toward the ground when you drop them?",
+            "options": [
+              "Because of friction",
+              "Because gravity pulls them down",
+              "Because of magnetism",
+              "Because air pushes them downward"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: School Crossing Guards and Traffic Safety Near Schools; Social Studies: Grain Elevators and the Prairie Wheat Economy; Social Studies: Canadas Lighthouse Keepers and Coastal Safety History; Social Studies: The Role of a Translator in Canadas Multilingual Communities.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the main job of a school crossing guard?",
+            "options": [
+              "Teaching math lessons",
+              "Helping students safely cross busy streets near schools",
+              "Selling tickets for school events",
+              "Repairing school buses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the main job of a lighthouse keeper?",
+            "options": [
+              "Selling fish to sailors",
+              "Keeping the light working to guide ships safely along the coast",
+              "Building new boats for fishers",
+              "Teaching sailing lessons to tourists"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a grain elevator used for?",
+            "options": [
+              "Housing farm animals",
+              "Selling clothing to farmers",
+              "Storing wheat and other grains before they are shipped",
+              "Storing cars for a dealership"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a translator do in a multilingual community?",
+            "options": [
+              "Repairs broken machines",
+              "Helps people understand each other by changing one language into another",
+              "Writes new laws for the government",
+              "Delivers mail across the country"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Word Parts, Sentence Craft, and Story Elements; Word Families: -ay Words; Silent e: The Magic e Rule; Word Families: -oy Words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which article goes before a word starting with a vowel sound, such as apple?",
+            "options": [
+              "An",
+              "The",
+              "No article",
+              "A"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the vowel sound in 'cap' when a silent e is added to make 'cape'?",
+            "options": [
+              "It stays a short vowel sound",
+              "It becomes a long vowel sound",
+              "It disappears completely",
+              "It turns into a consonant sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word belongs to the -ay family?",
+            "options": [
+              "Sun",
+              "Bed",
+              "Play",
+              "Top"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word belongs to the -oy family?",
+            "options": [
+              "Toy",
+              "Ten",
+              "Cup",
+              "Big"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning: Identifying Errors in a Pattern; Math Review: Number Sense, Multiplication, and Geometry; Number: Introducing Roman Numerals to 20; Multiplication: Multiplying by Skip Counting on a Hundred Chart.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean to identify an error in a pattern?",
+            "options": [
+              "Finding a place where the pattern rule was not followed",
+              "Adding random numbers with no rule",
+              "Removing the pattern completely",
+              "Ignoring the rule of the pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Roman numeral for the number 12?",
+            "options": [
+              "XII",
+              "VII",
+              "XX",
+              "IX"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many sides does a hexagon have?",
+            "options": [
+              "6",
+              "4",
+              "5",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip counting by 4s on a hundred chart (4, 8, 12, 16...) helps you find the products for which multiplication fact?",
+            "options": [
+              "Multiplying by 4",
+              "Multiplying by 10",
+              "Dividing by 4",
+              "Adding by 1"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Types of Soil \u2014 Comparing Sand, Silt, and Clay; Science: How Soil Forms \u2014 Weathering Breaks Down Rock; Science: Layers of Soil \u2014 Topsoil, Subsoil, and Bedrock; Science Inquiry: Which Soil Grows the Best Plants?.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which type of soil generally has the largest particles?",
+            "options": [
+              "All three have identical particle sizes",
+              "Clay",
+              "Sand",
+              "Silt"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which layer of soil is found at the very bottom, made of solid rock?",
+            "options": [
+              "Topsoil",
+              "Subsoil",
+              "Bedrock",
+              "Humus"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The process of rock being slowly broken down into smaller pieces by wind, water, and ice is called:",
+            "options": [
+              "Photosynthesis",
+              "Metamorphosis",
+              "Weathering",
+              "Pollination"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a science inquiry testing which soil grows the best plants, what should you change while keeping everything else the same?",
+            "options": [
+              "The type of soil only",
+              "The amount of sunlight only",
+              "The size of the pot only",
+              "The colour of the pot only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Snowbirds and Canadas Air Force Aerobatic Team; Social Studies Review: Landmarks, Honours, and Community Roles; Social Studies: The CN Tower \u2014 An Iconic Canadian Landmark; Social Studies: Canadian Thanksgiving and Its Traditions.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Canadian Snowbirds team known for?",
+            "options": [
+              "Selling airplane tickets to the public",
+              "Performing precision aerobatic air shows",
+              "Delivering mail by airplane",
+              "Building new airports"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The CN Tower is located in which Canadian city?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Calgary",
+              "Halifax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a community helper?",
+            "options": [
+              "Firefighter",
+              "Video game character",
+              "Cartoon animal",
+              "Toy robot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do many Canadian families traditionally do to celebrate Thanksgiving?",
+            "options": [
+              "Watch fireworks at midnight",
+              "Share a turkey dinner and give thanks",
+              "Exchange holiday gifts",
+              "Go trick-or-treating"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Three-Letter Blends: thr, squ, and spl; Word Families: -ink Words; Text Features: Bullet Points and Lists; Vowel Teams: oo Words; Media Literacy: How Commercials Try to Persuade Us.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which word starts with the thr blend?",
+            "options": [
+              "Free",
+              "Three",
+              "Tree",
+              "Bee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers use bullet points in a text?",
+            "options": [
+              "To make list items easy to read at a glance",
+              "To make the text harder to understand",
+              "To replace every sentence in the text",
+              "To show the ending of a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -ink family?",
+            "options": [
+              "Sun",
+              "Bed",
+              "Top",
+              "Pink"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Commercials often try to persuade viewers to do what?",
+            "options": [
+              "Buy a product or try a service",
+              "Ignore all products completely",
+              "Fall asleep during the show",
+              "Stop watching TV forever"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Finding Lines of Symmetry in Everyday Objects; Fractions: Fractions of a Whole Using Area Models; Data: Creating a Pictograph with a Scale of Two; Financial Literacy: Calculating a Tip at a Restaurant; Math Review: Roman Numerals, Symmetry, and a Grade 3 Send-Off.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does a line of symmetry do?",
+            "options": [
+              "Divides a shape into two unequal parts",
+              "Removes the shape completely",
+              "Divides a shape into two matching mirror-image halves",
+              "Adds a new side to the shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a pictograph where each picture stands for 2 items, how many items do 3 pictures represent?",
+            "options": [
+              "5",
+              "6",
+              "3",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does an area model use to represent a fraction?",
+            "options": [
+              "A shape with unequal parts",
+              "A list of unrelated numbers",
+              "A single unshaded shape",
+              "A shape divided into equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A family's restaurant bill is $20 and they want to leave a reasonable tip. Which amount makes the most sense?",
+            "options": [
+              "$2",
+              "$20",
+              "$0.20",
+              "$200"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: How Water Moves Through Soil \u2014 Testing Permeability; Science: Soil Erosion \u2014 How Wind and Water Wear Soil Away; Science: Keeping Soil Healthy \u2014 Pollution and Soil Conservation; Science Inquiry: Using Tools to Measure and Observe; Science Inquiry: Recording and Graphing What We Observe.",
+        "resourceLabel": "TVO Learn: Grade 3 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "\"Permeability\" in soil refers to:",
+            "options": [
+              "How colourful the soil is",
+              "How many plants grow in the soil",
+              "How heavy the soil is",
+              "How easily water can pass through the soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which action helps keep soil healthy and prevents pollution?",
+            "options": [
+              "Dumping chemicals and litter onto the ground",
+              "Planting cover plants and avoiding littering",
+              "Removing all plants from the soil",
+              "Pouring oil into garden soil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Soil erosion is best described as:",
+            "options": [
+              "Soil being created underground",
+              "Soil being carried away by wind or water",
+              "Soil forming from broken-down rock",
+              "Plants absorbing nutrients from soil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When scientists observe an experiment, why do they record and graph their results?",
+            "options": [
+              "To forget the data quickly",
+              "To see patterns and share what they found",
+              "To make the experiment take longer",
+              "To avoid using any measuring tools"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Stanley Cup and Canadas Hockey Tradition; Social Studies: Volunteer Firefighters in Rural Communities; Social Studies: The Role of Food Banks in Communities; Social Studies: Search and Rescue Teams in Canada; Social Studies Review: Landmarks, Traditions, and Our Community \u2014 A Grade 3 Send-Off.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Stanley Cup?",
+            "options": [
+              "A style of Canadian cooking",
+              "A famous Canadian mountain",
+              "A type of Canadian currency",
+              "A trophy connected to professional hockey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of a food bank in a community?",
+            "options": [
+              "To sell groceries at high prices",
+              "To give food to people who need help",
+              "To grow all of a city's food",
+              "To train chefs for restaurants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a volunteer firefighter?",
+            "options": [
+              "A firefighter who never responds to emergencies",
+              "A firefighter who is paid more than anyone else",
+              "A person who responds to emergencies without it being their full-time paid job",
+              "A person who only fights fires in a city"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When are search and rescue teams in Canada most likely to be called into action?",
+            "options": [
+              "During a birthday party",
+              "When someone is lost or in danger and needs help",
+              "During a regular school day",
+              "When a store is having a sale"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ];
 
