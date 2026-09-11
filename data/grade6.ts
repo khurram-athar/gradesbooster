@@ -18832,8 +18832,8 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Soil Composition and Formation",
         "summary": "Grade 6 Science strand: soil forms over long periods of time as rock is broken down by weathering and mixed with organic matter, water, and air, creating layers that support plant growth.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Soil Composition and Formation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Soil%20Composition%20and%20Formation%20grade%206%20educational",
         "quiz": [
           {
             "q": "Soil is formed largely through the weathering of ___.",
@@ -18886,14 +18886,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=aOop-vS58jc"
       },
       {
         "subject": "SocialStudies",
         "title": "The Fur Trade and the Voyageurs",
         "summary": "Grade 6 Social Studies strand: the fur trade was a major economic activity in early Canada, relying on voyageurs — skilled canoe travellers — and partnerships with Indigenous peoples to transport furs across vast distances.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: The Fur Trade and the Voyageurs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fur%20Trade%20and%20the%20Voyageurs%20grade%206%20educational",
         "quiz": [
           {
             "q": "The fur trade in early Canada was centred mainly around which resource?",
@@ -18946,7 +18947,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
       }
     ]
   },
@@ -18958,8 +18960,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Revising for Clarity and Conciseness",
         "summary": "Grade 6 Language strand: revising for clarity and conciseness means removing unnecessary words, combining repetitive ideas, and choosing precise language so that writing communicates its meaning as clearly as possible.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Writing: Revising for Clarity and Conciseness",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Revising%20for%20Clarity%20and%20Conciseness%20grade%206%20educational",
         "quiz": [
           {
             "q": "Revising for conciseness mainly involves ___.",
@@ -19012,14 +19014,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing: Process & Editing"
+        "topic": "Writing: Process & Editing",
+        "videoUrl": "https://www.youtube.com/watch?v=m_ulTQNQ49w"
       },
       {
         "subject": "Math",
         "title": "Unit Rates and Comparing Best Buys",
         "summary": "Grade 6 Math strand: a unit rate expresses a quantity per single unit, such as price per item, and comparing unit rates helps determine which of two or more options offers the better value.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Unit Rates and Comparing Best Buys",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Unit%20Rates%20and%20Comparing%20Best%20Buys%20grade%206%20educational",
         "quiz": [
           {
             "q": "A unit rate expresses a quantity ___.",
@@ -19072,14 +19075,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=kLYdyRAWkSs"
       },
       {
         "subject": "Science",
         "title": "Freshwater and Saltwater Ecosystems",
         "summary": "Grade 6 Science strand: freshwater ecosystems, such as lakes and rivers, and saltwater ecosystems, such as oceans, support different communities of organisms adapted to their specific water conditions.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Freshwater and Saltwater Ecosystems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Freshwater%20and%20Saltwater%20Ecosystems%20grade%206%20educational",
         "quiz": [
           {
             "q": "Which of these is an example of a freshwater ecosystem?",
@@ -19132,7 +19136,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=0W81DxOWz2g"
       },
       {
         "subject": "SocialStudies",
@@ -19191,7 +19196,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QmpIjD3xZOQ"
       }
     ]
   },

@@ -18644,8 +18644,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Cover Letter and Resume",
         "summary": "Grade 10 English strand: a cover letter introduces a candidate and explains their interest in a specific opportunity, while a resume summarizes a candidate’s skills, education, and experience in a clear, organized format.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: The Cover Letter and Resume",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Cover%20Letter%20and%20Resume%20grade%2010%20educational",
         "quiz": [
           {
             "q": "A cover letter is primarily used to ___.",
@@ -18698,14 +18698,25 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=-z4v-Dw7n50",
+        "videoUrls": [
+          {
+            "label": "EASY GUIDE to Writing a High School Student Resume",
+            "url": "https://www.youtube.com/watch?v=-z4v-Dw7n50"
+          },
+          {
+            "label": "Write an Amazing Cover Letter: 3 Golden Rules",
+            "url": "https://www.youtube.com/watch?v=NUhDP30IRKk"
+          }
+        ]
       },
       {
         "subject": "Math",
         "title": "Geometry: The Pythagorean Theorem in Three Dimensions",
         "summary": "Grade 10 Geometry strand (extension): the Pythagorean theorem can be extended into three dimensions to find the diagonal length of a rectangular prism by applying the relationship twice, first to a base rectangle and then to the resulting right triangle.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Geometry: The Pythagorean Theorem in Three Dimensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20The%20Pythagorean%20Theorem%20in%20Three%20Dimensions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In three dimensions, the Pythagorean theorem can be used to find the ___ of a rectangular prism.",
@@ -18758,14 +18769,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=Fk0Z-ArGMxE"
       },
       {
         "subject": "Science",
         "title": "Chemistry: Empirical and Molecular Formulas",
         "summary": "Grade 10 Chemistry strand (extension): an empirical formula shows the simplest whole-number ratio of atoms in a compound, while a molecular formula shows the actual number of atoms of each element present in a single molecule.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Chemistry: Empirical and Molecular Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Empirical%20and%20Molecular%20Formulas%20grade%2010%20educational",
         "quiz": [
           {
             "q": "An empirical formula shows the ___ of atoms in a compound.",
@@ -18818,14 +18830,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=wnRaBWvhYKY"
       },
       {
         "subject": "History",
         "title": "The Bomarc Missile Crisis and Canada-US Cold War Tensions",
         "summary": "Grade 10 History strand: the early 1960s Bomarc missile controversy, over whether Canada should accept nuclear warheads for American-designed missiles on Canadian soil, exposed deep divisions within Canadian politics and ultimately contributed to the fall of the Diefenbaker government.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Bomarc Missile Crisis and Canada-US Cold War Tensions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Bomarc%20Missile%20Crisis%20and%20Canada-US%20Cold%20War%20Tensions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "The Bomarc missile controversy took place primarily during which decade?",
@@ -18878,7 +18891,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Cold War & 20th Century Canada"
+        "topic": "Cold War & 20th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=sfesn3T0sQ4"
       }
     ]
   },
@@ -18890,8 +18904,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: Frame Narratives and Nested Stories",
         "summary": "Grade 10 English strand: a frame narrative is a story structure in which one story is told within another, using an outer narrative to introduce, contextualize, or provide a lens for one or more inner stories.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Literature: Frame Narratives and Nested Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Frame%20Narratives%20and%20Nested%20Stories%20grade%2010%20educational",
         "quiz": [
           {
             "q": "A frame narrative is best described as a structure in which ___.",
@@ -18944,14 +18958,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=dT70kxfIu4c"
       },
       {
         "subject": "Math",
         "title": "Algebra: Laws of Exponents and Rational Exponents",
         "summary": "Grade 10 Algebra strand (extension): the laws of exponents govern how expressions with powers are multiplied, divided, and simplified, and a rational exponent expresses a root, such as x^(1/2) representing the square root of x.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Algebra: Laws of Exponents and Rational Exponents",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Laws%20of%20Exponents%20and%20Rational%20Exponents%20grade%2010%20educational",
         "quiz": [
           {
             "q": "According to the product law of exponents, x^a multiplied by x^b equals ___.",
@@ -19004,14 +19019,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=tXuyPiYvGZ4"
       },
       {
         "subject": "Science",
         "title": "Biology: Biodiversity and Conservation Strategies",
         "summary": "Grade 10 Biology strand: biodiversity refers to the variety of living organisms within an ecosystem, and conservation strategies, such as protected areas and species reintroduction programs, aim to maintain or restore that variety in the face of habitat loss and other threats.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Biology: Biodiversity and Conservation Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Biodiversity%20and%20Conservation%20Strategies%20grade%2010%20educational",
         "quiz": [
           {
             "q": "Biodiversity refers to the ___ within an ecosystem.",
@@ -19064,14 +19080,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=GK_vRtHJZu4"
       },
       {
         "subject": "History",
         "title": "The Massey Commission and the Shaping of Canadian Culture",
         "summary": "Grade 10 History strand: the 1949-1951 Massey Commission investigated the state of arts, letters, and sciences in Canada, leading to recommendations that shaped the creation of institutions such as the Canada Council for the Arts to support Canadian cultural identity.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Massey Commission and the Shaping of Canadian Culture",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Massey%20Commission%20and%20the%20Shaping%20of%20Canadian%20Culture%20grade%2010%20educational",
         "quiz": [
           {
             "q": "The Massey Commission conducted its investigation primarily during which years?",
@@ -19124,7 +19141,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=3cLYUacwYS4"
       }
     ]
   },

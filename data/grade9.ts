@@ -18830,8 +18830,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Identifying Nonfiction Text Structures (Cause-Effect, Sequence, Problem-Solution)",
         "summary": "Grade 9 Reading strand: nonfiction writers organize information using identifiable text structures, such as cause-and-effect, sequence, and problem-solution, and recognizing these patterns helps readers understand how ideas connect.",
-        "resourceLabel": "TVO Learn: Grade 9 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "resourceLabel": "YouTube: Reading: Identifying Nonfiction Text Structures (Cause-Effect, Sequence, Problem-Solution)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Identifying%20Nonfiction%20Text%20Structures%20%28Cause-Effect%2C%20Sequence%2C%20Problem-Solution%29%20grade%209%20educational",
         "quiz": [
           {
             "q": "A cause-and-effect text structure organizes information by showing ___.",
@@ -18884,7 +18884,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=7kWGQ-_ipBY"
       },
       {
         "subject": "Math",
@@ -18944,14 +18945,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=IcgycGSq9Us"
       },
       {
         "subject": "Science",
         "title": "Astronomy: The Moon, Tides, and Eclipses",
         "summary": "Grade 9 Science Earth and Space Systems strand: the Moon’s gravitational pull causes ocean tides on Earth, while its position relative to the Earth and Sun produces phases and, occasionally, solar or lunar eclipses.",
-        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "resourceLabel": "YouTube: Astronomy: The Moon, Tides, and Eclipses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Astronomy%3A%20The%20Moon%2C%20Tides%2C%20and%20Eclipses%20grade%209%20educational",
         "quiz": [
           {
             "q": "Ocean tides on Earth are primarily caused by ___.",
@@ -19004,14 +19006,29 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Space & Astronomy"
+        "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=n7tnHPDH5d8",
+        "videoUrls": [
+          {
+            "label": "Lunar and Solar Eclipse Explained",
+            "url": "https://www.youtube.com/watch?v=n7tnHPDH5d8"
+          },
+          {
+            "label": "Ocean's Tides Explained",
+            "url": "https://www.youtube.com/watch?v=3RdkXs8BibE"
+          },
+          {
+            "label": "Moon Phases: Crash Course Astronomy",
+            "url": "https://www.youtube.com/watch?v=AQ5vty8f9Xc"
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
         "title": "Toponymy: Place Names and Cultural Meaning",
         "summary": "Grade 9 Social Studies (Geography) strand: toponymy is the study of place names, and analyzing how places are named, and sometimes renamed, reveals important information about a region’s history, culture, and power relationships.",
-        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "resourceLabel": "YouTube: Toponymy: Place Names and Cultural Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Toponymy%3A%20Place%20Names%20and%20Cultural%20Meaning%20grade%209%20educational",
         "quiz": [
           {
             "q": "Toponymy is best described as the study of ___.",
@@ -19063,7 +19080,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=39pTz2mei7s"
       }
     ]
   },
@@ -19075,8 +19093,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Media Literacy: Clickbait and Headline Analysis",
         "summary": "Grade 9 Media Literacy strand: clickbait headlines use sensational or misleading language to attract clicks, and critically analyzing headlines helps readers evaluate whether a headline accurately represents the content that follows.",
-        "resourceLabel": "TVO Learn: Grade 9 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "resourceLabel": "YouTube: Media Literacy: Clickbait and Headline Analysis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Clickbait%20and%20Headline%20Analysis%20grade%209%20educational",
         "quiz": [
           {
             "q": "A clickbait headline is designed primarily to ___.",
@@ -19129,14 +19147,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=f9rNJV6ww_8"
       },
       {
         "subject": "Math",
         "title": "Volume and Surface Area of Composite 3D Solids",
         "summary": "Grade 9 Measurement strand: a composite 3D solid is formed by combining two or more basic solids, such as a cylinder and a cone, and its volume and surface area can be found by breaking the shape into its individual parts.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Volume and Surface Area of Composite 3D Solids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Volume%20and%20Surface%20Area%20of%20Composite%203D%20Solids%20grade%209%20educational",
         "quiz": [
           {
             "q": "A composite 3D solid is formed by ___.",
@@ -19189,14 +19208,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=qEhWStMWRXo"
       },
       {
         "subject": "Science",
         "title": "The Nervous System and the Brain",
         "summary": "Grade 9 Science Biology strand: the nervous system, including the brain, spinal cord, and nerves, coordinates the body’s responses to internal and external stimuli by transmitting electrical signals throughout the body.",
-        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "resourceLabel": "YouTube: The Nervous System and the Brain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Nervous%20System%20and%20the%20Brain%20grade%209%20educational",
         "quiz": [
           {
             "q": "The nervous system coordinates the body’s responses to stimuli by transmitting ___.",
@@ -19249,14 +19269,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=qPix_X-9t7E"
       },
       {
         "subject": "SocialStudies",
         "title": "Urban Geography: Housing Affordability and the Housing Crisis",
         "summary": "Grade 9 Social Studies (Geography) strand: housing affordability refers to the relationship between housing costs and household income, and rising costs in many cities have created a housing crisis that affects where and how people can afford to live.",
-        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "resourceLabel": "YouTube: Urban Geography: Housing Affordability and the Housing Crisis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Urban%20Geography%3A%20Housing%20Affordability%20and%20the%20Housing%20Crisis%20grade%209%20educational",
         "quiz": [
           {
             "q": "Housing affordability refers to the relationship between ___.",
@@ -19309,7 +19330,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=wP3uQUZlhdo"
       }
     ]
   },

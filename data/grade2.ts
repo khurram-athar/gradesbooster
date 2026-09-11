@@ -23559,7 +23559,8 @@ const curriculum: DayContent[] = [
               "an experience"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lLPb1JAkdtc"
       },
       {
         "subject": "Math",
@@ -23641,7 +23642,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=RchAmPvFqNg"
       },
       {
         "subject": "Science",
@@ -23724,7 +23726,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=VaTkatRwICw"
       },
       {
         "subject": "SocialStudies",
@@ -23805,7 +23808,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Families & Diversity (Basic)"
+        "topic": "Families & Diversity (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=SdXHNiGg-Ss"
       }
     ]
   },
@@ -61632,7 +61636,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Ordinal Numbers: From Eleventh to Twentieth; Geometry: Slides, Flips, and Turns; Money: Canadian Coin Values \u2014 Nickel, Dime, Quarter, Loonie, and Toonie; Number Sense: Writing Numbers in Word Form; Math Review: Fractions, Data, Time, and Number Sense.",
+        "summary": "A practice recap of recent Mathematics lessons: Ordinal Numbers: From Eleventh to Twentieth; Geometry: Slides, Flips, and Turns; Money: Canadian Coin Values — Nickel, Dime, Quarter, Loonie, and Toonie; Number Sense: Writing Numbers in Word Form; Math Review: Fractions, Data, Time, and Number Sense.",
         "resourceLabel": "TVO Learn: Grade 2 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
@@ -61822,7 +61826,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In the word 'sun', what is the onset \u2014 the beginning sound?",
+            "q": "In the word 'sun', what is the onset — the beginning sound?",
             "options": [
               "s",
               "un",
@@ -61836,7 +61840,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Counting Backwards from 10 to 1; Money: Comparing Values of Coins; Money: Canadian Paper Bills \u2014 Five, Ten, Twenty, Fifty, and Hundred Dollars; Time: Converting Minutes to Seconds.",
+        "summary": "A practice recap of recent Mathematics lessons: Counting Backwards from 10 to 1; Money: Comparing Values of Coins; Money: Canadian Paper Bills — Five, Ten, Twenty, Fifty, and Hundred Dollars; Time: Converting Minutes to Seconds.",
         "resourceLabel": "TVO Learn: Grade 2 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
@@ -62399,7 +62403,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: R-Controlled Vowels: ar, or, and er; Diphthongs: The Sounds of oi, oy, ou, and ow; Word Families: -og Words; Readers Theatre: Reading Scripts Aloud Together; Language Review: Grammar, Poetry, and Word Study \u2014 A Final Grade Two Celebration.",
+        "summary": "A practice recap of recent Language lessons: R-Controlled Vowels: ar, or, and er; Diphthongs: The Sounds of oi, oy, ou, and ow; Word Families: -og Words; Readers Theatre: Reading Scripts Aloud Together; Language Review: Grammar, Poetry, and Word Study — A Final Grade Two Celebration.",
         "resourceLabel": "TVO Learn: Grade 2 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-language",
         "quiz": [
@@ -62448,7 +62452,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Fractions: Benchmark Fractions \u2014 Zero, One-Half, and One; Writing Numerals: Forming Numbers 0 to 10; Money: Estimating Total Cost by Rounding to the Nearest Dollar; Time: Calculating Age in Years and Months; Math Review: Time, Measurement, Fractions, and Geometry \u2014 A Final Grade Two Celebration.",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions: Benchmark Fractions — Zero, One-Half, and One; Writing Numerals: Forming Numbers 0 to 10; Money: Estimating Total Cost by Rounding to the Nearest Dollar; Time: Calculating Age in Years and Months; Math Review: Time, Measurement, Fractions, and Geometry — A Final Grade Two Celebration.",
         "resourceLabel": "TVO Learn: Grade 2 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-mathematics",
         "quiz": [
@@ -62497,7 +62501,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Elephants: The Largest Land Animals; Kelp Forests: Underwater Forests of the Sea; Ladybugs: Helpful Garden Insects; Earthworms: Helpers Beneath the Soil; Science Review: Animals, Habitats, and Earth Events \u2014 A Final Grade Two Celebration.",
+        "summary": "A practice recap of recent Science lessons: Elephants: The Largest Land Animals; Kelp Forests: Underwater Forests of the Sea; Ladybugs: Helpful Garden Insects; Earthworms: Helpers Beneath the Soil; Science Review: Animals, Habitats, and Earth Events — A Final Grade Two Celebration.",
         "resourceLabel": "TVO Learn: Grade 2 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-science-and-technology",
         "quiz": [
@@ -62546,7 +62550,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Traditional Indigenous Homes: Longhouses, Tipis, and Igloos; Victoria Day: Celebrating in Late May; Canada at the Olympics: Winter and Summer Games; Curling: A Canadian Winter Tradition; Social Studies Review: Geography, Culture, and Canadian Life \u2014 A Final Grade Two Celebration.",
+        "summary": "A practice recap of recent Social Studies lessons: Traditional Indigenous Homes: Longhouses, Tipis, and Igloos; Victoria Day: Celebrating in Late May; Canada at the Olympics: Winter and Summer Games; Curling: A Canadian Winter Tradition; Social Studies Review: Geography, Culture, and Canadian Life — A Final Grade Two Celebration.",
         "resourceLabel": "TVO Learn: Grade 2 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-2-social-studies",
         "quiz": [

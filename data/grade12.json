@@ -18619,8 +18619,8 @@
         "subject": "English",
         "title": "Literature: Stream of Consciousness -- Rendering the Mind on the Page",
         "summary": "Grade 12 English strand: stream of consciousness is a narrative technique that attempts to capture the continuous, often unstructured flow of a character’s thoughts, sensations, and impressions as they occur, frequently abandoning conventional punctuation, syntax, or chronological order to mimic the mind’s actual movement.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literature: Stream of Consciousness -- Rendering the Mind on the Page",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Stream%20of%20Consciousness%20--%20Rendering%20the%20Mind%20on%20the%20Page%20grade%2012%20educational",
         "quiz": [
           {
             "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
@@ -18672,14 +18672,15 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hu9L5zQ4g0Q"
       },
       {
         "subject": "AdvancedFunctions",
         "title": "Functions: The Golden Ratio and Its Algebraic Properties",
         "summary": "Grade 12 Advanced Functions strand: the golden ratio is an irrational number arising as the positive solution to a specific quadratic equation, with the defining algebraic property that it equals one plus its own reciprocal, and it appears repeatedly in geometric and recursive contexts.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "resourceLabel": "YouTube: Functions: The Golden Ratio and Its Algebraic Properties",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20The%20Golden%20Ratio%20and%20Its%20Algebraic%20Properties%20grade%2012%20educational",
         "quiz": [
           {
             "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
@@ -18732,14 +18733,15 @@
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=ZIVaWXoaoU0"
       },
       {
         "subject": "Calculus",
         "title": "Calculus: Differential Equations -- The Predator-Prey Model",
         "summary": "Grade 12 Calculus strand: the predator-prey model uses a coupled system of differential equations to describe how the populations of two interacting species change over time, capturing how each population’s growth rate depends on the size of both populations simultaneously.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "resourceLabel": "YouTube: Calculus: Differential Equations -- The Predator-Prey Model",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Differential%20Equations%20--%20The%20Predator-Prey%20Model%20grade%2012%20educational",
         "quiz": [
           {
             "q": "The predator-prey model uses a coupled system of differential equations to describe how the populations of ___ interacting species change over time.",
@@ -18792,14 +18794,15 @@
             "answer": 0
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=Tc05IbqTsFM"
       },
       {
         "subject": "Physics",
         "title": "Physics: The Aurora Borealis -- Charged Particles and Earth’s Magnetic Field",
         "summary": "Grade 12 Physics strand: the aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the polar regions, colliding with atmospheric gas atoms and exciting their electrons, which then emit visible light as they return to a lower energy state.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: The Aurora Borealis -- Charged Particles and Earth’s Magnetic Field",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Aurora%20Borealis%20--%20Charged%20Particles%20and%20Earth%E2%80%99s%20Magnetic%20Field%20grade%2012%20educational",
         "quiz": [
           {
             "q": "The aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the ___ regions.",
@@ -18852,7 +18855,8 @@
             "answer": 0
           }
         ],
-        "topic": "Electricity & Magnetism"
+        "topic": "Electricity & Magnetism",
+        "videoUrl": "https://www.youtube.com/watch?v=eJV_wlCm6ms"
       }
     ]
   },
@@ -18864,8 +18868,8 @@
         "subject": "English",
         "title": "Oral Communication: The Socratic Seminar -- Dialogue as Inquiry",
         "summary": "Grade 12 English strand: a Socratic seminar is a structured group discussion in which participants pose and respond to open-ended questions about a shared text, building collaboratively on one another’s ideas rather than debating to win, with the facilitator guiding rather than directing the conversation.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Oral Communication: The Socratic Seminar -- Dialogue as Inquiry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20The%20Socratic%20Seminar%20--%20Dialogue%20as%20Inquiry%20grade%2012%20educational",
         "quiz": [
           {
             "q": "A Socratic seminar is a structured group discussion in which participants pose and respond to ___ questions about a shared text.",
@@ -18918,7 +18922,8 @@
             "answer": 1
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=USo7V6kwfEk"
       },
       {
         "subject": "AdvancedFunctions",
@@ -18978,7 +18983,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=UeuuFqbTYgA"
       },
       {
         "subject": "Calculus",
@@ -19045,8 +19051,8 @@
         "subject": "Physics",
         "title": "Physics: Radioactive Dating and the Applications of Half-Life",
         "summary": "Grade 12 Physics strand: radioactive dating estimates the age of a material by measuring the remaining proportion of a radioactive isotope compared to its stable decay product, using the isotope’s known half-life to calculate how much time has elapsed since the material formed.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: Radioactive Dating and the Applications of Half-Life",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Radioactive%20Dating%20and%20the%20Applications%20of%20Half-Life%20grade%2012%20educational",
         "quiz": [
           {
             "q": "Radioactive dating estimates the age of a material by measuring the remaining proportion of a radioactive isotope compared to its stable ___ product.",
@@ -19098,7 +19104,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8QnsA_1pEd8"
       }
     ]
   },

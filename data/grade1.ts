@@ -23210,7 +23210,8 @@ const curriculum: DayContent[] = [
               "as quiet as a mouse"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=b7wVc_5UuxQ"
       },
       {
         "subject": "Math",
@@ -23292,7 +23293,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=C229LUk380Q"
       },
       {
         "subject": "Science",
@@ -23377,7 +23379,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=TwfKCX_8fbA"
       },
       {
         "subject": "SocialStudies",
@@ -23460,7 +23463,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=1DvFLiBmdTQ"
       }
     ]
   },

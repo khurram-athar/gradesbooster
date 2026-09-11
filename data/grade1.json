@@ -23208,7 +23208,8 @@
               "as quiet as a mouse"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=b7wVc_5UuxQ"
       },
       {
         "subject": "Math",
@@ -23290,7 +23291,8 @@
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=C229LUk380Q"
       },
       {
         "subject": "Science",
@@ -23375,7 +23377,8 @@
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=TwfKCX_8fbA"
       },
       {
         "subject": "SocialStudies",
@@ -23458,7 +23461,8 @@
             ]
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=1DvFLiBmdTQ"
       }
     ]
   },

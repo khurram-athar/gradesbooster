@@ -22295,7 +22295,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wlBC2ljoGAk"
       }
     ]
   },
@@ -22694,7 +22695,8 @@
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=gUwP7LvHEic"
       },
       {
         "subject": "Math",
@@ -22754,7 +22756,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mb5n2o-NWSQ"
       },
       {
         "subject": "Science",
@@ -22834,7 +22837,8 @@
               "observation"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ECebbEWhxw0"
       },
       {
         "subject": "SocialStudies",
@@ -22917,7 +22921,8 @@
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=ZVSoOyT4-5w"
       }
     ]
   },

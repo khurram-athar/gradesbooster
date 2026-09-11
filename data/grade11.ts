@@ -18674,8 +18674,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Oral Communication: The Art of the Anecdote in Storytelling",
         "summary": "Grade 11 English strand: an anecdote is a short, focused account of a real or realistic incident used within a speech or conversation to illustrate a larger point, and effective anecdotes rely on concrete detail, a clear structure, and a purposeful connection back to the speaker’s larger message.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Oral Communication: The Art of the Anecdote in Storytelling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20The%20Art%20of%20the%20Anecdote%20in%20Storytelling%20grade%2011%20educational",
         "quiz": [
           {
             "q": "An anecdote is best described as a short, focused account of a real or realistic incident used to ___.",
@@ -18728,14 +18728,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=_wt9dWtDywg"
       },
       {
         "subject": "Functions",
         "title": "Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions",
         "summary": "Grade 11 Functions strand: many real-world phenomena, such as tides, sound waves, and seasonal temperature patterns, repeat in a regular cycle and can be modelled using a sinusoidal function, whose amplitude, period, and vertical shift correspond to measurable features of the phenomenon.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Modelling%20Periodic%20Phenomena%20with%20Sinusoidal%20Functions%20grade%2011%20educational",
         "quiz": [
           {
             "q": "A sinusoidal function is well suited to modelling a real-world phenomenon that ___.",
@@ -18788,14 +18789,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=8J3n7amHQzU"
       },
       {
         "subject": "Biology",
         "title": "Human Health: Blood Glucose Regulation and Diabetes",
         "summary": "Grade 11 Biology strand: blood glucose levels are regulated through a negative feedback system involving the hormones insulin and glucagon, released by the pancreas, and diabetes occurs when this regulation fails, either because the body produces too little insulin or cannot respond to it effectively.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Human Health: Blood Glucose Regulation and Diabetes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Health%3A%20Blood%20Glucose%20Regulation%20and%20Diabetes%20grade%2011%20educational",
         "quiz": [
           {
             "q": "Blood glucose levels are regulated primarily through a negative feedback system involving the hormones insulin and ___.",
@@ -18847,14 +18849,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=UznxKiHrNx4"
       },
       {
         "subject": "Chemistry",
         "title": "Acids and Bases: Weak Acid and Base Equilibria (Ka and Kb)",
         "summary": "Grade 11 Chemistry strand: unlike a strong acid or base, which ionizes completely in water, a weak acid or base only partially ionizes, establishing an equilibrium described by an acid or base ionization constant, Ka or Kb, that indicates the relative strength of that weak acid or base.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Acids and Bases: Weak Acid and Base Equilibria (Ka and Kb)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Acids%20and%20Bases%3A%20Weak%20Acid%20and%20Base%20Equilibria%20%28Ka%20and%20Kb%29%20grade%2011%20educational",
         "quiz": [
           {
             "q": "Unlike a strong acid, a weak acid in water ___.",
@@ -18907,7 +18910,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Chemical Reactions",
+        "videoUrl": "https://www.youtube.com/watch?v=kJTCuRSeh6g"
       }
     ]
   },
@@ -18919,8 +18923,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Grammar: The Semicolon, Colon, and Sentence-Combining for Sophistication",
         "summary": "Grade 11 English strand: a semicolon joins two closely related independent clauses without a conjunction, while a colon introduces a list, explanation, or elaboration following a complete independent clause, and skillful use of both can combine short sentences into more sophisticated, varied prose.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Grammar: The Semicolon, Colon, and Sentence-Combining for Sophistication",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20The%20Semicolon%2C%20Colon%2C%20and%20Sentence-Combining%20for%20Sophistication%20grade%2011%20educational",
         "quiz": [
           {
             "q": "A semicolon is used to join two ___.",
@@ -18973,14 +18977,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=xHa5tWKkvd4"
       },
       {
         "subject": "Functions",
         "title": "Statistics: Box-and-Whisker Plots and Outlier Detection",
         "summary": "Grade 11 Functions strand (Data Management): a box-and-whisker plot displays a data set’s median, quartiles, and range in a compact visual form, and it can help identify outliers — values that fall unusually far from the rest of the data — using the interquartile range as a reference.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Statistics: Box-and-Whisker Plots and Outlier Detection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20Box-and-Whisker%20Plots%20and%20Outlier%20Detection%20grade%2011%20educational",
         "quiz": [
           {
             "q": "A box-and-whisker plot displays a data set’s median, quartiles, and ___.",
@@ -19033,14 +19038,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=IicMdTP9s9w"
       },
       {
         "subject": "Biology",
         "title": "Ecology: Marine Ecosystems and Ocean Zonation",
         "summary": "Grade 11 Biology strand: marine ecosystems are organized into distinct zones based on depth and distance from shore, including the intertidal, neritic, and open ocean zones, each shaped by differing levels of sunlight, pressure, and temperature that determine which organisms can survive there.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Ecology: Marine Ecosystems and Ocean Zonation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Marine%20Ecosystems%20and%20Ocean%20Zonation%20grade%2011%20educational",
         "quiz": [
           {
             "q": "Marine ecosystems are organized into distinct zones primarily based on ___.",
@@ -19093,14 +19099,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=-wrUr0esoI0"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: The Activity Series of Metals and Single-Displacement Reactions",
         "summary": "Grade 11 Chemistry strand: the activity series ranks metals by how readily they lose electrons and undergo oxidation, and it can be used to predict whether a single-displacement reaction will occur, since a more reactive metal will displace a less reactive metal from a compound in solution.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: The Activity Series of Metals and Single-Displacement Reactions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Activity%20Series%20of%20Metals%20and%20Single-Displacement%20Reactions%20grade%2011%20educational",
         "quiz": [
           {
             "q": "The activity series ranks metals according to how readily they ___.",
@@ -19152,7 +19159,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=gJ0v4D2uxY8"
       }
     ]
   },

@@ -22297,7 +22297,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=wlBC2ljoGAk"
       }
     ]
   },
@@ -22696,7 +22697,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=gUwP7LvHEic"
       },
       {
         "subject": "Math",
@@ -22756,7 +22758,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=mb5n2o-NWSQ"
       },
       {
         "subject": "Science",
@@ -22836,7 +22839,8 @@ const curriculum: DayContent[] = [
               "observation"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ECebbEWhxw0"
       },
       {
         "subject": "SocialStudies",
@@ -22919,7 +22923,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=ZVSoOyT4-5w"
       }
     ]
   },

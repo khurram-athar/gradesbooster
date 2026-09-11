@@ -19408,8 +19408,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Spelling: Contractions and Apostrophes",
         "summary": "Grade 4 Language strand: a contraction combines two words into one shorter word, using an apostrophe to show where letters have been left out, such as do not becoming don’t.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Spelling: Contractions and Apostrophes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Spelling%3A%20Contractions%20and%20Apostrophes%20grade%204%20educational",
         "quiz": [
           {
             "q": "A contraction combines two words into ___.",
@@ -19462,14 +19462,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Spelling"
+        "topic": "Spelling",
+        "videoUrl": "https://www.youtube.com/watch?v=x3Yjm745i0s"
       },
       {
         "subject": "Math",
         "title": "Data: Double Bar Graphs",
         "summary": "Grade 4 Math strand: a double bar graph compares two related sets of data side by side using pairs of bars, making it easy to see differences between the two groups.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Data: Double Bar Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Double%20Bar%20Graphs%20grade%204%20educational",
         "quiz": [
           {
             "q": "A double bar graph compares ___ sets of related data.",
@@ -19522,14 +19523,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=L5g1y7oJhuw"
       },
       {
         "subject": "Science",
         "title": "Weathering: How Rocks Break Down Over Time",
         "summary": "Grade 4 Science strand: weathering is the process by which wind, water, ice, and changes in temperature slowly break rocks down into smaller pieces without moving them from their original location.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Weathering: How Rocks Break Down Over Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weathering%3A%20How%20Rocks%20Break%20Down%20Over%20Time%20grade%204%20educational",
         "quiz": [
           {
             "q": "Weathering is the process of rocks being ___.",
@@ -19582,14 +19584,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=mQAOe-0vxdc"
       },
       {
         "subject": "SocialStudies",
         "title": "Exploring Life in Canada’s Arctic Communities",
         "summary": "Grade 4 Social Studies strand: communities in Canada’s Arctic, home to many Inuit peoples, have adapted to a cold climate, long winters, and remote locations, developing unique ways of travelling, hunting, and staying connected.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Exploring Life in Canada’s Arctic Communities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exploring%20Life%20in%20Canada%E2%80%99s%20Arctic%20Communities%20grade%204%20educational",
         "quiz": [
           {
             "q": "Canada’s Arctic region is home to many communities of ___ peoples.",
@@ -19642,7 +19645,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=SaUfZJoP1VI"
       }
     ]
   },

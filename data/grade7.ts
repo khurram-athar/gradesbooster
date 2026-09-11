@@ -18702,8 +18702,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Identifying Cause and Effect Relationships in Text",
         "summary": "Grade 7 Language strand: identifying cause and effect in a text involves recognizing how one event or action (the cause) leads directly to a result (the effect).",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Identifying Cause and Effect Relationships in Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Identifying%20Cause%20and%20Effect%20Relationships%20in%20Text%20grade%207%20educational",
         "quiz": [
           {
             "q": "A cause-and-effect relationship shows how ___.",
@@ -18756,14 +18756,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=OnSEFSk5VgQ"
       },
       {
         "subject": "Math",
         "title": "Data: Constructing and Interpreting Stem-and-Leaf Plots",
         "summary": "Grade 7 Math strand: a stem-and-leaf plot organizes numerical data by splitting each value into a “stem” (leading digits) and a “leaf” (last digit), making it easy to see the shape and spread of a data set.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Data: Constructing and Interpreting Stem-and-Leaf Plots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Constructing%20and%20Interpreting%20Stem-and-Leaf%20Plots%20grade%207%20educational",
         "quiz": [
           {
             "q": "In a stem-and-leaf plot, the “stem” usually represents ___.",
@@ -18816,14 +18817,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=-9b3XDodY34"
       },
       {
         "subject": "Science",
         "title": "Ocean Currents and Their Influence on Climate",
         "summary": "Grade 7 Science strand: ocean currents are large-scale movements of seawater driven by wind, temperature, and salinity differences, and they play a major role in distributing heat and shaping climate around the world.",
-        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Ocean Currents and Their Influence on Climate",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Currents%20and%20Their%20Influence%20on%20Climate%20grade%207%20educational",
         "quiz": [
           {
             "q": "Ocean currents are large-scale movements of ___.",
@@ -18876,14 +18878,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=p4pWafuvdrY"
       },
       {
         "subject": "SocialStudies",
         "title": "Population Pyramids and Demographic Transition",
         "summary": "Grade 7 Social Studies strand: a population pyramid is a graph showing the age and sex distribution of a population, and demographic transition describes how birth and death rates change as a country develops economically.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: Population Pyramids and Demographic Transition",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Population%20Pyramids%20and%20Demographic%20Transition%20grade%207%20educational",
         "quiz": [
           {
             "q": "A population pyramid displays a population’s distribution by ___.",
@@ -18936,7 +18939,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Population & Urbanization"
+        "topic": "Population & Urbanization",
+        "videoUrl": "https://www.youtube.com/watch?v=RLmKfXwWQtE"
       }
     ]
   },
@@ -18948,8 +18952,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Media Literacy: Analyzing Podcasts and Audio Storytelling",
         "summary": "Grade 7 Language strand: analyzing podcasts and audio storytelling involves considering how sound effects, music, tone of voice, and pacing are used to inform or engage a listening audience.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Media Literacy: Analyzing Podcasts and Audio Storytelling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Podcasts%20and%20Audio%20Storytelling%20grade%207%20educational",
         "quiz": [
           {
             "q": "Audio storytelling relies on elements such as ___.",
@@ -19002,14 +19006,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=AD7N-1Mj-DU"
       },
       {
         "subject": "Math",
         "title": "Estimation Strategies and Rounding for Real-World Problems",
         "summary": "Grade 7 Math strand: estimation strategies, such as rounding numbers to the nearest ten or hundred, help quickly approximate answers and check whether an exact calculation is reasonable.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Estimation Strategies and Rounding for Real-World Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimation%20Strategies%20and%20Rounding%20for%20Real-World%20Problems%20grade%207%20educational",
         "quiz": [
           {
             "q": "Estimation is useful because it helps ___.",
@@ -19062,14 +19067,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=fd-E18EqSVk"
       },
       {
         "subject": "Science",
         "title": "The Scientific Method: Variables and Designing a Fair Test",
         "summary": "Grade 7 Science strand: a fair test changes only one variable at a time while keeping all other conditions constant, allowing scientists to determine the true cause of a result.",
-        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: The Scientific Method: Variables and Designing a Fair Test",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Scientific%20Method%3A%20Variables%20and%20Designing%20a%20Fair%20Test%20grade%207%20educational",
         "quiz": [
           {
             "q": "A fair test changes ___.",
@@ -19122,14 +19128,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Scientific Inquiry & Skills"
+        "topic": "Scientific Inquiry & Skills",
+        "videoUrl": "https://www.youtube.com/watch?v=R16p4q7Voi4"
       },
       {
         "subject": "SocialStudies",
         "title": "Fair Trade and Ethical Consumerism",
         "summary": "Grade 7 Social Studies strand: fair trade is a movement that aims to ensure producers in developing countries receive fair prices and working conditions, and ethical consumerism involves making purchasing choices based on their social and environmental impact.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: Fair Trade and Ethical Consumerism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fair%20Trade%20and%20Ethical%20Consumerism%20grade%207%20educational",
         "quiz": [
           {
             "q": "Fair trade aims to ensure that producers in developing countries receive ___.",
@@ -19182,7 +19189,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=g8LC3PJ-7r4"
       }
     ]
   },

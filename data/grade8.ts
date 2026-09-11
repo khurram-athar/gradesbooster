@@ -18709,8 +18709,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Unreliable Narrators in Fiction",
         "summary": "Grade 8 Reading strand: an unreliable narrator is a storyteller whose credibility is compromised, whether by bias, limited knowledge, or dishonesty, requiring readers to question the narrator’s version of events.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Reading: Unreliable Narrators in Fiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Unreliable%20Narrators%20in%20Fiction%20grade%208%20educational",
         "quiz": [
           {
             "q": "An unreliable narrator is a storyteller whose ___.",
@@ -18763,14 +18763,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=s2cN9fpUiYs"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Percent Change, Markup, and Discount",
         "summary": "Grade 8 Math strand: percent change describes how much a value has increased or decreased relative to its original amount, and this concept applies directly to calculating a markup added by a retailer or a discount subtracted during a sale.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Percent Change, Markup, and Discount",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Percent%20Change%2C%20Markup%2C%20and%20Discount%20grade%208%20educational",
         "quiz": [
           {
             "q": "Percent change describes ___.",
@@ -18823,7 +18824,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=9g1iW_sZwMI"
       },
       {
         "subject": "Science",
@@ -18883,7 +18885,18 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Forces & Motion"
+        "topic": "Forces & Motion",
+        "videoUrl": "https://www.youtube.com/watch?v=R_pDKyg5YKY",
+        "videoUrls": [
+          {
+            "label": "What Are Volcanoes and How Are They Formed?",
+            "url": "https://www.youtube.com/watch?v=R_pDKyg5YKY"
+          },
+          {
+            "label": "Earthquakes Explained",
+            "url": "https://www.youtube.com/watch?v=17kBVfGjI8c"
+          }
+        ]
       },
       {
         "subject": "History",
@@ -18943,7 +18956,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=DnZVp9M2QIc"
       }
     ]
   },
@@ -18955,8 +18969,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Vocabulary: Synonyms, Antonyms, and Shades of Meaning",
         "summary": "Grade 8 Vocabulary strand: synonyms share similar meanings and antonyms have opposite meanings, but many synonyms carry subtly different shades of meaning that affect tone and precision in writing.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Vocabulary: Synonyms, Antonyms, and Shades of Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Synonyms%2C%20Antonyms%2C%20and%20Shades%20of%20Meaning%20grade%208%20educational",
         "quiz": [
           {
             "q": "A synonym is a word that ___.",
@@ -19009,14 +19023,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=I9vV0tiEalQ"
       },
       {
         "subject": "Math",
         "title": "Probability: Independent and Dependent Events",
         "summary": "Grade 8 Math strand: two events are independent if the outcome of one does not affect the probability of the other, while two events are dependent if the outcome of one event changes the probability of the other occurring.",
-        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "resourceLabel": "YouTube: Probability: Independent and Dependent Events",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Independent%20and%20Dependent%20Events%20grade%208%20educational",
         "quiz": [
           {
             "q": "Two events are independent if ___.",
@@ -19069,14 +19084,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=LS-_ihDKr2M"
       },
       {
         "subject": "Science",
         "title": "Environmental Science: The Carbon Cycle and the Greenhouse Effect",
         "summary": "Grade 8 Science strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, land, and living things, and human activities that release additional carbon dioxide intensify the greenhouse effect, trapping more heat in the atmosphere.",
-        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Environmental Science: The Carbon Cycle and the Greenhouse Effect",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Science%3A%20The%20Carbon%20Cycle%20and%20the%20Greenhouse%20Effect%20grade%208%20educational",
         "quiz": [
           {
             "q": "The carbon cycle describes how carbon moves between ___.",
@@ -19129,7 +19145,18 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=KNLUzqW8IuA",
+        "videoUrls": [
+          {
+            "label": "The Carbon Cycle Process",
+            "url": "https://www.youtube.com/watch?v=KNLUzqW8IuA"
+          },
+          {
+            "label": "Greenhouse Gases Explained for Kids",
+            "url": "https://www.youtube.com/watch?v=Zo2CjnoAWPE"
+          }
+        ]
       },
       {
         "subject": "History",
@@ -19189,7 +19216,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=YIxJ7I8vRzU"
       }
     ]
   },

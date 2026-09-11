@@ -23557,7 +23557,8 @@
               "an experience"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lLPb1JAkdtc"
       },
       {
         "subject": "Math",
@@ -23639,7 +23640,8 @@
             ]
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=RchAmPvFqNg"
       },
       {
         "subject": "Science",
@@ -23722,7 +23724,8 @@
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=VaTkatRwICw"
       },
       {
         "subject": "SocialStudies",
@@ -23803,7 +23806,8 @@
             ]
           }
         ],
-        "topic": "Families & Diversity (Basic)"
+        "topic": "Families & Diversity (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=SdXHNiGg-Ss"
       }
     ]
   },

@@ -18877,8 +18877,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Commas in a Series",
         "summary": "Grade 3 Language strand: a comma is used to separate three or more items in a series, or list, within a sentence, making the sentence easier to read and understand.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Grammar: Commas in a Series",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Commas%20in%20a%20Series%20grade%203%20educational",
         "quiz": [
           {
             "q": "A comma is used to separate three or more items in a ___ within a sentence.",
@@ -18931,14 +18931,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=9B_SBW37O64"
       },
       {
         "subject": "Math",
         "title": "Probability: Conducting a Simple Experiment",
         "summary": "Grade 3 Math strand: a probability experiment, like flipping a coin or rolling a die many times, involves recording results to see how often each outcome actually happens.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Probability: Conducting a Simple Experiment",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Conducting%20a%20Simple%20Experiment%20grade%203%20educational",
         "quiz": [
           {
             "q": "A probability experiment involves recording results to see how often each ___ actually happens.",
@@ -18991,14 +18992,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=u-KJ8SqgXzg"
       },
       {
         "subject": "Science",
         "title": "Science: Insect Body Parts and Characteristics",
         "summary": "Grade 3 Science strand: insects share certain characteristics, including three main body parts — the head, thorax, and abdomen — as well as six legs and, often, wings.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Insect Body Parts and Characteristics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Insect%20Body%20Parts%20and%20Characteristics%20grade%203%20educational",
         "quiz": [
           {
             "q": "Insects share certain characteristics, including three main body parts and ___ legs.",
@@ -19051,14 +19053,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=3166nK3Gym8"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Francophone Communities in Ontario",
         "summary": "Grade 3 Social Studies strand: Ontario is home to many Francophone communities, where people speak French as their first language and celebrate French-Canadian culture and traditions.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Francophone Communities in Ontario",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Francophone%20Communities%20in%20Ontario%20grade%203%20educational",
         "quiz": [
           {
             "q": "In a Francophone community, people speak ___ as their first language.",
@@ -19111,7 +19114,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=8FOMHzUoZRw"
       }
     ]
   },

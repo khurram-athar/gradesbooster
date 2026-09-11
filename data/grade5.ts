@@ -19275,8 +19275,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Main Idea and Supporting Details",
         "summary": "Grade 5 Language strand: the main idea is the central point a text is making, while supporting details are the specific facts, examples, or reasons that explain and back up that main idea.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Reading: Main Idea and Supporting Details",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Main%20Idea%20and%20Supporting%20Details%20grade%205%20educational",
         "quiz": [
           {
             "q": "The main idea of a text is ___.",
@@ -19329,14 +19329,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension"
+        "topic": "Reading Comprehension",
+        "videoUrl": "https://www.youtube.com/watch?v=ixVXjthT8o0"
       },
       {
         "subject": "Math",
         "title": "Data Management: Surveys, Tally Charts, and Frequency Tables",
         "summary": "Grade 5 Math strand: a survey collects information by asking people questions, and the results can be recorded using tally charts and organized into frequency tables before being displayed as a graph.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Data Management: Surveys, Tally Charts, and Frequency Tables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Surveys%2C%20Tally%20Charts%2C%20and%20Frequency%20Tables%20grade%205%20educational",
         "quiz": [
           {
             "q": "A survey collects information by ___.",
@@ -19389,7 +19390,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=JuEpHNhRJlA"
       },
       {
         "subject": "Science",
@@ -19456,8 +19458,8 @@ const curriculum: DayContent[] = [
         "subject": "SocialStudies",
         "title": "The History of Transportation in Canada",
         "summary": "Grade 5 Social Studies strand: transportation in Canada has changed over time, from canoes and horse-drawn wagons to railways, automobiles, and airplanes, shaping how people and goods move across the country.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: The History of Transportation in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20History%20of%20Transportation%20in%20Canada%20grade%205%20educational",
         "quiz": [
           {
             "q": "Before railways and cars, Indigenous peoples and early settlers in Canada often travelled by ___.",
@@ -19510,7 +19512,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=R39aYko2rIs"
       }
     ]
   },
@@ -19522,8 +19525,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Figurative Language: Imagery",
         "summary": "Grade 5 Language strand: imagery is descriptive language that appeals to the five senses, helping readers picture, hear, smell, taste, or feel what is happening in a text.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Figurative Language: Imagery",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Imagery%20grade%205%20educational",
         "quiz": [
           {
             "q": "Imagery is descriptive language that appeals to ___.",
@@ -19576,14 +19579,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=br3p6MhvBkA"
       },
       {
         "subject": "Math",
         "title": "Multiplying Decimals by Powers of Ten",
         "summary": "Grade 5 Math strand: multiplying a decimal by a power of ten, such as 10, 100, or 1000, moves the decimal point to the right the same number of places as there are zeros.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Multiplying Decimals by Powers of Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Decimals%20by%20Powers%20of%20Ten%20grade%205%20educational",
         "quiz": [
           {
             "q": "When multiplying a decimal by 10, the decimal point moves ___.",
@@ -19636,14 +19640,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Decimals"
+        "topic": "Decimals",
+        "videoUrl": "https://www.youtube.com/watch?v=v2qLlJ7KwHk"
       },
       {
         "subject": "Science",
         "title": "Sound: Pitch and Frequency",
         "summary": "Grade 5 Science strand: pitch is how high or low a sound seems, and it is determined by frequency, the number of sound wave vibrations that occur each second.",
-        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Sound: Pitch and Frequency",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%3A%20Pitch%20and%20Frequency%20grade%205%20educational",
         "quiz": [
           {
             "q": "Pitch describes how ___ a sound seems.",
@@ -19696,14 +19701,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=wEL87lznGrg"
       },
       {
         "subject": "SocialStudies",
         "title": "Provincial Legislatures and the Role of the Premier",
         "summary": "Grade 5 Social Studies strand: each Canadian province has its own legislature that makes provincial laws, led by a premier, the head of the provincial government.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Provincial Legislatures and the Role of the Premier",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Provincial%20Legislatures%20and%20the%20Role%20of%20the%20Premier%20grade%205%20educational",
         "quiz": [
           {
             "q": "A provincial legislature is responsible for making laws at the ___ level.",
@@ -19755,7 +19761,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dw8F1huWq7w"
       }
     ]
   },
