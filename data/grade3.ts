@@ -19129,6 +19129,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a root word, or base word, is the simplest form of a word before prefixes or suffixes are added, and it carries the word’s core meaning.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=NXtD3oZZ6aE",
         "quiz": [
           {
             "q": "A root word, or base word, is the simplest form of a word before ___ are added.",
@@ -19189,6 +19190,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: the distributive property lets you break apart one factor into smaller parts, multiply each part separately, and then add the results together to find the total product.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=0ADqhtiOtOQ",
         "quiz": [
           {
             "q": "The distributive property lets you break apart one factor into smaller parts, multiply each part separately, and then ___.",
@@ -19249,6 +19251,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: the Earth has its own magnetic field, and a compass uses a small magnetized needle that lines up with this field to always point toward magnetic north.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=6OvJdZDBhT8",
         "quiz": [
           {
             "q": "The Earth has its own ___, which a compass needle lines up with.",
@@ -19309,6 +19312,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: a treaty is a formal agreement between the government and Indigenous peoples, often involving land, rights, and responsibilities that both groups agreed to follow.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=SVaK9rAV32A",
         "quiz": [
           {
             "q": "A treaty is a formal ___ between the government and Indigenous peoples.",

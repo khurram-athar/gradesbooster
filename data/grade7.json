@@ -19202,6 +19202,7 @@
         "summary": "Grade 7 Language strand: an interview script or Q&A feature uses purposeful, open-ended questions to draw out detailed and informative responses from a subject.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=xCO5WoMJb-U",
         "quiz": [
           {
             "q": "An effective interview question is usually ___.",
@@ -19262,6 +19263,7 @@
         "summary": "Grade 7 Math strand: theoretical probability predicts outcomes based on mathematical reasoning, while experimental probability is based on the actual results of repeated trials, and the two may differ.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Ay5pnC-0bVI",
         "quiz": [
           {
             "q": "Theoretical probability is based on ___.",
@@ -19382,6 +19384,17 @@
         "summary": "Grade 4 Social Studies strand: Canada’s Constitution is the country’s highest set of laws, and it includes the Canadian Charter of Rights and Freedoms, which protects basic rights such as freedom of speech and equality for all Canadians.",
         "resourceLabel": "YouTube: Social Studies: Canada’s Constitution and the Charter of Rights and Freedoms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Constitution%20and%20the%20Charter%20of%20Rights%20and%20Freedoms%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DnZVp9M2QIc",
+        "videoUrls": [
+          {
+            "label": "The Charter of Rights and Freedoms",
+            "url": "https://www.youtube.com/watch?v=DnZVp9M2QIc"
+          },
+          {
+            "label": "What is the Canadian Constitution?",
+            "url": "https://www.youtube.com/watch?v=FzFXd0NcvVw"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call the country’s highest set of laws?",

@@ -19345,6 +19345,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Writing strand: a critical review evaluates a book or film using specific criteria, supporting an overall judgment with evidence and reasoned analysis rather than simply summarizing the plot.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=raiWajtEV9s",
         "quiz": [
           {
             "q": "A critical review primarily aims to ___.",
@@ -19404,6 +19405,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Number Sense strand: rational numbers can be expressed as a ratio of two integers, irrational numbers cannot, and together rational and irrational numbers make up the set of real numbers.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Th9mT4TxvOI",
         "quiz": [
           {
             "q": "A rational number can always be expressed as ___.",
@@ -19464,6 +19466,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Biology strand: a Punnett square is a diagram used to predict the probability of specific genetic traits appearing in offspring, based on the combination of alleles inherited from each parent.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=agQpPPQ5IVQ",
         "quiz": [
           {
             "q": "A Punnett square is used to ___.",
@@ -19524,6 +19527,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: hosting a sport mega-event, such as the Olympic Games or World Cup, requires significant infrastructure investment and can reshape a host city’s economy, land use, and international profile.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=uw-imWvCrKs",
         "quiz": [
           {
             "q": "Hosting a sport mega-event typically requires significant investment in ___.",

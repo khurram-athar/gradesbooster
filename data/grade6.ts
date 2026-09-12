@@ -19211,6 +19211,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: mood is the feeling or atmosphere a piece of writing creates for the reader, often shaped by word choice, setting, and descriptive imagery.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=A6LTx2hlBZc",
         "quiz": [
           {
             "q": "Mood in a story is best described as ___.",
@@ -19271,6 +19272,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: long division with a multi-digit divisor uses repeated steps of dividing, multiplying, subtracting, and bringing down digits to find a quotient, extending single-digit division strategies to larger numbers.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=HdU_rf7eMTI",
         "quiz": [
           {
             "q": "The steps of long division are generally repeated in which order?",
@@ -19331,6 +19333,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: fossils are the preserved remains or traces of ancient organisms, and studying them helps scientists understand how life and environments on Earth have changed over millions of years.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=bRuSmxJo_iA",
         "quiz": [
           {
             "q": "A fossil is best described as ___.",
@@ -19391,6 +19394,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: Canada’s three northern territories — Yukon, the Northwest Territories, and Nunavut — cover a vast area, with Nunavut created in 1999 as a homeland with significant Inuit self-government.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=QLBSGchmJOM",
         "quiz": [
           {
             "q": "Canada’s three northern territories are ___.",

@@ -19660,6 +19660,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: when a sentence uses more than one adjective before a noun, the adjectives usually follow a typical order, such as opinion, size, and colour, as in a beautiful, small, red bird.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Ycbi8yFBt_4",
         "quiz": [
           {
             "q": "When more than one adjective describes a noun, the adjectives usually follow a typical ___.",
@@ -19720,6 +19721,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: converting between metric units of length involves multiplying or dividing by powers of ten, such as changing between millimetres, centimetres, metres, and kilometres.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=kOJFSH_Bn9U",
         "quiz": [
           {
             "q": "Converting between metric units of length involves multiplying or dividing by ___.",
@@ -19780,6 +19782,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: pollination occurs when pollen is carried from one flower to another, often by insects such as bees and butterflies, allowing many plants to produce seeds and fruit.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=W-daJxfe4As",
         "quiz": [
           {
             "q": "Pollination occurs when pollen is carried ___.",

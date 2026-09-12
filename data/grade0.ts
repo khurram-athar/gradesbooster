@@ -22938,6 +22938,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that fiction stories are make-believe, with events and characters that are not real, while nonfiction books give true facts about real people, places, or things.",
         "resourceLabel": "YouTube: Fiction and Nonfiction: Real or Make-Believe",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fiction%20and%20Nonfiction%3A%20Real%20or%20Make-Believe%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uF2e_eqI5gI",
         "quiz": [
           {
             "q": "What kind of story is fiction?",
@@ -23021,6 +23022,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Skip Counting by 2s to 20",
         "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%20to%2020%20kindergarten%20educational",
         "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=NCAWsawkJgo",
         "quiz": [
           {
             "q": "What comes next when skip counting by 2s: 2, 4, 6, __?",
@@ -23080,6 +23082,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that compost is made when food scraps, such as fruit peels and vegetable bits, break down over time and turn into rich soil that helps plants grow.",
         "resourceLabel": "YouTube: Compost: Turning Food Scraps into Soil",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compost%3A%20Turning%20Food%20Scraps%20into%20Soil%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=26IO95Xt5WU",
         "quiz": [
           {
             "q": "What is compost?",
@@ -23163,6 +23166,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn about the museum as a community place that displays old objects and stories, helping visitors learn about history and how things used to be.",
         "resourceLabel": "YouTube: Our Local Museum: Learning About the Past",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Museum%3A%20Learning%20About%20the%20Past%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XlHzvTEstz8",
         "quiz": [
           {
             "q": "What is a museum?",

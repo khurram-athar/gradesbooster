@@ -18376,6 +18376,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: the serial podcast delivers long-form nonfiction or fiction narrative in sequential audio episodes, relying on techniques such as cliffhangers, host narration, and intimate sound design to sustain listener engagement across an extended, deliberately paced release schedule.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-98exV73uxo",
         "quiz": [
           {
             "q": "The serial podcast delivers long-form narrative in sequential audio ___.",
@@ -19121,6 +19122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: testimonio is a first-person narrative form in which a speaker recounts direct experience of collective trauma, oppression, or struggle, often collaborating with a writer or editor to transform lived witness into a text that speaks for a broader community rather than an individual alone.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=KRliZYq-mWc",
         "quiz": [
           {
             "q": "Testimonio is a first-person narrative form in which a speaker recounts direct experience of collective trauma, oppression, or ___.",
@@ -19180,6 +19182,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: a Diophantine equation is a polynomial equation for which only integer solutions are sought, a restriction that can make an equation with infinitely many real solutions have only a few integer solutions, or none at all.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=FjliV5u2IVw",
         "quiz": [
           {
             "q": "A Diophantine equation is a polynomial equation for which only ___ solutions are sought.",

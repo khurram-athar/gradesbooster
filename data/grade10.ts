@@ -19156,6 +19156,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: constructive feedback offers specific, actionable observations intended to help a writer or speaker improve, balancing honest critique with respect and encouragement.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=rDHzMk2yTvM",
         "quiz": [
           {
             "q": "Constructive feedback is best described as feedback that is ___.",
@@ -19277,6 +19278,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Physics strand: a simple machine, such as a lever or pulley, changes the direction or magnitude of an applied force, and mechanical advantage measures how much a machine multiplies an input force.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=SPTNKnCqlW4",
         "quiz": [
           {
             "q": "A simple machine changes the direction or magnitude of ___.",
@@ -19337,6 +19339,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Civics strand: a bill must pass through multiple stages in both the House of Commons and the Senate, including readings, committee review, and votes, before receiving royal assent and becoming law.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "A bill must pass through multiple stages in which two bodies before becoming law?",

@@ -19174,6 +19174,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: historical fiction blends invented characters and plots with real settings, events, or figures from the past, raising ongoing questions about how much creative license an author should take when representing real history within a fictional narrative.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vPyVbT1hiYc",
         "quiz": [
           {
             "q": "Historical fiction blends invented characters and plots with ___.",
@@ -19234,6 +19235,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a rational function can have a point discontinuity, or hole, where a common factor cancels from the numerator and denominator, distinct from a vertical asymptote where the denominator alone equals zero, and both features restrict the function’s domain at that value.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=uMKtqK4raR8",
         "quiz": [
           {
             "q": "A point discontinuity, or hole, in a rational function occurs where ___.",
@@ -19294,6 +19296,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: the body’s stress response is coordinated by the hypothalamic-pituitary-adrenal axis, in which the hypothalamus signals the pituitary gland, which in turn signals the adrenal glands to release cortisol, preparing the body to respond to a perceived threat.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=T5ScIqPnqf8",
         "quiz": [
           {
             "q": "The body’s stress response is coordinated primarily by the ___ axis.",
@@ -19353,6 +19356,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: the solubility product constant, Ksp, is an equilibrium constant that describes the extent to which a sparingly soluble ionic compound dissolves in water, and comparing the calculated ion product to Ksp allows a chemist to predict whether a precipitate will form when two solutions are mixed.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=WjiXbemBXkE",
         "quiz": [
           {
             "q": "The solubility product constant, Ksp, describes the extent to which a sparingly soluble ionic compound ___.",

@@ -23478,6 +23478,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that good readers make connections between a story and their own lives, thinking about times they felt or did something similar to a character.",
         "resourceLabel": "YouTube: Making Connections: Text to Self",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Connections%3A%20Text%20to%20Self%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=93l-pRLX_9A",
         "quiz": [
           {
             "q": "What is a text-to-self connection?",
@@ -23561,6 +23562,7 @@ const curriculum: DayContent[] = [
         "summary": "Students compare the length of two or more objects directly, using words like longer, shorter, and the same to describe the difference.",
         "resourceLabel": "YouTube: Comparing Length: Longer, Shorter, and the Same",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Length%3A%20Longer%2C%20Shorter%2C%20and%20the%20Same%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KvmzCbjopkE",
         "quiz": [
           {
             "q": "If a pencil is longer than a crayon, the crayon is ___.",
@@ -23644,6 +23646,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that composting is a way to turn food scraps and plant waste, like banana peels and leaves, into rich soil that helps new plants grow.",
         "resourceLabel": "YouTube: Composting: Turning Food Scraps into Soil",
         "resourceUrl": "https://www.youtube.com/results?search_query=Composting%3A%20Turning%20Food%20Scraps%20into%20Soil%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=26IO95Xt5WU",
         "quiz": [
           {
             "q": "What is composting?",
@@ -23728,6 +23731,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that different places around the world have very different climates, from very hot places near the equator to very cold places near the poles, which affects how people live and dress.",
         "resourceLabel": "YouTube: Weather Around the World: Hot and Cold Climates",
         "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Around%20the%20World%3A%20Hot%20and%20Cold%20Climates%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=kHKNcTe6vdU",
         "quiz": [
           {
             "q": "What do we call the usual weather pattern of a place over a long time?",

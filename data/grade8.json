@@ -19229,6 +19229,7 @@
         "summary": "Grade 8 Writing strand: procedural writing gives clear, sequential instructions using numbered steps, precise language, and imperative verbs so that a reader can successfully complete a task or process.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=1yRQEnzaUY4",
         "quiz": [
           {
             "q": "Procedural writing is used to ___.",
@@ -19289,6 +19290,7 @@
         "summary": "Grade 6 Math strand: the midpoint of a line segment on a coordinate grid is the point exactly halfway between its two endpoints, and the length of a horizontal or vertical segment can be found by counting units or subtracting coordinates.",
         "resourceLabel": "YouTube: Geometry: Finding the Midpoint and Length of a Line Segment",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Finding%20the%20Midpoint%20and%20Length%20of%20a%20Line%20Segment%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vZZD43NlDwE",
         "quiz": [
           {
             "q": "What is the midpoint of a line segment?",
@@ -19349,6 +19351,17 @@
         "summary": "Grade 8 Science strand: the Moon’s phases occur as it orbits Earth and different portions of its sunlit side become visible, while a solar eclipse occurs when the Moon passes between the Sun and Earth, and a lunar eclipse occurs when Earth passes between the Sun and Moon.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=wz01pTvuMa0",
+        "videoUrls": [
+          {
+            "label": "Phases of the Moon",
+            "url": "https://www.youtube.com/watch?v=wz01pTvuMa0"
+          },
+          {
+            "label": "Lunar Eclipse",
+            "url": "https://www.youtube.com/watch?v=LH-aSizsx1o"
+          }
+        ],
         "quiz": [
           {
             "q": "The phases of the Moon occur because ___.",
@@ -19409,6 +19422,7 @@
         "summary": "Grade 6 Social Studies strand: the Great Depression of the 1930s brought widespread unemployment, poverty, and hardship to Canada, prompting government relief efforts and long-term changes to economic and social policy.",
         "resourceLabel": "YouTube: The Great Depression in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Great%20Depression%20in%20Canada%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=94FH5Bzg22s",
         "quiz": [
           {
             "q": "The Great Depression brought widespread ___.",

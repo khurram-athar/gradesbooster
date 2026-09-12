@@ -19776,6 +19776,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: procedural writing gives step-by-step instructions in a clear sequence, often using numbered steps and precise, action-oriented language so a reader can complete a task.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=bvUh3FrhFY8",
         "quiz": [
           {
             "q": "Procedural writing gives instructions in ___.",
@@ -19836,6 +19837,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: comparing and ordering fractions involves finding a common denominator or using benchmarks, such as one-half, to determine which fraction is greater or smaller.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=KNdUJQ_qd4U",
         "quiz": [
           {
             "q": "One way to compare two fractions with different denominators is to first find a ___.",
@@ -19896,6 +19898,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: different cloud types, such as cumulus, stratus, and cirrus, form in different conditions and can give clues about upcoming weather.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jKBgoX1vGnE",
+        "videoUrls": [
+          {
+            "label": "Types of Clouds",
+            "url": "https://www.youtube.com/watch?v=jKBgoX1vGnE"
+          },
+          {
+            "label": "How Clouds Help Predict Weather",
+            "url": "https://www.youtube.com/watch?v=I00vcHLJXCc"
+          }
+        ],
         "quiz": [
           {
             "q": "Cumulus clouds are typically described as ___.",
@@ -19956,6 +19969,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the Atlantic provinces have long relied on the fishing industry, harvesting species such as cod and lobster from the ocean, which has shaped the region’s economy and communities.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=bnANhF43aYE",
         "quiz": [
           {
             "q": "The fishing industry has long been an important part of the economy in ___.",
