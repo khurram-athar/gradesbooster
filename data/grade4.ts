@@ -19909,6 +19909,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: the setting of a story is when and where it takes place, and details about the setting often help create the story’s mood, or the overall feeling it gives the reader.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=3BVOIyUnk6s",
+        "videoUrls": [
+          {
+            "label": "What Is a Setting?",
+            "url": "https://www.youtube.com/watch?v=3BVOIyUnk6s"
+          },
+          {
+            "label": "What's the Mood?",
+            "url": "https://www.youtube.com/watch?v=SQq7XZ_Im34"
+          }
+        ],
         "quiz": [
           {
             "q": "The setting of a story refers to ___.",
@@ -19969,6 +19980,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: two shapes are congruent when they have exactly the same size and shape, even if one has been turned, flipped, or moved to a different position.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_-4aFZxaj_g",
         "quiz": [
           {
             "q": "Two shapes are congruent when they have exactly the same ___.",
@@ -20029,6 +20041,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: renewable energy sources, such as solar, wind, and hydro power, use natural resources that are continually replenished to generate electricity without running out.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=VqVhL3PDUng",
         "quiz": [
           {
             "q": "Renewable energy sources are ones that ___.",
@@ -20089,6 +20102,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: many early civilizations, such as those along the Nile, Tigris-Euphrates, Indus, and Yellow rivers, developed near rivers because the water supported farming, transportation, and trade.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=IAQAAJo1fI0",
         "quiz": [
           {
             "q": "Many early civilizations developed near rivers mainly because rivers provided ___.",

@@ -23255,6 +23255,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify the parts of a book, including the front cover, back cover, and pages in between, and practise handling books carefully.",
         "resourceLabel": "YouTube: Book Parts: Front Cover, Back Cover, and Pages",
         "resourceUrl": "https://www.youtube.com/results?search_query=Book%20Parts%3A%20Front%20Cover%2C%20Back%20Cover%2C%20and%20Pages%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7dhW9I2xbFg",
         "quiz": [
           {
             "q": "What is the front cover of a book?",
@@ -23336,6 +23337,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice accurately counting a set of objects that are spread out randomly rather than lined up in a neat row.",
         "resourceLabel": "YouTube: Counting Objects in a Scattered Group",
         "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Objects%20in%20a%20Scattered%20Group%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0YssDP4gskA",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -23396,6 +23398,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that many animals build or find shelters to live in, such as birds building nests from twigs, beavers building dams, and rabbits digging burrows.",
         "resourceLabel": "YouTube: Nests and Homes: How Animals Build Shelter",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nests%20and%20Homes%3A%20How%20Animals%20Build%20Shelter%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=puBqL5KbfSU",
         "quiz": [
           {
             "q": "What do many birds build to live in?",

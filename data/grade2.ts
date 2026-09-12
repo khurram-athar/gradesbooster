@@ -24168,6 +24168,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that editing means rereading their writing to check for and fix mistakes in spelling, punctuation, and capital letters before sharing a finished piece.",
         "resourceLabel": "YouTube: Editing Your Writing: Checking for Mistakes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Editing%20Your%20Writing%3A%20Checking%20for%20Mistakes%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LSmjkSkaR70",
         "quiz": [
           {
             "q": "What do we call rereading writing to check for and fix mistakes?",
@@ -24253,6 +24254,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to estimate a sum or difference by rounding numbers before adding or subtracting, which gives a quick, reasonable answer without exact calculation.",
         "resourceLabel": "YouTube: Estimating Sums and Differences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Sums%20and%20Differences%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EvQf38lnAJc",
         "quiz": [
           {
             "q": "What do we do to numbers before estimating a sum?",
@@ -24336,6 +24338,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that renewable energy sources, like sunlight and wind, can be used again and again without running out, while nonrenewable energy sources, like coal and oil, take millions of years to form and can run out.",
         "resourceLabel": "YouTube: Renewable and Nonrenewable Energy Sources",
         "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Nonrenewable%20Energy%20Sources%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w16-Uems2Qo",
         "quiz": [
           {
             "q": "Which of these is a renewable energy source?",
@@ -24420,6 +24423,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that fair play means following the rules of a game, taking turns, and treating others with respect, whether a team wins or loses.",
         "resourceLabel": "YouTube: Fair Play: Following Rules When We Play",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fair%20Play%3A%20Following%20Rules%20When%20We%20Play%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PKEihTBZo9g",
         "quiz": [
           {
             "q": "What do we call following the rules of a game and treating others with respect?",

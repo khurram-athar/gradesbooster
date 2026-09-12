@@ -19521,6 +19521,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: prisms have two parallel, congruent bases connected by rectangular faces, while pyramids have a single base connected to triangular faces that meet at a point called the apex.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OTJ8xakBcZM",
         "quiz": [
           {
             "q": "A prism is a 3D figure with ___.",
@@ -19580,6 +19581,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: friction is a force that resists motion between two surfaces in contact, and air resistance is a type of friction caused by air pushing against a moving object.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=1ZxkwKPHluU",
+        "videoUrls": [
+          {
+            "label": "Forces: Friction for Kids!",
+            "url": "https://www.youtube.com/watch?v=1ZxkwKPHluU"
+          },
+          {
+            "label": "Introduction to Air Resistance & Gravity",
+            "url": "https://www.youtube.com/watch?v=IP9qwbn6lik"
+          }
+        ],
         "quiz": [
           {
             "q": "Friction is best described as ___.",
@@ -19640,6 +19652,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the Senate is a part of Canadas government that reviews new laws to help make sure they are fair before they are approved.",
         "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3kv0I8E9dBw",
         "quiz": [
           {
             "q": "What is the Senate?",

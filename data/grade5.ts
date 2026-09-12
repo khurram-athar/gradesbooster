@@ -20036,6 +20036,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: skimming means quickly reading a text to get a general idea of its content, while scanning means quickly looking through a text to find specific information.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=8ZklBcOsEO4",
         "quiz": [
           {
             "q": "Skimming a text means reading it quickly to ___.",
@@ -20096,6 +20097,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: rounding a whole number to a given place value involves looking at the digit to the right of that place to decide whether to round up or keep the digit the same.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=fd-E18EqSVk",
         "quiz": [
           {
             "q": "When rounding a number, you look at the digit ___ the place value you are rounding to.",
@@ -20156,6 +20158,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: insects are a group of invertebrates with three main body parts -- the head, thorax, and abdomen -- along with six legs and, in most species, wings.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Zs73ZH-q0XU",
         "quiz": [
           {
             "q": "An insect’s body is divided into three main parts: the head, thorax, and ___.",
@@ -20216,6 +20219,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: charities and non-profit organizations work to support communities by addressing needs such as poverty, health, and education, relying on donations and volunteers rather than earning profit for owners.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BrjMpk7ajCs",
         "quiz": [
           {
             "q": "A non-profit organization is one that ___.",

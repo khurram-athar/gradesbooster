@@ -19439,6 +19439,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a Venn diagram uses overlapping circles to sort items into groups, showing which items belong to only one group and which items share characteristics of both groups.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=GH29VWIPyfg",
         "quiz": [
           {
             "q": "A Venn diagram uses overlapping circles to sort items, showing which items share characteristics of ___.",
@@ -19499,6 +19500,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: severe weather, such as thunderstorms and blizzards, can create dangerous conditions, so it is important to know safety steps like staying indoors and away from windows.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=FUH-0htUTUU",
         "quiz": [
           {
             "q": "Severe weather, such as thunderstorms and blizzards, can create ___ conditions.",
@@ -19559,6 +19561,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: Remembrance Day, held on November 11th, is a day when Canadians honour veterans and remember those who served in the armed forces to protect their country.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=wBjPIXcZBF8",
         "quiz": [
           {
             "q": "Remembrance Day is held on ___.",
