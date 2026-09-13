@@ -19367,6 +19367,7 @@
         "summary": "Grade 12 English strand: a literary parody closely imitates the style, structure, or conventions of an existing text or genre while exaggerating or distorting them for comic or critical effect, requiring the writer to understand the original deeply enough to reproduce its voice before subverting it.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ZMRlQYbdKmw",
         "quiz": [
           {
             "q": "A literary parody closely imitates the style, structure, or conventions of an existing text or ___.",
@@ -19427,6 +19428,7 @@
         "summary": "Grade 12 Advanced Functions strand: a Bézier curve is a smooth curve defined parametrically using a set of control points, where the curve itself typically does not pass through the interior control points but is shaped by their influence, a technique widely used in computer graphics and font design.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=pnYccz1Ha34",
         "quiz": [
           {
             "q": "A Bézier curve is a smooth curve defined parametrically using a set of ___ points.",
@@ -19561,6 +19563,7 @@
         "summary": "Grade 12 Physics strand: stress describes the internal force per unit area within a material under load, while strain describes the resulting proportional deformation, and a material’s tensile strength is the maximum stress it can withstand before failing.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=c6ndD5kTkP4",
         "quiz": [
           {
             "q": "Stress describes the internal force per unit ___ within a material under load.",
@@ -19627,6 +19630,7 @@
         "summary": "Grade 12 English strand: verse drama is a play written substantially or entirely in poetic metre rather than prose dialogue, using the heightened rhythm and compression of verse to intensify emotional stakes and elevate a character’s speech beyond ordinary conversational language.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=QpWPbDz8C1M",
         "quiz": [
           {
             "q": "Verse drama is a play written substantially or entirely in poetic ___ rather than prose dialogue.",
@@ -19687,6 +19691,7 @@
         "summary": "Students derive and apply the three Pythagorean identities to simplify trigonometric expressions and verify equivalences.",
         "resourceLabel": "YouTube: The Pythagorean Trigonometric Identities",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Pythagorean%20Trigonometric%20Identities%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TpADRvW8zm8",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -19808,6 +19813,7 @@
         "summary": "Grade 12 Physics strand: the twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip through space while the other remains on Earth, resulting in the travelling twin ageing less due to the effects of time dilation.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=h8GqaAp3cGs",
         "quiz": [
           {
             "q": "The twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip while the other remains on ___.",

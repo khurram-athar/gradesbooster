@@ -23571,6 +23571,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that some common words, such as the, and, and see, appear so often in books that readers practise recognizing them instantly, without sounding them out each time.",
         "resourceLabel": "YouTube: Sight Words: Reading Words We Know by Heart",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sight%20Words%3A%20Reading%20Words%20We%20Know%20by%20Heart%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wgrtvyu1fOY",
         "quiz": [
           {
             "q": "What is a sight word?",
@@ -23657,6 +23658,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids practice instantly recognizing small quantities (up to 5) at a glance, like on dice or dot cards, without needing to count one by one.",
         "resourceLabel": "YouTube: Subitizing: Naming Amounts Without Counting",
         "resourceUrl": "https://www.youtube.com/results?search_query=Subitizing%3A%20Naming%20Amounts%20Without%20Counting%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ib5Gf3GIzAg",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -23717,6 +23719,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that the tongue helps us taste different flavours, such as sweet, sour, and salty, and that our sense of taste helps us enjoy and notice our food.",
         "resourceLabel": "YouTube: Our Tongue: Tasting Sweet, Sour, and Salty",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Tongue%3A%20Tasting%20Sweet%2C%20Sour%2C%20and%20Salty%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=C4rdqXXzPGU",
         "quiz": [
           {
             "q": "What body part helps us taste food?",
@@ -23798,6 +23801,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn what it means to be honest, such as telling the truth even when it is hard, and why honesty helps people trust one another.",
         "resourceLabel": "YouTube: Being Honest: Telling the Truth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20Honest%3A%20Telling%20the%20Truth%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NVnqz-7cdK0",
         "quiz": [
           {
             "q": "What does it mean to be honest?",

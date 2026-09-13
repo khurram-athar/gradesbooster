@@ -19714,6 +19714,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: analyzing dialogue for characterization means examining what characters say and how they say it to understand their personality, motivations, and relationships with others.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=VNCcJGt9pro",
         "quiz": [
           {
             "q": "Analyzing dialogue for characterization involves examining ___.",
@@ -19774,6 +19775,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: complementary angles add up to 90 degrees, supplementary angles add up to 180 degrees, and vertical angles, formed by intersecting lines, are always equal to each other.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Y5f1ojx4RkQ",
         "quiz": [
           {
             "q": "Complementary angles add up to ___.",
@@ -19834,6 +19836,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: friction is a force that opposes motion between two surfaces in contact, slowing down or preventing movement depending on how rough or smooth the surfaces are.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=KPbMpGyV7Ps",
         "quiz": [
           {
             "q": "Friction is a force that ___.",
@@ -19894,6 +19897,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canada began in 1867 with four provinces and grew over time as other provinces and territories, such as British Columbia in 1871 and Newfoundland in 1949, joined Confederation.",
         "resourceLabel": "YouTube: How Provinces and Territories Joined Confederation Over Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Provinces%20and%20Territories%20Joined%20Confederation%20Over%20Time%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=J04aoVjtsBo",
         "quiz": [
           {
             "q": "How many provinces originally joined together to form Canada in 1867?",

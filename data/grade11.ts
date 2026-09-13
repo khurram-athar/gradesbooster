@@ -19423,6 +19423,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a definition essay goes beyond a dictionary entry to argue for a fuller, more nuanced understanding of a complex or abstract term, using examples, contrasts, and context to support an original interpretation of what that word truly means.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vz5EsldZHCM",
         "quiz": [
           {
             "q": "A definition essay goes beyond a dictionary entry to argue for ___.",
@@ -19483,6 +19484,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the number e, approximately 2.718, is an important irrational constant that arises naturally when modelling continuous growth or decay, and it forms the base of the natural exponential function, which behaves differently from exponential functions with other bases in calculus-related contexts.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=m2MIpDrF7Es",
         "quiz": [
           {
             "q": "The number e is an irrational constant approximately equal to ___.",
@@ -19543,6 +19545,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: a mutation is a change in a DNA sequence that can arise spontaneously or from exposure to a mutagen, and depending on its type — such as a silent, missense, nonsense, or frameshift mutation — it can leave a protein unaffected, alter its function, or prevent it from forming correctly.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=9wB6Rc58yoY",
         "quiz": [
           {
             "q": "A mutation is best described as a change in a ___.",
@@ -19603,6 +19606,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: combustion is an exothermic reaction between a fuel, typically a hydrocarbon, and oxygen, producing carbon dioxide and water when combustion is complete, and the amount of energy released per unit of fuel is an important factor in comparing different fuels for practical use.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=LSlNb0WIyVM",
         "quiz": [
           {
             "q": "Combustion is best described as an exothermic reaction between a fuel and ___.",
@@ -19730,6 +19734,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand (Discrete Mathematics): a mortgage is a long-term loan repaid through regular fixed payments, and an amortization schedule shows how each payment is split between interest and principal, with the proportion going toward principal increasing over the life of the loan.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=-5cw1xc8pTw",
         "quiz": [
           {
             "q": "A mortgage is best described as a long-term loan repaid through ___.",
@@ -19789,6 +19794,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: ecological succession describes the gradual, predictable change in a community of organisms over time, with primary succession beginning on bare, lifeless substrate and secondary succession beginning in an area where an existing community has been disturbed but soil remains.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=8ceDE01iWLE",
         "quiz": [
           {
             "q": "Ecological succession describes the gradual, predictable change in a ___ over time.",
@@ -19848,6 +19854,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: ocean acidification occurs when the ocean absorbs excess atmospheric carbon dioxide, which reacts with seawater to form carbonic acid and lower the water’s pH, reducing the availability of carbonate ions that many marine organisms need to build their shells and skeletons.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=Uvt13h6508o",
         "quiz": [
           {
             "q": "Ocean acidification occurs when the ocean absorbs excess atmospheric ___.",

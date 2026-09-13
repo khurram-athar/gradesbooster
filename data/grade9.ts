@@ -19594,6 +19594,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Writing strand: parallel structure requires that items in a list or comparison share the same grammatical form, such as matching verb tenses or matching phrase types, to create balanced, clear sentences.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2l2FgUrln1A",
         "quiz": [
           {
             "q": "Parallel structure requires that items in a list or comparison ___.",
@@ -19654,6 +19655,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: some quadratic equations, written in the form x squared plus bx plus c equals zero, can be solved by factoring the expression into two binomials and then setting each factor equal to zero to find the possible values of x.",
         "resourceLabel": "YouTube: Algebra: Solving Quadratic Equations by Factoring (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Quadratic%20Equations%20by%20Factoring%20%28Intro%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2ZzuZvz33X0",
         "quiz": [
           {
             "q": "What general form does a basic quadratic equation take?",
@@ -19714,6 +19716,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science Earth and Space Systems strand: the ozone layer in the upper atmosphere absorbs most of the Sun’s harmful ultraviolet radiation, and certain human-made chemicals, such as CFCs, have contributed to its depletion over time.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=aU6pxSNDPhs",
         "quiz": [
           {
             "q": "The ozone layer is primarily important because it absorbs ___.",
@@ -19841,6 +19844,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Writing strand: an effective introduction engages the reader and establishes a clear purpose or thesis, while an effective conclusion reinforces the main idea and leaves the reader with a sense of closure.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=msaynBwwxkA",
+        "videoUrls": [
+          {
+            "label": "How to Write an Eye-Catching Essay Introduction",
+            "url": "https://www.youtube.com/watch?v=msaynBwwxkA"
+          },
+          {
+            "label": "How to Write a Strong Essay Conclusion",
+            "url": "https://www.youtube.com/watch?v=2UElC_YZ0Eo"
+          }
+        ],
         "quiz": [
           {
             "q": "An effective introduction should primarily ___.",
@@ -19901,6 +19915,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify terms, coefficients, and degree within a polynomial, and classify expressions as monomials, binomials, or trinomials.",
         "resourceLabel": "YouTube: Introduction to Polynomials: Terms, Degree, and Classifying",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Polynomials%3A%20Terms%2C%20Degree%2C%20and%20Classifying%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Rxx4HepHI_E",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -19961,6 +19976,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science and Technology strand: the engineering design process guides the development of a solution to a problem through stages such as defining the problem, brainstorming, prototyping, testing, and refining a design based on results.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=nMwG1wnESDA",
         "quiz": [
           {
             "q": "The engineering design process typically begins by ___.",
@@ -20020,6 +20036,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies (Geography) strand: rural depopulation occurs when people move away from rural areas toward cities, often leading to significant changes in land use, such as farm consolidation and the decline of local services.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=RhrlKQMTBPo",
         "quiz": [
           {
             "q": "Rural depopulation refers to ___.",

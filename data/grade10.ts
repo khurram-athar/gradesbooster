@@ -19406,6 +19406,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: dialogue reveals character through word choice, tone, and speech patterns, allowing readers to infer a character’s personality, background, and relationships without direct narrator description.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=iqr4Q35DW18",
         "quiz": [
           {
             "q": "Dialogue can reveal character through a speaker’s ___.",
@@ -19527,6 +19528,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Earth Science strand: soil forms gradually through the weathering of rock and the accumulation of organic matter, and land use decisions, such as farming practices or urban development, can significantly affect soil health and erosion rates.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=mg7XSjcnZQM",
         "quiz": [
           {
             "q": "Soil forms gradually through the weathering of rock and the accumulation of ___.",
@@ -19587,6 +19589,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Civics strand: Canada uses a first-past-the-post electoral system, in which the candidate who receives the most votes in a riding wins that seat, and the party that wins the most seats typically forms government.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=qC4yHrgw35A",
         "quiz": [
           {
             "q": "Canada’s federal electoral system is generally described as ___.",
@@ -19653,6 +19656,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: a modifier describes, clarifies, or adds detail to another word in a sentence, and a misplaced or dangling modifier can create confusing or unintentionally humorous sentence meanings.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=M6AzQ99bYO8",
+        "videoUrls": [
+          {
+            "label": "Dangling & Misplaced Modifiers",
+            "url": "https://www.youtube.com/watch?v=M6AzQ99bYO8"
+          },
+          {
+            "label": "Sentence Clarity",
+            "url": "https://www.youtube.com/watch?v=89mVr-zJcoI"
+          }
+        ],
         "quiz": [
           {
             "q": "A modifier is best described as a word or phrase that ___.",
@@ -19713,6 +19727,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Geometry strand: a dilation is a transformation that resizes a figure proportionally from a fixed centre point, using a scale factor to determine whether the resulting image is enlarged or reduced.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=BCllaARDOWI",
         "quiz": [
           {
             "q": "A dilation is a transformation that ___.",
@@ -19773,6 +19788,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Biology strand: vascular plants use specialized tissues called xylem and phloem to transport water, minerals, and the products of photosynthesis throughout the plant.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=jtuX7H05tmQ",
+        "videoUrls": [
+          {
+            "label": "Xylem and Phloem - Transport in Plants",
+            "url": "https://www.youtube.com/watch?v=jtuX7H05tmQ"
+          },
+          {
+            "label": "Plants: Diversity, Structure, & Adaptations",
+            "url": "https://www.youtube.com/watch?v=A_DF246uVlU"
+          }
+        ],
         "quiz": [
           {
             "q": "Xylem tissue in a plant is primarily responsible for transporting ___.",
@@ -19833,6 +19859,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Civics strand: Canada’s system of government is divided into federal, provincial, and municipal levels, each responsible for distinct areas such as national defense, education and healthcare, and local services like garbage collection and zoning.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=uwcMDuSGym4",
         "quiz": [
           {
             "q": "Canada’s system of government is divided into which three levels?",

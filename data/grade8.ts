@@ -19490,6 +19490,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Reading strand: direct characterization occurs when an author explicitly states a character’s traits, while indirect characterization reveals traits through a character’s actions, dialogue, thoughts, and how other characters respond to them.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=KWYPzVveuKY",
         "quiz": [
           {
             "q": "Direct characterization occurs when an author ___.",
@@ -19550,6 +19551,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: expected value is the average outcome of a probability experiment if it were repeated many times, calculated by multiplying each possible outcome by its probability and adding the results together.",
         "resourceLabel": "YouTube: Probability: Calculating Expected Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Calculating%20Expected%20Value%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=b6VK2VPMXNI",
         "quiz": [
           {
             "q": "What does expected value represent?",
@@ -19610,6 +19612,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: 3D printing, or additive manufacturing, builds objects layer by layer from a digital design, contrasting with traditional subtractive manufacturing, which removes material from a larger block to create a shape.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Vx0Z6LplaMU",
         "quiz": [
           {
             "q": "3D printing is also known as ___.",
@@ -19669,6 +19672,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Space Race was a period of intense competition during the Cold War between the United States and the Soviet Union to achieve milestones in space exploration.",
         "resourceLabel": "YouTube: Social Studies: The Space Race: Cold War Competition",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Space%20Race%3A%20Cold%20War%20Competition%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xvaEvCNZymo",
         "quiz": [
           {
             "q": "What was the Space Race?",
@@ -19735,6 +19739,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Grammar strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, while a run-on sentence incorrectly joins two or more complete sentences without proper punctuation or conjunctions.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=yXPJcnKC6nU",
         "quiz": [
           {
             "q": "A sentence fragment is an incomplete sentence that is missing ___.",
@@ -19795,6 +19800,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Math strand: a line of best fit approximates the trend in a scatter plot, and it can be used for interpolation, estimating values within the range of the data, or extrapolation, estimating values beyond the range of the data.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=bEANDlJkqcU",
         "quiz": [
           {
             "q": "A line of best fit is used to ___.",
@@ -19855,6 +19861,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: groundwater is water that soaks into the ground and collects in layers of rock and soil called aquifers, an important source of fresh water for many communities.",
         "resourceLabel": "YouTube: Groundwater and Aquifers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Groundwater%20and%20Aquifers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g7R0yLX0V9E",
+        "videoUrls": [
+          {
+            "label": "What is an Aquifer?",
+            "url": "https://www.youtube.com/watch?v=g7R0yLX0V9E"
+          },
+          {
+            "label": "What is Groundwater?",
+            "url": "https://www.youtube.com/watch?v=zyHtkDCwQUw"
+          }
+        ],
         "quiz": [
           {
             "q": "What is groundwater?",
@@ -19914,6 +19931,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: urbanization is the growth of cities as more people move from rural areas to urban centres, sometimes creating megacities, cities with populations over 10 million people.",
         "resourceLabel": "YouTube: Social Studies: Urbanization: The Growth of Megacities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Urbanization%3A%20The%20Growth%20of%20Megacities%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fKnAJCSGSdk",
         "quiz": [
           {
             "q": "What is urbanization?",

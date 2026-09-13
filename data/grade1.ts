@@ -24171,6 +24171,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that good readers ask questions before reading to predict what a book might be about, during reading to check understanding, and after reading to think about what they learned.",
         "resourceLabel": "YouTube: Asking Questions Before, During, and After Reading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Asking%20Questions%20Before%2C%20During%2C%20and%20After%20Reading%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hnuZF0uuEig",
         "quiz": [
           {
             "q": "Why might a reader ask a question before starting a book?",
@@ -24253,6 +24254,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to ask classmates a simple survey question, such as their favourite fruit, collect the answers, and organize the results into a simple chart.",
         "resourceLabel": "YouTube: Data: Making a Simple Survey and Chart",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Making%20a%20Simple%20Survey%20and%20Chart%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hcgThf5mv38",
         "quiz": [
           {
             "q": "What is a survey?",
@@ -24336,6 +24338,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that animals can be grouped by what they eat: herbivores eat only plants, carnivores eat only other animals, and omnivores eat both plants and animals.",
         "resourceLabel": "YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0pHXXP-xlG8",
         "quiz": [
           {
             "q": "What do we call an animal that eats only plants?",
@@ -24419,6 +24422,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a time capsule is a container filled with objects and messages from today that is saved and opened many years later, helping people in the future learn about the past.",
         "resourceLabel": "YouTube: Time Capsules: Saving Memories for the Future",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Capsules%3A%20Saving%20Memories%20for%20the%20Future%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n5eL81RXxXE",
         "quiz": [
           {
             "q": "What is a time capsule?",

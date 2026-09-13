@@ -20168,6 +20168,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Language strand: information can be shared through different media forms, such as print, digital text, and video, and each form has its own strengths for informing or entertaining an audience.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=57eplWWMbmA",
         "quiz": [
           {
             "q": "Print, digital, and video are all examples of different ___.",
@@ -20228,6 +20229,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: comparing costs and estimating totals while shopping involves rounding prices to quickly add them up and predict whether a purchase stays within a set budget.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=nNhGLjHjNc8",
         "quiz": [
           {
             "q": "Estimating a shopping total usually involves ___ prices before adding them.",
@@ -20288,6 +20290,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: a foundation is the base that supports a structure, and a stable structure is designed with a wide, strong base and an even distribution of weight to help it resist tipping or collapsing.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=oVOnRPefcno",
         "quiz": [
           {
             "q": "A foundation is best described as the ___ that supports a structure.",
@@ -20348,6 +20351,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Social Studies topics: provincial and territorial symbols, levels of leadership, voting and elections, the fur trade, treaties, the United Nations, Canadian agriculture regions, Canada and the United States, and peacekeeping.",
         "resourceLabel": "YouTube: Social Studies Review: Government, History, and Geography",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Geography%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vRxmumLx6Fo",
+        "videoUrls": [
+          {
+            "label": "Voting: How Communities Make Decisions Together",
+            "url": "https://www.youtube.com/watch?v=vRxmumLx6Fo"
+          },
+          {
+            "label": "The Fur Trade in Canadian History",
+            "url": "https://www.youtube.com/watch?v=dL2mvcydRYQ"
+          },
+          {
+            "label": "Treaties: Agreements Between Indigenous Peoples and Newcomers",
+            "url": "https://www.youtube.com/watch?v=SVaK9rAV32A"
+          }
+        ],
         "quiz": [
           {
             "q": "Who leads a province, such as Ontario?",
