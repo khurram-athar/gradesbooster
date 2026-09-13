@@ -23556,7 +23556,8 @@ const curriculum: DayContent[] = [
               "no"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tYsGvfri9q4"
       }
     ]
   },

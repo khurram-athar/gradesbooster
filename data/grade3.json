@@ -19375,8 +19375,8 @@
         "subject": "Language",
         "title": "Oral Communication: Giving Clear Directions",
         "summary": "Grade 3 Language strand: giving clear directions means explaining steps in the correct order, using specific details, so that a listener can easily understand and follow along.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Oral Communication: Giving Clear Directions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Giving%20Clear%20Directions%20grade%203%20educational",
         "quiz": [
           {
             "q": "Giving clear directions means explaining steps in the correct ___.",
@@ -19429,7 +19429,8 @@
             "answer": 0
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=KYTAAMe9oTo"
       },
       {
         "subject": "Math",

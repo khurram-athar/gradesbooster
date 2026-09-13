@@ -19459,8 +19459,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Media Literacy: Evaluating Online Sources for Reliability",
         "summary": "Grade 6 Language strand: evaluating online sources for reliability involves checking the author’s credentials, the publication date, and whether the information can be verified by other trustworthy sources.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Media Literacy: Evaluating Online Sources for Reliability",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Evaluating%20Online%20Sources%20for%20Reliability%20grade%206%20educational",
         "quiz": [
           {
             "q": "When evaluating an online source, a reader should check ___.",
@@ -19513,7 +19513,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=TVptfuj6_yk"
       },
       {
         "subject": "Math",

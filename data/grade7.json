@@ -19521,8 +19521,8 @@
         "subject": "Math",
         "title": "Financial Literacy: Comparing Loan and Savings Options",
         "summary": "Grade 7 Math strand: comparing loan and savings options involves evaluating interest rates and terms to determine which option costs less when borrowing or earns more when saving.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Comparing Loan and Savings Options",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Comparing%20Loan%20and%20Savings%20Options%20grade%207%20educational",
         "quiz": [
           {
             "q": "When comparing loans, a lower interest rate generally means ___.",
@@ -19575,14 +19575,15 @@
             "answer": 2
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=RaLyOOyM0A0"
       },
       {
         "subject": "Science",
         "title": "Weather Instruments and How Meteorologists Forecast",
         "summary": "Grade 7 Science strand: meteorologists use instruments such as thermometers, barometers, and anemometers to measure conditions like temperature, air pressure, and wind speed in order to forecast weather.",
-        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Weather Instruments and How Meteorologists Forecast",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Instruments%20and%20How%20Meteorologists%20Forecast%20grade%207%20educational",
         "quiz": [
           {
             "q": "A thermometer is used to measure ___.",
@@ -19635,14 +19636,15 @@
             "answer": 3
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=oQB68rvRWBM"
       },
       {
         "subject": "SocialStudies",
         "title": "Canada’s Official Languages: French and English Bilingualism",
         "summary": "Grade 7 Social Studies strand: Canada’s Official Languages Act, passed in 1969, established French and English as the country’s two official languages, reflecting its history and diverse linguistic heritage.",
-        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "resourceLabel": "YouTube: Canada’s Official Languages: French and English Bilingualism",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%E2%80%99s%20Official%20Languages%3A%20French%20and%20English%20Bilingualism%20grade%207%20educational",
         "quiz": [
           {
             "q": "Canada’s Official Languages Act established ___ as the country’s official languages.",
@@ -19695,7 +19697,8 @@
             "answer": 3
           }
         ],
-        "topic": "Culture, Diversity & Multiculturalism"
+        "topic": "Culture, Diversity & Multiculturalism",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw"
       }
     ]
   },
