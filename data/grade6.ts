@@ -19743,6 +19743,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: giving clear oral instructions involves using precise, sequential language, checking for understanding, and adjusting explanations based on a listener’s questions or reactions.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=FuEQ4rHs8sw",
         "quiz": [
           {
             "q": "Clear oral instructions should generally be ___.",
@@ -19803,6 +19804,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: a sample is a smaller group selected to represent a larger population in a survey, and bias occurs when a sample or survey question unfairly favours certain results over others.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Rf-fIpB4D50",
         "quiz": [
           {
             "q": "A sample in data management is best described as ___.",
@@ -19863,6 +19865,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the skin is the body’s largest organ, forming the integumentary system, which protects the body from injury and infection, helps regulate temperature, and senses touch.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=t1iQHHJ0YyE",
         "quiz": [
           {
             "q": "The skin is considered the body’s largest ___.",
@@ -46553,6 +46556,7554 @@ const curriculum: DayContent[] = [
               "The average number of people per unit of area"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Tone and Bias in Nonfiction; Writing: Compare and Contrast Essay; Grammar: Parallel Structure in Writing; Vocabulary: Word Origins and Etymology.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Tone in a text refers to ___.",
+            "options": [
+              "The publisher\u2019s name",
+              "The font style used",
+              "The page count of the text",
+              "The author\u2019s attitude toward the topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In nonfiction writing, bias means the author ___.",
+            "options": [
+              "Presents all sides of an issue equally and fairly",
+              "Shows an unfair preference for one side of an issue over another",
+              "Uses a larger font size for important ideas",
+              "Includes a table of contents at the start of the text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A compare and contrast essay focuses on ___.",
+            "options": [
+              "Only the similarities between two subjects",
+              "A single subject only",
+              "The similarities and differences between two subjects",
+              "A completely unrelated topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Studying the history and origin of a word, such as tracing it back to Latin or Greek roots, is called ___.",
+            "options": [
+              "Etymology",
+              "Alliteration",
+              "Plagiarism",
+              "Syntax"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Ratio Tables and Scaling; Solving Two-Step Equations; Surface Area of Rectangular Prisms; Circles: Circumference and Area.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If a recipe uses a ratio of 2 cups flour to 1 cup sugar, how much sugar is needed for 6 cups of flour?",
+            "options": [
+              "3 cups",
+              "6 cups",
+              "2 cups",
+              "4 cups"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rectangular prism has a length of 4 cm, a width of 3 cm, and a height of 2 cm. What is its total surface area?",
+            "options": [
+              "52 cm\u00b2",
+              "24 cm\u00b2",
+              "26 cm\u00b2",
+              "9 cm\u00b2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for x: 2x + 3 = 11.",
+            "options": [
+              "x = 7",
+              "x = 14",
+              "x = 4",
+              "x = 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the circumference of a circle with a radius of 5 cm? (Use \u03c0 \u2248 3.14)",
+            "options": [
+              "31.4 cm",
+              "78.5 cm",
+              "15.7 cm",
+              "10 cm"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Water Cycle and Its Impact on Climate; Renewable Energy and Clean Technology; Cells: The Building Blocks of Life; Microorganisms: Bacteria, Viruses, and Fungi.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Evaporation in the water cycle refers to ___.",
+            "options": [
+              "Water falling as precipitation",
+              "Water flowing underground only",
+              "Water freezing into ice",
+              "Water changing from a liquid into a gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the basic structural and functional unit that makes up all living things?",
+            "options": [
+              "The organ",
+              "The cell",
+              "The tissue",
+              "The skeleton"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sustainable technology is designed to ___.",
+            "options": [
+              "Ignore environmental concerns entirely",
+              "Use only non-renewable resources",
+              "Maximize environmental harm",
+              "Meet human needs while minimizing environmental impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Fungi get the nutrients they need by ___.",
+            "options": [
+              "Performing photosynthesis using chlorophyll, like plants",
+              "Breaking down and absorbing organic matter",
+              "Capturing energy directly from sunlight",
+              "Producing food using only water and minerals"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Ancient Mesopotamia; Ancient China; Ancient India; Canada\u2019s Relationship with the Commonwealth.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Ancient Mesopotamia developed between which two rivers?",
+            "options": [
+              "The Amazon and Mississippi",
+              "The Ganges and Indus",
+              "The Nile and Congo",
+              "The Tigris and Euphrates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which ancient civilization developed along the Indus River and built well-planned cities such as Mohenjo-daro?",
+            "options": [
+              "Ancient Egypt",
+              "Ancient India",
+              "Ancient Greece",
+              "Ancient Rome"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ancient China developed along which rivers?",
+            "options": [
+              "The Amazon and Mississippi",
+              "The Tigris and Euphrates",
+              "The Yellow and Yangtze",
+              "The Nile and Congo"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Commonwealth is best described as ___.",
+            "options": [
+              "A military alliance formed only during World War II",
+              "A voluntary association of countries, many of them former British colonies, that cooperate together",
+              "A single country made up of Canada's provinces",
+              "A currency used only within Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Annotating and Active Reading Strategies; Writing: Crafting a Strong Thesis Statement; Media Literacy: Spotting Fake News and Misinformation Online; Grammar: Using Semicolons and Colons.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Annotating a text involves ___.",
+            "options": [
+              "Reading without any interaction with the text",
+              "Ignoring the text completely",
+              "Adding notes, questions, or highlights while reading",
+              "Skipping directly to the last page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is a reliable strategy for spotting fake news online?",
+            "options": [
+              "Judging a story only by its headline",
+              "Checking whether the story is reported by multiple trustworthy sources",
+              "Sharing the article right away without reading it",
+              "Trusting any article that has dramatic images"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A thesis statement is best described as ___.",
+            "options": [
+              "The very last sentence of the conclusion only",
+              "A statement that presents the main argument or focus of an essay",
+              "A list of unrelated topics",
+              "A random unrelated fact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a semicolon correctly?",
+            "options": [
+              "I have a big test tomorrow; I can't go out tonight.",
+              "I have a big test tomorrow, I can't go out tonight;",
+              "I have; a big test tomorrow I can't go out tonight.",
+              "I have a big; test tomorrow I can't go; out tonight."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Constructing Circle Graphs; Financial Literacy: Budgets and Percent Discounts; Coordinate Geometry: Plotting and Interpreting Points; Divisibility Rules and Prime Factorization.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To construct a circle graph, you first need to calculate each category\u2019s ___.",
+            "options": [
+              "Percentage of the total data set",
+              "Alphabetical order",
+              "Distance from the centre",
+              "Exact colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A jacket originally costs $80 and is on sale for 25% off. What is the sale price?",
+            "options": [
+              "$60",
+              "$20",
+              "$55",
+              "$65"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A budget helps track ___.",
+            "options": [
+              "Only savings with no other categories",
+              "Nothing related to money",
+              "Only expenses, never income",
+              "Income and expenses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the prime factorization of 60?",
+            "options": [
+              "2 \u00d7 2 \u00d7 3 \u00d7 5",
+              "2 \u00d7 3 \u00d7 10",
+              "4 \u00d7 15",
+              "2 \u00d7 30"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Natural Disasters: Earthquakes and Volcanoes; Space: Constellations and the Night Sky; Electricity: Conductors and Insulators; Renewable Energy: Solar, Wind, and Hydro Technologies.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earthquakes are often caused by ___.",
+            "options": [
+              "Changes in the weather only",
+              "The movement of tectonic plates",
+              "Nothing related to Earth\u2019s structure",
+              "Ocean tides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which material is the best electrical conductor?",
+            "options": [
+              "Rubber",
+              "Copper",
+              "Plastic",
+              "Wood"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A constellation is a ___.",
+            "options": [
+              "Type of planet",
+              "Type of moon",
+              "Single bright star",
+              "Pattern of stars that has been named"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Hydroelectric power generates electricity mainly by using ___.",
+            "options": [
+              "Heat released from burning coal",
+              "The energy of flowing or falling water",
+              "Heat from underground magma",
+              "Energy released from splitting atoms"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Ancient Maya Civilization; The United Nations and International Cooperation; Ancient Nubia (Kingdom of Kush); Globalization and Its Effects on Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The ancient Maya civilization was located in ___.",
+            "options": [
+              "Southern Africa",
+              "Central America",
+              "Northern Europe",
+              "X unrelated to the Maya"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The ancient Kingdom of Kush (Nubia) developed along the Nile River, south of ___.",
+            "options": [
+              "Ancient Egypt",
+              "Ancient Rome",
+              "Ancient Greece",
+              "Ancient Persia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The United Nations was formed after which major event?",
+            "options": [
+              "World War I",
+              "World War II",
+              "The Renaissance",
+              "The Cold War began"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Globalization refers to ___.",
+            "options": [
+              "Countries becoming completely isolated from one another",
+              "The growing connection and exchange between countries through trade, technology, and culture",
+              "One country controlling all world trade",
+              "The end of international travel between nations"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Effective Introductions and Conclusions; Reading: Evaluating an Author\u2019s Credibility and Perspective; Reading: Analyzing Rhetorical Devices; Writing: Writing a Book Critique.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A strong introduction should ___.",
+            "options": [
+              "Always be the shortest part of the essay",
+              "Grab the reader\u2019s attention and preview the main idea",
+              "Repeat the conclusion word for word",
+              "Contain no information about the topic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of a rhetorical question, a device used to make readers think or persuade them?",
+            "options": [
+              "Close the door, please.",
+              "The weather is cold today.",
+              "Don't you think everyone deserves a fair chance?",
+              "The store opens at 9 a.m."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Evaluating an author\u2019s credibility involves considering ___.",
+            "options": [
+              "Their expertise and potential motives",
+              "Nothing related to the author at all",
+              "The colour of the book cover",
+              "Only the length of their writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A well-written book critique should include ___.",
+            "options": [
+              "Only a plot summary with no personal opinion",
+              "The reader's evaluation of the book's strengths and weaknesses, supported by reasons",
+              "A list of the author's other unrelated books",
+              "Only the book's price and page count"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Converting Between Metric Units; Order of Operations with Integers; The Distributive Property in Algebra; Solving Equations with Fractions.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How many millimetres are in 1 centimetre?",
+            "options": [
+              "1,000",
+              "1",
+              "100",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using the distributive property, 4(x + 5) is equivalent to ___.",
+            "options": [
+              "4x + 5",
+              "4x + 20",
+              "x + 20",
+              "4x + 9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the order of operations tell you to do first when an expression contains parentheses?",
+            "options": [
+              "Add first",
+              "Multiply first",
+              "Solve what's inside the parentheses first",
+              "Always start from the right"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve for x: x/3 + 2 = 5.",
+            "options": [
+              "x = 9",
+              "x = 15",
+              "x = 3",
+              "x = 21"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Carbon Cycle and Its Role in Climate; Simple Machines and Mechanical Advantage; Photosynthesis and Plant Energy; Ecosystem Interdependence and Symbiosis.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The carbon cycle describes how carbon moves between ___.",
+            "options": [
+              "The atmosphere, oceans, land, and living things",
+              "Only underground rock layers",
+              "Nowhere, since carbon never moves",
+              "Only outer space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During photosynthesis, plants use sunlight, water, and carbon dioxide to produce ___.",
+            "options": [
+              "Oxygen and glucose (sugar)",
+              "Nitrogen and salt",
+              "Carbon dioxide and water only",
+              "Soil and minerals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a simple machine?",
+            "options": [
+              "A device with many complex electronic parts",
+              "A basic device that makes work easier by changing force or direction",
+              "A machine that only works using electricity",
+              "A tool that has no effect on force"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A relationship in which both organisms benefit, such as bees pollinating flowers while feeding on nectar, is called ___.",
+            "options": [
+              "Parasitism",
+              "Predation",
+              "Mutualism",
+              "Competition"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Ancient Persia; The Vikings: Explorers and Traders; Trade Routes of the Ancient World (Silk Road and Beyond); Social Studies: Ancient Aztec Civilization.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The ancient Persian Empire was centred in the region that is now known as ___.",
+            "options": [
+              "Central America",
+              "Northern Europe",
+              "Iran",
+              "X unrelated to Persia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Silk Road was primarily used to ___.",
+            "options": [
+              "Move soldiers during wartime only",
+              "Connect Europe and Asia for the trade of goods such as silk and spices, and the exchange of ideas",
+              "Carry mail within a single country",
+              "Move settlers to unexplored islands"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Vikings originally came from the region known today as ___.",
+            "options": [
+              "Southern Africa",
+              "X unrelated to the Vikings",
+              "Scandinavia",
+              "Central America"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The ancient Aztec civilization built its capital city, Tenochtitlan, in the region that is now ___.",
+            "options": [
+              "Mexico",
+              "Peru",
+              "Spain",
+              "Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Verb Tense Consistency; Vocabulary: Idioms Across Cultures; Reading: Analyzing Non-Linear Narrative Structure; Writing: Persuasive Letter Writing; Media Literacy: Analyzing News Bias Across Outlets.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Verb tense consistency means ___.",
+            "options": [
+              "Using only the future tense at all times",
+              "Keeping the same tense throughout related sentences",
+              "Avoiding verbs entirely",
+              "Randomly switching tenses throughout a piece of writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A story told with a non-linear narrative structure ___.",
+            "options": [
+              "Always follows strict chronological order from start to finish",
+              "Uses flashbacks or jumps in time instead of a strict chronological order",
+              "Has no characters or plot",
+              "Can only be written as a poem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An idiom is an expression whose meaning ___.",
+            "options": [
+              "Is identical in every language",
+              "Has no meaning at all",
+              "Cannot be understood from its literal words alone",
+              "Can always be understood literally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A persuasive letter is written mainly to ___.",
+            "options": [
+              "Entertain the reader with a fictional story",
+              "Convince the reader to agree with a viewpoint or take an action",
+              "Record the writer's private daily events",
+              "Provide a purely neutral summary of facts"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Proportional Reasoning; Volume of Triangular Prisms and Cylinders; Ratios and Simple Proportional Reasoning (Intro); Statistics: Analyzing and Comparing Data Sets; Classifying and Constructing Triangles.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If 2 pencils cost $1, how much would 8 pencils cost, using proportional reasoning?",
+            "options": [
+              "$8",
+              "$1",
+              "$4",
+              "$2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A triangle with three sides of different lengths and three angles of different measures is called ___.",
+            "options": [
+              "Equilateral",
+              "Isosceles",
+              "Scalene",
+              "Right"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The formula for the volume of a cylinder is ___.",
+            "options": [
+              "Diameter times height",
+              "Base area times width only",
+              "Radius times height only",
+              "Base area (a circle) times height"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A data set contains these values: 4, 6, 6, 8, 10. What is the median?",
+            "options": [
+              "6",
+              "8",
+              "6.8",
+              "4"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Immune System: How the Body Fights Illness; Forces: Magnetism; Simple Circuits: Series vs Parallel; Space Exploration Technologies and Robotics; Sound Waves and Frequency.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The immune system\u2019s main role is to ___.",
+            "options": [
+              "Control body movement",
+              "Defend the body against harmful microorganisms",
+              "Digest food",
+              "Pump blood throughout the body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a series circuit, if one bulb burns out, what happens to the rest of the circuit?",
+            "options": [
+              "The other bulbs keep working normally",
+              "The whole circuit stops working because the path is broken",
+              "The other bulbs become brighter",
+              "Nothing changes at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Magnetism is a force that attracts ___.",
+            "options": [
+              "Only liquids",
+              "Only wood",
+              "Certain metals, such as iron",
+              "All materials equally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The frequency of a sound wave mainly determines its ___.",
+            "options": [
+              "Volume",
+              "Pitch",
+              "Colour",
+              "Speed of light"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Peacekeeping Role Internationally; Social Studies: Comparing Monarchy, Democracy, and Dictatorship; Social Studies: The Role of the United Nations; Social Studies: Canada\u2019s Immigration Policies Today; The European Union: Cooperation and Integration.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call soldiers sent to help maintain peace in a conflict region?",
+            "options": [
+              "A concept unrelated to international relations",
+              "Firefighters",
+              "Postal workers",
+              "Peacekeepers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a democracy, who ultimately holds the power to choose the government?",
+            "options": [
+              "A single ruler with absolute power",
+              "The citizens, through voting",
+              "A hereditary royal family",
+              "A neighbouring country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a monarchy, who typically leads the country?",
+            "options": [
+              "Citizens who vote",
+              "No one leads at all",
+              "A king or queen",
+              "A concept unrelated to government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The European Union was formed mainly to ___.",
+            "options": [
+              "Create a single world government",
+              "Encourage cooperation and economic integration among European countries",
+              "Eliminate all national borders worldwide",
+              "Replace the United Nations"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Commonly Confused Words; Writing: Personal Narrative Writing; Reading: Evaluating Theme Across a Novel; Reading: Comparing Perspectives Across Genres.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Which sentence correctly uses affect and effect? The medicine will ___ my health, and the ___ should be positive.",
+            "options": [
+              "effect, affect",
+              "effect, effect",
+              "affect, affect",
+              "affect, effect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses \"your\" and \"you're\" correctly?",
+            "options": [
+              "You're going to love your new bike.",
+              "Your going to love you're new bike.",
+              "Your going to love your new bike.",
+              "You're going to love you're new bike."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A personal narrative is a story that is ___.",
+            "options": [
+              "True and based on the writer's own experience",
+              "Written by someone else about a stranger",
+              "Always about historical events only",
+              "Entirely fictional"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When comparing perspectives across genres (for example, a poem and a newspaper article on the same event), a reader should mainly focus on how ___.",
+            "options": [
+              "Each text's format and purpose shape its point of view",
+              "Many pages each text has",
+              "Recently each text was published",
+              "Many characters appear in each text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Nonlinear Growing Patterns; Simple and Compound Interest; Review: Algebra, Proportional Reasoning, and Geometry; Exponents and Powers.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "In the pattern 2, 4, 8, 16, what is the next number?",
+            "options": [
+              "32",
+              "18",
+              "24",
+              "20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of 3 to the power of 4 (3^4)?",
+            "options": [
+              "81",
+              "12",
+              "64",
+              "34"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simple interest is calculated based on ___.",
+            "options": [
+              "A completely random amount",
+              "Only the original amount",
+              "The original amount plus previously earned interest",
+              "Nothing related to the amount saved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Unlike simple interest, compound interest is calculated on ___.",
+            "options": [
+              "The original amount plus previously earned interest",
+              "Only the original amount",
+              "A fixed government rate that never changes",
+              "Nothing related to the amount saved"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Weather Systems and Forecasting; Space: The Sun and Its Role in Our Solar System; Review: Photosynthesis, Body Systems, and Physical Science; Animal Camouflage and Mimicry.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A low pressure system is often associated with ___.",
+            "options": [
+              "No effect on weather at all",
+              "Only warm temperatures with no variation",
+              "Clear, sunny weather with no clouds",
+              "Cloudy, stormy weather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An animal that closely resembles a more dangerous species in order to avoid predators is using ___.",
+            "options": [
+              "Mimicry",
+              "Camouflage",
+              "Photosynthesis",
+              "Migration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Sun is best described as a ___.",
+            "options": [
+              "A concept unrelated to space",
+              "Moon that orbits another planet",
+              "Star at the centre of our solar system",
+              "Planet that orbits the Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Meteorologists use a barometer to measure ___, which helps them forecast changing weather.",
+            "options": [
+              "Air pressure",
+              "Sound volume",
+              "Soil moisture",
+              "Magnetic fields"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Modern Canadian Immigration and Multicultural Policy; Climate Change as a Global Issue; Review: Ancient Societies, Government, and Global Connections (Days 81-89); Social Studies: Ancient Inca Civilization.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada\u2019s modern immigration policies aim to ___.",
+            "options": [
+              "Welcome newcomers from around the world",
+              "Ignore the needs of newcomers entirely",
+              "Prevent all immigration to Canada",
+              "Only allow immigration from one specific country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The ancient Inca civilization was located primarily in which region?",
+            "options": [
+              "The Andes Mountains of South America",
+              "Central Mexico",
+              "The Nile River Valley",
+              "Northern Europe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Climate change is considered a global issue because ___.",
+            "options": [
+              "It is limited strictly to one continent",
+              "It has no international impact whatsoever",
+              "It only affects a single isolated location",
+              "It affects countries and regions around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada's policy of multiculturalism encourages citizens to ___.",
+            "options": [
+              "Celebrate and preserve their diverse cultural backgrounds",
+              "Abandon their cultural traditions",
+              "Recognize only one official culture",
+              "Limit immigration to a single region of the world"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Active Voice vs Passive Voice; Writing: Writing a Feature Article; Vocabulary: Connotation and Denotation; Reading: Analyzing Symbolism in Literature.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "In active voice, the subject ___.",
+            "options": [
+              "A concept unrelated to active voice",
+              "Performs the action",
+              "Is always left out of the sentence",
+              "Receives the action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "The cake was baked by Maria.",
+              "Maria baked the cake.",
+              "Maria is baking a cake.",
+              "Maria will bake a cake."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A feature article is different from a basic news report because it ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "Only reports the most basic facts with no additional detail",
+              "Never includes any factual information at all",
+              "Explores a topic in more depth, often blending facts and storytelling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The word \"childish\" carries a negative connotation, while its denotation simply means ___.",
+            "options": [
+              "Behaving like a child",
+              "Extremely intelligent",
+              "Related to nature",
+              "A type of furniture"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Circle Graphs (Pie Charts); Solving Inequalities; Scale Drawings and Similar Figures; Surface Area of Composite Solids.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A circle graph shows data as ___.",
+            "options": [
+              "Slices of a circle representing proportions of a whole",
+              "A concept unrelated to circle graphs",
+              "A list of numbers with no visual representation",
+              "A single straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a scale drawing with a scale of 1 cm : 5 m, a wall that measures 4 cm on the drawing represents an actual length of ___.",
+            "options": [
+              "20 m",
+              "9 m",
+              "1.25 m",
+              "45 m"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An inequality compares two values using symbols such as ___.",
+            "options": [
+              "= only",
+              "< or >",
+              "A symbol unrelated to inequalities",
+              "+ or -"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the surface area of a composite solid made of two rectangular prisms joined together, you should ___.",
+            "options": [
+              "Add the areas of all outer faces, not counting the surfaces where the prisms join",
+              "Multiply the volumes of both prisms together",
+              "Add only the areas of the two largest faces",
+              "Add the full surface areas of both prisms with no adjustment"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Space: Earth\u2019s Rotation and the Day/Night Cycle; Erosion and Weathering: Shaping the Land; The Skeletal and Muscular Systems; Electricity: Reading Simple Circuit Diagrams.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earth\u2019s rotation on its axis takes approximately ___.",
+            "options": [
+              "One year",
+              "X unrelated to Earth\u2019s rotation",
+              "24 minutes",
+              "24 hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Erosion is best described as ___.",
+            "options": [
+              "The process of moving broken rock and soil from one place to another",
+              "The breaking down of rock into smaller pieces",
+              "The freezing of water inside cracks in rock",
+              "The formation of new rock from cooling magma"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Weathering is the process of ___.",
+            "options": [
+              "A process unrelated to weathering",
+              "Breaking down rock into smaller pieces",
+              "Moving broken rock pieces from one place to another",
+              "Building up new rock formations from nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a simple circuit diagram, a zigzag line symbol typically represents ___.",
+            "options": [
+              "A resistor",
+              "A battery",
+              "A switch",
+              "A wire"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of the Governor General in Canada; Social Studies: The Role of Non-Governmental Organizations (NGOs); Women\u2019s Suffrage Movements Around the World; Social Studies: The Indus Valley Civilization.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Who does the Governor General represent in Canada?",
+            "options": [
+              "A single province only",
+              "A concept unrelated to government",
+              "A foreign country\u2019s president",
+              "The Crown"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The term \"suffrage\" refers to ___.",
+            "options": [
+              "The right to vote",
+              "The right to own property",
+              "A type of ancient government",
+              "A type of farming tool"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does NGO stand for?",
+            "options": [
+              "Non-governmental organization",
+              "National government office",
+              "A concept unrelated to organizations",
+              "New government operation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The ancient Indus Valley Civilization was especially known for its ___.",
+            "options": [
+              "Advanced urban planning, including organized streets and drainage systems",
+              "Location in Northern Europe",
+              "Complete lack of cities",
+              "Construction of the pyramids of Egypt"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Spotting Fake News Online; Writing: Writing a Formal Letter of Request; Grammar: Correcting Sentence Fragments and Run-On Sentences; Reading: Comparing Print and Digital Texts; Writing: Writing an Effective Summary.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Fake news is ___ presented as if it were real news.",
+            "options": [
+              "False or misleading information",
+              "A completely accurate report",
+              "An eyewitness photograph",
+              "A verified scientific study"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is a run-on sentence?",
+            "options": [
+              "I went to the store I bought some milk.",
+              "I went to the store, and I bought some milk.",
+              "I went to the store to buy milk.",
+              "After I went to the store, I bought milk."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A formal letter of request is written to ___.",
+            "options": [
+              "Politely and clearly ask for information, action, or assistance",
+              "A concept unrelated to writing",
+              "Simply share a casual story with a friend",
+              "Complain without offering any clear request"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An effective summary of a text should ___.",
+            "options": [
+              "Briefly restate the main ideas in your own words",
+              "Copy the entire text word for word",
+              "Include only minor details and skip the main idea",
+              "Add your personal opinions about the topic"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Venn Diagrams and Set Notation (Intro); Mean, Median, and Mode (Intro); Negative Number Operations in Real-World Contexts; Graphing Linear Relationships; Review: Exponents, Inequalities, and Graphing.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A Venn diagram uses overlapping circles to show ___.",
+            "options": [
+              "A concept unrelated to Venn diagrams",
+              "A list with no visual organization at all",
+              "Relationships between different sets of items",
+              "A single unrelated number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the median of this data set: 3, 7, 9, 12, 15?",
+            "options": [
+              "9",
+              "7",
+              "12",
+              "46"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The mean of a set of numbers is found by ___.",
+            "options": [
+              "Choosing the largest number in the set",
+              "Adding all the numbers and dividing by how many there are",
+              "A method unrelated to finding the mean",
+              "Choosing the smallest number in the set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A submarine is at -120 m (120 m below sea level) and rises 45 m. What is its new position?",
+            "options": [
+              "-75 m",
+              "-165 m",
+              "75 m",
+              "165 m"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Classification of Matter: Elements, Compounds, and Mixtures; Nutrient Cycles in Ecosystems; Magnetism and Electromagnets; The Nervous System and Reflexes; Review: Matter, Energy, and Body Systems.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "An element is best described as ___.",
+            "options": [
+              "A substance found only in outer space",
+              "A concept unrelated to matter",
+              "A combination of two or more different substances",
+              "A single pure substance made of only one type of atom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A mixture is different from a compound because a mixture ___.",
+            "options": [
+              "Contains substances that are not chemically bonded and can be physically separated",
+              "Always consists of only one type of atom",
+              "Cannot be separated by any physical process",
+              "Is formed only through a chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A nutrient cycle describes how essential elements move ___.",
+            "options": [
+              "Only through the atmosphere, with no connection to living things",
+              "In a single direction, never returning to the environment",
+              "A concept unrelated to nutrient cycles",
+              "Through living things and the environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A reflex action, such as pulling your hand away from something hot, is controlled mainly by the ___.",
+            "options": [
+              "Spinal cord, allowing a fast response before the brain fully processes it",
+              "Muscular system alone, with no nerve involvement",
+              "Digestive system",
+              "Skeletal system"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ancient Kingdoms of West Africa \u2014 Ghana, Mali, and Songhai; Social Studies: Canada\u2019s Justice System and Courts; Social Studies: The Metis Nation and the Red River Resistance; Social Studies: The Canadian Senate \u2014 The Other House of Parliament; Social Studies: Canadas Official Languages Act \u2014 Bilingualism in Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Name one ancient kingdom of West Africa.",
+            "options": [
+              "A concept unrelated to West Africa",
+              "Mali",
+              "Rome",
+              "Athens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Members of the Canadian Senate are ___ rather than elected.",
+            "options": [
+              "Appointed",
+              "Chosen by public lottery",
+              "Elected by popular vote",
+              "Selected by birthright"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main role of courts in Canada\u2019s justice system?",
+            "options": [
+              "To interpret and apply the law",
+              "To build roads and bridges",
+              "To collect garbage in a community",
+              "A concept unrelated to government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada's Official Languages Act established that ___ are Canada's two official languages.",
+            "options": [
+              "English and French",
+              "English and Spanish",
+              "French and Indigenous languages only",
+              "English and Mandarin"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Prepositional Phrases and Their Function; Writing: Descriptive Writing \u2014 Using Sensory Detail and Imagery; Reading: Distinguishing Fact from Opinion; Vocabulary: Prefixes, Suffixes, and Root Words; Writing: Structuring a Cause and Effect Essay.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A prepositional phrase begins with a preposition and ends with a ___.",
+            "options": [
+              "Verb only",
+              "Noun or pronoun",
+              "Punctuation mark",
+              "A concept unrelated to prepositional phrases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence expresses an opinion rather than a fact?",
+            "options": [
+              "Chocolate ice cream is the best dessert.",
+              "Water boils at 100 degrees Celsius at sea level.",
+              "The Earth orbits the Sun.",
+              "A triangle has three sides."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Descriptive writing often appeals to the reader\u2019s ___.",
+            "options": [
+              "Knowledge of grammar rules only",
+              "Ability to solve math problems",
+              "Five senses",
+              "A concept unrelated to descriptive writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the word \"unbreakable,\" the prefix \"un-\" means ___.",
+            "options": [
+              "Not",
+              "Again",
+              "Before",
+              "After"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Adding and Subtracting Decimals; Nets of 3D Figures; Classifying and Constructing Quadrilaterals; Perimeter and Area of Composite 2D Shapes; Comparing and Ordering Rational Numbers.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To add or subtract decimals correctly, you must first ___.",
+            "options": [
+              "Line up the decimal points so digits match by place value",
+              "A step unrelated to adding decimals",
+              "Ignore the decimal points completely",
+              "Round every number to the nearest whole number first"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A quadrilateral with exactly one pair of parallel sides is called a ___.",
+            "options": [
+              "Trapezoid",
+              "Rhombus",
+              "Rectangle",
+              "Square"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A net is best described as ___.",
+            "options": [
+              "A concept unrelated to nets",
+              "A type of graph used to display data",
+              "A three-dimensional figure with no flat faces",
+              "A two-dimensional pattern that folds into a three-dimensional figure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these numbers is the smallest: -3/4, -1, 0.5, 2/3?",
+            "options": [
+              "-1",
+              "-3/4",
+              "0.5",
+              "2/3"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Animal Adaptations and Survival Strategies; The Moon: Phases, Eclipses, and Its Effect on Earth; Constellations and Navigating the Night Sky; Gravity and Its Effects Throughout the Solar System; Structures: Load, Force, and Stability in Design.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is best described as ___.",
+            "options": [
+              "A random change with no effect on survival",
+              "A concept unrelated to adaptations",
+              "A feature that always harms an organism\u2019s chances of survival",
+              "A physical feature or behaviour that helps an organism survive in its environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A constellation is best described as ___.",
+            "options": [
+              "A recognizable pattern of stars in the night sky",
+              "A single planet visible at night",
+              "A type of galaxy",
+              "A cloud formation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Moon\u2019s phases are caused by ___.",
+            "options": [
+              "Its changing position relative to Earth and the Sun",
+              "A concept unrelated to the Moon\u2019s phases",
+              "The Moon changing shape physically each month",
+              "The Moon disappearing and reforming every month"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a structure, a \"load\" refers to ___.",
+            "options": [
+              "The weight or force that a structure must support",
+              "The color of the building material used",
+              "The height of the structure only",
+              "The number of workers who built it"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Global Village: How We Are Connected to Other Countries; Social Studies Review: Government, History, and Canadian Identity; Social Studies: Ancient Japan \u2014 Early Society and Culture; Social Studies: Canada-United States Trade Relationship; The American Revolution and Its Impact on British North America.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does the term global village describe?",
+            "options": [
+              "A kind of forest",
+              "A type of farm",
+              "A single small town",
+              "How the world feels connected through travel and communication"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Early Japanese society was significantly influenced by cultural and religious ideas from ___.",
+            "options": [
+              "China and Korea",
+              "Ancient Rome",
+              "Ancient Egypt",
+              "The Aztec Empire"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which level of government in Canada is responsible for passing federal laws?",
+            "options": [
+              "The federal Parliament",
+              "A city council",
+              "A school board",
+              "A provincial ministry of education"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada and the United States have one of the world's largest trading relationships, exchanging goods such as ___.",
+            "options": [
+              "Oil, vehicles, and agricultural products",
+              "Only handmade crafts",
+              "No goods at all, as trade between them is banned",
+              "Only used clothing"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Making and Confirming Predictions; Oral Communication: Active Listening and Note-Taking; Writing: Crafting Realistic Dialogue in Narrative; Reading: Identifying Text Structure Patterns.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Making a prediction while reading means ___.",
+            "options": [
+              "Reading the ending of a story before the beginning",
+              "Using clues and prior knowledge to guess what might happen next",
+              "Ignoring the text completely and guessing randomly",
+              "A concept unrelated to reading strategies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a narrative, realistic dialogue should mainly ___.",
+            "options": [
+              "Sound natural and reveal something about the characters speaking",
+              "Use only formal, textbook-perfect grammar for every character",
+              "Repeat the exact same sentence for each character",
+              "Avoid quotation marks entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Active listening involves ___.",
+            "options": [
+              "Only hearing a speaker while thinking about something else",
+              "A concept unrelated to active listening",
+              "Interrupting a speaker as often as possible",
+              "Fully focusing on a speaker and responding thoughtfully"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which text structure would a writer most likely use to explain why an event happened and what resulted from it?",
+            "options": [
+              "Cause and effect",
+              "Compare and contrast",
+              "Chronological order only",
+              "A concept unrelated to text structures"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Line Symmetry and Rotational Symmetry; Solving Equations Involving Decimals; Time: Elapsed Time and the 24-Hour Clock; Stem-and-Leaf Plots.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A shape has line symmetry if ___.",
+            "options": [
+              "It can be folded along a line so both halves match exactly",
+              "It has no straight edges at all",
+              "It looks completely different no matter how it is folded",
+              "A concept unrelated to line symmetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A shape has rotational symmetry if ___.",
+            "options": [
+              "It can be turned less than a full circle and still look exactly the same",
+              "It has no symmetry of any kind",
+              "It can only be folded in half to match",
+              "A shape must be a circle to have any symmetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To solve an equation with a decimal, you generally ___.",
+            "options": [
+              "Ignore the decimal point during the solving process",
+              "A method unrelated to solving equations",
+              "Round every decimal to zero before solving",
+              "Use inverse operations, just as with whole numbers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In 24-hour time, 15:00 corresponds to which time on a 12-hour clock?",
+            "options": [
+              "3:00 p.m.",
+              "5:00 p.m.",
+              "3:00 a.m.",
+              "1:15 p.m."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Conductors and Insulators: Materials in Electrical Circuits; Drones and Modern Flight Technology; The Layers of Earth\u2019s Atmosphere; Insects and Pollinators: Their Role in Ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A conductor is a material that ___.",
+            "options": [
+              "Blocks electric current from flowing through it",
+              "Allows electric current to flow through it easily",
+              "A concept unrelated to conductors",
+              "Has no connection to electricity at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following best describes an insulator in an electrical circuit?",
+            "options": [
+              "A material that resists the flow of electric current",
+              "A material that allows current to flow freely",
+              "A concept unrelated to circuits",
+              "A material used only to generate electricity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A drone is best described as ___.",
+            "options": [
+              "A concept unrelated to drones",
+              "An unpiloted aircraft controlled remotely or by onboard computers",
+              "A type of boat used for water travel",
+              "An aircraft that must always have a pilot inside it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which layer of Earth's atmosphere is closest to Earth's surface and where most weather occurs?",
+            "options": [
+              "Troposphere",
+              "Stratosphere",
+              "Mesosphere",
+              "Thermosphere"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Levels of Government in Canada: Municipal, Provincial, Federal; How Canadians Vote: Elections and Political Parties; The Role of the Governor General and Constitutional Monarchy; Canada\u2019s Justice System: Courts and the Rule of Law.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada\u2019s government is organized into which three levels?",
+            "options": [
+              "Only a single level, with no other divisions",
+              "Regional, continental, and global",
+              "Municipal, provincial, and federal",
+              "A concept unrelated to Canada\u2019s government structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main role of the Governor General in Canada's constitutional monarchy?",
+            "options": [
+              "To act as the monarch's representative and grant royal assent to laws",
+              "To lead Canada's armed forces into battle personally",
+              "To serve as the elected head of a political party",
+              "A role unrelated to Canada's government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Canadian election, citizens generally vote for ___.",
+            "options": [
+              "Only the Prime Minister directly, with no other candidates involved",
+              "A concept unrelated to Canadian elections",
+              "No one, since Canada does not hold elections",
+              "A candidate to represent their area, often as part of a political party"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In Canada's justice system, courts are primarily responsible for ___.",
+            "options": [
+              "Interpreting and applying the law to resolve disputes and try cases",
+              "Writing all of Canada's laws from scratch",
+              "Collecting taxes from citizens",
+              "Running municipal elections"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Language Days 61-69; Grammar: Adverbs and Adverbial Phrases; Writing: Procedural Writing \u2014 How-To Texts; Reading: Similes, Metaphors, and Personification.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "In a well-organized paragraph, what is the job of the topic sentence?",
+            "options": [
+              "To introduce the paragraph's main idea",
+              "To end the paragraph with a joke",
+              "To list every word used in the paragraph",
+              "To repeat the title exactly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A how-to (procedural) text should mainly be written using ___.",
+            "options": [
+              "Clear, sequential steps using command verbs",
+              "A single long paragraph with no steps",
+              "Only past-tense storytelling",
+              "Random unordered facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An adverb typically modifies a ___.",
+            "options": [
+              "Noun or pronoun only",
+              "Punctuation mark",
+              "A concept unrelated to adverbs",
+              "Verb, adjective, or other adverb"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "\"The wind whispered through the trees\" is an example of ___.",
+            "options": [
+              "Personification",
+              "A simile",
+              "An adverbial phrase",
+              "A prepositional phrase"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Math Days 61-69; Multiplying and Dividing Decimals by Powers of Ten; Angle Relationships: Complementary, Supplementary, and Vertical Angles; Least Common Multiple and Greatest Common Factor.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the least common multiple (LCM) of 4 and 6?",
+            "options": [
+              "12",
+              "24",
+              "10",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When you divide a decimal by 100, the decimal point moves ___.",
+            "options": [
+              "Two places to the left",
+              "Two places to the right",
+              "One place to the left",
+              "It does not move"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When you multiply a decimal by 10, the decimal point moves ___.",
+            "options": [
+              "A direction unrelated to multiplying by ten",
+              "One place to the left",
+              "One place to the right",
+              "Two places to the right"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two angles that add up to 90 degrees are called ___.",
+            "options": [
+              "Complementary angles",
+              "Supplementary angles",
+              "Vertical angles",
+              "Adjacent angles only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Science Days 61-69; The Digestive System and Nutrient Absorption; The Circulatory System: Heart, Blood, and Vessels; The Respiratory System: Breathing and Gas Exchange.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which body system works closely with the respiratory system to carry oxygen to the rest of the body?",
+            "options": [
+              "The circulatory system",
+              "The digestive system",
+              "The skeletal system",
+              "The muscular system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main job of the circulatory system is to ___.",
+            "options": [
+              "Transport blood, oxygen, and nutrients throughout the body",
+              "Break down food into usable nutrients",
+              "Filter waste out of the bloodstream only",
+              "Control body temperature exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main purpose of the digestive system is to ___.",
+            "options": [
+              "Filter air before it reaches the lungs",
+              "A concept unrelated to the digestive system",
+              "Break down food into nutrients the body can absorb and use",
+              "Pump blood throughout the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During gas exchange in the lungs, the body mainly ___.",
+            "options": [
+              "Takes in oxygen and releases carbon dioxide",
+              "Takes in carbon dioxide and releases nitrogen",
+              "Takes in nitrogen and releases oxygen",
+              "Releases oxygen without taking in any gas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Social Studies Days 61-69; The War of 1812: Defending British North America; The Underground Railroad and Its Connection to Canada; Treaties and Indigenous-Crown Relations in Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Indus Valley Civilization developed along which river system?",
+            "options": [
+              "The Amazon River",
+              "The Nile River",
+              "A river unrelated to this civilization",
+              "The Indus River"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Underground Railroad was a network that helped ___.",
+            "options": [
+              "Freedom seekers escape slavery in the United States, often to Canada",
+              "Canadian settlers travel west by train",
+              "Goods move along underground tunnels for trade",
+              "Soldiers move secretly during the War of 1812"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The War of 1812 was fought primarily between Britain (with its colonies) and ___.",
+            "options": [
+              "The United States",
+              "A country unrelated to the War of 1812",
+              "Spain",
+              "France"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Treaties between the Crown and Indigenous peoples in Canada were agreements that mainly involved ___.",
+            "options": [
+              "Land, resources, and rights negotiated between two parties",
+              "Only the trade of furs, with no mention of land",
+              "A single Indigenous nation acting without government involvement",
+              "A concept unrelated to Indigenous-Crown relations"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Using a Thesaurus and Dictionary Effectively; Grammar: Coordinating and Subordinating Conjunctions; Writing: Revising for Clarity and Conciseness; Reading: Mood and Atmosphere in Fiction.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A dictionary is a resource that provides a word\u2019s ___.",
+            "options": [
+              "A concept unrelated to dictionaries",
+              "Only its spelling, with no other information",
+              "List of synonyms only, with no definitions",
+              "Definition, pronunciation, and part of speech"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A thesaurus is most useful for finding ___.",
+            "options": [
+              "Synonyms and antonyms for a word",
+              "The correct spelling of a word only",
+              "A word's pronunciation only",
+              "A concept unrelated to thesauruses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Coordinating conjunctions are used to ___.",
+            "options": [
+              "Join two equal ideas or clauses",
+              "Replace punctuation marks entirely",
+              "A concept unrelated to coordinating conjunctions",
+              "Only join a subject to a verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When an author creates a tense, gloomy mood in a story, this is often achieved through ___.",
+            "options": [
+              "Word choice, setting details, and descriptive imagery",
+              "Using only short, cheerful dialogue",
+              "Avoiding all descriptive language",
+              "A concept unrelated to mood in fiction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Estimation Strategies for Multi-Step Problems; Probability: Sample Space and Outcomes; Unit Rates and Comparing Best Buys; Long Division with Multi-Digit Divisors.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Estimation in math is best described as ___.",
+            "options": [
+              "Ignoring a problem entirely rather than solving it",
+              "A concept unrelated to estimation",
+              "Calculating an answer with complete precision every time",
+              "Finding an approximate, reasonable answer rather than an exact one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A unit rate expresses a rate in terms of ___.",
+            "options": [
+              "One unit of the second quantity, such as price per single item",
+              "Two full groups of the same size",
+              "A percentage of the total price",
+              "The largest quantity possible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The sample space of an experiment is best described as ___.",
+            "options": [
+              "A concept unrelated to sample space",
+              "A single guaranteed outcome",
+              "The set of all possible outcomes",
+              "Only the outcomes that are considered favourable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When dividing 4,536 by 24 using long division, what is the quotient?",
+            "options": [
+              "189",
+              "186",
+              "195",
+              "180"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: States of Matter and Changes of State; Soil Composition and Formation; Freshwater and Saltwater Ecosystems; Fossils and What They Reveal About Earth\u2019s History.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is a change of state that occurs when a solid becomes a liquid?",
+            "options": [
+              "A process unrelated to changes of state",
+              "Condensation",
+              "Freezing",
+              "Melting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "One key difference between freshwater and saltwater ecosystems is that ___.",
+            "options": [
+              "Freshwater has very low salt content while saltwater ecosystems have high salt content",
+              "Freshwater ecosystems contain no living organisms",
+              "Saltwater ecosystems only exist underground",
+              "There is no difference between the two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Soil is formed largely through the weathering of ___.",
+            "options": [
+              "Only water, with no solid material involved",
+              "Rock, combined with organic matter over time",
+              "Metal objects buried underground",
+              "A concept unrelated to soil formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fossils mainly help scientists learn about ___.",
+            "options": [
+              "Past life forms and how Earth's environments have changed over time",
+              "Only the current weather patterns on Earth",
+              "Future predictions about human population growth",
+              "A concept unrelated to Earth's history"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Pacific Railway \u2014 Connecting the Country; The Fur Trade and the Voyageurs; Social Studies: The Klondike Gold Rush; Nunavut and Canada\u2019s Northern Territories.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What did the Canadian Pacific Railway connect?",
+            "options": [
+              "Nothing of importance",
+              "Communities from coast to coast across Canada",
+              "Canada to another country by land",
+              "Only two neighbouring cities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Voyageurs played a key role in early Canada by ___.",
+            "options": [
+              "Paddling canoes to transport furs and trade goods across long distances",
+              "Building the transcontinental railway",
+              "Governing Canada's territories as elected officials",
+              "Mining gold during the Klondike Gold Rush"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The fur trade in early Canada was centred mainly around which resource?",
+            "options": [
+              "Beaver pelts and other furs",
+              "Grain and other crops",
+              "Gold and silver",
+              "A resource unrelated to the fur trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Klondike Gold Rush drew thousands of people to which Canadian territory in search of gold?",
+            "options": [
+              "Yukon",
+              "Nunavut",
+              "Northwest Territories",
+              "British Columbia"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Evaluating Online Sources for Reliability; Oral Communication: Giving Clear Instructions and Directions; Review: Language Days 71-79; Reading: Analyzing Allegory in Literature; Grammar: Modal Verbs and Their Uses.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "When evaluating an online source, a reader should check ___.",
+            "options": [
+              "Only how visually appealing the website looks",
+              "The author\u2019s credentials, the publication date, and whether it can be verified elsewhere",
+              "Nothing, since all online sources are equally reliable",
+              "A concept unrelated to evaluating sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An allegory is a story in which characters and events ___.",
+            "options": [
+              "Symbolically represent a deeper meaning or message beyond the literal story",
+              "Have no meaning beyond the literal plot",
+              "Must always be about talking animals",
+              "A concept unrelated to allegory"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Clear oral instructions should generally be ___.",
+            "options": [
+              "Given all at once with no order at all",
+              "A concept unrelated to giving instructions",
+              "Vague, with details left out on purpose",
+              "Precise and given in a logical, sequential order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is a modal verb showing possibility or ability?",
+            "options": [
+              "Could",
+              "Jumped",
+              "Quickly",
+              "Garden"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Classifying and Naming Prisms and Pyramids; Data Management: Sampling Methods and Bias in Surveys; Review: Math Days 71-79; Scale Factor and Enlargement or Reduction; Comparing Prices: Unit Rate and Best Value.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A prism is a 3D figure with ___.",
+            "options": [
+              "Two parallel, congruent bases connected by rectangular faces",
+              "No flat faces of any kind",
+              "A single base connected only to triangular faces",
+              "A concept unrelated to prisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A pyramid is a 3D figure with ___.",
+            "options": [
+              "One base and triangular faces that meet at a single apex",
+              "Two parallel bases connected by rectangles",
+              "No flat faces at all",
+              "A concept unrelated to pyramids"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A sample in data management is best described as ___.",
+            "options": [
+              "A concept unrelated to sampling",
+              "A smaller group selected to represent a larger population",
+              "A single random guess with no connection to data",
+              "The entire population being studied, with nothing left out"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A scale factor of 2 applied to a shape means the new shape's side lengths are ___.",
+            "options": [
+              "Twice as long as the original shape's side lengths",
+              "Half as long as the original shape's side lengths",
+              "The same length as the original shape",
+              "Two centimetres longer, regardless of the original size"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Forces of Motion: Friction and Air Resistance; The Integumentary System: Skin as an Organ; Review: Science Days 71-79; Science: Renewable vs Fossil Fuel Power Plants Compared; Science: Plate Tectonics and Continental Drift.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Friction is best described as ___.",
+            "options": [
+              "A force that always speeds up a moving object",
+              "A force that resists motion between two surfaces in contact",
+              "A concept unrelated to friction",
+              "A force that only exists in outer space"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Air resistance is a force that ___.",
+            "options": [
+              "Pushes against an object as it moves through the air, slowing it down",
+              "Only affects objects that are completely still",
+              "Speeds up every falling object equally",
+              "A concept unrelated to forces of motion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The skin is considered the body\u2019s largest ___.",
+            "options": [
+              "Organ",
+              "A concept unrelated to the skin",
+              "Bone",
+              "Muscle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Plate tectonics explains that Earth's outer surface is made up of ___.",
+            "options": [
+              "Large, slowly moving plates that shift over time",
+              "A single unmoving solid shell",
+              "Only water with no solid land",
+              "A concept unrelated to Earth's structure"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Our Senate: Another Part of Canadas Government; Immigration Waves: Irish, Ukrainian, and Chinese Settlers in Canada; Review: Social Studies Days 71-79; Social Studies: The Green Revolution and Global Food Security; Social Studies: How Provinces Make Laws \u2014 Provincial Legislatures.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A kind of store",
+              "A sports team",
+              "A type of school",
+              "A part of Canadas government that reviews laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Many Chinese immigrants came to Canada in the late 1800s partly to work on ___.",
+            "options": [
+              "The construction of the Canadian Pacific Railway",
+              "Underground mining tunnels in the Yukon exclusively",
+              "Government offices in Ottawa",
+              "Fishing boats in the Atlantic Ocean only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Many Irish immigrants came to Canada in the 19th century partly due to ___.",
+            "options": [
+              "An abundance of food and prosperity in Ireland at the time",
+              "A government requirement that all Irish citizens relocate",
+              "The Great Famine in Ireland, which caused widespread hunger and hardship",
+              "A reason unrelated to Irish immigration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In Canada, provincial legislatures are primarily responsible for making laws about ___.",
+            "options": [
+              "Matters within their province, such as education and healthcare",
+              "Only matters that affect other countries",
+              "Federal income tax rates for the whole nation",
+              "A concept unrelated to provincial government"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Satirical Piece; Vocabulary: Words Borrowed from Other Languages; Reading: Understanding Unreliable Narrators.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What kind of writing uses humour or exaggeration to criticize a real issue?",
+            "options": [
+              "A concept unrelated to writing",
+              "A weather report",
+              "A grocery list",
+              "A satirical piece"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story told by an unreliable narrator, what should the reader do?",
+            "options": [
+              "Trust every detail the narrator says without question",
+              "Question the narrator's account and look for clues the truth may differ",
+              "Assume the narrator is always the villain of the story",
+              "Skip that part of the story completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a word borrowed from another language and adopted into English?",
+            "options": [
+              "A homophone",
+              "A concept unrelated to vocabulary",
+              "A loanword",
+              "A synonym"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which technique do writers most often use in satire to point out flaws in society?",
+            "options": [
+              "Exaggeration and humour",
+              "A plain, factual news report",
+              "A list of numbers in order",
+              "A formal thank-you letter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Dividing Decimals by Whole Numbers; Data: Two-Way Frequency Tables; Percent Increase and Decrease.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is 6.4 divided by 2?",
+            "options": [
+              "2.2",
+              "3.2",
+              "32",
+              "3.4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 9.6 divided by 4?",
+            "options": [
+              "2.4",
+              "24",
+              "0.24",
+              "2.04"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a two-way frequency table organize data by?",
+            "options": [
+              "A concept unrelated to data management",
+              "Two categories at once",
+              "No categories at all",
+              "Only one single category"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A jacket's price rises from $40 to $50. What is the percent increase?",
+            "options": [
+              "25%",
+              "20%",
+              "10%",
+              "40%"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Cell Division and Growth; Science: Bioluminescence: Living Things That Glow; Science: Vaccines and How They Work.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is cell division?",
+            "options": [
+              "A concept unrelated to biology",
+              "A process that only happens in plants",
+              "The process by which a cell splits into two new cells",
+              "A process where cells disappear completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do vaccines help protect the body from a disease?",
+            "options": [
+              "They train the immune system to recognize and fight a specific pathogen",
+              "They instantly kill every bacterium in the body",
+              "They replace damaged blood cells",
+              "They permanently cure genetic conditions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the ability of some living things to produce their own light?",
+            "options": [
+              "Photosynthesis",
+              "Bioluminescence",
+              "Migration",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the specific name for the type of cell division that allows the body to grow and repair itself?",
+            "options": [
+              "Mitosis",
+              "Meiosis",
+              "Photosynthesis",
+              "Osmosis"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Refugee Crises in the Modern World; Social Studies: The Role of International Trade Agreements; Social Studies: Canada\u2019s Relationship with Indigenous Self-Government Today.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a situation where large numbers of people are forced to flee their homes?",
+            "options": [
+              "A concept unrelated to global issues",
+              "A sporting event",
+              "A refugee crisis",
+              "A trade agreement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for an Indigenous community to have self-government?",
+            "options": [
+              "It can make its own decisions about its own community's affairs",
+              "It must follow only decisions made by a foreign country",
+              "It has no say in any of its own local matters",
+              "It is required to give up its own traditions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do international trade agreements set between countries?",
+            "options": [
+              "Rules about school curriculum only",
+              "A concept unrelated to global trade",
+              "Shared rules for trading goods and services",
+              "Rules about a single country\u2019s local traffic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which international organization works to protect and support refugees around the world?",
+            "options": [
+              "The UN Refugee Agency (UNHCR)",
+              "NATO",
+              "The World Health Organization",
+              "NASA"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Appositive Phrases; Writing: Writing an Editorial; Media Literacy: Analyzing Podcast and Audio Media; Reading: Comparing Book and Film Adaptations.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does an appositive phrase do to a nearby noun?",
+            "options": [
+              "Replaces it completely with a new meaning",
+              "Renames or gives more information about it",
+              "A concept unrelated to grammar",
+              "Removes it from the sentence entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When critically analyzing a podcast, which of these is most important to pay attention to?",
+            "options": [
+              "The host's tone, word choice, and possible bias",
+              "Only how many minutes long the episode is",
+              "Only the number of the episode",
+              "Only the name of the recording studio"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of writing expresses an opinion on a current issue in a newspaper?",
+            "options": [
+              "An editorial",
+              "A weather report",
+              "A grocery list",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a novel is adapted into a film, what most often has to change because of time limits?",
+            "options": [
+              "Some scenes or subplots are cut or shortened",
+              "The entire story is told in exactly the same number of words",
+              "Every character's thoughts are read aloud word for word",
+              "Nothing about the story ever changes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Surface Area of Cylinders; Data: Stem-and-Leaf Plots; Compound Probability with Tree Diagrams; Financial Literacy: Comparing Loan and Savings Options.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How many circular ends does a cylinder have?",
+            "options": [
+              "Three",
+              "Two",
+              "Zero",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A coin is flipped twice. Using a tree diagram, how many total possible outcomes are there?",
+            "options": [
+              "4",
+              "2",
+              "6",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a stem-and-leaf plot, what does the stem usually represent?",
+            "options": [
+              "The leading digit or digits of a number",
+              "A concept unrelated to data",
+              "The colour of the data",
+              "The final digit of a number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which statement correctly compares a savings account and a loan?",
+            "options": [
+              "A savings account earns interest for the saver, while a loan charges interest to the borrower",
+              "A savings account charges the saver interest every month",
+              "A loan pays the borrower interest for spending money",
+              "Savings accounts and loans always work in exactly the same way"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Physics of Roller Coasters; Science: Ocean Currents and Their Effect on Climate; Animal Behaviours: Migration and Hibernation; Science: Space Debris and Satellite Safety.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy does a roller coaster have at the top of a hill, before it moves?",
+            "options": [
+              "Potential energy",
+              "A concept unrelated to energy",
+              "No energy at all",
+              "Kinetic energy only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some animals hibernate during the winter?",
+            "options": [
+              "To conserve energy when food is scarce and temperatures are cold",
+              "To grow a new set of wings",
+              "To travel to a warmer climate",
+              "To permanently shed all of their fur"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are ocean currents?",
+            "options": [
+              "A kind of rock formation",
+              "A type of cloud formation",
+              "Large-scale movements of seawater",
+              "A concept unrelated to oceans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 'space debris'?",
+            "options": [
+              "Old satellites and equipment pieces left orbiting Earth",
+              "A type of weather pattern on Mars",
+              "A cloud of gas found only around the Sun",
+              "A concept unrelated to space"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The History of the Olympic Games; Our Court System: Judges and Fair Decisions; Social Studies: Renewable Energy Policy Around the World; Social Studies: The Role of Social Media in Modern Activism.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the modern Olympic Games begin?",
+            "options": [
+              "1776",
+              "1945",
+              "1896",
+              "2000"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a government create policies that support renewable energy?",
+            "options": [
+              "To reduce reliance on fossil fuels and lower pollution",
+              "To increase the amount of coal that is burned",
+              "To stop all forms of electricity generation",
+              "To make oil the only legal energy source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who listens and helps make fair decisions in a court?",
+            "options": [
+              "A chef",
+              "A judge",
+              "A pilot",
+              "A firefighter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How has social media changed modern activism?",
+            "options": [
+              "It lets people organize and spread awareness about causes quickly",
+              "It has made it impossible for people to share information",
+              "It only allows communication between government leaders",
+              "It has completely replaced the need for any laws"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Literary Devices, Grammar, and Media Literacy (Days 81-89); Reading: Understanding Verbal, Situational, and Dramatic Irony; Grammar: Gerunds and Infinitives; Writing: Crafting a Persuasive Speech.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do we call a story where characters and events represent broader ideas?",
+            "options": [
+              "A concept unrelated to reading",
+              "A biography",
+              "An allegory",
+              "A recipe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is a gerund?",
+            "options": [
+              "Swimming (as in 'Swimming is fun')",
+              "Swim",
+              "Swam",
+              "To swim"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is irony?",
+            "options": [
+              "A concept unrelated to reading",
+              "A synonym for a simile",
+              "A type of punctuation mark",
+              "A gap between what is expected and what actually happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main goal of a persuasive speech?",
+            "options": [
+              "To convince the audience to accept a viewpoint or take action",
+              "To entertain the audience with jokes only",
+              "To give step-by-step cooking instructions",
+              "To report only neutral facts with no opinion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Geometry, Equations, and Probability (Days 81-89); Adding and Subtracting Integers on a Number Line; Data: Box-and-Whisker Plots and Data Spread; Congruent Figures and Congruence Transformations.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scale factor describe?",
+            "options": [
+              "The number of sides a shape has",
+              "How much a shape is enlarged or reduced",
+              "A concept unrelated to geometry",
+              "The colour of a shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a box-and-whisker plot, what does the line inside the box represent?",
+            "options": [
+              "The median",
+              "The mean",
+              "The range",
+              "The mode"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a number line, which direction does adding a positive number move you?",
+            "options": [
+              "Right",
+              "Left",
+              "A concept unrelated to integers",
+              "It does not move you at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two figures stay congruent to each other after which types of transformations?",
+            "options": [
+              "Translations, rotations, and reflections only",
+              "Dilations that enlarge the figure",
+              "Dilations that shrink the figure",
+              "Changing only the figure's colour and shading"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Earth Science, Biology, and Space (Days 81-89); Science: The Endocrine System and Hormones; Science: Biomes of the World: Desert, Tundra, Rainforest, and Grassland; Science: Extinction and Endangered Species Conservation.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one example of a renewable power source, such as solar or wind.",
+            "options": [
+              "Coal",
+              "Solar",
+              "A concept unrelated to renewable energy",
+              "Oil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which biome is characterized by very low precipitation and extreme temperature swings between day and night?",
+            "options": [
+              "Desert",
+              "Rainforest",
+              "Tundra",
+              "Grassland"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the endocrine system release into the body?",
+            "options": [
+              "Hormones",
+              "Only oxygen",
+              "A concept unrelated to the human body",
+              "Only blood cells"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for a species to be 'endangered'?",
+            "options": [
+              "It is at serious risk of becoming extinct in the near future",
+              "It is extremely common across the whole planet",
+              "It has already gone completely extinct",
+              "It only exists inside video games"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Global History and Modern Global Issues (Days 81-89); The Underground Railroad: A Journey to Freedom; Social Studies: UNESCO World Heritage Sites and Cultural Preservation; Social Studies: The Role of the Lieutenant Governor.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Green Revolution?",
+            "options": [
+              "A type of environmental protest movement",
+              "A concept unrelated to history",
+              "A period of major agricultural advancement that increased crop yields",
+              "A political revolution that overthrew a government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the purpose of designating a place as a UNESCO World Heritage Site?",
+            "options": [
+              "To recognize and help protect its cultural or natural significance for future generations",
+              "To turn the site into a private business only",
+              "To remove it from all historical records",
+              "To close the site permanently to everyone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "A type of game",
+              "An actual underground train",
+              "A secret network of routes and helpers guiding people to freedom",
+              "A modern subway system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main role of a Lieutenant Governor in a Canadian province?",
+            "options": [
+              "To represent the Crown at the provincial level",
+              "To lead the national armed forces",
+              "To manage a private company",
+              "To coach a professional sports team"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Hyperbole and Understatement; Media Literacy: Recognizing Propaganda Techniques; Reading: Analyzing Character Motivation; Writing: Paraphrasing and Avoiding Plagiarism.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A comparison using like or as",
+              "A concept unrelated to vocabulary",
+              "Exaggeration used for emphasis or humour",
+              "A word that sounds like its meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an example of understatement?",
+            "options": [
+              "\"It's just a scratch,\" she said, looking at her broken arm.",
+              "\"I've told you a million times to clean your room!\"",
+              "\"The bag weighed a ton after I filled it with books.\"",
+              "\"I'm so hungry I could eat a horse.\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is propaganda used to do?",
+            "options": [
+              "Entertain readers with no persuasive goal",
+              "A concept unrelated to media literacy",
+              "Influence people\u2019s opinions",
+              "Provide only balanced, neutral information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the best way to avoid plagiarism when using another author's ideas in your writing?",
+            "options": [
+              "Copy the sentences exactly but change the title",
+              "Put the ideas in your own words and credit the original source",
+              "Leave out the source since the ideas are now yours",
+              "Use the exact wording as long as you don't mention where it came from"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Calculating Sales Tax and Total Cost; Fractions: Adding Mixed Numbers; Measurement: Converting Between Units of Capacity and Mass; Data Management: Choosing the Best Graph to Display Data.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is sales tax?",
+            "options": [
+              "A concept unrelated to shopping",
+              "A percentage added to the price of goods or services",
+              "A fee charged only once a year",
+              "A discount subtracted from the price"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of graph would be best for comparing the total sales of five different fruits at a market?",
+            "options": [
+              "A bar graph",
+              "A number line",
+              "A single pie showing one fruit only",
+              "A Venn diagram"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2 and 1 fourth plus 1 and 2 fourths?",
+            "options": [
+              "3 and 2 fourths",
+              "4 and 3 fourths",
+              "3 and 1 fourth",
+              "3 and 3 fourths"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many milliliters are in 3.5 liters?",
+            "options": [
+              "35 mL",
+              "350 mL",
+              "3,500 mL",
+              "35,000 mL"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Excretory System and Waste Removal in the Body; Science: The Science of Recycling and Waste Reduction; Science: Camouflage and Mimicry as Survival Adaptations; Science: Igneous, Sedimentary, and Metamorphic Rocks.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the job of the excretory system?",
+            "options": [
+              "A concept unrelated to the human body",
+              "To remove waste products and excess water from the blood",
+              "To digest food",
+              "To pump blood throughout the body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An animal that looks almost exactly like a stick to avoid being seen by predators is using which survival strategy?",
+            "options": [
+              "Hibernation",
+              "Camouflage",
+              "Migration",
+              "Photosynthesis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does recycling do with used materials?",
+            "options": [
+              "Buries them permanently underground",
+              "Destroys them completely with no further use",
+              "Processes them so they can be made into new products",
+              "A concept unrelated to waste management"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of rock forms when melted magma or lava cools and hardens?",
+            "options": [
+              "Sedimentary rock",
+              "Metamorphic rock",
+              "Igneous rock",
+              "Fossil rock"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Ancient Civilizations, Geography, and Canadian History; Social Studies: Global Population Growth and Demographic Change; Social Studies: Canada\u2019s National Parks and Conservation History; Social Studies: The Role of Canadian Embassies Abroad.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Byzantine Empire a continuation of?",
+            "options": [
+              "The ancient Egyptian empire",
+              "The Greek city-states",
+              "The eastern Roman Empire",
+              "A brand new empire with no history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of a national park?",
+            "options": [
+              "To build new housing developments",
+              "To protect natural environments and wildlife for the future",
+              "To provide land only for farming and industry",
+              "To store a country's gold reserves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does global population growth refer to?",
+            "options": [
+              "The number of animals living on Earth",
+              "The increasing number of people living on Earth over time",
+              "A concept unrelated to geography",
+              "A decrease in the number of people on Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main role of a Canadian embassy located in another country?",
+            "options": [
+              "To collect taxes from citizens of that country",
+              "To represent Canada's government and assist Canadian citizens abroad",
+              "To control that country's local laws",
+              "To sell Canadian products directly to tourists"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Myths and Legends Across Cultures; Grammar: Formal and Informal Register; Review: Irony, Grammar, Speeches, and Media Literacy (Days 91-99); Grammar: Direct and Indirect (Reported) Speech.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a myth?",
+            "options": [
+              "A traditional story often involving gods or supernatural events",
+              "A factual news report",
+              "A concept unrelated to reading",
+              "A type of scientific textbook"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses indirect (reported) speech?",
+            "options": [
+              "Maria said, \"I am tired today.\"",
+              "Maria said that she was tired that day.",
+              "\"I am tired today,\" Maria announced.",
+              "Maria asked, \"Are you tired today?\""
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does register refer to in language?",
+            "options": [
+              "The topic of a piece of writing",
+              "The level of formality in language",
+              "The number of words in a sentence",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is verbal irony?",
+            "options": [
+              "Saying something but meaning the opposite of what is said",
+              "Using a very formal tone in casual conversation",
+              "Repeating the same word for emphasis",
+              "Describing a scene using the five senses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning and Algebra: Line Graphs and Analyzing Trends Over Time; Patterning and Algebra: Representing Patterns with Tables, Graphs, and Expressions; Review: Integers, Data, Geometry, and Patterning (Days 91-99); Number Sense: Prime and Composite Numbers.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a line graph typically show?",
+            "options": [
+              "A concept unrelated to graphs",
+              "The colours of different categories",
+              "Only a single number with no time element",
+              "How a quantity changes over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these numbers is prime?",
+            "options": [
+              "21",
+              "27",
+              "17",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one way a pattern can be represented, besides a list of numbers.",
+            "options": [
+              "A grocery list",
+              "A dictionary definition",
+              "A table of values",
+              "A concept unrelated to patterning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers is NOT an integer?",
+            "options": [
+              "-5",
+              "0",
+              "3.5",
+              "12"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Wind Energy and Turbine Design; Science: Biomimicry: Nature-Inspired Technology and Design; Review: Body Systems, Biomes, and Sustainability (Days 91-99); Science: The Lymphatic System: Fighting Infection and Maintaining Fluid Balance.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do wind turbines convert into electricity?",
+            "options": [
+              "A concept unrelated to renewable energy",
+              "The heat energy of sunlight",
+              "The chemical energy of coal",
+              "The kinetic energy of moving air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one main function of the lymphatic system?",
+            "options": [
+              "Pumping blood through the arteries",
+              "Breaking down food in the stomach",
+              "Helping fight infection and balancing body fluids",
+              "Sending electrical signals from the brain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is biomimicry?",
+            "options": [
+              "The practice of studying nature\u2019s designs to solve human engineering challenges",
+              "A process of creating entirely artificial materials with no natural inspiration",
+              "A method of destroying natural habitats for research",
+              "A concept unrelated to science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a biome?",
+            "options": [
+              "A single animal species found only in one country",
+              "A large natural region defined by its climate and the plants and animals living there",
+              "A man-made structure for growing crops indoors",
+              "A tool used to measure body temperature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of Non-Governmental Organizations in Global Aid; Social Studies: Canada\u2019s Role in International Development and Foreign Aid; Review: Canadian Government, Global Heritage, and International Cooperation (Days 91-99); Social Studies: Credit Unions and Cooperative Banking in Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these is an example of how an NGO might help during a global crisis?",
+            "options": [
+              "Providing emergency food and medical supplies",
+              "Collecting income tax",
+              "Enforcing international trade tariffs",
+              "Printing a country's currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes a credit union different from a typical bank?",
+            "options": [
+              "It is owned by and operated for the benefit of its members",
+              "It only allows businesses to open accounts, not individuals",
+              "It is directly run by the federal government",
+              "It does not allow customers to save or borrow money"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one purpose of Canada\u2019s international development assistance?",
+            "options": [
+              "To increase poverty in other countries",
+              "To support other countries facing challenges like poverty or health care needs",
+              "A concept unrelated to Canadian foreign policy",
+              "To prevent any country from receiving help"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of naming a site a UNESCO World Heritage Site?",
+            "options": [
+              "To transfer ownership of the site to another country",
+              "To recognize and help protect places of outstanding cultural or natural importance",
+              "To close the site permanently to visitors",
+              "To mark the site as available for new construction"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Identifying Main Idea and Supporting Details; Writing: Writing a Book Review; Vocabulary: Homophones and Commonly Confused Word Pairs; Media Literacy: Analyzing Memes and Internet Culture.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the main idea of a text?",
+            "options": [
+              "A concept unrelated to reading",
+              "A minor detail mentioned only once",
+              "The title of the text only",
+              "The central point the text is making"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of words is an example of homophones?",
+            "options": [
+              "their and there",
+              "happy and joyful",
+              "run and running",
+              "big and small"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a book review typically include?",
+            "options": [
+              "Only a list of characters\u2019 names",
+              "A word-for-word copy of the book\u2019s first chapter",
+              "A concept unrelated to writing",
+              "A summary, an evaluation, and the reviewer\u2019s supported opinion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When analyzing memes as part of media literacy, what should a reader pay attention to?",
+            "options": [
+              "Only the number of likes the meme received",
+              "How the image and text work together to quickly spread an idea or opinion",
+              "The exact pixel dimensions of the image",
+              "Whether the meme was posted in the morning or evening"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Rounding Decimals to a Given Place Value; Geometry: The Angle Sum of a Triangle; Geometry: Area of a Trapezoid; Data Management: Constructing and Interpreting Histograms.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When rounding, if the digit to the right is 5 or greater, what do you do to the digit being rounded?",
+            "options": [
+              "Round it down by one",
+              "Round it up by one",
+              "A concept unrelated to rounding",
+              "Leave it exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A trapezoid has parallel sides of 6 cm and 10 cm and a height of 4 cm. What is its area?",
+            "options": [
+              "20 square cm",
+              "32 square cm",
+              "40 square cm",
+              "64 square cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do the three interior angles of any triangle always add up to?",
+            "options": [
+              "180 degrees",
+              "90 degrees",
+              "270 degrees",
+              "360 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a histogram show about a set of data?",
+            "options": [
+              "The exact order events happened in",
+              "How frequently data values fall within different ranges",
+              "The geographic location of each data point",
+              "A comparison of only two categories"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Tides: How the Moon and Sun Affect Earth\u2019s Oceans; Science: Comets and Asteroids; Science: Coral Reefs: Biodiversity Hotspots Under Threat; Science: Cloud Types and Reading the Sky for Weather Clues.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are tides?",
+            "options": [
+              "The regular rise and fall of ocean water levels",
+              "A type of ocean current unrelated to gravity",
+              "A permanent rise in sea level",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are coral reefs often called biodiversity hotspots?",
+            "options": [
+              "They contain almost no living organisms",
+              "They support an enormous variety of marine life for their size",
+              "They are found only in cold polar oceans",
+              "They are entirely made of plastic waste"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "A concept unrelated to space",
+              "Only solid rock",
+              "Ice and dust",
+              "Only metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which cloud type is most closely associated with thunderstorms?",
+            "options": [
+              "Cirrus",
+              "Stratus",
+              "Cumulonimbus",
+              "Cumulus"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Land Acknowledgements: Purpose and Practice; Social Studies: Urban and Rural Communities in Canada; Social Studies: The Group of Seven and Canadian Artistic Identity; Social Studies Review: World Empires, Canadian Landmarks, and Explorers.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A map showing provincial borders",
+              "A legal document transferring land ownership",
+              "A statement recognizing the traditional Indigenous territory of a place"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Group of Seven is best known for which contribution to Canadian culture?",
+            "options": [
+              "Composing Canada's national anthem",
+              "Painting Canadian landscapes in a distinct national style",
+              "Writing Canada's constitution",
+              "Founding Canada's first university"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an urban community?",
+            "options": [
+              "A sparsely populated farming area",
+              "A community with no people at all",
+              "A densely populated area, such as a city",
+              "A concept unrelated to Canadian geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which explorer founded the city of Quebec and is known as the \"Father of New France\"?",
+            "options": [
+              "Jacques Cartier",
+              "Samuel de Champlain",
+              "Henry Hudson",
+              "John Cabot"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Possessive Nouns and Apostrophe Use; Oral Communication: Effective Interviewing Techniques; Reading: Sequencing Events and Chronological Order; Writing: Writing a Diary or Journal Entry.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a possessive noun show?",
+            "options": [
+              "A question",
+              "Ownership",
+              "A concept unrelated to grammar",
+              "A negative statement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word signals that an event happens after something else, showing chronological order?",
+            "options": [
+              "Meanwhile",
+              "Firstly",
+              "Afterward",
+              "Similarly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of questions should be prepared in advance for an effective interview?",
+            "options": [
+              "Open-ended questions",
+              "No questions should ever be prepared in advance",
+              "A concept unrelated to oral communication",
+              "Questions that can only be answered with yes or no"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When writing a diary entry about your day, which point of view and tense are most commonly used?",
+            "options": [
+              "First person, past tense (\"I went to the park\")",
+              "Third person, future tense (\"She will go to the park\")",
+              "Second person, present tense (\"You go to the park\")",
+              "First person, imperative mood (\"Go to the park\")"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Understanding Currency Exchange Rates; Ratios in Recipes: Scaling Quantities Up and Down; Rate Problems: Speed, Distance, and Time; Probability: Complementary Events.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a currency exchange rate tell you?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "How much one country\u2019s currency is worth in terms of another",
+              "The exact price of every item in a store",
+              "The total population of a country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 1 US dollar equals 1.35 Canadian dollars, how many Canadian dollars would you get for 20 US dollars?",
+            "options": [
+              "27 Canadian dollars",
+              "14.81 Canadian dollars",
+              "21.35 Canadian dollars",
+              "35 Canadian dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to scale a recipe?",
+            "options": [
+              "To multiply every ingredient amount by the same ratio to change the number of servings",
+              "A concept unrelated to ratios",
+              "To remove all measurements from the recipe",
+              "To change only one ingredient while keeping the others the same"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A car travels 180 kilometres in 3 hours at a constant speed. What is its speed?",
+            "options": [
+              "60 km/h",
+              "540 km/h",
+              "6 km/h",
+              "183 km/h"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Tsunamis: Causes and Effects; Science: Bird Migration: Navigation and Survival; Science: Air Pollution and Clean Air Initiatives; Science: Composting: Turning Waste into Soil Nutrients.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a tsunami?",
+            "options": [
+              "A series of powerful ocean waves",
+              "A concept unrelated to Earth science",
+              "A slow-moving glacier",
+              "A type of desert sandstorm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common cause of air pollution in cities?",
+            "options": [
+              "Vehicle exhaust",
+              "Ocean currents",
+              "Photosynthesis",
+              "Earthquakes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many bird species migrate?",
+            "options": [
+              "Migration serves no purpose for birds",
+              "A concept unrelated to bird behaviour",
+              "To find better food sources and nesting conditions",
+              "To avoid ever having to build a nest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do decomposers do during the composting process?",
+            "options": [
+              "Break down organic waste into nutrient-rich soil",
+              "Freeze the waste to preserve it",
+              "Convert waste into plastic",
+              "Remove all water from the waste instantly"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Residential Schools and the Path to Reconciliation; Social Studies: The World Health Organization and Global Health; Social Studies: Arctic Sovereignty and a Changing North; Social Studies: The Trans-Canada Highway and National Infrastructure.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What were residential schools designed to do?",
+            "options": [
+              "Provide extra holidays for students",
+              "Teach all students about Indigenous traditions",
+              "Separate Indigenous children from their families and cultures",
+              "Build new roads across Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does 'Arctic sovereignty' refer to for Canada?",
+            "options": [
+              "Canada's authority and control over its Arctic territory and waters",
+              "A treaty that gives away Arctic land to other countries",
+              "A festival celebrated in the Arctic",
+              "A type of Arctic wildlife"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the World Health Organization an agency of?",
+            "options": [
+              "The United Nations",
+              "A private for-profit company",
+              "A concept unrelated to global health",
+              "A single country\u2019s government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was a major purpose of building the Trans-Canada Highway?",
+            "options": [
+              "To connect communities across Canada from coast to coast",
+              "To replace all railways in Canada",
+              "To serve as a border with the United States",
+              "To provide a route only for bicycles"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Grammar, Reading, and Media Literacy (Days 101-109); Poetry: Writing a Haiku; Reading: Onomatopoeia and Alliteration as Sound Devices; Writing: Epistolary Writing \u2014 Telling a Story Through Letters.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does direct speech do?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Removes all punctuation from a sentence",
+              "Reports a speaker\u2019s exact words, usually in quotation marks",
+              "Changes a sentence into a question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains an example of onomatopoeia?",
+            "options": [
+              "The bees buzzed around the flower.",
+              "The bees flew around the flower.",
+              "The bees landed on the flower.",
+              "The bees pollinated the flower."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many lines does a haiku have?",
+            "options": [
+              "Three",
+              "Two",
+              "Four",
+              "Five"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines an epistolary story?",
+            "options": [
+              "It is told through a series of letters or written correspondence",
+              "It has no characters at all",
+              "It is written entirely in rhyme",
+              "It can only be based on a true event"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Number Sense, Geometry, Data, and Probability (Days 101-109); Probability: Calculating Simple Probability as a Fraction; Patterning: Algebraic Expressions with a Variable; Number Sense: Absolute Value.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a prime number?",
+            "options": [
+              "A number that is always even",
+              "A number with exactly two factors, 1 and itself",
+              "A number with more than two factors",
+              "A concept unrelated to number sense"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x = 5, what is the value of the expression 3x + 2?",
+            "options": [
+              "17",
+              "15",
+              "10",
+              "32"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the probability, as a fraction, of rolling a 4 on a 6-sided die?",
+            "options": [
+              "1 sixth",
+              "1 half",
+              "4 sixths",
+              "1 fourth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the absolute value of -8?",
+            "options": [
+              "8",
+              "-8",
+              "0",
+              "16"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Human Body, Earth Science, and Ecology (Days 101-109); The Human Ear and How We Hear; Antibiotics \u2014 How They Fight Bacterial Infections; Nutrition and the Food Groups.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the lymphatic system collect from body tissues?",
+            "options": [
+              "A concept unrelated to the human body",
+              "Excess fluid",
+              "Only bone cells",
+              "Only hair follicles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do antibiotics treat?",
+            "options": [
+              "Bacterial infections",
+              "Viral infections like the common cold",
+              "Broken bones",
+              "Vision problems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the ear collect and convert into signals?",
+            "options": [
+              "Chemical signals",
+              "Heat energy",
+              "Sound vibrations",
+              "Light waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which food group is especially important for muscle growth and repair?",
+            "options": [
+              "Protein foods, such as meat, beans, and eggs",
+              "Sugary snacks",
+              "Carbonated soft drinks",
+              "Candy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: World History, Canadian Identity, and Global Issues (Days 101-109); Social Studies: The RCMP \u2014 Canadas National Police Force; Social Studies: The Census \u2014 Counting Everyone in Canada; Social Studies: Sister Cities \u2014 Twin Communities Around the World.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Achaemenid Empire?",
+            "options": [
+              "A modern country in North America",
+              "A concept unrelated to ancient history",
+              "One of the largest empires in the ancient world, centred in ancient Persia",
+              "A small city-state with no influence beyond its borders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of the Canadian census?",
+            "options": [
+              "To collect information about the population, such as age and household size",
+              "To choose the next prime minister",
+              "To assign jobs to citizens",
+              "To determine the weather forecast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Regional Canadian Municipal Patrol",
+              "Royal Canadian Medical Program",
+              "Real Canadian Mail Post",
+              "Royal Canadian Mounted Police"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a 'sister city'?",
+            "options": [
+              "A city that forms a special friendship partnership with a city in another country",
+              "A city located within the same province",
+              "A nickname for a country's capital city",
+              "A city that has no government"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Frame Narratives \u2014 A Story Within a Story; Writing: Writing a Podcast Script; Writing: Writing a Straight News Article (The Inverted Pyramid); Reading: Using Graphic Organizers to Plan Writing.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a frame narrative?",
+            "options": [
+              "A grammar exercise",
+              "A single-page poem",
+              "A story that contains another story inside it",
+              "A story with no beginning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the 'inverted pyramid' structure of a news article, where does the most important information go?",
+            "options": [
+              "At the very beginning of the article",
+              "At the very end of the article",
+              "Only in a footnote",
+              "It is spread evenly throughout the article"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a podcast script used for?",
+            "options": [
+              "Only for silent reading",
+              "For a printed newspaper",
+              "Organizing spoken content for an audio recording",
+              "For a math worksheet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the purpose of a graphic organizer when planning a piece of writing?",
+            "options": [
+              "To visually organize ideas before writing",
+              "To replace the need for writing altogether",
+              "To grade the finished writing",
+              "To print the final draft"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measurement: Converting Between Imperial and Metric Units; Data Management: Identifying Outliers in a Data Set; Review: Decimals, Fractions, and Data (Days 81-89); Financial Literacy: How Credit Cards and Interest Work.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Which of these is an imperial unit of length?",
+            "options": [
+              "Kilometres",
+              "Metres",
+              "Inches",
+              "Centimetres"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "About how many centimetres are in 10 inches, using 1 inch is about 2.5 cm?",
+            "options": [
+              "25 cm",
+              "12.5 cm",
+              "4 cm",
+              "100 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an outlier?",
+            "options": [
+              "The total of all values",
+              "The most common value",
+              "The middle value",
+              "A data value much higher or lower than the rest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you do not pay off your full credit card balance by the due date, what does the company typically charge you?",
+            "options": [
+              "Interest on the remaining balance",
+              "A free bonus reward",
+              "Nothing extra",
+              "A tax refund"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Owls \u2014 Adaptations for Nighttime Hunting; Bats and Echolocation; Science: Desert Survival Strategies; Sleep \u2014 Why Our Bodies and Brains Need Rest.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "When are owls typically active?",
+            "options": [
+              "Never",
+              "Only underwater",
+              "At night",
+              "Only at noon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do bats use echolocation to find prey in the dark?",
+            "options": [
+              "They emit sound waves and listen for the echoes that bounce back",
+              "They rely only on their sense of smell",
+              "They see clearly in complete darkness like most mammals",
+              "They follow scent trails left by other bats"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes bats unique among mammals?",
+            "options": [
+              "They lay eggs",
+              "They live underwater",
+              "They have no fur",
+              "They are the only mammals that truly fly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an adaptation that helps some desert animals survive extreme daytime heat?",
+            "options": [
+              "Being active mainly at night (nocturnal) to avoid the daytime heat",
+              "Growing thick fur year-round regardless of temperature",
+              "Needing to drink large amounts of water constantly",
+              "Living only near large lakes and rivers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Terry Fox \u2014 A Canadian Hero and His Marathon of Hope; Social Studies: The Franklin Expedition \u2014 Arctic Exploration History; Social Studies: The History of Canadian Currency; Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What did Terry Fox do to raise money for cancer research?",
+            "options": [
+              "He ran across much of Canada",
+              "He wrote a book",
+              "He painted a mural",
+              "He built a hospital himself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What has appeared on Canadian currency throughout its history to represent the country's identity?",
+            "options": [
+              "Portraits of monarchs and important Canadian figures",
+              "Only pictures of foreign leaders",
+              "Only blank designs with no images",
+              "Advertisements for private companies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Franklin Expedition trying to do?",
+            "options": [
+              "Navigate a route through the Arctic",
+              "Sail across the Pacific",
+              "Climb a mountain range",
+              "Explore the desert"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who were 'freedom seekers' in the context of Canadian history?",
+            "options": [
+              "Enslaved people who escaped to Canada seeking freedom, often via the Underground Railroad",
+              "Tourists visiting Canada's national parks",
+              "Government workers looking for new jobs",
+              "Athletes competing in international games"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Texting Language vs Formal Writing; Writing: Writing a Short Screenplay Scene; Language Review: Poetry, Story Forms, and Writing Formats; Grammar: Subject-Verb Agreement.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is texting language often characterized by?",
+            "options": [
+              "Long, complex sentences only",
+              "Strict formal grammar rules",
+              "Informal abbreviations and shortcuts",
+              "No communication at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence shows correct subject-verb agreement?",
+            "options": [
+              "The group of students is studying for the test.",
+              "The group of students are studying for the test.",
+              "The group of students am studying for the test.",
+              "The group of students be studying for the test."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a screenplay use to describe where and when a scene happens?",
+            "options": [
+              "A scene heading",
+              "A footnote",
+              "A bibliography",
+              "A glossary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would be most appropriate in formal writing rather than a text message?",
+            "options": [
+              "\"I would appreciate your feedback at your earliest convenience.\"",
+              "\"ur feedback pls asap\"",
+              "\"k thx\"",
+              "\"lol ok sounds good\""
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Proportional Reasoning: Solving Proportions with Cross-Multiplication; Fractions: Subtracting Mixed Numbers; Financial Literacy: Understanding Sales Tax (GST/HST); Number Sense: Negative Numbers in Everyday Contexts.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is cross-multiplication used for?",
+            "options": [
+              "Solving proportions to find an unknown value",
+              "Rounding decimals",
+              "Measuring angles",
+              "Adding fractions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An item costs $50 before tax, and the sales tax rate is 10%. How much tax is added?",
+            "options": [
+              "$5",
+              "$10",
+              "$50",
+              "$0.50"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3 and 3 fourths minus 1 and 1 fourth?",
+            "options": [
+              "3 and 2 fourths",
+              "1 and 2 fourths",
+              "2 and 4 fourths",
+              "2 and 2 fourths"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The temperature was -3 degrees Celsius in the morning and dropped another 4 degrees by night. What was the temperature at night?",
+            "options": [
+              "-7 degrees Celsius",
+              "-1 degree Celsius",
+              "1 degree Celsius",
+              "7 degrees Celsius"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: How a Battery Stores and Releases Energy; The Human Brain \u2014 Structure and Function; Science Review: The Human Body and Everyday Science; Science: Eclipses \u2014 Solar and Lunar.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of energy does a battery store?",
+            "options": [
+              "Light energy only",
+              "No energy at all",
+              "Chemical energy",
+              "Sound energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes a solar eclipse?",
+            "options": [
+              "The Moon passes between the Sun and Earth, blocking sunlight",
+              "The Earth passes between the Sun and the Moon",
+              "The Sun moves behind the Earth",
+              "Clouds completely cover the Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the brain often described as?",
+            "options": [
+              "A blood vessel",
+              "A type of muscle only",
+              "A digestive organ",
+              "The control centre of the nervous system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes a lunar eclipse?",
+            "options": [
+              "The Earth passes between the Sun and the Moon, casting a shadow on the Moon",
+              "The Moon passes directly in front of the Sun",
+              "The Moon stops orbiting Earth entirely",
+              "The Sun temporarily stops shining"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Elections Canada \u2014 Running Canadas Federal Elections; Social Studies: The Klondike Gold Rush; Social Studies Review: Canadian History, Government, and Institutions; Social Studies: Canadian National Symbols \u2014 Flag, Anthem, and Coat of Arms.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is Elections Canada?",
+            "options": [
+              "A television network that reports election results",
+              "A private company that sells voting machines",
+              "A group that only counts votes in one city",
+              "The independent federal agency responsible for organizing national elections"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is Canada's national anthem?",
+            "options": [
+              "\"O Canada\"",
+              "\"The Star-Spangled Banner\"",
+              "\"God Save the King\"",
+              "\"Advance Australia Fair\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did prospectors search for during the Klondike Gold Rush?",
+            "options": [
+              "Oil",
+              "Silver only",
+              "Diamonds",
+              "Gold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What colour is the maple leaf shown on the Canadian flag?",
+            "options": [
+              "Red",
+              "Blue",
+              "Green",
+              "Black"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Comparative and Superlative Adjectives; Writing: Writing a Limerick; Writing: Writing a Eulogy or Tribute; Vocabulary: Portmanteau Words and Blends.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a comparative adjective do?",
+            "options": [
+              "Describes only one thing with no comparison",
+              "Replaces a noun entirely",
+              "Compares two things",
+              "Compares three or more things"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a superlative adjective?",
+            "options": [
+              "This backpack is heavier than that one.",
+              "She is the tallest student in the class.",
+              "He runs fast.",
+              "The two dogs are friendly."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many lines does a limerick have?",
+            "options": [
+              "Three",
+              "Five",
+              "Ten",
+              "Seven"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words is a portmanteau, formed by blending parts of two words together?",
+            "options": [
+              "brunch (breakfast + lunch)",
+              "cat",
+              "happiness",
+              "notebook"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Equations with an Unknown Value; Number Sense: Introduction to Percent; Number Sense: Order of Operations; Number Sense: Converting Fractions to Repeating and Terminating Decimals.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the value of n in n plus 5 equals 12?",
+            "options": [
+              "7",
+              "17",
+              "5",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the correct order of operations, what is the value of 3 + 4 \u00d7 2?",
+            "options": [
+              "11",
+              "14",
+              "20",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does percent mean?",
+            "options": [
+              "Out of ten",
+              "Out of one",
+              "Out of one thousand",
+              "Out of one hundred"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these fractions converts to a repeating decimal?",
+            "options": [
+              "1/3",
+              "1/4",
+              "1/2",
+              "1/5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Comets, Asteroids, and Meteors; Air Pressure and How It Affects Weather; Keystone Species and Their Role in Ecosystems; Pulleys \u2014 A Simple Machine for Lifting.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one key difference between an asteroid and a meteor?",
+            "options": [
+              "An asteroid orbits the Sun in space; a meteor is what we see burning up in Earth's atmosphere",
+              "An asteroid is made of ice; a meteor is made of rock",
+              "A meteor orbits the Sun; an asteroid never enters the atmosphere",
+              "There is no difference between them"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species whose impact on its ecosystem is much larger than its abundance would suggest, so its removal changes the ecosystem dramatically",
+              "The most abundant species in an ecosystem",
+              "A species that lives only in water and never on land",
+              "A species that does not interact with any other organisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is air pressure?",
+            "options": [
+              "The force exerted by the weight of air in the atmosphere",
+              "The speed at which wind blows",
+              "A measurement of humidity only",
+              "The temperature of the air only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a pulley?",
+            "options": [
+              "To change the direction of a force and make lifting a load easier",
+              "To generate electricity from motion",
+              "To measure changes in air pressure",
+              "To convert chemical energy into heat"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Persons Case \u2014 Winning Legal Recognition for Women in Canada; Social Studies: Canadas Points-Based Immigration System; Social Studies: The St. Lawrence Seaway \u2014 A Vital Trade Route; Social Studies Review: Ancient Civilizations, Geography, and Government.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What did the Persons Case establish?",
+            "options": [
+              "That women are legally recognized as persons under Canadian law",
+              "A new set of provincial boundaries",
+              "That only men could serve in government",
+              "A change to Canadas national currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of the St. Lawrence Seaway?",
+            "options": [
+              "A system of canals and locks that lets large ships travel between the Atlantic Ocean and the Great Lakes",
+              "A mountain range located in Quebec",
+              "A type of Canadian currency used in trade",
+              "A national park protecting wildlife"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Canadas points-based immigration system evaluate?",
+            "options": [
+              "Nothing related to a persons skills or background",
+              "Only a persons country of origin",
+              "Only a persons age",
+              "Factors such as education, work experience, language ability, and age"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these was a common feature of many ancient civilizations, such as those in Mesopotamia and Egypt?",
+            "options": [
+              "They developed along fertile river valleys",
+              "They had no form of government at all",
+              "They existed entirely underground",
+              "They avoided farming completely"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Evaluating Online Product Reviews and Testimonials; Oral Communication: Impromptu Speaking; Reading: Understanding Analogies; Reading: Making Text-to-Self, Text-to-Text, and Text-to-World Connections; Language Review: Grammar, Poetic Forms, and Reading Strategies.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What should readers consider when evaluating an online product review?",
+            "options": [
+              "The reviewers credibility and how detailed the feedback is",
+              "The colour of the product shown in the review",
+              "Whether the review uses capital letters",
+              "Only the star rating and nothing else"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the analogy \"Bird is to nest as bee is to ___,\" which word best completes it?",
+            "options": [
+              "hive",
+              "flower",
+              "sky",
+              "wing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is impromptu speaking?",
+            "options": [
+              "Speaking on a topic with little or no advance preparation",
+              "Speaking only after weeks of preparation",
+              "A type of written essay",
+              "Reading a fully written speech word for word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A reader who says, \"This story reminds me of another book I read last year,\" is making what kind of connection?",
+            "options": [
+              "A text-to-text connection",
+              "A text-to-self connection",
+              "A text-to-world connection",
+              "No connection at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Translating Word Problems into Algebraic Expressions; Data Management: Calculating Weighted Averages; Data Management: Cumulative Frequency Tables and Graphs; Number Sense: Reading and Writing Large Numbers in the Millions and Billions; Number Sense: Least Common Multiple and Greatest Common Factor.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in translating a word problem into an algebraic expression?",
+            "options": [
+              "Identifying the unknown quantity and assigning it a variable",
+              "Immediately solving for a numerical answer",
+              "Rewriting the problem without any numbers",
+              "Ignoring any numbers mentioned in the problem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the greatest common factor (GCF) of 12 and 18?",
+            "options": [
+              "6",
+              "36",
+              "3",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a weighted average take into account that a simple average does not?",
+            "options": [
+              "Only the smallest value in a data set",
+              "Nothing different from a simple average",
+              "Only the largest value in a data set",
+              "The different levels of importance, or weight, given to each value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the number 4,500,000 read in words?",
+            "options": [
+              "Four million, five hundred thousand",
+              "Four hundred fifty thousand",
+              "Forty-five million",
+              "Four billion, five hundred thousand"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Metamorphosis \u2014 Life Cycles of Insects and Amphibians; Bioaccumulation in Food Chains; Geothermal Energy \u2014 Heat from the Earth; Science: How a Generator Makes Electricity; Science Review: Energy, Space, and Ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is metamorphosis?",
+            "options": [
+              "A process in which an animal never changes throughout its life",
+              "A process found only in plants",
+              "A type of hibernation",
+              "A process in which an animal undergoes dramatic physical changes as it develops"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is geothermal energy?",
+            "options": [
+              "Heat energy that comes from within the Earth",
+              "Energy produced by burning coal",
+              "Energy captured from ocean waves",
+              "Energy produced only by wind turbines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is bioaccumulation?",
+            "options": [
+              "A process with no connection to food chains",
+              "The buildup of harmful substances in an organisms body over time",
+              "The rapid removal of pollutants from an ecosystem",
+              "A process that only affects plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organisms form the base of most food chains in an ecosystem?",
+            "options": [
+              "Producers, such as plants, that make their own food",
+              "Predators that hunt other animals",
+              "Decomposers that break down dead material",
+              "Scavengers that eat leftover carcasses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Canadian Pacific Railway: Building the Nation; Types of Maps: Political, Physical, and Thematic; Social Studies: Canadas National Sport \u2014 Lacrosse and Hockey; Canada's Major Watersheds and River Systems; Social Studies Review: Canadian History, Identity, and Institutions.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was one condition British Columbia set for joining Confederation in 1871?",
+            "options": [
+              "Free postal service for 50 years",
+              "Its own army",
+              "A separate currency",
+              "A promise of a railway linking it to the rest of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a watershed?",
+            "options": [
+              "An area of land where all the water drains into a common river, lake, or other body of water",
+              "A large canal built entirely by machines",
+              "A type of Canadian government building",
+              "A boundary line that separates two provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of map would best show the borders between Canada's provinces?",
+            "options": [
+              "Physical map",
+              "Political map",
+              "Population map",
+              "Climate map"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are Canada's two official national sports?",
+            "options": [
+              "Lacrosse (summer) and hockey (winter)",
+              "Soccer and basketball",
+              "Baseball and tennis",
+              "Curling and skiing"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Relative Pronouns and Relative Clauses; Poetry: Writing Free Verse Poetry; Vocabulary: Eponyms \u2014 Words Named After People; Writing: Writing a Public Service Announcement (PSA) Script; Grammar: Correlative Conjunctions.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a relative clause do?",
+            "options": [
+              "Removes the need for any punctuation",
+              "Replaces the subject of a sentence entirely",
+              "Always begins a brand new sentence",
+              "Adds extra information about a noun in the main sentence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is an eponym, a word created from a person's name?",
+            "options": [
+              "sandwich",
+              "chair",
+              "window",
+              "notebook"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is free verse poetry?",
+            "options": [
+              "A five-line poem with a set rhythm",
+              "Poetry that does not follow a fixed rhyme scheme or meter",
+              "Poetry written only about nature",
+              "Poetry that must always rhyme in a strict pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a pair of correlative conjunctions?",
+            "options": [
+              "Neither the teacher nor the students were ready.",
+              "The teacher and but the students were ready.",
+              "Neither the teacher the students were ready.",
+              "Both the teacher or the students were ready."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Surface Area of Pyramids; Number Sense: Multiplying and Dividing Mixed Numbers; Algebra: Evaluating Algebraic Expressions by Substitution; Geometry: Vertices, Edges, and Faces of 3D Shapes (Eulers Formula); Probability: Odds in Favour and Odds Against.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is surface area?",
+            "options": [
+              "The total area of all the flat surfaces that cover a three-dimensional shape",
+              "A measurement used only for two-dimensional shapes",
+              "The distance around the base of a shape only",
+              "The space enclosed inside a three-dimensional shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A cube has 8 vertices and 12 edges. Using Euler's Formula (V \u2212 E + F = 2), how many faces does it have?",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be done before multiplying two mixed numbers?",
+            "options": [
+              "Ignore the fractional parts entirely",
+              "Add the whole number parts together first",
+              "Convert each mixed number into an improper fraction",
+              "Round each mixed number to the nearest whole number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A bag contains 3 red marbles and 7 blue marbles. What are the odds in favour of drawing a red marble?",
+            "options": [
+              "3 to 7",
+              "3 to 10",
+              "7 to 3",
+              "10 to 3"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Sun \u2014 Our Closest Star and Source of Energy; Generators \u2014 How Motion Creates Electricity; The Nitrogen Cycle and Its Role in Ecosystems; Hurricanes and Tornadoes \u2014 Extreme Weather Events; Earths Layers \u2014 Crust, Mantle, and Core.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the Sun?",
+            "options": [
+              "A frozen moon orbiting Earth",
+              "A large rocky planet with no light of its own",
+              "A massive ball of hot, glowing gas at the centre of our solar system",
+              "An artificial satellite launched by humans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the nitrogen cycle?",
+            "options": [
+              "The process by which nitrogen moves between the atmosphere, soil, and living organisms",
+              "The process by which water evaporates and falls as rain",
+              "The process by which rocks form under pressure",
+              "The process by which the Sun produces light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a generator convert into electrical energy?",
+            "options": [
+              "Mechanical motion",
+              "Sound waves",
+              "Sunlight only",
+              "Chemical energy stored in a battery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which layer of the Earth is located directly beneath the crust?",
+            "options": [
+              "Mantle",
+              "Outer core",
+              "Inner core",
+              "Atmosphere"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Primary, Secondary, and Tertiary Industries in Canada; The Great Lakes: Canada's Freshwater Treasure; Social Studies: Banting and Best \u2014 The Discovery of Insulin in Canada; Latitude and Longitude: Finding Places on a Map; Time Zones Across Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a primary industry?",
+            "options": [
+              "Running a bank",
+              "Teaching school",
+              "Mining copper ore",
+              "Selling insurance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did Banting and Best discover in Canada?",
+            "options": [
+              "Insulin, a treatment for diabetes",
+              "Penicillin",
+              "The vaccine for polio",
+              "X-rays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many Great Lakes are there in total?",
+            "options": [
+              "10",
+              "7",
+              "5",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do lines of latitude measure?",
+            "options": [
+              "Distance north or south of the equator",
+              "Distance east or west of the prime meridian",
+              "The time zone of a location",
+              "The elevation of a location above sea level"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Editorial Cartoons; Oral Communication: Group Discussion and Collaborative Talk Norms; Writing: Show, Dont Tell \u2014 Bringing Scenes to Life; Reading: Understanding Cliches and Overused Language.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of an editorial cartoon?",
+            "options": [
+              "To provide a purely factual weather report",
+              "To tell a lengthy fictional story",
+              "To express an opinion about a current issue",
+              "To advertise a product for sale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A writer wants to use the 'show, don't tell' technique to describe a nervous character. Which sentence best demonstrates this technique?",
+            "options": [
+              "Sarah was very nervous before her speech.",
+              "Sarah's hands trembled and her voice cracked as she stepped up to the microphone.",
+              "Sarah felt nervous the whole time.",
+              "The teacher said Sarah looked nervous."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a shared norm that supports effective group discussion?",
+            "options": [
+              "Listening actively and taking turns",
+              "Speaking only about unrelated topics",
+              "Interrupting whenever you have a new idea",
+              "Ignoring what other speakers say"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following phrases is a cliche?",
+            "options": [
+              "The moss-covered stone sat quietly by the stream.",
+              "As busy as a bee",
+              "The librarian reorganized the shelves.",
+              "A gentle breeze moved through the orchard."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Identifying Outliers in a Data Set; Measurement: Volume of Composite Rectangular Prisms; Geometry: Constructing Perpendicular and Angle Bisectors; Measurement: Converting Between Units of Area.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How does a single extreme outlier usually affect the mean (average) of a small data set?",
+            "options": [
+              "It can pull the mean noticeably higher or lower",
+              "It always makes the mean exactly zero",
+              "It has no effect on the mean at all",
+              "It only affects the median, never the mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rectangle has an area of 3 square metres. How many square centimetres is this?",
+            "options": [
+              "300 cm^2",
+              "3,000 cm^2",
+              "30,000 cm^2",
+              "300,000 cm^2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do you find the volume of a composite shape made of rectangular prisms?",
+            "options": [
+              "Multiply all side lengths of the whole shape at once",
+              "Break it into prisms, find each volume, and add them",
+              "Guess the volume",
+              "Measure only the height"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When constructing an angle bisector with a compass and straightedge, what is true about the resulting ray?",
+            "options": [
+              "It divides the angle into two equal angles.",
+              "It is always perpendicular to one of the original rays.",
+              "It doubles the size of the original angle.",
+              "It only works for right angles."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Inclined Planes and Wedges \u2014 Simple Machines That Reduce Effort; Separating Mixtures \u2014 Filtration, Evaporation, and Distillation; Bioindicators \u2014 Using Species to Measure Environmental Health; 3D Printing and Modern Manufacturing Technology.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an inclined plane?",
+            "options": [
+              "A machine made only of gears",
+              "A lever with a fixed pivot point",
+              "A wheel connected to a rope or cable",
+              "A flat, sloped surface that reduces the force needed to raise an object"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A wedge is a simple machine most similar to two of which shape joined together?",
+            "options": [
+              "Two inclined planes joined back to back",
+              "Two levers joined at a pivot",
+              "Two wheels connected by an axle",
+              "Two pulleys connected by a rope"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does filtration separate?",
+            "options": [
+              "Two gases from each other",
+              "Colours from a mixture",
+              "Two liquids with the same boiling point",
+              "Solids from liquids"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists monitor certain frog or lichen species living in an ecosystem?",
+            "options": [
+              "Because these species act as bioindicators of environmental health",
+              "Because these species are the only source of food in every ecosystem",
+              "Because these species cannot survive in any environment",
+              "Because these species are used to generate renewable energy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada's Seven Physical Regions; Fair Trade: From Farm to Store Shelf; The Winnipeg General Strike of 1919; Canada's Boreal Forest and Why It Matters.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which physical region covers the largest area of Canada and is known for its ancient rock, lakes, and forests?",
+            "options": [
+              "Interior Plains",
+              "Great Lakes-St. Lawrence Lowlands",
+              "Canadian Shield",
+              "Arctic Lowlands"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the Winnipeg General Strike take place?",
+            "options": [
+              "1919",
+              "1929",
+              "1867",
+              "1945"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of the Fair Trade movement?",
+            "options": [
+              "To ban international trade",
+              "To ensure farmers and workers in developing countries receive fair prices and working conditions",
+              "To increase taxes on imported goods",
+              "To make products cheaper for stores"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a key characteristic of Canada's boreal forest?",
+            "options": [
+              "It is made up mostly of coniferous trees like spruce and pine",
+              "It only grows in Canada's southernmost regions",
+              "It receives no snowfall throughout the year",
+              "It has no wildlife living within it"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Grammar, Poetry, and Media Literacy; Grammar: Interjections and Exclamatory Sentences; Reading: Distinguishing Theme from Topic; Writing: Writing an Acrostic Poem.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "In an acrostic poem, what do the first letters of each line usually spell out?",
+            "options": [
+              "A word or phrase related to the poem's topic",
+              "The poet's favorite color",
+              "A random string of letters",
+              "The rhyme scheme"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of an exclamatory sentence?",
+            "options": [
+              "Watch out for that car!",
+              "Did you see that car?",
+              "Please watch for that car.",
+              "The car is parked outside."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an interjection?",
+            "options": [
+              "A word or phrase that expresses strong or sudden emotion",
+              "A verb that shows action",
+              "A pronoun that replaces a noun",
+              "A word that joins two clauses together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the difference between a story's theme and its topic?",
+            "options": [
+              "The topic is the subject the story is about, while the theme is the underlying message or lesson",
+              "The theme is simply the title of the story",
+              "The topic is always a single word, while the theme is a full paragraph",
+              "There is no difference; they mean exactly the same thing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Geometry, Number Sense, and Probability; Algebra: Combining Like Terms; Number Sense: Adding and Subtracting Mixed Numbers with Regrouping; Math Review: Number Sense, Geometry, and Measurement.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If you roll a standard six-sided die once, what is the probability of rolling an even number?",
+            "options": [
+              "1/2",
+              "1/3",
+              "1/6",
+              "2/3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify the expression: 5x + 3 + 2x - 1",
+            "options": [
+              "7x + 2",
+              "7x + 4",
+              "10x",
+              "3x + 2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are like terms?",
+            "options": [
+              "Terms that have the same variable raised to the same power",
+              "Any two terms found in the same expression",
+              "Terms that always have the same numerical coefficient",
+              "Terms that contain no variables at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5 1/4 minus 2 3/4?",
+            "options": [
+              "2 1/2",
+              "3 1/2",
+              "2 1/4",
+              "3"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Energy, Earth Systems, and Technology; Renewable Energy: Biomass and Biofuels; Ecosystems: Carrying Capacity and Population Limits; Simple Machines: The Wheel and Axle.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one key advantage of renewable energy sources like wind and solar power?",
+            "options": [
+              "They don't run out and produce little to no pollution",
+              "They are the cheapest to build no matter the location",
+              "They work at full power even with no wind or sunlight",
+              "They never need any maintenance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is meant by an ecosystem's 'carrying capacity'?",
+            "options": [
+              "The maximum population size an environment can sustainably support",
+              "The total number of species living in an ecosystem",
+              "The speed at which animals reproduce",
+              "The amount of rainfall an ecosystem receives each year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is biomass energy made from?",
+            "options": [
+              "Nuclear reactions inside a power plant",
+              "Only fossil fuels formed over millions of years",
+              "Wind passing through a turbine",
+              "Organic material such as wood, crop waste, or plant matter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a wheel and axle make work easier?",
+            "options": [
+              "A small force applied to the wheel creates a larger force at the axle, or vice versa, reducing the effort needed",
+              "It eliminates the need for any force at all",
+              "It only works underwater",
+              "It always doubles the weight of the object being moved"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Vimy Ridge and Canada's Role in the First World War; Social Studies: Residential Schools in Canada \u2014 A History; Social Studies: The Order of Canada \u2014 Honouring Outstanding Canadians; Social Studies: The Canadian Museum for Human Rights.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the Battle of Vimy Ridge take place?",
+            "options": [
+              "1939",
+              "1917",
+              "1945",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "One of Canada's highest civilian honours, awarded for outstanding achievement and service",
+              "A branch of the Canadian military",
+              "A law passed by the House of Commons",
+              "A political party in Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What were residential schools in Canada designed to do?",
+            "options": [
+              "Forcibly remove Indigenous children from their families and assimilate them",
+              "Teach Indigenous languages and cultural traditions",
+              "Offer free summer camps for Canadian families",
+              "Provide optional after-school tutoring for all Canadian children"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of the Canadian Museum for Human Rights?",
+            "options": [
+              "To explore the history and importance of human rights around the world",
+              "To display historic Canadian currency",
+              "To showcase Canadian wildlife specimens",
+              "To exhibit vehicles used in the World Wars"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Recognizing Sponsored Content and Native Advertising; Grammar: Compound-Complex Sentences; Oral Communication: Delivering an Elevator Pitch; Vocabulary: Understanding Jargon and Technical Vocabulary.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is sponsored content?",
+            "options": [
+              "Paid promotional material designed to look like a regular article or post",
+              "A government report on public spending",
+              "A personal diary entry shared online",
+              "A news story written without any payment involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of an elevator pitch?",
+            "options": [
+              "To quickly and persuasively summarize an idea or yourself in a very short amount of time",
+              "To give a detailed hour-long presentation",
+              "To read a script word for word without any eye contact",
+              "To ask the listener a series of unrelated questions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes a sentence compound-complex?",
+            "options": [
+              "It combines at least two independent clauses with at least one dependent clause",
+              "It always begins with a conjunction",
+              "It contains only a single independent clause",
+              "It never contains any punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is jargon?",
+            "options": [
+              "Special words or phrases used by people in a particular profession or field",
+              "Words that have no meaning at all",
+              "Slang used exclusively by young children",
+              "A type of punctuation mark"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions: Adding Fractions with Unlike Denominators; Geometry: Naming and Classifying Polygons (Pentagons Through Decagons); Data Management: Identifying Misleading Graphs; Data Management: Expressing Probability as a Percent.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What must fractions have before they can be added directly?",
+            "options": [
+              "The same numerator",
+              "The same sign",
+              "Different denominators",
+              "A common denominator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a common way that a graph can be made misleading?",
+            "options": [
+              "Starting the y-axis at a number other than zero to exaggerate differences",
+              "Including a clear title and labeled axes",
+              "Using consistent intervals on both axes",
+              "Showing all data points accurately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many sides does a pentagon have?",
+            "options": [
+              "Six",
+              "Five",
+              "Four",
+              "Eight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A bag contains 5 marbles: 2 red, 2 blue, and 1 green. What is the probability of picking a red marble, expressed as a percent?",
+            "options": [
+              "40%",
+              "20%",
+              "25%",
+              "50%"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Nuclear Energy: How Nuclear Power Plants Generate Electricity; Monarch Butterfly Migration: A Multi-Generation Journey; Deep-Sea Ecosystems and Hydrothermal Vents; The Science of Sunscreen and UV Radiation.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What process do nuclear power plants use to release energy?",
+            "options": [
+              "Fission, the splitting of uranium atoms",
+              "Evaporation of water in a cooling tower",
+              "Photosynthesis, the process plants use to make food",
+              "Combustion of large amounts of coal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the primary energy source for life around deep-sea hydrothermal vents, where sunlight cannot reach?",
+            "options": [
+              "Chemosynthesis using chemicals released from the vents",
+              "Photosynthesis using artificial light",
+              "Energy absorbed directly from ocean currents",
+              "Energy stored in volcanic rock formations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do monarch butterflies from eastern North America typically migrate to for the winter?",
+            "options": [
+              "The Arctic Ocean",
+              "Central Mexico",
+              "Northern Canada",
+              "Antarctica"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sunscreen primarily protect skin from?",
+            "options": [
+              "Harmful ultraviolet (UV) radiation from the sun",
+              "Extreme cold temperatures",
+              "Airborne pollen and allergens",
+              "Loud noise pollution"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Provinces and Territories \u2014 Capitals and Regions; Confederation Conferences: Charlottetown and Quebec; Social Studies: The Numbered Treaties \u2014 Agreements Between Canada and First Nations; Social Studies: The Canadian Coast Guard and Maritime Safety.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "How many provinces does Canada have?",
+            "options": [
+              "Ten",
+              "Thirteen",
+              "Twelve",
+              "Eight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was a major outcome of the Quebec Conference of 1864?",
+            "options": [
+              "Delegates drafted 72 resolutions that formed the basis for Canadian Confederation",
+              "Canada declared independence from Britain",
+              "The Canadian flag was officially adopted",
+              "Residential schools were formally closed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the original purpose of the Charlottetown Conference of 1864?",
+            "options": [
+              "To discuss uniting the Maritime colonies",
+              "To design the Canadian flag",
+              "To elect a prime minister",
+              "To declare war on the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What were the Numbered Treaties?",
+            "options": [
+              "A series of agreements between the Canadian government and First Nations concerning land and rights",
+              "Treaties between Canada and the United States about trade tariffs",
+              "Agreements that ended the First World War",
+              "Contracts between provinces about highway construction"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Letter to the Editor; Reading: Analyzing Setting and Its Effect on Mood; Language Review: Sentences, Style, and Reading Skills; Grammar: Reflexive and Intensive Pronouns; Reading: Identifying Cause and Effect in Nonfiction Texts.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of a letter to the editor?",
+            "options": [
+              "To report neutral sports scores with no opinion included",
+              "To summarize an entire novel chapter by chapter",
+              "To express an opinion on a current issue and influence public opinion",
+              "To provide a private message meant for only one reader"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a reflexive pronoun?",
+            "options": [
+              "She made herself a sandwich before leaving.",
+              "She made her a sandwich before leaving.",
+              "She made himself a sandwich before leaving.",
+              "She made themself a sandwich for him."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the setting of a story?",
+            "options": [
+              "The list of characters in the story",
+              "The time and place in which the story occurs",
+              "The main problem the characters must solve",
+              "The authors personal opinion about the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence 'Because it rained all night, the game was cancelled,' what is the effect?",
+            "options": [
+              "The game was cancelled",
+              "It rained all night",
+              "The teams practiced indoors",
+              "The weather forecast was wrong"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Comparing Cell Phone and Subscription Plans; Measurement: Precision and Accuracy in Measurement; Math Review: Algebra, Geometry, and Data; Geometry: Surface Area of Triangular Prisms; Financial Literacy: Calculating Discounts and Sale Prices.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What should be compared when choosing between two subscription plans?",
+            "options": [
+              "Only the colour of the companys logo",
+              "Nothing, since all plans always cost the same",
+              "Monthly costs, included features, and extra fees",
+              "Only how many advertisements a company shows"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A $60 backpack is marked 15% off. How much is the discount?",
+            "options": [
+              "$9",
+              "$45",
+              "$51",
+              "$6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does accuracy describe in measurement?",
+            "options": [
+              "How close a measurement is to the true value",
+              "The units used to record a measurement",
+              "The colour of the measuring tool used",
+              "How many times a measurement is repeated"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find the surface area of a triangular prism, what must you calculate and add together?",
+            "options": [
+              "The area of the two triangular bases and the area of the three rectangular sides",
+              "Only the area of one triangular base",
+              "The volume of the prism multiplied by its height",
+              "The perimeter of the triangular base only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earthquake-Resistant Building Design; Blood Types and Blood Donation; Science Review: Energy, Ecosystems, and Human Body; Simple Machines: The Screw and How It Works; Review: Ecosystems, Earth and Space, and Physical Science (Days 81-89).",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main goal of earthquake-resistant building design?",
+            "options": [
+              "To make a building completely immovable during an earthquake",
+              "To allow a structure to absorb energy and move without collapsing",
+              "To increase the amount of damage caused during an earthquake",
+              "To prevent all buildings from ever being built in earthquake zones"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A screw can be thought of as which simple machine wrapped around a cylinder?",
+            "options": [
+              "An inclined plane",
+              "A lever",
+              "A pulley",
+              "A wheel and axle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the four main human blood types?",
+            "options": [
+              "A, B, AB, and O",
+              "One, two, three, and four",
+              "Red, blue, green, and yellow",
+              "X, Y, Z, and W"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for a blood donor's blood type to be compatible with a recipient's blood type?",
+            "options": [
+              "Because incompatible blood types can cause a dangerous immune reaction in the recipient",
+              "Because blood type has no effect on donation safety",
+              "Because only type O blood can ever be donated",
+              "Because blood type determines a person's eye colour"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Black Loyalists and Early Black Settlement in Canada; How Provinces and Territories Joined Confederation; Social Studies Review: Reconciliation, Government, and Canadian History; Municipal Services: Where Your Tax Dollars Go; Social Studies: The Highway of Heroes \u2014 Honouring Canadian Fallen Soldiers.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Who were the Black Loyalists?",
+            "options": [
+              "Explorers who first mapped the Canadian Arctic",
+              "A group of settlers who arrived only in the twentieth century",
+              "A group of soldiers who fought only in the War of 1812",
+              "Black settlers, many formerly enslaved, who resettled in British North America after the American Revolution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is typically funded by municipal (local) tax dollars?",
+            "options": [
+              "Local services such as garbage collection, road repair, and public libraries",
+              "National defence and the armed forces",
+              "Federal income tax rebates",
+              "International trade agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which four provinces formed Canada at Confederation in 1867?",
+            "options": [
+              "All ten provinces joined at once",
+              "Ontario, Quebec, Manitoba, Alberta",
+              "Ontario, Quebec, Nova Scotia, New Brunswick",
+              "British Columbia, Alberta, Saskatchewan, Manitoba"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Highway of Heroes commemorate?",
+            "options": [
+              "The route along which fallen Canadian soldiers were transported and honoured by the public",
+              "The first cross-Canada highway built for tourism",
+              "A race track used for professional car racing",
+              "The trade route used during the fur trade"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Synonyms and Antonyms in Context; Writing: Writing a Fable with a Moral; Oral Communication: Giving and Receiving Constructive Feedback; Media Literacy: Understanding Algorithms and Personalized Feeds.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a synonym?",
+            "options": [
+              "A word with the opposite meaning of another word",
+              "A word with a similar meaning to another word",
+              "A word borrowed from another language",
+              "A word that describes a place"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is an antonym of 'happy'?",
+            "options": [
+              "Sad",
+              "Joyful",
+              "Cheerful",
+              "Glad"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a fable?",
+            "options": [
+              "A long novel with many chapters",
+              "A poem that must always rhyme",
+              "A factual newspaper article",
+              "A short story, often with animal characters, that teaches a lesson"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of an algorithm used in a personalized social media feed?",
+            "options": [
+              "To select and show content it predicts a user will engage with",
+              "To display posts in a completely random order",
+              "To remove all advertisements from the feed",
+              "To show content only from official news outlets"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Designing and Running Simulations; Geometry: Tessellations \u2014 Tiling the Plane with Shapes; Number Sense: Multiplying Decimals Using the Standard Algorithm; Data Management: Correlation versus Causation.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a simulation in probability?",
+            "options": [
+              "A model used to estimate the probability of a real-world event",
+              "An event that happens only once and is never repeated",
+              "A guess made without any supporting data",
+              "A method that removes the need for probability entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3.2 x 1.5?",
+            "options": [
+              "4.8",
+              "4.7",
+              "48",
+              "0.48"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A single shape drawn on its own",
+              "A three-dimensional solid made of many faces",
+              "A pattern with large gaps between shapes",
+              "A pattern of shapes that fit together with no gaps or overlaps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A study finds that ice cream sales and drowning incidents both rise in summer. What does this best illustrate?",
+            "options": [
+              "Ice cream causes drowning",
+              "Correlation does not necessarily mean causation - both may be linked to a third factor like hot weather",
+              "Drowning causes people to buy more ice cream",
+              "The data must contain a measurement error"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Space: The Moon\u2019s Effect on Earth \u2014 Tides; Biodegradable versus Non-Biodegradable Materials; Whale Migration and Ocean Navigation; How Exercise Affects the Heart and Lungs.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes tides, the regular rising and falling of sea levels?",
+            "options": [
+              "The Moon\u2019s gravity pulling on Earth\u2019s oceans",
+              "A concept unrelated to tides",
+              "The Sun\u2019s heat warming the oceans",
+              "Wind blowing across the ocean surface only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way scientists believe whales navigate during their long ocean migrations?",
+            "options": [
+              "By sensing Earth's magnetic field and other environmental cues",
+              "By following painted lines on the ocean floor",
+              "By using GPS satellites built into their bodies",
+              "Whales do not migrate long distances"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for a material to be biodegradable?",
+            "options": [
+              "It dissolves instantly in water",
+              "It breaks down naturally through the action of decomposers",
+              "It can only be broken down by humans",
+              "It never breaks down under any conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does regular exercise typically affect the heart over time?",
+            "options": [
+              "It makes the heart weaker and less efficient",
+              "It strengthens the heart, allowing it to pump blood more efficiently",
+              "It has no effect on the heart at all",
+              "It stops the heart from beating faster during activity"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Chinese Head Tax and Its Legacy; Canada's Home Children; Canada's Official Languages: English and French; The 1837 Rebellions in Upper and Lower Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Chinese Head Tax?",
+            "options": [
+              "A tax paid equally by all new Canadians",
+              "A fee the Canadian government required Chinese immigrants to pay to enter Canada",
+              "A shipping fee for goods from Asia",
+              "A tax on tea imported from China"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are Canada's two official languages?",
+            "options": [
+              "English and French",
+              "English and Spanish",
+              "French and Mandarin",
+              "English only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who were Canada's 'Home Children'?",
+            "options": [
+              "British children sent to Canada, often to work on farms or as household help",
+              "Indigenous children in residential schools",
+              "Refugee children from Europe after World War II",
+              "Children born in Canada to immigrant parents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What were the 1837 Rebellions in Upper and Lower Canada primarily a response to?",
+            "options": [
+              "Demands for more democratic and responsible government",
+              "A foreign invasion by the United States",
+              "A dispute over hockey rules",
+              "The introduction of income tax"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Using Dashes and Parentheses for Extra Information; Reading: Comparing Primary and Secondary Sources; Vocabulary: Collective Nouns and Group Terms; Language Review: Vocabulary, Media Literacy, and Nonfiction Reading.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is one use of a dash in a sentence?",
+            "options": [
+              "To indicate that a sentence is a question",
+              "To end every sentence in a paragraph",
+              "To replace a period at all times",
+              "To add extra information with strong emphasis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is a collective noun?",
+            "options": [
+              "Flock",
+              "Running",
+              "Quickly",
+              "Beautiful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a primary source?",
+            "options": [
+              "A textbook that interprets historical events",
+              "A source that always contains only opinions",
+              "A summary written many years after an event",
+              "Firsthand evidence created during the time being studied"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a secondary source?",
+            "options": [
+              "A history book written today analyzing a war that happened 100 years ago",
+              "A diary entry written during the war",
+              "A photograph taken during the war",
+              "A letter written by a soldier during the war"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Understanding Allowance, Saving, and Spending Plans; Number Sense: Percents Greater Than 100 and Percents Less Than 1; Measurement: Finding Volume Using Water Displacement; Math Review: Probability, Measurement, and Financial Literacy.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a spending plan?",
+            "options": [
+              "A plan that divides money into categories such as saving, spending, and sharing",
+              "A record of only past purchases with no future planning",
+              "A plan used only by adults with full-time jobs",
+              "A plan that requires spending all money immediately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these represents a percent less than 1%?",
+            "options": [
+              "0.5%",
+              "5%",
+              "50%",
+              "100%"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a percent greater than 100 represent?",
+            "options": [
+              "An amount always smaller than the whole",
+              "An amount larger than the whole",
+              "An amount that cannot exist mathematically",
+              "An amount exactly equal to the whole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the volume of an irregularly shaped rock using water displacement, what do you measure?",
+            "options": [
+              "The rise in water level when the rock is submerged",
+              "The weight of the rock in air",
+              "The time it takes the rock to sink",
+              "The temperature of the water before and after"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Desalination \u2014 Turning Seawater into Fresh Water; Science: Forces: Streamlining and Reducing Drag in Water; Bird Beak Adaptations for Different Diets; Science Review: Simple Machines, the Human Body, and Chemistry.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does desalination remove from seawater?",
+            "options": [
+              "Only the water itself",
+              "Only dissolved oxygen",
+              "Only microscopic organisms",
+              "Salt and other minerals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of streamlining an object's shape when it moves through water?",
+            "options": [
+              "To reduce drag so it can move more easily",
+              "To increase drag for slower movement",
+              "To make the object heavier",
+              "To make the object float higher on the surface"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the force that resists an object\u2019s motion through water?",
+            "options": [
+              "A concept unrelated to forces",
+              "Magnetism",
+              "Gravity",
+              "Drag"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A bird with a long, thin, pointed beak is most likely adapted to eat which kind of food?",
+            "options": [
+              "Insects found in narrow crevices or flowers",
+              "Hard seeds and nuts",
+              "Large fish caught with a hooked beak",
+              "Only tough plant leaves"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Emancipation Day \u2014 The End of Slavery in British North America; Recycling and Waste Management Across Canada; Social Studies: The Assembly of First Nations \u2014 Indigenous Political Leadership; Canada's Grassland and Prairie Ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does Emancipation Day commemorate?",
+            "options": [
+              "The founding of Canada as a country",
+              "The signing of the Numbered Treaties",
+              "The end of the First World War",
+              "The 1834 abolition of slavery throughout the British Empire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the Assembly of First Nations?",
+            "options": [
+              "A national organization that represents First Nations peoples and advocates for their political interests",
+              "A branch of the Canadian federal government",
+              "A museum dedicated to Indigenous artifacts",
+              "A treaty signed in 1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do the '3 Rs' of waste management stand for?",
+            "options": [
+              "Rinse, Return, Repeat",
+              "Recover, Repair, Retire",
+              "Read, Write, Recycle",
+              "Reduce, Reuse, Recycle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following best describes Canada's Prairie ecosystem?",
+            "options": [
+              "Flat or rolling grassland with fertile soil, well suited to growing crops",
+              "A frozen landscape with permafrost year-round",
+              "A dense rainforest with year-round rainfall",
+              "A mountainous region with active volcanoes"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Conditional Sentences and If-Then Statements; Reading: Static and Dynamic Characters in Fiction; Vocabulary: Homographs and Multiple-Meaning Words; Writing: Writing an Opinion Piece for a School Newsletter; Media Literacy: Recognizing Deepfakes and Digital Manipulation.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What are the two main parts of a conditional sentence?",
+            "options": [
+              "A prefix and a suffix",
+              "A subject and a predicate only",
+              "An if clause and a result clause",
+              "A quotation and a citation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which pair of words are homographs (same spelling, different meanings)?",
+            "options": [
+              "'Bass' (the fish) and 'bass' (a low sound in music)",
+              "'Flower' and 'flour'",
+              "'Sun' and 'son'",
+              "'Their' and 'there'"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a static character?",
+            "options": [
+              "A character who never appears in the story",
+              "A character who narrates the entire story",
+              "A character who remains largely unchanged throughout a story",
+              "A character who changes significantly by the end of a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a 'deepfake'?",
+            "options": [
+              "A digitally altered video or image made to look real but that shows something that did not actually happen",
+              "A backup copy of an original photo",
+              "A camera setting used for night photography",
+              "An old photograph that has faded over time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Dividing Decimals Using the Standard Algorithm; Data Management: Line Plots and Frequency Distributions; Geometry: The Cartesian Plane and Four Quadrants; Algebra: Representing Real-World Situations with Equations; Probability: Making Predictions from Experimental Data.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step often used when dividing by a decimal?",
+            "options": [
+              "Immediately place the decimal point in the answer",
+              "Round both numbers to the nearest whole number",
+              "Shift the decimal point in the divisor to make it a whole number",
+              "Add the two decimal numbers together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On the Cartesian plane, in which quadrant is the point (-3, 4) located?",
+            "options": [
+              "Quadrant II",
+              "Quadrant I",
+              "Quadrant III",
+              "Quadrant IV"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a line plot use to display data?",
+            "options": [
+              "Connected line segments only",
+              "Slices of a circle",
+              "Bars of varying height",
+              "Marks such as dots or Xs placed along a number line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Maria has $5 and earns $3 for every chore she completes. Which equation represents her total money, m, after completing c chores?",
+            "options": [
+              "m = 5 + 3c",
+              "m = 3 + 5c",
+              "m = 5c + 3",
+              "m = 5 - 3c"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Simple Machines: Gears and How They Change Speed and Force; Physical versus Chemical Changes in Matter; How Solar Panels Convert Sunlight into Electricity; The International Space Station and Living in Microgravity; Animal Hibernation and Torpor: Surviving Winter.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a gear?",
+            "options": [
+              "A straight bar that pivots on a fixed point",
+              "A wheel with teeth that interlocks with other gears",
+              "A ramp used to lift heavy objects",
+              "A rope wrapped around a wheel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do solar panels generate electricity?",
+            "options": [
+              "By converting sunlight directly into electrical energy",
+              "By burning sunlight as a fuel source",
+              "By storing wind energy for later use",
+              "By heating water to spin a turbine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during a physical change?",
+            "options": [
+              "Matter disappears entirely with no trace",
+              "A completely new substance with different properties is created",
+              "The form or appearance of matter changes without changing its chemical makeup",
+              "The chemical makeup of matter always changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of hibernation for an animal?",
+            "options": [
+              "To conserve energy and survive a period when food is scarce, such as winter",
+              "To grow larger before summer arrives",
+              "To attract a mate",
+              "To migrate to a warmer climate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Reading Population Density Maps; Canada's Mountain Ranges: The Rockies and Appalachians; Endangered Species and Wildlife Conservation in Canada; Canada's Tundra and Arctic Ecosystems; Powwows: Celebrating Indigenous Culture.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does 'population density' measure?",
+            "options": [
+              "The total number of people in a country",
+              "The average age of a population",
+              "The number of cities in a province",
+              "The average number of people living per unit of area, like per square kilometre"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean for a species to be classified as 'endangered'?",
+            "options": [
+              "It is at serious risk of becoming extinct in the near future",
+              "It is the most common species in its habitat",
+              "It has recently been discovered by scientists",
+              "It can only survive in zoos"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which part of Canada are the Rocky Mountains located?",
+            "options": [
+              "The west",
+              "The centre",
+              "The far north only",
+              "The east"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a powwow?",
+            "options": [
+              "A gathering where Indigenous peoples celebrate their culture through dance, music, and traditions",
+              "A type of Canadian government building",
+              "A treaty signed between Canada and the United States",
+              "A style of Canadian currency"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Oral Communication: Techniques for Effective Storytelling; Reading: Comparing Multiple Accounts of the Same Event; Grammar: Dangling and Misplaced Modifiers; Writing: Writing a Persuasive Product Review; Language Review: Grammar, Storytelling, and Media Literacy.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is one technique used in effective oral storytelling?",
+            "options": [
+              "Vocal expression",
+              "Avoiding eye contact with the audience",
+              "Speaking as quickly as possible at all times",
+              "Reading in a flat, unchanging tone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a dangling modifier?",
+            "options": [
+              "Running down the street, the bus was missed by Sam.",
+              "Sam missed the bus while running down the street.",
+              "Running down the street, Sam missed the bus.",
+              "Sam, who was running down the street, missed the bus."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader compare multiple accounts of the same event?",
+            "options": [
+              "Multiple accounts of an event never differ from one another",
+              "Comparing accounts always produces identical information",
+              "To notice differences in perspective, detail, and emphasis",
+              "Reading only one account always provides a complete picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a persuasive product review, what is the writer's main goal?",
+            "options": [
+              "To convince readers of an opinion about the product using reasons and evidence",
+              "To provide only the price and where to buy the product",
+              "To describe the product without stating any opinion",
+              "To copy another reviewer's opinion word for word"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Understanding GST and HST in Everyday Purchases; Measurement: Estimating and Measuring Angles with a Protractor; Math Review: Fractions, Number Sense, and Data; Patterning and Algebra: Recursive versus Explicit Pattern Rules; Math Review: Decimals, Data, and Algebraic Reasoning.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does GST stand for?",
+            "options": [
+              "Goods and Services Tax",
+              "General Spending Total",
+              "Government Sales Total",
+              "Gross Sales Tariff"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The pattern 3, 7, 11, 15, ... follows the recursive rule 'start at 3, add 4 each time.' What is the explicit rule for the nth term?",
+            "options": [
+              "4n - 1",
+              "3n + 4",
+              "n + 4",
+              "4n + 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tool is used to measure the size of an angle?",
+            "options": [
+              "A scale for weighing objects",
+              "A ruler",
+              "A compass for drawing circles",
+              "A protractor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does HST stand for?",
+            "options": [
+              "Harmonized Sales Tax",
+              "Household Spending Total",
+              "High School Tax",
+              "Home Savings Trust"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Lightning and Thunderstorms: How They Form; Glaciers and Their Role in Shaping Landscapes; Food Preservation: How Refrigeration, Canning, and Drying Prevent Spoilage; Renewable Energy: Tidal and Wave Power; Science Review: Machines, Matter, and Space Exploration.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What kind of air rises to help form a thunderstorm?",
+            "options": [
+              "Cold, dry air",
+              "Warm, moist air",
+              "Air that never changes temperature",
+              "Air with no moisture at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does refrigeration help prevent food spoilage?",
+            "options": [
+              "By slowing the growth of bacteria and other microorganisms",
+              "By killing all bacteria instantly",
+              "By adding preservative chemicals to the food",
+              "By removing all water from the food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A small pond that freezes every year",
+              "A fast-flowing river of warm water",
+              "A type of cloud found only in winter",
+              "A large, slow-moving mass of ice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the source of energy used in tidal power generation?",
+            "options": [
+              "The gravitational pull of the Moon (and Sun) causing ocean water to rise and fall",
+              "The burning of fossil fuels near the coast",
+              "Heat released from underground volcanic activity",
+              "Wind blowing across the ocean surface"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Inuit Traditional Knowledge and the Land; Social Studies: The Boundary Waters Treaty and Canada-US Relations; Social Studies: The Rideau Canal \u2014 A UNESCO World Heritage Site in Canada; Social Studies: David Thompson and the Mapping of Western Canada; The Quiet Revolution in Quebec.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does 'Inuit Qaujimajatuqangit' generally refer to?",
+            "options": [
+              "A type of igloo",
+              "A style of Arctic clothing",
+              "A government department",
+              "Inuit traditional knowledge passed down through generations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Rideau Canal recognized as a UNESCO World Heritage Site?",
+            "options": [
+              "It is a well-preserved 19th-century canal system with historical and engineering significance",
+              "It is the longest river in Canada",
+              "It was the site of Canada's first parliament",
+              "It marks the border between Canada and the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Boundary Waters Treaty establish rules for?",
+            "options": [
+              "Sharing farmland between Canada and the United States",
+              "Sharing waterways along the Canada-United States border",
+              "Trading goods across the Pacific Ocean",
+              "Building railways between the two countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Quiet Revolution in Quebec?",
+            "options": [
+              "A period of rapid social, political, and economic change in Quebec during the 1960s",
+              "A violent uprising against the federal government",
+              "The signing of Quebec's declaration of independence",
+              "A revolution that occurred during the 1837 Rebellions"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Split Infinitives and Common Usage Errors; Reading: Understanding Satire in Literature; Writing: Writing an Advice Column; Vocabulary: Regional Dialects and Word Variation.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a split infinitive?",
+            "options": [
+              "A verb with no subject at all",
+              "A sentence missing end punctuation",
+              "A word placed between to and the base verb of an infinitive",
+              "A word that has two opposite meanings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of an advice column?",
+            "options": [
+              "To answer readers' personal problems with guidance and suggestions",
+              "To report daily weather conditions",
+              "To list sports scores from the week",
+              "To summarize a novel's plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is satire?",
+            "options": [
+              "A factual report with no opinion included",
+              "A literary technique that uses humour, irony, or exaggeration to criticize flaws",
+              "A type of poem with no hidden meaning",
+              "A story written only for young children"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A regional dialect is best described as a way of speaking that varies based on what?",
+            "options": [
+              "The geographic area or community a person is from",
+              "A person's favorite subject in school",
+              "The specific font used in writing",
+              "The type of paper a letter is written on"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Introduction to Binary Numbers; Data Management: Interpreting Pictographs and Symbol Keys; Geometry: The Golden Ratio in Art and Architecture; Patterning and Algebra: The Fibonacci Sequence in Nature.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What two digits are used in the binary number system?",
+            "options": [
+              "0, 1, and 2",
+              "1 and 2",
+              "0 and 2",
+              "0 and 1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the Fibonacci sequence 0, 1, 1, 2, 3, 5, 8, 13..., how is each new number generated?",
+            "options": [
+              "By adding the two numbers immediately before it",
+              "By multiplying the previous number by 2",
+              "By subtracting 1 from the previous number",
+              "By squaring the previous number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a pictograph use to represent data?",
+            "options": [
+              "Coloured regions with no key",
+              "A single unlabelled line",
+              "Only numbers with no images",
+              "Repeated pictures or symbols"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why have many artists and architects historically used the golden ratio in their work?",
+            "options": [
+              "It is believed to create especially pleasing and balanced proportions",
+              "It guarantees a building will be earthquake-proof",
+              "It is the only ratio that can be measured with a ruler",
+              "It makes materials cost less to produce"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Hydrogen Fuel Cells as an Energy Source; Review: Structures, Matter, Energy, and Earth and Space Systems (Days 91-99); Simple Circuits: How a Light Bulb Turns On; Science: Ocean and Coastal Ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What two gases does a hydrogen fuel cell combine to produce electricity?",
+            "options": [
+              "Nitrogen and oxygen",
+              "Hydrogen and oxygen",
+              "Carbon dioxide and oxygen",
+              "Hydrogen and nitrogen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which combination is needed to make a simple circuit light a bulb?",
+            "options": [
+              "A power source, connecting wires, and a bulb forming a closed loop",
+              "Only a battery with no wires",
+              "A bulb placed directly in sunlight",
+              "Two wires with no power source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a structure with a strong outer covering and a hollow inside?",
+            "options": [
+              "A shell structure",
+              "A frame structure",
+              "A concept unrelated to structures",
+              "A solid structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an ocean or coastal ecosystem?",
+            "options": [
+              "A coral reef",
+              "A desert dune",
+              "An alpine mountain meadow",
+              "A prairie grassland"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada's Centennial and Expo 67; Referendums and Plebiscites: Direct Democracy; By-laws: Rules for Local Communities; Social Studies: The Cod Moratorium and the Collapse of Atlantic Fisheries.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What major milestone did Canada celebrate in 1967?",
+            "options": [
+              "Independence from France",
+              "Its 100th anniversary (centennial) of Confederation",
+              "Its 50th anniversary",
+              "Its 150th anniversary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was Expo 67?",
+            "options": [
+              "A world's fair held in Montreal in 1967 that welcomed millions of visitors",
+              "A hockey tournament held in Toronto",
+              "A Canadian federal election",
+              "A new coin issued by the Royal Canadian Mint"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a referendum?",
+            "options": [
+              "A vote where citizens directly decide a specific question, rather than voting for a representative",
+              "An election for a new prime minister",
+              "A type of tax",
+              "A court ruling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main reason the Canadian government declared the 1992 cod moratorium?",
+            "options": [
+              "Cod fish stocks off the Atlantic coast had collapsed from overfishing",
+              "A new law banned all ocean fishing permanently",
+              "Cod fish were found to be unsafe to eat",
+              "The fishing industry asked for a shorter fishing season"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Oral Communication: Using Signposting Language in Presentations; Reading: Recognizing Stereotypes in Literature and Media; Grammar: Ellipsis and Its Uses in Writing; Media Literacy: Comparing Reporting Across International News Sources.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is signposting language?",
+            "options": [
+              "A set of hand gestures used instead of words",
+              "Language used only in written essays, never in speech",
+              "Transitional words and phrases that help an audience follow a presentations structure",
+              "Vocabulary that has no connection to organization"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In writing, what does an ellipsis (...) usually signal?",
+            "options": [
+              "That words have been omitted or that a thought trails off",
+              "That a sentence is a question",
+              "That a word is being emphasized in bold",
+              "That a new paragraph is starting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a stereotype?",
+            "options": [
+              "A literary device used only in poetry",
+              "An oversimplified and often inaccurate belief about a group of people",
+              "A type of punctuation used in dialogue",
+              "A detailed and fully accurate description of one specific individual"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to compare how different international news sources report the same event?",
+            "options": [
+              "It helps reveal different perspectives, biases, or missing details in each report",
+              "It proves that only one source can ever be correct",
+              "It shows that all news sources always agree completely",
+              "It eliminates the need to read more than one article ever again"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Using Area Models to Represent Probability; Math: Logic Puzzles and Deductive Reasoning; Number Sense: Estimating Using Order of Magnitude; Measurement: Converting Between Celsius and Fahrenheit Temperatures.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does an area model use to represent probability?",
+            "options": [
+              "A single unlabelled circle with no divisions",
+              "The area of a rectangle or square divided into regions",
+              "A list of numbers with no visual representation",
+              "A single point plotted on a number line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Estimating a quantity by order of magnitude means rounding it to the nearest what?",
+            "options": [
+              "Nearest power of ten",
+              "Nearest whole number only",
+              "Nearest fraction",
+              "Nearest decimal point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does deductive reasoning use to reach a conclusion?",
+            "options": [
+              "Random guessing with no facts",
+              "Given facts and logical steps",
+              "Only personal opinions",
+              "A conclusion chosen before any facts are considered"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To convert a temperature from Celsius to Fahrenheit, which operation is part of the standard formula?",
+            "options": [
+              "Multiply by 9/5 and then add 32",
+              "Divide by 2 and add 10",
+              "Subtract 32 and multiply by 100",
+              "Add 273 to the Celsius value"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Black Holes \u2014 An Introduction; Science: Caves and How They Form; Science: Solutions, Suspensions, and Colloids; Our Eyes: How We See Colours and Shapes.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a black hole?",
+            "options": [
+              "A type of planet found only in our solar system",
+              "A region of space with gravitational pull so strong that nothing can escape it",
+              "A cloud of gas with no gravitational pull",
+              "A bright star visible from Earth without a telescope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the key difference between a solution and a suspension?",
+            "options": [
+              "In a solution the particles are fully dissolved and don't settle, while in a suspension particles are undissolved and can settle out",
+              "A solution is always a solid and a suspension is always a gas",
+              "A suspension always contains only water",
+              "There is no difference between a solution and a suspension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of rock is commonly dissolved to form caves?",
+            "options": [
+              "Limestone",
+              "Obsidian",
+              "Basalt",
+              "Granite"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of the eye contains the cells that detect light and allow us to see colours and shapes?",
+            "options": [
+              "The retina",
+              "The eyelash",
+              "The eyebrow",
+              "The iris muscle"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canadian Inventions That Changed the World; Social Studies: The Royal Canadian Mint and How Coins Are Made; Social Studies: How a Bill Becomes a Law in Canada; Canadian Astronauts and the Space Program.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which sport, still played worldwide today, was invented by Canadian James Naismith?",
+            "options": [
+              "Hockey",
+              "Soccer",
+              "Baseball",
+              "Basketball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the first stage a bill typically goes through in the Canadian Parliament?",
+            "options": [
+              "First reading, where the bill is introduced",
+              "Royal assent, where the bill becomes law immediately",
+              "A national referendum voted on by the public",
+              "A ruling written by the Supreme Court of Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Royal Canadian Mint responsible for producing?",
+            "options": [
+              "Canadas postage stamps",
+              "Canadas passports",
+              "Canadas circulation coins",
+              "Canadas paper banknotes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who was the first Canadian astronaut to fly into space?",
+            "options": [
+              "Marc Garneau",
+              "Chris Hadfield",
+              "Roberta Bondar",
+              "Julie Payette"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Toast or Special Occasion Speech; Language Review: Grammar, Genres, and Oral Presentation Skills; Grammar: Active and Passive Voice; Reading: Understanding Motifs in Literature.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of a toast or special occasion speech?",
+            "options": [
+              "To provide detailed technical instructions",
+              "To summarize a news report",
+              "To celebrate an event or honour a person",
+              "To argue against an opposing point of view"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is the correct passive-voice version of 'The chef cooked the meal'?",
+            "options": [
+              "The meal was cooked by the chef.",
+              "The chef was cooking the meal.",
+              "The meal cooks the chef.",
+              "The chef cooks the meal."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When giving an oral presentation, what is one effective way to engage your audience?",
+            "options": [
+              "Make eye contact and vary your tone of voice",
+              "Read directly from your notes without looking up",
+              "Speak as quietly as possible",
+              "Face away from the audience"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In literature, a motif is best described as what?",
+            "options": [
+              "A recurring image, idea, or symbol that repeats throughout a work and supports its theme",
+              "The very first sentence of a story",
+              "A footnote explaining a difficult word",
+              "The name of the book's publisher"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Understanding Roman Numerals; Math Review: Number Systems, Data, and Geometric Patterns; Number Sense: Introduction to Modular Arithmetic (Clock Math); Fractions: Subtracting Fractions with Unlike Denominators.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Which letter represents the number 10 in Roman numerals?",
+            "options": [
+              "X",
+              "I",
+              "V",
+              "L"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In modular arithmetic (clock math), if it is 10 o'clock now, what time will it be in 5 hours on a 12-hour clock?",
+            "options": [
+              "3 o'clock",
+              "5 o'clock",
+              "15 o'clock",
+              "12 o'clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the geometric pattern 2, 4, 8, 16, ..., what is the next number?",
+            "options": [
+              "32",
+              "20",
+              "18",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To subtract fractions with unlike denominators, such as 1/3 minus 1/6, what must you do first?",
+            "options": [
+              "Rewrite the fractions with a common denominator",
+              "Subtract the numerators directly without changing anything",
+              "Convert both fractions to whole numbers",
+              "Multiply the two denominators together and stop there"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Science of Fermentation and Yeast; Science Review: Energy Sources, Cells, and Astronomy; Science: Crystal Formation and Crystallization; Science: Earths Magnetic Field and How a Compass Works.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do microorganisms such as yeast break down during fermentation?",
+            "options": [
+              "Rocks",
+              "Sugars",
+              "Metals",
+              "Plastics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What process occurs when a mineral solution cools or evaporates slowly, allowing particles to form an orderly repeating pattern?",
+            "options": [
+              "Crystallization",
+              "Fermentation",
+              "Digestion",
+              "Combustion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is considered a non-renewable energy source?",
+            "options": [
+              "Coal",
+              "Solar power",
+              "Wind power",
+              "Hydropower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a compass needle work?",
+            "options": [
+              "It aligns itself with Earth's magnetic field, pointing roughly toward magnetic north",
+              "It always points toward the nearest large city",
+              "It spins randomly with no consistent direction",
+              "It only works when connected to an electrical circuit"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Rick Hansen's Man in Motion World Tour; M\u00e9tis Culture: The Sash and the Fiddle; Volunteering and Civic Participation in Canada; Canada and the Paris Climate Agreement.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What made Rick Hansen's 'Man in Motion' tour so remarkable?",
+            "options": [
+              "He drove a car around the world",
+              "He walked across Canada",
+              "He wheeled his wheelchair through 34 countries over about two years",
+              "He flew a plane solo around the globe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of civic participation?",
+            "options": [
+              "Volunteering at a local community event",
+              "Watching television alone at home",
+              "Sleeping in on a weekend",
+              "Ignoring a community town hall meeting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the M\u00e9tis sash, or ceinture fl\u00e9ch\u00e9e, traditionally used for?",
+            "options": [
+              "As a multi-purpose woven belt, historically used to carry items, keep warm, and show identity",
+              "Only as a decoration with no practical use",
+              "As a type of money",
+              "As a fishing net"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of the Paris Climate Agreement, which Canada is part of?",
+            "options": [
+              "To bring countries together to limit global temperature rise by reducing greenhouse gas emissions",
+              "To set fixed prices for oil around the world",
+              "To build a single international railway system",
+              "To create one shared currency for all countries"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Speech of Introduction; Vocabulary: Malapropisms and Word Confusion; Media Literacy: Analyzing Infographics; Oral Communication: Non-Verbal Communication and Body Language; Language Review: The Final Chapter \u2014 Grammar, Vocabulary, and Communication Skills.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a speech of introduction typically present?",
+            "options": [
+              "A guest speaker to an audience",
+              "An unrelated news story",
+              "A list of upcoming school events",
+              "A detailed weather forecast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of an infographic?",
+            "options": [
+              "To present information or data visually using images, charts, and minimal text",
+              "To tell a fictional story with no facts",
+              "To provide only spoken audio information",
+              "To list a person's daily schedule with no visuals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A word with exactly one correct pronunciation",
+              "A word that has no other similar-sounding words",
+              "The mistaken use of a word that sounds similar to the intended word but has a different meaning",
+              "A formal word used only in legal documents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of non-verbal communication?",
+            "options": [
+              "Crossing your arms and frowning while listening",
+              "Writing a formal letter",
+              "Reading a novel silently",
+              "Typing an email to a friend"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Surface Area of Rectangular Prisms; Data Management: Range as a Measure of Spread; Geometry: Area of Triangles Using a Formula; Number Sense: Comparing Fractions Decimals and Percents; Math Review: Circles, Fractions, and Time.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To find the surface area of a rectangular prism, you need to find the area of each face and then ___.",
+            "options": [
+              "add them all together",
+              "multiply them all together",
+              "divide by the number of faces",
+              "subtract the smallest from the largest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the correct formula for finding the area of a triangle?",
+            "options": [
+              "Area = (base times height) divided by 2",
+              "Area = base times height",
+              "Area = 2 times base times height",
+              "Area = base plus height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the range of a data set?",
+            "options": [
+              "The middle value",
+              "The average of all values",
+              "The difference between the largest and smallest values",
+              "The most common value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these values is the greatest?",
+            "options": [
+              "3/4",
+              "60%",
+              "0.65",
+              "7/10"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Digestive System: Where Food Goes; Science: Sonar Technology and Mapping the Ocean Floor; Science: The Ozone Layer and Its Protective Role; Science: Colour Mixing \u2014 Additive versus Subtractive Colour; Science Review: The Final Chapter \u2014 Chemistry, Earth Science, and Technology.",
+        "resourceLabel": "TVO Learn: Grade 6 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where does food first enter the digestive system?",
+            "options": [
+              "The heart",
+              "The lungs",
+              "The mouth",
+              "The stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main protective role of the ozone layer in Earth's atmosphere?",
+            "options": [
+              "It absorbs most of the Sun's harmful ultraviolet (UV) radiation",
+              "It produces the oxygen we breathe",
+              "It creates all of Earth's weather patterns",
+              "It reflects sound waves back into space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does sonar use to detect objects underwater?",
+            "options": [
+              "Visible light only",
+              "Sound waves",
+              "Radio signals only",
+              "Magnetic fields"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In additive colour mixing, such as with light, combining red, green, and blue light at full intensity produces what colour?",
+            "options": [
+              "White",
+              "Black",
+              "Brown",
+              "Grey"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Where Our Food Comes From: Supply Chains; Social Studies: The CBC \u2014 Canadas Public Broadcaster; First Nations Governance Before European Contact; Indigenous Language Revitalization in Canada; Review: Canadian Geography, History, and Civic Life.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is a 'food supply chain'?",
+            "options": [
+              "A government department",
+              "A type of grocery store",
+              "A type of farm equipment",
+              "The series of steps food takes from being grown or caught to reaching a consumer's plate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Before European contact, how did many First Nations typically make important community decisions?",
+            "options": [
+              "Through councils of elders or leaders using consensus-based decision-making",
+              "Through a single hereditary king with absolute power",
+              "Through decisions made entirely by a distant foreign government",
+              "Through a lottery system with no leaders involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the acronym CBC stand for?",
+            "options": [
+              "The Canadian Business Council",
+              "The Canadian Broadcasting Corporation",
+              "The Canadian Bilingual Congress",
+              "The Central Broadcast Committee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main goal of Indigenous language revitalization efforts in Canada?",
+            "options": [
+              "To preserve, teach, and encourage the continued use of Indigenous languages",
+              "To replace English and French with a single new language",
+              "To translate Indigenous languages into Latin",
+              "To stop all languages other than English from being taught"
+            ],
+            "answer": 0
           }
         ]
       }
