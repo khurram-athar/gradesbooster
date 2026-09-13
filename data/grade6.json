@@ -15468,8 +15468,14 @@
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "videoUrl": "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
         "videoUrls": [
-          "https://www.youtube.com/watch?v=AQ5vty8f9Xc",
-          "https://www.youtube.com/watch?v=qJqGg3Xe4iE"
+          {
+            "label": "Moon Phases",
+            "url": "https://www.youtube.com/watch?v=AQ5vty8f9Xc"
+          },
+          {
+            "label": "Solar and Lunar Eclipses",
+            "url": "https://www.youtube.com/watch?v=qJqGg3Xe4iE"
+          }
         ],
         "quiz": [
           {

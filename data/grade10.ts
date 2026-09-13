@@ -15366,8 +15366,14 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=SLV600BpHpE",
         "videoUrls": [
-          "https://www.youtube.com/watch?v=SLV600BpHpE",
-          "https://www.youtube.com/watch?v=0gicD4STzpg"
+          {
+            "label": "Graphing Radical Functions",
+            "url": "https://www.youtube.com/watch?v=SLV600BpHpE"
+          },
+          {
+            "label": "Solving Radical Equations",
+            "url": "https://www.youtube.com/watch?v=0gicD4STzpg"
+          }
         ],
         "quiz": [
           {
