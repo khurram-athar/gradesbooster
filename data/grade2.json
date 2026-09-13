@@ -25526,6 +25526,17 @@
         "summary": "Students review recent Language skills: the -ig and -ug word families, beginning blends, rhyming, question marks, spaces between words, time order words, character traits, and poetry.",
         "resourceLabel": "YouTube: Language Review: Word Families, Blends, and Poetry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Blends%2C%20and%20Poetry%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6ej6JU44CCY",
+        "videoUrls": [
+          {
+            "label": "Root Words and Word Families",
+            "url": "https://www.youtube.com/watch?v=6ej6JU44CCY"
+          },
+          {
+            "label": "Alliteration: Repeating Beginning Sounds",
+            "url": "https://www.youtube.com/watch?v=piAwuADrC3Y"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word rhymes with big?",
@@ -28176,6 +28187,17 @@
         "summary": "Students review recent Language skills: compound sentences, metaphors, analogies, proofreading symbols, story conflict, word endings, formal and informal language, skimming and scanning, and book reviews.",
         "resourceLabel": "YouTube: Language Review: Sentences, Figurative Language, and Reading Strategies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Sentences%2C%20Figurative%20Language%2C%20and%20Reading%20Strategies%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wVmPnqWpLiI",
+        "videoUrls": [
+          {
+            "label": "Summarizing a Story in a Few Sentences",
+            "url": "https://www.youtube.com/watch?v=wVmPnqWpLiI"
+          },
+          {
+            "label": "Word Choice: How Writers Choose Strong Words",
+            "url": "https://www.youtube.com/watch?v=HdfVi5OU9D4"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word can join two sentences to show a result?",
@@ -28257,6 +28279,17 @@
         "summary": "Students review recent Math skills: multiplication facts for 6s and 7s, division facts, fact family triangles, measuring angles, choosing graphs, coin combinations, converting time, patterns, and estimating products.",
         "resourceLabel": "YouTube: Math Review: Multiplication, Division, and Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Division%2C%20and%20Measurement%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc",
+        "videoUrls": [
+          {
+            "label": "Multiplication Facts: 3s and 4s",
+            "url": "https://www.youtube.com/watch?v=t03yW7Oxsoc"
+          },
+          {
+            "label": "Estimating Sums and Differences",
+            "url": "https://www.youtube.com/watch?v=EvQf38lnAJc"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 7 times 3?",
@@ -28420,6 +28453,17 @@
         "summary": "Students review recent Social Studies topics: how laws are made, trade between countries, Canadian Confederation, non-profit organizations, natural resources, our postal system, city planning, global citizenship, and comparing jobs.",
         "resourceLabel": "YouTube: Social Studies Review: Laws, Trade, and Community Planning",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Laws%2C%20Trade%2C%20and%20Community%20Planning%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=s4ANp-J624I",
+        "videoUrls": [
+          {
+            "label": "How People Told Time Before Clocks and Watches",
+            "url": "https://www.youtube.com/watch?v=s4ANp-J624I"
+          },
+          {
+            "label": "Canadian Holidays: Canada Day and Remembrance Day",
+            "url": "https://www.youtube.com/watch?v=wBjPIXcZBF8"
+          }
+        ],
         "quiz": [
           {
             "q": "What are exports?",
@@ -30415,6 +30459,7 @@
         "summary": "Students review recent Social Studies topics: librarians, mayors, community gardens, bus safety, grandparents, cultural celebrations, provinces and territories, welcoming newcomers, and world weather.",
         "resourceLabel": "YouTube: Social Studies Review: Helpers, Leaders, and Our World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Leaders%2C%20and%20Our%20World%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SdXHNiGg-Ss",
         "quiz": [
           {
             "q": "What is a community garden?",
@@ -31576,6 +31621,7 @@
         "summary": "Students review recent Math skills: multiplication facts for 8s and 9s, division with remainders, naming fraction parts, rounding to the nearest hundred, equivalent fractions, multi-step word problems, surveys and graphing, and choosing the right operation.",
         "resourceLabel": "YouTube: Math Review: Multiplication, Fractions, and Problem Solving",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Fractions%2C%20and%20Problem%20Solving%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc",
         "quiz": [
           {
             "q": "What is 9 times 3?",
@@ -34196,6 +34242,7 @@
         "summary": "Students review recent Math skills: multiplication facts for 0s, 1s, and 10s, composing and decomposing 2D shapes, number patterns on a hundred chart, estimating length, interpreting bar graphs with a scale, ordering numbers to 1000, locating numbers on a number line, doubling and halving, and congruent shapes.",
         "resourceLabel": "YouTube: Math Review: Multiplication, Geometry, and Number Sense",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Geometry%2C%20and%20Number%20Sense%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc",
         "quiz": [
           {
             "q": "What is 6 times 10?",
@@ -39682,6 +39729,7 @@
         "summary": "Grade 2 Math strand review: students revisit fractions on a number line, number bonds to 100, finding the median, AM and PM, multiplying three numbers, and tessellations.",
         "resourceLabel": "YouTube: Math Review: Fractions, Time, and Measurement",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Time%2C%20and%20Measurement%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc",
         "quiz": [
           {
             "q": "Where would the fraction 1/2 be placed on a number line from 0 to 1?",

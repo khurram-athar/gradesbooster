@@ -19881,6 +19881,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand review: this lesson revisits the verse novel, the rhetorical analysis essay, historiographic metafiction, and stream of consciousness from Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=IYWbUh0r-EI",
+        "videoUrls": [
+          {
+            "label": "Literature: The Verse Novel -- Narrative Through Poetic Form",
+            "url": "https://www.youtube.com/watch?v=IYWbUh0r-EI"
+          },
+          {
+            "label": "Writing: The Rhetorical Analysis Essay -- Deconstructing Persuasion",
+            "url": "https://www.youtube.com/watch?v=FnAR2GtFy-E"
+          },
+          {
+            "label": "Literature: Historiographic Metafiction -- Fiction That Questions History",
+            "url": "https://www.youtube.com/watch?v=ED7veD_N4Nk"
+          },
+          {
+            "label": "Literature: Stream of Consciousness -- Rendering the Mind on the Page",
+            "url": "https://www.youtube.com/watch?v=hu9L5zQ4g0Q"
+          }
+        ],
         "quiz": [
           {
             "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
@@ -19940,6 +19959,7 @@ const curriculum: DayContent[] = [
         "summary": "Students use the sum and difference identities for sine and cosine to evaluate trigonometric expressions for non-special angles and simplify compound-angle expressions.",
         "resourceLabel": "YouTube: Compound Angle Formulas: Sum and Difference Identities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Angle%20Formulas%3A%20Sum%20and%20Difference%20Identities%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gEhxBFQCYic",
         "topic": "Trigonometry",
         "quiz": [
           {
@@ -20000,6 +20020,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
         "resourceLabel": "YouTube: Rational Functions: Graphing and Asymptotes in Depth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Graphing%20and%20Asymptotes%20in%20Depth%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qGCKjuhA4eQ",
         "quiz": [
           {
             "q": "A vertical asymptote of a rational function typically occurs where ___.",

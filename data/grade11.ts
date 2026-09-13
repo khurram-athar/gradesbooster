@@ -19921,6 +19921,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand review: this lesson revisits absurdist fiction and the Theatre of the Absurd, the dramatic monologue, data visualization and statistical rhetoric, literary journalism, the anecdote in oral storytelling, semicolons and colons, historical fiction, the definition essay, and paratext and the epigraph.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ahkeJI7_29Q",
+        "videoUrls": [
+          {
+            "label": "Literature: Absurdist Fiction and the Theatre of the Absurd",
+            "url": "https://www.youtube.com/watch?v=ahkeJI7_29Q"
+          },
+          {
+            "label": "Poetry: The Dramatic Monologue — Voice and Persona",
+            "url": "https://www.youtube.com/watch?v=ferWxPUN3ig"
+          },
+          {
+            "label": "Media Literacy: Data Visualization and Statistical Rhetoric in Reporting",
+            "url": "https://www.youtube.com/watch?v=E91bGT9BjYk"
+          },
+          {
+            "label": "Independent Reading: Literary Journalism and Creative Non-Fiction",
+            "url": "https://www.youtube.com/watch?v=RtFci5kE3vk"
+          }
+        ],
         "quiz": [
           {
             "q": "Absurdist literature typically portrays a universe that ___.",
@@ -19980,6 +19999,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand review: this lesson revisits ellipses and hyperbolas, matrices, the pigeonhole principle, direct and indirect proof, sinusoidal modelling of periodic phenomena, box-and-whisker plots, point discontinuities in rational functions, the number e, and mortgages and amortization.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=8J3n7amHQzU",
+        "videoUrls": [
+          {
+            "label": "Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions",
+            "url": "https://www.youtube.com/watch?v=8J3n7amHQzU"
+          },
+          {
+            "label": "Statistics: Box-and-Whisker Plots and Outlier Detection",
+            "url": "https://www.youtube.com/watch?v=IicMdTP9s9w"
+          },
+          {
+            "label": "Functions: Rational Functions — Point Discontinuities and Domain Restrictions",
+            "url": "https://www.youtube.com/watch?v=uMKtqK4raR8"
+          },
+          {
+            "label": "Exponential Functions: The Number e and Continuous Growth",
+            "url": "https://www.youtube.com/watch?v=m2MIpDrF7Es"
+          }
+        ],
         "quiz": [
           {
             "q": "An ellipse is defined as the set of all points for which the ___ of the distances to two fixed foci is constant.",
@@ -20039,6 +20077,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand review: this lesson revisits enzyme structure and inhibition, DNA replication, transcription, and translation, taxonomy and the three-domain system, keystone species and trophic cascades, blood glucose regulation, marine ecosystems, the stress response, mutations, and ecological succession.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=qgVFkRn8f10",
+        "videoUrls": [
+          {
+            "label": "Biochemistry: Enzyme Structure, Function, and Inhibition",
+            "url": "https://www.youtube.com/watch?v=qgVFkRn8f10"
+          },
+          {
+            "label": "Molecular Biology: DNA Replication, Transcription, and Translation",
+            "url": "https://www.youtube.com/watch?v=6gUY5NoX1Lk"
+          },
+          {
+            "label": "Taxonomy: Binomial Nomenclature and the Three-Domain System",
+            "url": "https://www.youtube.com/watch?v=DVouQRAKxYo"
+          },
+          {
+            "label": "Ecology: Keystone Species and Trophic Cascades",
+            "url": "https://www.youtube.com/watch?v=hRGg5it5FMI"
+          }
+        ],
         "quiz": [
           {
             "q": "An enzyme is best described as a protein that functions as a ___.",
@@ -20098,6 +20155,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand review: this lesson revisits hydrates and water of crystallization, the ideal gas law, aromatic compounds, nuclear fission and fusion, weak acid and base equilibria, the activity series of metals, solubility product constants, combustion reactions, and ocean acidification.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=t3A69QIlpwM",
+        "videoUrls": [
+          {
+            "label": "Stoichiometry: Hydrates and Water of Crystallization",
+            "url": "https://www.youtube.com/watch?v=t3A69QIlpwM"
+          },
+          {
+            "label": "Gas Laws: The Ideal Gas Law and Molar Volume",
+            "url": "https://www.youtube.com/watch?v=iaZ96KaQ44c"
+          },
+          {
+            "label": "Organic Chemistry: Aromatic Compounds and Benzene Derivatives",
+            "url": "https://www.youtube.com/watch?v=d86lQloVCf0"
+          },
+          {
+            "label": "Nuclear Chemistry: Fission, Fusion, and Nuclear Power",
+            "url": "https://www.youtube.com/watch?v=FU6y1XIADdg"
+          }
+        ],
         "quiz": [
           {
             "q": "A hydrate is best described as an ionic compound that incorporates a fixed number of ___ within its crystal structure.",
@@ -22486,6 +22562,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand review: students revisit photoperiodism, the skeletal system, symbiotic relationships, epigenetics, vaccines and herd immunity, coral reef bleaching, the human microbiome, genetic counselling, and biogeography.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=T5ScIqPnqf8",
+        "videoUrls": [
+          {
+            "label": "Human Biology: The Stress Response and the HPA Axis",
+            "url": "https://www.youtube.com/watch?v=T5ScIqPnqf8"
+          },
+          {
+            "label": "Genetics: Mutations — Types and Effects on Protein Function",
+            "url": "https://www.youtube.com/watch?v=9wB6Rc58yoY"
+          }
+        ],
         "quiz": [
           {
             "q": "What does photoperiodism describe in plants?",
@@ -27866,6 +27953,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: a function is continuous at a point if its limit exists there, the function is defined there, and the limit equals the function value, meaning the graph has no breaks, holes, or jumps at that point.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
         "quiz": [
           {
             "q": "What does it mean for a function to be continuous at a point?",
@@ -28601,6 +28689,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra and Number Sense strands review: this lesson revisits arithmetic sequences, systems of linear inequalities, the discriminant of a quadratic equation, and classifying rational, irrational, and real numbers from Days 71-79.",
         "resourceLabel": "YouTube: Review: Arithmetic Sequences, Linear Inequalities, the Discriminant, and Number Systems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Arithmetic%20Sequences%2C%20Linear%20Inequalities%2C%20the%20Discriminant%2C%20and%20Number%20Systems%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L6LYdv2bCKg",
         "quiz": [
           {
             "q": "An arithmetic sequence is defined by ___.",
@@ -32388,6 +32477,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand review: students revisit chelation therapy, vulcanization, reverse osmosis, catalytic converters, adhesive chemistry, enthalpy of solution, leather tanning, antacid effervescence, and the chemistry of composting.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=ZqCMR7PjZRU",
         "quiz": [
           {
             "q": "What is a chelating agent?",

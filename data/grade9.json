@@ -20101,6 +20101,25 @@
         "summary": "Grade 9 Reading and Writing strands review: this lesson revisits paradox and oxymoron, the process essay, clickbait headline analysis, and parallel structure in sentences from Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=DCPobSssiHk",
+        "videoUrls": [
+          {
+            "label": "Reading: Analyzing Paradox and Oxymoron",
+            "url": "https://www.youtube.com/watch?v=DCPobSssiHk"
+          },
+          {
+            "label": "Writing: The Process (How-To) Essay",
+            "url": "https://www.youtube.com/watch?v=Xm2i_bNty0I"
+          },
+          {
+            "label": "Media Literacy: Clickbait and Headline Analysis",
+            "url": "https://www.youtube.com/watch?v=f9rNJV6ww_8"
+          },
+          {
+            "label": "Grammar: Parallel Structure in Sentences",
+            "url": "https://www.youtube.com/watch?v=2l2FgUrln1A"
+          }
+        ],
         "quiz": [
           {
             "q": "A paradox is best described as ___.",
@@ -20160,6 +20179,7 @@
         "summary": "Students practice combining like terms to add and subtract polynomial expressions, using vertical alignment or algebra tiles as strategies.",
         "resourceLabel": "YouTube: Adding and Subtracting Polynomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Polynomials%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DKC74YKJpNY",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -20220,6 +20240,25 @@
         "summary": "Grade 9 Science strand review: this lesson revisits the digestive system, the nervous system, predicting inheritance with Punnett squares, and ozone depletion from Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=Og5xAdC8EUI",
+        "videoUrls": [
+          {
+            "label": "The Digestive System and Nutrient Absorption",
+            "url": "https://www.youtube.com/watch?v=Og5xAdC8EUI"
+          },
+          {
+            "label": "The Nervous System and the Brain",
+            "url": "https://www.youtube.com/watch?v=qPix_X-9t7E"
+          },
+          {
+            "label": "Genetics: Predicting Inheritance with Punnett Squares",
+            "url": "https://www.youtube.com/watch?v=agQpPPQ5IVQ"
+          },
+          {
+            "label": "Environmental Science: Ozone Depletion and the Ozone Layer",
+            "url": "https://www.youtube.com/watch?v=aU6pxSNDPhs"
+          }
+        ],
         "quiz": [
           {
             "q": "The digestive system breaks down food into ___.",
@@ -20279,6 +20318,25 @@
         "summary": "Grade 9 Social Studies (Geography) review: this lesson revisits weathering and erosion, site and situation, the geography of the Great Lakes, and housing affordability from Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=QJUs4e2X5Uo",
+        "videoUrls": [
+          {
+            "label": "Physical Geography: Weathering, Erosion, and Landform Change",
+            "url": "https://www.youtube.com/watch?v=QJUs4e2X5Uo"
+          },
+          {
+            "label": "Site and Situation: Why Cities Are Located Where They Are",
+            "url": "https://www.youtube.com/watch?v=ENva1tPb8og"
+          },
+          {
+            "label": "The Great Lakes: Geography and Environmental Challenges",
+            "url": "https://www.youtube.com/watch?v=aK8sNuMdPbU"
+          },
+          {
+            "label": "Urban Geography: Housing Affordability and the Housing Crisis",
+            "url": "https://www.youtube.com/watch?v=wP3uQUZlhdo"
+          }
+        ],
         "quiz": [
           {
             "q": "Weathering is best described as the process that ___.",
@@ -22615,6 +22673,17 @@
         "summary": "Grade 9 Math strand review: students revisit solving systems by substitution, scientific notation operations, box-and-whisker plots, direct and partial variation, correlation vs causation, comparing loans, weighted averages, composite solid volume, and modular arithmetic.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=2ZzuZvz33X0",
+        "videoUrls": [
+          {
+            "label": "Algebra: Solving Quadratic Equations by Factoring (Intro)",
+            "url": "https://www.youtube.com/watch?v=2ZzuZvz33X0"
+          },
+          {
+            "label": "Volume and Surface Area of Composite 3D Solids",
+            "url": "https://www.youtube.com/watch?v=qEhWStMWRXo"
+          }
+        ],
         "quiz": [
           {
             "q": "In the substitution method, what is the first step?",
@@ -32551,6 +32620,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand review: students revisit space debris, shrinking inland seas, global remittances, urban transit systems, desertification, river deltas, pharmaceutical access, national parks and ecotourism, and waste-to-energy facilities.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=nPJ2NSWWy50",
         "quiz": [
           {
             "q": "What is space debris?",

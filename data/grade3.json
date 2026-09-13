@@ -19877,6 +19877,25 @@
         "summary": "Grade 3 Language strand review: this lesson revisits similes and metaphors, the four types of sentences, multiple-meaning words, root words, and onomatopoeia.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=35PzoZWJpIM",
+        "videoUrls": [
+          {
+            "label": "Reading: Figurative Language — Similes and Metaphors",
+            "url": "https://www.youtube.com/watch?v=35PzoZWJpIM"
+          },
+          {
+            "label": "Grammar: The Four Types of Sentences",
+            "url": "https://www.youtube.com/watch?v=8_eM9g9of2I"
+          },
+          {
+            "label": "Vocabulary: Multiple-Meaning Words",
+            "url": "https://www.youtube.com/watch?v=cl4Q_HO9KbQ"
+          },
+          {
+            "label": "Vocabulary: Root Words and Base Words",
+            "url": "https://www.youtube.com/watch?v=NXtD3oZZ6aE"
+          }
+        ],
         "quiz": [
           {
             "q": "Which sentence is an example of a simile?",
@@ -19936,6 +19955,25 @@
         "summary": "Grade 3 Math strand review: this lesson revisits multiplying three factors, classifying triangles by side length, input-output tables, the distributive property, and Venn diagrams.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=xN6bGeTbjQM",
+        "videoUrls": [
+          {
+            "label": "Multiplication: Multiplying Three Factors",
+            "url": "https://www.youtube.com/watch?v=xN6bGeTbjQM"
+          },
+          {
+            "label": "Geometry: Classifying Triangles by Side Length",
+            "url": "https://www.youtube.com/watch?v=mLeNaZcy-hE"
+          },
+          {
+            "label": "Patterning: Input-Output Tables",
+            "url": "https://www.youtube.com/watch?v=z2IBSAuImyk"
+          },
+          {
+            "label": "Multiplication: The Distributive Property",
+            "url": "https://www.youtube.com/watch?v=0ADqhtiOtOQ"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 2 × 3 × 4?",
@@ -19995,6 +20033,25 @@
         "summary": "Grade 3 Science strand review: this lesson revisits the butterfly life cycle, nocturnal and diurnal animals, fossils, volcanoes and earthquakes, and plant adaptations around the world.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=3kZD6rlSLUw",
+        "videoUrls": [
+          {
+            "label": "Science: Life Cycle of a Butterfly: Metamorphosis",
+            "url": "https://www.youtube.com/watch?v=3kZD6rlSLUw"
+          },
+          {
+            "label": "Science: Nocturnal vs Diurnal Animals",
+            "url": "https://www.youtube.com/watch?v=sV3HKdnCwRI"
+          },
+          {
+            "label": "Science: Fossils: Clues to the Past",
+            "url": "https://www.youtube.com/watch?v=HubmDAQSo64"
+          },
+          {
+            "label": "Science: Volcanoes and Earthquakes",
+            "url": "https://www.youtube.com/watch?v=VFyb3rhjxtg"
+          }
+        ],
         "quiz": [
           {
             "q": "Which is the correct order of a butterfly’s life cycle?",
@@ -20054,6 +20111,25 @@
         "summary": "Grade 3 Social Studies strand review: this lesson revisits laws and bylaws, taxes, mining and forestry, treaties, and tourism in Ontario.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5dtuZkposkk",
+        "videoUrls": [
+          {
+            "label": "Social Studies: How Laws and Bylaws Keep Communities Safe",
+            "url": "https://www.youtube.com/watch?v=5dtuZkposkk"
+          },
+          {
+            "label": "Social Studies: Taxes: How Communities Pay for Shared Services",
+            "url": "https://www.youtube.com/watch?v=HJV7SbkeC60"
+          },
+          {
+            "label": "Social Studies: Ontario’s Mining and Forestry Industries",
+            "url": "https://www.youtube.com/watch?v=aFF8k7bJ_80"
+          },
+          {
+            "label": "Social Studies: Treaties Between Canada and Indigenous Peoples",
+            "url": "https://www.youtube.com/watch?v=SVaK9rAV32A"
+          }
+        ],
         "quiz": [
           {
             "q": "Bylaws are rules made by a ___ government.",
@@ -22390,6 +22466,21 @@
         "summary": "Grade 3 Math strand review: students revisit multiplying by 11 and 12, missing side lengths, surveys, numbers to 10 000, fraction word problems, powers of ten, range, time conversions, and profit and loss.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=xN6bGeTbjQM",
+        "videoUrls": [
+          {
+            "label": "Multiplication: Multiplying Three Factors",
+            "url": "https://www.youtube.com/watch?v=xN6bGeTbjQM"
+          },
+          {
+            "label": "Review: Division, Fractions, and Multiplication Strategies",
+            "url": "https://www.youtube.com/watch?v=EfU8kA1CWdw"
+          },
+          {
+            "label": "Time: Telling Time on Analog and Digital Clocks",
+            "url": "https://www.youtube.com/watch?v=sG1bwSy9Gus"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 11 times 4?",
@@ -22508,6 +22599,25 @@
         "summary": "Grade 3 Social Studies strand review: students revisit Ontario manufacturing, municipal budgets, comparing provinces, Indigenous place names, local charities, the Underground Railroad, water conservation, weather and the economy, and civic participation.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=u-OGGMGgbh0",
+        "videoUrls": [
+          {
+            "label": "Social Studies: Tourism in Ontario: Visiting Our Province",
+            "url": "https://www.youtube.com/watch?v=u-OGGMGgbh0"
+          },
+          {
+            "label": "Social Studies: Treaties Between Canada and Indigenous Peoples",
+            "url": "https://www.youtube.com/watch?v=SVaK9rAV32A"
+          },
+          {
+            "label": "Social Studies: Newspapers and Local Media: Staying Informed",
+            "url": "https://www.youtube.com/watch?v=57eplWWMbmA"
+          },
+          {
+            "label": "Review: Government, Geography, and Economy",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          }
+        ],
         "quiz": [
           {
             "q": "What do we call factories producing goods like cars and machinery?",
@@ -32729,6 +32839,7 @@
         "summary": "Students review recent Science topics: soil layers, volcanoes, earthquakes, coral reefs, hibernation, the northern lights, renewable energy, our lungs, and our nose and taste buds.",
         "resourceLabel": "YouTube: Science Review: Earth, Habitats, and Our Bodies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Earth%2C%20Habitats%2C%20and%20Our%20Bodies%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uMR5XlHuuKs",
         "quiz": [
           {
             "q": "What is an earthquake?",

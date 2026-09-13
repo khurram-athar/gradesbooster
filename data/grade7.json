@@ -21370,6 +21370,17 @@
         "summary": "Grade 5 Social Studies strand review: students revisit Canada’s music and film industry, provinces joining Confederation, the RCMP, division of powers, the Bank of Canada, universal health care, criminal versus civil law, the Group of Seven, and national holidays.",
         "resourceLabel": "YouTube: Review: Canadian Institutions, History, and Culture (Days 91-99)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Canadian%20Institutions%2C%20History%2C%20and%20Culture%20%28Days%2091-99%29%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
+        "videoUrls": [
+          {
+            "label": "Canada’s Official Languages: French and English Bilingualism",
+            "url": "https://www.youtube.com/watch?v=lIVMh97mHxw"
+          },
+          {
+            "label": "How Provinces and Territories Joined Confederation Over Time",
+            "url": "https://www.youtube.com/watch?v=J04aoVjtsBo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which province was the last to join Confederation, in 1949?",
@@ -23097,6 +23108,7 @@
         "summary": "Grade 5 Social Studies strand review: students revisit provincial symbols, the Senate, the Canadian Shield, Elections Canada, and Canada’s forestry industry.",
         "resourceLabel": "YouTube: Review: Government Structures, Geography, and Economy (Days 101-109)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Government%20Structures%2C%20Geography%2C%20and%20Economy%20%28Days%20101-109%29%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
         "quiz": [
           {
             "q": "Does each Canadian province have its own official flag?",
@@ -27404,6 +27416,7 @@
         "summary": "Grade 7 Math strand review: students revisit multiplying a monomial by a polynomial, the distributive property, histograms, mutually exclusive events, and scatter plots.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=FeP-EVRW-RA",
         "quiz": [
           {
             "q": "What property is applied when multiplying a monomial by a polynomial?",

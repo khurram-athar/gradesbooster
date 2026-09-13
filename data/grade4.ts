@@ -21481,6 +21481,21 @@ const curriculum: DayContent[] = [
         "summary": "Students review recent Social Studies topics: Terry Fox, democracy, provincial and territorial capital cities, First Nations, Inuit, and Metis peoples, national emblems, languages of the world, the Underground Railroad, map scale, and communities helping after a disaster.",
         "resourceLabel": "YouTube: Social Studies Review: Canadian Heritage, Government, and Geography",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Canadian%20Heritage%2C%20Government%2C%20and%20Geography%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nKGCbvNISHA",
+        "videoUrls": [
+          {
+            "label": "Canada’s National Parks and Protected Areas",
+            "url": "https://www.youtube.com/watch?v=nKGCbvNISHA"
+          },
+          {
+            "label": "Canada’s Political Map: Capital Cities and Their Roles",
+            "url": "https://www.youtube.com/watch?v=vCfqg9GrB_0"
+          },
+          {
+            "label": "Exploring Life in Canada’s Arctic Communities",
+            "url": "https://www.youtube.com/watch?v=SaUfZJoP1VI"
+          }
+        ],
         "quiz": [
           {
             "q": "What did Terry Fox call his run across Canada?",
@@ -22341,6 +22356,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand review: students revisit the War of 1812, the justice system, Canadian astronauts, the census, time capsules, and public signs.",
         "resourceLabel": "YouTube: Social Studies Review: History, Government, and Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20History%2C%20Government%2C%20and%20Community%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
+        "videoUrls": [
+          {
+            "label": "Review: Early Societies and Canadian Geography (Days 71-79)",
+            "url": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
+          },
+          {
+            "label": "Time Zones Across Canada",
+            "url": "https://www.youtube.com/watch?v=m6gnEcMQsZg"
+          }
+        ],
         "quiz": [
           {
             "q": "Who fought in the War of 1812?",
@@ -25247,6 +25273,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand review: students revisit our school principal, the Canadian Shield, Sir John A Macdonald, the fur trade, Orange Shirt Day, and the Underground Railroad.",
         "resourceLabel": "YouTube: Social Studies Review: Leaders, Land, and Our History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Land%2C%20and%20Our%20History%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
         "quiz": [
           {
             "q": "What is the main role of a school principal?",
@@ -28546,6 +28573,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand review: students revisit the Indus Valley civilization, West African kingdoms, United Empire Loyalists, the War of 1812, the Underground Railroad, Canada’s justice system, the Metis Nation and the Red River Resistance, the history of the Canadian flag, and Canada’s contributions to space exploration.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
         "quiz": [
           {
             "q": "Along which river did the Indus Valley civilization develop?",
@@ -33590,6 +33618,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand review: students revisit ancient Japan, the role of the Prime Minister, the Canadian Coast Guard, Remembrance Day, and the boreal forest.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
         "quiz": [
           {
             "q": "What type of geography influenced ancient Japans development?",

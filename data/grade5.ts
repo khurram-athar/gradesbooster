@@ -20534,6 +20534,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: this review lesson revisits key ideas from Days 71-79, including irony, subject-verb agreement, imagery, and pronoun-antecedent agreement.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=DL6n-v5MAxU",
+        "videoUrls": [
+          {
+            "label": "Reading: Understanding Irony",
+            "url": "https://www.youtube.com/watch?v=DL6n-v5MAxU"
+          },
+          {
+            "label": "Grammar: Subject-Verb Agreement",
+            "url": "https://www.youtube.com/watch?v=tySLFboxzyM"
+          },
+          {
+            "label": "Figurative Language: Imagery",
+            "url": "https://www.youtube.com/watch?v=br3p6MhvBkA"
+          },
+          {
+            "label": "Grammar: Pronoun-Antecedent Agreement",
+            "url": "https://www.youtube.com/watch?v=cMPM1DIPGck"
+          }
+        ],
         "quiz": [
           {
             "q": "Irony occurs when there is a difference between what is expected and ___.",
@@ -20593,6 +20612,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: this review lesson revisits key ideas from Days 71-79, including multiplying two-digit numbers, least common multiple and greatest common factor, multiplying decimals by powers of ten, and volume of rectangular prisms.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=RVYwunbpMHA",
+        "videoUrls": [
+          {
+            "label": "Multiplying Two-Digit Numbers",
+            "url": "https://www.youtube.com/watch?v=RVYwunbpMHA"
+          },
+          {
+            "label": "Least Common Multiple and Greatest Common Factor",
+            "url": "https://www.youtube.com/watch?v=zvaxUJOv6jM"
+          },
+          {
+            "label": "Multiplying Decimals by Powers of Ten",
+            "url": "https://www.youtube.com/watch?v=v2qLlJ7KwHk"
+          },
+          {
+            "label": "Volume of Rectangular Prisms",
+            "url": "https://www.youtube.com/watch?v=By7sVb2IhFs"
+          }
+        ],
         "quiz": [
           {
             "q": "When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.",
@@ -20652,6 +20690,21 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: this review lesson revisits key ideas from Days 71-79, including heat transfer, electrical conductors and insulators, sound pitch and frequency, and groundwater and the water table.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=qZjDMQbn3a0",
+        "videoUrls": [
+          {
+            "label": "Electrical Conductors and Insulators",
+            "url": "https://www.youtube.com/watch?v=qZjDMQbn3a0"
+          },
+          {
+            "label": "Sound: Pitch and Frequency",
+            "url": "https://www.youtube.com/watch?v=wEL87lznGrg"
+          },
+          {
+            "label": "Groundwater and the Water Table",
+            "url": "https://www.youtube.com/watch?v=xoeDCxjBnVs"
+          }
+        ],
         "quiz": [
           {
             "q": "Conduction is the transfer of heat through ___.",
@@ -20711,6 +20764,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: this review lesson revisits key ideas from Days 71-79, including the Klondike Gold Rush, the Governor General, provincial premiers, and the Franklin Expedition.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=jsPOHWSZuHg",
+        "videoUrls": [
+          {
+            "label": "The Role of the Governor General",
+            "url": "https://www.youtube.com/watch?v=jsPOHWSZuHg"
+          },
+          {
+            "label": "Provincial Legislatures and the Role of the Premier",
+            "url": "https://www.youtube.com/watch?v=dw8F1huWq7w"
+          }
+        ],
         "quiz": [
           {
             "q": "The Klondike Gold Rush drew thousands of prospectors to the ___.",
@@ -21368,6 +21432,25 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand review: students revisit classifying triangles by angle, 2-digit by 2-digit multiplication, three-digit division, place value beyond 10 000, frequency tables, improper fractions, measuring angles, discounts, and circles.",
         "resourceLabel": "YouTube: Math Review: Triangles, Place Value, and Circles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Triangles%2C%20Place%20Value%2C%20and%20Circles%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RVYwunbpMHA",
+        "videoUrls": [
+          {
+            "label": "Multiplying Two-Digit Numbers",
+            "url": "https://www.youtube.com/watch?v=RVYwunbpMHA"
+          },
+          {
+            "label": "Rounding Whole Numbers to a Given Place Value",
+            "url": "https://www.youtube.com/watch?v=fd-E18EqSVk"
+          },
+          {
+            "label": "Data Management: Surveys, Tally Charts, and Frequency Tables",
+            "url": "https://www.youtube.com/watch?v=JuEpHNhRJlA"
+          },
+          {
+            "label": "Measurement: Measuring Angles with a Protractor",
+            "url": "https://www.youtube.com/watch?v=dw41PMWek6U"
+          }
+        ],
         "quiz": [
           {
             "q": "A right triangle has one angle that measures ___.",
@@ -23224,6 +23307,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand review: students revisit Canada’s space program, the CFL, world time zones, refugees, postal history, the national anthem, NGOs, mining, and Canadian higher education.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BrjMpk7ajCs",
+        "videoUrls": [
+          {
+            "label": "Charities and Non-Profit Organizations in Canada",
+            "url": "https://www.youtube.com/watch?v=BrjMpk7ajCs"
+          },
+          {
+            "label": "Review: Confederation, Economy, Capitals, and Canadian Identity",
+            "url": "https://www.youtube.com/watch?v=HJV7SbkeC60"
+          }
+        ],
         "quiz": [
           {
             "q": "What is the name of Canada’s space agency?",
@@ -23714,6 +23808,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand review: students revisit the Inuit, early European explorers, the Governor General, how a bill becomes a law, the Senate and House of Commons, Canadian achievements in space, land acknowledgements, the Coat of Arms, and Canadian peacekeeping.",
         "resourceLabel": "YouTube: Social Studies Review: Government, Explorers, and Canadian Symbols",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Explorers%2C%20and%20Canadian%20Symbols%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jsPOHWSZuHg",
         "quiz": [
           {
             "q": "The Inuit are one of how many recognized groups of Indigenous peoples in Canada?",

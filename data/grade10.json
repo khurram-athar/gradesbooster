@@ -19930,6 +19930,25 @@
         "summary": "Grade 10 English strand: this review lesson revisits the unreliable narrator, motif and recurring imagery, sentence fragments and run-ons, diction and tone, the cover letter and resume, frame narratives, constructive feedback, dialogue as characterization, and modifiers covered across Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=n0eqEZ7jQa0",
+        "videoUrls": [
+          {
+            "label": "Reading: The Unreliable Narrator",
+            "url": "https://www.youtube.com/watch?v=n0eqEZ7jQa0"
+          },
+          {
+            "label": "Reading: Motif and Recurring Imagery",
+            "url": "https://www.youtube.com/watch?v=sVPtq5G4woc"
+          },
+          {
+            "label": "Grammar: Sentence Fragments and Run-On Sentences",
+            "url": "https://www.youtube.com/watch?v=GJZzAaexLd4"
+          },
+          {
+            "label": "Writing: Analyzing Diction and Tone",
+            "url": "https://www.youtube.com/watch?v=NsnRs7WSElU"
+          }
+        ],
         "quiz": [
           {
             "q": "An unreliable narrator is best described as a narrator whose ___.",
@@ -19989,6 +20008,25 @@
         "summary": "Grade 10 Math strand review: this lesson revisits the discriminant, direct and partial variation, compound interest, angle of elevation and depression, the three-dimensional Pythagorean theorem, laws of exponents, the dot product, polynomial zeros and factors, and dilations covered across Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=6fU9ZgwbU74",
+        "videoUrls": [
+          {
+            "label": "Quadratic Relations: The Discriminant and Nature of Roots",
+            "url": "https://www.youtube.com/watch?v=6fU9ZgwbU74"
+          },
+          {
+            "label": "Algebra: Direct and Partial Variation",
+            "url": "https://www.youtube.com/watch?v=hNgLm4Q1IS8"
+          },
+          {
+            "label": "Financial Literacy: Compound Interest and Amortization",
+            "url": "https://www.youtube.com/watch?v=P182Abv3fOk"
+          },
+          {
+            "label": "Geometry: Angle of Elevation and Depression",
+            "url": "https://www.youtube.com/watch?v=uyKvSe6Ltgs"
+          }
+        ],
         "quiz": [
           {
             "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
@@ -20048,6 +20086,25 @@
         "summary": "Grade 10 Science strand review: this lesson revisits periodic trends, the circulatory and respiratory systems, static electricity, renewable and non-renewable energy resources, empirical and molecular formulas, biodiversity and conservation, simple machines, soil formation, and xylem and phloem covered across Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=hePb00CqvP0",
+        "videoUrls": [
+          {
+            "label": "Chemistry: Periodic Trends",
+            "url": "https://www.youtube.com/watch?v=hePb00CqvP0"
+          },
+          {
+            "label": "Biology: The Circulatory and Respiratory Systems",
+            "url": "https://www.youtube.com/watch?v=9fxm85Fy4sQ"
+          },
+          {
+            "label": "Physics: Static Electricity and Electric Charge",
+            "url": "https://www.youtube.com/watch?v=Vrh5FeGUTJA"
+          },
+          {
+            "label": "Earth Science: Renewable and Non-Renewable Energy Resources",
+            "url": "https://www.youtube.com/watch?v=axCR3uIn3Vs"
+          }
+        ],
         "quiz": [
           {
             "q": "As you move from left to right across a period, atomic radius generally ___.",
@@ -20107,6 +20164,25 @@
         "summary": "Grade 10 History strand review: this lesson revisits Canada and the First World War, the Conscription Crisis, the Chanak Affair and Statute of Westminster, the Spanish Flu pandemic, the Bomarc missile crisis, the Massey Commission, and how bills, elections, and levels of government function, covered across Days 71-79.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
+        "videoUrls": [
+          {
+            "label": "Civics: How a Bill Becomes a Law in Canada",
+            "url": "https://www.youtube.com/watch?v=4O8syj77goQ"
+          },
+          {
+            "label": "Canada and the First World War: Vimy Ridge and the Birth of National Identity",
+            "url": "https://www.youtube.com/watch?v=mJnXQU1QDLg"
+          },
+          {
+            "label": "The Conscription Crisis of 1917",
+            "url": "https://www.youtube.com/watch?v=vNZFLEQJKho"
+          },
+          {
+            "label": "Growing Canadian Autonomy: The Chanak Affair and the Statute of Westminster",
+            "url": "https://www.youtube.com/watch?v=kg4yBQjr9Wk"
+          }
+        ],
         "quiz": [
           {
             "q": "Canada entered the First World War in which year?",
@@ -22375,6 +22451,17 @@
         "summary": "Grade 10 English strand review: students revisit existentialist themes, rhetorical analysis, nominalization, podcast journalism, unreliable memoir framing, op-ed rebuttals, the Greek chorus, storytelling in public speaking, and comparing adaptations.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=43Vrnaz8fYU",
+        "videoUrls": [
+          {
+            "label": "Review: Character, Craft, and Rhetorical Analysis",
+            "url": "https://www.youtube.com/watch?v=43Vrnaz8fYU"
+          },
+          {
+            "label": "Reading: The Unreliable Narrator",
+            "url": "https://www.youtube.com/watch?v=n0eqEZ7jQa0"
+          }
+        ],
         "quiz": [
           {
             "q": "What do existentialist themes in fiction often explore?",
@@ -22552,6 +22639,7 @@
         "summary": "Grade 10 History strand review: students revisit draft dodgers, the Canada Pension Plan, the Berlin Wall, the Green Revolution, VIA Rail, the 1980 referendum, the Gulf War, the Free Trade Agreement debate, and the Rwanda peacekeeping mission.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "What did Canada become for many American draft resisters during the Vietnam War?",
@@ -27468,6 +27556,7 @@
         "summary": "Grade 10 History strand review: students revisit the War of 1812, the Rebellions of 1837-38, the Durham Report, the road to Confederation, the United Empire Loyalists, the Numbered Treaties, the Acadian Expulsion, WWI internment, and the Selkirk Settlement.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "Between which two countries was the War of 1812 primarily fought?",
@@ -32365,6 +32454,7 @@
         "summary": "Grade 10 History strand review: students revisit the 1919 Paris Peace Conference, the King-Byng Affair, the Manitoba Act, the Canadian Pacific Railway, the Rowell-Sirois Commission, the Manitoba Schools Question, British Columbia and Prince Edward Island joining Confederation, and the Halibut Treaty.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "What major agreement was signed at the Paris Peace Conference in 1919?",
@@ -37263,6 +37353,7 @@
         "summary": "Grade 10 History strand review: students revisit the On-to-Ottawa Trek, the Padlock Law, the National Housing Act, the Munich Agreement, the founding of Trans-Canada Air Lines, the National Film Board, the Canadian Wheat Board, the Ogdensburg Agreement, and the National Resources Mobilization Act.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=4O8syj77goQ",
         "quiz": [
           {
             "q": "What was the On-to-Ottawa Trek?",

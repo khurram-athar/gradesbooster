@@ -23886,6 +23886,25 @@
         "summary": "Students review recent Language skills: digraphs, silent e, adding -ed, word families, exclamation marks, fiction and nonfiction, book parts, and sight words.",
         "resourceLabel": "YouTube: Language Review: Digraphs, Word Families, and Books",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Digraphs%2C%20Word%20Families%2C%20and%20Books%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d4PKjUFyyoM",
+        "videoUrls": [
+          {
+            "label": "Digraphs: sh, ch, and th",
+            "url": "https://www.youtube.com/watch?v=d4PKjUFyyoM"
+          },
+          {
+            "label": "Silent E: The Magic E at the End",
+            "url": "https://www.youtube.com/watch?v=dcBfSesrnOI"
+          },
+          {
+            "label": "Adding -ed: Talking About the Past",
+            "url": "https://www.youtube.com/watch?v=jxl28KQOHy4"
+          },
+          {
+            "label": "Word Families: -an Words",
+            "url": "https://www.youtube.com/watch?v=ei3dsyr8A20"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word begins with the digraph sh?",
@@ -23965,6 +23984,25 @@
         "summary": "A cumulative review mixing one-to-one counting, ten frames, before/after numbers, ordering, and skip counting to reinforce number sense skills from this unit.",
         "resourceLabel": "YouTube: Math Review: Counting, Numbers, and Number Sense",
         "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Counting%2C%20Numbers%2C%20and%20Number%20Sense%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uFssMU4GVLs",
+        "videoUrls": [
+          {
+            "label": "Ten Frames: Seeing Numbers to 10",
+            "url": "https://www.youtube.com/watch?v=uFssMU4GVLs"
+          },
+          {
+            "label": "Before and After: Missing Numbers on the Number Path",
+            "url": "https://www.youtube.com/watch?v=7834JCVXGm4"
+          },
+          {
+            "label": "Ordering Numbers: Smallest to Largest",
+            "url": "https://www.youtube.com/watch?v=OXjz8vkL_QE"
+          },
+          {
+            "label": "Skip Counting by 2s to 20",
+            "url": "https://www.youtube.com/watch?v=NCAWsawkJgo"
+          }
+        ],
         "quiz": [
           {
             "q": "What number comes right after 9?",
@@ -24024,6 +24062,25 @@
         "summary": "Students review recent Science topics: our heart, rainforests, Arctic animals, spiders, the water cycle, magnifying glasses, compost, animal shelters, and our tongue.",
         "resourceLabel": "YouTube: Science Review: Our Bodies, Habitats, and Nature",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Habitats%2C%20and%20Nature%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a2ilmR8kg5E",
+        "videoUrls": [
+          {
+            "label": "Spiders: Eight Legs and Webs",
+            "url": "https://www.youtube.com/watch?v=a2ilmR8kg5E"
+          },
+          {
+            "label": "The Water Cycle: Rain, Clouds, and Evaporation",
+            "url": "https://www.youtube.com/watch?v=ncORPosDrjI"
+          },
+          {
+            "label": "Magnifying Glasses: Looking Closely at Small Things",
+            "url": "https://www.youtube.com/watch?v=ECebbEWhxw0"
+          },
+          {
+            "label": "Compost: Turning Food Scraps into Soil",
+            "url": "https://www.youtube.com/watch?v=26IO95Xt5WU"
+          }
+        ],
         "quiz": [
           {
             "q": "Which animal is well known for living in the rainforest?",
@@ -24104,6 +24161,25 @@
         "summary": "Students review recent Social Studies topics: dentists, banks, recycling centres, local parks, good sportsmanship, veterinarians, museums, group choices, and honesty.",
         "resourceLabel": "YouTube: Social Studies Review: Helpers, Places, and Kindness",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Places%2C%20and%20Kindness%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MHcPzoMgxnc",
+        "videoUrls": [
+          {
+            "label": "Our Dentist: Keeping Our Teeth Healthy",
+            "url": "https://www.youtube.com/watch?v=MHcPzoMgxnc"
+          },
+          {
+            "label": "Our Bank: Saving Our Money",
+            "url": "https://www.youtube.com/watch?v=CqD3hnjZBTM"
+          },
+          {
+            "label": "Our Recycling Centre: Where Bottles and Cans Go",
+            "url": "https://www.youtube.com/watch?v=0_Ufbm5ZkBY"
+          },
+          {
+            "label": "Our Local Park: Where Neighbours Gather",
+            "url": "https://www.youtube.com/watch?v=wlBC2ljoGAk"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a place called where people can keep their money safe?",
@@ -24191,6 +24267,7 @@
         "summary": "Students explore the -ig word family, learning that changing the first letter of words like big, pig, and dig creates new rhyming words that share the same ending sound.",
         "resourceLabel": "YouTube: Word Families: -ig Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ig%20Words%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Xufm0Dr2JTs",
         "quiz": [
           {
             "q": "Which word rhymes with big?",
@@ -24273,6 +24350,7 @@
         "summary": "Students explore the different ways two small groups can combine to make 5, such as 2 and 3 or 1 and 4, building early addition sense with small numbers.",
         "resourceLabel": "YouTube: Making 5: Number Bonds Within 5",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%205%3A%20Number%20Bonds%20Within%205%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=y1oa6o0fMKk",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -24333,6 +24411,7 @@
         "summary": "Students learn that skin covers our whole body and helps protect us from germs, dirt, and the sun, and that keeping skin clean helps us stay healthy.",
         "resourceLabel": "YouTube: Our Skin: Protecting Our Body",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Skin%3A%20Protecting%20Our%20Body%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZwpbuCJr63E",
         "quiz": [
           {
             "q": "What body part covers our whole body?",
@@ -24415,6 +24494,7 @@
         "summary": "Students learn about the job of a librarian, a community helper who works at the library, helps people find books, and teaches us how to borrow and return them.",
         "resourceLabel": "YouTube: Our Librarian: Helping Us Find and Borrow Books",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Librarian%3A%20Helping%20Us%20Find%20and%20Borrow%20Books%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-UR9BNCQghE",
         "quiz": [
           {
             "q": "Who helps people find books at the library?",
@@ -26637,6 +26717,7 @@
         "summary": "A cumulative review revisiting the -ig and -ug word families, beginning blends, rhyming, question mark punctuation, spaces between words, time order words, character traits, and poetry from the past several days.",
         "resourceLabel": "YouTube: Language Review: Blends, Rhymes, and Poetry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Rhymes%2C%20and%20Poetry%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ei3dsyr8A20",
         "quiz": [
           {
             "q": "Which word belongs to the -ig word family?",
@@ -29094,6 +29175,17 @@
         "summary": "A milestone review pulling together the new -ot and -et word families, l- and s-blends, ending blends, the wh and ph digraphs, and short vowel discrimination practiced over the past ten days.",
         "resourceLabel": "YouTube: Language Review: Word Families, Blends, and Vowel Sounds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Blends%2C%20and%20Vowel%20Sounds%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d4PKjUFyyoM",
+        "videoUrls": [
+          {
+            "label": "Language Review: Digraphs, Word Families, and Books",
+            "url": "https://www.youtube.com/watch?v=d4PKjUFyyoM"
+          },
+          {
+            "label": "Language Review: Blends, Rhymes, and Poetry",
+            "url": "https://www.youtube.com/watch?v=ei3dsyr8A20"
+          }
+        ],
         "quiz": [
           {
             "q": "Which word is part of the -ot family?",

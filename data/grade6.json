@@ -22531,6 +22531,7 @@
         "summary": "Grade 6 Math strand review: students revisit scale factor, multi-step equations, slope, two-way frequency tables, cylinder surface area, percent increase and decrease, the Pythagorean theorem, tree diagrams, and financial literacy.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=EvQf38lnAJc",
         "quiz": [
           {
             "q": "What does a scale factor describe?",
@@ -22649,6 +22650,21 @@
         "summary": "Grade 6 Social Studies strand review: students revisit the Green Revolution, the Space Race, refugee crises, trade agreements, Indigenous self-government, the Olympic Games, urbanization, renewable energy policy, and social media activism.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo",
+        "videoUrls": [
+          {
+            "label": "The Fur Trade and the Voyageurs",
+            "url": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
+          },
+          {
+            "label": "Treaties and Indigenous-Crown Relations in Canada",
+            "url": "https://www.youtube.com/watch?v=2rZ3OyK7zz4"
+          },
+          {
+            "label": "Review: Social Studies Days 71-79",
+            "url": "https://www.youtube.com/watch?v=efNVeGxLdCg"
+          }
+        ],
         "quiz": [
           {
             "q": "What was the Green Revolution?",
@@ -23650,6 +23666,17 @@
         "summary": "Grade 4 Social Studies strand review: students revisit the Byzantine Empire, the Rocky Mountains, the Canadian Pacific Railway, Canadas fishing industry, and the National Day for Truth and Reconciliation.",
         "resourceLabel": "YouTube: Social Studies Review: Ancient Civilizations, Geography, and Canadian History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Ancient%20Civilizations%2C%20Geography%2C%20and%20Canadian%20History%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
+        "videoUrls": [
+          {
+            "label": "Social Studies: The Canadian Pacific Railway — Connecting the Country",
+            "url": "https://www.youtube.com/watch?v=YGrSLn32_FU"
+          },
+          {
+            "label": "Our Senate: Another Part of Canadas Government",
+            "url": "https://www.youtube.com/watch?v=3kv0I8E9dBw"
+          }
+        ],
         "quiz": [
           {
             "q": "What was the Byzantine Empire a continuation of?",
@@ -25119,6 +25146,17 @@
         "summary": "Grade 6 Social Studies strand review: students revisit the Truth and Reconciliation Commission, UNESCO World Heritage Sites, ancient Nubia, the Canadian Senate, global population growth, national parks, world religions, NGOs, and foreign aid.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
+        "videoUrls": [
+          {
+            "label": "Social Studies Review: Ancient Civilizations, Geography, and Canadian History",
+            "url": "https://www.youtube.com/watch?v=YGrSLn32_FU"
+          },
+          {
+            "label": "Review: Global History and Modern Global Issues (Days 81-89)",
+            "url": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
+          }
+        ],
         "quiz": [
           {
             "q": "What did the Truth and Reconciliation Commission document?",
@@ -27566,6 +27604,7 @@
         "summary": "Grade 6 Social Studies strand review: students revisit ancient Persia, land acknowledgements, urban and rural communities, the Group of Seven, the October Crisis, Japanese Canadian internment, the World Health Organization, Arctic sovereignty, and the Trans-Canada Highway.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "What was the Achaemenid Empire?",
@@ -30015,6 +30054,7 @@
         "summary": "Grade 6 Social Studies strand review: students revisit the RCMP, the census, sister cities, Terry Fox, the Franklin Expedition, Canadian currency history, the Auditor General, the Magna Carta, and the Klondike Gold Rush.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "What does RCMP stand for?",
@@ -32468,6 +32508,7 @@
         "summary": "Grade 6 Social Studies strand review: students revisit Canadian national symbols, the Persons Case, the St. Lawrence Seaway, the Avro Arrow, and the Canadian Pacific Railway.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU",
         "quiz": [
           {
             "q": "What image appears on the Canadian flag?",
