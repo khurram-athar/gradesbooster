@@ -20159,8 +20159,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: The Roman a Clef — Fiction Disguising Reality",
         "summary": "Grade 12 English strand: a roman a clef is a novel that portrays real people and events under a thin fictional disguise, requiring readers to recognize the reality behind invented names.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Literature: The Roman a Clef — Fiction Disguising Reality",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Roman%20a%20Clef%20%E2%80%94%20Fiction%20Disguising%20Reality%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does a roman a clef portray under a thin fictional disguise?",
@@ -20213,7 +20213,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=0edxIRgf6Zs"
       },
       {
         "subject": "AdvancedFunctions",
@@ -20273,14 +20274,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=SE5SBTgrwH8"
       },
       {
         "subject": "Calculus",
         "title": "Calculus: The Epsilon-Delta Definition of a Limit",
         "summary": "Grade 12 Calculus strand: the epsilon-delta definition provides a rigorous, formal way to define what it means for a function to approach a limit, using precise inequalities involving small quantities epsilon and delta.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "resourceLabel": "YouTube: Calculus: The Epsilon-Delta Definition of a Limit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20The%20Epsilon-Delta%20Definition%20of%20a%20Limit%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does the epsilon-delta definition provide for the concept of a limit?",
@@ -20333,7 +20335,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Limits & Rates of Change"
+        "topic": "Calculus: Limits & Rates of Change",
+        "videoUrl": "https://www.youtube.com/watch?v=-ejyeII0i5c"
       },
       {
         "subject": "Physics",

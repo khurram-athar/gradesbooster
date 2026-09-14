@@ -25002,7 +25002,8 @@ const curriculum: DayContent[] = [
               "zoo"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=6qD8EkqDL94"
       },
       {
         "subject": "Math",
@@ -25085,7 +25086,14 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=3kAWgxcQG8I",
+        "videoUrls": [
+          {
+            "label": "Skip Counting by 9s",
+            "url": "https://www.youtube.com/watch?v=c0Nj3GIA6TY"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -25397,7 +25405,8 @@ const curriculum: DayContent[] = [
               "greater"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Ju3kQjmcH5g"
       },
       {
         "subject": "Science",
@@ -25539,7 +25548,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Environment & Sustainability (Social Studies)"
+        "topic": "Environment & Sustainability (Social Studies)",
+        "videoUrl": "https://www.youtube.com/watch?v=S0-ZKIlEYO8"
       }
     ]
   },

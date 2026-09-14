@@ -20838,8 +20838,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Tone in a Text",
         "summary": "Grade 5 Language strand: tone is the author’s attitude toward a subject, expressed through word choice, such as a playful tone, a serious tone, or a sarcastic tone.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Tone in a Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Tone%20in%20a%20Text%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call the author’s attitude toward a subject, shown through word choice?",
@@ -20892,14 +20892,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=l3yWmXbC36s"
       },
       {
         "subject": "Math",
         "title": "Proportional Reasoning: Scaling Recipes Up and Down",
         "summary": "Grade 5 Math strand: students use proportional reasoning to scale a recipe up or down, such as doubling every ingredient amount to serve twice as many people.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Proportional Reasoning: Scaling Recipes Up and Down",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Proportional%20Reasoning%3A%20Scaling%20Recipes%20Up%20and%20Down%20grade%205%20educational",
         "quiz": [
           {
             "q": "If a recipe needs 2 cups of flour to serve 4 people, how much flour is needed to serve 8 people?",
@@ -20952,7 +20953,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=USmit5zUGas"
       },
       {
         "subject": "Science",
@@ -21033,14 +21035,15 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=rVDZYQOoeHw"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Canada’s Space Program and Astronauts",
         "summary": "Grade 5 Social Studies strand: Canada has its own space program, the Canadian Space Agency, which has trained astronauts, such as Chris Hadfield, who have travelled to the International Space Station.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Space Program and Astronauts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Space%20Program%20and%20Astronauts%20grade%205%20educational",
         "quiz": [
           {
             "q": "What is the name of Canada’s space agency?",
@@ -21092,7 +21095,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Sbf1Svw_rTY"
       }
     ]
   },

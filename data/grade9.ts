@@ -20456,14 +20456,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=N1jEzyoEpEg"
       },
       {
         "subject": "Math",
         "title": "Solving Systems of Equations by Substitution",
         "summary": "Grade 9 Math strand: the substitution method solves a system of two linear equations by isolating one variable in one equation, then substituting that expression into the other equation.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Solving Systems of Equations by Substitution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Systems%20of%20Equations%20by%20Substitution%20grade%209%20educational",
         "quiz": [
           {
             "q": "In the substitution method, what is the first step?",
@@ -20516,7 +20517,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=ZfjzxEBa1jQ"
       },
       {
         "subject": "Science",
@@ -20576,14 +20578,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=j7JcyDBHCBc"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Renewable Energy Grids",
         "summary": "Grade 9 Social Studies strand: renewable energy grids connect power sources like wind and solar farms to homes and businesses, requiring careful geographic planning to manage energy where it is generated and used.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Renewable Energy Grids",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Renewable%20Energy%20Grids%20grade%209%20educational",
         "quiz": [
           {
             "q": "What do renewable energy grids connect power sources to?",

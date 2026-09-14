@@ -25269,7 +25269,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=5o1Qg_zTyaw"
       },
       {
         "subject": "Math",
@@ -25352,7 +25353,14 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=f3cEpwUSN7g",
+        "videoUrls": [
+          {
+            "label": "Multiply by 7's",
+            "url": "https://www.youtube.com/watch?v=7pbwAax2zU4"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -25433,7 +25441,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=vRuh9aBwUdM"
       },
       {
         "subject": "SocialStudies",
@@ -25514,7 +25523,8 @@ const curriculum: DayContent[] = [
               "community decisions"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=B-fyGGC3uaM"
       }
     ]
   },
@@ -25693,7 +25703,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=fc2zif8oKt8"
       },
       {
         "subject": "Science",
@@ -25774,7 +25785,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=gaZKEc59g1w"
       },
       {
         "subject": "SocialStudies",
@@ -25856,7 +25868,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=PEBenOQitHg"
       }
     ]
   },

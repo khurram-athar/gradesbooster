@@ -20248,8 +20248,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Literature: Existentialist Themes in Fiction",
         "summary": "Grade 10 English strand: existentialist fiction explores themes of individual freedom, choice, and the search for meaning in a world that offers no inherent answers.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Literature: Existentialist Themes in Fiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Existentialist%20Themes%20in%20Fiction%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What do existentialist themes in fiction often explore?",
@@ -20302,14 +20302,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=YaDvRdLMkHs"
       },
       {
         "subject": "Math",
         "title": "Functions: Inverse of Quadratic Functions",
         "summary": "Grade 10 Math strand: finding the inverse of a quadratic function involves switching the roles of x and y and solving for y, often restricting the domain so the inverse remains a function.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Functions: Inverse of Quadratic Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Inverse%20of%20Quadratic%20Functions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "When finding the inverse of a function, what roles are switched?",
@@ -20362,7 +20363,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Quadratic Relations"
+        "topic": "Quadratic Relations",
+        "videoUrl": "https://www.youtube.com/watch?v=1b2BsuPmCfQ"
       },
       {
         "subject": "Science",
@@ -20421,14 +20423,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VVL-8zr2hk4"
       },
       {
         "subject": "History",
         "title": "Canada and the Vietnam War Era: Draft Dodgers",
         "summary": "Grade 10 History strand: during the Vietnam War, Canada did not join the conflict and became a destination for thousands of American draft resisters and deserters seeking refuge.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: Canada and the Vietnam War Era: Draft Dodgers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20the%20Vietnam%20War%20Era%3A%20Draft%20Dodgers%20grade%2010%20educational",
         "quiz": [
           {
             "q": "Did Canada officially join the Vietnam War?",
@@ -20480,7 +20483,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V35rwMyU7DA"
       }
     ]
   },

@@ -20291,14 +20291,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=mj40J8lFu7E"
       },
       {
         "subject": "Functions",
         "title": "Functions: Logarithmic Scales — pH, Richter, and Decibels",
         "summary": "Grade 11 Functions strand: logarithmic scales, such as pH, the Richter scale, and the decibel scale, compress a huge range of values into a more manageable set of numbers.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Functions: Logarithmic Scales — pH, Richter, and Decibels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Logarithmic%20Scales%20%E2%80%94%20pH%2C%20Richter%2C%20and%20Decibels%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What do logarithmic scales like pH and the Richter scale help do?",
@@ -20351,14 +20352,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Functions: Exponential & Logarithmic"
+        "topic": "Functions: Exponential & Logarithmic",
+        "videoUrl": "https://www.youtube.com/watch?v=F3DMOyRoHUc"
       },
       {
         "subject": "Biology",
         "title": "Biology: Photoperiodism and Plant Flowering Responses",
         "summary": "Grade 11 Biology strand: photoperiodism describes how plants respond to the relative length of day and night, often triggering processes like flowering at specific times of year.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Photoperiodism and Plant Flowering Responses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Photoperiodism%20and%20Plant%20Flowering%20Responses%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does photoperiodism describe in plants?",
@@ -20411,14 +20413,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Plants & Photosynthesis"
+        "topic": "Plants & Photosynthesis",
+        "videoUrl": "https://www.youtube.com/watch?v=AQf3gKTCffs"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: Buffer Capacity and the Henderson-Hasselbalch Equation",
         "summary": "Grade 11 Chemistry strand: buffer capacity describes how much acid or base a buffer solution can absorb before its pH changes significantly, calculated using the Henderson-Hasselbalch equation.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: Buffer Capacity and the Henderson-Hasselbalch Equation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Buffer%20Capacity%20and%20the%20Henderson-Hasselbalch%20Equation%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does buffer capacity describe?",
@@ -20470,7 +20473,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5g8tFpBplVw"
       }
     ]
   },

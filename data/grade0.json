@@ -24581,7 +24581,7 @@
         "title": "Word Families: -ug Words",
         "summary": "Students explore the -ug word family, learning that changing the first letter of words like bug, rug, and hug creates new rhyming words that share the same ending sound.",
         "resourceLabel": "YouTube: Word Families: -ug Words",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ug%20Words%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ug%20Words%20grade%200%20educational",
         "quiz": [
           {
             "q": "Which word rhymes with bug?",
@@ -24656,14 +24656,15 @@
             ]
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=ByHwuuAsEmo"
       },
       {
         "subject": "Math",
         "title": "Ordinal Numbers: First, Second, Third",
         "summary": "Kids learn to use ordinal words like first, second, third, fourth, and fifth to describe the order or position of objects in a line.",
         "resourceLabel": "YouTube: Ordinal Numbers: First, Second, Third",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%2C%20Second%2C%20Third%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%2C%20Second%2C%20Third%20grade%200%20educational",
         "topic": "Number Sense: Basic Counting",
         "quiz": [
           {
@@ -24716,14 +24717,15 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-IAIrsUIcUo"
       },
       {
         "subject": "Science",
         "title": "Mixing Colours: Making New Colours",
         "summary": "Kids mix pairs of primary-coloured paints or coloured water to discover new colours they can create, like blue and yellow making green.",
         "resourceLabel": "YouTube: Mixing Colours: Making New Colours",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Mixing%20Colours%3A%20Making%20New%20Colours%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mixing%20Colours%3A%20Making%20New%20Colours%20grade%200%20educational",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -24776,14 +24778,15 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=vSLUct2kM8k"
       },
       {
         "subject": "SocialStudies",
         "title": "Our Teacher: Helping Us Learn",
         "summary": "Kids learn about the many jobs a teacher does each day, from teaching new skills to keeping the classroom a safe and caring place.",
         "resourceLabel": "YouTube: Our Teacher: Helping Us Learn",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Teacher%3A%20Helping%20Us%20Learn%20kindergarten%20educational",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Teacher%3A%20Helping%20Us%20Learn%20grade%200%20educational",
         "topic": "Community Helpers & Civic Roles (Basic)",
         "quiz": [
           {

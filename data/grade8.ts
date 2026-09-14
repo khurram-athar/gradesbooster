@@ -20243,8 +20243,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Anti-Heroes in Literature",
         "summary": "Grade 8 Language strand: an anti-hero is a main character who lacks traditional heroic qualities, such as courage or moral virtue, yet still drives the story forward in a compelling way.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Anti-Heroes in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Anti-Heroes%20in%20Literature%20grade%208%20educational",
         "quiz": [
           {
             "q": "What is an anti-hero?",
@@ -20297,7 +20297,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=MEjgDeSnBMs"
       },
       {
         "subject": "Math",
@@ -20357,7 +20358,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=9jYqZS142mg"
       },
       {
         "subject": "Science",
@@ -20415,6 +20417,13 @@ const curriculum: DayContent[] = [
               "Aquifers cannot be polluted"
             ],
             "answer": 2
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oNWAerr_xEE",
+        "videoUrls": [
+          {
+            "label": "What is an aquifer?",
+            "url": "https://www.youtube.com/watch?v=EGM8alhzDcg"
           }
         ]
       },
@@ -20475,7 +20484,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lnoqlCV__z4"
       }
     ]
   },
