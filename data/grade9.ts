@@ -20587,6 +20587,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: renewable energy grids connect power sources like wind and solar farms to homes and businesses, requiring careful geographic planning to manage energy where it is generated and used.",
         "resourceLabel": "YouTube: Social Studies: The Geography of Renewable Energy Grids",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Renewable%20Energy%20Grids%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XpF9zc57HAE",
         "quiz": [
           {
             "q": "What do renewable energy grids connect power sources to?",
