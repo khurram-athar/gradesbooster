@@ -20208,8 +20208,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Motifs in Literature",
         "summary": "Grade 7 Language strand: a motif is a recurring element, such as an image, phrase, or idea, that appears throughout a text and reinforces its central themes.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Motifs in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Motifs%20in%20Literature%20grade%207%20educational",
         "quiz": [
           {
             "q": "What do we call a recurring element, like an image or idea, that reinforces a text’s themes?",
@@ -20262,7 +20262,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=DQ3gPeUh34M"
       },
       {
         "subject": "Math",
@@ -20328,8 +20329,8 @@ const curriculum: DayContent[] = [
         "subject": "Science",
         "title": "Science: Ecosystem Succession: How Ecosystems Change Over Time",
         "summary": "Grade 7 Science strand: ecosystem succession is the gradual process by which an ecosystem changes over time, such as a bare patch of land slowly developing into a forest through different stages.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Science: Ecosystem Succession: How Ecosystems Change Over Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Ecosystem%20Succession%3A%20How%20Ecosystems%20Change%20Over%20Time%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is ecosystem succession?",
@@ -20382,7 +20383,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=gzaZyeVlOK8"
       },
       {
         "subject": "SocialStudies",
@@ -20441,7 +20443,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=uwcMDuSGym4"
       }
     ]
   },
@@ -46483,6 +46486,7554 @@ const curriculum: DayContent[] = [
               "Thousands of years"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Symbolism and Allegory; Writing: Literary Analysis Essay; Grammar: Subjunctive Mood and Conditional Sentences; Vocabulary: Connotation, Denotation, and Word Choice.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An allegory is best described as ___.",
+            "options": [
+              "A type of punctuation mark",
+              "A single symbolic object",
+              "A grammar rule",
+              "An entire story where characters and events represent broader meanings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In literature, a 'symbol' is best described as ___.",
+            "options": [
+              "An object or image that represents a deeper idea beyond its literal meaning",
+              "A rule of grammar used in formal writing",
+              "A footnote citing a source",
+              "A type of persuasive essay"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A literary analysis essay focuses on ___.",
+            "options": [
+              "Only summarizing the plot with no analysis",
+              "Closely examining elements of a text with supporting evidence",
+              "Ignoring the text entirely",
+              "Copying passages with no interpretation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The term 'denotation' refers to ___.",
+            "options": [
+              "The dictionary, literal meaning of a word",
+              "The emotional feeling a word gives a reader",
+              "A word's part of speech",
+              "A grammar rule about verb tense"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Simplifying and Expanding Algebraic Expressions; Solving Multi-Step Equations; Direct and Partial Variation; Similar Triangles and Scale Factor.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Simplify: 3x + 5x.",
+            "options": [
+              "3x + 5",
+              "8x",
+              "8x squared",
+              "15x"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Expand: 3(x + 4).",
+            "options": [
+              "3x + 4",
+              "3x + 12",
+              "x + 12",
+              "3x + 7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for x: 2x + 3x + 5 = 25.",
+            "options": [
+              "x = 20",
+              "x = 4",
+              "x = 5",
+              "x = 6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Triangle ABC is similar to Triangle DEF with a scale factor of 2. If side AB = 5 cm, what is the length of side DE?",
+            "options": [
+              "2.5 cm",
+              "7 cm",
+              "10 cm",
+              "25 cm"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Density and Buoyancy; Photosynthesis and Cellular Respiration; Plate Tectonics and Continental Drift; Optics: Refraction and Lenses.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Density is best described as ___.",
+            "options": [
+              "How much mass is packed into a given volume",
+              "The colour of an object",
+              "How heavy an object feels only",
+              "The temperature of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An object will float in water if ___.",
+            "options": [
+              "its density is greater than the density of water",
+              "its density is less than the density of water",
+              "it has no mass at all",
+              "it is made of metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Photosynthesis converts ___ into stored chemical energy.",
+            "options": [
+              "Heat only",
+              "Sound",
+              "Sunlight",
+              "Electricity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Plate tectonics explains that Earth's outer crust is made up of ___.",
+            "options": [
+              "a single solid, unbroken shell",
+              "large moving plates that shift on the mantle below",
+              "layers of ice only",
+              "liquid rock with no solid plates"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The War of 1812; The Rebellions of 1837; United Empire Loyalists and the Founding of Ontario; Building the Canadian Pacific Railway.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The War of 1812 was fought mainly between which two sides?",
+            "options": [
+              "Spain and Portugal",
+              "Canada and France",
+              "The United States and Britain (including its Canadian colonies)",
+              "Canada and Britain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "United Empire Loyalists were people who ___.",
+            "options": [
+              "fought against Britain during the American Revolution",
+              "remained loyal to Britain and moved north to settle in Canada after the American Revolution",
+              "were the original Indigenous inhabitants of Ontario",
+              "led the Rebellions of 1837"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Rebellions of 1837 mainly took place in ___.",
+            "options": [
+              "British Columbia",
+              "The Arctic",
+              "The United States",
+              "Upper and Lower Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Canadian Pacific Railway was primarily built to ___.",
+            "options": [
+              "connect Canada from coast to coast and help persuade British Columbia to join Confederation",
+              "transport goods only within Quebec",
+              "replace the need for any roads in Canada",
+              "connect Canada directly to Britain by rail"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Comparing Themes Across Genres; Writing: Reflective Personal Essay; Media Literacy: Analyzing Propaganda Techniques; Grammar: Using Passive Voice Effectively.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Comparing themes across genres involves examining ___.",
+            "options": [
+              "Only one single text in isolation",
+              "How a similar theme is explored differently across different types of texts",
+              "Themes that never appear in more than one genre",
+              "Nothing related to meaning or form"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a common propaganda technique?",
+            "options": [
+              "Bandwagon appeal, suggesting that 'everyone is doing it'",
+              "Citing peer-reviewed research",
+              "Presenting balanced, multiple viewpoints",
+              "Including a full list of sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A reflective personal essay focuses on ___.",
+            "options": [
+              "A completely fictional, unrelated story",
+              "A meaningful experience and its lasting impact or lesson",
+              "Copying someone else’s writing",
+              "Only listing unrelated facts with no personal connection"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "The dog chased the cat.",
+              "The cat was chased by the dog.",
+              "The dog is chasing the cat.",
+              "The dog will chase the cat."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Surface Area and Volume of Cylinders; Combined Probability Events; Compound Interest; Sampling and Bias in Data Collection.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "The volume of a cylinder is found using the formula ___.",
+            "options": [
+              "Diameter times circumference",
+              "Length times width times height",
+              "Base area (a circle) times height",
+              "Radius times height only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A survey about school lunch preferences is given only to students eating in the cafeteria during lunch. This sampling method is likely biased because ___.",
+            "options": [
+              "it only includes students who eat in the cafeteria, leaving others out",
+              "it includes too many students overall",
+              "it is a random sample of the whole school",
+              "cafeteria students never eat lunch"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the probability of event A is 1/2 and event B is 1/3, what is the probability of both occurring, assuming independence?",
+            "options": [
+              "1/6",
+              "2/5",
+              "1/5",
+              "1/3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you invest $200 at 5% annual compound interest, how much interest do you earn in the first year?",
+            "options": [
+              "$5",
+              "$10",
+              "$20",
+              "$50"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemical Changes and Reactions; The Carbon Cycle; The Nitrogen Cycle; Astronomy: Galaxies and the Universe.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "A chemical change occurs when ___.",
+            "options": [
+              "Substances react to form new substances with different properties",
+              "A substance simply melts",
+              "Nothing about the substance changes at all",
+              "A substance only changes shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The nitrogen cycle is important because nitrogen is needed by living things to build ___.",
+            "options": [
+              "proteins and DNA",
+              "bones only",
+              "sugars only",
+              "water molecules"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The carbon cycle describes how carbon moves between ___.",
+            "options": [
+              "Only the ocean, with no other locations involved",
+              "A concept unrelated to the carbon cycle",
+              "Nowhere at all, since carbon never moves",
+              "The atmosphere, living things, and the Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A galaxy is best described as ___.",
+            "options": [
+              "a single star with planets orbiting it",
+              "a massive collection of stars, gas, and dust held together by gravity",
+              "the same thing as our solar system",
+              "a type of asteroid belt"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Indigenous Self-Government and Modern Treaties; Globalization and Its Critics; Canada’s Role in the World Wars; Urban Planning and Sustainable Cities.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Self-government for Indigenous communities generally means ___.",
+            "options": [
+              "Having no say in their own affairs",
+              "Being governed entirely by another country",
+              "Having no recognized rights at all",
+              "Having the authority to govern their own community affairs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During the World Wars, Canada's military contributions helped Canada ___.",
+            "options": [
+              "lose its independence to Britain",
+              "gain greater international recognition and independence in foreign affairs",
+              "remain completely uninvolved in global affairs",
+              "become a colony of the United States"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Critics of globalization often raise concerns about ___.",
+            "options": [
+              "Globalization having no effect on any country",
+              "Economic inequality and environmental impact",
+              "No concerns exist regarding globalization",
+              "Only benefits, with no drawbacks discussed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A key goal of sustainable urban planning is to ___.",
+            "options": [
+              "maximize car use and unplanned urban sprawl",
+              "design cities that reduce environmental impact while meeting residents' needs",
+              "eliminate all green spaces in cities",
+              "avoid building any public transportation"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Structuring an Information Report; Reading: Evaluating Rhetorical Appeals; Reading: Analyzing Unreliable Narrators; Writing: Writing a Satirical Piece.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An information report typically presents ___.",
+            "options": [
+              "Random unrelated information",
+              "Objective, well-organized evidence on a topic",
+              "Only the writer’s personal opinions with no evidence",
+              "A purely fictional story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An unreliable narrator is a narrator whose ___.",
+            "options": [
+              "credibility is compromised, making their account of events questionable",
+              "account of events is always completely accurate",
+              "identity is always revealed at the very start of the story",
+              "voice never actually appears in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ethos as a rhetorical appeal relies on ___.",
+            "options": [
+              "The credibility or trustworthiness of the speaker",
+              "Emotional language only",
+              "Random unrelated facts",
+              "Logical reasoning only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A satirical piece of writing typically uses ___ to criticize or mock its subject.",
+            "options": [
+              "strictly factual, unemotional reporting",
+              "humor, irony, or exaggeration",
+              "only statistics and data",
+              "formal legal language"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Slope and Rate of Change; Number Theory: GCF and LCM; Dividing Fractions by Whole Numbers; Exponent Laws: Multiplying and Dividing Powers.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Slope is calculated as ___.",
+            "options": [
+              "Rise divided by run",
+              "Rise times run",
+              "Run divided by rise",
+              "Rise plus run"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the LCM of 4 and 6?",
+            "options": [
+              "10",
+              "12",
+              "24",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the GCF of 12 and 18?",
+            "options": [
+              "36",
+              "9",
+              "6",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: x^5 ÷ x^2.",
+            "options": [
+              "x^3",
+              "x^7",
+              "x^2.5",
+              "x^10"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Environmental Toxicology and Pollution; Scientific Literacy: Evaluating Scientific Claims; Heat Transfer: Conduction, Convection, and Radiation; Biomes of the World.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Environmental toxicology studies how ___.",
+            "options": [
+              "Pollutants affect living organisms and ecosystems",
+              "Living things have no connection to their environment",
+              "Pollution never has any measurable effects",
+              "Only weather patterns are studied, not pollution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Heat transfer through direct contact between particles, such as touching a hot pan, is called ___.",
+            "options": [
+              "Convection",
+              "Radiation",
+              "Conduction",
+              "Evaporation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A reliable scientific claim is typically supported by ___.",
+            "options": [
+              "Claims that cannot be tested in any way",
+              "Random guessing",
+              "Personal opinion with no evidence",
+              "Evidence gathered through valid, testable methods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A desert biome is generally characterized by ___.",
+            "options": [
+              "high rainfall and dense forest cover",
+              "very low precipitation and extreme temperature ranges",
+              "year-round ice and snow",
+              "constant humidity and coral reefs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Human Migration Patterns and Push-Pull Factors; The Great Depression in Canada; Canada’s Path to Full Independence: The Statute of Westminster; The 1982 Constitution Act and the Charter of Rights and Freedoms.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "A push factor in migration is something that ___.",
+            "options": [
+              "Attracts people to a new location",
+              "Has no influence on migration decisions",
+              "Encourages people to leave a place",
+              "Only applies to animals, never humans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pull factor in migration is something that ___.",
+            "options": [
+              "encourages people to leave a place",
+              "attracts people to a new location",
+              "has no effect on migration decisions",
+              "only applies to forced migration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Great Depression took place mainly during which decade?",
+            "options": [
+              "1960s",
+              "1930s",
+              "1990s",
+              "1890s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Statute of Westminster (1931) is significant because it ___.",
+            "options": [
+              "gave Canada legal independence from Britain to make its own laws",
+              "ended the Great Depression in Canada",
+              "created the Canadian Charter of Rights and Freedoms",
+              "started the War of 1812"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Gerunds and Infinitives; Vocabulary: Words with Multiple Meanings; Reading: Evaluating Counterarguments in Persuasive Texts; Writing: Writing a Speech for a Specific Audience; Media Literacy: How Film and Video Editing Techniques Shape Meaning.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A gerund is a verb form that ___.",
+            "options": [
+              "Only functions as an adjective",
+              "Is never used in a sentence",
+              "Ends in -ing and is used as a noun",
+              "Always begins with the word to"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains an infinitive?",
+            "options": [
+              "Swimming is great exercise.",
+              "She loves to swim every morning.",
+              "The swimming pool is closed.",
+              "They were swimming yesterday."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A word with multiple meanings is best described as a word that ___.",
+            "options": [
+              "Has more than one possible meaning depending on context",
+              "Can only ever be used one way",
+              "Has no connection to context at all",
+              "Is never found in everyday reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When writing a speech, effectively considering your audience means ___.",
+            "options": [
+              "using the same language and tone no matter who is listening",
+              "adjusting word choice, tone, and examples to fit the listeners' knowledge and interests",
+              "ignoring the audience's background completely",
+              "avoiding any eye contact with the audience"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Volume and Surface Area of Composite 3D Shapes; Data: Outliers and Their Effect on Statistics; Geometry: Angle Relationships in Polygons; Financial Literacy: Currency Exchange and Conversion; Rational and Irrational Numbers: An Introduction.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A composite 3D shape is made up of ___.",
+            "options": [
+              "Only flat, 2D shapes",
+              "Two or more basic solids combined",
+              "No identifiable shapes at all",
+              "A single, simple shape only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The sum of the interior angles of a quadrilateral is ___.",
+            "options": [
+              "180°",
+              "270°",
+              "360°",
+              "540°"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An outlier is a data value that is ___.",
+            "options": [
+              "Significantly higher or lower than the rest of the data set",
+              "The same as every other value in the set",
+              "Always exactly equal to the mean",
+              "Impossible to identify in any data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 1 US dollar equals 1.35 Canadian dollars, how many Canadian dollars would you get for 20 US dollars?",
+            "options": [
+              "$14.81",
+              "$21.35",
+              "$27.00",
+              "$35.00"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemical Safety and WHMIS Symbols; Robotics and Automation in Technology; Science: Genetics Basics: Why Offspring Resemble Parents; Renewable Energy Sources: Solar, Wind, and Beyond; Science: The Lymphatic System.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "WHMIS stands for ___.",
+            "options": [
+              "World Health and Medical Information Standard",
+              "Weather Hazard Measurement and Identification System",
+              "A system unrelated to chemical safety",
+              "Workplace Hazardous Materials Information System"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In genetics, offspring resemble their parents mainly because they inherit ___.",
+            "options": [
+              "identical environments to their parents",
+              "genes (DNA) from their parents",
+              "the exact same appearance with no variation",
+              "learned behaviors only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Robotics involves designing machines that can ___.",
+            "options": [
+              "Perform tasks automatically",
+              "Function without any programming",
+              "Never interact with their environment",
+              "Only operate manually with no automation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is considered a renewable energy source?",
+            "options": [
+              "Coal",
+              "Natural gas",
+              "Solar power",
+              "Petroleum"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Truth and Reconciliation Commission; Review: Canadian Government, Rights, and Recent History; Residential Schools and Their Legacy; Trade Agreements and Their Effects on Canada; Canada’s Peacekeeping Role Internationally.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Truth and Reconciliation Commission was established to document the history of ___.",
+            "options": [
+              "The Great Depression",
+              "The residential school system",
+              "The building of the railway",
+              "The War of 1812"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The legacy of residential schools in Canada includes ___.",
+            "options": [
+              "the strengthening of Indigenous languages and cultures at the time",
+              "lasting intergenerational harm to Indigenous individuals, families, and communities",
+              "no lasting impact on Indigenous communities",
+              "the creation of new Indigenous-run schools immediately afterward"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which document, adopted in 1982, includes the Canadian Charter of Rights and Freedoms?",
+            "options": [
+              "The Constitution Act",
+              "The Treaty of Paris",
+              "The British North America Act only",
+              "The Statute of Westminster"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Trade agreements between countries are designed mainly to ___.",
+            "options": [
+              "eliminate all trade between the countries involved",
+              "reduce or eliminate barriers to trade, such as tariffs, between countries",
+              "increase tariffs on all imported goods",
+              "apply only to military cooperation"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Correcting Dangling and Misplaced Modifiers; Writing: Writing an Op-Ed (Opinion Editorial); Reading: Synthesis vs. Summary -- Combining Information from Sources; Reading: Using Context Clues to Understand Difficult Words.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A dangling modifier is a modifier that ___.",
+            "options": [
+              "Has no clear word in the sentence to describe",
+              "Only appears in formal writing",
+              "Is always placed correctly in a sentence",
+              "Never causes any confusion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a misplaced modifier?",
+            "options": [
+              "Running quickly, the finish line was reached by Maria.",
+              "Maria reached the finish line running quickly.",
+              "The waiter served the pasta to the customer that was overcooked.",
+              "Maria ran quickly and reached the finish line."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An op-ed is written to ___.",
+            "options": [
+              "Report only neutral facts with no opinion",
+              "Copy information without any analysis",
+              "Avoid discussing any current issues",
+              "Present the writer’s opinion on a current issue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Unlike a summary, synthesizing information from multiple sources involves —.",
+            "options": [
+              "Restating only one source's main points",
+              "Combining ideas from different sources into a new understanding",
+              "Copying each source word for word",
+              "Ignoring all but one source"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Equations with Variables on Both Sides; Probability: Expected Value; Review: Algebra, Exponents, Probability, and Geometry; Solving and Graphing Inequalities on a Number Line.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Solve for x: 3x + 4 = x + 10.",
+            "options": [
+              "x = 14",
+              "x = 7",
+              "x = 3",
+              "x = 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve and graph: x - 5 > 2. Which describes the correct graph on a number line?",
+            "options": [
+              "An open circle at 7, shading to the right",
+              "A closed circle at 7, shading to the right",
+              "An open circle at 7, shading to the left",
+              "A closed circle at 3, shading to the right"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Expected value represents ___.",
+            "options": [
+              "A value with no connection to probability",
+              "The average outcome predicted over many trials",
+              "The highest possible outcome only",
+              "A single guaranteed outcome every time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which inequality matches a number line with a closed circle at -3 and shading to the left?",
+            "options": [
+              "x > -3",
+              "x < -3",
+              "x ≤ -3",
+              "x ≥ -3"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Space Exploration: Missions and Technology; Erosion, Deposition, and Landform Change; Review: Body Systems, Technology, and Earth Processes; Newton’s Laws of Motion (Intro).",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Space missions often rely on technologies such as ___.",
+            "options": [
+              "Tools unrelated to space travel",
+              "No technology at all",
+              "Only bicycles and cars",
+              "Rockets and satellites"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of Newton's Laws states that an object in motion stays in motion unless acted on by an unbalanced force?",
+            "options": [
+              "Newton's Third Law",
+              "Newton's Second Law",
+              "Newton's First Law",
+              "The Law of Universal Gravitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Erosion refers to the process of ___.",
+            "options": [
+              "Moving weathered rock and soil to a new location",
+              "Creating brand new mountains instantly",
+              "Preventing any landform changes",
+              "Only affecting rocks underground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Deposition occurs when —.",
+            "options": [
+              "Sediment carried by wind or water is dropped in a new location",
+              "Rock is broken down by weathering with no movement involved",
+              "New rock is created instantly with no sediment involved",
+              "Landforms are destroyed with nothing left behind"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Digital Citizenship: Being Safe and Responsible Online; Climate Change Policy and International Agreements; The Métis Nation and the Red River Resistance; The Persons Case: Are Women “Persons” Under Canadian Law?.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Digital citizenship refers to using technology ___.",
+            "options": [
+              "In a completely unrestricted way with no rules",
+              "Safely, respectfully, and responsibly",
+              "Only for entertainment purposes",
+              "Without ever considering how it affects others"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Red River Resistance was led by —.",
+            "options": [
+              "Louis Riel, on behalf of the Métis Nation",
+              "John A. Macdonald, on behalf of the federal government",
+              "A group with no connection to the Métis Nation",
+              "British soldiers stationed in Ontario"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "International agreements on climate change often aim to ___.",
+            "options": [
+              "Prevent any country from taking environmental action",
+              "Set shared goals for reducing greenhouse gas emissions",
+              "Ignore the causes of climate change completely",
+              "Increase greenhouse gas emissions worldwide"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Persons Case (1929) determined that —.",
+            "options": [
+              "Women were declared 'persons' eligible to be appointed to the Senate",
+              "Women were banned from voting in federal elections",
+              "Only men could hold any position in Canadian government",
+              "The question of women's rights was permanently dismissed"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Parallel Structure in Complex Sentences; Writing: Writing a Compare and Contrast Essay; Vocabulary: Analogies and Word Relationships; Reading: Analyzing Flashback and Foreshadowing Together.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Parallel structure means keeping grammatically similar elements ___.",
+            "options": [
+              "Randomly varied with no consistent pattern",
+              "Different from one another throughout a sentence",
+              "Consistent throughout a sentence",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word correctly completes the analogy: Puppy is to dog as kitten is to —?",
+            "options": [
+              "Cat",
+              "Bird",
+              "Fish",
+              "Kitten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A compare and contrast essay examines ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "Only the differences, never any similarities",
+              "A single subject with no comparison at all",
+              "The similarities and differences between two subjects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A story that uses flashback and foreshadowing together might —.",
+            "options": [
+              "Show a past event while also hinting at what will happen later",
+              "Only reveal information in strict chronological order",
+              "Avoid giving readers any clues about future events",
+              "Focus solely on describing the setting"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Polynomials: Introduction to Terms and Like Terms; The Pythagorean Theorem: Applications; Volume and Surface Area of Spheres (Intro); Ratio and Rate Problems with Multiple Steps.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A polynomial is an expression made up of ___.",
+            "options": [
+              "A concept unrelated to polynomials",
+              "Only a single number with no variables",
+              "Terms combined using addition or subtraction",
+              "Terms that can never be combined in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which formula is used to find the volume of a sphere?",
+            "options": [
+              "V = (4/3)πr³",
+              "V = πr²h",
+              "V = (1/3)πr²h",
+              "V = 4πr²"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Pythagorean theorem states that ___.",
+            "options": [
+              "A formula unrelated to the Pythagorean theorem",
+              "a + b = c for any triangle",
+              "a² - b² = c² for any triangle",
+              "a² + b² = c², where c is the hypotenuse of a right triangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A car travels 180 km in 3 hours at a constant rate. At this rate, how far will it travel in 5 hours?",
+            "options": [
+              "300 km",
+              "360 km",
+              "260 km",
+              "240 km"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Water Cycle and Its Connection to Climate; Sound Waves: Pitch, Volume, and Frequency; Structures: Load, Stress, and Material Strength; Science: Weather Fronts and Air Masses.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "The water cycle includes the processes of ___.",
+            "options": [
+              "Only freezing, with no other processes involved",
+              "A single process that never repeats",
+              "A concept unrelated to the water cycle",
+              "Evaporation, condensation, and precipitation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a structure, stress refers to —.",
+            "options": [
+              "The force applied per unit area on a material",
+              "The colour of the building material",
+              "A concept unrelated to structural engineering",
+              "The height of a structure only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Pitch is determined by ___.",
+            "options": [
+              "A concept unrelated to pitch",
+              "The colour of the sound wave",
+              "Frequency, or how many vibrations occur per second",
+              "The distance the sound has travelled"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A cold front occurs when —.",
+            "options": [
+              "A cold air mass moves in and pushes out a warmer air mass",
+              "Two air masses of the exact same temperature meet and mix evenly",
+              "No air masses are involved at all",
+              "A warm air mass overtakes and replaces a cold air mass"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada’s Immigration Policy: Historical Changes; Globalization and Its Effects on Canada; Culminating Task: A Timeline of Canadian Milestones; Confederation: The Birth of Canada in 1867.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s early immigration policies were often ___.",
+            "options": [
+              "Focused only on welcoming immigrants from every country equally",
+              "Restrictive and discriminatory toward certain groups",
+              "Completely open to every immigrant with no restrictions at all",
+              "A concept unrelated to Canada’s immigration history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Confederation in 1867 united which original colonies into the Dominion of Canada?",
+            "options": [
+              "Ontario, Quebec, Nova Scotia, and New Brunswick",
+              "British Columbia, Alberta, and Saskatchewan",
+              "Only Ontario and Quebec",
+              "Newfoundland and Prince Edward Island"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Globalization refers to ___.",
+            "options": [
+              "The increasing connection between countries through trade, technology, and culture",
+              "A process that only affects a single country",
+              "A concept unrelated to international relations",
+              "Countries becoming completely isolated from one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The British North America Act of 1867 served as —.",
+            "options": [
+              "Canada's original constitution, establishing the framework of Confederation",
+              "A trade agreement between Canada and the United States",
+              "A document unrelated to Canadian government",
+              "A treaty ending a war with France"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Evaluating Online Sources for Credibility; Writing: Writing a Process Analysis Essay (How Something Works); Grammar: Using Semicolons and Colons; Reading: Analyzing Nonfiction Text Structures; Writing: Writing a Eulogy or Tribute Speech.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Evaluating an online source for credibility involves checking its ___.",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Author, publication date, purpose, and supporting evidence",
+              "Font style and background colour only",
+              "Number of images used on the page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "I have a test tomorrow; I need to study tonight.",
+              "I have a test tomorrow, I need to study tonight.",
+              "I have a test tomorrow: I need to study tonight.",
+              "I have; a test tomorrow I need to study tonight."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A process analysis essay explains ___.",
+            "options": [
+              "How something works or how to complete a task",
+              "A fictional story with no factual basis",
+              "A concept unrelated to writing",
+              "A completely unrelated personal opinion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A 'problem and solution' nonfiction text structure is organized to —.",
+            "options": [
+              "Present an issue and then explain how it can be addressed",
+              "List events in the order they happened",
+              "Compare two topics side by side",
+              "Describe a single topic with no organizational pattern"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Complementary Events; Standard Form vs. Expanded Form of Numbers; Box-and-Whisker Plots (Intro); Adding and Subtracting Polynomials; Review: Polynomials, Pythagorean Applications, and Data Displays.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Complementary events are two outcomes where ___.",
+            "options": [
+              "Neither outcome can ever occur",
+              "Exactly one of the two must occur",
+              "A concept unrelated to complementary events",
+              "Both outcomes must occur at the same time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a box-and-whisker plot, the line inside the box represents —.",
+            "options": [
+              "The median of the data set",
+              "The maximum value",
+              "The minimum value",
+              "The mean of the data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Standard form writes a number using ___.",
+            "options": [
+              "Roman numerals only",
+              "A concept unrelated to standard form",
+              "Digits, in its usual numerical form",
+              "Only words, with no digits at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: (3x² + 5x) - (x² + 2x).",
+            "options": [
+              "2x² + 3x",
+              "4x² + 7x",
+              "2x² + 7x",
+              "3x² + 3x"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Fossil Formation and the Geologic Time Scale; Symbiosis: Mutualism, Commensalism, and Parasitism; Nuclear Energy: Fission and Power Generation; Science: Acids and Bases; Review: Motion, Sound, Structures, and Systems.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Fossils typically form when ___.",
+            "options": [
+              "A concept unrelated to fossil formation",
+              "Rocks form with no connection to living things at all",
+              "The remains or traces of living things are preserved in rock over time",
+              "A living thing is preserved instantly with no time required"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nuclear fission generates energy by —.",
+            "options": [
+              "Splitting the nucleus of a large atom into smaller nuclei",
+              "Combining two small nuclei into one larger nucleus",
+              "Burning fossil fuels at extremely high temperatures",
+              "Converting kinetic energy directly into light with no atomic changes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a mutualistic relationship, ___.",
+            "options": [
+              "Neither species benefits at all",
+              "Both species benefit",
+              "A concept unrelated to mutualism",
+              "Only one species benefits, while the other is harmed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On the pH scale, a substance with a pH of 3 is considered —.",
+            "options": [
+              "Acidic",
+              "Basic (alkaline)",
+              "Neutral",
+              "Radioactive"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada’s National Parks and Environmental Policy; Canada’s Economy: Primary, Secondary, and Tertiary Industries; Urban Sprawl and City Planning Challenges; Global Food Security and Agriculture; Canada’s Role in International Alliances (NATO).",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s national parks are primarily established to ___.",
+            "options": [
+              "Protect significant natural areas and biodiversity",
+              "A concept unrelated to national parks",
+              "Encourage unrestricted development in natural areas",
+              "Remove all public access to natural areas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "NATO (North Atlantic Treaty Organization) is primarily an alliance focused on —.",
+            "options": [
+              "Collective defence and mutual security among member countries",
+              "Trade tariffs between European nations only",
+              "An organization unrelated to international security",
+              "Environmental protection agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A primary industry is one that ___.",
+            "options": [
+              "Only sells finished products in stores",
+              "Provides services like teaching or banking",
+              "Gathers raw materials, such as mining or farming",
+              "A concept unrelated to industries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A secondary industry is one that —.",
+            "options": [
+              "Gathers raw materials directly from nature",
+              "Manufactures raw materials into finished or processed products",
+              "Provides services such as banking or education",
+              "Has no connection to a country's economy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Author’s Purpose and Craft; Writing: Writing a Business Letter of Complaint or Request; Grammar: Correcting Run-on Sentences and Comma Splices; Vocabulary: Homophones and Homographs; Reading: Analyzing Internal and External Conflict.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An author’s purpose for writing is often to ___.",
+            "options": [
+              "Avoid any communication with readers",
+              "Inform, persuade, or entertain readers",
+              "Confuse readers with no clear goal",
+              "A concept unrelated to author’s purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is a comma splice?",
+            "options": [
+              "I finished my homework, then I watched TV.",
+              "I finished my homework, and then I watched TV.",
+              "I finished my homework; then I watched TV.",
+              "After I finished my homework, I watched TV."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A business letter of complaint should use ___.",
+            "options": [
+              "Casual slang and abbreviations",
+              "Formal, polite, and clear language",
+              "No greeting or closing at all",
+              "A concept unrelated to business letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Homographs are words that —.",
+            "options": [
+              "Sound the same but have different spellings and meanings",
+              "Are spelled the same but may have different pronunciations and meanings",
+              "Always have the exact same meaning as each other",
+              "Are always spelled and pronounced completely differently"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Adding and Subtracting Fractions with Unlike Denominators; Multiplying and Dividing Fractions and Mixed Numbers; Order of Operations with Integers and Exponents (BEDMAS Deeper Dive); Volume and Surface Area of Pyramids and Cones; Multiplying Fractions by Fractions.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "To add or subtract fractions with unlike denominators, you must first ___.",
+            "options": [
+              "Add the denominators together",
+              "Ignore the denominators completely",
+              "Find a common denominator",
+              "A concept unrelated to fraction operations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Evaluate using the order of operations: 6 + 2 × (5 − 3)².",
+            "options": [
+              "14",
+              "22",
+              "38",
+              "64"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To multiply two fractions, you ___.",
+            "options": [
+              "Multiply the numerators together and the denominators together",
+              "Find a common denominator first",
+              "A concept unrelated to multiplying fractions",
+              "Add the numerators together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which formula gives the volume of a cone?",
+            "options": [
+              "V = (1/3)πr²h",
+              "V = πr²h",
+              "V = (4/3)πr³",
+              "V = 2πrh"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Chemical Reactions: Signs That a New Substance Formed; Volcanoes and Earthquakes: Causes and Effects; Magnetism and Electromagnets; The Greenhouse Effect and Global Climate Change; Density and Buoyancy.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one sign that a chemical reaction may have occurred, such as bubbles forming.",
+            "options": [
+              "The object staying exactly the same",
+              "A concept unrelated to chemical reactions",
+              "Nothing happening at all",
+              "Bubbles forming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An electromagnet's strength can be increased by —.",
+            "options": [
+              "Increasing the number of coils of wire and the current flowing through them",
+              "Removing the iron core from the coil",
+              "Disconnecting the power source",
+              "Using a material that is not magnetic at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Volcanoes and earthquakes are often caused by ___.",
+            "options": [
+              "A concept unrelated to volcanoes and earthquakes",
+              "Changes in the moon’s orbit",
+              "The movement of tectonic plates",
+              "A sudden increase in ocean temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An object floats in water when —.",
+            "options": [
+              "Its density is less than the density of water",
+              "Its density is greater than the density of water",
+              "It has no volume at all",
+              "It is made only of metal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Fur Trade and Its Impact on Indigenous Peoples and Settlers; The War of 1812: Causes and Consequences; The Red River Resistance and Louis Riel; Canada’s Territorial Evolution: How the Provinces and Territories Joined; The Klondike Gold Rush.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The fur trade was primarily built on the exchange of ___.",
+            "options": [
+              "Furs, especially beaver pelts, for goods",
+              "A concept unrelated to the fur trade",
+              "Modern currency for stocks",
+              "Land for gold"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Klondike Gold Rush (1896-1899) drew thousands of prospectors to —.",
+            "options": [
+              "The Yukon, in Canada's north",
+              "Southern Ontario",
+              "Nova Scotia's coastline",
+              "A region unrelated to Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The War of 1812 was fought between the United States and ___.",
+            "options": [
+              "France, alone, with no other countries involved",
+              "Spain, alone, with no other countries involved",
+              "A country unrelated to the War of 1812",
+              "Britain, including its colonies such as present-day Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of provinces joined Confederation together in 1905, carved out of the Northwest Territories?",
+            "options": [
+              "Alberta and Saskatchewan",
+              "British Columbia and Manitoba",
+              "Ontario and Quebec",
+              "Nova Scotia and New Brunswick"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Memes and Internet Culture; Writing: Writing a Public Service Announcement (PSA) Script; Grammar: Using Transitional Phrases to Link Ideas; Reading: Evaluating an Author’s Credentials and Expertise.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A meme typically combines ___.",
+            "options": [
+              "A concept unrelated to memes",
+              "Silence with no message at all",
+              "Only long paragraphs of formal text",
+              "Images, text, and humour to spread an idea quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which transitional phrase would best link two contrasting ideas in an essay?",
+            "options": [
+              "In addition,",
+              "For example,",
+              "On the other hand,",
+              "Similarly,"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A public service announcement (PSA) is designed to ___.",
+            "options": [
+              "Tell a long fictional story with no clear message",
+              "Sell a specific product for profit",
+              "Deliver a brief, persuasive message about an important issue",
+              "A concept unrelated to PSAs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When evaluating an author's credentials, which question is most important to ask?",
+            "options": [
+              "Does the author use complicated vocabulary?",
+              "Is the author qualified or experienced in the topic they are writing about?",
+              "Is the article long?",
+              "Does the article contain pictures?"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Equations Involving Fractions and Decimals; Data: Line Graphs and Analyzing Trends Over Time; Financial Literacy: Income, Expenses, and Net Worth; Geometry: Constructing Triangles and Angle Bisectors.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "One strategy for solving an equation with fractions is to ___.",
+            "options": [
+              "Add the denominators together first",
+              "Ignore the fractions completely",
+              "Multiply every term by a common denominator to clear the fractions",
+              "A concept unrelated to solving equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A person's net worth is calculated as ___.",
+            "options": [
+              "Total assets minus total liabilities",
+              "Total income minus total expenses",
+              "Total liabilities minus total assets",
+              "Total expenses minus total income"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line graph is especially useful for showing ___.",
+            "options": [
+              "Data with no connection to time at all",
+              "Only a single data point with no comparison",
+              "A concept unrelated to line graphs",
+              "How data changes over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An angle bisector divides an angle into ___.",
+            "options": [
+              "Two angles of equal measure",
+              "Three angles of equal measure",
+              "Two angles where one is twice the other",
+              "A single angle twice as large as the original"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Invasive Species and Their Impact on Ecosystems; Science: Invasive Species and Their Effects; Groundwater and the Water Table; Review: Body Systems, Earth Science, and Physical Science (Days 81-89).",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "An invasive species is a ___.",
+            "options": [
+              "Non-native organism introduced to an ecosystem",
+              "Native organism that has always lived in an ecosystem",
+              "Organism that has no effect on any ecosystem",
+              "A concept unrelated to invasive species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The water table refers to the ___.",
+            "options": [
+              "Boundary between saturated and unsaturated ground layers",
+              "Upper layer of the atmosphere",
+              "Total amount of water in the ocean",
+              "Temperature of underground water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a plant or animal that spreads quickly in a new environment and can cause harm?",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "A domesticated species",
+              "A native species",
+              "An invasive species"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body system is primarily responsible for transporting oxygen and nutrients to cells?",
+            "options": [
+              "Digestive system",
+              "Circulatory system",
+              "Respiratory system",
+              "Skeletal system"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Franklin Expedition and Arctic Exploration; Social Studies: The Role of Non-Governmental Organizations; Urban vs. Rural Life in Canada; Canada’s Mining and Natural Resource Industries.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Franklin Expedition set out in the 1840s to search for a ___.",
+            "options": [
+              "New farming region in the Prairies",
+              "A concept unrelated to the Franklin Expedition",
+              "Northwest Passage through the Arctic",
+              "A gold mine in the Yukon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is typically a characteristic of urban areas in Canada compared to rural areas?",
+            "options": [
+              "Lower population density",
+              "Higher population density and more services",
+              "Little to no access to public transit",
+              "Almost exclusively agricultural land use"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does NGO stand for?",
+            "options": [
+              "New government order",
+              "A concept unrelated to organizations",
+              "National government office",
+              "Non-governmental organization"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is one of Canada's major mining exports?",
+            "options": [
+              "Nickel",
+              "Coffee beans",
+              "Rubber",
+              "Cotton"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Language Skills (Days 61-69); Point of View: First-Person, Third-Person Limited, and Omniscient Narration; Writing: Writing a Short Story with a Clear Plot Arc; Grammar: Correcting Pronoun-Antecedent Agreement Errors.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "When revising a piece of writing, what is peer editing most useful for?",
+            "options": [
+              "Getting feedback on clarity and effectiveness from another reader",
+              "Guaranteeing zero grammar mistakes",
+              "Replacing the need for a first draft",
+              "Making the writing exactly like the reviewer's own style"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A third-person omniscient narrator ___.",
+            "options": [
+              "Can only reveal the thoughts of one character",
+              "Knows and can reveal the thoughts and feelings of multiple characters",
+              "Uses only 'I' and 'we' pronouns",
+              "Cannot describe any character's thoughts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A first-person narrator tells a story using ___.",
+            "options": [
+              "No pronouns of any kind",
+              "A concept unrelated to point of view",
+              "Only third-person pronouns like he and she",
+              "Pronouns such as I and we"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a short story's plot arc, the climax is typically followed by ___ leading to the resolution.",
+            "options": [
+              "Falling action",
+              "A new exposition",
+              "A second climax",
+              "The setting description"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Math Skills (Days 61-69); Circle Graphs (Pie Charts): Constructing and Interpreting; Repeating and Terminating Decimals; The Cartesian Plane and Plotting in All Four Quadrants.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is 1/4 + 1/2?",
+            "options": [
+              "A value unrelated to the calculation",
+              "1/6",
+              "3/4",
+              "2/6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is a repeating decimal?",
+            "options": [
+              "0.5",
+              "0.25",
+              "0.333...",
+              "0.75"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A circle graph represents data using ___.",
+            "options": [
+              "A single straight line",
+              "Proportional slices of a circle",
+              "A concept unrelated to circle graphs",
+              "A grid of individual dots"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A point with coordinates (-3, 4) is located in which quadrant of the Cartesian plane?",
+            "options": [
+              "Quadrant I",
+              "Quadrant II",
+              "Quadrant III",
+              "Quadrant IV"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Science Skills (Days 61-69); Introduction to Atoms, Elements, and the Periodic Table; Static Electricity and Electric Charge; Light: Reflection and the Law of Reflection.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "The nervous system is primarily made up of the brain, spinal cord, and ___.",
+            "options": [
+              "Neurons",
+              "Muscle fibres",
+              "A structure unrelated to the nervous system",
+              "Red blood cells"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The periodic table arranges elements primarily by increasing ___.",
+            "options": [
+              "Colour",
+              "Atomic number",
+              "Alphabetical order of name",
+              "Melting point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An atom is ___.",
+            "options": [
+              "The basic building block of matter",
+              "A concept unrelated to atoms",
+              "A mixture of two or more substances",
+              "A type of chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the law of reflection, the angle of incidence is ___ the angle of reflection.",
+            "options": [
+              "Always greater than",
+              "Always less than",
+              "Equal to",
+              "Unrelated to"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Social Studies Skills (Days 61-69); The Acadian Expulsion (Le Grand Dérangement); The Underground Railroad and Its Connection to Canada; The Persons Case and Women’s Legal Rights in Canada.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Primary sources are valuable to historians mainly because they ___.",
+            "options": [
+              "Come directly from the time period being studied",
+              "Are always free of any bias",
+              "Are easier to read than textbooks",
+              "Were written specifically for modern-day students"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Underground Railroad was a network that helped ___.",
+            "options": [
+              "European immigrants travel to Canada by train",
+              "Enslaved people in the United States escape to freedom, often in Canada",
+              "Goods move along an actual underground rail system",
+              "Canadian settlers move west by train"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Acadian Expulsion involved the forced removal of ___.",
+            "options": [
+              "A small group of British soldiers",
+              "Thousands of Acadian settlers from their homes",
+              "No people at all",
+              "A concept unrelated to the Acadian Expulsion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The 1929 Persons Case determined that women ___.",
+            "options": [
+              "Could not vote in federal elections",
+              "Were legally considered 'persons' eligible to be appointed to the Senate",
+              "Were banned from holding public office",
+              "Had no legal rights in Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Etymology and Word Origins; Reading: Identifying Cause and Effect Relationships in Text; Media Literacy: Analyzing Podcasts and Audio Storytelling; Writing: Writing an Interview Script or Q&A Feature.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Etymology is the study of ___.",
+            "options": [
+              "How to spell words correctly",
+              "Where words come from and how their meanings have changed over time",
+              "A concept unrelated to etymology",
+              "The grammar rules of a language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "One technique podcast creators use to help listeners understand audio storytelling without visuals is ___.",
+            "options": [
+              "Sound effects and vocal tone to set the scene",
+              "Long silences with no dialogue",
+              "Relying only on background music with no words",
+              "Avoiding any description of setting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A cause-and-effect relationship shows how ___.",
+            "options": [
+              "One event leads directly to a result",
+              "A concept unrelated to cause and effect",
+              "A story’s setting connects to its characters",
+              "Two unrelated events happen at the same time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When writing an interview script, open-ended questions are useful because they ___.",
+            "options": [
+              "Can only be answered with 'yes' or 'no'",
+              "Encourage detailed, thoughtful responses",
+              "Are always about the interviewer, not the subject",
+              "Should be avoided in Q&A features"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Congruence and Symmetry in 2D Shapes; Data: Constructing and Interpreting Stem-and-Leaf Plots; Estimation Strategies and Rounding for Real-World Problems; Probability: Theoretical vs. Experimental Probability.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Two shapes are congruent if they are ___.",
+            "options": [
+              "Different in both size and shape",
+              "Identical in size and shape",
+              "Similar in shape but different in size",
+              "A concept unrelated to congruence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Estimating 27 x 48 by rounding each number to the nearest ten gives an estimate of ___.",
+            "options": [
+              "1500",
+              "1400",
+              "1350",
+              "1600"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “stem” usually represents ___.",
+            "options": [
+              "The leading digit or digits of a value",
+              "The final digit of a value",
+              "The total number of data points",
+              "A concept unrelated to stem-and-leaf plots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fair coin is flipped 20 times, landing on heads 14 times. What is the experimental probability of landing on heads?",
+            "options": [
+              "14/20",
+              "1/2",
+              "6/20",
+              "20/14"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Adaptations and Natural Selection: An Introduction; Ocean Currents and Their Influence on Climate; The Scientific Method: Variables and Designing a Fair Test; Renewable Resource Management: Forestry and Fisheries.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is a trait that ___.",
+            "options": [
+              "Helps an organism survive in its environment",
+              "Always harms an organism’s chances of survival",
+              "A concept unrelated to adaptations",
+              "Has no effect on an organism’s survival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a fair test, the variable that a scientist intentionally changes is called the ___ variable.",
+            "options": [
+              "Dependent",
+              "Independent",
+              "Controlled",
+              "Unrelated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ocean currents are large-scale movements of ___.",
+            "options": [
+              "Only surface ice",
+              "Seawater",
+              "A concept unrelated to ocean currents",
+              "Underground freshwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sustainable forestry practices are designed to ___.",
+            "options": [
+              "Harvest trees faster than they can regrow",
+              "Allow forests to regenerate while still providing resources for use",
+              "Eliminate all logging permanently",
+              "Ignore the needs of future generations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Global Trade Organizations and Agreements; Population Pyramids and Demographic Transition; Fair Trade and Ethical Consumerism; Social Studies: Canada’s Constitution and the Charter of Rights and Freedoms.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What do countries often join to set shared rules for international trade?",
+            "options": [
+              "A single school club",
+              "A local sports league",
+              "A concept unrelated to global trade",
+              "Trade organizations or agreements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Fair trade certification is intended to ensure that ___.",
+            "options": [
+              "Producers in developing countries receive fair prices and working conditions",
+              "Products are sold at the lowest possible price regardless of labour conditions",
+              "Only large corporations benefit from trade",
+              "Trade tariffs are eliminated worldwide"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A population pyramid displays a population’s distribution by ___.",
+            "options": [
+              "A concept unrelated to population pyramids",
+              "Age and sex",
+              "Income level only",
+              "Favourite occupations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Charter of Rights and Freedoms, part of Canada's Constitution, primarily ___.",
+            "options": [
+              "Sets the national anthem lyrics",
+              "Guarantees fundamental rights and freedoms to Canadians",
+              "Establishes provincial tax rates",
+              "Outlines Canada's trade agreements"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Using Correct Verb Tense Consistency; Reading: Analyzing Dialogue for Characterization; Review: Language Skills (Days 71-79); Reading: Analyzing Motifs in Literature; Writing: Writing a Personal Manifesto.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Verb tense consistency means ___.",
+            "options": [
+              "Keeping the same tense throughout a passage unless a time shift requires a change",
+              "Avoiding verbs altogether in writing",
+              "Using a different tense in every sentence",
+              "A concept unrelated to verb tense consistency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A motif in literature is ___.",
+            "options": [
+              "A recurring element or idea that has symbolic significance throughout a text",
+              "The setting of a story",
+              "A single character's name",
+              "The total number of chapters in a book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Analyzing dialogue for characterization involves examining ___.",
+            "options": [
+              "What characters say and how they say it",
+              "Only the setting described in a story",
+              "A concept unrelated to analyzing dialogue",
+              "The number of paragraphs in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A personal manifesto is a piece of writing that ___.",
+            "options": [
+              "Declares a person's core beliefs, values, and intentions",
+              "Summarizes a news event objectively",
+              "Tells a fictional story with invented characters",
+              "Provides step-by-step technical instructions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Comparing Loan and Savings Options; Complementary, Supplementary, and Vertical Angle Pairs; Review: Math Skills (Days 71-79); Circles: Radius, Diameter, and Circumference; Scientific Notation: Operations.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "When comparing loans, a lower interest rate generally means ___.",
+            "options": [
+              "A concept unrelated to comparing loans",
+              "No difference in the total amount paid",
+              "Less money paid in interest over time",
+              "More money paid in interest over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the circumference of a circle with a diameter of 10 cm? (Use pi = 3.14)",
+            "options": [
+              "31.4 cm",
+              "15.7 cm",
+              "62.8 cm",
+              "78.5 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Complementary angles add up to ___.",
+            "options": [
+              "360 degrees",
+              "90 degrees",
+              "A value unrelated to complementary angles",
+              "180 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is (3 x 10^4) x (2 x 10^3) written in scientific notation?",
+            "options": [
+              "6 x 10^7",
+              "6 x 10^12",
+              "5 x 10^7",
+              "6 x 10^4"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Weather Instruments and How Meteorologists Forecast; Friction and Its Effects on Motion; Review: Science Skills (Days 71-79); Science: Ecosystem Succession: How Ecosystems Change Over Time; Science: The Physics of Sound in Musical Instruments.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "A thermometer is used to measure ___.",
+            "options": [
+              "Wind speed",
+              "Air pressure",
+              "Temperature",
+              "An instrument unrelated to thermometers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ecosystem succession refers to the ___.",
+            "options": [
+              "Gradual process by which an ecosystem changes and develops over time",
+              "Sudden extinction of all species in an area",
+              "Constant, unchanging state of a mature ecosystem",
+              "Movement of animals between seasons"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Friction is a force that ___.",
+            "options": [
+              "Opposes motion between two surfaces in contact",
+              "Always speeds up motion between two surfaces",
+              "Has no effect on moving objects",
+              "A concept unrelated to friction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a guitar, a shorter, tighter string generally produces a ___ pitch.",
+            "options": [
+              "Lower",
+              "Higher",
+              "Silent",
+              "Identical"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada’s Official Languages: French and English Bilingualism; How Provinces and Territories Joined Confederation Over Time; Review: Social Studies Skills (Days 71-79); Federal and Provincial Division of Powers in Canada; The Bank of Canada and Canada’s Monetary System.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s Official Languages Act established ___ as the country’s official languages.",
+            "options": [
+              "Only English",
+              "A concept unrelated to Canada’s official languages",
+              "English and Spanish",
+              "French and English"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Under Canada's division of powers, which level of government is primarily responsible for healthcare and education?",
+            "options": [
+              "Federal government",
+              "Provincial governments",
+              "Municipal governments",
+              "The Bank of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many provinces originally joined together to form Canada in 1867?",
+            "options": [
+              "Four",
+              "Ten",
+              "Six",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "One of the main roles of the Bank of Canada is to ___.",
+            "options": [
+              "Control interest rates and manage the country's money supply",
+              "Collect municipal property taxes",
+              "Issue passports to citizens",
+              "Set provincial sales tax rates"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Argumentative Essays; Vocabulary: Neologisms and Newly Coined Words; Reading: Evaluating Logical Fallacies in Arguments.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An argumentative essay is built around ___.",
+            "options": [
+              "A clear position supported by reasons and evidence",
+              "Only the writer’s feelings with no support",
+              "A summary with no opinion",
+              "A list of unrelated facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In an argumentative essay, what is a \"counterclaim\"?",
+            "options": [
+              "An opposing viewpoint that the writer acknowledges and responds to",
+              "The title of the essay",
+              "A summary placed only in the introduction",
+              "A footnote citing a source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a newly coined word or phrase?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A synonym",
+              "A homophone",
+              "A neologism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a logical fallacy in an argument?",
+            "options": [
+              "Attacking a person's character instead of addressing their argument",
+              "Presenting evidence from a reliable, cited source",
+              "Using statistics that directly support the claim being made",
+              "Offering a counterexample that weakens the opposing view"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Simulations and Random Sampling; Geometry: Constructing Perpendicular Bisectors; Data: Correlation vs Causation.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a simulation use to model a real-world situation?",
+            "options": [
+              "A concept unrelated to probability",
+              "A single guess with no trials",
+              "Repeated random trials",
+              "Only historical data with no trials at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two variables have a strong correlation. What does this tell you?",
+            "options": [
+              "One variable is definitely causing the other to change",
+              "They tend to change together, but this alone does not prove one causes the other",
+              "The two variables have no relationship at all",
+              "One of the variables cannot change on its own"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a perpendicular bisector cross a segment at?",
+            "options": [
+              "One of its endpoints",
+              "Its midpoint",
+              "A concept unrelated to geometry",
+              "A random point outside the segment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of using random sampling in a study?",
+            "options": [
+              "To select a smaller group that fairly represents the larger population",
+              "To make sure every single person in the population is included",
+              "To avoid collecting any data at all",
+              "To guarantee the results will be biased toward one outcome"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Green Architecture and Sustainable Building; Science: The Chemistry of Combustion; Science: Bioluminescence and Deep-Sea Life.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does green architecture aim to reduce?",
+            "options": [
+              "Environmental impact",
+              "The size of a building only",
+              "The number of windows in a building",
+              "A concept unrelated to architecture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The ability of a living organism to produce its own light through a chemical reaction",
+              "The reflection of sunlight off an organism's scales",
+              "A camouflage technique that changes an animal's skin color",
+              "The process of photosynthesis occurring in deep-sea plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is combustion?",
+            "options": [
+              "A chemical reaction where fuel reacts with oxygen, releasing energy",
+              "A process that only involves ice melting",
+              "A concept unrelated to chemistry",
+              "A reaction that never releases any energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bioluminescent organisms are most commonly found in which environment?",
+            "options": [
+              "The deep sea and other dark ocean habitats",
+              "Hot, sunny deserts during the day",
+              "High mountain peaks above the tree line",
+              "Shallow freshwater ponds in bright daylight"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Criminal Law vs Civil Law in the Canadian Justice System; Social Studies: Water Rights and Access Around the World; Review: Canadian Institutions, History, and Culture (Days 91-99).",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What type of law deals with actions considered offences against society, such as theft?",
+            "options": [
+              "International law",
+              "A concept unrelated to the justice system",
+              "Civil law",
+              "Criminal law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the Canadian justice system, civil law most often deals with disputes such as ___.",
+            "options": [
+              "Contracts, property, and personal injury between individuals or organizations",
+              "Crimes like theft that are prosecuted by the government on behalf of society",
+              "Treaties negotiated between different countries",
+              "Rules governing the armed forces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does access to clean drinking water vary around the world?",
+            "options": [
+              "A concept unrelated to global issues",
+              "No, every region has exactly the same access to water",
+              "Water access has no connection to different regions",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is access to clean water considered a major global issue?",
+            "options": [
+              "Because clean water is equally unlimited in every region of the world",
+              "Because many regions face shortages, pollution, or unequal access to safe water",
+              "Because every country uses the exact same water delivery systems",
+              "Because water access is decided only by international courts and affects no one directly"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Letter of Recommendation; Media Literacy: Analyzing Algorithmic Content Curation; Grammar: Absolute Phrases; Reading: Analyzing Frame Narratives.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What kind of letter describes a person’s strengths to support an application?",
+            "options": [
+              "A grocery list",
+              "A letter of recommendation",
+              "A weather report",
+              "A concept unrelated to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains an absolute phrase?",
+            "options": [
+              "Her arms crossed, she waited by the door.",
+              "She waited by the door because she was tired.",
+              "She waited by the door, and then she left.",
+              "Waiting by the door was boring."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do many apps and websites use to decide what content to show users?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "A single employee choosing manually for every user",
+              "Algorithms",
+              "Random guessing with no pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a \"frame narrative\"?",
+            "options": [
+              "A story contained within another, larger story",
+              "A story that only has one narrator throughout",
+              "A story told entirely through dialogue",
+              "A story with no clear beginning or ending"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Multiplying a Binomial by a Binomial; Adding and Subtracting Integers; Geometry: Volume of Composite Solids with Curved Surfaces; Number Theory: Divisibility and Prime Numbers Deeper Dive.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is (x plus 2) times (x plus 3) equal to?",
+            "options": [
+              "x squared plus 2x plus 3",
+              "2x plus 6",
+              "x squared plus 5x plus 6",
+              "x squared plus 6x plus 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following numbers is prime?",
+            "options": [
+              "21",
+              "51",
+              "57",
+              "41"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An integer can be ___.",
+            "options": [
+              "A positive or negative whole number",
+              "Only a fraction or decimal",
+              "Only a positive whole number",
+              "A concept unrelated to integers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find the volume of a composite solid made of a cylinder topped with a cone, what should you do?",
+            "options": [
+              "Add the volume of the cylinder and the volume of the cone",
+              "Subtract the cone's volume from the cylinder's volume",
+              "Multiply the two volumes together",
+              "Find the volume of only the larger shape and ignore the other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Endocrine System and Hormones; Science: The Physics of Flight: Lift and Drag; Science: Matter: Methods for Separating Mixtures; Science: Space Weather and Solar Flares.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the body system made up of glands that release hormones into the bloodstream?",
+            "options": [
+              "The digestive system",
+              "The endocrine system",
+              "A concept unrelated to the body",
+              "The skeletal system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which method would best separate a mixture of sand and water?",
+            "options": [
+              "Filtration",
+              "Using a magnet",
+              "Chromatography",
+              "Freezing the mixture solid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What force pushes an airplane upward, keeping it in the air?",
+            "options": [
+              "Drag",
+              "Gravity only",
+              "Lift",
+              "A concept unrelated to flight"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a solar flare?",
+            "options": [
+              "A sudden burst of radiation and energy released from the Sun's surface",
+              "A permanent dark spot on the surface of the Sun",
+              "A type of aurora seen only during winter",
+              "A slow, gradual cooling of the Sun's core"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada’s Auto Industry and Manufacturing History; Social Studies: The History of Daylight Saving Time; The Canadian Senate and Its Role in Parliament; The Role of Lieutenant Governors in the Provinces.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In which province has Canada’s auto industry largely been centred?",
+            "options": [
+              "British Columbia",
+              "A concept unrelated to Canada",
+              "Nova Scotia",
+              "Ontario"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one main role of the Canadian Senate within Parliament?",
+            "options": [
+              "Reviewing and revising bills that have already passed the House of Commons",
+              "Declaring war on other countries",
+              "Setting municipal property tax rates",
+              "Running provincial elections"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is daylight saving time?",
+            "options": [
+              "A rule requiring everyone to wake up at the same time",
+              "The practice of moving clocks forward in spring and back in fall",
+              "A type of holiday celebrated worldwide",
+              "A concept unrelated to timekeeping"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a Lieutenant Governor represent at the provincial level in Canada?",
+            "options": [
+              "The monarch (the Crown)",
+              "The elected leader of the federal government",
+              "The head of the provincial police force",
+              "A representative of the United Nations"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Motifs, Grammar, and Media Literacy (Days 81-89); Grammar: Appositives and Appositive Phrases; Vocabulary: Idioms and Their Origins; Reading: Analyzing Epistolary Structure in Literature.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What do we call a recurring element, like an image or idea, that reinforces a text’s themes?",
+            "options": [
+              "A footnote",
+              "A citation",
+              "A concept unrelated to reading",
+              "A motif"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an idiom?",
+            "options": [
+              "A phrase whose meaning cannot be understood from the literal meaning of its individual words",
+              "A word that sounds like another word but has a different meaning",
+              "A grammar rule about verb tense",
+              "A formal citation format used in essays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an appositive do?",
+            "options": [
+              "Ends a sentence with a question mark",
+              "Renames or adds detail about a nearby noun",
+              "Turns a noun into a verb",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A novel written entirely as a series of letters exchanged between characters uses which structure?",
+            "options": [
+              "Epistolary structure",
+              "Frame narrative",
+              "Flashback structure",
+              "Free verse"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Algebra, Geometry, and Data (Days 81-89); Scale Drawings and Scale Factor; Factoring Polynomials Using the GCF; Scale Factor and Similar Figures: Area and Volume Ratios.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "In the substitution method, what do you do first with one of the equations?",
+            "options": [
+              "Solve it for a single variable",
+              "Graph both equations immediately",
+              "A concept unrelated to systems of equations",
+              "Multiply both equations together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the greatest common factor (GCF) of the terms in 12x^2 + 18x?",
+            "options": [
+              "6x",
+              "3x",
+              "2x^2",
+              "36x"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A scale drawing represents a real object ___.",
+            "options": [
+              "With no connection to the real object at all",
+              "At exactly the same size with no changes",
+              "A concept unrelated to scale drawings",
+              "At a smaller or larger size while keeping proportions the same"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Two similar figures have a scale factor of 3. What is the ratio of their areas?",
+            "options": [
+              "9 to 1",
+              "3 to 1",
+              "6 to 1",
+              "27 to 1"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Ecology, Chemistry, and Physical Science (Days 81-89); Science: Series and Parallel Circuits; Plate Tectonics and Continental Drift; Science: Chemical Bonding: Ionic and Covalent Bonds.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is ecosystem succession?",
+            "options": [
+              "A process where ecosystems never change at all",
+              "The gradual process by which an ecosystem changes over time",
+              "A concept unrelated to ecology",
+              "A single, instant event with no stages"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is continental drift?",
+            "options": [
+              "The theory that continents have moved slowly over millions of years due to plate tectonics",
+              "The sudden sinking of an entire continent overnight",
+              "The daily rotation of Earth on its axis",
+              "The melting of the polar ice caps"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a series circuit, how are components connected?",
+            "options": [
+              "They are not connected at all",
+              "A concept unrelated to circuits",
+              "Along a single path",
+              "Along many separate branches"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main difference between an ionic bond and a covalent bond?",
+            "options": [
+              "An ionic bond involves the transfer of electrons between atoms, while a covalent bond involves atoms sharing electrons",
+              "An ionic bond only occurs in liquids, while covalent bonds only occur in gases",
+              "An ionic bond involves no charge at all, while a covalent bond always creates charged ions",
+              "Ionic bonds are found only in living things, while covalent bonds are found only in rocks"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Free Trade Agreements: NAFTA and CUSMA; Social Studies: The Klondike Gold Rush; Review: Government Structures, Geography, and Economy (Days 101-109); Social Studies: The Statute of Westminster and Canadian Independence.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does NAFTA stand for?",
+            "options": [
+              "The New American Farming and Trade Act",
+              "The National Fair Trade Association",
+              "A concept unrelated to Canadian trade",
+              "The North American Free Trade Agreement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is CUSMA?",
+            "options": [
+              "The trade agreement between Canada, the United States, and Mexico that replaced NAFTA",
+              "A Canadian federal tax law",
+              "A treaty about international water rights",
+              "An agreement about immigration between Canada and European nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Klondike Gold Rush draw thousands of people to the Yukon in search of?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Farmland",
+              "Gold",
+              "Oil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Statute of Westminster (1931) grant to Canada?",
+            "options": [
+              "Legislative independence from the British Parliament",
+              "The right to host its own Olympic Games",
+              "Ownership of new Arctic territories",
+              "The power to create its own currency for the first time"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Resume and Cover Letter; Media Literacy: Analyzing Infographics and Data Visualization; Grammar: Correlative Conjunctions; Reading: Analyzing Subtext in Dialogue.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a resume summarize?",
+            "options": [
+              "A person’s favourite movies",
+              "A concept unrelated to writing",
+              "A weather forecast for the week",
+              "A person’s skills, education, and experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of a cover letter that accompanies a resume?",
+            "options": [
+              "To introduce yourself and explain why you are a strong fit for the job",
+              "To list every job you have ever applied for",
+              "To replace the resume so only one document is needed",
+              "To describe your weekly grocery budget"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an infographic combine to present information?",
+            "options": [
+              "Images, charts, and brief text",
+              "Only long paragraphs of text",
+              "Only numbers with no visuals at all",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a reader analyzes subtext in a conversation between two characters, what are they trying to find?",
+            "options": [
+              "The exact number of words each character speaks",
+              "The meaning implied beneath what the characters actually say",
+              "The font used to print the dialogue",
+              "A list of every character mentioned in the story"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Odds vs Probability; Data: Two-Way Frequency Tables; Negative Exponents and Their Meaning; Multiplying and Dividing Integers.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does probability compare?",
+            "options": [
+              "Favourable outcomes to unfavourable outcomes only",
+              "Favourable outcomes to all possible outcomes",
+              "A concept unrelated to probability",
+              "Two completely unrelated numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of 3^-2?",
+            "options": [
+              "-9",
+              "1/9",
+              "9",
+              "-1/9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a two-way frequency table organize data about?",
+            "options": [
+              "Only a single variable",
+              "Two categorical variables at once",
+              "A concept unrelated to data",
+              "No variables at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is (-6) × (-4)?",
+            "options": [
+              "24",
+              "-24",
+              "10",
+              "-10"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Energy: Potential and Kinetic Energy; Science: Camouflage and Animal Defense Mechanisms; Science: Tidal and Geothermal Energy; Science: The Life Cycle of Stars.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call stored energy an object has because of its position?",
+            "options": [
+              "A concept unrelated to energy",
+              "Sound energy",
+              "Potential energy",
+              "Kinetic energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Geothermal energy is generated using heat from where?",
+            "options": [
+              "The Sun's surface",
+              "Deep inside the Earth",
+              "Ocean tides",
+              "Wind currents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "A behaviour that makes an animal easier to spot",
+              "An adaptation that helps an organism blend into its surroundings",
+              "A loud sound an animal makes to attract predators",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a supernova?",
+            "options": [
+              "The birth of a brand new star from a nebula",
+              "A massive explosion that occurs when a large star dies",
+              "The dim glow of a star just before it forms",
+              "A small planet orbiting a star"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Komagata Maru Incident; Social Studies: How a Bill Becomes a Law in Canada; Social Studies: Canadas Role in NATO; Social Studies: Canada’s Space Program: Canadarm and Astronauts.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Komagata Maru?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A type of Canadian currency",
+              "A famous Canadian railway line",
+              "A ship carrying South Asian immigrants turned away from Vancouver in 1914"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After a bill passes in the House of Commons, where must it also be approved before it can become law?",
+            "options": [
+              "The Senate",
+              "The Supreme Court",
+              "A provincial legislature",
+              "The United Nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a bill?",
+            "options": [
+              "A type of tax",
+              "A type of currency",
+              "A court decision",
+              "A proposed law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is NATO primarily known as?",
+            "options": [
+              "A military alliance of countries that agree to defend each other",
+              "An international trade organization for exporting oil",
+              "A Canadian space research agency",
+              "A global organization focused only on climate change"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing an Eyewitness News Report; Vocabulary: Euphemisms and Doublespeak; Review: Grammar, Vocabulary, and Media Literacy (Days 91-99); Grammar: Participial Phrases.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does an eyewitness news report describe?",
+            "options": [
+              "A fictional story with no real events",
+              "A concept unrelated to writing",
+              "A recipe for cooking a meal",
+              "An event from a firsthand perspective"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the purpose of doublespeak language?",
+            "options": [
+              "To state facts as clearly and directly as possible",
+              "To deliberately obscure, disguise, or distort the true meaning of words",
+              "To use only technical scientific vocabulary",
+              "To make written text easier for young children to read"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A type of punctuation mark",
+              "A word that always makes a statement sound more blunt",
+              "A mild or indirect word used in place of a harsher one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains a participial phrase?",
+            "options": [
+              "Running quickly down the hall, Maya reached the door in seconds.",
+              "Maya reached the door in seconds.",
+              "The door was near the hall.",
+              "Maya and the door were both near the hall."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Introduction to Exponents; Data: Identifying Misleading Graphs and Statistics; Review: Algebra, Geometry, and Data (Days 91-99); Multiplying a Monomial by a Polynomial.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "An exponent tells you ___.",
+            "options": [
+              "How many times a number is multiplied by itself",
+              "How many times a number is divided by itself",
+              "The sum of a number added to itself",
+              "A concept unrelated to exponents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of 4^3?",
+            "options": [
+              "12",
+              "64",
+              "7",
+              "81"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can a misleading graph distort?",
+            "options": [
+              "A concept unrelated to data",
+              "The exact numerical values only, never perception",
+              "How data is perceived",
+              "Nothing at all, since graphs are always accurate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the product of 3x(2x + 5)?",
+            "options": [
+              "6x^2 + 15x",
+              "5x + 5",
+              "6x + 15",
+              "6x^2 + 5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Bacteria vs Viruses; Science: Ecosystems: Keystone Species; Review: Physics, Biology, and Space Science (Days 91-99); Science: The Electromagnetic Spectrum and Visible Light.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are bacteria?",
+            "options": [
+              "Single-celled living organisms that can reproduce on their own",
+              "Non-living particles that require a host to reproduce",
+              "A type of plant found only in forests",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Unlike bacteria, viruses cannot reproduce on their own because they ——.",
+            "options": [
+              "Are too large to divide",
+              "Must invade a host cell to reproduce",
+              "Only reproduce in cold temperatures",
+              "Reproduce faster than bacteria without any host"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a species that has a very large effect on its ecosystem compared to its numbers?",
+            "options": [
+              "An invasive species",
+              "A concept unrelated to ecosystems",
+              "A keystone species",
+              "A domesticated species"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of electromagnetic wave has the longest wavelength?",
+            "options": [
+              "Radio waves",
+              "Visible light",
+              "X-rays",
+              "Gamma rays"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Chinese Head Tax and Exclusion Act; The Auditor General — Watching How Government Spends Money; Review: Canadian History and Identity (Days 91-99); Social Studies: The Winnipeg General Strike of 1919.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Chinese Head Tax?",
+            "options": [
+              "A fee imposed on Chinese immigrants entering Canada",
+              "A concept unrelated to Canadian history",
+              "A tax on imported tea",
+              "A tax placed on all Canadian citizens equally"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Chinese Exclusion Act of 1923 do?",
+            "options": [
+              "Nearly banned all Chinese immigration to Canada",
+              "Gave Chinese immigrants the right to vote",
+              "Lowered the Chinese Head Tax to zero",
+              "Increased funding for Chinese-Canadian schools"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Auditor Generals main job?",
+            "options": [
+              "Reviewing how the government spends public money",
+              "Teaching in schools",
+              "Managing a hospital",
+              "Running a business"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Winnipeg General Strike of 1919?",
+            "options": [
+              "A massive strike where tens of thousands of workers walked off their jobs demanding better wages and conditions",
+              "A peaceful parade celebrating the end of World War I",
+              "A strike by farmers protesting new grain taxes",
+              "A one-day school closure across Manitoba"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Onomatopoeia and Sound Devices; Reading: Analyzing Allusion in Literature; Writing: Writing a Descriptive Essay Using Sensory Details; Media Literacy: Analyzing Political Cartoons.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is onomatopoeia?",
+            "options": [
+              "A word that always rhymes with another word",
+              "A concept unrelated to vocabulary",
+              "A word with no connection to sound at all",
+              "A word that imitates the sound it describes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A strong descriptive essay uses sensory details mainly to help the reader ——.",
+            "options": [
+              "Memorize a list of vocabulary words",
+              "Vividly imagine the scene through sight, sound, smell, taste, and touch",
+              "Understand a mathematical formula",
+              "Skip over unimportant parts of the essay"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A long, detailed explanation of an idea",
+              "A footnote that defines a difficult word",
+              "A concept unrelated to reading",
+              "A brief reference to a person, place, event, or work of literature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Political cartoons often use exaggeration and symbols mainly to ——.",
+            "options": [
+              "Report statistics with complete numerical accuracy",
+              "Make a persuasive point about a political issue or event",
+              "Provide a neutral, opinion-free summary of the news",
+              "Replace written news articles entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Central Angles and Arcs of a Circle; Solving Equations Using the Distributive Property; Financial Literacy: Unit Rates and Comparison Shopping; Data: Histograms and Grouped Frequency Data.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Where is the vertex of a central angle located?",
+            "options": [
+              "Outside of the circle entirely",
+              "On the outer edge of a circle",
+              "At the centre of a circle",
+              "A concept unrelated to circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A store sells a 12-pack of juice boxes for $6.00. What is the unit rate per juice box?",
+            "options": [
+              "$0.50",
+              "$2.00",
+              "$6.00",
+              "$12.00"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must often be applied before combining like terms in an equation with brackets?",
+            "options": [
+              "A concept unrelated to algebra",
+              "The commutative property only",
+              "The distributive property",
+              "A random guess at the variable value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a histogram, what do the bars typically represent?",
+            "options": [
+              "The frequency of data values grouped into intervals",
+              "The exact individual value of every single data point",
+              "A ranking of categories from best to worst",
+              "The percentage change between two points in time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Cloud Types and Precipitation; Science: Renewable Energy: Biomass and Biofuels; Microorganisms: Bacteria, Viruses, and Fungi; Science: Mineral Identification and Properties.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens when water vapour condenses around tiny particles in the air?",
+            "options": [
+              "The temperature always drops to freezing",
+              "Clouds form",
+              "The air becomes completely dry",
+              "A concept unrelated to weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these microorganisms is a fungus, not a bacterium or virus?",
+            "options": [
+              "Yeast",
+              "Salmonella bacteria",
+              "Influenza",
+              "E. coli"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does biomass energy come from?",
+            "options": [
+              "Organic material, such as plants and waste",
+              "Only fossil fuels like coal and oil",
+              "Nuclear reactions inside a reactor",
+              "A concept unrelated to renewable energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Mohs scale is used to measure a mineral's ——.",
+            "options": [
+              "Colour",
+              "Hardness",
+              "Weight in grams",
+              "Chemical smell"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Halifax Explosion of 1917; Understanding Canadas National Debt and Deficit; Electoral Ridings — How Canada Divides Voting Districts; Social Studies: The Indian Act and Its Historical Impact.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What caused the Halifax Explosion of 1917?",
+            "options": [
+              "Two ships collided in Halifax Harbour, one carrying wartime explosives",
+              "A concept unrelated to Canadian history",
+              "A severe winter storm destroyed the harbour",
+              "A fire started in a downtown bakery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an electoral riding in Canada?",
+            "options": [
+              "A geographic area whose voters elect one representative to Parliament",
+              "A tax collected only in large cities",
+              "A committee that writes federal laws",
+              "A type of ballot used only in provincial elections"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a government deficit?",
+            "options": [
+              "When spending is more than money collected in a year",
+              "A type of tax",
+              "A kind of currency",
+              "When spending equals income exactly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was one major historical impact of the Indian Act on Indigenous peoples in Canada?",
+            "options": [
+              "It gave Indigenous peoples full control over federal government policy",
+              "It controlled many aspects of Indigenous life, including land, governance, and culture",
+              "It had no effect on Indigenous communities",
+              "It immediately granted Indigenous peoples the right to vote in 1876"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Using Ellipses and Parentheses; Vocabulary: Colloquialisms and Regional Dialects; Reading: Understanding Genre Conventions in Mystery Fiction; Writing: Writing a Letter to the Editor.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does an ellipsis show?",
+            "options": [
+              "A concept unrelated to grammar",
+              "That words have been omitted or a thought trails off",
+              "That a word has been spelled incorrectly",
+              "That a sentence must always end immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence \"My favorite subjects (math and science) are on Tuesday,\" what job are the parentheses doing?",
+            "options": [
+              "Setting off extra, non-essential information",
+              "Marking the end of the sentence",
+              "Showing that a word was misspelled",
+              "Joining two independent clauses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a colloquialism?",
+            "options": [
+              "A formal term used only in academic writing",
+              "A word that has only one possible meaning",
+              "An informal word or expression used in everyday conversation",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of a letter to the editor?",
+            "options": [
+              "To share a private family update",
+              "To express an opinion on a public issue for other readers to see",
+              "To request a refund from a newspaper",
+              "To summarize a novel's plot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: The Exterior Angle Theorem for Triangles; Probability: Mutually Exclusive Events; Number Theory: Perfect Cubes and Cube Roots; Data: Scatter Plots and Line of Best Fit.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the exterior angle theorem state?",
+            "options": [
+              "A concept unrelated to geometry",
+              "An exterior angle is always smaller than any interior angle",
+              "An exterior angle of a triangle equals the sum of the two non-adjacent interior angles",
+              "All exterior angles of a triangle are always equal to 90 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the cube root of 27?",
+            "options": [
+              "3",
+              "9",
+              "6",
+              "4.5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for two events to be mutually exclusive?",
+            "options": [
+              "They always happen at the exact same time",
+              "They cannot both happen at the same time",
+              "They have no connection to each other whatsoever",
+              "A concept unrelated to probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a scatter plot, what does a line of best fit help you do?",
+            "options": [
+              "List every data point in order",
+              "Estimate the general trend or relationship between two variables",
+              "Count how many points lie exactly on the x-axis",
+              "Convert the data into a bar graph"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Pendulums and Periodic Motion; Science: Biomagnification of Toxins in Food Chains; Science: Animal Migration Patterns and Navigation; Science: Soil Composition and Horizons.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is periodic motion?",
+            "options": [
+              "A repeating pattern of motion, like a pendulum swinging back and forth",
+              "Motion that only ever happens once",
+              "Motion that never follows any pattern",
+              "A concept unrelated to physics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do many migrating animals use to help navigate long distances?",
+            "options": [
+              "Random movement with no consistent direction",
+              "Cues such as the sun, stars, or Earth's magnetic field",
+              "Signals broadcast by weather stations",
+              "Only the smell of nearby cities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is biomagnification?",
+            "options": [
+              "The process by which a toxin disappears completely from an ecosystem",
+              "A process that only affects plants, never animals",
+              "The process by which the concentration of a toxin increases at each higher level of a food chain",
+              "A concept unrelated to biology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which soil horizon is typically the topmost layer, richest in organic matter?",
+            "options": [
+              "The bedrock layer",
+              "The A horizon (topsoil)",
+              "The C horizon",
+              "The B horizon only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Numbered Treaties and Treaty Rights; Social Studies: The St. Lawrence Seaway and Its Economic Impact; Equalization Payments — Sharing Wealth Across Provinces; Social Studies: The Canadian Shield: Geology and Geography.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What were the Numbered Treaties?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A list of provincial highway numbers",
+              "A set of trade tariffs with the United States",
+              "A series of agreements made between the Canadian government and First Nations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the purpose of equalization payments in Canada?",
+            "options": [
+              "To give every province the exact same population",
+              "To help ensure provinces can provide reasonably similar public services despite differences in wealth",
+              "To eliminate provincial governments",
+              "To set identical tax rates in every province"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the St. Lawrence Seaway?",
+            "options": [
+              "A mountain range along the Canada-US border",
+              "A system of canals and locks that allows ships to travel deep into the interior of North America",
+              "A national park located in northern Ontario",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Canadian Shield?",
+            "options": [
+              "A modern highway system",
+              "A large region of ancient rock covering much of central and eastern Canada",
+              "A type of government building",
+              "A treaty signed with the United States"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Grammar, Vocabulary, and Reading (Days 101-109); Grammar: Sentence Fragments and How to Fix Them; Vocabulary: Portmanteau Words; Reading: Analyzing Extended Metaphor.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a participial phrase begin with?",
+            "options": [
+              "A concept unrelated to grammar",
+              "A prepositional phrase only",
+              "A coordinating conjunction",
+              "A present or past participle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a portmanteau word?",
+            "options": [
+              "brunch (breakfast + lunch)",
+              "cat",
+              "quickly",
+              "the dog ran"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a sentence fragment?",
+            "options": [
+              "An incomplete sentence missing a subject, verb, or complete thought",
+              "A sentence that is too long",
+              "A sentence with perfect grammar",
+              "A type of poem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an extended metaphor?",
+            "options": [
+              "A comparison using \"like\" or \"as\"",
+              "A single metaphor mentioned once and never returned to",
+              "A comparison that is developed and continued across several lines or an entire piece of writing",
+              "A list of synonyms for the same word"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Algebra, Geometry, and Data (Days 101-109); Square Numbers and Square Roots; Data Management: Constructing and Interpreting Dot Plots; Financial Literacy: Inflation and Purchasing Power.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What property is applied when multiplying a monomial by a polynomial?",
+            "options": [
+              "The distributive property",
+              "The associative property only",
+              "A concept unrelated to algebra",
+              "The property of subtraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of graph best shows dot plots displaying?",
+            "options": [
+              "Each data value as a dot stacked above a number line to show frequency",
+              "Only the average of a data set",
+              "Data as slices of a circle",
+              "Continuous data with no individual values shown"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A square number is the result of ___.",
+            "options": [
+              "Dividing a whole number by itself",
+              "Adding a whole number to itself",
+              "Multiplying a whole number by itself",
+              "A concept unrelated to square numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If inflation rises while your income stays the same, what happens to your purchasing power?",
+            "options": [
+              "It increases",
+              "It decreases",
+              "It stays exactly the same",
+              "It becomes impossible to measure"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Physics, Chemistry, and Earth Science (Days 101-109); The Human Eye and Vision; Renewable Energy: Wind Power Technology; Chemical Changes in Everyday Life: Rusting, Cooking, and Baking.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the electromagnetic spectrum?",
+            "options": [
+              "A single type of visible light only",
+              "The full range of electromagnetic waves, from radio waves to gamma rays",
+              "A concept unrelated to science",
+              "A tool used only to measure temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one major advantage of wind power as an energy source?",
+            "options": [
+              "It produces electricity without burning fossil fuels",
+              "It works equally well with no wind at all",
+              "It never requires any equipment",
+              "It only works underground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the eye focus light onto?",
+            "options": [
+              "The stomach lining",
+              "The skin",
+              "The retina",
+              "The eardrum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a chemical change?",
+            "options": [
+              "Melting an ice cube",
+              "Iron rusting into iron oxide",
+              "Tearing a piece of paper",
+              "Dissolving sugar in cold water"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Canadian History and Society (Days 101-109); The Magna Cartas Influence on Canadian Law; Social Studies Review: Government, Economy, and Canadian History; The House of Commons and How Laws Are Debated.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "When studying a historical event, why is it useful to consider multiple perspectives?",
+            "options": [
+              "Different groups often experienced and remembered the same event differently",
+              "There is only ever one true perspective on any event",
+              "Considering multiple perspectives makes the event less important",
+              "Only the government's perspective on an event matters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what way did the Magna Carta influence Canadian law?",
+            "options": [
+              "It introduced the idea that even rulers must follow the law, which shaped later legal systems including Canada's",
+              "It directly created the Canadian Constitution in 1867",
+              "It abolished the monarchy in Canada",
+              "It had no lasting influence on Canadian law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Magna Carta?",
+            "options": [
+              "A modern Canadian law",
+              "A national holiday",
+              "A type of currency",
+              "An early document establishing principles like the rule of law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In Canada's House of Commons, what generally happens to a bill before it can become law?",
+            "options": [
+              "It is simply announced publicly with no further steps",
+              "It is debated and voted on by elected Members of Parliament",
+              "It is written entirely by the Senate alone",
+              "It automatically becomes law once it is introduced"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Persuasive Letter to a Local Official; Media Literacy: Analyzing Clickbait Headlines; Grammar: Split Infinitives and Emphatic Pronouns; Reading: Analyzing Foil Characters in Literature.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What should a persuasive letter to a local official clearly state?",
+            "options": [
+              "Only a signature",
+              "Only a greeting",
+              "A concern or request",
+              "Nothing specific at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains a split infinitive?",
+            "options": [
+              "She decided to quickly finish her homework.",
+              "She decided to finish her homework quickly.",
+              "She finished her homework.",
+              "Quickly, she finished her homework."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a clickbait headline designed to do?",
+            "options": [
+              "Provide only calm, factual summaries",
+              "Discourage readers from clicking",
+              "Attract clicks using sensational or exaggerated language",
+              "Avoid any emotional language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the role of a foil character in a story?",
+            "options": [
+              "To narrate the story from the future",
+              "To contrast with another character in order to highlight that character's traits",
+              "To always be the story's villain",
+              "To appear only in the final chapter"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Nets of 3D Shapes; Measurement: Converting Among Fractions, Decimals, and Percents; Measurement: Precision, Accuracy, and Significant Figures; Algebra: Solving Multi-Variable Word Problems.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is a net in geometry?",
+            "options": [
+              "A measurement of volume only",
+              "A type of graph",
+              "A two-dimensional pattern that folds into a 3D shape",
+              "A three-dimensional solid with no flat sides"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In measurement, what is the difference between precision and accuracy?",
+            "options": [
+              "Precision means how close a measurement is to the true value; accuracy means how consistent repeated measurements are",
+              "Precision means how consistent repeated measurements are; accuracy means how close a measurement is to the true value",
+              "They are two different names for exactly the same idea",
+              "Precision only applies to length, and accuracy only applies to mass"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do fractions, decimals, and percents all represent?",
+            "options": [
+              "Only negative numbers",
+              "Three completely unrelated concepts",
+              "Only whole numbers",
+              "Different ways to express the same value or part of a whole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A movie ticket costs x dollars and a snack costs y dollars. If Mia buys 2 tickets and 3 snacks for a total of $37, and one ticket costs $8, what does one snack cost?",
+            "options": [
+              "$5",
+              "$7",
+              "$9",
+              "$21"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Plant Reproduction: Pollination and Seed Dispersal; Bird Adaptations and Beak Types; Review: Body Systems, Earth Science, and Life Science (Days 91-99); Renewable Energy: Hydroelectric Power.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is pollination?",
+            "options": [
+              "A type of photosynthesis",
+              "The process of a plant losing its leaves",
+              "The transfer of pollen that allows plants to reproduce",
+              "The process of a plant absorbing water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a method of seed dispersal?",
+            "options": [
+              "Seeds being carried away by wind or animals",
+              "Seeds photosynthesizing in place",
+              "Seeds absorbing sunlight directly into the soil",
+              "Seeds converting into pollen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What determines the shape of a birds beak?",
+            "options": [
+              "The size of the birds nest",
+              "The colour of the birds feathers",
+              "The time of year only",
+              "The type of food the species typically eats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a hydroelectric dam generate electricity?",
+            "options": [
+              "By burning coal stored behind the dam",
+              "By using flowing or falling water to spin turbines connected to generators",
+              "By capturing sunlight with panels built into the dam",
+              "By collecting static electricity from the river"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Creation of Nunavut in 1999; The Numbered Treaties in Canadian History; The Great Canadian Flag Debate of 1964; Social Studies: The Alaska Boundary Dispute.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was Nunavut created?",
+            "options": [
+              "1999",
+              "1867",
+              "2020",
+              "1949"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was decided as a result of the Great Canadian Flag Debate of 1964?",
+            "options": [
+              "Canada would keep the Red Ensign permanently",
+              "Canada adopted a new national flag featuring the maple leaf",
+              "Canada abolished its national flag entirely",
+              "Canada adopted the flag of the United Kingdom"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did the Canadian government typically promise Indigenous nations in exchange for land under the Numbered Treaties?",
+            "options": [
+              "Reserve lands, annual payments, and other benefits such as farming supplies",
+              "Full independence from Canada",
+              "Immediate Canadian citizenship for all members",
+              "Ownership of all provincial governments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Alaska Boundary Dispute about?",
+            "options": [
+              "A disagreement between Canada and the United States over the border of the Alaska Panhandle",
+              "A dispute over fishing rights in the Atlantic Ocean",
+              "A disagreement about the location of the capital of Canada",
+              "A trade dispute over wheat exports"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Letter of Apology; Vocabulary: Loanwords from Other Languages; Language Review: Grammar, Vocabulary, and Reading Strategies; Grammar: Subject-Verb Agreement with Collective Nouns.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What should a letter of apology clearly acknowledge?",
+            "options": [
+              "Nothing specific at all",
+              "Only unrelated topics",
+              "The mistake that was made",
+              "Only the recipients own faults"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly matches subject-verb agreement for a collective noun used as a single unit?",
+            "options": [
+              "The team are practicing on the field.",
+              "The team is practicing on the field.",
+              "The team am practicing on the field.",
+              "The team practicing on the field."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a loanword?",
+            "options": [
+              "A word borrowed from another language and adopted into common use",
+              "A word invented entirely for a single story",
+              "A type of punctuation mark",
+              "A word with no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of a collective noun?",
+            "options": [
+              "run",
+              "quickly",
+              "committee",
+              "beautiful"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Circle Vocabulary — Chord, Radius, and Diameter; Data Management: Weighted Averages; Math Review: Geometry, Measurement, and Data; Geometry: Volume of Cylinders.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is a radius?",
+            "options": [
+              "A line from the centre of a circle to its edge",
+              "The outer edge of a circle",
+              "The area inside a circle",
+              "A line connecting any two points on a circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a circle, which line segment connects two points on the circle without necessarily passing through the centre?",
+            "options": [
+              "A radius",
+              "A chord",
+              "A tangent line",
+              "A diameter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a weighted average take into account that a regular average does not?",
+            "options": [
+              "Only the largest value in a data set",
+              "Different levels of importance for different values",
+              "Only the smallest value in a data set",
+              "Nothing different from a regular average"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm? (Use pi ≈ 3.14)",
+            "options": [
+              "94.2 cm cubed",
+              "282.6 cm cubed",
+              "188.4 cm cubed",
+              "30 cm cubed"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Physics of Roller Coasters: Energy Transformations; Coral Reefs and Ocean Ecosystems; Science Review: Body Systems, Energy, and Ecosystems; Solutions, Solubility, and Concentration.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy does a roller coaster car have at the top of a hill?",
+            "options": [
+              "Only chemical energy",
+              "No energy at all",
+              "Potential energy",
+              "Only sound energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As a roller coaster car moves from the top of a hill down to the bottom, what happens to its energy?",
+            "options": [
+              "Potential energy converts into kinetic energy",
+              "Kinetic energy converts into potential energy",
+              "All the energy simply disappears",
+              "The energy stays entirely potential the whole time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "Underwater volcanoes only",
+              "Ocean currents alone",
+              "Large fish only",
+              "Tiny coral organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the concentration of a solution describe?",
+            "options": [
+              "The colour of the solvent only",
+              "The temperature at which the solution freezes",
+              "The amount of solute dissolved in a given amount of solvent",
+              "The container size the solution is stored in"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Persons Case and Womens Rights in Canada; Social Studies: The Canadian Wheat Board and the Grain Industry; Social Studies Review: 20th-Century Canadian History; Social Studies: United Empire Loyalists and Their Impact on Canada.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What did the Persons Case of 1929 decide?",
+            "options": [
+              "That women were legally recognized as persons eligible for Senate appointment",
+              "That only men could hold government positions",
+              "That Canada would adopt a new flag",
+              "That women could no longer vote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who were the United Empire Loyalists?",
+            "options": [
+              "Settlers who moved to Canada from Britain and other colonies to remain loyal to the British Crown after the American Revolution",
+              "A group of First Nations leaders who negotiated the Numbered Treaties",
+              "Members of the House of Commons in the 1800s",
+              "Workers involved in the Winnipeg General Strike"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Canadian Wheat Board historically control?",
+            "options": [
+              "The entire Canadian banking system",
+              "The construction of national parks",
+              "All immigration into Canada",
+              "The marketing and sale of wheat and barley from Western Canadian farmers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What impact did the arrival of the United Empire Loyalists have on Canada?",
+            "options": [
+              "It had no effect on Canada's population or development",
+              "It led to the creation of Nunavut",
+              "It significantly increased the English-speaking population and shaped the settlement of new communities",
+              "It ended immigration to Canada for the next century"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Eponyms — Words Named After People; Reading: Analyzing Dramatic Irony in Plays; Writing: Writing a Book Review; Media Literacy: Evaluating Deepfakes and Digital Manipulation.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an eponym?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A word borrowed directly from a sound",
+              "A word created from the name of a real or fictional person",
+              "A word that has no origin at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word below is an eponym because it was named after a real person?",
+            "options": [
+              "chair",
+              "sandwich",
+              "window",
+              "pencil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is dramatic irony?",
+            "options": [
+              "When a character explains every detail directly to the audience",
+              "When the audience knows something a character does not",
+              "When two characters share identical knowledge at all times",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a key strategy for evaluating whether a photo or video might be a deepfake?",
+            "options": [
+              "Trusting the video simply because it has many views",
+              "Checking for unnatural facial movements, blinking, or lighting inconsistencies",
+              "Assuming all online videos are automatically real",
+              "Only watching the video once without looking closely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: With Replacement vs Without Replacement; Measurement: Converting Between Imperial and Metric Units; Data Management: Range and Interquartile Range (IQR); Data Management: Constructing Frequency Polygons.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What happens in a with replacement scenario after an item is drawn?",
+            "options": [
+              "The item is returned before the next draw",
+              "The item is destroyed and cannot be replaced",
+              "The item is doubled before the next draw",
+              "A concept unrelated to probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A bag contains 5 red marbles and 3 blue marbles. If you draw one marble without replacement, what changes for the next draw?",
+            "options": [
+              "The total number of marbles decreases by one",
+              "The total number of marbles stays exactly the same",
+              "The total number of marbles doubles",
+              "A concept unrelated to probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which system uses units like inches, feet, and pounds?",
+            "options": [
+              "Neither system uses these units",
+              "A concept unrelated to measurement",
+              "The metric system",
+              "The imperial system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A data set has a lower quartile (Q1) of 12 and an upper quartile (Q3) of 20. What is the interquartile range (IQR)?",
+            "options": [
+              "32",
+              "8",
+              "16",
+              "4"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Glaciers and Their Role in Shaping Landscapes; DNA — The Blueprint of Life; Cells — The Building Blocks of Life; Moon Phases and Tidal Cycles.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A concept unrelated to earth science",
+              "A type of underground cave system",
+              "A massive, slow-moving body of ice",
+              "A fast-flowing river of warm water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the basic building block of all living organisms called?",
+            "options": [
+              "Atom",
+              "Cell",
+              "Molecule",
+              "Tissue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is DNA?",
+            "options": [
+              "A type of rock",
+              "A form of light",
+              "A kind of weather pattern",
+              "A molecule that carries instructions for how an organism grows and functions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes tides on Earth?",
+            "options": [
+              "The gravitational pull of the Moon (and Sun) on Earth's oceans",
+              "Wind blowing across the ocean surface",
+              "Earth's rotation alone with no outside influence",
+              "Underwater volcanic eruptions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Rebellions of 1837 in Upper and Lower Canada; The Ombudsman — Helping Citizens with Government Complaints; Social Studies: The Group of Seven and Canadian National Identity; Trade Surplus and Trade Deficit — Balancing What Canada Buys and Sells.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What happened during the Rebellions of 1837?",
+            "options": [
+              "Reformers in Upper and Lower Canada rebelled against colonial governments",
+              "A concept unrelated to Canadian history",
+              "A trade agreement was signed between Canada and Britain",
+              "A new national holiday was created"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Group of Seven was a collection of Canadian artists best known for painting what kind of subject matter?",
+            "options": [
+              "Canadian wilderness landscapes",
+              "Portraits of European royalty",
+              "Abstract cityscapes of New York",
+              "Underwater ocean scenes exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an ombudsman generally do?",
+            "options": [
+              "Collects federal taxes",
+              "Investigates citizen complaints about unfair treatment by government",
+              "Manages national parks",
+              "Leads a political party"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a country experience when it has a trade surplus?",
+            "options": [
+              "It exports more than it imports",
+              "It imports more than it exports",
+              "It has no trade with other countries",
+              "It only trades with one country"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Coordinating and Subordinating Conjunctions; Vocabulary: Oxymorons and Contradictory Phrases; Reading: Analyzing In Medias Res and Nonlinear Timelines; Writing: Writing a Diary Entry from a Historical Perspective; Language Review: Grammar, Vocabulary, Reading, and Writing.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a coordinating conjunction do?",
+            "options": [
+              "Joins two equal ideas",
+              "Ends a sentence with no connection to grammar",
+              "A concept unrelated to grammar",
+              "Joins a dependent clause only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words is a subordinating conjunction?",
+            "options": [
+              "because",
+              "and",
+              "but",
+              "or"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an oxymoron?",
+            "options": [
+              "A phrase that combines two contradictory terms",
+              "A concept unrelated to vocabulary",
+              "A phrase with only one possible meaning",
+              "A word that means the exact same thing twice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A story that begins 'in medias res' starts:",
+            "options": [
+              "in the middle of the action, with earlier events revealed later",
+              "at the very beginning of the timeline in strict chronological order",
+              "after the story has already ended",
+              "with a detailed list of all characters before any action"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Volume of Irregular Solids by Water Displacement; Geometry: Surface-Area-to-Volume Ratio and Its Real-World Effects; Data: Box-and-Whisker Plots; Algebra: Solving Two-Step Equations; Math Review: Probability, Measurement, Data, and Geometry.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What method can be used to find the volume of an irregular solid?",
+            "options": [
+              "Water displacement",
+              "Multiplying its length, width, and height only",
+              "Weighing the object on a scale only",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a box-and-whisker plot, what does the line inside the box represent?",
+            "options": [
+              "The median of the data set",
+              "The maximum value of the data set",
+              "The mean absolute deviation",
+              "The range of the data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the surface-area-to-volume ratio compare?",
+            "options": [
+              "A concept unrelated to geometry",
+              "An objects mass to its colour",
+              "An objects height to its width only",
+              "An objects outer surface area to its interior volume"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: 3x + 4 = 19",
+            "options": [
+              "x = 5",
+              "x = 7",
+              "x = 23",
+              "x = 6"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Renewable Energy: Solar Panels and Photovoltaic Technology; Decomposers and Nutrient Recycling in Ecosystems; Physical and Chemical Weathering of Rocks; 3D Printing and Additive Manufacturing; Science Review: Chemistry, Earth Science, Biology, and Technology.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do photovoltaic cells in a solar panel convert into electricity?",
+            "options": [
+              "Wind",
+              "Heat from underground",
+              "A concept unrelated to renewable energy",
+              "Sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is physical weathering?",
+            "options": [
+              "The breaking down of rock into smaller pieces without changing its chemical composition",
+              "A chemical reaction that changes rock into a new mineral",
+              "The process of rocks forming from cooling magma",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main role of decomposers in an ecosystem?",
+            "options": [
+              "Hunting and consuming only living prey",
+              "Breaking down dead organisms and waste to release nutrients",
+              "Producing their own food using sunlight only",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "3D printing is also known as what kind of manufacturing process?",
+            "options": [
+              "Additive manufacturing, because material is built up layer by layer",
+              "Subtractive manufacturing, because material is cut away",
+              "Manual manufacturing done entirely by hand tools",
+              "A process that uses no materials at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Government, History, and Economy; Social Studies: The Byzantine Empire — An Ancient Civilization; Social Studies: Time Zones and the International Date Line; Social Studies: Urban Heat Islands and City Climate Patterns; Social Studies Review: Nation-Building and Global Institutions.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Prime Ministers main role in Canadas government?",
+            "options": [
+              "Leading the federal government",
+              "Leading a provincial government",
+              "Serving as a judge on the Supreme Court",
+              "Representing the monarch ceremonially"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the calendar date when you cross the International Date Line traveling from east to west?",
+            "options": [
+              "The calendar date moves forward by one day",
+              "The calendar date moves backward by one day",
+              "Nothing changes about the date",
+              "The time zone changes but the date never does"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Byzantine Empire a continuation of?",
+            "options": [
+              "A brand new empire with no history",
+              "The Greek city-states",
+              "The eastern Roman Empire",
+              "The ancient Egyptian empire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an urban heat island?",
+            "options": [
+              "An urban area that is significantly warmer than surrounding rural areas due to human activity and infrastructure",
+              "A rural area that is always colder than nearby cities",
+              "An island located in the middle of a lake within a city",
+              "A weather pattern found only over oceans"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Relative Clauses and Relative Pronouns; Vocabulary: Malapropisms and Word Confusion; Reading: Analyzing Literary Archetypes; Writing: Writing a Movie Review; Media Literacy: Evaluating Influencer Marketing.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a relative clause?",
+            "options": [
+              "A clause that never connects to any noun",
+              "A concept unrelated to grammar",
+              "A clause that always stands alone as its own sentence",
+              "A clause that adds extra information about a noun using a relative pronoun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In literature, what is an archetype?",
+            "options": [
+              "A universally recognizable character type or pattern, such as 'the hero' or 'the mentor'",
+              "A character who appears in only one specific book and no others",
+              "A minor character with no defined role in the plot",
+              "A concept unrelated to literary analysis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "The mistaken use of a word in place of a similar-sounding word",
+              "A word that never appears in dialogue",
+              "A word that has exactly one correct meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When evaluating a social media influencer's product recommendation, what is most important to check?",
+            "options": [
+              "Whether the influencer is being paid or sponsored to promote the product",
+              "Only the number of likes the post received",
+              "Whether the post uses bright colors",
+              "The influencer's favorite color"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Mean Absolute Deviation (MAD); Geometry: Angle Relationships in Parallel Lines and Transversals; Probability: Independent vs Dependent Events; Review: Proportions, Geometry, and Probability (Days 81-89); Geometry: Tessellations and Symmetry.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does mean absolute deviation (MAD) measure?",
+            "options": [
+              "The average distance between each data value and the mean",
+              "The total number of values in a data set",
+              "The single highest value in a data set",
+              "A concept unrelated to data management"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a transversal crosses two parallel lines, what is true about corresponding angles?",
+            "options": [
+              "They are equal in measure",
+              "They always add up to 90 degrees",
+              "They are always supplementary but never equal",
+              "They have no relationship to each other"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a transversal?",
+            "options": [
+              "A line segment with no defined length",
+              "A concept unrelated to geometry",
+              "A line that crosses two or more other lines",
+              "A line that never intersects any other line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two events are independent if:",
+            "options": [
+              "the outcome of one event does not affect the probability of the other",
+              "the outcome of one event always determines the other",
+              "they can never happen at the same time",
+              "they always have equal probabilities"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Comets, Asteroids, and Meteors; Permafrost and the Cryosphere; Light and Colour: Absorption and Reflection; Biodegradable Materials and Waste Management; Nanotechnology: Engineering at the Atomic Scale.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "A concept unrelated to astronomy",
+              "Pure liquid water only",
+              "Ice, dust, and rocky material",
+              "Solid metal with no ice at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a red apple appear red when viewed in white light?",
+            "options": [
+              "It reflects red light and absorbs most other colours",
+              "It absorbs red light and reflects all other colours",
+              "It creates its own red light",
+              "It reflects all colours equally"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is permafrost?",
+            "options": [
+              "Ground that has remained frozen for two or more consecutive years",
+              "A type of rock found only underwater",
+              "Ground that has never once frozen in recorded history",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for a material to be biodegradable?",
+            "options": [
+              "It can be broken down naturally by microorganisms over time",
+              "It never breaks down under any conditions",
+              "It can only be destroyed by burning",
+              "It is always made of metal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Fenian Raids and the Push Toward Confederation; Social Studies: The National Policy of 1879; Social Studies: The Patriation of the Canadian Constitution in 1982; Social Studies: The Great Canadian Flag Debate of 1964; Canadas Immigration Points System.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What were the Fenian Raids?",
+            "options": [
+              "A peaceful trade negotiation between Canada and Ireland",
+              "A series of scientific expeditions across the Arctic",
+              "A series of armed incursions into British North America by an Irish-American group",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the patriation of the Canadian Constitution in 1982 accomplish?",
+            "options": [
+              "It brought constitutional amending power fully under Canadian control, ending the need for British approval",
+              "It gave Britain permanent control over Canadian laws",
+              "It abolished the Canadian Parliament",
+              "It merged Canada's constitution with that of the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the National Policy of 1879?",
+            "options": [
+              "A treaty ending a war between Canada and another country",
+              "A policy focused only on education reform",
+              "An economic strategy combining tariffs, a transcontinental railway, and western immigration",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada's immigration points system is primarily used to evaluate applicants based on what?",
+            "options": [
+              "Factors such as education, work experience, language skills, and age",
+              "Their favourite Canadian sports team",
+              "Random lottery selection only",
+              "Physical height and weight"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Reported (Indirect) Speech; Vocabulary: Acronyms and Initialisms; Reading: Analyzing Anti-Heroes and Morally Complex Characters; Writing: Writing a Podcast Script.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is reported speech?",
+            "options": [
+              "A word-for-word quotation placed in quotation marks",
+              "A sentence with no connection to speech at all",
+              "Restating what someone said without using their exact quoted words",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly reports (in indirect speech) what Maria said: \"I am tired\"?",
+            "options": [
+              "Maria said that she was tired.",
+              "Maria said that I am tired.",
+              "Maria say she is tired.",
+              "Maria said \"she was tired.\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "An abbreviation formed from initial letters and pronounced as a single word",
+              "A concept unrelated to vocabulary",
+              "A word with no connection to any longer phrase",
+              "A phrase that is always written out in full with no shortening"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What best describes an anti-hero in a story?",
+            "options": [
+              "A traditional hero with no flaws",
+              "A villain who has no redeeming qualities",
+              "A main character who lacks conventional heroic qualities but whom readers still root for",
+              "A minor character who never affects the plot"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Measurement: Converting Units of Area and Volume; Probability: Geometric Probability with Area Models; Algebra: Solving Word Problems with Consecutive Integers; Geometry: Indirect Measurement Using Similar Triangles.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Why must a linear conversion factor be squared when converting between units of area?",
+            "options": [
+              "A concept unrelated to measurement",
+              "Squaring a conversion factor only applies to units of volume",
+              "Because area involves two dimensions, so the conversion factor applies twice",
+              "Area conversions never require any adjustment to the linear factor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Three consecutive integers have a sum of 72. What is the smallest of the three integers?",
+            "options": [
+              "23",
+              "22",
+              "24",
+              "25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does geometric probability compare?",
+            "options": [
+              "The number of dice rolled in an experiment",
+              "The exact colour of a spinner with no connection to area",
+              "A concept unrelated to probability",
+              "The area of a favourable region to the area of the entire possible region"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A 6-metre flagpole casts a 4-metre shadow. At the same time, a nearby tree casts a 10-metre shadow. Using similar triangles, how tall is the tree?",
+            "options": [
+              "15 m",
+              "12 m",
+              "18 m",
+              "20 m"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Circadian Rhythms and the Sleep-Wake Cycle; Newtons First Law of Motion — Inertia in Everyday Life; Renewable Energy: Hydrogen Fuel Cells; Science: The Carbon Cycle — How Carbon Moves Through Earths Systems.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a circadian rhythm?",
+            "options": [
+              "A pattern found only in plants, never in animals",
+              "A concept unrelated to biology",
+              "A rhythm that only occurs once per year",
+              "An internal biological clock that repeats roughly every 24 hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do hydrogen fuel cells produce as their main by-product when generating electricity?",
+            "options": [
+              "Carbon dioxide",
+              "Water",
+              "Methane",
+              "Ash"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Newtons first law, what happens to an object at rest unless a force acts on it?",
+            "options": [
+              "It stays at rest",
+              "It disappears",
+              "It doubles in size",
+              "It always starts moving on its own"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which process removes carbon dioxide from the atmosphere and stores carbon in plants?",
+            "options": [
+              "Respiration",
+              "Combustion",
+              "Photosynthesis",
+              "Decomposition"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Role of Political Cartoons in Recording History; The War Measures Act and Civil Liberties in Canadian History; Social Studies: The History of O Canada and National Symbols; Social Studies: The History of the CBC and Public Broadcasting.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is a political cartoon?",
+            "options": [
+              "A formal government document",
+              "A photograph with no artistic elements",
+              "A drawing that uses humour and symbols to comment on events or issues",
+              "A type of national law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did \"O Canada\" officially become Canada's national anthem?",
+            "options": [
+              "1967",
+              "1980",
+              "1901",
+              "1952"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the War Measures Act?",
+            "options": [
+              "A type of municipal bylaw",
+              "A federal law allowing special emergency powers during wartime or crises",
+              "A treaty with another country",
+              "A provincial tax law"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of a public broadcaster like the CBC?",
+            "options": [
+              "To operate purely for private shareholder profit",
+              "To provide programming funded by government to serve the public interest",
+              "To broadcast only in one province",
+              "To replace all private television networks"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Grammar, Vocabulary, Reading, Media Literacy, and Writing; Grammar: Modal Verbs and Degrees of Certainty; Vocabulary: Jargon and Technical Vocabulary; Reading: Analyzing Frame Narratives (Stories Within Stories).",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Before submitting a piece of writing, why is it important to proofread it one more time?",
+            "options": [
+              "To catch small errors in spelling, grammar, and punctuation",
+              "To make the piece twice as long",
+              "To remove the thesis statement",
+              "To change the entire topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which modal verb expresses the highest degree of certainty in \"The bus ___ be late because of the storm\"?",
+            "options": [
+              "might",
+              "could",
+              "must",
+              "may"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do modal verbs generally express?",
+            "options": [
+              "Degrees of possibility, permission, ability, or obligation",
+              "The number of syllables in a sentence",
+              "A concept unrelated to grammar",
+              "The exact spelling of a word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is jargon?",
+            "options": [
+              "Specialized vocabulary used within a particular profession or field",
+              "A word that has been shortened for casual speech",
+              "A figure of speech comparing two unlike things",
+              "A synonym used to avoid repetition"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Math Review: Data, Geometry, Financial Literacy, Probability, and Algebra; Algebra: The Slope-Intercept Form of a Linear Equation; Measurement: Surface Area of Triangular Prisms; Data Management: Scatter Plots and Correlation.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "If a $40 item is taxed at 5%, how much tax is added?",
+            "options": [
+              "$2.00",
+              "$4.00",
+              "$0.50",
+              "$5.00"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line has equation y = -3x + 7. What is the y-intercept of this line?",
+            "options": [
+              "-3",
+              "3",
+              "7",
+              "-7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the equation y = mx + b, what does m represent?",
+            "options": [
+              "The slope of the line",
+              "A concept unrelated to linear equations",
+              "The y-intercept of the line",
+              "The x-intercept of the line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a scatter plot, what does a negative correlation between two variables indicate?",
+            "options": [
+              "As one variable increases, the other tends to decrease",
+              "As one variable increases, the other also increases",
+              "There is no relationship between the variables",
+              "Both variables always equal each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Astronomy, Earth Science, Physics, Technology, and Biology; Extremophiles: Life in Earths Most Extreme Environments; The Life Cycle of a Star; Exoplanets and the Search for Life Beyond Earth.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a renewable natural resource?",
+            "options": [
+              "A forest that can be replanted",
+              "Coal",
+              "Natural gas",
+              "Crude oil"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a red giant?",
+            "options": [
+              "A small, extremely dense star near the end of its life",
+              "A star in an expanded, cooler phase later in its life cycle",
+              "A newly formed star still gathering gas and dust",
+              "A black hole formed after a supernova"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an extremophile?",
+            "options": [
+              "A concept unrelated to biology",
+              "An organism that can only survive in mild, comfortable conditions",
+              "A type of rock formed under extreme pressure",
+              "An organism that thrives in extremely harsh environmental conditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an exoplanet?",
+            "options": [
+              "A planet located within our own solar system",
+              "A moon that orbits a planet other than Earth",
+              "A planet that orbits a star outside our solar system",
+              "A dwarf planet located in the asteroid belt"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Confederation, Constitution, and Canadian Identity; Social Studies: The Durham Report and the Path to Responsible Government; Social Studies: The Great Coalition and the Charlottetown Conference of 1864; Social Studies: Canadas Role in the Boer War.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does 'Confederation' refer to in Canadian history?",
+            "options": [
+              "The uniting of separate British North American colonies into one country",
+              "Canada's declaration of war on Britain",
+              "The signing of a peace treaty with the United States",
+              "Canada's independence from the United Nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main purpose of the Charlottetown Conference of 1864?",
+            "options": [
+              "To discuss a possible union of the British North American colonies",
+              "To negotiate the end of the War of 1812",
+              "To draft Canada's Constitution Act of 1982",
+              "To settle a border dispute with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was Lord Durham sent to British North America in 1838?",
+            "options": [
+              "To investigate the causes of the Rebellions of 1837 and recommend reforms",
+              "A concept unrelated to Canadian history",
+              "To lead a military campaign against a foreign country",
+              "To negotiate a trade agreement with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was Canada's role in the Boer War (1899-1902)?",
+            "options": [
+              "Canada remained completely neutral and sent no troops",
+              "Canada sent volunteer troops to fight alongside Britain",
+              "Canada declared war independently against the Boers without Britain",
+              "Canada provided naval support only, no ground troops"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Feature Article; Media Literacy: Distinguishing Fact from Opinion in News; Grammar: Conjunctive Adverbs and Transitional Phrases; Vocabulary: Slang and Changing Language Over Time.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "How does a feature article generally differ from a straightforward news story?",
+            "options": [
+              "It explores a topic in greater depth, often with a narrative angle",
+              "A concept unrelated to writing",
+              "It must always be shorter than a basic news story",
+              "It always avoids providing any factual information"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word in this sentence is a conjunctive adverb? \"The bridge was closed; therefore, we took a different route.\"",
+            "options": [
+              "closed",
+              "therefore",
+              "different",
+              "route"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a fact?",
+            "options": [
+              "A statement that can be verified with evidence",
+              "A statement that can never be proven true or false",
+              "A statement that expresses a personal judgment or belief",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What best defines slang?",
+            "options": [
+              "Formal vocabulary used in academic writing",
+              "Informal, casual language often specific to a group or time period",
+              "Words borrowed directly from another language with no change",
+              "Grammatically incorrect language that should never be used"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Compound Interest — How Money Grows Faster; Measurement: Calculating Density Using Mass and Volume; Algebra: Rearranging Formulas and Solving for a Variable; Geometry: The Golden Ratio in Art and Nature.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is compound interest?",
+            "options": [
+              "Interest earned on both the original amount and previously earned interest",
+              "Interest earned only once",
+              "Money that is lost over time",
+              "A type of tax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The formula for the area of a rectangle is A = lw. Which equation correctly rearranges this to solve for w?",
+            "options": [
+              "w = A - l",
+              "w = A / l",
+              "w = A × l",
+              "w = l / A"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What formula is used to calculate density?",
+            "options": [
+              "A concept unrelated to measurement",
+              "Mass divided by volume",
+              "Volume divided by mass",
+              "Mass multiplied by volume"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The golden ratio is approximately equal to which value?",
+            "options": [
+              "1.618",
+              "3.14",
+              "2.718",
+              "1.414"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: Endothermic and Exothermic Reactions; The Ozone Layer and Its Protective Role; Acid Rain: Causes and Environmental Effects; Biomimicry: Engineering Inspired by Nature.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens during an exothermic reaction?",
+            "options": [
+              "Energy is released into the surroundings",
+              "No energy change occurs of any kind",
+              "Energy is absorbed from the surroundings",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during an endothermic reaction?",
+            "options": [
+              "Energy is absorbed from the surroundings",
+              "Energy is only released, never absorbed",
+              "No temperature change occurs",
+              "The reaction always produces light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the ozone layer primarily absorb?",
+            "options": [
+              "All of the oxygen in the atmosphere",
+              "Most of the suns harmful ultraviolet radiation",
+              "Most of the visible light reaching Earth",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary cause of acid rain?",
+            "options": [
+              "Volcanic ash settling in water sources",
+              "Sulfur dioxide and nitrogen oxides released from burning fossil fuels reacting with water vapour",
+              "Excess salt from ocean evaporation",
+              "Ozone depletion in the upper atmosphere"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The North-West Rebellion of 1885; Crown Corporations in Canada — CBC, Canada Post, and More; The Indian Act and Its Legacy; Public Opinion Polls and Their Role in Canadian Elections.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Who led the North-West Rebellion of 1885?",
+            "options": [
+              "Louis Riel",
+              "Pierre Trudeau",
+              "Lester B. Pearson",
+              "Sir John A. Macdonald"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was a major effect of the Indian Act on First Nations peoples in Canada?",
+            "options": [
+              "It granted First Nations full provincial voting rights immediately",
+              "It controlled many aspects of First Nations life, including land, governance, and identity",
+              "It eliminated all reserves across Canada",
+              "It had no lasting impact on Indigenous communities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Crown corporation?",
+            "options": [
+              "A business owned by the government",
+              "A private company with no government connection",
+              "A club run entirely by volunteers",
+              "A type of foreign embassy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a public opinion poll during an election?",
+            "options": [
+              "To officially count the final votes",
+              "To measure what a sample of the public thinks about candidates or issues",
+              "To determine the boundaries of electoral ridings",
+              "To replace the need for citizens to vote"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Cliffhangers and Suspense Techniques; Writing: Writing a Blog Post; Language Review: Modal Verbs, Slang, Frame Narratives, and Blog Writing; Grammar: Compound-Complex Sentences; Vocabulary: Clipped Words and Word Shortening.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a cliffhanger?",
+            "options": [
+              "A scene that always ties up every loose end completely",
+              "A concept unrelated to reading",
+              "An unresolved moment of high tension left at the end of a scene or chapter",
+              "A chapter with no conflict or tension of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is a compound-complex sentence?",
+            "options": [
+              "After the rain stopped, the sun came out, and the kids ran outside to play.",
+              "The sun came out and the kids played.",
+              "After the rain stopped, the sun came out.",
+              "The kids ran outside to play in the sun."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a blog post open with a hook?",
+            "options": [
+              "A concept unrelated to writing",
+              "To draw readers in right away and encourage them to keep reading",
+              "A hook always discourages readers from continuing",
+              "Blog posts are required to begin with a table of contents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a clipped word?",
+            "options": [
+              "photo (from photograph)",
+              "brunch (from breakfast and lunch)",
+              "NASA (from National Aeronautics and Space Administration)",
+              "smog (from smoke and fog)"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Analyzing Fair and Unfair Games; Financial Literacy: Comparing Subscription and Phone Plans; Math Review: Linear Equations, Circles, Investing, and Data Spread; Measurement: Calculating Speed, Distance, and Time; Geometry: The Triangle Inequality Theorem.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What makes a game mathematically fair?",
+            "options": [
+              "One player always has a guaranteed advantage",
+              "The rules of the game are kept secret from all players",
+              "Every player has an equal probability of winning",
+              "A concept unrelated to probability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A car travels 180 km in 3 hours at a constant speed. What is its speed?",
+            "options": [
+              "50 km/h",
+              "60 km/h",
+              "45 km/h",
+              "70 km/h"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two components are commonly combined in a phone or subscription plan cost equation?",
+            "options": [
+              "A fixed monthly fee plus a per-use or per-unit charge",
+              "A single one-time payment with no monthly component",
+              "A concept unrelated to financial literacy",
+              "Two identical fixed fees with no per-use charge at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the Triangle Inequality Theorem, which set of side lengths CANNOT form a triangle?",
+            "options": [
+              "3 cm, 4 cm, 5 cm",
+              "5 cm, 5 cm, 5 cm",
+              "2 cm, 3 cm, 6 cm",
+              "6 cm, 8 cm, 10 cm"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Wildfire Ecology and Forest Regeneration; Science: Heat Transfer — Conduction, Convection, and Radiation; Science Review: Extremophiles, Gene Editing, Space, and Environmental Chemistry; Newtons Second and Third Laws of Motion; Physics: Transverse and Longitudinal Waves.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one short-term effect of a wildfire on a forest ecosystem?",
+            "options": [
+              "An immediate and permanent increase in biodiversity with no other effects",
+              "Destruction of vegetation and habitat",
+              "A wildfire always leaves an ecosystem completely unaffected",
+              "A concept unrelated to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Newton's third law of motion, when a swimmer pushes water backward, what happens?",
+            "options": [
+              "The water pushes the swimmer forward with an equal and opposite force",
+              "The swimmer accelerates without any reaction force",
+              "The water disappears with no effect",
+              "Only the water moves; the swimmer stays still"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is conduction?",
+            "options": [
+              "Heat transfer only in liquids",
+              "Heat transfer through empty space",
+              "Heat transfer through direct contact between objects",
+              "Heat that never moves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a transverse wave, how do the particles move relative to the direction the wave travels?",
+            "options": [
+              "Particles move in the same direction as the wave",
+              "Particles move perpendicular to the direction of the wave",
+              "Particles do not move at all",
+              "Particles move in a circular pattern only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Rideau Canal and Early Canadian Infrastructure; Interprovincial Trade — Buying and Selling Within Canada; Social Studies Review: Responsible Government, Confederation Debates, and Diplomacy; Social Studies Review: Immigration, Government, and Canadian History; Social Studies: The Creation of the Canadian National Railway.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What two cities does the Rideau Canal connect?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Halifax and Quebec City",
+              "Toronto and Montreal",
+              "Ottawa and Kingston"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was the Canadian National Railway (CNR) created in the early 1920s?",
+            "options": [
+              "To take over and consolidate several financially troubled private railways under government ownership",
+              "To replace all provincial highway systems",
+              "To operate exclusively as a tourist attraction",
+              "To transport mail only, with no passenger or freight service"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is interprovincial trade?",
+            "options": [
+              "A type of municipal election",
+              "Trade that only happens with other countries",
+              "A tax charged on all imported goods",
+              "The buying and selling of goods and services between provinces and territories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does \"responsible government\" mean in Canadian history?",
+            "options": [
+              "A government where the monarch personally approves every law",
+              "A government that must maintain the confidence of the elected legislature to stay in power",
+              "A government elected only by property owners with no other citizens voting",
+              "A government run entirely by appointed judges"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Static and Dynamic Characters; Writing: Writing an Autobiographical Narrative (Memoir Writing); Media Literacy: Analyzing Product Placement in Media; Grammar: The Imperative Mood and Giving Clear Instructions.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a static character?",
+            "options": [
+              "A character who is never mentioned again after the introduction",
+              "A character who remains essentially the same throughout a story",
+              "A concept unrelated to reading",
+              "A character who changes completely every single page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a dynamic character differ from a static character in a story?",
+            "options": [
+              "A dynamic character undergoes a meaningful change over the course of the story",
+              "A dynamic character never speaks any dialogue",
+              "A dynamic character only appears in the final chapter",
+              "A dynamic character is always the narrator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an autobiographical narrative, or memoir?",
+            "options": [
+              "A completely fictional story with invented characters",
+              "A concept unrelated to writing",
+              "A story written entirely by someone else about a stranger",
+              "A true story told from the writers own life experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is written in the imperative mood, giving a clear instruction?",
+            "options": [
+              "She closed the window before it started to rain.",
+              "Close the window before it starts to rain.",
+              "Will you close the window before it rains?",
+              "The window was closed before the rain began."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Surface Area of a Cylinder; Data Management: Percentiles and Quartiles in Data Analysis; Financial Literacy: Understanding GST, PST, and HST; Algebra: Solving Proportions Using Cross-Multiplication.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What shape are the two ends of a cylinder?",
+            "options": [
+              "Rectangles",
+              "Triangles",
+              "Squares",
+              "Circles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which formula gives the area of the curved (lateral) surface of a cylinder with radius r and height h?",
+            "options": [
+              "2πrh",
+              "πr²h",
+              "2πr²",
+              "πr²"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do quartiles do to a data set?",
+            "options": [
+              "Divide it into exactly two equal parts",
+              "Combine every value into a single number with no divisions",
+              "A concept unrelated to data management",
+              "Divide it into four equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using cross-multiplication, solve for x in the proportion 3/4 = x/12.",
+            "options": [
+              "6",
+              "8",
+              "9",
+              "16"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: Element Families and Trends in the Periodic Table; Biology: Plant Adaptations to Extreme Climates; Technology: How Encryption Protects Digital Information; Physics: Understanding Pressure — Atmospheric and Fluid.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do elements within the same family, or group, of the periodic table generally share?",
+            "options": [
+              "Completely unrelated chemical properties",
+              "Identical physical appearances with no exceptions",
+              "Similar chemical properties",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of encryption when protecting digital information?",
+            "options": [
+              "To make files load faster on a device",
+              "To convert data into a coded form that only authorized parties can read",
+              "To permanently delete old files from a computer",
+              "To increase the storage space available on a hard drive"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many desert plants have thick, waxy leaves?",
+            "options": [
+              "Thick waxy leaves have no connection to water conservation",
+              "To reduce water loss in a dry climate",
+              "A concept unrelated to biology",
+              "To attract as many insects as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What generally happens to atmospheric pressure as altitude increases?",
+            "options": [
+              "It stays exactly the same at every altitude",
+              "It increases steadily",
+              "It decreases",
+              "It disappears completely above sea level"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The 1950 Winnipeg Flood and Disaster Response in Canada; Social Studies: The History of Canadian Currency and the Royal Canadian Mint; The Role of Political Parties in Canadian Government; Social Studies: The History of Canada Post and Postal Service.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the major Winnipeg Flood take place?",
+            "options": [
+              "1867",
+              "1917",
+              "1950",
+              "1985"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main role of political parties in the Canadian government?",
+            "options": [
+              "To organize candidates with shared ideas and compete for seats and public support",
+              "To act as an unelected branch of the military",
+              "To set interest rates for Canadian banks",
+              "To replace the need for elections entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Royal Canadian Mint established?",
+            "options": [
+              "1908",
+              "1949",
+              "1867",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What service does Canada Post primarily provide to Canadians?",
+            "options": [
+              "National mail and parcel delivery",
+              "Passport processing for all citizens",
+              "Municipal road construction",
+              "Broadcasting national television programs"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing the Structure of a Persuasive Speech; Vocabulary: Anagrams and Wordplay; Writing: Writing a Restaurant or Product Review; Language Review: Compound-Complex Sentences, Memoir Writing, and Wordplay.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a persuasive speech typically open with?",
+            "options": [
+              "A summary of the opposing viewpoint only",
+              "A detailed list of unrelated statistics",
+              "A concept unrelated to reading",
+              "An attention-getting introduction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a persuasive speech typically end with?",
+            "options": [
+              "A random unrelated fact",
+              "A call to action urging the audience to think or act a certain way",
+              "A list of the speaker's personal hobbies",
+              "An apology for taking up the audience's time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an anagram?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A word that can never be rearranged in any way",
+              "A word that always means the exact opposite of another word",
+              "A word or phrase formed by rearranging the letters of another word or phrase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What makes a sentence compound-complex?",
+            "options": [
+              "It contains only a single independent clause",
+              "It contains no clauses at all",
+              "It contains at least two independent clauses and at least one dependent clause",
+              "It is always written as a question"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Calculating Percent Change and Percent Error; Geometry: Classifying Quadrilaterals by Properties; Measurement: Volume and Capacity — Litres and Cubic Centimetres; Math Review: Speed, Inequalities, Percent Change, and Capacity.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does percent change measure?",
+            "options": [
+              "How much a value has increased or decreased relative to its original amount",
+              "A concept unrelated to data management",
+              "The total number of values in a data set",
+              "The exact difference between two unrelated data sets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which quadrilateral has exactly one pair of parallel sides?",
+            "options": [
+              "Trapezoid",
+              "Parallelogram",
+              "Rectangle",
+              "Rhombus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What property defines a parallelogram?",
+            "options": [
+              "It has no parallel sides at all",
+              "Both pairs of opposite sides are parallel",
+              "A concept unrelated to geometry",
+              "All four sides are always different lengths"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many cubic centimetres are in 1 litre?",
+            "options": [
+              "10",
+              "100",
+              "1000",
+              "10000"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Astronomy: How Our Solar System Formed; Chemistry: Distillation and Separating Mixtures; Earth Science: Renewable vs Nonrenewable Resources; Science Review: Reaction Rates, Waves, Periodic Trends, and Plant Adaptations.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "About how long ago do scientists believe the solar system formed?",
+            "options": [
+              "About 100 years ago",
+              "About 4.6 thousand years ago",
+              "A concept unrelated to astronomy",
+              "About 4.6 billion years ago"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is considered a renewable energy resource?",
+            "options": [
+              "Coal",
+              "Natural gas",
+              "Solar power",
+              "Petroleum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property does distillation use to separate a mixture?",
+            "options": [
+              "Differences in boiling point",
+              "A concept unrelated to chemistry",
+              "Differences in the smell of each substance",
+              "Differences in colour only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which factor generally increases the rate of a chemical reaction?",
+            "options": [
+              "Lowering the temperature of the reactants",
+              "Increasing the temperature of the reactants",
+              "Removing all light from the reaction",
+              "Reducing the concentration of the reactants"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The 2010 Vancouver Winter Olympics and National Identity; Social Studies: The Newfoundland Confederation Debate and Joining Canada in 1949; Crown Land — Public Land Owned by the Government; Social Studies Review: Vimy Ridge, Railways, Currency, and Indigenous Rights.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In which Canadian city were the 2010 Winter Olympics held?",
+            "options": [
+              "Toronto",
+              "Calgary",
+              "Montreal",
+              "Vancouver"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is Crown land in Canada?",
+            "options": [
+              "Land owned privately by the royal family for personal use",
+              "Public land owned by the federal or provincial government",
+              "Land that belongs exclusively to individual cities",
+              "Farmland that cannot legally be used by anyone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year did Newfoundland officially join Canada as a province?",
+            "options": [
+              "1982",
+              "1917",
+              "1867",
+              "1949"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Battle of Vimy Ridge often seen as an important moment in Canadian history?",
+            "options": [
+              "It is widely viewed as a defining moment that helped shape Canadian national identity",
+              "It marked the end of all Canadian involvement in world affairs",
+              "It was the first battle ever fought on Canadian soil",
+              "It led to Canada losing its independence"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: The Perfect Verb Tenses — Present, Past, and Future Perfect; Grammar: Restrictive and Non-Restrictive Modifiers; Vocabulary: Compound Words and How They Are Formed; Reading: Making Inferences from Text Evidence; Writing: Writing a Travel Brochure or Itinerary.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does the present perfect tense generally show?",
+            "options": [
+              "An action that will never happen",
+              "An action that started in the past and still has relevance now",
+              "An action that can only happen in the future",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a compound word?",
+            "options": [
+              "Basketball",
+              "Quickly",
+              "Running",
+              "Happiest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a restrictive modifier do?",
+            "options": [
+              "Always begins a sentence with a comma",
+              "Adds information that could be removed with no change in meaning",
+              "Provides essential information needed to identify the noun it describes",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When a reader makes an inference while reading a text, what are they doing?",
+            "options": [
+              "Copying a sentence directly from the page",
+              "Using text evidence and prior knowledge to figure out something not directly stated",
+              "Ignoring the author's words completely",
+              "Reading the title only and skipping the rest"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Point-Slope Form of a Linear Equation; Measurement: Elapsed Time and 24-Hour Clock Conversions; Number Sense: Prime Factorization; Number Theory: Prime Factorization Using Factor Trees; Geometry: Classifying Triangles by Sides and Angles.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What two pieces of information does point-slope form require to write the equation of a line?",
+            "options": [
+              "The slope and the coordinates of one known point on the line",
+              "A concept unrelated to algebra",
+              "Two unrelated equations with no shared point",
+              "Only the y-intercept of the line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the prime factorization of 60?",
+            "options": [
+              "2 × 3 × 10",
+              "2² × 3 × 5",
+              "2 × 5 × 6",
+              "3 × 4 × 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is elapsed time generally calculated?",
+            "options": [
+              "A concept unrelated to measurement",
+              "Elapsed time cannot be calculated in any way",
+              "By adding the starting time and ending time together",
+              "By subtracting the starting time from the ending time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangle with all three sides of different lengths is classified as what type of triangle?",
+            "options": [
+              "Equilateral",
+              "Isosceles",
+              "Scalene",
+              "Right"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Astronomy: Solar and Lunar Eclipses; Earth Science: The Layers of the Atmosphere; Chemistry: The Law of Conservation of Mass; Physics: The Law of Conservation of Energy; Technology: How GPS and Satellite Navigation Work.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "Earth passes between the sun and the moon",
+              "A concept unrelated to astronomy",
+              "The sun disappears permanently from the sky",
+              "The moon passes between the sun and Earth, blocking some or all sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to the law of conservation of energy, energy in a closed system can...",
+            "options": [
+              "Be created out of nothing whenever needed",
+              "Be destroyed completely so it no longer exists",
+              "Only be transformed from one form to another, never created or destroyed",
+              "Only exist as heat and no other form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which layer of the atmosphere does most weather occur?",
+            "options": [
+              "The troposphere",
+              "A concept unrelated to earth science",
+              "The stratosphere",
+              "The exosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a GPS device determine a location on Earth?",
+            "options": [
+              "By measuring the local air temperature",
+              "By using signals from multiple satellites to calculate the position",
+              "By listening for radio broadcasts from nearby cities",
+              "By tracking the position of the moon only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Founding of Halifax in 1749; Social Studies: The Role of the Supreme Court of Canada; Social Studies: The Royal Canadian Mounted Police and Canadian Policing History; Social Studies: The Great Lakes — Economic and Ecological Importance; Social Studies: Ancient Israel and the Fertile Crescent.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was Halifax founded?",
+            "options": [
+              "1749",
+              "1917",
+              "1867",
+              "1608"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the RCMP?",
+            "options": [
+              "A private security company",
+              "Canada's national police force",
+              "A branch of the Canadian military",
+              "A federal court system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "A private business court",
+              "A local municipal office",
+              "A branch of the police force",
+              "The highest court in the country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Great Lakes economically important to Canada?",
+            "options": [
+              "They support shipping, trade, and manufacturing along their shores",
+              "They are used only for recreational swimming",
+              "They have no connection to Canadian industry",
+              "They mark the southern border with the United States and nothing more"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Tone Shifts Within a Single Text; Writing: Writing a Fable with a Clear Moral; Media Literacy: Analyzing Reality Television and Its Construction; Vocabulary: Synonyms, Antonyms, and Shades of Meaning; Language Review: Verb Tenses, Inferences, and Media Literacy.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is tone in a piece of writing?",
+            "options": [
+              "The font used to print a text",
+              "The attitude an author conveys toward a subject",
+              "The exact number of words used in a text",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a synonym for \"happy\" that carries a stronger, more intense shade of meaning?",
+            "options": [
+              "Sad",
+              "Ecstatic",
+              "Content",
+              "Indifferent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a fable?",
+            "options": [
+              "A lengthy novel with no clear lesson or purpose",
+              "A concept unrelated to writing",
+              "A story that must always be based on true events",
+              "A short story, often with animal characters, that teaches a lesson or moral"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Producers of reality television shows often create dramatic storylines mainly through which technique?",
+            "options": [
+              "Broadcasting entirely unedited, continuous footage",
+              "Selective editing and arrangement of recorded footage",
+              "Letting a live studio audience control the plot",
+              "Reading from a script with no filming involved"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Constructing and Interpreting Pictographs with Scaled Symbols; Algebra: Translating Words into Algebraic Expressions and Equations; Geometry: Calculating the Area of Composite 2D Shapes; Geometry: Volume of Cones and Pyramids; Math Review: Point-Slope Form, Probability, and Geometry.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a pictograph use to represent data?",
+            "options": [
+              "Repeated symbols or icons",
+              "Colours with no symbols involved",
+              "Only numbers with no symbols at all",
+              "A concept unrelated to data management"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A composite shape is made of a rectangle (4 m by 3 m) joined to a triangle with a base of 4 m and a height of 2 m. What is the total area of the composite shape?",
+            "options": [
+              "12 m²",
+              "14 m²",
+              "16 m²",
+              "20 m²"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word in a word problem often signals addition?",
+            "options": [
+              "Product",
+              "A concept unrelated to algebra",
+              "Quotient",
+              "Sum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which formula correctly gives the volume of a cone with radius r and height h?",
+            "options": [
+              "πr²h",
+              "(1/3)πr²h",
+              "2πrh",
+              "(4/3)πr³"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Symbiosis — Mutualism, Commensalism, and Parasitism; Earth Science: Measuring Earthquakes — Magnitude and Seismographs; Biology: Animal Classification — Vertebrates and Invertebrates; Physics: Gravity and Free Fall; Science Review: Eclipses, Atmosphere, and Conservation Laws.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is symbiosis?",
+            "options": [
+              "A single organism living alone",
+              "A close relationship between two different species",
+              "A type of rock formation",
+              "A weather pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a parasitic relationship, how does the parasite generally affect its host?",
+            "options": [
+              "It benefits while harming the host",
+              "It benefits while the host is unaffected",
+              "Both organisms benefit equally",
+              "Neither organism is affected in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What instrument is used to detect and record ground motion during an earthquake?",
+            "options": [
+              "A concept unrelated to earth science",
+              "A seismograph",
+              "A thermometer",
+              "A barometer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following animals is classified as an invertebrate?",
+            "options": [
+              "Earthworm",
+              "Dog",
+              "Frog",
+              "Sparrow"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: How Government Budgets Are Planned and Passed; Social Studies: Hockey and Its Role in Canadian National Identity; Referendums — Direct Democracy in Canada; The Fathers of Confederation; Social Studies Review: Halifax, Policing, and Canadian Institutions.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does a government budget outline?",
+            "options": [
+              "Planned spending and expected revenue for the year",
+              "The names of every citizen in the country",
+              "The exact weather forecast for the year",
+              "A list of every book in a library"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a referendum?",
+            "options": [
+              "A closed-door meeting held only by government cabinet members",
+              "A direct vote in which citizens decide on a specific public issue",
+              "An annual report on government spending",
+              "A ceremony held to open a new session of Parliament"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What winter sport has long been closely tied to Canadian culture?",
+            "options": [
+              "Rugby",
+              "A concept unrelated to Canadian identity",
+              "Cricket",
+              "Ice hockey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who were the \"Fathers of Confederation\"?",
+            "options": [
+              "The delegates who worked together to bring about the union of the Canadian provinces in 1867",
+              "The first group of European explorers to reach Canada",
+              "A group of modern-day provincial premiers",
+              "The founders of the Hudson's Bay Company"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Adverb Clauses of Time, Reason, and Condition; Reading: Analyzing Juxtaposition and Contrast in Literature; Writing: Writing a Historical Fiction Narrative; Vocabulary: False Cognates and Words That Trick You.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an adverb clause?",
+            "options": [
+              "A single word that describes a noun",
+              "A concept unrelated to grammar",
+              "A group of words with a subject and verb that functions like an adverb",
+              "A clause that can never begin a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which adverb clause type is used in this sentence: 'Because the bridge was closed, we took a detour'?",
+            "options": [
+              "Time",
+              "Reason",
+              "Condition",
+              "Place"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "A concept unrelated to reading",
+              "Placing two contrasting ideas, characters, or images side by side",
+              "Repeating the exact same idea multiple times in a row",
+              "Removing all conflict from a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a false cognate?",
+            "options": [
+              "A word in one language that looks similar to a word in another language but has a different, unrelated meaning",
+              "A word that is spelled exactly the same in every language",
+              "A word that has been borrowed directly from another language and keeps the same meaning",
+              "A grammar rule that only applies to adverb clauses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Combinations — Counting Possible Outcomes; Number Theory: Multiples, Factors, and the Sieve of Eratosthenes; Geometry: The Midsegment Theorem for Triangles; Geometry: Scale Drawings and Scale Factor.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a combination count?",
+            "options": [
+              "The number of ways to group items when order does not matter",
+              "Only ordered arrangements",
+              "A type of fraction",
+              "A single fixed outcome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A pizza shop offers 5 toppings. How many different combinations of 3 toppings can a customer choose, if order doesn't matter?",
+            "options": [
+              "10",
+              "15",
+              "20",
+              "60"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Sieve of Eratosthenes used to find?",
+            "options": [
+              "Only even numbers within a range",
+              "A concept unrelated to number theory",
+              "The sum of every number in a list",
+              "All prime numbers up to a given limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In triangle ABC, the midsegment connecting the midpoints of sides AB and AC is related to side BC in which way?",
+            "options": [
+              "It is half the length of BC and parallel to it",
+              "It is twice the length of BC and parallel to it",
+              "It is equal in length to BC and perpendicular to it",
+              "It has no length or direction relationship to BC"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Acids and Bases — Everyday Chemistry; Biology: Metamorphosis in Insects and Amphibians; The Greenhouse Effect and Climate Change; Earth Science: Convection Currents in Weather and Plate Tectonics.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a common property of acids?",
+            "options": [
+              "They never react with anything",
+              "They cannot be found in food",
+              "They always taste sweet",
+              "They often taste sour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a common property of bases (alkaline substances)?",
+            "options": [
+              "They often taste bitter and feel slippery",
+              "They always taste sour",
+              "They cannot be found in household products",
+              "They never react with acids"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is metamorphosis?",
+            "options": [
+              "A process in which an organism never changes its body form",
+              "A type of rock formation",
+              "A concept unrelated to biology",
+              "A dramatic change in body form during an organisms development"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes the greenhouse effect to intensify climate change?",
+            "options": [
+              "Increased greenhouse gases trap more heat in Earth's atmosphere",
+              "The ozone layer completely disappearing",
+              "The sun gradually moving closer to Earth",
+              "Volcanic ash permanently blocking all sunlight"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Northwest Passage and Arctic Sovereignty; Social Studies: The Canadian Football League and the Grey Cup; Social Studies: The Doukhobors and Mennonite Settlement on the Canadian Prairies; Social Studies: The Panama Canal and Its Effect on Canadian Trade Routes.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Northwest Passage?",
+            "options": [
+              "A mountain pass located in British Columbia",
+              "A sea route through the Canadian Arctic connecting the Atlantic and Pacific Oceans",
+              "A concept unrelated to Canadian geography",
+              "A railway line built across the prairies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Grey Cup awarded for?",
+            "options": [
+              "Winning the Canadian Football League's championship game",
+              "Winning a national curling championship",
+              "Completing a cross-country marathon",
+              "A concept unrelated to Canadian sports"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Canadian Football League?",
+            "options": [
+              "A professional sports league in Canada",
+              "An organization that regulates Canadian banking",
+              "A concept unrelated to Canadian sports",
+              "A league that organizes only youth soccer teams"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the Doukhobors and Mennonites settle on the Canadian prairies in the late 1800s?",
+            "options": [
+              "To seek religious freedom and access to available farmland",
+              "To build and operate a transcontinental railway",
+              "To establish military bases for national defense",
+              "To mine gold discovered in the region"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Video Game Narratives and Design; Grammar: Direct and Indirect Objects in a Sentence; Reading: Analyzing Personification and Anthropomorphism in Literature; Writing: Writing a Radio Drama Script.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is one storytelling method available to video games that is not typically available to books or films?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Printed text on a page",
+              "Branching player choices that affect the story",
+              "A fixed, unchangeable sequence of events with no player input"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence 'She gave her brother a gift,' what is the indirect object?",
+            "options": [
+              "gift",
+              "brother",
+              "She",
+              "gave"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What question does a direct object typically answer?",
+            "options": [
+              "How or why",
+              "What or whom",
+              "A concept unrelated to grammar",
+              "Where or when"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of personification?",
+            "options": [
+              "The wind whispered secrets through the trees.",
+              "The wind blew at twenty miles per hour.",
+              "The trees were tall and green.",
+              "The trees fell during the storm."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Constructing and Interpreting Stacked Bar Graphs; Financial Literacy: Budgeting for a Class Trip (Cost-Benefit Analysis); Fractions: Dividing a Whole Number by a Unit Fraction; Number Theory: Modular Arithmetic and Clock Math.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a stacked bar graph divide each bar into?",
+            "options": [
+              "Randomly placed dots with no pattern",
+              "Segments representing different categories",
+              "A concept unrelated to data management",
+              "A single unbroken colour with no divisions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 6 divided by 1/3?",
+            "options": [
+              "18",
+              "2",
+              "6",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first general step when creating a budget for a class trip?",
+            "options": [
+              "Spending money first and figuring out the cost afterward",
+              "Listing all expected costs, such as transportation, admission, and food",
+              "A concept unrelated to financial literacy",
+              "Ignoring all costs entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If it is currently 9 o'clock, what time will it be in 20 hours, using 12-hour clock math (modular arithmetic)?",
+            "options": [
+              "5 o'clock",
+              "11 o'clock",
+              "1 o'clock",
+              "7 o'clock"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: Household Chemical Safety and Common Reactions; Renewable Energy: Wave Energy Converters and Ocean Power; Physics: Noise Pollution and Sound Insulation; Biology: Keystone Species and Ecosystem Stability.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why can mixing certain household cleaning products be dangerous?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Some combinations can produce harmful gases or other dangerous chemical reactions",
+              "Mixing cleaning products always makes them completely safe",
+              "Household cleaning products can never react with each other in any way"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species whose presence has a large effect on the stability of its ecosystem relative to its abundance",
+              "The most numerous species living in an ecosystem",
+              "A species that is found only in zoos or captivity",
+              "A species that has no measurable effect on its ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do wave energy converters capture and convert into electricity?",
+            "options": [
+              "The kinetic energy of ocean waves",
+              "A concept unrelated to renewable energy",
+              "The chemical energy found in seawater salt",
+              "The heat energy stored in ocean sediment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of material is most effective at reducing noise pollution by absorbing sound waves rather than reflecting them?",
+            "options": [
+              "Soft, porous materials such as acoustic foam",
+              "Smooth, hard glass panels",
+              "Polished metal sheeting",
+              "Thin, tightly stretched plastic wrap"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Interest Groups and Lobbying in Canadian Politics; Social Studies: The Trans-Canada Highway and National Infrastructure; Social Studies Review: Parks, Government, and Canadian History; Social Studies: Ancient Carthage and the Phoenician Traders.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is an interest group?",
+            "options": [
+              "A type of national election",
+              "An organization that tries to influence government decisions on a specific issue",
+              "A group that has no opinion on any issue",
+              "A branch of the federal court system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is lobbying?",
+            "options": [
+              "Attempting to persuade government officials to support a particular policy or decision",
+              "A type of federal election held every four years",
+              "A legal punishment for breaking election laws",
+              "A formal ceremony held in Parliament"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Trans-Canada Highway?",
+            "options": [
+              "A concept unrelated to Canadian infrastructure",
+              "A railway line built in the 1800s",
+              "One of the longest national highways in the world, stretching coast to coast across Canada",
+              "A short highway connecting only two Canadian cities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What were the Phoenician traders, who founded Carthage, especially well known for?",
+            "options": [
+              "Extensive seafaring trade networks across the Mediterranean Sea",
+              "Building the pyramids of ancient Egypt",
+              "Inventing the printing press",
+              "Establishing colonies in the Canadian Arctic"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Understatement and Hyperbole as Literary Devices; Language Review: Grammar, Reading, and Media Literacy (Days 171-179); Grammar: Prepositional Phrases as Adjectives and Adverbs; Vocabulary: Contronyms, Words That Are Their Own Opposite.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is understatement?",
+            "options": [
+              "Making something seem far more extreme than it really is",
+              "Stating a fact with no emotional effect at all",
+              "Deliberately making something seem less important or smaller than it really is",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "Deliberate exaggeration that is not meant to be taken literally",
+              "A factual statement with no emotional effect at all",
+              "Deliberately making something seem less important than it really is",
+              "A word that has two opposite meanings depending on context"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When evaluating a news article for reliability, what is one important thing to check?",
+            "options": [
+              "Whether the source cites credible evidence and named experts",
+              "How many pictures the article includes",
+              "Whether the headline is written in capital letters",
+              "The length of the article in words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a contronym?",
+            "options": [
+              "A word that has two opposite meanings depending on context",
+              "A word borrowed directly from another language",
+              "A word that has no clear meaning at all",
+              "A word that sounds like another word but is spelled differently"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Similar Triangles and Proportional Sides; Math Review: Systems, Number Theory, and Geometry (Days 171-179); Geometry: The Area and Circumference of Sectors of a Circle; Number Theory: The Fibonacci Sequence and Patterns in Nature.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean for two triangles to be similar?",
+            "options": [
+              "They must be identical in size",
+              "They have the same shape but may differ in size",
+              "They have no matching angles",
+              "They cannot share any properties"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A circle has a radius of 6 cm. What is the area of a 90-degree sector of the circle? (Use pi = 3.14)",
+            "options": [
+              "28.26 cm^2",
+              "9.42 cm^2",
+              "56.52 cm^2",
+              "113.04 cm^2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the solution to a system of two linear equations represent on a graph?",
+            "options": [
+              "The point where the two lines intersect",
+              "A concept unrelated to algebra",
+              "The steepness of just one of the lines",
+              "The point where either line crosses the x-axis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the next two numbers in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, __, __?",
+            "options": [
+              "13 and 21",
+              "10 and 12",
+              "13 and 20",
+              "14 and 22"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earth Science: Sinkholes, Caves, and Karst Landscapes; Science Review: Physics, Biology, and Earth Science (Days 171-179); Technology: Renewable Energy Storage and Grid-Scale Batteries; Biology: Pollinator Decline and Colony Collapse Disorder.",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of bedrock is commonly associated with the formation of karst landscapes?",
+            "options": [
+              "A concept unrelated to earth science",
+              "Limestone",
+              "Granite",
+              "Basalt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do sinkholes typically form in karst landscapes?",
+            "options": [
+              "Acidic groundwater slowly dissolves underlying limestone, creating underground cavities that eventually collapse",
+              "Volcanic eruptions blast holes directly into the ground surface",
+              "Glaciers carve deep depressions as they move",
+              "Earthquakes are the only process that can create them"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is simple harmonic motion?",
+            "options": [
+              "Motion that always speeds up forever without stopping",
+              "A concept unrelated to physics",
+              "A repeating back-and-forth motion around a resting position",
+              "Motion that only ever happens once and never repeats"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is colony collapse disorder?",
+            "options": [
+              "A phenomenon in which most worker bees in a honeybee colony disappear, leaving the queen behind",
+              "A disease that only affects flowering plants",
+              "A term for a beehive that produces an unusually large amount of honey",
+              "A natural process where bee colonies steadily grow larger every year"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Auditor Generals Reports — Reviewing Government Spending; Social Studies Review: Geography, History, and Canadian Institutions (Days 171-179); Social Studies: The Franklin Expedition and Nineteenth-Century Arctic Exploration; Social Studies: Terry Fox and the Marathon of Hope.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Auditor General examine?",
+            "options": [
+              "How government departments spend public money",
+              "The results of sports competitions",
+              "Private business decisions only",
+              "The weather across Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the outcome of the Franklin Expedition of 1845?",
+            "options": [
+              "Both ships became icebound and the entire crew was lost while searching for the Northwest Passage",
+              "The expedition successfully mapped the entire Arctic coastline and returned safely",
+              "The crew discovered gold and returned wealthy",
+              "The expedition was cancelled before it ever began"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes the role of the Governor General in Canada?",
+            "options": [
+              "The Crown's representative in Canada, carrying out mostly ceremonial and constitutional duties",
+              "The elected head of Canada's government",
+              "The person who writes Canada's laws",
+              "The head of Canada's Supreme Court"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the goal of Terry Fox's Marathon of Hope?",
+            "options": [
+              "To run across Canada to raise money and awareness for cancer research",
+              "To set a world record for the fastest marathon",
+              "To raise funds for Arctic exploration",
+              "To promote the construction of a new national highway"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Setup and Payoff in Plot (Chekhovs Gun); Writing: Writing a Choose Your Own Adventure Story; Media Literacy: Analyzing Documentary Filmmaking Techniques; Grammar: Capitalization Rules for Titles and Proper Nouns; Language Capstone Review: Grammar, Vocabulary, Reading, and Media Literacy (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does the storytelling principle known as Chekhovs Gun suggest?",
+            "options": [
+              "A significant detail introduced early in a story should eventually play a meaningful role later",
+              "Every detail in a story should be forgotten immediately after it appears",
+              "Stories should never introduce any specific objects or details",
+              "A concept unrelated to reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which technique is commonly used in documentary filmmaking to provide expert commentary or explain context to viewers?",
+            "options": [
+              "Interviews with experts or witnesses",
+              "Scripted dialogue between fictional characters",
+              "Animated fantasy sequences",
+              "A laugh track"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a defining feature of a choose your own adventure story?",
+            "options": [
+              "It follows a single fixed sequence of events with no reader input",
+              "It never includes more than one possible ending",
+              "A concept unrelated to writing",
+              "It presents the reader with decision points that lead to different branches of the plot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses capitalization correctly?",
+            "options": [
+              "I am reading The Catcher in the Rye this summer.",
+              "i am reading the catcher in the rye this Summer.",
+              "I am reading the Catcher in The rye this summer.",
+              "I Am Reading The catcher In the rye This summer."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Age and Number Word Problems; Math Review: Data, Geometry, and Algebra; Geometry: Classifying Polyhedra by Faces, Edges, and Vertices; Data Management: Constructing and Interpreting Radar Charts; Math Capstone Review: Geometry, Number Theory, Algebra, and Data Management (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first general step in solving an age or number word problem algebraically?",
+            "options": [
+              "Guessing an answer with no calculation at all",
+              "Ignoring the relationships described in the problem",
+              "Assigning a variable to represent the unknown quantity",
+              "A concept unrelated to algebra"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A cube has 6 faces, 12 edges, and 8 vertices. What is the sum of all three of these values?",
+            "options": [
+              "26",
+              "24",
+              "20",
+              "30"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a scatter plot show?",
+            "options": [
+              "Only categories",
+              "A list of names",
+              "Pairs of related data as points on a graph",
+              "A single number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a radar chart (spider chart), what does the distance from the center along each axis represent?",
+            "options": [
+              "The value of that category",
+              "The time the data was collected",
+              "The name of the category",
+              "Nothing; it is purely decorative"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earth Science: Deltas, Estuaries, and River Mouth Ecosystems; Science: Photosynthesis — How Plants Make Their Own Food; Technology: How Wastewater Treatment Plants Clean Water; Chemistry: How Sunscreen Works to Block UV Radiation; Science Capstone Review: Technology, Biology, Earth Science, and Chemistry (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 7 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes a river delta to form?",
+            "options": [
+              "Sediment being removed entirely from a river mouth",
+              "A river suddenly speeding up as it leaves the ocean",
+              "A concept unrelated to earth science",
+              "A river depositing sediment as it slows down and meets a larger body of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of the primary treatment stage at a wastewater treatment plant?",
+            "options": [
+              "To physically remove large solids and debris from the water",
+              "To add dye that colors the water blue",
+              "To freeze the water for long-term storage",
+              "To add fertilizer to the water before release"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "The process by which plants make their own food using sunlight",
+              "A process where plants produce no oxygen",
+              "A process that only happens at night",
+              "A process where plants absorb food from soil only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do most sunscreens protect skin from UV radiation?",
+            "options": [
+              "By absorbing or reflecting UV rays before they penetrate the skin",
+              "By blocking all sunlight, including visible light",
+              "By cooling the skin's surface temperature",
+              "By removing melanin from the skin"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Alberta Oil Sands and Canadas Energy Economy; Social Studies: The Atlantic Cod Moratorium and Its Impact on Newfoundland; Social Studies: Expo 86 and Vancouvers Growth as a Pacific Gateway City; Social Studies: Inuit Traditional Knowledge and Life in the Arctic; Social Studies Capstone Review: Arctic History, Canadian Icons, and Economic Geography (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What resource is found in large quantities in the Alberta oil sands?",
+            "options": [
+              "Fresh water suitable for drinking",
+              "Bitumen, a thick, heavy form of petroleum",
+              "A concept unrelated to Canadian geography",
+              "Coal deposits used only for heating homes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was Expo 86, held in Vancouver?",
+            "options": [
+              "A world's fair that boosted Vancouver's growth and profile as a Pacific gateway city",
+              "A national election held in British Columbia",
+              "A professional sports championship",
+              "A mining operation in northern British Columbia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Canadian government declare in 1992 regarding cod fishing off Newfoundland?",
+            "options": [
+              "A permanent increase in cod fishing quotas",
+              "A brand new fishing industry with no restrictions at all",
+              "A moratorium, or temporary ban, on cod fishing",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Inuit traditional knowledge, passed down through generations, typically include?",
+            "options": [
+              "A detailed understanding of Arctic wildlife, weather patterns, and survival skills built from long experience living on the land",
+              "Modern satellite technology used to predict weather",
+              "Farming techniques imported from southern Canada",
+              "Knowledge unrelated to the natural environment"
+            ],
+            "answer": 0
           }
         ]
       }
