@@ -20195,8 +20195,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Understanding Foreshadowing",
         "summary": "Grade 3 Language strand: foreshadowing is when an author gives a small hint early in a story about something that will happen later, building suspense for the reader.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Reading: Understanding Foreshadowing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Foreshadowing%20grade%203%20educational",
         "quiz": [
           {
             "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
@@ -20249,14 +20249,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=abkFO8T-mjg"
       },
       {
         "subject": "Math",
         "title": "Multiplication: Multiplying by 11 and 12",
         "summary": "Grade 3 Math strand: students learn multiplication facts for the 11 and 12 times tables, building on earlier facts up to 10, using patterns to help memorize them.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Multiplication: Multiplying by 11 and 12",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Multiplying%20by%2011%20and%2012%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is 11 times 4?",
@@ -20309,14 +20310,21 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=MxYGaqkX94k",
+        "videoUrls": [
+          {
+            "label": "Multiply by 12",
+            "url": "https://www.youtube.com/watch?v=ojkdEdLnIaA"
+          }
+        ]
       },
       {
         "subject": "Science",
         "title": "Science: Adaptations for Winter Survival",
         "summary": "Grade 3 Science strand: animals survive cold winters using adaptations such as growing thicker fur, storing body fat, migrating to warmer places, or hibernating until spring.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Adaptations for Winter Survival",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Adaptations%20for%20Winter%20Survival%20grade%203%20educational",
         "quiz": [
           {
             "q": "Name one adaptation animals use to survive winter, such as growing thicker fur.",
@@ -20369,14 +20377,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=vfcrxLk6QSs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Ontario’s Manufacturing Industry",
         "summary": "Grade 3 Social Studies strand: manufacturing is an important industry in Ontario, where factories produce goods such as cars, food products, and machinery that are sold across Canada and the world.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Ontario’s Manufacturing Industry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ontario%E2%80%99s%20Manufacturing%20Industry%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call factories producing goods like cars and machinery?",
@@ -20429,7 +20438,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=zQeQWGqfFN0"
       }
     ]
   },
@@ -20441,8 +20451,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Interjections and Exclamations",
         "summary": "Grade 3 Language strand: an interjection is a short word or phrase that shows strong feeling, such as Wow! or Oh no!, often followed by an exclamation mark.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Grammar: Interjections and Exclamations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Interjections%20and%20Exclamations%20grade%203%20educational",
         "quiz": [
           {
             "q": "An interjection is a short word or phrase that shows ___.",
@@ -20495,14 +20505,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=jsBhTa80qnI"
       },
       {
         "subject": "Math",
         "title": "Geometry: Finding Missing Side Lengths",
         "summary": "Grade 3 Math strand: if you know the perimeter of a shape and the length of some of its sides, you can find a missing side length by subtracting the known sides from the total perimeter.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Geometry: Finding Missing Side Lengths",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Finding%20Missing%20Side%20Lengths%20grade%203%20educational",
         "quiz": [
           {
             "q": "If a rectangle has a perimeter of 20 cm and three known sides add up to 14 cm, what is the missing side?",
@@ -20555,14 +20566,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ORdigb0lFCk"
       },
       {
         "subject": "Science",
         "title": "Science: How Plants Make Their Own Food",
         "summary": "Grade 3 Science strand: plants make their own food through a process called photosynthesis, using sunlight, water, and air to produce the energy they need to grow.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: How Plants Make Their Own Food",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20Plants%20Make%20Their%20Own%20Food%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is the process called when plants make their own food using sunlight?",
@@ -20614,14 +20626,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iln136eMl4g"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: How Municipal Budgets Are Spent",
         "summary": "Grade 3 Social Studies strand: a municipal budget is a plan for how a local government spends the tax money it collects, often on services like roads, parks, libraries, and emergency services.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: How Municipal Budgets Are Spent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Municipal%20Budgets%20Are%20Spent%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call a plan for how a local government spends its money?",
@@ -20674,7 +20687,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=jk7TUHQ3UO0"
       }
     ]
   },
@@ -50189,7 +50203,7 @@ const curriculum: DayContent[] = [
             "q": "A fact is a statement that ___.",
             "options": [
               "Can be proven true",
-              "Is always someone\u2019s feeling",
+              "Is always someone’s feeling",
               "Can never be checked",
               "Is always false"
             ],
@@ -50849,7 +50863,7 @@ const curriculum: DayContent[] = [
           {
             "q": "2D shapes can be classified by properties such as the number of ___.",
             "options": [
-              "A property unrelated to a shape\u2019s structure",
+              "A property unrelated to a shape’s structure",
               "Colours used to draw the shape",
               "Sides",
               "People who have drawn the shape before"
@@ -50920,7 +50934,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Community Helpers and Their Roles; Social Studies: Comparing Communities Then and Now; Social Studies: Trade Between Communities Today; Niagara Falls: One of Canada\u2019s Natural Wonders.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Community Helpers and Their Roles; Social Studies: Comparing Communities Then and Now; Social Studies: Trade Between Communities Today; Niagara Falls: One of Canada’s Natural Wonders.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -51124,7 +51138,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Indigenous Peoples\u2019 Contributions to Canada; Social Studies: Immigration Stories -- Then and Now; Social Studies: How Ontario Uses Its Resources; Review: Government, Trade, and Community; Grade 3 Social Studies: Extending Our Community Knowledge.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Indigenous Peoples’ Contributions to Canada; Social Studies: Immigration Stories -- Then and Now; Social Studies: How Ontario Uses Its Resources; Review: Government, Trade, and Community; Grade 3 Social Studies: Extending Our Community Knowledge.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -51328,7 +51342,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Provinces and Capital Cities; Social Studies: How Elections Work: Voting for Leaders; Social Studies: Time Zones Across Canada; Social Studies: Goods and Services in the Community; Social Studies: Public Transportation in Communities.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada’s Provinces and Capital Cities; Social Studies: How Elections Work: Voting for Leaders; Social Studies: Time Zones Across Canada; Social Studies: Goods and Services in the Community; Social Studies: Public Transportation in Communities.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -51385,7 +51399,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: Quotation Marks in Dialogue; Oral Communication: Asking Clarifying Questions; Writing: Writing Riddles and Jokes; Reading: Text Structure \u2014 Problem and Solution.",
+        "summary": "A practice recap of recent Language lessons: Grammar: Quotation Marks in Dialogue; Oral Communication: Asking Clarifying Questions; Writing: Writing Riddles and Jokes; Reading: Text Structure — Problem and Solution.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -51462,7 +51476,7 @@ const curriculum: DayContent[] = [
             "q": "A hundred chart arranges the numbers 1 to 100 in rows of ___.",
             "options": [
               "A concept unrelated to how numbers are arranged",
-              "Two, with no connection to a hundred chart\u2019s structure",
+              "Two, with no connection to a hundred chart’s structure",
               "Ten",
               "One hundred, with no connection to smaller rows"
             ],
@@ -51483,7 +51497,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Energy: Sources of Light, Natural and Artificial; Science: Classifying Animals: Vertebrates and Invertebrates; Science: Earth\u2019s Layers: Crust, Mantle, and Core; Science: Technology Inspired by Nature (Biomimicry).",
+        "summary": "A practice recap of recent Science lessons: Science: Energy: Sources of Light, Natural and Artificial; Science: Classifying Animals: Vertebrates and Invertebrates; Science: Earth’s Layers: Crust, Mantle, and Core; Science: Technology Inspired by Nature (Biomimicry).",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -51532,7 +51546,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: How Electricity Powers Our Community; Social Studies: Preserving Ontario\u2019s Historic Buildings and Sites; Social Studies: Ontario\u2019s Farmland and Agriculture Today; Social Studies: Canada\u2019s Currency: Coins and Bills.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: How Electricity Powers Our Community; Social Studies: Preserving Ontario’s Historic Buildings and Sites; Social Studies: Ontario’s Farmland and Agriculture Today; Social Studies: Canada’s Currency: Coins and Bills.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -51589,12 +51603,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Review: Idioms, Grammar, and Reading Strategies; Reading: Figurative Language \u2014 Similes and Metaphors; Grammar: The Four Types of Sentences; Vocabulary: Multiple-Meaning Words.",
+        "summary": "A practice recap of recent Language lessons: Review: Idioms, Grammar, and Reading Strategies; Reading: Figurative Language — Similes and Metaphors; Grammar: The Four Types of Sentences; Vocabulary: Multiple-Meaning Words.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
           {
-            "q": "The idiom \u201cit\u2019s raining cats and dogs\u201d really means ___.",
+            "q": "The idiom “it’s raining cats and dogs” really means ___.",
             "options": [
               "The weather is calm and sunny",
               "It is raining very hard",
@@ -51618,7 +51632,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to comparing things",
               "No comparison words at all",
-              "\u201cLike\u201d or \u201cas\u201d",
+              "“Like” or “as”",
               "Only exact numbers"
             ],
             "answer": 2
@@ -51643,7 +51657,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
         "quiz": [
           {
-            "q": "What is 13 \u00f7 4, including the remainder?",
+            "q": "What is 13 ÷ 4, including the remainder?",
             "options": [
               "4 remainder 1",
               "3 remainder 1",
@@ -51653,7 +51667,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "To estimate 29 \u00f7 5, you can think of the nearby fact 30 \u00f7 5, which equals ___.",
+            "q": "To estimate 29 ÷ 5, you can think of the nearby fact 30 ÷ 5, which equals ___.",
             "options": [
               "5",
               "6",
@@ -51716,7 +51730,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Nothing at all, since the process stops at the pupa stage",
               "An adult butterfly",
-              "A concept unrelated to a butterfly\u2019s life cycle",
+              "A concept unrelated to a butterfly’s life cycle",
               "A completely different insect species"
             ],
             "answer": 1
@@ -51736,7 +51750,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Review: Government, Geography, and Economy; Social Studies: How Laws and Bylaws Keep Communities Safe; Social Studies: Taxes: How Communities Pay for Shared Services; Social Studies: Ontario\u2019s Mining and Forestry Industries.",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Government, Geography, and Economy; Social Studies: How Laws and Bylaws Keep Communities Safe; Social Studies: Taxes: How Communities Pay for Shared Services; Social Studies: Ontario’s Mining and Forestry Industries.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -51802,7 +51816,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to how a comic strip is organized",
               "Panels",
-              "Paragraphs, with no connection to a comic strip\u2019s format",
+              "Paragraphs, with no connection to a comic strip’s format",
               "Chapters, with no connection to pictures"
             ],
             "answer": 1
@@ -51891,7 +51905,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Volcanoes and Earthquakes; Science: Decomposers and the Food Cycle; Science: Insect Body Parts and Characteristics; Science: Earth\u2019s Magnetic Field and Compasses.",
+        "summary": "A practice recap of recent Science lessons: Science: Volcanoes and Earthquakes; Science: Decomposers and the Food Cycle; Science: Insect Body Parts and Characteristics; Science: Earth’s Magnetic Field and Compasses.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -51900,7 +51914,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Sky, with no connection to the ground shifting",
               "Earth",
-              "Ocean, with no connection to the Earth\u2019s interior",
+              "Ocean, with no connection to the Earth’s interior",
               "A concept unrelated to how these events occur"
             ],
             "answer": 1
@@ -52144,7 +52158,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Remembrance Day and Canada\u2019s Veterans; Social Studies: Tourism in Ontario: Visiting Our Province; Review: Laws, Industry, and Communities; Social Studies: Ontario\u2019s Manufacturing Industry; Social Studies: How Municipal Budgets Are Spent.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Remembrance Day and Canada’s Veterans; Social Studies: Tourism in Ontario: Visiting Our Province; Review: Laws, Industry, and Communities; Social Studies: Ontario’s Manufacturing Industry; Social Studies: How Municipal Budgets Are Spent.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -52201,7 +52215,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Vocabulary: Prefixes re- and pre-; Writing: Writing an Invitation; Reading: Character Motivation \u2014 Why Characters Act.",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Prefixes re- and pre-; Writing: Writing an Invitation; Reading: Character Motivation — Why Characters Act.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -52503,7 +52517,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Tides and the Moon\u2019s Pull; Science: Migration Patterns of Canadian Birds; Science: How Sound Travels Through Different Materials; Science: Investigating Density: Why Some Things Float.",
+        "summary": "A practice recap of recent Science lessons: Science: Tides and the Moon’s Pull; Science: Migration Patterns of Canadian Birds; Science: How Sound Travels Through Different Materials; Science: Investigating Density: Why Some Things Float.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -52552,7 +52566,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ontario\u2019s Role in the Underground Railroad; Social Studies: Water Conservation in Ontario Communities; Social Studies: How Weather Affects Ontario\u2019s Economy; Social Studies: Volunteering and Civic Participation.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ontario’s Role in the Underground Railroad; Social Studies: Water Conservation in Ontario Communities; Social Studies: How Weather Affects Ontario’s Economy; Social Studies: Volunteering and Civic Participation.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -52617,7 +52631,7 @@ const curriculum: DayContent[] = [
             "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
             "options": [
               "Summary of the whole ending",
-              "List of every character\u2019s name",
+              "List of every character’s name",
               "Hint",
               "Concept unrelated to storytelling"
             ],
@@ -52634,7 +52648,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What do we call the author\u2019s attitude toward a topic in a piece of writing?",
+            "q": "What do we call the author’s attitude toward a topic in a piece of writing?",
             "options": [
               "Tone",
               "A concept unrelated to reading",
@@ -52732,7 +52746,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is the first stage of a frog\u2019s life cycle?",
+            "q": "What is the first stage of a frog’s life cycle?",
             "options": [
               "Tadpole",
               "Adult frog",
@@ -52813,7 +52827,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Writing: Writing a Persuasive Poster; Reading: Author\u2019s Craft \u2014 Word Choice; Grammar: Possessive Nouns; Oral Communication: Storytelling with Expression.",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Persuasive Poster; Reading: Author’s Craft — Word Choice; Grammar: Possessive Nouns; Oral Communication: Storytelling with Expression.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -52838,7 +52852,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What do we call an author\u2019s choice of specific words to create meaning or feeling?",
+            "q": "What do we call an author’s choice of specific words to create meaning or feeling?",
             "options": [
               "Word choice",
               "A concept unrelated to reading",
@@ -53017,7 +53031,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Vocabulary: Portmanteau (Blended) Words; Reading: Text Features \u2014 Table of Contents and Index; Review: Tone, Grammar, and Vocabulary; Grammar: Commas in Dates and Addresses.",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Portmanteau (Blended) Words; Reading: Text Features — Table of Contents and Index; Review: Tone, Grammar, and Vocabulary; Grammar: Commas in Dates and Addresses.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -53164,7 +53178,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sports and Recreation in Ontario Communities; Social Studies: How Ontario\u2019s Population Has Grown Over Time; Review: Ontario History and Community Life; Social Studies: The Niagara Escarpment \u2014 A Unique Ontario Landform.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sports and Recreation in Ontario Communities; Social Studies: How Ontario’s Population Has Grown Over Time; Review: Ontario History and Community Life; Social Studies: The Niagara Escarpment — A Unique Ontario Landform.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -53189,7 +53203,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Name one factor that can cause a province\u2019s population to grow, such as ___.",
+            "q": "Name one factor that can cause a province’s population to grow, such as ___.",
             "options": [
               "A concept unrelated to population",
               "A weather pattern",
@@ -53221,7 +53235,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Vocabulary: Suffixes -ful and -less; Reading: Text Features \u2014 Bold Print and Glossary; Writing: Writing a Thank-You Note; Oral Communication: Understanding Body Language and Tone of Voice.",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Suffixes -ful and -less; Reading: Text Features — Bold Print and Glossary; Writing: Writing a Thank-You Note; Oral Communication: Understanding Body Language and Tone of Voice.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -53368,12 +53382,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Two Official Languages \u2014 English and French; Social Studies: Ontario\u2019s Provincial Parks and Conservation Areas; Social Studies: The Trans-Canada Highway and Travel Across the Country; Social Studies: Emergency Services That Keep Communities Safe.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada’s Two Official Languages — English and French; Social Studies: Ontario’s Provincial Parks and Conservation Areas; Social Studies: The Trans-Canada Highway and Travel Across the Country; Social Studies: Emergency Services That Keep Communities Safe.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
           {
-            "q": "What are Canada\u2019s two official languages?",
+            "q": "What are Canada’s two official languages?",
             "options": [
               "A concept unrelated to Canada",
               "English and French",
@@ -53523,7 +53537,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: How Our Bodies Use Simple Machines; Science: Complete vs Incomplete Metamorphosis in Insects; Science: Groundwater and How Soil Filters Water; Science: Fungi \u2014 Neither Plant Nor Animal.",
+        "summary": "A practice recap of recent Science lessons: Science: How Our Bodies Use Simple Machines; Science: Complete vs Incomplete Metamorphosis in Insects; Science: Groundwater and How Soil Filters Water; Science: Fungi — Neither Plant Nor Animal.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -53572,7 +53586,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Wind and Solar Energy Projects in Ontario; Social Studies: Air Travel and Ontario\u2019s Airports; Social Studies: Oral History \u2014 Learning from Elders and Storytellers; Social Studies: Building the Railway and Its Impact on Ontario.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Wind and Solar Energy Projects in Ontario; Social Studies: Air Travel and Ontario’s Airports; Social Studies: Oral History — Learning from Elders and Storytellers; Social Studies: Building the Railway and Its Impact on Ontario.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -53629,7 +53643,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Review: Grammar, Vocabulary, and Reading Strategies; Grammar: Pronoun-Antecedent Agreement; Reading: Identifying Genre \u2014 Fiction, Nonfiction, and Poetry; Vocabulary: Analogies.",
+        "summary": "A practice recap of recent Language lessons: Review: Grammar, Vocabulary, and Reading Strategies; Grammar: Pronoun-Antecedent Agreement; Reading: Identifying Genre — Fiction, Nonfiction, and Poetry; Vocabulary: Analogies.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -53727,7 +53741,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Review: Adaptations, Ecosystems, and Classification; Science: Owls \u2014 Nocturnal Hunters with Special Adaptations; Science: Bats \u2014 Nocturnal Mammals That Use Echolocation; Science: Comets and Asteroids \u2014 Visitors from Space.",
+        "summary": "A practice recap of recent Science lessons: Review: Adaptations, Ecosystems, and Classification; Science: Owls — Nocturnal Hunters with Special Adaptations; Science: Bats — Nocturnal Mammals That Use Echolocation; Science: Comets and Asteroids — Visitors from Space.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -53776,7 +53790,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Review: Ontario\u2019s Landmarks, Government, and Trade; Social Studies: Physical Regions of Canada \u2014 The Interior Plains; Social Studies: Canadas Head of State \u2014 The Role of the Monarchy; Social Studies: The RCMP \u2014 Canadas National Police Force.",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Ontario’s Landmarks, Government, and Trade; Social Studies: Physical Regions of Canada — The Interior Plains; Social Studies: Canadas Head of State — The Role of the Monarchy; Social Studies: The RCMP — Canadas National Police Force.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -53833,7 +53847,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Writing: Writing Dialogue Between Characters; Reading: Summarizing a Nonfiction Article; Reading: Symbolism \u2014 When an Object Means More Than Itself; Oral Communication: Preparing and Giving a Short Speech.",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing Dialogue Between Characters; Reading: Summarizing a Nonfiction Article; Reading: Symbolism — When an Object Means More Than Itself; Oral Communication: Preparing and Giving a Short Speech.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -53882,7 +53896,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Data: Line Plots; Financial Literacy: Understanding Interest \u2014 How Savings Grow; Measurement: Perimeter vs Area \u2014 What Is the Difference; Number: Rounding to the Nearest 100.",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Line Plots; Financial Literacy: Understanding Interest — How Savings Grow; Measurement: Perimeter vs Area — What Is the Difference; Number: Rounding to the Nearest 100.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
         "quiz": [
@@ -53931,7 +53945,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Fish \u2014 Gills, Fins, and Life Underwater; Science: Hibernation \u2014 How Some Animals Sleep Through Winter; Science: Tundra Habitats \u2014 Life in the Cold; Science: Lightning and Thunder \u2014 Electricity in the Sky.",
+        "summary": "A practice recap of recent Science lessons: Science: Fish — Gills, Fins, and Life Underwater; Science: Hibernation — How Some Animals Sleep Through Winter; Science: Tundra Habitats — Life in the Cold; Science: Lightning and Thunder — Electricity in the Sky.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -53980,7 +53994,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Justice System \u2014 Courts and Judges; Social Studies: The Census \u2014 Counting Everyone in Canada; Social Studies: Terry Fox \u2014 A Canadian Hero and His Marathon of Hope; Social Studies: Canada Day \u2014 Celebrating Our Country.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Justice System — Courts and Judges; Social Studies: The Census — Counting Everyone in Canada; Social Studies: Terry Fox — A Canadian Hero and His Marathon of Hope; Social Studies: Canada Day — Celebrating Our Country.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -54086,7 +54100,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Patterning: Patterns in a Multiplication Chart; Probability: Certain, Likely, Unlikely, and Impossible; Math Review: Fractions, Division, and Measurement; Geometry: Classifying Triangles by Angle \u2014 Acute, Right, and Obtuse.",
+        "summary": "A practice recap of recent Mathematics lessons: Patterning: Patterns in a Multiplication Chart; Probability: Certain, Likely, Unlikely, and Impossible; Math Review: Fractions, Division, and Measurement; Geometry: Classifying Triangles by Angle — Acute, Right, and Obtuse.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
         "quiz": [
@@ -54135,7 +54149,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Fossil Fuels \u2014 Coal, Oil, and Natural Gas; Magnets: Attract and Repel; Rocks and Soil; Animal Babies: Born Live or Hatched from Eggs.",
+        "summary": "A practice recap of recent Science lessons: Science: Fossil Fuels — Coal, Oil, and Natural Gas; Magnets: Attract and Repel; Rocks and Soil; Animal Babies: Born Live or Hatched from Eggs.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -54184,7 +54198,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sister Cities \u2014 Twin Communities Around the World; Social Studies: The Commonwealth \u2014 Canadas International Connections; Social Studies Review: Government, Geography, and Canadian Identity; Social Studies: Physical Regions of Canada \u2014 The Hudson Bay Lowlands.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Sister Cities — Twin Communities Around the World; Social Studies: The Commonwealth — Canadas International Connections; Social Studies Review: Government, Geography, and Canadian Identity; Social Studies: Physical Regions of Canada — The Hudson Bay Lowlands.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -54388,7 +54402,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas National Symbols \u2014 The Flag and Anthem; Social Studies: The Role of the Prime Minister; Social Studies: The Metis Nation and Their History; Social Studies: Statutory Holidays Across Canada.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas National Symbols — The Flag and Anthem; Social Studies: The Role of the Prime Minister; Social Studies: The Metis Nation and Their History; Social Studies: Statutory Holidays Across Canada.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -54445,7 +54459,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Vocabulary: Connotation and Denotation; Reading: Text Structure \u2014 Sequence and Chronological Order; Grammar: Using a Thesaurus to Improve Word Choice; Writing: Writing a Research Report; Language Review: Complex Sentences, Personification, and Discussion Skills.",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Connotation and Denotation; Reading: Text Structure — Sequence and Chronological Order; Grammar: Using a Thesaurus to Improve Word Choice; Writing: Writing a Research Report; Language Review: Complex Sentences, Personification, and Discussion Skills.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -54592,7 +54606,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadian Inventions That Changed the World; Social Studies: Canada and the United Nations; Social Studies: The Royal Canadian Mint \u2014 How Coins Are Made; Social Studies: Canadas Major Trading Partners; Social Studies Review: Regions, Symbols, and Government.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadian Inventions That Changed the World; Social Studies: Canada and the United Nations; Social Studies: The Royal Canadian Mint — How Coins Are Made; Social Studies: Canadas Major Trading Partners; Social Studies Review: Regions, Symbols, and Government.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -54649,7 +54663,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: Correcting Run-on Sentences; Vocabulary: Etymology \u2014 Where Words Come From; Reading: Identifying the Central Argument in Persuasive Text; Writing: Writing a Formal Email; Oral Communication: Interviewing Skills \u2014 Asking and Answering Questions.",
+        "summary": "A practice recap of recent Language lessons: Grammar: Correcting Run-on Sentences; Vocabulary: Etymology — Where Words Come From; Reading: Identifying the Central Argument in Persuasive Text; Writing: Writing a Formal Email; Oral Communication: Interviewing Skills — Asking and Answering Questions.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
         "quiz": [
@@ -54796,7 +54810,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Inuit \u2014 Culture and Life in the Arctic; Social Studies: Early European Explorers in Canada; Canadas Territories: The North; Trading and Bartering Long Ago; Community Centres: Places to Play and Learn.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Inuit — Culture and Life in the Arctic; Social Studies: Early European Explorers in Canada; Canadas Territories: The North; Trading and Bartering Long Ago; Community Centres: Places to Play and Learn.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -55612,7 +55626,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Canadian Shield: A Special Land Region; Social Studies Review: Helpers, Government, and Our World; The Great Lakes: Canadas Freshwater Giants; The Rocky Mountains: A Famous Canadian Landmark; Social Studies: Reading a Map \u2014 Scale and Distance.",
+        "summary": "A practice recap of recent Social Studies lessons: The Canadian Shield: A Special Land Region; Social Studies Review: Helpers, Government, and Our World; The Great Lakes: Canadas Freshwater Giants; The Rocky Mountains: A Famous Canadian Landmark; Social Studies: Reading a Map — Scale and Distance.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -55816,7 +55830,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Rural and Urban Communities \u2014 Comparing Ways of Life; Social Studies: Goods and Services \u2014 What Communities Need; Social Studies: The Woodland First Nations of Ontario; Social Studies: Life of a Voyageur in the Fur Trade.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Rural and Urban Communities — Comparing Ways of Life; Social Studies: Goods and Services — What Communities Need; Social Studies: The Woodland First Nations of Ontario; Social Studies: Life of a Voyageur in the Fur Trade.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -55971,7 +55985,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science Review: Our Bodies, Animals, and Habitats; Science: Parts of a Seed \u2014 What's Inside?; Science Inquiry: Fair Testing \u2014 What Do Plants Need to Grow Best?; Science: Fibrous Roots vs. Taproots \u2014 Two Root Systems.",
+        "summary": "A practice recap of recent Science lessons: Science Review: Our Bodies, Animals, and Habitats; Science: Parts of a Seed — What's Inside?; Science Inquiry: Fair Testing — What Do Plants Need to Grow Best?; Science: Fibrous Roots vs. Taproots — Two Root Systems.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -56020,7 +56034,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Seasons and How They Shape Community Life in Canada; Social Studies: Needs vs. Wants \u2014 Making Choices in a Community; Social Studies: Comparing Climate Across Canada's Regions; Social Studies: Local Landmarks and Monuments in My Community.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Seasons and How They Shape Community Life in Canada; Social Studies: Needs vs. Wants — Making Choices in a Community; Social Studies: Comparing Climate Across Canada's Regions; Social Studies: Local Landmarks and Monuments in My Community.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -56175,7 +56189,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: How Plants Respond to Light (Phototropism); Science: Annual, Biennial, and Perennial Plants; Science: Comparing Life Cycles \u2014 Bean Plant vs. Sunflower; Science: How People Use Plants \u2014 Food, Fibre, and Medicine; Science: Fruit, Vegetable, or Seed? Sorting Plant Parts We Eat.",
+        "summary": "A practice recap of recent Science lessons: Science: How Plants Respond to Light (Phototropism); Science: Annual, Biennial, and Perennial Plants; Science: Comparing Life Cycles — Bean Plant vs. Sunflower; Science: How People Use Plants — Food, Fibre, and Medicine; Science: Fruit, Vegetable, or Seed? Sorting Plant Parts We Eat.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -56224,7 +56238,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Bartering and Trade in Early Canadian Communities; Social Studies: Reading Weather and Climate Maps; Social Studies: How Communities Got Their Names; Social Studies: Grid Coordinates \u2014 Finding Places on a Map; Social Studies: The Canada-US Border \u2014 The Longest Undefended Border in the World.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Bartering and Trade in Early Canadian Communities; Social Studies: Reading Weather and Climate Maps; Social Studies: How Communities Got Their Names; Social Studies: Grid Coordinates — Finding Places on a Map; Social Studies: The Canada-US Border — The Longest Undefended Border in the World.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -56379,7 +56393,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: What Makes a Structure Stable? Base Width and Centre of Gravity; Science: Triangles vs. Squares \u2014 Which Shape Makes a Stronger Structure?; Science: Why Structures Fail \u2014 Investigating Load and Stress; Science: Joints and Connections \u2014 How Builders Hold Structures Together; Science: The Purpose of Structures \u2014 Shelter, Storage, and Support.",
+        "summary": "A practice recap of recent Science lessons: Science: What Makes a Structure Stable? Base Width and Centre of Gravity; Science: Triangles vs. Squares — Which Shape Makes a Stronger Structure?; Science: Why Structures Fail — Investigating Load and Stress; Science: Joints and Connections — How Builders Hold Structures Together; Science: The Purpose of Structures — Shelter, Storage, and Support.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -56428,7 +56442,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ferries and Water Transportation Across Canada; Social Studies: The Ontario Legislature at Queens Park; Social Studies: Canadas National Wildlife Areas and Migratory Bird Sanctuaries; Social Studies: The Trans-Canada Trail \u2014 Canadas Cross-Country Recreational Trail; Social Studies Review: Borders, Government, and Transportation.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ferries and Water Transportation Across Canada; Social Studies: The Ontario Legislature at Queens Park; Social Studies: Canadas National Wildlife Areas and Migratory Bird Sanctuaries; Social Studies: The Trans-Canada Trail — Canadas Cross-Country Recreational Trail; Social Studies Review: Borders, Government, and Transportation.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -56583,7 +56597,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Push or Pull? Identifying Forces in Everyday Life; Science: Forces at a Distance \u2014 Comparing Magnetism and Gravity; Science: Friction \u2014 The Force That Slows Things Down; Science: Forces and Motion \u2014 Speeding Up, Slowing Down, and Changing Direction.",
+        "summary": "A practice recap of recent Science lessons: Science: Push or Pull? Identifying Forces in Everyday Life; Science: Forces at a Distance — Comparing Magnetism and Gravity; Science: Friction — The Force That Slows Things Down; Science: Forces and Motion — Speeding Up, Slowing Down, and Changing Direction.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -56787,7 +56801,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Simple Machines \u2014 The Wheel and Axle; Science: Simple Machines \u2014 Ramps and Inclined Planes; Science: Simple Machines \u2014 Pulleys for Lifting Loads; Science: Gravity \u2014 Why Everything Falls Down.",
+        "summary": "A practice recap of recent Science lessons: Science: Simple Machines — The Wheel and Axle; Science: Simple Machines — Ramps and Inclined Planes; Science: Simple Machines — Pulleys for Lifting Loads; Science: Gravity — Why Everything Falls Down.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -56991,7 +57005,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Types of Soil \u2014 Comparing Sand, Silt, and Clay; Science: How Soil Forms \u2014 Weathering Breaks Down Rock; Science: Layers of Soil \u2014 Topsoil, Subsoil, and Bedrock; Science Inquiry: Which Soil Grows the Best Plants?.",
+        "summary": "A practice recap of recent Science lessons: Science: Types of Soil — Comparing Sand, Silt, and Clay; Science: How Soil Forms — Weathering Breaks Down Rock; Science: Layers of Soil — Topsoil, Subsoil, and Bedrock; Science Inquiry: Which Soil Grows the Best Plants?.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -57040,7 +57054,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Snowbirds and Canadas Air Force Aerobatic Team; Social Studies Review: Landmarks, Honours, and Community Roles; Social Studies: The CN Tower \u2014 An Iconic Canadian Landmark; Social Studies: Canadian Thanksgiving and Its Traditions.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Snowbirds and Canadas Air Force Aerobatic Team; Social Studies Review: Landmarks, Honours, and Community Roles; Social Studies: The CN Tower — An Iconic Canadian Landmark; Social Studies: Canadian Thanksgiving and Its Traditions.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [
@@ -57195,7 +57209,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: How Water Moves Through Soil \u2014 Testing Permeability; Science: Soil Erosion \u2014 How Wind and Water Wear Soil Away; Science: Keeping Soil Healthy \u2014 Pollution and Soil Conservation; Science Inquiry: Using Tools to Measure and Observe; Science Inquiry: Recording and Graphing What We Observe.",
+        "summary": "A practice recap of recent Science lessons: Science: How Water Moves Through Soil — Testing Permeability; Science: Soil Erosion — How Wind and Water Wear Soil Away; Science: Keeping Soil Healthy — Pollution and Soil Conservation; Science Inquiry: Using Tools to Measure and Observe; Science Inquiry: Recording and Graphing What We Observe.",
         "resourceLabel": "TVO Learn: Grade 3 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
         "quiz": [
@@ -57244,7 +57258,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Stanley Cup and Canadas Hockey Tradition; Social Studies: Volunteer Firefighters in Rural Communities; Social Studies: The Role of Food Banks in Communities; Social Studies: Search and Rescue Teams in Canada; Social Studies Review: Landmarks, Traditions, and Our Community \u2014 A Grade 3 Send-Off.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Stanley Cup and Canadas Hockey Tradition; Social Studies: Volunteer Firefighters in Rural Communities; Social Studies: The Role of Food Banks in Communities; Social Studies: Search and Rescue Teams in Canada; Social Studies Review: Landmarks, Traditions, and Our Community — A Grade 3 Send-Off.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
         "quiz": [

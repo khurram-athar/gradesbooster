@@ -20710,8 +20710,8 @@
         "subject": "Math",
         "title": "Scientific Notation: Operations",
         "summary": "Grade 9 Math strand: students multiply and divide numbers written in scientific notation by combining the exponents of 10 while multiplying or dividing the decimal coefficients.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Scientific Notation: Operations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scientific%20Notation%3A%20Operations%20grade%209%20educational",
         "quiz": [
           {
             "q": "When multiplying two numbers in scientific notation, what happens to the exponents of 10?",
@@ -20764,7 +20764,8 @@
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=bXkewQ7WEdI"
       },
       {
         "subject": "Science",

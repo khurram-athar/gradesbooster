@@ -20240,8 +20240,8 @@
         "subject": "Language",
         "title": "Reading: Analyzing Allegory in Literature",
         "summary": "Grade 6 Language strand: an allegory is a story in which characters and events represent broader ideas or morals, often used to comment on political or social issues indirectly.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Allegory in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Allegory%20in%20Literature%20grade%206%20educational",
         "quiz": [
           {
             "q": "What do we call a story where characters and events represent broader ideas?",
@@ -20294,14 +20294,15 @@
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=EXzmYeD3Ixc"
       },
       {
         "subject": "Math",
         "title": "Scale Factor and Enlargement or Reduction",
         "summary": "Grade 6 Math strand: a scale factor describes how much a shape is enlarged or reduced, such as a scale factor of 2 doubling every side length of a shape.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Scale Factor and Enlargement or Reduction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scale%20Factor%20and%20Enlargement%20or%20Reduction%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does a scale factor describe?",
@@ -20354,14 +20355,15 @@
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=Cag7m-Y-4vw"
       },
       {
         "subject": "Science",
         "title": "Science: Renewable vs Fossil Fuel Power Plants Compared",
         "summary": "Grade 6 Science strand: renewable power plants, like solar and wind farms, generate electricity from sources that naturally replenish, while fossil fuel power plants burn coal, oil, or natural gas, which are limited resources.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: Renewable vs Fossil Fuel Power Plants Compared",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Renewable%20vs%20Fossil%20Fuel%20Power%20Plants%20Compared%20grade%206%20educational",
         "quiz": [
           {
             "q": "Name one example of a renewable power source, such as solar or wind.",
@@ -20414,14 +20416,15 @@
             "answer": 1
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=6_BGHy4sfMs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Green Revolution and Global Food Security",
         "summary": "Grade 6 Social Studies strand: the Green Revolution was a period of major agricultural advancement in the mid-1900s that increased crop yields worldwide, helping address global food security concerns.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Green Revolution and Global Food Security",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Green%20Revolution%20and%20Global%20Food%20Security%20grade%206%20educational",
         "quiz": [
           {
             "q": "What was the Green Revolution?",
@@ -20474,7 +20477,8 @@
             "answer": 1
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=015HH9zbWHQ"
       }
     ]
   },
@@ -20488,6 +20492,7 @@
         "summary": "Grade 6 Language strand: modal verbs, such as can, should, must, and might, express ability, permission, obligation, or possibility, changing the meaning of the main verb in a sentence.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=36wG9pSYu7Q",
         "quiz": [
           {
             "q": "Name one modal verb, such as can or should.",
@@ -20548,6 +20553,7 @@
         "summary": "Grade 4 Math strand: comparing prices using unit rate means finding the cost of a single item or unit, which helps shoppers decide which option offers the best value.",
         "resourceLabel": "YouTube: Comparing Prices: Unit Rate and Best Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Prices%3A%20Unit%20Rate%20and%20Best%20Value%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jC1K7fM91sE",
         "quiz": [
           {
             "q": "A unit rate compares the cost of ___.",
@@ -20608,6 +20614,7 @@
         "summary": "Grade 6 Science strand: continental drift is the theory that Earth’s continents slowly move over time due to the motion of tectonic plates beneath them, gradually changing the shape of Earth’s surface.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=AqrInJ8_Nes",
         "quiz": [
           {
             "q": "What is continental drift?",
@@ -20668,6 +20675,7 @@
         "summary": "Grade 4 Social Studies strand: each Canadian province has its own legislature that debates and passes provincial laws on matters such as education and health care, led by a premier and elected members.",
         "resourceLabel": "YouTube: Social Studies: How Provinces Make Laws — Provincial Legislatures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Provinces%20Make%20Laws%20%E2%80%94%20Provincial%20Legislatures%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QJLkcC0jYPA",
         "quiz": [
           {
             "q": "What is a provincial legislature responsible for?",

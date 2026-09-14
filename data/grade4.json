@@ -19839,8 +19839,8 @@
         "subject": "SocialStudies",
         "title": "Canada’s Transportation Networks: Connecting Communities",
         "summary": "Grade 4 Social Studies strand: Canada relies on transportation networks, including roads, railways, airports, and shipping routes, to connect communities, move goods, and support trade across a vast country.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Canada's Transportation Networks: Connecting Communities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Transportation%20Networks%3A%20Connecting%20Communities%20grade%204%20educational",
         "quiz": [
           {
             "q": "Transportation networks help connect communities by allowing people and goods to ___.",
@@ -19893,7 +19893,8 @@
             "answer": 3
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=R39aYko2rIs"
       }
     ]
   },
@@ -20695,8 +20696,8 @@
         "subject": "Language",
         "title": "Vocabulary: Portmanteau Words and Blends",
         "summary": "Grade 4 Language strand: a portmanteau word blends the sounds and meanings of two words into one new word, such as combining breakfast and lunch to make brunch.",
-        "resourceLabel": "TVO Learn: Grade 4 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "resourceLabel": "YouTube: Vocabulary: Portmanteau Words and Blends",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Portmanteau%20Words%20and%20Blends%20grade%204%20educational",
         "quiz": [
           {
             "q": "A portmanteau word blends the sounds and meanings of how many words?",
@@ -20749,14 +20750,15 @@
             "answer": 1
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=4lzOhH_tZiE"
       },
       {
         "subject": "Math",
         "title": "Multiplying Decimals by Whole Numbers",
         "summary": "Grade 4 Math strand: students learn to multiply a decimal number by a whole number, such as finding 0.4 times 3, by thinking of the decimal as tenths or hundredths.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Multiplying Decimals by Whole Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Decimals%20by%20Whole%20Numbers%20grade%204%20educational",
         "quiz": [
           {
             "q": "What is 0.4 times 3?",
@@ -20809,14 +20811,15 @@
             "answer": 3
           }
         ],
-        "topic": "Decimals"
+        "topic": "Decimals",
+        "videoUrl": "https://www.youtube.com/watch?v=tsOibhsgYoQ"
       },
       {
         "subject": "Science",
         "title": "Science: Ecosystems: Food Webs vs Food Chains",
         "summary": "Grade 4 Science strand: a food chain shows a single path of energy from one living thing to the next, while a food web shows many connected food chains, illustrating an ecosystem’s more complex feeding relationships.",
-        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "resourceLabel": "YouTube: Science: Ecosystems: Food Webs vs Food Chains",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Ecosystems%3A%20Food%20Webs%20vs%20Food%20Chains%20grade%204%20educational",
         "quiz": [
           {
             "q": "Does a food chain show a single path of energy, or many connected paths?",
@@ -20869,7 +20872,8 @@
             "answer": 3
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=FFloV2J-eKI"
       },
       {
         "subject": "SocialStudies",
@@ -20929,7 +20933,8 @@
             "answer": 0
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=Z3Fjw2o4KSA"
       }
     ]
   },
@@ -21016,7 +21021,8 @@
             ]
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=kVNal4_izVU"
       },
       {
         "subject": "Math",
@@ -21099,7 +21105,8 @@
             ]
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=CVXVsueBs5c"
       },
       {
         "subject": "Science",
@@ -21182,14 +21189,15 @@
             ]
           }
         ],
-        "topic": "Animals & Wildlife (Basic)"
+        "topic": "Animals & Wildlife (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=_kA-_aro3lI"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Role of Museums in Preserving History",
         "summary": "Grade 4 Social Studies strand: museums collect, preserve, and display historical artifacts and stories, helping communities learn about and remember important parts of their past.",
-        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Role of Museums in Preserving History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Role%20of%20Museums%20in%20Preserving%20History%20grade%204%20educational",
         "quiz": [
           {
             "q": "What do museums do with historical artifacts, besides displaying them?",
@@ -21242,7 +21250,8 @@
             "answer": 2
           }
         ],
-        "topic": "Famous Canadians & History (Basic)"
+        "topic": "Famous Canadians & History (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=MHo928fd2wE"
       }
     ]
   },

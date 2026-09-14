@@ -20516,8 +20516,8 @@ const curriculum: DayContent[] = [
         "subject": "Math",
         "title": "Scientific Notation: Operations",
         "summary": "Grade 7 Math strand: students learn to multiply and divide numbers written in scientific notation, keeping track of the exponent of 10 while multiplying or dividing the decimal parts.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Scientific Notation: Operations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scientific%20Notation%3A%20Operations%20grade%207%20educational",
         "quiz": [
           {
             "q": "When multiplying two numbers in scientific notation, what happens to the exponents of 10?",
@@ -20570,7 +20570,14 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=yX6Mq9whsX0",
+        "videoUrls": [
+            {
+              "label": "Scientific Notation - Addition and Subtraction",
+              "url": "https://www.youtube.com/watch?v=XHds0Uf1zHA"
+            }
+        ]
       },
       {
         "subject": "Science",

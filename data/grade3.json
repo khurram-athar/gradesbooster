@@ -20193,8 +20193,8 @@
         "subject": "Language",
         "title": "Reading: Understanding Foreshadowing",
         "summary": "Grade 3 Language strand: foreshadowing is when an author gives a small hint early in a story about something that will happen later, building suspense for the reader.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Reading: Understanding Foreshadowing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Foreshadowing%20grade%203%20educational",
         "quiz": [
           {
             "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
@@ -20247,14 +20247,15 @@
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=abkFO8T-mjg"
       },
       {
         "subject": "Math",
         "title": "Multiplication: Multiplying by 11 and 12",
         "summary": "Grade 3 Math strand: students learn multiplication facts for the 11 and 12 times tables, building on earlier facts up to 10, using patterns to help memorize them.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Multiplication: Multiplying by 11 and 12",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Multiplying%20by%2011%20and%2012%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is 11 times 4?",
@@ -20307,14 +20308,21 @@
             "answer": 2
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=MxYGaqkX94k",
+        "videoUrls": [
+          {
+            "label": "Multiply by 12",
+            "url": "https://www.youtube.com/watch?v=ojkdEdLnIaA"
+          }
+        ]
       },
       {
         "subject": "Science",
         "title": "Science: Adaptations for Winter Survival",
         "summary": "Grade 3 Science strand: animals survive cold winters using adaptations such as growing thicker fur, storing body fat, migrating to warmer places, or hibernating until spring.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Adaptations for Winter Survival",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Adaptations%20for%20Winter%20Survival%20grade%203%20educational",
         "quiz": [
           {
             "q": "Name one adaptation animals use to survive winter, such as growing thicker fur.",
@@ -20367,14 +20375,15 @@
             "answer": 3
           }
         ],
-        "topic": "Evolution"
+        "topic": "Evolution",
+        "videoUrl": "https://www.youtube.com/watch?v=vfcrxLk6QSs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Ontario’s Manufacturing Industry",
         "summary": "Grade 3 Social Studies strand: manufacturing is an important industry in Ontario, where factories produce goods such as cars, food products, and machinery that are sold across Canada and the world.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Ontario’s Manufacturing Industry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ontario%E2%80%99s%20Manufacturing%20Industry%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call factories producing goods like cars and machinery?",
@@ -20427,7 +20436,8 @@
             "answer": 3
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=zQeQWGqfFN0"
       }
     ]
   },
@@ -20439,8 +20449,8 @@
         "subject": "Language",
         "title": "Grammar: Interjections and Exclamations",
         "summary": "Grade 3 Language strand: an interjection is a short word or phrase that shows strong feeling, such as Wow! or Oh no!, often followed by an exclamation mark.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Grammar: Interjections and Exclamations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Interjections%20and%20Exclamations%20grade%203%20educational",
         "quiz": [
           {
             "q": "An interjection is a short word or phrase that shows ___.",
@@ -20493,14 +20503,15 @@
             "answer": 3
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=jsBhTa80qnI"
       },
       {
         "subject": "Math",
         "title": "Geometry: Finding Missing Side Lengths",
         "summary": "Grade 3 Math strand: if you know the perimeter of a shape and the length of some of its sides, you can find a missing side length by subtracting the known sides from the total perimeter.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Geometry: Finding Missing Side Lengths",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Finding%20Missing%20Side%20Lengths%20grade%203%20educational",
         "quiz": [
           {
             "q": "If a rectangle has a perimeter of 20 cm and three known sides add up to 14 cm, what is the missing side?",
@@ -20553,14 +20564,15 @@
             "answer": 2
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=ORdigb0lFCk"
       },
       {
         "subject": "Science",
         "title": "Science: How Plants Make Their Own Food",
         "summary": "Grade 3 Science strand: plants make their own food through a process called photosynthesis, using sunlight, water, and air to produce the energy they need to grow.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: How Plants Make Their Own Food",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20How%20Plants%20Make%20Their%20Own%20Food%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is the process called when plants make their own food using sunlight?",
@@ -20612,14 +20624,15 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iln136eMl4g"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: How Municipal Budgets Are Spent",
         "summary": "Grade 3 Social Studies strand: a municipal budget is a plan for how a local government spends the tax money it collects, often on services like roads, parks, libraries, and emergency services.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: How Municipal Budgets Are Spent",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Municipal%20Budgets%20Are%20Spent%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call a plan for how a local government spends its money?",
@@ -20672,7 +20685,8 @@
             "answer": 2
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=jk7TUHQ3UO0"
       }
     ]
   },

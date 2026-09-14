@@ -20242,8 +20242,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Analyzing Allegory in Literature",
         "summary": "Grade 6 Language strand: an allegory is a story in which characters and events represent broader ideas or morals, often used to comment on political or social issues indirectly.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Analyzing Allegory in Literature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Allegory%20in%20Literature%20grade%206%20educational",
         "quiz": [
           {
             "q": "What do we call a story where characters and events represent broader ideas?",
@@ -20296,14 +20296,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=EXzmYeD3Ixc"
       },
       {
         "subject": "Math",
         "title": "Scale Factor and Enlargement or Reduction",
         "summary": "Grade 6 Math strand: a scale factor describes how much a shape is enlarged or reduced, such as a scale factor of 2 doubling every side length of a shape.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Scale Factor and Enlargement or Reduction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scale%20Factor%20and%20Enlargement%20or%20Reduction%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does a scale factor describe?",
@@ -20356,14 +20357,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=Cag7m-Y-4vw"
       },
       {
         "subject": "Science",
         "title": "Science: Renewable vs Fossil Fuel Power Plants Compared",
         "summary": "Grade 6 Science strand: renewable power plants, like solar and wind farms, generate electricity from sources that naturally replenish, while fossil fuel power plants burn coal, oil, or natural gas, which are limited resources.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: Renewable vs Fossil Fuel Power Plants Compared",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Renewable%20vs%20Fossil%20Fuel%20Power%20Plants%20Compared%20grade%206%20educational",
         "quiz": [
           {
             "q": "Name one example of a renewable power source, such as solar or wind.",
@@ -20416,14 +20418,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=6_BGHy4sfMs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Green Revolution and Global Food Security",
         "summary": "Grade 6 Social Studies strand: the Green Revolution was a period of major agricultural advancement in the mid-1900s that increased crop yields worldwide, helping address global food security concerns.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The Green Revolution and Global Food Security",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Green%20Revolution%20and%20Global%20Food%20Security%20grade%206%20educational",
         "quiz": [
           {
             "q": "What was the Green Revolution?",
@@ -20476,7 +20479,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=015HH9zbWHQ"
       }
     ]
   },
@@ -20490,6 +20494,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: modal verbs, such as can, should, must, and might, express ability, permission, obligation, or possibility, changing the meaning of the main verb in a sentence.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=36wG9pSYu7Q",
         "quiz": [
           {
             "q": "Name one modal verb, such as can or should.",
@@ -20550,6 +20555,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: comparing prices using unit rate means finding the cost of a single item or unit, which helps shoppers decide which option offers the best value.",
         "resourceLabel": "YouTube: Comparing Prices: Unit Rate and Best Value",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Prices%3A%20Unit%20Rate%20and%20Best%20Value%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jC1K7fM91sE",
         "quiz": [
           {
             "q": "A unit rate compares the cost of ___.",
@@ -20610,6 +20616,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: continental drift is the theory that Earth’s continents slowly move over time due to the motion of tectonic plates beneath them, gradually changing the shape of Earth’s surface.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=AqrInJ8_Nes",
         "quiz": [
           {
             "q": "What is continental drift?",
@@ -20670,6 +20677,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Social Studies strand: each Canadian province has its own legislature that debates and passes provincial laws on matters such as education and health care, led by a premier and elected members.",
         "resourceLabel": "YouTube: Social Studies: How Provinces Make Laws — Provincial Legislatures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20How%20Provinces%20Make%20Laws%20%E2%80%94%20Provincial%20Legislatures%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QJLkcC0jYPA",
         "quiz": [
           {
             "q": "What is a provincial legislature responsible for?",
@@ -46624,10 +46632,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Tone in a text refers to ___.",
             "options": [
-              "The publisher\u2019s name",
+              "The publisher’s name",
               "The font style used",
               "The page count of the text",
-              "The author\u2019s attitude toward the topic"
+              "The author’s attitude toward the topic"
             ],
             "answer": 3
           },
@@ -46683,10 +46691,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A rectangular prism has a length of 4 cm, a width of 3 cm, and a height of 2 cm. What is its total surface area?",
             "options": [
-              "52 cm\u00b2",
-              "24 cm\u00b2",
-              "26 cm\u00b2",
-              "9 cm\u00b2"
+              "52 cm²",
+              "24 cm²",
+              "26 cm²",
+              "9 cm²"
             ],
             "answer": 0
           },
@@ -46701,7 +46709,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What is the circumference of a circle with a radius of 5 cm? (Use \u03c0 \u2248 3.14)",
+            "q": "What is the circumference of a circle with a radius of 5 cm? (Use π ≈ 3.14)",
             "options": [
               "31.4 cm",
               "78.5 cm",
@@ -46764,7 +46772,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Ancient Mesopotamia; Ancient China; Ancient India; Canada\u2019s Relationship with the Commonwealth.",
+        "summary": "A practice recap of recent Social Studies lessons: Ancient Mesopotamia; Ancient China; Ancient India; Canada’s Relationship with the Commonwealth.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -46875,7 +46883,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
         "quiz": [
           {
-            "q": "To construct a circle graph, you first need to calculate each category\u2019s ___.",
+            "q": "To construct a circle graph, you first need to calculate each category’s ___.",
             "options": [
               "Percentage of the total data set",
               "Alphabetical order",
@@ -46907,10 +46915,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the prime factorization of 60?",
             "options": [
-              "2 \u00d7 2 \u00d7 3 \u00d7 5",
-              "2 \u00d7 3 \u00d7 10",
-              "4 \u00d7 15",
-              "2 \u00d7 30"
+              "2 × 2 × 3 × 5",
+              "2 × 3 × 10",
+              "4 × 15",
+              "2 × 30"
             ],
             "answer": 0
           }
@@ -46928,7 +46936,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Changes in the weather only",
               "The movement of tectonic plates",
-              "Nothing related to Earth\u2019s structure",
+              "Nothing related to Earth’s structure",
               "Ocean tides"
             ],
             "answer": 1
@@ -47025,7 +47033,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Writing: Effective Introductions and Conclusions; Reading: Evaluating an Author\u2019s Credibility and Perspective; Reading: Analyzing Rhetorical Devices; Writing: Writing a Book Critique.",
+        "summary": "A practice recap of recent Language lessons: Writing: Effective Introductions and Conclusions; Reading: Evaluating an Author’s Credibility and Perspective; Reading: Analyzing Rhetorical Devices; Writing: Writing a Book Critique.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -47033,7 +47041,7 @@ const curriculum: DayContent[] = [
             "q": "A strong introduction should ___.",
             "options": [
               "Always be the shortest part of the essay",
-              "Grab the reader\u2019s attention and preview the main idea",
+              "Grab the reader’s attention and preview the main idea",
               "Repeat the conclusion word for word",
               "Contain no information about the topic"
             ],
@@ -47050,7 +47058,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Evaluating an author\u2019s credibility involves considering ___.",
+            "q": "Evaluating an author’s credibility involves considering ___.",
             "options": [
               "Their expertise and potential motives",
               "Nothing related to the author at all",
@@ -47332,7 +47340,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
           {
-            "q": "The immune system\u2019s main role is to ___.",
+            "q": "The immune system’s main role is to ___.",
             "options": [
               "Control body movement",
               "Defend the body against harmful microorganisms",
@@ -47376,7 +47384,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada\u2019s Peacekeeping Role Internationally; Social Studies: Comparing Monarchy, Democracy, and Dictatorship; Social Studies: The Role of the United Nations; Social Studies: Canada\u2019s Immigration Policies Today; The European Union: Cooperation and Integration.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canada’s Peacekeeping Role Internationally; Social Studies: Comparing Monarchy, Democracy, and Dictatorship; Social Studies: The Role of the United Nations; Social Studies: Canada’s Immigration Policies Today; The European Union: Cooperation and Integration.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -47585,7 +47593,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
           {
-            "q": "Canada\u2019s modern immigration policies aim to ___.",
+            "q": "Canada’s modern immigration policies aim to ___.",
             "options": [
               "Welcome newcomers from around the world",
               "Ignore the needs of newcomers entirely",
@@ -47735,15 +47743,15 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Space: Earth\u2019s Rotation and the Day/Night Cycle; Erosion and Weathering: Shaping the Land; The Skeletal and Muscular Systems; Electricity: Reading Simple Circuit Diagrams.",
+        "summary": "A practice recap of recent Science lessons: Space: Earth’s Rotation and the Day/Night Cycle; Erosion and Weathering: Shaping the Land; The Skeletal and Muscular Systems; Electricity: Reading Simple Circuit Diagrams.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
           {
-            "q": "Earth\u2019s rotation on its axis takes approximately ___.",
+            "q": "Earth’s rotation on its axis takes approximately ___.",
             "options": [
               "One year",
-              "X unrelated to Earth\u2019s rotation",
+              "X unrelated to Earth’s rotation",
               "24 minutes",
               "24 hours"
             ],
@@ -47784,7 +47792,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of the Governor General in Canada; Social Studies: The Role of Non-Governmental Organizations (NGOs); Women\u2019s Suffrage Movements Around the World; Social Studies: The Indus Valley Civilization.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of the Governor General in Canada; Social Studies: The Role of Non-Governmental Organizations (NGOs); Women’s Suffrage Movements Around the World; Social Studies: The Indus Valley Civilization.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -47793,7 +47801,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A single province only",
               "A concept unrelated to government",
-              "A foreign country\u2019s president",
+              "A foreign country’s president",
               "The Crown"
             ],
             "answer": 3
@@ -47988,7 +47996,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ancient Kingdoms of West Africa \u2014 Ghana, Mali, and Songhai; Social Studies: Canada\u2019s Justice System and Courts; Social Studies: The Metis Nation and the Red River Resistance; Social Studies: The Canadian Senate \u2014 The Other House of Parliament; Social Studies: Canadas Official Languages Act \u2014 Bilingualism in Canada.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Ancient Kingdoms of West Africa — Ghana, Mali, and Songhai; Social Studies: Canada’s Justice System and Courts; Social Studies: The Metis Nation and the Red River Resistance; Social Studies: The Canadian Senate — The Other House of Parliament; Social Studies: Canadas Official Languages Act — Bilingualism in Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -48013,7 +48021,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is the main role of courts in Canada\u2019s justice system?",
+            "q": "What is the main role of courts in Canada’s justice system?",
             "options": [
               "To interpret and apply the law",
               "To build roads and bridges",
@@ -48045,7 +48053,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: Prepositional Phrases and Their Function; Writing: Descriptive Writing \u2014 Using Sensory Detail and Imagery; Reading: Distinguishing Fact from Opinion; Vocabulary: Prefixes, Suffixes, and Root Words; Writing: Structuring a Cause and Effect Essay.",
+        "summary": "A practice recap of recent Language lessons: Grammar: Prepositional Phrases and Their Function; Writing: Descriptive Writing — Using Sensory Detail and Imagery; Reading: Distinguishing Fact from Opinion; Vocabulary: Prefixes, Suffixes, and Root Words; Writing: Structuring a Cause and Effect Essay.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -48070,7 +48078,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Descriptive writing often appeals to the reader\u2019s ___.",
+            "q": "Descriptive writing often appeals to the reader’s ___.",
             "options": [
               "Knowledge of grammar rules only",
               "Ability to solve math problems",
@@ -48152,7 +48160,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A random change with no effect on survival",
               "A concept unrelated to adaptations",
-              "A feature that always harms an organism\u2019s chances of survival",
+              "A feature that always harms an organism’s chances of survival",
               "A physical feature or behaviour that helps an organism survive in its environment"
             ],
             "answer": 3
@@ -48168,10 +48176,10 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The Moon\u2019s phases are caused by ___.",
+            "q": "The Moon’s phases are caused by ___.",
             "options": [
               "Its changing position relative to Earth and the Sun",
-              "A concept unrelated to the Moon\u2019s phases",
+              "A concept unrelated to the Moon’s phases",
               "The Moon changing shape physically each month",
               "The Moon disappearing and reforming every month"
             ],
@@ -48192,7 +48200,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Global Village: How We Are Connected to Other Countries; Social Studies Review: Government, History, and Canadian Identity; Social Studies: Ancient Japan \u2014 Early Society and Culture; Social Studies: Canada-United States Trade Relationship; The American Revolution and Its Impact on British North America.",
+        "summary": "A practice recap of recent Social Studies lessons: The Global Village: How We Are Connected to Other Countries; Social Studies Review: Government, History, and Canadian Identity; Social Studies: Ancient Japan — Early Society and Culture; Social Studies: Canada-United States Trade Relationship; The American Revolution and Its Impact on British North America.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -48347,7 +48355,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Conductors and Insulators: Materials in Electrical Circuits; Drones and Modern Flight Technology; The Layers of Earth\u2019s Atmosphere; Insects and Pollinators: Their Role in Ecosystems.",
+        "summary": "A practice recap of recent Science lessons: Conductors and Insulators: Materials in Electrical Circuits; Drones and Modern Flight Technology; The Layers of Earth’s Atmosphere; Insects and Pollinators: Their Role in Ecosystems.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -48396,17 +48404,17 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Levels of Government in Canada: Municipal, Provincial, Federal; How Canadians Vote: Elections and Political Parties; The Role of the Governor General and Constitutional Monarchy; Canada\u2019s Justice System: Courts and the Rule of Law.",
+        "summary": "A practice recap of recent Social Studies lessons: Levels of Government in Canada: Municipal, Provincial, Federal; How Canadians Vote: Elections and Political Parties; The Role of the Governor General and Constitutional Monarchy; Canada’s Justice System: Courts and the Rule of Law.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
           {
-            "q": "Canada\u2019s government is organized into which three levels?",
+            "q": "Canada’s government is organized into which three levels?",
             "options": [
               "Only a single level, with no other divisions",
               "Regional, continental, and global",
               "Municipal, provincial, and federal",
-              "A concept unrelated to Canada\u2019s government structure"
+              "A concept unrelated to Canada’s government structure"
             ],
             "answer": 2
           },
@@ -48453,7 +48461,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Review: Language Days 61-69; Grammar: Adverbs and Adverbial Phrases; Writing: Procedural Writing \u2014 How-To Texts; Reading: Similes, Metaphors, and Personification.",
+        "summary": "A practice recap of recent Language lessons: Review: Language Days 61-69; Grammar: Adverbs and Adverbial Phrases; Writing: Procedural Writing — How-To Texts; Reading: Similes, Metaphors, and Personification.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -48662,7 +48670,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
           {
-            "q": "A dictionary is a resource that provides a word\u2019s ___.",
+            "q": "A dictionary is a resource that provides a word’s ___.",
             "options": [
               "A concept unrelated to dictionaries",
               "Only its spelling, with no other information",
@@ -48755,7 +48763,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: States of Matter and Changes of State; Soil Composition and Formation; Freshwater and Saltwater Ecosystems; Fossils and What They Reveal About Earth\u2019s History.",
+        "summary": "A practice recap of recent Science lessons: States of Matter and Changes of State; Soil Composition and Formation; Freshwater and Saltwater Ecosystems; Fossils and What They Reveal About Earth’s History.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -48804,7 +48812,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Pacific Railway \u2014 Connecting the Country; The Fur Trade and the Voyageurs; Social Studies: The Klondike Gold Rush; Nunavut and Canada\u2019s Northern Territories.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Canadian Pacific Railway — Connecting the Country; The Fur Trade and the Voyageurs; Social Studies: The Klondike Gold Rush; Nunavut and Canada’s Northern Territories.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -48869,7 +48877,7 @@ const curriculum: DayContent[] = [
             "q": "When evaluating an online source, a reader should check ___.",
             "options": [
               "Only how visually appealing the website looks",
-              "The author\u2019s credentials, the publication date, and whether it can be verified elsewhere",
+              "The author’s credentials, the publication date, and whether it can be verified elsewhere",
               "Nothing, since all online sources are equally reliable",
               "A concept unrelated to evaluating sources"
             ],
@@ -48984,7 +48992,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The skin is considered the body\u2019s largest ___.",
+            "q": "The skin is considered the body’s largest ___.",
             "options": [
               "Organ",
               "A concept unrelated to the skin",
@@ -49008,7 +49016,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Our Senate: Another Part of Canadas Government; Immigration Waves: Irish, Ukrainian, and Chinese Settlers in Canada; Review: Social Studies Days 71-79; Social Studies: The Green Revolution and Global Food Security; Social Studies: How Provinces Make Laws \u2014 Provincial Legislatures.",
+        "summary": "A practice recap of recent Social Studies lessons: Our Senate: Another Part of Canadas Government; Immigration Waves: Irish, Ukrainian, and Chinese Settlers in Canada; Review: Social Studies Days 71-79; Social Studies: The Green Revolution and Global Food Security; Social Studies: How Provinces Make Laws — Provincial Legislatures.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -49212,7 +49220,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Refugee Crises in the Modern World; Social Studies: The Role of International Trade Agreements; Social Studies: Canada\u2019s Relationship with Indigenous Self-Government Today.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Refugee Crises in the Modern World; Social Studies: The Role of International Trade Agreements; Social Studies: Canada’s Relationship with Indigenous Self-Government Today.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -49242,7 +49250,7 @@ const curriculum: DayContent[] = [
               "Rules about school curriculum only",
               "A concept unrelated to global trade",
               "Shared rules for trading goods and services",
-              "Rules about a single country\u2019s local traffic"
+              "Rules about a single country’s local traffic"
             ],
             "answer": 2
           },
@@ -49706,7 +49714,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Entertain readers with no persuasive goal",
               "A concept unrelated to media literacy",
-              "Influence people\u2019s opinions",
+              "Influence people’s opinions",
               "Provide only balanced, neutral information"
             ],
             "answer": 2
@@ -49824,7 +49832,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Ancient Civilizations, Geography, and Canadian History; Social Studies: Global Population Growth and Demographic Change; Social Studies: Canada\u2019s National Parks and Conservation History; Social Studies: The Role of Canadian Embassies Abroad.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Ancient Civilizations, Geography, and Canadian History; Social Studies: Global Population Growth and Demographic Change; Social Studies: Canada’s National Parks and Conservation History; Social Studies: The Role of Canadian Embassies Abroad.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -50006,7 +50014,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is biomimicry?",
             "options": [
-              "The practice of studying nature\u2019s designs to solve human engineering challenges",
+              "The practice of studying nature’s designs to solve human engineering challenges",
               "A process of creating entirely artificial materials with no natural inspiration",
               "A method of destroying natural habitats for research",
               "A concept unrelated to science"
@@ -50028,7 +50036,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of Non-Governmental Organizations in Global Aid; Social Studies: Canada\u2019s Role in International Development and Foreign Aid; Review: Canadian Government, Global Heritage, and International Cooperation (Days 91-99); Social Studies: Credit Unions and Cooperative Banking in Canada.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Role of Non-Governmental Organizations in Global Aid; Social Studies: Canada’s Role in International Development and Foreign Aid; Review: Canadian Government, Global Heritage, and International Cooperation (Days 91-99); Social Studies: Credit Unions and Cooperative Banking in Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -50053,7 +50061,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is one purpose of Canada\u2019s international development assistance?",
+            "q": "What is one purpose of Canada’s international development assistance?",
             "options": [
               "To increase poverty in other countries",
               "To support other countries facing challenges like poverty or health care needs",
@@ -50112,10 +50120,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a book review typically include?",
             "options": [
-              "Only a list of characters\u2019 names",
-              "A word-for-word copy of the book\u2019s first chapter",
+              "Only a list of characters’ names",
+              "A word-for-word copy of the book’s first chapter",
               "A concept unrelated to writing",
-              "A summary, an evaluation, and the reviewer\u2019s supported opinion"
+              "A summary, an evaluation, and the reviewer’s supported opinion"
             ],
             "answer": 3
           },
@@ -50183,7 +50191,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Tides: How the Moon and Sun Affect Earth\u2019s Oceans; Science: Comets and Asteroids; Science: Coral Reefs: Biodiversity Hotspots Under Threat; Science: Cloud Types and Reading the Sky for Weather Clues.",
+        "summary": "A practice recap of recent Science lessons: Science: Tides: How the Moon and Sun Affect Earth’s Oceans; Science: Comets and Asteroids; Science: Coral Reefs: Biodiversity Hotspots Under Threat; Science: Cloud Types and Reading the Sky for Weather Clues.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -50346,7 +50354,7 @@ const curriculum: DayContent[] = [
             "q": "What does a currency exchange rate tell you?",
             "options": [
               "A concept unrelated to financial literacy",
-              "How much one country\u2019s currency is worth in terms of another",
+              "How much one country’s currency is worth in terms of another",
               "The exact price of every item in a store",
               "The total population of a country"
             ],
@@ -50466,7 +50474,7 @@ const curriculum: DayContent[] = [
               "The United Nations",
               "A private for-profit company",
               "A concept unrelated to global health",
-              "A single country\u2019s government"
+              "A single country’s government"
             ],
             "answer": 0
           },
@@ -50493,7 +50501,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Review: Grammar, Reading, and Media Literacy (Days 101-109); Poetry: Writing a Haiku; Reading: Onomatopoeia and Alliteration as Sound Devices; Writing: Epistolary Writing \u2014 Telling a Story Through Letters.",
+        "summary": "A practice recap of recent Language lessons: Review: Grammar, Reading, and Media Literacy (Days 101-109); Poetry: Writing a Haiku; Reading: Onomatopoeia and Alliteration as Sound Devices; Writing: Epistolary Writing — Telling a Story Through Letters.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -50502,7 +50510,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to grammar",
               "Removes all punctuation from a sentence",
-              "Reports a speaker\u2019s exact words, usually in quotation marks",
+              "Reports a speaker’s exact words, usually in quotation marks",
               "Changes a sentence into a question"
             ],
             "answer": 2
@@ -50591,7 +50599,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Review: Human Body, Earth Science, and Ecology (Days 101-109); The Human Ear and How We Hear; Antibiotics \u2014 How They Fight Bacterial Infections; Nutrition and the Food Groups.",
+        "summary": "A practice recap of recent Science lessons: Review: Human Body, Earth Science, and Ecology (Days 101-109); The Human Ear and How We Hear; Antibiotics — How They Fight Bacterial Infections; Nutrition and the Food Groups.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -50640,7 +50648,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Review: World History, Canadian Identity, and Global Issues (Days 101-109); Social Studies: The RCMP \u2014 Canadas National Police Force; Social Studies: The Census \u2014 Counting Everyone in Canada; Social Studies: Sister Cities \u2014 Twin Communities Around the World.",
+        "summary": "A practice recap of recent Social Studies lessons: Review: World History, Canadian Identity, and Global Issues (Days 101-109); Social Studies: The RCMP — Canadas National Police Force; Social Studies: The Census — Counting Everyone in Canada; Social Studies: Sister Cities — Twin Communities Around the World.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -50697,7 +50705,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Reading: Frame Narratives \u2014 A Story Within a Story; Writing: Writing a Podcast Script; Writing: Writing a Straight News Article (The Inverted Pyramid); Reading: Using Graphic Organizers to Plan Writing.",
+        "summary": "A practice recap of recent Language lessons: Reading: Frame Narratives — A Story Within a Story; Writing: Writing a Podcast Script; Writing: Writing a Straight News Article (The Inverted Pyramid); Reading: Using Graphic Organizers to Plan Writing.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -50795,7 +50803,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Owls \u2014 Adaptations for Nighttime Hunting; Bats and Echolocation; Science: Desert Survival Strategies; Sleep \u2014 Why Our Bodies and Brains Need Rest.",
+        "summary": "A practice recap of recent Science lessons: Owls — Adaptations for Nighttime Hunting; Bats and Echolocation; Science: Desert Survival Strategies; Sleep — Why Our Bodies and Brains Need Rest.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -50844,7 +50852,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Terry Fox \u2014 A Canadian Hero and His Marathon of Hope; Social Studies: The Franklin Expedition \u2014 Arctic Exploration History; Social Studies: The History of Canadian Currency; Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Terry Fox — A Canadian Hero and His Marathon of Hope; Social Studies: The Franklin Expedition — Arctic Exploration History; Social Studies: The History of Canadian Currency; Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -50999,7 +51007,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: How a Battery Stores and Releases Energy; The Human Brain \u2014 Structure and Function; Science Review: The Human Body and Everyday Science; Science: Eclipses \u2014 Solar and Lunar.",
+        "summary": "A practice recap of recent Science lessons: How a Battery Stores and Releases Energy; The Human Brain — Structure and Function; Science Review: The Human Body and Everyday Science; Science: Eclipses — Solar and Lunar.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -51048,7 +51056,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Elections Canada \u2014 Running Canadas Federal Elections; Social Studies: The Klondike Gold Rush; Social Studies Review: Canadian History, Government, and Institutions; Social Studies: Canadian National Symbols \u2014 Flag, Anthem, and Coat of Arms.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Elections Canada — Running Canadas Federal Elections; Social Studies: The Klondike Gold Rush; Social Studies Review: Canadian History, Government, and Institutions; Social Studies: Canadian National Symbols — Flag, Anthem, and Coat of Arms.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -51169,7 +51177,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Using the correct order of operations, what is the value of 3 + 4 \u00d7 2?",
+            "q": "Using the correct order of operations, what is the value of 3 + 4 × 2?",
             "options": [
               "11",
               "14",
@@ -51203,7 +51211,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Comets, Asteroids, and Meteors; Air Pressure and How It Affects Weather; Keystone Species and Their Role in Ecosystems; Pulleys \u2014 A Simple Machine for Lifting.",
+        "summary": "A practice recap of recent Science lessons: Comets, Asteroids, and Meteors; Air Pressure and How It Affects Weather; Keystone Species and Their Role in Ecosystems; Pulleys — A Simple Machine for Lifting.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -51252,7 +51260,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Persons Case \u2014 Winning Legal Recognition for Women in Canada; Social Studies: Canadas Points-Based Immigration System; Social Studies: The St. Lawrence Seaway \u2014 A Vital Trade Route; Social Studies Review: Ancient Civilizations, Geography, and Government.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Persons Case — Winning Legal Recognition for Women in Canada; Social Studies: Canadas Points-Based Immigration System; Social Studies: The St. Lawrence Seaway — A Vital Trade Route; Social Studies Review: Ancient Civilizations, Geography, and Government.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -51407,7 +51415,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Metamorphosis \u2014 Life Cycles of Insects and Amphibians; Bioaccumulation in Food Chains; Geothermal Energy \u2014 Heat from the Earth; Science: How a Generator Makes Electricity; Science Review: Energy, Space, and Ecosystems.",
+        "summary": "A practice recap of recent Science lessons: Metamorphosis — Life Cycles of Insects and Amphibians; Bioaccumulation in Food Chains; Geothermal Energy — Heat from the Earth; Science: How a Generator Makes Electricity; Science Review: Energy, Space, and Ecosystems.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -51456,7 +51464,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Canadian Pacific Railway: Building the Nation; Types of Maps: Political, Physical, and Thematic; Social Studies: Canadas National Sport \u2014 Lacrosse and Hockey; Canada's Major Watersheds and River Systems; Social Studies Review: Canadian History, Identity, and Institutions.",
+        "summary": "A practice recap of recent Social Studies lessons: The Canadian Pacific Railway: Building the Nation; Types of Maps: Political, Physical, and Thematic; Social Studies: Canadas National Sport — Lacrosse and Hockey; Canada's Major Watersheds and River Systems; Social Studies Review: Canadian History, Identity, and Institutions.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -51513,7 +51521,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: Relative Pronouns and Relative Clauses; Poetry: Writing Free Verse Poetry; Vocabulary: Eponyms \u2014 Words Named After People; Writing: Writing a Public Service Announcement (PSA) Script; Grammar: Correlative Conjunctions.",
+        "summary": "A practice recap of recent Language lessons: Grammar: Relative Pronouns and Relative Clauses; Poetry: Writing Free Verse Poetry; Vocabulary: Eponyms — Words Named After People; Writing: Writing a Public Service Announcement (PSA) Script; Grammar: Correlative Conjunctions.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -51577,7 +51585,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "A cube has 8 vertices and 12 edges. Using Euler's Formula (V \u2212 E + F = 2), how many faces does it have?",
+            "q": "A cube has 8 vertices and 12 edges. Using Euler's Formula (V − E + F = 2), how many faces does it have?",
             "options": [
               "6",
               "8",
@@ -51611,7 +51619,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: The Sun \u2014 Our Closest Star and Source of Energy; Generators \u2014 How Motion Creates Electricity; The Nitrogen Cycle and Its Role in Ecosystems; Hurricanes and Tornadoes \u2014 Extreme Weather Events; Earths Layers \u2014 Crust, Mantle, and Core.",
+        "summary": "A practice recap of recent Science lessons: The Sun — Our Closest Star and Source of Energy; Generators — How Motion Creates Electricity; The Nitrogen Cycle and Its Role in Ecosystems; Hurricanes and Tornadoes — Extreme Weather Events; Earths Layers — Crust, Mantle, and Core.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -51660,7 +51668,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Primary, Secondary, and Tertiary Industries in Canada; The Great Lakes: Canada's Freshwater Treasure; Social Studies: Banting and Best \u2014 The Discovery of Insulin in Canada; Latitude and Longitude: Finding Places on a Map; Time Zones Across Canada.",
+        "summary": "A practice recap of recent Social Studies lessons: Primary, Secondary, and Tertiary Industries in Canada; The Great Lakes: Canada's Freshwater Treasure; Social Studies: Banting and Best — The Discovery of Insulin in Canada; Latitude and Longitude: Finding Places on a Map; Time Zones Across Canada.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -51717,7 +51725,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Editorial Cartoons; Oral Communication: Group Discussion and Collaborative Talk Norms; Writing: Show, Dont Tell \u2014 Bringing Scenes to Life; Reading: Understanding Cliches and Overused Language.",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Editorial Cartoons; Oral Communication: Group Discussion and Collaborative Talk Norms; Writing: Show, Dont Tell — Bringing Scenes to Life; Reading: Understanding Cliches and Overused Language.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -51815,7 +51823,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Inclined Planes and Wedges \u2014 Simple Machines That Reduce Effort; Separating Mixtures \u2014 Filtration, Evaporation, and Distillation; Bioindicators \u2014 Using Species to Measure Environmental Health; 3D Printing and Modern Manufacturing Technology.",
+        "summary": "A practice recap of recent Science lessons: Inclined Planes and Wedges — Simple Machines That Reduce Effort; Separating Mixtures — Filtration, Evaporation, and Distillation; Bioindicators — Using Species to Measure Environmental Health; 3D Printing and Modern Manufacturing Technology.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -52068,7 +52076,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Vimy Ridge and Canada's Role in the First World War; Social Studies: Residential Schools in Canada \u2014 A History; Social Studies: The Order of Canada \u2014 Honouring Outstanding Canadians; Social Studies: The Canadian Museum for Human Rights.",
+        "summary": "A practice recap of recent Social Studies lessons: Vimy Ridge and Canada's Role in the First World War; Social Studies: Residential Schools in Canada — A History; Social Studies: The Order of Canada — Honouring Outstanding Canadians; Social Studies: The Canadian Museum for Human Rights.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -52272,7 +52280,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Provinces and Territories \u2014 Capitals and Regions; Confederation Conferences: Charlottetown and Quebec; Social Studies: The Numbered Treaties \u2014 Agreements Between Canada and First Nations; Social Studies: The Canadian Coast Guard and Maritime Safety.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Canadas Provinces and Territories — Capitals and Regions; Confederation Conferences: Charlottetown and Quebec; Social Studies: The Numbered Treaties — Agreements Between Canada and First Nations; Social Studies: The Canadian Coast Guard and Maritime Safety.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -52476,7 +52484,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Black Loyalists and Early Black Settlement in Canada; How Provinces and Territories Joined Confederation; Social Studies Review: Reconciliation, Government, and Canadian History; Municipal Services: Where Your Tax Dollars Go; Social Studies: The Highway of Heroes \u2014 Honouring Canadian Fallen Soldiers.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Black Loyalists and Early Black Settlement in Canada; How Provinces and Territories Joined Confederation; Social Studies Review: Reconciliation, Government, and Canadian History; Municipal Services: Where Your Tax Dollars Go; Social Studies: The Highway of Heroes — Honouring Canadian Fallen Soldiers.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -52582,7 +52590,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Probability: Designing and Running Simulations; Geometry: Tessellations \u2014 Tiling the Plane with Shapes; Number Sense: Multiplying Decimals Using the Standard Algorithm; Data Management: Correlation versus Causation.",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Designing and Running Simulations; Geometry: Tessellations — Tiling the Plane with Shapes; Number Sense: Multiplying Decimals Using the Standard Algorithm; Data Management: Correlation versus Causation.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
         "quiz": [
@@ -52631,16 +52639,16 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Space: The Moon\u2019s Effect on Earth \u2014 Tides; Biodegradable versus Non-Biodegradable Materials; Whale Migration and Ocean Navigation; How Exercise Affects the Heart and Lungs.",
+        "summary": "A practice recap of recent Science lessons: Science: Space: The Moon’s Effect on Earth — Tides; Biodegradable versus Non-Biodegradable Materials; Whale Migration and Ocean Navigation; How Exercise Affects the Heart and Lungs.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
           {
             "q": "What causes tides, the regular rising and falling of sea levels?",
             "options": [
-              "The Moon\u2019s gravity pulling on Earth\u2019s oceans",
+              "The Moon’s gravity pulling on Earth’s oceans",
               "A concept unrelated to tides",
-              "The Sun\u2019s heat warming the oceans",
+              "The Sun’s heat warming the oceans",
               "Wind blowing across the ocean surface only"
             ],
             "answer": 0
@@ -52835,7 +52843,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Desalination \u2014 Turning Seawater into Fresh Water; Science: Forces: Streamlining and Reducing Drag in Water; Bird Beak Adaptations for Different Diets; Science Review: Simple Machines, the Human Body, and Chemistry.",
+        "summary": "A practice recap of recent Science lessons: Desalination — Turning Seawater into Fresh Water; Science: Forces: Streamlining and Reducing Drag in Water; Bird Beak Adaptations for Different Diets; Science Review: Simple Machines, the Human Body, and Chemistry.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -52860,7 +52868,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What do we call the force that resists an object\u2019s motion through water?",
+            "q": "What do we call the force that resists an object’s motion through water?",
             "options": [
               "A concept unrelated to forces",
               "Magnetism",
@@ -52884,7 +52892,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Emancipation Day \u2014 The End of Slavery in British North America; Recycling and Waste Management Across Canada; Social Studies: The Assembly of First Nations \u2014 Indigenous Political Leadership; Canada's Grassland and Prairie Ecosystems.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: Emancipation Day — The End of Slavery in British North America; Recycling and Waste Management Across Canada; Social Studies: The Assembly of First Nations — Indigenous Political Leadership; Canada's Grassland and Prairie Ecosystems.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -53292,7 +53300,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Inuit Traditional Knowledge and the Land; Social Studies: The Boundary Waters Treaty and Canada-US Relations; Social Studies: The Rideau Canal \u2014 A UNESCO World Heritage Site in Canada; Social Studies: David Thompson and the Mapping of Western Canada; The Quiet Revolution in Quebec.",
+        "summary": "A practice recap of recent Social Studies lessons: Inuit Traditional Knowledge and the Land; Social Studies: The Boundary Waters Treaty and Canada-US Relations; Social Studies: The Rideau Canal — A UNESCO World Heritage Site in Canada; Social Studies: David Thompson and the Mapping of Western Canada; The Quiet Revolution in Quebec.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -53651,7 +53659,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Black Holes \u2014 An Introduction; Science: Caves and How They Form; Science: Solutions, Suspensions, and Colloids; Our Eyes: How We See Colours and Shapes.",
+        "summary": "A practice recap of recent Science lessons: Science: Black Holes — An Introduction; Science: Caves and How They Form; Science: Solutions, Suspensions, and Colloids; Our Eyes: How We See Colours and Shapes.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -53904,7 +53912,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Rick Hansen's Man in Motion World Tour; M\u00e9tis Culture: The Sash and the Fiddle; Volunteering and Civic Participation in Canada; Canada and the Paris Climate Agreement.",
+        "summary": "A practice recap of recent Social Studies lessons: Rick Hansen's Man in Motion World Tour; Métis Culture: The Sash and the Fiddle; Volunteering and Civic Participation in Canada; Canada and the Paris Climate Agreement.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
@@ -53929,7 +53937,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is the M\u00e9tis sash, or ceinture fl\u00e9ch\u00e9e, traditionally used for?",
+            "q": "What is the Métis sash, or ceinture fléchée, traditionally used for?",
             "options": [
               "As a multi-purpose woven belt, historically used to carry items, keep warm, and show identity",
               "Only as a decoration with no practical use",
@@ -53961,7 +53969,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Writing: Writing a Speech of Introduction; Vocabulary: Malapropisms and Word Confusion; Media Literacy: Analyzing Infographics; Oral Communication: Non-Verbal Communication and Body Language; Language Review: The Final Chapter \u2014 Grammar, Vocabulary, and Communication Skills.",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Speech of Introduction; Vocabulary: Malapropisms and Word Confusion; Media Literacy: Analyzing Infographics; Oral Communication: Non-Verbal Communication and Body Language; Language Review: The Final Chapter — Grammar, Vocabulary, and Communication Skills.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
         "quiz": [
@@ -54059,7 +54067,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: The Digestive System: Where Food Goes; Science: Sonar Technology and Mapping the Ocean Floor; Science: The Ozone Layer and Its Protective Role; Science: Colour Mixing \u2014 Additive versus Subtractive Colour; Science Review: The Final Chapter \u2014 Chemistry, Earth Science, and Technology.",
+        "summary": "A practice recap of recent Science lessons: The Digestive System: Where Food Goes; Science: Sonar Technology and Mapping the Ocean Floor; Science: The Ozone Layer and Its Protective Role; Science: Colour Mixing — Additive versus Subtractive Colour; Science Review: The Final Chapter — Chemistry, Earth Science, and Technology.",
         "resourceLabel": "TVO Learn: Grade 6 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
         "quiz": [
@@ -54108,7 +54116,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Where Our Food Comes From: Supply Chains; Social Studies: The CBC \u2014 Canadas Public Broadcaster; First Nations Governance Before European Contact; Indigenous Language Revitalization in Canada; Review: Canadian Geography, History, and Civic Life.",
+        "summary": "A practice recap of recent Social Studies lessons: Where Our Food Comes From: Supply Chains; Social Studies: The CBC — Canadas Public Broadcaster; First Nations Governance Before European Contact; Indigenous Language Revitalization in Canada; Review: Canadian Geography, History, and Civic Life.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
         "quiz": [
