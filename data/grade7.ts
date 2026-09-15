@@ -20458,6 +20458,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: a personal manifesto is a piece of writing that expresses an individual’s core beliefs, values, and goals, often written with a confident and declarative tone.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ESaVg6uAhqU",
         "quiz": [
           {
             "q": "What kind of writing expresses an individual’s core beliefs and values?",

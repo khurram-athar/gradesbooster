@@ -20499,6 +20499,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to identify and use gerunds, participles, and infinitives -- verb forms that function as nouns, adjectives, or adverbs -- and practice recognizing their role in a sentence.",
         "resourceLabel": "YouTube: Grammar: Verbals (Gerunds, Participles, and Infinitives)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Verbals%20%28Gerunds%2C%20Participles%2C%20and%20Infinitives%29%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8c2b-zhk1DQ",
         "topic": "Grammar: Parts of Speech",
         "quiz": [
           {
@@ -20559,6 +20560,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: a scatter plot uses points on a grid to show the relationship between two sets of data, helping students see patterns or trends between the values.",
         "resourceLabel": "YouTube: Data Management: Introduction to Scatter Plots",
         "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Introduction%20to%20Scatter%20Plots%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UUtTir-kLfU",
         "quiz": [
           {
             "q": "What does a scatter plot use to display data?",
@@ -20619,6 +20621,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: kinetic energy is the energy of motion, while potential energy is stored energy based on an objects position or condition, and energy can transform between these two forms.",
         "resourceLabel": "YouTube: Kinetic and Potential Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Kinetic%20and%20Potential%20Energy%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g7u6pIfUVy4",
         "quiz": [
           {
             "q": "What is kinetic energy?",
@@ -20679,6 +20682,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: the Canadian Senate is the upper house of Parliament, made up of appointed members who review, debate, and can propose changes to bills before they become law.",
         "resourceLabel": "YouTube: Social Studies: The Structure and Role of the Canadian Senate",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Structure%20and%20Role%20of%20the%20Canadian%20Senate%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UntTyalklOY",
         "quiz": [
           {
             "q": "What is the Canadian Senate?",

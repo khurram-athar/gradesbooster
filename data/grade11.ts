@@ -20488,6 +20488,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a eulogy or occasional speech is written to mark a significant event, often balancing personal reflection, respect for the audience, and a clear central message.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ttW998azc64",
         "quiz": [
           {
             "q": "What is a eulogy typically written to mark?",
@@ -20548,6 +20549,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the Fibonacci sequence is a recursive sequence where each term is the sum of the two preceding terms, beginning with 0 and 1.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=mVO2dcuR7P0",
         "quiz": [
           {
             "q": "How is each term of the Fibonacci sequence generated?",
@@ -20608,6 +20610,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: bones are living tissue that continuously undergo remodelling, a process where old bone is broken down and new bone is formed to maintain strength and repair damage.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=2vESqp8mL5I",
+        "videoUrls": [
+          {
+            "label": "Bones: Structure and Types",
+            "url": "https://www.youtube.com/watch?v=2vESqp8mL5I"
+          },
+          {
+            "label": "Bone Remodeling and Repair",
+            "url": "https://www.youtube.com/watch?v=Ei4seya3dOg"
+          }
+        ],
         "quiz": [
           {
             "q": "What process do bones continuously undergo to maintain strength?",
@@ -20668,6 +20681,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: industrial catalysis uses catalysts to speed up large-scale chemical processes, reducing energy costs and increasing efficiency in manufacturing.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=m_9bpZep1QM",
         "quiz": [
           {
             "q": "What does industrial catalysis use to speed up large-scale chemical processes?",

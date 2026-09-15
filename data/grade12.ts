@@ -20411,6 +20411,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a prose poem is written in paragraph form without line breaks, yet retains the compressed imagery, rhythm, and intensity typically associated with poetry.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=OqLZ-6vx_ZE",
         "quiz": [
           {
             "q": "What form is a prose poem written in?",
@@ -20471,6 +20472,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Advanced Functions strand: Lagrange’s method constructs a polynomial that passes exactly through a given set of data points, providing a way to estimate values between known data.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=bzp_q7NDdd4",
         "quiz": [
           {
             "q": "What does Lagrange’s method construct?",
@@ -20531,6 +20533,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Calculus strand: numerical differentiation estimates a function’s derivative using values of the function at nearby points, useful when an exact algebraic derivative is difficult or impossible to find.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "videoUrl": "https://www.youtube.com/watch?v=pitoyz9Il9c",
         "quiz": [
           {
             "q": "What does numerical differentiation estimate?",
@@ -20591,6 +20594,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: quantum tunneling describes how a particle can pass through an energy barrier that classical physics predicts it should not have enough energy to overcome.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=Yg0LT3n4mYY",
         "quiz": [
           {
             "q": "What does quantum tunneling describe?",

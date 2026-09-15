@@ -24934,6 +24934,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice sorting a mixed collection of everyday objects, like toys or buttons, into groups based on a single shared attribute such as color or size.",
         "resourceLabel": "YouTube: Sorting Objects by One Attribute",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20Objects%20by%20One%20Attribute%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=X9g3lwKn49Y",
         "topic": "Data Management",
         "quiz": [
           {
@@ -24994,6 +24995,7 @@ const curriculum: DayContent[] = [
         "summary": "Children identify different sources of light, like the sun, lamps, and flashlights, and talk about how light helps us see the world around us.",
         "resourceLabel": "YouTube: Where Light Comes From: The Sun and Lamps",
         "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Light%20Comes%20From%3A%20The%20Sun%20and%20Lamps%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=d65mdTJaJTI",
         "topic": "Light & Sound",
         "quiz": [
           {
@@ -25054,6 +25056,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces the school bus driver as a community helper who follows safety rules to get children to and from school.",
         "resourceLabel": "YouTube: Our School Bus Driver: Getting Us to School Safely",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20to%20School%20Safely%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=sQNTVbGy5xo",
         "topic": "Community Helpers & Civic Roles (Basic)",
         "quiz": [
           {

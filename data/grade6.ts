@@ -19932,6 +19932,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: throughout the 19th and early 20th centuries, waves of immigrants, including Irish, Ukrainian, and Chinese settlers, came to Canada and contributed to its growth, often while facing significant hardship and discrimination.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=gGIposnWwJc",
+        "videoUrls": [
+          {
+            "label": "Irish Immigration to Canada",
+            "url": "https://www.youtube.com/watch?v=gGIposnWwJc"
+          },
+          {
+            "label": "The Chinese Head Tax",
+            "url": "https://www.youtube.com/watch?v=uu-uDSS0LOg"
+          }
+        ],
         "quiz": [
           {
             "q": "Many Irish immigrants came to Canada in the 19th century partly due to ___.",
