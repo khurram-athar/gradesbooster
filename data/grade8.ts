@@ -46522,6 +46522,7554 @@ const curriculum: DayContent[] = [
         ]
       }
     ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Advanced Punctuation (Em Dashes, Colons, Semicolons); Writing: The Personal Narrative; Reading: Analyzing Satire and Social Commentary; Vocabulary: Etymology and Word Formation.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An em dash is often used to ___.",
+            "options": [
+              "Add emphasis or a dramatic pause",
+              "Never appear in formal writing",
+              "Indicate the end of a paragraph only",
+              "Replace every period in a text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A semicolon can be used to join two independent clauses when ___.",
+            "options": [
+              "They have nothing in common",
+              "One clause is a question",
+              "They are closely related in meaning",
+              "The second clause starts with a coordinating conjunction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A strong personal narrative usually focuses on ___.",
+            "options": [
+              "Someone else's life story, not the writer's own",
+              "An entire life story from birth to present",
+              "One meaningful, specific moment rather than a whole life story",
+              "A completely unrelated topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Studying etymology means studying ___.",
+            "options": [
+              "The punctuation rules of a language",
+              "The origin and history of words",
+              "The spelling patterns of silent letters only",
+              "The sound of a word when spoken aloud"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Multiplying and Dividing Integers; Square Roots and Perfect Squares; Combinations and Permutations (Intro); Solving Multi-Step Equations with Variables on Both Sides.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is the result of a negative integer multiplied by a negative integer?",
+            "options": [
+              "Negative",
+              "Positive",
+              "Zero",
+              "Cannot be determined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is -48 \u00f7 6?",
+            "options": [
+              "8",
+              "-42",
+              "-8",
+              "-54"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A perfect square is the result of ___.",
+            "options": [
+              "Any two different numbers added together",
+              "A concept unrelated to perfect squares",
+              "A whole number multiplied by itself",
+              "A whole number divided by itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In mathematics, a permutation differs from a combination because a permutation ___.",
+            "options": [
+              "Never allows repeated selection",
+              "Takes order into account, while a combination does not",
+              "Is only used for probability problems",
+              "Always results in a smaller number of outcomes than combinations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Genetics and Heredity: Introduction; Chemical Reactions in Everyday Life; Newton\u2019s Laws of Motion: An Introduction; The Periodic Table: An Introduction to Elements.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Heredity refers to ___.",
+            "options": [
+              "The passing of traits from parents to offspring",
+              "A process unrelated to living things",
+              "A type of rock formation",
+              "A type of weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Newton's First Law of Motion, an object at rest will ___ unless acted on by an unbalanced force.",
+            "options": [
+              "Accelerate on its own",
+              "Stay at rest",
+              "Always move in a circle",
+              "Immediately gain mass"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which everyday activity involves a chemical reaction?",
+            "options": [
+              "Folding a piece of paper",
+              "Cutting a piece of string",
+              "Stacking blocks",
+              "Cooking an egg"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On the periodic table, elements in the same column (group) generally share similar ___.",
+            "options": [
+              "Colours",
+              "Names",
+              "Chemical properties",
+              "Atomic mass values exactly"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Fenian Raids and Early Canadian Defence; The Northwest Resistance and Louis Riel; Women\u2019s Suffrage in Canada: The Fight for the Vote; The Vikings and Early Norse Exploration.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Fenian Raids occurred primarily during which decade?",
+            "options": [
+              "1900s",
+              "1810s",
+              "1950s",
+              "1860s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Women's suffrage refers to the movement to secure women's right to ___.",
+            "options": [
+              "Own property only",
+              "Vote in elections",
+              "Attend university only",
+              "Work outside the home"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Northwest Resistance took place in which year?",
+            "options": [
+              "1914",
+              "1867",
+              "1885",
+              "1931"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Vikings were seafaring people who originated primarily from which region?",
+            "options": [
+              "North Africa",
+              "Central Asia",
+              "Scandinavia",
+              "Southern Italy"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Character Motivation; Writing: The Extended Definition Essay; Media Literacy: Deconstructing Clickbait and Digital Media; Grammar: Style and Voice in Writing.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Character motivation refers to ___.",
+            "options": [
+              "The actors who play the character",
+              "The reason behind a character's actions",
+              "Only a character's physical appearance",
+              "The setting of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Clickbait headlines are designed primarily to ___.",
+            "options": [
+              "Provide a fully balanced and accurate summary",
+              "Attract clicks, often using exaggeration or misleading claims",
+              "Follow strict journalistic citation standards",
+              "Discourage readers from clicking at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An extended definition essay explores ___.",
+            "options": [
+              "The deeper meaning of a complex or abstract term",
+              "A term with no meaningful complexity",
+              "Only a simple dictionary definition",
+              "A completely unrelated topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An author's 'voice' in writing refers to ___.",
+            "options": [
+              "The volume at which a book is read aloud",
+              "A rule requiring all sentences to be short",
+              "The distinctive way a writer expresses ideas through word choice and tone",
+              "The font used to print the text"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Volume and Surface Area of Spheres and Cones; Introduction to Slope; Introduction to the Pythagorean Theorem; Number Systems: Classifying Real Numbers.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the volume of a sphere is ___.",
+            "options": [
+              "Pi r squared",
+              "One-third base area times height",
+              "Four-thirds pi r cubed",
+              "Two pi r"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a right triangle with legs of length 3 and 4, what is the length of the hypotenuse?",
+            "options": [
+              "7",
+              "5",
+              "6",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does slope describe about a line?",
+            "options": [
+              "Its steepness",
+              "A concept unrelated to geometry",
+              "Its exact length",
+              "Its colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following best describes an irrational number?",
+            "options": [
+              "Any number that is negative",
+              "A number that can always be written as a fraction of two integers",
+              "A number that cannot be written as a simple fraction and has a non-repeating, non-terminating decimal",
+              "A number equal to zero"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Robotics and Mechatronics; Wind Turbines: Converting Wind Into Electricity; Space Science: Exoplanets and the Search for Life; Nanotechnology: An Introduction.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Mechatronics combines which fields?",
+            "options": [
+              "A single unrelated field",
+              "Mechanical engineering, electronics, and programming",
+              "Only art and music",
+              "Only agriculture and farming"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An exoplanet is defined as a planet that ___.",
+            "options": [
+              "Orbits only our Sun",
+              "Orbits a star outside our solar system",
+              "Has no orbit at all",
+              "Is located inside an asteroid belt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A wind turbine converts the kinetic energy of moving air into ___.",
+            "options": [
+              "Heat only",
+              "Sound energy",
+              "Electricity",
+              "Sunlight"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nanotechnology involves manipulating matter at a scale of approximately ___.",
+            "options": [
+              "Several kilometres",
+              "Billionths of a metre (the nanoscale)",
+              "The size of a basketball",
+              "Only at the scale of visible dust particles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Silk Road: Trade and Cultural Exchange; The Underground Railroad and Black History in Canada; The Islamic Golden Age; Feudal Japan: Samurai and Shogunate.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Silk Road primarily connected which regions?",
+            "options": [
+              "Asia, the Middle East, and Europe",
+              "Only Australia and Antarctica",
+              "A single isolated region with no connections",
+              "Only North America and South America"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Islamic Golden Age was marked by significant advances in which areas?",
+            "options": [
+              "Only military conquest with no scholarship",
+              "Science, mathematics, and medicine",
+              "Agriculture exclusively, with no other fields",
+              "Only in poetry, with no scientific work"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Underground Railroad was a network that helped ___.",
+            "options": [
+              "Explorers travel to new territories",
+              "Soldiers move during wartime",
+              "Immigrants travel by an actual railway system",
+              "Formerly enslaved people escape to freedom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In feudal Japan, the shogun held power as ___.",
+            "options": [
+              "A ceremonial religious figure with no political power",
+              "An elected town mayor",
+              "The top military ruler, who governed in the emperor's name",
+              "A foreign ambassador"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Argumentative Essay; Reading: Analyzing Unreliable Narrators; Reading: Analyzing Tragic Heroes in Literature; Writing: The Persuasive Speech for a Formal Debate.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An argumentative essay is built around ___.",
+            "options": [
+              "A single unsupported opinion",
+              "A well-developed position supported by researched evidence and reasoning",
+              "Random, unrelated information",
+              "A summary with no argument at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A tragic hero in literature is typically a character who ___.",
+            "options": [
+              "Is entirely without flaws",
+              "Has a significant flaw that leads to their downfall",
+              "Never experiences any hardship",
+              "Is a minor character with no impact on the plot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an unreliable narrator?",
+            "options": [
+              "A narrator whose credibility or account cannot be fully trusted",
+              "A narrator who always tells the complete truth",
+              "A story with no narrator at all",
+              "A narrator who never speaks in first person"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a formal debate, a persuasive speech is most effective when it ___.",
+            "options": [
+              "Relies only on the speaker's tone of voice",
+              "Ignores the opposing side's arguments completely",
+              "Uses credible evidence and addresses counterarguments",
+              "Uses only emotional appeals with no evidence"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Proportional Reasoning: Similar Figures and Indirect Measurement; Financial Literacy: Simple Interest Basics; Probability: Independent and Dependent Events; Geometry: Volume of Cones and Pyramids.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Similar figures have side lengths that are ___.",
+            "options": [
+              "Completely unrelated to each other",
+              "Proportional to each other",
+              "Impossible to compare",
+              "Always identical in length"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two events are independent if ___.",
+            "options": [
+              "The outcome of one event always determines the other",
+              "The outcome of one event does not affect the probability of the other",
+              "They can never occur in the same experiment",
+              "They always have equal probabilities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call extra money earned based on a percentage of an original amount?",
+            "options": [
+              "A concept unrelated to money",
+              "Simple interest",
+              "A discount",
+              "A tax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the volume of a pyramid with a base area of 12 square units and a height of 9 units? (Volume = 1/3 \u00d7 base area \u00d7 height)",
+            "options": [
+              "108",
+              "36",
+              "54",
+              "21"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Human Impact on Climate Change; Density and Buoyancy; Astrophysics: The Life Cycle of Stars; Materials Science: Polymers and Composites.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which human activity is commonly linked to increased greenhouse gas emissions?",
+            "options": [
+              "Recycling materials",
+              "Planting more trees",
+              "Burning fossil fuels",
+              "Reducing energy use"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An object floats in a fluid when ___.",
+            "options": [
+              "It has a very high density compared to the fluid",
+              "The buoyant force pushing up on it equals or exceeds its weight",
+              "It has no weight at all",
+              "The fluid has zero density"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Density describes ___.",
+            "options": [
+              "A concept unrelated to density",
+              "The colour of an object",
+              "How much mass is packed into a given volume",
+              "How heavy an object feels when held"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following describes the stage a massive star typically enters after using up its core hydrogen fuel?",
+            "options": [
+              "It immediately becomes a black hole with no other stage",
+              "It turns into a comet",
+              "It expands into a red giant (or supergiant)",
+              "It stays exactly the same forever"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Indian Act and Its Historical Impact; The Cold War: Origins and Key Events; Human Rights: The Universal Declaration; Indigenous Peoples\u2019 Rights Movements in Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Indian Act was first passed in which year?",
+            "options": [
+              "1876",
+              "1931",
+              "1867",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Universal Declaration of Human Rights, adopted in 1948, was created primarily to ___.",
+            "options": [
+              "Grant voting rights exclusively to one country's citizens",
+              "Establish basic rights and freedoms for all people worldwide",
+              "Establish trade rules between nations",
+              "Set military alliances between countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Cold War took place mainly after which major global conflict?",
+            "options": [
+              "World War II",
+              "The American Revolution",
+              "World War I",
+              "The War of 1812"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Indigenous rights movements in Canada have worked toward addressing issues such as ___.",
+            "options": [
+              "Expanding provincial borders",
+              "Land claims, self-government, and reconciliation for past injustices",
+              "Building new international trade agreements",
+              "Establishing new sports leagues"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Parallelism and Sentence Balance; Vocabulary: Denotation and Connotation; Reading: Analyzing Historical Fiction; Writing: The Multi-Genre Project; Media Literacy: Analyzing Political Cartoons.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Parallelism in writing means ___.",
+            "options": [
+              "Using only single-word sentences",
+              "Avoiding lists entirely in writing",
+              "Using a consistent grammatical structure for related ideas",
+              "Using different grammatical structures for every related idea"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Historical fiction is a genre that ___.",
+            "options": [
+              "Contains only verified factual historical records with no invented elements",
+              "Blends real historical settings or events with fictional characters or plot elements",
+              "Is set entirely in the future",
+              "Excludes all references to real time periods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Denotation refers to ___.",
+            "options": [
+              "A word's literal, dictionary meaning",
+              "The emotional feeling a word carries",
+              "A word that has no meaning at all",
+              "A word used only in casual conversation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Political cartoons typically use which technique to convey their message?",
+            "options": [
+              "Strictly literal, realistic illustration with no symbolism",
+              "Long written essays with no images",
+              "Symbolism and exaggeration (caricature)",
+              "Only photographs with captions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Factoring Trinomials; Correlation vs. Causation in Data; Data Management: Scatter Plots and Line of Best Fit; Number Sense: Rational vs Irrational Numbers; Precision and Significant Figures in Measurement.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Factor: x squared plus 5x plus 6.",
+            "options": [
+              "(x + 1)(x + 6)",
+              "(x + 2)(x + 3)",
+              "(x + 6)(x + 6)",
+              "(x + 5)(x + 1)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a scatter plot, a line of best fit is used to ___.",
+            "options": [
+              "Connect every single data point exactly",
+              "Show the general trend of the data points",
+              "Replace the need for any data points",
+              "Show only the highest data point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Correlation between two variables means ___.",
+            "options": [
+              "The variables are always identical",
+              "One variable definitely causes the other to change",
+              "The variables have no relationship at all",
+              "They tend to change together in some observable pattern"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many significant figures are in the measurement 0.0450 metres?",
+            "options": [
+              "2",
+              "3",
+              "5",
+              "4"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Environmental Science: Ocean Acidification; Acids, Bases, and pH; Forensic Science: Applying Scientific Methods to Investigation; Meteorology: Predicting Severe Weather; Artificial Intelligence and Machine Learning: An Introduction.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean acidification occurs when the ocean absorbs excess ___.",
+            "options": [
+              "Helium",
+              "Oxygen only",
+              "Carbon dioxide from the atmosphere",
+              "Nitrogen only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Forensic science primarily involves applying scientific methods to ___.",
+            "options": [
+              "Predict future weather patterns",
+              "Investigate crimes and analyze physical evidence",
+              "Study the life cycle of stars",
+              "Design new computer software"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On the pH scale, a substance with a pH below 7 is considered ___.",
+            "options": [
+              "An acid",
+              "Neutral",
+              "A base",
+              "A term unrelated to the pH scale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Meteorologists use radar and satellite data primarily to ___.",
+            "options": [
+              "Measure the age of rocks",
+              "Track and predict severe weather events such as storms",
+              "Study ocean currents exclusively",
+              "Analyze DNA samples"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Renaissance: Art, Science, and New Ideas; The Fall of the Roman Empire; The Byzantine Empire; The Mongol Empire; The Aztec and Inca Civilizations.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Renaissance was a period of renewed interest in ___.",
+            "options": [
+              "War and conquest only",
+              "Art, science, and learning",
+              "Isolation from other cultures",
+              "Only religious matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Byzantine Empire was the continuation of which earlier empire?",
+            "options": [
+              "The Persian Empire",
+              "The Eastern Roman Empire",
+              "The Mongol Empire",
+              "The Ottoman Empire"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The fall of the Western Roman Empire is traditionally dated to which year?",
+            "options": [
+              "476 CE",
+              "1789 CE",
+              "1492 CE",
+              "1000 CE"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Under Genghis Khan, the Mongol Empire became known for ___.",
+            "options": [
+              "Never expanding beyond a single city",
+              "Rapidly conquering and controlling one of the largest land empires in history",
+              "Focusing solely on peaceful trade with no military conquest",
+              "Being confined entirely to South America"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: The Subjunctive Mood; Writing: The Personal Manifesto; Reading: Evaluating an Author\u2019s Use of Structure; Reading: Analyzing Symbolism in Literature.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does the subjunctive mood often express?",
+            "options": [
+              "A question about a location",
+              "A simple fact that is happening right now",
+              "A wish or a situation that is not currently true",
+              "A direct command"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses the subjunctive mood?",
+            "options": [
+              "If I was rich, I would travel.",
+              "If I were rich, I would travel.",
+              "If I am rich, I would travel.",
+              "If I will be rich, I would travel."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A personal manifesto is meant to express a writer\u2019s ___.",
+            "options": [
+              "Someone else\u2019s beliefs and values",
+              "Core beliefs and values",
+              "A completely unrelated topic",
+              "A summary of unrelated facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In literary analysis, symbolism refers to the use of ___.",
+            "options": [
+              "An object, person, or color to represent a deeper meaning beyond its literal sense",
+              "The literal, factual description of a setting with no hidden meaning",
+              "The chronological order in which events occur in a plot",
+              "The grammatical mood used in a sentence"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Surface Area of a Sphere; Math Review: Geometry, Number Sense, and Financial Literacy; Number Sense: Introduction to Scientific Notation; Number Sense: Square Numbers and Square Roots.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What shape is a basketball an example of?",
+            "options": [
+              "A cube",
+              "A sphere",
+              "A cylinder",
+              "A cone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the formula for the surface area of a sphere with radius r?",
+            "options": [
+              "4\u03c0r\u00b2",
+              "(4/3)\u03c0r\u00b3",
+              "2\u03c0r\u00b2",
+              "\u03c0r\u00b2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "options": [
+              "Two-thirds",
+              "The same as the cylinder",
+              "One-third",
+              "One-half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following numbers is a perfect square?",
+            "options": [
+              "48",
+              "64",
+              "90",
+              "75"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Sustainable Agriculture and Food Technology; Energy Transfer and Conservation of Energy; Review: Biotechnology, Environmental Science, and Emerging Technology; Plate Tectonics and Earthquakes.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Sustainable agriculture aims to ___.",
+            "options": [
+              "Have no connection to environmental impact",
+              "Ignore food production entirely",
+              "Increase food production efficiency while minimizing environmental impact",
+              "Maximize environmental harm with no consideration of efficiency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the most direct cause of most earthquakes?",
+            "options": [
+              "Sudden movement along a fault where tectonic plates meet",
+              "Changes in ocean tide levels",
+              "Variations in atmospheric pressure",
+              "The gravitational pull of the moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Energy transfer means energy ___.",
+            "options": [
+              "Moves from one object or place to another",
+              "Is destroyed completely with no trace",
+              "A concept unrelated to energy",
+              "Never moves or changes in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of biotechnology?",
+            "options": [
+              "Using bacteria to produce insulin for medical use",
+              "Painting a house to protect it from weather",
+              "Building a bridge using steel beams",
+              "Recording weather patterns over a year"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Colonialism in Africa; Decolonization Movements in the 20th Century; Review: World Empires and Global Challenges; The Acadian Expulsion (Le Grand D\u00e9rangement).",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "During the 19th and early 20th centuries, several European powers colonized much of ___.",
+            "options": [
+              "Africa",
+              "Antarctica",
+              "No territory at all",
+              "The Moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Acadian Expulsion (Le Grand D\u00e9rangement) refers to the forced removal of the Acadian people by ___.",
+            "options": [
+              "British colonial authorities in the 1750s",
+              "French colonial authorities in the 1600s",
+              "Spanish forces in South America",
+              "The government of the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Decolonization refers to the process of ___.",
+            "options": [
+              "Countries becoming newly colonized",
+              "A single country expanding its colonies",
+              "Nations losing all forms of self-governance",
+              "Colonized nations gaining independence from colonial powers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following was a major factor that fueled decolonization movements after World War II?",
+            "options": [
+              "Rising nationalist movements and weakened European colonial powers",
+              "An increased desire among colonies to be recolonized",
+              "The disappearance of all colonial economies",
+              "A global decrease in population growth"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Active and Passive Voice; Writing: The Editorial/Op-Ed; Vocabulary: Connotation vs Denotation; Reading: Analyzing Irony (Verbal, Situational, Dramatic).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "In active voice, the subject ___.",
+            "options": [
+              "Never appears in the sentence at all",
+              "Receives the action",
+              "Performs the action",
+              "A concept unrelated to voice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is written in passive voice?",
+            "options": [
+              "The cake was eaten by the dog.",
+              "The dog ate the cake.",
+              "The dog is eating the cake.",
+              "The dog will eat the cake."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An editorial or op-ed is written to ___.",
+            "options": [
+              "A concept unrelated to this type of writing",
+              "Report only neutral facts with no opinion at all",
+              "Tell a completely fictional story",
+              "Present a writer\u2019s opinion on a current issue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The denotation of a word refers to its ___.",
+            "options": [
+              "Literal, dictionary definition",
+              "Emotional associations or feelings it suggests",
+              "The grammatical mood it is expressed in",
+              "The number of syllables it has"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Sum of Interior Angles in Polygons; Geometry: Classifying Angles Formed by a Transversal; Direct and Partial Variation; Venn Diagrams and Set Notation in Probability.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What formula finds the sum of the interior angles of a polygon with n sides?",
+            "options": [
+              "(n minus 2) times 180 degrees",
+              "n times 90 degrees",
+              "(n plus 2) times 180 degrees",
+              "n times 180 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When a transversal crosses two parallel lines, angles that occupy matching corner positions are called ___.",
+            "options": [
+              "Corresponding angles",
+              "Complementary angles",
+              "Vertical angles",
+              "Adjacent angles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a transversal?",
+            "options": [
+              "A curved line with no straight sections",
+              "A single point where two lines meet",
+              "A line that never crosses any other line",
+              "A line that crosses two or more other lines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a direct variation relationship y = kx, if x doubles, what happens to y?",
+            "options": [
+              "y doubles",
+              "y stays the same",
+              "y is cut in half",
+              "y becomes zero"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Rock Cycle: Igneous, Sedimentary, Metamorphic; Science: Genetic Engineering: An Introduction; Circuits: Series and Parallel; Science: Earth and Space: Layers of the Earth.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Igneous rock forms when ___.",
+            "options": [
+              "Layers of sediment are compressed over time",
+              "Existing rock is transformed by heat and pressure alone",
+              "A process unrelated to igneous rock",
+              "Molten rock cools and solidifies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a series circuit, if one bulb burns out, what happens to the other bulbs?",
+            "options": [
+              "They all turn off, because the circuit is broken",
+              "They stay lit at the same brightness",
+              "They become brighter",
+              "Nothing changes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does genetic engineering allow scientists to do?",
+            "options": [
+              "A concept unrelated to biology",
+              "Only observe an organism from a distance",
+              "Nothing at all related to genes",
+              "Directly modify an organism\u2019s genes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which layer of the Earth lies directly beneath the crust and is made of mostly solid, slowly flowing rock?",
+            "options": [
+              "Mantle",
+              "Inner core",
+              "Outer core",
+              "Crust"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Rebellions of 1837-38 (Upper and Lower Canada); The Chinese Head Tax and Exclusion Act; The Komagata Maru Incident; The Industrial Revolution: Causes and Effects.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Rebellions of 1837-38 took place in ___.",
+            "options": [
+              "Western Canada",
+              "Upper and Lower Canada",
+              "The Maritime colonies",
+              "A region unrelated to the Rebellions of 1837-38"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Komagata Maru incident involved a ship of passengers, mostly from India, who were ___.",
+            "options": [
+              "Denied entry to Canada in 1914 due to discriminatory immigration laws",
+              "Welcomed into Canada with full citizenship immediately",
+              "Granted free land in Western Canada",
+              "Sent to fight in the Canadian military"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Chinese Head Tax was a policy that required ___.",
+            "options": [
+              "Chinese immigrants to pay a fee to enter Canada",
+              "A policy unrelated to the Chinese Head Tax",
+              "All immigrants entering Canada to pay an equal fee",
+              "Chinese immigrants to receive free passage to Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following was a major effect of the Industrial Revolution?",
+            "options": [
+              "Rapid urbanization as people moved to cities for factory jobs",
+              "A sharp decline in the use of machinery",
+              "A decrease in overall population",
+              "The end of all trade between countries"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Personal Narrative Essay; Media Literacy: Analyzing Advertising Techniques; Grammar: Modifiers and Misplaced Modifiers; Reading: Comparing Perspectives Across Texts; Review: Language Arts Days 51-60.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A personal narrative essay recounts ___.",
+            "options": [
+              "A concept unrelated to this type of writing",
+              "A meaningful experience from the writer\u2019s own life",
+              "A completely fictional story with no connection to the writer",
+              "Only factual, impersonal information with no story involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains a misplaced modifier?",
+            "options": [
+              "Running down the street, the tree came into view.",
+              "Running down the street, I saw the tree.",
+              "I saw the tree while running down the street.",
+              "The tree came into view as I ran down the street."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Emotional appeal in advertising works by ___.",
+            "options": [
+              "Triggering feelings, such as happiness or fear, to influence a decision",
+              "Avoiding any connection to the audience\u2019s emotions",
+              "A concept unrelated to advertising techniques",
+              "Presenting only neutral, unbiased facts with no persuasive intent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When comparing perspectives across two texts on the same topic, a reader should mainly focus on ___.",
+            "options": [
+              "How each author's viewpoint and supporting evidence differ",
+              "Only the page count of each text",
+              "The font used in each text",
+              "Ignoring any differences between the texts"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Volume of a Sphere; Weighted Averages; Math Review: Number Sense, Geometry, and Data Management; Financial Literacy: Understanding Payroll Deductions and Net Income; Number Sense: Comparing and Ordering Numbers in Scientific Notation.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What formula is used to find the volume of a sphere?",
+            "options": [
+              "Two-thirds times pi times the radius cubed",
+              "Pi times the radius squared times the height",
+              "Four-thirds times pi times the radius cubed",
+              "Four times pi times the radius squared"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An employee's gross pay is $800, and a total of $150 is withheld for taxes and deductions. What is their net income?",
+            "options": [
+              "$650",
+              "$950",
+              "$800",
+              "$150"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A weighted average differs from a simple average because it ___.",
+            "options": [
+              "Ignores every value except the highest one",
+              "A concept unrelated to weighted averages",
+              "Accounts for the varying importance, or weight, of each value",
+              "Treats every value in a data set with equal importance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following numbers is the largest?",
+            "options": [
+              "5.2 \u00d7 10^4",
+              "3.9 \u00d7 10^5",
+              "6.1 \u00d7 10^3",
+              "4.4 \u00d7 10^4"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Periodic Table: Trends and Organization; Science: Levers: The Three Classes and Their Mechanical Advantage; Biomes and Global Ecosystems; Energy Transformations and Conservation of Energy; Review: Days 51-60 Science Concepts.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The periodic table organizes elements by ___.",
+            "options": [
+              "A concept unrelated to the periodic table",
+              "Random order with no organizing pattern",
+              "Increasing atomic number",
+              "Alphabetical order of their names"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which step in water treatment is primarily used to remove harmful microorganisms from drinking water?",
+            "options": [
+              "Disinfection, such as adding chlorine",
+              "Evaporation",
+              "Freezing",
+              "Condensation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a lever?",
+            "options": [
+              "A concept unrelated to simple machines",
+              "A tool used only for cutting",
+              "A simple machine made of a rigid bar that pivots on a fulcrum",
+              "A machine that only spins in circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Mechanical advantage of a simple machine describes ___.",
+            "options": [
+              "How much a machine multiplies an applied force",
+              "The color of the machine's material",
+              "The exact weight of the machine itself",
+              "How many people are needed to operate it"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Canada\u2019s Role in NATO and International Alliances; The Rise and Fall of the Ottoman Empire; The Partition of India and Decolonization in South Asia; The Berlin Wall and a Divided Germany; Apartheid and the Fight for Equality in South Africa.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "NATO is an alliance of countries that agree to ___.",
+            "options": [
+              "Never cooperate with one another on any issue",
+              "Compete against each other militarily",
+              "Support one another for collective defence and security",
+              "A concept unrelated to international alliances"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Partition of India in 1947 resulted in the creation of ___.",
+            "options": [
+              "Two independent nations, India and Pakistan",
+              "A single unified nation with no internal borders",
+              "A return to full British colonial rule",
+              "Three separate nations: India, Pakistan, and Nepal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Ottoman Empire controlled large parts of ___.",
+            "options": [
+              "Only North America",
+              "The Middle East, North Africa, and southeastern Europe",
+              "A region unrelated to the Ottoman Empire",
+              "Only a single small city with no wider territory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Apartheid in South Africa was a system of ___.",
+            "options": [
+              "Institutionalized racial segregation and discrimination",
+              "Equal rights and opportunities for all citizens",
+              "Free elections open to every citizen",
+              "Economic cooperation between all racial groups"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Foreshadowing and Flashback; Writing: The Compare-and-Contrast Essay; Grammar: The Subjunctive Mood and Its Uses; Media Literacy: Understanding Algorithms and Filter Bubbles; Reading: Analyzing Allegory.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Foreshadowing is a literary technique in which ___.",
+            "options": [
+              "An author hints at events that will happen later in the story",
+              "A story never contains any hints about future events",
+              "A concept unrelated to foreshadowing",
+              "An author only describes events that already occurred"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In fiction, a flashback is best described as ___.",
+            "options": [
+              "A scene that interrupts the present action to show an earlier event",
+              "A hint about something that will happen later in the story",
+              "A summary of the story's ending placed at the beginning",
+              "A description of a character's physical appearance only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A compare-and-contrast essay examines ___.",
+            "options": [
+              "A concept unrelated to this essay type",
+              "Only the similarities between two subjects, with no differences",
+              "A single subject with no comparison involved",
+              "The similarities and differences between two subjects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A filter bubble, as discussed in media literacy, occurs when ___.",
+            "options": [
+              "An algorithm shows a person mostly content that matches their existing views",
+              "A website displays the exact same content to every user in the world",
+              "A person only reads printed newspapers instead of using the internet",
+              "An algorithm randomly selects content with no pattern at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Geometry: Volume of Triangular Prisms; Statistics: Mean, Median, Mode, and Range; Geometry: Surface Area of Cones; Financial Literacy: Currency Exchange and Unit Pricing; Probability: Theoretical vs Experimental Probability.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What shape is the base of a triangular prism?",
+            "options": [
+              "A pentagon",
+              "A circle",
+              "A square",
+              "A triangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the formula for the volume of a triangular prism, where B is the area of the triangular base and h is the prism's length?",
+            "options": [
+              "V = B \u00d7 h",
+              "V = (1/2) \u00d7 B \u00d7 h",
+              "V = 2 \u00d7 B \u00d7 h",
+              "V = B + h"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The mean of a data set is calculated by ___.",
+            "options": [
+              "Selecting only the highest value in the set",
+              "A concept unrelated to measures of central tendency",
+              "Adding all the values and dividing by the number of values",
+              "Selecting the value that appears most often"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A data set is: 3, 7, 7, 9, 14. What is the range of this data set?",
+            "options": [
+              "11",
+              "7",
+              "9",
+              "14"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Water Systems: Watersheds and the Water Cycle; Water Systems: Groundwater and Aquifers; Water Systems: Water Pollution and Conservation; Water Systems: Water Treatment and Purification Technology; Systems in Action: Simple Machines and Mechanical Advantage.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A watershed is best described as ___.",
+            "options": [
+              "A structure built specifically to store drinking water",
+              "A single isolated pond with no connection to surrounding land",
+              "A concept unrelated to watersheds",
+              "An area of land where all water drains into a common river, lake, or ocean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is a major source of water pollution?",
+            "options": [
+              "Chemical runoff from farms and factories entering rivers and lakes",
+              "Rainwater falling directly into the ocean",
+              "Groundwater slowly moving through rock layers",
+              "Water evaporating from a lake on a hot day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Groundwater is water that is stored ___.",
+            "options": [
+              "Beneath Earth\u2019s surface in soil and rock",
+              "A concept unrelated to groundwater",
+              "Only in rivers and lakes above the surface",
+              "Exclusively inside glaciers and ice caps"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of a simple machine used to gain a mechanical advantage?",
+            "options": [
+              "A lever, such as a crowbar prying up a heavy object",
+              "A battery powering a flashlight",
+              "A thermometer measuring temperature",
+              "A magnet attracting a paperclip"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Red River Resistance and the M\u00e9tis Nation; The Canadian Pacific Railway and Nation-Building; Residential Schools and Their Legacy; Canada\u2019s Peacekeeping Missions Abroad; The Marshall Plan and Post-War Reconstruction.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Red River Resistance was led primarily by ___.",
+            "options": [
+              "Louis Riel and the M\u00e9tis",
+              "British colonial troops",
+              "John A. Macdonald and the federal government",
+              "A group unrelated to the Red River Resistance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Canadian Pacific Railway was significant to Canadian nation-building mainly because it ___.",
+            "options": [
+              "Physically connected the country from coast to coast, encouraging settlement and trade",
+              "Ended all trade between Canada and other countries",
+              "Was built entirely without immigrant labour",
+              "Replaced the need for any provincial governments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Canadian Pacific Railway was completed in ___.",
+            "options": [
+              "1914",
+              "1867",
+              "A year unrelated to the Canadian Pacific Railway",
+              "1885"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The legacy of residential schools in Canada is most closely associated with ___.",
+            "options": [
+              "Long-term harm to Indigenous individuals, families, and cultures",
+              "A significant improvement in relations between Indigenous peoples and the government at the time",
+              "The strengthening of Indigenous languages across Canada",
+              "A policy that had no lasting effects on Indigenous communities"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Cover Letter and Resume; Vocabulary: Idioms and Figurative Expressions; Reading: Graphic Novels and Visual Storytelling; Grammar: Transitional Words and Cohesion.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A resume is a document that summarizes ___.",
+            "options": [
+              "A person\u2019s skills, experience, and education",
+              "A completely fictional account of a person\u2019s life",
+              "Only a person\u2019s personal opinions with no factual information",
+              "A concept unrelated to resumes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a cover letter when applying for a job?",
+            "options": [
+              "To list every job a person has ever held in exhaustive detail",
+              "To introduce the applicant and explain why they are a good fit for the position",
+              "To replace the need for a resume entirely",
+              "To provide a legal contract between employer and employee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An idiom is a phrase whose meaning ___.",
+            "options": [
+              "Never appears in everyday spoken or written language",
+              "Cannot be understood from the literal definitions of its individual words",
+              "A concept unrelated to idioms",
+              "Is always identical to its literal, word-for-word meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a transitional word to show a cause-and-effect relationship?",
+            "options": [
+              "She studied hard; therefore, she passed the exam.",
+              "She studied hard; however, she failed the exam.",
+              "She studied hard; meanwhile, she failed the exam.",
+              "She studied hard; likewise, she failed the exam."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Literal Equations (Formulas); Geometry: Congruence and Geometric Constructions; Geometry: Tessellations and Symmetry; Data Management: Box-and-Whisker Plots.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A literal equation is an equation that contains ___.",
+            "options": [
+              "Only a single numerical value with no variables",
+              "Multiple variables, often representing a formula",
+              "A concept unrelated to literal equations",
+              "No variables of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A tessellation is a pattern made of repeating shapes that covers a flat surface with ___.",
+            "options": [
+              "large gaps left between each shape",
+              "no gaps and no overlaps between shapes",
+              "shapes that overlap each other completely",
+              "only one shape used a single time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two figures are congruent if they have ___.",
+            "options": [
+              "A concept unrelated to congruence",
+              "The same shape but different sizes",
+              "Exactly the same size and shape",
+              "The same size but different shapes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a box-and-whisker plot, the line drawn inside the box represents the ___ of the data set.",
+            "options": [
+              "minimum value",
+              "mean",
+              "median",
+              "range"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Matter and Energy: Density and Buoyancy (Archimedes\u2019 Principle); Chemistry: Acids, Bases, and pH; Chemistry: Chemical vs Physical Changes; Astronomy: The Solar System and Planetary Motion.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Density is best described as ___.",
+            "options": [
+              "A concept unrelated to density",
+              "The amount of mass contained in a given volume",
+              "The temperature of an object\u2019s surroundings",
+              "The total weight of an object regardless of its size"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Archimedes' Principle, the buoyant force on an object placed in a fluid is equal to ___.",
+            "options": [
+              "the object's total weight",
+              "the weight of the fluid displaced by the object",
+              "the density of the fluid alone",
+              "the volume of the object only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On the pH scale, a value below 7 indicates ___.",
+            "options": [
+              "A concept unrelated to the pH scale",
+              "An acid",
+              "A base",
+              "A completely neutral substance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of a chemical change?",
+            "options": [
+              "Melting ice into water",
+              "Tearing a piece of paper",
+              "Rusting of an iron nail",
+              "Dissolving salt in water"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Review: Revolutions, Rights, and Global Change; Ancient India: The Indus Valley Civilization; West African Kingdoms: Mali, Ghana, and Songhai; Terry Fox and the Marathon of Hope.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Industrial Revolution brought major changes to how ___.",
+            "options": [
+              "A concept unrelated to this historical period",
+              "Countries interacted before any trade existed",
+              "Goods were produced and how people lived and worked",
+              "Ancient civilizations first began, thousands of years earlier"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The West African kingdom of Mali became famous largely due to its control of trade in ___.",
+            "options": [
+              "oil and diamonds",
+              "gold and salt",
+              "coffee and tea",
+              "silk and spices"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Indus Valley Civilization is known for its advanced ___.",
+            "options": [
+              "City planning, including organized streets and drainage systems",
+              "A concept unrelated to the Indus Valley Civilization",
+              "Complete absence of any cities or towns",
+              "Reliance on hunting and gathering, with no settled towns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Terry Fox's Marathon of Hope was primarily aimed at ___.",
+            "options": [
+              "promoting a new sport across Canada",
+              "raising money and awareness for cancer research",
+              "protesting a government policy change",
+              "celebrating Canada's centennial anniversary"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Days 61-69 Language Arts; Reading: Analyzing Mood and Tone; Writing: The Formal Business Letter and Email; Reading: Identifying and Analyzing Theme.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "When writing a formal email, what should you avoid using?",
+            "options": [
+              "Slang and casual abbreviations",
+              "Complete sentences",
+              "A clear subject line",
+              "A polite greeting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In literature, 'tone' refers to ___.",
+            "options": [
+              "the author's attitude toward the subject or audience",
+              "the physical setting of the story",
+              "the sequence of events in the plot",
+              "the number of characters in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mood in a text is best described as ___.",
+            "options": [
+              "The emotional atmosphere a reader feels while reading",
+              "The physical setting where a story takes place",
+              "A concept unrelated to mood",
+              "The exact number of characters in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The theme of a literary work is best defined as ___.",
+            "options": [
+              "a brief summary of the plot",
+              "the central message or underlying idea the author conveys",
+              "the name of the main character",
+              "the location where the story takes place"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Days 61-69 Math Concepts; Number Theory: Prime Factorization, GCF, and LCM; Algebra: Solving Systems of Equations by Graphing; Geometry: Volume and Surface Area of Composite Figures.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The midpoint formula finds ___.",
+            "options": [
+              "The point exactly halfway between two given coordinates",
+              "The slope of the line connecting two coordinates",
+              "The total distance between two given coordinates",
+              "A concept unrelated to the midpoint formula"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the greatest common factor (GCF) of 24 and 36?",
+            "options": [
+              "6",
+              "12",
+              "4",
+              "72"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Prime factorization expresses a number as ___.",
+            "options": [
+              "A concept unrelated to prime factorization",
+              "A product of prime numbers",
+              "A sum of consecutive integers",
+              "The square root of the original number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When solving a system of two linear equations by graphing, the solution to the system is represented by ___.",
+            "options": [
+              "the y-intercept of either line",
+              "the point where the two lines intersect",
+              "the slope of the first line",
+              "the x-intercept of the second line"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Days 61-69 Science Concepts; Structures and Mechanisms: Load, Stress, and Structural Strength; Chemistry: Elements, Compounds, and Mixtures; Earth and Space: Earth\u2019s Internal Layers and Heat Transfer.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a chemical reaction, which of the following is evidence that a new substance has formed?",
+            "options": [
+              "A color change, gas bubbles, or a temperature change",
+              "The mass of the reactants staying exactly the same",
+              "The substance turning into a liquid at room temperature",
+              "The object becoming heavier without any other change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A compound is formed when two or more elements ___.",
+            "options": [
+              "are simply placed near each other without reacting",
+              "chemically combine in a fixed ratio to form a new substance",
+              "are separated using physical methods only",
+              "remain unchanged and easily separable"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A load applied to a structure is best described as ___.",
+            "options": [
+              "A colour applied to the surface of a structure",
+              "A concept unrelated to structural load",
+              "A force the structure must support or withstand",
+              "A measurement of a structure\u2019s height only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Convection currents in Earth's mantle are driven mainly by heat coming from ___.",
+            "options": [
+              "the sun's radiation reaching the crust",
+              "the Earth's core",
+              "the atmosphere above the crust",
+              "ocean currents circulating heat"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Review: Days 61-69 Canadian History; The Klondike Gold Rush; Canada and the South African (Boer) War; The Maya Civilization: Innovation and Society.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "Historians rely on primary sources such as letters and photographs mainly because they ___.",
+            "options": [
+              "Come directly from the time period being studied",
+              "Are always completely unbiased",
+              "Are easier to understand than secondary sources",
+              "Were created specifically for students today"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada's involvement in the South African (Boer) War marked one of the first times Canada ___.",
+            "options": [
+              "declared full independence from Britain",
+              "sent troops to fight in a conflict outside North America",
+              "fought directly against the United States",
+              "refused to support any British military request"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Klondike Gold Rush took place primarily in ___.",
+            "options": [
+              "Southern Ontario",
+              "A region unrelated to the Klondike Gold Rush",
+              "The Yukon",
+              "Nova Scotia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Maya civilization is well known for developing an advanced ___.",
+            "options": [
+              "system of writing and a complex calendar",
+              "network of paved highways spanning two continents",
+              "form of government based on direct democracy",
+              "navy that controlled trade across the Pacific Ocean"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Fact-Checking and Source Verification; Reading: Unreliable Narrators in Fiction; Vocabulary: Synonyms, Antonyms, and Shades of Meaning; Writing: The Instructional Guide (Procedural Writing).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Fact-checking involves ___.",
+            "options": [
+              "Sharing information immediately with no review",
+              "A concept unrelated to fact-checking",
+              "Verifying claims against reliable, independent sources",
+              "Accepting every claim without question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word pair shows a subtle difference in shades of meaning, rather than being opposites?",
+            "options": [
+              "\"happy\" and \"ecstatic\"",
+              "\"hot\" and \"cold\"",
+              "\"up\" and \"down\"",
+              "\"big\" and \"small\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An unreliable narrator is a storyteller whose ___.",
+            "options": [
+              "Credibility is compromised, requiring readers to question their account",
+              "A concept unrelated to unreliable narrators",
+              "Account is always completely accurate and trustworthy",
+              "Perspective is identical to every other character in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An instructional guide (procedural writing) is primarily organized to ___.",
+            "options": [
+              "persuade the reader to agree with an opinion",
+              "walk the reader through steps in a clear, sequential order",
+              "describe a character's emotional journey",
+              "compare two unrelated topics side by side"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data Management: Two-Way Tables and Conditional Frequency; Financial Literacy: Percent Change, Markup, and Discount; Probability: Independent and Dependent Events; Geometry: Finding the Midpoint and Length of a Line Segment.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A two-way table organizes data by ___.",
+            "options": [
+              "A concept unrelated to two-way tables",
+              "A single variable displayed in one row only",
+              "Numerical data with no categories involved",
+              "Two categorical variables displayed in rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rolling a die and then flipping a coin are examples of ___ events, because the outcome of one does not affect the outcome of the other.",
+            "options": [
+              "dependent",
+              "independent",
+              "mutually exclusive",
+              "complementary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Percent change describes ___.",
+            "options": [
+              "The exact dollar amount of an item with no percentage involved",
+              "A value that never changes regardless of price adjustments",
+              "A concept unrelated to percent change",
+              "How much a value has increased or decreased relative to its original amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the length of the line segment connecting the points (0, 0) and (3, 4)?",
+            "options": [
+              "5",
+              "7",
+              "12",
+              "3.5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: The Greenhouse Effect and Global Warming; Science: Volcanoes and Earthquakes \u2014 Forces Beneath Earths Surface; Environmental Science: The Carbon Cycle and the Greenhouse Effect; Space Science: The Phases of the Moon and Eclipses.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the greenhouse effect do?",
+            "options": [
+              "A concept unrelated to Earth science",
+              "Cools Earth\u2019s surface rapidly",
+              "Removes all heat from the atmosphere",
+              "Traps heat from the sun near Earth\u2019s surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which process moves carbon from the atmosphere into living things during the carbon cycle?",
+            "options": [
+              "Respiration",
+              "Photosynthesis",
+              "Combustion",
+              "Decomposition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can cause a volcano to erupt?",
+            "options": [
+              "Wind blowing across land",
+              "Ocean tides",
+              "Pressure and molten rock beneath the surface",
+              "Rain falling from clouds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The changing phases of the Moon are caused primarily by ___.",
+            "options": [
+              "the Moon's changing distance from the Sun",
+              "the changing angle at which we view the sunlit half of the Moon",
+              "the Moon passing through Earth's shadow every night",
+              "clouds on Earth blocking part of the Moon"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The French Revolution: Causes and Impact; The Canadian Charter of Rights and Freedoms; The M\u00e9tis Nation and the Red River Resistance; The Great Depression in Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "A major cause of the French Revolution was ___.",
+            "options": [
+              "Widespread inequality and a financial crisis affecting the country",
+              "An agreement between all social classes with no conflict",
+              "A period with no economic or social problems at all",
+              "A concept unrelated to the French Revolution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Red River Resistance occurred largely in response to the Canadian government's plans to ___.",
+            "options": [
+              "grant full independence to the M\u00e9tis Nation",
+              "take over M\u00e9tis lands and territory without consulting local residents",
+              "build a railway through Indigenous territory in British Columbia",
+              "implement the Indian Act for the first time in Manitoba"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Charter of Rights and Freedoms is best described as ___.",
+            "options": [
+              "A set of rules that apply only to elected officials",
+              "A part of Canada\u2019s Constitution that guarantees fundamental rights and freedoms",
+              "A concept unrelated to Canadian rights",
+              "A document with no legal significance in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During the Great Depression in Canada, one major economic hardship was ___.",
+            "options": [
+              "skyrocketing employment and rising wages nationwide",
+              "widespread unemployment and severe drops in income",
+              "an oversupply of jobs in the manufacturing sector",
+              "a period of rapid economic growth and prosperity"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Direct and Indirect Characterization; Grammar: Sentence Fragments and Run-on Sentences; Review: Days 71-79 Language Arts; Reading: Analyzing Anti-Heroes in Literature; Grammar: Verbals (Gerunds, Participles, and Infinitives).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Direct characterization occurs when an author ___.",
+            "options": [
+              "Only reveals traits through a character\u2019s actions",
+              "Never describes a character in any way",
+              "A concept unrelated to direct characterization",
+              "Explicitly states a character\u2019s traits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Indirect characterization reveals a character's traits mainly through ___.",
+            "options": [
+              "the narrator directly stating the character's personality",
+              "a character's actions, dialogue, and interactions with others",
+              "a list of adjectives provided at the story's beginning",
+              "footnotes explaining the character's background"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A sentence fragment is an incomplete sentence that is missing ___.",
+            "options": [
+              "A subject, verb, or complete thought",
+              "Only a title at the beginning",
+              "A concept unrelated to sentence fragments",
+              "A specific number of words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence \"Swimming is her favorite hobby,\" the word \"Swimming\" is functioning as a ___.",
+            "options": [
+              "gerund acting as the subject of the sentence",
+              "participle modifying a noun",
+              "infinitive expressing purpose",
+              "run-on sentence connector"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Calculating Expected Value; Statistics: Line of Best Fit \u2014 Interpolation and Extrapolation; Review: Days 71-79 Math Concepts; Data Management: Quartiles and Interquartile Range; Data Management: Introduction to Scatter Plots.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does expected value represent?",
+            "options": [
+              "A value that has no connection to probability",
+              "The largest possible outcome in an experiment",
+              "The average outcome of an experiment if it were repeated many times",
+              "The single outcome that will always occur every time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For the data set 2, 4, 5, 7, 9, 12, 15, what is the interquartile range (IQR)?",
+            "options": [
+              "8",
+              "13",
+              "5",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line of best fit is used to ___.",
+            "options": [
+              "A concept unrelated to lines of best fit",
+              "Connect every single data point exactly with no approximation",
+              "Approximate the overall trend shown in a scatter plot",
+              "Remove all the data points from a scatter plot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a scatter plot, a strong positive correlation between two variables is shown when the points ___.",
+            "options": [
+              "form a cluster with no clear pattern",
+              "trend upward from left to right",
+              "trend downward from left to right",
+              "form a perfectly horizontal line"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Technology: 3D Printing and Additive Manufacturing; Groundwater and Aquifers; Review: Days 71-79 Science Concepts; Science: Groundwater and Aquifers; Kinetic and Potential Energy.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "3D printing is also known as ___.",
+            "options": [
+              "Subtractive manufacturing",
+              "Additive manufacturing",
+              "Traditional casting",
+              "A concept unrelated to 3D printing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An aquifer is best described as ___.",
+            "options": [
+              "a layer of rock or sediment that can store and transmit groundwater",
+              "a large body of saltwater found only in oceans",
+              "a man-made pipe system used to deliver drinking water",
+              "a cloud formation that produces rain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is groundwater?",
+            "options": [
+              "Water in the ocean only",
+              "Water in a swimming pool",
+              "Water in the clouds",
+              "Water that soaks into the ground and collects underground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A ball held at the top of a hill has mostly ___ energy, which converts to ___ energy as it rolls down.",
+            "options": [
+              "kinetic; potential",
+              "potential; kinetic",
+              "thermal; chemical",
+              "chemical; nuclear"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Space Race: Cold War Competition; Social Studies: Urbanization: The Growth of Megacities; Social Studies: The Truth and Reconciliation Commission of Canada; Social Studies: Ancient Nubia: Kingdoms Along the Nile; Social Studies: The Structure and Role of the Canadian Senate.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What was the Space Race?",
+            "options": [
+              "A concept unrelated to history",
+              "A modern car racing competition",
+              "A sporting event held on the Moon",
+              "A period of competition to achieve milestones in space exploration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Truth and Reconciliation Commission of Canada was established mainly to ___.",
+            "options": [
+              "investigate the history and impact of the residential school system on Indigenous peoples",
+              "resolve border disputes between Canada and the United States",
+              "oversee the construction of new Canadian infrastructure",
+              "manage Canada's involvement in international trade agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is urbanization?",
+            "options": [
+              "The growth of cities as more people move from rural areas",
+              "The shrinking of cities over time",
+              "A concept unrelated to geography",
+              "The growth of rural farmland only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the Canadian Parliament, members of the Senate are ___.",
+            "options": [
+              "elected directly by the public every four years",
+              "appointed rather than elected",
+              "chosen exclusively by provincial premiers",
+              "limited to serving a single one-year term"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Multiple-Meaning Words and Context Clues; Vocabulary: Portmanteau Words and Blends; Writing: The Persuasive Review.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a \"multiple-meaning word\"?",
+            "options": [
+              "A word that is spelled differently but sounds the same as another word",
+              "A single word that has two or more distinct meanings",
+              "A word made by combining two shorter words",
+              "A word borrowed from another language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence \"The pitcher struck out three batters in a row,\" which words give a context clue that \"pitcher\" refers to a baseball player rather than a container for liquid?",
+            "options": [
+              "struck out three batters",
+              "in a row",
+              "The",
+              "three"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a portmanteau word combine to create a new word?",
+            "options": [
+              "Only the sounds of one single word",
+              "The sounds and meanings of two existing words",
+              "A concept unrelated to vocabulary",
+              "Two completely unrelated random sounds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A strong persuasive review of a movie or product should mainly include what?",
+            "options": [
+              "A clear opinion supported by specific reasons and evidence",
+              "Only a plot summary with no personal opinion",
+              "A list of unrelated products for sale",
+              "A set of step-by-step assembly instructions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Exponent Laws \u2014 Multiplying and Dividing Powers; Probability: Probability of Independent Events; Number Sense: Estimating Square Roots.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What rule applies when multiplying two powers with the same base?",
+            "options": [
+              "The exponents are added together",
+              "The exponents are subtracted from each other",
+              "The exponents are multiplied together",
+              "The bases are added together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the exponent law for dividing powers with the same base, what is x^7 divided by x^3?",
+            "options": [
+              "x^4",
+              "x^10",
+              "x^21",
+              "x^3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for two events to be independent?",
+            "options": [
+              "Independent events can never both occur",
+              "One event always causes the other to happen",
+              "The two events always happen at the exact same time",
+              "The outcome of one event does not affect the other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A coin is flipped and a fair six-sided die is rolled at the same time. What is the probability of getting heads on the coin AND a 6 on the die?",
+            "options": [
+              "1/12",
+              "1/8",
+              "1/6",
+              "1/2"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Marine Biology: Coral Reef Ecosystems; Watersheds and Drainage Basins; DNA \u2014 The Blueprint of Life.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "A concept unrelated to marine biology",
+              "Sand carried by ocean currents",
+              "Large rocks that fall from cliffs",
+              "Colonies of tiny coral organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is DNA's primary role inside a living cell?",
+            "options": [
+              "It carries the genetic instructions for growth and function",
+              "It provides energy for muscle movement",
+              "It transports oxygen through the bloodstream",
+              "It breaks down food during digestion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a watershed?",
+            "options": [
+              "A body of water with no connection to surrounding land",
+              "A type of underground cave system",
+              "A device used to measure rainfall",
+              "An area of land where all surface water drains into a common body of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a major threat to coral reef ecosystems caused by rising ocean temperatures?",
+            "options": [
+              "Coral bleaching",
+              "Increased coral growth rate",
+              "Decreased salinity of seawater",
+              "Formation of new watersheds"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Spread of World Religions Through Trade and Migration; Social Studies: Ancient Persia: The Achaemenid Empire; Social Studies: The October Crisis and the War Measures Act.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "Name one way that world religions have historically spread to new regions.",
+            "options": [
+              "Trade routes",
+              "Only through modern air travel",
+              "Religions have never spread anywhere",
+              "A concept unrelated to religious history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What Canadian federal law did the government invoke during the October Crisis of 1970?",
+            "options": [
+              "The War Measures Act",
+              "The Constitution Act",
+              "The Multiculturalism Act",
+              "The Official Languages Act"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Achaemenid Empire?",
+            "options": [
+              "A modern country in North America",
+              "One of the largest empires in the ancient world, centred in ancient Persia",
+              "A concept unrelated to ancient history",
+              "A small city-state with no influence beyond its borders"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who founded the Achaemenid Empire in ancient Persia?",
+            "options": [
+              "Cyrus the Great",
+              "Julius Caesar",
+              "Alexander the Great",
+              "Hammurabi"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Op-Ed Rebuttal; Media Literacy: Analyzing Deepfakes and Digital Manipulation; Grammar: The Passive Voice in Scientific Writing; Reading: Analyzing Plot Structure.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does an op-ed rebuttal respond to?",
+            "options": [
+              "A math textbook",
+              "A concept unrelated to writing",
+              "A recipe for baking bread",
+              "Another published opinion piece"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is written in the passive voice, a style often used in scientific writing?",
+            "options": [
+              "The solution was heated to 100 degrees Celsius.",
+              "The scientist heated the solution to 100 degrees Celsius.",
+              "Heat the solution to 100 degrees Celsius.",
+              "The scientist is heating the solution."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a deepfake?",
+            "options": [
+              "A completely unedited, original recording",
+              "A traditional printed newspaper article",
+              "A concept unrelated to media literacy",
+              "A digitally altered video or image"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the plot structure of a story, what is the term for the turning point of highest tension?",
+            "options": [
+              "Climax",
+              "Exposition",
+              "Resolution",
+              "Falling action"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Systems of Two Linear Equations by Graphing; Data Management: Calculating Percentiles in a Data Set; Probability: Conditional Probability and Real-World Applications; Geometry: Exterior Angles of Polygons.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the point of intersection of two graphed lines represent in a system of equations?",
+            "options": [
+              "The starting point of the first line only",
+              "The steepest point on either line",
+              "A point that satisfies neither equation",
+              "The solution that satisfies both equations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the sum of the exterior angles of any convex polygon, one measured at each vertex?",
+            "options": [
+              "360 degrees",
+              "180 degrees",
+              "90 degrees",
+              "720 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a percentile indicate about a value in a data set?",
+            "options": [
+              "The exact average of the entire data set",
+              "The percentage of values in the data set that fall below it",
+              "The total number of values in the data set",
+              "The largest value found anywhere in the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A bag contains 5 red marbles and 3 blue marbles. A red marble is drawn first and not replaced. What is the probability that the second marble drawn is also red?",
+            "options": [
+              "4/7",
+              "5/8",
+              "5/7",
+              "3/7"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Renewable Materials: Bioplastics; Homeostasis \u2014 How the Body Maintains Balance; Rust and Corrosion \u2014 A Chemical Reaction; Science: The Chemistry of Batteries and Energy Storage.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are bioplastics made from?",
+            "options": [
+              "Only metal and glass",
+              "A concept unrelated to materials science",
+              "Renewable sources, such as corn starch or sugarcane",
+              "Only petroleum, just like traditional plastic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of chemical reaction causes iron to rust when exposed to oxygen and moisture?",
+            "options": [
+              "Oxidation",
+              "Photosynthesis",
+              "Fermentation",
+              "Sublimation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is homeostasis?",
+            "options": [
+              "The process by which the body grows taller over time",
+              "A type of cell found only in the brain",
+              "The process by which the body maintains a stable internal environment",
+              "A disease that affects the immune system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of chemical reaction occurs inside a battery to produce electrical energy?",
+            "options": [
+              "A reduction-oxidation (redox) reaction",
+              "A photosynthetic reaction",
+              "A nuclear fission reaction",
+              "A simple physical melting process"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: Japanese Canadian Internment During World War II; Social Studies: The Auditor General \u2014 Watching How Government Spends Money; Social Studies: The Magna Cartas Influence on Canadian Law; Social Studies: The Komagata Maru Incident.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "During which conflict were Japanese Canadians forcibly interned by the Canadian government?",
+            "options": [
+              "World War I",
+              "A concept unrelated to Canadian history",
+              "World War II",
+              "The Cold War"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What principle from the Magna Carta continues to influence Canadian law today?",
+            "options": [
+              "The idea that no one, including the government, is above the law",
+              "The requirement that all citizens must pay equal taxes",
+              "The rule that only nobles can vote",
+              "The establishment of a national currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Auditor Generals main job?",
+            "options": [
+              "Teaching in schools",
+              "Reviewing how the government spends public money",
+              "Managing a hospital",
+              "Running a business"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Komagata Maru incident?",
+            "options": [
+              "A ship of passengers from India who were denied entry into Canada in 1914",
+              "A Canadian naval victory in World War I",
+              "A trade agreement between Canada and Japan",
+              "A famous Canadian railway construction project"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Recognizing Bias in News Reporting; Grammar: Correlative Conjunctions; Writing: The Elegy and Tribute Writing; Grammar: Appositives and Nonrestrictive Elements.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does \"bias\" mean in the context of a news report?",
+            "options": [
+              "A completely neutral, fact-only account with no perspective",
+              "The length of an article in words",
+              "A leaning or slant toward a particular viewpoint that can shape how information is presented",
+              "A type of headline font"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary purpose of an elegy?",
+            "options": [
+              "To mourn and honor someone who has died",
+              "To persuade readers to buy a product",
+              "To give step-by-step instructions",
+              "To report breaking news events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a correlative conjunction?",
+            "options": [
+              "A word that replaces a noun",
+              "A pair of conjunctions that work together to connect balanced sentence elements (e.g., either...or)",
+              "A punctuation mark used before a quotation",
+              "A single word that joins two independent clauses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains an appositive that renames the noun before it?",
+            "options": [
+              "My teacher, Mrs. Lopez, assigned extra homework.",
+              "My teacher assigned extra homework quickly.",
+              "My teacher, who teaches math, assigned homework.",
+              "My teacher assigned homework and then left."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Multiplying and Dividing Numbers in Scientific Notation; Math Review: The Final Chapter \u2014 Number Systems, Geometry, and Probability; Adding and Subtracting Integers; Multiplying and Dividing Integers.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "When multiplying two numbers in scientific notation, what happens to the exponents on the powers of ten?",
+            "options": [
+              "They stay exactly the same",
+              "They are multiplied together",
+              "They are subtracted",
+              "They are added together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the sum of -8 and 5?",
+            "options": [
+              "-3",
+              "3",
+              "-13",
+              "13"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does modular arithmetic calculate?",
+            "options": [
+              "The square root of a number",
+              "The average of a list of numbers",
+              "The sum of two numbers",
+              "The remainder after dividing one number by another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the sign of the result when you divide a negative integer by a negative integer?",
+            "options": [
+              "Positive",
+              "Negative",
+              "Zero",
+              "Undefined"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Introduction to Cells \u2014 The Basic Building Blocks of Living Things; Science: Volcanoes and Types of Volcanic Eruptions; Science: Types of Volcanoes \u2014 Shield, Cinder Cone, and Composite; Science: The Water Table and Aquifer Recharge.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are cells?",
+            "options": [
+              "A type of rock",
+              "A type of weather pattern",
+              "A form of energy",
+              "The basic building blocks of living things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of volcano is characterized by a broad, gently sloping profile built from low-viscosity lava flows?",
+            "options": [
+              "Shield volcano",
+              "Cinder cone volcano",
+              "Composite volcano",
+              "Caldera"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a volcano?",
+            "options": [
+              "An opening in Earth\u2019s crust where molten rock, gas, and ash can escape",
+              "A concept unrelated to earth science",
+              "A large flat area with no geological activity",
+              "A type of cloud formation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the water table?",
+            "options": [
+              "The upper boundary of the underground zone that is saturated with water",
+              "A device for measuring rainfall",
+              "A large body of surface water",
+              "The layer of bedrock beneath all soil"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Avro Arrow \u2014 A Canadian Aviation Story; Social Studies: The Halifax Explosion; Confederation: How Canada Became a Country; Social Studies: The Canadian Pacific Railway and Nation-Building.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What was the Avro Arrow?",
+            "options": [
+              "An advanced Canadian-designed fighter jet",
+              "A famous Canadian ship",
+              "A type of Canadian passenger train",
+              "A Canadian currency design"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did Canadian Confederation take place, uniting the original provinces into the Dominion of Canada?",
+            "options": [
+              "1867",
+              "1812",
+              "1901",
+              "1776"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What caused the Halifax Explosion?",
+            "options": [
+              "A volcanic eruption near the city",
+              "A collision between two ships, one carrying wartime explosives",
+              "An accidental fire in a forest",
+              "A severe earthquake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was one major goal of building the Canadian Pacific Railway?",
+            "options": [
+              "To physically and economically unite Canada from coast to coast",
+              "To connect Canada to the United Kingdom by an underwater tunnel",
+              "To replace all water transportation in Canada",
+              "To serve only as a tourist attraction"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Neologisms and Language Change; Vocabulary: Academic Vocabulary in Context; Media Literacy: Evaluating Sponsored Content and Native Advertising; Writing: Worldbuilding in Speculative Fiction.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a neologism?",
+            "options": [
+              "A word that has existed unchanged for centuries",
+              "A newly coined word or expression",
+              "A concept unrelated to vocabulary",
+              "A grammatical rule with no connection to words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Native advertising is designed mainly to:",
+            "options": [
+              "Look like normal articles or content while actually promoting a product or sponsor",
+              "Warn readers that a website is untrustworthy",
+              "Provide unbiased news coverage with no sponsor involvement",
+              "Block advertisements from appearing on a webpage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "General academic vocabulary words are best described as:",
+            "options": [
+              "Slang words used mainly online",
+              "Highly technical words used only in one specific subject, like \"photosynthesis\"",
+              "General academic words that appear across many subjects and are useful for precise, formal writing (e.g., \"analyze,\" \"significant\")",
+              "Common, everyday words used only in casual conversation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In speculative fiction, 'worldbuilding' refers to:",
+            "options": [
+              "The author's process of creating the rules, history, and setting of an invented world",
+              "Editing a manuscript for spelling and grammar errors",
+              "Choosing which font a book will be printed in",
+              "Summarizing a story in one sentence for a book jacket"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: The Fibonacci Sequence and the Golden Ratio; Probability Trees and Multi-Stage Events; Order of Operations with Integers; Adding and Subtracting Fractions with Unlike Denominators.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In the Fibonacci sequence, how is each new number formed?",
+            "options": [
+              "By subtracting the previous two numbers",
+              "By multiplying the previous number by 2",
+              "By adding the two numbers before it",
+              "A concept unrelated to the Fibonacci sequence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "-3 + 4 \u00d7 (-2) - (-6) = ?",
+            "options": [
+              "-5",
+              "-17",
+              "11",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a probability tree diagram map out?",
+            "options": [
+              "The average of a set of numbers",
+              "All possible outcomes of a multi-stage event",
+              "Only a single outcome with no branches",
+              "A concept unrelated to probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "3/4 - 1/6 = ?",
+            "options": [
+              "7/12",
+              "2/12",
+              "1/2",
+              "5/12"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Osmosis and Diffusion in Cells; Science: Cellular Respiration \u2014 How Cells Release Energy; Science: The Doppler Effect and Changes in Sound; Science: Symbiosis: Mutualism, Commensalism, and Parasitism.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "The movement of particles from low to high concentration only",
+              "The complete stopping of particle movement",
+              "A process that only happens outside of living cells",
+              "The movement of particles from an area of higher concentration to lower concentration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As an ambulance siren approaches you, its pitch sounds higher, and as it moves away, its pitch sounds lower. This change is an example of:",
+            "options": [
+              "The Doppler effect",
+              "Osmosis",
+              "Cellular respiration",
+              "Symbiosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does cellular respiration break down to release energy?",
+            "options": [
+              "Oxygen only",
+              "Water only",
+              "Glucose",
+              "Carbon dioxide only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In parasitism, how is the relationship between the two organisms best described?",
+            "options": [
+              "Both organisms benefit equally",
+              "One organism benefits while the other is harmed",
+              "Neither organism is affected",
+              "One organism benefits while the other is unaffected"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Clifford Sifton and the Settlement of the Canadian Prairies; Social Studies: The Chinese Head Tax \u2014 A Chapter in Canadian Immigration History; Social Studies: The Quebec Referendums and Canadian National Unity; Sir John A Macdonald: Canadas First Prime Minister.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What government position did Clifford Sifton hold?",
+            "options": [
+              "Minister of the Interior",
+              "A concept unrelated to Canadian history",
+              "Governor General",
+              "Prime Minister"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main issue decided in the 1980 and 1995 Quebec referendums?",
+            "options": [
+              "Whether Quebec would separate from Canada",
+              "Whether Quebec would adopt English as its official language",
+              "Whether Quebec would join the United States",
+              "Whether Quebec would abolish its provincial government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Chinese Head Tax?",
+            "options": [
+              "A tax paid by all Canadian citizens equally",
+              "A type of import tax on goods from China",
+              "A fee imposed on Chinese immigrants entering Canada",
+              "A reward given to new immigrants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sir John A. Macdonald is best known in Canadian history as:",
+            "options": [
+              "Canada's first Prime Minister",
+              "The founder of the Chinese Head Tax",
+              "Canada's first Governor General",
+              "The leader of the Quebec sovereignty movement"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Subordinate Clauses and Complex Sentences; Reading: Analyzing Motif and Recurring Imagery; Review: Language Arts and Grammar (Days 91-99); Reading: Analyzing Round and Flat Characters.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Can a subordinate clause stand alone as a complete sentence?",
+            "options": [
+              "No",
+              "Subordinate clauses never contain a subject or verb",
+              "Yes, a subordinate clause is always a complete sentence on its own",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a subordinate clause?",
+            "options": [
+              "Because it was raining, we stayed inside.",
+              "The dog barked loudly.",
+              "She ran and jumped.",
+              "The cat slept all day."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a motif?",
+            "options": [
+              "A recurring image, symbol, or idea in a text",
+              "A single event that happens only once in a story",
+              "A concept unrelated to reading",
+              "The title of a book with no deeper meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A 'round' character in a story is best described as one who:",
+            "options": [
+              "Has a complex personality and undergoes meaningful development",
+              "Serves only a minor, one-dimensional role",
+              "Never appears more than once in the text",
+              "Represents a single trait with no change"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Multiplying Fractions; Dividing Fractions; Multiplying and Dividing Decimals; Ratios and Unit Rates.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "2/3 \u00d7 3/5 = ?",
+            "options": [
+              "2/5",
+              "5/6",
+              "3/5",
+              "6/8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "0.6 \u00d7 0.3 = ?",
+            "options": [
+              "0.18",
+              "1.8",
+              "0.9",
+              "0.018"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "3/4 \u00f7 1/2 = ?",
+            "options": [
+              "3/2",
+              "2/3",
+              "1/8",
+              "3/8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A car travels 240 miles in 4 hours. What is its unit rate?",
+            "options": [
+              "60 miles per hour",
+              "40 miles per hour",
+              "80 miles per hour",
+              "240 miles per hour"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Weather Fronts and Air Masses; Science: The Science of Sleep and Circadian Rhythms; Review: Earth Science, Human Biology, and Technology (Days 91-99); Science: Fermentation \u2014 How Microorganisms Transform Food.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an air mass?",
+            "options": [
+              "A single small cloud with no size at all",
+              "A type of ocean current",
+              "A concept unrelated to earth science",
+              "A large body of air with fairly uniform temperature and humidity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A cold front occurs when:",
+            "options": [
+              "A cold air mass moves in and pushes under a warmer air mass, forcing it upward",
+              "Two air masses of the same temperature meet and mix evenly",
+              "A warm air mass overtakes and rises above a cooler air mass",
+              "No air masses are present in the atmosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a circadian rhythm?",
+            "options": [
+              "A type of external weather pattern",
+              "An internal, roughly 24-hour biological clock",
+              "A device used to measure temperature",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During fermentation, microorganisms such as yeast break down sugars mainly to produce:",
+            "options": [
+              "Alcohol or acids, along with carbon dioxide, without using oxygen",
+              "Pure oxygen gas only",
+              "Large amounts of water only",
+              "Glucose molecules from carbon dioxide"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Bluenose and Maritime Canadian Identity; Social Studies: The Canadian Bill of Rights of 1960; Social Studies: The Official Languages Act and Bilingualism in Canada; Social Studies: The Battle of Vimy Ridge and Canadian Identity.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In what year was the Bluenose built?",
+            "options": [
+              "1867",
+              "1945",
+              "1921",
+              "1970"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the main purpose of the Official Languages Act in Canada?",
+            "options": [
+              "To establish English and French as Canada's official languages at the federal level",
+              "To make French the only official language of Canada",
+              "To ban the use of Indigenous languages in schools",
+              "To require all provinces to become officially bilingual"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Canadian Bill of Rights passed?",
+            "options": [
+              "1960",
+              "1867",
+              "1982",
+              "1929"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Battle of Vimy Ridge is often seen as significant in Canadian history because:",
+            "options": [
+              "It is often viewed as a moment that helped forge a distinct sense of Canadian national identity",
+              "It was the first battle fought entirely by American troops",
+              "It ended Canada's involvement in World War I",
+              "It resulted in Canada losing its status as a British dominion"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Memoir; Grammar: Perfect and Progressive Verb Tenses; Vocabulary: Loanwords and Borrowed Terms; Media Literacy: Analyzing Product Placement and Branded Content.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a memoir?",
+            "options": [
+              "A fictional story with invented characters and events",
+              "A concept unrelated to writing",
+              "A set of instructions for completing a task",
+              "A nonfiction narrative in which a writer recounts personal experiences and reflects on their meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A 'loanword' is best defined as:",
+            "options": [
+              "A word borrowed from another language and adopted into everyday use, such as \"kindergarten\" from German",
+              "A word that has been shortened to make an acronym",
+              "A word invented purely for advertising purposes",
+              "A grammatical term with no connection to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a perfect tense typically show?",
+            "options": [
+              "A question rather than a statement",
+              "A completed action relative to another point in time",
+              "An action that will never happen",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In media, 'product placement' refers to:",
+            "options": [
+              "A brand's product being deliberately featured within a movie, TV show, or other content",
+              "A written advertisement that appears in a newspaper's classified section",
+              "A product being blocked from broadcasted media entirely",
+              "A government warning label required on packaging"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Percent of a Number; Percent Problems: Finding the Whole; Scientific Notation; Square Roots of Perfect Squares.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is 25% of 160?",
+            "options": [
+              "45",
+              "30",
+              "40",
+              "35"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following correctly expresses 4,500,000 in scientific notation?",
+            "options": [
+              "4.5 \u00d7 10^6",
+              "4.5 \u00d7 10^5",
+              "4.5 \u00d7 10^7",
+              "4.5 \u00d7 10^4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "40 is 25% of what number?",
+            "options": [
+              "140",
+              "160",
+              "120",
+              "100"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is \u221a81?",
+            "options": [
+              "9",
+              "8",
+              "18",
+              "6.5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: How Refrigerators and Heat Pumps Move Heat; Science: The Ozone Layer and Atmospheric Protection; Science: Classification of Living Things (Taxonomy); Science: The Maillard Reaction \u2014 The Chemistry of Browning Food.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a refrigerator remove from the inside of its compartment?",
+            "options": [
+              "Heat",
+              "Light",
+              "Cold air only",
+              "Sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the standard biological classification system, which of these levels groups the broadest range of organisms together?",
+            "options": [
+              "Kingdom",
+              "Species",
+              "Genus",
+              "Family"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the ozone layer absorb?",
+            "options": [
+              "A concept unrelated to earth science",
+              "All visible light from the sun",
+              "Most of Earth\u2019s oxygen supply",
+              "Most of the sun\u2019s harmful ultraviolet radiation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Maillard reaction is responsible for:",
+            "options": [
+              "The browning and flavor development that occurs when proteins and sugars react under heat, as in toasted bread or seared meat",
+              "The process by which plants convert sunlight into chemical energy",
+              "The freezing of water into ice crystals",
+              "The breakdown of glucose to release energy without oxygen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Alaska Boundary Dispute of 1903; Social Studies: The Printing Press and the Spread of Ideas in Europe; Social Studies: The Great Wall of China \u2014 Construction and Purpose; The Naval Service Act of 1910 and the Creation of the Royal Canadian Navy.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In what year was the Alaska Boundary Dispute settled?",
+            "options": [
+              "1867",
+              "1970",
+              "1945",
+              "1903"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was a primary purpose of the Great Wall of China?",
+            "options": [
+              "To defend against invasions and raids from northern groups",
+              "To serve as a trade route connecting Europe and Asia",
+              "To provide irrigation for farmland",
+              "To mark the boundary of the Roman Empire"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the printing press allow people to do?",
+            "options": [
+              "Produce books and documents quickly and affordably",
+              "Travel between countries more quickly",
+              "Communicate instantly across long distances",
+              "Build large stone monuments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Naval Service Act of 1910 establish?",
+            "options": [
+              "The Royal Canadian Navy",
+              "Canada's first national police force",
+              "The border between Canada and Alaska",
+              "Canada's first official national anthem"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Setting as a Literary Device; Writing: The Feature Article; Grammar: Coordinating Conjunctions and Compound Sentences; Reading: Analyzing Suspense and Tension in Narrative.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does setting refer to in a story?",
+            "options": [
+              "The main character\u2019s personality traits",
+              "A concept unrelated to reading",
+              "The title and author of a story",
+              "The time and place in which a story occurs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses a coordinating conjunction to form a compound sentence?",
+            "options": [
+              "She likes tea, and he prefers coffee.",
+              "Although it was raining, we went outside.",
+              "Because she was tired, she went to bed early.",
+              "The dog that barked loudly ran away."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a feature article do?",
+            "options": [
+              "Reports only the most basic facts of a breaking event",
+              "Lists a set of unrelated numerical statistics",
+              "A concept unrelated to writing",
+              "Explores a topic, person, or event in greater depth than a straightforward news report"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which technique do authors often use to build suspense in a narrative?",
+            "options": [
+              "Withholding key information from the reader while hinting at danger ahead",
+              "Providing complete resolution at the very beginning of the story",
+              "Describing the setting in a purely neutral, unemotional tone",
+              "Ending every paragraph with a summary of events"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Estimating Square Roots of Non-Perfect Squares; Laws of Exponents: Multiplying and Dividing Powers; Laws of Exponents: Power of a Power and Zero Exponent; Divisibility Rules.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "\u221a50 is between which two consecutive integers?",
+            "options": [
+              "6 and 7",
+              "7 and 8",
+              "4 and 5",
+              "5 and 6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following numbers is divisible by 6?",
+            "options": [
+              "312",
+              "205",
+              "118",
+              "141"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify: 2^3 \u00d7 2^4",
+            "options": [
+              "4^7",
+              "2^7",
+              "2^12",
+              "2^1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of any nonzero number raised to the power of 0?",
+            "options": [
+              "0",
+              "1",
+              "The number itself",
+              "Undefined"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Geothermal Energy and Earth\u2019s Heat; Science: Viruses versus Bacteria; Science: Tides and the Moon\u2019s Gravitational Pull; Science: Renewable versus Nonrenewable Resources.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where does most of Earth\u2019s internal geothermal heat come from?",
+            "options": [
+              "Wind currents in the atmosphere",
+              "A concept unrelated to earth science",
+              "The decay of radioactive elements",
+              "Sunlight absorbed by the oceans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What mainly causes ocean tides on Earth?",
+            "options": [
+              "The gravitational pull of the Moon (and to a lesser extent the Sun)",
+              "The rotation of the Earth on its axis alone",
+              "Wind blowing across the ocean surface",
+              "Volcanic activity on the ocean floor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Are bacteria made up of a single cell?",
+            "options": [
+              "No, bacteria are always made up of many cells",
+              "Yes",
+              "A concept unrelated to biology",
+              "Bacteria are never considered living organisms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of a nonrenewable resource?",
+            "options": [
+              "Solar energy",
+              "Wind energy",
+              "Coal",
+              "Hydroelectric power"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Supreme Court of Canada and Judicial Review; Social Studies Review: Canadian History and World Innovations; Social Studies: How the Federal Government Creates a Budget; The M\u00e9tis Scrip System and Land Grants.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "The countrys highest court",
+              "An advisory group with no legal authority",
+              "A committee that writes new laws",
+              "A branch of the Royal Canadian Mounted Police"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of the federal government's budget process?",
+            "options": [
+              "To plan how the government will raise and spend money for the coming year",
+              "To elect a new prime minister",
+              "To determine provincial boundaries",
+              "To select judges for the Supreme Court"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes how Canada's federal government is structured?",
+            "options": [
+              "A parliamentary system with an elected House of Commons and an appointed Senate",
+              "A system with no elected officials at any level",
+              "A monarchy with absolute power held by the Governor General",
+              "A direct democracy where citizens vote on every law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Metis Scrip System used for?",
+            "options": [
+              "To grant Metis peoples land or money in exchange for giving up Indigenous land claims",
+              "To provide free university tuition to Metis students",
+              "To register Metis voters for federal elections",
+              "To fund the construction of the transcontinental railway"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Language Arts and Grammar (Days 101-109); Grammar: Emphatic Pronouns and Intensifiers; Vocabulary: Onomatopoeia and Sound Devices; Reading: Analyzing Juxtaposition and Contrast.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What defines a round character?",
+            "options": [
+              "A character who never appears more than once",
+              "A concept unrelated to reading",
+              "A complex, multidimensional character with a fully developed personality",
+              "A character with no name given in the text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an example of onomatopoeia?",
+            "options": [
+              "Buzz",
+              "Happy",
+              "Quickly",
+              "Beautiful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of an emphatic pronoun?",
+            "options": [
+              "To add emphasis to a noun or pronoun already mentioned",
+              "To replace a verb entirely",
+              "To act as a question word",
+              "To function as a preposition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What literary technique involves placing two contrasting ideas or images side by side for effect?",
+            "options": [
+              "Juxtaposition",
+              "Alliteration",
+              "Foreshadowing",
+              "Personification"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Two-Step Equations; Solving Equations with Variables on Both Sides; Combining Like Terms; Expanding Expressions with the Distributive Property.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Solve for x: 2x + 5 = 17",
+            "options": [
+              "x = 6",
+              "x = 11",
+              "x = 7",
+              "x = 5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify by combining like terms: 4x + 3 - 2x + 7",
+            "options": [
+              "2x + 10",
+              "6x + 10",
+              "2x + 4",
+              "6x + 4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve: 3x + 4 = x + 12",
+            "options": [
+              "x = 6",
+              "x = 2",
+              "x = 8",
+              "x = 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Expand using the distributive property: 3(x + 5)",
+            "options": [
+              "3x + 15",
+              "3x + 5",
+              "x + 15",
+              "8x"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Human Biology, Ecology, and Earth Science (Days 101-109); Cells: Plant and Animal Cell Structures; Cells: Discovering the Cell Through Microscopy; Unicellular and Multicellular Organisms.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What organ pumps blood through the circulatory system?",
+            "options": [
+              "The lungs",
+              "A concept unrelated to biology",
+              "The heart",
+              "The stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who is credited with being among the first to observe cells using a microscope, coining the term 'cells' after examining cork tissue?",
+            "options": [
+              "Robert Hooke",
+              "Charles Darwin",
+              "Gregor Mendel",
+              "Louis Pasteur"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organelle is found in plant cells but not in animal cells?",
+            "options": [
+              "Cell membrane",
+              "Chloroplast",
+              "Mitochondria",
+              "Nucleus"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An organism made up of only one cell, such as an amoeba, is classified as what?",
+            "options": [
+              "Unicellular",
+              "Multicellular",
+              "Nonliving",
+              "A tissue"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: Canadas Role in the Korean War; Social Studies: The Canadian Human Rights Commission and Its Role; Social Studies: Tommy Douglas and the Origins of Canadian Medicare; Social Studies: The Oka Crisis and Indigenous Land Rights.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What international organization led the coalition Canada joined during the Korean War?",
+            "options": [
+              "The British Commonwealth alone",
+              "The United Nations",
+              "The League of Nations",
+              "The European Union"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Tommy Douglas is best known as a founding figure of which Canadian program?",
+            "options": [
+              "Universal public healthcare (Medicare)",
+              "The national railway system",
+              "The Canadian Charter of Rights and Freedoms",
+              "Employment Insurance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main role of the Canadian Human Rights Commission?",
+            "options": [
+              "To investigate complaints of discrimination and promote equality",
+              "To manage national parks and forests",
+              "To enforce traffic laws on highways",
+              "To collect federal income taxes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Oka Crisis of 1990 was primarily a conflict over what issue?",
+            "options": [
+              "A dispute over Mohawk land rights near a proposed golf course expansion",
+              "A disagreement about provincial voting rights",
+              "A conflict over fishing quotas in the Atlantic",
+              "A dispute about a new federal tax on land"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing an Eyewitness News Report; Media Literacy: Analyzing Memes and Internet Culture; Grammar: Understanding Ellipsis and Omission in Writing; Reading: Analyzing Hyperbole, Understatement, and Paradox.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does an eyewitness news report present?",
+            "options": [
+              "A persuasive argument with no facts",
+              "A summary of unrelated events",
+              "A firsthand account of an event",
+              "A purely fictional story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In writing, what does an ellipsis (...) typically indicate?",
+            "options": [
+              "An omission of words or a trailing off of thought",
+              "The end of a formal argument",
+              "A direct quotation from another author",
+              "A question being asked"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a meme?",
+            "options": [
+              "A formal academic essay",
+              "A type of legal document",
+              "An image, video, or piece of text that spreads ideas or humour quickly online",
+              "A printed newspaper article"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an example of hyperbole?",
+            "options": [
+              "I've told you a million times to clean your room.",
+              "The sky is blue today.",
+              "She walked slowly to the door.",
+              "The cat sat on the windowsill."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Evaluating Algebraic Expressions by Substitution; Graphing Linear Relations; Slope as Rate of Change; Writing Algebraic Equations from Word Problems.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Evaluate 2x + 3 when x = 5.",
+            "options": [
+              "13",
+              "16",
+              "10",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line rises 6 units for every 2 units it moves to the right. What is its slope?",
+            "options": [
+              "3",
+              "6",
+              "2",
+              "1/3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the y-intercept of y = 3x - 5?",
+            "options": [
+              "-3",
+              "3",
+              "-5",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A taxi charges a $4 flat fee plus $2 per kilometre. Which equation represents the total cost, C, for a trip of k kilometres?",
+            "options": [
+              "C = 4 + 2k",
+              "C = 2 + 4k",
+              "C = 4k + 2k",
+              "C = 4 - 2k"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Chemistry of Fireworks; Cell Division: How Cells Multiply; Bird Migration and Animal Navigation; Desert Ecosystems and Adaptations.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes the different colours seen in fireworks?",
+            "options": [
+              "The temperature of the air alone",
+              "The time of day the firework is launched",
+              "Different metal compounds burning during the chemical reaction",
+              "The shape of the firework container"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following do migrating birds use to help navigate over long distances?",
+            "options": [
+              "Earth's magnetic field, the position of the sun, and star patterns",
+              "Only the sound of ocean waves",
+              "Radio signals emitted by other birds",
+              "The colour of the sky alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of mitosis in the human body?",
+            "options": [
+              "To break down old cells for energy",
+              "To create sperm and egg cells",
+              "To produce genetically identical cells for growth and repair",
+              "To combine DNA from two parents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which adaptation helps desert animals like camels conserve water?",
+            "options": [
+              "Producing very concentrated urine and dry feces to minimize water loss",
+              "Having thin fur that increases water evaporation",
+              "Sweating constantly throughout the day",
+              "Requiring frequent access to open water sources"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The National Policy of 1879; Social Studies: The Multiculturalism Act of 1988; The Manitoba Schools Question; Social Studies: The Fathers of Confederation and the Road to 1867.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "Who introduced the National Policy of 1879?",
+            "options": [
+              "Prime Minister John A. Macdonald",
+              "Prime Minister Pierre Trudeau",
+              "Prime Minister Lester Pearson",
+              "Prime Minister Wilfrid Laurier"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Manitoba Schools Question of the 1890s was primarily a debate over what issue?",
+            "options": [
+              "Whether public funding should support French-Catholic separate schools",
+              "Whether university tuition should be free",
+              "Whether schools should be open in the summer",
+              "Whether English should be banned from all schools"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Canadian Multiculturalism Act of 1988 formally recognize?",
+            "options": [
+              "The diversity of Canadian society",
+              "A single official culture for all of Canada",
+              "A requirement to adopt only one language nationwide",
+              "A ban on cultural celebrations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Fathers of Confederation were the delegates who worked to achieve what goal in the 1860s?",
+            "options": [
+              "Uniting British North American colonies into the Dominion of Canada",
+              "Ending the fur trade in Canada",
+              "Establishing Canada's independence from the United States",
+              "Creating the Supreme Court of Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Internal and External Conflict; Vocabulary: Euphemisms and Doublespeak; Language Review: Grammar, Vocabulary, and Reading Analysis; Grammar: Apostrophes and Possessive Forms.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is \"internal conflict\"?",
+            "options": [
+              "A conflict between a character and the weather",
+              "A disagreement between the author and the reader",
+              "A struggle a character faces within their own mind, such as indecision or guilt",
+              "A struggle between two separate characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 'doublespeak'?",
+            "options": [
+              "Language deliberately used to obscure, distort, or reverse the meaning of words",
+              "A word that sounds like the noise it describes",
+              "A formal style used only in legal documents",
+              "A synonym for a simple, direct statement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A gentler word or phrase used in place of a harsh or blunt one",
+              "A word that exaggerates the truth",
+              "A citation format",
+              "A type of rhyme scheme"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses an apostrophe to show that a single student owns a book?",
+            "options": [
+              "The student's book is on the desk.",
+              "The students book is on the desk.",
+              "The students' book is on the desk.",
+              "The studen'ts book is on the desk."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Growing Patterns and Tables of Values; Nets of 3D Solids; Surface Area of Rectangular Prisms; Surface Area of Cylinders.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A pattern starts at 4 and increases by 5 each step: 4, 9, 14, 19... What is the 10th term?",
+            "options": [
+              "54",
+              "59",
+              "44",
+              "49"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the surface area of a rectangular prism with length 4 cm, width 3 cm, and height 2 cm?",
+            "options": [
+              "52 cm\u00b2",
+              "24 cm\u00b2",
+              "26 cm\u00b2",
+              "104 cm\u00b2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many rectangular faces does the net of a rectangular prism have?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which formula is used to calculate the surface area of a cylinder with radius r and height h?",
+            "options": [
+              "2\u03c0r\u00b2 + 2\u03c0rh",
+              "\u03c0r\u00b2h",
+              "2\u03c0r + 2h",
+              "\u03c0rh"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Physics of Friction and Wear; Systems in Action: Hydraulic and Pneumatic Systems; Science Review: Body Systems, Physics, and Genetics; Gears and Pulleys: Changing Force and Motion.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is friction?",
+            "options": [
+              "A type of chemical reaction",
+              "A form of light energy",
+              "A force that resists motion between two surfaces in contact",
+              "A force that always increases motion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Unlike hydraulic systems, pneumatic systems use which substance to transmit force?",
+            "options": [
+              "Compressed gas (such as air)",
+              "Liquid oil",
+              "Molten metal",
+              "Solid rods only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Hydraulic systems use which type of substance to transmit force?",
+            "options": [
+              "Gas",
+              "Plasma",
+              "Liquid",
+              "Solid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main function of a pulley system?",
+            "options": [
+              "To change the direction of a force and/or make lifting a load easier",
+              "To convert electrical energy into heat",
+              "To increase the friction between two surfaces",
+              "To measure the mass of an object"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Winnipeg General Strike of 1919; Social Studies Review: Canadian Rights, History, and Indigenous Leadership; Social Studies: The Bank of Canada and Monetary Policy; The Fur Trade and the Voyageurs.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What was the Winnipeg General Strike of 1919?",
+            "options": [
+              "A strike that took place outside of Canada",
+              "A protest against a proposed new Canadian flag",
+              "A strike involving only a handful of factory workers",
+              "One of the largest labour strikes in Canadian history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one of the main responsibilities of the Bank of Canada?",
+            "options": [
+              "Setting monetary policy, including interest rates, to help control inflation",
+              "Collecting personal income taxes from Canadians",
+              "Printing provincial license plates",
+              "Managing Canada's postal service"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of Canada's Canadian Charter of Rights and Freedoms?",
+            "options": [
+              "To guarantee fundamental rights and freedoms to all Canadians, protected under the Constitution",
+              "To set the federal tax rate each year",
+              "To determine provincial boundaries",
+              "To regulate international trade agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who were the voyageurs during the fur trade era in Canada?",
+            "options": [
+              "Skilled canoe paddlers and labourers who transported furs and trade goods",
+              "Government officials who regulated fur prices",
+              "Indigenous chiefs who governed trading posts",
+              "British naval officers stationed in Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Archaisms and Obsolete Words; Reading: Analyzing Foils and Antagonists; Writing: Writing a Public Service Announcement Script; Media Literacy: Analyzing Infographics and Data Visualization.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an archaism?",
+            "options": [
+              "A grammatical rule about verb tense",
+              "A citation format used in essays",
+              "A word or phrase that was once common but is no longer used in everyday language",
+              "A newly invented word describing modern technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a story, what is the main role of an antagonist?",
+            "options": [
+              "A minor character with no impact on the plot",
+              "The author's stand-in in the story",
+              "A character who opposes the protagonist and drives the central conflict",
+              "The narrator who tells the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a foil in literature?",
+            "options": [
+              "A character who narrates the entire story",
+              "A character whose contrasting traits highlight qualities in another character",
+              "A citation style used in essays",
+              "A type of punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of a Public Service Announcement (PSA) script?",
+            "options": [
+              "To sell a product for profit",
+              "To entertain readers with a fictional story",
+              "To record a private conversation for legal purposes",
+              "To inform or persuade the public about an important social issue"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Volume of Triangular Prisms; Volume of Cylinders; Angle Relationships: Parallel Lines and Transversals; Angle Sum of Triangles and Quadrilaterals.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A triangular prism has a triangular base with area 12 cm\u00b2 and a length of 9 cm. What is its volume?",
+            "options": [
+              "21 cm\u00b3",
+              "108 cm\u00b3",
+              "216 cm\u00b3",
+              "54 cm\u00b3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two parallel lines are cut by a transversal. If one angle measures 65 degrees, what is the measure of its corresponding angle?",
+            "options": [
+              "115\u00b0",
+              "65\u00b0",
+              "25\u00b0",
+              "180\u00b0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the volume of a cylinder with radius 3 cm and height 7 cm? (\u03c0 \u2248 3.14)",
+            "options": [
+              "197.8 cm\u00b3",
+              "65.9 cm\u00b3",
+              "263.8 cm\u00b3",
+              "131.9 cm\u00b3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the sum of the interior angles of any quadrilateral?",
+            "options": [
+              "180\u00b0",
+              "270\u00b0",
+              "360\u00b0",
+              "540\u00b0"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Chemistry of Soap and Surfactants; Bioluminescence: Living Light in Nature; The Physics of Magnetism and Magnetic Fields; Mechanical Efficiency: Where Does the Energy Go?.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a surfactant?",
+            "options": [
+              "A type of enzyme found in the digestive system",
+              "A gas released during combustion",
+              "A substance with one end that attracts water and one end that attracts oil or grease",
+              "A substance that only ever repels water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A magnetic field around a bar magnet is strongest at which location?",
+            "options": [
+              "Uniformly across the entire magnet",
+              "Only at the exact center of the magnet",
+              "At the poles, the two ends of the magnet",
+              "Only at the south pole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The production of light by living organisms through a chemical reaction",
+              "A type of radioactive decay",
+              "A reflection of sunlight off an animals skin",
+              "The absorption of light by plants during photosynthesis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the mechanical efficiency of a real machine almost always less than 100%?",
+            "options": [
+              "Because machines can create new energy from nothing",
+              "Because some input energy is always lost to friction and heat",
+              "Because output work is always greater than input work",
+              "Because efficiency is only a theoretical idea with no real cause"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Charlottetown and Quebec Conferences of 1864; The Pacific Scandal of 1873; The Cypress Hills Massacre and the Creation of the North-West Mounted Police; The Numbered Treaties and Indigenous-Crown Relations.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What was the main purpose of the Charlottetown Conference of 1864?",
+            "options": [
+              "To discuss uniting British North American colonies",
+              "To establish a new national anthem",
+              "To negotiate a peace treaty ending a war",
+              "To settle a border dispute with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What event directly led to the creation of the North-West Mounted Police?",
+            "options": [
+              "An American invasion of the prairies",
+              "The Pacific Scandal",
+              "The Cypress Hills Massacre",
+              "The Rebellion Losses Bill"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the Pacific Scandal of 1873 primarily about?",
+            "options": [
+              "An argument over a proposed national anthem",
+              "A dispute over international fishing rights",
+              "A disagreement about provincial school funding",
+              "Accusations that the government accepted campaign funds in exchange for a railway contract"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the primary purpose of the Numbered Treaties between the Canadian government and Indigenous peoples?",
+            "options": [
+              "To formally end the fur trade",
+              "To open Indigenous land for settlement in exchange for reserves and other promises",
+              "To grant Indigenous peoples control of the federal parliament",
+              "To establish a trade agreement with the United States"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Allusion in Literature; Grammar: Interjections and Direct Address; Vocabulary: Malapropisms and Word Confusion; Writing: Persuasion Using Ethos, Pathos, and Logos; Language Review: Grammar, Vocabulary, and Persuasive Writing (Days 121-129).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A brief, indirect reference to a person, event, or work the author expects readers to recognize",
+              "A citation style used in essays",
+              "A type of punctuation mark",
+              "A detailed explanation of every historical event mentioned in a text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a malapropism (a word confused for a similar-sounding one)?",
+            "options": [
+              "The doctor wrote a subscription for antibiotics.",
+              "The doctor wrote a prescription for antibiotics.",
+              "The nurse checked the patient's temperature.",
+              "The pharmacist filled the order quickly."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an interjection typically express?",
+            "options": [
+              "Strong emotion, such as surprise or excitement",
+              "A citation format",
+              "A type of question",
+              "A grammatical rule about verb tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A speaker says, 'Imagine your own child struggling with hunger tonight' to move the audience. Which persuasive appeal is this mainly using?",
+            "options": [
+              "Logos",
+              "Ethos",
+              "Pathos",
+              "Alliteration"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Classifying Quadrilaterals by Their Properties; The Pythagorean Theorem: Finding the Hypotenuse; The Pythagorean Theorem: Finding a Missing Leg; Transformations: Reflections and Translations on a Grid; Transformations: Rotations on a Grid.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Which quadrilateral has exactly one pair of parallel sides?",
+            "options": [
+              "Rhombus",
+              "Trapezoid",
+              "Rectangle",
+              "Parallelogram"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A right triangle has a hypotenuse of 10 cm and one leg of 6 cm. What is the length of the other leg?",
+            "options": [
+              "8 cm",
+              "4 cm",
+              "14 cm",
+              "6 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A right triangle has legs of 3 cm and 4 cm. What is the length of the hypotenuse?",
+            "options": [
+              "12 cm",
+              "7 cm",
+              "6 cm",
+              "5 cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A point at (3, 2) is reflected across the y-axis. What are its new coordinates?",
+            "options": [
+              "(3, -2)",
+              "(-3, 2)",
+              "(-3, -2)",
+              "(2, 3)"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Invasive Species and Ecosystem Disruption; Fluids: Viscosity and How Liquids Flow; Earthquake-Resistant Engineering and Building Design; The Physics of Sound Insulation and Noise Reduction; Science Review: Human Body, Chemistry, and Physics (Days 121-129).",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an invasive species?",
+            "options": [
+              "A native species that has always lived in a particular ecosystem",
+              "A species found only in a laboratory setting",
+              "A species that has gone extinct",
+              "A non-native organism that spreads rapidly and causes ecological harm in a new environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which design feature most helps a building withstand earthquake shaking?",
+            "options": [
+              "A taller, perfectly rigid structure with no flexibility",
+              "A flexible base or isolators that absorb and dissipate shaking",
+              "Windows placed on every wall",
+              "A heavier roof with no additional reinforcement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Viscosity is best described as a measure of:",
+            "options": [
+              "A fluid's resistance to flowing",
+              "A fluid's temperature",
+              "A fluid's colour",
+              "A fluid's mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which material property makes a wall effective at reducing sound transmission to the next room?",
+            "options": [
+              "High electrical conductivity",
+              "High transparency to light",
+              "Density and mass that absorb and block sound vibrations",
+              "Strong magnetism"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Building of the Canadian National Railway; The Formation of the Royal Canadian Mounted Police in 1920; Social Studies: The Charlottetown and Quebec Conferences \u2014 Building Confederation; The Rebellion Losses Bill and the Growth of Responsible Government; History Review: Confederation, Institutions, and Infrastructure (Days 121-129).",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "How was the Canadian National Railway formed?",
+            "options": [
+              "By consolidating several struggling private railway lines into one publicly owned company",
+              "By merging with a railway company in the United States",
+              "By privatizing an existing government-run railway",
+              "By constructing an entirely new railway with no prior lines involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What principle of government did the passage of the Rebellion Losses Bill help establish?",
+            "options": [
+              "Direct rule of the colony by the British monarch",
+              "Responsible government, where the governor must act on the advice of elected representatives",
+              "The end of the fur trade in British North America",
+              "Universal voting rights for all Canadians"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the Royal Canadian Mounted Police formed?",
+            "options": [
+              "1867",
+              "1920",
+              "1949",
+              "1873"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "At the Quebec Conference of 1864, delegates built on the Charlottetown discussions mainly to:",
+            "options": [
+              "Declare war on the United States",
+              "Select a national flag for Canada",
+              "Draft detailed resolutions outlining the structure of a future Canadian federal government",
+              "Abolish the office of Governor General"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Subject-Verb Agreement with Collective and Indefinite Pronouns; Vocabulary: Oxymorons and Contradictory Phrases; Reading: Determining Authors Purpose and Audience; Writing: Crafting a Strong Introduction and Hook; Writing: The Interview and Q&A Feature.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does subject-verb agreement require?",
+            "options": [
+              "That verbs always precede their subjects",
+              "That a sentence never contain a subject",
+              "That every sentence use a plural verb",
+              "That a verb match its subject in number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An author writes an article mainly to convince readers to recycle more. What is the author's purpose?",
+            "options": [
+              "To entertain with a fictional story",
+              "To simply describe a process without any opinion",
+              "To narrate a personal childhood memory",
+              "To persuade readers to take a specific action"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an oxymoron?",
+            "options": [
+              "A citation style used in research papers",
+              "A figure of speech that combines two contradictory terms for effect",
+              "A grammatical rule about verb tense",
+              "A word that means the exact same thing when repeated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an interview feature article, what is the main purpose of the writer's introductory hook?",
+            "options": [
+              "To list every interview question asked, word for word",
+              "To capture the reader's interest and show why the interview matters",
+              "To provide a full bibliography of sources",
+              "To state the writer's opinion of their own grade"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Scale Drawings and Scale Factor; Circumference of a Circle; Area of a Circle; Converting Units in the Metric System; Area of Composite 2D Figures.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A model car is built at a scale of 1:24. If the model is 8 cm long, how long is the actual car?",
+            "options": [
+              "192 cm",
+              "152 cm",
+              "288 cm",
+              "96 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the area of a circle with a radius of 5 cm? (\u03c0 \u2248 3.14)",
+            "options": [
+              "31.4 cm\u00b2",
+              "78.5 cm\u00b2",
+              "25 cm\u00b2",
+              "15.7 cm\u00b2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A circle has a radius of 7 cm. What is its circumference? (\u03c0 \u2248 3.14)",
+            "options": [
+              "43.96 cm",
+              "153.86 cm",
+              "21.98 cm",
+              "22.0 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many centimeters are there in 3.5 meters?",
+            "options": [
+              "35 cm",
+              "3500 cm",
+              "350 cm",
+              "0.35 cm"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Fluid Pressure and Pascal's Principle; The Chemistry of Rust and Corrosion; Particle Theory: Explaining States of Matter; The Physics of Levers and Mechanical Torque; Solutions and Solubility: What Dissolves and Why.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Pascal's principle states that pressure applied to an enclosed fluid is:",
+            "options": [
+              "Transmitted equally in all directions throughout the fluid",
+              "Lost as heat",
+              "Absorbed completely by the container",
+              "Only felt at the surface of the fluid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to particle theory, what happens to particles as a substance changes from a solid to a liquid?",
+            "options": [
+              "They stop moving entirely",
+              "They gain enough energy to move past one another while staying close together",
+              "They merge into a single giant particle",
+              "They lose mass"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What chemical process causes iron to rust?",
+            "options": [
+              "Oxidation, a reaction between iron, oxygen, and water",
+              "Exposure to sunlight alone",
+              "Freezing at low temperatures",
+              "A purely physical change with no chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To increase the torque produced by a fixed force on a lever, you should:",
+            "options": [
+              "Apply the force exactly at the pivot point",
+              "Decrease the distance from the pivot to where the force is applied",
+              "Increase the distance from the pivot to where the force is applied",
+              "Reduce the amount of force applied"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: British Columbia Joins Confederation in 1871; Prince Edward Island Joins Confederation in 1873; The Manitoba Act of 1870 and the Creation of Manitoba; The British North America Act of 1867 and Canadas Constitution; Sir John A. Macdonald: Canadas First Prime Minister.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In what year did British Columbia join Confederation?",
+            "options": [
+              "1867",
+              "1949",
+              "1871",
+              "1905"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Manitoba Act of 1870 accomplish?",
+            "options": [
+              "Transferred Manitoba to American control",
+              "Abolished the Hudson's Bay Company",
+              "Created the province of Manitoba and brought it into Confederation",
+              "Ended the Red River Resistance with no political changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did Prince Edward Island join Confederation?",
+            "options": [
+              "1864",
+              "1905",
+              "1873",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was Sir John A. Macdonald's role in Canadian history?",
+            "options": [
+              "He was the first Governor General of Canada",
+              "He negotiated the Treaty of Versailles for Canada",
+              "He served as Canada's first Prime Minister after Confederation",
+              "He was the first premier of Quebec"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Cause and Effect Structures in Nonfiction; Grammar: Pronoun-Antecedent Agreement and Clarity; Vocabulary: Regionalisms and Dialect in Literature; Writing: The Comparative Book Review.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a cause and effect structure explain in a nonfiction text?",
+            "options": [
+              "The exact chronological order of unrelated events",
+              "A comparison between two unrelated topics",
+              "Why an event happened and what resulted from it",
+              "A list of characters and their traits"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In literature, what is a regionalism?",
+            "options": [
+              "A word or phrase used mainly by people from a specific geographic area",
+              "A formal word used only in legal documents",
+              "A punctuation mark used to separate clauses",
+              "A synonym found equally in every English dialect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must a pronoun agree with according to pronoun-antecedent agreement?",
+            "options": [
+              "The number and gender of the noun it replaces",
+              "The total number of sentences in a paragraph",
+              "The verb tense used earlier in the paragraph",
+              "The punctuation mark that follows it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a comparative book review?",
+            "options": [
+              "To summarize a single book without offering an opinion",
+              "To analyze the similarities and differences between two or more books",
+              "To list a book's publication date and page count",
+              "To rewrite a book's ending"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Reading and Constructing Circle Graphs; Probability of Simple Events and Sample Space; Simple Interest Calculations; Adding and Subtracting Integers in Real-World Contexts.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In a circle graph, a category representing 25% of the data should take up how many degrees of the circle?",
+            "options": [
+              "120\u00b0",
+              "90\u00b0",
+              "45\u00b0",
+              "60\u00b0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "David deposits $500 in an account that pays 4% simple interest per year. How much interest will he earn after 3 years?",
+            "options": [
+              "$60",
+              "$20",
+              "$500",
+              "$620"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A standard six-sided die is rolled once. What is the probability of rolling a number greater than 4?",
+            "options": [
+              "2/3",
+              "1/3",
+              "1/2",
+              "1/6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The temperature was -8\u00b0C in the morning. By afternoon it had risen by 15 degrees. What was the afternoon temperature?",
+            "options": [
+              "7\u00b0C",
+              "-7\u00b0C",
+              "23\u00b0C",
+              "-23\u00b0C"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Renewable Energy: Solar Panels and Photovoltaic Cells; The Human Ear and the Mechanics of Hearing; Freshwater Ecosystems: Lakes, Rivers, and Wetlands; Space Science: Comets, Asteroids, and Meteors.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do photovoltaic cells convert into electricity?",
+            "options": [
+              "Ocean waves",
+              "Geothermal heat",
+              "Wind",
+              "Sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is an example of a freshwater ecosystem?",
+            "options": [
+              "A coral reef",
+              "A wetland",
+              "The open ocean",
+              "A saltwater estuary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main function of the human ear?",
+            "options": [
+              "To filter air before it reaches the lungs",
+              "To produce saliva for digestion",
+              "To regulate body temperature",
+              "To convert sound waves into signals the brain can interpret"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main difference between an asteroid and a comet?",
+            "options": [
+              "Asteroids are made mostly of rock and metal, while comets are made mostly of ice and dust",
+              "Asteroids orbit the sun, but comets do not",
+              "Comets are found only inside Earth's atmosphere",
+              "Asteroids only exist outside our solar system"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Formation of the Supreme Court of Canada in 1875; The Creation of the North-West Territories and Territorial Government; Wilfrid Laurier and the Growth of Canada in the Early 1900s; Alberta and Saskatchewan Join Confederation in 1905.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In what year was the Supreme Court of Canada established?",
+            "options": [
+              "1875",
+              "1982",
+              "1867",
+              "1920"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During Wilfrid Laurier's time as prime minister in the early 1900s, what contributed most to Canada's rapid growth?",
+            "options": [
+              "A sharp decline in the population of Western Canada",
+              "Large-scale immigration and settlement of the Canadian West",
+              "The complete closure of Canada's borders to immigrants",
+              "The abolition of all provincial governments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year were the North-West Territories formally organized?",
+            "options": [
+              "1870",
+              "1867",
+              "1905",
+              "1920"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two provinces joined Confederation in 1905?",
+            "options": [
+              "Alberta and Saskatchewan",
+              "Manitoba and British Columbia",
+              "Ontario and Quebec",
+              "Nova Scotia and New Brunswick"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Grammar, Vocabulary, and Purpose (Days 131-139); Grammar: Verb Tense Consistency and Avoiding Tense Shifts; Vocabulary: Homophones and Commonly Confused Words; Reading: Analyzing Multiple Points of View in a Narrative.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "When choosing precise vocabulary in your writing, what should you consider?",
+            "options": [
+              "The exact shade of meaning (connotation) each word choice creates",
+              "Only how long the word is",
+              "Whether the word starts with a vowel",
+              "Using the same word repeatedly for consistency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses a homophone?",
+            "options": [
+              "Their going to the store later.",
+              "They're going to the store later.",
+              "There going to the store later.",
+              "Theyre going to the store later."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does verb tense consistency require?",
+            "options": [
+              "That a writer maintain the same tense throughout a passage unless time genuinely changes",
+              "That verbs always appear in the future tense",
+              "That a sentence never contain a verb",
+              "That every sentence use a different tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a narrative told from multiple points of view, what does the author do?",
+            "options": [
+              "Presents the story through the perspectives of more than one character",
+              "Removes all dialogue from the story",
+              "Tells the entire story using only stage directions",
+              "Limits the story to a single character's thoughts with no exceptions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Dilations on the Coordinate Plane; Order of Operations with Integers and Exponents; Divisibility Rules and Number Patterns; Comparing and Ordering Rational Numbers.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Point A(2, 3) is dilated by a scale factor of 3 centered at the origin. What are the coordinates of the image A'?",
+            "options": [
+              "(6, 9)",
+              "(5, 6)",
+              "(2, 9)",
+              "(6, 3)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following numbers is divisible by both 3 and 4?",
+            "options": [
+              "18",
+              "24",
+              "20",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Evaluate: -3\u00b2 + 4 \u00d7 2",
+            "options": [
+              "-17",
+              "17",
+              "-1",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which list correctly orders the numbers from least to greatest: -1.5, 3/4, -2, 0.5?",
+            "options": [
+              "-2, -1.5, 0.5, 3/4",
+              "-1.5, -2, 3/4, 0.5",
+              "3/4, 0.5, -1.5, -2",
+              "-2, 0.5, -1.5, 3/4"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science Review: Body Systems, Physics, and Earth Science (Days 131-139); Metals and Non-Metals: Comparing Properties; Watersheds: Drainage Basins and How Water Systems Are Mapped; Earth Science: Glaciers and Glacial Landforms.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the three main types of muscle tissue in the body?",
+            "options": [
+              "Voluntary, involuntary, and stationary bone",
+              "Skeletal, smooth, and cardiac muscle",
+              "Cardiac, digestive, and skeletal bone",
+              "Skeletal, elastic, and rigid muscle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a drainage basin?",
+            "options": [
+              "The area of land where all precipitation drains into a single river, lake, or other body of water",
+              "A basin used to store drinking water in a city",
+              "A man-made pool used to measure rainfall",
+              "A type of underground pipe system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which property is typical of most metals?",
+            "options": [
+              "Brittle when solid",
+              "Malleable, meaning it can be hammered into sheets",
+              "Dull appearance",
+              "Poor conductor of electricity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which landform is typically carved by a moving glacier?",
+            "options": [
+              "A U-shaped valley",
+              "A V-shaped canyon",
+              "A volcanic caldera",
+              "A sand dune"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: History Review: Confederation Expansion and Institutions (Days 131-139); Sir Wilfrid Lauriers Reciprocity Election of 1911; The Ontario Regulation 17 and the Fight for Franco-Ontarian Education; The Grand Trunk Pacific Railway and Canadas Second Transcontinental Line.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In Canada's federal system, what is the main difference between federal and provincial responsibilities?",
+            "options": [
+              "The federal government handles national matters like defence and currency, while provinces handle things like education and healthcare",
+              "Provinces have no law-making powers at all",
+              "The federal government controls only foreign affairs and nothing else",
+              "Provinces and the federal government have identical responsibilities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main effect of Ontario's Regulation 17, passed in 1912?",
+            "options": [
+              "It expanded French-language instruction in all Ontario schools",
+              "It restricted the use of French as a language of instruction in Ontario schools",
+              "It created new French-only school boards across Canada",
+              "It had no impact on education in Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What trade policy did Lauriers government campaign on in the 1911 election?",
+            "options": [
+              "A reciprocity, or free trade, agreement with the United States",
+              "A new trade agreement with France",
+              "A plan to eliminate all provincial taxes",
+              "A complete ban on all trade with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main purpose of building the Grand Trunk Pacific Railway?",
+            "options": [
+              "To create a second transcontinental rail line connecting central Canada to the Pacific coast",
+              "To connect only cities within a single province",
+              "To replace all water-based shipping in Canada",
+              "To link Canada to the United States by tunnel"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Personal Essay and Reflective Writing; Media Literacy: Analyzing Framing and Word Choice in News Reporting; Grammar: The Four Sentence Types by Purpose; Vocabulary: Eponyms and Words Derived From Names.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What voice does a personal essay typically use?",
+            "options": [
+              "A reflective, first-person voice",
+              "A voice that avoids the writers own experiences entirely",
+              "A voice used only in scientific reports",
+              "A strictly third-person, impersonal voice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of an exclamatory sentence?",
+            "options": [
+              "Did you finish your homework?",
+              "Close the door, please.",
+              "What an incredible sunset!",
+              "The sunset was beautiful."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does framing refer to in news reporting?",
+            "options": [
+              "How word choice, images, and emphasis shape a readers interpretation of an event",
+              "The number of words used in an articles headline only",
+              "The physical layout of a printed newspaper page",
+              "The exact date an article was published"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an eponym?",
+            "options": [
+              "A word derived from mispronouncing another word",
+              "A word created from the name of a person or place",
+              "A word that has the same spelling in every language",
+              "A word with no clear origin"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Exponent Laws: Multiplying and Dividing Powers; Exponent Laws: Zero and Negative Exponents; Introduction to Scientific Notation; Squares, Square Roots, and Perfect Squares.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Simplify: 3\u2074 \u00d7 3\u00b2",
+            "options": [
+              "3^8",
+              "9^6",
+              "3^6",
+              "3^2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Write 45,000 in scientific notation.",
+            "options": [
+              "4.5 \u00d7 10\u00b3",
+              "4.5 \u00d7 10\u2074",
+              "45 \u00d7 10\u2074",
+              "5.4 \u00d7 10\u2074"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of 8\u2070?",
+            "options": [
+              "0",
+              "undefined",
+              "8",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the square root of 144?",
+            "options": [
+              "14",
+              "12",
+              "72",
+              "24"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Ocean Currents and Their Effect on Climate; Biology: Photosynthesis and Energy Conversion in Plants; Chemistry: The Chemistry of Combustion and Fire; Biology: Plant Reproduction and Pollination.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean currents are large-scale movements of:",
+            "options": [
+              "Ice sheets only",
+              "Underground rock layers",
+              "Air in the atmosphere",
+              "Water across the ocean's surface and depths"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which three elements make up the 'fire triangle' needed for combustion?",
+            "options": [
+              "Heat, fuel, and oxygen",
+              "Water, fuel, and light",
+              "Heat, water, and carbon dioxide",
+              "Oxygen, nitrogen, and fuel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What three ingredients do plants use during photosynthesis?",
+            "options": [
+              "Only oxygen and nitrogen gas",
+              "Sunlight, water, and carbon dioxide",
+              "Sunlight, salt, and iron",
+              "Only soil and sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role do bees typically play in plant pollination?",
+            "options": [
+              "They break down dead plant material into soil",
+              "They carry pollen from one flower to another, enabling fertilization",
+              "They absorb excess water from plant roots",
+              "They convert sunlight into chemical energy for the plant"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Statute of Westminster and Canadian Independence; Nellie McClung and the Fight for Womens Rights in Canada; Social Studies: Lester B. Pearson and the Nobel Peace Prize; The Bank Act and the Development of Canadian Banking.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What did the Statute of Westminster grant to Canada?",
+            "options": [
+              "Ownership of new overseas territories",
+              "Complete separation from the British monarchy",
+              "Greater legislative independence from Britain",
+              "A new national flag"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For what achievement did Lester B. Pearson win the Nobel Peace Prize in 1957?",
+            "options": [
+              "Organizing the first United Nations peacekeeping force during the Suez Crisis",
+              "Signing the Statute of Westminster",
+              "Negotiating the Alaska Boundary Dispute",
+              "Founding the Bank of Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What cause did Nellie McClung campaign for in the early twentieth century?",
+            "options": [
+              "Womens suffrage, the right of women to vote",
+              "The abolition of all provincial governments",
+              "A ban on all forms of higher education",
+              "The elimination of the office of prime minister"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was one major purpose of the Bank Act in Canada?",
+            "options": [
+              "To eliminate all banks in Canada",
+              "To establish rules and regulations governing chartered banks",
+              "To replace paper currency with barter",
+              "To transfer control of Canadian banks to Britain"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Nonlinear Narrative Structures and Timelines; Writing: The Investigative Report and Data-Driven Journalism; Language Review: Grammar, Vocabulary, and Media Literacy (Days 141-149); Grammar: Inverted Sentence Structure and Emphasis; Vocabulary: Slang and Informal Language Across Generations.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What defines a nonlinear narrative structure?",
+            "options": [
+              "A story told in perfect chronological order with no exceptions",
+              "A story with no characters or events",
+              "A story told out of strict chronological order",
+              "A story that contains no structure at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses inverted sentence structure for emphasis?",
+            "options": [
+              "Never have I seen such a beautiful sunset.",
+              "I have never seen such a beautiful sunset.",
+              "The sunset was beautiful and I had never seen one like it.",
+              "I saw a beautiful sunset yesterday."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an investigative report combine to uncover a significant issue?",
+            "options": [
+              "A short list of unrelated facts",
+              "In-depth research, interviews, and data analysis",
+              "A single unsupported opinion with no research",
+              "A collection of fictional stories"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What best describes slang?",
+            "options": [
+              "Formal vocabulary used only in academic writing",
+              "Informal words or phrases that are often specific to a particular generation or group",
+              "Words that never change meaning over time",
+              "Vocabulary found exclusively in legal documents"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Simplifying Algebraic Expressions: Collecting Like Terms; Cube Roots of Perfect Cubes; Translating Words into Algebraic Expressions; Solving Two-Step Linear Equations; Solving Multi-Step Equations with Variables on Both Sides.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Simplify: 4x + 7 - 2x + 3",
+            "options": [
+              "6x + 10",
+              "9x",
+              "2x + 4",
+              "2x + 10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Translate into an algebraic expression: 'five more than twice a number n'",
+            "options": [
+              "2n + 5",
+              "5n + 2",
+              "2(n + 5)",
+              "n + 5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the cube root of 27?",
+            "options": [
+              "81",
+              "3",
+              "27",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for x: 3x - 4 = 11",
+            "options": [
+              "x = 5",
+              "x = 3",
+              "x = 7",
+              "x = 25/3"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Physics: Renewable Energy and Hydroelectric Power; Earth Science: Soil Formation and Erosion; Science Review: Chemistry, Physics, and Earth Science (Days 141-149); Layers of the Atmosphere; Physics: Static Electricity and the Triboelectric Effect.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What force does hydroelectric power primarily rely on to generate electricity?",
+            "options": [
+              "The heat from burning coal",
+              "The force of moving water",
+              "Radioactive decay of uranium",
+              "Wind blowing across open plains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which layer of Earth's atmosphere contains the ozone layer?",
+            "options": [
+              "Troposphere",
+              "Stratosphere",
+              "Mesosphere",
+              "Thermosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two main processes combine to form soil?",
+            "options": [
+              "The weathering of rock and the addition of organic matter from decomposing plants and animals",
+              "The evaporation of ocean water alone",
+              "The burning of vegetation and the cooling of lava",
+              "The freezing of water and the melting of glaciers only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes the triboelectric effect?",
+            "options": [
+              "Two materials being rubbed together, transferring electric charge between them",
+              "Electricity flowing through a metal wire",
+              "A magnet moving near a coil of wire",
+              "Heat causing electrons to evaporate from a surface"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Yukon Act of 1898 and the Creation of Yukon Territory; The Naturalization Act and Canadian Citizenship Before 1947; History Review: Early Twentieth-Century Canada (Days 141-149); Social Studies: The Alaska Boundary Dispute; Social Studies: The League of Nations and Its Legacy.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What rapid population change prompted the passing of the Yukon Act in 1898?",
+            "options": [
+              "The signing of the Manitoba Act",
+              "The formation of the Supreme Court of Canada",
+              "The construction of the Trans-Canada Highway",
+              "The Klondike Gold Rush"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the Alaska Boundary Dispute primarily about?",
+            "options": [
+              "A disagreement between Canada and the United States over the border of the Alaska Panhandle",
+              "A disagreement between Canada and Russia over fishing rights",
+              "A dispute over who would build the Grand Trunk Pacific Railway",
+              "A disagreement over the location of Canada's capital city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before 1947, what legal status did people born in Canada hold?",
+            "options": [
+              "Citizens of France",
+              "British subjects, rather than Canadian citizens",
+              "Citizens of the United States",
+              "Citizens with no legal status whatsoever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the primary purpose of the League of Nations, formed after World War I?",
+            "options": [
+              "To promote international cooperation and prevent future wars",
+              "To establish a single global currency",
+              "To reunite Canada with Britain politically",
+              "To organize the Klondike Gold Rush"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Static and Dynamic Characters; Writing: The Problem-Solution Essay; Media Literacy: Analyzing Photojournalism and Image Manipulation; Grammar: Split Infinitives and Verb Phrase Clarity.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What defines a static character?",
+            "options": [
+              "A character who changes completely every few pages",
+              "A character who remains essentially unchanged throughout a story",
+              "A character who never appears in the story",
+              "A character who only speaks in questions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following best describes a dynamic character?",
+            "options": [
+              "A character who undergoes significant internal change over the course of a story",
+              "A character whose personality never changes",
+              "A minor character with no lines",
+              "A character who only appears in flashbacks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a problem-solution essay identify?",
+            "options": [
+              "A random collection of unrelated topics",
+              "A single sentence with no supporting explanation",
+              "A list of characters from a novel",
+              "A specific issue along with its causes and effects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains a split infinitive?",
+            "options": [
+              "She decided to quickly finish her homework.",
+              "She quickly decided to finish her homework.",
+              "She finished her homework quickly.",
+              "Quickly, she decided to finish her homework."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving and Graphing One-Variable Inequalities; Plotting Points and Graphing Linear Relations from a Table of Values; Understanding Slope as Rate of Change; Graphing Lines Using Slope and y-Intercept.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Solve: x + 5 > 12",
+            "options": [
+              "x < 7",
+              "x < 17",
+              "x > 7",
+              "x > 17"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A line has a slope of 3 and a y-intercept of -2. What is the equation of the line in slope-intercept form?",
+            "options": [
+              "y = 3x - 2",
+              "y = -2x + 3",
+              "y = 3x + 2",
+              "y = -3x - 2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For the relation y = 2x + 1, what is the y-value when x = 3?",
+            "options": [
+              "6",
+              "8",
+              "7",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The slope of a line represents:",
+            "options": [
+              "The point where the line crosses the y-axis",
+              "The rate of change between two variables",
+              "The distance between two points on the line",
+              "The total number of points on the line"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Air Pressure and How Barometers Work; Biology: Decomposers and Nutrient Cycling in Ecosystems; Space Science: The Structure of the Milky Way Galaxy; Technology: How GPS Satellites Determine Location.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Air pressure is caused by:",
+            "options": [
+              "Sound waves moving through the air",
+              "Magnetic fields in the atmosphere",
+              "The weight of air molecules pressing down on a surface",
+              "The rotation of the Earth alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a barometer measure?",
+            "options": [
+              "Wind speed",
+              "Air pressure",
+              "Humidity levels",
+              "Temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do decomposers such as fungi and bacteria break down?",
+            "options": [
+              "Water molecules exclusively",
+              "Dead organisms and waste material",
+              "Rocks and minerals only",
+              "Only living, healthy plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape is the Milky Way galaxy?",
+            "options": [
+              "A perfect sphere",
+              "A barred spiral",
+              "A single straight line",
+              "A flat square"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies Review: Canadian Institutions, History, and Exploration; Social Studies: Sir John A. Macdonald \u2014 Canadas First Prime Minister; Social Studies: How the Provinces and Territories Joined Confederation Over Time; Social Studies: The North-West Rebellion and Louis Riel.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What is the Bank of Canada?",
+            "options": [
+              "A private bank that only serves large businesses",
+              "A branch of a foreign bank operating in Canada",
+              "A museum dedicated to Canadian history",
+              "The countrys central bank"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which province was the last of the ten to join Confederation, doing so in 1949?",
+            "options": [
+              "British Columbia",
+              "Newfoundland",
+              "Prince Edward Island",
+              "Manitoba"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role did Sir John A. Macdonald hold beginning in 1867?",
+            "options": [
+              "Canadas first governor general",
+              "Canadas first prime minister",
+              "The first premier of Ontario",
+              "The first mayor of Ottawa"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Louis Riel led the North-West Rebellion of 1885 primarily to defend the rights of:",
+            "options": [
+              "Coastal fishing communities in British Columbia",
+              "The Metis and First Nations of the Prairies",
+              "Immigrant factory workers in Ontario",
+              "Maritime shipbuilders"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Clipped Words and Abbreviated Forms; Reading: Analyzing Parody and Pastiche in Literature; Writing: The Character Sketch and Descriptive Writing; Language Review: Grammar, Vocabulary, and Literary Analysis (Days 151-159).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a clipped word?",
+            "options": [
+              "A word borrowed directly from another language with no change",
+              "A word created by combining two unrelated words",
+              "A word with no defined meaning at all",
+              "A word formed by shortening a longer word while keeping the same basic meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes a pastiche from a parody?",
+            "options": [
+              "A pastiche imitates a style out of admiration or homage, without necessarily mocking it",
+              "A pastiche must always be written in French",
+              "A pastiche is always longer than the original work",
+              "A pastiche can only be used in poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of parody?",
+            "options": [
+              "To translate a text into another language",
+              "To remove all humour from a piece of writing",
+              "To copy a work exactly with no changes at all",
+              "To imitate a work or genre in order to mock or comment on it humorously"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A character sketch primarily focuses on:",
+            "options": [
+              "Summarizing the entire plot of a story",
+              "Describing a character's traits, appearance, and personality in vivid detail",
+              "Listing events in chronological order with no description",
+              "Comparing two unrelated novels"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Growing Patterns: Finding the General Term; Ratios, Rates, and Solving Proportions; Scale Drawings and Map Ratios; Dividing a Quantity into a Given Ratio.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A pattern starts at 5 and increases by 3 each term: 5, 8, 11, 14... What is the general term (nth term)?",
+            "options": [
+              "5n + 3",
+              "3n + 2",
+              "3n + 5",
+              "3n - 2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a map with a scale of 1:50000, a distance of 4 cm represents an actual distance of:",
+            "options": [
+              "2 km",
+              "20 km",
+              "200 km",
+              "0.2 km"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for x: 3/4 = x/20",
+            "options": [
+              "12",
+              "5",
+              "15",
+              "16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Divide $360 in the ratio 2:3:4. How much does the largest share receive?",
+            "options": [
+              "$120",
+              "$160",
+              "$180",
+              "$200"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Satellites: How Objects Stay in Orbit; The Electromagnetic Spectrum: Beyond Visible Light; Light and Lenses: How Refraction Creates Images; Mirrors and Reflection: The Physics of Images.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "An object stays in orbit around Earth because of a balance between gravity pulling it inward and:",
+            "options": [
+              "Magnetic repulsion from Earth's core",
+              "The vacuum of space pushing it outward",
+              "Its forward (tangential) motion, which keeps it from falling straight down",
+              "Air resistance slowing it down"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Refraction occurs when light:",
+            "options": [
+              "Bounces off a surface at an equal angle",
+              "Bends as it passes from one medium into another of different density",
+              "Is completely absorbed by an object",
+              "Travels in a perfectly straight line forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Visible light makes up:",
+            "options": [
+              "The entire electromagnetic spectrum",
+              "Only a small portion of the electromagnetic spectrum",
+              "Only radio waves",
+              "None of the electromagnetic spectrum"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A concave mirror is often used in:",
+            "options": [
+              "Regular flat bathroom mirrors",
+              "Car side-view mirrors for a wider field of view",
+              "Makeup or shaving mirrors that magnify a close-up image",
+              "Sunglasses lenses"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Role of an Ombudsman in Protecting Citizens Rights; Social Studies: The CRTC and Canadian Content Rules in Broadcasting; Social Studies: Government Borrowing and Canadas National Debt; Social Studies Review: Canadian Leaders, Confederation, and Government Institutions.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What does an ombudsman investigate?",
+            "options": [
+              "Only complaints made by government employees",
+              "Complaints from citizens against government departments or organizations",
+              "Traffic violations on public roads",
+              "Weather-related emergencies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When a government spends more money than it collects in revenue in a given year, this creates a:",
+            "options": [
+              "Trade surplus",
+              "Budget deficit",
+              "Balanced budget",
+              "Equalization payment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the acronym CRTC stand for?",
+            "options": [
+              "The Canadian Research and Technology Committee",
+              "The Central Regional Television Coalition",
+              "The Canadian Radio-television and Telecommunications Commission",
+              "The Canadian Rural Transportation and Trade Council"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada's national debt refers to:",
+            "options": [
+              "The total amount of money the federal government owes as a result of accumulated deficits",
+              "The amount of money each citizen has in personal savings",
+              "The total value of goods Canada exports each year",
+              "The amount of gold held in federal reserves"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Direct and Indirect Speech; Vocabulary: Compound Words and Their Formation; Reading: Analyzing Diction and Word Choice in Literature; Writing: The Cause and Effect Essay; Media Literacy: Evaluating Online Reviews and Influencer Marketing.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does direct speech do?",
+            "options": [
+              "Removes all punctuation from a sentence",
+              "Quotes a speakers exact words within quotation marks",
+              "Combines two unrelated sentences",
+              "Always uses the future tense"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of indirect (reported) speech?",
+            "options": [
+              "She said, \"I am tired.\"",
+              "She said that she was tired.",
+              "\"I am tired,\" she said.",
+              "She asked, \"Are you tired?\""
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a compound word?",
+            "options": [
+              "A single letter used to represent a whole word",
+              "A word borrowed directly from another language with no change",
+              "A word formed by combining two or more smaller words",
+              "A word with no defined meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When evaluating an online product review from an influencer, a critical reader should consider:",
+            "options": [
+              "Only the number of likes the post received",
+              "Whether the influencer received free products or payment in exchange for the review",
+              "The length of the video only",
+              "The color scheme of the influencer's channel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Fractions, Decimals, and Percents: Converting Between Forms; Financial Literacy: Simple Interest; Financial Literacy: Budgeting Income and Expenses; Financial Literacy: Calculating Sales Tax and Tips; Angle Relationships: Complementary, Supplementary, and Vertically Opposite Angles.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Convert 3/8 to a percent.",
+            "options": [
+              "37.5%",
+              "38%",
+              "3.8%",
+              "0.375%"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A meal costs $40 before tax. If sales tax is 8%, what is the total cost including tax?",
+            "options": [
+              "$43.20",
+              "$40.80",
+              "$48.00",
+              "$32.00"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using I = Prt, calculate the simple interest on $500 at 4% per year for 3 years.",
+            "options": [
+              "$60",
+              "$40",
+              "$600",
+              "$20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two angles are supplementary. If one angle measures 110 degrees, what is the measure of the other angle?",
+            "options": [
+              "70 degrees",
+              "90 degrees",
+              "80 degrees",
+              "250 degrees"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: Chromatography and Separating Mixtures; The Respiratory System: How We Breathe; Earth Science: Weathering and the Formation of Caves; The Excretory System: How the Body Filters Waste; The Skeletal System: Bones, Joints, and Movement.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does chromatography do?",
+            "options": [
+              "Combines several pure substances into a single mixture",
+              "Measures the temperature of a chemical reaction",
+              "Changes a mixture into a single element",
+              "Separates the components of a mixture based on how they travel through a material"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Caves are most commonly formed by the weathering process in which:",
+            "options": [
+              "Slightly acidic water slowly dissolves limestone rock over thousands of years",
+              "Lava cools rapidly to form hollow tubes",
+              "Wind carves rock in a single afternoon",
+              "Glaciers deposit sand into large piles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The tiny air sacs in the lungs where gas exchange occurs are called:",
+            "options": [
+              "Larynx",
+              "Trachea",
+              "Alveoli",
+              "Bronchi"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organ is primarily responsible for filtering waste products out of the blood?",
+            "options": [
+              "The liver",
+              "The kidney",
+              "The stomach",
+              "The pancreas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies: Nellie McClung and the Fight for Womens Suffrage in Canada; Social Studies: Equalization Payments Between Canadian Provinces; Social Studies: The White Paper of 1969 and First Nations Opposition; Social Studies: Canadas Mission in Afghanistan; Social Studies: The Indian Act \u2014 History and Impact.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "What cause did Nellie McClung campaign for?",
+            "options": [
+              "Free international trade agreements",
+              "Womens right to vote",
+              "Lower taxes for farmers",
+              "The construction of new railways"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The 1969 White Paper proposed by the federal government aimed to:",
+            "options": [
+              "Eliminate the Indian Act and end the special legal status of Indigenous peoples",
+              "Create new treaties granting more land to First Nations",
+              "Establish French as Canada's only official language",
+              "Increase equalization payments to Quebec"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are equalization payments?",
+            "options": [
+              "Fees charged to municipalities for road repairs",
+              "Funds transferred by the federal government to less wealthy provinces",
+              "Loans that provinces must repay to private banks",
+              "Taxes collected exclusively from foreign visitors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Indian Act, first passed in 1876, gave the federal government authority to:",
+            "options": [
+              "Regulate provincial sales taxes",
+              "Control many aspects of the lives of First Nations peoples, including status, land, and governance",
+              "Manage international trade agreements",
+              "Oversee municipal elections in major cities"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: The Imperative Mood and Command Sentences; Vocabulary: Anagrams and Wordplay; Reading: Analyzing Personification and Anthropomorphism; Writing: The Personal Response to Literature; Language Review: Grammar, Vocabulary, and Descriptive Writing (Days 161-169).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the imperative mood used for?",
+            "options": [
+              "Expressing uncertainty about a fact",
+              "Giving commands, making requests, or offering instructions",
+              "Describing a series of past events only",
+              "Asking a question about the future"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of personification?",
+            "options": [
+              "The wind whispered secrets through the trees.",
+              "The wind blew at 20 kilometers per hour.",
+              "The wind is a type of moving air.",
+              "The wind stopped completely by noon."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an anagram do?",
+            "options": [
+              "Translates a word into another language",
+              "Removes all vowels from a word",
+              "Combines two unrelated words into a sentence",
+              "Rearranges the letters of a word or phrase to form a new word or phrase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A personal response to literature primarily asks the writer to:",
+            "options": [
+              "Summarize the plot in strict chronological order with no opinions",
+              "Share their own thoughts, feelings, and reactions to a text, supported with evidence",
+              "Translate the text into another language",
+              "List every character's name in alphabetical order"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Angle Sum of Triangles and Polygons; Identifying Functions from Tables, Graphs, and Mappings; Circumference and Area of Circles; Statistics: An Introduction to Outliers and Their Effect on Data; Area of Composite 2D Shapes.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A triangle has angles of 50\u00b0 and 65\u00b0. What is the third angle?",
+            "options": [
+              "60\u00b0",
+              "65\u00b0",
+              "55\u00b0",
+              "70\u00b0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the area of a circle with a radius of 7 cm? (Use pi is approximately 22/7)",
+            "options": [
+              "154 cm squared",
+              "44 cm squared",
+              "49 cm squared",
+              "22 cm squared"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A relation is a function if...",
+            "options": [
+              "every output has exactly one input",
+              "the graph is a straight line",
+              "every input has exactly one output",
+              "all values are positive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a data set, an outlier is a value that:",
+            "options": [
+              "Appears most frequently in the data set",
+              "Is the middle value when the data is ordered",
+              "Is unusually far from most of the other values in the data set",
+              "Is always equal to the mean"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Technology: How Touchscreens Work; Chemistry: The Chemistry of Photography and Film Development; Physics: Center of Mass and Balance; Food Webs and Energy Pyramids; Science Review: Chemistry, Physics, and Earth Science (Days 161-169).",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do most modern touchscreens use to detect a touch?",
+            "options": [
+              "A tiny camera hidden inside the screen",
+              "A grid of electrical sensors beneath the glass",
+              "A magnet attached to the back of the device",
+              "A speaker that listens for sound waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An object is more stable and less likely to tip over when its center of mass is:",
+            "options": [
+              "As high as possible and directly above a small base",
+              "Low and positioned over a wide base",
+              "Located entirely outside the object",
+              "Constantly shifting position"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What makes traditional photographic film sensitive to light?",
+            "options": [
+              "A magnetic coating on the film",
+              "Light-sensitive silver compounds on the film",
+              "A layer of sugar crystals on the film",
+              "A layer of plain water on the film"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an energy pyramid, as energy moves from producers to primary consumers and up to higher trophic levels, the amount of usable energy available:",
+            "options": [
+              "Increases at each higher level",
+              "Stays exactly the same at every level",
+              "Decreases significantly at each higher level, mostly lost as heat",
+              "Doubles at each higher level"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Social Studies Review: The Final Chapter \u2014 Government, Rights, and Canadian History; Historical Thinking: Establishing Historical Significance; Historical Thinking: Primary vs. Secondary Sources; Historical Thinking: Continuity and Change; Historical Thinking: Cause and Consequence in Confederation.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In historical thinking, 'cause and consequence' means examining ___.",
+            "options": [
+              "Why an event happened and what resulted from it",
+              "Only the exact date an event occurred",
+              "Whether an event was good or bad",
+              "How many people were involved in an event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of a primary source about Confederation?",
+            "options": [
+              "A textbook published in 2020 summarizing Confederation",
+              "A newspaper article written in 1867 during the Confederation debates",
+              "A documentary film made in 2010",
+              "An encyclopedia entry about Confederation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is NOT one of the criteria historians typically use to judge an event's historical significance?",
+            "options": [
+              "It caused important changes",
+              "It reveals something about a larger issue",
+              "It is remembered by many people",
+              "It happened before 1900"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In historical thinking, 'continuity and change' refers to:",
+            "options": [
+              "The idea that history only involves change, never continuity",
+              "Recognizing what has stayed the same over time alongside what has transformed",
+              "A method for predicting future events with certainty",
+              "The practice of only studying ancient history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Prepositional Phrases and Their Function in a Sentence; Vocabulary: Acronyms and Initialisms; Reading: Analyzing Red Herrings in Mystery and Detective Fiction; Writing: The Process Essay: Explaining How Something Works.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a prepositional phrase begin with?",
+            "options": [
+              "A verb",
+              "A conjunction",
+              "A preposition",
+              "A comma"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a mystery or detective story, what is the purpose of a red herring?",
+            "options": [
+              "To reveal the real culprit early in the story",
+              "To mislead the reader with a false clue or suspect",
+              "To summarize the plot for the reader",
+              "To describe the setting in detail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "A word borrowed unchanged from another language",
+              "A word formed from the first letters of a phrase that is pronounced as a word",
+              "A word that means the opposite of another word",
+              "A word with no vowels at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of a process essay?",
+            "options": [
+              "To argue for a controversial opinion",
+              "To narrate a personal experience in time order",
+              "To explain, step by step, how something is done or how it works",
+              "To compare and contrast two different subjects"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: The Pythagorean Theorem: Applications and Finding a Leg; Number Theory: An Introduction to Triangular Numbers; Surface Area of Rectangular and Triangular Prisms; Volume of Prisms.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A right triangle has a hypotenuse of 13 cm and one leg of 5 cm. What is the length of the other leg?",
+            "options": [
+              "18 cm",
+              "8 cm",
+              "144 cm",
+              "12 cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What shapes make up the net of a triangular prism?",
+            "options": [
+              "Two triangles and three rectangles",
+              "Six squares",
+              "Four triangles only",
+              "Two rectangles and two triangles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a triangular number?",
+            "options": [
+              "A number with exactly three digits",
+              "A number that can only be an even number",
+              "A number that is always divisible by three",
+              "A number formed by summing consecutive whole numbers starting from one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangular prism has a triangular base with an area of 15 cm\u00b2 and a length of 8 cm. What is its volume?",
+            "options": [
+              "23 cm\u00b3",
+              "60 cm\u00b3",
+              "120 cm\u00b3",
+              "180 cm\u00b3"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: The Chemistry of Sunscreen and UV Protection; Physics: The Physics of Roller Coasters and Energy Conservation; Earth Science: Types of Clouds and Weather Prediction; Biology: The Process of Osmosis and Diffusion in Cells.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sunscreen protect the skin from?",
+            "options": [
+              "Loud noise",
+              "Ultraviolet radiation from the sun",
+              "Extreme cold temperatures",
+              "Visible light only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which cloud type is typically associated with thunderstorms and heavy precipitation?",
+            "options": [
+              "Cirrus",
+              "Cumulonimbus",
+              "Stratus",
+              "Cirrostratus"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of energy does a roller coaster car have at the top of a tall hill?",
+            "options": [
+              "Only sound energy",
+              "Only thermal energy",
+              "Only chemical energy",
+              "Gravitational potential energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Osmosis is the movement of water molecules across a selectively permeable membrane from a region of:",
+            "options": [
+              "High solute concentration to low solute concentration",
+              "Low solute concentration to high solute concentration",
+              "Inside a cell to outside the cell only",
+              "High water concentration to an area of even higher water concentration"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: Historical Thinking: Perspective-Taking in the Confederation Era; Historical Thinking: The Ethical Dimension; Map Skills: Reading Historical Maps of Confederation-Era Canada; Interpreting Political Cartoons from Confederation-Era Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "'Historical perspective-taking' means:",
+            "options": [
+              "Judging people in the past using today's values",
+              "Ignoring the beliefs of people in the past",
+              "Understanding how people in the past saw their world, based on the beliefs and knowledge of their own time",
+              "Assuming everyone in the past thought the same way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When reading a historical map of Confederation-era Canada, what does the map's legend (or key) mainly help you do?",
+            "options": [
+              "Show the exact population of each province",
+              "Interpret the symbols and colours used on the map",
+              "Predict future political boundaries",
+              "Translate the map into another language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The 'ethical dimension' in historical thinking mainly asks students to:",
+            "options": [
+              "Ignore moral questions about the past entirely",
+              "Consider what responsibilities we have today because of past actions, and make fair, evidence-based judgments",
+              "Judge every historical figure exactly like a modern celebrity",
+              "Avoid ever discussing right or wrong"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Historians study political cartoons from the Confederation era mainly because these cartoons:",
+            "options": [
+              "Provide precise statistical data about the era",
+              "Use symbolism, exaggeration, and humour to express opinions about political events",
+              "Were written exclusively in French",
+              "Recorded exact transcripts of political speeches"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Understanding Paywalls and the Business of Online News; Grammar: Commonly Confused Verbs: Lie, Lay, Sit, and Set; Vocabulary: Collective Nouns for Groups of Animals; Reading: Analyzing Epigraphs and Their Function in a Text.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a paywall?",
+            "options": [
+              "A tool that blocks all access to the internet",
+              "A type of advertisement shown before a video",
+              "A barrier that limits free access to online content until a reader pays or subscribes",
+              "A method for translating an article into another language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is the correct collective noun for a group of crows?",
+            "options": [
+              "A pride",
+              "A murder",
+              "A herd",
+              "A flock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the verb lie mean?",
+            "options": [
+              "To speak loudly",
+              "To recline or rest in a position",
+              "To stand up quickly",
+              "To place an object somewhere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of an epigraph at the beginning of a text?",
+            "options": [
+              "To provide a legal disclaimer",
+              "To summarize the entire plot in advance",
+              "To offer a relevant quotation that hints at the text's theme or tone",
+              "To list the author's sources"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Volume and Surface Area of Cylinders; Number Theory: An Introduction to Palindromic Numbers; Statistics: An Introduction to Sampling Methods and Bias; Volume of Pyramids.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Find the volume of a cylinder with radius 3 cm and height 10 cm. Use \u03c0 \u2248 3.14.",
+            "options": [
+              "94.2 cm\u00b3",
+              "188.4 cm\u00b3",
+              "565.2 cm\u00b3",
+              "282.6 cm\u00b3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A researcher wants to know the opinions of all students in a school but only surveys students in the chess club. This is an example of:",
+            "options": [
+              "A random sample",
+              "A stratified sample",
+              "A biased (non-representative) sample",
+              "A census"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a palindromic number?",
+            "options": [
+              "A number that is always a multiple of ten",
+              "A number that reads the same forward and backward",
+              "A number with exactly two digits",
+              "A number that can never repeat a digit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the volume of a square pyramid with a base area of 36 cm\u00b2 and a height of 9 cm?",
+            "options": [
+              "45 cm\u00b3",
+              "108 cm\u00b3",
+              "162 cm\u00b3",
+              "324 cm\u00b3"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Space Science: Space Debris and Satellite Collisions; Mineral Identification: Hardness, Streak, and Luster; Chemistry: The Science of Food Preservation; Types of Structures: Beams, Arches, and Suspension Designs.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is space debris?",
+            "options": [
+              "A cloud of gas found only near the Moon",
+              "Defunct satellites, spent rocket stages, and fragments orbiting Earth",
+              "A term for stars that have burned out",
+              "A type of natural asteroid belt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which food preservation method works mainly by removing the moisture that bacteria need to grow?",
+            "options": [
+              "Refrigeration",
+              "Dehydration (drying)",
+              "Pasteurization",
+              "Carbonation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Mohs scale is used to measure a mineral's:",
+            "options": [
+              "Weight",
+              "Colour",
+              "Temperature",
+              "Hardness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of structure design distributes weight outward along a curve to supports on either side, historically used in bridges and doorways?",
+            "options": [
+              "A beam",
+              "A truss",
+              "An arch",
+              "A suspension cable"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Great Coalition of 1864; George-\u00c9tienne Cartier and French-Canadian Support for Confederation; Joseph Howe and the Anti-Confederation Movement in Nova Scotia; The London Conference of 1866.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Great Coalition of 1864 was significant mainly because it:",
+            "options": [
+              "Created the RCMP",
+              "Brought together rival politicians to pursue Confederation and end government deadlock",
+              "Ended all political parties permanently",
+              "Declared Canada's independence from Britain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Joseph Howe is best remembered in Confederation-era history for:",
+            "options": [
+              "Leading the movement in Nova Scotia against joining Confederation",
+              "Drafting the British North America Act",
+              "Serving as the first Prime Minister of Canada",
+              "Negotiating the purchase of Rupert's Land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "George-\u00c9tienne Cartier is best known in Confederation-era history for:",
+            "options": [
+              "Building support for Confederation among French-Canadians in Canada East",
+              "Serving as Canada's first Governor General",
+              "Founding the CBC",
+              "Leading the Northwest Resistance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main purpose of the London Conference of 1866?",
+            "options": [
+              "To declare war on the United States",
+              "To finalize the details of Confederation and draft the terms that became the British North America Act",
+              "To establish the North-West Mounted Police",
+              "To negotiate Canada's purchase of Alaska"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Letter to the Editor; Language Review: Grammar, Vocabulary, and Media Literacy (Days 171-179); Grammar: The Serial Comma and Clarity in Lists; Vocabulary: Jargon and Technical Language Across Fields.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a letter to the editor?",
+            "options": [
+              "A private letter never intended to be published",
+              "A summary of a novel written for a class assignment",
+              "A brief, persuasive letter sent to a newspaper responding to a current issue",
+              "A formal legal document"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a serial (Oxford) comma?",
+            "options": [
+              "We packed apples bananas, and grapes.",
+              "We packed apples, bananas, and grapes.",
+              "We packed apples, bananas and, grapes.",
+              "We packed apples bananas and grapes."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When evaluating a source for media literacy, why is it useful to know who published it?",
+            "options": [
+              "The publisher's background can reveal potential bias or purpose",
+              "It has no effect on how reliable the information is",
+              "Only newspapers can be considered publishers",
+              "Published sources are always completely neutral"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 'jargon'?",
+            "options": [
+              "Slang used only by teenagers",
+              "Specialized vocabulary or terminology used within a particular profession or field",
+              "Words borrowed directly from Latin with no change in spelling",
+              "Any word longer than three syllables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Building 3D Figures from Nets; Transformations on the Coordinate Plane: Translations and Reflections; Transformations on the Coordinate Plane: Rotations; Number Theory: The Sieve of Eratosthenes.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "How many faces does the net of a cube contain?",
+            "options": [
+              "6",
+              "4",
+              "12",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Point B(2, -3) is reflected across the x-axis. What are its new coordinates?",
+            "options": [
+              "(2, 3)",
+              "(-2, -3)",
+              "(-2, 3)",
+              "(2, -3)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Point A(3, 5) is translated 4 units left and 2 units down. What are the new coordinates?",
+            "options": [
+              "(-1, 7)",
+              "(-1, 3)",
+              "(7, 3)",
+              "(1, 3)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Sieve of Eratosthenes is a method used to:",
+            "options": [
+              "Find the greatest common factor of two numbers",
+              "Identify all prime numbers up to a given limit",
+              "Calculate the volume of a prism",
+              "Convert fractions to decimals"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Current Electricity: Voltage, Current, and Resistance; Science Review: Chemistry, Physics, and Space Science (Days 171-179); Chemistry: The Chemistry of Baking and Leavening Agents; Physics: The Physics of Optical Illusions and Visual Perception.",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Electric current is best described as:",
+            "options": [
+              "A material that blocks electricity",
+              "The colour of a wire",
+              "The push that moves electric charge through a circuit",
+              "The rate at which electric charge flows through a circuit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role does baking soda (sodium bicarbonate) play as a leavening agent in baking?",
+            "options": [
+              "It reacts with an acid to release carbon dioxide gas that makes batter rise",
+              "It absorbs excess moisture from the batter",
+              "It changes the colour of the baked good",
+              "It preserves the food to prevent spoilage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a physical change, not a chemical change?",
+            "options": [
+              "Ice melting into water",
+              "Wood burning into ash",
+              "Iron rusting",
+              "Baking soda reacting with vinegar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Optical illusions occur mainly because:",
+            "options": [
+              "The eye physically changes shape to distort images",
+              "Light bends unpredictably as it passes through air",
+              "The brain interprets visual information in ways that can be tricked by certain patterns, contrasts, or context",
+              "Colours in the illusion emit their own light"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Dominion Lands Act of 1872 and Prairie Homesteading; The North-West Mounted Police March West of 1874; The Discovery of Insulin by Banting and Best; Chinese Railway Workers and the Building of the CPR.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "The Dominion Lands Act of 1872 was modeled closely on which country's land policy?",
+            "options": [
+              "Mexico's land policy",
+              "The United States' Homestead Act",
+              "France's colonial land system",
+              "Britain's"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Frederick Banting and Charles Best are historically significant for their role in:",
+            "options": [
+              "Discovering insulin as a treatment for diabetes",
+              "Building the Canadian Pacific Railway",
+              "Founding the North-West Mounted Police",
+              "Negotiating Confederation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main purpose of the 1874 March West was to:",
+            "options": [
+              "Fight a war against the United States",
+              "Build the transcontinental railway",
+              "Explore the Arctic",
+              "Establish a Canadian government presence and enforce law in the newly acquired North-West Territories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Chinese railway workers who helped build the Canadian Pacific Railway (CPR) in the 1880s:",
+            "options": [
+              "Were paid the same wages as other workers and given the safest jobs",
+              "Faced dangerous working conditions and were paid less than other workers",
+              "Were mainly employed as engineers who designed the railway route",
+              "Arrived in Canada only after the railway was already completed"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Circular Structure and Full-Circle Endings in Narrative; Writing: The Debate Rebuttal and Counterargument; Media Literacy: Distinguishing Satire from Misinformation Online; Grammar: Recognizing and Avoiding Comma Splices; Language Review: Grammar, Vocabulary, and Narrative Reading (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a circular structure in a narrative do?",
+            "options": [
+              "Only ever occurs in poetry, never in prose",
+              "Removes the ending of a story entirely",
+              "Tells events in a completely random order",
+              "Returns the story to its opening image, setting, or line by the end"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes satire from misinformation?",
+            "options": [
+              "Satire is always factually accurate, while misinformation never is",
+              "Satire uses humour and exaggeration to make a point and is not meant to be taken literally, while misinformation is false information presented as fact",
+              "Satire only appears in newspapers, while misinformation only appears online",
+              "There is no real difference between the two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of a rebuttal in a debate?",
+            "options": [
+              "To repeat your own argument without addressing the opponent",
+              "To agree completely with the opposing side",
+              "To end the debate immediately",
+              "To respond directly to an opponents argument by identifying its weaknesses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains a comma splice?",
+            "options": [
+              "I finished my homework, then I watched a movie.",
+              "I finished my homework, and then I watched a movie.",
+              "After I finished my homework, I watched a movie.",
+              "I finished my homework; then I watched a movie."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Reading and Constructing Frequency Tables and Histograms; Constructing and Interpreting Circle Graphs; Constructing Scatter Plots and Describing Trends; Probability of a Single Event and Sample Space; Probability of Complementary Events.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In a frequency table, what does the 'frequency' column represent?",
+            "options": [
+              "The total number of intervals",
+              "The number of data values that fall within each interval",
+              "The average of the data",
+              "The range of the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A scatter plot shows that as the number of hours studied increases, test scores also tend to increase. This describes a:",
+            "options": [
+              "Negative correlation",
+              "No correlation",
+              "Positive correlation",
+              "Circular correlation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A circle graph shows that 25% of students prefer basketball. What central angle represents this section?",
+            "options": [
+              "36\u00b0",
+              "45\u00b0",
+              "90\u00b0",
+              "25\u00b0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The probability of rain tomorrow is 0.35. What is the probability that it will NOT rain tomorrow?",
+            "options": [
+              "0.35",
+              "0.5",
+              "0.65",
+              "1.35"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earth Science: Fossils and the Fossil Record; Biology: Camouflage and Animal Defense Mechanisms; Space Science: The Search for Water on Mars; Technology: How Water Desalination Works; Science Review: Chemistry, Biology, and Space Science (Days 181-186).",
+        "resourceLabel": "TVO Learn: Grade 8 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "The preserved remains or traces of an ancient organism",
+              "A living organism found only in caves",
+              "A type of modern rock formed only underwater",
+              "A tool used to measure earthquakes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Scientists have found strong evidence that Mars once had liquid water on its surface, based mainly on:",
+            "options": [
+              "Photos of present-day rivers flowing on Mars",
+              "Dried riverbeds, mineral deposits, and rock formations shaped by past water flow",
+              "Radio signals received from Mars",
+              "Reports from astronauts who have visited Mars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "A loud sound used to scare away predators",
+              "A type of animal migration",
+              "A way for an animal to blend into its surroundings through colour, pattern, or shape",
+              "A method animals use to find food only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of water desalination?",
+            "options": [
+              "To add minerals to freshwater for taste",
+              "To remove salt and other dissolved minerals from seawater to make it drinkable",
+              "To freeze ocean water for shipping",
+              "To measure the salinity of the ocean"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Practice: History Recap",
+        "summary": "A practice recap of recent History lessons: The Construction of the CN Tower; Sandford Fleming and the Creation of Standard Time; The Confederation Bridge and Linking Prince Edward Island by Land; O Canada Becomes Canadas Official National Anthem in 1980; The Intercolonial Railway and Confederation's Railway Promise.",
+        "resourceLabel": "TVO Learn: Grade 8 History & Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
+        "quiz": [
+          {
+            "q": "In what year was the CN Tower completed?",
+            "options": [
+              "1988",
+              "1949",
+              "1967",
+              "1976"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Confederation Bridge is historically significant because it:",
+            "options": [
+              "Was the first railway built in Canada",
+              "Physically links Prince Edward Island to mainland New Brunswick by road",
+              "Was Canada's tallest free-standing structure",
+              "Connects Toronto and Montreal by road"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sandford Fleming is best known historically for proposing:",
+            "options": [
+              "The Confederation conferences",
+              "The North-West Mounted Police",
+              "A worldwide system of standard time zones",
+              "The design of the Canadian flag"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "'O Canada' officially became Canada's national anthem in:",
+            "options": [
+              "1867",
+              "1927",
+              "1980",
+              "1949"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ];
 
