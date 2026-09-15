@@ -20905,6 +20905,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Grammar: Split Infinitives and Evolving Usage Rules",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Split%20Infinitives%20and%20Evolving%20Usage%20Rules%20grade%209%20educational",
         "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=jtNLr9yAS6Y",
         "quiz": [
           {
             "q": "What is a split infinitive?",
@@ -20964,6 +20965,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Math strand: a box-and-whisker plot displays a data set’s distribution using five key values: the minimum, first quartile, median, third quartile, and maximum.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=nV8jR8M8C74",
         "quiz": [
           {
             "q": "How many key values does a box-and-whisker plot use to display data?",
@@ -21024,6 +21026,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: coral reefs are built by colonies of tiny coral organisms and support enormous marine biodiversity, but rising ocean temperatures can cause coral bleaching, threatening these ecosystems.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dcWlVN02kDQ",
         "quiz": [
           {
             "q": "What builds a coral reef?",
@@ -21083,6 +21086,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: many of the world’s languages are at risk of disappearing as fewer speakers remain, prompting geographic and cultural efforts to document and preserve endangered languages.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=PrGUiq3KqwA",
         "quiz": [
           {
             "q": "What is happening to many of the world’s languages as fewer speakers remain?",

@@ -20747,6 +20747,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: deepfake technology uses artificial intelligence to create highly realistic but fabricated images, audio, or video, raising serious concerns about trust and misinformation.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=cZFqcvhHkcI",
         "quiz": [
           {
             "q": "What does deepfake technology use to create fabricated media?",
@@ -20807,6 +20808,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: solving an absolute value equation or inequality requires considering both the positive and negative cases of the expression inside the absolute value bars.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=BrYy1bgh3Y0",
         "quiz": [
           {
             "q": "When solving an absolute value equation, how many cases must typically be considered?",
@@ -20867,6 +20869,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: symbiotic relationships describe close, long-term interactions between different species, classified as mutualism, commensalism, or parasitism depending on how each species is affected.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=QHSHrunOvMo",
         "quiz": [
           {
             "q": "What do symbiotic relationships describe?",
@@ -20926,6 +20929,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: radiometric dating uses the known decay rate of radioactive isotopes to estimate the age of rocks, fossils, and other materials.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=oe45GegJUvM",
         "quiz": [
           {
             "q": "What does radiometric dating use to estimate the age of a material?",

@@ -20749,6 +20749,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Vocabulary: Multiple-Meaning Words and Context Clues",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Multiple-Meaning%20Words%20and%20Context%20Clues%20grade%208%20educational",
         "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=IAlrhyvtW_4",
         "quiz": [
           {
             "q": "What is a \"multiple-meaning word\"?",
@@ -20808,6 +20809,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: when multiplying powers with the same base, the exponents are added together, and when dividing powers with the same base, the exponents are subtracted.",
         "resourceLabel": "YouTube: Number Sense: Exponent Laws — Multiplying and Dividing Powers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Exponent%20Laws%20%E2%80%94%20Multiplying%20and%20Dividing%20Powers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LkhPRz7Hocg",
         "quiz": [
           {
             "q": "What rule applies when multiplying two powers with the same base?",
@@ -20868,6 +20870,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: coral reefs are diverse marine ecosystems built by colonies of tiny coral organisms, supporting a huge variety of fish and other sea life, but are highly sensitive to changes in ocean temperature.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ZiULxLLP32s",
         "quiz": [
           {
             "q": "What builds a coral reef?",
@@ -20928,6 +20931,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: major world religions, such as Buddhism, Christianity, and Islam, spread to new regions over centuries through trade routes, migration, and cultural exchange, shaping societies far from where each religion began.",
         "resourceLabel": "YouTube: Social Studies: The Spread of World Religions Through Trade and Migration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Spread%20of%20World%20Religions%20Through%20Trade%20and%20Migration%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4SWe3bFYcOA",
         "quiz": [
           {
             "q": "Name one way that world religions have historically spread to new regions.",

@@ -20660,6 +20660,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: data journalism combines reporting with statistical analysis and visual infographics, presenting complex information in a form intended to be both accurate and accessible.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ZawrCDQ2HqE",
         "quiz": [
           {
             "q": "What does data journalism combine with reporting?",
@@ -20720,6 +20721,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: Solving Trigonometric Equations Over a Restricted Domain",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Over%20a%20Restricted%20Domain%20grade%2012%20educational",
         "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=wvH1OvKEc4E",
         "quiz": [
           {
             "q": "Solve sinθ = 1/2 for θ ∈ [0°, 360°).",
@@ -20779,6 +20781,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Algebra strand (non-linear relations): a rational function is a ratio of two polynomials, and it can have a vertical asymptote where the denominator equals zero and a horizontal asymptote describing its end behaviour.",
         "resourceLabel": "YouTube: Rational Functions and Asymptotes (Intro)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%20and%20Asymptotes%20%28Intro%29%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2N62v_63SBo",
         "quiz": [
           {
             "q": "A rational function is best described as ___.",

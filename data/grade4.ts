@@ -21267,6 +21267,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that an analogy compares two pairs of words that share a similar relationship, such as hot is to cold as up is to down, both showing opposite pairs.",
         "resourceLabel": "YouTube: Analogies: Comparing Word Relationships",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analogies%3A%20Comparing%20Word%20Relationships%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vTha_SqdpRE",
         "quiz": [
           {
             "q": "What is an analogy?",
@@ -21347,6 +21348,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: quadrilaterals can be classified by their properties, such as a parallelogram having two pairs of parallel sides, and a rhombus having four equal sides.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=yiREqzDsMP8",
         "quiz": [
           {
             "q": "How many pairs of parallel sides does a parallelogram have?",
@@ -21407,6 +21409,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that stars are giant balls of hot gas that give off their own light, and that a constellation is a group of stars that forms a pattern in the night sky.",
         "resourceLabel": "YouTube: Stars and Constellations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Stars%20and%20Constellations%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1sZ15SUeS9w",
         "quiz": [
           {
             "q": "What do we call a giant ball of hot gas that gives off its own light in space?",

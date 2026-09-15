@@ -26051,6 +26051,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a rainforest is a warm, wet habitat that gets a huge amount of rain each year, supporting a great variety of plants and animals such as monkeys, parrots, and frogs.",
         "resourceLabel": "YouTube: Rainforests: A Warm, Wet Habitat",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rainforests%3A%20A%20Warm%2C%20Wet%20Habitat%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KMdD6TTDZ_g",
         "quiz": [
           {
             "q": "What kind of habitat is a rainforest?",
@@ -26134,6 +26135,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn safe and polite behaviour when riding a school bus or public bus, such as staying seated, using a quiet voice, and waiting for a turn to get on and off.",
         "resourceLabel": "YouTube: Riding the Bus: Being Safe and Polite",
         "resourceUrl": "https://www.youtube.com/results?search_query=Riding%20the%20Bus%3A%20Being%20Safe%20and%20Polite%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4SrLBcM991E",
         "quiz": [
           {
             "q": "Why should riders stay seated on a moving bus?",
