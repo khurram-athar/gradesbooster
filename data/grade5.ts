@@ -21946,7 +21946,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=l5Lloki4HKA"
       },
       {
         "subject": "Math",
@@ -22006,7 +22007,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=OMEh_-m0UaI"
       },
       {
         "subject": "Science",
@@ -22088,7 +22090,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Human Body (Basic)"
+        "topic": "Human Body (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=OSsntU6sTWI"
       },
       {
         "subject": "SocialStudies",

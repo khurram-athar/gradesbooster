@@ -21916,7 +21916,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=QwkfVwfga5I"
       },
       {
         "subject": "Math",
@@ -21999,7 +22000,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=c3qiERbLAuQ"
       },
       {
         "subject": "Science",
@@ -22079,7 +22081,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=K7Oq9_DU1Mc"
       },
       {
         "subject": "SocialStudies",
@@ -22139,7 +22142,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Canadian Institutions & Justice"
+        "topic": "Canadian Institutions & Justice",
+        "videoUrl": "https://www.youtube.com/watch?v=zUUi-J4c6_Y"
       }
     ]
   },

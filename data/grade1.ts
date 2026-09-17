@@ -26282,7 +26282,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=I7jbq7eqaC0"
       },
       {
         "subject": "Math",
@@ -26364,7 +26365,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=GH29VWIPyfg"
       },
       {
         "subject": "Science",
@@ -26444,7 +26446,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Animal Adaptations & Behaviour"
+        "topic": "Animal Adaptations & Behaviour",
+        "videoUrl": "https://www.youtube.com/watch?v=OhrhcsICrE8"
       },
       {
         "subject": "SocialStudies",

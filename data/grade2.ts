@@ -26542,7 +26542,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=pnLIpbFqkEk"
       }
     ]
   },
@@ -26627,7 +26628,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fiFe0uRwDPI"
       },
       {
         "subject": "Math",
@@ -26707,7 +26709,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=bmY28wdGL9M"
       },
       {
         "subject": "Science",
@@ -26787,7 +26790,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=I71HcXG9vso"
       },
       {
         "subject": "SocialStudies",
@@ -26869,7 +26873,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=7P6bCpzP0UE"
       }
     ]
   },

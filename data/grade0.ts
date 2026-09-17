@@ -25382,7 +25382,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ahtKKwDxsV4"
       }
     ]
   },
@@ -25652,7 +25653,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sGeDsva2_fs"
       }
     ]
   },

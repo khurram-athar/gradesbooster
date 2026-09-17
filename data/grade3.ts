@@ -21254,7 +21254,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=ta9E8Bs2QXI"
       },
       {
         "subject": "Math",
@@ -21314,7 +21315,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=kMPhdAXlM8k"
       },
       {
         "subject": "Science",
@@ -21374,7 +21376,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Weather, Climate & Atmosphere"
+        "topic": "Weather, Climate & Atmosphere",
+        "videoUrl": "https://www.youtube.com/watch?v=G4ZIa3qkFkI"
       },
       {
         "subject": "SocialStudies",
@@ -21434,7 +21437,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Local Community & Civic Participation"
+        "topic": "Local Community & Civic Participation",
+        "videoUrl": "https://www.youtube.com/watch?v=pnLIpbFqkEk"
       }
     ]
   },

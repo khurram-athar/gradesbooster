@@ -20732,7 +20732,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VebV_bFzW_4"
       }
     ]
   },

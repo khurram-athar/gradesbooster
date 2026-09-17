@@ -26540,7 +26540,8 @@
             ]
           }
         ],
-        "topic": "Communities & Community Helpers"
+        "topic": "Communities & Community Helpers",
+        "videoUrl": "https://www.youtube.com/watch?v=pnLIpbFqkEk"
       }
     ]
   },
@@ -26625,7 +26626,8 @@
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fiFe0uRwDPI"
       },
       {
         "subject": "Math",
@@ -26705,7 +26707,8 @@
             ]
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=bmY28wdGL9M"
       },
       {
         "subject": "Science",
@@ -26785,7 +26788,8 @@
             ]
           }
         ],
-        "topic": "Atoms, Elements & Compounds"
+        "topic": "Atoms, Elements & Compounds",
+        "videoUrl": "https://www.youtube.com/watch?v=I71HcXG9vso"
       },
       {
         "subject": "SocialStudies",
@@ -26867,7 +26871,8 @@
             ]
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=7P6bCpzP0UE"
       }
     ]
   },
