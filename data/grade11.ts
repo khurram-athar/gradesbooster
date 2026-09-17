@@ -21047,7 +21047,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=OUwkVFgaL5E"
       },
       {
         "subject": "Functions",
@@ -21107,7 +21108,18 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=SE5SBTgrwH8",
+        "videoUrls": [
+          {
+            "label": "Double-Angle Formulas",
+            "url": "https://www.youtube.com/watch?v=SE5SBTgrwH8"
+          },
+          {
+            "label": "Half-Angle Formulas",
+            "url": "https://www.youtube.com/watch?v=9YI69okba3c"
+          }
+        ]
       },
       {
         "subject": "Biology",
@@ -21167,7 +21179,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Iz0Q9nTZCw4"
       },
       {
         "subject": "Chemistry",
@@ -21227,7 +21240,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=-_eGOyAiNIQ"
       }
     ]
   },

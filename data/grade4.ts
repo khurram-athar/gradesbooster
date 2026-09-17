@@ -21625,7 +21625,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=WqiDSyHYFOg"
       },
       {
         "subject": "Math",
@@ -21705,7 +21706,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=dBZ2QGZBH6M"
       },
       {
         "subject": "Science",
@@ -21786,7 +21788,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=bgqea0E2eAY"
       },
       {
         "subject": "SocialStudies",
@@ -21846,7 +21849,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Media, Technology & Communication"
+        "topic": "Media, Technology & Communication",
+        "videoUrl": "https://www.youtube.com/watch?v=5USw_7MKooU"
       }
     ]
   },

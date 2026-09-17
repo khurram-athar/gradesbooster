@@ -21004,7 +21004,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=3H6gfcdxYE4"
       },
       {
         "subject": "Math",
@@ -21064,7 +21065,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Number Sense: Place Value & Operations"
+        "topic": "Number Sense: Place Value & Operations",
+        "videoUrl": "https://www.youtube.com/watch?v=a5dY0IrVfU0"
       },
       {
         "subject": "Science",
@@ -21124,7 +21126,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=bsQBSVJoV04"
       },
       {
         "subject": "SocialStudies",
@@ -21184,7 +21187,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=2c2cWMF-nl8"
       }
     ]
   },

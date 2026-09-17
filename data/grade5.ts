@@ -21698,7 +21698,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=-hpqz49iquA"
       },
       {
         "subject": "Math",
@@ -21758,7 +21759,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Place Value & Number Sense"
+        "topic": "Place Value & Number Sense",
+        "videoUrl": "https://www.youtube.com/watch?v=FwHfdD4fLFA"
       },
       {
         "subject": "Science",
@@ -21817,7 +21819,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=03pZdYVacaM"
       },
       {
         "subject": "SocialStudies",
@@ -21876,7 +21879,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=avdKPt7AI3w"
       }
     ]
   },

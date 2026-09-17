@@ -21205,7 +21205,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=Ytr28t5VzAs"
       },
       {
         "subject": "Math",
@@ -21265,7 +21266,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=Dv8tm6HSVYA"
       },
       {
         "subject": "Science",
@@ -21325,7 +21327,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lP_EsVY4CVg"
       },
       {
         "subject": "SocialStudies",
@@ -21385,7 +21388,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "World Geography & Cultures"
+        "topic": "World Geography & Cultures",
+        "videoUrl": "https://www.youtube.com/watch?v=_sSCqB264rE"
       }
     ]
   },

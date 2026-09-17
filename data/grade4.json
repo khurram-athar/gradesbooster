@@ -21623,7 +21623,8 @@
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=WqiDSyHYFOg"
       },
       {
         "subject": "Math",
@@ -21703,7 +21704,8 @@
             ]
           }
         ],
-        "topic": "Fractions"
+        "topic": "Fractions",
+        "videoUrl": "https://www.youtube.com/watch?v=dBZ2QGZBH6M"
       },
       {
         "subject": "Science",
@@ -21784,7 +21786,8 @@
             ]
           }
         ],
-        "topic": "Earth Materials & Land (Basic)"
+        "topic": "Earth Materials & Land (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=bgqea0E2eAY"
       },
       {
         "subject": "SocialStudies",
@@ -21844,7 +21847,8 @@
             "answer": 3
           }
         ],
-        "topic": "Media, Technology & Communication"
+        "topic": "Media, Technology & Communication",
+        "videoUrl": "https://www.youtube.com/watch?v=5USw_7MKooU"
       }
     ]
   },

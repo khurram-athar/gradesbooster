@@ -21050,7 +21050,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=Udv-4_pY0vg"
       },
       {
         "subject": "Math",
@@ -21110,7 +21111,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=94AmzeR9n2w"
       },
       {
         "subject": "Science",
@@ -21169,7 +21171,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=9isAx64IiSc"
       },
       {
         "subject": "History",
@@ -21228,7 +21231,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yN4F25Of3E4"
       }
     ]
   },

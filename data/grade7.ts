@@ -21016,7 +21016,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=Ytr28t5VzAs"
       },
       {
         "subject": "Math",
@@ -21076,7 +21077,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=IQ35R6CWqd8"
       },
       {
         "subject": "Science",
@@ -21135,7 +21137,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xd1alir07q4"
       },
       {
         "subject": "SocialStudies",
@@ -21195,7 +21198,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Families & Diversity (Basic)"
+        "topic": "Families & Diversity (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=IPU0S4XQGaU"
       }
     ]
   },

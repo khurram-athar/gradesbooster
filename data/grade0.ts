@@ -25260,7 +25260,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Zg5AAxgf9qg"
       },
       {
         "subject": "Science",
@@ -25468,7 +25469,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Grammar: Sentence Structure"
+        "topic": "Grammar: Sentence Structure",
+        "videoUrl": "https://www.youtube.com/watch?v=PNP7cBnf7pQ"
       },
       {
         "subject": "Math",
@@ -25528,7 +25530,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MIOx7ZMKl6c"
       },
       {
         "subject": "Science",
@@ -25588,7 +25591,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=GzzGFRQQtuE"
       },
       {
         "subject": "SocialStudies",

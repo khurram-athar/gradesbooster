@@ -21056,7 +21056,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Vocabulary"
+        "topic": "Vocabulary",
+        "videoUrl": "https://www.youtube.com/watch?v=9n9HWFhbUPU"
       },
       {
         "subject": "Math",
@@ -21116,7 +21117,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=l5MrtV7ZN88"
       },
       {
         "subject": "Science",
@@ -21176,7 +21178,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=aPUF40j47-o"
       },
       {
         "subject": "SocialStudies",
@@ -21236,7 +21239,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=RXVDryzcaIc"
       }
     ]
   },

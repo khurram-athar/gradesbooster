@@ -26294,7 +26294,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ps2ejnkL3U4"
       },
       {
         "subject": "Math",
@@ -26377,7 +26378,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=xZSTL39XmdA"
       },
       {
         "subject": "Science",
@@ -26457,7 +26459,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Weather, Sky & Space (Basic)"
+        "topic": "Weather, Sky & Space (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=7xhfa29OOBw"
       },
       {
         "subject": "SocialStudies",

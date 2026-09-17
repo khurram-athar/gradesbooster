@@ -20960,7 +20960,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2LJFUn9lMeA"
       },
       {
         "subject": "AdvancedFunctions",
@@ -21020,7 +21021,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Vw-RwPBWS8g"
       },
       {
         "subject": "Calculus",
@@ -21080,7 +21082,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=u1UKIljUWuc"
       },
       {
         "subject": "Physics",
@@ -21139,7 +21142,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VeAVmp9MLH4"
       }
     ]
   },

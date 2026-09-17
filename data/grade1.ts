@@ -25952,7 +25952,8 @@ const curriculum: DayContent[] = [
               "full of"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=U_6mfwXe3Bo"
       },
       {
         "subject": "Math",
@@ -26032,7 +26033,8 @@ const curriculum: DayContent[] = [
               "more"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=1lF1NcWI3dw"
       },
       {
         "subject": "Science",
@@ -26112,7 +26114,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=61Fh-0gCrlQ"
       },
       {
         "subject": "SocialStudies",
@@ -26193,7 +26196,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=glSIDAyyPJA"
       }
     ]
   },
