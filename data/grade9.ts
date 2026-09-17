@@ -46695,6 +46695,7554 @@ const curriculum: DayContent[] = [
         ]
       }
     ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Archetypes in Literature; Writing: The Literary Response Essay; Grammar: Advanced Sentence Fragments and Run-ons; Vocabulary: Denotation and Connotation in Persuasive Texts.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An archetype is best described as ___.",
+            "options": [
+              "A grammar rule",
+              "A recurring character type or pattern found across many stories",
+              "A completely unique element found in only one story ever written",
+              "A type of punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A literary response essay presents ___.",
+            "options": [
+              "An interpretation with no connection to the actual text",
+              "A completely unrelated topic",
+              "Only a summary of the plot with no interpretation",
+              "A reader\u2019s interpretation of a text, supported by evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is a sentence fragment?",
+            "options": [
+              "Running through the rain without an umbrella.",
+              "She ran through the rain without an umbrella.",
+              "Running through the rain, she got soaked.",
+              "She ran, and she got soaked."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A persuasive writer chooses the word 'infested' instead of 'inhabited' mainly to ___.",
+            "options": [
+              "change the sentence's grammatical tense",
+              "create a negative connotation that shapes the reader's attitude",
+              "correct a spelling error",
+              "make the sentence a fragment"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Introduction to Quadratic Relations; Solving Quadratic Equations by Factoring; Exponent Laws: Power of a Power and Power of a Product; Financial Literacy: Understanding Credit and Debt.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A quadratic relation is written in the form ___.",
+            "options": [
+              "y equals a plus b",
+              "y equals a divided by x",
+              "y equals ax squared plus bx plus c",
+              "y equals mx plus b"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The zero product property states that if two factors multiply to zero, then ___.",
+            "options": [
+              "Both factors must always equal one",
+              "Neither factor can ever equal zero",
+              "At least one of the factors must equal zero",
+              "The factors have no relationship to zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the power of a power and power of a product laws, simplify (3x^2)^3.",
+            "options": [
+              "9x^6",
+              "27x^5",
+              "27x^6",
+              "9x^5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A credit card's minimum payment is best described as ___.",
+            "options": [
+              "the smallest amount you must pay to avoid a late fee, though interest still accrues on the remaining balance",
+              "the total balance you owe, which must be paid in full each month",
+              "an amount that eliminates all future interest charges once paid",
+              "a fee charged only when you pay your balance in full"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Cell Division and Growth; Newton\u2019s Three Laws of Motion; Chemical Reactions: Types and Balancing; Electricity: Circuits and Ohm\u2019s Law.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Cell division allows organisms to ___.",
+            "options": [
+              "Lose all genetic material",
+              "Stop all biological processes",
+              "Shrink permanently",
+              "Grow and repair tissue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Newton\u2019s first law describes the concept of ___.",
+            "options": [
+              "Only gravity, with no other forces considered",
+              "Genetic inheritance",
+              "Chemical reactions",
+              "Inertia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To balance the equation Mg + O2 -> MgO, which coefficients are needed?",
+            "options": [
+              "1Mg + 1O2 -> 1MgO",
+              "2Mg + O2 -> 2MgO",
+              "2Mg + 2O2 -> MgO",
+              "Mg + 2O2 -> MgO2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Ohm's Law, if the resistance in a circuit increases while voltage stays constant, the current will ___.",
+            "options": [
+              "increase",
+              "stay exactly the same",
+              "decrease",
+              "become impossible to measure"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Geopolitics: Understanding Borders and Territorial Disputes; Sustainable Cities: Case Studies in Urban Planning; Climate Refugees and Environmental Migration; Economic Geography: Trade Blocs and Global Markets.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Geopolitics examines how ___ influence political relationships between countries.",
+            "options": [
+              "Only music and art",
+              "A topic unrelated to political relationships",
+              "Weather patterns exclusively, with no other factors",
+              "Geography, borders, and territory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sustainable urban planning aims to balance population growth with ___.",
+            "options": [
+              "The complete elimination of all city growth",
+              "Environmental protection and quality of life",
+              "No consideration of environmental impact",
+              "A single unrelated factor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A person forced to leave their home because of rising sea levels or drought is best classified as a(n) ___.",
+            "options": [
+              "economic migrant seeking higher wages",
+              "political refugee fleeing war",
+              "environmental migrant displaced by climate impacts",
+              "tourist relocating temporarily"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A trade bloc such as the European Union primarily allows member countries to ___.",
+            "options": [
+              "eliminate all trade with non-member countries",
+              "reduce or remove trade barriers among members to boost economic cooperation",
+              "merge into a single unified government",
+              "share a single currency by law in every case"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Dramatic Irony; Writing: Writing a Feature Article; Media Literacy: Echo Chambers and Filter Bubbles Online; Grammar: Advanced Modifiers and Sentence Clarity.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Dramatic irony occurs when ___.",
+            "options": [
+              "The audience knows something a character does not",
+              "A character knows everything the audience knows",
+              "No information is withheld from anyone in the story",
+              "Irony never appears in dramatic works"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A feature article typically ___.",
+            "options": [
+              "Reports only brief, surface-level facts with no depth",
+              "Explores a topic in depth, combining facts with engaging storytelling",
+              "Is identical to a basic news report",
+              "Contains no factual information at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A 'filter bubble' occurs when ___.",
+            "options": [
+              "algorithms show users content that reinforces their existing views, limiting exposure to differing opinions",
+              "a website blocks all advertising content",
+              "users intentionally seek out opposing viewpoints",
+              "search engines display results in random order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a misplaced modifier?",
+            "options": [
+              "Maria ate the strawberries covered in chocolate.",
+              "Covered in chocolate, Maria ate the strawberries.",
+              "Maria, who loves strawberries, ate them covered in chocolate.",
+              "Wearing an apron, Maria ate the chocolate-covered strawberries."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Analytic Geometry: Parallel and Perpendicular Lines; Optimization of Perimeter and Area; Systems of Two Linear Relations: A Graphical Introduction; Probability: Combinations and Permutations (Intro).",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Parallel lines have ___.",
+            "options": [
+              "The same slope",
+              "Slopes that are negative reciprocals",
+              "Slopes that are always exactly zero",
+              "No defined slope at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An optimization problem involves finding ___.",
+            "options": [
+              "A measurement unrelated to area or perimeter",
+              "Only the average of several unrelated values",
+              "The maximum or minimum value of a measurement",
+              "A completely random measurement with no goal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When solving a system of two linear equations graphically, the solution is represented by ___.",
+            "options": [
+              "the y-intercept of either line",
+              "the point where the two lines intersect",
+              "the slope of the steeper line",
+              "the midpoint between the two lines' y-intercepts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing 3 books from a shelf of 8 to place in a bag, where the order they're placed in doesn't matter, is an example of a ___.",
+            "options": [
+              "permutation",
+              "ratio",
+              "combination",
+              "proportion"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Biomes and Global Ecosystem Patterns; Acids and Bases: Properties and Reactions; The Respiratory and Circulatory Systems; The Immune System and Disease Prevention.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Biomes are shaped primarily by ___.",
+            "options": [
+              "A factor unrelated to environmental conditions",
+              "Only the colour of the local soil",
+              "Climate patterns",
+              "Random chance with no identifiable pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Acids generally have a pH ___.",
+            "options": [
+              "That cannot be measured",
+              "Always exactly 7",
+              "Above 7",
+              "Below 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the circulatory system, oxygen-rich blood returning from the lungs is pumped out to the rest of the body by the ___.",
+            "options": [
+              "right atrium",
+              "left ventricle",
+              "right ventricle",
+              "pulmonary artery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "White blood cells that produce antibodies to target specific pathogens are called ___.",
+            "options": [
+              "red blood cells",
+              "platelets",
+              "lymphocytes",
+              "capillaries"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Mapping Indigenous Peoples and Territories in Canada; Geography of Energy Transition: Fossil Fuels to Renewables; Comparative Geography: Developed and Developing Regions; Geographic Information Systems in Disaster Response.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Which three groups make up the Indigenous Peoples of Canada?",
+            "options": [
+              "Anglophones, Francophones, and Allophones",
+              "First Nations, M\u00e9tis, and Inuit",
+              "Provinces, Territories, and Municipalities",
+              "Settlers, Immigrants, and Refugees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The energy transition refers to ___.",
+            "options": [
+              "A complete elimination of all energy use",
+              "A concept unrelated to energy production",
+              "A shift from fossil fuel dependence toward renewable energy sources",
+              "A shift toward greater fossil fuel dependence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A country classified as 'developing' typically shows ___ compared to a country classified as 'developed'.",
+            "options": [
+              "a higher Human Development Index and lower poverty rates",
+              "lower average income, less industrialization, and reduced access to services like healthcare",
+              "identical economic indicators in every category",
+              "no measurable differences in infrastructure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Geographic Information Systems (GIS) help disaster response teams primarily by ___.",
+            "options": [
+              "predicting stock market trends",
+              "translating languages during emergencies",
+              "mapping and analyzing spatial data to identify affected areas and plan resource allocation",
+              "eliminating the need for any on-the-ground assessment"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Extended Metaphor in Creative Writing; Reading: Analyzing an Author\u2019s Craft Across a Text; Reading: Analyzing Motif and Recurring Imagery; Grammar: Nominalization and Sentence Complexity.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An extended metaphor is a comparison that ___.",
+            "options": [
+              "Is never used in creative writing",
+              "Is developed and sustained throughout a piece of writing",
+              "Has no connection to the rest of the writing",
+              "Appears only once in a single sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Analyzing an author\u2019s craft involves examining ___.",
+            "options": [
+              "Deliberate choices in structure, language, and literary devices",
+              "A factor unrelated to how the text was written",
+              "The book\u2019s cover design only",
+              "Only a single isolated sentence from the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A motif in a novel refers to ___.",
+            "options": [
+              "a single event that happens only once",
+              "a recurring symbol, image, or idea that reinforces a theme throughout the text",
+              "the author's biography included in a preface",
+              "a footnote explaining unfamiliar vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence demonstrates nominalization (turning a verb into a noun)?",
+            "options": [
+              "The committee reached a decision after lengthy discussion.",
+              "She decided quickly.",
+              "He runs every morning.",
+              "They are happy today."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Trigonometry: Solving for Angles and Sides; Statistics: Box-and-Whisker Plots and Quartiles; Solving Quadratic Equations Using the Quadratic Formula; Completing the Square.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "To find a missing side length in a right triangle when you know an angle and the hypotenuse, you might use ___.",
+            "options": [
+              "Only addition, with no trigonometry involved",
+              "The area formula for a triangle",
+              "A method unrelated to trigonometric ratios",
+              "Sine or cosine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A box-and-whisker plot is built from a data set's ___.",
+            "options": [
+              "Five-number summary",
+              "Single average value only",
+              "Total count of data points only",
+              "Range of colours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the quadratic formula x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a, the expression b\u00b2-4ac is called the ___.",
+            "options": [
+              "coefficient",
+              "discriminant",
+              "constant term",
+              "vertex"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To complete the square for x\u00b2 + 8x, you add ___ to create a perfect square trinomial.",
+            "options": [
+              "8",
+              "4",
+              "64",
+              "16"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Environmental Science: Biomagnification and Bioaccumulation; The Digestive System in Depth; The Skeletal and Muscular Systems in Depth; The Nervous System: Brain, Spinal Cord, and Neurons.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Bioaccumulation refers to ___.",
+            "options": [
+              "The buildup of a substance within an individual organism over time",
+              "A process unrelated to living organisms",
+              "A substance disappearing completely from an organism",
+              "The rapid removal of a substance from an ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main function of the digestive system is to ___.",
+            "options": [
+              "A function unrelated to the digestive system",
+              "Pump blood throughout the body",
+              "Filter air before it reaches the lungs",
+              "Break down food into nutrients the body can absorb and use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Muscles that work in opposing pairs, where one contracts while the other relaxes, are called ___.",
+            "options": [
+              "antagonistic muscles",
+              "synergistic muscles",
+              "cardiac muscles",
+              "smooth muscles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A neuron transmits a signal to the next neuron across a small gap called a ___.",
+            "options": [
+              "ligament",
+              "synapse",
+              "cartilage",
+              "axon"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Geography of Global Supply Chains; Indigenous Treaties and Land Claims in Canada; Geography of Conflict: Resource Wars and Water Scarcity; The Geography of Pandemics and Global Health.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "A global supply chain involves the geographic network of ___.",
+            "options": [
+              "A single unrelated activity with no connection to goods",
+              "Production, transportation, and distribution of goods",
+              "A concept unrelated to geography or economics",
+              "Only local production with no international connections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A treaty between Indigenous peoples and the Crown is best described as ___.",
+            "options": [
+              "A foundational agreement about land and rights",
+              "A type of map projection",
+              "A modern trade agreement unrelated to land",
+              "An informal conversation with no legal weight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Water scarcity is most likely to contribute to regional conflict when ___.",
+            "options": [
+              "water resources are evenly distributed among all countries",
+              "a shared river or aquifer is claimed by multiple nations with competing needs",
+              "rainfall increases consistently across a region",
+              "countries have no economic dependence on water resources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Global health geographers study the spread of disease across regions primarily to ___.",
+            "options": [
+              "identify travel and trade routes that could accelerate transmission and guide containment efforts",
+              "determine the artistic style of a region",
+              "calculate currency exchange rates",
+              "map political party boundaries"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Verb Mood (Indicative, Imperative, Subjunctive); Vocabulary: Precision in Word Choice for Technical Writing; Reading: Analyzing Non-Fiction Argument Structures; Writing: The Editorial (Op-Ed); Media Literacy: How Music and Sound Shape Mood in Film.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "The indicative mood is used to express ___.",
+            "options": [
+              "Commands only",
+              "Facts or statements",
+              "Questions only",
+              "Wishes or hypotheticals only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Technical writing requires word choice that is ___.",
+            "options": [
+              "Precise and unambiguous",
+              "Vague and overly general",
+              "Entirely informal with no clarity required",
+              "Unrelated to the specific topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a non-fiction argument, a 'counterclaim' functions to ___.",
+            "options": [
+              "restate the writer's main claim in different words",
+              "acknowledge an opposing viewpoint before the writer refutes it",
+              "provide a completely unrelated fact",
+              "summarize the entire essay's conclusion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A film's use of a slow, minor-key musical score during a scene is most likely intended to ___.",
+            "options": [
+              "create a sense of tension or sadness in the audience",
+              "indicate that the scene is a flashback",
+              "signal that the dialogue is unimportant",
+              "replace the need for visual imagery"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Systems of Equations by Substitution; Financial Literacy: Investment and Compound Growth; Introduction to the Equation of a Circle; Two-Variable Statistics and Line of Best Fit; Financial Literacy: Understanding Credit Scores.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "In the substitution method, what do you do first with one of the equations?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "Solve it for a single variable",
+              "Multiply both equations together",
+              "Graph both equations immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Investing generally involves ___.",
+            "options": [
+              "Spending money with no consideration of future growth",
+              "A concept unrelated to personal finance",
+              "Putting money into assets with the goal of growing wealth over time",
+              "Only saving money with no potential for growth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The equation (x-3)\u00b2 + (y+2)\u00b2 = 25 represents a circle with ___.",
+            "options": [
+              "center (3, -2), radius 5",
+              "center (-3, 2), radius 25",
+              "center (3, 2), radius 5",
+              "center (-3, -2), radius 25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A line of best fit on a scatter plot is used to ___.",
+            "options": [
+              "connect every single data point exactly",
+              "model the general trend of the data and make predictions",
+              "remove outliers from the data set automatically",
+              "calculate the mode of the data set"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Biotechnology and Genetic Engineering (Intro); The Integumentary System: Skin, Hair, and Nails; Astronomy: Cosmology and the Big Bang Theory; Environmental Science: Invasive Species; Science: Antibiotic Resistance: A Modern Challenge.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Biotechnology uses ___.",
+            "options": [
+              "A concept unrelated to biotechnology",
+              "A process unrelated to living organisms",
+              "Living organisms or their processes to develop useful products",
+              "Only non-living materials with no biological component"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The integumentary system is made up of the skin, hair, and ___.",
+            "options": [
+              "Nails",
+              "Blood vessels only",
+              "A structure unrelated to the integumentary system",
+              "Bones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Big Bang theory proposes that the universe ___.",
+            "options": [
+              "has always existed in its current state with no beginning",
+              "began as an extremely hot, dense point and has been expanding ever since",
+              "was formed from the collision of two existing galaxies only",
+              "is shrinking and will eventually collapse into nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Antibiotic resistance develops when ___.",
+            "options": [
+              "bacteria surviving antibiotic exposure pass on traits that make future generations harder to kill",
+              "antibiotics become more effective the more frequently they are used",
+              "viruses mutate to resist antiviral medication",
+              "the human body stops needing antibiotics altogether"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Urban Sprawl and Its Environmental Costs; Geography of Renewable Resource Management: Forestry and Fisheries; The Arctic: Geopolitics and Climate Change; Geography of Food Systems: From Farm to Table; Geography of National Identity: Symbols, Flags, and Anthems.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Urban sprawl refers to ___.",
+            "options": [
+              "The rapid, spread-out expansion of a city into surrounding areas",
+              "The complete elimination of all urban development",
+              "A concept unrelated to city growth",
+              "A city that maintains a compact, unchanging size"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A renewable resource, such as a forest, can regenerate over time if it is ___.",
+            "options": [
+              "Managed sustainably",
+              "Unrelated to management practices",
+              "Used with no consideration of regeneration",
+              "Depleted completely with no management"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Melting Arctic sea ice has increased geopolitical tension mainly because it ___.",
+            "options": [
+              "has eliminated all national claims to Arctic territory",
+              "opens new shipping routes and access to previously inaccessible natural resources",
+              "has no effect on international trade or resource access",
+              "caused all Arctic nations to unite under a single government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "National symbols such as flags and anthems primarily function to ___.",
+            "options": [
+              "determine a country's economic policy",
+              "serve as legally binding trade agreements",
+              "replace the need for a written constitution",
+              "foster a shared sense of identity and unity among citizens"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Active Reading of Complex Syntax; Writing: Writing a Monologue; Reading: Synthesizing Across a Text Set; Reading: Analyzing Foil Characters.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Complex syntax refers to ___.",
+            "options": [
+              "Long or intricate sentence structures",
+              "Sentences containing no punctuation at all",
+              "Only very short, simple sentences",
+              "A concept unrelated to sentence structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A monologue is best described as ___.",
+            "options": [
+              "A summary of an entire play\u2019s plot",
+              "A conversation between multiple characters",
+              "A written description of a setting only",
+              "An extended speech delivered by a single character"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of synthesizing across a text set?",
+            "options": [
+              "Memorizing exact quotations from one text without comparison",
+              "Combining and comparing ideas from multiple texts to build a broader understanding",
+              "Selecting only the shortest text in the set",
+              "Rewriting each text in simpler language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In fiction, a foil character is primarily included to ___",
+            "options": [
+              "Highlight the protagonist's traits by providing a sharp contrast",
+              "Serve as the narrator of the story",
+              "Repeat the exact personality of the main character",
+              "Bring the plot to its final resolution"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Introduction to Sets and Venn Diagrams (Advanced); Precision, Accuracy, and Error in Measurement; Review: Quadratics, Rational Expressions, and Non-Linear Relations; Solving Systems of Equations by Elimination.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A set is best described as ___.",
+            "options": [
+              "Always an empty collection with no elements",
+              "A single isolated number",
+              "A collection of distinct objects",
+              "A concept unrelated to mathematics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Precision in measurement refers to ___.",
+            "options": [
+              "How consistent repeated measurements are with each other",
+              "A measurement with no connection to consistency",
+              "How close a measurement is to the true value",
+              "The exact colour of a measured object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Accuracy in measurement is best defined as ___",
+            "options": [
+              "How close repeated measurements are to each other",
+              "How close a measured value is to the actual or true value",
+              "The number of significant digits recorded",
+              "The type of instrument used"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When solving a system of two linear equations by elimination, a common first step is to ___",
+            "options": [
+              "Graph both lines and estimate the intersection",
+              "Isolate one variable and substitute it into the other equation",
+              "Multiply one or both equations so a variable's coefficients become opposites",
+              "Convert both equations into standard form only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Genetic Variation and Biodiversity; Science: Osmosis and Diffusion in Cells; Science: The Excretory System: Kidneys and Waste Removal; Density and Buoyancy: Archimedes\u2019 Principle.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What does genetic variation refer to?",
+            "options": [
+              "Differences in genes among individuals of a species",
+              "A single, identical gene shared by every individual",
+              "A process where genes never change at all",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "The movement of particles from high to low concentration",
+              "The movement of particles from low to high concentration only",
+              "A concept unrelated to biology",
+              "A process where particles never move at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The kidneys' main role in the excretory system is to ___",
+            "options": [
+              "Produce insulin for blood sugar control",
+              "Filter blood to remove waste and excess water, forming urine",
+              "Pump oxygenated blood to the body",
+              "Break down large food molecules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Archimedes' principle states that the buoyant force on a submerged object is equal to ___",
+            "options": [
+              "The object's own weight in air",
+              "Zero if the object is fully submerged",
+              "The weight of the fluid the object displaces",
+              "The density of the object alone"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Geography of Technology and the Digital Divide; Regional Integration: Case Studies; Review: Global Geography, Resources, and Regional Cooperation; Coastal Geography and Sea Level Rise.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "The digital divide refers to ___.",
+            "options": [
+              "A divide unrelated to geography or economics",
+              "Equal access to technology everywhere in the world",
+              "A concept unrelated to technology access",
+              "Unequal access to technology and the internet across regions and populations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Regional integration involves countries in a geographic area cooperating closely on ___.",
+            "options": [
+              "No shared matters of any kind",
+              "Only unrelated cultural traditions",
+              "A concept unrelated to international relationships",
+              "Economic and political matters"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rising sea levels most directly threaten coastal regions by ___",
+            "options": [
+              "Increasing agricultural yields near the shore",
+              "Causing flooding, erosion, and loss of habitable land",
+              "Lowering the salinity of ocean water permanently",
+              "Creating new mountain ranges along coastlines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of regional integration in practice?",
+            "options": [
+              "A country building a wall to restrict all trade with neighbors",
+              "A single country adopting a new currency independently",
+              "A group of neighboring countries forming a trade bloc with shared economic policies, such as the European Union",
+              "Two unrelated countries on different continents sharing no agreements"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Symbolism in Literature; Grammar: Shifts in Verb Mood; Vocabulary: Idioms and Figurative Language in Context; Grammar: Coordinating and Subordinating Conjunctions in Complex Sentences.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a literary symbol?",
+            "options": [
+              "A concrete object, person, or image that represents an abstract idea beyond its literal meaning",
+              "A word that sounds like the sound it describes",
+              "A statement that contradicts itself but reveals a truth",
+              "A brief reference to another well-known work"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Verb mood shows a writer's ___.",
+            "options": [
+              "Vocabulary level",
+              "Verb tense only",
+              "Attitude toward the action, such as a fact, command, or wish",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An idiom is best defined as ___",
+            "options": [
+              "A word that imitates a sound",
+              "A phrase whose meaning cannot be understood from the literal meanings of its individual words",
+              "A formal word used only in academic writing",
+              "A grammatical rule for verb conjugation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence 'Although it was raining, she went for a run,' the word 'although' functions as a ___",
+            "options": [
+              "Coordinating conjunction joining two equal independent clauses",
+              "Preposition showing location",
+              "Subordinating conjunction introducing a dependent clause",
+              "Pronoun replacing a noun"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Taxes and Payroll Deductions; The Pythagorean Theorem in Three Dimensions; Geometry: Angle of Elevation and Depression; Systems of Linear and Quadratic Equations.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What are payroll deductions?",
+            "options": [
+              "Extra bonus money added to a paycheque",
+              "Amounts subtracted from an employee\u2019s gross pay",
+              "A type of savings account",
+              "A concept unrelated to financial literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can the Pythagorean theorem help find when extended into three dimensions?",
+            "options": [
+              "A concept unrelated to geometry",
+              "The weight of a rectangular prism",
+              "The colour of a rectangular prism",
+              "The diagonal length of a rectangular prism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The angle of depression from a lookout point to a boat on the water is measured between ___",
+            "options": [
+              "The horizontal line at the observer's eye level and the line of sight down to the boat",
+              "The vertical line and the boat's mast",
+              "Two different boats on the water",
+              "The horizon and the ground beneath the observer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A system consisting of one linear equation and one quadratic equation can have at most how many points of intersection?",
+            "options": [
+              "Zero",
+              "One",
+              "Two",
+              "Four"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Lymphatic System and Immunity; The Water Cycle: Evaporation, Condensation, and Precipitation; Kinetic and Potential Energy Transformations; Blood Composition and Blood Types.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is one main role of the lymphatic system?",
+            "options": [
+              "Digesting food",
+              "Producing sound",
+              "Pumping blood through the heart",
+              "Defending the body against infection"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Evaporation in the water cycle occurs when ___.",
+            "options": [
+              "Water vapour turns directly into ice",
+              "Liquid water absorbs energy and changes into water vapour",
+              "A process unrelated to the water cycle",
+              "Water flows over the land's surface"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As a pendulum swings from its highest point to its lowest point, its energy transforms mainly from ___",
+            "options": [
+              "Kinetic energy into potential energy",
+              "Chemical energy into thermal energy",
+              "Potential energy into kinetic energy",
+              "Nuclear energy into light energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A person with blood type AB is often called the 'universal recipient' because their blood ___",
+            "options": [
+              "Contains both A and B antigens, so it doesn't react to A, B, or AB blood",
+              "Contains no antigens on red blood cells",
+              "Contains antibodies against both A and B antigens",
+              "Cannot be transfused with any other blood type"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Geography of Renewable vs Non-Renewable Resource Extraction; Demographic Transition Model and Population Pyramids; The Geography of Tourism and Its Economic Impact; Deforestation and Land Degradation.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "A renewable resource is best described as one that ___.",
+            "options": [
+              "A concept unrelated to natural resources",
+              "Can be replenished naturally over a relatively short period",
+              "Can never be used without immediately running out",
+              "Exists in a completely fixed and unchangeable supply"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The demographic transition model describes how ___ change as a country develops economically.",
+            "options": [
+              "Birth and death rates",
+              "Only the total land area of a country",
+              "The exact temperature of a country\u2019s climate",
+              "A factor unrelated to population"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A population pyramid with a wide base and narrow top most likely indicates a country with ___",
+            "options": [
+              "A high birth rate and a young population",
+              "An aging population with low birth rates",
+              "Equal numbers of people in every age group",
+              "A declining total population"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Deforestation contributes to land degradation primarily by ___",
+            "options": [
+              "Increasing the soil's ability to retain nutrients",
+              "Removing tree cover that once protected soil from erosion",
+              "Cooling the local climate significantly",
+              "Increasing biodiversity in the cleared area"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Frame Narratives and Nested Stories; Media Literacy: Deepfakes and Synthetic Media; Grammar: Correlative Conjunctions and Sentence Balance; Reading: Evaluating Bias in Historical and Contemporary Texts; Review: Foil Characters, Personal Essays, Frame Narratives, and Bias.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a frame narrative?",
+            "options": [
+              "An outer story that contains and introduces one or more inner stories",
+              "A poem written in a fixed rhyme scheme",
+              "A story with no clear ending",
+              "A story told entirely through letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A deepfake is best described as ___.",
+            "options": [
+              "A completely unedited, original video with no alterations",
+              "A term for any video shared on social media",
+              "Synthetic media created using artificial intelligence to alter or fabricate content",
+              "A concept unrelated to digital media"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a pair of correlative conjunctions?",
+            "options": [
+              "She not only finished her homework but also cleaned her room.",
+              "She finished her homework and also cleaned her room.",
+              "She finished her homework, but she cleaned her room.",
+              "She finished her homework so she cleaned her room."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When evaluating a historical text for bias, a critical reader should primarily consider ___",
+            "options": [
+              "Only the length of the document",
+              "The author's perspective, purpose, and the historical context in which it was written",
+              "Whether the text uses formal vocabulary",
+              "The number of paragraphs the text contains"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Conditional Probability (Intro); Financial Literacy: Understanding Depreciation and Asset Value Over Time; Geometry: The Midpoint of a Line Segment on the Cartesian Plane; Solving Absolute Value Equations and Inequalities; Data Management: Cumulative Frequency and Ogives.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What does conditional probability measure?",
+            "options": [
+              "The probability of an event that can never happen",
+              "A concept unrelated to probability",
+              "The probability of two events that are always identical",
+              "The probability of an event given that another event has already occurred"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is depreciation?",
+            "options": [
+              "The gradual decrease in the value of an asset over time",
+              "A concept unrelated to financial literacy",
+              "A fixed value that never changes for any asset",
+              "The gradual increase in the value of an asset over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The midpoint of a line segment with endpoints (2, 4) and (8, -2) is ___",
+            "options": [
+              "(5, 1)",
+              "(6, 2)",
+              "(10, 2)",
+              "(3, 3)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the solutions to the equation |x - 3| = 7?",
+            "options": [
+              "x = 10 only",
+              "x = 4 and x = -4",
+              "x = 10 and x = -4",
+              "x = -10 and x = 4"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: How Vaccines Train the Immune System; Soil Science and Nutrient Cycling in Agriculture; Science: Newtons Laws of Motion \u2014 An Introduction; Ecological Succession; Review: Buoyancy, Redox Reactions, Energy, and Ecological Succession.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What does a vaccine typically introduce into the body?",
+            "options": [
+              "A random substance with no connection to disease",
+              "A concept unrelated to science",
+              "A weakened, inactivated, or partial form of a pathogen",
+              "A fully active, dangerous version of a disease with no changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nutrient cycling in soil involves ___.",
+            "options": [
+              "Organic matter decomposing and returning nutrients to the soil",
+              "Only water moving through soil, with no nutrient involvement",
+              "Nutrients disappearing permanently once used by a plant",
+              "A concept unrelated to soil health"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Newton's First Law of Motion, an object at rest will ___",
+            "options": [
+              "Accelerate spontaneously without any force",
+              "Remain at rest unless acted on by an unbalanced force",
+              "Always eventually begin moving on its own",
+              "Move only if its mass increases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ecological succession refers to the process by which ___",
+            "options": [
+              "A single species dominates an ecosystem permanently with no change",
+              "All organisms in an area die out at once",
+              "An ecosystem's species composition gradually changes over time, often after a disturbance",
+              "Animals migrate seasonally between two fixed locations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Geography of International Trade Agreements; Indigenous Self-Government and Land Governance in Canada; Geography of Natural Disaster Preparedness and Resilience; The Geography of Refugee Settlement Patterns; Review: Coastal Geography, Trade, Governance, and Refugee Settlement.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "An international trade agreement establishes rules for ___.",
+            "options": [
+              "The complete elimination of all trade between countries",
+              "Economic exchange between countries",
+              "A concept unrelated to international relationships",
+              "Only cultural exchange, with no economic component"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Indigenous self-government refers to the authority of Indigenous communities to ___.",
+            "options": [
+              "A concept unrelated to governance",
+              "Be governed entirely by decisions made outside their communities",
+              "Govern their own affairs, including matters related to their land",
+              "Have no role in decisions affecting their own communities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A community's resilience to natural disasters refers to its ability to ___",
+            "options": [
+              "Prevent all natural disasters from occurring",
+              "Withstand, adapt to, and recover quickly from a disaster's impacts",
+              "Ignore early warning systems",
+              "Rely solely on international aid with no local planning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Refugee settlement patterns are most strongly shaped by ___",
+            "options": [
+              "Random chance with no identifiable factors",
+              "The refugees' favorite climate only",
+              "Proximity to conflict zones, existing diaspora communities, and host country policies",
+              "A universal rule requiring equal distribution across all countries"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Setting as a Literary Element; Writing: The Narrative Essay (Show, Don\u2019t Tell); Grammar: Appositives and Sentence Combining; Vocabulary: Etymology and Word Roots; Reading: Analyzing Direct and Indirect Characterization.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "A story\u2019s setting refers to ___.",
+            "options": [
+              "A concept unrelated to literary analysis",
+              "Only the names of the characters involved",
+              "The time and place in which a story occurs",
+              "The order in which events are told"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The \u201cshow, don\u2019t tell\u201d technique conveys emotion and meaning through ___.",
+            "options": [
+              "A concept unrelated to narrative writing",
+              "Avoiding any description of actions or senses",
+              "Concrete action and sensory imagery rather than direct statement",
+              "Simply stating a character\u2019s feelings outright with no detail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence 'My neighbor, a retired firefighter, mows his lawn every Saturday,' the phrase 'a retired firefighter' is ___",
+            "options": [
+              "A subordinate clause",
+              "An appositive renaming the noun 'neighbor'",
+              "A coordinating conjunction",
+              "The sentence's main verb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Indirect characterization reveals a character's traits primarily through ___",
+            "options": [
+              "The narrator directly stating the character's personality",
+              "A list of adjectives provided in the first chapter",
+              "The character's actions, dialogue, thoughts, and how others react to them",
+              "The title of the book alone"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Simplifying Radicals and Square Roots; Geometry: Inscribed and Circumscribed Circles; Solving Systems of Linear Equations by Elimination; Financial Literacy: Understanding Stocks and Basic Investing; Surface Area and Volume of Spheres and Cones.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
+            "options": [
+              "The entire number, leaving nothing beneath the radical",
+              "Only prime numbers, with no connection to perfect squares",
+              "Perfect square factors",
+              "A concept unrelated to radicals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a circle to be inscribed in a polygon?",
+            "options": [
+              "The circle has no connection to the polygon at all",
+              "The circle passes through every vertex of the polygon",
+              "A concept unrelated to geometry",
+              "The circle fits inside the polygon and touches each side exactly once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When an investor buys a share of stock in a company, they are primarily acquiring ___",
+            "options": [
+              "A loan that the company must repay with fixed interest",
+              "A partial ownership stake in the company",
+              "A guaranteed fixed monthly income",
+              "A tax-free savings account"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The formula for the volume of a sphere with radius r is ___",
+            "options": [
+              "V = (4/3)\u03c0r\u00b3",
+              "V = \u03c0r\u00b2h",
+              "V = 4\u03c0r\u00b2",
+              "V = (1/3)\u03c0r\u00b2h"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Doppler Effect and Changing Sound; The Immune System and Pathogens; Simple Machines and Mechanical Advantage; Light: Reflection and Refraction; The Circulatory and Respiratory Systems.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is the Doppler effect?",
+            "options": [
+              "A change in the colour of an object as it moves",
+              "A sound that never changes no matter how it moves",
+              "A concept unrelated to science",
+              "A change in pitch caused by relative motion between a sound source and a listener"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A pathogen is best described as ___.",
+            "options": [
+              "A concept unrelated to biology",
+              "A cell that always protects the body from disease",
+              "A microorganism, such as a bacterium or virus, that can cause disease",
+              "A nutrient the body requires to survive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Mechanical advantage of a simple machine describes ___",
+            "options": [
+              "The machine's total weight",
+              "The factor by which the machine multiplies an input force",
+              "The color of the machine's material",
+              "The distance the machine can travel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Refraction of light occurs when light ___",
+            "options": [
+              "Bounces off a surface at an equal angle",
+              "Is completely absorbed by an opaque object",
+              "Passes from one medium into another and bends due to a change in speed",
+              "Travels through a vacuum without any medium"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Cartography: Map Projections and Distortion; Time Zones and the Geography of Global Time; Geography of Urban Heat Islands; The Geography of Wildfire Risk and Management; Political Geography: Federal, Provincial, and Municipal Boundaries in Canada.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "A map projection is best described as ___.",
+            "options": [
+              "A method of representing the curved surface of the Earth on a flat map",
+              "A perfectly accurate photograph of the Earth",
+              "A map that shows no distortion of any kind",
+              "A concept unrelated to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Time zones are primarily based on divisions of ___.",
+            "options": [
+              "Ocean currents",
+              "Longitude",
+              "A concept unrelated to geography",
+              "Latitude exclusively, with no connection to longitude"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An urban heat island effect occurs because cities tend to ___",
+            "options": [
+              "Have more vegetation and green space than surrounding rural areas",
+              "Retain and generate more heat due to pavement, buildings, and reduced vegetation",
+              "Experience consistently cooler temperatures than nearby rural areas",
+              "Have no measurable temperature difference from rural areas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Canada's political geography, responsibilities such as healthcare and education are primarily managed at the ___ level of government.",
+            "options": [
+              "Federal",
+              "Municipal",
+              "Provincial",
+              "International"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Advertising Techniques and Persuasion; Writing: The Business Letter and Email Etiquette; Grammar: Active and Passive Voice; Reading: Analyzing Flashback and Foreshadowing.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Advertisements often use persuasive techniques to influence a consumer\u2019s ___.",
+            "options": [
+              "Attitudes and purchasing decisions",
+              "Personal identity in ways that are never intentional",
+              "A concept unrelated to media literacy",
+              "Ability to read, with no connection to persuasion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A business letter or professional email should generally use a ___ tone.",
+            "options": [
+              "A concept unrelated to professional writing",
+              "Casual and full of slang",
+              "Clear, formal, and polite",
+              "Overly emotional and unstructured"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rewriting the passive sentence 'The novel was written by the author' into active voice produces which sentence?",
+            "options": [
+              "The author wrote the novel.",
+              "The novel writes the author.",
+              "The author was writing by the novel.",
+              "Written was the novel by the author."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which detail is most likely an example of foreshadowing in a short story?",
+            "options": [
+              "A character recalling a memory from ten years earlier",
+              "A dark cloud appearing on the horizon just before the protagonist's fortune changes for the worse",
+              "A summary of events that already occurred in a previous chapter",
+              "An author's direct statement addressing the reader"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Currency Exchange and Purchasing Power; Algebra: Graphing Linear Inequalities in Two Variables on the Cartesian Plane; Financial Literacy: Understanding Insurance and Risk Management; Algebra: Solving Systems of Linear Equations by Graphing.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A currency exchange rate determines ___.",
+            "options": [
+              "How much one country\u2019s currency is worth in terms of another",
+              "The total population of a country",
+              "A concept unrelated to finance",
+              "A fixed value that never changes over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first step in graphing a linear inequality in two variables?",
+            "options": [
+              "Draw the boundary line for the related linear equation",
+              "Immediately shade the entire coordinate plane",
+              "A concept unrelated to algebra",
+              "Erase the x-axis and y-axis completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Purchasing insurance is a financial strategy that primarily helps a person ___.",
+            "options": [
+              "Guarantee they will never experience a loss",
+              "Transfer the financial risk of unpredictable losses to an insurance company in exchange for premiums",
+              "Eliminate the need to save any money",
+              "Increase the value of their assets over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When solving a system of two linear equations by graphing, the solution to the system is represented by ___.",
+            "options": [
+              "The y-intercept of either line",
+              "The slope of the steeper line",
+              "The point where the two lines intersect",
+              "The x-intercept of both lines combined"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: The Process of Fermentation; Ocean Currents and Their Effect on Climate; The Human Microbiome and Gut Bacteria; Science: Elements, Compounds, and Mixtures \u2014 Classifying Matter.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is fermentation?",
+            "options": [
+              "A process that only occurs inside rocks",
+              "A process that always requires large amounts of oxygen",
+              "A process in which microorganisms break down sugars without using oxygen",
+              "A concept unrelated to science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ocean currents are large-scale movements of seawater driven by factors such as ___.",
+            "options": [
+              "Random, unpredictable movement with no identifiable cause",
+              "A factor entirely unrelated to ocean water movement",
+              "Only the position of the moon, with no other influence",
+              "Wind, temperature, and salinity differences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The human gut microbiome refers to ___.",
+            "options": [
+              "A single harmful bacterium found in the stomach",
+              "The community of trillions of microorganisms living in the digestive tract that aid digestion and immunity",
+              "A synthetic supplement taken to replace digestion",
+              "A concept unrelated to human biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is classified as a compound rather than a mixture?",
+            "options": [
+              "Salt water",
+              "Air",
+              "Table salt (sodium chloride)",
+              "Granite"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Geography of Cultural Landscapes and Heritage Sites; The Geography of Urban Food Deserts; Geography of Space Exploration and Satellite Technology; Geography of Light and Noise Pollution in Cities.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "A cultural landscape reflects ___.",
+            "options": [
+              "Only natural features with no human influence",
+              "A concept unrelated to geography",
+              "A landscape entirely untouched by human activity",
+              "The interaction between people and their environment over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An urban food desert is best described as an area where residents have limited access to ___.",
+            "options": [
+              "Any form of transportation",
+              "Affordable, healthy food",
+              "Unlimited amounts of fresh food from every nearby store",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Satellites used for GPS navigation primarily allow users to ___.",
+            "options": [
+              "Broadcast television signals exclusively",
+              "Determine precise geographic location through signals from multiple orbiting satellites",
+              "Communicate using only ground-based cables",
+              "Predict volcanic eruptions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Light pollution in cities is most closely associated with which environmental consequence?",
+            "options": [
+              "Disruption of nocturnal animal behavior and human sleep cycles",
+              "Increased soil erosion along riverbanks",
+              "A decrease in urban population density",
+              "An increase in agricultural crop yields"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Setting, Characterization, Advertising, and Active/Passive Voice; Reading: Analyzing Paradox and Oxymoron; Writing: The Process (How-To) Essay; Grammar: Semicolons, Colons, and Complex Punctuation.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Indirect characterization reveals a character's traits mainly through ___.",
+            "options": [
+              "A narrator's direct statement of the trait",
+              "The character's actions, speech, thoughts, and effect on others",
+              "A list of the character's physical measurements",
+              "The book's table of contents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A paradox is best described as ___.",
+            "options": [
+              "A statement that seems contradictory but reveals a deeper truth",
+              "A sentence with no rhetorical purpose whatsoever",
+              "A concept unrelated to literary analysis",
+              "A statement that is always literally false"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which phrase is an example of an oxymoron?",
+            "options": [
+              "\"Jumbo shrimp\"",
+              "\"As busy as a bee\"",
+              "\"The wind whispered through the trees\"",
+              "\"Time flies when you're having fun\""
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A semicolon is most appropriately used to ___.",
+            "options": [
+              "Introduce a list after an independent clause",
+              "Join two closely related independent clauses without a coordinating conjunction",
+              "Separate the subject from the verb in a sentence",
+              "Indicate the end of a declarative sentence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Radicals, Systems, Spheres/Cones, and Logarithms; Algebra: Solving Absolute Value Equations (Intro); Graphing Systems of Linear Inequalities; The Discriminant and the Nature of Roots.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "When solving a system of two linear equations by elimination, the goal of the first step is usually to ___.",
+            "options": [
+              "Make one variable's coefficients opposites (or equal) so it cancels when the equations are added or subtracted",
+              "Immediately graph both lines",
+              "Guess values for x and y at random",
+              "Convert both equations into fractions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the absolute value of a number represent?",
+            "options": [
+              "Its distance from zero on a number line",
+              "The number multiplied by negative one",
+              "A concept unrelated to algebra",
+              "The number divided by two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The logarithmic equation log\u2082(8) = 3 is equivalent to which exponential equation?",
+            "options": [
+              "2^3 = 8",
+              "3^2 = 8",
+              "8^3 = 2",
+              "2^8 = 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For a quadratic equation, if the discriminant (b\u00b2 - 4ac) is negative, the equation has ___.",
+            "options": [
+              "Two distinct real roots",
+              "Exactly one real root",
+              "No real roots (two complex roots)",
+              "Infinitely many real roots"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Biology: Radial and Bilateral Symmetry in Animal Body Plans; The Digestive System and Nutrient Absorption; The Skeletal and Muscular Systems; Physics: How Refrigerators and Heat Pumps Move Heat.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is radial symmetry?",
+            "options": [
+              "A body plan with no repeating pattern of any kind",
+              "A body plan found only in plants",
+              "A body plan with parts arranged evenly around a central point",
+              "A concept unrelated to biology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The digestive system breaks down food into ___.",
+            "options": [
+              "A concept unrelated to biology",
+              "Oxygen that can be used by the lungs",
+              "Waste products only, with no nutrients produced",
+              "Nutrients that can be absorbed into the bloodstream"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An animal with bilateral symmetry, such as a human, can be divided into mirror-image halves along ___.",
+            "options": [
+              "Multiple planes passing through a central point",
+              "A single plane running from head to tail (or front to back)",
+              "No plane at all, since bilateral animals are asymmetrical",
+              "Only a horizontal plane dividing top from bottom"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A refrigerator keeps food cold by ___.",
+            "options": [
+              "Destroying heat energy inside the compartment",
+              "Generating cold air through a chemical reaction",
+              "Absorbing heat from inside the compartment and releasing it to the surrounding environment",
+              "Insulating the compartment so heat cannot enter it at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Map Projections, Urban Heat Islands, Political Boundaries, and Food Deserts; Physical Geography: Weathering, Erosion, and Landform Change; Site and Situation: Why Cities Are Located Where They Are; The Great Depression and Its Impact on Canada.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "An urban heat island effect describes how cities tend to be ___ compared to surrounding rural areas.",
+            "options": [
+              "Significantly warmer, due to pavement, buildings, and reduced vegetation absorbing and retaining heat",
+              "Always cooler because of taller buildings creating shade",
+              "Identical in temperature to nearby rural areas",
+              "Colder due to increased wind flow between buildings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Weathering is best described as the process that ___.",
+            "options": [
+              "Instantly transforms rock into soil with no gradual process",
+              "Transports weathered material from one location to another",
+              "A concept unrelated to physical geography",
+              "Breaks down rock into smaller pieces through physical or chemical processes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A city's 'situation' refers to ___.",
+            "options": [
+              "Its location relative to surrounding regions, resources, and transportation routes",
+              "The exact physical features of the land it is built on",
+              "The year in which the city was founded",
+              "The architectural style of its buildings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "One major effect of the Great Depression on Canada was ___.",
+            "options": [
+              "A sharp increase in international tourism",
+              "Widespread unemployment and the collapse of prices for export goods like wheat",
+              "An immediate boom in manufacturing across all provinces",
+              "The elimination of federal government involvement in the economy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Analogies and Word Relationships; Reading: Identifying Nonfiction Text Structures (Cause-Effect, Sequence, Problem-Solution); Media Literacy: Clickbait and Headline Analysis; Writing: Writing a Critical Review (Book or Film).",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An analogy compares two pairs of words that share ___.",
+            "options": [
+              "A similar relationship",
+              "No connection to each other whatsoever",
+              "A concept unrelated to vocabulary",
+              "The exact same spelling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A cause-and-effect text structure organizes information by showing ___.",
+            "options": [
+              "Two opposing viewpoints with no connection between them",
+              "How one event or condition leads to a resulting outcome",
+              "A concept unrelated to nonfiction text structures",
+              "A list of steps that must occur in a fixed order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A nonfiction passage that presents a problem and then describes possible solutions is using which text structure?",
+            "options": [
+              "Sequence",
+              "Cause-effect",
+              "Problem-solution",
+              "Comparison-contrast"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A headline that reads 'You Won't Believe What Happened Next!' is a classic example of clickbait because it ___.",
+            "options": [
+              "Provides complete, unbiased information about the article's content",
+              "Uses vague, sensationalized language to provoke curiosity and generate clicks rather than inform",
+              "Follows strict journalistic standards of objectivity",
+              "Summarizes the article's main argument in full"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Budgeting and Net Worth; Geometry: Tangent Lines and Basic Circle Theorems (Intro); Volume and Surface Area of Composite 3D Solids; Number Systems: Rational, Irrational, and Real Numbers.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A budget is best described as a tool that tracks ___.",
+            "options": [
+              "Only expenses, with no connection to income",
+              "A person\u2019s age and physical location",
+              "A concept unrelated to financial literacy",
+              "Income and expenses over a period of time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many points does a tangent line touch on a circle?",
+            "options": [
+              "Every point along the circles edge",
+              "Exactly two points",
+              "A concept unrelated to geometry",
+              "Exactly one point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A person's net worth is calculated as ___.",
+            "options": [
+              "Total income minus total expenses in a single month",
+              "Total assets minus total liabilities",
+              "Total savings divided by total debt",
+              "Total liabilities minus total assets"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is classified as irrational?",
+            "options": [
+              "\u221a2",
+              "0.75",
+              "-3",
+              "7/2"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Thermal Energy: Heat Transfer by Conduction, Convection, and Radiation; Astronomy: The Moon, Tides, and Eclipses; The Nervous System and the Brain; Genetics: Predicting Inheritance with Punnett Squares.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Conduction is best described as heat transfer that occurs through ___.",
+            "options": [
+              "Direct contact between particles or objects",
+              "Electromagnetic waves travelling through empty space",
+              "A concept unrelated to thermal energy",
+              "The movement of a heated fluid, such as air or water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ocean tides on Earth are primarily caused by ___.",
+            "options": [
+              "The Moon\u2019s gravitational pull",
+              "The rotation of the Earth on its axis alone",
+              "A concept unrelated to astronomy",
+              "Wind patterns exclusively, with no connection to gravity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Heat transfer by radiation differs from conduction and convection because radiation ___.",
+            "options": [
+              "Requires direct contact between particles",
+              "Can travel through the vacuum of space without a medium",
+              "Only occurs in liquids",
+              "Cannot transfer energy from the Sun to the Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a Punnett square cross between two heterozygous parents (Aa x Aa) for a trait where A is dominant, what fraction of offspring is predicted to show the dominant phenotype?",
+            "options": [
+              "1/4",
+              "1/2",
+              "3/4",
+              "4/4"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Great Lakes: Geography and Environmental Challenges; Toponymy: Place Names and Cultural Meaning; Urban Geography: Housing Affordability and the Housing Crisis; The Geography of Hosting Sport Mega-Events.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "The Great Lakes are best described as ___.",
+            "options": [
+              "A chain of saltwater lakes found only in Canada",
+              "The largest group of freshwater lakes in the world",
+              "A concept unrelated to physical geography",
+              "A single small lake located entirely within Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Toponymy is best described as the study of ___.",
+            "options": [
+              "Population density in a given region",
+              "Weather and climate patterns",
+              "Place names and their origins",
+              "A concept unrelated to geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A housing affordability crisis in a city most directly occurs when ___.",
+            "options": [
+              "Housing costs rise faster than incomes, making it difficult for residents to find affordable homes",
+              "Housing supply and construction rates significantly exceed population growth",
+              "Government rent controls are eliminated in every province simultaneously",
+              "All residents choose to move to rural areas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "One commonly cited economic drawback of a city hosting a sport mega-event, such as the Olympics, is ___.",
+            "options": [
+              "A guaranteed long-term increase in local tax revenue",
+              "The high cost of building venues and infrastructure that may be underused afterward",
+              "An automatic reduction in national debt",
+              "A permanent decrease in tourism after the event ends"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Parallel Structure in Sentences; Writing: Crafting Effective Introductions and Conclusions; Review: Paradox, Process Essays, Clickbait, and Parallel Structure; Vocabulary: Register \u2014 Matching Word Choice to Audience and Purpose; Writing: The Persuasive Op-Ed Rebuttal.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Parallel structure requires that items in a list or comparison ___.",
+            "options": [
+              "A concept unrelated to grammar",
+              "Always contain exactly one word each",
+              "Use as many different grammatical forms as possible",
+              "Share the same grammatical form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An effective introduction should primarily ___.",
+            "options": [
+              "Summarize every detail that will appear later in the essay",
+              "Avoid stating any purpose until the very end of the essay",
+              "Engage the reader and establish a clear purpose or thesis",
+              "A concept unrelated to essay writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the phrase 'kids these days just don't get it' in a formal academic essay would be inappropriate because it ___.",
+            "options": [
+              "Contains too many syllables for the intended audience",
+              "Uses a casual register mismatched with the formal tone expected in academic writing",
+              "Follows strict grammatical rules too closely",
+              "Uses only technical vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A persuasive op-ed rebuttal is most effective when it ___.",
+            "options": [
+              "Directly addresses the opposing viewpoint and provides evidence to counter it",
+              "Ignores the opposing argument entirely and only states one's own opinion",
+              "Relies solely on emotional appeals with no factual support",
+              "Simply restates the original article word for word"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Algebra: Solving Quadratic Equations by Factoring (Intro); Introduction to Polynomials: Terms, Degree, and Classifying; Adding and Subtracting Polynomials; Solving Systems of Equations by Substitution; Scientific Notation: Operations.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What general form does a basic quadratic equation take?",
+            "options": [
+              "x squared plus bx plus c equals zero",
+              "x plus b equals zero",
+              "A concept unrelated to algebra",
+              "x squared equals negative one always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many terms does the polynomial 4x^2 - 7x + 3 have?",
+            "options": [
+              "3",
+              "4",
+              "1",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When solving a system of equations by substitution, the first step is typically to ___.",
+            "options": [
+              "Graph both equations on the same coordinate plane",
+              "Solve one equation for one variable and substitute that expression into the other equation",
+              "Add the two equations together directly",
+              "Multiply both equations by the same constant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the result of (3 \u00d7 10^4) \u00d7 (2 \u00d7 10^3) expressed in scientific notation?",
+            "options": [
+              "6 \u00d7 10^7",
+              "6 \u00d7 10^12",
+              "5 \u00d7 10^7",
+              "6 \u00d7 10^1"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Environmental Science: Ozone Depletion and the Ozone Layer; The Engineering Design Process and Prototyping; Review: The Digestive System, Nervous System, Genetics, and Ozone Depletion; Chemistry: The Periodic Table - Organizing the Elements; Chemistry: Atomic Structure and Bohr-Rutherford Diagrams.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "The ozone layer is primarily important because it absorbs ___.",
+            "options": [
+              "Visible light exclusively, with no connection to radiation",
+              "A concept unrelated to Earth\u2019s atmosphere",
+              "Most of the Sun\u2019s harmful ultraviolet radiation",
+              "Carbon dioxide released from human activity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The engineering design process typically begins by ___.",
+            "options": [
+              "Skipping directly to testing with no planning",
+              "Clearly defining the problem to be solved",
+              "Immediately building a final, finished product",
+              "A concept unrelated to engineering or technology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Elements in the periodic table are primarily organized by increasing ___.",
+            "options": [
+              "Atomic number, which also groups elements with similar chemical properties into columns",
+              "Atomic mass only, with no other pattern",
+              "Alphabetical order of element names",
+              "The year each element was discovered"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Bohr-Rutherford diagram, the electrons are shown ___.",
+            "options": [
+              "Inside the nucleus alongside protons and neutrons",
+              "Orbiting the nucleus in defined energy levels or shells",
+              "Scattered randomly outside the atom with no defined pattern",
+              "Only present in atoms with an even atomic number"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Canada in World War II; Rural Geography: Depopulation and Changing Land Use; Review: Weathering/Erosion, Site and Situation, the Great Lakes, and Housing Affordability; Social Studies: The Geography of Renewable Energy Grids; Social Studies: The Geography of Undersea Internet Cables.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Canada contributed to World War II through ___.",
+            "options": [
+              "Only diplomatic letters with no other support",
+              "Troops, resources, and industrial production",
+              "A single soldier with no broader involvement",
+              "No involvement at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Rural depopulation refers to ___.",
+            "options": [
+              "A process that occurs only within large urban centres",
+              "A significant increase in population within rural areas",
+              "A concept unrelated to geography",
+              "People moving away from rural areas, often toward cities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A major geographic challenge in developing renewable energy grids, such as connecting wind farms to cities, is ___.",
+            "options": [
+              "Renewable energy sources are often located far from population centers, requiring long-distance transmission infrastructure",
+              "Renewable energy sources are always located near major population centers",
+              "Renewable energy requires no transmission infrastructure at all",
+              "Wind and solar energy can be stored indefinitely with no technology needed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Most international internet data is transmitted around the world primarily through ___.",
+            "options": [
+              "Satellites orbiting the Earth",
+              "Undersea fiber-optic cables laid across ocean floors",
+              "Radio towers positioned along coastlines",
+              "Weather balloons carrying signal repeaters"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Split Infinitives and Evolving Usage Rules; Vocabulary: Neologisms in Modern Language; Writing: The Compare-and-Contrast Essay.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a split infinitive?",
+            "options": [
+              "An infinitive that is missing its subject",
+              "A verb with two different tenses at once",
+              "An infinitive verb broken into two separate sentences",
+              "An adverb placed between 'to' and the base verb of an infinitive, such as in 'to boldly go'"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a newly coined word or phrase?",
+            "options": [
+              "A neologism",
+              "A homophone",
+              "A concept unrelated to vocabulary",
+              "A synonym"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to many modern style guides, how has the traditional prohibition against split infinitives changed?",
+            "options": [
+              "It remains strictly forbidden in all formal and informal writing",
+              "It is now widely regarded as acceptable, especially when it improves clarity",
+              "It applies only to spoken English, never to writing",
+              "It was replaced by a stricter rule requiring two adverbs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the 'block method' of organizing a compare-and-contrast essay, how is the content arranged?",
+            "options": [
+              "Each paragraph alternates point-by-point between the two subjects",
+              "Only similarities between the subjects are discussed",
+              "All points about one subject are presented first, followed by all points about the other",
+              "Only differences are discussed, in chronological order"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Data: Box-and-Whisker Plots and Quartiles; Direct and Partial Variation Applications; Data: Correlation vs Causation.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "How many key values does a box-and-whisker plot use to display data?",
+            "options": [
+              "Three",
+              "Five",
+              "Two",
+              "Ten"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In direct variation, is one quantity always a constant multiple of another?",
+            "options": [
+              "No, direct variation never involves a constant multiple",
+              "Yes",
+              "The relationship is always completely random",
+              "A concept unrelated to variation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a box-and-whisker plot, what does the length of the box (the interquartile range) represent?",
+            "options": [
+              "The range between the first and third quartiles",
+              "The total range of all data, from minimum to maximum",
+              "The median value alone",
+              "The distance between the mean and the median"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two variables are found to be strongly correlated. What is required before concluding that one causes the other?",
+            "options": [
+              "A large sample size alone",
+              "Evidence ruling out other explanations, such as coincidence or a confounding variable",
+              "A scatter plot showing a straight line",
+              "Nothing else; correlation alone is sufficient to prove causation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Marine Biology: Coral Reefs and Bleaching; Chemistry: Ionic and Covalent Bonding; Chemistry: Balancing Chemical Equations.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "A concept unrelated to marine biology",
+              "Large boulders that fall from cliffs",
+              "Colonies of tiny coral organisms",
+              "Sand deposited by ocean currents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An ionic bond typically forms between:",
+            "options": [
+              "Two metals",
+              "Two nonmetals",
+              "A metal and a nonmetal",
+              "Two noble gases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a covalent bond, how do the two atoms typically achieve greater stability?",
+            "options": [
+              "One atom transfers its electrons completely to the other",
+              "The atoms share one or more pairs of electrons",
+              "The atoms repel each other's electrons",
+              "Both atoms lose all of their electrons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must a chemical equation be balanced before it correctly represents a reaction?",
+            "options": [
+              "To make the equation easier to read",
+              "To increase the speed of the reaction",
+              "To satisfy the law of conservation of mass, so the number of atoms of each element is equal on both sides",
+              "To change the identity of the products formed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Language Extinction and Preservation; Social Studies: The Geography of Global Supply Chain Disruptions; Social Studies: The Geography of Desalination.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is happening to many of the world\u2019s languages as fewer speakers remain?",
+            "options": [
+              "They are all becoming more widely spoken",
+              "They are being replaced instantly with no loss of any kind",
+              "A concept unrelated to geography",
+              "They are at risk of disappearing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a global supply chain connect across many countries?",
+            "options": [
+              "Only a single country\u2019s local farmers markets",
+              "The production, transportation, and sale of goods",
+              "A concept unrelated to geography",
+              "Nothing at all connected to goods or trade"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary purpose of a desalination plant?",
+            "options": [
+              "To remove salt from seawater in order to produce fresh drinking water",
+              "To increase the salinity of ocean water for aquaculture",
+              "To generate electricity directly from ocean waves",
+              "To purify water using only sunlight and no other process"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which strategy is commonly used by communities working to preserve an endangered language?",
+            "options": [
+              "Banning its use in schools and public life",
+              "Documenting the language and teaching it to new generations through immersion programs",
+              "Encouraging all speakers to switch entirely to a dominant language",
+              "Preventing any written records of the language from being made"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: The Personal Manifesto; Media Literacy: Analyzing AI-Generated Content; Grammar: Absolute Phrases and Sentence Variety; Media Literacy: Analyzing Narrative and Persuasion in Video Games.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What kind of writing expresses an individual\u2019s core beliefs and values?",
+            "options": [
+              "A personal manifesto",
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does AI-generated content include, besides text?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Only printed newspapers",
+              "Only handwritten letters",
+              "Images and video"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains an absolute phrase?",
+            "options": [
+              "Her arms crossed, she waited impatiently by the door.",
+              "She waited by the door because she was tired.",
+              "She waited by the door and then left quickly.",
+              "She, who was tired, waited by the door."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When analyzing persuasion in a video game's narrative, which technique most directly influences player behavior through storytelling?",
+            "options": [
+              "Randomly generating dialogue with no thematic purpose",
+              "Removing all player choice from the game entirely",
+              "Presenting branching storylines that reward certain player decisions to reinforce a message",
+              "Displaying only static text with no interactivity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Comparing Loan Options; Weighted Averages; Geometry: Volume of Composite Solids with Curved Surfaces; Multiplying Binomials Using the Distributive Property (FOIL).",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What is one factor to examine when comparing loan options?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "Interest rates",
+              "The lender\u2019s office location only",
+              "The colour of the lender\u2019s logo"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a weighted average account for that a simple average does not?",
+            "options": [
+              "A concept unrelated to averages",
+              "The relative importance of each value",
+              "Only the largest value in a set",
+              "Only the smallest value in a set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the volume of a composite solid made of a cylinder topped with a hemisphere, what should you do?",
+            "options": [
+              "Multiply the volume of the cylinder by the volume of the hemisphere",
+              "Add the volume of the cylinder to the volume of the hemisphere",
+              "Subtract the hemisphere's volume from the cylinder's volume",
+              "Use only the cylinder's volume formula and ignore the hemisphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the FOIL method, what is the product of (x + 3)(x + 5)?",
+            "options": [
+              "x^2 + 8x + 15",
+              "x^2 + 15x + 8",
+              "x^2 + 8x + 8",
+              "x^2 + 2x + 15"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Bioplastics and Sustainable Materials; Chemistry: Types of Chemical Reactions; Physics: Conductors, Insulators, and Semiconductors; Science: Battery Technology and Energy Storage.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What are bioplastics made from?",
+            "options": [
+              "Only petroleum, just like traditional plastic",
+              "A concept unrelated to materials science",
+              "Only metal and glass",
+              "Renewable sources, such as corn starch or sugarcane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A + B -> AB is the general pattern for which type of reaction?",
+            "options": [
+              "Double displacement",
+              "Synthesis (combination)",
+              "Decomposition",
+              "Single displacement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a semiconductor from a true conductor?",
+            "options": [
+              "A semiconductor's conductivity can be controlled and falls between that of a conductor and an insulator",
+              "A semiconductor conducts electricity better than any metal conductor",
+              "A semiconductor never conducts electricity under any condition",
+              "A semiconductor is always in a liquid state"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a rechargeable lithium-ion battery, what happens during the charging process?",
+            "options": [
+              "The battery converts stored chemical energy directly into light",
+              "Electrons flow from the anode to the cathode, releasing energy",
+              "Lithium ions move from the cathode to the anode, storing energy",
+              "Lithium ions are permanently destroyed and replaced"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Megacities and Informal Settlements; Social Studies: The Geography of Climate Adaptation Strategies; Social Studies: The Geography of Commercial Spaceflight; Social Studies: The Geography of Global Health Disparities.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a megacity?",
+            "options": [
+              "A small rural village",
+              "A city with a population over 10 million people",
+              "A city with no residents at all",
+              "A concept unrelated to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do climate adaptation strategies help communities do?",
+            "options": [
+              "Ignore climate change completely",
+              "A concept unrelated to geography",
+              "Adjust to the effects of a changing climate",
+              "Reverse climate change entirely on their own"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What often characterizes an informal settlement found on the outskirts of a megacity?",
+            "options": [
+              "Housing built without formal legal land tenure or official urban planning",
+              "Government-planned housing with complete infrastructure",
+              "Land used exclusively for large-scale agriculture",
+              "A gated community reserved for wealthy residents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a key geographic factor contributing to global health disparities between regions?",
+            "options": [
+              "Every country having identical access to healthcare resources",
+              "Disease affecting only wealthy nations",
+              "Unequal access to healthcare infrastructure and medical resources between regions",
+              "Climate having no measurable effect on health outcomes"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Narrative Analysis, Grammar, and Media Literacy (Days 81-89); Reading: Analyzing Allegory in Literature; Writing: The Definition Essay; Grammar: Gerunds, Infinitives, and Verbals.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What do we call a narrative told through letters or diary entries?",
+            "options": [
+              "A biography",
+              "A recipe",
+              "A concept unrelated to reading",
+              "An epistolary narrative"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an allegory?",
+            "options": [
+              "A factual news report",
+              "A concept unrelated to reading",
+              "A narrative whose characters and events symbolically represent deeper meanings",
+              "A type of poem with no symbolic meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary purpose of a definition essay?",
+            "options": [
+              "To narrate a personal experience in chronological order",
+              "To explain and clarify the meaning of a complex or abstract term",
+              "To argue persuasively for a specific policy change",
+              "To compare two entirely unrelated subjects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence 'Swimming is her favorite hobby,' what role does the word 'Swimming' play?",
+            "options": [
+              "It is a gerund functioning as the subject of the sentence",
+              "It is a present participle modifying 'hobby'",
+              "It is an infinitive verb form",
+              "It is a plain verb in the present tense"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Algebra, Statistics, and Financial Literacy (Days 81-89); Exponent Laws: Zero and Negative Exponents; Graphing Quadratic Functions in Vertex Form; Measures of Central Tendency: Mean, Median, and Mode.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "In the substitution method, what is the first step?",
+            "options": [
+              "Add both equations together without isolating anything",
+              "Graph both equations immediately",
+              "Isolate one variable in one equation",
+              "A concept unrelated to systems of equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does any nonzero number raised to the exponent zero equal?",
+            "options": [
+              "0",
+              "A concept unrelated to exponents",
+              "The base itself",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the value of x^-3, expressed using a positive exponent?",
+            "options": [
+              "1/x^3",
+              "-x^3",
+              "x^3",
+              "-1/x^3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which measure of central tendency is most affected by a single extreme outlier in a data set?",
+            "options": [
+              "Mode",
+              "Median",
+              "Range",
+              "Mean"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Physics: Ohm's Law - Voltage, Current, and Resistance; Science: Chemical vs Physical Changes: Identifying the Difference; Science: The Law of Conservation of Mass; Science: Taxonomy and Classification of Living Things.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Ohm's Law is expressed as:",
+            "options": [
+              "V = I + R",
+              "V = I / R",
+              "V = I x R",
+              "V = R / I"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to a substance\u2019s chemical composition during a physical change?",
+            "options": [
+              "It is destroyed entirely",
+              "A concept unrelated to physical changes",
+              "It always changes completely",
+              "It stays the same"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to the Law of Conservation of Mass, what happens to the total mass of reactants and products in a chemical reaction?",
+            "options": [
+              "The total mass increases as new atoms are created",
+              "The total mass decreases as energy is released",
+              "The total mass remains constant",
+              "The total mass becomes zero once the reaction completes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the taxonomic hierarchy, which level is broader and contains more organisms: Order or Family?",
+            "options": [
+              "Family",
+              "Order",
+              "They contain exactly the same organisms",
+              "Neither is an actual taxonomic level"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Global Geography and Modern Issues (Days 81-89); Social Studies: Economic Geography: Special Economic Zones (SEZs); Social Studies: The Geography of Border Walls and Migration Control; Social Studies: Urban Gentrification and Neighbourhood Change.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What do renewable energy grids connect power sources to?",
+            "options": [
+              "Only remote, unpopulated areas",
+              "Homes and businesses",
+              "Nothing at all",
+              "A concept unrelated to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Special Economic Zone?",
+            "options": [
+              "A region with no economic activity at all",
+              "A concept unrelated to geography",
+              "An area where all trade is banned",
+              "A designated area offering reduced taxes and looser regulations to attract investment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one commonly cited criticism of border walls as a migration control strategy?",
+            "options": [
+              "They completely eliminate all unauthorized crossings",
+              "They are inexpensive to build and require no maintenance",
+              "They can disrupt wildlife migration and divide border communities without fully stopping crossings",
+              "They have no effect on local ecosystems or communities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What best describes urban gentrification?",
+            "options": [
+              "A process where a neighborhood is renovated and attracts wealthier residents, often displacing lower-income residents",
+              "The abandonment of a neighborhood with no new investment",
+              "The construction of a purely industrial zone with no housing",
+              "A government policy that bans any changes to existing housing"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Euphemism and Doublespeak; Reading: Analyzing Allusion in Literature; Writing: Writing a Scene: Dialogue and Stage Directions; Media Literacy: Analyzing Memes and Internet Culture.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A mild or indirect word used in place of a harsher one",
+              "A type of punctuation mark",
+              "A word that always makes something sound more shocking",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A detailed, direct explanation of a topic",
+              "A concept unrelated to reading",
+              "A brief, indirect reference to a person, event, or work from history or another text",
+              "A type of punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a script, what is the primary function of stage directions?",
+            "options": [
+              "To replace dialogue entirely",
+              "To specify the font of the printed play",
+              "To indicate actors' movements, tone, and setting details not conveyed by dialogue alone",
+              "To provide historical context about the playwright"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When analyzing an internet meme, why is understanding cultural context especially important?",
+            "options": [
+              "Because all memes contain formal citations",
+              "Because the humor or meaning often relies on shared references, irony, or trends that an outside audience may not recognize",
+              "Because memes are always politically neutral",
+              "Because meme captions must follow strict grammatical rules"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Financial Literacy: Understanding Income Tax Basics; Trigonometry: Angle of Elevation and Depression; Converting Between Forms of a Linear Equation; Probability: Independent and Dependent Events.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What is income tax?",
+            "options": [
+              "A fee charged only when purchasing groceries",
+              "A percentage of a person\u2019s earnings paid to the government",
+              "A one-time payment made only once in a lifetime",
+              "A concept unrelated to financial literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the angle of elevation measured from?",
+            "options": [
+              "A vertical line downward to an object",
+              "A horizontal line upward to an object",
+              "A concept unrelated to trigonometry",
+              "The ground directly below an object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A linear equation is given in slope-intercept form as y = 3x - 5. What is its equivalent standard form (Ax + By = C, with A > 0)?",
+            "options": [
+              "3x - y = 5",
+              "3x + y = 5",
+              "x - 3y = 5",
+              "3x - y = -5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A bag contains colored marbles. You draw one marble, do NOT replace it, and then draw a second marble. How should the two draws be classified?",
+            "options": [
+              "independent events, since each draw uses a different marble",
+              "complementary events, since the two draws must have different colors",
+              "dependent events, since the outcome of the first draw changes the probabilities for the second",
+              "mutually exclusive events, since both marbles cannot be drawn at the same time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Series and Parallel Circuits; Science: Biodiversity and Ecosystem Stability; Science: Earthquakes and Seismic Waves; Science: Genetically Modified Organisms in Agriculture.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "In a series circuit, are components connected along a single path?",
+            "options": [
+              "A series circuit has no path for current at all",
+              "No, series circuits always have multiple separate paths",
+              "A concept unrelated to circuits",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does biodiversity refer to?",
+            "options": [
+              "A concept unrelated to biology",
+              "The total number of rocks in an ecosystem",
+              "The average temperature of an ecosystem",
+              "The variety of species within an ecosystem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a parallel circuit, if one branch is broken (for example, a bulb burns out), what happens to the other branches?",
+            "options": [
+              "They continue to operate normally, since each branch provides its own separate path for current",
+              "All other branches also stop working immediately",
+              "The total resistance of the circuit becomes infinite",
+              "The voltage across the whole circuit drops to zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of seismic wave travels fastest through the Earth and is the first to arrive at a seismograph after an earthquake?",
+            "options": [
+              "S-waves",
+              "Surface waves",
+              "P-waves",
+              "Love waves"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Critical Mineral Mining for Batteries and EVs; Social Studies: The Geography of Data Centres and Cloud Computing Infrastructure; Social Studies: Urban Agriculture and Vertical Farming; Social Studies: The Geography of Air Pollution and Smog in Cities.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Name one critical mineral used in manufacturing electric vehicle batteries.",
+            "options": [
+              "A concept unrelated to critical minerals",
+              "Lithium",
+              "Oxygen",
+              "Table salt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do data centres store and process?",
+            "options": [
+              "Only physical paper documents",
+              "The world\u2019s digital information",
+              "A concept unrelated to geography",
+              "Only handwritten letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one key advantage of vertical farming in urban areas?",
+            "options": [
+              "It requires significantly more farmland than traditional farming",
+              "It allows crops to be grown in stacked layers within cities, reducing transport distances to consumers",
+              "It eliminates the need for any water or nutrients",
+              "It can only be practiced in rural regions far from cities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which factor most directly contributes to photochemical smog formation in densely populated cities?",
+            "options": [
+              "A significant increase in annual rainfall",
+              "Vehicle and industrial emissions reacting with sunlight to form ground-level pollutants",
+              "Dense forest cover surrounding the city",
+              "A high concentration of oxygen in the atmosphere"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Cohesion and Transitional Phrases; Grammar: Subject-Verb Agreement with Collective Nouns and Indefinite Pronouns; Review: Allegory, Grammar, Vocabulary, and Narrative Structure (Days 91-99); Reading: Analyzing Personification and Pathetic Fallacy.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does cohesion refer to in writing?",
+            "options": [
+              "The font size used in a document",
+              "The exact number of words in a sentence",
+              "A concept unrelated to grammar",
+              "How smoothly ideas connect within and between paragraphs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence shows correct subject-verb agreement with a collective noun?",
+            "options": [
+              "The team is practicing every day this week.",
+              "The team am practicing every day this week.",
+              "The team be practicing every day this week.",
+              "The team are practicing every day this week."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly demonstrates subject-verb agreement with an indefinite pronoun?",
+            "options": [
+              "Everyone have finished their homework.",
+              "Everybody is bringing a snack to the party.",
+              "Somebody are waiting outside.",
+              "Nobody were listening carefully."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes pathetic fallacy from personification in general?",
+            "options": [
+              "Pathetic fallacy specifically attributes human emotions to nature or weather to reflect mood or atmosphere",
+              "Personification can only be used in poetry, never prose",
+              "Pathetic fallacy never involves emotions, only actions",
+              "They are two words for exactly the same literary device with no distinction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Interval Notation and Number Lines; Solving Systems of Equations Graphically; Review: Exponents, Quadratics, Statistics, and Systems (Days 91-99); Factoring Trinomials of the Form x^2 + bx + c.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What does interval notation represent?",
+            "options": [
+              "A concept unrelated to math",
+              "A single, exact numerical value",
+              "The angle measure of a triangle",
+              "A range of values on a number line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When solving a system of equations graphically, what does the point of intersection represent?",
+            "options": [
+              "The y-intercept of only one equation",
+              "The solution that satisfies both equations",
+              "A concept unrelated to systems of equations",
+              "A point that satisfies neither equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In interval notation, what does a square bracket, such as in [3, 7], indicate about that endpoint?",
+            "options": [
+              "The endpoint is excluded from the interval",
+              "The endpoint is included in the interval",
+              "The interval extends to infinity",
+              "The endpoint is undefined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of factors correctly factors the trinomial x^2 + 7x + 12?",
+            "options": [
+              "(x + 3)(x + 4)",
+              "(x + 2)(x + 6)",
+              "(x + 1)(x + 12)",
+              "(x - 3)(x - 4)"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Biology: Nutrient Cycles - Carbon and Nitrogen; Science: Fossil Fuels: Formation and Environmental Impact; Review: Chemistry, Biology, Physics, and Earth Science (Days 91-99); Science: Volcanoes and Volcanic Activity.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Which process removes carbon dioxide from the atmosphere and stores carbon in plants?",
+            "options": [
+              "Photosynthesis",
+              "Combustion",
+              "Respiration",
+              "Decomposition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do fossil fuels form from?",
+            "options": [
+              "A concept unrelated to earth science",
+              "The remains of ancient organisms",
+              "Pure water evaporated from the ocean",
+              "Freshly grown plants harvested this year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which process converts atmospheric nitrogen gas (N2) into a form that plants can absorb and use?",
+            "options": [
+              "Combustion",
+              "Nitrogen fixation",
+              "Transpiration",
+              "Condensation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is magma called once it erupts onto Earth's surface during a volcanic eruption?",
+            "options": [
+              "Tephra",
+              "Pumice",
+              "Lava",
+              "Magma (no name change occurs)"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of International Aid and Development; Social Studies: Cultural Diffusion and the Globalization of Cuisine; Review: Economic and Urban Geography (Days 91-99); Social Studies: Ecological Footprint: Measuring Human Impact on the Planet.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What does international aid involve transferring to support development?",
+            "options": [
+              "Nothing at all connected to development",
+              "Resources, funding, or expertise",
+              "A concept unrelated to geography",
+              "Only military equipment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is cultural diffusion?",
+            "options": [
+              "A method for measuring rainfall",
+              "The spread of cultural elements, such as food, from one region to another",
+              "A concept unrelated to geography",
+              "A process that only ever occurs within a single isolated village"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of the globalization of cuisine driven by cultural diffusion?",
+            "options": [
+              "A country banning all imported food products",
+              "Sushi restaurants becoming common in cities far from Japan due to migration and trade",
+              "A region growing only crops native to its own soil",
+              "A government requiring all restaurants to serve only traditional local dishes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a person's ecological footprint measure?",
+            "options": [
+              "The physical size of the land a person owns",
+              "The number of countries a person has visited",
+              "The amount of land and resources required to support a person's lifestyle and absorb their waste",
+              "The size of a person's carbon-based vehicle"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Structuring a Formal Debate Speech; Grammar: Comma Splices and Fused Sentences; Vocabulary: Loaded Language and Propaganda Techniques; Reading: Understanding Hyperbole and Understatement.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What must a formal debate speech present?",
+            "options": [
+              "A list of unrelated facts with no argument",
+              "A concept unrelated to writing",
+              "A summary of the opposing team\u2019s schedule",
+              "A clear claim supported by evidence and reasoning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a comma splice?",
+            "options": [
+              "A sentence with no punctuation errors at all",
+              "Two independent clauses joined incorrectly by only a comma",
+              "A single independent clause with a period at the end",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a fused sentence (also called a run-on sentence)?",
+            "options": [
+              "A sentence that uses too many commas to separate items in a list",
+              "Two or more independent clauses joined with no punctuation or conjunction at all",
+              "A single independent clause missing a subject",
+              "A sentence that is grammatically correct but stylistically weak"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which technique uses emotionally charged words to influence an audience's opinion rather than presenting neutral facts?",
+            "options": [
+              "Onomatopoeia",
+              "Verbal irony",
+              "Understatement",
+              "Loaded language"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Exponent Laws: Multiplying and Dividing Powers with the Same Base; Data Management: Frequency Tables and Histograms; Percent Change: Increase and Decrease Applications; Solving Multi-Step Linear Equations with Fractions and Decimals.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "When multiplying powers with the same base, what operation is performed on the exponents?",
+            "options": [
+              "A concept unrelated to exponents",
+              "They are multiplied together",
+              "They are subtracted",
+              "They are added"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a frequency table organize?",
+            "options": [
+              "Data into intervals with a count of how many values fall in each",
+              "A single value repeated many times with no intervals",
+              "A concept unrelated to data management",
+              "Only the largest and smallest values in a data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When dividing powers with the same base, such as x^8 divided by x^3, what operation is performed on the exponents?",
+            "options": [
+              "They are added",
+              "They are multiplied",
+              "They are subtracted",
+              "They are divided"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A jacket's price increases from $40 to $50. What is the percent increase?",
+            "options": [
+              "20%",
+              "25%",
+              "10%",
+              "80%"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Naming Chemical Compounds: Ionic and Molecular Nomenclature; Biology: Population Dynamics and Carrying Capacity; Science: Food Chains, Food Webs, and Energy Pyramids; Science: The Particle Theory of Matter and Changes of State.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "How is an ionic compound like sodium chloride typically named?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Metal name followed by the nonmetal name with an -ide ending",
+              "Two nonmetal names joined with no ending change",
+              "Only the chemical formula, with no written name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Carrying capacity refers to:",
+            "options": [
+              "The total number of species in an ecosystem",
+              "The maximum population size an environment can sustainably support",
+              "The number of predators in an area",
+              "The rate at which animals reproduce"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which prefix is used in naming molecular (covalent) compounds to indicate two atoms of an element, as in carbon dioxide (CO2)?",
+            "options": [
+              "Mono-",
+              "Di-",
+              "Tri-",
+              "Tetra-"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a food chain's energy pyramid, approximately what percentage of energy is transferred from one trophic level to the next?",
+            "options": [
+              "100%",
+              "50%",
+              "10%",
+              "90%"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Hydroelectric Power and Dam Construction; Social Studies: Aging Populations and the Dependency Ratio; Social Studies: The Informal Economy in Developing Regions; Social Studies: Separatist Movements and Political Geography.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What does hydroelectric power use to generate electricity?",
+            "options": [
+              "Burning coal to heat water into steam",
+              "Flowing or falling water turning turbines",
+              "A concept unrelated to geography",
+              "Wind passing over large blades"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the dependency ratio compare?",
+            "options": [
+              "The number of dependents to the working-age population",
+              "The total land area to the total population",
+              "A concept unrelated to population geography",
+              "The number of cities to the number of provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which best describes economic activity in the 'informal economy'?",
+            "options": [
+              "Work that is officially registered, taxed, and regulated by the government",
+              "Unregulated economic activity that is not officially monitored, taxed, or protected by labor laws",
+              "Only illegal criminal enterprises such as smuggling",
+              "Large multinational corporations operating across many countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What best defines a separatist movement in political geography?",
+            "options": [
+              "A movement seeking to establish universal free trade agreements",
+              "A campaign to merge two or more nations into a single government",
+              "An effort to redraw internal boundaries without changing national sovereignty",
+              "A movement in which a group within a country seeks to break away and form an independent state"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Satire and Social Commentary; Grammar: Apostrophes for Possession and Contraction; Reading: Analyzing Juxtaposition in Literature; Media Literacy: Fact vs Opinion in News Reporting.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the primary purpose of satire?",
+            "options": [
+              "To entertain readers with no deeper meaning",
+              "To provide a strictly factual news report",
+              "To describe a setting in vivid detail",
+              "To use humor, irony, or exaggeration to criticize or expose flaws in people, institutions, or society"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is possession typically shown for a singular noun?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Add only an s with no apostrophe",
+              "Add an apostrophe and s",
+              "Add an apostrophe at the very start of the word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In literary analysis, juxtaposition is best described as placing two elements near each other in order to\u2014",
+            "options": [
+              "Blend them into a single new word",
+              "Highlight their differences by contrast",
+              "Create a rhyme scheme",
+              "Establish the setting of a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following statements is a factual claim rather than an opinion, as taught in media literacy analysis of news reporting?",
+            "options": [
+              "\"The new policy is the worst decision ever made.\"",
+              "\"This movie was fantastic.\"",
+              "\"The unemployment rate fell to 4.2% last month, according to government data.\"",
+              "\"This is clearly the best solution.\""
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: The Number of Solutions to a Linear System (None, One, or Infinite); Dividing Polynomials by a Monomial; Scale Diagrams and Scale Factor; Simplifying Cube Roots and Higher-Order Radicals.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "How many solutions does a linear system have if the two lines intersect at a single point?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "No solution",
+              "One solution",
+              "Infinitely many solutions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: (6x^2 + 9x) \u00f7 3x",
+            "options": [
+              "3x + 3",
+              "2x + 9x",
+              "2x + 3",
+              "6x + 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A model car is built using a scale factor of 1:24. If the model is 8 cm long, how long is the actual car in meters?",
+            "options": [
+              "19.2 m",
+              "1.92 m",
+              "0.192 m",
+              "2.4 m"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify the radical: the cube root of 54",
+            "options": [
+              "2 times the cube root of 3",
+              "6 times the cube root of 3",
+              "3 times the cube root of 2",
+              "9 times the cube root of 2"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Science: Lenses and the Formation of Images (Concave and Convex); Science: Weather Systems: Air Masses and Fronts; Science: The Excretory System and Waste Removal; Biology: Keystone Species and Ecosystem Balance.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Does a convex lens curve outward?",
+            "options": [
+              "A concept unrelated to lenses",
+              "No, a convex lens always curves inward",
+              "Convex lenses have no defined curvature",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an air mass?",
+            "options": [
+              "A single raindrop falling from a cloud",
+              "A large body of air with fairly uniform temperature and humidity",
+              "A small pocket of gas found underground",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organ in the excretory system is primarily responsible for filtering waste products from the blood to form urine?",
+            "options": [
+              "The liver",
+              "The kidneys",
+              "The bladder",
+              "The pancreas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A keystone species has a disproportionately large effect on its ecosystem relative to its population size. What typically happens if a keystone species is removed?",
+            "options": [
+              "The ecosystem structure can dramatically change or collapse",
+              "There is no effect, since keystone species are easily replaceable",
+              "Biodiversity always increases",
+              "The ecosystem becomes more stable"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: The Cold War and Canada\u2019s Role; Social Studies: Smart Cities: Technology and Urban Planning Innovation; Social Studies: Ocean Plastic Pollution and Marine Debris; Social Studies: The Geography of Renewable Wind Energy Siting.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "During the Cold War, Canada generally aligned with ___.",
+            "options": [
+              "Western allies",
+              "No other countries at all",
+              "Only isolated, unrelated nations",
+              "The Soviet Union exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a smart city use to improve urban services?",
+            "options": [
+              "A complete absence of any infrastructure",
+              "A concept unrelated to urban geography",
+              "Digital technology and data collection",
+              "Only traditional paper-based record keeping"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Great Pacific Garbage Patch is best described as\u2014",
+            "options": [
+              "A solid island of trash you can walk on",
+              "A dense accumulation of floating plastic debris and microplastics concentrated by ocean currents",
+              "A protected marine sanctuary with no debris",
+              "A newly formed volcanic island"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When choosing a site for a large wind farm, geographers primarily look for locations with\u2014",
+            "options": [
+              "Consistent, strong wind resources, such as coastlines or open plains",
+              "Low, inconsistent wind speeds",
+              "Dense urban centers",
+              "Areas with no available wind data"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Review: Personification, Grammar, Figurative Language, and Media Literacy (Days 101-109); Writing: Writing an Interview Script \u2014 Question Design and Follow-Ups; Vocabulary: Portmanteau Words and Blends; Reading: Analyzing Anaphora and Repetition for Effect.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "A type of formal persuasive essay",
+              "A concept unrelated to reading",
+              "A literary device that gives human qualities to non-human things",
+              "A device that removes all emotion from a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main difference between an open-ended and a closed question in an interview?",
+            "options": [
+              "There is no real difference between the two",
+              "Closed questions are always considered rude to ask",
+              "Open-ended questions can only be answered with 'yes' or 'no'; closed questions require detail",
+              "Closed questions can be answered briefly, often with yes/no or a fact; open-ended questions invite detailed, reflective answers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is an example of a portmanteau word?",
+            "options": [
+              "Brunch (a blend of breakfast and lunch)",
+              "Cats",
+              "Running",
+              "Blue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Anaphora is a rhetorical device that involves\u2014",
+            "options": [
+              "Comparing two unlike things using \"like\" or \"as\"",
+              "Using words that imitate sounds",
+              "Repeating a word or phrase at the beginning of successive clauses or sentences for emphasis",
+              "Contradicting oneself for ironic effect"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Review: Factoring, Data Management, Equations, and Radicals (Days 101-109); Factoring by Grouping; Factoring the Difference of Squares; Slope as Rate of Change: Interpreting Real-World Graphs.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
+            "options": [
+              "A concept unrelated to factoring",
+              "x",
+              "b",
+              "c"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Factor by grouping: x^3 + 2x^2 + 3x + 6",
+            "options": [
+              "(x + 2)(x^2 + 3)",
+              "(x - 2)(x^2 + 3)",
+              "(x + 3)(x^2 + 2)",
+              "(x + 2)(x^2 - 3)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Factor completely: 9x^2 - 25",
+            "options": [
+              "(9x - 5)(x + 5)",
+              "(3x - 5)(3x + 5)",
+              "(3x - 5)^2",
+              "(9x - 25)(x + 1)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A graph shows the distance a cyclist travels over time as a straight line. The slope of this line represents the cyclist's\u2014",
+            "options": [
+              "Total distance travelled",
+              "Starting position",
+              "Average speed",
+              "Time elapsed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Review: Earth Science, Biology, Chemistry, and Physics (Days 101-109); The Human Eye and the Physics of Vision; Space Science: The Solar System - Structure and Scale; Antibiotic Resistance: A Modern Challenge.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is magma called once it reaches the Earth\u2019s surface?",
+            "options": [
+              "Lava",
+              "Sediment",
+              "Ash only",
+              "A concept unrelated to volcanoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structure in the eye focuses light onto the retina?",
+            "options": [
+              "The trachea",
+              "The epidermis",
+              "The lens",
+              "The eardrum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is true regarding the scale of our solar system?",
+            "options": [
+              "The distances between planets are roughly comparable to the planets' diameters",
+              "The distances between planets are enormous compared to planet sizes, so models are rarely built to true scale",
+              "All planets orbit at the same distance from the Sun",
+              "The Sun is smaller in diameter than Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Antibiotic resistance develops in bacterial populations primarily through\u2014",
+            "options": [
+              "Antibiotics converting harmless bacteria into resistant ones",
+              "Bacteria intentionally choosing to resist antibiotics",
+              "A complete absence of any genetic change in bacteria",
+              "Natural selection favoring bacteria with mutations that let them survive antibiotic exposure"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Review: Geography and Global Issues (Days 101-109); Social Studies: The Geography of Small Island Developing States; Social Studies: The Geography of E-Waste and Electronic Recycling; Social Studies: The Geography of the Gig Economy and Ride-Sharing.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What does an ecological footprint measure?",
+            "options": [
+              "A concept unrelated to geography",
+              "The land and resources required to support a lifestyle and absorb its waste",
+              "The total population of a country",
+              "The average temperature of a region"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does SIDS stand for?",
+            "options": [
+              "Sustainable Island Data System",
+              "Southern International Development Sector",
+              "Sea Ice Distribution Study",
+              "Small Island Developing States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A major geographic challenge associated with e-waste is that it is often\u2014",
+            "options": [
+              "Fully recycled domestically with no international shipment",
+              "Shipped to developing countries, where informal processing can cause environmental and health hazards",
+              "Completely non-toxic and safe to dispose of anywhere",
+              "Banned from crossing any international borders"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The rise of the gig economy and ride-sharing has been most enabled by which technological development?",
+            "options": [
+              "Widespread smartphone apps and GPS-based platforms connecting drivers and riders",
+              "The construction of new subway systems",
+              "A decline in global internet access",
+              "The elimination of personal vehicles"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Public Service Announcement (PSA) Script; Media Literacy: Analyzing Native Advertising and Sponsored Content; Grammar: The Four Sentence Types; Reading: Analyzing Anti-Heroes in Literature.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the purpose of a public service announcement?",
+            "options": [
+              "To confuse the audience intentionally",
+              "To entertain with no informative purpose",
+              "To deliver an important message to a wide audience",
+              "To sell a specific product for profit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is native advertising?",
+            "options": [
+              "Content that is always clearly labeled as an advertisement in bold letters",
+              "A type of grammar rule",
+              "Paid content designed to blend in with regular articles or posts",
+              "A form of punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence type expresses strong emotion and typically ends with an exclamation point?",
+            "options": [
+              "Declarative",
+              "Interrogative",
+              "Exclamatory",
+              "Imperative"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An anti-hero in literature is best defined as a protagonist who\u2014",
+            "options": [
+              "Is a purely evil character with no redeeming qualities",
+              "Lacks conventional heroic qualities, such as moral courage, yet still serves as the story's central character",
+              "Never appears until the story's climax",
+              "Is always defeated by the true hero"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Writing the Equation of a Line from a Point and Slope; Graphing Linear Relations from a Table of Values; First Differences: Identifying Linear vs. Non-Linear Relations; Number Patterns: The Fibonacci Sequence and the Golden Ratio.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A line has a slope of 3 and passes through (0, -2). What is its equation?",
+            "options": [
+              "y = 3x + 2",
+              "y = -2x + 3",
+              "y = 3x - 2",
+              "y = -3x - 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A table shows x: 0, 1, 2, 3 and y: 2, 5, 8, 11. What is the slope of this relation?",
+            "options": [
+              "8",
+              "5",
+              "2",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A relation has first differences of 4, 7, 12, and 19 over equal x-intervals. This relation is\u2014",
+            "options": [
+              "Linear, because the differences increase",
+              "Non-linear, because the first differences are not constant",
+              "Linear, because y increases",
+              "Impossible to classify from first differences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the Fibonacci sequence, each term (after the first two) is generated by\u2014",
+            "options": [
+              "Multiplying the previous two terms",
+              "Squaring the previous term",
+              "Adding the two preceding terms",
+              "Subtracting the previous term from 1"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Symbiosis: Mutualism, Commensalism, and Parasitism; Robotics and Mechatronics: An Introduction; Forensic Science: Applying the Scientific Method to Investigation; Scientific Inquiry: Designing a Controlled Experiment.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is symbiosis?",
+            "options": [
+              "A process only found in plants",
+              "A type of chemical reaction",
+              "A close, long-term relationship between different species",
+              "A relationship that only occurs within a single species"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What fields does mechatronics combine?",
+            "options": [
+              "Only art and music",
+              "Only biology and chemistry",
+              "Only astronomy and geology",
+              "Mechanical engineering, electronics, and computer science"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Forensic science applies the scientific method to criminal investigation primarily by\u2014",
+            "options": [
+              "Ignoring physical evidence in favor of testimony alone",
+              "Using systematic observation, evidence collection, and hypothesis testing to reconstruct events",
+              "Guessing the outcome before any evidence is examined",
+              "Avoiding any laboratory analysis of evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a controlled experiment, the independent variable is\u2014",
+            "options": [
+              "The factor that is measured as an outcome",
+              "A variable that is kept constant to ensure fairness",
+              "The factor that is deliberately changed by the experimenter to observe its effect",
+              "A variable that is not part of the experiment"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of the Silk Road; Social Studies: The Geography of Coffee and Cocoa Production; Social Studies: The Geography of Urban Parks and Green Space; Social Studies: The Geography of Global Shipping Ports and Freight.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What was the Silk Road?",
+            "options": [
+              "A historic network of trade routes connecting Asia, the Middle East, and Europe",
+              "A single modern highway system",
+              "A shipping canal in South America",
+              "A type of railway built in the 20th century"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what type of climate are coffee and cocoa typically grown?",
+            "options": [
+              "Tropical regions near the equator",
+              "Desert regions with almost no rainfall",
+              "Regions with permanent snow cover",
+              "Arctic and polar regions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Urban parks and green spaces primarily benefit cities by\u2014",
+            "options": [
+              "Increasing air pollution and heat retention",
+              "Providing recreation space while helping reduce urban heat island effects and improve air quality",
+              "Eliminating the need for any other city infrastructure",
+              "Decreasing property values in surrounding areas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Major global shipping ports tend to be located\u2014",
+            "options": [
+              "In landlocked regions far from any coastline",
+              "Randomly, without regard to geography",
+              "At strategic coastal or river locations that provide access to major trade routes",
+              "Only in countries with no manufacturing industry"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Letter of Recommendation; Reading: Analyzing Round and Flat Characters; Language Review: Grammar, Vocabulary, and Reading Analysis; Grammar: The Oxford Comma and Clarity in Lists.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the purpose of a letter of recommendation?",
+            "options": [
+              "To provide unrelated general information",
+              "To criticize a person without any specific reason",
+              "To highlight a persons strengths and support their application",
+              "To replace the persons own application entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a round character?",
+            "options": [
+              "A complex, multidimensional character capable of change",
+              "A character with no personality traits at all",
+              "A character defined only by their physical appearance",
+              "A character who never appears in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses the Oxford comma to avoid ambiguity?",
+            "options": [
+              "I invited my parents, Beyonc\u00e9 and Jay-Z.",
+              "I invited my parents, Beyonc\u00e9, and Jay-Z.",
+              "I invited my, parents Beyonc\u00e9 and Jay-Z.",
+              "I invited my parents Beyonc\u00e9, and, Jay-Z."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Unlike a round character, a flat character is typically\u2014",
+            "options": [
+              "Simple and one-dimensional, defined by a single trait or role without much development",
+              "The most complex character in the story",
+              "A character who changes dramatically by the story's end",
+              "Impossible to identify in a text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Linear Equations with Variables on Both Sides; Solving Linear Inequalities in One Variable; Graphing Linear Inequalities on a Number Line; Introduction to Trigonometric Ratios: SOH CAH TOA.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Solve: 5x + 3 = 2x + 12",
+            "options": [
+              "x = 9",
+              "x = 15",
+              "x = 5",
+              "x = 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve: 2x + 3 > 11",
+            "options": [
+              "x > 14",
+              "x > 4",
+              "x > 7",
+              "x < 4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When graphing the solution x >= -3 on a number line, which convention is used?",
+            "options": [
+              "An open circle at -3 with shading to the left",
+              "A closed circle at -3 with shading to the right",
+              "A closed circle at -3 with shading to the left",
+              "An open circle at -3 with shading to the right"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a right triangle, which ratio represents the tangent of angle theta, according to SOH CAH TOA?",
+            "options": [
+              "Opposite over hypotenuse",
+              "Adjacent over hypotenuse",
+              "Opposite over adjacent",
+              "Hypotenuse over opposite"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Artificial Intelligence and Machine Learning: An Introduction; Sustainable Agriculture and Food Technology; Science Review: Senses, Technology, and Modern Applications; Chemistry: Metals, Nonmetals, and Metalloids.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What does artificial intelligence enable computers to do?",
+            "options": [
+              "Operate without any programming at all",
+              "Function identically to a simple calculator",
+              "Perform tasks that typically require human intelligence",
+              "Only perform basic arithmetic with no other function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of sustainable agriculture?",
+            "options": [
+              "Ignoring the needs of future generations",
+              "Eliminating all farming practices completely",
+              "Maximizing environmental damage with no regard for resources",
+              "Producing food efficiently while minimizing environmental impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which physical property is generally characteristic of metals but not nonmetals?",
+            "options": [
+              "Brittleness in solid form",
+              "High electrical conductivity and malleability",
+              "Being a poor conductor of heat",
+              "Existing only as gases at room temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Metalloids, such as silicon and germanium, are notable in technology because they\u2014",
+            "options": [
+              "Are always liquid at room temperature",
+              "Conduct electricity exactly as well as metals do",
+              "Have properties intermediate between metals and nonmetals, making them useful as semiconductors",
+              "Cannot be found naturally on Earth"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of the Panama and Suez Canals; Social Studies: The Geography of Wildlife Corridors and Habitat Fragmentation; Social Studies Review: Global Geography and Trade; Social Studies: The Geography of Space Debris and Orbital Congestion.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What do the Panama and Suez Canals allow ships to do?",
+            "options": [
+              "Avoid the ocean entirely",
+              "Take dramatically shorter shipping routes between regions",
+              "Travel only within a single country",
+              "Increase travel time significantly for all ships"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is habitat fragmentation?",
+            "options": [
+              "When wildlife habitats grow larger and more connected",
+              "The complete disappearance of all habitats worldwide",
+              "A natural process unrelated to human development",
+              "When human development divides natural habitats into smaller, isolated patches"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Wildlife corridors are designed primarily to\u2014",
+            "options": [
+              "Increase habitat fragmentation between populations",
+              "Connect isolated habitat patches so animals can migrate, find mates, and maintain genetic diversity",
+              "Prevent any animal migration between regions",
+              "Replace natural habitats with urban development"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Orbital congestion from space debris is a growing geographic concern because it\u2014",
+            "options": [
+              "Has no effect on satellites or spacecraft",
+              "Only affects debris located on Earth's surface",
+              "Increases the risk of collisions that can damage or destroy functioning satellites",
+              "Is decreasing rapidly as fewer satellites are launched"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Eponyms and Words Derived From Names; Vocabulary: Regionalisms and Dialect in English; Writing: Writing a Cover Letter; Media Literacy: Analyzing Influencer Marketing and Disclosure.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is an eponym?",
+            "options": [
+              "A word that has only one syllable",
+              "A punctuation mark",
+              "A word formed from the name of a person, place, or brand",
+              "A word with no historical origin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a regionalism?",
+            "options": [
+              "A word or expression used primarily in a particular geographic region or community",
+              "A grammar error common to a specific writer",
+              "A formal word used only in legal writing",
+              "A word borrowed directly from another language with no change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the primary purpose of a cover letter when applying for a job?",
+            "options": [
+              "To restate your resume word for word",
+              "To introduce yourself and explain why you are a strong fit for the specific position",
+              "To list personal hobbies unrelated to the job",
+              "To request a higher salary before an interview"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are influencers legally required to disclose sponsored content, such as with '#ad' or '#sponsored'?",
+            "options": [
+              "To increase the number of likes on a post",
+              "To improve the video's search ranking algorithm",
+              "To let audiences know when a post is a paid promotion rather than a genuine personal recommendation",
+              "To make the content eligible for verification badges"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Number Theory: Prime Factorization and the Fundamental Theorem of Arithmetic; Special Right Triangles: 30-60-90 and 45-45-90; The Pythagorean Theorem in Three Dimensions; Surface Area of Prisms and Cylinders.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What does prime factorization express a number as?",
+            "options": [
+              "A product of prime numbers",
+              "A sum of even numbers only",
+              "A single prime number only",
+              "A quotient of two fractions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a 45-45-90 triangle, if each leg has length 1, what is the length of the hypotenuse?",
+            "options": [
+              "\u221a2",
+              "\u221a3",
+              "1",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a 30-60-90 triangle, if the side opposite the 30\u00b0 angle has length 1, what is the length of the side opposite the 60\u00b0 angle?",
+            "options": [
+              "\u221a3",
+              "2",
+              "\u221a2",
+              "1/2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the formula for the total surface area of a cylinder with radius r and height h?",
+            "options": [
+              "\u03c0r\u00b2h",
+              "4\u03c0r\u00b2",
+              "2\u03c0rh",
+              "2\u03c0r\u00b2 + 2\u03c0rh"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Chemistry: Mixtures and Separating Techniques; Physics: Electrical Safety - Circuit Breakers and Fuses; Exoplanets and the Search for Habitable Worlds; The Integumentary System: Skin as a Vital Organ.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "A mixture in which the different components are not evenly distributed and can be seen separately is called:",
+            "options": [
+              "A compound",
+              "A mechanical mixture (heterogeneous mixture)",
+              "A solution",
+              "A pure substance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The main purpose of a fuse or circuit breaker in a home's electrical system is to:",
+            "options": [
+              "Automatically stop the flow of current when it exceeds a safe level, preventing overheating or fire",
+              "Make appliances run faster",
+              "Increase the voltage supplied",
+              "Store extra electricity for later use"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which separation technique is best suited for separating a mixture of two miscible liquids with different boiling points?",
+            "options": [
+              "Filtration",
+              "Distillation",
+              "Magnetic separation",
+              "Decantation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the 'habitable zone' around a star?",
+            "options": [
+              "The region where a planet's gravity is strongest",
+              "The area closest to a star's magnetic poles",
+              "The range of orbital distances where conditions could allow liquid water to exist on a planet's surface",
+              "The zone where a star's light is completely blocked by dust"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Shrinking Inland Seas and Lakes; Social Studies: The Geography of Global Remittances and Migrant Labour; Social Studies: The Geography of Urban Transit Systems and Public Transportation; Social Studies: The Geography of Deserts and Desertification.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What has caused some inland seas and lakes to shrink dramatically?",
+            "options": [
+              "Water diversion for agriculture and the effects of climate change",
+              "A sudden and permanent increase in rainfall",
+              "An unexplainable natural process with no identifiable cause",
+              "The complete absence of any human activity nearby"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are remittances?",
+            "options": [
+              "Payments made only between two neighbouring countries with no individuals involved",
+              "Taxes collected exclusively by national governments",
+              "Loans given only to large corporations",
+              "Funds sent by migrant workers back to their home countries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a key advantage of investing in mass public transit systems, such as subways and light rail, in large cities?",
+            "options": [
+              "They eliminate the need for any road infrastructure",
+              "They reduce traffic congestion and lower per-capita carbon emissions compared to individual car travel",
+              "They require no ongoing government funding",
+              "They are only effective in rural areas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does 'desertification' refer to?",
+            "options": [
+              "The natural formation of deserts millions of years ago with no human involvement",
+              "The conversion of desert land into fertile farmland",
+              "The process by which fertile land becomes increasingly arid, often due to drought, deforestation, or unsustainable farming",
+              "A seasonal weather pattern that has no lasting effect on land"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Ellipsis and the Em Dash in Formal Writing; Grammar: Nominalization and Concise Sentence Style; Vocabulary: Malapropisms and Commonly Confused Words; Reading: Analyzing Point of View and Narrative Distance; Language Review: Grammar, Vocabulary, Reading, and Writing Skills.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does an ellipsis typically signal in writing?",
+            "options": [
+              "Omitted words or a trailing, unfinished thought",
+              "A question being asked",
+              "A grammatical error",
+              "The end of a formal citation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a nominalization?",
+            "options": [
+              "A noun turned into a verb",
+              "A sentence with no nouns at all",
+              "A pronoun replacing a proper noun",
+              "A verb or adjective converted into a noun form, such as 'decide' becoming 'decision'"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In formal writing, what is one common use of the em dash (\u2014)?",
+            "options": [
+              "To indicate a question",
+              "To set off an abrupt interruption or emphatic aside within a sentence",
+              "To replace all commas in a sentence",
+              "To indicate a footnote reference"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A malapropism occurs when a speaker:",
+            "options": [
+              "Uses a word correctly in a formal context",
+              "Deliberately repeats a phrase for emphasis",
+              "Mistakenly substitutes a word for a similar-sounding one, creating an unintentionally humorous error",
+              "Uses an entirely made-up word with no real meaning"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Volume of Prisms and Pyramids; Financial Literacy: Insurance and Risk Management; Angle Relationships in Parallel Lines Cut by a Transversal; Angle Sum of Interior Angles in Polygons; Similar Triangles and Indirect Measurement.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "What is the formula for the volume of any prism?",
+            "options": [
+              "V = 1/3 \u00d7 base area \u00d7 height",
+              "V = 1/2 \u00d7 base \u00d7 height",
+              "V = base area \u00d7 height",
+              "V = length \u00d7 width"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is insurance?",
+            "options": [
+              "A type of loan with no repayment required",
+              "A tax collected only by the government",
+              "A guaranteed way to avoid ever losing money",
+              "A financial product where individuals pay premiums to transfer risk of loss to an insurer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When two parallel lines are cut by a transversal, which pair of angles are always congruent?",
+            "options": [
+              "Corresponding angles",
+              "Consecutive interior angles",
+              "Linear pair angles",
+              "Same-side exterior angles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the sum of the interior angles of a hexagon (a 6-sided polygon)?",
+            "options": [
+              "540\u00b0",
+              "720\u00b0",
+              "900\u00b0",
+              "360\u00b0"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Groundwater and Aquifer Systems; Acid Rain: Causes and Environmental Effects; Biomimicry: Engineering Solutions Inspired by Nature; Space Science: The Life Cycle of Stars; Biology: Predator-Prey Relationships and Population Cycles.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is groundwater?",
+            "options": [
+              "Water found only in oceans",
+              "Water that has evaporated completely",
+              "Water that exists only in the atmosphere",
+              "Water stored beneath the surface within permeable rock or sediment layers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes acid rain to form?",
+            "options": [
+              "Increased sunlight with no connection to pollution",
+              "Pollutants like sulfur dioxide and nitrogen oxides reacting with water vapour in the atmosphere",
+              "Only natural evaporation with no pollutants involved",
+              "Sudden temperature drops with no chemical reactions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Biomimicry in engineering involves:",
+            "options": [
+              "Designing solutions by observing and imitating strategies found in nature",
+              "Building structures entirely from synthetic materials with no natural models",
+              "Copying blueprints from earlier human inventions only",
+              "A method used exclusively in aerospace engineering"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a classic predator-prey population cycle, what typically happens when the predator population grows large?",
+            "options": [
+              "The prey population increases at the same time",
+              "The prey population decreases due to increased predation, which later causes the predator population to decline",
+              "Both populations remain constant indefinitely",
+              "The prey population becomes extinct within one generation with no further changes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of River Deltas and Sedimentation; Social Studies: The Geography of Pharmaceutical Access and Production; Social Studies: The Geography of National Parks and Ecotourism; Social Studies: The Geography of Waste-to-Energy Facilities and Urban Waste Management; Social Studies Review: Global Geography and Modern Challenges.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a river delta?",
+            "options": [
+              "Landform created where a river deposits sediment as it meets a larger body of water",
+              "A dry region with almost no water present",
+              "A mountain range formed by tectonic activity",
+              "A type of underground cave system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the geography of pharmaceutical production reveal?",
+            "options": [
+              "That every country produces an identical share of the worlds medicine",
+              "That manufacturing is concentrated in certain regions rather than distributed evenly worldwide",
+              "That medicine is produced entirely without any regional concentration",
+              "That pharmaceutical production has no geographic pattern at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a defining feature of ecotourism as practiced in and around national parks?",
+            "options": [
+              "Travel focused on visiting fertile farmland regions",
+              "Maximizing visitor numbers regardless of environmental impact",
+              "Responsible travel to natural areas that conserves the environment and supports local communities",
+              "Tourism that avoids protected natural areas entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main process used in a waste-to-energy facility?",
+            "options": [
+              "Burying waste underground in landfills permanently",
+              "Burning municipal solid waste to generate heat that produces electricity",
+              "Recycling waste into new paper products only",
+              "Shipping waste to other countries for storage"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Hyphens and Compound Modifiers; Vocabulary: Semantic Change and Words That Shifted Meaning Over Time; Reading: Analyzing Stream of Consciousness Technique; Writing: Writing a Historical Fiction Scene (Research-Informed Narrative); Media Literacy: Analyzing Algorithmic Recommendation Systems.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a compound modifier?",
+            "options": [
+              "A sentence with no verb at all",
+              "A punctuation mark used only in dialogue",
+              "A single unmodified noun with no description",
+              "Two or more words joined together to describe a noun as a single unit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is semantic change?",
+            "options": [
+              "A punctuation mark used to separate clauses",
+              "The process by which a words meaning shifts over time",
+              "A type of formal citation format",
+              "A rule that prevents any word from ever changing meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The literary technique known as 'stream of consciousness' is characterized by:",
+            "options": [
+              "A strictly chronological retelling of events with no interruption",
+              "Presenting a character's continuous, often unfiltered flow of thoughts and impressions as they occur",
+              "Dialogue written entirely in formal, grammatically perfect sentences",
+              "A third-person narrator who reports only observable actions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Recommendation algorithms used by social media and streaming platforms primarily work by:",
+            "options": [
+              "Removing all personalized content to ensure fairness",
+              "Randomly selecting content with no reference to user behavior",
+              "Analyzing a user's past behavior and preferences to predict and suggest content likely to engage them",
+              "Displaying the same content to every single user regardless of history"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Congruent Triangles and Congruence Conditions; Geometric Transformations: Reflections, Rotations, and Translations; Midpoint and Length of a Line Segment; Modeling Word Problems with Linear Equations; Distance-Rate-Time Word Problems.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Two triangles are congruent if:",
+            "options": [
+              "They have the same perimeter only",
+              "They share only one equal angle",
+              "They have the same shape but different sizes",
+              "They are identical in both shape and size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a point (x, y) is reflected across the x-axis, its new coordinates become:",
+            "options": [
+              "(y, x)",
+              "(-x, -y)",
+              "(x, -y)",
+              "(-x, y)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the midpoint of the line segment connecting the points (2, 3) and (8, 7)?",
+            "options": [
+              "(5, 5)",
+              "(6, 4)",
+              "(10, 10)",
+              "(3, 4)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A car travels at a constant speed of 60 km/h. How long does it take to travel 150 km?",
+            "options": [
+              "2 hours",
+              "3 hours",
+              "2.5 hours",
+              "1.5 hours"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Physics: Measuring Electricity - Ammeters and Voltmeters; Chemistry: Lab Safety and WHMIS Symbols; Biology: Bioindicators - Monitoring Ecosystem Health; Space Science: Satellites and Their Uses in Space Technology; Astronomy: Comets, Asteroids, and Near-Earth Objects.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "An ammeter is used to measure:",
+            "options": [
+              "Electric current",
+              "Power only",
+              "Resistance",
+              "Voltage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "WHMIS stands for:",
+            "options": [
+              "Workplace Hazardous Materials Information System",
+              "World Health Materials Information Standard",
+              "Warning Hazard Material Identification System",
+              "Water Handling and Material Inspection Service"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a bioindicator used for in environmental science?",
+            "options": [
+              "Measuring the exact temperature of the atmosphere",
+              "Assessing the health of an ecosystem based on the presence, absence, or condition of certain living organisms",
+              "Generating renewable electricity from living organisms",
+              "Predicting earthquakes using animal behavior alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a comet from an asteroid?",
+            "options": [
+              "Comets are made mostly of ice and dust and develop a glowing tail as they near the sun, while asteroids are rocky or metallic bodies",
+              "Comets orbit only outside the solar system while asteroids orbit within it",
+              "Asteroids always have visible tails while comets never do",
+              "Comets are found only near Earth while asteroids are found only near Jupiter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Antarctica and the Antarctic Treaty System; Social Studies: The Geography of Global Biodiversity Hotspots; Social Studies: The Geography of Enclaves, Exclaves, and Special Administrative Regions; Social Studies: The Geography of Planned Capital Cities; Social Studies: The Geography of Global Air Travel and Flight Networks.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is the Antarctic Treaty System?",
+            "options": [
+              "A single countrys law that governs all of Antarctica",
+              "An agreement that has never been signed by any nation",
+              "An international agreement governing Antarctica for peaceful, scientific purposes",
+              "A trade agreement unrelated to any scientific activity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a biodiversity hotspot?",
+            "options": [
+              "Any region with no living species present at all",
+              "A region with only one single species living in it",
+              "A region with an exceptionally high number of unique species that is also facing significant habitat loss",
+              "A region where habitat loss has never occurred"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an 'exclave'?",
+            "options": [
+              "A territory that is politically part of one country but geographically separated from it by the territory of another country",
+              "A region with no political affiliation to any country",
+              "A capital city built specifically to serve as a nation's seat of government",
+              "An area under joint international administration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some countries build entirely new, planned capital cities, such as Bras\u00edlia or Canberra, rather than using an existing major city?",
+            "options": [
+              "To reduce the country's population growth rate",
+              "To eliminate the need for any government buildings",
+              "To create a politically neutral, centrally located seat of government and relieve congestion in existing cities",
+              "To comply with international treaties requiring new capitals every century"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Who vs Whom and Pronoun Case; Writing: The Character Sketch; Vocabulary: False Cognates and False Friends; Writing: Writing a Dystopian or Speculative Fiction Scene (World-Building Basics).",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "When should who be used in a sentence?",
+            "options": [
+              "When the pronoun is always the very last word in a sentence",
+              "When no verb appears anywhere in the sentence",
+              "When the pronoun is the subject performing the action",
+              "When the pronoun refers only to inanimate objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a character sketch?",
+            "options": [
+              "A brief piece of descriptive writing that captures a characters personality, appearance, and mannerisms",
+              "A formal citation of academic sources",
+              "A complete novel with multiple fully developed plots",
+              "A mathematical diagram used to solve equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A student translates the Spanish word 'embarazada' as 'embarrassed.' Why is this a mistake?",
+            "options": [
+              "'Embarazada' actually means 'pregnant,' making it a false cognate that looks similar to but differs in meaning from the English word",
+              "'Embarazada' has no meaning in Spanish at all",
+              "English and Spanish do not share any cognates whatsoever",
+              "The word is spelled identically in both languages"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When world-building for a dystopian speculative fiction scene, which detail most effectively establishes the setting's oppressive society?",
+            "options": [
+              "A single character's favorite color",
+              "The specific rules, restrictions, or surveillance methods that control citizens' daily lives",
+              "The exact number of chapters planned for the story",
+              "A list of unrelated historical dates"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Mixture and Age Word Problems Using Algebra; The Fundamental Counting Principle and Tree Diagrams; Theoretical vs. Experimental Probability; Sampling Methods and Bias in Data Collection.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A shop mixes peanuts worth $3/kg with cashews worth $6/kg to make 10 kg of mix worth $4.50/kg. If x is the kg of peanuts used, which equation models this?",
+            "options": [
+              "3x + 6(10 - x) = 45",
+              "3x + 6(10 - x) = 4.5",
+              "3x + 6x = 45",
+              "3(10 - x) + 6x = 4.5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A restaurant offers 3 appetizers, 4 mains, and 2 desserts. Using the fundamental counting principle, how many different 3-course meals are possible?",
+            "options": [
+              "6",
+              "9",
+              "12",
+              "24"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A coin is flipped 50 times and lands on heads 28 times. Which statement correctly distinguishes theoretical from experimental probability here?",
+            "options": [
+              "The theoretical probability of heads is 28/50, matching this trial's result exactly",
+              "The theoretical probability of heads is 1/2, while the experimental probability from this trial is 28/50",
+              "Theoretical probability can only be found by conducting trials",
+              "Experimental probability is always exactly equal to theoretical probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A researcher wants to know the average study time of all students in a school but only surveys students in the chess club. What problem does this create?",
+            "options": [
+              "A perfectly random sample with no bias",
+              "A stratified sample representing all groups equally",
+              "A sampling bias, because the chess club may not represent the entire student population",
+              "An experimental probability error"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Space Science: Milestones in Space Exploration History; Scientific Inquiry: Data Analysis and Graphing in Science; Biology: Ecological Footprint and Sustainable Living; Earth Science: Karst Topography and Cave Formation.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What was Sputnik 1, launched in 1957?",
+            "options": [
+              "The first rover to land on Mars",
+              "The first artificial satellite launched into orbit around Earth",
+              "The first human to travel to space",
+              "The first space station"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A line graph is most appropriate for displaying data that:",
+            "options": [
+              "Shows how a continuous variable changes over time or another continuous variable",
+              "Cannot be measured",
+              "Only compares categories with no order",
+              "Has no numerical relationship"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an individual's 'ecological footprint' measure?",
+            "options": [
+              "The number of countries a person has visited",
+              "The amount of land and resources required to support a person's lifestyle and absorb their waste",
+              "The size of a person's actual footprint in centimetres",
+              "The number of species living in a person's local area"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Karst topography, featuring caves and sinkholes, forms primarily through which process?",
+            "options": [
+              "Volcanic eruptions depositing layers of lava",
+              "Glacial ice scraping away bedrock",
+              "The gradual dissolution of soluble rock such as limestone by slightly acidic water",
+              "Wind erosion of sand dunes over centuries"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of the Global Diamond and Gemstone Trade; Social Studies: The Geography of Land Reclamation: Building New Land from the Sea; Social Studies: The Geography of Permafrost and Thawing Tundra; Social Studies: The Geography of Global Financial Centres and Banking Hubs.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "In which regions are many of the worlds diamonds and gemstones mined?",
+            "options": [
+              "Parts of Africa and Asia",
+              "Only within Antarctica",
+              "Only within Western Europe",
+              "Only within North America"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is land reclamation?",
+            "options": [
+              "The process of creating new usable land by draining or filling in areas of water",
+              "The process of returning developed land back into open ocean",
+              "A method used only to build new mountains",
+              "A term with no connection to coastlines or water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the thawing of permafrost in Arctic tundra regions a significant environmental concern?",
+            "options": [
+              "It has no effect on infrastructure or the atmosphere",
+              "It releases trapped greenhouse gases like methane and can destabilize buildings and roads built on frozen ground",
+              "It causes new mountain ranges to form",
+              "It only affects ocean salinity levels"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What generally makes a city develop into a major global financial centre?",
+            "options": [
+              "A combination of stable regulations, concentrated banking and stock exchange infrastructure, and skilled financial labor",
+              "A complete absence of any government regulation",
+              "Its location must be exactly on the equator",
+              "It must have no international trade connections"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Language Review: Modifiers, Semantics, Narration, and Pronoun Case; Grammar: Dangling and Misplaced Modifiers; Vocabulary: Polysemy and Words with Multiple Meanings; Reading: Analyzing Unreliable Narrators.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "In the sentence 'Give the tickets to him and me,' the pronoun 'me' is in the ___ case because it is the object of the preposition 'to.'",
+            "options": [
+              "Subjective",
+              "Objective",
+              "Possessive",
+              "Nominative"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a dangling modifier?",
+            "options": [
+              "A modifier that does not clearly and logically attach to any word in the sentence",
+              "A verb that has no subject",
+              "A punctuation mark that separates two clauses",
+              "A word that has no meaning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The word 'bank' can mean a financial institution or the side of a river. This is an example of:",
+            "options": [
+              "Onomatopoeia",
+              "Polysemy, a single word having multiple related or distinct meanings",
+              "A dangling modifier",
+              "An anachronism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a story with an unreliable narrator, readers should:",
+            "options": [
+              "Accept every statement the narrator makes as completely factual",
+              "Assume the narrator has no perspective at all",
+              "Critically evaluate the narrator's account, since their perspective may be biased, mistaken, or deceptive",
+              "Ignore the narrator entirely and focus only on dialogue"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Identifying Misleading Graphs and Statistics; Percent Applications: Discounts, Taxes, and Tips; Order of Operations with Integers, Exponents, and Rational Numbers; Evaluating Algebraic Expressions by Substitution.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A bar graph's vertical axis starts at 80 instead of 0, making small differences between bars look huge. This is an example of:",
+            "options": [
+              "A sampling error",
+              "An accurate representation of the data",
+              "A pie chart error",
+              "A truncated (broken) axis creating a misleading impression"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A jacket originally costs $80 and is on sale for 25% off. What is the sale price?",
+            "options": [
+              "$20",
+              "$60",
+              "$65",
+              "$55"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Evaluate: 4 + 2 x (3 - 1)^2 \u00f7 4",
+            "options": [
+              "8",
+              "6",
+              "12",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x = -3 and y = 5, what is the value of 2x^2 - y?",
+            "options": [
+              "13",
+              "-13",
+              "1",
+              "31"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Physics: Electric Power and Energy Consumption; Space Science: The Electromagnetic Spectrum in Astronomy; Scientific Inquiry: SI Units and Measurement in Science; Biology: The Human Reproductive System and Human Development.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Electric power can be calculated using the formula:",
+            "options": [
+              "P = V / I",
+              "P = I + V",
+              "P = I x V",
+              "P = I - V"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The electromagnetic spectrum includes all of the following EXCEPT:",
+            "options": [
+              "Sound waves",
+              "X-rays",
+              "Visible light",
+              "Radio waves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which SI base unit is used to measure electric current?",
+            "options": [
+              "Volt",
+              "Watt",
+              "Ampere",
+              "Ohm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following best describes puberty in human development?",
+            "options": [
+              "A period of hormonal changes that trigger physical and reproductive maturation",
+              "A stage that occurs only in early childhood",
+              "A process unrelated to hormone levels",
+              "A single event that happens on one specific day for everyone"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies Review: Global Geography and Regional Case Studies; Social Studies: The Geography of Landlocked Countries and Transit Trade Corridors; Social Studies: The Geography of Geothermal Energy Resources; Social Studies: The Geography of Continental Shelves and Maritime Boundaries.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What best describes an 'exclave'?",
+            "options": [
+              "A landlocked country with no coastline",
+              "A part of a country that is geographically separated from its main territory by foreign land",
+              "A capital city built specifically to serve as the seat of government",
+              "A treaty governing a continent for scientific research only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines a landlocked country?",
+            "options": [
+              "A country that has no direct access to an ocean coastline",
+              "A country with the longest coastline in the world",
+              "A country that has banned all forms of international trade",
+              "A country located entirely on an island"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Geothermal energy is generated primarily by harnessing:",
+            "options": [
+              "Heat from beneath the Earth's surface, often near tectonic plate boundaries",
+              "Wind currents at high altitudes",
+              "Chemical reactions in seawater",
+              "Sunlight concentrated by mirrors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a continental shelf?",
+            "options": [
+              "The deepest part of the ocean floor",
+              "The relatively shallow, gently sloping seabed extending from a continent's coastline before dropping to the deep ocean",
+              "A political boundary line agreed upon only by treaty",
+              "An underwater mountain range unrelated to any continent"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing an Investigative Journalism Article; Media Literacy: Analyzing Data Visualization and Infographics; Grammar: Reported (Indirect) Speech; Writing: The Eulogy and Tribute Speech.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the primary goal of investigative journalism?",
+            "options": [
+              "To research and expose information that is often hidden or not widely known, holding people or institutions accountable",
+              "To avoid researching any topic in depth",
+              "To repeat information exactly as given by a single source with no verification",
+              "To publish only opinions with no supporting evidence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of a well-designed infographic?",
+            "options": [
+              "To present complex information visually so it is easier to understand quickly",
+              "To remove any need for accurate data entirely",
+              "To make information as confusing as possible for the reader",
+              "To replace all written text in every document"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Convert to reported speech: She said, 'I am tired.'",
+            "options": [
+              "She said that she is tired.",
+              "She said that she was tired.",
+              "She say that she was tired.",
+              "She said, I am tired."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary purpose of a eulogy?",
+            "options": [
+              "To criticize the deceased person's life choices",
+              "To provide a strictly factual legal record of a person's death",
+              "To advertise upcoming community events",
+              "To honor and celebrate the life of someone who has died, often shared at a funeral or memorial"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Recognizing Number Patterns: Linear, Quadratic, and Exponential Growth; Converting Between Metric and Imperial Units of Measurement; Graphing Quadratic Functions Using X-Intercepts (Zeros); Order of Operations and Exponent Rules with Rational Numbers.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A pattern grows 3, 6, 9, 12, 15... What type of growth is this?",
+            "options": [
+              "Quadratic",
+              "Exponential",
+              "Linear",
+              "Random"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Approximately how many centimetres are in one inch?",
+            "options": [
+              "3.54 cm",
+              "2.54 cm",
+              "1.54 cm",
+              "0.54 cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The quadratic function y = (x - 3)(x + 5) has x-intercepts at:",
+            "options": [
+              "x = 3 and x = 5",
+              "x = -3 and x = 5",
+              "x = 3 and x = -5",
+              "x = -3 and x = -5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Evaluate: (-2)^3 + (1/2) x 6",
+            "options": [
+              "-5",
+              "5",
+              "-11",
+              "21"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Earth Science: Glaciers and Glacial Landforms; Chemistry: The pH Scale and Everyday Substances; Biology: Animal Behaviour: Instinct and Learned Behaviour; Atomic Structure and the Bohr-Rutherford Model.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "How does a glacier form?",
+            "options": [
+              "Snow accumulates and compacts over time into dense ice that begins to flow under its own weight",
+              "A glacier forms exclusively through volcanic activity",
+              "Ice forms instantly with no gradual accumulation of snow at all",
+              "A glacier forms only from ocean water freezing directly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The pH scale generally ranges from:",
+            "options": [
+              "-10 to 10",
+              "1 to 100",
+              "0 to 14",
+              "0 to 7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A spider spinning a web without ever being taught is an example of:",
+            "options": [
+              "Learned behaviour acquired through experience",
+              "Instinctive behaviour that is innate and genetically programmed",
+              "A conditioned reflex developed over many trials",
+              "Random, non-repeatable behaviour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the Bohr-Rutherford model of the atom, electrons are arranged:",
+            "options": [
+              "Randomly scattered throughout the nucleus",
+              "In a single dense cloud surrounding the nucleus with no defined structure",
+              "In fixed, defined energy levels or shells orbiting the nucleus",
+              "Outside the atom entirely, unconnected to the nucleus"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Sovereign Wealth Funds and Resource Wealth; Social Studies: The Geography of Green Hydrogen and the Future of Energy; Social Studies: The Geography of Peacekeeping Missions and UN Buffer Zones; Quebec\u2019s Quiet Revolution and Canadian Federalism.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a sovereign wealth fund?",
+            "options": [
+              "A state-owned investment fund, often built from revenue such as natural resource exports",
+              "A charity fund with no connection to any government",
+              "A fund that only foreign corporations are legally allowed to use",
+              "A private savings account belonging to a single individual"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is green hydrogen?",
+            "options": [
+              "Hydrogen fuel produced using electrolysis powered by renewable electricity",
+              "Hydrogen extracted directly from burning coal",
+              "A synthetic gas with no connection to renewable energy",
+              "Hydrogen that occurs naturally without any production process"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a United Nations buffer zone established after a conflict?",
+            "options": [
+              "To permanently annex disputed territory to one side",
+              "To separate opposing forces and reduce the risk of renewed fighting while a political resolution is sought",
+              "To serve as a location for international trade fairs",
+              "To function as a new sovereign nation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Quebec's 'Quiet Revolution' in the 1960s primarily involved:",
+            "options": [
+              "A violent military coup against the federal government",
+              "Quebec's secession from Canada",
+              "A period of rapid secularization, modernization, and increased provincial assertiveness within Canadian federalism",
+              "The abolition of the French language in the province"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Onomatopoeia and Sound Symbolism; Reading: Analyzing Anachronism in Literature; Language Review: Modifiers, Polysemy, In Medias Res, and Reported Speech; Grammar: Restrictive and Nonrestrictive Clauses; Vocabulary: Eggcorns and Commonly Misheard Expressions.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is onomatopoeia?",
+            "options": [
+              "A word with no connection to any sound whatsoever",
+              "A punctuation mark used to end a question",
+              "A word that imitates or suggests the sound it describes",
+              "A grammatical rule about verb tense"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an anachronism?",
+            "options": [
+              "A punctuation mark used exclusively in dialogue",
+              "Something placed in a time period where it does not chronologically belong",
+              "A word that has only one possible meaning",
+              "A character who narrates an entire story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a nonrestrictive clause, set off by commas because it adds extra, non-essential information?",
+            "options": [
+              "The book that I borrowed is overdue.",
+              "Students who study regularly tend to perform better.",
+              "My sister, who lives in Toronto, is visiting this weekend.",
+              "The car that has a flat tire needs repair."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these phrases is a classic example of an 'eggcorn'?",
+            "options": [
+              "For all intents and purposes",
+              "For all intensive purposes (a misheard version of 'for all intents and purposes')",
+              "Nip it in the bud",
+              "Old wives' tale"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Ratios, Rates, and Proportional Reasoning in Real-World Problems; Systems of Linear Equations: Solving by Substitution; Angle Relationships with Parallel Lines and Transversals; Congruent Triangles and Triangle Congruence Conditions; The Pythagorean Theorem: Finding Missing Side Lengths.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A car travels 270 km in 3 hours. What is its rate in km/h?",
+            "options": [
+              "81 km/h",
+              "93 km/h",
+              "90 km/h",
+              "900 km/h"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve the system by substitution: y = x + 2 and y = 3x - 4. What is the value of x?",
+            "options": [
+              "x = 2",
+              "x = 3",
+              "x = 6",
+              "x = -3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two parallel lines are cut by a transversal. If one angle measures 65 degrees, what is the measure of its corresponding angle?",
+            "options": [
+              "65 degrees",
+              "25 degrees",
+              "115 degrees",
+              "155 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A right triangle has legs of 9 cm and 12 cm. What is the length of the hypotenuse?",
+            "options": [
+              "21 cm",
+              "15 cm",
+              "13 cm",
+              "10.5 cm"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Periodic Table Trends: Atomic Radius, Ionization Energy, and Electronegativity; Earth Science: Rivers and Fluvial Landforms; Science Review: Titration, Fluid Pressure, Glaciers, and Animal Behaviour; Ionic and Covalent Bonding: How Atoms Combine; Balancing Chemical Equations.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "As you move left to right across a period, atomic radius generally...",
+            "options": [
+              "Increases",
+              "Decreases",
+              "Becomes zero",
+              "Stays the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is fluvial geomorphology the study of?",
+            "options": [
+              "How rivers shape landforms through erosion and deposition",
+              "How stars change over their lifetimes",
+              "How glaciers move across a continent",
+              "How volcanoes form beneath the ocean floor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of bond forms when electrons are transferred from one atom to another, creating oppositely charged ions that attract each other?",
+            "options": [
+              "Covalent bond",
+              "Metallic bond",
+              "Ionic bond",
+              "Hydrogen bond"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To balance the equation: __H2 + __O2 -> __H2O, what coefficients are needed (in order)?",
+            "options": [
+              "1, 1, 1",
+              "2, 1, 2",
+              "2, 2, 1",
+              "1, 2, 1"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Internet Governance and Digital Sovereignty; Social Studies: The Geography of Urban Twinning: Sister Cities and Municipal Diplomacy; Social Studies Review: Landlocked Nations, Geothermal Energy, Maritime Law, and Peacekeeping; Social Studies: The Geography of Cross-Border Metropolitan Regions and Twin Cities; Social Studies: The Geography of the Global Semiconductor Supply Chain.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What does internet governance refer to?",
+            "options": [
+              "A rule stating that the internet cannot be regulated in any way",
+              "An agreement that applies only to a single citys local network",
+              "A single company that controls the entire global internet",
+              "The rules, institutions, and processes that shape how the global internet is managed and operated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a sister city relationship?",
+            "options": [
+              "A type of trade agreement that applies only to national governments",
+              "A formal partnership between two municipalities in different countries intended to foster cultural and economic ties",
+              "A rule requiring two cities in the same country to merge into one",
+              "An informal friendship between two individuals with no government involvement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What characterizes a cross-border metropolitan region, such as the area spanning El Paso (USA) and Ciudad Juarez (Mexico)?",
+            "options": [
+              "Two cities in different countries that function as an integrated economic and social region despite the international border",
+              "A single city that has declared independence from both bordering nations",
+              "A region where international borders have been formally eliminated",
+              "A rural area with no urban development on either side of the border"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the global semiconductor supply chain considered geopolitically significant?",
+            "options": [
+              "Semiconductors are produced evenly across every country, so no country holds an advantage",
+              "A small number of countries and companies dominate advanced chip manufacturing, creating economic and strategic dependencies worldwide",
+              "Semiconductors are no longer used in modern electronics",
+              "All semiconductor materials are sourced from a single uninhabited region"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Verbal and Situational Irony; Writing: Writing a Speech of Introduction; Media Literacy: Analyzing Podcast and Audio Journalism; Writing: Writing Flash Fiction (A Complete Story in 500 Words or Fewer).",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is verbal irony?",
+            "options": [
+              "When an audience knows something that a character does not know",
+              "When a speaker says the opposite of what they actually mean",
+              "When the outcome of events matches exactly what was expected",
+              "A type of punctuation used to end a sarcastic sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of a speech of introduction?",
+            "options": [
+              "To deliver the entire main presentation instead of the featured speaker",
+              "To criticize the credentials of the speaker being introduced",
+              "To provide an unrelated summary of a completely different event",
+              "To present a speaker or guest to an audience by highlighting relevant credentials and building interest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story, a fire station burns to the ground. What literary device does this event best illustrate?",
+            "options": [
+              "Situational irony",
+              "Verbal irony",
+              "Alliteration",
+              "Foreshadowing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines flash fiction as a distinct literary form?",
+            "options": [
+              "A poem written using only rhyming couplets",
+              "A complete narrative told in an extremely short word count, such as 500 words or fewer",
+              "A story told entirely through dialogue with no narration",
+              "A nonfiction account of a real historical event"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Applications of the Pythagorean Theorem in Real-World Problems; Financial Literacy: Mortgages and Down Payments; Similar Triangles and Similarity Conditions; Solving Multi-Step Linear Equations with Integer Coefficients.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "A rectangular TV screen measures 48 inches wide and 27 inches tall. What is the approximate length of its diagonal (its advertised screen size)?",
+            "options": [
+              "about 55 inches",
+              "about 40 inches",
+              "about 75 inches",
+              "about 48 inches"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a mortgage?",
+            "options": [
+              "A short-term loan used only to buy groceries",
+              "A savings account with no connection to borrowing money",
+              "A type of insurance that covers vehicle repairs",
+              "A long-term loan specifically used to purchase property"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Triangle ABC is similar to Triangle DEF. If AB = 6, BC = 9, and DE = 8, what is the length of EF?",
+            "options": [
+              "10",
+              "12",
+              "13.5",
+              "7.5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for x: 3(x - 4) + 5 = 2x + 1",
+            "options": [
+              "8",
+              "6",
+              "-8",
+              "3"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Types of Chemical Reactions: Synthesis, Decomposition, and Combustion; Earth Science: Mineral Identification and Crystal Structure; Astronomy: The Search for Extraterrestrial Intelligence and the Drake Equation; WHMIS and Laboratory Safety Symbols.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "A + B -> AB is the general form of which reaction type?",
+            "options": [
+              "Displacement reaction",
+              "Synthesis reaction",
+              "Decomposition reaction",
+              "Combustion reaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a mineral?",
+            "options": [
+              "A type of soil with no defined chemical structure",
+              "A naturally occurring, inorganic solid with a definite chemical composition and an orderly internal crystal structure",
+              "A living organism found only in caves",
+              "Any liquid substance found underground"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following best represents the general pattern of a combustion reaction?",
+            "options": [
+              "A hydrocarbon reacts with oxygen to produce carbon dioxide and water",
+              "A single compound breaks down into two or more simpler substances",
+              "Two elements combine to form a single compound",
+              "One element displaces another element within a compound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Drake Equation attempt to estimate?",
+            "options": [
+              "The exact distance to the nearest exoplanet",
+              "The number of potentially detectable intelligent civilizations in the Milky Way",
+              "The precise age of the universe",
+              "The mass of the black hole at the center of the galaxy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Global Remote Work and Digital Nomadism; Social Studies: The Geography of the Global Fast Fashion and Textile Trade; Social Studies: The Geography of Extreme Poverty and the Global Poverty Line; Social Studies: The Geography of Global Grain Trade and Food Export Restrictions.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a digital nomad?",
+            "options": [
+              "A person with no access to the internet or digital technology",
+              "A worker who is permanently required to work from a single fixed office location",
+              "A remote worker who lives and works from different locations, often across international borders, while maintaining employment elsewhere",
+              "A farmer who moves seasonally to follow crop harvests"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is fast fashion?",
+            "options": [
+              "A business model that produces inexpensive clothing quickly in response to rapidly changing trends",
+              "A term describing only clothing manufactured within a single country",
+              "A method of producing clothing exclusively by hand over many years",
+              "A style of clothing with no connection to global trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the international extreme poverty line commonly measure?",
+            "options": [
+              "Living on income below a set threshold, such as the World Bank's per-day benchmark",
+              "Owning no personal property of any kind",
+              "Having received no formal schooling",
+              "Living exclusively in a rural area"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a major grain-exporting country impose export restrictions during a global food shortage?",
+            "options": [
+              "To boost the competitiveness of its shipping industry",
+              "To protect its domestic food supply and stabilize local prices",
+              "Because international law requires all exporters to restrict grain",
+              "To eliminate the need for agricultural subsidies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Vocabulary: Archaisms and Obsolete Word Forms; Reading: Analyzing Pastoral and Nature Imagery; Writing: Writing a Letter to the Editor; Language Review: Restrictive Clauses, Irony, Speeches, and Letters to the Editor.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is an archaism?",
+            "options": [
+              "A grammatical rule that applies only to future tense verbs",
+              "A brand new word that was invented within the last year",
+              "A punctuation mark used only in modern text messaging",
+              "A word or expression that was once common but has fallen out of everyday use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does pastoral imagery typically idealize?",
+            "options": [
+              "The interior of a large industrial factory",
+              "A setting with no natural elements of any kind",
+              "The chaos and noise of a busy modern city",
+              "Rural or natural settings, often contrasted with the complexity of urban or modern life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the primary purpose of writing a letter to the editor?",
+            "options": [
+              "To formally apply for a journalism position at the publication",
+              "To express a public opinion or response to published content for other readers",
+              "To submit an academic essay for a grade",
+              "To request a private, unpublished correction from the editor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains a restrictive clause (one that is essential to identifying the noun it modifies)?",
+            "options": [
+              "My brother, who lives in Toronto, called me last night.",
+              "Paris, which is the capital of France, is beautiful in spring.",
+              "The book that I borrowed from the library is overdue.",
+              "My car, which needs new tires, broke down yesterday."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Direct Variation: Graphing and Writing Equations y = kx; Rate of Change and Slope of a Line; Determining the Equation of a Line: Slope-Intercept Form; First Differences and Identifying Linear vs Non-Linear Relations.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Which equation represents a direct variation relationship?",
+            "options": [
+              "y = x^2",
+              "y = 3x",
+              "y = 5",
+              "y = 3x + 2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Find the slope of the line passing through the points (1, 2) and (4, 11).",
+            "options": [
+              "1/3",
+              "4",
+              "9",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A line has a slope of -2 and a y-intercept of 5. Which equation represents this line in slope-intercept form?",
+            "options": [
+              "y = 5x - 2",
+              "y = -2x + 5",
+              "y = 2x + 5",
+              "y = -5x + 2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A table shows that as x increases by 1 each time, the first differences of y are consistently 3, 3, 3, 3. What does this indicate about the relation?",
+            "options": [
+              "The relation is linear",
+              "The relation is quadratic",
+              "The relation is exponential",
+              "No conclusion can be drawn from first differences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Static Electricity and Electric Charge; Current Electricity: Voltage, Current, and Resistance; Environmental Science: Ocean Acidification and Its Effects on Marine Life; Ohm's Law and Circuit Calculations.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Two objects with the same type of charge will:",
+            "options": [
+              "Repel each other",
+              "Attract each other",
+              "Have no effect on each other",
+              "Merge together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Electric current is measured in:",
+            "options": [
+              "Amperes",
+              "Volts",
+              "Watts",
+              "Ohms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using Ohm's Law, what is the resistance in a circuit with a voltage of 12 V and a current of 3 A?",
+            "options": [
+              "4 ohms",
+              "36 ohms",
+              "9 ohms",
+              "15 ohms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ocean acidification is primarily caused by the ocean absorbing increasing amounts of which gas from the atmosphere?",
+            "options": [
+              "Oxygen",
+              "Nitrogen",
+              "Carbon dioxide",
+              "Methane"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Antarctic and Polar Tourism; Social Studies: The Geography of Language Policy and Official Bilingualism; Social Studies: The Geography of Fisheries Management and Overfishing; Social Studies Review: Twin Cities, Remote Work, Grain Trade, and Fisheries.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What has generally happened to the level of tourism to Antarctica and other polar regions in recent decades?",
+            "options": [
+              "It has completely disappeared with no visitors permitted at all",
+              "Polar tourism has never existed in any form",
+              "It has remained at exactly the same level since the region was first discovered",
+              "It has grown steadily as more visitors seek out these remote destinations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is language policy?",
+            "options": [
+              "A term with no connection to how governments function",
+              "A policy that applies only to private businesses, never to governments",
+              "A rule that forbids any government from using more than one language",
+              "The official decisions a government makes about which languages are used in education, government, and public life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a common goal of fisheries management tools such as catch quotas?",
+            "options": [
+              "To maximize short-term catch regardless of fish population size",
+              "To prevent overfishing by keeping fish populations at sustainable levels",
+              "To eliminate commercial fishing entirely",
+              "To increase seafood prices for exporters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of official bilingualism in government policy?",
+            "options": [
+              "Banning minority languages from public settings",
+              "Requiring all citizens to be fluent in a single national language",
+              "Providing government services and documents in two official languages",
+              "Permitting only regional dialects in national law"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Elliptical Constructions (Omitting Understood Words for Concise Style); Vocabulary: Clipped Words and Shortenings; Reading: Analyzing Antagonists and Their Narrative Function; Writing: Writing an Obituary; Media Literacy: Analyzing Product Placement in Film and Television.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is an elliptical construction in grammar?",
+            "options": [
+              "A sentence written entirely in the passive voice",
+              "A sentence that uses three dots (...) to trail off",
+              "A sentence in which one or more understood words are omitted because context makes their meaning clear",
+              "A run-on sentence with no punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a clipped word?",
+            "options": [
+              "A punctuation mark used to signal an omitted phrase",
+              "A word created entirely from the initial letters of several other words",
+              "A word formed by shortening a longer word while keeping essentially the same meaning",
+              "A word that has no relationship to any longer original word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary narrative function of an antagonist in a story?",
+            "options": [
+              "To narrate events from a neutral, objective viewpoint",
+              "To create conflict by opposing the protagonist's goals",
+              "To provide unrelated historical background",
+              "To resolve the story's central conflict independently"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of product placement in film and television?",
+            "options": [
+              "To subtly promote a brand or product within the story's setting rather than through a traditional advertisement",
+              "To provide factual information about product safety to viewers",
+              "To satirize consumer culture through exaggerated brand references",
+              "To fulfill a legal requirement for film production"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Literal Equations: Rearranging Formulas for a Given Variable; Systems of Linear Equations: Solving by Elimination; Collecting Data: Surveys, Sampling, and Bias; Financial Literacy: Renting versus Buying a Home; One-Variable Data: Measures of Spread (Range and Mean Absolute Deviation).",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Rearrange the formula d = rt to solve for r.",
+            "options": [
+              "r = d/t",
+              "r = d - t",
+              "r = dt",
+              "r = t/d"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve the system by elimination: 2x + y = 11 and x - y = 1. What is the value of x?",
+            "options": [
+              "x = 12",
+              "x = 5",
+              "x = 3",
+              "x = 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the range of the data set: 12, 18, 7, 25, 15?",
+            "options": [
+              "18",
+              "13",
+              "25",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A survey about school lunch preferences is conducted only among students eating in the cafeteria during lunch period. What type of bias does this best illustrate?",
+            "options": [
+              "Measurement bias",
+              "Sampling bias",
+              "Response bias",
+              "Non-response bias"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Electrical Power and the Cost of Electricity; Renewable and Non-Renewable Energy Resources; Energy Efficiency and Energy Transformations in Everyday Devices; Earth Science: Earths Magnetic Field and Magnetic Reversals; The Carbon Cycle and the Nitrogen Cycle.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Electrical power is measured in:",
+            "options": [
+              "Watts",
+              "Amperes",
+              "Volts",
+              "Ohms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a renewable energy source?",
+            "options": [
+              "Coal",
+              "Wind",
+              "Natural gas",
+              "Petroleum"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A lightbulb converts electrical energy into both light and heat. The energy that becomes heat rather than useful light illustrates which concept?",
+            "options": [
+              "Energy loss due to inefficient energy transformation",
+              "Conservation of momentum",
+              "Geomagnetic reversal",
+              "Renewable energy generation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a geomagnetic reversal?",
+            "options": [
+              "A temporary daily fluctuation in local magnetic field strength",
+              "An event in which Earth's magnetic north and south poles swap positions over geologic time",
+              "The vibration of a compass needle near power lines",
+              "A seasonal shift in magnetic field strength caused by weather"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Urban Congestion Pricing and Traffic Management; Social Studies: The Geography of Wine Regions and Terroir; Social Studies: The Geography of Cruise Tourism and Port Cities; Social Studies: The Geography of International Student Migration and Study Abroad; Social Studies: The Geography of High-Speed Rail Networks.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is congestion pricing?",
+            "options": [
+              "A fee charged to drivers for entering a busy urban area, typically during peak travel hours",
+              "A subsidy that pays drivers to enter a citys downtown core",
+              "A tax applied only to pedestrians walking through a city centre",
+              "A rule that bans all vehicles from a city permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the term terroir refer to?",
+            "options": [
+              "A legal document required to export wine internationally",
+              "The unique combination of climate, soil, and terrain that shapes the characteristics of wine from a particular region",
+              "A specific brand name used only by a single winery",
+              "A type of grape that can only be grown indoors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common economic effect of cruise tourism on the port cities ships visit?",
+            "options": [
+              "A steady, evenly distributed source of retail income throughout the year",
+              "A short-term surge in local spending concentrated around ship arrival times",
+              "The complete elimination of local retail businesses",
+              "A permanent decline in tourism-related employment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a primary advantage of high-speed rail compared to short-haul air travel between nearby cities?",
+            "options": [
+              "It requires longer boarding and security procedures than air travel",
+              "It typically produces lower carbon emissions per passenger while connecting city centers directly",
+              "It is completely unaffected by weather or maintenance disruptions",
+              "It always costs less to build than an airport"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Grammar: Subject Complements and Predicate Adjectives; Vocabulary: Loanwords and Borrowed Vocabulary in English; Media Literacy: Evaluating Source Credibility (Domains, Authors, and Verification); Writing: Writing a Formal Complaint Letter; Language Review: Elliptical Constructions, Antagonists, Obituaries, and Complaint Letters.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a subject complement?",
+            "options": [
+              "A phrase that has no grammatical connection to the subject of a sentence",
+              "A word or phrase that follows a linking verb and renames or describes the subject of a sentence",
+              "A word that always follows an action verb and receives its action",
+              "A punctuation mark placed after every linking verb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a loanword?",
+            "options": [
+              "A word invented entirely within the last decade with no historical origin",
+              "A punctuation mark borrowed from another writing system",
+              "A grammatical rule that applies only to verbs",
+              "A word borrowed from another language and incorporated into English"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When evaluating a website's credibility, which factor is most important to check?",
+            "options": [
+              "The visual design and color scheme of the site",
+              "The length of the article",
+              "The author's credentials and the domain's reputation and verification",
+              "The number of images on the page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an essential component of an effective formal complaint letter?",
+            "options": [
+              "An aggressive, insulting tone directed at the recipient",
+              "An anonymous signature to avoid accountability",
+              "A list of unrelated grievances about other companies",
+              "A clear statement of the problem along with a specific requested resolution"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Bar Graphs, Line Graphs, and Choosing an Appropriate Display; Interpreting Scatter Plots: Trends and Outliers; Volume of Cones and Spheres; Volume of Prisms and Cylinders; Circle Geometry: Circumference, Area, and Composite Shapes.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Which type of graph is best for showing how a company's monthly sales changed over a year?",
+            "options": [
+              "A scatter plot, because it needs two variables",
+              "A bar graph, because categories cannot be compared over time",
+              "A line graph, because it shows trends over continuous time",
+              "A circle graph, because it shows parts of a whole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a scatter plot, as one variable increases, the other variable also tends to increase. This describes:",
+            "options": [
+              "A positive correlation",
+              "A negative correlation",
+              "A causal relationship",
+              "No correlation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the volume of a cone with radius 3 cm and height 8 cm? (Use pi = 3.14, V = (1/3)*pi*r^2*h)",
+            "options": [
+              "75.36 cm^3",
+              "226.08 cm^3",
+              "24 cm^3",
+              "100.48 cm^3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A circle has a radius of 5 cm. What is its circumference? (Use pi = 3.14)",
+            "options": [
+              "78.5 cm",
+              "15.7 cm",
+              "31.4 cm",
+              "10 cm"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Biotic and Abiotic Factors in Ecosystems; Carrying Capacity and Limiting Factors in Populations; Biology: Plant Reproduction: Pollination and Seed Dispersal; Environmental Science: Noise Pollution and Its Effects on Wildlife; Keystone Species and Trophic Cascades.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Which of the following is a biotic factor in a forest ecosystem?",
+            "options": [
+              "Soil pH",
+              "A population of deer",
+              "Sunlight",
+              "Temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Seed dispersal by animals (such as birds eating fruit) primarily helps a plant species by ___.",
+            "options": [
+              "Preventing any seeds from germinating",
+              "Spreading offspring away from the parent plant, reducing competition and expanding range",
+              "Making photosynthesis unnecessary",
+              "Eliminating the need for pollination"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "The most abundant species in an ecosystem by population size",
+              "A species that has a disproportionately large effect on its ecosystem relative to its abundance",
+              "A species that has gone extinct in the wild",
+              "A species that exists only in captivity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does noise pollution most directly affect wildlife such as birds and marine mammals?",
+            "options": [
+              "It increases the nutritional value of their food supply",
+              "It has no measurable effect on animal behavior",
+              "It improves predator avoidance by masking predator sounds",
+              "It disrupts communication, navigation, and mating signals that rely on sound"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Whaling and Marine Mammal Conservation; Social Studies: The Geography of Desert Agriculture and Irrigation Innovation; Social Studies: The Geography of Company Towns and Resource-Based Settlements; Social Studies: The Geography of Cultural Festivals and Event-Based Tourism; Social Studies Review: Congestion Pricing, Cruise Tourism, High-Speed Rail, and Company Towns.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What led most countries to adopt an international moratorium on commercial whaling?",
+            "options": [
+              "A sudden and unexplained increase in whale populations worldwide",
+              "International agreements on whaling have never existed in any form",
+              "Steep declines in whale populations caused by large-scale commercial whaling",
+              "Commercial whaling had no measurable effect on whale populations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does agriculture in desert regions typically depend heavily on irrigation?",
+            "options": [
+              "Crops grown in desert regions never require any additional water source",
+              "Irrigation has no connection to agricultural production in any climate",
+              "Desert regions always receive more than enough natural rainfall for agriculture",
+              "Natural rainfall in desert regions is too low to reliably support crop growth without additional water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What defines a 'company town'?",
+            "options": [
+              "A town governed entirely by an elected city council with no corporate involvement",
+              "A settlement built and largely controlled by a single company that often owns the housing, stores, and other services",
+              "A large city with a diverse, non-resource-based economy",
+              "A town that bans all industrial activity within its borders"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common economic benefit that cultural festivals bring to a host city or region?",
+            "options": [
+              "A permanent decrease in local employment opportunities",
+              "The elimination of the need for local infrastructure",
+              "A temporary boost in tourism revenue, local business activity, and regional visibility",
+              "A guaranteed reduction in the cost of living for residents"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Media Literacy: Analyzing Misinformation and Verification Techniques; Grammar: Tense Consistency and Avoiding Verb Tense Shifts; Vocabulary: Acronyms and Initialisms; Reading: Analyzing Red Herrings and Misdirection in Plot.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is misinformation?",
+            "options": [
+              "Information that is always spread deliberately to deceive an audience",
+              "A type of information that is always factually accurate and verified",
+              "False or inaccurate information that is spread, regardless of whether the person sharing it intends to deceive",
+              "A term used only to describe information found in printed newspapers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does tense consistency require of a writer?",
+            "options": [
+              "Using only the past tense in every sentence ever written",
+              "Maintaining the same verb tense throughout a sentence or passage unless a real change in time occurs",
+              "Switching verb tenses randomly throughout every paragraph",
+              "Avoiding the use of verbs entirely throughout a passage"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a recommended verification technique when evaluating a claim found online?",
+            "options": [
+              "Cross-referencing the claim with multiple independent, credible sources",
+              "Trusting it because it has many social media shares",
+              "Assuming it's true if it confirms what you already believed",
+              "Ignoring the source and focusing only on the emotional tone of the post"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In fiction, what is the primary function of a red herring?",
+            "options": [
+              "To resolve the story's central conflict quickly",
+              "To mislead readers or characters by pointing suspicion toward a false clue",
+              "To introduce the story's setting in vivid detail",
+              "To provide comic relief unrelated to the plot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Introduction to Algebraic Modelling: Translating Words into Expressions; Simplifying Algebraic Expressions: Collecting Like Terms; Expanding Algebraic Expressions Using the Distributive Property; Financial Literacy: Payday Loans and the Cost of Predatory Lending.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Which algebraic expression represents \"five more than twice a number, n\"?",
+            "options": [
+              "5n + 2",
+              "5 - 2n",
+              "2n + 5",
+              "2(n + 5)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: 4x + 3y - 2x + 7y",
+            "options": [
+              "2xy + 10",
+              "6x + 10y",
+              "2x + 4y",
+              "2x + 10y"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Expand: 3(2x - 5)",
+            "options": [
+              "6x - 15",
+              "6x - 5",
+              "5x - 15",
+              "6x + 15"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Payday loans are generally considered a costly form of borrowing because:",
+            "options": [
+              "They have annual percentage rates (APRs) that can reach several hundred percent",
+              "They offer the lowest interest rates of any loan type",
+              "They require a co-signer with excellent credit",
+              "They can only be borrowed once per lifetime"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Ecological Footprint and Sustainable Living; The Greenhouse Effect and Climate Change; Plate Tectonics and Continental Drift; Earth Science: Aurora and the Interaction of Solar Wind with the Atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "An ecological footprint measures:",
+            "options": [
+              "The number of species living in an area",
+              "The amount of land and resources needed to support a person's lifestyle",
+              "The distance a person travels in a year",
+              "The physical size of a person's house"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The greenhouse effect occurs when:",
+            "options": [
+              "Oceans release oxygen into space",
+              "Gases in the atmosphere trap heat radiated from Earth's surface",
+              "Sunlight is completely blocked by clouds",
+              "Earth's core heats the atmosphere directly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What evidence did Alfred Wegener use to support the theory of continental drift?",
+            "options": [
+              "Identical fossil species found on continents now separated by oceans",
+              "The presence of active volcanoes only in Asia",
+              "Uniform ocean floor depth worldwide",
+              "The absence of any matching rock formations between continents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Auroras such as the aurora borealis occur when:",
+            "options": [
+              "Volcanic ash reflects sunlight in the upper atmosphere",
+              "Charged particles from solar wind interact with gases in Earth's magnetosphere and atmosphere",
+              "Moonlight is refracted through polar ice",
+              "Earth's rotation causes friction with the ozone layer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Colonial Boundaries and Their Legacy in Africa; Social Studies: The Geography of Transboundary Rivers and Water-Sharing Conflicts; Social Studies: The Geography of Fair Trade and Ethical Sourcing; Social Studies: The Geography of Illegal Wildlife Trade and Poaching Hotspots.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "How were many national borders in Africa originally established?",
+            "options": [
+              "They were drawn entirely by African nations working together with no outside influence",
+              "They were drawn largely by European colonial powers, often with limited regard for existing ethnic or cultural boundaries",
+              "They have remained completely unchanged since long before any colonial contact",
+              "They were determined only by natural physical features such as rivers and mountains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a transboundary river?",
+            "options": [
+              "A river that flows through or along the border of more than one country",
+              "A term used only to describe rivers that have completely dried up",
+              "A river that exists only underground with no surface flow",
+              "A river that flows entirely within the borders of a single country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a primary goal of fair trade certification?",
+            "options": [
+              "To ensure producers in developing countries receive fair prices and reasonable working conditions",
+              "To eliminate all international trade between countries",
+              "To guarantee the lowest possible price for consumers regardless of producer wages",
+              "To restrict trade only to domestic markets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Illegal wildlife trade poaching hotspots are often located:",
+            "options": [
+              "Only in areas with no valuable wildlife species",
+              "Exclusively within well-guarded national capital cities",
+              "In regions with weak law enforcement and high biodiversity, such as parts of Central Africa and Southeast Asia",
+              "In regions where wildlife populations have already gone fully extinct"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Memoir Excerpt; Grammar: Double Negatives and Negation in Standard English; Vocabulary: Homophones and Homographs; Reading: Analyzing Exposition and Rising Action in Plot Structure.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a memoir excerpt typically focus on?",
+            "options": [
+              "A biography written entirely about another persons life",
+              "A completely fictional event with no connection to the writer",
+              "A specific memory or period in the writers own life",
+              "A set of instructions for completing a specific task"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a double negative?",
+            "options": [
+              "A grammatical structure that always makes a sentence perfectly clear",
+              "The use of two negative words within the same clause",
+              "A punctuation mark used to indicate a strong negative statement",
+              "A sentence that contains no negative words of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair below is an example of homophones rather than homographs?",
+            "options": [
+              "lead (the metal) and lead (to guide)",
+              "their and there",
+              "wind (moving air) and wind (to coil a rope)",
+              "bow (front of a ship) and bow (to bend at the waist)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In plot structure, what distinguishes rising action from exposition?",
+            "options": [
+              "Exposition introduces background, setting, and characters, while rising action develops the central conflict through complications",
+              "Rising action always comes before the exposition in every story",
+              "Exposition and rising action are two names for the identical stage of a story",
+              "Rising action refers only to a story's final resolution"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Linear Equations Involving the Distributive Property; Solving and Graphing Linear Inequalities in One Variable; Exponent Laws: Introducing Positive Integer Exponents; Scientific Notation: Reading and Writing Very Large and Small Numbers.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Solve: 3(x + 2) = 21",
+            "options": [
+              "3",
+              "5",
+              "7",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve: x + 5 > 12",
+            "options": [
+              "x > 7",
+              "x < 7",
+              "x > 17",
+              "x < -7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify using exponent laws: x^4 \u00d7 x^3",
+            "options": [
+              "x^12",
+              "x^7",
+              "x^1",
+              "2x^7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is 0.000032 written correctly in scientific notation?",
+            "options": [
+              "3.2 \u00d7 10^-4",
+              "3.2 \u00d7 10^5",
+              "3.2 \u00d7 10^-5",
+              "0.32 \u00d7 10^-5"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Layers of the Earth: Crust, Mantle, and Core; Chemistry: Water Purification and Treatment Chemistry; The Solar System: Planets and Their Characteristics; Biology: Animal Migration and Navigation.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "Which layer of Earth is the thinnest?",
+            "options": [
+              "Inner core",
+              "Crust",
+              "Mantle",
+              "Outer core"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the general goal of water treatment?",
+            "options": [
+              "To remove contaminants and pathogens from water before it is considered safe for drinking",
+              "Water treatment has no connection to making water safer to drink",
+              "To permanently remove all minerals from every water source",
+              "To add as many contaminants to water as possible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which planet in our solar system has the most extensive ring system visible from Earth?",
+            "options": [
+              "Jupiter",
+              "Uranus",
+              "Neptune",
+              "Saturn"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Many migratory animals such as sea turtles and certain birds are believed to navigate over long distances primarily by sensing:",
+            "options": [
+              "Changes in atmospheric pressure alone",
+              "Earth's magnetic field",
+              "The color of the ocean water",
+              "Sound waves reflected off clouds"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Salt Production and Historic Salt Trade Routes; Social Studies: The Geography of Global Courier and Logistics Networks; Social Studies: The Geography of Transboundary Air Pollution and Regional Haze; Social Studies: The Geography of Urban Waterfront Redevelopment.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "Why was salt historically such a valuable commodity?",
+            "options": [
+              "Salt had no practical use in any historical society",
+              "It was essential for preserving food before the widespread use of refrigeration",
+              "Salt has always been the least valuable resource traded historically",
+              "Salt was valued only for its use in construction materials"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of global courier and logistics networks?",
+            "options": [
+              "Logistics networks exist only to transport passengers, never goods",
+              "To ensure that every shipment travels using exactly one mode of transportation only",
+              "To move goods efficiently between producers and consumers using multiple forms of transportation",
+              "To prevent goods from ever being transported between different countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Regional haze caused by transboundary air pollution, such as seasonal haze in Southeast Asia, is most commonly linked to:",
+            "options": [
+              "Large-scale agricultural burning and forest fires that cross national borders",
+              "Haze that originates and stays within a single country's borders only",
+              "Volcanic eruptions occurring exclusively underwater",
+              "A natural phenomenon with no connection to human activity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Urban waterfront redevelopment projects typically aim to:",
+            "options": [
+              "Permanently close off public access to the waterfront",
+              "Transform former industrial or port areas along a waterfront into mixed-use spaces for residents and visitors",
+              "Return waterfront land to its original undeveloped natural state only",
+              "Relocate all city residents away from the waterfront"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Writing: Writing a Press Release; Language Review: Misinformation, Acronyms, Red Herrings, and Press Releases; Grammar: Conditional Sentences and If-Clauses; Vocabulary: Collocations and Natural Word Pairings.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a press release?",
+            "options": [
+              "To provide a lengthy, highly personal account of a private event",
+              "A press release has no defined purpose in professional writing",
+              "To announce newsworthy information concisely and factually to media outlets",
+              "To advertise a product directly to a single individual consumer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a mystery story, a 'red herring' is best described as ___.",
+            "options": [
+              "The story's main and most important clue",
+              "A clue or detail intentionally included to mislead the reader from the true solution",
+              "The narrator's real name",
+              "A summary of the story's ending"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly demonstrates a first conditional (a real, possible future condition)?",
+            "options": [
+              "If I were rich, I would travel the world.",
+              "If it rains tomorrow, we will cancel the picnic.",
+              "If she had left earlier, she would have caught the train.",
+              "If water reaches 0\u00b0 Celsius, it freezes."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these word pairings is a natural, commonly used English collocation?",
+            "options": [
+              "heavy rain",
+              "strong rain",
+              "big rain",
+              "large rain"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Introduction to Coding for Math: Using Loops to Generate Number Patterns; Using Flowcharts and Algorithms to Solve Multi-Step Problems; Unit Conversions and Rates in Measurement (Metric and Imperial); Financial Literacy: Retirement Savings, RRSPs, and TFSAs.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "The pseudocode \"FOR i = 1 to 5: x = x + 3\" repeats 5 times, starting with x = 2. What is the value of x after the loop finishes?",
+            "options": [
+              "15",
+              "20",
+              "5",
+              "17"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a flowchart, what shape is typically used to represent a decision (a yes/no question)?",
+            "options": [
+              "A rectangle",
+              "A diamond",
+              "An oval",
+              "A circle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Convert 5 kilometers to meters.",
+            "options": [
+              "50 meters",
+              "500 meters",
+              "5,000 meters",
+              "50,000 meters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a key difference between an RRSP and a TFSA in Canada?",
+            "options": [
+              "RRSP contributions are generally tax-deductible and withdrawals are taxed, while TFSA contributions are made with after-tax dollars and withdrawals are tax-free",
+              "RRSPs have no contribution limits while TFSAs have strict limits",
+              "TFSA withdrawals are always taxed at a higher rate than RRSP withdrawals",
+              "RRSPs and TFSAs are identical accounts with no meaningful differences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Environmental Science: Light Pollution and Its Effects on Ecosystems; Gravity and Orbital Motion; The Life Cycle of Stars; Earth's Rotation, Revolution, and the Seasons.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "What is light pollution?",
+            "options": [
+              "A term that applies only to pollution found in ocean water",
+              "Excessive or misdirected artificial light, especially from urban areas at night",
+              "A form of pollution caused exclusively by natural sunlight during the day",
+              "Light pollution has no connection to any form of artificial lighting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The force that keeps planets in orbit around the Sun is:",
+            "options": [
+              "Air resistance",
+              "Gravity",
+              "Magnetism",
+              "Friction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What ultimately determines whether a dying star ends up as a white dwarf, neutron star, or black hole?",
+            "options": [
+              "The star's color at formation",
+              "The star's distance from Earth",
+              "The star's rotational speed only",
+              "The star's initial mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Earth's seasons are primarily caused by:",
+            "options": [
+              "Earth's changing distance from the Sun throughout the year",
+              "The tilt of Earth's axis as it revolves around the Sun",
+              "The Moon's gravitational pull on the oceans",
+              "Variations in the Sun's total energy output each month"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Micronations and Unrecognized States; Social Studies Review: Colonial Boundaries, Fair Trade, Wildlife Trade, and Micronations; Social Studies: The Geography of Urban Cemeteries and Changing Land Use; Social Studies: The Geography of Lighthouse Networks and Maritime Navigation History.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a micronation?",
+            "options": [
+              "A micronation always receives full recognition from every country in the world",
+              "A small entity that claims independence but lacks widespread international recognition",
+              "A large, fully recognized member state of the United Nations",
+              "A term used only to describe a small province within a recognized country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fair trade certification for products like coffee or cocoa is primarily intended to ___.",
+            "options": [
+              "Guarantee the lowest possible price for consumers regardless of production conditions",
+              "Ensure producers in developing countries receive fairer prices and safer working conditions",
+              "Eliminate all international trade in that product",
+              "Apply only to products manufactured in wealthy countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many historic urban cemeteries face pressure for changing land use today?",
+            "options": [
+              "Cities have unlimited undeveloped land so cemeteries are never reconsidered",
+              "As cities grow, land within historic cemeteries becomes valuable for housing, parks, or other development amid limited space",
+              "Cemeteries are required by law to double in size every decade",
+              "Modern cities have banned all cemeteries within municipal boundaries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Before satellite navigation (GPS), lighthouse networks primarily helped mariners by:",
+            "options": [
+              "Providing fixed, recognizable visual reference points to determine a ship's position and avoid hazards near the coast",
+              "Generating electricity to power ships at sea",
+              "Communicating directly with satellites in orbit",
+              "Predicting the exact weather conditions for an entire voyage"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Practice: Language Recap",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Bathos and Anticlimax for Comic or Rhetorical Effect; Writing: Writing a Toast or Celebratory Speech; Media Literacy: Analyzing Bias in Photojournalism and Image Selection; Grammar: Varying Sentence Openers for Style and Flow; Language Review: Conditionals, Collocations, Bathos, and Sentence Openers.",
+        "resourceLabel": "TVO Learn: Grade 9 Language courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is bathos?",
+            "options": [
+              "An abrupt, often unintentional-seeming drop from a serious or elevated tone to something trivial, mundane, or absurd, usually for comic or critical effect",
+              "A gradual build toward a serious, dramatic climax",
+              "A synonym for tragedy",
+              "A type of rhyme scheme in poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a toast or celebratory speech?",
+            "options": [
+              "To provide a lengthy, detailed technical report on an unrelated subject",
+              "A toast has no defined purpose in spoken communication",
+              "To criticize the person or event being celebrated",
+              "To honour a person or event through a brief, occasion-specific piece of spoken writing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can bias be introduced in photojournalism even without digitally altering an image?",
+            "options": [
+              "Through selective framing, cropping, or choosing which photograph to publish, shaping the viewer's impression of an event",
+              "Only by using photo-editing software to alter pixels",
+              "Bias cannot occur in photography since a camera captures pure fact",
+              "Only by adding a caption written in a foreign language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses a varied sentence opener rather than starting with the subject?",
+            "options": [
+              "The hikers reached the summit just before sunset.",
+              "After a grueling six-hour climb, the hikers reached the summit just before sunset.",
+              "They reached the summit just before sunset after climbing for six hours.",
+              "The exhausted hikers reached the summit just before sunset."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Practice: Mathematics Recap",
+        "summary": "A practice recap of recent Mathematics lessons: Solving Proportions and Cross-Multiplication; Constructing Circle Graphs: Calculating Central Angles from Percentages; Geometric Constructions: Bisecting Angles and Line Segments; Properties of Polygons: Interior and Exterior Angle Sums; Review: Linear Relations, Geometry, and Data Management (Days 147-186).",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
+        "quiz": [
+          {
+            "q": "Solve for x: 3/4 = x/20",
+            "options": [
+              "15",
+              "60",
+              "5",
+              "16"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A category makes up 25% of a data set. What central angle should it be given in a circle graph?",
+            "options": [
+              "90\u00b0",
+              "360\u00b0",
+              "25\u00b0",
+              "45\u00b0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When bisecting a line segment with a compass and straightedge, the two arcs drawn from each endpoint (using the same radius, greater than half the segment's length) intersect at points that:",
+            "options": [
+              "Lie on the perpendicular bisector of the segment",
+              "Lie only on the original segment itself, with no other relationship",
+              "Have no geometric relationship to the segment",
+              "Always lie outside the plane containing the segment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the sum of the exterior angles of any convex polygon, one at each vertex?",
+            "options": [
+              "180\u00b0",
+              "360\u00b0",
+              "It depends on the number of sides",
+              "540\u00b0"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Practice: Science Recap",
+        "summary": "A practice recap of recent Science lessons: Independent, Dependent, and Controlled Variables in Experiments; Earth Science: Wave Action and the Formation of Coastal Landforms; Astronomy: Space Telescopes and Observational Astronomy; Significant Figures and Precision in Measurement; Correlation vs Causation in Scientific Data.",
+        "resourceLabel": "TVO Learn: Grade 9 Science courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
+        "quiz": [
+          {
+            "q": "The variable that a scientist deliberately changes in an experiment is called the:",
+            "options": [
+              "Dependent variable",
+              "Controlled variable",
+              "Extraneous variable",
+              "Independent variable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is wave action?",
+            "options": [
+              "A process that occurs only far offshore, never affecting a coastline directly",
+              "Wave action has no connection to the shaping of coastal landforms",
+              "The continuous physical process by which ocean waves erode, transport, and deposit sediment along a coastline",
+              "A term used only to describe waves in a swimming pool"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a key advantage of space-based telescopes, such as the Hubble Space Telescope, over ground-based telescopes?",
+            "options": [
+              "They avoid the distortion and blocking of light caused by Earth's atmosphere",
+              "They are significantly cheaper to build and launch",
+              "They can only observe objects within our solar system",
+              "They require no calibration or maintenance whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which statement best describes the relationship between correlation and causation?",
+            "options": [
+              "A strong correlation between two variables always proves that one causes the other",
+              "Two variables can be correlated without one directly causing the other, so correlation alone does not establish causation",
+              "Causation can be established through observation alone, without controlled experiments",
+              "Correlation and causation are simply two different terms for the same concept"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Practice: Social Studies Recap",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of River Basin Management and Watershed Planning; Social Studies: The Geography of Amusement Parks and the Leisure Industry; Social Studies: The Geography of Postal Codes and Spatial Data Systems; Social Studies: The Geography of Urban Skyscrapers and Vertical City Growth; Social Studies Review: Cemeteries, Lighthouses, Watersheds, and Skyscrapers.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
+        "quiz": [
+          {
+            "q": "What is a watershed?",
+            "options": [
+              "A watershed refers only to the exact centre point of a river",
+              "A term used only to describe land that never drains into any body of water",
+              "A structure built specifically to store drinking water underground",
+              "The area of land that drains into a particular river, lake, or other body of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are amusement parks often located near major population centres or transportation corridors?",
+            "options": [
+              "Amusement parks are always deliberately built as far as possible from any population centre",
+              "Transportation access is never considered when siting an amusement park",
+              "To maximize visitor access and attract as many potential guests as possible",
+              "Location has no effect on how many visitors an amusement park attracts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How are postal code systems used beyond simply routing mail?",
+            "options": [
+              "They have no other practical application outside of mail delivery",
+              "As a geographic unit for organizing spatial data, such as in demographic analysis, marketing, and urban planning",
+              "They are used exclusively to determine voting district boundaries in every country",
+              "They replace the need for street addresses entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a major factor driving the trend toward vertical growth (skyscrapers) in many major cities?",
+            "options": [
+              "Land scarcity and high land prices in dense urban centres, making building upward more efficient than outward",
+              "A worldwide law requiring all new buildings to exceed 50 stories",
+              "Skyscrapers are built only to reduce a city's population density",
+              "There is no significant reason connected to land use or cost"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ];
 
