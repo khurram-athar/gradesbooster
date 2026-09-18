@@ -24157,7 +24157,8 @@ const curriculum: DayContent[] = [
               "a parent"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Js_7nKjFBmI"
       }
     ]
   },
@@ -26527,7 +26528,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Q5UOcce7eII"
       }
     ]
   },
@@ -26613,7 +26615,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=LgK_j2ZKm8c"
       },
       {
         "subject": "Math",
@@ -26696,7 +26699,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Addition & Subtraction"
+        "topic": "Addition & Subtraction",
+        "videoUrl": "https://www.youtube.com/watch?v=LSeL6tPBjug"
       },
       {
         "subject": "Science",
@@ -26778,7 +26782,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Weather, Sky & Space (Basic)"
+        "topic": "Weather, Sky & Space (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=4W0RcxZ6bGc"
       },
       {
         "subject": "SocialStudies",
@@ -26858,7 +26863,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Zl2Z4dLiAns"
       }
     ]
   },

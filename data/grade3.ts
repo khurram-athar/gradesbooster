@@ -21450,8 +21450,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Grammar: Comparative and Superlative Adjectives",
         "summary": "Grade 3 Language strand: a comparative adjective, like taller, compares two things, while a superlative adjective, like tallest, compares three or more things to show the most extreme.",
-        "resourceLabel": "TVO Learn: Grade 3 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "resourceLabel": "YouTube: Grammar: Comparative and Superlative Adjectives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Comparative%20and%20Superlative%20Adjectives%20grade%203%20educational",
         "quiz": [
           {
             "q": "A comparative adjective, like taller, compares how many things?",
@@ -21504,14 +21504,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=AUSAHPcjR9o"
       },
       {
         "subject": "Math",
         "title": "Multiplication: Multiplying by Powers of Ten",
         "summary": "Grade 3 Math strand: students learn a pattern for multiplying whole numbers by 10 or 100, noticing that one or two zeros are added to the original number.",
-        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "resourceLabel": "YouTube: Multiplication: Multiplying by Powers of Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Multiplying%20by%20Powers%20of%20Ten%20grade%203%20educational",
         "quiz": [
           {
             "q": "What is 5 times 10?",
@@ -21564,14 +21565,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=qJB19dAZPpY"
       },
       {
         "subject": "Science",
         "title": "Science: Tides and the Moon’s Pull",
         "summary": "Grade 3 Science strand: tides are the rise and fall of ocean water levels, caused mostly by the pull of the Moon’s gravity on Earth’s oceans.",
-        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "resourceLabel": "YouTube: Science: Tides and the Moon’s Pull",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Tides%20and%20the%20Moon%E2%80%99s%20Pull%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call the rise and fall of ocean water levels?",
@@ -21624,14 +21626,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Space & Astronomy"
+        "topic": "Space & Astronomy",
+        "videoUrl": "https://www.youtube.com/watch?v=tcGEjzt_4is"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Ontario’s Role in the Underground Railroad",
         "summary": "Grade 3 Social Studies strand: the Underground Railroad was a network of secret routes and safe houses that helped freedom seekers escape enslavement, with many settling in communities across Ontario.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Ontario’s Role in the Underground Railroad",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Ontario%E2%80%99s%20Role%20in%20the%20Underground%20Railroad%20grade%203%20educational",
         "quiz": [
           {
             "q": "What do we call the secret network of routes that helped freedom seekers escape enslavement?",
@@ -21684,7 +21687,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=4DfzMcemtXs"
       }
     ]
   },

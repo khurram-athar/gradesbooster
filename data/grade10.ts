@@ -21242,8 +21242,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Reading: Analyzing Unreliable Framing in Memoir",
         "summary": "Grade 10 English strand: memoirists shape their own life stories through selective memory and personal perspective, meaning readers must consider how this framing affects the reliability of the account.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Unreliable Framing in Memoir",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Unreliable%20Framing%20in%20Memoir%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What do memoirists shape their life stories through?",
@@ -21296,14 +21296,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=AM7pALSwH_I"
       },
       {
         "subject": "Math",
         "title": "Sequences: Recursive Formulas",
         "summary": "Grade 10 Math strand: a recursive formula defines each term of a sequence based on the value of one or more previous terms, rather than directly from the term’s position.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Sequences: Recursive Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Recursive%20Formulas%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does a recursive formula use to define each term of a sequence?",
@@ -21356,14 +21357,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=IFHZQ6MaG6w"
       },
       {
         "subject": "Science",
         "title": "Chemistry: Solubility Rules and Precipitation Reactions",
         "summary": "Grade 10 Science strand: solubility rules predict whether an ionic compound will dissolve in water, and a precipitation reaction occurs when two soluble solutions combine to form an insoluble solid.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Chemistry: Solubility Rules and Precipitation Reactions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Solubility%20Rules%20and%20Precipitation%20Reactions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What do solubility rules help predict?",
@@ -21416,14 +21418,25 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=LnGIKtx_udE",
+        "videoUrls": [
+          {
+            "label": "Solubility Rules",
+            "url": "https://www.youtube.com/watch?v=LnGIKtx_udE"
+          },
+          {
+            "label": "Precipitation Reactions",
+            "url": "https://www.youtube.com/watch?v=leCoWeIN-h8"
+          }
+        ]
       },
       {
         "subject": "History",
         "title": "The Founding of VIA Rail and National Transportation",
         "summary": "Grade 10 History strand: VIA Rail was created in the 1970s to operate Canada’s intercity passenger rail service, reflecting the federal government’s role in connecting communities across a vast country.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Founding of VIA Rail and National Transportation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Founding%20of%20VIA%20Rail%20and%20National%20Transportation%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In what decade was VIA Rail created?",
@@ -21476,7 +21489,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=ZaKXZO9v3Pw"
       }
     ]
   },
@@ -21488,8 +21502,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Op-Ed Rebuttal",
         "summary": "Grade 10 English strand: an op-ed rebuttal responds directly to a previously published opinion piece, presenting a counterargument backed by evidence and clear reasoning.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: The Op-Ed Rebuttal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Op-Ed%20Rebuttal%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does an op-ed rebuttal respond to?",
@@ -21542,14 +21556,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=wtzhe_Ae6qg"
       },
       {
         "subject": "Math",
         "title": "Trigonometry: The Ambiguous Case of the Sine Law",
         "summary": "Grade 10 Math strand: the ambiguous case of the sine law occurs when given information about a triangle produces two possible triangles, one, or no valid triangle at all.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Trigonometry: The Ambiguous Case of the Sine Law",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Ambiguous%20Case%20of%20the%20Sine%20Law%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does the ambiguous case of the sine law describe?",
@@ -21602,14 +21617,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=RCyjglaJo5w"
       },
       {
         "subject": "Science",
         "title": "Biology: The Lymphatic System",
         "summary": "Grade 10 Science strand: the lymphatic system drains excess fluid from body tissues, transports immune cells, and plays a key role in defending the body against infection.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Biology: The Lymphatic System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20The%20Lymphatic%20System%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does the lymphatic system drain from body tissues?",
@@ -21661,14 +21677,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
       },
       {
         "subject": "History",
         "title": "The 1980 Quebec Referendum",
         "summary": "Grade 10 History strand: in 1980, Quebec voters rejected a referendum question on pursuing sovereignty-association with Canada, setting the stage for further constitutional debate in the following decades.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The 1980 Quebec Referendum",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%201980%20Quebec%20Referendum%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In what year did Quebec hold this early referendum on sovereignty-association?",
@@ -21720,7 +21737,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3oN-eej6f5Q"
       }
     ]
   },
@@ -46500,7 +46518,7 @@ const curriculum: DayContent[] = [
             "q": "A personal narrative for applications is meant to ___.",
             "options": [
               "Highlight meaningful experiences and personal growth",
-              "Avoid any reflection on the writer\u2019s experiences",
+              "Avoid any reflection on the writer’s experiences",
               "Describe a completely unrelated topic",
               "Summarize only factual, impersonal information"
             ],
@@ -46597,10 +46615,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A Punnett square is used to ___.",
             "options": [
-              "Determine an organism\u2019s habitat",
+              "Determine an organism’s habitat",
               "Predict possible gene combinations in offspring",
               "Measure the size of an organism",
-              "Calculate an organism\u2019s age"
+              "Calculate an organism’s age"
             ],
             "answer": 1
           },
@@ -46629,7 +46647,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Canada\u2019s Peacekeeping Missions: Case Studies; Constitutional Reform Attempts: Meech Lake and Charlottetown; The 1995 Quebec Referendum; Canada\u2019s Immigration Policy: Historical Turning Points.",
+        "summary": "Practice recap covering: Canada’s Peacekeeping Missions: Case Studies; Constitutional Reform Attempts: Meech Lake and Charlottetown; The 1995 Quebec Referendum; Canada’s Immigration Policy: Historical Turning Points.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -46646,9 +46664,9 @@ const curriculum: DayContent[] = [
           {
             "q": "The Meech Lake Accord and Charlottetown Accord were attempts to ___.",
             "options": [
-              "Amend Canada\u2019s constitution",
+              "Amend Canada’s constitution",
               "Create an entirely new country",
-              "Eliminate Canada\u2019s constitution entirely",
+              "Eliminate Canada’s constitution entirely",
               "Address issues unrelated to Canadian government"
             ],
             "answer": 0
@@ -46704,7 +46722,7 @@ const curriculum: DayContent[] = [
             "q": "A literary review offers ___.",
             "options": [
               "Only a plot summary with no evaluation",
-              "A critical assessment of a text\u2019s strengths and weaknesses",
+              "A critical assessment of a text’s strengths and weaknesses",
               "A completely unrelated topic",
               "An assessment with no connection to the actual text"
             ],
@@ -46770,7 +46788,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "In the exponential function y = a\u00b7b^(x-h) + k, the parameter k causes a ___.",
+            "q": "In the exponential function y = a·b^(x-h) + k, the parameter k causes a ___.",
             "options": [
               "Horizontal shift",
               "Vertical shift",
@@ -46784,12 +46802,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Fluid Dynamics: Bernoulli\u2019s Principle; How MRI Machines Use Physics to See Inside the Body; Earth Science: Climate Systems and Modelling; Cloning: How Dolly the Sheep Changed Science.",
+        "summary": "Practice recap covering: Fluid Dynamics: Bernoulli’s Principle; How MRI Machines Use Physics to See Inside the Body; Earth Science: Climate Systems and Modelling; Cloning: How Dolly the Sheep Changed Science.",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "Bernoulli\u2019s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.",
+            "q": "Bernoulli’s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.",
             "options": [
               "Exactly equal",
               "Unpredictable",
@@ -46833,7 +46851,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Head Tax and Chinese Exclusion Act: A Historical Wrong; Residential Schools and the Truth and Reconciliation Commission; Canada\u2019s Role in the Cold War; The Official Languages Act: Bilingualism as Trudeau-Era Reform.",
+        "summary": "Practice recap covering: The Head Tax and Chinese Exclusion Act: A Historical Wrong; Residential Schools and the Truth and Reconciliation Commission; Canada’s Role in the Cold War; The Official Languages Act: Bilingualism as Trudeau-Era Reform.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -46908,7 +46926,7 @@ const curriculum: DayContent[] = [
             "q": "A comparative analysis of two poems examines ___.",
             "options": [
               "A single poem in complete isolation",
-              "The colour of each poem\u2019s printed page",
+              "The colour of each poem’s printed page",
               "Only the exact number of lines in each poem",
               "Similarities and differences in theme, tone, structure, and poetic devices"
             ],
@@ -46988,7 +47006,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Biology: Microbiology and Infectious Disease; The Endocrine System: Hormones and Regulation; The Physics of Sound and Acoustics; Physics: Electric Circuits and Ohm\u2019s Law.",
+        "summary": "Practice recap covering: Biology: Microbiology and Infectious Disease; The Endocrine System: Hormones and Regulation; The Physics of Sound and Acoustics; Physics: Electric Circuits and Ohm’s Law.",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -47037,7 +47055,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The October Crisis and the War Measures Act; Western Alienation and Regionalism in Canadian Politics; Canada\u2019s Role in the United Nations; The Winnipeg General Strike and Labour Movements.",
+        "summary": "Practice recap covering: The October Crisis and the War Measures Act; Western Alienation and Regionalism in Canadian Politics; Canada’s Role in the United Nations; The Winnipeg General Strike and Labour Movements.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -47045,7 +47063,7 @@ const curriculum: DayContent[] = [
             "q": "The October Crisis of 1970 began with kidnappings carried out by ___.",
             "options": [
               "The RCMP",
-              "The FLQ (Front de lib\u00e9ration du Qu\u00e9bec)",
+              "The FLQ (Front de libération du Québec)",
               "The federal Cabinet",
               "A foreign government"
             ],
@@ -47168,12 +47186,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "If f(x) = x\u00b2 and g(x) = x + 3, then (f\u2218g)(x) equals ___.",
+            "q": "If f(x) = x² and g(x) = x + 3, then (f∘g)(x) equals ___.",
             "options": [
-              "(x+3)\u00b2",
-              "x\u00b2 + 3",
-              "x\u00b2 + x + 3",
-              "3x\u00b2"
+              "(x+3)²",
+              "x² + 3",
+              "x² + x + 3",
+              "3x²"
             ],
             "answer": 0
           },
@@ -47210,7 +47228,7 @@ const curriculum: DayContent[] = [
             "q": "An electric current moving through a wire creates ___.",
             "options": [
               "A concept unrelated to electromagnetism",
-              "A permanent change in the wire\u2019s colour",
+              "A permanent change in the wire’s colour",
               "A magnetic field",
               "No effect of any kind on the surrounding space"
             ],
@@ -47241,7 +47259,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Women\u2019s Suffrage and the Persons Case; The October Crisis and the War Measures Act; Canada\u2019s Space and Technology Achievements; The Founding of Nunavut; Canada\u2019s Auto Pact and Economic Development.",
+        "summary": "Practice recap covering: Women’s Suffrage and the Persons Case; The October Crisis and the War Measures Act; Canada’s Space and Technology Achievements; The Founding of Nunavut; Canada’s Auto Pact and Economic Development.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -47298,7 +47316,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Oral Communication: The Persuasive Speech; Writing: Satire and Social Critique; Reading: Author\u2019s Craft -- Voice and Style Analysis; Reading: Analyzing the Bildungsroman (Coming-of-Age Novel).",
+        "summary": "Practice recap covering: Oral Communication: The Persuasive Speech; Writing: Satire and Social Critique; Reading: Author’s Craft -- Voice and Style Analysis; Reading: Analyzing the Bildungsroman (Coming-of-Age Novel).",
         "resourceLabel": "TVO Learn: Grade 10 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -47382,7 +47400,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "When multiplying complex numbers, any instance of i\u00b2 appearing in the expansion should be replaced with ___.",
+            "q": "When multiplying complex numbers, any instance of i² appearing in the expansion should be replaced with ___.",
             "options": [
               "1",
               "0",
@@ -47396,7 +47414,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Genetics: Mutations and Genetic Variation; Chemistry: Stoichiometry and Chemical Calculations; Physics: Newton\u2019s Laws of Motion; Health Science: The Nervous System and Reflex Actions.",
+        "summary": "Practice recap covering: Genetics: Mutations and Genetic Variation; Chemistry: Stoichiometry and Chemical Calculations; Physics: Newton’s Laws of Motion; Health Science: The Nervous System and Reflex Actions.",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -47406,7 +47424,7 @@ const curriculum: DayContent[] = [
               "A concept unrelated to mutations",
               "A process that only occurs in plants and never in animals",
               "A trait that is always passed down unchanged for every generation",
-              "A change in an organism\u2019s DNA sequence"
+              "A change in an organism’s DNA sequence"
             ],
             "answer": 3
           },
@@ -47445,7 +47463,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Oka Crisis and Indigenous Land Rights; Canada\u2019s Response to Global Refugee Crises; Review: Social Movements and Nation-Building in Canada; The Halifax Explosion and Its Aftermath.",
+        "summary": "Practice recap covering: The Oka Crisis and Indigenous Land Rights; Canada’s Response to Global Refugee Crises; Review: Social Movements and Nation-Building in Canada; The Halifax Explosion and Its Aftermath.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -47511,7 +47529,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A purely factual list with no personal reflection at all",
               "A compelling personal narrative highlighting character, achievements, and goals",
-              "A generic essay with no connection to the writer\u2019s own experiences",
+              "A generic essay with no connection to the writer’s own experiences",
               "A concept unrelated to personal writing"
             ],
             "answer": 1
@@ -47520,7 +47538,7 @@ const curriculum: DayContent[] = [
             "q": "Rhetorical devices are language techniques used to ___.",
             "options": [
               "A concept unrelated to argumentative writing",
-              "Weaken an argument\u2019s overall persuasiveness",
+              "Weaken an argument’s overall persuasiveness",
               "Strengthen persuasion and emphasize key points",
               "Remove all emotional appeal from a piece of writing"
             ],
@@ -47649,7 +47667,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Canada\u2019s Role in the Korean War; The Avro Arrow Cancellation and Its Legacy; The Suez Crisis and the Birth of Peacekeeping (Lester Pearson); The Employment Equity Act and Workplace Diversity.",
+        "summary": "Practice recap covering: Canada’s Role in the Korean War; The Avro Arrow Cancellation and Its Legacy; The Suez Crisis and the Birth of Peacekeeping (Lester Pearson); The Employment Equity Act and Workplace Diversity.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -47706,12 +47724,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Reading: Point of View \u2014 First, Second, and Third Person; Writing: The Extended Definition Essay; Oral Communication: Impromptu Speaking Skills; Literature: War Literature and Testimony; Review: Narrative Forms, Rhetoric, and War Literature.",
+        "summary": "Practice recap covering: Reading: Point of View — First, Second, and Third Person; Writing: The Extended Definition Essay; Oral Communication: Impromptu Speaking Skills; Literature: War Literature and Testimony; Review: Narrative Forms, Rhetoric, and War Literature.",
         "resourceLabel": "TVO Learn: Grade 10 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "A story told using \u2018I\u2019 and \u2018we\u2019 is written in ___ person.",
+            "q": "A story told using ‘I’ and ‘we’ is written in ___ person.",
             "options": [
               "First",
               "Second",
@@ -47724,7 +47742,7 @@ const curriculum: DayContent[] = [
             "q": "An extended definition essay explores the full meaning of a term by using ___.",
             "options": [
               "Only a single, brief dictionary definition with no further explanation",
-              "A definition with no connection to the term\u2019s actual meaning",
+              "A definition with no connection to the term’s actual meaning",
               "A concept unrelated to defining a term",
               "Examples, comparisons, and context"
             ],
@@ -47804,7 +47822,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Earth Science: Weathering and Erosion Processes; Science: Meiosis and Genetic Diversity; Chemistry: Gas Laws (Boyle\u2019s, Charles\u2019s, Combined); Biology: Symbiosis and Community Ecology; Review: Chemistry, Biology, and Physics Applications.",
+        "summary": "Practice recap covering: Earth Science: Weathering and Erosion Processes; Science: Meiosis and Genetic Diversity; Chemistry: Gas Laws (Boyle’s, Charles’s, Combined); Biology: Symbiosis and Community Ecology; Review: Chemistry, Biology, and Physics Applications.",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -47812,7 +47830,7 @@ const curriculum: DayContent[] = [
             "q": "Weathering refers to the process of ___.",
             "options": [
               "Transporting sediment from one location to another",
-              "A concept unrelated to Earth\u2019s surface",
+              "A concept unrelated to Earth’s surface",
               "Breaking down rock and minerals in place",
               "Forming entirely new rock with no connection to existing material"
             ],
@@ -47853,7 +47871,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Same-Sex Marriage Legalization in Canada; The National Energy Program and Federal-Provincial Tension; Japanese Canadian Internment: Redress and Legacy; Canada\u2019s Role in Afghanistan; Review: Twentieth- and Twenty-First-Century Canadian History.",
+        "summary": "Practice recap covering: Same-Sex Marriage Legalization in Canada; The National Energy Program and Federal-Provincial Tension; Japanese Canadian Internment: Redress and Legacy; Canada’s Role in Afghanistan; Review: Twentieth- and Twenty-First-Century Canadian History.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -48212,7 +48230,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "Practice recap covering: Biology: The Immune System and Disease Defense; Physics: Fluid Mechanics \u2014 Pressure and Buoyancy; Earth Science: The Water Cycle and Watershed Management; Biology: Taxonomy and Classification of Living Things.",
+        "summary": "Practice recap covering: Biology: The Immune System and Disease Defense; Physics: Fluid Mechanics — Pressure and Buoyancy; Earth Science: The Water Cycle and Watershed Management; Biology: Taxonomy and Classification of Living Things.",
         "resourceLabel": "TVO Learn: Grade 10 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -48372,7 +48390,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A partial variation relationship, y = kx + b (with b \u2260 0), differs from a direct variation because its graph ___.",
+            "q": "A partial variation relationship, y = kx + b (with b ≠ 0), differs from a direct variation because its graph ___.",
             "options": [
               "Is always a horizontal line",
               "Has an undefined slope",
@@ -48385,9 +48403,9 @@ const curriculum: DayContent[] = [
             "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
             "options": [
               "-b divided by 2a",
-              "b\u00b2 - 4ac",
+              "b² - 4ac",
               "An expression unrelated to the discriminant",
-              "b\u00b2 + 4ac"
+              "b² + 4ac"
             ],
             "answer": 1
           },
@@ -48527,7 +48545,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "Diction refers to an author\u2019s ___.",
+            "q": "Diction refers to an author’s ___.",
             "options": [
               "Specific word choices",
               "Choice of setting exclusively, with no connection to word choice",
@@ -48731,7 +48749,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "Dialogue can reveal character through a speaker\u2019s ___.",
+            "q": "Dialogue can reveal character through a speaker’s ___.",
             "options": [
               "A concept unrelated to characterization",
               "Setting alone, with no connection to how a character speaks",
@@ -48780,7 +48798,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "In the equation y = a(x - h)\u00b2 + k, the value of h shifts the graph ___.",
+            "q": "In the equation y = a(x - h)² + k, the value of h shifts the graph ___.",
             "options": [
               "Horizontally",
               "A direction unrelated to this transformation",
@@ -48873,12 +48891,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Civics: The Canadian Electoral System; Civics: Levels of Government \u2014 Federal, Provincial, and Municipal; Review: The World Wars, Autonomy, and Canadian Civics; Canada and the Vietnam War Era: Draft Dodgers; The Founding of the Canada Pension Plan.",
+        "summary": "Practice recap covering: Civics: The Canadian Electoral System; Civics: Levels of Government — Federal, Provincial, and Municipal; Review: The World Wars, Autonomy, and Canadian Civics; Canada and the Vietnam War Era: Draft Dodgers; The Founding of the Canada Pension Plan.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
           {
-            "q": "Canada\u2019s federal electoral system is generally described as ___.",
+            "q": "Canada’s federal electoral system is generally described as ___.",
             "options": [
               "A system requiring a majority of 50 percent or more to win a riding",
               "Pure proportional representation",
@@ -48888,7 +48906,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Canada\u2019s system of government is divided into which three levels?",
+            "q": "Canada’s system of government is divided into which three levels?",
             "options": [
               "Federal, provincial, and municipal",
               "A set of levels unrelated to Canadian government",
@@ -49281,7 +49299,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The 1980 Quebec Referendum; Canada\u2019s Role in the Gulf War; The Canada-US Free Trade Agreement Debate of 1988; Canada\u2019s Peacekeeping Mission in Rwanda.",
+        "summary": "Practice recap covering: The 1980 Quebec Referendum; Canada’s Role in the Gulf War; The Canada-US Free Trade Agreement Debate of 1988; Canada’s Peacekeeping Mission in Rwanda.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -49441,7 +49459,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "What does Le Chatelier\u2019s principle describe?",
+            "q": "What does Le Chatelier’s principle describe?",
             "options": [
               "A concept unrelated to chemistry",
               "How a system at equilibrium shifts to counteract a disturbance",
@@ -49485,7 +49503,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: Review: Cold War Era to Modern Canada (Days 81-89); The Riel Rebellions and the M\u00e9tis Resistance; The National Policy and Canadian Economic Nationalism; The Klondike Gold Rush.",
+        "summary": "Practice recap covering: Review: Cold War Era to Modern Canada (Days 81-89); The Riel Rebellions and the Métis Resistance; The National Policy and Canadian Economic Nationalism; The Klondike Gold Rush.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -49500,9 +49518,9 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Who led the M\u00e9tis resistance movements in 1869-70 and 1885?",
+            "q": "Who led the Métis resistance movements in 1869-70 and 1885?",
             "options": [
-              "A figure with no connection to the M\u00e9tis",
+              "A figure with no connection to the Métis",
               "A British colonial governor",
               "Louis Riel",
               "A concept unrelated to Canadian history"
@@ -49689,7 +49707,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Underground Railroad and Early Black Communities in Canada; The Fenian Raids and Pre-Confederation Defence; Canada\u2019s Role in the Boer War; The Regina Manifesto and the Founding of the CCF.",
+        "summary": "Practice recap covering: The Underground Railroad and Early Black Communities in Canada; The Fenian Raids and Pre-Confederation Defence; Canada’s Role in the Boer War; The Regina Manifesto and the Founding of the CCF.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -49746,7 +49764,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Grammar: The Subjunctive Mood; Literature: Environmental and Eco-Fiction; Review: Satire, Style, and Narrative Craft (Days 91-99); Reading: Analyzing Archetypes and the Hero\u2019s Journey.",
+        "summary": "Practice recap covering: Grammar: The Subjunctive Mood; Literature: Environmental and Eco-Fiction; Review: Satire, Style, and Narrative Craft (Days 91-99); Reading: Analyzing Archetypes and the Hero’s Journey.",
         "resourceLabel": "TVO Learn: Grade 10 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49766,7 +49784,7 @@ const curriculum: DayContent[] = [
               "Historical battles with no environmental themes",
               "Only unrelated fantasy worlds with no connection to nature",
               "A concept unrelated to literature",
-              "Humanity\u2019s relationship with the natural world"
+              "Humanity’s relationship with the natural world"
             ],
             "answer": 3
           },
@@ -49795,7 +49813,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Geometry: Circle Theorems \u2014 Tangents and Inscribed Angles; Financial Literacy: Mortgages and Loan Amortization Schedules; Patterning: Recursive and Explicit Formulas for Sequences; Financial Literacy: Mortgages and Amortization (Intro).",
+        "summary": "Practice recap covering: Geometry: Circle Theorems — Tangents and Inscribed Angles; Financial Literacy: Mortgages and Loan Amortization Schedules; Patterning: Recursive and Explicit Formulas for Sequences; Financial Literacy: Mortgages and Amortization (Intro).",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
@@ -49893,7 +49911,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Pacific Scandal and Early Political Corruption; Canada\u2019s Role in the League of Nations; Review: Confederation-Era to Interwar Canadian History (Days 91-99); The War of 1812 and the Defence of British North America.",
+        "summary": "Practice recap covering: The Pacific Scandal and Early Political Corruption; Canada’s Role in the League of Nations; Review: Confederation-Era to Interwar Canadian History (Days 91-99); The War of 1812 and the Defence of British North America.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -50271,7 +50289,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to chemistry",
               "Using the cation followed by the anion, often ending in -ide",
-              "Using the compound\u2019s exact colour",
+              "Using the compound’s exact colour",
               "Using only Roman numerals with no other words"
             ],
             "answer": 1
@@ -50301,7 +50319,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "Practice recap covering: The Numbered Treaties and Indigenous-Crown Relations; The Acadian Expulsion (Le Grand D\u00e9rangement); Enemy Alien Internment in Canada during the First World War; The Selkirk Settlement and the Battle of Seven Oaks.",
+        "summary": "Practice recap covering: The Numbered Treaties and Indigenous-Crown Relations; The Acadian Expulsion (Le Grand Dérangement); Enemy Alien Internment in Canada during the First World War; The Selkirk Settlement and the Battle of Seven Oaks.",
         "resourceLabel": "TVO Learn: Grade 10 History courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=history",
         "quiz": [
@@ -51432,7 +51450,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "A right triangle has opposite side 5 and hypotenuse 10. What is angle \u03b8, using sin-inverse?",
+            "q": "A right triangle has opposite side 5 and hypotenuse 10. What is angle θ, using sin-inverse?",
             "options": [
               "50 degrees",
               "60 degrees",
@@ -51444,8 +51462,8 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the sine law formula?",
             "options": [
-              "a squared = b squared + c squared - 2bc\u00b7cos A",
-              "a\u00b7sin A = b\u00b7sin B",
+              "a squared = b squared + c squared - 2bc·cos A",
+              "a·sin A = b·sin B",
               "a/cos A = b/cos B",
               "a/sin A = b/sin B = c/sin C"
             ],
@@ -51842,10 +51860,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Write 4,500,000 in scientific notation.",
             "options": [
-              "45 \u00d7 10^5",
-              "4.5 \u00d7 10^6",
-              "0.45 \u00d7 10^7",
-              "4.5 \u00d7 10^5"
+              "45 × 10^5",
+              "4.5 × 10^6",
+              "0.45 × 10^7",
+              "4.5 × 10^5"
             ],
             "answer": 1
           },
@@ -52046,10 +52064,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the quadratic formula for solving ax^2 + bx + c = 0?",
             "options": [
-              "x = (b \u00b1 sqrt(b^2-4ac)) / 2a",
-              "x = (-b \u00b1 sqrt(b^2-4ac)) / 2a",
-              "x = (-b \u00b1 sqrt(b^2+4ac)) / 2a",
-              "x = (-b \u00b1 sqrt(b^2-4ac)) / a"
+              "x = (b ± sqrt(b^2-4ac)) / 2a",
+              "x = (-b ± sqrt(b^2-4ac)) / 2a",
+              "x = (-b ± sqrt(b^2+4ac)) / 2a",
+              "x = (-b ± sqrt(b^2-4ac)) / a"
             ],
             "answer": 1
           },
@@ -52398,7 +52416,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Character Sketch; Grammar: Verbals \u2014 Gerunds, Participles, and Infinitives; Media Literacy: Analyzing Reality Television; Grammar: Simple, Compound, Complex, and Compound-Complex Sentences.",
+        "summary": "Practice recap covering: Writing: The Character Sketch; Grammar: Verbals — Gerunds, Participles, and Infinitives; Media Literacy: Analyzing Reality Television; Grammar: Simple, Compound, Complex, and Compound-Complex Sentences.",
         "resourceLabel": "TVO Learn: Grade 10 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52452,7 +52470,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "In a right triangle, angle A = 30\u00b0 and the hypotenuse = 12. What is the length of the side opposite angle A?",
+            "q": "In a right triangle, angle A = 30° and the hypotenuse = 12. What is the length of the side opposite angle A?",
             "options": [
               "3",
               "6",
@@ -52462,12 +52480,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In a right triangle, the side opposite angle \u03b8 is 7 and the hypotenuse is 14. What is \u03b8?",
+            "q": "In a right triangle, the side opposite angle θ is 7 and the hypotenuse is 14. What is θ?",
             "options": [
-              "15\u00b0",
-              "45\u00b0",
-              "60\u00b0",
-              "30\u00b0"
+              "15°",
+              "45°",
+              "60°",
+              "30°"
             ],
             "answer": 3
           },
@@ -52475,7 +52493,7 @@ const curriculum: DayContent[] = [
             "q": "Which equation correctly represents the sine law for a triangle with sides a, b, c opposite angles A, B, C?",
             "options": [
               "a/sin A = b/sin B = c/sin C",
-              "a\u00b2 = b\u00b2 + c\u00b2 - 2bc cos A",
+              "a² = b² + c² - 2bc cos A",
               "a/cos A = b/cos B = c/cos C",
               "a + b + c = sin A + sin B + sin C"
             ],
@@ -52686,7 +52704,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Factor: x\u00b2 + 8x + 15",
+            "q": "Factor: x² + 8x + 15",
             "options": [
               "(x + 3)(x + 5)",
               "(x + 15)(x + 1)",
@@ -52860,7 +52878,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "To factor 2x\u00b2 + 7x + 3 by decomposition, which two numbers multiply to 6 and add to 7?",
+            "q": "To factor 2x² + 7x + 3 by decomposition, which two numbers multiply to 6 and add to 7?",
             "options": [
               "6 and 1",
               "6 and 2",
@@ -52870,27 +52888,27 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Factor: x\u00b2 - 49",
+            "q": "Factor: x² - 49",
             "options": [
               "(x - 49)(x + 1)",
-              "(x + 7)\u00b2",
-              "(x - 7)\u00b2",
+              "(x + 7)²",
+              "(x - 7)²",
               "(x - 7)(x + 7)"
             ],
             "answer": 3
           },
           {
-            "q": "Which formula correctly gives the solutions to ax\u00b2 + bx + c = 0?",
+            "q": "Which formula correctly gives the solutions to ax² + bx + c = 0?",
             "options": [
-              "x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
-              "x = (-b \u00b1 \u221a(b\u00b2 + 4ac)) / 2a",
-              "x = (b \u00b1 \u221a(b\u00b2 - 4ac)) / a",
-              "x = -b / (2a) \u00b1 c"
+              "x = (-b ± √(b² - 4ac)) / 2a",
+              "x = (-b ± √(b² + 4ac)) / 2a",
+              "x = (b ± √(b² - 4ac)) / a",
+              "x = -b / (2a) ± c"
             ],
             "answer": 0
           },
           {
-            "q": "To find the vertex of y = x\u00b2 + 6x + 5 by completing the square, what value must be added and subtracted?",
+            "q": "To find the vertex of y = x² + 6x + 5 by completing the square, what value must be added and subtracted?",
             "options": [
               "6",
               "3",
@@ -53064,7 +53082,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
           {
-            "q": "For y = 2(x - 1)\u00b2 + 3, what is the axis of symmetry?",
+            "q": "For y = 2(x - 1)² + 3, what is the axis of symmetry?",
             "options": [
               "x = 3",
               "x = -1",
@@ -53074,7 +53092,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is the y-intercept of y = 2x\u00b2 - 5x + 7?",
+            "q": "What is the y-intercept of y = 2x² - 5x + 7?",
             "options": [
               "2",
               "0",
@@ -53084,7 +53102,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "A ball is launched as a projectile and its height is modelled by h(t) = -5t\u00b2 + 20t + 1. What does the value 1 represent in this context?",
+            "q": "A ball is launched as a projectile and its height is modelled by h(t) = -5t² + 20t + 1. What does the value 1 represent in this context?",
             "options": [
               "The maximum height reached by the ball",
               "The time at which the ball lands",
@@ -53094,7 +53112,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "A company's profit is modelled by P(x) = -2x\u00b2 + 40x, where x is the number of units sold. At how many units is profit maximized?",
+            "q": "A company's profit is modelled by P(x) = -2x² + 40x, where x is the number of units sold. At how many units is profit maximized?",
             "options": [
               "x = 20",
               "x = 40",
@@ -53270,20 +53288,20 @@ const curriculum: DayContent[] = [
           {
             "q": "A farmer has 40 m of fencing to enclose a rectangular pen. If the width is w and the length is (20 - w), what function models the area?",
             "options": [
-              "A(w) = w\u00b2 - 20w",
-              "A(w) = 20w - w\u00b2",
-              "A(w) = 20 - w\u00b2",
-              "A(w) = 40w - w\u00b2"
+              "A(w) = w² - 20w",
+              "A(w) = 20w - w²",
+              "A(w) = 20 - w²",
+              "A(w) = 40w - w²"
             ],
             "answer": 1
           },
           {
             "q": "Expand and simplify: (x + 4)(x + 6)",
             "options": [
-              "x\u00b2 + 24x + 10",
-              "x\u00b2 + 10x + 24",
-              "x\u00b2 + 10x + 10",
-              "x\u00b2 + 2x + 24"
+              "x² + 24x + 10",
+              "x² + 10x + 24",
+              "x² + 10x + 10",
+              "x² + 2x + 24"
             ],
             "answer": 1
           },
@@ -53678,40 +53696,40 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the surface area of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?",
             "options": [
-              "188 cm\u00b2",
-              "60 cm\u00b2",
-              "47 cm\u00b2",
-              "94 cm\u00b2"
+              "188 cm²",
+              "60 cm²",
+              "47 cm²",
+              "94 cm²"
             ],
             "answer": 3
           },
           {
             "q": "Which formula gives the surface area of a cone with radius r and slant height l?",
             "options": [
-              "\u03c0r\u00b2l",
-              "\u03c0r\u00b2 + \u03c0rl",
-              "\u03c0rl",
-              "2\u03c0r\u00b2 + 2\u03c0rl"
+              "πr²l",
+              "πr² + πrl",
+              "πrl",
+              "2πr² + 2πrl"
             ],
             "answer": 1
           },
           {
-            "q": "What is the length of an arc that subtends a central angle of 60\u00b0 in a circle with radius 9 cm? (arc length = (\u03b8/360) \u00d7 2\u03c0r)",
+            "q": "What is the length of an arc that subtends a central angle of 60° in a circle with radius 9 cm? (arc length = (θ/360) × 2πr)",
             "options": [
-              "6\u03c0 cm",
-              "9\u03c0 cm",
-              "3\u03c0 cm",
-              "1.5\u03c0 cm"
+              "6π cm",
+              "9π cm",
+              "3π cm",
+              "1.5π cm"
             ],
             "answer": 2
           },
           {
-            "q": "What is the area of a sector with a central angle of 90\u00b0 in a circle with radius 8 cm? (area = (\u03b8/360) \u00d7 \u03c0r\u00b2)",
+            "q": "What is the area of a sector with a central angle of 90° in a circle with radius 8 cm? (area = (θ/360) × πr²)",
             "options": [
-              "8\u03c0 cm\u00b2",
-              "32\u03c0 cm\u00b2",
-              "64\u03c0 cm\u00b2",
-              "16\u03c0 cm\u00b2"
+              "8π cm²",
+              "32π cm²",
+              "64π cm²",
+              "16π cm²"
             ],
             "answer": 3
           }

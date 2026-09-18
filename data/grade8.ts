@@ -21298,7 +21298,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KRRRSuFGQYE"
       },
       {
         "subject": "Math",
@@ -21358,7 +21359,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Square Roots & Radicals"
+        "topic": "Square Roots & Radicals",
+        "videoUrl": "https://www.youtube.com/watch?v=fpO1BMB9Fus"
       },
       {
         "subject": "Science",
@@ -21418,7 +21420,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=zwibgNGe4aY"
       },
       {
         "subject": "History",
@@ -21477,7 +21480,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=72waIfR-TnQ"
       }
     ]
   },
@@ -21489,8 +21493,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: The Op-Ed Rebuttal",
         "summary": "Grade 8 Language strand: an op-ed rebuttal responds directly to another published opinion piece, presenting a counterargument supported by evidence and reasoning.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Writing: The Op-Ed Rebuttal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Op-Ed%20Rebuttal%20grade%208%20educational",
         "quiz": [
           {
             "q": "What does an op-ed rebuttal respond to?",
@@ -21543,7 +21547,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=wtzhe_Ae6qg"
       },
       {
         "subject": "Math",
@@ -21603,14 +21608,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=5a6zpfl50go"
       },
       {
         "subject": "Science",
         "title": "Science: Renewable Materials: Bioplastics",
         "summary": "Grade 8 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering an alternative to traditional plastics made from petroleum.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Science: Renewable Materials: Bioplastics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Renewable%20Materials%3A%20Bioplastics%20grade%208%20educational",
         "quiz": [
           {
             "q": "What are bioplastics made from?",
@@ -21663,7 +21669,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Tiln-LAKdhA"
       },
       {
         "subject": "History",
@@ -21723,7 +21730,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "World War II"
+        "topic": "World War II",
+        "videoUrl": "https://www.youtube.com/watch?v=C8TQTuMqM9g"
       }
     ]
   },
@@ -46608,7 +46616,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is -48 \u00f7 6?",
+            "q": "What is -48 ÷ 6?",
             "options": [
               "8",
               "-42",
@@ -46642,7 +46650,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Genetics and Heredity: Introduction; Chemical Reactions in Everyday Life; Newton\u2019s Laws of Motion: An Introduction; The Periodic Table: An Introduction to Elements.",
+        "summary": "A practice recap of recent Science lessons: Genetics and Heredity: Introduction; Chemical Reactions in Everyday Life; Newton’s Laws of Motion: An Introduction; The Periodic Table: An Introduction to Elements.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -46691,7 +46699,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Fenian Raids and Early Canadian Defence; The Northwest Resistance and Louis Riel; Women\u2019s Suffrage in Canada: The Fight for the Vote; The Vikings and Early Norse Exploration.",
+        "summary": "A practice recap of recent History lessons: The Fenian Raids and Early Canadian Defence; The Northwest Resistance and Louis Riel; Women’s Suffrage in Canada: The Fight for the Vote; The Vikings and Early Norse Exploration.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -47036,7 +47044,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is the volume of a pyramid with a base area of 12 square units and a height of 9 units? (Volume = 1/3 \u00d7 base area \u00d7 height)",
+            "q": "What is the volume of a pyramid with a base area of 12 square units and a height of 9 units? (Volume = 1/3 × base area × height)",
             "options": [
               "108",
               "36",
@@ -47099,7 +47107,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Indian Act and Its Historical Impact; The Cold War: Origins and Key Events; Human Rights: The Universal Declaration; Indigenous Peoples\u2019 Rights Movements in Canada.",
+        "summary": "A practice recap of recent History lessons: The Indian Act and Its Historical Impact; The Cold War: Origins and Key Events; Human Rights: The Universal Declaration; Indigenous Peoples’ Rights Movements in Canada.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -47360,7 +47368,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: The Subjunctive Mood; Writing: The Personal Manifesto; Reading: Evaluating an Author\u2019s Use of Structure; Reading: Analyzing Symbolism in Literature.",
+        "summary": "A practice recap of recent Language lessons: Grammar: The Subjunctive Mood; Writing: The Personal Manifesto; Reading: Evaluating an Author’s Use of Structure; Reading: Analyzing Symbolism in Literature.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
         "quiz": [
@@ -47385,9 +47393,9 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "A personal manifesto is meant to express a writer\u2019s ___.",
+            "q": "A personal manifesto is meant to express a writer’s ___.",
             "options": [
-              "Someone else\u2019s beliefs and values",
+              "Someone else’s beliefs and values",
               "Core beliefs and values",
               "A completely unrelated topic",
               "A summary of unrelated facts"
@@ -47426,10 +47434,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the formula for the surface area of a sphere with radius r?",
             "options": [
-              "4\u03c0r\u00b2",
-              "(4/3)\u03c0r\u00b3",
-              "2\u03c0r\u00b2",
-              "\u03c0r\u00b2"
+              "4πr²",
+              "(4/3)πr³",
+              "2πr²",
+              "πr²"
             ],
             "answer": 0
           },
@@ -47507,7 +47515,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Colonialism in Africa; Decolonization Movements in the 20th Century; Review: World Empires and Global Challenges; The Acadian Expulsion (Le Grand D\u00e9rangement).",
+        "summary": "A practice recap of recent History lessons: Colonialism in Africa; Decolonization Movements in the 20th Century; Review: World Empires and Global Challenges; The Acadian Expulsion (Le Grand Dérangement).",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -47522,7 +47530,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The Acadian Expulsion (Le Grand D\u00e9rangement) refers to the forced removal of the Acadian people by ___.",
+            "q": "The Acadian Expulsion (Le Grand Dérangement) refers to the forced removal of the Acadian people by ___.",
             "options": [
               "British colonial authorities in the 1750s",
               "French colonial authorities in the 1600s",
@@ -47594,7 +47602,7 @@ const curriculum: DayContent[] = [
               "A concept unrelated to this type of writing",
               "Report only neutral facts with no opinion at all",
               "Tell a completely fictional story",
-              "Present a writer\u2019s opinion on a current issue"
+              "Present a writer’s opinion on a current issue"
             ],
             "answer": 3
           },
@@ -47692,7 +47700,7 @@ const curriculum: DayContent[] = [
               "A concept unrelated to biology",
               "Only observe an organism from a distance",
               "Nothing at all related to genes",
-              "Directly modify an organism\u2019s genes"
+              "Directly modify an organism’s genes"
             ],
             "answer": 3
           },
@@ -47776,7 +47784,7 @@ const curriculum: DayContent[] = [
             "q": "A personal narrative essay recounts ___.",
             "options": [
               "A concept unrelated to this type of writing",
-              "A meaningful experience from the writer\u2019s own life",
+              "A meaningful experience from the writer’s own life",
               "A completely fictional story with no connection to the writer",
               "Only factual, impersonal information with no story involved"
             ],
@@ -47796,7 +47804,7 @@ const curriculum: DayContent[] = [
             "q": "Emotional appeal in advertising works by ___.",
             "options": [
               "Triggering feelings, such as happiness or fear, to influence a decision",
-              "Avoiding any connection to the audience\u2019s emotions",
+              "Avoiding any connection to the audience’s emotions",
               "A concept unrelated to advertising techniques",
               "Presenting only neutral, unbiased facts with no persuasive intent"
             ],
@@ -47854,10 +47862,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of the following numbers is the largest?",
             "options": [
-              "5.2 \u00d7 10^4",
-              "3.9 \u00d7 10^5",
-              "6.1 \u00d7 10^3",
-              "4.4 \u00d7 10^4"
+              "5.2 × 10^4",
+              "3.9 × 10^5",
+              "6.1 × 10^3",
+              "4.4 × 10^4"
             ],
             "answer": 1
           }
@@ -47915,7 +47923,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Canada\u2019s Role in NATO and International Alliances; The Rise and Fall of the Ottoman Empire; The Partition of India and Decolonization in South Asia; The Berlin Wall and a Divided Germany; Apartheid and the Fight for Equality in South Africa.",
+        "summary": "A practice recap of recent History lessons: Canada’s Role in NATO and International Alliances; The Rise and Fall of the Ottoman Empire; The Partition of India and Decolonization in South Asia; The Berlin Wall and a Divided Germany; Apartheid and the Fight for Equality in South Africa.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -48038,9 +48046,9 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the formula for the volume of a triangular prism, where B is the area of the triangular base and h is the prism's length?",
             "options": [
-              "V = B \u00d7 h",
-              "V = (1/2) \u00d7 B \u00d7 h",
-              "V = 2 \u00d7 B \u00d7 h",
+              "V = B × h",
+              "V = (1/2) × B × h",
+              "V = 2 × B × h",
               "V = B + h"
             ],
             "answer": 0
@@ -48097,7 +48105,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Groundwater is water that is stored ___.",
             "options": [
-              "Beneath Earth\u2019s surface in soil and rock",
+              "Beneath Earth’s surface in soil and rock",
               "A concept unrelated to groundwater",
               "Only in rivers and lakes above the surface",
               "Exclusively inside glaciers and ice caps"
@@ -48119,14 +48127,14 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Red River Resistance and the M\u00e9tis Nation; The Canadian Pacific Railway and Nation-Building; Residential Schools and Their Legacy; Canada\u2019s Peacekeeping Missions Abroad; The Marshall Plan and Post-War Reconstruction.",
+        "summary": "A practice recap of recent History lessons: The Red River Resistance and the Métis Nation; The Canadian Pacific Railway and Nation-Building; Residential Schools and Their Legacy; Canada’s Peacekeeping Missions Abroad; The Marshall Plan and Post-War Reconstruction.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
           {
             "q": "The Red River Resistance was led primarily by ___.",
             "options": [
-              "Louis Riel and the M\u00e9tis",
+              "Louis Riel and the Métis",
               "British colonial troops",
               "John A. Macdonald and the federal government",
               "A group unrelated to the Red River Resistance"
@@ -48183,9 +48191,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A resume is a document that summarizes ___.",
             "options": [
-              "A person\u2019s skills, experience, and education",
-              "A completely fictional account of a person\u2019s life",
-              "Only a person\u2019s personal opinions with no factual information",
+              "A person’s skills, experience, and education",
+              "A completely fictional account of a person’s life",
+              "Only a person’s personal opinions with no factual information",
               "A concept unrelated to resumes"
             ],
             "answer": 0
@@ -48274,7 +48282,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Matter and Energy: Density and Buoyancy (Archimedes\u2019 Principle); Chemistry: Acids, Bases, and pH; Chemistry: Chemical vs Physical Changes; Astronomy: The Solar System and Planetary Motion.",
+        "summary": "A practice recap of recent Science lessons: Matter and Energy: Density and Buoyancy (Archimedes’ Principle); Chemistry: Acids, Bases, and pH; Chemistry: Chemical vs Physical Changes; Astronomy: The Solar System and Planetary Motion.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -48283,7 +48291,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to density",
               "The amount of mass contained in a given volume",
-              "The temperature of an object\u2019s surroundings",
+              "The temperature of an object’s surroundings",
               "The total weight of an object regardless of its size"
             ],
             "answer": 1
@@ -48478,7 +48486,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Review: Days 61-69 Science Concepts; Structures and Mechanisms: Load, Stress, and Structural Strength; Chemistry: Elements, Compounds, and Mixtures; Earth and Space: Earth\u2019s Internal Layers and Heat Transfer.",
+        "summary": "A practice recap of recent Science lessons: Review: Days 61-69 Science Concepts; Structures and Mechanisms: Load, Stress, and Structural Strength; Chemistry: Elements, Compounds, and Mixtures; Earth and Space: Earth’s Internal Layers and Heat Transfer.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -48508,7 +48516,7 @@ const curriculum: DayContent[] = [
               "A colour applied to the surface of a structure",
               "A concept unrelated to structural load",
               "A force the structure must support or withstand",
-              "A measurement of a structure\u2019s height only"
+              "A measurement of a structure’s height only"
             ],
             "answer": 2
           },
@@ -48682,7 +48690,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: The Greenhouse Effect and Global Warming; Science: Volcanoes and Earthquakes \u2014 Forces Beneath Earths Surface; Environmental Science: The Carbon Cycle and the Greenhouse Effect; Space Science: The Phases of the Moon and Eclipses.",
+        "summary": "A practice recap of recent Science lessons: Science: The Greenhouse Effect and Global Warming; Science: Volcanoes and Earthquakes — Forces Beneath Earths Surface; Environmental Science: The Carbon Cycle and the Greenhouse Effect; Space Science: The Phases of the Moon and Eclipses.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -48690,9 +48698,9 @@ const curriculum: DayContent[] = [
             "q": "What does the greenhouse effect do?",
             "options": [
               "A concept unrelated to Earth science",
-              "Cools Earth\u2019s surface rapidly",
+              "Cools Earth’s surface rapidly",
               "Removes all heat from the atmosphere",
-              "Traps heat from the sun near Earth\u2019s surface"
+              "Traps heat from the sun near Earth’s surface"
             ],
             "answer": 3
           },
@@ -48731,7 +48739,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The French Revolution: Causes and Impact; The Canadian Charter of Rights and Freedoms; The M\u00e9tis Nation and the Red River Resistance; The Great Depression in Canada.",
+        "summary": "A practice recap of recent History lessons: The French Revolution: Causes and Impact; The Canadian Charter of Rights and Freedoms; The Métis Nation and the Red River Resistance; The Great Depression in Canada.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -48748,8 +48756,8 @@ const curriculum: DayContent[] = [
           {
             "q": "The Red River Resistance occurred largely in response to the Canadian government's plans to ___.",
             "options": [
-              "grant full independence to the M\u00e9tis Nation",
-              "take over M\u00e9tis lands and territory without consulting local residents",
+              "grant full independence to the Métis Nation",
+              "take over Métis lands and territory without consulting local residents",
               "build a railway through Indigenous territory in British Columbia",
               "implement the Indian Act for the first time in Manitoba"
             ],
@@ -48759,7 +48767,7 @@ const curriculum: DayContent[] = [
             "q": "The Canadian Charter of Rights and Freedoms is best described as ___.",
             "options": [
               "A set of rules that apply only to elected officials",
-              "A part of Canada\u2019s Constitution that guarantees fundamental rights and freedoms",
+              "A part of Canada’s Constitution that guarantees fundamental rights and freedoms",
               "A concept unrelated to Canadian rights",
               "A document with no legal significance in Canada"
             ],
@@ -48795,10 +48803,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Direct characterization occurs when an author ___.",
             "options": [
-              "Only reveals traits through a character\u2019s actions",
+              "Only reveals traits through a character’s actions",
               "Never describes a character in any way",
               "A concept unrelated to direct characterization",
-              "Explicitly states a character\u2019s traits"
+              "Explicitly states a character’s traits"
             ],
             "answer": 3
           },
@@ -48837,7 +48845,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Probability: Calculating Expected Value; Statistics: Line of Best Fit \u2014 Interpolation and Extrapolation; Review: Days 71-79 Math Concepts; Data Management: Quartiles and Interquartile Range; Data Management: Introduction to Scatter Plots.",
+        "summary": "A practice recap of recent Mathematics lessons: Probability: Calculating Expected Value; Statistics: Line of Best Fit — Interpolation and Extrapolation; Review: Days 71-79 Math Concepts; Data Management: Quartiles and Interquartile Range; Data Management: Introduction to Scatter Plots.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
@@ -49041,7 +49049,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Exponent Laws \u2014 Multiplying and Dividing Powers; Probability: Probability of Independent Events; Number Sense: Estimating Square Roots.",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Exponent Laws — Multiplying and Dividing Powers; Probability: Probability of Independent Events; Number Sense: Estimating Square Roots.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
@@ -49090,7 +49098,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Marine Biology: Coral Reef Ecosystems; Watersheds and Drainage Basins; DNA \u2014 The Blueprint of Life.",
+        "summary": "A practice recap of recent Science lessons: Science: Marine Biology: Coral Reef Ecosystems; Watersheds and Drainage Basins; DNA — The Blueprint of Life.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -49294,7 +49302,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Renewable Materials: Bioplastics; Homeostasis \u2014 How the Body Maintains Balance; Rust and Corrosion \u2014 A Chemical Reaction; Science: The Chemistry of Batteries and Energy Storage.",
+        "summary": "A practice recap of recent Science lessons: Science: Renewable Materials: Bioplastics; Homeostasis — How the Body Maintains Balance; Rust and Corrosion — A Chemical Reaction; Science: The Chemistry of Batteries and Energy Storage.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -49343,7 +49351,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies: Japanese Canadian Internment During World War II; Social Studies: The Auditor General \u2014 Watching How Government Spends Money; Social Studies: The Magna Cartas Influence on Canadian Law; Social Studies: The Komagata Maru Incident.",
+        "summary": "A practice recap of recent History lessons: Social Studies: Japanese Canadian Internment During World War II; Social Studies: The Auditor General — Watching How Government Spends Money; Social Studies: The Magna Cartas Influence on Canadian Law; Social Studies: The Komagata Maru Incident.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -49449,7 +49457,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Multiplying and Dividing Numbers in Scientific Notation; Math Review: The Final Chapter \u2014 Number Systems, Geometry, and Probability; Adding and Subtracting Integers; Multiplying and Dividing Integers.",
+        "summary": "A practice recap of recent Mathematics lessons: Number Sense: Multiplying and Dividing Numbers in Scientific Notation; Math Review: The Final Chapter — Number Systems, Geometry, and Probability; Adding and Subtracting Integers; Multiplying and Dividing Integers.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
@@ -49498,7 +49506,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Introduction to Cells \u2014 The Basic Building Blocks of Living Things; Science: Volcanoes and Types of Volcanic Eruptions; Science: Types of Volcanoes \u2014 Shield, Cinder Cone, and Composite; Science: The Water Table and Aquifer Recharge.",
+        "summary": "A practice recap of recent Science lessons: Science: Introduction to Cells — The Basic Building Blocks of Living Things; Science: Volcanoes and Types of Volcanic Eruptions; Science: Types of Volcanoes — Shield, Cinder Cone, and Composite; Science: The Water Table and Aquifer Recharge.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -49525,7 +49533,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is a volcano?",
             "options": [
-              "An opening in Earth\u2019s crust where molten rock, gas, and ash can escape",
+              "An opening in Earth’s crust where molten rock, gas, and ash can escape",
               "A concept unrelated to earth science",
               "A large flat area with no geological activity",
               "A type of cloud formation"
@@ -49547,7 +49555,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies: The Avro Arrow \u2014 A Canadian Aviation Story; Social Studies: The Halifax Explosion; Confederation: How Canada Became a Country; Social Studies: The Canadian Pacific Railway and Nation-Building.",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Avro Arrow — A Canadian Aviation Story; Social Studies: The Halifax Explosion; Confederation: How Canada Became a Country; Social Studies: The Canadian Pacific Railway and Nation-Building.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -49668,7 +49676,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "-3 + 4 \u00d7 (-2) - (-6) = ?",
+            "q": "-3 + 4 × (-2) - (-6) = ?",
             "options": [
               "-5",
               "-17",
@@ -49702,7 +49710,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Osmosis and Diffusion in Cells; Science: Cellular Respiration \u2014 How Cells Release Energy; Science: The Doppler Effect and Changes in Sound; Science: Symbiosis: Mutualism, Commensalism, and Parasitism.",
+        "summary": "A practice recap of recent Science lessons: Science: Osmosis and Diffusion in Cells; Science: Cellular Respiration — How Cells Release Energy; Science: The Doppler Effect and Changes in Sound; Science: Symbiosis: Mutualism, Commensalism, and Parasitism.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -49751,7 +49759,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Clifford Sifton and the Settlement of the Canadian Prairies; Social Studies: The Chinese Head Tax \u2014 A Chapter in Canadian Immigration History; Social Studies: The Quebec Referendums and Canadian National Unity; Sir John A Macdonald: Canadas First Prime Minister.",
+        "summary": "A practice recap of recent History lessons: Clifford Sifton and the Settlement of the Canadian Prairies; Social Studies: The Chinese Head Tax — A Chapter in Canadian Immigration History; Social Studies: The Quebec Referendums and Canadian National Unity; Sir John A Macdonald: Canadas First Prime Minister.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -49862,7 +49870,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "2/3 \u00d7 3/5 = ?",
+            "q": "2/3 × 3/5 = ?",
             "options": [
               "2/5",
               "5/6",
@@ -49872,7 +49880,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "0.6 \u00d7 0.3 = ?",
+            "q": "0.6 × 0.3 = ?",
             "options": [
               "0.18",
               "1.8",
@@ -49882,7 +49890,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "3/4 \u00f7 1/2 = ?",
+            "q": "3/4 ÷ 1/2 = ?",
             "options": [
               "3/2",
               "2/3",
@@ -49906,7 +49914,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Weather Fronts and Air Masses; Science: The Science of Sleep and Circadian Rhythms; Review: Earth Science, Human Biology, and Technology (Days 91-99); Science: Fermentation \u2014 How Microorganisms Transform Food.",
+        "summary": "A practice recap of recent Science lessons: Science: Weather Fronts and Air Masses; Science: The Science of Sleep and Circadian Rhythms; Review: Earth Science, Human Biology, and Technology (Days 91-99); Science: Fermentation — How Microorganisms Transform Food.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -50078,10 +50086,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of the following correctly expresses 4,500,000 in scientific notation?",
             "options": [
-              "4.5 \u00d7 10^6",
-              "4.5 \u00d7 10^5",
-              "4.5 \u00d7 10^7",
-              "4.5 \u00d7 10^4"
+              "4.5 × 10^6",
+              "4.5 × 10^5",
+              "4.5 × 10^7",
+              "4.5 × 10^4"
             ],
             "answer": 0
           },
@@ -50096,7 +50104,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is \u221a81?",
+            "q": "What is √81?",
             "options": [
               "9",
               "8",
@@ -50110,7 +50118,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: How Refrigerators and Heat Pumps Move Heat; Science: The Ozone Layer and Atmospheric Protection; Science: Classification of Living Things (Taxonomy); Science: The Maillard Reaction \u2014 The Chemistry of Browning Food.",
+        "summary": "A practice recap of recent Science lessons: Science: How Refrigerators and Heat Pumps Move Heat; Science: The Ozone Layer and Atmospheric Protection; Science: Classification of Living Things (Taxonomy); Science: The Maillard Reaction — The Chemistry of Browning Food.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
@@ -50139,8 +50147,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to earth science",
               "All visible light from the sun",
-              "Most of Earth\u2019s oxygen supply",
-              "Most of the sun\u2019s harmful ultraviolet radiation"
+              "Most of Earth’s oxygen supply",
+              "Most of the sun’s harmful ultraviolet radiation"
             ],
             "answer": 3
           },
@@ -50159,7 +50167,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Alaska Boundary Dispute of 1903; Social Studies: The Printing Press and the Spread of Ideas in Europe; Social Studies: The Great Wall of China \u2014 Construction and Purpose; The Naval Service Act of 1910 and the Creation of the Royal Canadian Navy.",
+        "summary": "A practice recap of recent History lessons: The Alaska Boundary Dispute of 1903; Social Studies: The Printing Press and the Spread of Ideas in Europe; Social Studies: The Great Wall of China — Construction and Purpose; The Naval Service Act of 1910 and the Creation of the Royal Canadian Navy.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -50223,7 +50231,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does setting refer to in a story?",
             "options": [
-              "The main character\u2019s personality traits",
+              "The main character’s personality traits",
               "A concept unrelated to reading",
               "The title and author of a story",
               "The time and place in which a story occurs"
@@ -50270,7 +50278,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "\u221a50 is between which two consecutive integers?",
+            "q": "√50 is between which two consecutive integers?",
             "options": [
               "6 and 7",
               "7 and 8",
@@ -50290,7 +50298,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Simplify: 2^3 \u00d7 2^4",
+            "q": "Simplify: 2^3 × 2^4",
             "options": [
               "4^7",
               "2^7",
@@ -50314,12 +50322,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Geothermal Energy and Earth\u2019s Heat; Science: Viruses versus Bacteria; Science: Tides and the Moon\u2019s Gravitational Pull; Science: Renewable versus Nonrenewable Resources.",
+        "summary": "A practice recap of recent Science lessons: Science: Geothermal Energy and Earth’s Heat; Science: Viruses versus Bacteria; Science: Tides and the Moon’s Gravitational Pull; Science: Renewable versus Nonrenewable Resources.",
         "resourceLabel": "TVO Learn: Grade 8 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
         "quiz": [
           {
-            "q": "Where does most of Earth\u2019s internal geothermal heat come from?",
+            "q": "Where does most of Earth’s internal geothermal heat come from?",
             "options": [
               "Wind currents in the atmosphere",
               "A concept unrelated to earth science",
@@ -50363,7 +50371,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies: The Supreme Court of Canada and Judicial Review; Social Studies Review: Canadian History and World Innovations; Social Studies: How the Federal Government Creates a Budget; The M\u00e9tis Scrip System and Land Grants.",
+        "summary": "A practice recap of recent History lessons: Social Studies: The Supreme Court of Canada and Judicial Review; Social Studies Review: Canadian History and World Innovations; Social Studies: How the Federal Government Creates a Budget; The Métis Scrip System and Land Grants.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -50894,10 +50902,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the surface area of a rectangular prism with length 4 cm, width 3 cm, and height 2 cm?",
             "options": [
-              "52 cm\u00b2",
-              "24 cm\u00b2",
-              "26 cm\u00b2",
-              "104 cm\u00b2"
+              "52 cm²",
+              "24 cm²",
+              "26 cm²",
+              "104 cm²"
             ],
             "answer": 0
           },
@@ -50914,10 +50922,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which formula is used to calculate the surface area of a cylinder with radius r and height h?",
             "options": [
-              "2\u03c0r\u00b2 + 2\u03c0rh",
-              "\u03c0r\u00b2h",
-              "2\u03c0r + 2h",
-              "\u03c0rh"
+              "2πr² + 2πrh",
+              "πr²h",
+              "2πr + 2h",
+              "πrh"
             ],
             "answer": 0
           }
@@ -51086,42 +51094,42 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "A triangular prism has a triangular base with area 12 cm\u00b2 and a length of 9 cm. What is its volume?",
+            "q": "A triangular prism has a triangular base with area 12 cm² and a length of 9 cm. What is its volume?",
             "options": [
-              "21 cm\u00b3",
-              "108 cm\u00b3",
-              "216 cm\u00b3",
-              "54 cm\u00b3"
+              "21 cm³",
+              "108 cm³",
+              "216 cm³",
+              "54 cm³"
             ],
             "answer": 1
           },
           {
             "q": "Two parallel lines are cut by a transversal. If one angle measures 65 degrees, what is the measure of its corresponding angle?",
             "options": [
-              "115\u00b0",
-              "65\u00b0",
-              "25\u00b0",
-              "180\u00b0"
+              "115°",
+              "65°",
+              "25°",
+              "180°"
             ],
             "answer": 1
           },
           {
-            "q": "What is the volume of a cylinder with radius 3 cm and height 7 cm? (\u03c0 \u2248 3.14)",
+            "q": "What is the volume of a cylinder with radius 3 cm and height 7 cm? (π ≈ 3.14)",
             "options": [
-              "197.8 cm\u00b3",
-              "65.9 cm\u00b3",
-              "263.8 cm\u00b3",
-              "131.9 cm\u00b3"
+              "197.8 cm³",
+              "65.9 cm³",
+              "263.8 cm³",
+              "131.9 cm³"
             ],
             "answer": 0
           },
           {
             "q": "What is the sum of the interior angles of any quadrilateral?",
             "options": [
-              "180\u00b0",
-              "270\u00b0",
-              "360\u00b0",
-              "540\u00b0"
+              "180°",
+              "270°",
+              "360°",
+              "540°"
             ],
             "answer": 2
           }
@@ -51383,7 +51391,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Building of the Canadian National Railway; The Formation of the Royal Canadian Mounted Police in 1920; Social Studies: The Charlottetown and Quebec Conferences \u2014 Building Confederation; The Rebellion Losses Bill and the Growth of Responsible Government; History Review: Confederation, Institutions, and Infrastructure (Days 121-129).",
+        "summary": "A practice recap of recent History lessons: The Building of the Canadian National Railway; The Formation of the Royal Canadian Mounted Police in 1920; Social Studies: The Charlottetown and Quebec Conferences — Building Confederation; The Rebellion Losses Bill and the Growth of Responsible Government; History Review: Confederation, Institutions, and Infrastructure (Days 121-129).",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -51504,17 +51512,17 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What is the area of a circle with a radius of 5 cm? (\u03c0 \u2248 3.14)",
+            "q": "What is the area of a circle with a radius of 5 cm? (π ≈ 3.14)",
             "options": [
-              "31.4 cm\u00b2",
-              "78.5 cm\u00b2",
-              "25 cm\u00b2",
-              "15.7 cm\u00b2"
+              "31.4 cm²",
+              "78.5 cm²",
+              "25 cm²",
+              "15.7 cm²"
             ],
             "answer": 1
           },
           {
-            "q": "A circle has a radius of 7 cm. What is its circumference? (\u03c0 \u2248 3.14)",
+            "q": "A circle has a radius of 7 cm. What is its circumference? (π ≈ 3.14)",
             "options": [
               "43.96 cm",
               "153.86 cm",
@@ -51700,10 +51708,10 @@ const curriculum: DayContent[] = [
           {
             "q": "In a circle graph, a category representing 25% of the data should take up how many degrees of the circle?",
             "options": [
-              "120\u00b0",
-              "90\u00b0",
-              "45\u00b0",
-              "60\u00b0"
+              "120°",
+              "90°",
+              "45°",
+              "60°"
             ],
             "answer": 1
           },
@@ -51728,12 +51736,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The temperature was -8\u00b0C in the morning. By afternoon it had risen by 15 degrees. What was the afternoon temperature?",
+            "q": "The temperature was -8°C in the morning. By afternoon it had risen by 15 degrees. What was the afternoon temperature?",
             "options": [
-              "7\u00b0C",
-              "-7\u00b0C",
-              "23\u00b0C",
-              "-23\u00b0C"
+              "7°C",
+              "-7°C",
+              "23°C",
+              "-23°C"
             ],
             "answer": 0
           }
@@ -51922,7 +51930,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Evaluate: -3\u00b2 + 4 \u00d7 2",
+            "q": "Evaluate: -3² + 4 × 2",
             "options": [
               "-17",
               "17",
@@ -52106,7 +52114,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "Simplify: 3\u2074 \u00d7 3\u00b2",
+            "q": "Simplify: 3⁴ × 3²",
             "options": [
               "3^8",
               "9^6",
@@ -52118,15 +52126,15 @@ const curriculum: DayContent[] = [
           {
             "q": "Write 45,000 in scientific notation.",
             "options": [
-              "4.5 \u00d7 10\u00b3",
-              "4.5 \u00d7 10\u2074",
-              "45 \u00d7 10\u2074",
-              "5.4 \u00d7 10\u2074"
+              "4.5 × 10³",
+              "4.5 × 10⁴",
+              "45 × 10⁴",
+              "5.4 × 10⁴"
             ],
             "answer": 1
           },
           {
-            "q": "What is the value of 8\u2070?",
+            "q": "What is the value of 8⁰?",
             "options": [
               "0",
               "undefined",
@@ -52607,7 +52615,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies Review: Canadian Institutions, History, and Exploration; Social Studies: Sir John A. Macdonald \u2014 Canadas First Prime Minister; Social Studies: How the Provinces and Territories Joined Confederation Over Time; Social Studies: The North-West Rebellion and Louis Riel.",
+        "summary": "A practice recap of recent History lessons: Social Studies Review: Canadian Institutions, History, and Exploration; Social Studies: Sir John A. Macdonald — Canadas First Prime Minister; Social Studies: How the Provinces and Territories Joined Confederation Over Time; Social Studies: The North-West Rebellion and Louis Riel.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -53015,7 +53023,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies: Nellie McClung and the Fight for Womens Suffrage in Canada; Social Studies: Equalization Payments Between Canadian Provinces; Social Studies: The White Paper of 1969 and First Nations Opposition; Social Studies: Canadas Mission in Afghanistan; Social Studies: The Indian Act \u2014 History and Impact.",
+        "summary": "A practice recap of recent History lessons: Social Studies: Nellie McClung and the Fight for Womens Suffrage in Canada; Social Studies: Equalization Payments Between Canadian Provinces; Social Studies: The White Paper of 1969 and First Nations Opposition; Social Studies: Canadas Mission in Afghanistan; Social Studies: The Indian Act — History and Impact.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -53126,12 +53134,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "A triangle has angles of 50\u00b0 and 65\u00b0. What is the third angle?",
+            "q": "A triangle has angles of 50° and 65°. What is the third angle?",
             "options": [
-              "60\u00b0",
-              "65\u00b0",
-              "55\u00b0",
-              "70\u00b0"
+              "60°",
+              "65°",
+              "55°",
+              "70°"
             ],
             "answer": 1
           },
@@ -53219,7 +53227,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: Social Studies Review: The Final Chapter \u2014 Government, Rights, and Canadian History; Historical Thinking: Establishing Historical Significance; Historical Thinking: Primary vs. Secondary Sources; Historical Thinking: Continuity and Change; Historical Thinking: Cause and Consequence in Confederation.",
+        "summary": "A practice recap of recent History lessons: Social Studies Review: The Final Chapter — Government, Rights, and Canadian History; Historical Thinking: Establishing Historical Significance; Historical Thinking: Primary vs. Secondary Sources; Historical Thinking: Continuity and Change; Historical Thinking: Cause and Consequence in Confederation.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -53360,12 +53368,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "A triangular prism has a triangular base with an area of 15 cm\u00b2 and a length of 8 cm. What is its volume?",
+            "q": "A triangular prism has a triangular base with an area of 15 cm² and a length of 8 cm. What is its volume?",
             "options": [
-              "23 cm\u00b3",
-              "60 cm\u00b3",
-              "120 cm\u00b3",
-              "180 cm\u00b3"
+              "23 cm³",
+              "60 cm³",
+              "120 cm³",
+              "180 cm³"
             ],
             "answer": 2
           }
@@ -53534,12 +53542,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
         "quiz": [
           {
-            "q": "Find the volume of a cylinder with radius 3 cm and height 10 cm. Use \u03c0 \u2248 3.14.",
+            "q": "Find the volume of a cylinder with radius 3 cm and height 10 cm. Use π ≈ 3.14.",
             "options": [
-              "94.2 cm\u00b3",
-              "188.4 cm\u00b3",
-              "565.2 cm\u00b3",
-              "282.6 cm\u00b3"
+              "94.2 cm³",
+              "188.4 cm³",
+              "565.2 cm³",
+              "282.6 cm³"
             ],
             "answer": 3
           },
@@ -53564,12 +53572,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is the volume of a square pyramid with a base area of 36 cm\u00b2 and a height of 9 cm?",
+            "q": "What is the volume of a square pyramid with a base area of 36 cm² and a height of 9 cm?",
             "options": [
-              "45 cm\u00b3",
-              "108 cm\u00b3",
-              "162 cm\u00b3",
-              "324 cm\u00b3"
+              "45 cm³",
+              "108 cm³",
+              "162 cm³",
+              "324 cm³"
             ],
             "answer": 1
           }
@@ -53627,7 +53635,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "History",
         "title": "Practice: History Recap",
-        "summary": "A practice recap of recent History lessons: The Great Coalition of 1864; George-\u00c9tienne Cartier and French-Canadian Support for Confederation; Joseph Howe and the Anti-Confederation Movement in Nova Scotia; The London Conference of 1866.",
+        "summary": "A practice recap of recent History lessons: The Great Coalition of 1864; George-Étienne Cartier and French-Canadian Support for Confederation; Joseph Howe and the Anti-Confederation Movement in Nova Scotia; The London Conference of 1866.",
         "resourceLabel": "TVO Learn: Grade 8 History & Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-history-and-geography",
         "quiz": [
@@ -53652,7 +53660,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "George-\u00c9tienne Cartier is best known in Confederation-era history for:",
+            "q": "George-Étienne Cartier is best known in Confederation-era history for:",
             "options": [
               "Building support for Confederation among French-Canadians in Canada East",
               "Serving as Canada's first Governor General",
@@ -53964,10 +53972,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A circle graph shows that 25% of students prefer basketball. What central angle represents this section?",
             "options": [
-              "36\u00b0",
-              "45\u00b0",
-              "90\u00b0",
-              "25\u00b0"
+              "36°",
+              "45°",
+              "90°",
+              "25°"
             ],
             "answer": 2
           },

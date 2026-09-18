@@ -22228,14 +22228,15 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jKAvMdpXldU"
       },
       {
         "subject": "Math",
         "title": "Measurement: Converting Between Metric Units of Mass",
         "summary": "Grade 4 Math strand: students learn to convert between metric units of mass, knowing that 1 kilogram equals 1000 grams, to solve problems involving weight.",
-        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "resourceLabel": "YouTube: Measurement: Converting Between Metric Units of Mass",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Between%20Metric%20Units%20of%20Mass%20grade%204%20educational",
         "quiz": [
           {
             "q": "How many grams are in 1 kilogram?",
@@ -22288,7 +22289,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Measurement: Units"
+        "topic": "Measurement: Units",
+        "videoUrl": "https://www.youtube.com/watch?v=ptrKThVQwh4"
       },
       {
         "subject": "Science",
@@ -22368,7 +22370,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=jlLpZ9S2slQ"
       },
       {
         "subject": "SocialStudies",

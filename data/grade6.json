@@ -21250,8 +21250,8 @@
         "subject": "Language",
         "title": "Reading: Understanding Unreliable Narrators",
         "summary": "Grade 6 Language strand: an unreliable narrator is a storyteller whose account of events may be inaccurate or biased, requiring readers to question and look for clues about what is really happening.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Reading: Understanding Unreliable Narrators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Understanding%20Unreliable%20Narrators%20grade%206%20educational",
         "quiz": [
           {
             "q": "What do we call a storyteller whose account of events may be inaccurate or biased?",
@@ -21304,14 +21304,15 @@
             "answer": 1
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=z8h-fleUShE"
       },
       {
         "subject": "Math",
         "title": "Percent Increase and Decrease",
         "summary": "Grade 6 Math strand: percent increase and decrease describe how much a quantity has grown or shrunk compared to its original amount, expressed as a percentage.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Percent Increase and Decrease",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Percent%20Increase%20and%20Decrease%20grade%206%20educational",
         "quiz": [
           {
             "q": "If a price increases from 20 dollars to 25 dollars, what is the amount of increase?",
@@ -21363,14 +21364,15 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jAcDJDjQk2g"
       },
       {
         "subject": "Science",
         "title": "Science: Vaccines and How They Work",
         "summary": "Grade 6 Science strand: a vaccine trains the immune system to recognize and fight a specific germ by introducing a small, safe piece of it, helping the body build protection before facing a real infection.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: Vaccines and How They Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Vaccines%20and%20How%20They%20Work%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does a vaccine train the immune system to do?",
@@ -21422,14 +21424,15 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=rb7TVW77ZCs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Canada’s Relationship with Indigenous Self-Government Today",
         "summary": "Grade 6 Social Studies strand: today, many Indigenous communities in Canada are working toward greater self-government, making their own decisions about governance, land, and resources within their communities.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canada’s Relationship with Indigenous Self-Government Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20Relationship%20with%20Indigenous%20Self-Government%20Today%20grade%206%20educational",
         "quiz": [
           {
             "q": "What are many Indigenous communities in Canada working toward today?",
@@ -21482,7 +21485,8 @@
             "answer": 2
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=WDbjZm3RD3E"
       }
     ]
   },
@@ -21494,8 +21498,8 @@
         "subject": "Language",
         "title": "Grammar: Appositive Phrases",
         "summary": "Grade 6 Language strand: an appositive phrase renames or gives more information about a nearby noun, such as in Mr. Lee, our science teacher, explained the experiment, where our science teacher describes Mr. Lee.",
-        "resourceLabel": "TVO Learn: Grade 6 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "resourceLabel": "YouTube: Grammar: Appositive Phrases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Appositive%20Phrases%20grade%206%20educational",
         "quiz": [
           {
             "q": "What does an appositive phrase do to a nearby noun?",
@@ -21548,14 +21552,15 @@
             "answer": 2
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=Ph9pyi-0MYA"
       },
       {
         "subject": "Math",
         "title": "Surface Area of Cylinders",
         "summary": "Grade 6 Math strand: the surface area of a cylinder is found by adding the areas of its two circular ends to the area of its curved side, which unrolls into a rectangle.",
-        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "resourceLabel": "YouTube: Surface Area of Cylinders",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Surface%20Area%20of%20Cylinders%20grade%206%20educational",
         "quiz": [
           {
             "q": "How many circular ends does a cylinder have?",
@@ -21608,14 +21613,15 @@
             "answer": 0
           }
         ],
-        "topic": "Measurement: Perimeter & Area"
+        "topic": "Measurement: Perimeter & Area",
+        "videoUrl": "https://www.youtube.com/watch?v=dNDbRbHNXFQ"
       },
       {
         "subject": "Science",
         "title": "Science: The Physics of Roller Coasters",
         "summary": "Grade 6 Science strand: roller coasters use potential and kinetic energy, converting stored energy at the top of a hill into motion energy as the coaster speeds down, following the law of conservation of energy.",
-        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "resourceLabel": "YouTube: Science: The Physics of Roller Coasters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Physics%20of%20Roller%20Coasters%20grade%206%20educational",
         "quiz": [
           {
             "q": "What type of energy does a roller coaster have at the top of a hill, before it moves?",
@@ -21667,14 +21673,15 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=J8pJiV44hVM"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The History of the Olympic Games",
         "summary": "Grade 6 Social Studies strand: the modern Olympic Games began in 1896, reviving an ancient Greek tradition, and today bring together athletes from around the world to compete and celebrate international friendship.",
-        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The History of the Olympic Games",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20History%20of%20the%20Olympic%20Games%20grade%206%20educational",
         "quiz": [
           {
             "q": "In what year did the modern Olympic Games begin?",
@@ -21726,7 +21733,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=uSf7-LsmU3Y"
       }
     ]
   },

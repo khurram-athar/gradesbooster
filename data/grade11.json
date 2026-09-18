@@ -21305,14 +21305,15 @@
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=LJU9LsyBGsU"
       },
       {
         "subject": "Functions",
         "title": "Statistics: The Binomial Probability Distribution",
         "summary": "Grade 11 Functions strand: the binomial probability distribution models the number of successes in a fixed number of independent trials, each with the same probability of success.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Statistics: The Binomial Probability Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20The%20Binomial%20Probability%20Distribution%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does the binomial probability distribution model?",
@@ -21365,14 +21366,15 @@
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=rvg9oUHtX50"
       },
       {
         "subject": "Biology",
         "title": "Biology: Vaccine Development and Herd Immunity",
         "summary": "Grade 11 Biology strand: vaccines train the immune system to recognize specific pathogens, and widespread vaccination within a population can produce herd immunity that slows disease spread.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Vaccine Development and Herd Immunity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Vaccine%20Development%20and%20Herd%20Immunity%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What do vaccines train the immune system to recognize?",
@@ -21425,14 +21427,15 @@
             "answer": 2
           }
         ],
-        "topic": "Reproduction & Development"
+        "topic": "Reproduction & Development",
+        "videoUrl": "https://www.youtube.com/watch?v=34UWTlxK6Ks"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: The Chemistry of Fireworks and Pyrotechnics",
         "summary": "Grade 11 Chemistry strand: fireworks rely on metal salts to produce specific colours when heated, along with oxidizers and fuels that drive the combustion reactions that create their bursts.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: The Chemistry of Fireworks and Pyrotechnics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Chemistry%20of%20Fireworks%20and%20Pyrotechnics%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What do fireworks use to produce specific colours when heated?",
@@ -21484,7 +21487,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nPHegSulI_M"
       }
     ]
   },
@@ -21496,8 +21500,8 @@
         "subject": "English",
         "title": "Writing: The Personal Essay of Place",
         "summary": "Grade 11 English strand: a personal essay of place explores how a specific location has shaped the writer’s identity, memories, or understanding of the world.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Writing: The Personal Essay of Place",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Essay%20of%20Place%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does a personal essay of place explore?",
@@ -21550,14 +21554,15 @@
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=qw2U42FoZls"
       },
       {
         "subject": "Functions",
         "title": "Functions: Rational Functions — Slant Asymptotes",
         "summary": "Grade 11 Functions strand: a rational function has a slant, or oblique, asymptote when the degree of the numerator is exactly one more than the degree of the denominator.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Functions: Rational Functions — Slant Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Rational%20Functions%20%E2%80%94%20Slant%20Asymptotes%20grade%2011%20educational",
         "quiz": [
           {
             "q": "When does a rational function have a slant asymptote?",
@@ -21610,14 +21615,15 @@
             "answer": 1
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=2mkZCema1IE"
       },
       {
         "subject": "Biology",
         "title": "Biology: Coral Reef Ecosystems and Bleaching",
         "summary": "Grade 11 Biology strand: coral reefs are built by colonies of coral organisms living in a mutualistic relationship with algae, and rising ocean temperatures can trigger coral bleaching, threatening the ecosystem.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Coral Reef Ecosystems and Bleaching",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Coral%20Reef%20Ecosystems%20and%20Bleaching%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What builds a coral reef?",
@@ -21670,7 +21676,8 @@
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=dcWlVN02kDQ"
       },
       {
         "subject": "Chemistry",

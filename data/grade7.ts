@@ -20574,10 +20574,10 @@ const curriculum: DayContent[] = [
         "topic": "Ratios & Rates",
         "videoUrl": "https://www.youtube.com/watch?v=yX6Mq9whsX0",
         "videoUrls": [
-            {
-              "label": "Scientific Notation - Addition and Subtraction",
-              "url": "https://www.youtube.com/watch?v=XHds0Uf1zHA"
-            }
+          {
+            "label": "Scientific Notation - Addition and Subtraction",
+            "url": "https://www.youtube.com/watch?v=XHds0Uf1zHA"
+          }
         ]
       },
       {
@@ -21211,8 +21211,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Reading: Evaluating Logical Fallacies in Arguments",
         "summary": "Grade 7 Language strand: a logical fallacy is a flaw in reasoning that weakens an argument, such as a hasty generalization, which draws a broad conclusion from very limited evidence.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Reading: Evaluating Logical Fallacies in Arguments",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Evaluating%20Logical%20Fallacies%20in%20Arguments%20grade%207%20educational",
         "quiz": [
           {
             "q": "What do we call a flaw in reasoning that weakens an argument?",
@@ -21265,14 +21265,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Writing: Persuasive/Opinion"
+        "topic": "Writing: Persuasive/Opinion",
+        "videoUrl": "https://www.youtube.com/watch?v=4CtofTCXcYI"
       },
       {
         "subject": "Math",
         "title": "Data: Correlation vs Causation",
         "summary": "Grade 7 Math strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another, a stronger claim that requires more evidence.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Data: Correlation vs Causation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Correlation%20vs%20Causation%20grade%207%20educational",
         "quiz": [
           {
             "q": "What does correlation describe?",
@@ -21325,14 +21326,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Tg6e2Y3IEUk"
       },
       {
         "subject": "Science",
         "title": "Science: Bioluminescence and Deep-Sea Life",
         "summary": "Grade 7 Science strand: bioluminescence, the ability to produce light through a chemical reaction, is common among deep-sea organisms, helping them survive in an environment with little to no sunlight.",
-        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "resourceLabel": "YouTube: Science: Bioluminescence and Deep-Sea Life",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Bioluminescence%20and%20Deep-Sea%20Life%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is bioluminescence?",
@@ -21384,7 +21386,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=aPUF40j47-o"
       },
       {
         "subject": "SocialStudies",
@@ -21466,8 +21469,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: Writing a Letter of Recommendation",
         "summary": "Grade 7 Language strand: a letter of recommendation describes a person’s strengths and qualifications, often written to support their application for a job, program, or opportunity.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "resourceLabel": "YouTube: Writing: Writing a Letter of Recommendation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Writing%20a%20Letter%20of%20Recommendation%20grade%207%20educational",
         "quiz": [
           {
             "q": "What kind of letter describes a person’s strengths to support an application?",
@@ -21520,14 +21523,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=WW5FDhsHkUg"
       },
       {
         "subject": "Math",
         "title": "Multiplying a Binomial by a Binomial",
         "summary": "Grade 7 Math strand: students learn to multiply two binomials, such as (x plus 2) times (x plus 3), by multiplying each term in the first binomial by each term in the second.",
-        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "resourceLabel": "YouTube: Multiplying a Binomial by a Binomial",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20a%20Binomial%20by%20a%20Binomial%20grade%207%20educational",
         "quiz": [
           {
             "q": "What is (x plus 2) times (x plus 3) equal to?",
@@ -21580,7 +21584,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=ynefQgfxZBs"
       },
       {
         "subject": "Science",
@@ -21639,7 +21644,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=bVn04eJRjV4"
       },
       {
         "subject": "SocialStudies",

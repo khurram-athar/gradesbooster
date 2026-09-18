@@ -25739,7 +25739,8 @@ const curriculum: DayContent[] = [
               "harder"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=TCKBxWFScnI"
       },
       {
         "subject": "Math",
@@ -25799,7 +25800,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V4vijfX-3u0"
       },
       {
         "subject": "Science",
@@ -25859,7 +25861,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=yorUUI5oClE"
       },
       {
         "subject": "SocialStudies",
@@ -25919,7 +25922,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QvLPHOD5qe8"
       }
     ]
   },

@@ -21240,8 +21240,8 @@
         "subject": "English",
         "title": "Reading: Analyzing Unreliable Framing in Memoir",
         "summary": "Grade 10 English strand: memoirists shape their own life stories through selective memory and personal perspective, meaning readers must consider how this framing affects the reliability of the account.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Reading: Analyzing Unreliable Framing in Memoir",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Unreliable%20Framing%20in%20Memoir%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What do memoirists shape their life stories through?",
@@ -21294,14 +21294,15 @@
             "answer": 3
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=AM7pALSwH_I"
       },
       {
         "subject": "Math",
         "title": "Sequences: Recursive Formulas",
         "summary": "Grade 10 Math strand: a recursive formula defines each term of a sequence based on the value of one or more previous terms, rather than directly from the term’s position.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Sequences: Recursive Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequences%3A%20Recursive%20Formulas%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does a recursive formula use to define each term of a sequence?",
@@ -21354,14 +21355,15 @@
             "answer": 3
           }
         ],
-        "topic": "Sequences & Series"
+        "topic": "Sequences & Series",
+        "videoUrl": "https://www.youtube.com/watch?v=IFHZQ6MaG6w"
       },
       {
         "subject": "Science",
         "title": "Chemistry: Solubility Rules and Precipitation Reactions",
         "summary": "Grade 10 Science strand: solubility rules predict whether an ionic compound will dissolve in water, and a precipitation reaction occurs when two soluble solutions combine to form an insoluble solid.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Chemistry: Solubility Rules and Precipitation Reactions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Solubility%20Rules%20and%20Precipitation%20Reactions%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What do solubility rules help predict?",
@@ -21414,14 +21416,25 @@
             "answer": 3
           }
         ],
-        "topic": "Matter & Materials"
+        "topic": "Matter & Materials",
+        "videoUrl": "https://www.youtube.com/watch?v=LnGIKtx_udE",
+        "videoUrls": [
+          {
+            "label": "Solubility Rules",
+            "url": "https://www.youtube.com/watch?v=LnGIKtx_udE"
+          },
+          {
+            "label": "Precipitation Reactions",
+            "url": "https://www.youtube.com/watch?v=leCoWeIN-h8"
+          }
+        ]
       },
       {
         "subject": "History",
         "title": "The Founding of VIA Rail and National Transportation",
         "summary": "Grade 10 History strand: VIA Rail was created in the 1970s to operate Canada’s intercity passenger rail service, reflecting the federal government’s role in connecting communities across a vast country.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The Founding of VIA Rail and National Transportation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Founding%20of%20VIA%20Rail%20and%20National%20Transportation%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In what decade was VIA Rail created?",
@@ -21474,7 +21487,8 @@
             "answer": 2
           }
         ],
-        "topic": "Transportation & Infrastructure"
+        "topic": "Transportation & Infrastructure",
+        "videoUrl": "https://www.youtube.com/watch?v=ZaKXZO9v3Pw"
       }
     ]
   },
@@ -21486,8 +21500,8 @@
         "subject": "English",
         "title": "Writing: The Op-Ed Rebuttal",
         "summary": "Grade 10 English strand: an op-ed rebuttal responds directly to a previously published opinion piece, presenting a counterargument backed by evidence and clear reasoning.",
-        "resourceLabel": "TVO Learn: Grade 10 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "resourceLabel": "YouTube: Writing: The Op-Ed Rebuttal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Op-Ed%20Rebuttal%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does an op-ed rebuttal respond to?",
@@ -21540,14 +21554,15 @@
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=wtzhe_Ae6qg"
       },
       {
         "subject": "Math",
         "title": "Trigonometry: The Ambiguous Case of the Sine Law",
         "summary": "Grade 10 Math strand: the ambiguous case of the sine law occurs when given information about a triangle produces two possible triangles, one, or no valid triangle at all.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "resourceLabel": "YouTube: Trigonometry: The Ambiguous Case of the Sine Law",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Ambiguous%20Case%20of%20the%20Sine%20Law%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does the ambiguous case of the sine law describe?",
@@ -21600,14 +21615,15 @@
             "answer": 3
           }
         ],
-        "topic": "Trigonometry"
+        "topic": "Trigonometry",
+        "videoUrl": "https://www.youtube.com/watch?v=RCyjglaJo5w"
       },
       {
         "subject": "Science",
         "title": "Biology: The Lymphatic System",
         "summary": "Grade 10 Science strand: the lymphatic system drains excess fluid from body tissues, transports immune cells, and plays a key role in defending the body against infection.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "resourceLabel": "YouTube: Biology: The Lymphatic System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20The%20Lymphatic%20System%20grade%2010%20educational",
         "quiz": [
           {
             "q": "What does the lymphatic system drain from body tissues?",
@@ -21659,14 +21675,15 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=C_Bii6TfwuY"
       },
       {
         "subject": "History",
         "title": "The 1980 Quebec Referendum",
         "summary": "Grade 10 History strand: in 1980, Quebec voters rejected a referendum question on pursuing sovereignty-association with Canada, setting the stage for further constitutional debate in the following decades.",
-        "resourceLabel": "TVO Learn: Grade 10 History",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "resourceLabel": "YouTube: The 1980 Quebec Referendum",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%201980%20Quebec%20Referendum%20grade%2010%20educational",
         "quiz": [
           {
             "q": "In what year did Quebec hold this early referendum on sovereignty-association?",
@@ -21718,7 +21735,8 @@
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=3oN-eej6f5Q"
       }
     ]
   },

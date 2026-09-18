@@ -21307,14 +21307,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=LJU9LsyBGsU"
       },
       {
         "subject": "Functions",
         "title": "Statistics: The Binomial Probability Distribution",
         "summary": "Grade 11 Functions strand: the binomial probability distribution models the number of successes in a fixed number of independent trials, each with the same probability of success.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Statistics: The Binomial Probability Distribution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statistics%3A%20The%20Binomial%20Probability%20Distribution%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does the binomial probability distribution model?",
@@ -21367,14 +21368,15 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=rvg9oUHtX50"
       },
       {
         "subject": "Biology",
         "title": "Biology: Vaccine Development and Herd Immunity",
         "summary": "Grade 11 Biology strand: vaccines train the immune system to recognize specific pathogens, and widespread vaccination within a population can produce herd immunity that slows disease spread.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Vaccine Development and Herd Immunity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Vaccine%20Development%20and%20Herd%20Immunity%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What do vaccines train the immune system to recognize?",
@@ -21427,14 +21429,15 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reproduction & Development"
+        "topic": "Reproduction & Development",
+        "videoUrl": "https://www.youtube.com/watch?v=34UWTlxK6Ks"
       },
       {
         "subject": "Chemistry",
         "title": "Chemistry: The Chemistry of Fireworks and Pyrotechnics",
         "summary": "Grade 11 Chemistry strand: fireworks rely on metal salts to produce specific colours when heated, along with oxidizers and fuels that drive the combustion reactions that create their bursts.",
-        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "resourceLabel": "YouTube: Chemistry: The Chemistry of Fireworks and Pyrotechnics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20The%20Chemistry%20of%20Fireworks%20and%20Pyrotechnics%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What do fireworks use to produce specific colours when heated?",
@@ -21486,7 +21489,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=nPHegSulI_M"
       }
     ]
   },
@@ -21498,8 +21502,8 @@ const curriculum: DayContent[] = [
         "subject": "English",
         "title": "Writing: The Personal Essay of Place",
         "summary": "Grade 11 English strand: a personal essay of place explores how a specific location has shaped the writer’s identity, memories, or understanding of the world.",
-        "resourceLabel": "TVO Learn: Grade 11 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "resourceLabel": "YouTube: Writing: The Personal Essay of Place",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Essay%20of%20Place%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What does a personal essay of place explore?",
@@ -21552,14 +21556,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=qw2U42FoZls"
       },
       {
         "subject": "Functions",
         "title": "Functions: Rational Functions — Slant Asymptotes",
         "summary": "Grade 11 Functions strand: a rational function has a slant, or oblique, asymptote when the degree of the numerator is exactly one more than the degree of the denominator.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "resourceLabel": "YouTube: Functions: Rational Functions — Slant Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Rational%20Functions%20%E2%80%94%20Slant%20Asymptotes%20grade%2011%20educational",
         "quiz": [
           {
             "q": "When does a rational function have a slant asymptote?",
@@ -21612,14 +21617,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Ratios & Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=2mkZCema1IE"
       },
       {
         "subject": "Biology",
         "title": "Biology: Coral Reef Ecosystems and Bleaching",
         "summary": "Grade 11 Biology strand: coral reefs are built by colonies of coral organisms living in a mutualistic relationship with algae, and rising ocean temperatures can trigger coral bleaching, threatening the ecosystem.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "resourceLabel": "YouTube: Biology: Coral Reef Ecosystems and Bleaching",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Coral%20Reef%20Ecosystems%20and%20Bleaching%20grade%2011%20educational",
         "quiz": [
           {
             "q": "What builds a coral reef?",
@@ -21672,7 +21678,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=dcWlVN02kDQ"
       },
       {
         "subject": "Chemistry",
@@ -46614,10 +46621,10 @@ const curriculum: DayContent[] = [
           {
             "q": "One full revolution around the unit circle corresponds to an angle of ___ radians.",
             "options": [
-              "\u03c0",
-              "2\u03c0",
-              "\u03c0/2",
-              "4\u03c0"
+              "π",
+              "2π",
+              "π/2",
+              "4π"
             ],
             "answer": 1
           },
@@ -46685,12 +46692,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Gas Laws: Boyle\u2019s, Charles\u2019s, and the Combined Gas Law; Chemical Bonding: Molecular Shapes and VSEPR Theory; Reaction Rates: Factors Affecting Rate of Reaction; Solutions: Colligative Properties.",
+        "summary": "Practice recap covering: Gas Laws: Boyle’s, Charles’s, and the Combined Gas Law; Chemical Bonding: Molecular Shapes and VSEPR Theory; Reaction Rates: Factors Affecting Rate of Reaction; Solutions: Colligative Properties.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
           {
-            "q": "Boyle\u2019s Law describes the relationship between a gas\u2019s ___.",
+            "q": "Boyle’s Law describes the relationship between a gas’s ___.",
             "options": [
               "A relationship unrelated to gas behaviour",
               "Pressure and volume, at constant temperature",
@@ -46700,7 +46707,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "VSEPR theory predicts a molecule\u2019s ___.",
+            "q": "VSEPR theory predicts a molecule’s ___.",
             "options": [
               "Colour",
               "Mass",
@@ -46710,7 +46717,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Charles\u2019s Law describes the direct relationship between a gas\u2019s ___.",
+            "q": "Charles’s Law describes the direct relationship between a gas’s ___.",
             "options": [
               "Volume and temperature, at constant pressure",
               "Pressure and moles, at constant volume",
@@ -46747,7 +46754,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "A bildungsroman is a novel focused on a protagonist\u2019s ___.",
+            "q": "A bildungsroman is a novel focused on a protagonist’s ___.",
             "options": [
               "A plot entirely unrelated to identity or self-discovery",
               "A journey with no connection to personal growth",
@@ -46767,7 +46774,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In a personal essay, \u201cvoice\u201d primarily refers to ___.",
+            "q": "In a personal essay, “voice” primarily refers to ___.",
             "options": [
               "The word count required by the assignment",
               "The distinctive tone and personality conveyed through the writer's style",
@@ -46889,7 +46896,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Organic Chemistry: Isomers and Naming Conventions; Acids and Bases: Titration Curves; Redox Reactions: Balancing and Applications; Thermochemistry: Calorimetry and Hess\u2019s Law.",
+        "summary": "Practice recap covering: Organic Chemistry: Isomers and Naming Conventions; Acids and Bases: Titration Curves; Redox Reactions: Balancing and Applications; Thermochemistry: Calorimetry and Hess’s Law.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -46904,7 +46911,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "A titration curve graphs a solution\u2019s ___.",
+            "q": "A titration curve graphs a solution’s ___.",
             "options": [
               "Temperature as it changes with no connection to the reaction",
               "Colour as it changes over time with no connection to pH",
@@ -46955,13 +46962,13 @@ const curriculum: DayContent[] = [
             "options": [
               "Credibility is compromised in some way",
               "Account is always completely accurate",
-              "Perspective is identical to the author\u2019s",
+              "Perspective is identical to the author’s",
               "Role in the story is purely factual"
             ],
             "answer": 0
           },
           {
-            "q": "Editing focuses on improving a piece of writing\u2019s ___.",
+            "q": "Editing focuses on improving a piece of writing’s ___.",
             "options": [
               "Clarity, organization, and word choice",
               "A factor entirely unrelated to writing quality",
@@ -46995,7 +47002,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Trigonometric Identities: Proving and Applying; Review: Functions, Trigonometry, and Financial Math; Radical Functions and Their Graphs; Discrete Math: Pascal\u2019s Triangle and the Binomial Theorem.",
+        "summary": "Practice recap covering: Trigonometric Identities: Proving and Applying; Review: Functions, Trigonometry, and Financial Math; Radical Functions and Their Graphs; Discrete Math: Pascal’s Triangle and the Binomial Theorem.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -47012,15 +47019,15 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of the following is a fundamental Pythagorean trigonometric identity?",
             "options": [
-              "sin \u03b8 + cos \u03b8 = 1",
-              "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
-              "sin \u03b8 \u00d7 cos \u03b8 = 1",
-              "sin\u00b2\u03b8 \u2212 cos\u00b2\u03b8 = 1"
+              "sin θ + cos θ = 1",
+              "sin²θ + cos²θ = 1",
+              "sin θ × cos θ = 1",
+              "sin²θ − cos²θ = 1"
             ],
             "answer": 1
           },
           {
-            "q": "The domain of the radical function f(x) = \u221a(x \u2212 3) is restricted because ___.",
+            "q": "The domain of the radical function f(x) = √(x − 3) is restricted because ___.",
             "options": [
               "The expression under the square root must be non-negative",
               "x can never equal any positive number",
@@ -47054,7 +47061,7 @@ const curriculum: DayContent[] = [
               "A function unrelated to environmental response",
               "A process entirely unrelated to plant biology",
               "Growth and development",
-              "Only the colour of a plant\u2019s leaves"
+              "Only the colour of a plant’s leaves"
             ],
             "answer": 2
           },
@@ -47175,7 +47182,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In the rhetorical triangle, \u201cpathos\u201d refers to an appeal to the audience's ___.",
+            "q": "In the rhetorical triangle, “pathos” refers to an appeal to the audience's ___.",
             "options": [
               "Sense of logic and statistical evidence",
               "Emotions",
@@ -47185,7 +47192,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Wilfred Owen's \u201cDulce et Decorum Est\u201d primarily challenges the idea that ___.",
+            "q": "Wilfred Owen's “Dulce et Decorum Est” primarily challenges the idea that ___.",
             "options": [
               "Dying for one's country is a sweet and honourable fate",
               "War has no lasting psychological effects on soldiers",
@@ -47217,7 +47224,7 @@ const curriculum: DayContent[] = [
             "q": "Average rate of change describes how a function changes ___.",
             "options": [
               "Over an interval",
-              "In a way unrelated to the function\u2019s values",
+              "In a way unrelated to the function’s values",
               "At a single specific point only",
               "With no connection to any interval"
             ],
@@ -47253,7 +47260,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "The cardiovascular system\u2019s primary role is to ___.",
+            "q": "The cardiovascular system’s primary role is to ___.",
             "options": [
               "Circulate blood throughout the body",
               "Only produce new blood cells, with no circulatory function",
@@ -47384,7 +47391,7 @@ const curriculum: DayContent[] = [
               "Core values and guiding principles for living",
               "Chronological life history with no reflection",
               "A concept unrelated to self-reflection",
-              "Purely factual r\u00e9sum\u00e9 of accomplishments"
+              "Purely factual résumé of accomplishments"
             ],
             "answer": 0
           },
@@ -47452,7 +47459,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Physiology: The Respiratory System and Gas Exchange; Conservation: Invasive Species and Ecosystem Disruption; Review: Genetics, Behaviour, and Human Physiology; Biology: The Lymphatic System \u2014 Fluid Balance and Circulation.",
+        "summary": "Practice recap covering: Physiology: The Respiratory System and Gas Exchange; Conservation: Invasive Species and Ecosystem Disruption; Review: Genetics, Behaviour, and Human Physiology; Biology: The Lymphatic System — Fluid Balance and Circulation.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -47558,7 +47565,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Braided Essay \u2014 Weaving Multiple Narrative Threads; Grammar: Nominalization and Academic Register; Reading: Analyzing Frame Narratives; Media Literacy: Analyzing Algorithmic Bias in Media Platforms.",
+        "summary": "Practice recap covering: Writing: The Braided Essay — Weaving Multiple Narrative Threads; Grammar: Nominalization and Academic Register; Reading: Analyzing Frame Narratives; Media Literacy: Analyzing Algorithmic Bias in Media Platforms.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -47632,7 +47639,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "For a function f and its inverse f\u207b\u00b9 to both be functions when working with trigonometric relationships, the domain of the original trig function typically must be ___.",
+            "q": "For a function f and its inverse f⁻¹ to both be functions when working with trigonometric relationships, the domain of the original trig function typically must be ___.",
             "options": [
               "Left entirely unrestricted",
               "Expanded to include all real numbers",
@@ -47656,7 +47663,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Osmosis and Cell Transport Mechanisms; Biology: Circadian Rhythms and Biological Clocks; Biology: Sensory Systems \u2014 Vision and the Eye; Biology: The Integumentary System \u2014 Skin as an Organ.",
+        "summary": "Practice recap covering: Biology: Osmosis and Cell Transport Mechanisms; Biology: Circadian Rhythms and Biological Clocks; Biology: Sensory Systems — Vision and the Eye; Biology: The Integumentary System — Skin as an Organ.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -47705,7 +47712,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Alloys and Metallic Bonding; Chemistry: Chromatography \u2014 Principles and Applications; Chemistry: Crystal Structures and Lattice Types; Chemistry: Organic Chemistry \u2014 Amines and Nitrogen-Containing Compounds.",
+        "summary": "Practice recap covering: Chemistry: Alloys and Metallic Bonding; Chemistry: Chromatography — Principles and Applications; Chemistry: Crystal Structures and Lattice Types; Chemistry: Organic Chemistry — Amines and Nitrogen-Containing Compounds.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -47713,7 +47720,7 @@ const curriculum: DayContent[] = [
             "q": "Metallic bonding is best described as a lattice of positive metal ions surrounded by ___.",
             "options": [
               "No electrons of any kind",
-              "A \u201csea\u201d of delocalized electrons",
+              "A “sea” of delocalized electrons",
               "A concept unrelated to metallic bonding",
               "A rigid, fixed set of shared electron pairs only"
             ],
@@ -47762,12 +47769,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Literature: Understanding Comics \u2014 Visual Language and Sequential Art; Writing: The Rhetorical Analysis of a Historical Speech; Oral Communication: The Art of Active Listening; Reading: Analyzing Tone Shifts Across a Text; Review: Anti-Heroes, Braided Essays, and Rhetorical Analysis.",
+        "summary": "Practice recap covering: Literature: Understanding Comics — Visual Language and Sequential Art; Writing: The Rhetorical Analysis of a Historical Speech; Oral Communication: The Art of Active Listening; Reading: Analyzing Tone Shifts Across a Text; Review: Anti-Heroes, Braided Essays, and Rhetorical Analysis.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "Comics create meaning through ___ \u2014 a sequence of images placed in deliberate order.",
+            "q": "Comics create meaning through ___ — a sequence of images placed in deliberate order.",
             "options": [
               "Sequential art",
               "Random noise",
@@ -47811,7 +47818,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Solving Radical Equations and Extraneous Roots; Statistics: Sampling Methods and Bias; Functions: Solving Systems of Linear-Quadratic Equations; Functions: Symmetry \u2014 Even, Odd, and Neither; Review: Equations, Trigonometry, and Discrete Mathematics.",
+        "summary": "Practice recap covering: Functions: Solving Radical Equations and Extraneous Roots; Statistics: Sampling Methods and Bias; Functions: Solving Systems of Linear-Quadratic Equations; Functions: Symmetry — Even, Odd, and Neither; Review: Equations, Trigonometry, and Discrete Mathematics.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -47860,7 +47867,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Antibiotic Resistance and Microbial Evolution; Biology: Animal Reproduction \u2014 Strategies and Adaptations; Bird Migration: A Perilous Journey; Biology: The History of Evolutionary Theory (Darwin and Wallace); Review: Systems, Senses, and Evolutionary History.",
+        "summary": "Practice recap covering: Biology: Antibiotic Resistance and Microbial Evolution; Biology: Animal Reproduction — Strategies and Adaptations; Bird Migration: A Perilous Journey; Biology: The History of Evolutionary Theory (Darwin and Wallace); Review: Systems, Senses, and Evolutionary History.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -48113,7 +48120,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Periodic Table \u2014 Trends in Atomic Properties; Chemistry: Empirical and Molecular Formula Determination; Chemistry: Colorimetry and Beer\u2019s Law; Chemistry: Acid Rain and Atmospheric Chemistry; Chemistry: Photochemistry and Light-Induced Reactions.",
+        "summary": "Practice recap covering: Chemistry: The Periodic Table — Trends in Atomic Properties; Chemistry: Empirical and Molecular Formula Determination; Chemistry: Colorimetry and Beer’s Law; Chemistry: Acid Rain and Atmospheric Chemistry; Chemistry: Photochemistry and Light-Induced Reactions.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -48185,12 +48192,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "A confessional poem draws directly on the poet\u2019s own ___.",
+            "q": "A confessional poem draws directly on the poet’s own ___.",
             "options": [
               "Purely factual, historical events with no personal connection",
               "A concept unrelated to poetry",
               "Personal, often intimate or painful experiences",
-              "Entirely invented experiences with no connection to the poet\u2019s own life"
+              "Entirely invented experiences with no connection to the poet’s own life"
             ],
             "answer": 2
           },
@@ -48268,7 +48275,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biotechnology: Bioinformatics and DNA Sequencing; Biology: Animal Adaptations to Extreme Environments; Human Biology: The Brain \u2014 Structure and Higher Function; Ecology: Freshwater Ecosystems and Watershed Health.",
+        "summary": "Practice recap covering: Biotechnology: Bioinformatics and DNA Sequencing; Biology: Animal Adaptations to Extreme Environments; Human Biology: The Brain — Structure and Higher Function; Ecology: Freshwater Ecosystems and Watershed Health.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -48285,10 +48292,10 @@ const curriculum: DayContent[] = [
           {
             "q": "An adaptation is best described as a trait that ___.",
             "options": [
-              "Always harms an organism\u2019s chances of survival",
-              "Has no effect at all on an organism\u2019s survival or reproduction",
+              "Always harms an organism’s chances of survival",
+              "Has no effect at all on an organism’s survival or reproduction",
               "A concept unrelated to evolutionary biology",
-              "Improves an organism\u2019s ability to survive and reproduce in its environment"
+              "Improves an organism’s ability to survive and reproduce in its environment"
             ],
             "answer": 3
           },
@@ -48374,7 +48381,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Review: Epistolary Novels, Manifestos, and Fragmented Narrative; Literature: Absurdist Fiction and the Theatre of the Absurd; Poetry: The Dramatic Monologue \u2014 Voice and Persona; Media Literacy: Data Visualization and Statistical Rhetoric in Reporting.",
+        "summary": "Practice recap covering: Review: Epistolary Novels, Manifestos, and Fragmented Narrative; Literature: Absurdist Fiction and the Theatre of the Absurd; Poetry: The Dramatic Monologue — Voice and Persona; Media Literacy: Data Visualization and Statistical Rhetoric in Reporting.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -48597,7 +48604,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Illustrate a larger point within a speech or conversation",
               "A concept unrelated to oral communication",
-              "Distract an audience from the speaker\u2019s actual message",
+              "Distract an audience from the speaker’s actual message",
               "Replace the need for any other form of evidence entirely"
             ],
             "answer": 0
@@ -48627,7 +48634,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Introduction to Cubic Functions; Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions; Statistics: Box-and-Whisker Plots and Outlier Detection; Functions: Rational Functions \u2014 Point Discontinuities and Domain Restrictions.",
+        "summary": "Practice recap covering: Introduction to Cubic Functions; Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions; Statistics: Box-and-Whisker Plots and Outlier Detection; Functions: Rational Functions — Point Discontinuities and Domain Restrictions.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -48782,7 +48789,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Definition Essay \u2014 Arguing What a Word Really Means; Writing: The Literary Analysis Thesis and Outline; Review: Absurdism, Monologue, Media Rhetoric, and Framing Devices; Reading: Analyzing Epistolary Narratives; Writing: The Eulogy and Occasional Speech.",
+        "summary": "Practice recap covering: Writing: The Definition Essay — Arguing What a Word Really Means; Writing: The Literary Analysis Thesis and Outline; Review: Absurdism, Monologue, Media Rhetoric, and Framing Devices; Reading: Analyzing Epistolary Narratives; Writing: The Eulogy and Occasional Speech.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -48801,7 +48808,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A list of random facts with no central claim",
               "A concept unrelated to literary analysis",
-              "A simple summary of the text\u2019s plot",
+              "A simple summary of the text’s plot",
               "A specific, arguable claim about a text"
             ],
             "answer": 3
@@ -48831,7 +48838,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Exponential Functions: The Number e and Continuous Growth; Financial Mathematics: Mortgages and Amortization Schedules; Review: Conics, Discrete Math, Trigonometric Modelling, and Financial Math; Functions: Logarithmic Scales \u2014 pH, Richter, and Decibels; Discrete Math: Recursive Sequences and the Fibonacci Sequence.",
+        "summary": "Practice recap covering: Exponential Functions: The Number e and Continuous Growth; Financial Mathematics: Mortgages and Amortization Schedules; Review: Conics, Discrete Math, Trigonometric Modelling, and Financial Math; Functions: Logarithmic Scales — pH, Richter, and Decibels; Discrete Math: Recursive Sequences and the Fibonacci Sequence.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -48880,7 +48887,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Genetics: Mutations \u2014 Types and Effects on Protein Function; Ecology: Ecological Succession \u2014 Primary and Secondary; Review: Biochemistry, Molecular Biology, Ecology, and Human Physiology; Biology: Photoperiodism and Plant Flowering Responses; Biology: The Skeletal System \u2014 Bone Structure and Remodelling.",
+        "summary": "Practice recap covering: Genetics: Mutations — Types and Effects on Protein Function; Ecology: Ecological Succession — Primary and Secondary; Review: Biochemistry, Molecular Biology, Ecology, and Human Physiology; Biology: Photoperiodism and Plant Flowering Responses; Biology: The Skeletal System — Bone Structure and Remodelling.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -48890,7 +48897,7 @@ const curriculum: DayContent[] = [
               "Fully formed, folded protein exclusively",
               "DNA sequence",
               "A concept unrelated to genetics",
-              "Cell\u2019s overall physical size"
+              "Cell’s overall physical size"
             ],
             "answer": 1
           },
@@ -49084,7 +49091,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Symbiotic Relationships \u2014 Mutualism, Commensalism, Parasitism; Biology: Homeostasis and Negative Feedback Mechanisms; Biology: Vaccine Development and Herd Immunity.",
+        "summary": "Practice recap covering: Biology: Symbiotic Relationships — Mutualism, Commensalism, Parasitism; Biology: Homeostasis and Negative Feedback Mechanisms; Biology: Vaccine Development and Herd Immunity.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -49140,10 +49147,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What does radiometric dating use to estimate the age of a material?",
             "options": [
-              "The colour of the material\u2019s surface",
+              "The colour of the material’s surface",
               "The known decay rate of radioactive isotopes",
               "A concept unrelated to chemistry",
-              "The material\u2019s exact weight in kilograms"
+              "The material’s exact weight in kilograms"
             ],
             "answer": 1
           },
@@ -49197,10 +49204,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a personal essay of place explore?",
             "options": [
-              "How a specific location has shaped the writer\u2019s identity or memories",
+              "How a specific location has shaped the writer’s identity or memories",
               "A step-by-step travel itinerary with no reflection",
               "A concept unrelated to writing",
-              "Only unrelated statistics about a city\u2019s population"
+              "Only unrelated statistics about a city’s population"
             ],
             "answer": 0
           },
@@ -49239,7 +49246,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Rational Functions \u2014 Slant Asymptotes; Transformations of Functions (Vertical/Horizontal Shifts); Functions: Piecewise-Defined Function Modelling; Geometry: Vector Projections and the Cross Product.",
+        "summary": "Practice recap covering: Functions: Rational Functions — Slant Asymptotes; Transformations of Functions (Vertical/Horizontal Shifts); Functions: Piecewise-Defined Function Modelling; Geometry: Vector Projections and the Cross Product.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -49247,19 +49254,19 @@ const curriculum: DayContent[] = [
             "q": "When does a rational function have a slant asymptote?",
             "options": [
               "A concept unrelated to rational functions",
-              "When the denominator\u2019s degree is always higher than the numerator\u2019s",
-              "When the numerator\u2019s degree is exactly one more than the denominator\u2019s degree",
+              "When the denominator’s degree is always higher than the numerator’s",
+              "When the numerator’s degree is exactly one more than the denominator’s degree",
               "When the numerator and denominator have the exact same degree"
             ],
             "answer": 2
           },
           {
-            "q": "A vertical shift of a function\u2019s graph is represented by adding a constant ___.",
+            "q": "A vertical shift of a function’s graph is represented by adding a constant ___.",
             "options": [
-              "Inside the function\u2019s input only",
+              "Inside the function’s input only",
               "By multiplying the entire function by zero",
               "Outside the function, such as f(x) plus k",
-              "A change unrelated to the function\u2019s graph"
+              "A change unrelated to the function’s graph"
             ],
             "answer": 2
           },
@@ -49288,7 +49295,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Coral Reef Ecosystems and Bleaching; Biology: The Human Microbiome; Biology: Genetic Counselling and Inherited Disease Risk; Biology: Biogeography and Continental Drift\u2019s Effect on Species Distribution.",
+        "summary": "Practice recap covering: Biology: Coral Reef Ecosystems and Bleaching; Biology: The Human Microbiome; Biology: Genetic Counselling and Inherited Disease Risk; Biology: Biogeography and Continental Drift’s Effect on Species Distribution.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -49337,7 +49344,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: The Mole Concept and Molar Mass; Chemistry: Battery Chemistry and Energy Storage; Chemistry: Forensic Chemistry \u2014 Trace Evidence Analysis; Chemistry: The Chemistry of Cosmetics and Personal Care Products.",
+        "summary": "Practice recap covering: The Mole Concept and Molar Mass; Chemistry: Battery Chemistry and Energy Storage; Chemistry: Forensic Chemistry — Trace Evidence Analysis; Chemistry: The Chemistry of Cosmetics and Personal Care Products.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -49394,7 +49401,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Review: Genre, Rhetoric, and Narrative Technique (Days 81-89); Grammar: Nominalization and Formal Register; Writing: The Personal Diary and Journal as Literary Form; Poetry: The Sonnet Form \u2014 Petrarchan and Shakespearean.",
+        "summary": "Practice recap covering: Review: Genre, Rhetoric, and Narrative Technique (Days 81-89); Grammar: Nominalization and Formal Register; Writing: The Personal Diary and Journal as Literary Form; Poetry: The Sonnet Form — Petrarchan and Shakespearean.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49404,7 +49411,7 @@ const curriculum: DayContent[] = [
               "A scientific discovery over several decades",
               "An artist, from youth into their mature creative identity",
               "A concept unrelated to literature",
-              "A political leader\u2019s rise to power"
+              "A political leader’s rise to power"
             ],
             "answer": 1
           },
@@ -49443,7 +49450,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Review: Functions, Trigonometry, and Discrete Math (Days 81-89); Functions: Operations on Functions \u2014 Sum, Difference, Product, and Quotient; Algebra: Synthetic Division and the Remainder Theorem; Trigonometry: Sum and Difference Identities.",
+        "summary": "Practice recap covering: Review: Functions, Trigonometry, and Discrete Math (Days 81-89); Functions: Operations on Functions — Sum, Difference, Product, and Quotient; Algebra: Synthetic Division and the Remainder Theorem; Trigonometry: Sum and Difference Identities.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -49541,7 +49548,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Review: Equilibrium, Materials, and Applied Chemistry (Days 81-89); Chemistry: Atomic Structure \u2014 Electron Configuration and Orbital Diagrams; Chemistry: Sunscreen and UV Photoprotection; Work, Energy, and Power.",
+        "summary": "Practice recap covering: Review: Equilibrium, Materials, and Applied Chemistry (Days 81-89); Chemistry: Atomic Structure — Electron Configuration and Orbital Diagrams; Chemistry: Sunscreen and UV Photoprotection; Work, Energy, and Power.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -49559,8 +49566,8 @@ const curriculum: DayContent[] = [
             "q": "What does electron configuration describe?",
             "options": [
               "The exact colour an element appears in solid form",
-              "Only the mass of an atom\u2019s nucleus",
-              "How electrons are arranged within an atom\u2019s orbitals",
+              "Only the mass of an atom’s nucleus",
+              "How electrons are arranged within an atom’s orbitals",
               "A concept unrelated to chemistry"
             ],
             "answer": 2
@@ -49696,12 +49703,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Ecology: Population Growth Models \u2014 Exponential and Logistic Growth; Ecology: Bioaccumulation and Biomagnification in Food Webs; Evolution: Convergent and Divergent Evolution; Genetics: Linked Genes and Genetic Recombination.",
+        "summary": "Practice recap covering: Ecology: Population Growth Models — Exponential and Logistic Growth; Ecology: Bioaccumulation and Biomagnification in Food Webs; Evolution: Convergent and Divergent Evolution; Genetics: Linked Genes and Genetic Recombination.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
           {
-            "q": "What does an exponential growth model assume about a population\u2019s growth?",
+            "q": "What does an exponential growth model assume about a population’s growth?",
             "options": [
               "That it increases without limit under ideal conditions",
               "That it always decreases steadily over time",
@@ -49713,7 +49720,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does bioaccumulation describe?",
             "options": [
-              "How a toxin instantly disappears from an organism\u2019s body",
+              "How a toxin instantly disappears from an organism’s body",
               "How a toxin builds up within an individual organism over time",
               "A concept unrelated to biology",
               "How energy flows between different ecosystems"
@@ -49745,17 +49752,17 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Genetic Mutations and Variation; Waves: Properties and Behaviour; Analytical Chemistry: Acid-Base Indicators and Colour Change Theory; Chemistry: Metallurgy \u2014 Extracting Metals from Their Ores.",
+        "summary": "Practice recap covering: Genetic Mutations and Variation; Waves: Properties and Behaviour; Analytical Chemistry: Acid-Base Indicators and Colour Change Theory; Chemistry: Metallurgy — Extracting Metals from Their Ores.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
           {
             "q": "A genetic mutation is best described as ___.",
             "options": [
-              "A change in an organism\u2019s diet only",
+              "A change in an organism’s diet only",
               "A change that always immediately kills the organism",
               "A process unrelated to genetics",
-              "A change in an organism\u2019s DNA sequence"
+              "A change in an organism’s DNA sequence"
             ],
             "answer": 3
           },
@@ -49822,7 +49829,7 @@ const curriculum: DayContent[] = [
               "A complete retelling of an entire unrelated story",
               "A brief reference to another text, event, or figure",
               "A concept unrelated to literature",
-              "A footnote explaining a word\u2019s dictionary definition"
+              "A footnote explaining a word’s dictionary definition"
             ],
             "answer": 1
           },
@@ -49851,16 +49858,16 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Rate of Change of Polynomial Functions \u2014 Finite Differences; Piecewise Functions; Review: Functions, Matrices, and Number Theory (Days 91-99); Financial Literacy: Amortization and Loans.",
+        "summary": "Practice recap covering: Functions: Rate of Change of Polynomial Functions — Finite Differences; Piecewise Functions; Review: Functions, Matrices, and Number Theory (Days 91-99); Financial Literacy: Amortization and Loans.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What does the method of finite differences use to determine a polynomial\u2019s degree?",
+            "q": "What does the method of finite differences use to determine a polynomial’s degree?",
             "options": [
               "A table of equally spaced values",
               "A single isolated data point with no surrounding values",
-              "The exact colour of a graphed function\u2019s line",
+              "The exact colour of a graphed function’s line",
               "A concept unrelated to functions"
             ],
             "answer": 0
@@ -49900,7 +49907,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Microbiology: Viral Replication Cycles \u2014 Lytic and Lysogenic; Human Biology: The Special Senses \u2014 Hearing and Balance; Review: Physiology, Genetics, and Ecology (Days 91-99); Comparative Digestion: Ruminant and Monogastric Digestive Strategies.",
+        "summary": "Practice recap covering: Microbiology: Viral Replication Cycles — Lytic and Lysogenic; Human Biology: The Special Senses — Hearing and Balance; Review: Physiology, Genetics, and Ecology (Days 91-99); Comparative Digestion: Ruminant and Monogastric Digestive Strategies.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -49949,7 +49956,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Haber-Bosch Process and Industrial Equilibrium; Chemistry: Agricultural Chemistry \u2014 Fertilizers and Soil Nutrients; Review: Atomic Structure, Materials, and Industrial Chemistry (Days 91-99); Chemistry: Avogadro\u2019s Law and Molar Volume at STP.",
+        "summary": "Practice recap covering: Chemistry: The Haber-Bosch Process and Industrial Equilibrium; Chemistry: Agricultural Chemistry — Fertilizers and Soil Nutrients; Review: Atomic Structure, Materials, and Industrial Chemistry (Days 91-99); Chemistry: Avogadro’s Law and Molar Volume at STP.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -50006,7 +50013,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Villanelle and Other Fixed Poetic Forms; Writing: The Character Sketch \u2014 Capturing Personality Through Detail; Literature: The Trickster Figure in Folklore and Fiction; Media Literacy: Analyzing Memes and Digital Rhetoric.",
+        "summary": "Practice recap covering: Poetry: The Villanelle and Other Fixed Poetic Forms; Writing: The Character Sketch — Capturing Personality Through Detail; Literature: The Trickster Figure in Folklore and Fiction; Media Literacy: Analyzing Memes and Digital Rhetoric.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50023,7 +50030,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a character sketch primarily aim to convey?",
             "options": [
-              "A character\u2019s personality, appearance, and mannerisms through concrete detail",
+              "A character’s personality, appearance, and mannerisms through concrete detail",
               "A concept unrelated to writing",
               "A complete plot summary of an entire novel",
               "A formal citation of a source used in an essay"
@@ -50070,7 +50077,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In the vector equation r = r\u2080 + t\u00b7d for a line in two dimensions, what does the parameter t represent?",
+            "q": "In the vector equation r = r₀ + t·d for a line in two dimensions, what does the parameter t represent?",
             "options": [
               "A fixed point on the line",
               "The direction vector's magnitude only",
@@ -50104,7 +50111,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Osmoconformers and Osmoregulators in Marine Life; Biology: Comparative Vision \u2014 The Camera Eye and the Compound Eye; Biology: Insect Metamorphosis \u2014 Complete and Incomplete Development; Biology: Circulatory Systems \u2014 Open versus Closed Systems Across Animal Phyla.",
+        "summary": "Practice recap covering: Biology: Osmoconformers and Osmoregulators in Marine Life; Biology: Comparative Vision — The Camera Eye and the Compound Eye; Biology: Insect Metamorphosis — Complete and Incomplete Development; Biology: Circulatory Systems — Open versus Closed Systems Across Animal Phyla.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -50153,14 +50160,14 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Common Ion Effect and Solubility Equilibria; Chemistry: The Arrhenius Equation and Activation Energy; Chemistry: Addition versus Condensation Polymerization; Chemistry: Faraday\u2019s Laws of Electrolysis.",
+        "summary": "Practice recap covering: Chemistry: The Common Ion Effect and Solubility Equilibria; Chemistry: The Arrhenius Equation and Activation Energy; Chemistry: Addition versus Condensation Polymerization; Chemistry: Faraday’s Laws of Electrolysis.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
           {
             "q": "What does the common ion effect describe?",
             "options": [
-              "How a compound\u2019s colour changes when dissolved in water",
+              "How a compound’s colour changes when dissolved in water",
               "A concept unrelated to chemistry",
               "How the solubility of a slightly soluble compound decreases when a solution already contains a matching ion",
               "How solubility always increases regardless of the ions present in solution"
@@ -50168,7 +50175,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What does the Arrhenius equation relate a reaction\u2019s rate constant to?",
+            "q": "What does the Arrhenius equation relate a reaction’s rate constant to?",
             "options": [
               "Only the colour of the reactants involved",
               "Its activation energy and temperature",
@@ -50215,10 +50222,10 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "What does code-switching involve, as used by an author to construct a character\u2019s voice?",
+            "q": "What does code-switching involve, as used by an author to construct a character’s voice?",
             "options": [
               "Shifting between languages or dialects",
-              "Removing all traces of a character\u2019s cultural background from the text",
+              "Removing all traces of a character’s cultural background from the text",
               "A concept unrelated to literature",
               "Speaking in a single, unchanging formal register throughout an entire text"
             ],
@@ -50308,7 +50315,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Nitrogenous Waste \u2014 Ammonotelic, Ureotelic, and Uricotelic Excretion; Biology: Plant Tissue Systems \u2014 Dermal, Ground, and Vascular Tissue; Biology: Animal Locomotion \u2014 Adaptations for Movement on Land, Water, and Air; Biology: The Cell Cycle \u2014 Checkpoints and Regulation of Mitosis.",
+        "summary": "Practice recap covering: Biology: Nitrogenous Waste — Ammonotelic, Ureotelic, and Uricotelic Excretion; Biology: Plant Tissue Systems — Dermal, Ground, and Vascular Tissue; Biology: Animal Locomotion — Adaptations for Movement on Land, Water, and Air; Biology: The Cell Cycle — Checkpoints and Regulation of Mitosis.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -50328,7 +50335,7 @@ const curriculum: DayContent[] = [
               "A concept unrelated to biology",
               "A protective outer covering",
               "A network exclusively for transporting nutrients",
-              "The plant\u2019s main photosynthetic tissue"
+              "The plant’s main photosynthetic tissue"
             ],
             "answer": 1
           },
@@ -50357,7 +50364,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Physics: Calculating Work and Power; Chemistry: The Kinetic Molecular Theory of Gases; Chemistry: The Chemistry of Baking \u2014 Acid-Base Reactions in Leavening Agents; Chemistry: Isotopic Abundance and Average Atomic Mass Calculations.",
+        "summary": "Practice recap covering: Physics: Calculating Work and Power; Chemistry: The Kinetic Molecular Theory of Gases; Chemistry: The Chemistry of Baking — Acid-Base Reactions in Leavening Agents; Chemistry: Isotopic Abundance and Average Atomic Mass Calculations.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -50566,7 +50573,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
           {
-            "q": "What does Avogadro\u2019s law state about equal volumes of gases at the same temperature and pressure?",
+            "q": "What does Avogadro’s law state about equal volumes of gases at the same temperature and pressure?",
             "options": [
               "They contain equal numbers of particles",
               "They always contain completely different numbers of particles",
@@ -50618,7 +50625,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Grammar: The Dash and Parenthetical Elements; Literature: Ekphrastic Poetry \u2014 Writing About Art; Media Literacy: Analyzing Native Advertising and Sponsored Content; Reading: Analyzing Extended Metaphor and Conceit.",
+        "summary": "Practice recap covering: Grammar: The Dash and Parenthetical Elements; Literature: Ekphrastic Poetry — Writing About Art; Media Literacy: Analyzing Native Advertising and Sponsored Content; Reading: Analyzing Extended Metaphor and Conceit.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50765,7 +50772,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Chemiluminescence \u2014 The Chemistry of Glow Sticks; Chemistry: Fermentation and the Chemistry of Winemaking; Chemistry: Electrolytes and the Chemistry of Sports Drinks; Chemistry: The Chemistry of Perfumes and Fragrances.",
+        "summary": "Practice recap covering: Chemistry: Chemiluminescence — The Chemistry of Glow Sticks; Chemistry: Fermentation and the Chemistry of Winemaking; Chemistry: Electrolytes and the Chemistry of Sports Drinks; Chemistry: The Chemistry of Perfumes and Fragrances.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -50920,7 +50927,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Bioremediation \u2014 Using Organisms to Clean Pollution; Biology: Hydrothermal Vent Ecosystems and Chemosynthesis; Biology Review: Adaptations, Cell Biology, and Ecosystems; Cell Biology: The Cytoskeleton -- Shape, Support, and Movement.",
+        "summary": "Practice recap covering: Biology: Bioremediation — Using Organisms to Clean Pollution; Biology: Hydrothermal Vent Ecosystems and Chemosynthesis; Biology Review: Adaptations, Cell Biology, and Ecosystems; Cell Biology: The Cytoskeleton -- Shape, Support, and Movement.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -50969,7 +50976,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Chemistry of Tears \u2014 Lachrymatory Agents; Chemistry: The Chemistry of Photography \u2014 Silver Halides; Biotechnology: CRISPR and Gene Editing; Cellular Respiration in Depth.",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Tears — Lachrymatory Agents; Chemistry: The Chemistry of Photography — Silver Halides; Biotechnology: CRISPR and Gene Editing; Cellular Respiration in Depth.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -51026,7 +51033,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Ballad \u2014 Narrative Poetry and Oral Tradition; Writing: The Process Essay \u2014 Explaining How Something Works; Grammar: Active versus Passive Voice for Rhetorical Effect; Reading: Analyzing the Uncanny in Gothic Literature.",
+        "summary": "Practice recap covering: Poetry: The Ballad — Narrative Poetry and Oral Tradition; Writing: The Process Essay — Explaining How Something Works; Grammar: Active versus Passive Voice for Rhetorical Effect; Reading: Analyzing the Uncanny in Gothic Literature.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -51124,7 +51131,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Endocrine Disruptors and Hormonal Health; Biology: Polyploidy and Chromosome Number Variation in Plants; Genetics: Dihybrid Crosses and Independent Assortment; Biology: Hibernation and Torpor \u2014 Physiological Adaptations.",
+        "summary": "Practice recap covering: Biology: Endocrine Disruptors and Hormonal Health; Biology: Polyploidy and Chromosome Number Variation in Plants; Genetics: Dihybrid Crosses and Independent Assortment; Biology: Hibernation and Torpor — Physiological Adaptations.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -51173,7 +51180,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Vulcanization \u2014 Cross-Linking in Rubber Polymers; Chemistry: Reverse Osmosis and Water Purification; Chemistry: Catalytic Converters and Automotive Emission Control; Chemistry: The Chemistry of Adhesives and Molecular Bonding.",
+        "summary": "Practice recap covering: Chemistry: Vulcanization — Cross-Linking in Rubber Polymers; Chemistry: Reverse Osmosis and Water Purification; Chemistry: Catalytic Converters and Automotive Emission Control; Chemistry: The Chemistry of Adhesives and Molecular Bonding.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -51328,7 +51335,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Physiology: Hemoglobin and Oxygen Transport; Biology: The Diving Reflex in Marine Mammals; Ecology: Measuring Biodiversity -- Richness and Diversity Indices; Biology: Allelopathy \u2014 Chemical Warfare Between Plants; Biology Review: Cell Biology, Genetics, Physiology, and Ecology.",
+        "summary": "Practice recap covering: Physiology: Hemoglobin and Oxygen Transport; Biology: The Diving Reflex in Marine Mammals; Ecology: Measuring Biodiversity -- Richness and Diversity Indices; Biology: Allelopathy — Chemical Warfare Between Plants; Biology Review: Cell Biology, Genetics, Physiology, and Ecology.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -51377,7 +51384,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Enthalpy of Solution and Hydration Energy; Chemistry: The Chemistry of Tanning \u2014 Preserving Leather; Chemistry: Effervescence \u2014 The Chemistry of Antacid Tablets; Chemistry: The Chemistry of Composting and Organic Decomposition; Chemistry Review: Coordination Chemistry, Materials, and Applied Reactions.",
+        "summary": "Practice recap covering: Chemistry: Enthalpy of Solution and Hydration Energy; Chemistry: The Chemistry of Tanning — Preserving Leather; Chemistry: Effervescence — The Chemistry of Antacid Tablets; Chemistry: The Chemistry of Composting and Organic Decomposition; Chemistry Review: Coordination Chemistry, Materials, and Applied Reactions.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -51434,7 +51441,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Ode \u2014 Form and Address to a Subject; Literature: Utopian Fiction and the Ideal Society; Writing: The Rhetorical Precis \u2014 Structured Summary and Analysis; Grammar: Modal Verbs and Degrees of Certainty in Academic Writing; Reading: Analyzing Circular and Non-Linear Narrative Structure.",
+        "summary": "Practice recap covering: Poetry: The Ode — Form and Address to a Subject; Literature: Utopian Fiction and the Ideal Society; Writing: The Rhetorical Precis — Structured Summary and Analysis; Grammar: Modal Verbs and Degrees of Certainty in Academic Writing; Reading: Analyzing Circular and Non-Linear Narrative Structure.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -51532,7 +51539,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Genetics: Epistasis \u2014 Gene Interactions and Modified Ratios; Biology: Vestigial Structures as Evidence for Evolution; Biology: Photosynthetic Pigments and Paper Chromatography; Biology: Chemoreception \u2014 Taste and Smell; Genetics: Meiosis and the Sources of Genetic Variation.",
+        "summary": "Practice recap covering: Genetics: Epistasis — Gene Interactions and Modified Ratios; Biology: Vestigial Structures as Evidence for Evolution; Biology: Photosynthetic Pigments and Paper Chromatography; Biology: Chemoreception — Taste and Smell; Genetics: Meiosis and the Sources of Genetic Variation.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -51581,7 +51588,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Population Ecology: Growth Models; Chemistry: Saponification \u2014 The Chemistry of Soap Making; Chemistry: Water Softening and Ion Exchange Resins; Chemistry: Silicone Polymers and Their Properties; Review: Chemistry, Physics, and Biology Concepts.",
+        "summary": "Practice recap covering: Population Ecology: Growth Models; Chemistry: Saponification — The Chemistry of Soap Making; Chemistry: Water Softening and Ion Exchange Resins; Chemistry: Silicone Polymers and Their Properties; Review: Chemistry, Physics, and Biology Concepts.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -51714,10 +51721,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which equation is the Pythagorean trigonometric identity?",
             "options": [
-              "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
-              "sin\u03b8 + cos\u03b8 = 1",
-              "sin\u00b2\u03b8 \u2212 cos\u00b2\u03b8 = 1",
-              "tan\u00b2\u03b8 + 1 = sin\u03b8"
+              "sin²θ + cos²θ = 1",
+              "sinθ + cosθ = 1",
+              "sin²θ − cos²θ = 1",
+              "tan²θ + 1 = sinθ"
             ],
             "answer": 0
           },
@@ -51918,9 +51925,9 @@ const curriculum: DayContent[] = [
           {
             "q": "According to the quotient rule, if f(x) = u(x)/v(x), what is f'(x)?",
             "options": [
-              "(u'v \u2212 uv') / v\u00b2",
-              "(u'v + uv') / v\u00b2",
-              "u'v \u2212 uv'",
+              "(u'v − uv') / v²",
+              "(u'v + uv') / v²",
+              "u'v − uv'",
               "u' / v'"
             ],
             "answer": 0
@@ -52046,7 +52053,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Independent Reading: Climate Fiction and Environmental Storytelling; Media Literacy: Political Cartoons and the Grammar of Visual Satire; Oral Communication: Vocal Delivery \u2014 Pace, Pitch, and Emphasis; Reading: Analyzing In Medias Res and Narrative Beginnings.",
+        "summary": "Practice recap covering: Independent Reading: Climate Fiction and Environmental Storytelling; Media Literacy: Political Cartoons and the Grammar of Visual Satire; Oral Communication: Vocal Delivery — Pace, Pitch, and Emphasis; Reading: Analyzing In Medias Res and Narrative Beginnings.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52132,10 +52139,10 @@ const curriculum: DayContent[] = [
           {
             "q": "For the function y = 3sin(2x), what are the amplitude and period?",
             "options": [
-              "Amplitude 3, period \u03c0",
-              "Amplitude 2, period 3\u03c0",
-              "Amplitude 3, period 2\u03c0",
-              "Amplitude 2, period \u03c0"
+              "Amplitude 3, period π",
+              "Amplitude 2, period 3π",
+              "Amplitude 3, period 2π",
+              "Amplitude 2, period π"
             ],
             "answer": 0
           }
@@ -52250,7 +52257,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The White Paper \u2014 Persuasive Technical Writing; Poetry: The Concrete Poem \u2014 Visual Form and Meaning; English Review: Fixed Forms, Revision, and Persuasive Voice; Grammar: Emphatic and Cleft Sentences; Grammar: Elliptical Constructions and Implied Words.",
+        "summary": "Practice recap covering: Writing: The White Paper — Persuasive Technical Writing; Poetry: The Concrete Poem — Visual Form and Meaning; English Review: Fixed Forms, Revision, and Persuasive Voice; Grammar: Emphatic and Cleft Sentences; Grammar: Elliptical Constructions and Implied Words.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52397,7 +52404,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Chemistry of Invisible Ink and Redox Indicators; Science: Epigenetics: How Environment Affects Gene Expression; Science: The Physics of Superconductors; Chemistry: Electronegativity and Bond Polarity; Chemistry: Dyes and Pigments \u2014 Azo Compounds and Colour Chemistry.",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Invisible Ink and Redox Indicators; Science: Epigenetics: How Environment Affects Gene Expression; Science: The Physics of Superconductors; Chemistry: Electronegativity and Bond Polarity; Chemistry: Dyes and Pigments — Azo Compounds and Colour Chemistry.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -52601,7 +52608,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Science: Vaccines and Immunology; Chemistry: Bleach and Oxidizing Household Cleaners; Chemistry: Thiols and the Chemistry of Skunk Spray; Chemistry: Amphoteric Substances \u2014 Acting as Both Acid and Base.",
+        "summary": "Practice recap covering: Science: Vaccines and Immunology; Chemistry: Bleach and Oxidizing Household Cleaners; Chemistry: Thiols and the Chemistry of Skunk Spray; Chemistry: Amphoteric Substances — Acting as Both Acid and Base.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -52658,7 +52665,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Cover Letter and Professional Correspondence; Poetry: Sound Devices \u2014 Alliteration, Assonance, and Onomatopoeia; Literature: Foreshadowing and Dramatic Irony; English Review: Poetic Craft, Narrative Devices, and Professional Writing.",
+        "summary": "Practice recap covering: Writing: The Cover Letter and Professional Correspondence; Poetry: Sound Devices — Alliteration, Assonance, and Onomatopoeia; Literature: Foreshadowing and Dramatic Irony; English Review: Poetic Craft, Narrative Devices, and Professional Writing.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52744,10 +52751,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which interval notation correctly represents the domain x > 3?",
             "options": [
-              "(3, \u221e)",
-              "[3, \u221e)",
-              "(-\u221e, 3)",
-              "(-\u221e, 3]"
+              "(3, ∞)",
+              "[3, ∞)",
+              "(-∞, 3)",
+              "(-∞, 3]"
             ],
             "answer": 0
           }
@@ -52805,7 +52812,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Rocket Propellants and Oxidizer Chemistry; Chemistry: Solvent Polarity \u2014 Like Dissolves Like; Chemistry: Non-Stick Cookware and Fluoropolymer Chemistry; Chemistry Review: Polarity, Household Chemistry, and Acid-Base Extensions.",
+        "summary": "Practice recap covering: Chemistry: Rocket Propellants and Oxidizer Chemistry; Chemistry: Solvent Polarity — Like Dissolves Like; Chemistry: Non-Stick Cookware and Fluoropolymer Chemistry; Chemistry Review: Polarity, Household Chemistry, and Acid-Base Extensions.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -52862,7 +52869,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Haiku and Tanka \u2014 Compression and Natural Imagery; Grammar: Verbals \u2014 Gerunds, Participles, and Infinitives in Complex Sentences; Literature: The Family Saga Novel Across Generations; Media Literacy: Photo Manipulation and the Ethics of the Digital Image; Oral Communication: The Panel Discussion and Group Facilitation.",
+        "summary": "Practice recap covering: Poetry: The Haiku and Tanka — Compression and Natural Imagery; Grammar: Verbals — Gerunds, Participles, and Infinitives in Complex Sentences; Literature: The Family Saga Novel Across Generations; Media Literacy: Photo Manipulation and the Ethics of the Digital Image; Oral Communication: The Panel Discussion and Group Facilitation.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -52911,7 +52918,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Calculus: Higher-Order Derivatives and Rates of Change of Rates of Change; Calculus: Curve Sketching Using the First and Second Derivative Tests; Financial Mathematics: Simple Interest and Calculating Total Amount; Financial Mathematics: Compound Interest and the Future Value Formula; Sequences: Arithmetic Sequences \u2014 General Term and Sum Formulas.",
+        "summary": "Practice recap covering: Calculus: Higher-Order Derivatives and Rates of Change of Rates of Change; Calculus: Curve Sketching Using the First and Second Derivative Tests; Financial Mathematics: Simple Interest and Calculating Total Amount; Financial Mathematics: Compound Interest and the Future Value Formula; Sequences: Arithmetic Sequences — General Term and Sum Formulas.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -52960,7 +52967,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Ecology: Grassland and Savanna Ecosystems; Physiology: The Liver \u2014 Detoxification and Metabolic Functions; Genetics: Nondisjunction and Aneuploidy; Biology: Photosynthesis -- Light Reactions and the Calvin Cycle; Evolution: Sexual Selection and Mate Choice.",
+        "summary": "Practice recap covering: Ecology: Grassland and Savanna Ecosystems; Physiology: The Liver — Detoxification and Metabolic Functions; Genetics: Nondisjunction and Aneuploidy; Biology: Photosynthesis -- Light Reactions and the Calvin Cycle; Evolution: Sexual Selection and Mate Choice.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -53009,7 +53016,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Caffeine and Alkaloid Extraction Chemistry; Chemistry: The Chemistry of Chewing Gum \u2014 Polymer Base and Flavour Release; Chemistry: Water Electrolysis and Hydrogen as a Fuel Source; Chemistry: The Chemistry of Tattoo Ink and Pigment Permanence in Skin; Science: Chemical Bonding: Metallic Bonds and Alloys.",
+        "summary": "Practice recap covering: Chemistry: Caffeine and Alkaloid Extraction Chemistry; Chemistry: The Chemistry of Chewing Gum — Polymer Base and Flavour Release; Chemistry: Water Electrolysis and Hydrogen as a Fuel Source; Chemistry: The Chemistry of Tattoo Ink and Pigment Permanence in Skin; Science: Chemical Bonding: Metallic Bonds and Alloys.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -53066,7 +53073,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Proposal Argument \u2014 Identifying a Problem and Proposing a Solution; Poetry: Blank Verse and the Rhythm of Iambic Pentameter; Drama: Stage Directions and the Language of the Performance Text; Literature: The Serial Novel and Publication in Instalments; English Review: Haiku, Verbals, Panels, and Proposal Writing.",
+        "summary": "Practice recap covering: Writing: The Proposal Argument — Identifying a Problem and Proposing a Solution; Poetry: Blank Verse and the Rhythm of Iambic Pentameter; Drama: Stage Directions and the Language of the Performance Text; Literature: The Serial Novel and Publication in Instalments; English Review: Haiku, Verbals, Panels, and Proposal Writing.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -53115,7 +53122,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Geometry: The Equation of a Sphere in Three Dimensions; Complex Numbers: Complex Conjugates and Their Properties; Sequences: Geometric Sequences \u2014 General Term and Sum Formulas; Functions: Solving Exponential Equations Using Common Bases; Functions: Introduction to Logarithms \u2014 Converting Between Exponential and Logarithmic Form.",
+        "summary": "Practice recap covering: Geometry: The Equation of a Sphere in Three Dimensions; Complex Numbers: Complex Conjugates and Their Properties; Sequences: Geometric Sequences — General Term and Sum Formulas; Functions: Solving Exponential Equations Using Common Bases; Functions: Introduction to Logarithms — Converting Between Exponential and Logarithmic Form.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -53164,7 +53171,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Plant Biology: Mycorrhizal Associations and Nutrient Exchange; Human Biology: Sleep Architecture and the Stages of Sleep; Biochemistry: Protein Structure \u2014 Primary, Secondary, Tertiary, and Quaternary Levels; Evolution: Genetic Bottlenecks and the Loss of Genetic Diversity; Biology Review: Biomes, Genetics, and Molecular Physiology.",
+        "summary": "Practice recap covering: Plant Biology: Mycorrhizal Associations and Nutrient Exchange; Human Biology: Sleep Architecture and the Stages of Sleep; Biochemistry: Protein Structure — Primary, Secondary, Tertiary, and Quaternary Levels; Evolution: Genetic Bottlenecks and the Loss of Genetic Diversity; Biology Review: Biomes, Genetics, and Molecular Physiology.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -53213,7 +53220,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: The Chemistry of Chocolate \u2014 Tempering and Cocoa Butter Crystal Forms; Chemistry: Triboelectric Charging and the Chemistry of Static Electricity; Chemistry: Molecular Gastronomy \u2014 Spherification and Gel Chemistry in Cooking; Science: Cell Transport: Diffusion and Osmosis; Chemistry Review: Everyday Chemistry, Energy, and Human Physiology.",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Chocolate — Tempering and Cocoa Butter Crystal Forms; Chemistry: Triboelectric Charging and the Chemistry of Static Electricity; Chemistry: Molecular Gastronomy — Spherification and Gel Chemistry in Cooking; Science: Cell Transport: Diffusion and Osmosis; Chemistry Review: Everyday Chemistry, Energy, and Human Physiology.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -53270,7 +53277,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: Free Verse \u2014 Rhythm Without Meter or Rhyme; Literature: The Road Novel \u2014 Journey as Narrative Structure; Grammar: The Ellipsis and the Rhetoric of the Unsaid; Writing: The Letter to the Editor \u2014 Concise Public Argument.",
+        "summary": "Practice recap covering: Poetry: Free Verse — Rhythm Without Meter or Rhyme; Literature: The Road Novel — Journey as Narrative Structure; Grammar: The Ellipsis and the Rhetoric of the Unsaid; Writing: The Letter to the Editor — Concise Public Argument.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -53319,7 +53326,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Calculus: Derivatives of Exponential and Logarithmic Functions; Functions: The Laws of Logarithms \u2014 Product, Quotient, and Power Rules; Trigonometry: Special Angles and Exact Trigonometric Values; Trigonometry: Graphing Sine and Cosine \u2014 Amplitude, Period, and Phase Shift.",
+        "summary": "Practice recap covering: Calculus: Derivatives of Exponential and Logarithmic Functions; Functions: The Laws of Logarithms — Product, Quotient, and Power Rules; Trigonometry: Special Angles and Exact Trigonometric Values; Trigonometry: Graphing Sine and Cosine — Amplitude, Period, and Phase Shift.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -53334,7 +53341,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which law of logarithms states that log\u1d47(MN) = log\u1d47(M) + log\u1d47(N)?",
+            "q": "Which law of logarithms states that logᵇ(MN) = logᵇ(M) + logᵇ(N)?",
             "options": [
               "Power Law",
               "Quotient Law",
@@ -53344,11 +53351,11 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "What is the exact value of cos(30\u00b0)?",
+            "q": "What is the exact value of cos(30°)?",
             "options": [
               "1/2",
-              "\u221a3/2",
-              "\u221a2/2",
+              "√3/2",
+              "√2/2",
               "1"
             ],
             "answer": 1
@@ -53368,7 +53375,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Hemostasis and the Blood Clotting Cascade; Biology: Punctuated Equilibrium versus Gradualism in the Fossil Record; Biology: The Pancreas \u2014 Exocrine and Endocrine Roles; Human Biology: The Pituitary Gland and Hormonal Control.",
+        "summary": "Practice recap covering: Biology: Hemostasis and the Blood Clotting Cascade; Biology: Punctuated Equilibrium versus Gradualism in the Fossil Record; Biology: The Pancreas — Exocrine and Endocrine Roles; Human Biology: The Pituitary Gland and Hormonal Control.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -53417,7 +53424,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Lewis Structures and Formal Charge; Chemistry: The Contact Process \u2014 Industrial Production of Sulfuric Acid; Science: Cell Division: Mitosis and Meiosis; Chemistry: The Chemistry of Cement and Concrete \u2014 Hydration Reactions.",
+        "summary": "Practice recap covering: Chemistry: Lewis Structures and Formal Charge; Chemistry: The Contact Process — Industrial Production of Sulfuric Acid; Science: Cell Division: Mitosis and Meiosis; Chemistry: The Chemistry of Cement and Concrete — Hydration Reactions.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -53474,7 +53481,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Oral Communication: Reading Aloud \u2014 Prosody and Performance in Recitation; Media Literacy: The Filter Bubble and the Algorithmic Echo Chamber; Literature: The Campus Novel and the World of Higher Education; Poetry: The Limerick and the Comic Verse Tradition.",
+        "summary": "Practice recap covering: Oral Communication: Reading Aloud — Prosody and Performance in Recitation; Media Literacy: The Filter Bubble and the Algorithmic Echo Chamber; Literature: The Campus Novel and the World of Higher Education; Poetry: The Limerick and the Comic Verse Tradition.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -53548,22 +53555,22 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "If f(x) = x + 3 and g(x) = 2x, what is (f \u2218 g)(x)?",
+            "q": "If f(x) = x + 3 and g(x) = 2x, what is (f ∘ g)(x)?",
             "options": [
               "2x + 3",
               "2x + 6",
               "x + 6",
-              "2x\u00b2 + 3"
+              "2x² + 3"
             ],
             "answer": 0
           },
           {
-            "q": "What is the antiderivative of f(x) = 4x\u00b3?",
+            "q": "What is the antiderivative of f(x) = 4x³?",
             "options": [
-              "x\u2074 + C",
-              "12x\u00b2 + C",
-              "4x\u2074 + C",
-              "x\u2074/4 + C"
+              "x⁴ + C",
+              "12x² + C",
+              "4x⁴ + C",
+              "x⁴/4 + C"
             ],
             "answer": 0
           }
@@ -53572,7 +53579,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Ecology: Predator-Prey Coevolution and the Evolutionary Arms Race; Biology: Antibiotic Mechanisms \u2014 Disrupting the Bacterial Cell Wall; Biology: Genomic Libraries and DNA Cloning Techniques; Ecology: Human Ecological Footprint and Carrying Capacity.",
+        "summary": "Practice recap covering: Ecology: Predator-Prey Coevolution and the Evolutionary Arms Race; Biology: Antibiotic Mechanisms — Disrupting the Bacterial Cell Wall; Biology: Genomic Libraries and DNA Cloning Techniques; Ecology: Human Ecological Footprint and Carrying Capacity.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -53621,7 +53628,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: The Human Ear and the Physics of Hearing; Chemistry: Chemical Sensors \u2014 How pH and Gas Sensors Work; Chemistry: Enzymes as Biological Catalysts Compared to Industrial Catalysts; Chemistry: The Chemistry of Rust \u2014 Iron Oxidation and Corrosion Mechanisms.",
+        "summary": "Practice recap covering: The Human Ear and the Physics of Hearing; Chemistry: Chemical Sensors — How pH and Gas Sensors Work; Chemistry: Enzymes as Biological Catalysts Compared to Industrial Catalysts; Chemistry: The Chemistry of Rust — Iron Oxidation and Corrosion Mechanisms.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [
@@ -53678,7 +53685,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Restaurant Review as Evaluative Writing; English Review: Free Verse, Ellipsis, Recitation, and Campus Fiction; Literature: The Pastoral Tradition \u2014 Idyllic Nature in Poetry; Grammar: Sentence Fragments and Run-Ons \u2014 Deliberate and Accidental.",
+        "summary": "Practice recap covering: Writing: The Restaurant Review as Evaluative Writing; English Review: Free Verse, Ellipsis, Recitation, and Campus Fiction; Literature: The Pastoral Tradition — Idyllic Nature in Poetry; Grammar: Sentence Fragments and Run-Ons — Deliberate and Accidental.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -53727,12 +53734,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Quadratic Functions: Completing the Square and Vertex Form; Algebra: Factoring Polynomials \u2014 Common Factors, Grouping, and Special Patterns; Calculus: Definite Integrals and the Area Under a Curve; Functions: Graphing Polynomial Functions \u2014 Degree, End Behaviour, and Turning Points.",
+        "summary": "Practice recap covering: Quadratic Functions: Completing the Square and Vertex Form; Algebra: Factoring Polynomials — Common Factors, Grouping, and Special Patterns; Calculus: Definite Integrals and the Area Under a Curve; Functions: Graphing Polynomial Functions — Degree, End Behaviour, and Turning Points.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What is the vertex of y = (x - 2)\u00b2 + 5?",
+            "q": "What is the vertex of y = (x - 2)² + 5?",
             "options": [
               "(-2, -5)",
               "(2, -5)",
@@ -53742,17 +53749,17 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Factor completely: 6x\u00b2 + 9x",
+            "q": "Factor completely: 6x² + 9x",
             "options": [
               "x(6x + 9)",
               "3x(2x + 3)",
-              "3(2x\u00b2 + 3x)",
+              "3(2x² + 3x)",
               "3x(2x + 9)"
             ],
             "answer": 1
           },
           {
-            "q": "What does the definite integral \u222b from a to b of f(x) dx represent geometrically?",
+            "q": "What does the definite integral ∫ from a to b of f(x) dx represent geometrically?",
             "options": [
               "The slope of the tangent line at x = a",
               "The net signed area between the curve f(x) and the x-axis from x = a to x = b",
@@ -53762,12 +53769,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "For the polynomial function f(x) = -2x\u2074 + 3x - 1, what is the end behaviour as x \u2192 \u221e and x \u2192 -\u221e?",
+            "q": "For the polynomial function f(x) = -2x⁴ + 3x - 1, what is the end behaviour as x → ∞ and x → -∞?",
             "options": [
-              "f(x) \u2192 \u221e as x \u2192 \u221e and f(x) \u2192 -\u221e as x \u2192 -\u221e",
-              "f(x) \u2192 -\u221e as x \u2192 \u221e and f(x) \u2192 -\u221e as x \u2192 -\u221e",
-              "f(x) \u2192 \u221e as x \u2192 \u221e and f(x) \u2192 \u221e as x \u2192 -\u221e",
-              "f(x) \u2192 -\u221e as x \u2192 \u221e and f(x) \u2192 \u221e as x \u2192 -\u221e"
+              "f(x) → ∞ as x → ∞ and f(x) → -∞ as x → -∞",
+              "f(x) → -∞ as x → ∞ and f(x) → -∞ as x → -∞",
+              "f(x) → ∞ as x → ∞ and f(x) → ∞ as x → -∞",
+              "f(x) → -∞ as x → ∞ and f(x) → ∞ as x → -∞"
             ],
             "answer": 1
           }
@@ -53776,7 +53783,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Biology: Sensory Adaptation and Habituation in Nervous Systems; Biology Review: Hemostasis, Endocrine Physiology, Coevolution, and Biotechnology; Biology: Karyotyping and Chromosomal Analysis Techniques; Biology: Allergies and Hypersensitivity \u2014 When Immune Responses Overreact.",
+        "summary": "Practice recap covering: Biology: Sensory Adaptation and Habituation in Nervous Systems; Biology Review: Hemostasis, Endocrine Physiology, Coevolution, and Biotechnology; Biology: Karyotyping and Chromosomal Analysis Techniques; Biology: Allergies and Hypersensitivity — When Immune Responses Overreact.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -53882,7 +53889,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Literature: The Epic \u2014 Conventions of a Sweeping Poetic Form; Drama: The Comedy of Manners \u2014 Wit and Social Satire on Stage; Writing: The Toast \u2014 A Short Speech of Celebration; Media Literacy: Content Moderation and the Ethics of Platform Policy; English Review: Pastoral Poetry, Sentence Fragments, the Epic, the Comedy of Manners, and the Toast.",
+        "summary": "Practice recap covering: Literature: The Epic — Conventions of a Sweeping Poetic Form; Drama: The Comedy of Manners — Wit and Social Satire on Stage; Writing: The Toast — A Short Speech of Celebration; Media Literacy: Content Moderation and the Ethics of Platform Policy; English Review: Pastoral Poetry, Sentence Fragments, the Epic, the Comedy of Manners, and the Toast.",
         "resourceLabel": "TVO Learn: Grade 11 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -53980,7 +53987,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Biology",
         "title": "Practice: Biology Recap",
-        "summary": "Practice recap covering: Plant Biology: Seed Dispersal Strategies \u2014 Wind, Water, and Animal Vectors; Ecology: Edge Effects and Habitat Fragmentation; Microbiology: Protists \u2014 Diverse Life Strategies Beyond Animals, Plants, and Fungi; Plant Biology: Flower Structure and Double Fertilization; Biology Review: Karyotyping, Allergies, Seed Dispersal, Habitat Fragmentation, and Protists.",
+        "summary": "Practice recap covering: Plant Biology: Seed Dispersal Strategies — Wind, Water, and Animal Vectors; Ecology: Edge Effects and Habitat Fragmentation; Microbiology: Protists — Diverse Life Strategies Beyond Animals, Plants, and Fungi; Plant Biology: Flower Structure and Double Fertilization; Biology Review: Karyotyping, Allergies, Seed Dispersal, Habitat Fragmentation, and Protists.",
         "resourceLabel": "TVO Learn: Grade 11 Biology courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
         "quiz": [
@@ -54029,7 +54036,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Chemistry",
         "title": "Practice: Chemistry Recap",
-        "summary": "Practice recap covering: Chemistry: Significant Figures and Precision in Quantitative Chemistry; Chemistry: Boiling Point Elevation and Its Real-World Applications; Chemistry: The Chemistry of Hand Warmers \u2014 Exothermic Crystallization Reactions; Chemistry: Silica Gel and Desiccants \u2014 Adsorption versus Absorption; Chemistry Review: Effusion, Net Ionic Equations, Significant Figures, Boiling Point Elevation, and Hand Warmers.",
+        "summary": "Practice recap covering: Chemistry: Significant Figures and Precision in Quantitative Chemistry; Chemistry: Boiling Point Elevation and Its Real-World Applications; Chemistry: The Chemistry of Hand Warmers — Exothermic Crystallization Reactions; Chemistry: Silica Gel and Desiccants — Adsorption versus Absorption; Chemistry Review: Effusion, Net Ionic Equations, Significant Figures, Boiling Point Elevation, and Hand Warmers.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
         "quiz": [

@@ -21453,14 +21453,15 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7owKjx7zqd8"
       },
       {
         "subject": "Math",
         "title": "Data: Correlation vs Causation",
         "summary": "Grade 9 Math strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another, a stronger claim requiring more rigorous evidence.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Data: Correlation vs Causation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Correlation%20vs%20Causation%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does correlation describe?",
@@ -21513,7 +21514,8 @@
             "answer": 3
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Tg6e2Y3IEUk"
       },
       {
         "subject": "Science",
@@ -21573,14 +21575,15 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zmdxMlb88Fs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Desalination",
         "summary": "Grade 9 Social Studies strand: desalination is the process of removing salt from seawater to produce fresh water, an increasingly important technology in regions facing water scarcity.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Desalination",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Desalination%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is desalination?",
@@ -21633,7 +21636,8 @@
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=mZ7bgkFgqJQ"
       }
     ]
   },
@@ -21645,8 +21649,8 @@
         "subject": "Language",
         "title": "Writing: The Personal Manifesto",
         "summary": "Grade 9 Language strand: a personal manifesto expresses an individual’s core beliefs, values, and goals, often written with a confident, declarative tone to clarify one’s own convictions.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Writing: The Personal Manifesto",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Manifesto%20grade%209%20educational",
         "quiz": [
           {
             "q": "What kind of writing expresses an individual’s core beliefs and values?",
@@ -21699,14 +21703,15 @@
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=ESaVg6uAhqU"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Comparing Loan Options",
         "summary": "Grade 9 Math strand: students compare different loan options by examining interest rates, repayment terms, and total cost over time to determine which option is more affordable.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Comparing Loan Options",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Comparing%20Loan%20Options%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is one factor to examine when comparing loan options?",
@@ -21759,14 +21764,15 @@
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=MUp6Fkm7DOc"
       },
       {
         "subject": "Science",
         "title": "Science: Bioplastics and Sustainable Materials",
         "summary": "Grade 9 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering a potential alternative to traditional plastics made from petroleum.",
-        "resourceLabel": "TVO Learn: Grade 9 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "resourceLabel": "YouTube: Science: Bioplastics and Sustainable Materials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Bioplastics%20and%20Sustainable%20Materials%20grade%209%20educational",
         "quiz": [
           {
             "q": "What are bioplastics made from?",
@@ -21819,14 +21825,15 @@
             "answer": 1
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Tiln-LAKdhA"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Megacities and Informal Settlements",
         "summary": "Grade 9 Social Studies strand: rapid urban growth in some regions has led to megacities with populations over 10 million, often including informal settlements that develop without official planning or infrastructure.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Megacities and Informal Settlements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Megacities%20and%20Informal%20Settlements%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is a megacity?",
@@ -21879,7 +21886,8 @@
             "answer": 0
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=WuswpC4n0As"
       }
     ]
   },

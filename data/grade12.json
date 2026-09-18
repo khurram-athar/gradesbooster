@@ -21153,8 +21153,8 @@
         "subject": "English",
         "title": "Oral Communication: The Impromptu Response in Academic Discourse",
         "summary": "Grade 12 English strand: responding effectively to an unplanned question in academic discourse requires organizing thoughts quickly, staying on topic, and structuring a clear, coherent response under time pressure.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Oral Communication: The Impromptu Response in Academic Discourse",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20The%20Impromptu%20Response%20in%20Academic%20Discourse%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does responding effectively to an impromptu academic question require?",
@@ -21207,7 +21207,8 @@
             "answer": 3
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=SehA30-v-nM"
       },
       {
         "subject": "AdvancedFunctions",
@@ -21267,14 +21268,15 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=2o_dxyKAXLQ"
       },
       {
         "subject": "Calculus",
         "title": "Calculus: Volume by the Washer Method",
         "summary": "Grade 12 Calculus strand: the washer method finds the volume of a solid of revolution with a hole through its center, integrating the difference between the areas of an outer and inner radius.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "resourceLabel": "YouTube: Calculus: Volume by the Washer Method",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calculus%3A%20Volume%20by%20the%20Washer%20Method%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What kind of solid does the washer method calculate the volume of?",
@@ -21327,14 +21329,15 @@
             "answer": 1
           }
         ],
-        "topic": "Measurement: Volume & Surface Area"
+        "topic": "Measurement: Volume & Surface Area",
+        "videoUrl": "https://www.youtube.com/watch?v=SAHSVg7Jw_A"
       },
       {
         "subject": "Physics",
         "title": "Physics: The Chandrasekhar Limit and White Dwarf Stars",
         "summary": "Grade 12 Physics strand: the Chandrasekhar limit defines the maximum mass a white dwarf star can have before its own gravity overcomes electron degeneracy pressure, leading to further stellar collapse.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "resourceLabel": "YouTube: Physics: The Chandrasekhar Limit and White Dwarf Stars",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20The%20Chandrasekhar%20Limit%20and%20White%20Dwarf%20Stars%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does the Chandrasekhar limit define?",
@@ -21386,7 +21389,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=qsN1LglrX9s"
       }
     ]
   },
@@ -21398,8 +21402,8 @@
         "subject": "English",
         "title": "Writing: The Annotated Bibliography and Source Synthesis",
         "summary": "Grade 12 English strand: an annotated bibliography lists sources along with a brief summary and evaluation of each, helping a writer organize and synthesize research before drafting a longer academic paper.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "resourceLabel": "YouTube: Writing: The Annotated Bibliography and Source Synthesis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Annotated%20Bibliography%20and%20Source%20Synthesis%20grade%2012%20educational",
         "quiz": [
           {
             "q": "What does an annotated bibliography include for each source, beyond a simple citation?",
@@ -21451,7 +21455,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=q0nZkwcKwIs"
       },
       {
         "subject": "AdvancedFunctions",
@@ -21511,7 +21516,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YYKGkYkKeMM"
       },
       {
         "subject": "Calculus",

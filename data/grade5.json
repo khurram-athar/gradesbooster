@@ -22095,8 +22095,8 @@
         "subject": "SocialStudies",
         "title": "Social Studies: The History of Canadian Postal Services",
         "summary": "Grade 5 Social Studies strand: Canada Post has a long history of connecting communities across the country, evolving from horse-drawn mail delivery to modern sorting facilities and delivery trucks.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Social Studies: The History of Canadian Postal Services",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20History%20of%20Canadian%20Postal%20Services%20grade%205%20educational",
         "quiz": [
           {
             "q": "What is the name of Canada’s national postal service?",
@@ -22148,7 +22148,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=a1DcsrC8qiE"
       }
     ]
   },
@@ -22160,8 +22161,8 @@
         "subject": "Language",
         "title": "Grammar: Appositives",
         "summary": "Grade 5 Language strand: an appositive is a noun or phrase placed next to another noun to rename or explain it, such as in my friend Maria, the artist, painted a mural, where the artist explains Maria.",
-        "resourceLabel": "TVO Learn: Grade 5 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "resourceLabel": "YouTube: Grammar: Appositives",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Appositives%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call a noun or phrase placed next to another noun to rename or explain it?",
@@ -22214,14 +22215,15 @@
             "answer": 2
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=duplsstyXR8"
       },
       {
         "subject": "Math",
         "title": "Patterning: Fibonacci-like Sequences",
         "summary": "Grade 5 Math strand: in a Fibonacci-like sequence, each number is the sum of the two numbers before it, such as 1, 1, 2, 3, 5, 8, where 5 is the sum of 2 and 3.",
-        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "resourceLabel": "YouTube: Patterning: Fibonacci-like Sequences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Patterning%3A%20Fibonacci-like%20Sequences%20grade%205%20educational",
         "quiz": [
           {
             "q": "In the sequence 1, 1, 2, 3, 5, 8, what number comes next?",
@@ -22274,14 +22276,15 @@
             "answer": 3
           }
         ],
-        "topic": "Patterning"
+        "topic": "Patterning",
+        "videoUrl": "https://www.youtube.com/watch?v=ihxJN6ZC9HE"
       },
       {
         "subject": "Science",
         "title": "Science: Wetlands and Their Importance",
         "summary": "Grade 5 Science strand: wetlands are areas of land covered in water for part or all of the year, providing important habitats for wildlife and helping filter and store water.",
-        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "resourceLabel": "YouTube: Science: Wetlands and Their Importance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Wetlands%20and%20Their%20Importance%20grade%205%20educational",
         "quiz": [
           {
             "q": "What do we call an area of land covered in water for part or all of the year?",
@@ -22333,14 +22336,15 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=L8o-JZQuQ84"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: Canada’s National Anthem and Its History",
         "summary": "Grade 5 Social Studies strand: O Canada became Canada’s official national anthem in 1980, though the song was first performed over a century earlier and has been translated into both English and French.",
-        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "resourceLabel": "YouTube: Social Studies: Canada’s National Anthem and Its History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20Canada%E2%80%99s%20National%20Anthem%20and%20Its%20History%20grade%205%20educational",
         "quiz": [
           {
             "q": "What is the name of Canada’s national anthem?",
@@ -22393,7 +22397,8 @@
             "answer": 1
           }
         ],
-        "topic": "Canadian Places & Symbols (Basic)"
+        "topic": "Canadian Places & Symbols (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Q5UOcce7eII"
       }
     ]
   },

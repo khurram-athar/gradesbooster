@@ -26959,7 +26959,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=e07rXHOUXJ8"
       },
       {
         "subject": "Math",
@@ -27041,7 +27042,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Combinatorics"
+        "topic": "Combinatorics",
+        "videoUrl": "https://www.youtube.com/watch?v=KjufnZmARSc"
       },
       {
         "subject": "Science",
@@ -27124,7 +27126,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=WqgVks9NViQ"
       },
       {
         "subject": "SocialStudies",
@@ -27204,7 +27207,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Acb3zls1L_Q"
       }
     ]
   },

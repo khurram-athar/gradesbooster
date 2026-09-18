@@ -21455,14 +21455,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=7owKjx7zqd8"
       },
       {
         "subject": "Math",
         "title": "Data: Correlation vs Causation",
         "summary": "Grade 9 Math strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another, a stronger claim requiring more rigorous evidence.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Data: Correlation vs Causation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Correlation%20vs%20Causation%20grade%209%20educational",
         "quiz": [
           {
             "q": "What does correlation describe?",
@@ -21515,7 +21516,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Tg6e2Y3IEUk"
       },
       {
         "subject": "Science",
@@ -21575,14 +21577,15 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zmdxMlb88Fs"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Desalination",
         "summary": "Grade 9 Social Studies strand: desalination is the process of removing salt from seawater to produce fresh water, an increasingly important technology in regions facing water scarcity.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Desalination",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Desalination%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is desalination?",
@@ -21635,7 +21638,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=mZ7bgkFgqJQ"
       }
     ]
   },
@@ -21647,8 +21651,8 @@ const curriculum: DayContent[] = [
         "subject": "Language",
         "title": "Writing: The Personal Manifesto",
         "summary": "Grade 9 Language strand: a personal manifesto expresses an individual’s core beliefs, values, and goals, often written with a confident, declarative tone to clarify one’s own convictions.",
-        "resourceLabel": "TVO Learn: Grade 9 English",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "resourceLabel": "YouTube: Writing: The Personal Manifesto",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Manifesto%20grade%209%20educational",
         "quiz": [
           {
             "q": "What kind of writing expresses an individual’s core beliefs and values?",
@@ -21701,14 +21705,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=ESaVg6uAhqU"
       },
       {
         "subject": "Math",
         "title": "Financial Literacy: Comparing Loan Options",
         "summary": "Grade 9 Math strand: students compare different loan options by examining interest rates, repayment terms, and total cost over time to determine which option is more affordable.",
-        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "resourceLabel": "YouTube: Financial Literacy: Comparing Loan Options",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Comparing%20Loan%20Options%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is one factor to examine when comparing loan options?",
@@ -21761,14 +21766,15 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=MUp6Fkm7DOc"
       },
       {
         "subject": "Science",
         "title": "Science: Bioplastics and Sustainable Materials",
         "summary": "Grade 9 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering a potential alternative to traditional plastics made from petroleum.",
-        "resourceLabel": "TVO Learn: Grade 9 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "resourceLabel": "YouTube: Science: Bioplastics and Sustainable Materials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Bioplastics%20and%20Sustainable%20Materials%20grade%209%20educational",
         "quiz": [
           {
             "q": "What are bioplastics made from?",
@@ -21821,14 +21827,15 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Ecosystems & Environment"
+        "topic": "Ecosystems & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=Tiln-LAKdhA"
       },
       {
         "subject": "SocialStudies",
         "title": "Social Studies: The Geography of Megacities and Informal Settlements",
         "summary": "Grade 9 Social Studies strand: rapid urban growth in some regions has led to megacities with populations over 10 million, often including informal settlements that develop without official planning or infrastructure.",
-        "resourceLabel": "TVO Learn: Grade 9 Geography",
-        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "resourceLabel": "YouTube: Social Studies: The Geography of Megacities and Informal Settlements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Geography%20of%20Megacities%20and%20Informal%20Settlements%20grade%209%20educational",
         "quiz": [
           {
             "q": "What is a megacity?",
@@ -21881,7 +21888,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=WuswpC4n0As"
       }
     ]
   },
@@ -46729,7 +46737,7 @@ const curriculum: DayContent[] = [
               "An interpretation with no connection to the actual text",
               "A completely unrelated topic",
               "Only a summary of the plot with no interpretation",
-              "A reader\u2019s interpretation of a text, supported by evidence"
+              "A reader’s interpretation of a text, supported by evidence"
             ],
             "answer": 3
           },
@@ -46807,7 +46815,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Cell Division and Growth; Newton\u2019s Three Laws of Motion; Chemical Reactions: Types and Balancing; Electricity: Circuits and Ohm\u2019s Law.",
+        "summary": "A practice recap of recent Science lessons: Cell Division and Growth; Newton’s Three Laws of Motion; Chemical Reactions: Types and Balancing; Electricity: Circuits and Ohm’s Law.",
         "resourceLabel": "TVO Learn: Grade 9 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -46822,7 +46830,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Newton\u2019s first law describes the concept of ___.",
+            "q": "Newton’s first law describes the concept of ___.",
             "options": [
               "Only gravity, with no other forces considered",
               "Genetic inheritance",
@@ -47068,7 +47076,7 @@ const curriculum: DayContent[] = [
             "q": "Which three groups make up the Indigenous Peoples of Canada?",
             "options": [
               "Anglophones, Francophones, and Allophones",
-              "First Nations, M\u00e9tis, and Inuit",
+              "First Nations, Métis, and Inuit",
               "Provinces, Territories, and Municipalities",
               "Settlers, Immigrants, and Refugees"
             ],
@@ -47117,7 +47125,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Writing: The Extended Metaphor in Creative Writing; Reading: Analyzing an Author\u2019s Craft Across a Text; Reading: Analyzing Motif and Recurring Imagery; Grammar: Nominalization and Sentence Complexity.",
+        "summary": "A practice recap of recent Language lessons: Writing: The Extended Metaphor in Creative Writing; Reading: Analyzing an Author’s Craft Across a Text; Reading: Analyzing Motif and Recurring Imagery; Grammar: Nominalization and Sentence Complexity.",
         "resourceLabel": "TVO Learn: Grade 9 Language courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -47132,11 +47140,11 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Analyzing an author\u2019s craft involves examining ___.",
+            "q": "Analyzing an author’s craft involves examining ___.",
             "options": [
               "Deliberate choices in structure, language, and literary devices",
               "A factor unrelated to how the text was written",
-              "The book\u2019s cover design only",
+              "The book’s cover design only",
               "Only a single isolated sentence from the text"
             ],
             "answer": 0
@@ -47191,7 +47199,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In the quadratic formula x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a, the expression b\u00b2-4ac is called the ___.",
+            "q": "In the quadratic formula x = (-b ± √(b²-4ac)) / 2a, the expression b²-4ac is called the ___.",
             "options": [
               "coefficient",
               "discriminant",
@@ -47201,7 +47209,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "To complete the square for x\u00b2 + 8x, you add ___ to create a perfect square trinomial.",
+            "q": "To complete the square for x² + 8x, you add ___ to create a perfect square trinomial.",
             "options": [
               "8",
               "4",
@@ -47395,7 +47403,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The equation (x-3)\u00b2 + (y+2)\u00b2 = 25 represents a circle with ___.",
+            "q": "The equation (x-3)² + (y+2)² = 25 represents a circle with ___.",
             "options": [
               "center (3, -2), radius 5",
               "center (-3, 2), radius 25",
@@ -47542,7 +47550,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A monologue is best described as ___.",
             "options": [
-              "A summary of an entire play\u2019s plot",
+              "A summary of an entire play’s plot",
               "A conversation between multiple characters",
               "A written description of a setting only",
               "An extended speech delivered by a single character"
@@ -47623,7 +47631,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: Science: Genetic Variation and Biodiversity; Science: Osmosis and Diffusion in Cells; Science: The Excretory System: Kidneys and Waste Removal; Density and Buoyancy: Archimedes\u2019 Principle.",
+        "summary": "A practice recap of recent Science lessons: Science: Genetic Variation and Biodiversity; Science: Osmosis and Diffusion in Cells; Science: The Excretory System: Kidneys and Waste Removal; Density and Buoyancy: Archimedes’ Principle.",
         "resourceLabel": "TVO Learn: Grade 9 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -47786,7 +47794,7 @@ const curriculum: DayContent[] = [
             "q": "What are payroll deductions?",
             "options": [
               "Extra bonus money added to a paycheque",
-              "Amounts subtracted from an employee\u2019s gross pay",
+              "Amounts subtracted from an employee’s gross pay",
               "A type of savings account",
               "A concept unrelated to financial literacy"
             ],
@@ -47895,7 +47903,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Birth and death rates",
               "Only the total land area of a country",
-              "The exact temperature of a country\u2019s climate",
+              "The exact temperature of a country’s climate",
               "A factor unrelated to population"
             ],
             "answer": 0
@@ -48031,7 +48039,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: How Vaccines Train the Immune System; Soil Science and Nutrient Cycling in Agriculture; Science: Newtons Laws of Motion \u2014 An Introduction; Ecological Succession; Review: Buoyancy, Redox Reactions, Energy, and Ecological Succession.",
+        "summary": "A practice recap of recent Science lessons: How Vaccines Train the Immune System; Soil Science and Nutrient Cycling in Agriculture; Science: Newtons Laws of Motion — An Introduction; Ecological Succession; Review: Buoyancy, Redox Reactions, Energy, and Ecological Succession.",
         "resourceLabel": "TVO Learn: Grade 9 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -48137,12 +48145,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Setting as a Literary Element; Writing: The Narrative Essay (Show, Don\u2019t Tell); Grammar: Appositives and Sentence Combining; Vocabulary: Etymology and Word Roots; Reading: Analyzing Direct and Indirect Characterization.",
+        "summary": "A practice recap of recent Language lessons: Reading: Analyzing Setting as a Literary Element; Writing: The Narrative Essay (Show, Don’t Tell); Grammar: Appositives and Sentence Combining; Vocabulary: Etymology and Word Roots; Reading: Analyzing Direct and Indirect Characterization.",
         "resourceLabel": "TVO Learn: Grade 9 Language courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "A story\u2019s setting refers to ___.",
+            "q": "A story’s setting refers to ___.",
             "options": [
               "A concept unrelated to literary analysis",
               "Only the names of the characters involved",
@@ -48152,12 +48160,12 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The \u201cshow, don\u2019t tell\u201d technique conveys emotion and meaning through ___.",
+            "q": "The “show, don’t tell” technique conveys emotion and meaning through ___.",
             "options": [
               "A concept unrelated to narrative writing",
               "Avoiding any description of actions or senses",
               "Concrete action and sensory imagery rather than direct statement",
-              "Simply stating a character\u2019s feelings outright with no detail"
+              "Simply stating a character’s feelings outright with no detail"
             ],
             "answer": 2
           },
@@ -48223,10 +48231,10 @@ const curriculum: DayContent[] = [
           {
             "q": "The formula for the volume of a sphere with radius r is ___",
             "options": [
-              "V = (4/3)\u03c0r\u00b3",
-              "V = \u03c0r\u00b2h",
-              "V = 4\u03c0r\u00b2",
-              "V = (1/3)\u03c0r\u00b2h"
+              "V = (4/3)πr³",
+              "V = πr²h",
+              "V = 4πr²",
+              "V = (1/3)πr²h"
             ],
             "answer": 0
           }
@@ -48346,7 +48354,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "Advertisements often use persuasive techniques to influence a consumer\u2019s ___.",
+            "q": "Advertisements often use persuasive techniques to influence a consumer’s ___.",
             "options": [
               "Attitudes and purchasing decisions",
               "Personal identity in ways that are never intentional",
@@ -48397,7 +48405,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A currency exchange rate determines ___.",
             "options": [
-              "How much one country\u2019s currency is worth in terms of another",
+              "How much one country’s currency is worth in terms of another",
               "The total population of a country",
               "A concept unrelated to finance",
               "A fixed value that never changes over time"
@@ -48439,7 +48447,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Science",
         "title": "Practice: Science Recap",
-        "summary": "A practice recap of recent Science lessons: The Process of Fermentation; Ocean Currents and Their Effect on Climate; The Human Microbiome and Gut Bacteria; Science: Elements, Compounds, and Mixtures \u2014 Classifying Matter.",
+        "summary": "A practice recap of recent Science lessons: The Process of Fermentation; Ocean Currents and Their Effect on Climate; The Human Microbiome and Gut Bacteria; Science: Elements, Compounds, and Mixtures — Classifying Matter.",
         "resourceLabel": "TVO Learn: Grade 9 Science courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
@@ -48619,7 +48627,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The logarithmic equation log\u2082(8) = 3 is equivalent to which exponential equation?",
+            "q": "The logarithmic equation log₂(8) = 3 is equivalent to which exponential equation?",
             "options": [
               "2^3 = 8",
               "3^2 = 8",
@@ -48629,7 +48637,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "For a quadratic equation, if the discriminant (b\u00b2 - 4ac) is negative, the equation has ___.",
+            "q": "For a quadratic equation, if the discriminant (b² - 4ac) is negative, the equation has ___.",
             "options": [
               "Two distinct real roots",
               "Exactly one real root",
@@ -48806,7 +48814,7 @@ const curriculum: DayContent[] = [
             "q": "A budget is best described as a tool that tracks ___.",
             "options": [
               "Only expenses, with no connection to income",
-              "A person\u2019s age and physical location",
+              "A person’s age and physical location",
               "A concept unrelated to financial literacy",
               "Income and expenses over a period of time"
             ],
@@ -48835,7 +48843,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Which number is classified as irrational?",
             "options": [
-              "\u221a2",
+              "√2",
               "0.75",
               "-3",
               "7/2"
@@ -48864,7 +48872,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Ocean tides on Earth are primarily caused by ___.",
             "options": [
-              "The Moon\u2019s gravitational pull",
+              "The Moon’s gravitational pull",
               "The rotation of the Earth on its axis alone",
               "A concept unrelated to astronomy",
               "Wind patterns exclusively, with no connection to gravity"
@@ -48953,7 +48961,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Grammar: Parallel Structure in Sentences; Writing: Crafting Effective Introductions and Conclusions; Review: Paradox, Process Essays, Clickbait, and Parallel Structure; Vocabulary: Register \u2014 Matching Word Choice to Audience and Purpose; Writing: The Persuasive Op-Ed Rebuttal.",
+        "summary": "A practice recap of recent Language lessons: Grammar: Parallel Structure in Sentences; Writing: Crafting Effective Introductions and Conclusions; Review: Paradox, Process Essays, Clickbait, and Parallel Structure; Vocabulary: Register — Matching Word Choice to Audience and Purpose; Writing: The Persuasive Op-Ed Rebuttal.",
         "resourceLabel": "TVO Learn: Grade 9 Language courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49037,12 +49045,12 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What is the result of (3 \u00d7 10^4) \u00d7 (2 \u00d7 10^3) expressed in scientific notation?",
+            "q": "What is the result of (3 × 10^4) × (2 × 10^3) expressed in scientific notation?",
             "options": [
-              "6 \u00d7 10^7",
-              "6 \u00d7 10^12",
-              "5 \u00d7 10^7",
-              "6 \u00d7 10^1"
+              "6 × 10^7",
+              "6 × 10^12",
+              "5 × 10^7",
+              "6 × 10^1"
             ],
             "answer": 0
           }
@@ -49059,8 +49067,8 @@ const curriculum: DayContent[] = [
             "q": "The ozone layer is primarily important because it absorbs ___.",
             "options": [
               "Visible light exclusively, with no connection to radiation",
-              "A concept unrelated to Earth\u2019s atmosphere",
-              "Most of the Sun\u2019s harmful ultraviolet radiation",
+              "A concept unrelated to Earth’s atmosphere",
+              "Most of the Sun’s harmful ultraviolet radiation",
               "Carbon dioxide released from human activity"
             ],
             "answer": 2
@@ -49309,7 +49317,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
         "quiz": [
           {
-            "q": "What is happening to many of the world\u2019s languages as fewer speakers remain?",
+            "q": "What is happening to many of the world’s languages as fewer speakers remain?",
             "options": [
               "They are all becoming more widely spoken",
               "They are being replaced instantly with no loss of any kind",
@@ -49321,7 +49329,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What does a global supply chain connect across many countries?",
             "options": [
-              "Only a single country\u2019s local farmers markets",
+              "Only a single country’s local farmers markets",
               "The production, transportation, and sale of goods",
               "A concept unrelated to geography",
               "Nothing at all connected to goods or trade"
@@ -49366,7 +49374,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "What kind of writing expresses an individual\u2019s core beliefs and values?",
+            "q": "What kind of writing expresses an individual’s core beliefs and values?",
             "options": [
               "A personal manifesto",
               "A concept unrelated to writing",
@@ -49419,8 +49427,8 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to financial literacy",
               "Interest rates",
-              "The lender\u2019s office location only",
-              "The colour of the lender\u2019s logo"
+              "The lender’s office location only",
+              "The colour of the lender’s logo"
             ],
             "answer": 1
           },
@@ -49678,7 +49686,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "What happens to a substance\u2019s chemical composition during a physical change?",
+            "q": "What happens to a substance’s chemical composition during a physical change?",
             "options": [
               "It is destroyed entirely",
               "A concept unrelated to physical changes",
@@ -49826,7 +49834,7 @@ const curriculum: DayContent[] = [
             "q": "What is income tax?",
             "options": [
               "A fee charged only when purchasing groceries",
-              "A percentage of a person\u2019s earnings paid to the government",
+              "A percentage of a person’s earnings paid to the government",
               "A one-time payment made only once in a lifetime",
               "A concept unrelated to financial literacy"
             ],
@@ -49934,7 +49942,7 @@ const curriculum: DayContent[] = [
             "q": "What do data centres store and process?",
             "options": [
               "Only physical paper documents",
-              "The world\u2019s digital information",
+              "The world’s digital information",
               "A concept unrelated to geography",
               "Only handwritten letters"
             ],
@@ -50186,7 +50194,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A list of unrelated facts with no argument",
               "A concept unrelated to writing",
-              "A summary of the opposing team\u2019s schedule",
+              "A summary of the opposing team’s schedule",
               "A clear claim supported by evidence and reasoning"
             ],
             "answer": 3
@@ -50406,7 +50414,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "In literary analysis, juxtaposition is best described as placing two elements near each other in order to\u2014",
+            "q": "In literary analysis, juxtaposition is best described as placing two elements near each other in order to—",
             "options": [
               "Blend them into a single new word",
               "Highlight their differences by contrast",
@@ -50445,7 +50453,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Simplify: (6x^2 + 9x) \u00f7 3x",
+            "q": "Simplify: (6x^2 + 9x) ÷ 3x",
             "options": [
               "3x + 3",
               "2x + 9x",
@@ -50528,7 +50536,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: The Cold War and Canada\u2019s Role; Social Studies: Smart Cities: Technology and Urban Planning Innovation; Social Studies: Ocean Plastic Pollution and Marine Debris; Social Studies: The Geography of Renewable Wind Energy Siting.",
+        "summary": "A practice recap of recent Social Studies lessons: The Cold War and Canada’s Role; Social Studies: Smart Cities: Technology and Urban Planning Innovation; Social Studies: Ocean Plastic Pollution and Marine Debris; Social Studies: The Geography of Renewable Wind Energy Siting.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
         "quiz": [
@@ -50553,7 +50561,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "The Great Pacific Garbage Patch is best described as\u2014",
+            "q": "The Great Pacific Garbage Patch is best described as—",
             "options": [
               "A solid island of trash you can walk on",
               "A dense accumulation of floating plastic debris and microplastics concentrated by ocean currents",
@@ -50563,7 +50571,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "When choosing a site for a large wind farm, geographers primarily look for locations with\u2014",
+            "q": "When choosing a site for a large wind farm, geographers primarily look for locations with—",
             "options": [
               "Consistent, strong wind resources, such as coastlines or open plains",
               "Low, inconsistent wind speeds",
@@ -50585,7 +50593,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Language",
         "title": "Practice: Language Recap",
-        "summary": "A practice recap of recent Language lessons: Review: Personification, Grammar, Figurative Language, and Media Literacy (Days 101-109); Writing: Writing an Interview Script \u2014 Question Design and Follow-Ups; Vocabulary: Portmanteau Words and Blends; Reading: Analyzing Anaphora and Repetition for Effect.",
+        "summary": "A practice recap of recent Language lessons: Review: Personification, Grammar, Figurative Language, and Media Literacy (Days 101-109); Writing: Writing an Interview Script — Question Design and Follow-Ups; Vocabulary: Portmanteau Words and Blends; Reading: Analyzing Anaphora and Repetition for Effect.",
         "resourceLabel": "TVO Learn: Grade 9 Language courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50620,7 +50628,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Anaphora is a rhetorical device that involves\u2014",
+            "q": "Anaphora is a rhetorical device that involves—",
             "options": [
               "Comparing two unlike things using \"like\" or \"as\"",
               "Using words that imitate sounds",
@@ -50669,7 +50677,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "A graph shows the distance a cyclist travels over time as a straight line. The slope of this line represents the cyclist's\u2014",
+            "q": "A graph shows the distance a cyclist travels over time as a straight line. The slope of this line represents the cyclist's—",
             "options": [
               "Total distance travelled",
               "Starting position",
@@ -50688,7 +50696,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=science",
         "quiz": [
           {
-            "q": "What is magma called once it reaches the Earth\u2019s surface?",
+            "q": "What is magma called once it reaches the Earth’s surface?",
             "options": [
               "Lava",
               "Sediment",
@@ -50718,7 +50726,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Antibiotic resistance develops in bacterial populations primarily through\u2014",
+            "q": "Antibiotic resistance develops in bacterial populations primarily through—",
             "options": [
               "Antibiotics converting harmless bacteria into resistant ones",
               "Bacteria intentionally choosing to resist antibiotics",
@@ -50757,7 +50765,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "A major geographic challenge associated with e-waste is that it is often\u2014",
+            "q": "A major geographic challenge associated with e-waste is that it is often—",
             "options": [
               "Fully recycled domestically with no international shipment",
               "Shipped to developing countries, where informal processing can cause environmental and health hazards",
@@ -50824,7 +50832,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "An anti-hero in literature is best defined as a protagonist who\u2014",
+            "q": "An anti-hero in literature is best defined as a protagonist who—",
             "options": [
               "Is a purely evil character with no redeeming qualities",
               "Lacks conventional heroic qualities, such as moral courage, yet still serves as the story's central character",
@@ -50863,7 +50871,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "A relation has first differences of 4, 7, 12, and 19 over equal x-intervals. This relation is\u2014",
+            "q": "A relation has first differences of 4, 7, 12, and 19 over equal x-intervals. This relation is—",
             "options": [
               "Linear, because the differences increase",
               "Non-linear, because the first differences are not constant",
@@ -50873,7 +50881,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In the Fibonacci sequence, each term (after the first two) is generated by\u2014",
+            "q": "In the Fibonacci sequence, each term (after the first two) is generated by—",
             "options": [
               "Multiplying the previous two terms",
               "Squaring the previous term",
@@ -50912,7 +50920,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Forensic science applies the scientific method to criminal investigation primarily by\u2014",
+            "q": "Forensic science applies the scientific method to criminal investigation primarily by—",
             "options": [
               "Ignoring physical evidence in favor of testimony alone",
               "Using systematic observation, evidence collection, and hypothesis testing to reconstruct events",
@@ -50922,7 +50930,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "In a controlled experiment, the independent variable is\u2014",
+            "q": "In a controlled experiment, the independent variable is—",
             "options": [
               "The factor that is measured as an outcome",
               "A variable that is kept constant to ensure fairness",
@@ -50961,7 +50969,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Urban parks and green spaces primarily benefit cities by\u2014",
+            "q": "Urban parks and green spaces primarily benefit cities by—",
             "options": [
               "Increasing air pollution and heat retention",
               "Providing recreation space while helping reduce urban heat island effects and improve air quality",
@@ -50971,7 +50979,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Major global shipping ports tend to be located\u2014",
+            "q": "Major global shipping ports tend to be located—",
             "options": [
               "In landlocked regions far from any coastline",
               "Randomly, without regard to geography",
@@ -51020,15 +51028,15 @@ const curriculum: DayContent[] = [
           {
             "q": "Which sentence correctly uses the Oxford comma to avoid ambiguity?",
             "options": [
-              "I invited my parents, Beyonc\u00e9 and Jay-Z.",
-              "I invited my parents, Beyonc\u00e9, and Jay-Z.",
-              "I invited my, parents Beyonc\u00e9 and Jay-Z.",
-              "I invited my parents Beyonc\u00e9, and, Jay-Z."
+              "I invited my parents, Beyoncé and Jay-Z.",
+              "I invited my parents, Beyoncé, and Jay-Z.",
+              "I invited my, parents Beyoncé and Jay-Z.",
+              "I invited my parents Beyoncé, and, Jay-Z."
             ],
             "answer": 1
           },
           {
-            "q": "Unlike a round character, a flat character is typically\u2014",
+            "q": "Unlike a round character, a flat character is typically—",
             "options": [
               "Simple and one-dimensional, defined by a single trait or role without much development",
               "The most complex character in the story",
@@ -51126,7 +51134,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Metalloids, such as silicon and germanium, are notable in technology because they\u2014",
+            "q": "Metalloids, such as silicon and germanium, are notable in technology because they—",
             "options": [
               "Are always liquid at room temperature",
               "Conduct electricity exactly as well as metals do",
@@ -51165,7 +51173,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Wildlife corridors are designed primarily to\u2014",
+            "q": "Wildlife corridors are designed primarily to—",
             "options": [
               "Increase habitat fragmentation between populations",
               "Connect isolated habitat patches so animals can migrate, find mates, and maintain genetic diversity",
@@ -51175,7 +51183,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Orbital congestion from space debris is a growing geographic concern because it\u2014",
+            "q": "Orbital congestion from space debris is a growing geographic concern because it—",
             "options": [
               "Has no effect on satellites or spacecraft",
               "Only affects debris located on Earth's surface",
@@ -51263,19 +51271,19 @@ const curriculum: DayContent[] = [
           {
             "q": "In a 45-45-90 triangle, if each leg has length 1, what is the length of the hypotenuse?",
             "options": [
-              "\u221a2",
-              "\u221a3",
+              "√2",
+              "√3",
               "1",
               "2"
             ],
             "answer": 0
           },
           {
-            "q": "In a 30-60-90 triangle, if the side opposite the 30\u00b0 angle has length 1, what is the length of the side opposite the 60\u00b0 angle?",
+            "q": "In a 30-60-90 triangle, if the side opposite the 30° angle has length 1, what is the length of the side opposite the 60° angle?",
             "options": [
-              "\u221a3",
+              "√3",
               "2",
-              "\u221a2",
+              "√2",
               "1/2"
             ],
             "answer": 0
@@ -51283,10 +51291,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the formula for the total surface area of a cylinder with radius r and height h?",
             "options": [
-              "\u03c0r\u00b2h",
-              "4\u03c0r\u00b2",
-              "2\u03c0rh",
-              "2\u03c0r\u00b2 + 2\u03c0rh"
+              "πr²h",
+              "4πr²",
+              "2πrh",
+              "2πr² + 2πrh"
             ],
             "answer": 3
           }
@@ -51426,7 +51434,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In formal writing, what is one common use of the em dash (\u2014)?",
+            "q": "In formal writing, what is one common use of the em dash (—)?",
             "options": [
               "To indicate a question",
               "To set off an abrupt interruption or emphatic aside within a sentence",
@@ -51457,10 +51465,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the formula for the volume of any prism?",
             "options": [
-              "V = 1/3 \u00d7 base area \u00d7 height",
-              "V = 1/2 \u00d7 base \u00d7 height",
-              "V = base area \u00d7 height",
-              "V = length \u00d7 width"
+              "V = 1/3 × base area × height",
+              "V = 1/2 × base × height",
+              "V = base area × height",
+              "V = length × width"
             ],
             "answer": 2
           },
@@ -51487,10 +51495,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the sum of the interior angles of a hexagon (a 6-sided polygon)?",
             "options": [
-              "540\u00b0",
-              "720\u00b0",
-              "900\u00b0",
-              "360\u00b0"
+              "540°",
+              "720°",
+              "900°",
+              "360°"
             ],
             "answer": 1
           }
@@ -51787,7 +51795,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Why do some countries build entirely new, planned capital cities, such as Bras\u00edlia or Canberra, rather than using an existing major city?",
+            "q": "Why do some countries build entirely new, planned capital cities, such as Brasília or Canberra, rather than using an existing major city?",
             "options": [
               "To reduce the country's population growth rate",
               "To eliminate the need for any government buildings",
@@ -52087,7 +52095,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Evaluate: 4 + 2 x (3 - 1)^2 \u00f7 4",
+            "q": "Evaluate: 4 + 2 x (3 - 1)^2 ÷ 4",
             "options": [
               "8",
               "6",
@@ -52364,7 +52372,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "SocialStudies",
         "title": "Practice: Social Studies Recap",
-        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Sovereign Wealth Funds and Resource Wealth; Social Studies: The Geography of Green Hydrogen and the Future of Energy; Social Studies: The Geography of Peacekeeping Missions and UN Buffer Zones; Quebec\u2019s Quiet Revolution and Canadian Federalism.",
+        "summary": "A practice recap of recent Social Studies lessons: Social Studies: The Geography of Sovereign Wealth Funds and Resource Wealth; Social Studies: The Geography of Green Hydrogen and the Future of Energy; Social Studies: The Geography of Peacekeeping Missions and UN Buffer Zones; Quebec’s Quiet Revolution and Canadian Federalism.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=geography",
         "quiz": [
@@ -53719,7 +53727,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Simplify using exponent laws: x^4 \u00d7 x^3",
+            "q": "Simplify using exponent laws: x^4 × x^3",
             "options": [
               "x^12",
               "x^7",
@@ -53731,10 +53739,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of the following is 0.000032 written correctly in scientific notation?",
             "options": [
-              "3.2 \u00d7 10^-4",
-              "3.2 \u00d7 10^5",
-              "3.2 \u00d7 10^-5",
-              "0.32 \u00d7 10^-5"
+              "3.2 × 10^-4",
+              "3.2 × 10^5",
+              "3.2 × 10^-5",
+              "0.32 × 10^-5"
             ],
             "answer": 2
           }
@@ -53879,7 +53887,7 @@ const curriculum: DayContent[] = [
               "If I were rich, I would travel the world.",
               "If it rains tomorrow, we will cancel the picnic.",
               "If she had left earlier, she would have caught the train.",
-              "If water reaches 0\u00b0 Celsius, it freezes."
+              "If water reaches 0° Celsius, it freezes."
             ],
             "answer": 1
           },
@@ -54119,10 +54127,10 @@ const curriculum: DayContent[] = [
           {
             "q": "A category makes up 25% of a data set. What central angle should it be given in a circle graph?",
             "options": [
-              "90\u00b0",
-              "360\u00b0",
-              "25\u00b0",
-              "45\u00b0"
+              "90°",
+              "360°",
+              "25°",
+              "45°"
             ],
             "answer": 0
           },
@@ -54139,10 +54147,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the sum of the exterior angles of any convex polygon, one at each vertex?",
             "options": [
-              "180\u00b0",
-              "360\u00b0",
+              "180°",
+              "360°",
               "It depends on the number of sides",
-              "540\u00b0"
+              "540°"
             ],
             "answer": 1
           }

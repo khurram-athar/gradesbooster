@@ -21296,7 +21296,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=KRRRSuFGQYE"
       },
       {
         "subject": "Math",
@@ -21356,7 +21357,8 @@
             "answer": 3
           }
         ],
-        "topic": "Square Roots & Radicals"
+        "topic": "Square Roots & Radicals",
+        "videoUrl": "https://www.youtube.com/watch?v=fpO1BMB9Fus"
       },
       {
         "subject": "Science",
@@ -21416,7 +21418,8 @@
             "answer": 3
           }
         ],
-        "topic": "Genetics & Heredity"
+        "topic": "Genetics & Heredity",
+        "videoUrl": "https://www.youtube.com/watch?v=zwibgNGe4aY"
       },
       {
         "subject": "History",
@@ -21475,7 +21478,8 @@
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=72waIfR-TnQ"
       }
     ]
   },
@@ -21487,8 +21491,8 @@
         "subject": "Language",
         "title": "Writing: The Op-Ed Rebuttal",
         "summary": "Grade 8 Language strand: an op-ed rebuttal responds directly to another published opinion piece, presenting a counterargument supported by evidence and reasoning.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "resourceLabel": "YouTube: Writing: The Op-Ed Rebuttal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Op-Ed%20Rebuttal%20grade%208%20educational",
         "quiz": [
           {
             "q": "What does an op-ed rebuttal respond to?",
@@ -21541,7 +21545,8 @@
             "answer": 1
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=wtzhe_Ae6qg"
       },
       {
         "subject": "Math",
@@ -21601,14 +21606,15 @@
             "answer": 3
           }
         ],
-        "topic": "Equations & Inequalities"
+        "topic": "Equations & Inequalities",
+        "videoUrl": "https://www.youtube.com/watch?v=5a6zpfl50go"
       },
       {
         "subject": "Science",
         "title": "Science: Renewable Materials: Bioplastics",
         "summary": "Grade 8 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering an alternative to traditional plastics made from petroleum.",
-        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "resourceLabel": "YouTube: Science: Renewable Materials: Bioplastics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Renewable%20Materials%3A%20Bioplastics%20grade%208%20educational",
         "quiz": [
           {
             "q": "What are bioplastics made from?",
@@ -21661,7 +21667,8 @@
             "answer": 3
           }
         ],
-        "topic": "Materials & States of Matter (Basic)"
+        "topic": "Materials & States of Matter (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=Tiln-LAKdhA"
       },
       {
         "subject": "History",
@@ -21721,7 +21728,8 @@
             "answer": 2
           }
         ],
-        "topic": "World War II"
+        "topic": "World War II",
+        "videoUrl": "https://www.youtube.com/watch?v=C8TQTuMqM9g"
       }
     ]
   },
