@@ -46528,6 +46528,7554 @@ const curriculum: DayContent[] = [
         ]
       }
     ]
+  },
+  {
+    "day": 188,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 31-34.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literary Analysis: Symbolism and Allegory in the Novel; Writing: The Rhetorical Analysis Essay; Media Literacy: Recognizing Bias in News Media; Grammar and Style: Advanced Syntax for Impact.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Symbolism uses objects or images to represent ___.",
+            "options": [
+              "A concept unrelated to meaning",
+              "Deeper ideas beyond their literal meaning",
+              "Nothing beyond their physical description",
+              "Only their literal, surface-level meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rhetorical analysis essay examines ___.",
+            "options": [
+              "Only the literal content of a text with no analysis of technique",
+              "A completely unrelated topic",
+              "The exact page count of a text",
+              "How a speaker or writer uses persuasive techniques to achieve their purpose"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An allegory extends symbolic meaning by ___.",
+            "options": [
+              "Restricting meaning to a single isolated image",
+              "Sustaining a coherent symbolic meaning across an entire narrative",
+              "Eliminating any deeper meaning from the text",
+              "Applying only to non-fiction writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "One key strategy for recognizing bias in a news article is to ___.",
+            "options": [
+              "Assume every headline is entirely objective",
+              "Ignore the source and focus only on the photographs",
+              "Examine word choice and what information is included or omitted",
+              "Read only the first paragraph and disregard the rest"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Piecewise Functions and Their Applications; Trigonometry: The Unit Circle and Radian Measure; Rational Functions: Solving Rational Equations; Exponential Functions: Modelling Population and Decay.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A piecewise function is defined by ___.",
+            "options": [
+              "No defined expression at all",
+              "A single expression that applies to the entire domain",
+              "Different expressions over different intervals of its domain",
+              "A concept unrelated to domain intervals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The unit circle has a radius of ___.",
+            "options": [
+              "A value unrelated to trigonometry",
+              "Zero",
+              "A value that varies depending on the angle",
+              "One"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "One full revolution around the unit circle corresponds to an angle of ___ radians.",
+            "options": [
+              "\u03c0",
+              "2\u03c0",
+              "\u03c0/2",
+              "4\u03c0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When solving a rational equation, a value that makes the original denominator zero must be ___.",
+            "options": [
+              "Accepted as a valid solution regardless of the denominator",
+              "Rejected as an extraneous solution",
+              "Doubled to find the final answer",
+              "Ignored because denominators never affect solutions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Microbiology: Bacteria, Viruses, and Immunity; Genetics: Genetic Engineering and CRISPR; Ecology: Biomes and Global Ecosystems; Physiology: Excretory System and Homeostasis.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Microbiology examines the structure and function of ___.",
+            "options": [
+              "Only plants, with no connection to microorganisms",
+              "Bacteria and viruses",
+              "Only large mammals, with no connection to microorganisms",
+              "A field unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "CRISPR is a technology used to ___.",
+            "options": [
+              "Only observe DNA, with no ability to change it",
+              "Replace the need for any genetic material",
+              "Precisely edit DNA sequences",
+              "A process entirely unrelated to genetics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A biome is best defined as a large-scale ecological region characterized primarily by its ___.",
+            "options": [
+              "Political boundaries",
+              "Characteristic climate, vegetation, and animal communities",
+              "Human population density",
+              "Distance from the equator only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The excretory system helps maintain homeostasis primarily by ___.",
+            "options": [
+              "Producing hormones that regulate mood",
+              "Regulating the body's water and electrolyte balance while removing metabolic wastes",
+              "Synthesizing new proteins for muscle growth",
+              "Storing excess glucose as glycogen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Gas Laws: Boyle\u2019s, Charles\u2019s, and the Combined Gas Law; Chemical Bonding: Molecular Shapes and VSEPR Theory; Reaction Rates: Factors Affecting Rate of Reaction; Solutions: Colligative Properties.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Boyle\u2019s Law describes the relationship between a gas\u2019s ___.",
+            "options": [
+              "A relationship unrelated to gas behaviour",
+              "Pressure and volume, at constant temperature",
+              "Mass and colour",
+              "Only temperature, with no connection to pressure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "VSEPR theory predicts a molecule\u2019s ___.",
+            "options": [
+              "Colour",
+              "Mass",
+              "A property unrelated to molecular structure",
+              "Three-dimensional shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Charles\u2019s Law describes the direct relationship between a gas\u2019s ___.",
+            "options": [
+              "Volume and temperature, at constant pressure",
+              "Pressure and moles, at constant volume",
+              "Mass and density, at constant temperature",
+              "Volume and pressure, at constant temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which factor increases reaction rate by providing an alternative pathway with lower activation energy?",
+            "options": [
+              "Increasing the temperature",
+              "Decreasing the concentration of reactants",
+              "Adding a catalyst",
+              "Decreasing the surface area of a solid reactant"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 35-38.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: The Bildungsroman -- Coming-of-Age Narratives; Oral Communication: Impromptu Speaking and Critical Response; Writing: The Personal Essay -- Voice and Vulnerability; Independent Reading: Speculative Fiction.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "A bildungsroman is a novel focused on a protagonist\u2019s ___.",
+            "options": [
+              "A plot entirely unrelated to identity or self-discovery",
+              "A journey with no connection to personal growth",
+              "A single, unchanging characteristic throughout the story",
+              "Psychological and moral growth from youth to adulthood"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Impromptu speaking requires responding to a topic with ___.",
+            "options": [
+              "Little to no preparation time",
+              "No connection to critical thinking at all",
+              "Extensive preparation over several weeks",
+              "A fully written and memorized script"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a personal essay, \u201cvoice\u201d primarily refers to ___.",
+            "options": [
+              "The word count required by the assignment",
+              "The distinctive tone and personality conveyed through the writer's style",
+              "The use of only formal, academic language",
+              "A strict five-paragraph structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Speculative fiction is characterized by its exploration of ___.",
+            "options": [
+              "Strictly factual historical events with no invented elements",
+              "Imagined worlds, technologies, or scenarios that challenge reality as we know it",
+              "Only real, everyday settings with no fantastical elements",
+              "Biographical accounts of real people's lives"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Sequences: Recursive Formulas and Applications; Financial Mathematics: Annuities and Present Value; Statistics: Standard Deviation and Data Interpretation; Functions: Inverse Functions and Their Graphs.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A recursive formula defines each term of a sequence based on ___.",
+            "options": [
+              "A term unrelated to the sequence itself",
+              "One or more previous terms",
+              "No connection to any other term in the sequence",
+              "Only the very first term, with no other relationship"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An annuity is best described as ___.",
+            "options": [
+              "A concept unrelated to regular payments",
+              "A payment made at completely random, irregular intervals",
+              "A single, one-time payment with no repetition",
+              "A series of equal payments made at regular intervals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A small standard deviation in a data set indicates that the values are ___.",
+            "options": [
+              "Clustered closely around the mean",
+              "Spread widely and unpredictably",
+              "All equal to zero",
+              "Unrelated to the mean entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The graph of a function's inverse is obtained by reflecting the original graph across the line ___.",
+            "options": [
+              "y = 0",
+              "x = 0",
+              "y = x",
+              "y = -x"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Animal Physiology: Muscular and Skeletal Systems; Genetics: Gene Expression and Regulation; Biotechnology: Genetic Testing and Ethics; Evolution: Evidence from the Fossil Record.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "The muscular and skeletal systems work together to provide the body with ___.",
+            "options": [
+              "A function entirely unrelated to movement",
+              "Structure, support, and the ability to move",
+              "Only protection, with no role in movement",
+              "No structural support of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Gene expression is the process by which ___.",
+            "options": [
+              "A gene is permanently deactivated with no further function",
+              "A concept unrelated to genetic information",
+              "DNA is entirely removed from a cell",
+              "Information in a gene is used to produce a functional product"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A key ethical concern surrounding genetic testing is ___.",
+            "options": [
+              "Its complete inability to detect any hereditary conditions",
+              "Potential discrimination based on an individual's genetic predispositions",
+              "Its guaranteed accuracy with zero risk of misinterpretation",
+              "Its exclusive use in agriculture, with no application to humans"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Transitional fossils provide evidence for evolution by ___.",
+            "options": [
+              "Showing intermediate characteristics between ancestral and descendant species",
+              "Proving that species have never changed over time",
+              "Demonstrating that all organisms appeared simultaneously",
+              "Containing no observable anatomical features"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Organic Chemistry: Isomers and Naming Conventions; Acids and Bases: Titration Curves; Redox Reactions: Balancing and Applications; Thermochemistry: Calorimetry and Hess\u2019s Law.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Isomers are compounds that share the same ___.",
+            "options": [
+              "Molecular formula and identical structural arrangement in every case",
+              "Chemical properties, with no variation between them at all",
+              "Molecular formula but have different structural arrangements",
+              "Physical appearance, with no connection to their chemical formula"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A titration curve graphs a solution\u2019s ___.",
+            "options": [
+              "Temperature as it changes with no connection to the reaction",
+              "Colour as it changes over time with no connection to pH",
+              "pH as an acid or base is gradually added",
+              "Volume with no connection to pH change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a redox reaction, the species that loses electrons is said to be ___.",
+            "options": [
+              "Reduced",
+              "Neutralized",
+              "Oxidized",
+              "Hydrolyzed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Hess's Law states that the total enthalpy change for a reaction is ___.",
+            "options": [
+              "Dependent only on the reaction's starting temperature",
+              "Independent of the number of steps in the reaction pathway",
+              "Always equal to zero regardless of the reaction",
+              "Determined solely by the physical state of the catalyst"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 39-42.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: The Unreliable Narrator in Modern Fiction; Writing: Editing and Proofreading for Precision; Literature: Existentialism in Modern Drama; Writing: The Op-Ed and Public Argument.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An unreliable narrator is best described as a narrator whose ___.",
+            "options": [
+              "Credibility is compromised in some way",
+              "Account is always completely accurate",
+              "Perspective is identical to the author\u2019s",
+              "Role in the story is purely factual"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Editing focuses on improving a piece of writing\u2019s ___.",
+            "options": [
+              "Clarity, organization, and word choice",
+              "A factor entirely unrelated to writing quality",
+              "The font style used throughout the document",
+              "Only its physical page length"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Existentialist drama typically explores themes of ___.",
+            "options": [
+              "Individual freedom, choice, and the search for meaning in an indifferent universe",
+              "Strict adherence to fate with no individual agency",
+              "Purely comedic misunderstandings with no philosophical depth",
+              "Historical events told in chronological order with no thematic focus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An effective op-ed builds a persuasive public argument primarily by ___.",
+            "options": [
+              "Presenting only one side without acknowledging counterarguments",
+              "Combining a clear claim with credible evidence and logical reasoning",
+              "Relying exclusively on the writer's personal feelings",
+              "Avoiding any specific position on the issue"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Trigonometric Identities: Proving and Applying; Review: Functions, Trigonometry, and Financial Math; Radical Functions and Their Graphs; Discrete Math: Pascal\u2019s Triangle and the Binomial Theorem.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A trigonometric identity is an equation that is true for ___.",
+            "options": [
+              "A concept unrelated to trigonometric functions",
+              "All values of the variable",
+              "Only a single specific value of the variable",
+              "No values of the variable at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a fundamental Pythagorean trigonometric identity?",
+            "options": [
+              "sin \u03b8 + cos \u03b8 = 1",
+              "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
+              "sin \u03b8 \u00d7 cos \u03b8 = 1",
+              "sin\u00b2\u03b8 \u2212 cos\u00b2\u03b8 = 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The domain of the radical function f(x) = \u221a(x \u2212 3) is restricted because ___.",
+            "options": [
+              "The expression under the square root must be non-negative",
+              "x can never equal any positive number",
+              "Square roots are undefined for all real numbers",
+              "The function has no restrictions on its domain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In Pascal's Triangle, each entry (other than the 1s on the edges) is found by ___.",
+            "options": [
+              "Multiplying the two entries directly above it",
+              "Subtracting the row number from the column number",
+              "Adding the two entries directly above it",
+              "Dividing the entry to its left by the entry to its right"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Plant Hormones: Auxins, Gibberellins, and Tropic Responses; Population Ecology: Growth Curves and Carrying Capacity; Ecology: Nutrient Cycles and Biogeochemistry; Genetics: Polygenic Inheritance and Continuous Traits.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Plant hormones play a key role in regulating ___.",
+            "options": [
+              "A function unrelated to environmental response",
+              "A process entirely unrelated to plant biology",
+              "Growth and development",
+              "Only the colour of a plant\u2019s leaves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Exponential population growth occurs when ___.",
+            "options": [
+              "A population's growth rate slows as resources become limited",
+              "Resources are unlimited and a population grows at an accelerating rate",
+              "A population stops growing entirely",
+              "A population always shrinks over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Carrying capacity refers to the ___.",
+            "options": [
+              "Maximum population size an environment can sustainably support",
+              "Minimum number of individuals needed for a species to survive",
+              "Rate at which a population's genetic diversity increases",
+              "Total number of species found in a given biome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Polygenic inheritance produces continuous variation in traits because ___.",
+            "options": [
+              "Only one gene determines the entire trait",
+              "Multiple genes each contribute a small additive effect to the phenotype",
+              "The trait is determined entirely by environmental factors with no genetic input",
+              "The gene involved has only two possible alleles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Environmental Chemistry: Ozone and Greenhouse Gases; Review: Gas Laws, Bonding, and Reaction Rates; Chemistry: Intermolecular Forces and Physical Properties; Nuclear Chemistry: Half-Life Calculations and Applications.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "The ozone layer primarily protects Earth from ___.",
+            "options": [
+              "Harmful ultraviolet radiation",
+              "Excess oxygen in the atmosphere",
+              "Only visible light, with no connection to radiation",
+              "A factor entirely unrelated to solar radiation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A radioactive sample has a half-life of 10 years. What fraction of the original sample remains after 30 years?",
+            "options": [
+              "1/2",
+              "1/4",
+              "1/8",
+              "1/16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Hydrogen bonding is a particularly strong intermolecular force that occurs when hydrogen is bonded directly to ___.",
+            "options": [
+              "Carbon, sulfur, or phosphorus",
+              "Nitrogen, oxygen, or fluorine",
+              "Any nonmetal without exception",
+              "Noble gases such as argon or neon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The half-life of a radioactive isotope is the time required for ___.",
+            "options": [
+              "All of a sample to decay completely",
+              "Half of a sample's radioactive nuclei to decay",
+              "A sample's mass to double through decay",
+              "A sample to become completely stable with no further change needed"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 43-47.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Media Literacy: Podcasts and Long-Form Audio Storytelling; Reading: Magical Realism and Cultural Identity; Grammar: The Rhetorical Triangle -- Ethos, Pathos, Logos; Reading: Wilfred Owen's \"Dulce et Decorum Est\" and War Testimony; Writing: The Literary Analysis of Setting.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Podcasts rely on ___ to engage listeners, without the use of visual elements.",
+            "options": [
+              "A medium unrelated to storytelling",
+              "Only visual imagery, with no audio component",
+              "A format identical to television broadcasting",
+              "Audio-only storytelling techniques"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Magical realism blends realistic settings with ___.",
+            "options": [
+              "Only historical events with no fictional elements",
+              "Only purely factual, non-fictional content",
+              "Two completely unrelated fictional genres with no connection",
+              "Fantastical elements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the rhetorical triangle, \u201cpathos\u201d refers to an appeal to the audience's ___.",
+            "options": [
+              "Sense of logic and statistical evidence",
+              "Emotions",
+              "Perception of the speaker's credibility",
+              "Awareness of grammar and syntax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Wilfred Owen's \u201cDulce et Decorum Est\u201d primarily challenges the idea that ___.",
+            "options": [
+              "Dying for one's country is a sweet and honourable fate",
+              "War has no lasting psychological effects on soldiers",
+              "Poetry cannot effectively convey the horrors of war",
+              "Soldiers experience combat exactly as depicted in recruitment posters, with no contradiction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Statistics: Normal Distribution and Z-Scores; Functions: Rate of Change -- Average vs Instantaneous; Number Theory: Complex Numbers -- Further Operations; Geometry: Vectors -- Introduction to Magnitude and Direction; Functions: Transformations Across Function Families.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A z-score indicates how many ___ a data value is from the mean.",
+            "options": [
+              "A measurement unrelated to the mean",
+              "Standard deviations",
+              "Percentiles, with no connection to standard deviation",
+              "Simple units, with no connection to standard deviation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Average rate of change describes how a function changes ___.",
+            "options": [
+              "Over an interval",
+              "In a way unrelated to the function\u2019s values",
+              "At a single specific point only",
+              "With no connection to any interval"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Unlike average rate of change, instantaneous rate of change measures how a function is changing ___.",
+            "options": [
+              "Over a large interval spanning the entire domain",
+              "At one exact point",
+              "Only between the first and last data values",
+              "With no reference to the function's graph at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A vector differs from a scalar in that a vector has both ___.",
+            "options": [
+              "Magnitude and direction",
+              "Only magnitude, with no other property",
+              "Colour and shape",
+              "Only direction, with no defined size"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Human Health: Cardiovascular System and Disease Prevention; Microbiology: Fungi and Decomposition; Evolution: Genetic Drift and the Founder Effect; Animal Behaviour: Communication and Social Structures; Biotechnology: Cloning and Stem Cell Research.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "The cardiovascular system\u2019s primary role is to ___.",
+            "options": [
+              "Circulate blood throughout the body",
+              "Only produce new blood cells, with no circulatory function",
+              "Have no connection to bodily functions at all",
+              "A role entirely unrelated to blood or circulation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Fungi play a critical ecological role as ___.",
+            "options": [
+              "A category with no ecological function",
+              "Organisms unrelated to nutrient recycling",
+              "Producers exclusively, with no connection to decomposition",
+              "Decomposers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The founder effect occurs when ___.",
+            "options": [
+              "A small group establishes a new population with reduced genetic diversity compared to the original population",
+              "A population's gene pool remains perfectly identical to its ancestral population",
+              "Natural selection is completely absent from a population",
+              "A species migrates without any change to its allele frequencies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A key distinction of embryonic stem cells is that they are ___.",
+            "options": [
+              "Unable to differentiate into any other cell type",
+              "Pluripotent, capable of developing into many different cell types",
+              "Identical in function to fully differentiated skin cells",
+              "Found only in adult bone marrow"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemical Equilibrium: Calculating Equilibrium Constants; Organic Chemistry: Esters, Amides, and Biological Relevance; Analytical Chemistry: Spectroscopy and Identification; Solutions: Solubility Rules and Precipitation Reactions; Electrochemistry: Galvanic vs Electrolytic Cells.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "The equilibrium constant expresses the ratio of ___.",
+            "options": [
+              "The colour of products compared to reactants",
+              "A value unrelated to concentration",
+              "Only reactant mass, with no connection to products",
+              "Product to reactant concentrations at equilibrium"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Esters and amides are examples of organic ___.",
+            "options": [
+              "Elements found only on the periodic table",
+              "Functional groups",
+              "Purely inorganic compounds",
+              "A concept unrelated to organic chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Spectroscopy is used in analytical chemistry primarily to ___.",
+            "options": [
+              "Physically separate a mixture into pure components by filtration",
+              "Identify substances based on how they absorb or emit electromagnetic radiation",
+              "Measure a solution's pH using colour-changing indicators only",
+              "Determine a reaction's rate by timing colour changes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A precipitation reaction occurs when two aqueous solutions combine to form ___.",
+            "options": [
+              "A gas that bubbles out of solution",
+              "An insoluble solid product",
+              "A homogeneous solution with no solid formed",
+              "Only heat, with no new substance produced"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 48-51.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Oral Communication: The Elevator Pitch and Concise Persuasion; Literature: Unreliable Narrators; Writing: Crafting a Personal Philosophy Statement; Literature: The Anti-Hero in Contemporary Fiction.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An elevator pitch is designed to ___.",
+            "options": [
+              "A concept unrelated to communication",
+              "Provide an extremely detailed, lengthy explanation of a topic",
+              "Avoid making any clear or persuasive point",
+              "Quickly and persuasively communicate an idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An unreliable narrator is a storyteller whose ___ is compromised.",
+            "options": [
+              "Credibility",
+              "Name, with no connection to trustworthiness",
+              "Physical appearance",
+              "Age, with no connection to the accuracy of their account"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A personal philosophy statement primarily articulates a person's ___.",
+            "options": [
+              "Core values and guiding principles for living",
+              "Chronological life history with no reflection",
+              "A concept unrelated to self-reflection",
+              "Purely factual r\u00e9sum\u00e9 of accomplishments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An anti-hero in contemporary fiction is best characterized as a protagonist who ___.",
+            "options": [
+              "Always exhibits conventional heroic virtues without flaws",
+              "Lacks traditional heroic qualities such as morality or courage",
+              "Never appears as the central character of a story",
+              "A concept unrelated to characterization"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Probability: Expected Value and Decision Making; Review: Radicals, Statistics, and Vectors; Review: Complex Numbers, Probability, and Reaction Mechanisms; Functions: Solving Exponential and Logarithmic Equations Together.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "Expected value combines the probability and outcome of ___.",
+            "options": [
+              "Only the single most likely outcome, with no other results considered",
+              "Each possible result in a situation",
+              "A random, unrelated calculation with no connection to outcomes",
+              "A concept unrelated to probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A radical function contains a variable inside a ___.",
+            "options": [
+              "Root, such as a square root",
+              "A denominator only, with no connection to roots",
+              "An exponent only, with no root involved",
+              "A function unrelated to roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To solve an equation containing both exponential and logarithmic terms, a common first strategy is to ___.",
+            "options": [
+              "Graph only one side and ignore the other",
+              "Assume the variable equals zero",
+              "Rewrite all terms using a common base or apply logarithms to both sides",
+              "A step unrelated to solving equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A complex number is written in the form a + bi, where ___.",
+            "options": [
+              "a is unrelated to the number's real part",
+              "i is a concept unrelated to complex numbers",
+              "a and b must always both equal zero",
+              "b represents the coefficient of the imaginary unit i"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Physiology: The Respiratory System and Gas Exchange; Conservation: Invasive Species and Ecosystem Disruption; Review: Genetics, Behaviour, and Human Physiology; Biology: The Lymphatic System \u2014 Fluid Balance and Circulation.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "The respiratory system enables gas exchange by bringing in ___ and removing carbon dioxide.",
+            "options": [
+              "Only nitrogen, with no connection to oxygen",
+              "A gas entirely unrelated to respiration",
+              "Water vapour exclusively, with no other gases involved",
+              "Oxygen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An invasive species is best described as ___.",
+            "options": [
+              "A species with no ability to affect its environment",
+              "A non-native organism that spreads rapidly in a new environment",
+              "A concept entirely unrelated to ecology",
+              "A native organism that has always existed in a particular ecosystem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A primary function of the lymphatic system is to ___.",
+            "options": [
+              "Return excess interstitial fluid to the bloodstream and support immune defense",
+              "Pump blood directly through the four chambers of the heart",
+              "Produce hormones exclusively for growth regulation",
+              "A function unrelated to fluid balance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Innate behaviours, unlike learned behaviours, are best described as ___.",
+            "options": [
+              "Acquired entirely through practice and environmental exposure",
+              "Genetically programmed and present without prior experience",
+              "Impossible to observe in animal populations",
+              "A concept unrelated to behavioural biology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Reaction Mechanisms and Rate-Determining Steps; Industrial Chemistry: Minimizing Waste and Environmental Impact; Review: Intermolecular Forces, Equilibrium, and Organic Chemistry; Chemistry: Nomenclature of Inorganic Compounds.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "A reaction mechanism describes a chemical reaction as occurring through ___.",
+            "options": [
+              "A single, instantaneous step with no intermediate stages",
+              "No defined steps of any kind",
+              "A series of smaller steps",
+              "A process entirely unrelated to chemical reactions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Industrial chemistry involves designing processes that minimize ___.",
+            "options": [
+              "The overall usefulness of the final chemical product",
+              "A factor entirely unrelated to chemical production",
+              "The efficiency of a chemical process",
+              "Waste, energy use, and environmental impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a multi-step reaction mechanism, the rate-determining step is the step that ___.",
+            "options": [
+              "Occurs fastest and has no effect on overall rate",
+              "Always occurs last in the mechanism",
+              "Is slowest and determines the overall rate of the reaction",
+              "A step unrelated to reaction kinetics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In naming the inorganic compound FeCl3, the Roman numeral (III) indicates ___.",
+            "options": [
+              "The number of chlorine atoms in the compound",
+              "The total molar mass of the compound",
+              "A value unrelated to the compound's composition",
+              "The oxidation state (charge) of the iron ion"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 52-55.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Braided Essay \u2014 Weaving Multiple Narrative Threads; Grammar: Nominalization and Academic Register; Reading: Analyzing Frame Narratives; Media Literacy: Analyzing Algorithmic Bias in Media Platforms.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "A braided essay interweaves ___.",
+            "options": [
+              "Two or more distinct narrative threads or topics",
+              "A concept unrelated to essay structure",
+              "Only a single, uninterrupted narrative thread",
+              "A strictly chronological retelling of one event only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nominalization is the process of turning a verb or adjective into a ___.",
+            "options": [
+              "Noun",
+              "A concept unrelated to grammar",
+              "Conjunction",
+              "Adverb, with no connection to nouns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A frame narrative is a literary structure in which ___.",
+            "options": [
+              "A story is presented within the context of another, enclosing story",
+              "A story is unrelated to any narrative structure",
+              "Only one narrator speaks with no embedded stories",
+              "Events are told in strict chronological order with no framing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Algorithmic bias in media platforms most directly refers to ___.",
+            "options": [
+              "A neutral, unbiased distribution of content to all users equally",
+              "Content recommendation systems that systematically favor or suppress certain content",
+              "A concept unrelated to media technology",
+              "The random selection of content with no underlying pattern"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Rational Inequalities; Trigonometry: Applications of the Sine and Cosine Laws in 3D; Functions: Composite and Inverse Trigonometric Relationships; Introduction to Graphing Quadratic Functions.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A rational inequality involves an expression with a variable in the ___.",
+            "options": [
+              "A concept unrelated to rational inequalities",
+              "Exponent only, with no connection to a denominator",
+              "Numerator only, with no connection to fractions",
+              "Denominator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The sine law and cosine law are used to solve triangles that ___.",
+            "options": [
+              "Do not necessarily contain a right angle",
+              "A concept unrelated to solving triangles",
+              "Have no defined angles or sides at all",
+              "Must always contain a right angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For a function f and its inverse f\u207b\u00b9 to both be functions when working with trigonometric relationships, the domain of the original trig function typically must be ___.",
+            "options": [
+              "Left entirely unrestricted",
+              "Expanded to include all real numbers",
+              "Restricted so the function passes the horizontal line test",
+              "A concept unrelated to inverse functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The vertex of a quadratic function represents ___.",
+            "options": [
+              "The y-intercept of the function in every case",
+              "A point unrelated to the function's graph",
+              "The x-intercept closest to the origin",
+              "The maximum or minimum point of the parabola"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Osmosis and Cell Transport Mechanisms; Biology: Circadian Rhythms and Biological Clocks; Biology: Sensory Systems \u2014 Vision and the Eye; Biology: The Integumentary System \u2014 Skin as an Organ.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Osmosis specifically describes the movement of ___ across a selectively permeable membrane.",
+            "options": [
+              "Only large proteins, with no connection to water",
+              "A concept unrelated to cell transport",
+              "Solid particles exclusively, with no connection to fluid movement",
+              "Water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A circadian rhythm is best described as an internal biological cycle that repeats roughly every ___.",
+            "options": [
+              "24 minutes",
+              "24 hours",
+              "A time period unrelated to circadian rhythms",
+              "24 days"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Light entering the eye is focused onto the retina primarily by the ___.",
+            "options": [
+              "Cornea and lens",
+              "Eardrum and cochlea",
+              "Structure unrelated to vision",
+              "Olfactory epithelium"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The integumentary system is classified as an organ primarily because the skin ___.",
+            "options": [
+              "Is composed of a single tissue type with one isolated function",
+              "Consists of multiple tissue types working together to perform functions such as protection and thermoregulation",
+              "Has no role in maintaining homeostasis",
+              "A concept unrelated to organ classification"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Alloys and Metallic Bonding; Chemistry: Chromatography \u2014 Principles and Applications; Chemistry: Crystal Structures and Lattice Types; Chemistry: Organic Chemistry \u2014 Amines and Nitrogen-Containing Compounds.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Metallic bonding is best described as a lattice of positive metal ions surrounded by ___.",
+            "options": [
+              "No electrons of any kind",
+              "A \u201csea\u201d of delocalized electrons",
+              "A concept unrelated to metallic bonding",
+              "A rigid, fixed set of shared electron pairs only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chromatography separates the components of a mixture based on ___.",
+            "options": [
+              "A concept unrelated to separating mixtures",
+              "How differently each component travels through a stationary phase",
+              "The colour of the mixture alone, with no other factor considered",
+              "The temperature of the mixture exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an ionic crystal lattice, the arrangement of ions is best described as ___.",
+            "options": [
+              "A random, disordered scattering of ions with no pattern",
+              "A structure unrelated to ionic bonding",
+              "A repeating, ordered three-dimensional pattern of alternating charges",
+              "A single layer of ions with no depth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Amines are organic compounds characterized by the presence of a functional group containing ___.",
+            "options": [
+              "A carbon-oxygen double bond exclusively",
+              "No heteroatoms of any kind",
+              "A concept unrelated to organic functional groups",
+              "A nitrogen atom bonded to one or more carbon or hydrogen atoms"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 56-60.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: Understanding Comics \u2014 Visual Language and Sequential Art; Writing: The Rhetorical Analysis of a Historical Speech; Oral Communication: The Art of Active Listening; Reading: Analyzing Tone Shifts Across a Text; Review: Anti-Heroes, Braided Essays, and Rhetorical Analysis.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Comics create meaning through ___ \u2014 a sequence of images placed in deliberate order.",
+            "options": [
+              "Sequential art",
+              "Random noise",
+              "A single static image",
+              "Only spoken dialogue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rhetorical analysis of a historical speech examines how a speaker used ___.",
+            "options": [
+              "Specific persuasive techniques and appeals to influence an audience",
+              "Only the exact date the speech was delivered",
+              "A concept unrelated to rhetorical analysis",
+              "A completely random selection of unrelated words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Active listening as an oral communication skill primarily involves ___.",
+            "options": [
+              "Fully concentrating on, interpreting, and responding thoughtfully to a speaker",
+              "Planning your own response while the speaker is still talking",
+              "Remaining silent without any engagement",
+              "A concept unrelated to communication skills"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A shift in tone across a text most often signals a change in ___.",
+            "options": [
+              "The font or formatting of the physical page only",
+              "The author's or narrator's attitude toward the subject",
+              "The total word count of the passage",
+              "A concept unrelated to reading comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Solving Radical Equations and Extraneous Roots; Statistics: Sampling Methods and Bias; Functions: Solving Systems of Linear-Quadratic Equations; Functions: Symmetry \u2014 Even, Odd, and Neither; Review: Equations, Trigonometry, and Discrete Mathematics.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "Solving a radical equation typically involves isolating the radical and then ___.",
+            "options": [
+              "Dividing both sides by the radical term itself",
+              "Squaring both sides of the equation",
+              "A step unrelated to solving radical equations",
+              "Adding the same value to both sides with no other steps"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A sample is best described as ___.",
+            "options": [
+              "A subset of a population selected for study",
+              "The entire population being studied, with no subset involved",
+              "A concept unrelated to statistics",
+              "A value calculated only after all data has been collected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A system of one linear and one quadratic equation can have a maximum of ___ points of intersection.",
+            "options": [
+              "Zero",
+              "One",
+              "Two",
+              "Four"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A function is classified as even if ___.",
+            "options": [
+              "f(-x) = -f(x) for all x in the domain",
+              "The function has no symmetry of any kind",
+              "The function is undefined for negative values of x",
+              "f(-x) = f(x) for all x in the domain"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Antibiotic Resistance and Microbial Evolution; Biology: Animal Reproduction \u2014 Strategies and Adaptations; Bird Migration: A Perilous Journey; Biology: The History of Evolutionary Theory (Darwin and Wallace); Review: Systems, Senses, and Evolutionary History.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Antibiotic resistance develops when bacteria ___.",
+            "options": [
+              "Undergo mutations or exchange genetic material that allow them to survive antibiotic exposure",
+              "Are completely destroyed by every antibiotic with no exceptions",
+              "Lose all ability to reproduce after antibiotic exposure",
+              "A concept unrelated to bacterial survival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A reproductive strategy involving many offspring with relatively little parental care is often associated with species that ___.",
+            "options": [
+              "A concept unrelated to reproductive strategies",
+              "Produce exactly one offspring at a time with no exceptions",
+              "Face high offspring mortality in their environment",
+              "Always provide extensive parental care to every offspring"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Bird migration is best explained as an adaptive behaviour primarily driven by ___.",
+            "options": [
+              "Seasonal changes in resource availability and breeding conditions",
+              "A random, non-adaptive impulse with no survival benefit",
+              "A behaviour unrelated to natural selection",
+              "The need to avoid all contact with other bird species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Charles Darwin and Alfred Russel Wallace independently proposed that evolution occurs primarily through the mechanism of ___.",
+            "options": [
+              "The inheritance of acquired characteristics alone",
+              "Natural selection acting on heritable variation",
+              "A mechanism unrelated to species change",
+              "The spontaneous generation of new species"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Colloids, Emulsions, and Suspensions; Chemistry: Electroplating and Corrosion Prevention; Chemistry: Mass Spectrometry and Molecular Identification; Chemistry: Water Chemistry and Hardness; Review: Bonding, Separation, and Applied Chemistry.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Unlike a true solution, a suspension contains particles that ___.",
+            "options": [
+              "A concept unrelated to suspensions",
+              "Cannot be seen or detected under any circumstances",
+              "Are large enough to eventually settle out of the mixture",
+              "Are fully dissolved and never settle out"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Electroplating uses an electrolytic cell to ___.",
+            "options": [
+              "Melt an object completely with no coating applied",
+              "Coat an object with a thin layer of metal",
+              "Remove all metal coatings from an object",
+              "A concept unrelated to electroplating"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mass spectrometry identifies molecules by measuring the ___ of their ionized fragments.",
+            "options": [
+              "Colour intensity",
+              "Melting point",
+              "Mass-to-charge ratio",
+              "A property unrelated to molecular identification"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Water hardness is primarily caused by dissolved ___ ions in the water supply.",
+            "options": [
+              "Sodium and potassium",
+              "Chlorine and fluorine",
+              "Ions unrelated to water composition",
+              "Calcium and magnesium"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 61-65.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: The Epistolary Novel; Writing: The Persuasive Editorial; Media Literacy: Analyzing News Bias and Fact-Checking; Oral Communication: Debate Rebuttal and Cross-Examination; Writing: The Character Study Essay.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "An epistolary novel tells its story primarily through ___.",
+            "options": [
+              "A single omniscient narrator describing events from outside the story",
+              "A concept unrelated to novel structure",
+              "Documents such as letters, diary entries, or emails",
+              "A series of stage directions with no narration at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An editorial is best described as a piece of writing that ___.",
+            "options": [
+              "Reports events with no viewpoint expressed",
+              "Takes a clear stance on an issue and argues for it",
+              "Is always written anonymously by a single unnamed reader",
+              "Contains only statistics with no argument"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a formal debate, a rebuttal is used to ___.",
+            "options": [
+              "Directly counter and weaken the claims made by the opposing side",
+              "Introduce entirely new evidence unrelated to the opponent's argument",
+              "Restate one's own opening argument verbatim",
+              "A concept unrelated to debate structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A character study essay primarily focuses on analyzing a character's ___.",
+            "options": [
+              "Physical setting with no attention to the character themselves",
+              "Motivations, development, and psychological complexity",
+              "A concept unrelated to literary analysis",
+              "Publication date and printing history"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Introduction to Permutations and Combinations; Introduction to Exponential Growth; Trigonometry: The Ambiguous Case of the Sine Law; Statistics: Measures of Central Tendency and Spread; Functions: Optimization Problems Using Quadratic Models.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A permutation counts arrangements where ___.",
+            "options": [
+              "Order matters",
+              "No arrangement is being counted",
+              "Only one arrangement is possible",
+              "Order never matters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Exponential growth occurs when a quantity increases by ___.",
+            "options": [
+              "A fixed amount added each time period",
+              "A consistent percentage or factor over equal time periods",
+              "Nothing at all, since the quantity never changes",
+              "A completely random amount each time period"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The ambiguous case of the sine law arises when solving a triangle given two sides and ___.",
+            "options": [
+              "The included angle between them",
+              "All three sides with no angles given",
+              "A non-included (opposite) angle, which can yield zero, one, or two possible triangles",
+              "A case unrelated to triangle solving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In an optimization problem modeled by a quadratic function, the optimal value corresponds to ___.",
+            "options": [
+              "The y-intercept of the function only",
+              "Any arbitrary point on the curve",
+              "A value unrelated to the function's graph",
+              "The vertex of the parabola"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Genetics: Sex-Linked Inheritance and Pedigree Analysis; Genetics: Population Genetics and the Hardy-Weinberg Principle; Biology: Comparative Anatomy and Homologous Structures; Biology: Extremophiles and the Limits of Life; Plant Biology: Pollination Strategies and Coevolution with Pollinators.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "A sex-linked trait is carried on ___.",
+            "options": [
+              "A structure found only in plant cells",
+              "The X or Y chromosome",
+              "A concept unrelated to inheritance",
+              "An autosome that is unrelated to sex chromosomes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Population genetics primarily studies how ___ change within a population over time.",
+            "options": [
+              "The physical location of a population exclusively",
+              "The exact number of species present, with no connection to alleles",
+              "A concept unrelated to genetics",
+              "Allele frequencies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Homologous structures, such as the forelimbs of whales and bats, provide evidence for evolution because they share ___.",
+            "options": [
+              "A common underlying structure inherited from a shared ancestor, despite different functions",
+              "Identical current-day functions with no structural connection",
+              "No anatomical similarity whatsoever",
+              "A concept unrelated to comparative anatomy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Coevolution between flowering plants and their pollinators is best illustrated when ___.",
+            "options": [
+              "Plants and pollinators evolve in complete isolation from one another",
+              "A flower's shape and a pollinator's feeding structures evolve together in response to each other",
+              "Pollinators evolve while plant traits remain entirely static",
+              "A concept unrelated to evolutionary biology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Periodic Table \u2014 Trends in Atomic Properties; Chemistry: Empirical and Molecular Formula Determination; Chemistry: Colorimetry and Beer\u2019s Law; Chemistry: Acid Rain and Atmospheric Chemistry; Chemistry: Photochemistry and Light-Induced Reactions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Atomic radius generally ___ across a period from left to right.",
+            "options": [
+              "Increases, with no connection to nuclear charge",
+              "Decreases",
+              "A pattern unrelated to atomic structure",
+              "Stays exactly the same in every case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An empirical formula shows ___.",
+            "options": [
+              "The simplest whole-number ratio of atoms in a compound",
+              "Only the mass of a compound, with no connection to atoms",
+              "A concept unrelated to chemical formulas",
+              "The exact, actual number of every atom in a compound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Beer's Law, the absorbance of a solution is directly proportional to its ___.",
+            "options": [
+              "Temperature alone, with no connection to concentration",
+              "Colour name, with no quantitative relationship",
+              "Concentration and the path length of light through the solution",
+              "A factor unrelated to light absorption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Acid rain forms primarily when sulfur dioxide and nitrogen oxides react with atmospheric ___.",
+            "options": [
+              "Oxygen alone, with no connection to acid formation",
+              "Nitrogen gas exclusively, with no water involved",
+              "A component unrelated to atmospheric chemistry",
+              "Water vapour to form sulfuric and nitric acids"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 66-69.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Grammar: Cohesion and Coherence in Extended Writing; Literature: The Confessional Poem; Writing: The Elegy and Commemorative Writing; Independent Reading: Postmodern Fiction and Fragmented Narrative.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Cohesion in writing refers to how sentences and paragraphs are ___.",
+            "options": [
+              "Numbered in sequential order, with no connection to language",
+              "Grammatically and lexically linked, using devices like transitions and pronouns",
+              "A concept unrelated to writing structure",
+              "Printed on the page, with no connection to meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A confessional poem draws directly on the poet\u2019s own ___.",
+            "options": [
+              "Purely factual, historical events with no personal connection",
+              "A concept unrelated to poetry",
+              "Personal, often intimate or painful experiences",
+              "Entirely invented experiences with no connection to the poet\u2019s own life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An elegy is best characterized as a poem that ___.",
+            "options": [
+              "A humorous poem written to celebrate a joyful occasion",
+              "A strict fourteen-line poem written in iambic pentameter",
+              "Offers serious reflection, typically mourning or commemorating the dead",
+              "Has no fixed subject matter or emotional tone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Fragmented narrative in postmodern fiction is characterized by ___.",
+            "options": [
+              "A disrupted, non-linear structure that resists a single continuous storyline",
+              "A strictly chronological structure with no gaps or digressions",
+              "A concept unrelated to narrative structure",
+              "A single unbroken scene told in real time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Solving Equations Graphically versus Algebraically; Functions: Systems of Three Linear Equations; Number Theory: The Real Number System; Quadratic Relations: Introduction to Conic Sections (Circles).",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "Solving an equation graphically typically involves finding where a graph ___.",
+            "options": [
+              "Reaches its exact maximum height, with no connection to solving equations",
+              "Crosses the x-axis or intersects another graph",
+              "A concept unrelated to solving equations",
+              "Changes colour, with no connection to its shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A system of three linear equations in three variables has a solution that represents ___.",
+            "options": [
+              "The exact midpoint between any two of the three equations",
+              "The area enclosed by all three equations combined",
+              "A concept unrelated to systems of equations",
+              "The single point where all three planes intersect, if one exists"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An advantage of solving an equation algebraically rather than graphically is that it ___.",
+            "options": [
+              "Always requires sketching an accurate graph first",
+              "Can produce an exact solution rather than a visual estimate",
+              "A concept unrelated to solving equations",
+              "Only works when the equation has no real solutions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The standard form equation of a circle with centre (h, k) and radius r is ___.",
+            "options": [
+              "(x - h) + (y - k) = r",
+              "y = mx + b, with no connection to circles",
+              "(x - h)^2 + (y - k)^2 = r^2",
+              "x^2 + y^2 = r, with no connection to the centre"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biotechnology: Bioinformatics and DNA Sequencing; Biology: Animal Adaptations to Extreme Environments; Human Biology: The Brain \u2014 Structure and Higher Function; Ecology: Freshwater Ecosystems and Watershed Health.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Bioinformatics combines biology with ___.",
+            "options": [
+              "Computer science",
+              "Architecture, with no connection to biological data",
+              "Physical education, with no connection to biological data",
+              "A field entirely unrelated to analyzing biological data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An adaptation is best described as a trait that ___.",
+            "options": [
+              "Always harms an organism\u2019s chances of survival",
+              "Has no effect at all on an organism\u2019s survival or reproduction",
+              "A concept unrelated to evolutionary biology",
+              "Improves an organism\u2019s ability to survive and reproduce in its environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The prefrontal cortex is most closely associated with higher-order functions such as ___.",
+            "options": [
+              "Filtering sound frequency exclusively, with no connection to cognition",
+              "Regulating heart rate exclusively, with no connection to cognition",
+              "Decision-making, planning, and impulse control",
+              "A function unrelated to brain structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A watershed is best described as an area of land that ___.",
+            "options": [
+              "A concept unrelated to freshwater ecology",
+              "Drains all its precipitation and runoff into a common body of water",
+              "Never receives precipitation of any kind",
+              "Is defined solely by its elevation above sea level, with no connection to drainage"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Flame Tests and Atomic Emission; Chemistry: Soaps, Detergents, and Surfactant Chemistry; Chemistry: Food Chemistry and the Maillard Reaction; Chemistry: Phase Diagrams and Sublimation.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "A flame test identifies certain metal ions based on the ___ they produce when heated.",
+            "options": [
+              "A property unrelated to flame tests",
+              "Boiling point, with no connection to colour",
+              "Characteristic colour",
+              "Exact mass, with no connection to colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A surfactant molecule, such as one found in soap, has a structure with ___.",
+            "options": [
+              "Two identical water-repelling ends, with no water-attracting portion",
+              "A water-attracting head and a water-repelling, fat-attracting tail",
+              "Two identical water-attracting ends, with no water-repelling portion",
+              "A concept unrelated to surfactant chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Maillard reaction is best described as a chemical reaction between ___ that produces browning and new flavour compounds when food is heated.",
+            "options": [
+              "Reducing sugars and amino acids",
+              "Two fats, with no connection to browning",
+              "Water and carbon dioxide exclusively",
+              "A pair of substances unrelated to food chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sublimation refers to a phase change in which a substance transitions directly from ___.",
+            "options": [
+              "Liquid to gas, passing briefly through a solid phase",
+              "A phase change unrelated to phase diagrams",
+              "Solid to gas without passing through the liquid phase",
+              "Gas to solid, releasing no energy whatsoever"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 70-73.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Review: Epistolary Novels, Manifestos, and Fragmented Narrative; Literature: Absurdist Fiction and the Theatre of the Absurd; Poetry: The Dramatic Monologue \u2014 Voice and Persona; Media Literacy: Data Visualization and Statistical Rhetoric in Reporting.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Absurdist literature is most closely associated with which philosophical movement?",
+            "options": [
+              "Existentialism",
+              "Romanticism",
+              "Transcendentalism",
+              "Rationalism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Absurdist literature typically portrays a universe that ___.",
+            "options": [
+              "A concept unrelated to literary movements",
+              "Always resolves every conflict with a clear, satisfying moral",
+              "Resists rational explanation or meaning",
+              "Follows a strictly logical and orderly plot at every turn"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a dramatic monologue, a speaker's character and situation are revealed primarily through ___.",
+            "options": [
+              "The speaker's own words, spoken to a silent listener",
+              "A concept unrelated to poetic form",
+              "An omniscient narrator's direct commentary",
+              "Stage directions describing the speaker's actions only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A data visualization in a news report can mislead its audience when it ___.",
+            "options": [
+              "Uses a fully labeled, zero-based axis with no distortion",
+              "A technique unrelated to statistical rhetoric",
+              "Cites its data source transparently",
+              "Truncates its axis to exaggerate the apparent size of a difference"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Review: Discrete Math, Trigonometry, and Number Systems; Simplifying Rational Expressions; Introduction to Modular Arithmetic; Introduction to the Quadratic Formula.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A set is best described as ___.",
+            "options": [
+              "A well-defined collection of distinct objects",
+              "A concept unrelated to discrete mathematics",
+              "A single object with no connection to a collection",
+              "A collection that may repeat the same object many times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rational expression is best described as ___.",
+            "options": [
+              "A fraction with polynomials in the numerator and denominator",
+              "A whole number with no fractions involved",
+              "An expression with no variables at all",
+              "A fraction that can never be simplified"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two integers are said to be congruent modulo n if they ___.",
+            "options": [
+              "Are always equal to each other",
+              "Leave the same remainder when divided by n",
+              "A concept unrelated to modular arithmetic",
+              "Are both divisible by n with no remainder considered"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The quadratic formula is used to solve equations written in the standard form ___.",
+            "options": [
+              "y = mx + b",
+              "ax^2 + bx + c = 0, where a is not zero",
+              "A form unrelated to quadratic equations",
+              "ax + b = 0"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Review: Genetics, Anatomy, and Ecosystems; Biochemistry: Enzyme Structure, Function, and Inhibition; Molecular Biology: DNA Replication, Transcription, and Translation; Taxonomy: Binomial Nomenclature and the Three-Domain System.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "During DNA replication, which enzyme is primarily responsible for unwinding the double helix at the replication fork?",
+            "options": [
+              "DNA polymerase",
+              "Helicase",
+              "Ligase",
+              "RNA primase"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An enzyme is best described as a protein that functions as a ___.",
+            "options": [
+              "Source of long-term energy storage exclusively",
+              "Catalyst that speeds up a chemical reaction",
+              "A concept unrelated to biochemistry",
+              "Structural fibre with no chemical role at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A competitive enzyme inhibitor reduces the rate of a reaction by ___.",
+            "options": [
+              "Increasing the enzyme's affinity for its substrate",
+              "A mechanism unrelated to enzyme inhibition",
+              "Binding to the enzyme's active site and blocking the substrate from binding",
+              "Permanently destroying the enzyme's tertiary structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In binomial nomenclature, an organism's scientific name is composed of its ___.",
+            "options": [
+              "Genus and species",
+              "A naming system unrelated to taxonomy",
+              "Kingdom and phylum",
+              "Common name and habitat"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Review: Atomic Trends, Analytical Techniques, and Applied Chemistry; Stoichiometry: Hydrates and Water of Crystallization; Gas Laws: The Ideal Gas Law and Molar Volume; Organic Chemistry: Aromatic Compounds and Benzene Derivatives.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "In the Ideal Gas Law, PV = nRT, what does the constant R represent?",
+            "options": [
+              "The number of moles of gas",
+              "The universal gas constant",
+              "The absolute temperature",
+              "The volume of the container"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A hydrate is best described as an ionic compound that incorporates a fixed number of ___ within its crystal structure.",
+            "options": [
+              "A component unrelated to hydrate compounds",
+              "Water molecules",
+              "Carbon atoms exclusively",
+              "Oxygen atoms exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Ideal Gas Law, PV = nRT, relates a gas's pressure and volume to its ___.",
+            "options": [
+              "Colour and odour, with no connection to gas behaviour",
+              "Number of moles and absolute temperature",
+              "A pair of quantities unrelated to gas behaviour",
+              "Molar mass exclusively, with no connection to temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Benzene's molecular structure is characterized by ___.",
+            "options": [
+              "A single carbon atom bonded to six hydrogen atoms",
+              "A straight chain of six carbon atoms with no ring",
+              "A structure unrelated to aromatic compounds",
+              "A six-membered ring of carbon atoms with delocalized pi electrons"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 74-77.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Independent Reading: Literary Journalism and Creative Non-Fiction; Oral Communication: The Art of the Anecdote in Storytelling; Grammar: The Semicolon, Colon, and Sentence-Combining for Sophistication; Literature: Historical Fiction and the Ethics of Fictionalizing the Past.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "Literary journalism applies techniques usually associated with fiction, such as ___, to factual reporting.",
+            "options": [
+              "Purely statistical data presented with no narrative element at all",
+              "Scene-setting, dialogue, and a developed narrative voice",
+              "A complete disregard for factual accuracy",
+              "A concept unrelated to non-fiction writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An anecdote is best described as a short, focused account of a real or realistic incident used to ___.",
+            "options": [
+              "Illustrate a larger point within a speech or conversation",
+              "A concept unrelated to oral communication",
+              "Distract an audience from the speaker\u2019s actual message",
+              "Replace the need for any other form of evidence entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A semicolon is most appropriately used to ___.",
+            "options": [
+              "Join two closely related independent clauses without a coordinating conjunction",
+              "A punctuation mark unrelated to sentence combining",
+              "End a sentence in place of a period",
+              "Introduce a list that follows a complete sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A central ethical challenge for writers of historical fiction is ___.",
+            "options": [
+              "Avoiding any reference to real historical events",
+              "A challenge unrelated to historical fiction",
+              "Balancing factual accuracy against the demands of narrative invention",
+              "Ensuring the story contains no invented characters whatsoever"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Introduction to Cubic Functions; Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions; Statistics: Box-and-Whisker Plots and Outlier Detection; Functions: Rational Functions \u2014 Point Discontinuities and Domain Restrictions.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A cubic function includes a variable raised to the power of ___.",
+            "options": [
+              "One",
+              "Zero",
+              "Two",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A sinusoidal function is well suited to modelling a real-world phenomenon that ___.",
+            "options": [
+              "Increases without ever repeating or levelling off",
+              "A concept unrelated to modelling periodic behaviour",
+              "Repeats in a regular, predictable cycle",
+              "Changes in a completely random, unpredictable way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a box-and-whisker plot, a data point is typically flagged as an outlier when it falls ___.",
+            "options": [
+              "A distance unrelated to the interquartile range",
+              "Exactly on the median line",
+              "More than 1.5 times the interquartile range beyond Q1 or Q3",
+              "Within the box itself, between Q1 and Q3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A point discontinuity in a rational function occurs when ___.",
+            "options": [
+              "A concept unrelated to rational functions",
+              "A common factor cancels from both the numerator and denominator",
+              "The denominator is a constant with no variable",
+              "The numerator and denominator share no common factors"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Ecology: Keystone Species and Trophic Cascades; Human Health: Blood Glucose Regulation and Diabetes; Ecology: Marine Ecosystems and Ocean Zonation; Human Biology: The Stress Response and the HPA Axis.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "A keystone species is best described as a species that has ___.",
+            "options": [
+              "No measurable effect on its ecosystem whatsoever",
+              "An effect on its ecosystem that is always exactly proportional to its abundance",
+              "A concept unrelated to ecology",
+              "A disproportionately large effect on its ecosystem relative to its abundance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Blood glucose levels are regulated primarily through a negative feedback system involving the hormones insulin and ___.",
+            "options": [
+              "Melatonin, with no connection to glucose regulation",
+              "Adrenaline exclusively, with no connection to glucose regulation",
+              "A hormone unrelated to blood glucose regulation",
+              "Glucagon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ocean zonation divides the marine environment into distinct layers based primarily on ___.",
+            "options": [
+              "The colour of the surrounding rock",
+              "A factor unrelated to marine ecology",
+              "Depth and the amount of light penetration",
+              "The exact salinity measured at the equator only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The HPA axis regulates the body's stress response through a hormonal pathway involving the hypothalamus, pituitary gland, and ___.",
+            "options": [
+              "Adrenal glands",
+              "A gland unrelated to the stress response",
+              "Thyroid gland exclusively",
+              "Pancreas exclusively"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Nuclear Chemistry: Fission, Fusion, and Nuclear Power; Acids and Bases: Weak Acid and Base Equilibria (Ka and Kb); Chemistry: The Activity Series of Metals and Single-Displacement Reactions; Chemistry: Solubility Product Constant (Ksp) and Precipitation Predictions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Nuclear fission is best described as a process in which a heavy atomic nucleus ___.",
+            "options": [
+              "A process unrelated to nuclear chemistry",
+              "Combines with another nucleus to form a single heavier nucleus",
+              "Remains completely unchanged while releasing energy",
+              "Splits into smaller nuclei, releasing energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Unlike a strong acid, a weak acid in water ___.",
+            "options": [
+              "Ionizes completely, leaving no un-ionized acid remaining",
+              "Only partially ionizes, establishing an equilibrium",
+              "Never ionizes at all under any circumstances",
+              "A behaviour unrelated to acid strength"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The activity series of metals is used to predict whether ___.",
+            "options": [
+              "A single-displacement reaction between a metal and a compound will occur spontaneously",
+              "A concept unrelated to metal reactivity",
+              "A metal will always dissolve in pure water",
+              "Two nonmetals will form a covalent bond"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The solubility product constant, Ksp, helps predict whether a precipitate will form by comparing it to ___.",
+            "options": [
+              "A value unrelated to solubility",
+              "The pH of the solution exclusively",
+              "The reaction quotient, Q, calculated from current ion concentrations",
+              "The boiling point of the solvent"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 78-82.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Definition Essay \u2014 Arguing What a Word Really Means; Writing: The Literary Analysis Thesis and Outline; Review: Absurdism, Monologue, Media Rhetoric, and Framing Devices; Reading: Analyzing Epistolary Narratives; Writing: The Eulogy and Occasional Speech.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "A definition essay goes beyond a dictionary entry to argue for ___.",
+            "options": [
+              "A shorter, simpler definition than any dictionary would provide",
+              "A concept unrelated to essay writing",
+              "A fuller, more nuanced understanding of a complex or abstract term",
+              "A definition that deliberately ignores all context or examples"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A literary analysis thesis should present ___.",
+            "options": [
+              "A list of random facts with no central claim",
+              "A concept unrelated to literary analysis",
+              "A simple summary of the text\u2019s plot",
+              "A specific, arguable claim about a text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A framing device in narrative fiction is best described as ___.",
+            "options": [
+              "A structure unrelated to narrative technique",
+              "A story or narrative structure that encloses and contextualizes the main narrative",
+              "A single unbroken scene with no narrator",
+              "A footnote with no connection to the plot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A eulogy, as a form of occasional speech, is primarily intended to ___.",
+            "options": [
+              "A purpose unrelated to occasional speeches",
+              "Persuade an audience to adopt a specific policy position",
+              "Honour and reflect on the life of someone who has died",
+              "Entertain an audience with unrelated humour"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Exponential Functions: The Number e and Continuous Growth; Financial Mathematics: Mortgages and Amortization Schedules; Review: Conics, Discrete Math, Trigonometric Modelling, and Financial Math; Functions: Logarithmic Scales \u2014 pH, Richter, and Decibels; Discrete Math: Recursive Sequences and the Fibonacci Sequence.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "The number e is an irrational constant approximately equal to ___.",
+            "options": [
+              "1.618",
+              "2.718",
+              "A value unrelated to exponential functions",
+              "3.14159"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A mortgage is best described as a long-term loan repaid through ___.",
+            "options": [
+              "Payments that never include any portion applied to interest",
+              "Regular fixed payments over an extended period",
+              "A concept unrelated to financial mathematics",
+              "A single lump-sum payment made immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On the logarithmic Richter scale for earthquake magnitude, each whole-number increase represents ___.",
+            "options": [
+              "No real change in amplitude",
+              "A tenfold increase in wave amplitude",
+              "A scale unrelated to logarithms",
+              "A doubling of wave amplitude"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a recursive sequence such as the Fibonacci sequence, each term after the initial terms is defined ___.",
+            "options": [
+              "A concept unrelated to sequences",
+              "By a fixed formula that ignores all previous terms",
+              "In terms of one or more of the preceding terms",
+              "Independently, with no relationship to any other term"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Genetics: Mutations \u2014 Types and Effects on Protein Function; Ecology: Ecological Succession \u2014 Primary and Secondary; Review: Biochemistry, Molecular Biology, Ecology, and Human Physiology; Biology: Photoperiodism and Plant Flowering Responses; Biology: The Skeletal System \u2014 Bone Structure and Remodelling.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "A mutation is best described as a change in a ___.",
+            "options": [
+              "Fully formed, folded protein exclusively",
+              "DNA sequence",
+              "A concept unrelated to genetics",
+              "Cell\u2019s overall physical size"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ecological succession describes the gradual, predictable change in a ___ over time.",
+            "options": [
+              "Individual cell within an organism",
+              "Community of organisms",
+              "Single, isolated organism",
+              "A concept unrelated to ecology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Photoperiodism refers to a plant's physiological response to ___.",
+            "options": [
+              "A stimulus unrelated to plant physiology",
+              "The relative length of day and night",
+              "The mineral content of the soil exclusively",
+              "Atmospheric pressure exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Bone remodelling is a continuous process in which ___.",
+            "options": [
+              "Osteoclasts break down old bone tissue while osteoblasts build new bone",
+              "Bone tissue is formed once and never changes again",
+              "A process unrelated to the skeletal system",
+              "Osteoblasts break down bone exclusively, with no rebuilding phase"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Organic Chemistry: Combustion Reactions and Fuel Chemistry; Chemistry: Ocean Acidification and Carbon Chemistry; Review: Hydrates, Gas Laws, Nuclear Chemistry, and Environmental Chemistry; Chemistry: Buffer Capacity and the Henderson-Hasselbalch Equation; Chemistry: Industrial Catalysis.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Combustion is best described as an exothermic reaction between a fuel and ___.",
+            "options": [
+              "A substance unrelated to combustion reactions",
+              "Hydrogen gas exclusively, with no connection to oxygen",
+              "Nitrogen gas exclusively",
+              "Oxygen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ocean acidification occurs when the ocean absorbs excess atmospheric ___.",
+            "options": [
+              "A substance unrelated to ocean chemistry",
+              "Oxygen gas exclusively, with no connection to acidification",
+              "Nitrogen gas exclusively",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A buffer solution resists significant changes in pH because it contains ___.",
+            "options": [
+              "A strong acid and a strong base in equal amounts",
+              "A weak acid (or base) together with its conjugate base (or acid)",
+              "Pure water with no dissolved solutes",
+              "A component unrelated to buffer chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In industrial catalysis, a catalyst increases a reaction's rate by ___.",
+            "options": [
+              "A mechanism unrelated to reaction kinetics",
+              "Increasing the concentration of reactants permanently",
+              "Lowering the activation energy required, without being consumed itself",
+              "Shifting the equilibrium position to favor products"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 83-85.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Media Literacy: Analyzing Deepfake Technology and Synthetic Media; Grammar: The Subjunctive Mood; Writing: The Rhetorical Analysis Essay.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does deepfake technology use to create fabricated media?",
+            "options": [
+              "Artificial intelligence",
+              "A concept unrelated to media literacy",
+              "Only traditional hand-drawn animation",
+              "A simple photo filter with no advanced technology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the subjunctive mood express?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Questions about the future only",
+              "Only simple statements of fact",
+              "Wishes, hypothetical situations, or demands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the primary focus of a rhetorical analysis essay?",
+            "options": [
+              "How effectively a text uses ethos, pathos, and logos to persuade its audience",
+              "The historical accuracy of the text's factual claims",
+              "A concept unrelated to writing",
+              "Only the grammar and spelling of the original text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which skill is essential to media literacy when evaluating a video that may be a deepfake?",
+            "options": [
+              "Trusting the video simply because it appears on a popular platform",
+              "Checking the original source and cross-referencing corroborating evidence",
+              "A concept unrelated to media literacy",
+              "Assuming all video content is unaltered by default"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Solving Absolute Value Equations and Inequalities; Trigonometry: Double-Angle and Half-Angle Formulas; Statistics: The Binomial Probability Distribution.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "When solving an absolute value equation, how many cases must typically be considered?",
+            "options": [
+              "Four separate cases",
+              "A concept unrelated to absolute value",
+              "Only one single case",
+              "Two, the positive and negative cases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do double-angle formulas allow trigonometric functions to be rewritten in terms of?",
+            "options": [
+              "Functions of double the original angle",
+              "A concept unrelated to trigonometry",
+              "Only the original angle itself with no transformation",
+              "Functions of an entirely unrelated angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The solution set for the inequality |x - 3| < 5 is ___.",
+            "options": [
+              "x < -2 or x > 8",
+              "x = -2 or x = 8",
+              "-2 < x < 8",
+              "x > 8 only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a binomial probability distribution, what does the parameter p represent?",
+            "options": [
+              "The number of trials",
+              "The probability of success on a single trial",
+              "A concept unrelated to statistics",
+              "The total number of possible outcomes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Symbiotic Relationships \u2014 Mutualism, Commensalism, Parasitism; Biology: Homeostasis and Negative Feedback Mechanisms; Biology: Vaccine Development and Herd Immunity.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What do symbiotic relationships describe?",
+            "options": [
+              "Random, one-time encounters between organisms",
+              "A concept unrelated to biology",
+              "Close, long-term interactions between different species",
+              "Only interactions between members of the exact same species"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary purpose of a negative feedback loop in the body?",
+            "options": [
+              "To speed up cell division",
+              "To return a variable to its set point after a deviation",
+              "To permanently change the body's set point",
+              "To amplify a change further away from the set point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a parasitic relationship, how does the parasite typically affect its host?",
+            "options": [
+              "It benefits while providing an equal benefit to the host",
+              "It benefits at the host's expense, often causing harm",
+              "A concept unrelated to biology",
+              "Neither organism is affected in any way"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is herd immunity?",
+            "options": [
+              "A concept unrelated to vaccines",
+              "Immunity gained only by individuals who are directly vaccinated",
+              "Indirect protection from infectious disease when a sufficient proportion of a population is immune",
+              "A phenomenon that only occurs in animal herds, not human populations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Radiometric Dating and Isotopes; Chemistry: Biodegradable Plastics and Green Materials; Chemistry: The Chemistry of Fireworks and Pyrotechnics.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does radiometric dating use to estimate the age of a material?",
+            "options": [
+              "The colour of the material\u2019s surface",
+              "The known decay rate of radioactive isotopes",
+              "A concept unrelated to chemistry",
+              "The material\u2019s exact weight in kilograms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are biodegradable plastics designed to do?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Dissolve instantly the moment they are made",
+              "Last forever without ever breaking down",
+              "Break down more readily in the environment than traditional plastics"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes isotopes of the same element from one another?",
+            "options": [
+              "The number of protons in the nucleus",
+              "The number of electrons in the outer shell",
+              "The number of neutrons in the nucleus",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In fireworks, the vivid colours produced are mainly caused by ___.",
+            "options": [
+              "Metal salts emitting characteristic wavelengths of light when heated",
+              "The speed at which the firework travels through the air",
+              "A concept unrelated to chemistry",
+              "The shape of the firework's outer shell"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 86-89.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Personal Essay of Place; Oral Communication: Facilitating a Socratic Seminar; Grammar: Correlative Conjunctions and Parallelism; Literature: The Verse Novel.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a personal essay of place explore?",
+            "options": [
+              "How a specific location has shaped the writer\u2019s identity or memories",
+              "A step-by-step travel itinerary with no reflection",
+              "A concept unrelated to writing",
+              "Only unrelated statistics about a city\u2019s population"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does facilitating a Socratic seminar involve?",
+            "options": [
+              "Grading participants silently with no interaction",
+              "Guiding open-ended discussion through thoughtful questioning",
+              "Reading a prepared lecture with no discussion at all",
+              "A concept unrelated to oral communication"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses parallel structure with the correlative conjunction pair \"not only...but also\"?",
+            "options": [
+              "She enjoys not only reading but also writing poetry.",
+              "She enjoys not only reading but also to write poetry.",
+              "A concept unrelated to grammar",
+              "She enjoys not only to read but also writing poetry."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a verse novel from a traditional prose novel?",
+            "options": [
+              "It contains no narrative or characters at all",
+              "It is always written entirely in rhyming couplets",
+              "It tells an extended narrative through poetic form rather than prose paragraphs",
+              "A concept unrelated to literature"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Rational Functions \u2014 Slant Asymptotes; Transformations of Functions (Vertical/Horizontal Shifts); Functions: Piecewise-Defined Function Modelling; Geometry: Vector Projections and the Cross Product.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "When does a rational function have a slant asymptote?",
+            "options": [
+              "A concept unrelated to rational functions",
+              "When the denominator\u2019s degree is always higher than the numerator\u2019s",
+              "When the numerator\u2019s degree is exactly one more than the denominator\u2019s degree",
+              "When the numerator and denominator have the exact same degree"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A vertical shift of a function\u2019s graph is represented by adding a constant ___.",
+            "options": [
+              "Inside the function\u2019s input only",
+              "By multiplying the entire function by zero",
+              "Outside the function, such as f(x) plus k",
+              "A change unrelated to the function\u2019s graph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A horizontal shift of a function's graph is achieved by ___.",
+            "options": [
+              "Adding a constant outside the function, such as f(x) + k",
+              "Replacing x with (x - h) inside the function",
+              "Multiplying the entire function by a constant",
+              "A concept unrelated to transformations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A piecewise-defined function is best described as a function that ___.",
+            "options": [
+              "Is undefined for all real numbers",
+              "Uses a single formula for every possible input",
+              "Is defined by different formulas over different intervals of its domain",
+              "A concept unrelated to functions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Coral Reef Ecosystems and Bleaching; Biology: The Human Microbiome; Biology: Genetic Counselling and Inherited Disease Risk; Biology: Biogeography and Continental Drift\u2019s Effect on Species Distribution.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "A concept unrelated to biology",
+              "Large boulders that fall from cliffs",
+              "Sand deposited by ocean currents",
+              "Colonies of coral organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the human microbiome consist of?",
+            "options": [
+              "A concept unrelated to biology",
+              "Trillions of bacteria and other microorganisms living in and on the body",
+              "A single type of bacteria found only in the stomach",
+              "Only harmful pathogens with no beneficial function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What primarily causes coral bleaching?",
+            "options": [
+              "Coral expelling the symbiotic algae living in their tissues due to stress such as elevated water temperature",
+              "Coral naturally losing colour with age regardless of environment",
+              "A concept unrelated to biology",
+              "Excess algae permanently darkening the coral's tissue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of genetic counselling?",
+            "options": [
+              "To perform surgery correcting inherited diseases",
+              "To help individuals understand and assess their risk of inherited genetic conditions",
+              "A concept unrelated to biology",
+              "To guarantee that a person's children will not inherit any disease"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: The Mole Concept and Molar Mass; Chemistry: Battery Chemistry and Energy Storage; Chemistry: Forensic Chemistry \u2014 Trace Evidence Analysis; Chemistry: The Chemistry of Cosmetics and Personal Care Products.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "A mole is a unit used to ___.",
+            "options": [
+              "Count extremely large numbers of particles, like atoms or molecules",
+              "Measure the volume of a solid object",
+              "Measure temperature",
+              "Count the number of chemical elements only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of energy do batteries store?",
+            "options": [
+              "Chemical energy",
+              "Only light energy",
+              "A concept unrelated to batteries",
+              "Only sound energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Molar mass is defined as the mass of ___.",
+            "options": [
+              "A single atom of an element measured in grams",
+              "One mole of a substance, expressed in grams per mole",
+              "A concept unrelated to chemistry",
+              "One litre of any gas at standard conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In forensic chemistry, trace evidence analysis is used to ___.",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Determine a suspect's age from DNA alone",
+              "Identify and compare minute physical or chemical evidence, such as fibres or residues, linked to a crime scene",
+              "Permanently destroy evidence so it cannot be analyzed"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 90-93.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Review: Genre, Rhetoric, and Narrative Technique (Days 81-89); Grammar: Nominalization and Formal Register; Writing: The Personal Diary and Journal as Literary Form; Poetry: The Sonnet Form \u2014 Petrarchan and Shakespearean.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a Kunstlerroman trace the development of?",
+            "options": [
+              "A scientific discovery over several decades",
+              "An artist, from youth into their mature creative identity",
+              "A concept unrelated to literature",
+              "A political leader\u2019s rise to power"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does nominalization do to a verb or adjective?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Turns it into a noun",
+              "Turns it into a question",
+              "Removes it from the sentence entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a Shakespearean sonnet's structure differ from a Petrarchan sonnet's?",
+            "options": [
+              "A concept unrelated to poetry",
+              "It is divided into three quatrains and a final couplet, rather than an octave and a sestet",
+              "It has no fixed number of lines, unlike the Petrarchan sonnet",
+              "It is written entirely in free verse with no rhyme scheme"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As a literary form, the personal diary or journal is characterized by ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "A strictly chronological, factual record with no personal voice",
+              "Intimate, often unstructured reflection written primarily for the writer rather than a public audience",
+              "A polished narrative always intended for publication"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Review: Functions, Trigonometry, and Discrete Math (Days 81-89); Functions: Operations on Functions \u2014 Sum, Difference, Product, and Quotient; Algebra: Synthetic Division and the Remainder Theorem; Trigonometry: Sum and Difference Identities.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What do logarithmic scales like pH and the Richter scale help do?",
+            "options": [
+              "Compress a huge range of values into a more manageable set of numbers",
+              "Expand small numbers into much larger ones with no practical use",
+              "Convert numbers into fractions only",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which operations can be used to combine two functions into a new function?",
+            "options": [
+              "Only addition, with no other operation permitted",
+              "Addition, subtraction, multiplication, and division",
+              "None, since functions can never be combined",
+              "A concept unrelated to functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the Remainder Theorem, when a polynomial f(x) is divided by (x - a), the remainder equals ___.",
+            "options": [
+              "f(a)",
+              "f(0)",
+              "A concept unrelated to polynomials",
+              "The degree of f(x) minus 1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The sum identity for cosine, cos(A + B), expands to ___.",
+            "options": [
+              "cos A cos B + sin A sin B",
+              "cos A cos B - sin A sin B",
+              "sin A cos B + cos A sin B",
+              "A concept unrelated to trigonometry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Review: Genetics, Ecology, and Human Health (Days 81-89); Biology: Thermoregulation in Endotherms and Ectotherms; Molecular Biology: DNA Structure and the Double Helix; Plant Biology: Chemical and Structural Defences Against Herbivory.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What does photoperiodism describe in plants?",
+            "options": [
+              "A concept unrelated to biology",
+              "How plants absorb water through their roots",
+              "How plants respond to the relative length of day and night",
+              "How plants convert sugar into starch"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do endotherms use to maintain a stable body temperature?",
+            "options": [
+              "Only heat absorbed from the surrounding environment",
+              "Heat generated internally by their own metabolism",
+              "A concept unrelated to biology",
+              "Nothing at all related to temperature regulation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What holds the two strands of DNA's double helix together?",
+            "options": [
+              "Ionic bonds between phosphate groups",
+              "Hydrogen bonds between complementary nitrogenous bases",
+              "A concept unrelated to biology",
+              "Covalent bonds between sugar molecules on opposite strands"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of a plant's chemical defence against herbivory?",
+            "options": [
+              "Growing taller than nearby competitors",
+              "Dropping all leaves regardless of season",
+              "A concept unrelated to biology",
+              "Producing toxic or bitter-tasting secondary compounds that deter feeding"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Review: Equilibrium, Materials, and Applied Chemistry (Days 81-89); Chemistry: Atomic Structure \u2014 Electron Configuration and Orbital Diagrams; Chemistry: Sunscreen and UV Photoprotection; Work, Energy, and Power.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does buffer capacity describe?",
+            "options": [
+              "How much acid or base a buffer can absorb before its pH changes significantly",
+              "The exact colour of a buffer solution",
+              "The temperature at which a buffer solution freezes",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does electron configuration describe?",
+            "options": [
+              "The exact colour an element appears in solid form",
+              "Only the mass of an atom\u2019s nucleus",
+              "How electrons are arranged within an atom\u2019s orbitals",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do chemical sunscreens primarily protect skin from UV radiation?",
+            "options": [
+              "By reflecting all light away from the skin's surface like a mirror",
+              "By absorbing UV radiation and converting it into small amounts of heat",
+              "A concept unrelated to chemistry",
+              "By blocking visible light only, not ultraviolet light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In physics, power is defined as ___.",
+            "options": [
+              "The total distance an object travels",
+              "A concept unrelated to energy",
+              "The rate at which work is done or energy is transferred",
+              "The force applied to an object regardless of time"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 94-97.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Rhetoric: Anaphora, Chiasmus, and Parallelism; Literature: The Parable and the Fable as Moral Narrative; Writing: The Public Service Announcement and Advocacy Writing; Reading: Analyzing Stream-of-Consciousness Narration.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What do rhetorical schemes like anaphora and parallelism rely on?",
+            "options": [
+              "A concept unrelated to rhetoric",
+              "Random, unstructured word choices",
+              "Only unrelated facts and statistics",
+              "Deliberate patterns of repetition and structure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do parables and fables typically use a simple story to illustrate?",
+            "options": [
+              "A concept unrelated to literature",
+              "Only an unrelated historical event",
+              "A detailed scientific process",
+              "A moral lesson or universal truth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In rhetoric, chiasmus achieves its effect by ___.",
+            "options": [
+              "Reversing the grammatical or conceptual order of elements in the second half of a phrase",
+              "Repeating the same word at the start of successive clauses",
+              "A concept unrelated to rhetoric",
+              "Using only unrelated historical anecdotes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Stream-of-consciousness narration is designed to represent ___.",
+            "options": [
+              "A strictly chronological list of external events",
+              "The continuous, unedited flow of a character's thoughts and impressions",
+              "A concept unrelated to narrative technique",
+              "Only dialogue spoken between characters"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Solving Quadratic Inequalities; The Law of Sines and Law of Cosines (Intro); Functions: Laws of Exponents and Rational Exponents; Optimization: Linear Programming with Systems of Inequalities.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "Solving a quadratic inequality involves finding the values of x for which the expression is ___.",
+            "options": [
+              "Greater than or less than zero",
+              "Equal to exactly one specific value only",
+              "Always equal to zero",
+              "A concept unrelated to quadratic expressions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Law of Sines and Law of Cosines are primarily used to solve for unknown parts of ___.",
+            "options": [
+              "Circles exclusively, with no connection to triangles",
+              "Non-right triangles",
+              "A shape unrelated to triangles",
+              "Only right triangles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The expression x^(2/3) is equivalent to ___.",
+            "options": [
+              "The cube root of x, squared",
+              "x squared, divided by three",
+              "The square root of x, cubed",
+              "Two-thirds of x"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a linear programming problem, the optimal value of the objective function occurs at ___.",
+            "options": [
+              "The exact center of the feasible region",
+              "A concept unrelated to linear programming",
+              "Any point outside the feasible region",
+              "A vertex (corner point) of the feasible region"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Ecology: Population Growth Models \u2014 Exponential and Logistic Growth; Ecology: Bioaccumulation and Biomagnification in Food Webs; Evolution: Convergent and Divergent Evolution; Genetics: Linked Genes and Genetic Recombination.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What does an exponential growth model assume about a population\u2019s growth?",
+            "options": [
+              "That it increases without limit under ideal conditions",
+              "That it always decreases steadily over time",
+              "A concept unrelated to biology",
+              "That population size never changes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does bioaccumulation describe?",
+            "options": [
+              "How a toxin instantly disappears from an organism\u2019s body",
+              "How a toxin builds up within an individual organism over time",
+              "A concept unrelated to biology",
+              "How energy flows between different ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Unlike the exponential growth model, the logistic growth model incorporates ___.",
+            "options": [
+              "A concept unrelated to population ecology",
+              "An assumption that resources are infinite",
+              "A carrying capacity that limits population size as resources become scarce",
+              "A constant death rate that never changes with density"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Genes located close together on the same chromosome are described as linked because they ___.",
+            "options": [
+              "Are always inherited independently of one another",
+              "A concept unrelated to genetics",
+              "Cannot undergo any form of recombination",
+              "Tend to be inherited together more often than expected by independent assortment"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Genetic Mutations and Variation; Waves: Properties and Behaviour; Analytical Chemistry: Acid-Base Indicators and Colour Change Theory; Chemistry: Metallurgy \u2014 Extracting Metals from Their Ores.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "A genetic mutation is best described as ___.",
+            "options": [
+              "A change in an organism\u2019s diet only",
+              "A change that always immediately kills the organism",
+              "A process unrelated to genetics",
+              "A change in an organism\u2019s DNA sequence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Waves are best described as a way of transferring ___.",
+            "options": [
+              "Nothing at all",
+              "Matter permanently from one place to another",
+              "Only heat, with no other form of energy",
+              "Energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Acid-base indicators change colour because they are themselves ___.",
+            "options": [
+              "Weak acids or bases whose protonated and deprotonated forms have different colours",
+              "Strong acids that fully dissociate at every pH",
+              "A concept unrelated to acid-base chemistry",
+              "Catalysts that speed up neutralization without changing colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In metallurgy, reduction of a metal oxide ore is used to ___.",
+            "options": [
+              "Increase the ore's oxidation state permanently",
+              "A concept unrelated to metallurgy",
+              "Dissolve the metal entirely in acid with no further processing",
+              "Convert the metal ore into a pure metal by removing oxygen"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 98-101.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Oral Communication: Spoken Word and Performance Poetry; Literature: Allusion and Intertextuality in Fiction; Review: Postcolonialism, Rhetoric, and Literary Form (Days 91-99); Literature: Gothic Fiction and the Uncanny.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What are spoken word and performance poetry composed to be?",
+            "options": [
+              "Printed exclusively in academic textbooks",
+              "A concept unrelated to oral communication",
+              "Only read silently by a single reader",
+              "Delivered aloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A complete retelling of an entire unrelated story",
+              "A brief reference to another text, event, or figure",
+              "A concept unrelated to literature",
+              "A footnote explaining a word\u2019s dictionary definition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Intertextuality refers to the way a text ___.",
+            "options": [
+              "Exists in complete isolation from all other texts",
+              "Shapes meaning through its relationships and connections with other texts",
+              "A concept unrelated to literary study",
+              "Can only be understood through footnotes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The literary Gothic tradition is characterized by an atmosphere of ___.",
+            "options": [
+              "Bright, cheerful settings with no tension",
+              "Straightforward realism with no emotional elements",
+              "Mystery, dread, and the unsettling blurring of the familiar and the strange",
+              "A concept unrelated to literature"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Functions: Rate of Change of Polynomial Functions \u2014 Finite Differences; Piecewise Functions; Review: Functions, Matrices, and Number Theory (Days 91-99); Financial Literacy: Amortization and Loans.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does the method of finite differences use to determine a polynomial\u2019s degree?",
+            "options": [
+              "A table of equally spaced values",
+              "A single isolated data point with no surrounding values",
+              "The exact colour of a graphed function\u2019s line",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a polynomial function's finite differences first become constant at the 3rd level, what is the degree of the polynomial?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an amortization schedule for a loan, each payment is split between ___.",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "Only additional principal, with no interest included",
+              "Taxes and insurance exclusively",
+              "Interest owed and a portion that reduces the principal balance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For a polynomial function of degree n, the nth level of finite differences will be ___.",
+            "options": [
+              "Always increasing without bound",
+              "A concept unrelated to polynomial functions",
+              "Constant",
+              "Always equal to zero"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Microbiology: Viral Replication Cycles \u2014 Lytic and Lysogenic; Human Biology: The Special Senses \u2014 Hearing and Balance; Review: Physiology, Genetics, and Ecology (Days 91-99); Comparative Digestion: Ruminant and Monogastric Digestive Strategies.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What does the lytic cycle of viral replication do to the host cell?",
+            "options": [
+              "A concept unrelated to biology",
+              "Leaves it completely unaffected and unchanged",
+              "Quickly destroys it to release new viruses",
+              "Permanently repairs any existing cell damage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure in the inner ear converts sound vibrations into nerve impulses?",
+            "options": [
+              "The eardrum alone",
+              "A concept unrelated to biology",
+              "The outer ear canal",
+              "The cochlea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During the lysogenic cycle, a virus's genetic material ___.",
+            "options": [
+              "Is immediately destroyed by the host cell",
+              "Integrates into the host genome and is replicated along with it without killing the cell right away",
+              "A concept unrelated to biology",
+              "Cannot be passed on to daughter cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ruminant animals such as cows rely on a specialized multi-chambered stomach primarily to ___.",
+            "options": [
+              "A concept unrelated to digestion",
+              "Avoid digesting any plant material at all",
+              "Ferment cellulose-rich plant material with the help of microorganisms before further digestion",
+              "Store food indefinitely without any chemical breakdown"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Haber-Bosch Process and Industrial Equilibrium; Chemistry: Agricultural Chemistry \u2014 Fertilizers and Soil Nutrients; Review: Atomic Structure, Materials, and Industrial Chemistry (Days 91-99); Chemistry: Avogadro\u2019s Law and Molar Volume at STP.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does the Haber-Bosch process synthesize?",
+            "options": [
+              "Pure oxygen gas from water",
+              "Table salt from sodium and chlorine only",
+              "Ammonia, from nitrogen and hydrogen gas",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What three essential nutrients do many fertilizers supply, abbreviated NPK?",
+            "options": [
+              "Sodium, chlorine, and calcium",
+              "Nitrogen, phosphorus, and potassium",
+              "A concept unrelated to chemistry",
+              "Carbon, hydrogen, and oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Avogadro's Law, at a given temperature and pressure, equal volumes of different gases contain ___.",
+            "options": [
+              "Equal numbers of moles of particles",
+              "A concept unrelated to gas laws",
+              "Equal masses regardless of the gas identity",
+              "Different numbers of particles depending on molar mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the industrial Haber-Bosch process, high pressure is used because it shifts the equilibrium toward ___.",
+            "options": [
+              "A concept unrelated to chemical equilibrium",
+              "The reactants, reducing ammonia yield",
+              "The side with fewer moles of gas, favouring ammonia production",
+              "A state where no further reaction occurs regardless of conditions"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 102-105.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Poetry: The Villanelle and Other Fixed Poetic Forms; Writing: The Character Sketch \u2014 Capturing Personality Through Detail; Literature: The Trickster Figure in Folklore and Fiction; Media Literacy: Analyzing Memes and Digital Rhetoric.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "How many lines does a traditional villanelle contain?",
+            "options": [
+              "Fourteen",
+              "A concept unrelated to poetry",
+              "Twelve",
+              "Nineteen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a character sketch primarily aim to convey?",
+            "options": [
+              "A character\u2019s personality, appearance, and mannerisms through concrete detail",
+              "A concept unrelated to writing",
+              "A complete plot summary of an entire novel",
+              "A formal citation of a source used in an essay"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The trickster figure in folklore and fiction is typically characterized by ___.",
+            "options": [
+              "Strict obedience to social rules and authority",
+              "Cleverness, mischief, and a tendency to subvert conventional norms",
+              "A concept unrelated to literature",
+              "A complete absence of wit or cunning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Analyzing a meme as a piece of digital rhetoric involves examining how it ___.",
+            "options": [
+              "Combines image and text to persuade or comment, often through irony or shared cultural reference",
+              "A concept unrelated to media literacy",
+              "Functions only as random, meaningless decoration",
+              "Requires no awareness of context to be understood"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Geometric Sequences and Series (Intro); Review: Functions, Inequalities, Systems, and Sequences; Geometry: Vector Equations of Lines in Two Dimensions; Rational Exponents and Radical Notation.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A geometric sequence is formed by ___.",
+            "options": [
+              "Adding a constant value to each term to find the next term",
+              "Randomly generating each term with no consistent pattern",
+              "A concept unrelated to sequences",
+              "Multiplying each term by a constant ratio to find the next term"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the vector equation r = r\u2080 + t\u00b7d for a line in two dimensions, what does the parameter t represent?",
+            "options": [
+              "A fixed point on the line",
+              "The direction vector's magnitude only",
+              "A scalar that varies to generate different points along the line",
+              "The slope of the line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A vector equation of a line in two dimensions is typically written using a ___.",
+            "options": [
+              "Point on the line and a direction vector parallel to the line",
+              "A concept unrelated to vectors",
+              "Single scalar value with no directional information",
+              "Matrix of coefficients with no point information at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The general term of a geometric sequence with first term a and common ratio r is given by ___.",
+            "options": [
+              "t_n = a + (n-1)r",
+              "t_n = a times r raised to the power of (n-1)",
+              "A concept unrelated to sequences",
+              "t_n = a times n times r"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Osmoconformers and Osmoregulators in Marine Life; Biology: Comparative Vision \u2014 The Camera Eye and the Compound Eye; Biology: Insect Metamorphosis \u2014 Complete and Incomplete Development; Biology: Circulatory Systems \u2014 Open versus Closed Systems Across Animal Phyla.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What do osmoconformers allow their internal osmotic concentration to do?",
+            "options": [
+              "Match that of their surrounding seawater",
+              "Increase indefinitely without any limit",
+              "A concept unrelated to biology",
+              "Remain fixed regardless of the surrounding environment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the vertebrate camera eye use to form a single focused image?",
+            "options": [
+              "No light-sensitive structures whatsoever",
+              "A concept unrelated to biology",
+              "A lens and a retina",
+              "Thousands of independent light-sensing units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Insects undergoing complete metamorphosis pass through which sequence of stages?",
+            "options": [
+              "Egg, nymph, adult, with no distinct pupal stage",
+              "Egg, larva, pupa, adult",
+              "A concept unrelated to biology",
+              "Adult, larva, egg, pupa in that order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an open circulatory system, blood (hemolymph) ___.",
+            "options": [
+              "A concept unrelated to biology",
+              "Never leaves the network of vessels",
+              "Directly bathes the internal organs within a body cavity rather than staying confined to vessels",
+              "Is pumped through a completely closed loop of arteries and veins"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Common Ion Effect and Solubility Equilibria; Chemistry: The Arrhenius Equation and Activation Energy; Chemistry: Addition versus Condensation Polymerization; Chemistry: Faraday\u2019s Laws of Electrolysis.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does the common ion effect describe?",
+            "options": [
+              "How a compound\u2019s colour changes when dissolved in water",
+              "A concept unrelated to chemistry",
+              "How the solubility of a slightly soluble compound decreases when a solution already contains a matching ion",
+              "How solubility always increases regardless of the ions present in solution"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Arrhenius equation relate a reaction\u2019s rate constant to?",
+            "options": [
+              "Only the colour of the reactants involved",
+              "Its activation energy and temperature",
+              "A concept unrelated to chemistry",
+              "The exact volume of the reaction container"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Condensation polymerization differs from addition polymerization in that it ___.",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Never involves any monomers joining together",
+              "Always requires monomers containing only carbon-carbon double bonds",
+              "Produces a small molecule such as water as a byproduct when monomers join"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to Faraday's Laws of Electrolysis, the amount of substance produced at an electrode is directly proportional to ___.",
+            "options": [
+              "The colour of the electrolyte solution",
+              "A concept unrelated to electrolysis",
+              "The size of the container holding the electrolyte",
+              "The total electric charge passed through the cell"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 106-109.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: Code-Switching and Dialect as Literary Voice; Literature: Detective Fiction and the Structure of the Whodunit; Oral Communication: Preparing for and Conducting a Formal Interview; Writing: The Book Review as Critical Genre.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does code-switching involve, as used by an author to construct a character\u2019s voice?",
+            "options": [
+              "Shifting between languages or dialects",
+              "Removing all traces of a character\u2019s cultural background from the text",
+              "A concept unrelated to literature",
+              "Speaking in a single, unchanging formal register throughout an entire text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does detective fiction deliberately plant throughout its narrative?",
+            "options": [
+              "A complete solution revealed at the very beginning of the story",
+              "Clues for readers to interpret alongside the detective",
+              "Only irrelevant details with no connection to the plot",
+              "A concept unrelated to literature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a key oral communication strategy when preparing for a formal interview?",
+            "options": [
+              "Researching the organization and preparing thoughtful, relevant questions in advance",
+              "Arriving with no preparation and improvising every answer",
+              "Refusing to make eye contact with the interviewer",
+              "Speaking only in single-word answers regardless of the question"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "As a critical genre, what must a book review do beyond simply summarizing the plot?",
+            "options": [
+              "Only restate the publisher's back-cover summary",
+              "Evaluate the book's strengths and weaknesses with supported judgments",
+              "Avoid ever expressing an opinion about the book",
+              "List the book's price and page count only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Function Notation, Domain, and Range; Functions: The Rational Root Theorem; Introduction to Logarithms as Inverse of Exponents; Financial Mathematics: Effective Annual Rate and Comparing Loan Options.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "Function notation, such as f(x), represents ___.",
+            "options": [
+              "The output of a function for a given input x",
+              "Only the input value, with no connection to output",
+              "A fixed constant that never changes",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the rational root theorem identify?",
+            "options": [
+              "Whether a polynomial has any roots at all, without specifying values",
+              "The exact value of every root of any polynomial equation",
+              "A concept unrelated to functions",
+              "A finite list of possible rational roots of a polynomial equation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As the inverse of an exponential function, log_b(x) answers which question?",
+            "options": [
+              "What is x multiplied by b?",
+              "What is the reciprocal of x?",
+              "To what power must b be raised to produce x?",
+              "What is b divided by x?"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When comparing loan options, the effective annual rate (EAR) is useful because it accounts for ___.",
+            "options": [
+              "Only the loan's stated nominal interest rate",
+              "The borrower's credit score",
+              "The total number of monthly payments regardless of interest",
+              "The effect of compounding frequency on the true annual cost of borrowing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Nitrogenous Waste \u2014 Ammonotelic, Ureotelic, and Uricotelic Excretion; Biology: Plant Tissue Systems \u2014 Dermal, Ground, and Vascular Tissue; Biology: Animal Locomotion \u2014 Adaptations for Movement on Land, Water, and Air; Biology: The Cell Cycle \u2014 Checkpoints and Regulation of Mitosis.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What do aquatic animals typically excrete as their primary nitrogenous waste product?",
+            "options": [
+              "A concept unrelated to biology",
+              "Uric acid exclusively",
+              "No nitrogenous waste at all",
+              "Ammonia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does dermal tissue in a plant primarily form?",
+            "options": [
+              "A concept unrelated to biology",
+              "A protective outer covering",
+              "A network exclusively for transporting nutrients",
+              "The plant\u2019s main photosynthetic tissue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which adaptation supports efficient locomotion in aquatic vertebrates such as fish?",
+            "options": [
+              "Heavy, rigid exoskeletons that maximize buoyancy in water",
+              "A streamlined body shape and fins that reduce drag while swimming",
+              "Long grasping limbs adapted exclusively for climbing",
+              "Gills that function identically in air and water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary function of a cell cycle checkpoint, such as the G1/S checkpoint?",
+            "options": [
+              "To permanently halt the cell cycle the moment it begins",
+              "To synthesize ATP for the citric acid cycle",
+              "To verify that conditions such as accurate DNA replication are met before the cycle proceeds",
+              "To speed through mitosis regardless of DNA damage present"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Physics: Calculating Work and Power; Chemistry: The Kinetic Molecular Theory of Gases; Chemistry: The Chemistry of Baking \u2014 Acid-Base Reactions in Leavening Agents; Chemistry: Isotopic Abundance and Average Atomic Mass Calculations.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Work is done on an object when ___.",
+            "options": [
+              "A force causes the object to move in the direction of the force",
+              "An object simply sits still under a force",
+              "No force is applied at all",
+              "An object changes colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the kinetic molecular theory model the motion of gas particles?",
+            "options": [
+              "As constantly moving in random, straight-line motion",
+              "As remaining completely stationary at all times",
+              "A concept unrelated to chemistry",
+              "As moving only in a single, fixed circular pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When baking soda reacts with an acidic ingredient such as buttermilk to release carbon dioxide gas, this is an example of ___.",
+            "options": [
+              "A nuclear fission reaction",
+              "A purely physical change with no new substances formed",
+              "A redox reaction with no acid or base involved",
+              "An acid-base neutralization reaction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An element's average atomic mass on the periodic table is calculated by ___.",
+            "options": [
+              "Taking the weighted average of isotope masses based on their natural relative abundance",
+              "Using only the mass number of the most abundant isotope",
+              "Counting only the number of protons in the nucleus",
+              "Adding the mass numbers of all isotopes without weighting them"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 110-113.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Review: Gothic Fiction, Genre, and Media Literacy (Days 101-109); Reading: Analyzing Juxtaposition in Literature; Poetry: The Prose Poem; Writing: Writing a Letter of Recommendation.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does Gothic fiction typically blend?",
+            "options": [
+              "A strictly comedic tone with no serious themes",
+              "Horror, romance, and the supernatural",
+              "A concept unrelated to literature",
+              "Only realistic depictions of everyday life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "Placing two contrasting elements side by side",
+              "Combining two similar ideas into one",
+              "A type of punctuation mark",
+              "A grammar rule for verb tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a prose poem from conventional poetry?",
+            "options": [
+              "It follows a strict rhyme scheme and fixed meter",
+              "It must be exactly fourteen lines, like a sonnet",
+              "It is written in paragraph form without line breaks, yet keeps poetic devices like imagery and rhythm",
+              "It contains no figurative language at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An effective letter of recommendation typically ___.",
+            "options": [
+              "Avoids mentioning any of the candidate's real qualifications",
+              "Is addressed to no one in particular",
+              "Focuses mainly on the candidate's physical appearance",
+              "Provides specific examples that support the writer's assessment of the candidate"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Introduction to Matrices: Rows, Columns, and Operations; Calculus Preview: An Introduction to Limits; Calculus Preview: Continuity of Functions; Arithmetic Sequences and Series (Intro).",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A matrix is best described as ___.",
+            "options": [
+              "A concept unrelated to algebra",
+              "A single number with no structure",
+              "A type of graph with no numerical values",
+              "A rectangular array of numbers organized into rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a limit describe in mathematics?",
+            "options": [
+              "The exact value of a function at every point",
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A function is continuous at a point x = a if ___.",
+            "options": [
+              "The limit of the function as x approaches a equals the function's value f(a)",
+              "It has a vertical asymptote at x = a",
+              "The function is undefined at every point near a",
+              "Its graph has a visible jump or break at a"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The sum of the first n terms of an arithmetic series depends on ___.",
+            "options": [
+              "The number of terms alone, regardless of their actual values",
+              "The first term, the last term (or common difference), and the number of terms",
+              "Only the common ratio between consecutive terms",
+              "The y-intercept of the sequence's graph"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Review: Comparative Physiology and Cell Biology (Days 101-109); Biology: Desert Ecosystems and Xerophytic Adaptations; Biology: Bioluminescence in Marine and Terrestrial Organisms; Biology: Camouflage and Mimicry as Survival Strategies.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What do ruminant animals use to break down cellulose in plant material?",
+            "options": [
+              "A concept unrelated to biology",
+              "Only a single-chambered stomach with no microbes involved",
+              "A multi-chambered stomach and microbial fermentation",
+              "A completely liquid diet with no solid plant material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a desert ecosystem?",
+            "options": [
+              "Constant freezing temperatures only",
+              "No sunlight at all",
+              "Very little precipitation",
+              "Extremely high precipitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Bioluminescence in organisms such as anglerfish is produced through ___.",
+            "options": [
+              "Reflection of moonlight off an organism's scales",
+              "Absorption of sunlight during the day for release at night",
+              "A purely physical process with no chemical reaction involved",
+              "A chemical reaction involving the molecule luciferin and the enzyme luciferase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In Batesian mimicry, a harmless species evolves to resemble ___.",
+            "options": [
+              "A harmful or unpalatable species, gaining protection from predators that avoid it",
+              "Its own offspring, in order to reduce predation on the young",
+              "An unrelated plant species, purely for camouflage",
+              "A predator species, in order to hunt more effectively"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Review: Gas Laws, Kinetics, and Quantitative Chemistry (Days 101-109); Stoichiometry: Introduction to Mole Ratios; Momentum and Collisions; The Endocrine System and Homeostasis.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does Avogadro\u2019s law state about equal volumes of gases at the same temperature and pressure?",
+            "options": [
+              "They contain equal numbers of particles",
+              "They always contain completely different numbers of particles",
+              "They must be composed of the exact same element",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Stoichiometry uses mole ratios to calculate ___.",
+            "options": [
+              "The amounts of reactants and products in a reaction",
+              "A value unrelated to chemical reactions",
+              "The exact temperature of a reaction",
+              "The colour of a chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the law of conservation of momentum, in a closed system with no external forces, the total momentum before a collision ___.",
+            "options": [
+              "Always increases after the collision",
+              "Equals the total momentum after the collision",
+              "Always decreases to zero after the collision",
+              "Depends on the colour of the colliding objects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Homeostasis regulated by the endocrine system often relies on ___.",
+            "options": [
+              "Positive feedback loops that continuously amplify hormone release without limit",
+              "The complete absence of any hormonal signaling",
+              "Negative feedback loops that counteract deviations from a set point",
+              "Feedback loops found exclusively in the nervous system, not hormones"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 114-117.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Grammar: The Dash and Parenthetical Elements; Literature: Ekphrastic Poetry \u2014 Writing About Art; Media Literacy: Analyzing Native Advertising and Sponsored Content; Reading: Analyzing Extended Metaphor and Conceit.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is one common use of the em dash in a sentence?",
+            "options": [
+              "Indicating a question is being asked",
+              "Replacing all periods in an essay",
+              "Setting off parenthetical information or creating emphasis",
+              "Ending every sentence in a paragraph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is ekphrastic poetry?",
+            "options": [
+              "Poetry written only about nature",
+              "Poetry with no descriptive language at all",
+              "Poetry that vividly describes or responds to a work of visual art",
+              "A type of poem with a strict rhyme scheme only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Native advertising is designed to ___.",
+            "options": [
+              "Blend in with the surrounding editorial content so it doesn't look like a traditional ad",
+              "Stand out clearly with bold borders that mark it as an advertisement",
+              "Avoid targeting any specific audience",
+              "Appear only in printed newspapers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An extended metaphor sustained throughout a poem, especially one drawing a surprising or elaborate comparison, is known as ___.",
+            "options": [
+              "Onomatopoeia",
+              "A conceit",
+              "A simile",
+              "An allusion"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Graphing Absolute Value Functions; Review: Arithmetic Sequences, Linear Inequalities, the Discriminant, and Number Systems; Geometry: Vector Equations of Planes in Three Dimensions; Introduction to the Law of Sines and Cosines.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "The graph of a basic absolute value function, such as y equals the absolute value of x, forms a shape best described as ___.",
+            "options": [
+              "A concept unrelated to graphing functions",
+              "A perfect circle",
+              "A straight diagonal line",
+              "A V shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An arithmetic sequence is defined by ___.",
+            "options": [
+              "A constant ratio between consecutive terms",
+              "A constant difference between consecutive terms",
+              "A concept unrelated to sequences",
+              "Terms that never follow any predictable pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A vector equation of a plane in three dimensions typically requires ___.",
+            "options": [
+              "Only a single point, with no direction information",
+              "Exactly one direction vector and no point",
+              "A point on the plane and two non-parallel direction vectors lying in the plane",
+              "A single scalar value only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Law of Sines relates the sides of a triangle to ___.",
+            "options": [
+              "The cosines of their opposite angles",
+              "The tangents of their opposite angles",
+              "The lengths of the triangle's altitudes only",
+              "The sines of their opposite angles"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: The Placenta and Mammalian Reproductive Strategies; Cell Biology: Organelle Structure and Function; Ecology: Energy Flow and the 10% Rule in Food Chains; Evolution: Adaptive Radiation and Niche Diversification.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is the placenta?",
+            "options": [
+              "A part of the digestive system unrelated to reproduction",
+              "A structure used only for producing sound",
+              "A specialized organ that allows nutrient and gas exchange between mother and offspring",
+              "A type of bone found only in adult mammals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organelle modifies, sorts, and packages proteins for secretion?",
+            "options": [
+              "Golgi apparatus",
+              "Nucleus",
+              "Mitochondrion",
+              "Lysosome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the 10% rule in food chains, approximately what percentage of energy is transferred from one trophic level to the next?",
+            "options": [
+              "Approximately 90%",
+              "Approximately 10%",
+              "Approximately 50%",
+              "Approximately 1%"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adaptive radiation refers to the process by which ___.",
+            "options": [
+              "One species becomes extinct due to competition",
+              "Two unrelated species independently evolve identical traits",
+              "A single ancestral species diversifies rapidly into multiple new species occupying different niches",
+              "A species' population remains genetically unchanged over time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Chemiluminescence \u2014 The Chemistry of Glow Sticks; Chemistry: Fermentation and the Chemistry of Winemaking; Chemistry: Electrolytes and the Chemistry of Sports Drinks; Chemistry: The Chemistry of Perfumes and Fragrances.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What is chemiluminescence?",
+            "options": [
+              "The emission of light resulting from a chemical reaction",
+              "The absorption of light with no emission at all",
+              "A physical change with no chemical reaction involved",
+              "A process that only occurs in living organisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does fermentation convert sugars into during winemaking?",
+            "options": [
+              "Ethanol and carbon dioxide",
+              "Only oxygen gas",
+              "Only table salt",
+              "Only pure water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Electrolytes such as sodium and potassium ions in sports drinks are important because they ___.",
+            "options": [
+              "Have no biological role in the human body",
+              "Convert immediately into glucose upon ingestion",
+              "Are added only for flavour, with no physiological effect",
+              "Help regulate fluid balance and support nerve and muscle function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Perfumes rely on volatile organic compounds because volatility ___.",
+            "options": [
+              "Allows fragrance molecules to evaporate and reach the nose as a scent",
+              "Prevents any of the fragrance from being detected",
+              "Makes the compounds insoluble in ethanol",
+              "Causes the fragrance to remain solid at room temperature"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 118-121.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Oral Communication: The TED-Style Talk; Reading: Analyzing Foil Characters; English Review: Poetry, Rhetoric, and Literary Devices; Reading: Analyzing Motif and Recurring Symbols in Fiction.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is a defining feature of a TED-style talk?",
+            "options": [
+              "Reading directly from a dense, technical script with no engagement",
+              "Covering as many unrelated topics as possible",
+              "Delivering a single, focused idea clearly to a general audience",
+              "Avoiding any structure or preparation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a foil character?",
+            "options": [
+              "A character whose traits contrast with a main character to highlight them",
+              "A character identical to the main character",
+              "A type of narrator",
+              "A character who never appears in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In rhetoric, an appeal to logos persuades an audience through ___.",
+            "options": [
+              "An appeal to the audience's emotions",
+              "The credibility or character of the speaker",
+              "Logical reasoning and evidence",
+              "Repetition of sound for musical effect"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A motif in a work of fiction is ___.",
+            "options": [
+              "The name given to a story's setting",
+              "A one-time event with no thematic significance",
+              "A synonym for the story's climax",
+              "A recurring element, such as an image or idea, that reinforces the text's central themes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Matrices: An Introduction; Introduction to Normal Distribution; Algebra: Completing the Square; Calculus Preview: An Introduction to the Derivative as a Limit.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What is a matrix?",
+            "options": [
+              "A type of geometric shape only",
+              "A rectangular arrangement of numbers in rows and columns",
+              "A concept unrelated to math",
+              "A single number with no structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape does a normal distribution typically form?",
+            "options": [
+              "A completely flat line",
+              "A concept unrelated to statistics",
+              "A symmetric, bell shape",
+              "A perfectly straight diagonal line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Completing the square is a technique primarily used to ___.",
+            "options": [
+              "Rewrite a quadratic expression in vertex form to identify its vertex",
+              "Find the derivative of a quadratic function",
+              "Factor any polynomial of degree higher than two",
+              "Simplify a fraction with a variable in the denominator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The derivative of a function at a point is defined as the limit of the difference quotient as ___.",
+            "options": [
+              "x approaches infinity",
+              "The change in x approaches zero",
+              "The function value approaches zero",
+              "The change in x approaches one"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Bioremediation \u2014 Using Organisms to Clean Pollution; Biology: Hydrothermal Vent Ecosystems and Chemosynthesis; Biology Review: Adaptations, Cell Biology, and Ecosystems; Cell Biology: The Cytoskeleton -- Shape, Support, and Movement.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is bioremediation?",
+            "options": [
+              "A method of building new factories",
+              "A type of chemical warfare technology",
+              "Using living organisms to break down or remove pollutants",
+              "A process that always increases pollution levels"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are hydrothermal vent ecosystems typically found?",
+            "options": [
+              "In desert regions with no water",
+              "In shallow freshwater lakes",
+              "On mountain peaks",
+              "On the deep ocean floor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The cytoskeleton in eukaryotic cells is primarily composed of which structural components?",
+            "options": [
+              "Only ribosomes and lysosomes",
+              "A single continuous membrane with no protein filaments",
+              "Chlorophyll-containing pigment molecules",
+              "Microfilaments, intermediate filaments, and microtubules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In contrast to photosynthesis, chemosynthesis used by organisms at hydrothermal vents obtains energy by ___.",
+            "options": [
+              "Oxidizing inorganic chemicals such as hydrogen sulfide rather than using sunlight",
+              "Capturing sunlight through specialized deep-sea pigments",
+              "Consuming other organisms exclusively for energy",
+              "Performing cellular respiration without using any electrons"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Tears \u2014 Lachrymatory Agents; Chemistry: The Chemistry of Photography \u2014 Silver Halides; Biotechnology: CRISPR and Gene Editing; Cellular Respiration in Depth.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What is a lachrymatory agent?",
+            "options": [
+              "A compound that has no effect on the eyes",
+              "A volatile chemical that irritates the eyes and triggers tears",
+              "A solid mineral with no chemical reactivity",
+              "A gas used only in refrigeration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What compounds are traditional photographic film coated with to capture images?",
+            "options": [
+              "Pure carbon",
+              "Liquid mercury",
+              "Table salt only",
+              "Silver halides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "CRISPR-Cas9 gene editing technology allows scientists to ___.",
+            "options": [
+              "Randomly mutate an organism's entire genome with no targeting",
+              "Make precise, targeted cuts in DNA to edit specific genes",
+              "Only read DNA sequences without altering them",
+              "Replace an organism's DNA permanently with synthetic RNA"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During the electron transport chain in cellular respiration, the final electron acceptor is ___.",
+            "options": [
+              "Carbon dioxide, which is converted into glucose",
+              "ATP, which accepts electrons directly",
+              "Oxygen, which combines with electrons and protons to form water",
+              "Pyruvate, formed at the start of glycolysis"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 122-125.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Poetry: The Ballad \u2014 Narrative Poetry and Oral Tradition; Writing: The Process Essay \u2014 Explaining How Something Works; Grammar: Active versus Passive Voice for Rhetorical Effect; Reading: Analyzing the Uncanny in Gothic Literature.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a ballad primarily do?",
+            "options": [
+              "Avoids any use of rhythm or repetition",
+              "Functions only as a formal legal document",
+              "Tells a story through verse, often set to music",
+              "Presents a list of unrelated facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main purpose of a process essay?",
+            "options": [
+              "To argue a single controversial opinion",
+              "To explain how to complete a task or how something works",
+              "To summarize a work of fiction",
+              "To describe a personal memory with no instructional purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "The committee approved the proposal.",
+              "The proposal was approved by the committee.",
+              "The committee will approve the proposal soon.",
+              "The committee is approving the proposal."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Gothic literature, the 'uncanny' effect is best created by which technique?",
+            "options": [
+              "Presenting something ordinary as entirely comforting and predictable",
+              "Blending the familiar and the eerily unfamiliar so the reader feels unease",
+              "Removing all supernatural elements from the narrative",
+              "Using only cheerful, brightly lit settings"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Introduction to Vectors; Introduction to Amortization and Mortgages; Geometry: Vector Equations of Lines in Three Dimensions; Statistics: Z-Scores and Standardization.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What two things does a vector have?",
+            "options": [
+              "Only a single number with no direction",
+              "Magnitude and direction",
+              "Only a colour",
+              "A concept unrelated to math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does amortization describe?",
+            "options": [
+              "A concept unrelated to finance",
+              "How a loan is gradually paid off over time",
+              "A one-time payment with no ongoing schedule",
+              "A type of savings account with no payments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the vector equation of a line in three dimensions, r = r0 + t*d, what does the parameter t represent?",
+            "options": [
+              "The magnitude of the direction vector",
+              "A scalar that varies to generate every point on the line",
+              "The angle between the line and the x-axis",
+              "The z-coordinate of the position vector"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A data value with a z-score of -2 is located where relative to the mean?",
+            "options": [
+              "Exactly at the mean",
+              "2 standard deviations above the mean",
+              "2 standard deviations below the mean",
+              "2 units above the median regardless of spread"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Endocrine Disruptors and Hormonal Health; Biology: Polyploidy and Chromosome Number Variation in Plants; Genetics: Dihybrid Crosses and Independent Assortment; Biology: Hibernation and Torpor \u2014 Physiological Adaptations.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is an endocrine disruptor?",
+            "options": [
+              "A type of vitamin required for healthy bones",
+              "A protein that has no interaction with the endocrine system",
+              "A chemical compound that interferes with normal hormone signalling",
+              "A hormone naturally produced by the pancreas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is polyploidy?",
+            "options": [
+              "A condition in which an organism has more than two complete sets of chromosomes",
+              "A type of asexual reproduction with no genetic change",
+              "A disease affecting only animal cells",
+              "A condition where an organism has no chromosomes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a dihybrid cross between two heterozygous parents (RrYy x RrYy), what phenotypic ratio is expected in the offspring under independent assortment?",
+            "options": [
+              "1:2:1",
+              "3:1",
+              "9:3:3:1",
+              "1:1:1:1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does torpor differ from true hibernation?",
+            "options": [
+              "Torpor lasts for several months without interruption",
+              "Torpor is a short-term, often daily reduction in metabolic rate and body temperature",
+              "Torpor only occurs in cold-blooded reptiles",
+              "Torpor involves a complete cessation of all bodily functions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Vulcanization \u2014 Cross-Linking in Rubber Polymers; Chemistry: Reverse Osmosis and Water Purification; Chemistry: Catalytic Converters and Automotive Emission Control; Chemistry: The Chemistry of Adhesives and Molecular Bonding.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What is vulcanization?",
+            "options": [
+              "A chemical process that forms cross-links between polymer chains in rubber using sulfur",
+              "A physical process with no chemical reaction involved",
+              "A process that removes all polymer chains from rubber",
+              "A method of melting rubber into a liquid permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does reverse osmosis use to purify water?",
+            "options": [
+              "Adding large amounts of salt to the water",
+              "Boiling the water at extremely high temperatures",
+              "Freezing the water into solid ice",
+              "External pressure forcing water through a semi-permeable membrane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the primary function of a catalytic converter in a vehicle's exhaust system?",
+            "options": [
+              "To increase the fuel's octane rating before combustion",
+              "To convert harmful gases such as CO and NOx into less harmful substances",
+              "To cool the exhaust gases before they enter the engine",
+              "To store unburned fuel for later use"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Strong adhesion between an adhesive and a surface primarily depends on what?",
+            "options": [
+              "The adhesive having no interaction with the surface at all",
+              "Intermolecular forces and chemical bonding between the adhesive and the surface",
+              "The adhesive being lighter than the surface it bonds to",
+              "The colour of the adhesive matching the surface"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 126-130.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Media Literacy: Clickbait Headlines and Digital Virality; Oral Communication: The Personal Narrative Speech; Reading: Narrative Distance and Point of View; Reading: Comparing Translations of a Text; English Review: Motif, Genre, Voice, and Persuasion.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the primary goal of a clickbait headline?",
+            "options": [
+              "Maximizing clicks and shares, often through sensational language",
+              "Following strict academic citation standards",
+              "Avoiding any emotional language whatsoever",
+              "Providing a fully accurate summary of the article"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a personal narrative speech typically recount?",
+            "options": [
+              "A meaningful experience from the speakers own life",
+              "A list of unrelated statistics",
+              "A formal legal argument",
+              "A completely fictional story with no connection to the speaker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A narrator who reports events with significant emotional and temporal separation from the story is said to use what?",
+            "options": [
+              "Close narrative distance",
+              "Distant narrative distance",
+              "First-person immediacy",
+              "Dramatic irony"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When comparing two translations of the same literary text, translators must balance which two priorities?",
+            "options": [
+              "Length of the book and price of printing",
+              "Literal accuracy to the original wording and readability or tone in the new language",
+              "The translator's personal opinions and the publisher's marketing",
+              "Font choice and page layout"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Introduction to Spherical Geometry; Solving Systems of Three Variables; Review: Advanced Algebra, Geometry, and Statistics (Days 81-89); Introduction to Logarithms; Polynomial Long Division.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What surface does spherical geometry study shapes and distances on?",
+            "options": [
+              "A sphere",
+              "A cube",
+              "A flat plane only",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many equations are typically needed to solve a system with three variables?",
+            "options": [
+              "One",
+              "Three",
+              "Five",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of log base 2 of 32?",
+            "options": [
+              "4",
+              "5",
+              "16",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When dividing a polynomial P(x) by (x - c) using long division, what does the remainder equal, according to the Remainder Theorem?",
+            "options": [
+              "P(0)",
+              "P(c)",
+              "The leading coefficient of P(x)",
+              "Always zero regardless of c"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Physiology: Hemoglobin and Oxygen Transport; Biology: The Diving Reflex in Marine Mammals; Ecology: Measuring Biodiversity -- Richness and Diversity Indices; Biology: Allelopathy \u2014 Chemical Warfare Between Plants; Biology Review: Cell Biology, Genetics, Physiology, and Ecology.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Each hemoglobin molecule can bind up to how many oxygen molecules?",
+            "options": [
+              "4",
+              "1",
+              "2",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What triggers the mammalian diving reflex?",
+            "options": [
+              "A sudden loud noise",
+              "Submersion in water, especially cold water",
+              "Exposure to bright sunlight",
+              "An increase in body temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A community with many species that are all present in roughly equal abundance would have what kind of diversity index value?",
+            "options": [
+              "A low diversity index",
+              "A high diversity index",
+              "An index of exactly zero",
+              "An undefined index"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is allelopathy?",
+            "options": [
+              "A symbiotic relationship where both species benefit equally",
+              "The release of biochemical compounds by a plant that inhibit the growth of nearby competing plants",
+              "A disease that only affects allele frequencies in animals",
+              "A process by which plants absorb nitrogen from the soil"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Enthalpy of Solution and Hydration Energy; Chemistry: The Chemistry of Tanning \u2014 Preserving Leather; Chemistry: Effervescence \u2014 The Chemistry of Antacid Tablets; Chemistry: The Chemistry of Composting and Organic Decomposition; Chemistry Review: Coordination Chemistry, Materials, and Applied Reactions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does the enthalpy of solution describe?",
+            "options": [
+              "The net energy change when a compound dissolves in a solvent",
+              "The total mass of a dissolved compound",
+              "The temperature at which a compound melts",
+              "The colour change of a solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the tanning process convert raw animal hide into?",
+            "options": [
+              "A liquid solution with no remaining fibres",
+              "Stable, durable leather",
+              "A form of pure protein powder",
+              "A type of synthetic plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The fizzing produced when an antacid tablet is dropped in water is the result of what type of reaction?",
+            "options": [
+              "A precipitation reaction that produces a solid",
+              "An acid-base reaction that releases carbon dioxide gas",
+              "A combustion reaction releasing heat and light",
+              "A redox reaction that produces a metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Composting relies primarily on what process to break down organic matter?",
+            "options": [
+              "Purely physical grinding of materials with no chemical change",
+              "Microbial decomposition that breaks down organic compounds",
+              "Freezing organic material to preserve it",
+              "Adding synthetic plastic to accelerate breakdown"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 131-135.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Poetry: The Ode \u2014 Form and Address to a Subject; Literature: Utopian Fiction and the Ideal Society; Writing: The Rhetorical Precis \u2014 Structured Summary and Analysis; Grammar: Modal Verbs and Degrees of Certainty in Academic Writing; Reading: Analyzing Circular and Non-Linear Narrative Structure.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does an ode typically do?",
+            "options": [
+              "Functions only as a legal or contractual document",
+              "Avoids any direct address to its subject",
+              "Presents a purely factual news report with no emotional content",
+              "Directly addresses and celebrates a person, object, or abstract quality"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does utopian fiction typically imagine?",
+            "options": [
+              "A society identical in every way to the authors own",
+              "An idealized society organized around order, equality, or harmony",
+              "A purely historical account with no imagined elements",
+              "A society with no organization of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rhetorical precis is best described as what?",
+            "options": [
+              "A free-form personal reflection with no fixed structure",
+              "A structured summary that identifies a text's main claim, purpose, and rhetorical strategies",
+              "A word-for-word transcription of the original text",
+              "A fictional narrative inspired by the original text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a modal verb to express a high degree of certainty?",
+            "options": [
+              "The results might change next year.",
+              "The results could possibly change.",
+              "The results must have changed due to the new policy.",
+              "The results may change slightly."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Calculus Preview: The Power Rule for Derivatives; Calculus Preview: Finding Equations of Tangent Lines Using Derivatives; Introduction to Function Notation, Domain, and Range; Multiplying and Dividing Rational Expressions; Trigonometry: An Introduction to the Unit Circle.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does the power rule provide?",
+            "options": [
+              "A quick algebraic shortcut for differentiating polynomial terms",
+              "A rule for simplifying fractions only",
+              "A method for factoring quadratic equations",
+              "A way to calculate the area under any curve exactly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the derivative of a function at a specific point give?",
+            "options": [
+              "The maximum value of the function everywhere",
+              "The y-intercept of the function",
+              "The slope of the tangent line at that point",
+              "The total area under the entire curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For the function f(x) = 1/(x-3), what value must be excluded from the domain?",
+            "options": [
+              "x = 0",
+              "x = -3",
+              "x = 3",
+              "x = 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On the unit circle, what is the value of cos(pi/2)?",
+            "options": [
+              "1",
+              "0",
+              "-1",
+              "1/2"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Genetics: Epistasis \u2014 Gene Interactions and Modified Ratios; Biology: Vestigial Structures as Evidence for Evolution; Biology: Photosynthetic Pigments and Paper Chromatography; Biology: Chemoreception \u2014 Taste and Smell; Genetics: Meiosis and the Sources of Genetic Variation.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is epistasis?",
+            "options": [
+              "A type of cell division unrelated to genetics",
+              "A process where a single gene has no effect on phenotype at all",
+              "When the expression of one gene is masked or modified by a different, non-allelic gene",
+              "A disease caused only by environmental factors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are vestigial structures?",
+            "options": [
+              "Anatomical features that have lost most or all of their original function over evolutionary history",
+              "Structures found only in single-celled organisms",
+              "Structures that appear only in embryos and never in adults of any species",
+              "New structures that have never existed in any ancestor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In paper chromatography of leaf pigments, why do different pigments separate into distinct bands as the solvent moves up the paper?",
+            "options": [
+              "Each pigment has identical solubility and travels at the same rate",
+              "Pigments differ in solubility and molecular size, causing them to travel at different rates",
+              "The paper chemically reacts with only one pigment",
+              "All pigments evaporate at the same point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which process during meiosis I directly increases genetic variation by exchanging segments between homologous chromosomes?",
+            "options": [
+              "Mitotic cytokinesis",
+              "Crossing over during prophase I",
+              "DNA replication in interphase",
+              "Random fertilization"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Population Ecology: Growth Models; Chemistry: Saponification \u2014 The Chemistry of Soap Making; Chemistry: Water Softening and Ion Exchange Resins; Chemistry: Silicone Polymers and Their Properties; Review: Chemistry, Physics, and Biology Concepts.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Population ecology studies how ___ change over time.",
+            "options": [
+              "Only individual organisms, with no connection to populations",
+              "Only non-living systems",
+              "A concept unrelated to biology",
+              "Populations of organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is saponification?",
+            "options": [
+              "A reaction that converts soap back into a fat or oil",
+              "A reaction that only occurs between two acids",
+              "The hydrolysis reaction of a fat or oil with a strong base to form soap",
+              "A purely physical process with no chemical reaction involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ion exchange resins soften water primarily by doing what?",
+            "options": [
+              "Adding more calcium and magnesium ions to the water",
+              "Replacing hard-water ions such as calcium and magnesium with sodium ions",
+              "Boiling off all dissolved minerals",
+              "Freezing the water to remove impurities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Silicone polymers are distinguished from typical organic carbon-based polymers by having what in their backbone?",
+            "options": [
+              "A backbone made entirely of nitrogen atoms",
+              "A backbone made entirely of carbon atoms with no other elements",
+              "A backbone of alternating silicon and oxygen atoms",
+              "No backbone structure at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 136-139.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Media Literacy: Astroturfing and Manufactured Grassroots Campaigns; Grammar: Cumulative and Periodic Sentences; Literature: The Doppelganger Motif in Fiction; Oral Communication: Handling Audience Questions and Extemporaneous Response.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is astroturfing?",
+            "options": [
+              "A genuine, entirely spontaneous grassroots movement with no organization",
+              "A type of academic citation style",
+              "An organized campaign disguised as spontaneous grassroots public opinion",
+              "A formal government policy announcement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a cumulative sentence?",
+            "options": [
+              "A sentence that starts with the main idea and adds details afterward",
+              "A sentence with no main idea at all",
+              "A sentence that always begins with a question",
+              "A sentence with only one word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a periodic sentence from a cumulative sentence?",
+            "options": [
+              "It withholds the main idea until the very end of the sentence",
+              "It has no main clause at all",
+              "It repeats the same word three times",
+              "It must always be phrased as a question"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In literature, a doppelganger typically functions as a character's ___.",
+            "options": [
+              "Historical biographer",
+              "Double or alter ego, often embodying a repressed or opposing side of the self",
+              "Direct translator for foreign dialogue",
+              "Comic relief with no thematic purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Financial Mathematics: The Rule of 72 and Estimating Exponential Growth; Data Management: An Introduction to Geometric Probability; Math Review: Advanced Algebra, Trigonometry, and Data; Trigonometry: The Pythagorean Trigonometric Identity.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does the rule of 72 estimate?",
+            "options": [
+              "The total value of an investment after exactly one year",
+              "The number of payments in a mortgage",
+              "The number of years needed for an investment to double in value",
+              "The exact interest rate of any loan"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does geometric probability use to calculate likelihood?",
+            "options": [
+              "Area, length, or volume rather than counting discrete outcomes",
+              "Only the colour of an object",
+              "Only the time of day",
+              "Only the number of people in a room"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which equation is the Pythagorean trigonometric identity?",
+            "options": [
+              "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
+              "sin\u03b8 + cos\u03b8 = 1",
+              "sin\u00b2\u03b8 \u2212 cos\u00b2\u03b8 = 1",
+              "tan\u00b2\u03b8 + 1 = sin\u03b8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the Rule of 72, an investment growing at 6% annual interest will approximately double in how many years?",
+            "options": [
+              "6 years",
+              "9 years",
+              "12 years",
+              "18 years"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Autoimmune Disorders and Immune System Dysfunction; Biology: Detritivores and Decomposer Food Webs; Human Biology: The Neuron -- Structure and the Action Potential; Ecology: Island Biogeography and Species-Area Relationships.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What causes an autoimmune disorder?",
+            "options": [
+              "A purely mechanical injury to a single organ",
+              "An excess of vitamin intake over a short period",
+              "A complete absence of any immune system activity",
+              "The immune system fails to distinguish the bodys own cells from foreign invaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do detritivores consume?",
+            "options": [
+              "Only living prey that they actively hunt",
+              "Only inorganic minerals from rock",
+              "Sunlight, through a process similar to photosynthesis",
+              "Dead organic matter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During the rising phase of a neuron's action potential, the membrane becomes more permeable to which ion, causing depolarization?",
+            "options": [
+              "Potassium (K+) flowing out of the cell",
+              "Sodium (Na+) flowing into the cell",
+              "Chloride (Cl-) flowing into the cell",
+              "Calcium (Ca2+) flowing out of the cell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to island biogeography theory, what does the species-area relationship predict?",
+            "options": [
+              "Larger islands support fewer species than smaller islands",
+              "Island size has no effect on species richness",
+              "Larger islands generally support a greater number of species",
+              "All islands reach exactly the same number of species regardless of size"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Fluoride Chemistry and Tooth Remineralization; Redox Reactions: Oxidation and Reduction; Chemistry: Freezing Point Depression and Road Deicing; Sound Waves and the Doppler Effect.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What mineral makes up the crystal structure of tooth enamel?",
+            "options": [
+              "Hydroxyapatite",
+              "Silicon dioxide",
+              "Calcium carbonate exclusively",
+              "Sodium chloride"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A redox reaction involves the transfer of ___ between substances.",
+            "options": [
+              "Protons only, with no electron involvement",
+              "Neutrons",
+              "Electrons",
+              "A particle unrelated to chemical reactions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does salt lower the freezing point of water on icy roads (freezing point depression)?",
+            "options": [
+              "Dissolved ions disrupt the formation of the ice crystal lattice, requiring a lower temperature to freeze",
+              "Salt chemically reacts with water to produce heat that melts ice permanently",
+              "Salt increases the vapor pressure of water, raising its freezing point",
+              "Salt has no effect on freezing point and only changes the colour of ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In fluoride treatments for tooth remineralization, fluoride ions replace which component of tooth enamel to form more decay-resistant fluorapatite?",
+            "options": [
+              "Carbon atoms in the enamel's organic matrix",
+              "Hydroxide ions in the hydroxyapatite crystal structure",
+              "Sodium ions bound to the enamel surface",
+              "Water molecules trapped within the enamel"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 140-143.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: English Review: Ode, Utopia, Rhetoric, and Media Literacy; Writing: The Elegy and Occasional Writing; Literature: The Fairy Tale Retelling and Revisionist Fiction; Grammar: Conditional Sentences and Hypothetical Reasoning.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "A traditional elegy's structure often includes a movement from ___.",
+            "options": [
+              "Grief toward consolation or acceptance",
+              "Celebration toward mockery",
+              "Narrative toward pure description",
+              "Formal verse toward free verse"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an elegy?",
+            "options": [
+              "A reflective poem or piece of writing that mourns a loss",
+              "A type of business letter",
+              "A scientific report format",
+              "A humorous poem with no serious tone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a defining feature of revisionist fiction that retells a classic fairy tale?",
+            "options": [
+              "It reproduces the original story exactly, word for word",
+              "It reworks a familiar story to challenge or subvert its original perspective, values, or outcome",
+              "It removes all characters from the original tale",
+              "It can only be written in verse form"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a conditional structure to express hypothetical reasoning about an unreal past situation?",
+            "options": [
+              "If it rains tomorrow, we will cancel the trip.",
+              "If she studies harder, she will pass the exam.",
+              "If I had known about the traffic, I would have left earlier.",
+              "If the sun rises, it is morning."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Algebra: Solving Radical Equations; Calculus: The Product Rule for Derivatives; Calculus: The Quotient Rule for Derivatives; Calculus: The Chain Rule for Composite Functions.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What defines a radical equation?",
+            "options": [
+              "An equation in which a variable appears inside a radical, such as a square root",
+              "An equation that cannot be graphed",
+              "An equation with no variables of any kind",
+              "An equation that only involves whole number coefficients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the product rule let you differentiate?",
+            "options": [
+              "A product of two functions, without expanding the product first",
+              "Only the sum of two functions",
+              "Only a single function with no multiplication involved",
+              "Only a function divided by a constant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the quotient rule, if f(x) = u(x)/v(x), what is f'(x)?",
+            "options": [
+              "(u'v \u2212 uv') / v\u00b2",
+              "(u'v + uv') / v\u00b2",
+              "u'v \u2212 uv'",
+              "u' / v'"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The chain rule is used to differentiate which type of function?",
+            "options": [
+              "A function raised to a constant power only",
+              "A composite function, one function nested inside another",
+              "Only linear functions with a slope of one",
+              "A function with no other functions involved"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology Review: Genetics, Physiology, and Ecology; Microbiology: Horizontal Gene Transfer in Bacteria; Biology: Seed Dormancy and Germination Triggers; Biology: Embryonic Development -- Cleavage to Differentiation.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "Why is seed dormancy evolutionarily advantageous for many plant species?",
+            "options": [
+              "It guarantees the seed will never germinate",
+              "It delays germination until conditions are more likely to support seedling survival",
+              "It prevents the seed from being eaten by animals",
+              "It increases the seed's size over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In bacterial conjugation, genetic material is transferred:",
+            "options": [
+              "By bacteria absorbing free DNA from their environment",
+              "Directly between two bacterial cells through a pilus",
+              "Through a virus that infects two different bacteria",
+              "Only during bacterial binary fission"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What environmental cue commonly breaks seed dormancy and triggers germination?",
+            "options": [
+              "Complete darkness maintained indefinitely",
+              "Exposure to adequate moisture, temperature, and in some species light",
+              "A permanent absence of oxygen",
+              "Continuous freezing temperatures with no variation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During early embryonic development, what is cleavage?",
+            "options": [
+              "The programmed death of embryonic cells",
+              "The process by which the embryo implants in the uterine wall",
+              "A series of rapid mitotic cell divisions of the zygote without overall growth in size",
+              "The formation of the nervous system from the ectoderm"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Electric Fields and Static Discharge; Solutions and Solubility: Concentration and Saturation; Friction, Air Resistance, and Terminal Velocity; Enzymes and Biological Catalysts.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "An electric field surrounds a charged object and exerts a force on ___.",
+            "options": [
+              "Other charges within that field",
+              "Nothing, as electric fields exert no force",
+              "A concept unrelated to electricity",
+              "Only objects with no charge at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A solution forms when a ___ dissolves in a solvent.",
+            "options": [
+              "A substance that never mixes with a solvent",
+              "Solute",
+              "Solvent, dissolving into itself",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An object falling through air reaches terminal velocity when:",
+            "options": [
+              "Air resistance becomes zero",
+              "The upward force of air resistance equals the downward force of gravity, so acceleration stops",
+              "Gravity stops acting on the object entirely",
+              "The object's mass suddenly increases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As biological catalysts, enzymes speed up reactions primarily by:",
+            "options": [
+              "Being permanently consumed in the reaction they catalyze",
+              "Increasing the temperature of the surrounding solution",
+              "Lowering the activation energy required for the reaction to proceed",
+              "Changing the overall equilibrium constant of the reaction"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 144-147.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Independent Reading: Climate Fiction and Environmental Storytelling; Media Literacy: Political Cartoons and the Grammar of Visual Satire; Oral Communication: Vocal Delivery \u2014 Pace, Pitch, and Emphasis; Reading: Analyzing In Medias Res and Narrative Beginnings.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does climate fiction typically imagine?",
+            "options": [
+              "Characters and societies confronting environmental change and its consequences",
+              "Purely historical events with no connection to climate",
+              "A setting entirely disconnected from any scientific concept",
+              "A world with no environmental concerns of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a political cartoon typically compress into a single frame?",
+            "options": [
+              "Commentary on a public issue using symbolic imagery and caricature",
+              "A detailed scientific diagram with no commentary",
+              "A complete, unabridged transcript of a news broadcast",
+              "A purely decorative image with no argument at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In oral communication, varying pace, pitch, and emphasis primarily helps a speaker to:",
+            "options": [
+              "Read the entire speech at the exact same volume throughout",
+              "Emphasize key ideas and maintain audience engagement through vocal variety",
+              "Eliminate the need for eye contact with the audience",
+              "Avoid using any hand gestures during a speech"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A narrative that begins in medias res starts:",
+            "options": [
+              "Strictly in chronological order from the character's birth",
+              "With an extended prologue describing the setting before any action occurs",
+              "In the middle of the action, with earlier events revealed later",
+              "Only after the story's climax has already been resolved"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Financial Literacy: Inflation and the Time Value of Money; Algebra: Solving Exponential Equations; Financial Literacy: Present Value and Future Value of Annuities; Geometry: Graphing Sine and Cosine Functions (Amplitude and Period).",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does inflation gradually reduce?",
+            "options": [
+              "The physical size of paper currency",
+              "The number of digits in a bank account",
+              "The purchasing power of money over time",
+              "The total number of banks in a country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines an exponential equation?",
+            "options": [
+              "An equation in which the variable appears in the exponent",
+              "An equation that only involves whole number coefficients",
+              "An equation with no exponents of any kind",
+              "An equation that cannot be graphed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes the future value of an annuity from its present value?",
+            "options": [
+              "Future value discounts a series of payments back to today's dollars",
+              "Future value calculates what a series of regular payments will grow to by a future date, including accumulated interest",
+              "Present value and future value are always numerically identical",
+              "Future value ignores interest entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the function y = 3sin(2x), what are the amplitude and period?",
+            "options": [
+              "Amplitude 3, period \u03c0",
+              "Amplitude 2, period 3\u03c0",
+              "Amplitude 3, period 2\u03c0",
+              "Amplitude 2, period \u03c0"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Ecology: Ecological Niches and Competitive Exclusion; Biology: Blood Types and the ABO/Rh Blood Group Systems; Biology: Innate Immunity -- The Body's First Line of Defense; Biology: Antibody Structure and the Humoral Immune Response.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What does a species ecological niche describe?",
+            "options": [
+              "Its full role in an ecosystem, including the resources it uses and conditions it tolerates",
+              "The exact number of offspring a species produces each year",
+              "Only the geographic location where a species was first discovered",
+              "Only the physical size of an individual organism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the ABO blood group system classify?",
+            "options": [
+              "Blood based on the persons eye colour",
+              "Blood based on the presence or absence of A and B antigens on red blood cells",
+              "Blood based on its exact volume in the body",
+              "Blood based on the persons age at donation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of the body's innate immune defenses?",
+            "options": [
+              "Production of highly specific antibodies against a previously encountered pathogen",
+              "Physical barriers like skin and mucous membranes along with general inflammatory responses",
+              "Memory B cells that respond faster upon second exposure to an antigen",
+              "T cells that recognize one specific antigen after prior exposure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the humoral immune response, antibodies are produced and secreted by:",
+            "options": [
+              "Plasma cells derived from activated B lymphocytes",
+              "Red blood cells circulating in the bloodstream",
+              "Neurons in the peripheral nervous system",
+              "Skeletal muscle cells"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Review: Solutions, Immune System, Circulatory/Respiratory, and Radioactivity; Nanotechnology and Materials Science; Chemistry: Aerosols and Atmospheric Particulate Matter; Chemistry: Fire Retardant Chemistry and Flame-Resistant Materials.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "Which of the following is a way that atmospheric aerosols can affect climate?",
+            "options": [
+              "By scattering or absorbing sunlight and acting as cloud condensation nuclei",
+              "By directly increasing atmospheric oxygen levels",
+              "By permanently removing carbon dioxide from the atmosphere",
+              "By blocking all forms of precipitation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nanotechnology involves manipulating matter at ___.",
+            "options": [
+              "A scale only relevant to astronomical distances",
+              "A concept unrelated to materials science",
+              "A scale visible clearly to the naked eye with no magnification",
+              "An extremely small scale, often at the level of individual atoms or molecules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In atmospheric chemistry, what are aerosols?",
+            "options": [
+              "Purely gaseous molecules with no solid or liquid component",
+              "Tiny solid or liquid particles suspended in the air",
+              "A form of ionizing radiation emitted by the sun",
+              "Water vapor exclusively, with no other particulate matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many fire retardant chemicals work by:",
+            "options": [
+              "Increasing the oxygen concentration available to the flame",
+              "Releasing flammable gases that intensify combustion",
+              "Interfering with the combustion process, such as by releasing water vapor, forming an insulating char layer, or disrupting radical chain reactions",
+              "Raising the ignition temperature of oxygen molecules in the air"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 148-152.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The White Paper \u2014 Persuasive Technical Writing; Poetry: The Concrete Poem \u2014 Visual Form and Meaning; English Review: Fixed Forms, Revision, and Persuasive Voice; Grammar: Emphatic and Cleft Sentences; Grammar: Elliptical Constructions and Implied Words.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a white paper typically present?",
+            "options": [
+              "A short poem with no argument at all",
+              "A purely fictional narrative with invented characters",
+              "A detailed, evidence-based argument about a technical, policy, or business problem",
+              "A single-sentence advertising slogan"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a concrete poem arrange to reinforce its subject?",
+            "options": [
+              "Only its title, with no attention to the body text",
+              "Its words, letters, and spacing on the page",
+              "Only its rhyme scheme, with no visual arrangement",
+              "Only its punctuation marks, arranged alphabetically"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a cleft sentence used for?",
+            "options": [
+              "Combining two independent clauses with no punctuation",
+              "Dividing a single idea into two clauses to emphasize a specific piece of information, e.g., 'It was Maria who solved the problem.'",
+              "Eliminating all subordinate clauses from a sentence",
+              "Converting a statement into a question"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An elliptical construction achieves conciseness by:",
+            "options": [
+              "Adding extra descriptive adjectives to every noun",
+              "Repeating the main verb multiple times for emphasis",
+              "Omitting words that are understood from context, such as 'She likes tea and he [likes] coffee'",
+              "Always using passive voice instead of active voice"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Trigonometry: Graphing the Tangent Function and Its Asymptotes; Geometry: The Dot Product and the Angle Between Vectors; Probability: An Introduction to Geometric Probability; Calculus: Related Rates Problems; Calculus: Concavity, Inflection Points, and the Second Derivative.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What is the period of the basic tangent function y = tan(x)?",
+            "options": [
+              "Pi",
+              "Pi divided by two",
+              "4 pi",
+              "2 pi"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is the dot product of two vectors calculated?",
+            "options": [
+              "By multiplying corresponding components and summing the results",
+              "By multiplying only the first components of each vector",
+              "By subtracting corresponding components and summing the results",
+              "By dividing one vector by the other component-wise"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a related rates problem, what is the key strategy for finding how one quantity's rate of change relates to another's?",
+            "options": [
+              "Differentiate an equation relating the quantities with respect to time, using the chain rule",
+              "Set both quantities equal to zero and solve algebraically",
+              "Graph the quantities and estimate the rates visually with no calculus",
+              "Integrate the equation relating the quantities with respect to time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At an inflection point of a function's graph, what happens to the second derivative?",
+            "options": [
+              "It becomes undefined for all nearby values",
+              "It changes sign, indicating a change in concavity",
+              "It must always equal the function's maximum value",
+              "It remains constant and positive throughout"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Bioindicator Species and Water Quality Assessment; Human Biology: Synaptic Transmission and Neurotransmitters; Biology Review: Gene Transfer, Development, and Immunity; Ecology: Wetland Ecosystems and Ecosystem Services; Biology: Restriction Enzymes and Recombinant DNA Technology.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is a bioindicator species?",
+            "options": [
+              "A species that has no relationship to environmental conditions",
+              "An organism whose presence, absence, or abundance reflects the health of its environment",
+              "A species that only exists in fossil records",
+              "A species found only in laboratory settings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When an action potential reaches the axon terminal, it triggers the release of neurotransmitter from:",
+            "options": [
+              "The postsynaptic membrane",
+              "Synaptic vesicles in the presynaptic neuron",
+              "The cell body of the receiving neuron",
+              "The myelin sheath"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an ecosystem service provided by wetlands?",
+            "options": [
+              "Increasing the rate of soil erosion downstream",
+              "Filtering pollutants from water and providing natural flood control",
+              "Eliminating all local biodiversity to create monocultures",
+              "Permanently lowering the regional water table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In recombinant DNA technology, restriction enzymes are used to:",
+            "options": [
+              "Permanently destroy all DNA in a sample",
+              "Cut DNA at specific recognition sequences, producing fragments that can be spliced together",
+              "Replicate an entire genome without any cutting",
+              "Translate mRNA into protein directly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Invisible Ink and Redox Indicators; Science: Epigenetics: How Environment Affects Gene Expression; Science: The Physics of Superconductors; Chemistry: Electronegativity and Bond Polarity; Chemistry: Dyes and Pigments \u2014 Azo Compounds and Colour Chemistry.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What property do many invisible ink compounds share before they are revealed?",
+            "options": [
+              "They are metallic solids with no organic component",
+              "They glow permanently under any lighting condition",
+              "They are bright, highly visible pigments",
+              "They are colourless organic compounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does epigenetics study?",
+            "options": [
+              "How environmental factors influence whether genes are turned on or off",
+              "A concept unrelated to biology",
+              "How genes are physically removed from an organism",
+              "How DNA sequences are permanently rewritten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A chemical bond between two atoms with a large electronegativity difference is best described as:",
+            "options": [
+              "Nonpolar covalent, with electrons shared equally",
+              "Polar covalent or ionic, with electrons shared unequally or transferred",
+              "Metallic, with a sea of delocalized electrons",
+              "Entirely lacking any electron interaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Azo compounds, widely used as dyes and pigments, are characterized by which functional group?",
+            "options": [
+              "A carboxylic acid group (-COOH)",
+              "A hydroxyl group (-OH)",
+              "A nitrogen-nitrogen double bond (-N=N-) linking two aromatic rings",
+              "A carbonyl group (C=O) with no nitrogen present"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 153-156.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Grammar: Correlative Conjunctions and Balanced Sentence Structure; Drama: The Soliloquy and Interior Thought on Stage; Media Literacy: Satirical News and the Line Between Parody and Misinformation; Oral Communication: Nonverbal Communication and Body Language in Presentations.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is distinctive about correlative conjunctions?",
+            "options": [
+              "They can only be used at the very start of a paragraph",
+              "They work in pairs to link balanced grammatical elements",
+              "They never appear more than once in an entire essay",
+              "They eliminate the need for any punctuation whatsoever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a soliloquy?",
+            "options": [
+              "A conversation between two characters with no audience present",
+              "A stage direction printed only in the margins of a script",
+              "A song performed by an entire chorus of characters",
+              "A dramatic speech in which a character alone on stage speaks private thoughts aloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the key distinction between satirical news and genuine misinformation?",
+            "options": [
+              "Satirical news uses humor and exaggeration with an implicit signal it is not literally true, while misinformation is presented as factually accurate",
+              "Satirical news always contains verified statistics",
+              "Misinformation is always intended as comedy",
+              "There is no meaningful distinction between the two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of nonverbal communication in an oral presentation?",
+            "options": [
+              "The specific vocabulary chosen in the written script",
+              "The citation format used in a bibliography",
+              "The font size used on a slide's text",
+              "Posture, eye contact, and gestures used while speaking"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Calculus: Implicit Differentiation; Statistics: An Introduction to Percentiles and Quartiles; Sequences and Series: Recursive versus Explicit Formulas; Math Review: Probability, Number Theory, and Statistics (Days 171-179).",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "When is implicit differentiation needed?",
+            "options": [
+              "When y is not isolated on one side of an equation",
+              "Only when a function has no variables at all",
+              "Only when an equation contains no y term whatsoever",
+              "When a function is already fully solved for y"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a percentile indicate?",
+            "options": [
+              "The percentage of data values in a set that fall below a given value",
+              "The exact number of data points in a set",
+              "The largest value in a data set",
+              "The colour used in a graph of the data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be known to compute a term using a recursive formula that is not required when using an explicit formula?",
+            "options": [
+              "The value of one or more preceding terms in the sequence",
+              "The common ratio of an unrelated sequence",
+              "The final term of the sequence",
+              "Nothing beyond the term number itself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do quartiles divide an ordered data set into?",
+            "options": [
+              "Ten equal groups",
+              "Four groups containing roughly equal numbers of data points",
+              "Two groups split at the mean",
+              "A single group with no divisions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Gel Electrophoresis and DNA Fingerprinting; Evolution: Phylogenetics and the Construction of Cladograms; Biochemistry: Cellular Respiration and ATP Production; Physiology: Muscle Contraction and the Sliding Filament Theory.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What property of DNA fragments does gel electrophoresis separate by?",
+            "options": [
+              "Colour",
+              "Taste",
+              "Size",
+              "Exact age of the sample"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does phylogenetics reconstruct?",
+            "options": [
+              "A list of every mutation in a single genome",
+              "The evolutionary relationships among species",
+              "The precise geographic coordinates of a species habitat",
+              "The exact diet of a single individual organism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In cellular respiration, where does the electron transport chain that generates most of the ATP take place?",
+            "options": [
+              "The cytoplasm",
+              "The nucleus",
+              "The cell wall",
+              "The inner mitochondrial membrane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to the sliding filament theory, what directly causes a muscle fiber to shorten during contraction?",
+            "options": [
+              "Myosin heads pulling actin filaments toward the center of the sarcomere",
+              "Actin filaments dissolving completely",
+              "The muscle fiber increasing in total length",
+              "Calcium ions leaving the cell permanently"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Science: Vaccines and Immunology; Chemistry: Bleach and Oxidizing Household Cleaners; Chemistry: Thiols and the Chemistry of Skunk Spray; Chemistry: Amphoteric Substances \u2014 Acting as Both Acid and Base.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does immunology study?",
+            "options": [
+              "A concept unrelated to biology",
+              "How plants convert sunlight into food",
+              "How rocks form over long periods of time",
+              "How the immune system protects the body from pathogens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of chemical agent is household bleach?",
+            "options": [
+              "An oxidizing agent",
+              "A completely inert substance with no reactivity",
+              "A reducing agent with no oxidizing ability",
+              "A pure acid with no oxidizing properties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which functional group gives thiols, such as those in skunk spray, their characteristically strong odor?",
+            "options": [
+              "The hydroxyl (-OH) group",
+              "The carboxyl (-COOH) group",
+              "The sulfhydryl (-SH) group",
+              "The amine (-NH2) group"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a substance as amphoteric?",
+            "options": [
+              "It can react as either an acid or a base depending on what it reacts with",
+              "It can never participate in acid-base reactions",
+              "It is always a strong acid",
+              "It only reacts with metals"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 157-160.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Cover Letter and Professional Correspondence; Poetry: Sound Devices \u2014 Alliteration, Assonance, and Onomatopoeia; Literature: Foreshadowing and Dramatic Irony; English Review: Poetic Craft, Narrative Devices, and Professional Writing.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What is the purpose of a cover letter?",
+            "options": [
+              "To list every job the applicant has ever held in exhaustive detail",
+              "To replace the need for a resume entirely",
+              "To provide a full transcript of academic grades",
+              "To introduce an applicant to a reader who has not yet seen their full application"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "A rhyme scheme that never repeats any sound",
+              "A poem with no sound devices at all",
+              "The repetition of an entire sentence word for word",
+              "The repetition of initial consonant sounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What literary device is defined by the repetition of vowel sounds in nearby words?",
+            "options": [
+              "Onomatopoeia",
+              "Assonance",
+              "Alliteration",
+              "Enjambment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens in a scene that uses dramatic irony?",
+            "options": [
+              "The audience knows something important that a character on stage does not",
+              "A character directly addresses the audience by name",
+              "Two characters speak in rhyme for the entire scene",
+              "The setting changes without any dialogue"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Financial Mathematics: Tax Brackets and Marginal versus Average Tax Rate; Calculus: Solving Optimization Problems with the Derivative; Statistics: An Introduction to Variance; Functions: Domain and Range in Interval and Set Notation.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does a progressive tax system apply to successive brackets of income?",
+            "options": [
+              "Increasing tax rates",
+              "Decreasing tax rates as income rises",
+              "No tax whatsoever, regardless of income",
+              "A single fixed tax rate with no brackets at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an optimization problem ask you to find?",
+            "options": [
+              "The total number of terms in a polynomial",
+              "The maximum or minimum value of a quantity",
+              "The colour of a graphed function",
+              "The exact midpoint of an unrelated data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does variance measure about a data set?",
+            "options": [
+              "The middle value when the data is ordered",
+              "The average of the squared deviations of each value from the mean",
+              "The single most frequently occurring value",
+              "The difference between the highest and lowest values only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which interval notation correctly represents the domain x > 3?",
+            "options": [
+              "(3, \u221e)",
+              "[3, \u221e)",
+              "(-\u221e, 3)",
+              "(-\u221e, 3]"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Human Biology: The Menstrual Cycle and Hormonal Regulation; Behavioural Genetics: Twin Studies and the Nature-Nurture Debate; Plant Biology: Transpiration and the Cohesion-Tension Theory; Biology Review: Biotechnology, Physiology, and Ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What regulates the menstrual cycle?",
+            "options": [
+              "A process with no hormonal involvement at all",
+              "A fixed, unchanging hormone level with no variation",
+              "The digestive system exclusively",
+              "A shifting balance of hormones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do twin studies compare?",
+            "options": [
+              "Identical twins to fraternal twins",
+              "Only children with no siblings at all",
+              "Twins raised on entirely different planets",
+              "Siblings born decades apart"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the cohesion-tension theory, what force pulls water upward through a plant's xylem?",
+            "options": [
+              "Negative pressure from transpiration combined with cohesion between water molecules",
+              "Active pumping by root cells",
+              "Gravity acting on the water column",
+              "Osmosis occurring only in the stem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What hormonal event directly triggers ovulation during the menstrual cycle?",
+            "options": [
+              "A steady decline in estrogen throughout the cycle",
+              "A surge in luteinizing hormone (LH)",
+              "The complete absence of progesterone",
+              "A surge in insulin"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Rocket Propellants and Oxidizer Chemistry; Chemistry: Solvent Polarity \u2014 Like Dissolves Like; Chemistry: Non-Stick Cookware and Fluoropolymer Chemistry; Chemistry Review: Polarity, Household Chemistry, and Acid-Base Extensions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does an oxidizer supply in a rocket propellant system?",
+            "options": [
+              "A source of pure nitrogen gas only",
+              "A coolant with no chemical reactivity",
+              "A structural support for the rocket body",
+              "The oxygen needed for combustion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the principle of like dissolves like predict?",
+            "options": [
+              "Only nonpolar solvents are capable of dissolving anything",
+              "Polar solvents can never dissolve any solute at all",
+              "All solvents dissolve all solutes equally well",
+              "Polar solvents dissolve polar solutes, and nonpolar solvents dissolve nonpolar solutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a PTFE (Teflon) coating make cookware non-stick?",
+            "options": [
+              "Strong carbon-fluorine bonds create a chemically inert, low-friction surface",
+              "The coating is a strong acid that dissolves food residue",
+              "The coating actively bonds to any material placed on it",
+              "The coating is a reactive metal that repels oxygen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a bipropellant rocket engine, what does the oxidizer combine with to produce thrust?",
+            "options": [
+              "A stream of pure nitrogen gas",
+              "A fuel that is oxidized in the combustion reaction",
+              "Liquid water used only for cooling",
+              "An inert gas with no reactivity"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 161-165.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Poetry: The Haiku and Tanka \u2014 Compression and Natural Imagery; Grammar: Verbals \u2014 Gerunds, Participles, and Infinitives in Complex Sentences; Literature: The Family Saga Novel Across Generations; Media Literacy: Photo Manipulation and the Ethics of the Digital Image; Oral Communication: The Panel Discussion and Group Facilitation.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What structural feature defines a haiku?",
+            "options": [
+              "A rhymed couplet describing an urban skyline",
+              "A twelve-line form with no fixed structure at all",
+              "A compressed three-line form built around a single natural image",
+              "A form that forbids any reference to nature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a verbal?",
+            "options": [
+              "A noun that has been converted into a proper adjective",
+              "A punctuation mark used only in dialogue",
+              "A verb form that functions as another part of speech",
+              "A verb that can never appear in a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What distinguishes a family saga novel as a literary form?",
+            "options": [
+              "It follows a single character's story that never mentions family",
+              "It traces the lives of multiple generations of one family over an extended timeline",
+              "It is always written entirely in verse",
+              "It takes place over a single day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a central ethical concern raised by photo manipulation in digital media?",
+            "options": [
+              "Altered images can misrepresent reality and mislead viewers",
+              "Manipulated photos are always clearly labeled as fake",
+              "Digital editing has no effect on how an image is perceived",
+              "Photo manipulation is illegal in all circumstances"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Calculus: Higher-Order Derivatives and Rates of Change of Rates of Change; Calculus: Curve Sketching Using the First and Second Derivative Tests; Financial Mathematics: Simple Interest and Calculating Total Amount; Financial Mathematics: Compound Interest and the Future Value Formula; Sequences: Arithmetic Sequences \u2014 General Term and Sum Formulas.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "How is a higher-order derivative found?",
+            "options": [
+              "By graphing the function with no further calculation",
+              "By integrating a function a single time",
+              "By differentiating a function more than once",
+              "By setting the function equal to zero and solving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the first derivative test locate?",
+            "options": [
+              "The colour of a functions graph",
+              "The total area under a curve",
+              "The exact y-intercept of a function",
+              "Local maxima and minima"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In curve sketching, what does a sign change in the second derivative indicate?",
+            "options": [
+              "A vertical asymptote",
+              "A point where the function is undefined",
+              "An inflection point where concavity changes",
+              "A horizontal asymptote"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the key difference between compound interest and simple interest?",
+            "options": [
+              "Compound interest is calculated only once at the very end of the term",
+              "Simple interest increases exponentially over time",
+              "Compound interest is calculated on the principal plus previously earned interest, while simple interest is calculated on the principal only",
+              "There is no mathematical difference between the two"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Ecology: Grassland and Savanna Ecosystems; Physiology: The Liver \u2014 Detoxification and Metabolic Functions; Genetics: Nondisjunction and Aneuploidy; Biology: Photosynthesis -- Light Reactions and the Calvin Cycle; Evolution: Sexual Selection and Mate Choice.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What plant type dominates grassland and savanna ecosystems?",
+            "options": [
+              "Coniferous trees exclusively",
+              "Grasses",
+              "Coral and other marine organisms",
+              "Mosses and lichens exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the liver do to blood arriving from the digestive tract?",
+            "options": [
+              "Converts it directly into bone tissue",
+              "Immediately discards it without any filtration",
+              "Filters it, breaking down or neutralizing toxins",
+              "Has no effect on blood arriving from digestion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is nondisjunction?",
+            "options": [
+              "The normal separation of chromosomes during mitosis",
+              "The failure of chromosomes to separate properly during meiosis",
+              "A mutation that changes a single DNA base",
+              "The fusion of two separate cells into one"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where within the chloroplast do the light-dependent reactions of photosynthesis occur?",
+            "options": [
+              "The stroma",
+              "The outer chloroplast membrane",
+              "The thylakoid membrane",
+              "The mitochondrial matrix"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Caffeine and Alkaloid Extraction Chemistry; Chemistry: The Chemistry of Chewing Gum \u2014 Polymer Base and Flavour Release; Chemistry: Water Electrolysis and Hydrogen as a Fuel Source; Chemistry: The Chemistry of Tattoo Ink and Pigment Permanence in Skin; Science: Chemical Bonding: Metallic Bonds and Alloys.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What class of organic compound is caffeine?",
+            "options": [
+              "An alkaloid",
+              "A noble gas",
+              "An ionic salt with no carbon present",
+              "A pure metal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the base of chewing gum remain chewable rather than dissolving?",
+            "options": [
+              "Saliva has no interaction with the gum base at all",
+              "The polymer base is insoluble in saliva",
+              "Chewing gum contains no polymer of any kind",
+              "The polymer base dissolves instantly in saliva"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What products form at the two electrodes during the electrolysis of water?",
+            "options": [
+              "Only water vapor at both electrodes",
+              "Carbon dioxide at both electrodes",
+              "Chlorine gas at the cathode and sodium metal at the anode",
+              "Hydrogen gas at the cathode and oxygen gas at the anode"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What feature of metallic bonding is often described as a 'sea of electrons'?",
+            "options": [
+              "Electrons fixed permanently to a single metal atom",
+              "Delocalized valence electrons that move freely throughout the metal lattice",
+              "Covalent bonds shared between exactly two atoms",
+              "Ionic charges balanced between a metal and a nonmetal"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 166-170.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Proposal Argument \u2014 Identifying a Problem and Proposing a Solution; Poetry: Blank Verse and the Rhythm of Iambic Pentameter; Drama: Stage Directions and the Language of the Performance Text; Literature: The Serial Novel and Publication in Instalments; English Review: Haiku, Verbals, Panels, and Proposal Writing.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does a proposal argument begin by identifying?",
+            "options": [
+              "A specific problem",
+              "A list of random statistics with no context",
+              "An unrelated historical event",
+              "A solution with no stated problem behind it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines blank verse?",
+            "options": [
+              "Poetry written entirely in prose with no meter",
+              "Rhymed poetry with no fixed meter at all",
+              "Unrhymed poetry written in iambic pentameter",
+              "A form that forbids any use of rhythm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary function of stage directions in a performance text?",
+            "options": [
+              "To instruct actors, designers, and directors on movement, setting, and delivery",
+              "To replace all spoken dialogue in a scene",
+              "To provide footnotes explaining vocabulary to the reader",
+              "To list the cast of characters at the end of the play"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How was a serial novel typically published when the form first became popular?",
+            "options": [
+              "As a single complete volume released all at once",
+              "In periodic instalments, often in a magazine or newspaper",
+              "Only as an oral performance with no written text",
+              "Simultaneously in multiple languages"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Geometry: The Equation of a Sphere in Three Dimensions; Complex Numbers: Complex Conjugates and Their Properties; Sequences: Geometric Sequences \u2014 General Term and Sum Formulas; Functions: Solving Exponential Equations Using Common Bases; Functions: Introduction to Logarithms \u2014 Converting Between Exponential and Logarithmic Form.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What does the equation of a sphere in three dimensions extend?",
+            "options": [
+              "The equation of a circle",
+              "The equation of a straight line",
+              "The equation of a single point with no radius",
+              "An equation with no geometric meaning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the complex conjugate of a number do to its imaginary part?",
+            "options": [
+              "Converts it into a real number with no imaginary component remaining defined",
+              "Doubles it in magnitude",
+              "Removes it entirely, leaving only zero",
+              "Reverses its sign"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To solve an exponential equation like 2^(x+1) = 8 using common bases, what must be done first?",
+            "options": [
+              "Take the derivative of both sides",
+              "Rewrite both sides as powers of the same base",
+              "Divide both sides by 2 immediately",
+              "Assume x equals zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the exponential equation b^y = x converted into logarithmic form?",
+            "options": [
+              "x = log_b(y)",
+              "b = log_x(y)",
+              "y = log_x(b)",
+              "y = log_b(x)"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Plant Biology: Mycorrhizal Associations and Nutrient Exchange; Human Biology: Sleep Architecture and the Stages of Sleep; Biochemistry: Protein Structure \u2014 Primary, Secondary, Tertiary, and Quaternary Levels; Evolution: Genetic Bottlenecks and the Loss of Genetic Diversity; Biology Review: Biomes, Genetics, and Molecular Physiology.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What kind of relationship is a mycorrhizal association?",
+            "options": [
+              "A purely parasitic relationship that harms the plant",
+              "A mutualistic partnership between a fungus and a plants roots",
+              "A relationship that occurs only between two plants, with no fungus involved",
+              "A relationship in which neither organism benefits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sleep architecture refer to?",
+            "options": [
+              "A pattern that occurs only once in a persons lifetime",
+              "A single unchanging state that lasts the entire night",
+              "The physical structure of the bedroom where a person sleeps",
+              "The cyclical pattern of distinct sleep stages a person moves through each night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What defines the tertiary structure of a protein?",
+            "options": [
+              "The overall three-dimensional folding of a single polypeptide chain",
+              "The linear sequence of amino acids in the chain",
+              "The association of multiple separate polypeptide chains",
+              "Local folding patterns like alpha helices alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a genetic bottleneck?",
+            "options": [
+              "A steady increase in population size over many generations",
+              "A sharp reduction in population size that drastically reduces genetic diversity",
+              "A mutation that has no effect on a population's genetics",
+              "The process by which two species merge into one"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: The Chemistry of Chocolate \u2014 Tempering and Cocoa Butter Crystal Forms; Chemistry: Triboelectric Charging and the Chemistry of Static Electricity; Chemistry: Molecular Gastronomy \u2014 Spherification and Gel Chemistry in Cooking; Science: Cell Transport: Diffusion and Osmosis; Chemistry Review: Everyday Chemistry, Energy, and Human Physiology.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What can cocoa butter solidify into?",
+            "options": [
+              "A gas at room temperature",
+              "A liquid that never solidifies under any conditions",
+              "A single crystal form with no variation possible",
+              "Several different crystal forms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens when two different materials are rubbed together in triboelectric charging?",
+            "options": [
+              "Protons transfer freely between the two materials",
+              "Electrons transfer from the surface of one material to the other",
+              "The two materials instantly fuse into a single substance",
+              "No charge transfer of any kind occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In molecular gastronomy, what chemical process underlies spherification?",
+            "options": [
+              "Sodium alginate reacting with calcium ions to form a gel membrane around a liquid",
+              "Freezing a liquid solid with no chemical reaction involved",
+              "Boiling a liquid to evaporate all of its water content",
+              "Adding sugar to increase a liquid's viscosity permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does osmosis specifically describe?",
+            "options": [
+              "The active transport of proteins across a cell membrane",
+              "The net movement of water across a semipermeable membrane toward the region of higher solute concentration",
+              "The diffusion of gases only, never liquids",
+              "The movement of solutes against their concentration gradient using no energy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "label": "Power-Up Day 1",
+    "reviewNote": "Practice day reviewing Days 171-174.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Poetry: Free Verse \u2014 Rhythm Without Meter or Rhyme; Literature: The Road Novel \u2014 Journey as Narrative Structure; Grammar: The Ellipsis and the Rhetoric of the Unsaid; Writing: The Letter to the Editor \u2014 Concise Public Argument.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does free verse abandon compared to traditional poetic forms?",
+            "options": [
+              "All use of line breaks of any kind",
+              "Every reference to natural speech patterns",
+              "A fixed meter and a regular rhyme scheme",
+              "The ability to use imagery at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a road novel organize its plot around?",
+            "options": [
+              "A courtroom trial with no travel involved",
+              "A physical journey",
+              "A single unchanging setting with no movement at all",
+              "A story told entirely through letters with no physical movement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When a writer trails a sentence off with an ellipsis for rhetorical effect, what is typically being conveyed?",
+            "options": [
+              "A grammatically complete statement with nothing left unsaid",
+              "An implied thought or hesitation the reader is left to infer",
+              "A formal citation marking omitted material within a quotation",
+              "An instruction that the sentence must be read aloud twice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary aim of a letter to the editor as a form of public argument?",
+            "options": [
+              "To present a concise, persuasive opinion on a public issue for a general readership",
+              "To provide an exhaustive academic bibliography on the issue",
+              "To record a private conversation between two individuals",
+              "To publish a full-length investigative news report"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Calculus: Derivatives of Exponential and Logarithmic Functions; Functions: The Laws of Logarithms \u2014 Product, Quotient, and Power Rules; Trigonometry: Special Angles and Exact Trigonometric Values; Trigonometry: Graphing Sine and Cosine \u2014 Amplitude, Period, and Phase Shift.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What is notable about the derivative of the natural exponential function?",
+            "options": [
+              "It is undefined at every point",
+              "It equals the square of the original function",
+              "It always equals zero",
+              "It equals the function itself"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which law of logarithms states that log\u1d47(MN) = log\u1d47(M) + log\u1d47(N)?",
+            "options": [
+              "Power Law",
+              "Quotient Law",
+              "Change of Base Law",
+              "Product Law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the exact value of cos(30\u00b0)?",
+            "options": [
+              "1/2",
+              "\u221a3/2",
+              "\u221a2/2",
+              "1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the function y = 3sin(2x), what is the amplitude?",
+            "options": [
+              "2",
+              "6",
+              "3",
+              "1/2"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Hemostasis and the Blood Clotting Cascade; Biology: Punctuated Equilibrium versus Gradualism in the Fossil Record; Biology: The Pancreas \u2014 Exocrine and Endocrine Roles; Human Biology: The Pituitary Gland and Hormonal Control.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What are the three main steps of hemostasis, in order?",
+            "options": [
+              "Platelet plug formation, fibrinolysis, vascular spasm",
+              "Coagulation, vascular spasm, platelet plug formation",
+              "Vascular spasm, platelet plug formation, coagulation (clotting)",
+              "Fibrinolysis, clotting, vascular spasm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does gradualism describe evolutionary change?",
+            "options": [
+              "As a process that occurs in a single instantaneous event",
+              "As a pattern that only ever reverses previous change",
+              "As a process with no connection to time at all",
+              "As a slow, steady accumulation of small modifications over long periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which statement correctly distinguishes the pancreas's exocrine function from its endocrine function?",
+            "options": [
+              "Exocrine cells secrete digestive enzymes into ducts, while endocrine cells secrete hormones like insulin directly into the blood",
+              "Exocrine cells secrete insulin into the blood, while endocrine cells secrete enzymes into ducts",
+              "Both exocrine and endocrine cells secrete only digestive enzymes",
+              "The pancreas has no endocrine function at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the pituitary gland often called the 'master gland'?",
+            "options": [
+              "It is the largest gland in the human body",
+              "It produces hormones that regulate the activity of many other endocrine glands",
+              "It is the only gland that produces no hormones itself",
+              "It controls only the digestive system"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Lewis Structures and Formal Charge; Chemistry: The Contact Process \u2014 Industrial Production of Sulfuric Acid; Science: Cell Division: Mitosis and Meiosis; Chemistry: The Chemistry of Cement and Concrete \u2014 Hydration Reactions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does a Lewis structure represent?",
+            "options": [
+              "The total mass of a molecule",
+              "The arrangement of valence electrons around bonded atoms",
+              "The physical state of a substance at room temperature",
+              "A structure with no connection to electrons at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What acid does the contact process manufacture on an industrial scale?",
+            "options": [
+              "Sulfuric acid",
+              "Nitric acid",
+              "Acetic acid",
+              "Hydrochloric acid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a key difference between mitosis and meiosis?",
+            "options": [
+              "Mitosis produces four genetically unique cells, while meiosis produces two identical cells",
+              "Mitosis produces two genetically identical diploid cells, while meiosis produces four genetically distinct haploid cells",
+              "Meiosis occurs only in plant cells, while mitosis occurs only in animal cells",
+              "Mitosis and meiosis produce identical results in every organism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of reaction occurs when cement hydrates to form concrete?",
+            "options": [
+              "A reversible physical phase change with no chemical bonding",
+              "An exothermic chemical reaction in which water reacts with cement compounds to form solid hydrates",
+              "A purely endothermic reaction that absorbs heat from the surroundings",
+              "A nuclear reaction releasing radiation"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "label": "Power-Up Day 2",
+    "reviewNote": "Practice day reviewing Days 175-178.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Oral Communication: Reading Aloud \u2014 Prosody and Performance in Recitation; Media Literacy: The Filter Bubble and the Algorithmic Echo Chamber; Literature: The Campus Novel and the World of Higher Education; Poetry: The Limerick and the Comic Verse Tradition.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What does prosody refer to when reading a text aloud?",
+            "options": [
+              "The physical size of the printed page",
+              "The exact spelling of every word in the text",
+              "The rhythm, stress, and intonation a speaker brings to the reading",
+              "A quality that applies only to written text, never spoken performance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes a filter bubble to form?",
+            "options": [
+              "An algorithm designed specifically to show only opposing viewpoints",
+              "A personalized recommendation algorithm repeatedly showing content that matches existing preferences",
+              "A single unchanging list of content shown to every user identically",
+              "A random selection process with no personalization involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What setting and central concern define the campus novel as a literary genre?",
+            "options": [
+              "A courtroom setting focused on criminal trials",
+              "A university or college setting exploring academic life and intellectual coming-of-age",
+              "A battlefield setting during wartime",
+              "A rural farm setting with no institutional backdrop"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What rhyme scheme and rhythmic pattern is characteristic of a limerick?",
+            "options": [
+              "A somber AABB scheme with no fixed rhythm",
+              "A five-line poem with an AABBA rhyme scheme and a bouncy, anapestic rhythm often used for comic effect",
+              "A fourteen-line sonnet form with iambic pentameter",
+              "A single unrhymed line repeated four times"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Financial Mathematics: Real versus Nominal Interest Rates and Inflation; Geometry: The Intersection of a Line and a Plane in Three Dimensions; Functions: Composition of Functions; Calculus: An Introduction to Antiderivatives and Integration.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What is a nominal interest rate?",
+            "options": [
+              "A rate that has no connection to money at all",
+              "The stated rate on an investment or loan before accounting for inflation",
+              "A rate that applies only to loans, never investments",
+              "A rate that already accounts fully for inflation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What equations are substituted into a planes equation to find where a line intersects it?",
+            "options": [
+              "The equation of an unrelated circle",
+              "The parametric equations of the line",
+              "A single fixed coordinate with no equation involved",
+              "The equation of a second, unrelated plane"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) = x + 3 and g(x) = 2x, what is (f \u2218 g)(x)?",
+            "options": [
+              "2x + 3",
+              "2x + 6",
+              "x + 6",
+              "2x\u00b2 + 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the antiderivative of f(x) = 4x\u00b3?",
+            "options": [
+              "x\u2074 + C",
+              "12x\u00b2 + C",
+              "4x\u2074 + C",
+              "x\u2074/4 + C"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Ecology: Predator-Prey Coevolution and the Evolutionary Arms Race; Biology: Antibiotic Mechanisms \u2014 Disrupting the Bacterial Cell Wall; Biology: Genomic Libraries and DNA Cloning Techniques; Ecology: Human Ecological Footprint and Carrying Capacity.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is predator-prey coevolution?",
+            "options": [
+              "A process in which only the prey ever changes over time",
+              "A reciprocal evolutionary process in which predator and prey adaptations drive one another",
+              "A process with no connection to natural selection at all",
+              "A process in which only the predator ever changes over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structure do antibiotics such as penicillin typically target?",
+            "options": [
+              "The bacterial cell wall",
+              "A structure that does not exist in bacteria",
+              "The bacterial nucleus, which bacteria do not actually possess",
+              "The human nucleus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a genomic library consist of?",
+            "options": [
+              "A physical collection of printed research papers on genetics",
+              "A collection of DNA fragments from an organism's genome, cloned into vectors for storage and study",
+              "A single continuous strand of RNA representing the entire genome",
+              "A catalogue of protein structures with no connection to DNA"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when a population's ecological footprint exceeds its environment's carrying capacity?",
+            "options": [
+              "The population grows indefinitely without consequence",
+              "Resources are depleted faster than they can be replenished, straining the population's long-term sustainability",
+              "The carrying capacity automatically increases to match demand",
+              "The environment becomes entirely unaffected by resource use"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: The Human Ear and the Physics of Hearing; Chemistry: Chemical Sensors \u2014 How pH and Gas Sensors Work; Chemistry: Enzymes as Biological Catalysts Compared to Industrial Catalysts; Chemistry: The Chemistry of Rust \u2014 Iron Oxidation and Corrosion Mechanisms.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What does the ear capture and convert into signals?",
+            "options": [
+              "Chemical signals",
+              "Magnetic fields",
+              "Sound waves",
+              "Light waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a chemical sensor convert the presence of a target substance into?",
+            "options": [
+              "A completely random and unrelated output",
+              "A signal that has no connection to concentration",
+              "A measurable signal",
+              "A substance that cannot be detected at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do enzymes typically differ from industrial catalysts?",
+            "options": [
+              "Enzymes work effectively at extremely high temperatures and pressures, unlike industrial catalysts",
+              "Enzymes are highly specific to particular substrates and function efficiently under mild biological conditions, unlike many industrial catalysts",
+              "Enzymes are never reusable, while industrial catalysts can be used indefinitely",
+              "Enzymes and industrial catalysts are chemically identical in every case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two substances must be present for iron to rust through oxidation?",
+            "options": [
+              "Nitrogen and heat",
+              "Oxygen and water (moisture)",
+              "Carbon dioxide and light",
+              "Salt alone, with no other substance needed"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "label": "Power-Up Day 3",
+    "reviewNote": "Practice day reviewing Days 179-182.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Writing: The Restaurant Review as Evaluative Writing; English Review: Free Verse, Ellipsis, Recitation, and Campus Fiction; Literature: The Pastoral Tradition \u2014 Idyllic Nature in Poetry; Grammar: Sentence Fragments and Run-Ons \u2014 Deliberate and Accidental.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What categories does a restaurant review typically evaluate?",
+            "options": [
+              "Only the price of the parking lot outside",
+              "A single category with no further detail given",
+              "Food quality, service, and atmosphere",
+              "The architectural style of unrelated nearby buildings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The pastoral tradition in poetry often contrasts idealized rural life with ___.",
+            "options": [
+              "The corruption or complexity of city or court life",
+              "The harshness of industrial factories",
+              "Life in outer space",
+              "The strict rules of formal debate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the pastoral tradition in poetry idealize?",
+            "options": [
+              "The chaos and danger of urban industrial life",
+              "A simple, idyllic rural or natural life, often through the voice of shepherds or rustic figures",
+              "The bureaucratic procedures of government",
+              "A dystopian future devoid of nature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a deliberate sentence fragment used for stylistic effect from an accidental one?",
+            "options": [
+              "There is no difference; all fragments are grammatical errors",
+              "A deliberate fragment is always longer than a complete sentence",
+              "A deliberate fragment is used intentionally for emphasis or rhythm, while an accidental one results from an unintended grammatical lapse",
+              "Only accidental fragments are permitted in published writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Quadratic Functions: Completing the Square and Vertex Form; Algebra: Factoring Polynomials \u2014 Common Factors, Grouping, and Special Patterns; Calculus: Definite Integrals and the Area Under a Curve; Functions: Graphing Polynomial Functions \u2014 Degree, End Behaviour, and Turning Points.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "What is the vertex of y = (x - 2)\u00b2 + 5?",
+            "options": [
+              "(-2, -5)",
+              "(2, -5)",
+              "(-2, 5)",
+              "(2, 5)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Factor completely: 6x\u00b2 + 9x",
+            "options": [
+              "x(6x + 9)",
+              "3x(2x + 3)",
+              "3(2x\u00b2 + 3x)",
+              "3x(2x + 9)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the definite integral \u222b from a to b of f(x) dx represent geometrically?",
+            "options": [
+              "The slope of the tangent line at x = a",
+              "The net signed area between the curve f(x) and the x-axis from x = a to x = b",
+              "The y-intercept of the function f(x)",
+              "The maximum value of f(x) on the interval"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the polynomial function f(x) = -2x\u2074 + 3x - 1, what is the end behaviour as x \u2192 \u221e and x \u2192 -\u221e?",
+            "options": [
+              "f(x) \u2192 \u221e as x \u2192 \u221e and f(x) \u2192 -\u221e as x \u2192 -\u221e",
+              "f(x) \u2192 -\u221e as x \u2192 \u221e and f(x) \u2192 -\u221e as x \u2192 -\u221e",
+              "f(x) \u2192 \u221e as x \u2192 \u221e and f(x) \u2192 \u221e as x \u2192 -\u221e",
+              "f(x) \u2192 -\u221e as x \u2192 \u221e and f(x) \u2192 \u221e as x \u2192 -\u221e"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Biology: Sensory Adaptation and Habituation in Nervous Systems; Biology Review: Hemostasis, Endocrine Physiology, Coevolution, and Biotechnology; Biology: Karyotyping and Chromosomal Analysis Techniques; Biology: Allergies and Hypersensitivity \u2014 When Immune Responses Overreact.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is sensory adaptation?",
+            "options": [
+              "A process that only affects vision, never any other sense",
+              "A decrease in a sensory receptors response to a constant, unchanging stimulus",
+              "An increase in a sensory receptors response to every stimulus",
+              "A process with no connection to sensory receptors at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is hemostasis?",
+            "options": [
+              "A process that only occurs in bone tissue",
+              "A process with no connection to blood vessels at all",
+              "The process that stops bleeding after an injury",
+              "A process that causes bleeding to increase after an injury"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary purpose of karyotyping in chromosomal analysis?",
+            "options": [
+              "To sequence the complete nucleotide order of a single gene",
+              "To visualize and organize an individual's chromosomes by size and shape to detect structural or numerical abnormalities",
+              "To measure the concentration of hormones in the blood",
+              "To determine the pH of a cell's cytoplasm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What underlies an allergic reaction at the immunological level?",
+            "options": [
+              "The immune system fails to respond to any foreign substance",
+              "The immune system mounts an exaggerated response to a normally harmless substance, treating it as a threat",
+              "White blood cells are entirely destroyed upon exposure to the allergen",
+              "The body's temperature regulation system malfunctions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Osmotic Pressure and Its Role Among the Colligative Properties; Chemistry Review: Bonding, Materials, Energy, and Catalysis; Chemistry: Grahams Law of Effusion and Gas Diffusion Rates; Chemistry: Net Ionic Equations and Spectator Ions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What is osmotic pressure?",
+            "options": [
+              "A pressure that only applies to solids, never to solutions",
+              "The pressure needed to stop the net inward flow of solvent across a semipermeable membrane",
+              "A pressure with no connection to solvent movement at all",
+              "The pressure inside a sealed container of pure gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following best describes a hypertonic solution relative to a cell?",
+            "options": [
+              "It has a lower solute concentration outside the cell than inside, causing water to enter the cell",
+              "It has a higher solute concentration outside the cell than inside, causing water to leave the cell",
+              "It has an identical solute concentration inside and outside the cell",
+              "It contains no solute at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Graham's law of effusion, how does a gas's molar mass affect its rate of effusion?",
+            "options": [
+              "Rate of effusion is directly proportional to molar mass",
+              "Rate of effusion is independent of molar mass",
+              "Rate of effusion is inversely proportional to the square root of molar mass",
+              "Rate of effusion depends only on temperature, never on molar mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the role of a spectator ion in a net ionic equation?",
+            "options": [
+              "It is the ion that drives the reaction forward by forming a precipitate",
+              "It is an ion that appears unchanged on both sides of the full equation and is omitted from the net ionic equation",
+              "It is the only ion included in a net ionic equation",
+              "It is an ion that changes oxidation state during the reaction"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "label": "Power-Up Day 4",
+    "reviewNote": "Practice day reviewing Days 183-187.",
+    "isPracticeDay": true,
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Practice: English Recap",
+        "summary": "Practice recap covering: Literature: The Epic \u2014 Conventions of a Sweeping Poetic Form; Drama: The Comedy of Manners \u2014 Wit and Social Satire on Stage; Writing: The Toast \u2014 A Short Speech of Celebration; Media Literacy: Content Moderation and the Ethics of Platform Policy; English Review: Pastoral Poetry, Sentence Fragments, the Epic, the Comedy of Manners, and the Toast.",
+        "resourceLabel": "TVO Learn: Grade 11 English courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
+        "quiz": [
+          {
+            "q": "What kind of narrative is an epic?",
+            "options": [
+              "A poem with no central character of any kind",
+              "A brief riddle with no narrative content",
+              "A short lyric poem about a single private emotion",
+              "A long narrative poem following a hero of great cultural significance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a comedy of manners satirize?",
+            "options": [
+              "A tragic historical event with no comedic elements",
+              "A purely private, solitary experience with no social dimension",
+              "A setting with no connection to any social class",
+              "The behaviour and pretensions of a particular social class"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the defining purpose of a toast as a short speech?",
+            "options": [
+              "To deliver a lengthy formal critique of a public policy",
+              "To offer a brief, celebratory tribute, often at a social occasion like a wedding",
+              "To present a detailed technical instruction manual",
+              "To argue a legal case before a judge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What ethical tension is central to debates about content moderation on digital platforms?",
+            "options": [
+              "Balancing free expression against the need to limit harmful or false content",
+              "Choosing which font a platform should use in its interface",
+              "Deciding the exact server location for storing user data",
+              "Determining the color scheme of a platform's logo"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Practice: Functions Recap",
+        "summary": "Practice recap covering: Statistics: Correlation and the Line of Best Fit; Geometry: The Distance from a Point to a Plane in Three Dimensions; Probability: Permutations and Combinations; Trigonometry: Polar Coordinates and Conversion to Rectangular Form; Functions: Reciprocal Functions and Their Graphs.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
+        "quiz": [
+          {
+            "q": "A scatter plot shows points closely clustered around a line that rises from left to right. This indicates:",
+            "options": [
+              "strong negative correlation",
+              "weak positive correlation",
+              "no correlation",
+              "strong positive correlation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is being calculated when finding the distance from a point to a plane?",
+            "options": [
+              "A quantity with no connection to distance at all",
+              "A distance measured only along the plane itself",
+              "The longest possible path between the point and the plane",
+              "The shortest, perpendicular distance between the point and the plane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many ways can 3 students be selected from a group of 8, where the order of selection does not matter?",
+            "options": [
+              "56",
+              "336",
+              "24",
+              "512"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the graph of y = 1/x as x approaches 0 from the positive side?",
+            "options": [
+              "y approaches 0",
+              "y approaches negative infinity",
+              "y approaches positive infinity",
+              "y approaches 1"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Practice: Biology Recap",
+        "summary": "Practice recap covering: Plant Biology: Seed Dispersal Strategies \u2014 Wind, Water, and Animal Vectors; Ecology: Edge Effects and Habitat Fragmentation; Microbiology: Protists \u2014 Diverse Life Strategies Beyond Animals, Plants, and Fungi; Plant Biology: Flower Structure and Double Fertilization; Biology Review: Karyotyping, Allergies, Seed Dispersal, Habitat Fragmentation, and Protists.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=biology",
+        "quiz": [
+          {
+            "q": "What is one strategy plants use to disperse seeds by wind?",
+            "options": [
+              "Lightweight winged or feathery seeds",
+              "Seeds that dissolve completely before they can travel",
+              "Seeds that are extremely dense and heavy",
+              "Seeds with no adaptation for movement of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does habitat fragmentation do to a large, continuous habitat?",
+            "options": [
+              "Expands it into an even larger continuous area",
+              "Leaves it completely unchanged in every way",
+              "Breaks it into smaller, isolated patches",
+              "Converts it entirely into open ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What best characterizes protists as a group of organisms?",
+            "options": [
+              "A single unified kingdom of exclusively multicellular photosynthetic organisms",
+              "A highly diverse group of mostly unicellular eukaryotes that don't fit neatly into the animal, plant, or fungi kingdoms",
+              "A group of prokaryotic organisms lacking a nucleus",
+              "A group defined entirely by the absence of any organelles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes double fertilization in flowering plants?",
+            "options": [
+              "Two separate flowers must be pollinated simultaneously",
+              "One sperm fertilizes the egg to form a zygote, while a second sperm fuses with polar nuclei to form the endosperm",
+              "Fertilization occurs twice in two different growing seasons",
+              "Two eggs are fertilized by a single sperm cell"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Practice: Chemistry Recap",
+        "summary": "Practice recap covering: Chemistry: Significant Figures and Precision in Quantitative Chemistry; Chemistry: Boiling Point Elevation and Its Real-World Applications; Chemistry: The Chemistry of Hand Warmers \u2014 Exothermic Crystallization Reactions; Chemistry: Silica Gel and Desiccants \u2014 Adsorption versus Absorption; Chemistry Review: Effusion, Net Ionic Equations, Significant Figures, Boiling Point Elevation, and Hand Warmers.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry courses",
+        "resourceUrl": "https://tvolearn.com/collections/courses?q=chemistry",
+        "quiz": [
+          {
+            "q": "What do significant figures represent in a measurement?",
+            "options": [
+              "A quantity with no connection to precision at all",
+              "Only the first digit of any measured value",
+              "Every digit in a number regardless of its meaning",
+              "The digits that carry meaningful information about its precision"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a solvents boiling point when a solute is dissolved in it?",
+            "options": [
+              "The boiling point is always lowered below its pure value",
+              "The solvent stops boiling entirely once a solute is added",
+              "The boiling point is raised above its pure value",
+              "The boiling point remains completely unchanged in every case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of process releases heat in a hand warmer that uses supersaturated sodium acetate solution?",
+            "options": [
+              "An endothermic dissolution reaction that absorbs heat",
+              "An exothermic crystallization process triggered by nucleation",
+              "A nuclear decay reaction",
+              "A photochemical reaction requiring light exposure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does silica gel primarily remove moisture from its surroundings?",
+            "options": [
+              "Through absorption, dissolving water molecules into its bulk structure",
+              "Through adsorption, trapping water molecules on its porous surface",
+              "By chemically reacting with water to form a new compound",
+              "By evaporating water through direct heating"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ];
 
