@@ -22414,6 +22414,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: many English words come from Greek and Latin roots, such as the root bio, meaning life, found in words like biology and biography.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=fiaPqgwJFo4",
         "quiz": [
           {
             "q": "What does the root bio mean, found in words like biology?",
@@ -22474,6 +22475,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: students learn to spot misleading graphs, such as ones with a truncated y-axis or an uneven scale, which can make differences in data look larger or smaller than they really are.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=E91bGT9BjYk",
         "quiz": [
           {
             "q": "What is a truncated y-axis on a graph?",

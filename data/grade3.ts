@@ -21702,6 +21702,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: an antonym is a word that means the opposite of another word, and understanding antonyms in context can help readers understand contrasts within a sentence.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=otWzwYewSf8",
         "quiz": [
           {
             "q": "What do we call a word that means the opposite of another word?",
@@ -21822,6 +21823,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: many Canadian birds migrate, or travel long distances, each year to find warmer weather and more available food during the winter months.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=S2vJj2fbVBk",
         "quiz": [
           {
             "q": "What do we call birds traveling long distances each year to find warmer weather?",
@@ -21882,6 +21884,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: water conservation means using fresh water carefully and avoiding waste, an important practice for Ontario communities to protect this valuable resource.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=GsNVrF9UEAQ",
         "quiz": [
           {
             "q": "What word describes using fresh water carefully and avoiding waste?",

@@ -27222,6 +27222,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore the -et word family, learning that changing the first letter of words like wet, pet, and net creates new rhyming words that share the same ending sound.",
         "resourceLabel": "YouTube: Word Families: -et Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-et%20Words%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fh-zRxSG6N8",
         "quiz": [
           {
             "q": "Which word rhymes with wet?",

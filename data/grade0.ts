@@ -25937,6 +25937,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that yesterday describes a day that already happened, today describes the day happening right now, and tomorrow describes the day that is coming next.",
         "resourceLabel": "YouTube: Time Order Words: Yesterday, Today, and Tomorrow",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Order%20Words%3A%20Yesterday%2C%20Today%2C%20and%20Tomorrow%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LuY0JRy8vHg",
         "quiz": [
           {
             "q": "What word describes a day that already happened?",
@@ -26018,6 +26019,7 @@ const curriculum: DayContent[] = [
         "summary": "Children practice describing where objects are located using the position words over, under, in, and out, through simple everyday examples.",
         "resourceLabel": "YouTube: Position Words: Over, Under, In, and Out",
         "resourceUrl": "https://www.youtube.com/results?search_query=Position%20Words%3A%20Over%2C%20Under%2C%20In%2C%20and%20Out%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=niPyVnC6W5g",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -26078,6 +26080,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore the two basic ways to make an object move -- pushing it away or pulling it closer -- through simple hands-on examples.",
         "resourceLabel": "YouTube: Push and Pull: Ways We Move Things",
         "resourceUrl": "https://www.youtube.com/results?search_query=Push%20and%20Pull%3A%20Ways%20We%20Move%20Things%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zI-vmLrBQzU",
         "topic": "Forces & Motion",
         "quiz": [
           {
@@ -26138,6 +26141,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson helps children recognize the difference between kind and unkind words and practice choosing gentle language.",
         "resourceLabel": "YouTube: Using Kind Words: Speaking Gently to Others",
         "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Kind%20Words%3A%20Speaking%20Gently%20to%20Others%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L0mkgAy2DpI",
         "topic": "Civic Life & Cooperation (Basic)",
         "quiz": [
           {
