@@ -11108,7 +11108,7 @@ const curriculum: DayContent[] = [
               "6/10",
               "9/10",
               "3/10",
-              "6/20"
+              "2/10"
             ],
             "answer": 0
           }
@@ -27704,7 +27704,7 @@ const curriculum: DayContent[] = [
               "2/6",
               "4/6",
               "3/4",
-              "1/3"
+              "5/6"
             ],
             "answer": 1
           },
