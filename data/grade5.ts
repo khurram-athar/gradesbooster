@@ -595,7 +595,7 @@ const curriculum: DayContent[] = [
           {
             "q": "A pizza is cut into 8 equal slices. If you eat 2 slices, what fraction (simplest form) did you eat?",
             "options": [
-              "2/8",
+              "3/8",
               "1/8",
               "1/4",
               "2/4"
@@ -834,7 +834,7 @@ const curriculum: DayContent[] = [
           {
             "q": "You have 5/6 of a pizza and eat 2/6. How much is left, in simplest form?",
             "options": [
-              "3/6",
+              "2/3",
               "1/2",
               "1/3",
               "3/12"
@@ -12834,7 +12834,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is 1/4 plus 1/4?",
             "options": [
-              "2/8",
+              "3/4",
               "1/4",
               "1/2",
               "1"
@@ -22589,7 +22589,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Rocks, Fossils & Earth's History"
+        "topic": "Rocks, Fossils & Earth's History",
+        "videoUrl": "https://www.youtube.com/watch?v=TvGo11JGdks"
       },
       {
         "subject": "SocialStudies",

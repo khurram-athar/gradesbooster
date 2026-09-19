@@ -21955,7 +21955,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=Xcm_T5sz3C0"
       },
       {
         "subject": "Math",
@@ -22014,7 +22015,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Yl1aOD3CZbM"
       },
       {
         "subject": "Science",
@@ -22074,7 +22076,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=z0187f8gqfU"
       },
       {
         "subject": "SocialStudies",
@@ -22134,7 +22137,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Canadian Geography & Environment"
+        "topic": "Canadian Geography & Environment",
+        "videoUrl": "https://www.youtube.com/watch?v=IT0l78TrqGY"
       }
     ]
   },

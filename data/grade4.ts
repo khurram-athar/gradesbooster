@@ -1572,7 +1572,7 @@ const curriculum: DayContent[] = [
             "options": [
               "3/10",
               "2/10",
-              "1/5",
+              "4/5",
               "3/5"
             ],
             "answer": 3
@@ -1613,7 +1613,7 @@ const curriculum: DayContent[] = [
               "1/2",
               "3/8",
               "3/4",
-              "2/4"
+              "5/8"
             ],
             "answer": 2
           }
@@ -5073,7 +5073,7 @@ const curriculum: DayContent[] = [
               "4/6",
               "6/8",
               "4/9",
-              "3/4"
+              "5/6"
             ],
             "answer": 0
           },
@@ -6642,7 +6642,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1/6",
               "2/6",
-              "1/3",
+              "1/4",
               "1/2"
             ],
             "answer": 0
@@ -22526,7 +22526,8 @@ const curriculum: DayContent[] = [
               "yes"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=t3F8pQLtY_Q"
       },
       {
         "subject": "Math",
@@ -22586,7 +22587,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=FEvAu4fi-MQ"
       },
       {
         "subject": "Science",
@@ -23916,7 +23918,7 @@ const curriculum: DayContent[] = [
             "options": [
               "2,435",
               "2,345",
-              "23,45",
+              "2,304",
               "2,354"
             ],
             "answer": 1
@@ -31296,7 +31298,7 @@ const curriculum: DayContent[] = [
             "q": "What is 1/4 + 2/4?",
             "options": [
               "1/2",
-              "2/4",
+              "5/8",
               "4/4",
               "3/4"
             ],
@@ -31308,7 +31310,7 @@ const curriculum: DayContent[] = [
               "3/5",
               "3/10",
               "1/5",
-              "2/10"
+              "4/5"
             ],
             "answer": 0
           },
@@ -31338,7 +31340,7 @@ const curriculum: DayContent[] = [
               "3/6",
               "4/12",
               "4/6",
-              "2/6"
+              "5/6"
             ],
             "answer": 2
           }
@@ -32044,7 +32046,7 @@ const curriculum: DayContent[] = [
             "options": [
               "2/4",
               "3/4",
-              "1/2",
+              "1/4",
               "4/4"
             ],
             "answer": 1
@@ -39539,8 +39541,8 @@ const curriculum: DayContent[] = [
             "options": [
               "1/4",
               "1/2",
-              "2/4",
-              "4/8"
+              "3/8",
+              "5/8"
             ],
             "answer": 1
           },
@@ -39548,7 +39550,7 @@ const curriculum: DayContent[] = [
             "q": "What is 6/9 simplified to lowest terms?",
             "options": [
               "3/6",
-              "6/9",
+              "4/9",
               "1/3",
               "2/3"
             ],
@@ -39558,7 +39560,7 @@ const curriculum: DayContent[] = [
             "q": "What is 10/20 simplified to lowest terms?",
             "options": [
               "10/1",
-              "5/10",
+              "2/5",
               "2/10",
               "1/2"
             ],

@@ -10118,7 +10118,7 @@ const curriculum: DayContent[] = [
             "options": [
               "9/4",
               "1/4",
-              "3/12",
+              "1/8",
               "1/2"
             ],
             "answer": 1
@@ -10139,14 +10139,14 @@ const curriculum: DayContent[] = [
               "1/6",
               "4/3",
               "1/3",
-              "2/6"
+              "2/3"
             ],
             "answer": 2
           },
           {
             "q": "What is 5/6 divided by 5?",
             "options": [
-              "5/30",
+              "1/5",
               "1/6",
               "5/1",
               "1/30"
@@ -15191,9 +15191,9 @@ const curriculum: DayContent[] = [
           {
             "q": "What is 2/3 - 1/6?",
             "options": [
-              "A value unrelated to the calculation",
+              "5/6",
               "3/9",
-              "1/3",
+              "2/3",
               "1/2"
             ],
             "answer": 3
@@ -15433,8 +15433,8 @@ const curriculum: DayContent[] = [
             "options": [
               "3/5",
               "1/3",
-              "A value unrelated to the calculation",
-              "2/6"
+              "5/6",
+              "3/4"
             ],
             "answer": 1
           },
@@ -16223,7 +16223,7 @@ const curriculum: DayContent[] = [
               "4/16, which simplifies to 1/4",
               "4/8",
               "8/4",
-              "2/4"
+              "3/8"
             ],
             "answer": 0
           }
@@ -21772,7 +21772,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=F5tz887wXCY"
       },
       {
         "subject": "Math",
@@ -21952,7 +21953,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=kw462Xbbzng"
       }
     ]
   },

@@ -1605,7 +1605,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1/4",
               "2/4",
-              "1/2",
+              "3/4",
               "1/3"
             ],
             "answer": 0
@@ -11369,7 +11369,7 @@ const curriculum: DayContent[] = [
             "q": "Which of these is a well-known irrational number?",
             "options": [
               "1/2",
-              "0.5",
+              "3",
               "Pi (3.14159...)",
               "4"
             ],
@@ -21797,7 +21797,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=4JNBDwd40is"
       },
       {
         "subject": "Math",
@@ -21857,7 +21858,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Statistics & Data"
+        "topic": "Statistics & Data",
+        "videoUrl": "https://www.youtube.com/watch?v=8STVex8dfgk"
       },
       {
         "subject": "Science",
@@ -21916,7 +21918,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=hDSLY8qrHjI"
       },
       {
         "subject": "History",
@@ -21976,7 +21979,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Government & Civics"
+        "topic": "Government & Civics",
+        "videoUrl": "https://www.youtube.com/watch?v=kkfsctBcVzU"
       }
     ]
   },
@@ -34129,7 +34133,7 @@ const curriculum: DayContent[] = [
             "options": [
               "1/4",
               "1/3",
-              "3/12",
+              "7/12",
               "1/5"
             ],
             "answer": 0
@@ -40008,8 +40012,8 @@ const curriculum: DayContent[] = [
             "options": [
               "13/25",
               "13/20",
-              "6.5/10",
-              "65/100"
+              "13/40",
+              "5/8"
             ],
             "answer": 1
           },

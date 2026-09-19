@@ -21803,7 +21803,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=orXPMdCU-6s"
       },
       {
         "subject": "Math",
@@ -21863,7 +21864,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=ynjHKBCiGXY"
       },
       {
         "subject": "Science",
@@ -21923,7 +21925,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=dc7l7Qqa8xk"
       },
       {
         "subject": "History",
@@ -21982,7 +21985,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V9F1fMozU2g"
       }
     ]
   },
@@ -29448,7 +29452,7 @@ const curriculum: DayContent[] = [
             "q": "Find the slope between (-1,4) and (3,-4).",
             "options": [
               "2",
-              "8/4",
+              "1/2",
               "-8",
               "-2"
             ],

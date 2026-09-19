@@ -21801,7 +21801,8 @@
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=orXPMdCU-6s"
       },
       {
         "subject": "Math",
@@ -21861,7 +21862,8 @@
             "answer": 2
           }
         ],
-        "topic": "Probability"
+        "topic": "Probability",
+        "videoUrl": "https://www.youtube.com/watch?v=ynjHKBCiGXY"
       },
       {
         "subject": "Science",
@@ -21921,7 +21923,8 @@
             "answer": 2
           }
         ],
-        "topic": "Light & Sound"
+        "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=dc7l7Qqa8xk"
       },
       {
         "subject": "History",
@@ -21980,7 +21983,8 @@
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V9F1fMozU2g"
       }
     ]
   },
@@ -29446,7 +29450,7 @@
             "q": "Find the slope between (-1,4) and (3,-4).",
             "options": [
               "2",
-              "8/4",
+              "1/2",
               "-8",
               "-2"
             ],

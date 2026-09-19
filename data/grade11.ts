@@ -21805,7 +21805,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Oral Communication & Presentation"
+        "topic": "Oral Communication & Presentation",
+        "videoUrl": "https://www.youtube.com/watch?v=VeoGKQKXdps"
       },
       {
         "subject": "Functions",
@@ -21925,7 +21926,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=VzPD009qTN4"
       },
       {
         "subject": "Chemistry",
@@ -21985,7 +21987,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Energy"
+        "topic": "Energy",
+        "videoUrl": "https://www.youtube.com/watch?v=9OVtk6G2TnQ"
       }
     ]
   },

@@ -21706,7 +21706,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=AM7pALSwH_I"
       },
       {
         "subject": "AdvancedFunctions",
@@ -21765,7 +21766,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ozWIpu6N-ik"
       },
       {
         "subject": "Calculus",
@@ -21825,7 +21827,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Angles"
+        "topic": "Angles",
+        "videoUrl": "https://www.youtube.com/watch?v=v9Evg2tBdRk"
       },
       {
         "subject": "Physics",
@@ -46643,7 +46646,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Contemporary fiction dealing with trauma often explores how it shapes ___.",
             "options": [
-              "Only a character\u2019s physical appearance",
+              "Only a character’s physical appearance",
               "Memory and identity",
               "Grammar and sentence structure exclusively",
               "A topic entirely unrelated to personal experience"
@@ -46724,7 +46727,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Partial Fractions in Integration; Volumes of Solids of Revolution: The Shell Method; Taylor and Maclaurin Series: An Introduction; Euler\u2019s Method for Differential Equations.",
+        "summary": "Practice recap covering: Partial Fractions in Integration; Volumes of Solids of Revolution: The Shell Method; Taylor and Maclaurin Series: An Introduction; Euler’s Method for Differential Equations.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -46847,7 +46850,7 @@ const curriculum: DayContent[] = [
           {
             "q": "Revising a personal essay for depth involves moving beyond ___.",
             "options": [
-              "A concept unrelated to a writer\u2019s reflection",
+              "A concept unrelated to a writer’s reflection",
               "Only correcting spelling and punctuation errors",
               "Surface-level description",
               "Adding random, unrelated details with no clear purpose"
@@ -46899,7 +46902,7 @@ const curriculum: DayContent[] = [
               "Undefined across its entire domain",
               "Positive or negative, as specified by the inequality",
               "Always equal to exactly zero",
-              "A concept unrelated to the expression\u2019s sign"
+              "A concept unrelated to the expression’s sign"
             ],
             "answer": 1
           },
@@ -46977,7 +46980,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: Dark Matter and Dark Energy; Review: Thermodynamics, Circuits, and Modern Physics; Physics: Doppler Effect and Wave Phenomena; Physics: Blackbody Radiation and Planck\u2019s Law.",
+        "summary": "Practice recap covering: Physics: Dark Matter and Dark Energy; Review: Thermodynamics, Circuits, and Modern Physics; Physics: Doppler Effect and Wave Phenomena; Physics: Blackbody Radiation and Planck’s Law.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -47053,7 +47056,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Only the total number of printed pages",
               "Narrative pacing",
-              "The book\u2019s physical cover design exclusively",
+              "The book’s physical cover design exclusively",
               "A factor entirely unrelated to storytelling technique"
             ],
             "answer": 1
@@ -47083,7 +47086,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Complex Numbers: Polar Form and De Moivre\u2019s Theorem; Sequences: Limits and Convergence; Laws of Logarithms: Product, Quotient, and Power Rules; Functions: Symmetry -- Even, Odd, and Neither; Recursive Sequences: Advanced Applications.",
+        "summary": "Practice recap covering: Complex Numbers: Polar Form and De Moivre’s Theorem; Sequences: Limits and Convergence; Laws of Logarithms: Product, Quotient, and Power Rules; Functions: Symmetry -- Even, Odd, and Neither; Recursive Sequences: Advanced Applications.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
@@ -47322,7 +47325,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "An eigenvector v of matrix A satisfies the equation Av = \u03bbv, where \u03bb is called the ___.",
+            "q": "An eigenvector v of matrix A satisfies the equation Av = λv, where λ is called the ___.",
             "options": [
               "eigenvalue associated with v",
               "determinant of A",
@@ -47355,7 +47358,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Bends",
               "Remains perfectly straight",
-              "A concept unrelated to a curve\u2019s shape",
+              "A concept unrelated to a curve’s shape",
               "Changes colour"
             ],
             "answer": 0
@@ -47420,12 +47423,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "For a satellite in circular orbit, Kepler's third law relates the orbital period T to the orbital radius r such that T\u00b2 is proportional to ___.",
+            "q": "For a satellite in circular orbit, Kepler's third law relates the orbital period T to the orbital radius r such that T² is proportional to ___.",
             "options": [
               "r",
               "1/r",
-              "r\u00b3",
-              "r\u00b2"
+              "r³",
+              "r²"
             ],
             "answer": 2
           }
@@ -47540,7 +47543,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: The Squeeze Theorem; Calculus: Linear Approximation and Differentials; Calculus: Newton\u2019s Method for Root Approximation; Calculus: Hyperbolic Functions and Their Derivatives.",
+        "summary": "Practice recap covering: Calculus: The Squeeze Theorem; Calculus: Linear Approximation and Differentials; Calculus: Newton’s Method for Root Approximation; Calculus: Hyperbolic Functions and Their Derivatives.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -47555,7 +47558,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "Linear approximation uses a function\u2019s tangent line at a known point to estimate ___.",
+            "q": "Linear approximation uses a function’s tangent line at a known point to estimate ___.",
             "options": [
               "Only the exact value at that single known point, with no estimation involved",
               "A concept unrelated to tangent lines",
@@ -47651,10 +47654,10 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
-            "q": "An academic book review summarizes a text\u2019s central ___.",
+            "q": "An academic book review summarizes a text’s central ___.",
             "options": [
               "Cover design and page count exclusively",
-              "Author\u2019s personal biography only, with no connection to the text\u2019s content",
+              "Author’s personal biography only, with no connection to the text’s content",
               "Argument",
               "A concept unrelated to reviewing a text"
             ],
@@ -47763,7 +47766,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Mass",
               "Colour, with no connection to a physical property",
-              "A concept unrelated to an object\u2019s physical properties",
+              "A concept unrelated to an object’s physical properties",
               "Surface temperature exclusively, with no connection to mass"
             ],
             "answer": 0
@@ -47779,12 +47782,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "The area enclosed by a polar curve r(\u03b8) over an interval is found using an integral of ___.",
+            "q": "The area enclosed by a polar curve r(θ) over an interval is found using an integral of ___.",
             "options": [
-              "r(\u03b8) alone with respect to \u03b8",
-              "the derivative of r(\u03b8) with respect to \u03b8",
-              "one-half of r(\u03b8) squared with respect to \u03b8",
-              "r(\u03b8) squared with respect to r"
+              "r(θ) alone with respect to θ",
+              "the derivative of r(θ) with respect to θ",
+              "one-half of r(θ) squared with respect to θ",
+              "r(θ) squared with respect to r"
             ],
             "answer": 2
           }
@@ -48103,7 +48106,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The Logistic Function and S-Shaped Growth; Exponential Growth and Decay: Half-Life and Doubling Time; Functions: Benford\u2019s Law and the Distribution of Leading Digits; Compound Interest and Continuous Growth with e.",
+        "summary": "Practice recap covering: Functions: The Logistic Function and S-Shaped Growth; Exponential Growth and Decay: Half-Life and Doubling Time; Functions: Benford’s Law and the Distribution of Leading Digits; Compound Interest and Continuous Growth with e.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
@@ -48118,7 +48121,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "A population doubles every 3 years, starting at 100. Using P(t) = 100\u00b72^(t/3), what is the population after 9 years?",
+            "q": "A population doubles every 3 years, starting at 100. Using P(t) = 100·2^(t/3), what is the population after 9 years?",
             "options": [
               "800",
               "300",
@@ -48152,12 +48155,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: Torricelli\u2019s Trumpet -- An Infinite Surface, a Finite Volume; Optimization Problems in Three Dimensions; Calculus: Escape Velocity -- An Application of Integration; Calculus: The Catenary Revisited -- Calculus of Hanging Structures.",
+        "summary": "Practice recap covering: Calculus: Torricelli’s Trumpet -- An Infinite Surface, a Finite Volume; Optimization Problems in Three Dimensions; Calculus: Escape Velocity -- An Application of Integration; Calculus: The Catenary Revisited -- Calculus of Hanging Structures.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "Torricelli\u2019s Trumpet is a solid of revolution with a finite volume but an ___ surface area.",
+            "q": "Torricelli’s Trumpet is a solid of revolution with a finite volume but an ___ surface area.",
             "options": [
               "Infinite",
               "Undefined, with no numerical relationship to the shape at all",
@@ -48356,7 +48359,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Review: Grade 12 Calculus -- Days 61-69 Synthesis; Introduction to Standard Deviation and Normal Distribution; Introduction to Logarithms; Calculus: Simpson\u2019s Rule -- A Refined Method of Numerical Integration.",
+        "summary": "Practice recap covering: Review: Grade 12 Calculus -- Days 61-69 Synthesis; Introduction to Standard Deviation and Normal Distribution; Introduction to Logarithms; Calculus: Simpson’s Rule -- A Refined Method of Numerical Integration.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -48391,7 +48394,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "For any valid base b (b > 0, b \u2260 1), the value of log_b(1) is ___.",
+            "q": "For any valid base b (b > 0, b ≠ 1), the value of log_b(1) is ___.",
             "options": [
               "1",
               "0",
@@ -48422,10 +48425,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Plate tectonics describes the movement of ___.",
             "options": [
-              "Large sections of Earth\u2019s crust",
+              "Large sections of Earth’s crust",
               "Only ocean currents, with no connection to the crust",
               "Only the atmosphere, with no connection to the crust",
-              "A concept unrelated to Earth\u2019s structure"
+              "A concept unrelated to Earth’s structure"
             ],
             "answer": 0
           },
@@ -48477,11 +48480,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "Stream of consciousness attempts to capture the continuous flow of a character\u2019s thoughts, sensations, and ___ as they occur.",
+            "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
             "options": [
-              "Physical measurements exclusively, with no connection to a character\u2019s inner experience",
+              "Physical measurements exclusively, with no connection to a character’s inner experience",
               "Impressions",
-              "Financial transactions exclusively, with no connection to a character\u2019s inner life",
+              "Financial transactions exclusively, with no connection to a character’s inner life",
               "A concept unrelated to this narrative technique"
             ],
             "answer": 1
@@ -48536,12 +48539,12 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "The secant function, sec(\u03b8), is defined as the reciprocal of which trigonometric function?",
+            "q": "The secant function, sec(θ), is defined as the reciprocal of which trigonometric function?",
             "options": [
-              "sin(\u03b8)",
-              "tan(\u03b8)",
-              "cos(\u03b8)",
-              "cot(\u03b8)"
+              "sin(θ)",
+              "tan(θ)",
+              "cos(θ)",
+              "cot(θ)"
             ],
             "answer": 2
           },
@@ -48609,7 +48612,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: Cherenkov Radiation -- Faster Than Light in a Medium; Physics: The Aurora Borealis -- Charged Particles and Earth\u2019s Magnetic Field; Physics: Radioactive Dating and the Applications of Half-Life; Physics: Applications of Radioactivity in Medicine.",
+        "summary": "Practice recap covering: Physics: Cherenkov Radiation -- Faster Than Light in a Medium; Physics: The Aurora Borealis -- Charged Particles and Earth’s Magnetic Field; Physics: Radioactive Dating and the Applications of Half-Life; Physics: Applications of Radioactivity in Medicine.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -48624,7 +48627,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The aurora borealis is produced when charged particles from the solar wind are funnelled by Earth\u2019s magnetic field toward the ___ regions.",
+            "q": "The aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the ___ regions.",
             "options": [
               "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
               "Polar",
@@ -48666,7 +48669,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Literary Parody -- Imitation as Critique; Literature: The Verse Drama -- Poetry on the Stage; Review: Grade 12 English -- Days 71-79 Synthesis; Literature: The Roman a Clef \u2014 Fiction Disguising Reality; Writing: The Prose Poem \u2014 Blurring Genre Boundaries.",
+        "summary": "Practice recap covering: Writing: The Literary Parody -- Imitation as Critique; Literature: The Verse Drama -- Poetry on the Stage; Review: Grade 12 English -- Days 71-79 Synthesis; Literature: The Roman a Clef — Fiction Disguising Reality; Writing: The Prose Poem — Blurring Genre Boundaries.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -48684,14 +48687,14 @@ const curriculum: DayContent[] = [
             "q": "Verse drama is a play written substantially or entirely in poetic ___ rather than prose dialogue.",
             "options": [
               "Silence, an inaccurate description of a play built around spoken language",
-              "Stage directions exclusively, with no connection to a character\u2019s spoken dialogue",
+              "Stage directions exclusively, with no connection to a character’s spoken dialogue",
               "A concept unrelated to this dramatic form",
               "Metre"
             ],
             "answer": 3
           },
           {
-            "q": "A roman \u00e0 clef is a novel that portrays real people or actual events while disguising them as ___.",
+            "q": "A roman à clef is a novel that portrays real people or actual events while disguising them as ___.",
             "options": [
               "Fictional characters and events, often using invented names for real subjects",
               "Purely fictional characters and events with no real-world basis",
@@ -48715,27 +48718,27 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The B\u00e9zier Curve and Parametric Curve Design; The Pythagorean Trigonometric Identities; Compound Angle Formulas: Sum and Difference Identities; Double Angle Formulas for Sine, Cosine, and Tangent; Functions: Polynomial Interpolation \u2014 Lagrange\u2019s Method.",
+        "summary": "Practice recap covering: Functions: The Bézier Curve and Parametric Curve Design; The Pythagorean Trigonometric Identities; Compound Angle Formulas: Sum and Difference Identities; Double Angle Formulas for Sine, Cosine, and Tangent; Functions: Polynomial Interpolation — Lagrange’s Method.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "A B\u00e9zier curve is a smooth curve defined parametrically using a set of ___ points.",
+            "q": "A Bézier curve is a smooth curve defined parametrically using a set of ___ points.",
             "options": [
               "Control",
-              "A concept unrelated to how a B\u00e9zier curve is defined",
+              "A concept unrelated to how a Bézier curve is defined",
               "Terminal, an incomplete description that omits the interior points shaping the curve",
-              "Random, an inaccurate description of the deliberately placed points shaping a B\u00e9zier curve"
+              "Random, an inaccurate description of the deliberately placed points shaping a Bézier curve"
             ],
             "answer": 0
           },
           {
             "q": "Which is the fundamental Pythagorean identity?",
             "options": [
-              "sin\u03b8 + cos\u03b8 = 1",
-              "sin\u03b8 \u00b7 cos\u03b8 = 1",
-              "sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
-              "sin\u00b2\u03b8 - cos\u00b2\u03b8 = 1"
+              "sinθ + cosθ = 1",
+              "sinθ · cosθ = 1",
+              "sin²θ + cos²θ = 1",
+              "sin²θ - cos²θ = 1"
             ],
             "answer": 2
           },
@@ -48799,7 +48802,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In the epsilon-delta definition of a limit, \u03b4 (delta) represents a bound on the distance between ___.",
+            "q": "In the epsilon-delta definition of a limit, δ (delta) represents a bound on the distance between ___.",
             "options": [
               "f(x) and the limit L",
               "x and the value a",
@@ -48833,7 +48836,7 @@ const curriculum: DayContent[] = [
               "A distant, unspecified location with no meaningful comparison point",
               "A concept unrelated to how this thought experiment is set up",
               "Earth",
-              "A spacecraft identical to the travelling twin\u2019s, an inaccurate description of the stationary twin\u2019s situation"
+              "A spacecraft identical to the travelling twin’s, an inaccurate description of the stationary twin’s situation"
             ],
             "answer": 2
           },
@@ -48870,7 +48873,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Media Analysis: Analyzing Data Journalism and Infographics; Literature: Ekphrasis \u2014 Writing About Visual Art; Oral Communication: The Impromptu Response in Academic Discourse.",
+        "summary": "Practice recap covering: Media Analysis: Analyzing Data Journalism and Infographics; Literature: Ekphrasis — Writing About Visual Art; Oral Communication: The Impromptu Response in Academic Discourse.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -48924,12 +48927,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "Solve sin\u03b8 = 1/2 for \u03b8 \u2208 [0\u00b0, 360\u00b0).",
+            "q": "Solve sinθ = 1/2 for θ ∈ [0°, 360°).",
             "options": [
-              "{60\u00b0, 120\u00b0}",
-              "{30\u00b0, 150\u00b0}",
-              "{150\u00b0, 330\u00b0}",
-              "{30\u00b0, 210\u00b0}"
+              "{60°, 120°}",
+              "{30°, 150°}",
+              "{150°, 330°}",
+              "{30°, 210°}"
             ],
             "answer": 1
           },
@@ -48946,10 +48949,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the period of the function y = 4cos(3x)?",
             "options": [
-              "\u03c0/3",
-              "2\u03c0/3",
-              "3\u03c0/2",
-              "6\u03c0"
+              "π/3",
+              "2π/3",
+              "3π/2",
+              "6π"
             ],
             "answer": 1
           },
@@ -48995,9 +48998,9 @@ const curriculum: DayContent[] = [
           {
             "q": "A rational function f(x) = p(x)/q(x) has a vertical asymptote at x = a when ___.",
             "options": [
-              "p(a) = 0 and q(a) \u2260 0",
+              "p(a) = 0 and q(a) ≠ 0",
               "p(a) = q(a) = 0",
-              "q(a) = 0 and p(a) \u2260 0",
+              "q(a) = 0 and p(a) ≠ 0",
               "The degree of p exceeds the degree of q by more than one"
             ],
             "answer": 2
@@ -49074,7 +49077,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Annotated Bibliography and Source Synthesis; Literature: The Unreliable Chronicle \u2014 History Told Through Fiction; Grammar and Style: Periodic and Cumulative Sentences; Literature: Speculative Fiction and the Ethics of World-Building.",
+        "summary": "Practice recap covering: Writing: The Annotated Bibliography and Source Synthesis; Literature: The Unreliable Chronicle — History Told Through Fiction; Grammar and Style: Periodic and Cumulative Sentences; Literature: Speculative Fiction and the Ethics of World-Building.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49093,7 +49096,7 @@ const curriculum: DayContent[] = [
             "options": [
               "A concept unrelated to literature",
               "Only the exact publication date of the text",
-              "A narrator\u2019s biases, gaps in memory, or hidden motives",
+              "A narrator’s biases, gaps in memory, or hidden motives",
               "The font used in the printed edition"
             ],
             "answer": 2
@@ -49123,7 +49126,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Proving Trigonometric Identities; Functions: Convex and Concave Functions \u2014 A Formal Look; Functions: The Method of Undetermined Coefficients; Modelling Periodic Phenomena with Sinusoidal Functions.",
+        "summary": "Practice recap covering: Proving Trigonometric Identities; Functions: Convex and Concave Functions — A Formal Look; Functions: The Method of Undetermined Coefficients; Modelling Periodic Phenomena with Sinusoidal Functions.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
@@ -49172,7 +49175,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Vectors in Three Dimensions; The Binomial Theorem and Pascal\u2019s Triangle; Permutations and Combinations: Advanced Applications; Polynomial Division and the Remainder Theorem.",
+        "summary": "Practice recap covering: Vectors in Three Dimensions; The Binomial Theorem and Pascal’s Triangle; Permutations and Combinations: Advanced Applications; Polynomial Division and the Remainder Theorem.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -49221,7 +49224,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Earth Science: Astronomy -- The Life Cycle of Stars; Review: Earth Science, Chemistry, and Physics Applications; Physics: Sonoluminescence \u2014 Light from Sound; Physics: The Fermi Paradox and Astrophysical Constraints.",
+        "summary": "Practice recap covering: Earth Science: Astronomy -- The Life Cycle of Stars; Review: Earth Science, Chemistry, and Physics Applications; Physics: Sonoluminescence — Light from Sound; Physics: The Fermi Paradox and Astrophysical Constraints.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -49278,14 +49281,14 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Review: Literary Form, Media, and Style (Days 81-89); Writing: The Personal Essay (College-Style); Literature: The K\u00fcnstlerroman \u2014 The Artist\u2019s Coming-of-Age Novel; Writing: Flash Fiction and Radical Compression.",
+        "summary": "Practice recap covering: Review: Literary Form, Media, and Style (Days 81-89); Writing: The Personal Essay (College-Style); Literature: The Künstlerroman — The Artist’s Coming-of-Age Novel; Writing: Flash Fiction and Radical Compression.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
           {
             "q": "What does a roman a clef portray under a thin fictional disguise?",
             "options": [
-              "A textbook\u2019s worth of unrelated facts",
+              "A textbook’s worth of unrelated facts",
               "Real people and events",
               "Only entirely invented, fantastical worlds",
               "A concept unrelated to literature"
@@ -49303,7 +49306,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "A K\u00fcnstlerroman is a novel specifically focused on ___.",
+            "q": "A Künstlerroman is a novel specifically focused on ___.",
             "options": [
               "a war fought between two rival kingdoms",
               "the political history of a nation",
@@ -49327,37 +49330,37 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Radian Measure and Arc Length; Functions: Vieta\u2019s Formulas \u2014 Relating Roots and Coefficients; Functions: Cardano\u2019s Formula for Solving Cubic Equations; Discrete Math: The Pigeonhole Principle.",
+        "summary": "Practice recap covering: Radian Measure and Arc Length; Functions: Vieta’s Formulas — Relating Roots and Coefficients; Functions: Cardano’s Formula for Solving Cubic Equations; Discrete Math: The Pigeonhole Principle.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "Convert 180\u00b0 to radians.",
+            "q": "Convert 180° to radians.",
             "options": [
-              "2\u03c0",
-              "\u03c0/2",
-              "\u03c0",
-              "\u03c0/4"
+              "2π",
+              "π/2",
+              "π",
+              "π/4"
             ],
             "answer": 2
           },
           {
-            "q": "What do Vieta\u2019s formulas relate for a polynomial equation?",
+            "q": "What do Vieta’s formulas relate for a polynomial equation?",
             "options": [
-              "The polynomial\u2019s graph to its colour when plotted",
-              "Only the polynomial\u2019s degree to its number of terms",
-              "The polynomial\u2019s coefficients to sums and products of its roots",
+              "The polynomial’s graph to its colour when plotted",
+              "Only the polynomial’s degree to its number of terms",
+              "The polynomial’s coefficients to sums and products of its roots",
               "A concept unrelated to functions"
             ],
             "answer": 2
           },
           {
-            "q": "The arc length s of a circle with radius r subtended by an angle \u03b8 (in radians) is given by ___.",
+            "q": "The arc length s of a circle with radius r subtended by an angle θ (in radians) is given by ___.",
             "options": [
-              "s = r/\u03b8",
-              "s = r\u03b8",
-              "s = 2\u03c0r/\u03b8",
-              "s = \u03c0r\u00b2\u03b8"
+              "s = r/θ",
+              "s = rθ",
+              "s = 2πr/θ",
+              "s = πr²θ"
             ],
             "answer": 1
           },
@@ -49443,7 +49446,7 @@ const curriculum: DayContent[] = [
             "q": "What was the Michelson-Morley experiment designed to detect?",
             "options": [
               "The temperature of the surface of the sun",
-              "Earth\u2019s motion through a hypothetical medium called the luminiferous ether",
+              "Earth’s motion through a hypothetical medium called the luminiferous ether",
               "The exact mass of a single electron",
               "A concept unrelated to physics"
             ],
@@ -49482,7 +49485,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Literature: The Found Poem \u2014 Repurposing Existing Text; Drama: The Verfremdungseffekt \u2014 Brechtian Alienation in Theatre; Media Analysis: New Journalism and the Literary Nonfiction Movement; Literature: The Palimpsest Narrative \u2014 Layered Stories.",
+        "summary": "Practice recap covering: Literature: The Found Poem — Repurposing Existing Text; Drama: The Verfremdungseffekt — Brechtian Alienation in Theatre; Media Analysis: New Journalism and the Literary Nonfiction Movement; Literature: The Palimpsest Narrative — Layered Stories.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49558,18 +49561,18 @@ const curriculum: DayContent[] = [
           {
             "q": "According to the Arithmetic Mean-Geometric Mean (AM-GM) inequality, for non-negative real numbers a and b, which relationship always holds?",
             "options": [
-              "(a+b)/2 \u2265 \u221a(ab)",
-              "(a+b)/2 \u2264 \u221a(ab), with equality never possible",
+              "(a+b)/2 ≥ √(ab)",
+              "(a+b)/2 ≤ √(ab), with equality never possible",
               "a + b = ab for all non-negative a and b",
               "A concept unrelated to functions"
             ],
             "answer": 0
           },
           {
-            "q": "For a polynomial function with an even degree and a negative leading coefficient, what is the end behaviour as x\u2192\u00b1\u221e?",
+            "q": "For a polynomial function with an even degree and a negative leading coefficient, what is the end behaviour as x→±∞?",
             "options": [
-              "The graph rises to +\u221e on both ends",
-              "The graph falls to -\u221e on both ends",
+              "The graph rises to +∞ on both ends",
+              "The graph falls to -∞ on both ends",
               "The graph rises on the left and falls on the right",
               "A concept unrelated to functions"
             ],
@@ -49585,7 +49588,7 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "What two conditions does the alternating series test require the terms b\u2099 to satisfy for the series to converge?",
+            "q": "What two conditions does the alternating series test require the terms bₙ to satisfy for the series to converge?",
             "options": [
               "The terms must all be exactly equal to one another",
               "The terms must grow without bound as n increases",
@@ -49605,10 +49608,10 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "For a second-order linear differential equation with constant coefficients, ay\u2033 + by\u2032 + cy = 0, substituting y = e^(rx) produces which characteristic equation?",
+            "q": "For a second-order linear differential equation with constant coefficients, ay″ + by′ + cy = 0, substituting y = e^(rx) produces which characteristic equation?",
             "options": [
-              "ar\u00b2 + br + c = 0",
-              "ar + br\u00b2 + c = 0",
+              "ar² + br + c = 0",
+              "ar + br² + c = 0",
               "a + b + c = r",
               "A concept unrelated to calculus"
             ],
@@ -49629,12 +49632,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Genetic Engineering and Biotechnology Applications; Physics: Cyclotron Motion and Mass Spectrometry; Physics: Simple Harmonic Motion (Pendulums and Springs); Physics: Pulsars \u2014 Rotating Neutron Stars as Cosmic Lighthouses.",
+        "summary": "Practice recap covering: Genetic Engineering and Biotechnology Applications; Physics: Cyclotron Motion and Mass Spectrometry; Physics: Simple Harmonic Motion (Pendulums and Springs); Physics: Pulsars — Rotating Neutron Stars as Cosmic Lighthouses.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "Genetic engineering involves directly modifying an organism\u2019s ___.",
+            "q": "Genetic engineering involves directly modifying an organism’s ___.",
             "options": [
               "A concept unrelated to biology",
               "DNA",
@@ -49686,7 +49689,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Writing: The Elegy \u2014 Poetic Form and the Language of Mourning; Literature: Second-Person Narration and Reader Address; Review: Literary Theory, Form, and Voice (Days 91-99); Writing: The Bildungsroman \u2014 Coming-of-Age Narrative Elements.",
+        "summary": "Practice recap covering: Writing: The Elegy — Poetic Form and the Language of Mourning; Literature: Second-Person Narration and Reader Address; Review: Literary Theory, Form, and Voice (Days 91-99); Writing: The Bildungsroman — Coming-of-Age Narrative Elements.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49735,17 +49738,17 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: Descartes\u2019 Rule of Signs; The Factor Theorem and Factoring Higher-Degree Polynomials; Graphing Polynomial Functions from Factored Form; Rational Functions: Vertical and Horizontal Asymptotes.",
+        "summary": "Practice recap covering: Functions: Descartes’ Rule of Signs; The Factor Theorem and Factoring Higher-Degree Polynomials; Graphing Polynomial Functions from Factored Form; Rational Functions: Vertical and Horizontal Asymptotes.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "What does Descartes\u2019 rule of signs help determine about a polynomial equation?",
+            "q": "What does Descartes’ rule of signs help determine about a polynomial equation?",
             "options": [
               "A concept unrelated to functions",
               "An upper bound on the number of positive real roots, based on sign changes in the coefficients",
               "The exact value of every root of the polynomial",
-              "The polynomial\u2019s degree, based on its leading coefficient alone"
+              "The polynomial’s degree, based on its leading coefficient alone"
             ],
             "answer": 1
           },
@@ -49760,7 +49763,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "For the polynomial function f(x) = (x\u22122)\u00b2(x+3), what is the behaviour of the graph at x = 2?",
+            "q": "For the polynomial function f(x) = (x−2)²(x+3), what is the behaviour of the graph at x = 2?",
             "options": [
               "The graph crosses the x-axis at x=2",
               "The graph has a vertical asymptote at x=2",
@@ -49773,8 +49776,8 @@ const curriculum: DayContent[] = [
             "q": "For a rational function f(x) = p(x)/q(x) written in lowest terms, a vertical asymptote occurs at x = a when:",
             "options": [
               "p(a) = 0 and q(a) = 0 simultaneously",
-              "q(a) = 0 and p(a) \u2260 0",
-              "p(a) = 0 and q(a) \u2260 0",
+              "q(a) = 0 and p(a) ≠ 0",
+              "p(a) = 0 and q(a) ≠ 0",
               "A concept unrelated to functions"
             ],
             "answer": 1
@@ -49784,7 +49787,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: The Root Test for Series Convergence; Calculus: Taylor\u2019s Remainder Theorem \u2014 Bounding the Error of an Approximation; Review: Multivariable Calculus and Series Tests (Days 91-99); Calculus: The Comparison Test for Series Convergence.",
+        "summary": "Practice recap covering: Calculus: The Root Test for Series Convergence; Calculus: Taylor’s Remainder Theorem — Bounding the Error of an Approximation; Review: Multivariable Calculus and Series Tests (Days 91-99); Calculus: The Comparison Test for Series Convergence.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -49799,7 +49802,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "What does Taylor\u2019s remainder theorem provide a bound for?",
+            "q": "What does Taylor’s remainder theorem provide a bound for?",
             "options": [
               "The total number of terms a Taylor series must contain",
               "A concept unrelated to calculus",
@@ -49819,7 +49822,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "In multivariable calculus, a partial derivative \u2202f/\u2202x is computed by:",
+            "q": "In multivariable calculus, a partial derivative ∂f/∂x is computed by:",
             "options": [
               "Integrating f with respect to x while other variables vary",
               "Differentiating f with respect to every variable simultaneously",
@@ -49840,7 +49843,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the cosmic microwave background radiation considered strong evidence for?",
             "options": [
-              "The Big Bang theory of the universe\u2019s origin",
+              "The Big Bang theory of the universe’s origin",
               "The idea that the universe has no measurable age at all",
               "The existence of a permanently static, unchanging universe",
               "A concept unrelated to physics"
@@ -49890,7 +49893,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Literature: The Gothic Novel and the Aesthetics of the Uncanny; Reading: Analyzing Tragic Heroes and the Concept of Hamartia; Poetry: The Dramatic Monologue \u2014 Voice and Implied Audience; Literature: Postmodern Fiction and Metafiction.",
+        "summary": "Practice recap covering: Literature: The Gothic Novel and the Aesthetics of the Uncanny; Reading: Analyzing Tragic Heroes and the Concept of Hamartia; Poetry: The Dramatic Monologue — Voice and Implied Audience; Literature: Postmodern Fiction and Metafiction.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -49939,15 +49942,15 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Functions: The Remainder Theorem and Synthetic Division; Statistics: The Chi-Squared Test for Goodness of Fit; Functions: Partial Fraction Decomposition \u2014 An Algebraic Technique; Number Theory: The Sieve of Eratosthenes and Prime Distribution.",
+        "summary": "Practice recap covering: Functions: The Remainder Theorem and Synthetic Division; Statistics: The Chi-Squared Test for Goodness of Fit; Functions: Partial Fraction Decomposition — An Algebraic Technique; Number Theory: The Sieve of Eratosthenes and Prime Distribution.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "According to the remainder theorem, what is the remainder when a polynomial P(x) is divided by (x \u2212 a)?",
+            "q": "According to the remainder theorem, what is the remainder when a polynomial P(x) is divided by (x − a)?",
             "options": [
               "Always exactly zero, regardless of the polynomial",
-              "The polynomial\u2019s leading coefficient, with no reference to a",
+              "The polynomial’s leading coefficient, with no reference to a",
               "A concept unrelated to functions",
               "P(a), the value of the polynomial evaluated at x = a"
             ],
@@ -49988,15 +49991,15 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: First-Order Linear Differential Equations and Integrating Factors; Calculus: The Binomial Series \u2014 Expanding (1+x)^k as a Power Series; Polynomial Functions: Zeros, Factors, and End Behaviour; Introduction to Vectors.",
+        "summary": "Practice recap covering: Calculus: First-Order Linear Differential Equations and Integrating Factors; Calculus: The Binomial Series — Expanding (1+x)^k as a Power Series; Polynomial Functions: Zeros, Factors, and End Behaviour; Introduction to Vectors.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
             "q": "What general form does a first-order linear differential equation take?",
             "options": [
-              "y\u00b2 + P(x) = Q(x)y\u2032\u2032\u2032",
-              "y\u2032 + P(x)y = Q(x)",
+              "y² + P(x) = Q(x)y′′′",
+              "y′ + P(x)y = Q(x)",
               "A concept unrelated to calculus",
               "A relation containing no derivative of y whatsoever"
             ],
@@ -50015,7 +50018,7 @@ const curriculum: DayContent[] = [
           {
             "q": "For a polynomial function P(x), if P(a) = 0, then which statement must be true?",
             "options": [
-              "(x \u2212 a) is a factor of P(x)",
+              "(x − a) is a factor of P(x)",
               "a is the only zero of P(x)",
               "P(x) has no real zeros elsewhere",
               "A concept unrelated to calculus"
@@ -50037,12 +50040,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Millikan Oil Drop Experiment and the Charge of the Electron; Physics: The Stefan-Boltzmann Law and Thermal Radiation; Physics: X-ray Diffraction and Bragg\u2019s Law; Physics: Terminal Velocity and the Physics of Drag.",
+        "summary": "Practice recap covering: Physics: The Millikan Oil Drop Experiment and the Charge of the Electron; Physics: The Stefan-Boltzmann Law and Thermal Radiation; Physics: X-ray Diffraction and Bragg’s Law; Physics: Terminal Velocity and the Physics of Drag.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What forces did Millikan balance against each other in the oil drop experiment to determine a droplet\u2019s charge?",
+            "q": "What forces did Millikan balance against each other in the oil drop experiment to determine a droplet’s charge?",
             "options": [
               "The force of sound waves and the force of light pressure",
               "The electric force from an applied field and the force of gravity acting on the droplet",
@@ -50056,7 +50059,7 @@ const curriculum: DayContent[] = [
             "options": [
               "The one-half power (the square root of T)",
               "A concept unrelated to physics",
-              "The fourth power (T\u2074)",
+              "The fourth power (T⁴)",
               "The first power (T), with no exponent involved"
             ],
             "answer": 2
@@ -50094,7 +50097,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Villanelle \u2014 Repetition and Form in Fixed Verse; Reading: Analyzing the Function of a Chorus or Narrator-Commentator; Literature: The Epigraph and Paratext \u2014 Framing a Text Before It Begins; Performance: Slam Poetry and the Oral Poetic Tradition.",
+        "summary": "Practice recap covering: Poetry: The Villanelle — Repetition and Form in Fixed Verse; Reading: Analyzing the Function of a Chorus or Narrator-Commentator; Literature: The Epigraph and Paratext — Framing a Text Before It Begins; Performance: Slam Poetry and the Oral Poetic Tradition.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50192,14 +50195,14 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Calculus: Pappus\u2019s Theorem \u2014 Centroids and Volumes of Revolution; Introduction to Modular Arithmetic; Calculus: The Divergence Test (nth-Term Test) for Series; Matrices: Determinants and Inverses of 2x2 Matrices.",
+        "summary": "Practice recap covering: Calculus: Pappus’s Theorem — Centroids and Volumes of Revolution; Introduction to Modular Arithmetic; Calculus: The Divergence Test (nth-Term Test) for Series; Matrices: Determinants and Inverses of 2x2 Matrices.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
           {
-            "q": "According to Pappus\u2019s theorem for volumes, what does the volume of a solid of revolution equal?",
+            "q": "According to Pappus’s theorem for volumes, what does the volume of a solid of revolution equal?",
             "options": [
-              "The square of the region\u2019s area, with no reference to its centroid",
+              "The square of the region’s area, with no reference to its centroid",
               "The perimeter of the region multiplied by its height alone",
               "The area of the rotated region multiplied by the distance travelled by its centroid",
               "A concept unrelated to calculus"
@@ -50217,7 +50220,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "According to the Divergence Test (nth-Term Test), if lim(n\u2192\u221e) a_n \u2260 0, what can be concluded about the series \u03a3a_n?",
+            "q": "According to the Divergence Test (nth-Term Test), if lim(n→∞) a_n ≠ 0, what can be concluded about the series Σa_n?",
             "options": [
               "The series converges absolutely",
               "The test is inconclusive",
@@ -50231,7 +50234,7 @@ const curriculum: DayContent[] = [
             "options": [
               "a = d and b = c",
               "ad - bc = 0",
-              "ad - bc \u2260 0",
+              "ad - bc ≠ 0",
               "a + b + c + d = 0"
             ],
             "answer": 2
@@ -50362,17 +50365,17 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The factoring pattern for a\u00b3 + b\u00b3 is:",
+            "q": "The factoring pattern for a³ + b³ is:",
             "options": [
-              "(a+b)(a\u00b2+ab+b\u00b2)",
-              "(a+b)\u00b3",
-              "(a+b)(a\u00b2-ab+b\u00b2)",
-              "(a-b)(a\u00b2+ab+b\u00b2)"
+              "(a+b)(a²+ab+b²)",
+              "(a+b)³",
+              "(a+b)(a²-ab+b²)",
+              "(a-b)(a²+ab+b²)"
             ],
             "answer": 2
           },
           {
-            "q": "For f(x) = x\u00b2, what is the average rate of change of f(x) over the interval [1, 4]?",
+            "q": "For f(x) = x², what is the average rate of change of f(x) over the interval [1, 4]?",
             "options": [
               "3",
               "5",
@@ -50421,10 +50424,10 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "To solve the equation log\u2082(x) + log\u2082(x-2) = 3 algebraically, which logarithm property is applied first?",
+            "q": "To solve the equation log₂(x) + log₂(x-2) = 3 algebraically, which logarithm property is applied first?",
             "options": [
               "The power rule, to move the exponent 3 in front of a logarithm",
-              "The product rule, to combine the two logarithms into log\u2082[x(x-2)]",
+              "The product rule, to combine the two logarithms into log₂[x(x-2)]",
               "The change of base formula, converting to natural logarithms",
               "The quotient rule, to combine them into a single division"
             ],
@@ -50433,10 +50436,10 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the correct double-angle identity for cosine in terms of cos(x) alone?",
             "options": [
-              "cos(2x) = 2cos\u00b2(x) - 1",
-              "cos(2x) = cos\u00b2(x) + sin\u00b2(x)",
+              "cos(2x) = 2cos²(x) - 1",
+              "cos(2x) = cos²(x) + sin²(x)",
               "cos(2x) = 2sin(x)cos(x)",
-              "cos(2x) = 1 + cos\u00b2(x)"
+              "cos(2x) = 1 + cos²(x)"
             ],
             "answer": 0
           }
@@ -50445,7 +50448,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: Eddy Currents and Lenz\u2019s Law in Action; Physics: The Davisson-Germer Experiment and Electron Diffraction; Physics: The Foucault Pendulum and Proof of Earths Rotation; Physics: The Cavendish Experiment and Measuring the Gravitational Constant.",
+        "summary": "Practice recap covering: Physics: Eddy Currents and Lenz’s Law in Action; Physics: The Davisson-Germer Experiment and Electron Diffraction; Physics: The Foucault Pendulum and Proof of Earths Rotation; Physics: The Cavendish Experiment and Measuring the Gravitational Constant.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -50453,7 +50456,7 @@ const curriculum: DayContent[] = [
             "q": "What are eddy currents, as they form within a solid conductor experiencing a changing magnetic flux?",
             "options": [
               "Swirling loops of induced electric current within the conductor",
-              "A type of mechanical wave travelling through the conductor\u2019s surface",
+              "A type of mechanical wave travelling through the conductor’s surface",
               "A steady, unchanging flow of current in a single straight line",
               "A concept unrelated to physics"
             ],
@@ -50502,7 +50505,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: Prosody and Meter \u2014 The Music of Verse; Literature: The Sublime in Romantic Literature; Literature: The Artist Novel and the Kunstlerroman; Literary Theory: Biographical Criticism \u2014 Reading the Author into the Text.",
+        "summary": "Practice recap covering: Poetry: Prosody and Meter — The Music of Verse; Literature: The Sublime in Romantic Literature; Literature: The Artist Novel and the Kunstlerroman; Literary Theory: Biographical Criticism — Reading the Author into the Text.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50551,12 +50554,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "AdvancedFunctions",
         "title": "Practice: Advanced Functions Recap",
-        "summary": "Practice recap covering: Composition of Functions; Inverse Functions: Finding and Graphing f\u207b\u00b9(x); Combining Functions: Graphing Sums and Products; Domain and Range of Combined and Composite Functions.",
+        "summary": "Practice recap covering: Composition of Functions; Inverse Functions: Finding and Graphing f⁻¹(x); Combining Functions: Graphing Sums and Products; Domain and Range of Combined and Composite Functions.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "If f(x) = x+2 and g(x) = x\u00b2, find f(g(3)).",
+            "q": "If f(x) = x+2 and g(x) = x², find f(g(3)).",
             "options": [
               "9",
               "11",
@@ -50566,7 +50569,7 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "The graph of f\u207b\u00b9(x) is the reflection of the graph of f(x) in the line:",
+            "q": "The graph of f⁻¹(x) is the reflection of the graph of f(x) in the line:",
             "options": [
               "x = 0",
               "y = 0",
@@ -50649,7 +50652,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Hall Effect; Physics: The Coriolis Effect; Physics: Brownian Motion and Einsteins Explanation; Physics: The Faraday Effect \u2014 Magneto-Optic Rotation.",
+        "summary": "Practice recap covering: Physics: The Hall Effect; Physics: The Coriolis Effect; Physics: Brownian Motion and Einsteins Explanation; Physics: The Faraday Effect — Magneto-Optic Rotation.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -50706,7 +50709,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Literature: Disability Studies and Representation in Fiction; Literature: Pastiche and Postmodern Imitation; English Review: Literary Theory and Poetic Form; Poetry: The Sonnet \u2014 Form, Volta, and the Petrarchan Tradition.",
+        "summary": "Practice recap covering: Literature: Disability Studies and Representation in Fiction; Literature: Pastiche and Postmodern Imitation; English Review: Literary Theory and Poetic Form; Poetry: The Sonnet — Form, Volta, and the Petrarchan Tradition.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50780,11 +50783,11 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "For the polynomial function f(x) = x\u00b3, how does the instantaneous rate of change behave as x increases from 1 to 3?",
+            "q": "For the polynomial function f(x) = x³, how does the instantaneous rate of change behave as x increases from 1 to 3?",
             "options": [
               "It stays exactly constant at 3",
               "It decreases toward zero",
-              "It increases, since the derivative 3x\u00b2 grows larger for greater x",
+              "It increases, since the derivative 3x² grows larger for greater x",
               "It becomes negative"
             ],
             "answer": 2
@@ -50794,7 +50797,7 @@ const curriculum: DayContent[] = [
             "options": [
               "Base 9",
               "Base 27",
-              "Base 3, since 9 = 3\u00b2",
+              "Base 3, since 9 = 3²",
               "Base 6"
             ],
             "answer": 2
@@ -50829,21 +50832,21 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Using the power rule, what is the derivative of f(x) = 4x\u2075?",
+            "q": "Using the power rule, what is the derivative of f(x) = 4x⁵?",
             "options": [
-              "20x\u2074",
-              "4x\u2074",
-              "5x\u2074",
-              "20x\u2075"
+              "20x⁴",
+              "4x⁴",
+              "5x⁴",
+              "20x⁵"
             ],
             "answer": 0
           },
           {
-            "q": "In polar form, a complex number z = a + bi is expressed as z = r(cos\u03b8 + i sin\u03b8), where r represents what?",
+            "q": "In polar form, a complex number z = a + bi is expressed as z = r(cosθ + i sinθ), where r represents what?",
             "options": [
               "The real part a alone",
               "The angle the number makes with the positive real axis",
-              "The magnitude (modulus) of the complex number, equal to \u221a(a\u00b2+b\u00b2)",
+              "The magnitude (modulus) of the complex number, equal to √(a²+b²)",
               "The imaginary part b alone"
             ],
             "answer": 2
@@ -50910,7 +50913,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Poetry: The Ode \u2014 Public Voice and Elevated Address; Literature: The Picaresque Novel \u2014 The Rogues Journey; Literature: Autofiction \u2014 Blurring Author and Narrator; Literature: The Picaresque Novel.",
+        "summary": "Practice recap covering: Poetry: The Ode — Public Voice and Elevated Address; Literature: The Picaresque Novel — The Rogues Journey; Literature: Autofiction — Blurring Author and Narrator; Literature: The Picaresque Novel.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -50964,11 +50967,11 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "To solve sin(2\u03b8) = 1/2 for \u03b8 \u2208 [0\u00b0, 360\u00b0), a useful first step is:",
+            "q": "To solve sin(2θ) = 1/2 for θ ∈ [0°, 360°), a useful first step is:",
             "options": [
               "divide both sides by 2 immediately",
-              "let u = 2\u03b8, so u \u2208 [0\u00b0, 720\u00b0), then solve sin(u) = 1/2 for u before dividing by 2",
-              "let u = \u03b8/2 and solve directly for \u03b8",
+              "let u = 2θ, so u ∈ [0°, 720°), then solve sin(u) = 1/2 for u before dividing by 2",
+              "let u = θ/2 and solve directly for θ",
               "square both sides of the equation"
             ],
             "answer": 1
@@ -51057,7 +51060,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: Electromagnetic Induction and Generators; Radioactivity and Half-Life; Physics: Nuclear Magnetic Resonance and Spin Precession; Physics: Piezoelectricity \u2014 Mechanical Stress and Electric Polarization.",
+        "summary": "Practice recap covering: Physics: Electromagnetic Induction and Generators; Radioactivity and Half-Life; Physics: Nuclear Magnetic Resonance and Spin Precession; Physics: Piezoelectricity — Mechanical Stress and Electric Polarization.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -51065,8 +51068,8 @@ const curriculum: DayContent[] = [
             "q": "Electromagnetic induction occurs when a changing magnetic field produces ___.",
             "options": [
               "An electric current in a nearby conductor",
-              "A permanent change in the conductor\u2019s colour",
-              "A change in the conductor\u2019s mass",
+              "A permanent change in the conductor’s colour",
+              "A change in the conductor’s mass",
               "A phenomenon unrelated to magnetism"
             ],
             "answer": 0
@@ -51114,7 +51117,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "English",
         "title": "Practice: English Recap",
-        "summary": "Practice recap covering: Drama: Noh and Kabuki \u2014 Japanese Theatrical Tradition; Writing: The Book Proposal \u2014 Pitching a Long-Form Work; Media Analysis: Video Game Narrative and Interactive Storytelling; Grammar and Style: Parallelism and the Rhetorical Triad; English Review: Poetic Form, Prose Traditions, and Rhetoric.",
+        "summary": "Practice recap covering: Drama: Noh and Kabuki — Japanese Theatrical Tradition; Writing: The Book Proposal — Pitching a Long-Form Work; Media Analysis: Video Game Narrative and Interactive Storytelling; Grammar and Style: Parallelism and the Rhetorical Triad; English Review: Poetic Form, Prose Traditions, and Rhetoric.",
         "resourceLabel": "TVO Learn: Grade 12 English courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=english",
         "quiz": [
@@ -51212,7 +51215,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Calculus",
         "title": "Practice: Calculus Recap",
-        "summary": "Practice recap covering: Algebra: An Introduction to Complex Numbers; Calculus: The Midpoint Rule and Comparing Numerical Integration Methods; Algebra: The Remainder Theorem and Factor Theorem; Algebra: An Introduction to Parametric Equations; Geometry: An Introduction to Conic Sections \u2014 Ellipses and Hyperbolas.",
+        "summary": "Practice recap covering: Algebra: An Introduction to Complex Numbers; Calculus: The Midpoint Rule and Comparing Numerical Integration Methods; Algebra: The Remainder Theorem and Factor Theorem; Algebra: An Introduction to Parametric Equations; Geometry: An Introduction to Conic Sections — Ellipses and Hyperbolas.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=calculus",
         "quiz": [
@@ -51261,7 +51264,7 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Physics: The Physics of Rainbows \u2014 Primary and Secondary Bows; Physics: Sonic Booms and the Physics of Shock Waves; Science: Epigenetics: Gene Expression and Environment; Physics: The Barometric Formula and Atmospheric Pressure with Altitude; Physics Review: Quantum, Thermal, and Wave Phenomena.",
+        "summary": "Practice recap covering: Physics: The Physics of Rainbows — Primary and Secondary Bows; Physics: Sonic Booms and the Physics of Shock Waves; Science: Epigenetics: Gene Expression and Environment; Physics: The Barometric Formula and Atmospheric Pressure with Altitude; Physics Review: Quantum, Thermal, and Wave Phenomena.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
@@ -51669,12 +51672,12 @@ const curriculum: DayContent[] = [
       {
         "subject": "Physics",
         "title": "Practice: Physics Recap",
-        "summary": "Practice recap covering: Chemistry: Le Chatelier\u2019s Principle; Physics: Chladni Patterns and Standing Waves in Two Dimensions; Physics: The Physics of Lightning \u2014 Charge Separation and Electrical Breakdown; Physics: GPS and Relativistic Time Corrections.",
+        "summary": "Practice recap covering: Chemistry: Le Chatelier’s Principle; Physics: Chladni Patterns and Standing Waves in Two Dimensions; Physics: The Physics of Lightning — Charge Separation and Electrical Breakdown; Physics: GPS and Relativistic Time Corrections.",
         "resourceLabel": "TVO Learn: Grade 12 Physics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=physics",
         "quiz": [
           {
-            "q": "What does Le Chatelier\u2019s principle describe?",
+            "q": "What does Le Chatelier’s principle describe?",
             "options": [
               "How light travels through a vacuum",
               "A concept unrelated to chemistry",
@@ -52471,7 +52474,7 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "In the summation notation \u03a3 (from i = 1 to n), what does the lower limit i = 1 indicate?",
+            "q": "In the summation notation Σ (from i = 1 to n), what does the lower limit i = 1 indicate?",
             "options": [
               "The total number of terms being added is exactly 1",
               "The value of the constant term in the expression",
@@ -52810,7 +52813,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "When solving a logarithmic inequality such as log\u2082(x) > 3, what is the first restriction that must be applied?",
+            "q": "When solving a logarithmic inequality such as log₂(x) > 3, what is the first restriction that must be applied?",
             "options": [
               "x must be positive, since the logarithm's argument must be greater than 0",
               "x must equal 0",
@@ -52820,11 +52823,11 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "To solve log\u2083(x) + log\u2083(x \u2212 2) = 1, which step should be applied first?",
+            "q": "To solve log₃(x) + log₃(x − 2) = 1, which step should be applied first?",
             "options": [
-              "Set x equal to x \u2212 2 directly",
+              "Set x equal to x − 2 directly",
               "Divide both sides by 3 immediately",
-              "Combine the logarithms using the product rule: log\u2083[x(x \u2212 2)] = 1",
+              "Combine the logarithms using the product rule: log₃[x(x − 2)] = 1",
               "Square both sides of the equation"
             ],
             "answer": 2
@@ -53019,7 +53022,7 @@ const curriculum: DayContent[] = [
               "log(b)/log(x)",
               "log(x-b)",
               "log(x)/log(b)",
-              "log(x) \u00b7 log(b)"
+              "log(x) · log(b)"
             ],
             "answer": 2
           },
@@ -53036,10 +53039,10 @@ const curriculum: DayContent[] = [
           {
             "q": "Which of the following correctly expresses the compound angle formula for cos(A + B)?",
             "options": [
-              "cos(A)cos(B) \u2212 sin(A)sin(B)",
+              "cos(A)cos(B) − sin(A)sin(B)",
               "cos(A)cos(B) + sin(A)sin(B)",
               "sin(A)cos(B) + cos(A)sin(B)",
-              "sin(A)cos(B) \u2212 cos(A)sin(B)"
+              "sin(A)cos(B) − cos(A)sin(B)"
             ],
             "answer": 0
           }
@@ -53228,12 +53231,12 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "Which identity is derived by dividing sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1 through by cos\u00b2\u03b8?",
+            "q": "Which identity is derived by dividing sin²θ + cos²θ = 1 through by cos²θ?",
             "options": [
-              "1 + cot\u00b2\u03b8 = csc\u00b2\u03b8",
-              "sin\u00b2\u03b8 - cos\u00b2\u03b8 = 1",
-              "1 + tan\u00b2\u03b8 = sec\u00b2\u03b8",
-              "tan\u00b2\u03b8 + cot\u00b2\u03b8 = 1"
+              "1 + cot²θ = csc²θ",
+              "sin²θ - cos²θ = 1",
+              "1 + tan²θ = sec²θ",
+              "tan²θ + cot²θ = 1"
             ],
             "answer": 2
           },
@@ -53287,7 +53290,7 @@ const curriculum: DayContent[] = [
             "answer": 0
           },
           {
-            "q": "What does the scalar triple product a\u00b7(b\u00d7c) represent geometrically?",
+            "q": "What does the scalar triple product a·(b×c) represent geometrically?",
             "options": [
               "The area of the parallelogram formed by two of the vectors",
               "The volume of the parallelepiped formed by the three vectors",
@@ -53432,17 +53435,17 @@ const curriculum: DayContent[] = [
             "answer": 1
           },
           {
-            "q": "Which expression is equivalent to sin(2\u03b8)?",
+            "q": "Which expression is equivalent to sin(2θ)?",
             "options": [
-              "sin\u00b2\u03b8 - cos\u00b2\u03b8",
-              "sin\u03b8 + cos\u03b8",
-              "2sin\u03b8cos\u03b8",
-              "2cos\u03b8"
+              "sin²θ - cos²θ",
+              "sinθ + cosθ",
+              "2sinθcosθ",
+              "2cosθ"
             ],
             "answer": 2
           },
           {
-            "q": "How many solutions does sinx = 0.5 have over the interval [0, 2\u03c0)?",
+            "q": "How many solutions does sinx = 0.5 have over the interval [0, 2π)?",
             "options": [
               "1",
               "3",
@@ -53616,12 +53619,12 @@ const curriculum: DayContent[] = [
         "resourceUrl": "https://tvolearn.com/collections/courses?q=advanced+functions",
         "quiz": [
           {
-            "q": "How is sec\u03b8 defined in terms of cos\u03b8?",
+            "q": "How is secθ defined in terms of cosθ?",
             "options": [
-              "sec\u03b8 = -cos\u03b8",
-              "sec\u03b8 = cos\u03b8",
-              "sec\u03b8 = 1/cos\u03b8",
-              "sec\u03b8 = 1/sin\u03b8"
+              "secθ = -cosθ",
+              "secθ = cosθ",
+              "secθ = 1/cosθ",
+              "secθ = 1/sinθ"
             ],
             "answer": 2
           },
@@ -53636,22 +53639,22 @@ const curriculum: DayContent[] = [
             "answer": 3
           },
           {
-            "q": "If f(x) = x\u00b2 and g(x) = 3x + 1, what is (f\u00b7g)(x)?",
+            "q": "If f(x) = x² and g(x) = 3x + 1, what is (f·g)(x)?",
             "options": [
-              "3x\u00b3 + x\u00b2 + 1",
-              "x\u00b2 + 3x + 1",
-              "3x\u00b3 + x\u00b2",
-              "3x\u00b2 + x"
+              "3x³ + x² + 1",
+              "x² + 3x + 1",
+              "3x³ + x²",
+              "3x² + x"
             ],
             "answer": 2
           },
           {
-            "q": "For h(x) = sin(x\u00b2 + 1), which decomposition correctly identifies the inner and outer functions?",
+            "q": "For h(x) = sin(x² + 1), which decomposition correctly identifies the inner and outer functions?",
             "options": [
-              "Outer: g(x) = x\u00b2 + 1, Inner: f(x) = sinx",
-              "Outer: f(x) = x\u00b2, Inner: g(x) = sinx + 1",
+              "Outer: g(x) = x² + 1, Inner: f(x) = sinx",
+              "Outer: f(x) = x², Inner: g(x) = sinx + 1",
               "There is no valid decomposition for this function",
-              "Outer: f(x) = sinx, Inner: g(x) = x\u00b2 + 1"
+              "Outer: f(x) = sinx, Inner: g(x) = x² + 1"
             ],
             "answer": 3
           }
@@ -53850,7 +53853,7 @@ const curriculum: DayContent[] = [
             "answer": 2
           },
           {
-            "q": "For an exponential function f(x) = a\u00b7b^x, the instantaneous rate of change at any point is proportional to:",
+            "q": "For an exponential function f(x) = a·b^x, the instantaneous rate of change at any point is proportional to:",
             "options": [
               "The x-value alone",
               "A constant, unchanging amount regardless of x",

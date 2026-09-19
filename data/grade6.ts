@@ -78,7 +78,7 @@ const curriculum: DayContent[] = [
             "options": [
               "4/6",
               "6/8",
-              "3/4",
+              "5/6",
               "4/9"
             ],
             "answer": 0
@@ -96,7 +96,7 @@ const curriculum: DayContent[] = [
           {
             "q": "What is the simplest form of 8/12?",
             "options": [
-              "4/6",
+              "3/5",
               "3/4",
               "2/3",
               "1/2"
@@ -1117,7 +1117,7 @@ const curriculum: DayContent[] = [
               "4/4",
               "1/3",
               "4/6",
-              "2/6"
+              "1/6"
             ],
             "answer": 1
           }
@@ -6840,7 +6840,7 @@ const curriculum: DayContent[] = [
             "q": "Convert 35% to a fraction in lowest terms.",
             "options": [
               "35/10",
-              "35/100",
+              "5/20",
               "7/20",
               "7/100"
             ],
@@ -21802,7 +21802,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Writing"
+        "topic": "Writing",
+        "videoUrl": "https://www.youtube.com/watch?v=3GkN4qul82Y"
       },
       {
         "subject": "Math",
@@ -21923,7 +21924,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Earth Systems"
+        "topic": "Earth Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=p4pWafuvdrY"
       },
       {
         "subject": "SocialStudies",
@@ -22005,7 +22007,8 @@ const curriculum: DayContent[] = [
               "helps everyone be treated fairly"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ovP_Nm4lHTM"
       }
     ]
   },
@@ -32207,9 +32210,9 @@ const curriculum: DayContent[] = [
             "q": "Which number is written correctly using commas to separate place value groups?",
             "options": [
               "4,500,000",
-              "45,00,000",
-              "4500000,",
-              "4500,000"
+              "45,000,000",
+              "450,000",
+              "4,050,000"
             ],
             "answer": 0
           },
