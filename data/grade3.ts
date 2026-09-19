@@ -21763,6 +21763,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: the range of a data set is the difference between the highest and lowest values, found by subtracting the smallest number from the largest number.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=vp1wqtfGJuk",
         "quiz": [
           {
             "q": "What do we call the difference between the highest and lowest values in a data set?",

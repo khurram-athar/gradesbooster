@@ -27306,6 +27306,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that one hour is equal to 60 minutes, and practise converting between hours and minutes, such as figuring out that 2 hours equals 120 minutes.",
         "resourceLabel": "YouTube: Time: Converting Hours to Minutes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Converting%20Hours%20to%20Minutes%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nxA2mt27lM0",
         "quiz": [
           {
             "q": "How many minutes are in 1 hour?",
@@ -27389,6 +27390,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that many animals live and travel together in groups, such as a herd of deer, a flock of birds, or a pack of wolves, which can help keep them safe.",
         "resourceLabel": "YouTube: Animal Groups: Herds, Flocks, and Packs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Groups%3A%20Herds%2C%20Flocks%2C%20and%20Packs%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=r2_npLl4Cyc",
         "quiz": [
           {
             "q": "What do we call a group of birds flying together?",
@@ -27469,6 +27471,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that city planning involves deciding where to build homes, roads, parks, and schools, so that a community is organized and works well for the people who live there.",
         "resourceLabel": "YouTube: City Planning: Designing Where We Live",
         "resourceUrl": "https://www.youtube.com/results?search_query=City%20Planning%3A%20Designing%20Where%20We%20Live%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Sq5VGiWXGTY",
         "quiz": [
           {
             "q": "What is city planning?",

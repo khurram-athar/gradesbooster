@@ -20468,6 +20468,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties such as welcoming important visitors and opening Parliament.",
         "resourceLabel": "YouTube: Our Governor General: A Ceremonial Role in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Governor%20General%3A%20A%20Ceremonial%20Role%20in%20Canada%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jsPOHWSZuHg",
         "quiz": [
           {
             "q": "Who does the Governor General represent in Canada?",

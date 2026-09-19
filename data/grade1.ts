@@ -27104,6 +27104,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a fundraiser, such as a bake sale, is an event where a community works together to raise money for a shared goal, like helping a local charity.",
         "resourceLabel": "YouTube: Bake Sales and Fundraisers: Helping Our Community",
         "resourceUrl": "https://www.youtube.com/results?search_query=Bake%20Sales%20and%20Fundraisers%3A%20Helping%20Our%20Community%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y3G7KiXiyes",
         "quiz": [
           {
             "q": "What is a fundraiser?",
