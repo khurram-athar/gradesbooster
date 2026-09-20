@@ -22000,6 +22000,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 English strand: effective public speakers often use storytelling techniques, such as vivid detail, a clear narrative arc, and personal connection, to engage and persuade an audience.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Nj-hdQMa3uA",
         "quiz": [
           {
             "q": "What technique do effective public speakers often use to engage an audience?",
@@ -22060,6 +22061,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Math strand: transformations of the absolute value function shift, stretch, compress, or reflect its characteristic V-shaped graph.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=R9AJGxAJ0QQ",
         "quiz": [
           {
             "q": "What is the characteristic shape of the graph of an absolute value function?",
@@ -22120,6 +22122,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 Science strand: groundwater is stored underground in aquifers, permeable rock or sediment layers that supply wells and springs and can become depleted or contaminated over time.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=bG19b06NG_w",
         "quiz": [
           {
             "q": "Where is groundwater stored?",
@@ -22179,6 +22182,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 10 History strand: the 1988 federal election became a referendum on the proposed Canada-US Free Trade Agreement, sparking national debate over economic sovereignty and integration.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=jlvb9czZFXw",
         "quiz": [
           {
             "q": "What proposed agreement was central to the 1988 federal election debate?",

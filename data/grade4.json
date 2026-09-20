@@ -22744,6 +22744,7 @@
         "summary": "Ontario Grade 2 Language strand: students learn that personification gives human qualities to an animal, object, or idea, such as saying the wind whispered or the sun smiled, to make writing more vivid.",
         "resourceLabel": "YouTube: Personification: Giving Human Traits to Objects",
         "resourceUrl": "https://www.youtube.com/results?search_query=Personification%3A%20Giving%20Human%20Traits%20to%20Objects%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VqBZMR83wCg",
         "quiz": [
           {
             "q": "What is personification?",
@@ -22824,6 +22825,17 @@
         "summary": "Grade 2 Math strand: students extend their multiplication fact fluency to include the 11 times table and the 12 times table.",
         "resourceLabel": "YouTube: Multiplication Facts: 11s and 12s",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%2011s%20and%2012s%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MxYGaqkX94k",
+        "videoUrls": [
+          {
+            "label": "11 times table",
+            "url": "https://www.youtube.com/watch?v=MxYGaqkX94k"
+          },
+          {
+            "label": "12 times table",
+            "url": "https://www.youtube.com/watch?v=EsTbhbIHLW4"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 11 x 3?",
@@ -22884,6 +22896,7 @@
         "summary": "Students learn that rocks can slowly change from one type to another over a very long time, forming igneous rock from cooled melted rock, sedimentary rock from layers of sediment, and metamorphic rock from heat and pressure.",
         "resourceLabel": "YouTube: The Rock Cycle: Igneous, Sedimentary, and Metamorphic",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rock%20Cycle%3A%20Igneous%2C%20Sedimentary%2C%20and%20Metamorphic%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Vp_S3BDiR-I",
         "quiz": [
           {
             "q": "What is igneous rock?",
@@ -22966,6 +22979,7 @@
         "summary": "Grade 4 Social Studies strand: Canadian currency has changed over time, from early trade using items like fur pelts, to coins and paper bills, to today’s polymer bank notes.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=oHEF5CGlCkU",
         "quiz": [
           {
             "q": "Name one early form of trade used before coins existed, such as fur pelts.",

@@ -21968,6 +21968,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an absolute phrase modifies an entire sentence rather than a single word, often combining a noun with a participle, such as in Her arms crossed, she waited by the door.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=rAPByt-vUSQ",
         "quiz": [
           {
             "q": "What does an absolute phrase modify?",
@@ -22028,6 +22029,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: students find the volume of composite solids that combine shapes with curved surfaces, such as a cylinder topped with a cone, by finding the volume of each part and adding them together.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=k_P9NZjWu3s",
         "quiz": [
           {
             "q": "To find the volume of a composite solid made of a cylinder and a cone, what should you do?",
@@ -22088,6 +22090,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: mixtures can be separated using methods such as filtering, which uses a strainer to catch solid pieces, or evaporation, which lets a liquid dry up and leaves behind the solid that was dissolved in it.",
         "resourceLabel": "YouTube: Science: Matter: Methods for Separating Mixtures",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Matter%3A%20Methods%20for%20Separating%20Mixtures%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gyVdOYBeso0",
         "quiz": [
           {
             "q": "What method uses a strainer to catch solid pieces out of a mixture?",
@@ -22148,6 +22151,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: the Senate is the appointed upper house of Canada’s Parliament that reviews, debates, and can amend bills passed by the elected House of Commons before they become law.",
         "resourceLabel": "YouTube: The Canadian Senate and Its Role in Parliament",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Senate%20and%20Its%20Role%20in%20Parliament%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OLadbJe4MXg",
         "quiz": [
           {
             "q": "What is the name of the appointed upper house of Canada’s Parliament?",

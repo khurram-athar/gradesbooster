@@ -22080,6 +22080,7 @@
         "summary": "Grade 6 Math strand: a tree diagram organizes all possible outcomes of two or more events, such as flipping a coin and rolling a die, making it easier to calculate compound probability.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=yxJi5vuO_wU",
         "quiz": [
           {
             "q": "What does a tree diagram help organize?",
@@ -22140,6 +22141,17 @@
         "summary": "Grade 4 Science strand: some animals survive seasonal changes through migration, travelling long distances to a different climate, while others survive through hibernation, a long period of deep rest during which their body slows down.",
         "resourceLabel": "YouTube: Animal Behaviours: Migration and Hibernation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Behaviours%3A%20Migration%20and%20Hibernation%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=i70_Ti1v2to",
+        "videoUrls": [
+          {
+            "label": "Migration",
+            "url": "https://www.youtube.com/watch?v=i70_Ti1v2to"
+          },
+          {
+            "label": "Hibernation",
+            "url": "https://www.youtube.com/watch?v=FonCq9YJJxw"
+          }
+        ],
         "quiz": [
           {
             "q": "Migration is best described as an animal ___.",

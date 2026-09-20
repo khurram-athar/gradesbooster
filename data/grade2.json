@@ -27557,6 +27557,7 @@
         "summary": "Students learn that adding -es to some words, such as changing box to boxes or wish to wishes, shows there is more than one.",
         "resourceLabel": "YouTube: Making New Words: Adding -es",
         "resourceUrl": "https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-es%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=D8I32s-stbQ",
         "quiz": [
           {
             "q": "Add -es to the word box. What new word do you make?",
@@ -27636,6 +27637,7 @@
         "summary": "Students learn to look at a number pattern, such as 3, 6, 9, 12, and figure out the rule that explains how each number connects to the next, such as add 3 each time.",
         "resourceLabel": "YouTube: Patterns: Finding the Rule",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20Finding%20the%20Rule%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vV7C7bXm4VI",
         "quiz": [
           {
             "q": "What is the rule for the pattern 2, 4, 6, 8?",
@@ -27719,6 +27721,17 @@
         "summary": "Students learn about two more simple machines, a screw, which is a spiral ramp that holds things together, and a wedge, which is a shape used to split or cut things apart.",
         "resourceLabel": "YouTube: Simple Machines: Screws and Wedges",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Screws%20and%20Wedges%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uIUfdcyrNzg",
+        "videoUrls": [
+          {
+            "label": "Screws",
+            "url": "https://www.youtube.com/watch?v=uIUfdcyrNzg"
+          },
+          {
+            "label": "Wedge",
+            "url": "https://www.youtube.com/watch?v=4Jbpf0Fd4jg"
+          }
+        ],
         "quiz": [
           {
             "q": "What simple machine has a spiral shape and helps hold things together?",

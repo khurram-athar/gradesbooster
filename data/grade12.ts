@@ -21916,6 +21916,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 English strand: a periodic sentence withholds its main point until the very end, building suspense, while a cumulative sentence states its main point early and adds supporting details afterward.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=7Qdhv9eUYkE",
         "quiz": [
           {
             "q": "When does a periodic sentence reveal its main point?",
@@ -22096,6 +22097,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 12 Physics strand: sonoluminescence occurs when sound waves cause tiny gas bubbles in a liquid to collapse so rapidly and intensely that they emit brief flashes of light.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=wTNbsKX4OV0",
         "quiz": [
           {
             "q": "What causes sonoluminescence to occur?",
