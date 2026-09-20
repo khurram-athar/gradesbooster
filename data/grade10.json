@@ -22307,6 +22307,7 @@
         "summary": "Grade 10 Math strand: currency exchange rates determine how much one country’s currency is worth in terms of another, affecting the cost of international travel, trade, and investment.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-7ZSav8xvMU",
         "quiz": [
           {
             "q": "What do currency exchange rates determine?",
@@ -22367,6 +22368,17 @@
         "summary": "Grade 10 Science strand: a catalyst speeds up a chemical reaction by providing an alternative pathway with lower activation energy, without being consumed in the reaction itself.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=m_9bpZep1QM",
+        "videoUrls": [
+          {
+            "label": "Catalysts",
+            "url": "https://www.youtube.com/watch?v=m_9bpZep1QM"
+          },
+          {
+            "label": "Factors Affecting Reaction Rate",
+            "url": "https://www.youtube.com/watch?v=JpoOfrPKgmM"
+          }
+        ],
         "quiz": [
           {
             "q": "What does a catalyst do to a chemical reaction?",
@@ -22427,6 +22439,7 @@
         "summary": "Grade 10 History strand: Canadian general Roméo Dallaire led the United Nations peacekeeping mission in Rwanda during the 1994 genocide, drawing attention to the limits and challenges of international intervention.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=ZezaKG0Q2og",
         "quiz": [
           {
             "q": "What role did Canadian general Roméo Dallaire hold in Rwanda in 1994?",

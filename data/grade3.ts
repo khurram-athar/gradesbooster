@@ -22201,6 +22201,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: a newspaper article reports facts about a real event, usually answering who, what, when, where, and why, often starting with the most important information first.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=zl0TZt4ODIs",
         "quiz": [
           {
             "q": "What kind of writing reports facts about a real event?",
@@ -22261,6 +22262,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: students learn that profit is the money left over after subtracting the cost of supplies from the money earned, while a loss happens if costs are higher than earnings.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=JWr_V2_sCic",
         "quiz": [
           {
             "q": "What do we call the money left over after subtracting costs from earnings?",
@@ -22321,6 +22323,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: density describes how tightly packed the matter is inside an object, and objects less dense than water will float, while denser objects will sink.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=eQuW8G2QV_Q",
         "quiz": [
           {
             "q": "What word describes how tightly packed the matter is inside an object?",
@@ -22380,6 +22383,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: civic participation means taking an active part in your community, such as volunteering, voting when old enough, or attending community meetings.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=qe8NOm-HIgQ",
         "quiz": [
           {
             "q": "What word describes taking an active part in your community?",

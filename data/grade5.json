@@ -22846,6 +22846,7 @@
         "summary": "Grade 5 Social Studies strand: Canada’s mining industry extracts valuable resources, such as nickel, gold, and potash, supporting jobs and the economy while also raising environmental considerations.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=K6FasptWdeU",
         "quiz": [
           {
             "q": "Name one resource extracted by Canada’s mining industry, such as nickel or gold.",
@@ -22972,6 +22973,21 @@
         "summary": "Grade 5 Math strand: students apply recent skills, including scaling recipes, finding cylinder volume, and probability of independent events, to solve multi-part problems that combine these ideas.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=dD8JsS-TchA",
+        "videoUrls": [
+          {
+            "label": "Ratios",
+            "url": "https://www.youtube.com/watch?v=dD8JsS-TchA"
+          },
+          {
+            "label": "Introduction to Volume",
+            "url": "https://www.youtube.com/watch?v=NohkEnzkaN0"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=KzfWUEJjG18"
+          }
+        ],
         "quiz": [
           {
             "q": "If a recipe is scaled from serving 4 people to serving 12 people, by what factor was it scaled?",
@@ -23031,6 +23047,17 @@
         "summary": "Grade 5 Science strand: hurricanes are large, rotating storms that form over warm ocean water, while tornadoes are smaller, fast-spinning columns of air that can form quickly over land during severe thunderstorms.",
         "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xKubdY2mHXc",
+        "videoUrls": [
+          {
+            "label": "Hurricanes",
+            "url": "https://www.youtube.com/watch?v=xKubdY2mHXc"
+          },
+          {
+            "label": "Tornadoes",
+            "url": "https://www.youtube.com/watch?v=-s3UwOq1P1E"
+          }
+        ],
         "quiz": [
           {
             "q": "Where do hurricanes typically form?",
@@ -23216,6 +23243,7 @@
         "summary": "Grade 3 Math strand: students multiply a 3-digit number by a 1-digit number using place value strategies or the standard algorithm, multiplying each place value and regrouping as needed.",
         "resourceLabel": "YouTube: Multiplication: Multiplying 3-Digit Numbers by 1-Digit Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%3A%20Multiplying%203-Digit%20Numbers%20by%201-Digit%20Numbers%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=od-tHGrudcA",
         "quiz": [
           {
             "q": "What is 213 x 3?",

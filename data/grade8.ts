@@ -22244,6 +22244,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to map a story's plot onto the stages of dramatic structure -- exposition, rising action, climax, falling action, and resolution -- and analyze how each stage builds tension.",
         "resourceLabel": "YouTube: Reading: Analyzing Plot Structure",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Analyzing%20Plot%20Structure%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x1kAOIYqxbk",
         "topic": "Reading: Fiction & Story Elements",
         "quiz": [
           {
@@ -22304,6 +22305,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: an exterior angle of a polygon is formed by extending one side of the polygon, and the sum of the exterior angles of any convex polygon, one at each vertex, always equals 360 degrees.",
         "resourceLabel": "YouTube: Geometry: Exterior Angles of Polygons",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Exterior%20Angles%20of%20Polygons%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OEzEo4XqzJQ",
         "quiz": [
           {
             "q": "How is an exterior angle of a polygon formed?",
@@ -22364,6 +22366,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 8 Science strand: batteries store chemical energy and convert it into electrical energy through a chemical reaction between two different materials, called electrodes, separated by an electrolyte.",
         "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PXNKkcB0pI4",
         "quiz": [
           {
             "q": "What type of energy do batteries store?",
@@ -22424,6 +22427,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Social Studies strand: in 1914, the ship Komagata Maru arrived in Vancouver carrying passengers from India who were denied entry to Canada under discriminatory immigration laws of the time, an event now recognized as an injustice in Canadian history.",
         "resourceLabel": "YouTube: Social Studies: The Komagata Maru Incident",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%3A%20The%20Komagata%20Maru%20Incident%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mhr1Ucr7qlc",
         "quiz": [
           {
             "q": "What was the Komagata Maru?",

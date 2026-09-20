@@ -22215,6 +22215,7 @@
         "summary": "Grade 7 Language strand: a frame narrative is a story structure where one story is told within another, such as a character telling a story to another character, adding layers of meaning to the text.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=e9_Ize7ZDwg",
         "quiz": [
           {
             "q": "What is a frame narrative?",
@@ -22275,6 +22276,17 @@
         "summary": "Grade 7 Math strand: students deepen their understanding of divisibility rules and prime numbers, exploring how prime factorization can be used to simplify fractions and find common factors.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Df9h5t64NlQ",
+        "videoUrls": [
+          {
+            "label": "Divisibility Tests",
+            "url": "https://www.youtube.com/watch?v=Df9h5t64NlQ"
+          },
+          {
+            "label": "Prime Numbers",
+            "url": "https://www.youtube.com/watch?v=5gBtzdM5M5k"
+          }
+        ],
         "quiz": [
           {
             "q": "What is a prime number?",
@@ -22335,6 +22347,7 @@
         "summary": "Grade 7 Science strand: space weather refers to conditions in space, such as solar flares, bursts of energy from the Sun that can affect satellites, power grids, and communication systems on Earth.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=jnzJaqJdyi4",
         "quiz": [
           {
             "q": "What does space weather refer to?",
@@ -22395,6 +22408,7 @@
         "summary": "Grade 5 Social Studies strand: a Lieutenant Governor is the monarch’s representative in a province, performing ceremonial duties and formally granting royal assent to provincial laws.",
         "resourceLabel": "YouTube: The Role of Lieutenant Governors in the Provinces",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Role%20of%20Lieutenant%20Governors%20in%20the%20Provinces%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ST7M4BjnfK4",
         "quiz": [
           {
             "q": "What is the title of the monarch’s representative in a Canadian province?",

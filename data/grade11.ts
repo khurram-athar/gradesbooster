@@ -22250,6 +22250,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 English strand: a verse novel tells an extended narrative using poetic form and structure rather than traditional prose, blending storytelling with the compression and imagery of poetry.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=S3Yj_GxJAaA",
         "quiz": [
           {
             "q": "What form does a verse novel use to tell its narrative?",
@@ -22309,6 +22310,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Functions strand: the vector projection finds the component of one vector in the direction of another, while the cross product produces a new vector perpendicular to both original vectors.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Rw70zkvqEiE",
+        "videoUrls": [
+          {
+            "label": "Vector Projections",
+            "url": "https://www.youtube.com/watch?v=Rw70zkvqEiE"
+          },
+          {
+            "label": "The Cross Product",
+            "url": "https://www.youtube.com/watch?v=eu6i7WJeinw"
+          }
+        ],
         "quiz": [
           {
             "q": "What does a vector projection find?",
@@ -22369,6 +22381,17 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Biology strand: biogeography studies how species are distributed across the world, and the movement of continents over millions of years has significantly shaped where related species are found today.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=rQUFpu5Jkks",
+        "videoUrls": [
+          {
+            "label": "Biogeography: Vicariance and Dispersal",
+            "url": "https://www.youtube.com/watch?v=rQUFpu5Jkks"
+          },
+          {
+            "label": "The Theory of Continental Drift",
+            "url": "https://www.youtube.com/watch?v=_5q8hzF9VVE"
+          }
+        ],
         "quiz": [
           {
             "q": "What does biogeography study?",
@@ -22428,6 +22451,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 11 Chemistry strand: cosmetics and personal care products rely on chemistry to combine ingredients like emulsifiers, preservatives, and active compounds into stable, effective formulations.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=yvnKUP8wDYQ",
         "quiz": [
           {
             "q": "What do cosmetics and personal care products rely on to combine their ingredients?",

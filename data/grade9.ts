@@ -22402,6 +22402,7 @@ const curriculum: DayContent[] = [
         "summary": "Students explore how video games use interactive storytelling and design choices, such as loot boxes and reward systems, as forms of narrative and persuasive design.",
         "resourceLabel": "YouTube: Media Literacy: Analyzing Narrative and Persuasion in Video Games",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Narrative%20and%20Persuasion%20in%20Video%20Games%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=OrmyLaLCaIo",
         "topic": "Media Literacy",
         "quiz": [
           {
@@ -22462,6 +22463,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn to multiply two binomials using the distributive property, often organized with the FOIL (First, Outer, Inner, Last) pattern, and simplify the resulting trinomial.",
         "resourceLabel": "YouTube: Multiplying Binomials Using the Distributive Property (FOIL)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Binomials%20Using%20the%20Distributive%20Property%20%28FOIL%29%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nyk3UGwCAms",
         "topic": "Polynomials & Factoring",
         "quiz": [
           {
@@ -22522,6 +22524,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Science strand: batteries store chemical energy and convert it into electrical energy through a reaction between two electrodes separated by an electrolyte, powering everything from phones to electric vehicles.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=j_rNjiIiBKE",
         "quiz": [
           {
             "q": "What type of energy do batteries store?",
@@ -22582,6 +22585,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 9 Social Studies strand: access to health care and health outcomes vary significantly across the world, influenced by geographic factors such as income, infrastructure, and distance to medical facilities.",
         "resourceLabel": "TVO Learn: Grade 9 Geography",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "videoUrl": "https://www.youtube.com/watch?v=8PH4JYfF4Ns",
         "quiz": [
           {
             "q": "Do access to health care and health outcomes vary across the world?",

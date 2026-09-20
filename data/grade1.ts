@@ -27504,6 +27504,7 @@ const curriculum: DayContent[] = [
         "summary": "Students practise noticing new or unfamiliar words while reading, using pictures and nearby sentences to make a good guess about what the new word might mean.",
         "resourceLabel": "YouTube: Building Vocabulary: Learning New Words While Reading",
         "resourceUrl": "https://www.youtube.com/results?search_query=Building%20Vocabulary%3A%20Learning%20New%20Words%20While%20Reading%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pLCg4LGNRCE",
         "quiz": [
           {
             "q": "What can help you figure out a new words meaning while reading?",
@@ -27586,6 +27587,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn how to figure out how much change they should receive back after paying with a dollar for something that costs less than a dollar.",
         "resourceLabel": "YouTube: Money: Making Change from a Dollar",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20from%20a%20Dollar%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MqqnhzIspL8",
         "quiz": [
           {
             "q": "If something costs 70 cents and you pay with a dollar, how much change should you get?",
@@ -27669,6 +27671,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that our sense of smell and sense of taste work closely together, and that our nose can help us notice flavours we might not fully taste with our tongue alone.",
         "resourceLabel": "YouTube: Our Nose and Taste Buds: Smelling and Tasting Together",
         "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Nose%20and%20Taste%20Buds%3A%20Smelling%20and%20Tasting%20Together%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wIwkQZ_oCdU",
         "quiz": [
           {
             "q": "Which two senses work closely together when we eat food?",
@@ -27750,6 +27753,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn what it means to be a good neighbour, such as being friendly, respecting others property, and offering to help when someone nearby needs it.",
         "resourceLabel": "YouTube: Being a Good Neighbour: Kindness Close to Home",
         "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Good%20Neighbour%3A%20Kindness%20Close%20to%20Home%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=EKhoCKyN7Fw",
         "quiz": [
           {
             "q": "What does it mean to be a good neighbour?",
@@ -28034,6 +28038,7 @@ const curriculum: DayContent[] = [
         "summary": "Students discover that magnets can pull certain objects toward them without touching, and explore how this invisible force works.",
         "resourceLabel": "YouTube: Magnets: The Invisible Pull",
         "resourceUrl": "https://www.youtube.com/results?search_query=Magnets%3A%20The%20Invisible%20Pull%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7HHs98PBgk0",
         "topic": "Forces & Motion",
         "quiz": [
           {

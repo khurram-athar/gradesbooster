@@ -26480,6 +26480,7 @@
         "summary": "Students learn that a poem often uses rhyming words and a steady rhythm, or beat, to make the words sound musical and fun to say aloud.",
         "resourceLabel": "YouTube: Poetry: Simple Rhymes and Rhythm",
         "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Simple%20Rhymes%20and%20Rhythm%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lOUnhSMGdOo",
         "quiz": [
           {
             "q": "What do many poems use to sound musical?",
@@ -26560,6 +26561,7 @@
         "summary": "Students learn the names of common 3D solid shapes -- sphere, cube, cone, and cylinder -- and match each name to real objects that share that shape.",
         "resourceLabel": "YouTube: Naming 3D Shapes: Sphere, Cube, Cone, and Cylinder",
         "resourceUrl": "https://www.youtube.com/results?search_query=Naming%203D%20Shapes%3A%20Sphere%2C%20Cube%2C%20Cone%2C%20and%20Cylinder%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZnZYK83utu0",
         "topic": "2D/3D Geometry & Shapes",
         "quiz": [
           {
@@ -26620,6 +26622,7 @@
         "summary": "Kids build towers out of blocks and learn simple ideas about balance and stability, like using a wide base to keep a tower from tipping over.",
         "resourceLabel": "YouTube: Building Strong Towers: Blocks and Balance",
         "resourceUrl": "https://www.youtube.com/results?search_query=Building%20Strong%20Towers%3A%20Blocks%20and%20Balance%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eR2OR3coiX4",
         "quiz": [
           {
             "q": "What usually helps a tower stay standing instead of falling over?",
@@ -26679,6 +26682,7 @@
         "summary": "This lesson encourages children to invite others to join games and activities so that no one is left out during play.",
         "resourceLabel": "YouTube: Including Everyone in Our Games",
         "resourceUrl": "https://www.youtube.com/results?search_query=Including%20Everyone%20in%20Our%20Games%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YWaro7AS4uE",
         "topic": "Civic Life & Cooperation (Basic)",
         "quiz": [
           {
@@ -26923,6 +26927,17 @@
         "summary": "A review lesson recapping the school helpers and friendship skills learned this month, from teachers and bus drivers to kind words and including others.",
         "resourceLabel": "YouTube: Social Studies Review: School Helpers and Kind Friends",
         "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20School%20Helpers%20and%20Kind%20Friends%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2lc-aMgEJpQ",
+        "videoUrls": [
+          {
+            "label": "Community Helpers: People Who Help Us",
+            "url": "https://www.youtube.com/watch?v=2lc-aMgEJpQ"
+          },
+          {
+            "label": "Using Kind Words: Speaking Gently to Others",
+            "url": "https://www.youtube.com/watch?v=L0mkgAy2DpI"
+          }
+        ],
         "topic": "Civic Life & Cooperation (Basic)",
         "quiz": [
           {
