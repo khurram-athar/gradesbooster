@@ -15865,64 +15865,63 @@
       },
       {
         "subject": "Math",
-        "title": "Matrices: Introduction and Basic Operations",
-        "summary": "Grade 10 Algebra strand (extension): a matrix is a rectangular array of numbers organized into rows and columns, and matrices can be added, subtracted, or multiplied following specific rules based on their dimensions.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=ZFVFtVbeerI",
+        "title": "Algebra: Simplifying Rational Expressions and Stating Restrictions",
+        "summary": "Students simplify rational (fraction) expressions containing variables by factoring the numerator and denominator, and learn to state the restrictions that keep the denominator from equaling zero.",
+        "resourceLabel": "YouTube: Algebra: Simplifying Rational Expressions and Stating Restrictions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Simplifying%20Rational%20Expressions%20and%20Stating%20Restrictions%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A matrix is best described as a rectangular array of numbers organized into ___.",
+            "q": "Simplify (x^2 - 9)/(x + 3) and state the restriction.",
             "options": [
-              "A concept unrelated to organizing numbers",
-              "Rows and columns",
-              "A single column only, with no rows",
-              "A single row only, with no columns"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "To add two matrices together, they must ___.",
-            "options": [
-              "Contain entirely different values",
-              "Have the same dimensions",
-              "Have a different number of rows and columns from each other",
-              "A requirement unrelated to matrix addition"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The dimensions of a matrix are typically described as ___.",
-            "options": [
-              "A description unrelated to matrices",
-              "Only the total number of entries, with no distinction between rows and columns",
-              "The sum of all entries in the matrix",
-              "Number of rows by number of columns"
+              "x^2 - 3, x ≠ -3",
+              "x - 3, x ≠ 3",
+              "x + 3, x ≠ -3",
+              "x - 3, x ≠ -3"
             ],
             "answer": 3
           },
           {
-            "q": "Why must the number of columns in the first matrix match the number of rows in the second matrix when multiplying two matrices?",
+            "q": "What value of x must be excluded from the domain of (x + 5)/(2x - 6)?",
             "options": [
-              "Any two matrices can always be multiplied regardless of their dimensions",
-              "This condition is required by the way matrix multiplication combines rows and columns to produce each entry",
-              "This requirement has no connection to matrix multiplication",
-              "Matrix dimensions never need to match for multiplication"
+              "x = 3",
+              "x = -3",
+              "x = -5",
+              "x = 5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify (4x^2 - 16)/(x - 2).",
+            "options": [
+              "4x - 8",
+              "4x + 8",
+              "x + 2",
+              "4(x - 2)"
             ],
             "answer": 1
           },
           {
-            "q": "Why are matrices useful for organizing and solving real-world problems, such as systems of equations or transforming graphics?",
+            "q": "Why must the restriction be stated even after a rational expression is fully simplified?",
             "options": [
-              "This concept only applies to purely abstract mathematics with no real-world use",
-              "Matrices have no real-world modelling applications",
-              "Systems of equations and graphics transformations never involve organized numerical data",
-              "They provide an efficient, structured way to represent and manipulate large sets of related numbers"
+              "Because the original denominator could still equal zero at that x-value, making the original expression undefined",
+              "Because the simplified form is only an approximation",
+              "Because the numerator changes value at that restriction",
+              "Because restrictions only apply to quadratic expressions"
             ],
-            "answer": 3
+            "answer": 0
+          },
+          {
+            "q": "Simplify (x^2 + 5x + 6)/(x^2 - 4) and state all restrictions.",
+            "options": [
+              "(x + 3)/(x + 2), x ≠ -2",
+              "(x - 3)/(x - 2), x ≠ 2",
+              "(x + 3)/(x - 2), x ≠ 2, x ≠ -2",
+              "(x + 2)/(x - 3), x ≠ 3"
+            ],
+            "answer": 0
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Algebra: Rational Expressions"
       },
       {
         "subject": "Science",
@@ -17400,8 +17399,8 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Functions, Matrices, Probability, and Geometry",
-        "summary": "Grade 10 Math strand review: this lesson revisits inverse functions, radical functions, expected value, matrices, absolute value functions, trigonometric identities, set theory, linear programming, and congruence/similarity proofs covered across Days 61-69.",
+        "title": "Review: Functions, Algebra, Probability, and Geometry",
+        "summary": "Grade 10 Math strand review: this lesson revisits inverse functions, radical functions, expected value, simplifying rational expressions, absolute value functions, trigonometric identities, set theory, linear programming, and congruence/similarity proofs covered across Days 61-69.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
         "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k",
@@ -22307,7 +22306,6 @@
         "summary": "Grade 10 Math strand: currency exchange rates determine how much one country’s currency is worth in terms of another, affecting the cost of international travel, trade, and investment.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=-7ZSav8xvMU",
         "quiz": [
           {
             "q": "What do currency exchange rates determine?",
@@ -22368,17 +22366,6 @@
         "summary": "Grade 10 Science strand: a catalyst speeds up a chemical reaction by providing an alternative pathway with lower activation energy, without being consumed in the reaction itself.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
-        "videoUrl": "https://www.youtube.com/watch?v=m_9bpZep1QM",
-        "videoUrls": [
-          {
-            "label": "Catalysts",
-            "url": "https://www.youtube.com/watch?v=m_9bpZep1QM"
-          },
-          {
-            "label": "Factors Affecting Reaction Rate",
-            "url": "https://www.youtube.com/watch?v=JpoOfrPKgmM"
-          }
-        ],
         "quiz": [
           {
             "q": "What does a catalyst do to a chemical reaction?",
@@ -22439,7 +22426,6 @@
         "summary": "Grade 10 History strand: Canadian general Roméo Dallaire led the United Nations peacekeeping mission in Rwanda during the 1994 genocide, drawing attention to the limits and challenges of international intervention.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
-        "videoUrl": "https://www.youtube.com/watch?v=ZezaKG0Q2og",
         "quiz": [
           {
             "q": "What role did Canadian general Roméo Dallaire hold in Rwanda in 1994?",
@@ -47996,7 +47982,7 @@
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Functions: Introduction to Inverse Functions; Radical Functions and Equations; Probability: Expected Value and Probability Distributions; Matrices: Introduction and Basic Operations; Absolute Value Functions and Equations.",
+        "summary": "Practice recap covering: Functions: Introduction to Inverse Functions; Radical Functions and Equations; Probability: Expected Value and Probability Distributions; Algebra: Simplifying Rational Expressions and Stating Restrictions; Absolute Value Functions and Equations.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [
@@ -48031,14 +48017,14 @@
             "answer": 1
           },
           {
-            "q": "Two matrices can be added together only if they have ___.",
+            "q": "Simplify (x² - 16)/(x - 4) and state the restriction.",
             "options": [
-              "The same determinant",
-              "At least one row in common",
-              "The same number of rows and columns as each other",
-              "A combined total of zero entries"
+              "x + 4, x ≠ 4",
+              "x - 4, x ≠ 4",
+              "x + 4, x ≠ -4",
+              "x² + 4, x ≠ 4"
             ],
-            "answer": 2
+            "answer": 0
           }
         ]
       },
@@ -48404,7 +48390,7 @@
       {
         "subject": "Math",
         "title": "Practice: Mathematics Recap",
-        "summary": "Practice recap covering: Review: Functions, Matrices, Probability, and Geometry; Quadratic Relations: The Discriminant and Nature of Roots; Algebra: Direct and Partial Variation; Financial Literacy: Compound Interest and Amortization.",
+        "summary": "Practice recap covering: Review: Functions, Algebra, Probability, and Geometry; Quadratic Relations: The Discriminant and Nature of Roots; Algebra: Direct and Partial Variation; Financial Literacy: Compound Interest and Amortization.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=math",
         "quiz": [

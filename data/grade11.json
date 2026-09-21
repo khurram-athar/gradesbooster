@@ -22248,7 +22248,6 @@
         "summary": "Grade 11 English strand: a verse novel tells an extended narrative using poetic form and structure rather than traditional prose, blending storytelling with the compression and imagery of poetry.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
-        "videoUrl": "https://www.youtube.com/watch?v=S3Yj_GxJAaA",
         "quiz": [
           {
             "q": "What form does a verse novel use to tell its narrative?",
@@ -22308,17 +22307,6 @@
         "summary": "Grade 11 Functions strand: the vector projection finds the component of one vector in the direction of another, while the cross product produces a new vector perpendicular to both original vectors.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=Rw70zkvqEiE",
-        "videoUrls": [
-          {
-            "label": "Vector Projections",
-            "url": "https://www.youtube.com/watch?v=Rw70zkvqEiE"
-          },
-          {
-            "label": "The Cross Product",
-            "url": "https://www.youtube.com/watch?v=eu6i7WJeinw"
-          }
-        ],
         "quiz": [
           {
             "q": "What does a vector projection find?",
@@ -22379,17 +22367,6 @@
         "summary": "Grade 11 Biology strand: biogeography studies how species are distributed across the world, and the movement of continents over millions of years has significantly shaped where related species are found today.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
-        "videoUrl": "https://www.youtube.com/watch?v=rQUFpu5Jkks",
-        "videoUrls": [
-          {
-            "label": "Biogeography: Vicariance and Dispersal",
-            "url": "https://www.youtube.com/watch?v=rQUFpu5Jkks"
-          },
-          {
-            "label": "The Theory of Continental Drift",
-            "url": "https://www.youtube.com/watch?v=_5q8hzF9VVE"
-          }
-        ],
         "quiz": [
           {
             "q": "What does biogeography study?",
@@ -22449,7 +22426,6 @@
         "summary": "Grade 11 Chemistry strand: cosmetics and personal care products rely on chemistry to combine ingredients like emulsifiers, preservatives, and active compounds into stable, effective formulations.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
-        "videoUrl": "https://www.youtube.com/watch?v=yvnKUP8wDYQ",
         "quiz": [
           {
             "q": "What do cosmetics and personal care products rely on to combine their ingredients?",
@@ -25036,18 +25012,18 @@
       },
       {
         "subject": "Functions",
-        "title": "Review: Functions, Matrices, and Number Theory (Days 91-99)",
-        "summary": "Grade 11 Functions strand review: students revisit operations on functions, synthetic division and the remainder theorem, sum and difference identities, matrix determinants, the law of large numbers, laws of exponents, linear programming, finite differences, and prime factorization.",
+        "title": "Review: Functions, Identities, and Rates of Change (Days 91-99)",
+        "summary": "This review consolidates Days 91-99: combining and evaluating functions, the remainder theorem, angle sum and difference identities, solving quadratic inequalities, the sine and cosine laws, laws of exponents, linear programming, finite differences, and piecewise functions.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
         "quiz": [
           {
-            "q": "Which operations can be used to combine two functions into a new function?",
+            "q": "Solve the quadratic inequality x² - 5x + 6 < 0.",
             "options": [
-              "Addition, subtraction, multiplication, and division",
-              "Only addition, with no other operation permitted",
-              "None, since functions can never be combined",
-              "A concept unrelated to functions"
+              "2 < x < 3",
+              "-3 < x < -2",
+              "x < 2 or x > 3",
+              "x ≤ 2 or x ≥ 3"
             ],
             "answer": 0
           },
@@ -25062,14 +25038,14 @@
             "answer": 1
           },
           {
-            "q": "For a 2 by 2 matrix with entries a and b in the top row and c and d in the bottom row, what is the formula for its determinant?",
+            "q": "Solve the quadratic inequality x² - 5x + 6 < 0.",
             "options": [
-              "ad plus bc",
-              "ac minus bd",
-              "ab minus cd",
-              "ad minus bc"
+              "2 < x < 3",
+              "-3 < x < -2",
+              "x < 2 or x > 3",
+              "x ≤ 2 or x ≥ 3"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What does a system of linear inequalities define in linear programming?",
@@ -27529,63 +27505,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Introduction to Matrices: Rows, Columns, and Operations",
-        "summary": "Grade 9 Algebra strand (enrichment): a matrix is a rectangular array of numbers organized into rows and columns, and matrices can be added, subtracted, or multiplied following specific rules based on their dimensions.",
-        "resourceLabel": "YouTube: Introduction to Matrices: Rows, Columns, and Operations",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Matrices%3A%20Rows%2C%20Columns%2C%20and%20Operations%20grade%2011%20educational",
+        "title": "Rational Functions: Solving Rational Equations and Applications",
+        "summary": "Students solve rational equations algebraically, checking for extraneous roots caused by domain restrictions, and apply rational equations to real-world rate problems such as work-rate and upstream/downstream travel scenarios.",
+        "resourceLabel": "YouTube: Rational Functions: Solving Rational Equations and Applications",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Solving%20Rational%20Equations%20and%20Applications%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "A matrix is best described as ___.",
+            "q": "Solve (x+3)/(x-2) = 5/(x-2) for x.",
             "options": [
-              "A concept unrelated to algebra",
-              "A single number with no structure",
-              "A type of graph with no numerical values",
-              "A rectangular array of numbers organized into rows and columns"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The dimensions of a matrix are described using its number of ___.",
-            "options": [
-              "Only its total value, with no reference to structure",
-              "Diagonals exclusively",
-              "A property unrelated to matrices",
-              "Rows and columns"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "To add two matrices together, they must ___.",
-            "options": [
-              "Always have completely different dimensions",
-              "Have the same dimensions",
-              "Contain only positive numbers",
-              "A requirement unrelated to matrix addition"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "In a matrix with 2 rows and 3 columns, how many total entries does the matrix contain?",
-            "options": [
-              "6",
-              "A value unrelated to this matrix’s dimensions",
-              "5",
-              "2"
+              "No solution (x = 2 is extraneous)",
+              "x = 2",
+              "x = -3",
+              "x = 5"
             ],
             "answer": 0
           },
           {
-            "q": "Why might matrices be useful for organizing and solving real-world data problems?",
+            "q": "Solve 3/x + 1/2 = 2/x for x.",
             "options": [
-              "They allow large sets of related numerical data to be organized and manipulated systematically",
-              "Numerical data can never be represented using rows and columns",
-              "Matrices have no practical application for organizing data",
-              "This concept has no connection to solving real-world problems"
+              "x = -6",
+              "x = 6",
+              "x = -2",
+              "x = 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pool can be filled by pipe A alone in 4 hours and by pipe B alone in 6 hours. Using the rational equation 1/4 + 1/6 = 1/t, how long does it take to fill the pool with both pipes working together?",
+            "options": [
+              "2.4 hours",
+              "10 hours",
+              "5 hours",
+              "1.5 hours"
             ],
             "answer": 0
+          },
+          {
+            "q": "Before solving an equation involving the expression (x+1)/(x²-9), which values of x must be excluded from the domain?",
+            "options": [
+              "x = 3 and x = -3",
+              "x = 0",
+              "x = 9 and x = -9",
+              "x = -1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A boat's speed in still water is v km/h and the current is 5 km/h. The boat travels 60 km upstream and 60 km downstream in a total of 5 hours, modelled by 60/(v-5) + 60/(v+5) = 5. What is v?",
+            "options": [
+              "30 km/h",
+              "5 km/h",
+              "20 km/h",
+              "25 km/h"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Rational Equations"
       },
       {
         "subject": "Biology",
@@ -29491,62 +29467,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Matrices: An Introduction",
-        "summary": "Grade 8 Math strand: a matrix is a rectangular arrangement of numbers organized into rows and columns, used to represent and solve certain types of mathematical problems.",
-        "resourceLabel": "YouTube: Matrices: An Introduction",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Matrices%3A%20An%20Introduction%20grade%2011%20educational",
+        "title": "Trigonometric Equations: Solving Over a Given Domain",
+        "summary": "Students find all solutions to trigonometric equations restricted to a specified domain (such as 0° ≤ θ < 360° or 0 ≤ x < 2π), using reference angles and quadrant rules rather than writing a general infinite solution set.",
+        "resourceLabel": "YouTube: Trigonometric Equations: Solving Over a Given Domain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Equations%3A%20Solving%20Over%20a%20Given%20Domain%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a matrix?",
+            "q": "Solve 2sin(θ) = 1 for 0° ≤ θ < 360°.",
             "options": [
-              "A type of geometric shape only",
-              "A rectangular arrangement of numbers in rows and columns",
-              "A concept unrelated to math",
-              "A single number with no structure"
+              "30°, 150°, and 210°",
+              "30° and 150°",
+              "60° and 120°",
+              "30° only"
             ],
             "answer": 1
           },
           {
-            "q": "What are the two directions a matrix is organized by?",
+            "q": "How many solutions does cos(x) = -0.5 have in the domain 0 ≤ x < 2π?",
             "options": [
-              "A concept unrelated to matrices",
-              "Only rows, with no columns",
-              "Only diagonals",
-              "Rows and columns"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "In a matrix with 2 rows and 3 columns, how many total numbers does it contain?",
-            "options": [
-              "3",
-              "5",
               "2",
-              "6"
+              "4",
+              "1",
+              "0"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why might a matrix be useful for organizing data, like scores from multiple games and players?",
+            "q": "Solve tan(θ) = 1 for 0° ≤ θ ≤ 360°.",
             "options": [
-              "This concept has no connection to math",
-              "It provides a clear, organized way to display data across two categories at once",
-              "Matrices never help organize any kind of data",
-              "Rows and columns never actually represent meaningful data"
+              "135° and 315°",
+              "45°, 135°, 225°, and 315°",
+              "45° and 225°",
+              "45° only"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What is the size of a matrix with 3 rows and 2 columns often written as?",
+            "q": "Solve 2cos²(x) - 1 = 0 for 0 ≤ x < 2π.",
             "options": [
-              "A concept unrelated to matrices",
-              "3 by 2",
-              "2 by 3",
-              "5 by 5"
+              "π/4 and 7π/4 only",
+              "0, π/2, π, 3π/2",
+              "π/4, 3π/4, 5π/4, 7π/4",
+              "π/3, 2π/3, 4π/3, 5π/3"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "Why does restricting the domain to 0° ≤ θ < 360° matter when solving sin(θ) = 0.5, compared to leaving the domain unrestricted?",
+            "options": [
+              "It limits the answer to a finite, specific list of angles instead of the infinite family θ = 30° + 360°n",
+              "It converts the trigonometric equation into a linear equation",
+              "It means only the first-quadrant solution counts and the second-quadrant solution is discarded",
+              "It changes the actual value of sin(30°)"
+            ],
+            "answer": 0
           }
-        ]
+        ],
+        "topic": "Trig Equations"
       },
       {
         "subject": "Biology",
@@ -31938,27 +31915,27 @@
       {
         "subject": "Functions",
         "title": "Review: Advanced Algebra, Geometry, and Statistics (Days 81-89)",
-        "summary": "Grade 8 Math strand review: students revisit the law of sines and cosines, matrices, normal distribution, completing the square, vectors, amortization, z-scores, spherical geometry, and systems of three variables.",
+        "summary": "This review consolidates Days 81-89: logarithmic scales, recursive sequences and the Fibonacci sequence, absolute value equations, double and half-angle formulas, binomial probability, slant asymptotes, function transformations, piecewise modelling, and vector projections.",
         "resourceLabel": "YouTube: Review: Advanced Algebra, Geometry, and Statistics (Days 81-89)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Advanced%20Algebra%2C%20Geometry%2C%20and%20Statistics%20%28Days%2081-89%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What can the law of sines and cosines help you find in a triangle?",
+            "q": "Using the double-angle formula cos(2θ) = 2cos²θ - 1, find the exact value of cos(2θ) if cos(θ) = 3/5 (θ in Quadrant I).",
             "options": [
-              "Only the triangle’s perimeter",
-              "Only the triangle’s colour",
-              "Missing sides or angles",
-              "A concept unrelated to trigonometry"
+              "6/5",
+              "18/25",
+              "7/25",
+              "-7/25"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What is a matrix?",
+            "q": "Using the double-angle formula cos(2θ) = 2cos²θ - 1, find the exact value of cos(2θ) if cos(θ) = 3/5 (θ in Quadrant I).",
             "options": [
-              "A type of geometric shape only",
-              "A single number with no structure",
-              "A concept unrelated to math",
-              "A rectangular arrangement of numbers in rows and columns"
+              "6/5",
+              "18/25",
+              "7/25",
+              "-7/25"
             ],
             "answer": 3
           },
@@ -44191,63 +44168,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Calculus: An Introduction to Antiderivatives and Integration",
-        "summary": "Grade 11 Functions strand: an antiderivative of a function reverses the process of differentiation, finding a function whose derivative matches the original one, and this idea underlies integration, a tool used to determine quantities such as total accumulated change or the area beneath a curve.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Exponential Functions: Solving Exponential Equations Algebraically",
+        "summary": "Students solve exponential equations using algebraic techniques such as rewriting terms with a common base, and factoring equations that are quadratic in form (using a substitution like y = a^x), without using logarithms.",
+        "resourceLabel": "YouTube: Exponential Functions: Solving Exponential Equations Algebraically",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20Functions%3A%20Solving%20Exponential%20Equations%20Algebraically%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does an antiderivative of a function do?",
+            "q": "Solve 3^(2x) - 4(3^x) + 3 = 0 algebraically.",
             "options": [
-              "It only applies to constant functions",
-              "It removes all variables from a function entirely",
-              "It reverses the process of differentiation",
-              "It always produces the same function unchanged"
+              "x = 1 or x = 3",
+              "x = 0 only",
+              "x = 1 or x = 4",
+              "x = 0 or x = 1"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What must be true of the derivative of an antiderivative?",
+            "q": "Solve 4^x = 8^(x-1) algebraically using a common base.",
             "options": [
-              "It must always equal zero",
-              "It must be undefined at every point",
-              "It must match the original function",
-              "It must always equal a different unrelated function"
+              "x = 1",
+              "x = 3",
+              "x = -3",
+              "x = 3/5"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What broader mathematical tool does the idea of an antiderivative underlie?",
+            "q": "Solve (1/2)^x = 16 algebraically.",
             "options": [
-              "Integration",
-              "A tool with no connection to calculus",
-              "The quadratic formula",
-              "Multiplication of matrices"
+              "x = 4",
+              "x = -4",
+              "x = 8",
+              "x = -2"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Name one quantity that integration can be used to determine.",
+            "q": "Solve 9^(x+1) = 27^x algebraically using a common base of 3.",
             "options": [
-              "The area beneath a curve",
-              "The slope of a single fixed point with no curve involved",
-              "The number of terms in an unrelated sequence",
-              "The exact colour of a graph"
+              "x = -2",
+              "x = 2/5",
+              "x = 0",
+              "x = 2"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is finding an antiderivative sometimes described as the reverse of finding a derivative?",
+            "q": "What is the correct approach and solution for 2^(2x) - 6(2^x) + 8 = 0?",
             "options": [
-              "Antiderivatives and derivatives are entirely unrelated operations",
-              "Differentiation and integration always produce identical results",
-              "Finding an antiderivative always produces a numerical constant with no function attached",
-              "Differentiating the antiderivative returns the original function you started with"
+              "Substitute y = 2^x to get y² - 6y + 8 = 0, factor to y = 2 and y = 4, and stop there since y = x",
+              "Divide both sides by 2^x directly to get x = 3",
+              "Treat it as linear in x and solve 2x - 6x + 8 = 0 to get x = 2",
+              "Substitute y = 2^x to get y² - 6y + 8 = 0, factor to y = 2 or y = 4, then solve 2^x = 2 and 2^x = 4 to get x = 1 and x = 2"
             ],
             "answer": 3
           }
         ],
-        "topic": "Ratios & Rates"
+        "topic": "Exponential Equations"
       },
       {
         "subject": "Biology",
@@ -44922,63 +44899,63 @@
       },
       {
         "subject": "Functions",
-        "title": "Calculus: Definite Integrals and the Area Under a Curve",
-        "summary": "Grade 11 Functions strand: a definite integral uses upper and lower bounds to calculate the exact accumulated area between a curve and the horizontal axis, building on the idea of an antiderivative to turn the informal notion of area under a curve into a precise, calculable quantity.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Quadratic-Linear Systems: Finding Points of Intersection",
+        "summary": "Students find and interpret the points where a line and a parabola intersect, connecting the number of real solutions to the discriminant of the resulting quadratic equation and verifying intersection points graphically and algebraically.",
+        "resourceLabel": "YouTube: Quadratic-Linear Systems: Finding Points of Intersection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratic-Linear%20Systems%3A%20Finding%20Points%20of%20Intersection%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a definite integral calculate?",
+            "q": "Line y = 2x + 1 and parabola y = x² - x - 3 intersect where x² - x - 3 = 2x + 1, giving x² - 3x - 4 = 0. What are the points of intersection?",
             "options": [
-              "The number of times a curve crosses the vertical axis",
-              "The slope of a curve at a single point",
-              "A quantity with no connection to area at all",
-              "The exact accumulated area between a curve and the horizontal axis"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What two values define the range over which a definite integral is calculated?",
-            "options": [
-              "The maximum and minimum of an unrelated function",
-              "A range with no defined limits at all",
-              "Only a single fixed point",
-              "An upper bound and a lower bound"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What earlier idea does the definite integral build on?",
-            "options": [
-              "The multiplication table",
-              "A concept with no connection to calculus",
-              "The Pythagorean theorem",
-              "The antiderivative"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does the definite integral turn the informal notion of area under a curve into?",
-            "options": [
-              "A precise, calculable quantity",
-              "A quantity with no numerical value at all",
-              "A concept limited only to straight lines",
-              "An estimate that can never be calculated exactly"
+              "(4, 9) and (-1, -1)",
+              "(3, 7) and (-2, -3)",
+              "(4, 9) and (-1, 3)",
+              "(4, -1) and (-1, 9)"
             ],
             "answer": 0
           },
           {
-            "q": "Why is finding an antiderivative a useful first step before evaluating a definite integral?",
+            "q": "A line and a parabola intersect at exactly one point. What does this tell you?",
             "options": [
-              "The antiderivative, evaluated at the bounds, gives the accumulated area directly",
-              "An antiderivative has no connection to evaluating area at all",
-              "A definite integral can only be evaluated without any antiderivative",
-              "Antiderivatives always produce a result of zero regardless of the function"
+              "The discriminant of the resulting quadratic is negative, meaning no real solutions exist",
+              "The line must pass through the vertex of the parabola",
+              "The line is tangent to the parabola, so the discriminant of the resulting quadratic equals zero",
+              "The line intersects the parabola exactly at its axis of symmetry, creating a double root there"
             ],
-            "answer": 0
+            "answer": 2
+          },
+          {
+            "q": "For the system y = x² + 2x + k and y = 3x - 1, substituting gives x² - x + (k+1) = 0. What value of k gives exactly one point of intersection?",
+            "options": [
+              "k = -1/4",
+              "k = 1",
+              "k = -3/4",
+              "k = 3/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which statement correctly describes the algebraic method for finding points of intersection of a line and a parabola?",
+            "options": [
+              "Add the two equations together and solve the resulting equation for x",
+              "Set the two y-values equal only if the parabola opens downward; otherwise use elimination",
+              "The number of intersection points equals the sum of the x-intercepts of both individual graphs",
+              "Substitute one equation into the other to form a single quadratic equation, solve for x, then find y for each x-value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A quadratic-linear system produces a discriminant of -16 when solved. What does this mean graphically?",
+            "options": [
+              "The line intersects the parabola at two points, both with negative x-coordinates",
+              "The parabola itself has no real roots, independent of the line",
+              "The line intersects the parabola at exactly one point",
+              "The line and the parabola do not intersect at any real point"
+            ],
+            "answer": 3
           }
         ],
-        "topic": "Calculus: Integrals"
+        "topic": "Linear-Quadratic Systems"
       },
       {
         "subject": "Biology",
@@ -49887,7 +49864,7 @@
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Functions: Rate of Change of Polynomial Functions — Finite Differences; Piecewise Functions; Review: Functions, Matrices, and Number Theory (Days 91-99); Financial Literacy: Amortization and Loans.",
+        "summary": "Practice recap covering: Functions: Rate of Change of Polynomial Functions — Finite Differences; Piecewise Functions; Review: Functions, Identities, and Rates of Change (Days 91-99); Financial Literacy: Amortization and Loans.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -50499,19 +50476,19 @@
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Introduction to Matrices: Rows, Columns, and Operations; Calculus Preview: An Introduction to Limits; Calculus Preview: Continuity of Functions; Arithmetic Sequences and Series (Intro).",
+        "summary": "Practice recap covering: Rational Functions: Solving Rational Equations and Applications; Calculus Preview: An Introduction to Limits; Calculus Preview: Continuity of Functions; Arithmetic Sequences and Series (Intro).",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "A matrix is best described as ___.",
+            "q": "Solve the rational equation 4/(x+1) = 2/(x-1) for x.",
             "options": [
-              "A concept unrelated to algebra",
-              "A single number with no structure",
-              "A type of graph with no numerical values",
-              "A rectangular array of numbers organized into rows and columns"
+              "x = 3",
+              "x = -3",
+              "x = 1",
+              "x = -1"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "What does a limit describe in mathematics?",
@@ -50907,19 +50884,19 @@
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Matrices: An Introduction; Introduction to Normal Distribution; Algebra: Completing the Square; Calculus Preview: An Introduction to the Derivative as a Limit.",
+        "summary": "Practice recap covering: Trigonometric Equations: Solving Over a Given Domain; Introduction to Normal Distribution; Algebra: Completing the Square; Calculus Preview: An Introduction to the Derivative as a Limit.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
           {
-            "q": "What is a matrix?",
+            "q": "Solve 2cos(θ) = √3 for 0° ≤ θ < 360°.",
             "options": [
-              "A type of geometric shape only",
-              "A rectangular arrangement of numbers in rows and columns",
-              "A concept unrelated to math",
-              "A single number with no structure"
+              "30° and 330°",
+              "30° and 150°",
+              "60° and 300°",
+              "30° only"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "What shape does a normal distribution typically form?",
@@ -53559,7 +53536,7 @@
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Financial Mathematics: Real versus Nominal Interest Rates and Inflation; Geometry: The Intersection of a Line and a Plane in Three Dimensions; Functions: Composition of Functions; Calculus: An Introduction to Antiderivatives and Integration.",
+        "summary": "Practice recap covering: Financial Mathematics: Real versus Nominal Interest Rates and Inflation; Geometry: The Intersection of a Line and a Plane in Three Dimensions; Functions: Composition of Functions; Exponential Functions: Solving Exponential Equations Algebraically.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -53594,12 +53571,12 @@
             "answer": 0
           },
           {
-            "q": "What is the antiderivative of f(x) = 4x³?",
+            "q": "Solve 2^(x+1) = 32 algebraically.",
             "options": [
-              "x⁴ + C",
-              "12x² + C",
-              "4x⁴ + C",
-              "x⁴/4 + C"
+              "x = 4",
+              "x = 5",
+              "x = 3",
+              "x = 16"
             ],
             "answer": 0
           }
@@ -53763,7 +53740,7 @@
       {
         "subject": "Functions",
         "title": "Practice: Functions Recap",
-        "summary": "Practice recap covering: Quadratic Functions: Completing the Square and Vertex Form; Algebra: Factoring Polynomials — Common Factors, Grouping, and Special Patterns; Calculus: Definite Integrals and the Area Under a Curve; Functions: Graphing Polynomial Functions — Degree, End Behaviour, and Turning Points.",
+        "summary": "Practice recap covering: Quadratic Functions: Completing the Square and Vertex Form; Algebra: Factoring Polynomials — Common Factors, Grouping, and Special Patterns; Quadratic-Linear Systems: Finding Points of Intersection; Functions: Graphing Polynomial Functions — Degree, End Behaviour, and Turning Points.",
         "resourceLabel": "TVO Learn: Grade 11 Functions courses",
         "resourceUrl": "https://tvolearn.com/collections/courses?q=functions",
         "quiz": [
@@ -53788,14 +53765,14 @@
             "answer": 1
           },
           {
-            "q": "What does the definite integral ∫ from a to b of f(x) dx represent geometrically?",
+            "q": "Line y = 3x - 2 and parabola y = x² - x - 2 intersect where x² - x - 2 = 3x - 2, giving x² - 4x = 0. What are the points of intersection?",
             "options": [
-              "The slope of the tangent line at x = a",
-              "The net signed area between the curve f(x) and the x-axis from x = a to x = b",
-              "The y-intercept of the function f(x)",
-              "The maximum value of f(x) on the interval"
+              "(0, -2) and (4, 10)",
+              "(-4, -14) and (4, 10)",
+              "(0, -2) and (4, 8)",
+              "(0, 2) and (4, 10)"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "q": "For the polynomial function f(x) = -2x⁴ + 3x - 1, what is the end behaviour as x → ∞ and x → -∞?",
