@@ -7493,6 +7493,7 @@
         "summary": "Learn to solve polynomial inequalities by factoring, building a sign chart across the intervals formed by the real roots, and connecting the sign of each interval to where the graph lies above or below the x-axis.",
         "resourceLabel": "YouTube: Polynomial Inequalities: Solving and Graphing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Inequalities%3A%20Solving%20and%20Graphing%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Fd5ys4PQ-aM",
         "quiz": [
           {
             "q": "Which interval(s) satisfy the inequality (x - 2)(x + 3) > 0?",
@@ -7740,6 +7741,7 @@
         "summary": "Explore how the slope of a secant line joining two points on a curve approximates the instantaneous rate of change at a point, and see how shrinking the interval between those points brings the secant slope closer to the true tangent slope.",
         "resourceLabel": "YouTube: Rate of Change: Estimating Instantaneous Rate of Change Using Secant Lines",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rate%20of%20Change%3A%20Estimating%20Instantaneous%20Rate%20of%20Change%20Using%20Secant%20Lines%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NCNwLHhb85o",
         "quiz": [
           {
             "q": "For f(x) = x^2, what is the slope of the secant line between x = 1 and x = 3?",
@@ -8298,6 +8300,7 @@
         "summary": "Find where a polynomial's first derivative is positive or negative to locate critical points and determine increasing/decreasing intervals, the first step in building an accurate sketch.",
         "resourceLabel": "YouTube: Curve Sketching: Using the First Derivative to Sketch a Polynomial Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Using%20the%20First%20Derivative%20to%20Sketch%20a%20Polynomial%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aesw9FeSXjI",
         "quiz": [
           {
             "q": "What are the critical numbers of f(x) = x^3 - 3x^2 - 9x + 5?",
@@ -8547,6 +8550,7 @@
         "summary": "Check the sign of f' on either side of each critical number to decide whether it is a local maximum, a local minimum, or neither.",
         "resourceLabel": "YouTube: Curve Sketching: Classifying Critical Points with the First Derivative Test",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Classifying%20Critical%20Points%20with%20the%20First%20Derivative%20Test%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=V239IIoGVT8",
         "quiz": [
           {
             "q": "Using the First Derivative Test on f(x) = x^4 - 4x^3, where f'(x) = 4x^2(x-3), what can you conclude about the critical point at x = 0?",
@@ -8795,6 +8799,7 @@
         "summary": "Evaluate f'' at each critical number to determine concavity there and classify the point as a local max, a local min, or note when the test gives no answer.",
         "resourceLabel": "YouTube: Curve Sketching: Classifying Critical Points with the Second Derivative Test",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Classifying%20Critical%20Points%20with%20the%20Second%20Derivative%20Test%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G8GAsYkZlpE",
         "quiz": [
           {
             "q": "Using the Second Derivative Test on f(x) = x^3 - 6x^2 + 9x + 2 at its critical numbers x = 1 and x = 3, what do you conclude?",
@@ -9043,6 +9048,7 @@
         "summary": "Find where f''(x) = 0 and actually changes sign to locate the inflection point of a cubic function, linking it to where the curve switches between concave up and concave down.",
         "resourceLabel": "YouTube: Curve Sketching: Locating Inflection Points of a Cubic Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Locating%20Inflection%20Points%20of%20a%20Cubic%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Kw6v6ArmIuM",
         "quiz": [
           {
             "q": "What is the x-coordinate of the inflection point of f(x) = x^3 - 9x^2 + 24x - 10?",
@@ -9292,6 +9298,7 @@
         "summary": "Use the quotient rule to differentiate a rational function, find its critical numbers, and classify local extrema, while remembering that points outside the domain are never critical points.",
         "resourceLabel": "YouTube: Curve Sketching: Local Extrema of a Rational Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Local%20Extrema%20of%20a%20Rational%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ltsy_IAHRek",
         "quiz": [
           {
             "q": "For f(x) = x + 3/x (x not equal to 0), f'(x) = 1 - 3/x^2. What are the critical numbers?",
@@ -9800,16 +9807,7 @@
         "summary": "Practice reading a graph of f'(x) to determine where f(x) itself is increasing, decreasing, or has a critical point, without ever needing a formula for f.",
         "resourceLabel": "YouTube: Curve Sketching: Reading Increasing and Decreasing Intervals from a Derivative Graph",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Reading%20Increasing%20and%20Decreasing%20Intervals%20from%20a%20Derivative%20Graph%20grade%2012%20educational",
-        "videoUrls": [
-          {
-            "label": "Integration Techniques",
-            "url": "https://www.youtube.com/watch?v=2N6A4ed8s58"
-          },
-          {
-            "label": "Numerical Methods",
-            "url": "https://www.youtube.com/watch?v=7EqRRuh-5Lk"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=8IyPycrDTaA",
         "quiz": [
           {
             "q": "The graph of f'(x) is negative for x < -2, positive for -2 < x < 3, and negative for x > 3. What is true about f at x = -2?",
@@ -10011,6 +10009,7 @@
         "summary": "Use logarithms to solve for unknown time values in exponential growth and decay models, including population growth, radioactive decay with half-life, and continuous compound growth.",
         "resourceLabel": "YouTube: Logarithmic Functions: Modelling Exponential Growth and Decay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Functions%3A%20Modelling%20Exponential%20Growth%20and%20Decay%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rTtFRs_ygG8",
         "quiz": [
           {
             "q": "A population grows according to P(t) = 500(1.08)^t. Using logarithms, about how many years, t, will it take to reach 1000?",
@@ -10815,6 +10814,7 @@
         "summary": "Analyze the first and second derivatives of an exponential decay function to determine where it is increasing or decreasing, its concavity, and how those features combine into a full sketch.",
         "resourceLabel": "YouTube: Curve Sketching: An Exponential Decay Function",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20An%20Exponential%20Decay%20Function%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xlkoC48KI-c",
         "quiz": [
           {
             "q": "For f(x) = 5e^(-0.5x), f'(x) = -2.5e^(-0.5x). What can you conclude about f?",
@@ -11064,6 +11064,7 @@
         "summary": "Use the first and second derivatives of a sine or cosine function to find critical points, inflection points, and concavity over a single period, tying calculus to the familiar wave shape.",
         "resourceLabel": "YouTube: Curve Sketching: A Trigonometric Function Over One Period",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20A%20Trigonometric%20Function%20Over%20One%20Period%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8gPXUof5HoY",
         "quiz": [
           {
             "q": "For f(x) = sin(x) on [0, 2 pi], f'(x) = cos(x). What are the critical numbers in this interval?",
@@ -11561,6 +11562,7 @@
         "summary": "Build a sign chart for f''(x) by testing a value in each interval between its zeros (and any points where f is undefined) to determine where a function is concave up or concave down.",
         "resourceLabel": "YouTube: Curve Sketching: Using Sign Charts to Determine Concavity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Using%20Sign%20Charts%20to%20Determine%20Concavity%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=15awMHeP1Yc",
         "quiz": [
           {
             "q": "For f(x) = x^4 - 6x^2, f''(x) = 12x^2 - 12. Which intervals make up the correct concavity sign chart?",
@@ -11814,6 +11816,7 @@
         "summary": "Practice reading key features of a function's graph -- increasing/decreasing behaviour, turning points, and concavity changes -- and match them to the corresponding features on the graph of its derivative.",
         "resourceLabel": "YouTube: Curve Sketching: Matching a Function's Graph to Its Derivative's Graph",
         "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Matching%20a%20Function%27s%20Graph%20to%20Its%20Derivative%27s%20Graph%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=nvTeRjp_UYs",
         "quiz": [
           {
             "q": "A function f(x) is decreasing on (negative infinity, -1), increasing on (-1, 2), and decreasing on (2, infinity), with turning points at x = -1 and x = 2. Which description matches the graph of f'(x)?",
@@ -12075,20 +12078,7 @@
         "summary": "A farmer has 160 m of fence and wants to enclose the maximum possible rectangular field using the barn's straight wall as one side (no fencing needed there) — but here the twist is reversed: for a required area of 3200 m², find the dimensions that use the least fencing.",
         "resourceLabel": "YouTube: Optimization: Minimizing Fencing for a Field Against a Barn Wall",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%3A%20Minimizing%20Fencing%20for%20a%20Field%20Against%20a%20Barn%20Wall%20grade%2012%20educational",
-        "videoUrls": [
-          {
-            "label": "Curvature",
-            "url": "https://www.youtube.com/watch?v=ugtUGhBSeE0"
-          },
-          {
-            "label": "Power Series",
-            "url": "https://www.youtube.com/watch?v=EGni2-m5yxM"
-          },
-          {
-            "label": "Growth Models",
-            "url": "https://www.youtube.com/watch?v=kDZlMFkKhWA"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=fSSHlvhJ6QM",
         "quiz": [
           {
             "q": "A rectangular field needs to enclose exactly 3200 m². One side of the field lies along an existing barn wall and needs no fence. Let x be the length of each of the two sides perpendicular to the wall, and y be the length of the side parallel to the wall (opposite the wall). Which equation correctly expresses the fencing length L needed?",
@@ -12351,20 +12341,7 @@
         "summary": "A jewelry box with a square base and open top must hold exactly 12 cm³, and the base material costs $0.30/cm² while the side material costs $0.10/cm² — find the base side length that minimizes the total material cost.",
         "resourceLabel": "YouTube: Optimization: Minimizing the Cost of an Open-Top Box",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%3A%20Minimizing%20the%20Cost%20of%20an%20Open-Top%20Box%20grade%2012%20educational",
-        "videoUrls": [
-          {
-            "label": "Vector-Valued Functions",
-            "url": "https://www.youtube.com/watch?v=40r56pX4mqA"
-          },
-          {
-            "label": "Slope Fields",
-            "url": "https://www.youtube.com/watch?v=Wr9VOum9Co0"
-          },
-          {
-            "label": "Power Series",
-            "url": "https://www.youtube.com/watch?v=EGni2-m5yxM"
-          }
-        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IripdknO9VU",
         "quiz": [
           {
             "q": "The box has a square base of side x and height h, with volume x²h = 12 cm³. Solving for h in terms of x gives:",
@@ -12565,6 +12542,7 @@
         "summary": "Model real-world periodic phenomena such as Ferris wheels, tides, and daily temperature cycles using sinusoidal functions, and determine amplitude, period, phase shift, and vertical shift directly from the context.",
         "resourceLabel": "YouTube: Trigonometric Functions: Modelling Periodic Phenomena with Sinusoidal Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Functions%3A%20Modelling%20Periodic%20Phenomena%20with%20Sinusoidal%20Functions%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hkicxo7NW7g",
         "quiz": [
           {
             "q": "A Ferris wheel has a diameter of 40 m and a center 22 m above the ground. What is the amplitude of the sinusoidal function modelling a rider's height?",
