@@ -23709,6 +23709,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Science strand: structures can be built as shell structures with a strong outer covering and hollow inside, frame structures made of connected beams or rods, or solid structures that are filled all the way through.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=6RAqtp4DjjM",
         "quiz": [
           {
             "q": "What do we call a structure with a strong outer covering and a hollow inside?",
@@ -23769,6 +23770,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: the Bank of Canada is the national bank that designs and issues Canadian money and helps manage the countrys economy.",
         "resourceLabel": "YouTube: The Bank of Canada: Where Our Money Comes From",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Bank%20of%20Canada%3A%20Where%20Our%20Money%20Comes%20From%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3F1ee168f8A",
         "quiz": [
           {
             "q": "What does the Bank of Canada do?",

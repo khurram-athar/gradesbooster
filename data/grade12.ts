@@ -14873,6 +14873,7 @@ const curriculum: DayContent[] = [
         "summary": "A paper cone-shaped cup (open top, no base circle, no lid) must hold about 40 cm³ — find the radius and height that minimize the amount of paper (lateral surface area) needed to make it.",
         "resourceLabel": "YouTube: Optimization: Minimizing Material for a Cone of Fixed Volume",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%3A%20Minimizing%20Material%20for%20a%20Cone%20of%20Fixed%20Volume%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NQIbsPgoN_A",
         "quiz": [
           {
             "q": "For a cone of radius r and height h, the volume is V = (1/3)πr²h. If V is fixed, solving for h in terms of r and V gives:",

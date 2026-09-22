@@ -22791,6 +22791,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Language strand: irony occurs when there is a gap between what is expected and what actually happens, and can take the form of verbal irony (saying the opposite of what is meant), situational irony (an unexpected outcome), or dramatic irony (the audience knows something a character does not).",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=TJJ8Kf79Ax0",
         "quiz": [
           {
             "q": "What is irony?",
@@ -22851,6 +22852,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Math strand: adding and subtracting integers can be modelled on a number line, where adding a positive number moves right and adding a negative number, or subtracting a positive number, moves left.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=fVw0wTzfRr8",
         "quiz": [
           {
             "q": "On a number line, which direction does adding a positive number move you?",
@@ -22911,6 +22913,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 6 Science strand: the endocrine system is made up of glands that release hormones, chemical messengers that travel through the blood to control body processes such as growth, energy use, and mood.",
         "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
         "quiz": [
           {
             "q": "What does the endocrine system release into the body?",
@@ -22970,6 +22973,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 1 Social Studies strand: the Underground Railroad was a secret network of routes and helpers that guided people escaping slavery in the United States toward freedom, with many finding safety in Canada.",
         "resourceLabel": "YouTube: The Underground Railroad: A Journey to Freedom",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%3A%20A%20Journey%20to%20Freedom%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CZnJoQmKfCs",
         "quiz": [
           {
             "q": "What was the Underground Railroad?",

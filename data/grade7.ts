@@ -22734,6 +22734,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an appositive is a noun or noun phrase placed beside another noun to rename or add detail about it, such as a golden retriever in My dog, a golden retriever, is friendly.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Ph9pyi-0MYA",
         "quiz": [
           {
             "q": "What does an appositive do?",
@@ -22855,6 +22856,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Science strand: in a series circuit, components are connected along a single path so current flows through each one in turn, while in a parallel circuit, components are connected along separate branches.",
         "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8Z0jhQeYDUE",
         "quiz": [
           {
             "q": "In a series circuit, how are components connected?",
@@ -22915,6 +22917,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, dramatically shaping the region’s population and economy.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=LPTWJ1BNCio",
         "quiz": [
           {
             "q": "What did the Klondike Gold Rush draw thousands of people to the Yukon in search of?",
