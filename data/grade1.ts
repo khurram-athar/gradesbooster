@@ -28264,7 +28264,8 @@ const curriculum: DayContent[] = [
               "bright"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=M-ydjv8iJks"
       },
       {
         "subject": "Math",
@@ -28347,7 +28348,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Number Sense: Basic Counting"
+        "topic": "Number Sense: Basic Counting",
+        "videoUrl": "https://www.youtube.com/watch?v=TTV8m0XOTRA"
       },
       {
         "subject": "Science",
@@ -28407,7 +28409,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=5hH5radPWHo"
       },
       {
         "subject": "SocialStudies",
@@ -28489,7 +28492,8 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Indigenous Peoples & First Nations"
+        "topic": "Indigenous Peoples & First Nations",
+        "videoUrl": "https://www.youtube.com/watch?v=i7juFo9nKmM"
       }
     ]
   },

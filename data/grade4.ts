@@ -23369,7 +23369,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=u7AsppQT2tQ"
       },
       {
         "subject": "Math",
@@ -23638,7 +23639,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Grammar: Parts of Speech"
+        "topic": "Grammar: Parts of Speech",
+        "videoUrl": "https://www.youtube.com/watch?v=4Rm9l6y3-WY"
       },
       {
         "subject": "Math",
@@ -23698,7 +23700,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=0HS1P3vhNBU"
       },
       {
         "subject": "Science",
@@ -26174,7 +26177,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
       }
     ]
   },
@@ -26419,7 +26423,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=BD9G4N8vHMo"
       }
     ]
   },

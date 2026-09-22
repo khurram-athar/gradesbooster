@@ -15923,7 +15923,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Algebra: Rational Expressions"
+        "topic": "Algebra: Rational Expressions",
+        "videoUrl": "https://www.youtube.com/watch?v=i6HIGLPlIGk"
       },
       {
         "subject": "Science",
@@ -22300,7 +22301,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=0az32iTWo68"
       },
       {
         "subject": "Math",
@@ -22360,7 +22362,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Financial Literacy"
+        "topic": "Financial Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=JRf7_RKF3uA"
       },
       {
         "subject": "Science",
@@ -22420,7 +22423,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Chemical Reactions"
+        "topic": "Chemical Reactions",
+        "videoUrl": "https://www.youtube.com/watch?v=JpoOfrPKgmM"
       },
       {
         "subject": "History",
@@ -22480,7 +22484,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Cold War & 20th Century Canada"
+        "topic": "Cold War & 20th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=ZezaKG0Q2og"
       }
     ]
   },
@@ -22615,7 +22620,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=JRf7_RKF3uA"
       },
       {
         "subject": "Science",
@@ -22674,7 +22680,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=JpoOfrPKgmM"
       },
       {
         "subject": "History",
@@ -32370,7 +32377,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=32e3QlxHq7k"
       },
       {
         "subject": "Math",

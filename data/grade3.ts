@@ -22501,7 +22501,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=zl0TZt4ODIs"
       },
       {
         "subject": "Math",
@@ -22634,7 +22635,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eQuW8G2QV_Q"
       },
       {
         "subject": "SocialStudies",
@@ -22778,7 +22780,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Literary Devices & Analysis"
+        "topic": "Literary Devices & Analysis",
+        "videoUrl": "https://www.youtube.com/watch?v=SQq7XZ_Im34"
       },
       {
         "subject": "Math",
@@ -22838,7 +22841,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Data Literacy"
+        "topic": "Data Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=ei9IIyao40A"
       },
       {
         "subject": "Science",
@@ -22898,7 +22902,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Life Cycles & Growth"
+        "topic": "Life Cycles & Growth",
+        "videoUrl": "https://www.youtube.com/watch?v=F3ElGMVU6SY"
       },
       {
         "subject": "SocialStudies",
@@ -22958,7 +22963,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "History: Colonial & 19th Century Canada"
+        "topic": "History: Colonial & 19th Century Canada",
+        "videoUrl": "https://www.youtube.com/watch?v=Mgdvfq0FsJk"
       }
     ]
   },
@@ -32666,7 +32672,8 @@ const curriculum: DayContent[] = [
               "the brain"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=uMR5XlHuuKs"
       },
       {
         "subject": "SocialStudies",

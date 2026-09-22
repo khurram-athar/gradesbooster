@@ -26862,7 +26862,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZnZYK83utu0"
       },
       {
         "subject": "Science",
@@ -26921,7 +26922,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=oVOnRPefcno"
       },
       {
         "subject": "SocialStudies",
@@ -27058,7 +27060,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=E2ZghKzfJE0"
       },
       {
         "subject": "Math",
@@ -27118,7 +27121,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=Dz3L5IS0NHM"
       },
       {
         "subject": "Science",
@@ -27178,7 +27182,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=MtRzy2TJAOQ"
       },
       {
         "subject": "SocialStudies",
@@ -27238,7 +27243,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cJkZLYn8uCI"
       }
     ]
   },

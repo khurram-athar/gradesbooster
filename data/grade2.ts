@@ -28498,7 +28498,8 @@ const curriculum: DayContent[] = [
               "fights off germs"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=_vAOarzqZhg"
       },
       {
         "subject": "SocialStudies",
@@ -28681,7 +28682,8 @@ const curriculum: DayContent[] = [
               "comparing"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=QVyOeD2xg94"
       },
       {
         "subject": "Math",
@@ -28764,7 +28766,18 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=Vq_UpOguNWU",
+        "videoUrls": [
+          {
+            "label": "Multiply by 8s",
+            "url": "https://www.youtube.com/watch?v=Vq_UpOguNWU"
+          },
+          {
+            "label": "Multiply by 9",
+            "url": "https://www.youtube.com/watch?v=P21aWkWWY6w"
+          }
+        ]
       },
       {
         "subject": "Science",
@@ -28844,7 +28857,18 @@ const curriculum: DayContent[] = [
             ]
           }
         ],
-        "topic": "Classification of Living Things"
+        "topic": "Classification of Living Things",
+        "videoUrl": "https://www.youtube.com/watch?v=R50Xc1EUHwg",
+        "videoUrls": [
+          {
+            "label": "Vertebrates",
+            "url": "https://www.youtube.com/watch?v=R50Xc1EUHwg"
+          },
+          {
+            "label": "Invertebrates",
+            "url": "https://www.youtube.com/watch?v=Sr_T4skBYNo"
+          }
+        ]
       },
       {
         "subject": "SocialStudies",
@@ -28925,7 +28949,8 @@ const curriculum: DayContent[] = [
               "trillium"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DHKFFZTGIEM"
       }
     ]
   },
@@ -36031,7 +36056,8 @@ const curriculum: DayContent[] = [
               "eight"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc"
       },
       {
         "subject": "Science",
@@ -41188,7 +41214,8 @@ const curriculum: DayContent[] = [
               "six"
             ]
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=t03yW7Oxsoc"
       },
       {
         "subject": "Science",

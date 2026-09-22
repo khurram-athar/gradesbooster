@@ -22967,7 +22967,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Reading Comprehension & Strategies"
+        "topic": "Reading Comprehension & Strategies",
+        "videoUrl": "https://www.youtube.com/watch?v=aJExmK6dcNg"
       },
       {
         "subject": "Math",
@@ -23237,7 +23238,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Grammar"
+        "topic": "Grammar",
+        "videoUrl": "https://www.youtube.com/watch?v=xL0TxFD63ZM"
       },
       {
         "subject": "Math",
@@ -23358,7 +23360,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Human Body Systems"
+        "topic": "Human Body Systems",
+        "videoUrl": "https://www.youtube.com/watch?v=ZBZWgrfZFbU"
       },
       {
         "subject": "SocialStudies",
@@ -23613,7 +23616,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=xKubdY2mHXc"
       },
       {
         "subject": "SocialStudies",

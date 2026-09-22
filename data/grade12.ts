@@ -13840,7 +13840,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Piecewise Functions"
+        "topic": "Piecewise Functions",
+        "videoUrl": "https://www.youtube.com/watch?v=OYOXMyFKotc"
       },
       {
         "subject": "Calculus",
@@ -13900,7 +13901,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=OUwEtMwhRA4"
       },
       {
         "subject": "Physics",
@@ -14148,7 +14150,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=PHUcQLREpKk"
       },
       {
         "subject": "Physics",
@@ -14397,7 +14400,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=ZZYf4hzluKw"
       },
       {
         "subject": "Physics",
@@ -14645,7 +14649,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=BCcyhztcKR0"
       },
       {
         "subject": "Physics",
@@ -15202,7 +15207,8 @@ const curriculum: DayContent[] = [
             "label": "YouTube: Sequences and Series Convergence Tests",
             "url": "https://www.youtube.com/watch?v=0YeON4p0ogw"
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=tHWiyQAmFJs"
       },
       {
         "subject": "Physics",
@@ -16199,7 +16205,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=qwiFOP3K8yM"
       },
       {
         "subject": "Physics",
@@ -16448,7 +16455,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=kB3oXfkPVBI"
       },
       {
         "subject": "Physics",
@@ -16955,7 +16963,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=bDvLCB8eRBQ"
       },
       {
         "subject": "Physics",
@@ -17203,7 +17212,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=GhN6GW4IaiI"
       },
       {
         "subject": "Physics",
@@ -17492,7 +17502,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=5UmO-RUtv2w"
       },
       {
         "subject": "Physics",
@@ -18240,7 +18251,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=iKPP3aubWTM"
       },
       {
         "subject": "Physics",
@@ -18746,7 +18758,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Optimization"
+        "topic": "Calculus: Optimization",
+        "videoUrl": "https://www.youtube.com/watch?v=oYI-wyYoWxc"
       },
       {
         "subject": "Physics",
@@ -21030,7 +21043,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=W3qoQIlfG0E"
       },
       {
         "subject": "Physics",
@@ -21278,7 +21292,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Calculus: Related Rates"
+        "topic": "Calculus: Related Rates",
+        "videoUrl": "https://www.youtube.com/watch?v=-En2IABPR0I"
       },
       {
         "subject": "Physics",
@@ -22163,7 +22178,8 @@ const curriculum: DayContent[] = [
             "answer": 3
           }
         ],
-        "topic": "Reading: Fiction & Story Elements"
+        "topic": "Reading: Fiction & Story Elements",
+        "videoUrl": "https://www.youtube.com/watch?v=dB8-iOHx4oA"
       },
       {
         "subject": "AdvancedFunctions",
@@ -22223,7 +22239,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=iooJ_8qvv9o"
       },
       {
         "subject": "Calculus",
@@ -22343,7 +22360,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=sNhhvQGsMEc"
       }
     ]
   },
@@ -22408,7 +22426,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=dB8-iOHx4oA"
       },
       {
         "subject": "AdvancedFunctions",
@@ -22468,7 +22487,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=axGgnXyuiTg"
       },
       {
         "subject": "Calculus",
@@ -32411,7 +32431,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=V4PFQpCCqzk"
       }
     ]
   },
@@ -44651,7 +44672,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=pkzY7QfTowM"
       }
     ]
   },

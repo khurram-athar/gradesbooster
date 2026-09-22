@@ -22301,7 +22301,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=LXViVD7LQAM"
       },
       {
         "subject": "Functions",
@@ -22361,7 +22362,18 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "2D/3D Geometry & Shapes"
+        "topic": "2D/3D Geometry & Shapes",
+        "videoUrl": "https://www.youtube.com/watch?v=Rw70zkvqEiE",
+        "videoUrls": [
+          {
+            "label": "Vector Projections",
+            "url": "https://www.youtube.com/watch?v=Rw70zkvqEiE"
+          },
+          {
+            "label": "The Vector Cross Product",
+            "url": "https://www.youtube.com/watch?v=gPnWm-IXoAY"
+          }
+        ]
       },
       {
         "subject": "Biology",
@@ -22420,7 +22432,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=THD7BhS5fic"
       },
       {
         "subject": "Chemistry",
@@ -22479,7 +22492,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=IGHpSGwZiHo"
       }
     ]
   },
@@ -22544,7 +22558,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=LXViVD7LQAM"
       },
       {
         "subject": "Functions",
@@ -36025,7 +36040,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=cHBlDVg9nR8"
       }
     ]
   },

@@ -22658,7 +22658,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=jnzJaqJdyi4"
       },
       {
         "subject": "SocialStudies",
@@ -22718,7 +22719,8 @@ const curriculum: DayContent[] = [
             "answer": 1
           }
         ],
-        "topic": "Natural Resources & Industry"
+        "topic": "Natural Resources & Industry",
+        "videoUrl": "https://www.youtube.com/watch?v=RXVDryzcaIc"
       }
     ]
   },
@@ -25184,7 +25186,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw"
       }
     ]
   },
@@ -34870,7 +34873,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=m7pCJKPdkHE"
       },
       {
         "subject": "Science",

@@ -22074,7 +22074,8 @@ const curriculum: DayContent[] = [
             "answer": 2
           }
         ],
-        "topic": "Media Literacy"
+        "topic": "Media Literacy",
+        "videoUrl": "https://www.youtube.com/watch?v=1FxXTrR7lSg"
       },
       {
         "subject": "Math",
@@ -22581,7 +22582,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=DHNgqXp-ljw"
       },
       {
         "subject": "Math",
@@ -22700,7 +22702,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 2
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=whsjY9PurOM"
       },
       {
         "subject": "SocialStudies",
@@ -26490,7 +26493,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU"
       }
     ]
   },
@@ -29067,7 +29071,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=c9VFbAJRSv0"
       },
       {
         "subject": "Science",
@@ -29430,7 +29435,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU"
       }
     ]
   },
@@ -31391,7 +31397,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YGrSLn32_FU"
       }
     ]
   },
@@ -37953,7 +37960,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 3
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=whsjY9PurOM"
       },
       {
         "subject": "SocialStudies",

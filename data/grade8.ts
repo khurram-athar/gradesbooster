@@ -22545,7 +22545,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 1
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=AkWcmv2koUg"
       },
       {
         "subject": "Math",
@@ -22605,7 +22606,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Multiplication & Division"
+        "topic": "Multiplication & Division",
+        "videoUrl": "https://www.youtube.com/watch?v=yX6Mq9whsX0"
       },
       {
         "subject": "Science",
@@ -22665,7 +22667,8 @@ const curriculum: DayContent[] = [
             "answer": 0
           }
         ],
-        "topic": "Classification of Living Things (Basic)"
+        "topic": "Classification of Living Things (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=8IlzKri08kk"
       },
       {
         "subject": "History",
@@ -22724,7 +22727,8 @@ const curriculum: DayContent[] = [
             ],
             "answer": 0
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=aIc8UC5J5Vs"
       }
     ]
   },
