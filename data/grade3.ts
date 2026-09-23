@@ -22135,6 +22135,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: weather can affect Ontario’s economy in many ways, such as impacting farming harvests, winter tourism, and how goods are transported.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=K5KwEpoIs6c",
         "quiz": [
           {
             "q": "Name one part of Ontario’s economy that weather can affect, such as farming.",
@@ -22978,6 +22979,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Language strand: most nouns become plural by adding -s or -es, but irregular plural nouns change in unusual ways, such as child becoming children or mouse becoming mice.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=eab2rFbtCZ0",
         "quiz": [
           {
             "q": "What is the plural form of the word child?",
@@ -23038,6 +23040,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Math strand: a quadrilateral is any shape with four sides, and can be classified into types such as squares, rectangles, rhombuses, and trapezoids based on their side lengths and angles.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Wzb6tpeo3uc",
         "quiz": [
           {
             "q": "How many sides does a quadrilateral have?",
@@ -23098,6 +23101,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: Ontario has many freshwater habitats, including lakes, rivers, and wetlands, that provide homes for fish, birds, insects, and plants.",
         "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=SexLZIyo_FA",
         "quiz": [
           {
             "q": "Name one type of freshwater habitat found in Ontario, such as a lake.",
@@ -23158,6 +23162,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Social Studies strand: the War of 1812 was a conflict between Britain and the United States, fought partly in Upper Canada (now Ontario), where settlers and Indigenous allies helped defend the colony.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ros0mxR_34Q",
         "quiz": [
           {
             "q": "What do we call the war fought between Britain and the United States that took place partly in Upper Canada?",

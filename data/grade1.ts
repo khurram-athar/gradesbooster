@@ -28507,6 +28507,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that a contraction joins two words together into a shorter word, using an apostrophe in place of missing letters, such as do not becoming dont and I am becoming Im.",
         "resourceLabel": "YouTube: Contractions: Joining Two Words Into One",
         "resourceUrl": "https://www.youtube.com/results?search_query=Contractions%3A%20Joining%20Two%20Words%20Into%20One%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gubPH3WEurg",
         "quiz": [
           {
             "q": "What is a contraction?",
@@ -28586,6 +28587,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn the doubles plus one strategy, using a known doubles fact like 5 plus 5 to quickly solve a nearby fact like 5 plus 6 by adding one more.",
         "resourceLabel": "YouTube: Doubles Plus One: A Mental Math Strategy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Doubles%20Plus%20One%3A%20A%20Mental%20Math%20Strategy%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YD1VqzDTq6c",
         "quiz": [
           {
             "q": "What is 4 plus 4?",
@@ -28669,6 +28671,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: How Sounds Are Made: Vibrations",
         "resourceUrl": "https://www.youtube.com/results?search_query=How%20Sounds%20Are%20Made%3A%20Vibrations%20grade%201%20educational",
         "topic": "Light & Sound",
+        "videoUrl": "https://www.youtube.com/watch?v=3-xKZKxXuu0",
         "quiz": [
           {
             "q": "What causes sound to be made?",
@@ -28729,6 +28732,7 @@ const curriculum: DayContent[] = [
         "resourceLabel": "YouTube: What Is a Map? Introducing Simple Maps",
         "resourceUrl": "https://www.youtube.com/results?search_query=What%20Is%20a%20Map%3F%20Introducing%20Simple%20Maps%20grade%201%20educational",
         "topic": "Maps & Spatial Skills (Basic)",
+        "videoUrl": "https://www.youtube.com/watch?v=UZaTK7B0doE",
         "quiz": [
           {
             "q": "What is a map?",

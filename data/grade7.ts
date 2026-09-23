@@ -22983,6 +22983,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Language strand: an idiom is a phrase whose meaning cannot be understood from the literal meaning of its individual words, such as break the ice, and many idioms have interesting historical origins.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=VdKK4gWFO0c",
         "quiz": [
           {
             "q": "What is an idiom?",
@@ -23043,6 +23044,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 7 Math strand: factoring a polynomial using the greatest common factor means finding the largest expression that divides evenly into every term, then writing the polynomial as that factor times what remains.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=HcfNzgWUdqM",
         "quiz": [
           {
             "q": "What does factoring a polynomial using the GCF involve finding?",
@@ -23103,6 +23105,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Science strand: Earth’s crust is broken into large plates that move very slowly over time, a process that can cause earthquakes, form mountains, and create volcanoes at plate boundaries.",
         "resourceLabel": "YouTube: Plate Tectonics and Continental Drift",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plate%20Tectonics%20and%20Continental%20Drift%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AqrInJ8_Nes",
         "quiz": [
           {
             "q": "What do we call the large sections of Earth’s crust that move very slowly over time?",

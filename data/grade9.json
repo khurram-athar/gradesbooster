@@ -22968,6 +22968,7 @@
         "summary": "Grade 9 Math strand: any nonzero base raised to the exponent zero equals 1, and a negative exponent indicates the reciprocal of the base raised to the corresponding positive exponent.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=LkhPRz7Hocg",
         "quiz": [
           {
             "q": "What does any nonzero number raised to the exponent zero equal?",
@@ -23028,6 +23029,7 @@
         "summary": "Grade 9 Science strand: a physical change alters a substance’s form without changing its chemical composition, while a chemical change produces one or more new substances with different properties.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=GCXrmTworic",
         "quiz": [
           {
             "q": "What happens to a substance’s chemical composition during a physical change?",
@@ -23154,6 +23156,7 @@
         "summary": "Grade 9 Language strand: a definition essay explores the meaning of a complex or abstract term in depth, often using examples, comparisons, and context to clarify what the term truly means.",
         "resourceLabel": "TVO Learn: Grade 9 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "videoUrl": "https://www.youtube.com/watch?v=vz5EsldZHCM",
         "quiz": [
           {
             "q": "What does a definition essay explore in depth?",
@@ -23214,6 +23217,7 @@
         "summary": "Grade 9 Math strand: a quadratic function written in vertex form, y = a(x-h)^2 + k, reveals the vertex of the parabola at the point (h,k), making it easy to graph transformations directly.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=OHH7fX_M8Ns",
         "quiz": [
           {
             "q": "In vertex form, y = a(x-h)^2 + k, what point does (h,k) represent?",
@@ -23274,6 +23278,7 @@
         "summary": "Grade 9 Science strand: the law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction, so the total mass of reactants equals the total mass of products.",
         "resourceLabel": "TVO Learn: Grade 9 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "videoUrl": "https://www.youtube.com/watch?v=JCyjLPYXl1I",
         "quiz": [
           {
             "q": "What does the law of conservation of mass state?",

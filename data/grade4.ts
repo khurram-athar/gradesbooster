@@ -23837,6 +23837,7 @@ const curriculum: DayContent[] = [
         "summary": "Students learn that point of view describes who is telling a story, and that a story can be told from a characters point of view using words like I and me.",
         "resourceLabel": "YouTube: Point of View: Whose Story Is It?",
         "resourceUrl": "https://www.youtube.com/results?search_query=Point%20of%20View%3A%20Whose%20Story%20Is%20It%3F%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fb33WQTGXPk",
         "quiz": [
           {
             "q": "What is point of view?",
@@ -23918,6 +23919,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 4 Math strand: students learn to write a number in expanded form by showing the value of each digit, such as writing 3,482 as 3,000 plus 400 plus 80 plus 2.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=GjGoqqGYRjo",
         "quiz": [
           {
             "q": "What is 3,482 written in expanded form?",
@@ -23978,6 +23980,7 @@ const curriculum: DayContent[] = [
         "summary": "Ontario Grade 2 Life Systems strand: students learn that our nervous system, made up of the brain, spinal cord, and nerves, sends messages through our body so we can think, feel, and move.",
         "resourceLabel": "YouTube: The Nervous System: How Our Brain Sends Messages",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Nervous%20System%3A%20How%20Our%20Brain%20Sends%20Messages%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TyVZf_5sDkg",
         "quiz": [
           {
             "q": "What is the main job of the nervous system?",
@@ -24059,6 +24062,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 2 Social Studies strand: Truth and Reconciliation Day, on September 30, is a day when Canadians learn about and remember Indigenous children and communities, and work toward a fairer future together.",
         "resourceLabel": "YouTube: Truth and Reconciliation Day: Learning and Remembering",
         "resourceUrl": "https://www.youtube.com/results?search_query=Truth%20and%20Reconciliation%20Day%3A%20Learning%20and%20Remembering%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RT_ho4A6yw8",
         "quiz": [
           {
             "q": "When is Truth and Reconciliation Day observed in Canada?",

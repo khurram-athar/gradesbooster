@@ -22650,6 +22650,7 @@
         "summary": "Grade 12 Advanced Functions strand: Vieta’s formulas relate the coefficients of a polynomial equation to sums and products of its roots, such as the sum of roots equaling negative b over a for a quadratic ax squared plus bx plus c.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=YICe--DHI5U",
         "quiz": [
           {
             "q": "What do Vieta’s formulas relate for a polynomial equation?",
@@ -22783,6 +22784,7 @@
         "summary": "Grade 12 Physics strand: the Michelson-Morley experiment used an interferometer to search for Earth’s motion through a hypothetical luminiferous ether, and its null result provided key evidence for the constancy of the speed of light.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=3G_Q6AggQF8",
         "quiz": [
           {
             "q": "What was the Michelson-Morley experiment designed to detect?",
@@ -22848,6 +22850,7 @@
         "summary": "Grade 12 English strand: a Künstlerroman is a subtype of the bildungsroman that traces an artist’s growth toward creative and artistic maturity, often dramatizing tension between the artist’s ambitions and conventional social expectations.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=kVWX4j8WqBU",
         "quiz": [
           {
             "q": "What is a Künstlerroman a specific subtype of?",
@@ -22907,6 +22910,7 @@
         "summary": "Grade 12 Advanced Functions strand: Cardano’s formula solves a depressed cubic equation of the form t³ + pt + q = 0, and its use of square roots of negative numbers even for equations with three real roots played a key historical role in the acceptance of complex numbers.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=T-SBnSCQzaI",
         "quiz": [
           {
             "q": "What type of cubic equation does Cardano’s formula directly solve?",
@@ -22967,6 +22971,7 @@
         "summary": "A spherical balloon is being inflated with air at a constant volume rate. You'll differentiate the sphere's volume formula to find how fast the radius is growing at a specific size.",
         "resourceLabel": "YouTube: Related Rates: A Balloon Being Inflated",
         "resourceUrl": "https://www.youtube.com/results?search_query=Related%20Rates%3A%20A%20Balloon%20Being%20Inflated%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-LJ8xNgJOEA",
         "quiz": [
           {
             "q": "Which formula correctly gives the volume of a spherical balloon in terms of its radius r?",

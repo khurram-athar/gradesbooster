@@ -23121,6 +23121,13 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Social Studies strand: Canada’s system of higher education has grown over time, from its earliest universities in the 1800s to today’s wide network of colleges and universities across the country.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=GY0YaIZvx2o",
+        "videoUrls": [
+          {
+            "label": "Canada's Education System Today",
+            "url": "https://www.youtube.com/watch?v=Bua41X5hDgs"
+          }
+        ],
         "quiz": [
           {
             "q": "Has Canada’s system of higher education grown and changed over time?",
@@ -23694,6 +23701,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Language strand: a coordinating conjunction, such as and, but, or, joins two equal ideas, while a subordinating conjunction, such as because, although, or when, joins a dependent clause to an independent clause.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=ECiFApWcrDU",
         "quiz": [
           {
             "q": "Which of these is a coordinating conjunction?",
@@ -23754,6 +23762,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 5 Math strand: students learn that the area of a triangle equals one half of its base times its height, and the area of a parallelogram equals its base times its height.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_OVGMXMpx0w",
         "quiz": [
           {
             "q": "What is the formula for the area of a parallelogram?",
@@ -23814,6 +23823,7 @@ const curriculum: DayContent[] = [
         "summary": "Grade 3 Science strand: reptiles are cold-blooded animals covered in scales that rely on their environment to regulate body temperature, including snakes, turtles, and lizards.",
         "resourceLabel": "YouTube: Science: Reptiles — Scales, Cold-Blooded Bodies, and Survival",
         "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Reptiles%20%E2%80%94%20Scales%2C%20Cold-Blooded%20Bodies%2C%20and%20Survival%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pSd1-t4tcmE",
         "quiz": [
           {
             "q": "What covers the body of a reptile?",
