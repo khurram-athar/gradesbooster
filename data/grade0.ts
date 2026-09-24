@@ -27941,6 +27941,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson introduces children to the idea that grandparents and older relatives can share stories about what life was like when they were young.",
         "resourceLabel": "YouTube: Grandparents Remember: Stories From Long Ago",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grandparents%20Remember%3A%20Stories%20From%20Long%20Ago%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4sZ_9hkeDic",
         "topic": "Famous Canadians & History (Basic)",
         "quiz": [
           {
@@ -28007,6 +28008,7 @@ const curriculum: DayContent[] = [
         "summary": "Building on earlier ending-sound work, students listen for two consonant sounds blended together at the end of words like \"hand,\" \"tent,\" and \"jump.\"",
         "resourceLabel": "YouTube: Ending Blends: nd, nt, mp",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ending%20Blends%3A%20nd%2C%20nt%2C%20mp%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8W8lffZNpNI",
         "topic": "Phonics & Word Recognition",
         "quiz": [
           {
@@ -28067,6 +28069,7 @@ const curriculum: DayContent[] = [
         "summary": "Kids learn to describe containers as full, empty, or half full based on how much is inside, using real examples like a glass of water.",
         "resourceLabel": "YouTube: Full, Empty, and Half Full",
         "resourceUrl": "https://www.youtube.com/results?search_query=Full%2C%20Empty%2C%20and%20Half%20Full%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8BQGbDkooiE",
         "topic": "Measurement: Units",
         "quiz": [
           {
@@ -28127,6 +28130,7 @@ const curriculum: DayContent[] = [
         "summary": "Children explore wind as moving air, noticing how it can be felt on their skin and can move light objects like leaves or a pinwheel.",
         "resourceLabel": "YouTube: Wind: Feeling the Air Move",
         "resourceUrl": "https://www.youtube.com/results?search_query=Wind%3A%20Feeling%20the%20Air%20Move%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0yXC45dgmSs",
         "topic": "Weather, Climate & Atmosphere",
         "quiz": [
           {
@@ -28187,6 +28191,7 @@ const curriculum: DayContent[] = [
         "summary": "Children discover that people around the world live in many different kinds of homes depending on their climate, culture, and location.",
         "resourceLabel": "YouTube: Homes Around the World: Different Ways People Live",
         "resourceUrl": "https://www.youtube.com/results?search_query=Homes%20Around%20the%20World%3A%20Different%20Ways%20People%20Live%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=44U0UEvR2-Q",
         "topic": "World Geography & Cultures",
         "quiz": [
           {
