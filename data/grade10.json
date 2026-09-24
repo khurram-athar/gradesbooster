@@ -4545,61 +4545,60 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Functions, Geometry, and Systems",
-        "summary": "Students consolidate Grade 10 mathematics — quadratics, trigonometry, analytic geometry, linear systems, and an introduction to polynomial functions.",
-        "resourceLabel": "YouTube: Review: Functions, Geometry, and Systems",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Functions%2C%20Geometry%2C%20and%20Systems%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
+        "title": "Finding Zeros from Factored-Form Quadratics",
+        "summary": "Students find the x-intercepts (zeros) of a quadratic relation directly from its factored form and connect them to the parabola's shape.",
+        "resourceLabel": "YouTube: Finding Zeros from Factored-Form Quadratics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Zeros%20from%20Factored-Form%20Quadratics%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "The parabola y = −3(x + 2)² + 7 has vertex ___ and opens ___.",
+            "q": "A quadratic relation is given in factored form as y = (x − 4)(x + 1). What are its zeros?",
             "options": [
-              "(2, 7) downward",
-              "(−2, 7) downward",
-              "(2, −7) upward",
-              "(−2, 7) upward"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Find the angle in a triangle where cos A = (9 + 25 − 16)/(2 × 3 × 5) = 18/30.",
-            "options": [
-              "A = 90°",
-              "A ≈ 37°",
-              "A = 60°",
-              "A ≈ 53°"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The circle (x + 1)² + (y − 3)² = 16 has centre ___ and radius ___.",
-            "options": [
-              "(1, 3) and 4",
-              "(−1, 3) and 4",
-              "(1, −3) and 4",
-              "(−1, 3) and 16"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Solve: 3x² − x − 2 = 0",
-            "options": [
-              "x = 1 and x = 2/3",
-              "x = −1 and x = 2/3",
-              "x = 1 and x = −2/3",
-              "x = −1 and x = −2/3"
+              "x = 4 and x = 1",
+              "x = −4 and x = 1",
+              "x = 4 and x = −1",
+              "x = −4 and x = −1"
             ],
             "answer": 2
           },
           {
-            "q": "A polynomial y = x(x − 3)(x + 2) has zeros at ___.",
+            "q": "The parabola y = 2(x + 3)(x − 5) crosses the x-axis at ___.",
             "options": [
-              "x = 1, 3, −2",
-              "x = 0, −3, 2",
-              "x = 3 and x = −2 only",
-              "x = 0, 3, −2"
+              "x = −3 and x = 5",
+              "x = 3 and x = −5",
+              "x = −3 and x = −5",
+              "x = 2 and x = −3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A parabola has zeros at x = 2 and x = 8. What is the x-coordinate of its axis of symmetry?",
+            "options": [
+              "x = 3",
+              "x = 4",
+              "x = 6",
+              "x = 5"
             ],
             "answer": 3
+          },
+          {
+            "q": "For the quadratic y = x(x − 6), the vertex occurs at x = ___.",
+            "options": [
+              "x = 6",
+              "x = 3",
+              "x = 0",
+              "x = −3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A parabola has zeros at x = −2 and x = 7. Which equation is in factored form for this parabola (leading coefficient 1)?",
+            "options": [
+              "y = (x + 2)(x + 7)",
+              "y = (x + 2)(x − 7)",
+              "y = (x − 2)(x − 7)",
+              "y = (x − 2)(x + 7)"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -5042,63 +5041,62 @@
       },
       {
         "subject": "Math",
-        "title": "Quadratics and Functions: Consolidation",
-        "summary": "Students review and consolidate Grade 10 quadratic and function concepts, preparing for Grade 11 Functions.",
-        "resourceLabel": "YouTube: Quadratics and Functions: Consolidation",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Quadratics%20and%20Functions%3A%20Consolidation%20grade%2010%20educational",
+        "title": "Evaluating Function Notation for Quadratics",
+        "summary": "Students evaluate f(x) at specific values and interpret function notation as a preview of Grade 11 Functions.",
+        "resourceLabel": "YouTube: Evaluating Function Notation for Quadratics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Evaluating%20Function%20Notation%20for%20Quadratics%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Convert y = x² − 6x + 11 to vertex form.",
+            "q": "If f(x) = x² − 4, evaluate f(3).",
             "options": [
-              "y = (x − 3)² − 9 + 11 = (x−3)²+2",
-              "y = (x − 6)² + 2",
-              "y = (x − 3)² + 2",
-              "y = (x + 3)² − 11"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "A function has domain {x ∈ ℝ | x ≠ −2}. What type of function likely has this restriction?",
-            "options": [
-              "A quadratic function",
-              "A rational function, denominator x+2",
-              "A polynomial function",
-              "A linear function"
+              "f(3) = 9",
+              "f(3) = 5",
+              "f(3) = 1",
+              "f(3) = −7"
             ],
             "answer": 1
           },
           {
-            "q": "f(x) = x² − 4 and g(x) = 2x + 1. Find f(g(2)).",
+            "q": "If f(x) = 2x² + 3x − 1, evaluate f(−2).",
             "options": [
-              "f(5) = 25",
-              "f(2) + g(2) = 5",
-              "g(f(2)) = 1",
-              "f(5) = 21"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The zeros of f(x) = x² − x − 6 are ___.",
-            "options": [
-              "x = 2 and x = −3",
-              "x = 6 and x = −1",
-              "x = 3 and x = 2",
-              "x = −2 and x = 3"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A quadratic with vertex (2, −3) and passing through (0, 1) has a = ___.",
-            "options": [
-              "a = −1",
-              "a = 4",
-              "a = 1",
-              "a = 0"
+              "f(−2) = 13",
+              "f(−2) = 2",
+              "f(−2) = 1",
+              "f(−2) = 9"
             ],
             "answer": 2
+          },
+          {
+            "q": "For f(x) = x² + 1, evaluate f(0) + f(1).",
+            "options": [
+              "2",
+              "1",
+              "4",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If g(x) = 3x − 5, what is g(4)?",
+            "options": [
+              "g(4) = 7",
+              "g(4) = 17",
+              "g(4) = −3",
+              "g(4) = −17"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Function notation h(x) tells you the output of a function for a given input. If h(5) = 12, this means ___.",
+            "options": [
+              "The function h always equals 12",
+              "When x = 5, the output of h is 12",
+              "x and h are equal to 5 and 12 respectively, with no other meaning",
+              "h multiplied by 5 equals 12"
+            ],
+            "answer": 1
           }
-        ],
-        "topic": "Quadratic Relations"
+        ]
       },
       {
         "subject": "Science",
@@ -8523,124 +8521,121 @@
       },
       {
         "subject": "Math",
-        "title": "Correlation Coefficient and Line of Best Fit",
-        "summary": "Grade 10 Data Management strand: the correlation coefficient measures the strength and direction of a linear relationship between two variables, ranging from negative one to positive one.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=11c9cs6WpJU",
+        "title": "Interpreting the Intersection Point of a Linear System",
+        "summary": "Students solve a linear system representing two real-world plans and interpret what the intersection point of the two lines means in context.",
+        "resourceLabel": "YouTube: Interpreting the Intersection Point of a Linear System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Interpreting%20the%20Intersection%20Point%20of%20a%20Linear%20System%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "The correlation coefficient measures ___.",
+            "q": "Plan A costs $20 plus $5 per month; Plan B costs $35 plus $2 per month. After how many months do the two plans cost the same?",
             "options": [
-              "The strength and direction of a linear relationship between two variables",
-              "The total sum of all data values",
-              "The exact number of data points in a set",
-              "A value unrelated to relationships between variables"
+              "5 months",
+              "3 months",
+              "15 months",
+              "2 months"
             ],
             "answer": 0
           },
           {
-            "q": "A correlation coefficient close to positive one suggests ___.",
+            "q": "Using the plans above, what is the cost of either plan when they are equal?",
             "options": [
-              "A strong negative relationship between the two variables",
-              "No relationship at all between the variables",
-              "A strong positive relationship between the two variables",
-              "A relationship that cannot be determined"
+              "$35",
+              "$55",
+              "$45",
+              "$40"
             ],
             "answer": 2
           },
           {
-            "q": "A correlation coefficient close to zero suggests ___.",
+            "q": "In this context, what does the intersection point of the two lines represent?",
             "options": [
-              "An undefined relationship",
-              "A perfect negative linear relationship",
-              "A perfect positive linear relationship",
-              "A very weak or no linear relationship between the variables"
+              "The month Plan A becomes free",
+              "The number of months and cost at which both plans charge the same amount",
+              "The total number of months in the contract",
+              "The difference between the two plans' monthly rates"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For months beyond the intersection point, Plan B (with the lower monthly rate of $2) will be ___ than Plan A.",
+            "options": [
+              "More expensive",
+              "Exactly equal",
+              "Impossible to determine",
+              "Cheaper"
             ],
             "answer": 3
           },
           {
-            "q": "Why is the correlation coefficient useful when analyzing a scatter plot?",
+            "q": "Solve the linear system y = 3x + 1 and y = −x + 9 to find the point of intersection.",
             "options": [
-              "It provides a numerical measure of how closely the data follows a linear pattern",
-              "The correlation coefficient only applies to non-linear relationships",
-              "It has no connection to interpreting scatter plot data",
-              "This value can never be calculated from real data"
+              "(4, 13)",
+              "(2, 7)",
+              "(−2, 7)",
+              "(2, −7)"
             ],
-            "answer": 0
-          },
-          {
-            "q": "Why is it important to remember that correlation does not necessarily indicate causation?",
-            "options": [
-              "Correlation always proves that one variable causes the other",
-              "This distinction has no relevance to interpreting data",
-              "Causation can always be assumed from a correlation coefficient",
-              "Two variables might be related without one directly causing the other"
-            ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
       {
         "subject": "Science",
-        "title": "Fluid Dynamics: Bernoulli’s Principle",
-        "summary": "Grade 8 Science Structures and Mechanisms strand: Bernoulli’s Principle states that faster-moving fluid exerts less pressure than slower-moving fluid, a concept used to explain phenomena like airplane lift.",
-        "resourceLabel": "YouTube: Fluid Dynamics: Bernoulli’s Principle",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Fluid%20Dynamics%3A%20Bernoulli%E2%80%99s%20Principle%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=eKEorBipbO8",
+        "title": "Reflection and Refraction of Light",
+        "summary": "Students explore how light reflects off surfaces according to the law of reflection and refracts (bends) when passing between different media.",
+        "resourceLabel": "YouTube: Reflection and Refraction of Light",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reflection%20and%20Refraction%20of%20Light%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Bernoulli’s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.",
+            "q": "The law of reflection states that the angle of incidence ___ the angle of reflection.",
             "options": [
-              "Exactly equal",
-              "Unpredictable",
-              "More",
-              "Less"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Bernoulli’s Principle helps explain how ___.",
-            "options": [
-              "Airplane wings generate lift",
-              "Sound travels through solids",
-              "Plants perform photosynthesis",
-              "Rocks form over time"
+              "Equals",
+              "Is always greater than",
+              "Is always less than",
+              "Is always double"
             ],
             "answer": 0
           },
           {
-            "q": "An airplane wing is shaped so that air travels ___ over the top of the wing than underneath.",
+            "q": "When light travels from air into water, it slows down and bends ___ the normal.",
             "options": [
-              "Faster",
-              "At exactly the same speed",
-              "Not at all",
-              "Slower"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "According to Bernoulli’s Principle, if air moves faster over the top of a wing, the pressure there is ___.",
-            "options": [
-              "Higher than below the wing",
-              "Exactly equal to the pressure below the wing",
-              "Lower than below the wing, helping create lift",
-              "Unrelated to lift generation"
+              "Away from",
+              "Parallel to",
+              "Toward",
+              "In the opposite direction of"
             ],
             "answer": 2
           },
           {
-            "q": "Why is Bernoulli’s Principle important in engineering fields like aviation?",
+            "q": "A concave mirror is best described as a mirror that curves ___ and can produce a real, inverted image.",
             "options": [
-              "It helps explain and predict how fluid movement affects pressure and lift",
-              "It only applies to solids, not fluids",
-              "Bernoulli’s Principle has no connection to flight",
-              "This principle has no real-world engineering applications"
+              "Outward",
+              "Inward",
+              "Flat, with no curve",
+              "In two different directions at once"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "A converging (convex) lens is thicker at the ___ than at the edges.",
+            "options": [
+              "Edges",
+              "Top only",
+              "Centre",
+              "Corners"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Refraction occurs because light changes ___ as it moves from one medium into another.",
+            "options": [
+              "Colour",
+              "Mass",
+              "Loudness",
+              "Speed"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Forces & Motion"
+        ]
       },
       {
         "subject": "History",
@@ -9764,75 +9759,60 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Functions, Sequences, and Trigonometric Applications",
-        "summary": "Grade 10 Functions and Trigonometry strands review: this lesson revisits rational functions, exponential functions, arithmetic and geometric sequences, complex numbers, and combined sine/cosine law problems.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=wbBY2tTqXDA",
-        "videoUrls": [
-          {
-            "label": "Functions",
-            "url": "https://www.youtube.com/watch?v=wbBY2tTqXDA"
-          },
-          {
-            "label": "Sequences",
-            "url": "https://www.youtube.com/watch?v=XZJdyPkCxuE"
-          },
-          {
-            "label": "Trigonometric Applications",
-            "url": "https://www.youtube.com/watch?v=qXxTu0fg4_8"
-          }
-        ],
+        "title": "Using the Discriminant to Predict Number of Roots",
+        "summary": "Students calculate the discriminant b² − 4ac to predict how many real roots a quadratic equation has, then apply the quadratic formula to solve it.",
+        "resourceLabel": "YouTube: Using the Discriminant to Predict Number of Roots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20the%20Discriminant%20to%20Predict%20Number%20of%20Roots%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A rational function is best described as ___.",
+            "q": "For 2x² + 3x − 5 = 0, calculate the discriminant.",
             "options": [
-              "A function with no fractions involved",
-              "A linear equation with no fractional component",
-              "A function that is always undefined",
-              "A fraction where the numerator and denominator are polynomials"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "An exponential growth function models a quantity that ___.",
-            "options": [
-              "Decreases at an unpredictable, random rate",
-              "Increases by the same fixed amount each time period",
-              "Increases by a consistent percentage rate over time",
-              "Remains completely constant over time"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "In the geometric sequence 2, 6, 18, 54, what is the common ratio?",
-            "options": [
-              "6",
-              "3",
-              "2",
-              "4"
+              "−31",
+              "49",
+              "29",
+              "43"
             ],
             "answer": 1
           },
           {
-            "q": "The imaginary unit i is defined as ___.",
+            "q": "A quadratic equation has a discriminant of 0. This means the equation has ___.",
             "options": [
-              "The square root of negative one",
-              "A value equal to zero",
-              "The square root of one",
-              "A concept unrelated to square roots"
+              "Two distinct real roots",
+              "No real roots",
+              "Exactly one real root (a repeated root)",
+              "Infinitely many real roots"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why is it useful to review functions, sequences, and trigonometric applications together?",
+            "q": "A quadratic equation has a discriminant of −16. This means the equation has ___.",
             "options": [
-              "These related math concepts reinforce each other for stronger overall understanding",
-              "Each topic must be learned in complete isolation",
-              "These topics have no connection to each other",
-              "Review is never useful in math"
+              "Two distinct real roots",
+              "Exactly one real root",
+              "Sixteen real roots",
+              "No real roots"
             ],
-            "answer": 0
+            "answer": 3
+          },
+          {
+            "q": "Use the quadratic formula to solve x² − 5x + 6 = 0.",
+            "options": [
+              "x = −2 and x = −3",
+              "x = 6 and x = −1",
+              "x = 2 and x = 3",
+              "x = 3 only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which discriminant value would indicate two distinct irrational roots (positive, not a perfect square)?",
+            "options": [
+              "16",
+              "0",
+              "−9",
+              "12"
+            ],
+            "answer": 3
           }
         ]
       },
@@ -10025,64 +10005,62 @@
       },
       {
         "subject": "Math",
-        "title": "Standard Deviation: An Introduction",
-        "summary": "Grade 8 Data Management strand (pre-high-school extension): standard deviation measures how spread out data values are from the mean, with a larger standard deviation indicating more variability in the data.",
-        "resourceLabel": "YouTube: Standard Deviation: An Introduction",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Standard%20Deviation%3A%20An%20Introduction%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=pZJxwIz-FTM",
+        "title": "Verifying Triangle Properties Using Slope and Length",
+        "summary": "Students use the slope and length (distance) formulas to verify whether a triangle formed by given coordinates is right-angled or isosceles.",
+        "resourceLabel": "YouTube: Verifying Triangle Properties Using Slope and Length",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Verifying%20Triangle%20Properties%20Using%20Slope%20and%20Length%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Standard deviation measures ___.",
+            "q": "Triangle ABC has vertices A(0,0), B(4,0), C(4,3). What is the length of side BC?",
             "options": [
-              "How spread out data values are from the mean",
-              "The exact middle value of a data set",
-              "The total number of values in a data set",
-              "The most frequently occurring value"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A larger standard deviation indicates ___.",
-            "options": [
-              "That all values are identical",
-              "More variability in the data",
-              "That the mean cannot be calculated",
-              "Less variability in the data"
+              "5",
+              "3",
+              "4",
+              "7"
             ],
             "answer": 1
           },
           {
-            "q": "A smaller standard deviation indicates that data values are generally ___.",
+            "q": "Using the same triangle A(0,0), B(4,0), C(4,3), what is the slope of AB?",
             "options": [
-              "Impossible to measure",
-              "Unrelated to the mean",
-              "Closer to the mean",
-              "Farther from the mean"
+              "Undefined",
+              "4/3",
+              "0",
+              "3/4"
             ],
             "answer": 2
           },
           {
-            "q": "Why might standard deviation be a useful statistic alongside the mean?",
+            "q": "What is the slope of BC in the same triangle?",
             "options": [
-              "It shows how consistent or spread out the data really is",
-              "It always equals the mean, providing no new information",
-              "Standard deviation has no connection to understanding data",
-              "It should never be calculated alongside the mean"
+              "3",
+              "0",
+              "−3",
+              "Undefined"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "If two data sets have the same mean but different standard deviations, the set with the higher standard deviation ___.",
+            "q": "Since AB is horizontal (slope 0) and BC is vertical (slope undefined), what can you conclude about angle B in triangle ABC?",
             "options": [
-              "Has identical values to the other set",
-              "Cannot be compared to the other set",
-              "Has more variability among its values",
-              "Always has a smaller range"
+              "Angle B is 45°",
+              "Triangle ABC is not a right triangle",
+              "Angle B is a right angle (90°)",
+              "This cannot be determined from slopes"
             ],
             "answer": 2
+          },
+          {
+            "q": "Triangle DEF has vertices D(1,1), E(5,1), F(1,4). Using the distance formula, is DE equal in length to DF?",
+            "options": [
+              "Yes, both equal 4",
+              "No, DE = 3 and DF = 4",
+              "Yes, both equal 3",
+              "No, DE = 4 and DF = 3, so they are not equal"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",
@@ -12259,75 +12237,60 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Grade 10 Functions, Data, and Number Extensions",
-        "summary": "Grade 10 comprehensive review: this lesson revisits sine and cosine law combinations, standard deviation, combining functions, complex number operations, and 3D non-right triangle applications from Days 41-49.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=3gaxVHVI4cI",
-        "videoUrls": [
-          {
-            "label": "Combining Functions",
-            "url": "https://www.youtube.com/watch?v=3gaxVHVI4cI"
-          },
-          {
-            "label": "Standard Deviation",
-            "url": "https://www.youtube.com/watch?v=IaTFpp-uzp0"
-          },
-          {
-            "label": "Complex Number Operations",
-            "url": "https://www.youtube.com/watch?v=OQz1ydBcQSA"
-          }
-        ],
+        "title": "Mixed Review: Quadratics, Trigonometry, and Analytic Geometry",
+        "summary": "A cumulative review connecting quadratic relations, the sine and cosine laws, and analytic geometry formulas.",
+        "resourceLabel": "YouTube: Mixed Review: Quadratics, Trigonometry, and Analytic Geometry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mixed%20Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A normal distribution is typically described as having a ___ shape.",
+            "q": "Convert y = x² + 8x + 10 to vertex form.",
             "options": [
-              "Perfectly flat, with no variation",
-              "A shape unrelated to data distribution",
-              "Symmetric, bell-shaped",
-              "Random, with no discernible pattern"
+              "(x + 8)² − 6",
+              "(x + 4)² − 6",
+              "(x + 4)² + 10",
+              "(x − 4)² − 6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In triangle ABC, a = 7, b = 9, angle C = 50°. Which equation correctly sets up the cosine law to find side c?",
+            "options": [
+              "c² = 49 + 81 + 2(7)(9)cos50°",
+              "c² = 49 − 81 − 2(7)(9)cos50°",
+              "c² = 49 + 81 − 2(7)(9)cos50°",
+              "c = 7 + 9 − 2(7)(9)cos50°"
             ],
             "answer": 2
           },
           {
-            "q": "What does i squared equal?",
+            "q": "Find the distance between points (−3, 2) and (5, −4).",
             "options": [
-              "Zero",
-              "One",
-              "Negative one",
-              "A value that cannot be determined"
+              "10",
+              "8",
+              "14",
+              "6"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Solving a 3D problem involving non-right triangles often requires applying ___.",
+            "q": "The midpoint of the segment joining (2, 6) and (−4, 0) is ___.",
             "options": [
-              "A method unrelated to triangle measurements",
-              "No trigonometric relationships at all",
-              "The sine law or cosine law",
-              "Only the Pythagorean theorem, with no other trigonometric law"
+              "(1, 3)",
+              "(−1, 6)",
+              "(3, −1)",
+              "(−1, 3)"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "The sum of two functions is found by ___.",
+            "q": "In triangle ABC, a = 10, angle A = 40°, b = 13. Use the sine law (sinA/a = sinB/b) to find sin B.",
             "options": [
-              "Multiplying their outputs together",
-              "A method unrelated to combining outputs",
-              "Adding their outputs together for a given input",
-              "Subtracting one function’s output from the other"
+              "sin B ≈ 1.20",
+              "sin B ≈ 0.84",
+              "sin B ≈ 0.49",
+              "sin B ≈ 8.36"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why is it valuable to review these connected mathematical concepts together at the end of a unit?",
-            "options": [
-              "Each concept must be understood with no connection to the others",
-              "These concepts have no connection to each other",
-              "It reinforces how these skills build on and relate to one another",
-              "Review is never useful at the end of a unit"
-            ],
-            "answer": 2
+            "answer": 1
           }
         ]
       },
@@ -13102,75 +13065,60 @@
       },
       {
         "subject": "Science",
-        "title": "Review: Physics, Biology, and Chemistry (Days 81-89)",
-        "summary": "Grade 8 Science strand review: students revisit epigenetics, superconductors, coral reefs, quantum physics, immunology, bioplastics, black holes, epidemiology, and battery chemistry.",
-        "resourceLabel": "YouTube: Review: Physics, Biology, and Chemistry (Days 81-89)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Physics%2C%20Biology%2C%20and%20Chemistry%20%28Days%2081-89%29%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=kOEDG3j1bjs",
-        "videoUrls": [
-          {
-            "label": "Black Holes",
-            "url": "https://www.youtube.com/watch?v=kOEDG3j1bjs"
-          },
-          {
-            "label": "Coral Reefs",
-            "url": "https://www.youtube.com/watch?v=ZiULxLLP32s"
-          },
-          {
-            "label": "Quantum Physics",
-            "url": "https://www.youtube.com/watch?v=Usu9xZfabPM"
-          }
-        ],
+        "title": "Review: Cells, Chemical Bonding, and Motion",
+        "summary": "A mixed review of key Grade 10/11 science ideas: cell structure, ionic and covalent bonding, and the basics of motion (speed, velocity, acceleration).",
+        "resourceLabel": "YouTube: Review: Cells, Chemical Bonding, and Motion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Chemical%20Bonding%2C%20and%20Motion%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What does epigenetics study?",
+            "q": "Which organelle is responsible for producing most of a cell's energy through cellular respiration?",
             "options": [
-              "How genes are physically removed from an organism",
-              "A concept unrelated to biology",
-              "How environmental factors influence whether genes are turned on or off",
-              "How DNA sequences are permanently rewritten"
+              "Nucleus",
+              "Ribosome",
+              "Golgi apparatus",
+              "Mitochondria"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "What builds a coral reef?",
+            "q": "An ionic bond forms when ___.",
             "options": [
-              "Colonies of tiny coral organisms",
-              "Large rocks that fall from cliffs",
-              "A concept unrelated to marine biology",
-              "Sand carried by ocean currents"
+              "Electrons are shared equally between two atoms",
+              "Electrons are transferred from one atom to another",
+              "Protons move from one atom to another",
+              "Neutrons are exchanged between atoms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A covalent bond is best described as ___.",
+            "options": [
+              "Atoms sharing one or more pairs of electrons",
+              "One atom completely giving up an electron to another",
+              "Atoms held together only by gravitational attraction",
+              "Atoms swapping protons with each other"
             ],
             "answer": 0
           },
           {
-            "q": "What does quantum physics study?",
+            "q": "A car travels 150 km in 3 hours. What is its average speed?",
             "options": [
-              "The behaviour of extremely large objects only",
-              "A concept unrelated to science",
-              "Only objects that are visible to the naked eye",
-              "The behaviour of extremely small particles"
+              "50 km/h",
+              "450 km/h",
+              "3 km/h",
+              "100 km/h"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "What is a black hole?",
+            "q": "An object accelerates when its ___ changes.",
             "options": [
-              "A concept unrelated to astronomy",
-              "An empty area of space with no gravity at all",
-              "A region in space with gravity so strong nothing can escape it",
-              "A bright star that never changes"
+              "Mass",
+              "Colour",
+              "Velocity",
+              "Temperature"
             ],
             "answer": 2
-          },
-          {
-            "q": "What does epidemiology study?",
-            "options": [
-              "How plants convert sunlight into food",
-              "A concept unrelated to science",
-              "How rocks form over millions of years",
-              "How diseases spread through populations"
-            ],
-            "answer": 3
           }
         ]
       },
@@ -13303,75 +13251,60 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Systems, Trigonometric Applications, and Advanced Algebra",
-        "summary": "Grade 8 Number and Algebra strands review: this lesson revisits solving systems by elimination, applying trigonometric ratios, factoring trinomials, the quadratic formula, and conditional probability from recent lessons.",
-        "resourceLabel": "YouTube: Review: Systems, Trigonometric Applications, and Advanced Algebra",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Systems%2C%20Trigonometric%20Applications%2C%20and%20Advanced%20Algebra%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=oKqtgz2eo-Y",
-        "videoUrls": [
-          {
-            "label": "Systems",
-            "url": "https://www.youtube.com/watch?v=oKqtgz2eo-Y"
-          },
-          {
-            "label": "Trigonometric Applications",
-            "url": "https://www.youtube.com/watch?v=qXxTu0fg4_8"
-          },
-          {
-            "label": "Advanced Algebra",
-            "url": "https://www.youtube.com/watch?v=grnP3mduZkM"
-          }
-        ],
+        "title": "Review: Sine Law and Factoring Trinomials",
+        "summary": "Students practice applying the sine law to find a missing side or angle and factor trinomials with leading coefficient one.",
+        "resourceLabel": "YouTube: Review: Sine Law and Factoring Trinomials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sine%20Law%20and%20Factoring%20Trinomials%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "Solve the system using elimination: x + y = 12 and x minus y = 4.",
+            "q": "In triangle ABC, angle A = 35°, angle B = 75°, and side a = 12. Find side b using the sine law.",
             "options": [
-              "x = 12, y = 4",
-              "x = 6, y = 6",
-              "x = 8, y = 4",
-              "x = 4, y = 8"
+              "≈7.1",
+              "≈11.6",
+              "≈20.2",
+              "≈14.0"
             ],
             "answer": 2
           },
           {
-            "q": "Factor: x squared plus 6x plus 8.",
+            "q": "Factor: x² + 7x + 12.",
             "options": [
-              "(x + 2)(x + 4)",
-              "(x + 6)(x + 2)",
-              "(x + 1)(x + 8)",
-              "(x + 3)(x + 5)"
+              "(x + 1)(x + 12)",
+              "(x + 2)(x + 6)",
+              "(x − 3)(x − 4)",
+              "(x + 3)(x + 4)"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "The quadratic formula is used to solve equations in the form ___.",
+            "q": "Factor: x² − 2x − 15.",
             "options": [
-              "a plus b equals c",
-              "ax squared plus bx plus c equals zero",
-              "ax plus b equals zero",
-              "a divided by b equals c"
+              "(x + 5)(x − 3)",
+              "(x − 5)(x + 3)",
+              "(x − 5)(x − 3)",
+              "(x + 15)(x − 1)"
             ],
             "answer": 1
           },
           {
-            "q": "Conditional probability refers to ___.",
+            "q": "In triangle DEF, side d = 8, side e = 10, angle D = 40°. Use the sine law to find angle E.",
             "options": [
-              "A concept unrelated to probability",
-              "The probability of an event occurring given that another event has already occurred",
-              "A probability that never changes based on other events",
-              "The probability of two completely unrelated events"
+              "≈31°",
+              "≈53.5°",
+              "≈66.5°",
+              "≈0.8°"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to review systems, trigonometry, and advanced algebra together?",
+            "q": "Factor 2x² + 10x completely, taking out the greatest common factor first.",
             "options": [
-              "Each topic must be learned in complete isolation",
-              "These related math concepts reinforce each other for stronger overall understanding",
-              "These topics have no connection to each other",
-              "Review is never useful in math"
+              "x(2x + 10)",
+              "2(x² + 5x)",
+              "2x(x + 5)",
+              "(2x + 5)(x)"
             ],
-            "answer": 1
+            "answer": 2
           }
         ]
       },
@@ -16598,64 +16531,62 @@
       },
       {
         "subject": "Math",
-        "title": "Data Management: Set Theory and Venn Diagrams in Probability",
-        "summary": "Grade 10 Data Management strand (extension): set theory describes relationships between groups of items, and a Venn diagram visually represents these relationships, helping calculate probabilities involving overlapping events.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=MCsC1N333jo",
+        "title": "Finding Medians and Altitudes of a Triangle",
+        "summary": "Students find the equation of a median (vertex to midpoint of the opposite side) and an altitude (perpendicular from a vertex) using coordinates.",
+        "resourceLabel": "YouTube: Finding Medians and Altitudes of a Triangle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Medians%20and%20Altitudes%20of%20a%20Triangle%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "A Venn diagram is used to visually represent ___.",
+            "q": "Triangle ABC has vertices A(0,0), B(6,0), C(2,4). Find the midpoint of side BC.",
             "options": [
-              "A single number with no connection to grouping",
-              "Relationships between sets, including overlapping groups",
-              "Only sets that share no elements in common",
-              "A concept unrelated to set theory"
+              "(8, 4)",
+              "(4, 2)",
+              "(2, 2)",
+              "(4, −2)"
             ],
             "answer": 1
           },
           {
-            "q": "The overlapping region of two circles in a Venn diagram represents ___.",
+            "q": "The median from vertex A(0,0) to the midpoint of BC, M(4,2), has what slope?",
             "options": [
-              "Elements common to both sets",
-              "A region unrelated to set theory",
-              "Elements found only in the first set",
-              "Elements found in neither set"
+              "2",
+              "−0.5",
+              "4",
+              "0.5"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "In set notation, the symbol ∪ generally represents the ___ of two sets.",
+            "q": "Side AB lies along the x-axis (slope 0). What slope must the altitude from vertex C be, so that it is perpendicular to AB?",
             "options": [
-              "Union",
-              "A concept unrelated to set operations",
-              "Difference",
-              "Intersection"
+              "0",
+              "1",
+              "−1",
+              "Undefined (vertical)"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Why is a Venn diagram a useful tool for calculating the probability of two overlapping events?",
+            "q": "Since AB lies on the x-axis and the altitude from C(2,4) is vertical (x = 2), where does this altitude meet AB?",
             "options": [
-              "This tool only applies to sets with no shared elements",
-              "Overlapping events can never be represented visually",
-              "It visually clarifies which outcomes belong to each event and which are shared, helping avoid double-counting",
-              "Venn diagrams have no connection to calculating probability"
+              "(0, 2)",
+              "(2, 4)",
+              "(2, 0)",
+              "(6, 0)"
             ],
             "answer": 2
           },
           {
-            "q": "Why is set theory useful for organizing real-world data, such as survey results about overlapping preferences?",
+            "q": "A median connects a vertex to ___, while an altitude connects a vertex to the opposite side by ___.",
             "options": [
-              "Set theory has no real-world data organization applications",
-              "This concept only applies to purely abstract mathematics with no real-world use",
-              "It provides a clear framework for identifying shared and distinct groups within a larger data set",
-              "Survey results can never involve any overlapping categories"
+              "The farthest point of the opposite side; a parallel line",
+              "The centre of the triangle; a diagonal line",
+              "The midpoint of the opposite side; a perpendicular line",
+              "Another vertex; the shortest path"
             ],
             "answer": 2
           }
-        ],
-        "topic": "Probability"
+        ]
       },
       {
         "subject": "Science",
@@ -17381,77 +17312,58 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Functions, Algebra, Probability, and Geometry",
-        "summary": "Grade 10 Math strand review: this lesson revisits inverse functions, radical functions, expected value, simplifying rational expressions, absolute value functions, trigonometric identities, set theory, linear programming, and congruence/similarity proofs covered across Days 61-69.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=TN4ybFiuV3k",
-        "videoUrls": [
-          {
-            "label": "Introduction to Inverse Functions",
-            "url": "https://www.youtube.com/watch?v=TN4ybFiuV3k"
-          },
-          {
-            "label": "Matrices: Introduction and Basic Operations",
-            "url": "https://www.youtube.com/watch?v=ZFVFtVbeerI"
-          },
-          {
-            "label": "Set Theory and Venn Diagrams in Probability",
-            "url": "https://www.youtube.com/watch?v=MCsC1N333jo"
-          },
-          {
-            "label": "Congruence and Similarity Proofs",
-            "url": "https://www.youtube.com/watch?v=mJ4Ms6SXEgg"
-          }
-        ],
+        "title": "Review: Inverse Functions and Absolute Value Functions",
+        "summary": "Students review how to find the inverse of a linear function and interpret the graph and behaviour of an absolute value function.",
+        "resourceLabel": "YouTube: Review: Inverse Functions and Absolute Value Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Inverse%20Functions%20and%20Absolute%20Value%20Functions%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "An inverse function reverses the effect of the original function by ___.",
+            "q": "Find the inverse of f(x) = 3x + 6.",
             "options": [
-              "A process unrelated to functions",
-              "Mapping every input to the same output value",
-              "Doubling every output value of the original function",
-              "Mapping each output value back to its corresponding input value"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Expected value is calculated by ___.",
-            "options": [
-              "Adding together only the possible outcomes, ignoring probability",
-              "A method unrelated to expected value",
-              "Summing each outcome multiplied by its probability",
-              "Multiplying the total number of outcomes by zero"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The graph of a basic absolute value function has a distinctive ___ shape.",
-            "options": [
-              "U",
-              "V",
-              "A shape unrelated to absolute value functions",
-              "S"
+              "y = (x + 6)/3",
+              "y = (x − 6)/3",
+              "y = 3x − 6",
+              "y = (x − 6) × 3"
             ],
             "answer": 1
           },
           {
-            "q": "In a linear programming problem, the maximum or minimum value typically occurs at a ___ of the feasible region.",
+            "q": "If f(2) = 9 for a function f, what is f⁻¹(9)?",
             "options": [
-              "Random interior point chosen without any calculation",
-              "A point unrelated to linear programming",
-              "Corner point",
-              "Location outside the feasible region entirely"
+              "9",
+              "1/9",
+              "−2",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The graph of y = |x − 3| has its vertex at ___.",
+            "options": [
+              "(−3, 0)",
+              "(0, 3)",
+              "(3, 0)",
+              "(0, −3)"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it valuable to review these connected mathematical concepts together?",
+            "q": "For y = |x| + 5, as x moves away from zero in either direction, y ___.",
             "options": [
-              "These concepts have no connection to each other",
-              "Each concept must be understood with no connection to the others",
-              "It reinforces how these skills build on and relate to one another",
-              "Review is never useful in math"
+              "Decreases",
+              "Stays the same",
+              "Becomes negative",
+              "Increases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which function is the inverse of g(x) = (x − 4)/2?",
+            "options": [
+              "y = 2x − 4",
+              "y = (x + 4)/2",
+              "y = 2x + 4",
+              "y = x/2 + 4"
             ],
             "answer": 2
           }
@@ -19985,79 +19897,60 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Discriminants, Variation, Finance, and Vectors",
-        "summary": "Grade 10 Math strand review: this lesson revisits the discriminant, direct and partial variation, compound interest, angle of elevation and depression, the three-dimensional Pythagorean theorem, laws of exponents, the dot product, polynomial zeros and factors, and dilations covered across Days 71-79.",
-        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
-        "videoUrl": "https://www.youtube.com/watch?v=6fU9ZgwbU74",
-        "videoUrls": [
-          {
-            "label": "Quadratic Relations: The Discriminant and Nature of Roots",
-            "url": "https://www.youtube.com/watch?v=6fU9ZgwbU74"
-          },
-          {
-            "label": "Algebra: Direct and Partial Variation",
-            "url": "https://www.youtube.com/watch?v=hNgLm4Q1IS8"
-          },
-          {
-            "label": "Financial Literacy: Compound Interest and Amortization",
-            "url": "https://www.youtube.com/watch?v=P182Abv3fOk"
-          },
-          {
-            "label": "Geometry: Angle of Elevation and Depression",
-            "url": "https://www.youtube.com/watch?v=uyKvSe6Ltgs"
-          }
-        ],
+        "title": "Perpendicular Slopes: Negative Reciprocals",
+        "summary": "Students find the slope of a line perpendicular to a given line by taking the negative reciprocal, and apply this to verify right angles in triangles.",
+        "resourceLabel": "YouTube: Perpendicular Slopes: Negative Reciprocals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Perpendicular%20Slopes%3A%20Negative%20Reciprocals%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
+            "q": "A line has slope 2/3. What is the slope of a line perpendicular to it?",
             "options": [
-              "An expression unrelated to the discriminant",
-              "b² + 4ac",
-              "b² - 4ac",
-              "-b divided by 2a"
+              "3/2",
+              "−2/3",
+              "2/3",
+              "−3/2"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Direct variation describes a relationship expressed in the form ___.",
+            "q": "Line AB has slope −4. What is the slope of a line perpendicular to AB?",
             "options": [
-              "y = k divided by x",
-              "y = kx",
-              "An expression unrelated to direct variation",
-              "y = kx + b"
+              "−1/4",
+              "1/4",
+              "4",
+              "−4"
             ],
             "answer": 1
           },
           {
-            "q": "Compound interest is calculated based on ___.",
+            "q": "Two lines have slopes 5 and −1/5. Are they perpendicular?",
             "options": [
-              "Both the initial principal and the accumulated interest from previous periods",
-              "Only the initial principal, with no connection to accumulated interest",
-              "A concept unrelated to interest calculations",
-              "A fixed amount that never changes over time"
+              "No, slopes must be equal for perpendicular lines",
+              "Yes, the product of the slopes equals −1",
+              "No, the product should equal 1, not −1",
+              "Cannot be determined without knowing the points"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Triangle PQR has side PQ with slope 3/4 and side QR with slope −4/3. What can you conclude about angle Q?",
+            "options": [
+              "Angle Q = 45°",
+              "Sides PQ and QR are parallel",
+              "Angle Q = 90°",
+              "Cannot be determined from slopes alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A line perpendicular to y = −2x + 7 has a slope of ___.",
+            "options": [
+              "1/2",
+              "−2",
+              "2",
+              "−1/2"
             ],
             "answer": 0
-          },
-          {
-            "q": "If the dot product of two non-zero vectors equals zero, the vectors are ___.",
-            "options": [
-              "Identical in both magnitude and direction",
-              "A relationship unrelated to the dot product",
-              "Parallel to each other",
-              "Perpendicular to each other"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it valuable to review these connected mathematical concepts together?",
-            "options": [
-              "Review is never useful in math",
-              "These concepts have no connection to each other",
-              "Each concept must be understood with no connection to the others",
-              "It reinforces how these skills build on and relate to one another"
-            ],
-            "answer": 3
           }
         ]
       },
@@ -22604,63 +22497,62 @@
       },
       {
         "subject": "Science",
-        "title": "Review: Chemistry, Biology, Physics, and Earth Science (Days 81-89)",
-        "summary": "Grade 10 Science strand review: students revisit Le Chatelier’s principle, photosynthesis stages, torque, ocean currents, precipitation reactions, the lymphatic system, the Doppler effect, aquifers, and catalysts.",
-        "resourceLabel": "TVO Learn: Grade 10 Science",
-        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "title": "Solutions and Solubility",
+        "summary": "Students learn what makes a solution, how solubility changes with temperature, and the difference between saturated and unsaturated solutions.",
+        "resourceLabel": "YouTube: Solutions and Solubility",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solutions%20and%20Solubility%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What does Le Chatelier’s principle describe?",
+            "q": "In a salt-water solution, sodium chloride is the ___ and water is the ___.",
             "options": [
-              "A concept unrelated to chemistry",
-              "How a system at equilibrium shifts to counteract a disturbance",
-              "How atoms are structured inside a nucleus",
-              "How light travels through a vacuum"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How many main stages does photosynthesis consist of?",
-            "options": [
-              "Two",
-              "Five",
-              "One",
-              "A concept unrelated to biology"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What does torque measure?",
-            "options": [
-              "The total mass of an object",
-              "The temperature of an object",
-              "A concept unrelated to physics",
-              "The turning effect of a force around a pivot point"
+              "Solvent; solute",
+              "Precipitate; solute",
+              "Catalyst; solvent",
+              "Solute; solvent"
             ],
             "answer": 3
           },
           {
-            "q": "What is formed in a precipitation reaction?",
+            "q": "As temperature increases, the solubility of most solid solutes in water ___.",
             "options": [
-              "Nothing at all is formed",
-              "An insoluble solid",
-              "A concept unrelated to precipitation reactions",
-              "Only a colourless gas"
+              "Decreases",
+              "Increases",
+              "Stays exactly the same",
+              "Becomes zero"
             ],
             "answer": 1
           },
           {
-            "q": "What does a catalyst do to a chemical reaction?",
+            "q": "A solution that contains the maximum amount of dissolved solute at a given temperature is called ___.",
             "options": [
-              "A concept unrelated to chemistry",
-              "Always slows it down significantly",
-              "Speeds it up",
-              "Stops the reaction from occurring at all"
+              "Unsaturated",
+              "Supercooled",
+              "Saturated",
+              "Diluted"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Unlike most solids, the solubility of gases in water ___ as temperature increases.",
+            "options": [
+              "Decreases",
+              "Increases",
+              "Stays exactly the same",
+              "Doubles every time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which action would most likely increase the rate at which sugar dissolves in water?",
+            "options": [
+              "Using a larger, whole sugar cube instead of grains",
+              "Cooling the water to near freezing",
+              "Stirring the mixture and using warmer water",
+              "Leaving the mixture completely still"
             ],
             "answer": 2
           }
-        ],
-        "videoUrl": "https://www.youtube.com/watch?v=JpoOfrPKgmM"
+        ]
       },
       {
         "subject": "History",
@@ -25513,63 +25405,62 @@
       },
       {
         "subject": "Math",
-        "title": "Data Management: Standard Deviation (An Introduction to Spread)",
-        "summary": "Grade 7 Math strand: standard deviation measures how spread out data values are around the mean, with a small standard deviation showing values clustered close to the mean and a large standard deviation showing values spread far apart.",
-        "resourceLabel": "YouTube: Data Management: Standard Deviation (An Introduction to Spread)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Standard%20Deviation%20%28An%20Introduction%20to%20Spread%29%20grade%2010%20educational",
+        "title": "Solving Multi-Step Right Triangle Problems",
+        "summary": "Students combine the Pythagorean theorem and trigonometric ratios to solve multi-step problems involving right triangles, such as finding a missing side and then an angle.",
+        "resourceLabel": "YouTube: Solving Multi-Step Right Triangle Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Multi-Step%20Right%20Triangle%20Problems%20grade%2010%20educational",
         "quiz": [
           {
-            "q": "What does standard deviation measure?",
+            "q": "A ladder leans against a wall, reaching 8 m up the wall with its base 6 m from the wall. How long is the ladder?",
             "options": [
-              "A concept unrelated to data management",
-              "The exact number of values collected in a survey",
-              "How spread out data values are around the mean",
-              "The single largest value in a data set"
+              "14 m",
+              "10 m",
+              "2 m",
+              "7 m"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the ladder above (opposite = 8 m, adjacent = 6 m), find the angle the ladder makes with the ground using tangent.",
+            "options": [
+              "36.9°",
+              "41.4°",
+              "53.1°",
+              "30°"
             ],
             "answer": 2
           },
           {
-            "q": "What does a small standard deviation suggest about a data set?",
+            "q": "A surveyor measures a 15 m horizontal distance to the base of a tower and a 40° angle of elevation to the top. What is the height of the tower?",
             "options": [
-              "The values are clustered close to the mean",
-              "A concept unrelated to standard deviation",
-              "The values are spread out extremely far from the mean",
-              "The data set contains no numerical values at all"
+              "12.6 m",
+              "17.9 m",
+              "9.6 m",
+              "11.5 m"
             ],
             "answer": 0
           },
           {
-            "q": "What does a large standard deviation suggest about a data set?",
+            "q": "In a right triangle, the hypotenuse is 13 and one leg is 5. Find the other leg using the Pythagorean theorem.",
             "options": [
-              "The values are always identical to one another",
-              "The data set has no mean of any kind",
-              "A concept unrelated to standard deviation",
-              "The values are spread out far from the mean"
+              "8",
+              "18",
+              "13.9",
+              "12"
             ],
             "answer": 3
           },
           {
-            "q": "Why is standard deviation useful when comparing two data sets with the same mean?",
+            "q": "A right triangle has legs 9 and 12. Find the hypotenuse, then find the angle opposite the leg of length 9.",
             "options": [
-              "A concept unrelated to data management",
-              "Standard deviation can never be used to compare two data sets",
-              "It reveals which data set has more variability even when the averages match",
-              "Standard deviation always produces identical results for every data set"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is standard deviation generally considered a more detailed measure of spread than range alone?",
-            "options": [
-              "This concept has no relevance to data management",
-              "Standard deviation ignores every value except the highest one",
-              "Range always provides more detail about a data sets spread than standard deviation",
-              "It takes every value in the data set into account rather than just the highest and lowest"
+              "53.1°",
+              "41.4°",
+              "30°",
+              "36.9°"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Statistics & Data"
+        ]
       },
       {
         "subject": "Science",

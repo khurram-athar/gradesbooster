@@ -3598,59 +3598,58 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Looking Back and Forward",
-        "summary": "Students reflect on the year's learning in calculus and its connections to the mathematical sciences.",
-        "resourceLabel": "Khan Academy: Calculus Bridge to University",
-        "resourceUrl": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
-        "videoUrl": "https://www.youtube.com/watch?v=tt2DGYOi3hc",
+        "title": "Derivatives and Rates of Change: A Year-End Review",
+        "summary": "Students review how the derivative represents an instantaneous rate of change and connect this idea across the different function types studied this year.",
+        "resourceLabel": "YouTube: Derivatives and Rates of Change: A Year-End Review",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20and%20Rates%20of%20Change%3A%20A%20Year-End%20Review%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "The Fundamental Theorem of Calculus is profound because ___.",
+            "q": "The derivative of a function at a point represents ___.",
             "options": [
-              "it is the most complex theorem in mathematics",
-              "it reveals that differentiation and integration",
-              "it makes integration easier to compute",
-              "only because it involves two operations"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Calculus was developed independently by ___.",
-            "options": [
-              "Descartes and Fermat",
-              "Gauss and Euler",
-              "Newton and Leibniz in the 17th century",
-              "Euclid and Archimedes"
+              "the average rate of change over an interval",
+              "the slope of the secant line through two points",
+              "the instantaneous rate of change at that point",
+              "the total change in the function's value"
             ],
             "answer": 2
           },
           {
-            "q": "The most important application of calculus in the 21st century is ___.",
+            "q": "If f(x) = x^3 - 3x, then f'(x) equals ___.",
             "options": [
-              "only in physics",
-              "only bridge design",
-              "arguably machine learning",
-              "only in engineering"
+              "x^2 - 3",
+              "3x^2",
+              "3x^2 - 3x",
+              "3x^2 - 3"
             ],
-            "answer": 2
+            "answer": 3
           },
           {
-            "q": "Differential equations (which you've begun) are ___.",
+            "q": "Which differentiation rule is needed to find the derivative of h(x) = sin(x)·e^x?",
             "options": [
-              "the language in which most of science is written",
-              "a minor extension of introductory calculus",
-              "only for engineers",
-              "less important than algebra"
+              "the product rule",
+              "the quotient rule",
+              "the chain rule alone",
+              "the power rule alone"
             ],
             "answer": 0
           },
           {
-            "q": "Completing Grade 12 Calculus means ___.",
+            "q": "For y = (2x + 1)^5, dy/dx equals ___.",
             "options": [
-              "you have mastered all of calculus",
-              "ready for university-level calculus",
-              "university calculus will be completely familiar",
-              "calculus is now closed to you"
+              "5(2x + 1)^4",
+              "10(2x + 1)^4",
+              "5(2x + 1)^4 · 2x",
+              "10(2x + 1)^5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A position function s(t) has velocity equal to zero at t = 3, and the velocity changes from positive to negative at that instant. At t = 3 the object ___.",
+            "options": [
+              "is speeding up",
+              "reaches a local maximum position",
+              "reaches a local minimum position",
+              "has constant velocity"
             ],
             "answer": 1
           }
@@ -8485,64 +8484,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Parametric Equations: Introduction and Applications",
-        "summary": "Grade 12 Advanced Functions strand: parametric equations define x and y coordinates separately in terms of a third variable, often called a parameter, allowing more complex curves and motion paths to be represented.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=630oo_Aqz2g",
+        "title": "Vectors: Solving Navigation Problems with Bearings",
+        "summary": "Students use vector components and bearings to find resultant velocities and displacements, such as combining a boat's speed with a river current or a plane's speed with wind.",
+        "resourceLabel": "YouTube: Vectors: Solving Navigation Problems with Bearings",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Solving%20Navigation%20Problems%20with%20Bearings%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Parametric equations define x and y coordinates separately in terms of a ___.",
+            "q": "A hiker walks 3 km east, then 4 km north. What is the magnitude of her total displacement?",
             "options": [
-              "Third variable, called a parameter",
-              "Single, fixed constant with no variation",
-              "Colour, with no connection to numerical values",
-              "Concept entirely unrelated to coordinates"
+              "7 km",
+              "5 km",
+              "12 km",
+              "1 km"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Parametric equations allow more complex ___ to be represented compared to a single function equation.",
+            "q": "A boat heads due north at 12 km/h across a river with a current flowing east at 5 km/h. What is the boat's resultant speed relative to the shore?",
             "options": [
-              "Curves and motion paths",
-              "Numbers with no connection to geometry",
-              "A concept unrelated to graphing",
-              "Only straight lines, with no other shapes possible"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might parametric equations be useful for representing the motion of a projectile over time?",
-            "options": [
-              "This concept only applies to purely abstract, theoretical mathematics",
-              "Projectile motion can never be represented using parametric equations",
-              "Parametric equations have no useful application for modelling motion",
-              "They can separately track horizontal and vertical position as functions of a shared time parameter"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why can a parametric representation describe curves, like a circle, that are not functions in the traditional x-y form?",
-            "options": [
-              "Parametric equations can never represent shapes like circles",
-              "This concept has no connection to representing non-function curves",
-              "The parameter allows multiple y-values to correspond to the same x-value, which a standard function cannot represent",
-              "A circle can always be represented using a standard, traditional function"
+              "17 km/h",
+              "7 km/h",
+              "13 km/h",
+              "60 km/h"
             ],
             "answer": 2
           },
           {
-            "q": "Why are parametric equations useful in computer animation for defining the path an object follows?",
+            "q": "A vector has components (−6, 8). What is its direction angle, measured counterclockwise from the positive x-axis?",
             "options": [
-              "This concept has no practical use outside of pure mathematics",
-              "Animation paths can never be defined using mathematical equations",
-              "Parametric equations have no application in computer animation",
-              "They allow precise control over both the position and timing of an object’s movement along a path"
+              "53°",
+              "233°",
+              "127°",
+              "−53°"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A plane's true velocity is 300 km/h on a bearing of N30°E. Wind is blowing from the north at 40 km/h (toward the south). Which vector sum correctly models the plane's resultant ground velocity?",
+            "options": [
+              "Plane's velocity vector minus the wind's speed only, ignoring direction",
+              "Plane's velocity vector plus a wind vector directed north (opposite to its actual direction)",
+              "The wind's velocity vector alone, since wind dominates ground speed",
+              "Plane's velocity vector plus the wind's velocity vector, with the wind vector directed south"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Two forces act on an object: 10 N east and 10 N north. What is the magnitude of the resultant force, to one decimal place?",
+            "options": [
+              "20.0 N",
+              "0.0 N",
+              "10.0 N",
+              "14.1 N"
             ],
             "answer": 3
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Calculus",
@@ -8735,61 +8732,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Introduction to Polar Coordinates",
-        "summary": "Grade 12 Advanced Functions strand: polar coordinates locate a point using a distance from the origin and an angle from a reference direction, offering an alternative to the standard x-y coordinate system.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=aSdaT62ndYE",
+        "title": "Vectors: Resolving Vectors into Components",
+        "summary": "This lesson covers how to break a vector into horizontal and vertical (x and y) components using its magnitude and direction angle, and how to work backward from components to find magnitude and direction.",
+        "resourceLabel": "YouTube: Vectors: Resolving Vectors into Components",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%3A%20Resolving%20Vectors%20into%20Components%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Polar coordinates locate a point using ___.",
+            "q": "A vector has magnitude 10 and direction angle 30° from the positive x-axis. What is its horizontal (x) component, to one decimal place?",
             "options": [
-              "A single number with no other defining information",
-              "A distance from the origin and an angle from a reference direction",
-              "A concept entirely unrelated to location or position",
-              "Only two perpendicular distances, with no angle involved"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Polar coordinates offer an alternative to the standard ___ coordinate system.",
-            "options": [
-              "Binary",
-              "Purely numerical, with no coordinate system involved at all",
-              "A system entirely unrelated to graphing points",
-              "x-y"
+              "5.0",
+              "10.0",
+              "6.0",
+              "8.7"
             ],
             "answer": 3
           },
           {
-            "q": "Why might polar coordinates be more convenient than x-y coordinates for describing certain circular or spiral shapes?",
+            "q": "For the same vector (magnitude 10, angle 30°), what is its vertical (y) component, to one decimal place?",
             "options": [
-              "These shapes can often be expressed more simply using distance and angle rather than separate horizontal and vertical values",
-              "This coordinate system has no advantage for describing any type of shape",
-              "Polar coordinates are always less convenient for any type of curved shape",
-              "Circular and spiral shapes can never be represented using polar coordinates"
+              "8.7",
+              "5.0",
+              "3.0",
+              "10.0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A vector has components (5, 12). What is its magnitude?",
+            "options": [
+              "13",
+              "17",
+              "7",
+              "60"
             ],
             "answer": 0
           },
           {
-            "q": "In polar coordinates, the angle is typically measured from ___.",
+            "q": "A displacement vector points 5 units left and 5 units up. Which angle correctly describes its direction, measured counterclockwise from the positive x-axis?",
             "options": [
-              "A completely random, undefined direction each time",
-              "Only the vertical axis, with no other reference points used",
-              "A fixed reference direction, often the positive x-axis",
-              "A concept unrelated to angles or direction"
+              "45° (Quadrant I)",
+              "135° (Quadrant II)",
+              "225° (Quadrant III)",
+              "315° (Quadrant IV)"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why might polar coordinates be useful in fields like navigation or radar systems?",
+            "q": "A vector has a horizontal component of 0 and a vertical component of 7. What is true about its direction?",
             "options": [
-              "Polar coordinates have no practical application in navigation or radar",
-              "This coordinate system only applies to purely theoretical mathematics",
-              "These systems often naturally involve measuring direction and distance from a central reference point",
-              "Navigation systems never involve any measurement of angle or distance"
+              "It points straight down, at 270°",
+              "Its direction cannot be determined without more information",
+              "It points horizontally to the right, at 0°",
+              "It points straight up, at 90° from the positive x-axis"
             ],
-            "answer": 2
+            "answer": 3
           }
         ]
       },
@@ -10315,61 +10311,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Curvature and the Osculating Circle",
-        "summary": "Grade 12 Calculus strand: curvature measures how sharply a curve bends at a given point, and the osculating circle is the circle that best approximates the curve’s shape at that specific point.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=DbdsCh0YSrM",
+        "title": "Curve Sketching: Using Sign Charts to Determine Concavity",
+        "summary": "Students build a sign chart for the second derivative to determine where a function is concave up or concave down and to locate its points of inflection.",
+        "resourceLabel": "YouTube: Curve Sketching: Using Sign Charts to Determine Concavity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Curve%20Sketching%3A%20Using%20Sign%20Charts%20to%20Determine%20Concavity%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "Curvature measures how sharply a curve ___ at a given point.",
+            "q": "On an interval where f''(x) > 0, the graph of f(x) is ___.",
             "options": [
-              "Remains perfectly straight",
-              "A concept unrelated to a curve’s shape",
-              "Bends",
-              "Changes colour"
+              "concave down",
+              "increasing only",
+              "concave up",
+              "decreasing only"
             ],
             "answer": 2
           },
           {
-            "q": "The osculating circle is the circle that best approximates a curve’s shape at ___.",
+            "q": "A sign chart for f''(x) is built using ___.",
             "options": [
-              "Every point along the entire curve simultaneously",
-              "No particular location at all",
-              "A specific point",
-              "A concept unrelated to the curve’s geometry"
+              "the zeros and undefined points of f''(x)",
+              "the y-intercept of f(x)",
+              "the domain restrictions of f'(x) only",
+              "the critical numbers found by setting f'(x) = 0 instead"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might a curve with a very small radius of osculating circle be described as having high curvature?",
+            "q": "For f(x) = x^3 - 6x^2, f''(x) = 6x - 12. At x = 1, the graph is ___.",
             "options": [
-              "A smaller radius always indicates that a curve is barely bending at all",
-              "The size of the osculating circle has no connection to how sharply a curve bends",
-              "A tighter, smaller circle indicates the curve is bending more sharply at that point",
-              "This relationship has no basis in the mathematical definition of curvature"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is curvature useful for analyzing the safety of a road’s design, such as at a sharp turn?",
-            "options": [
-              "This concept only applies to purely abstract mathematics with no engineering application",
-              "Road design never requires any mathematical analysis of curve sharpness",
-              "Curvature has no practical application in road design",
-              "Higher curvature at a turn generally requires lower speeds for a vehicle to safely navigate it"
+              "concave up, since f''(1) = 6 is positive",
+              "concave up, since f''(1) = -6 is positive",
+              "concave down, since f''(1) = 0",
+              "concave down, since f''(1) = -6 is negative"
             ],
             "answer": 3
           },
           {
-            "q": "Why does a straight line have zero curvature?",
+            "q": "Using the sign chart for f''(x) = 6x - 12, an inflection point occurs at ___.",
             "options": [
-              "A straight line does not bend at all, so there is no rate of change in its direction",
-              "Straight lines always have the highest possible curvature value",
-              "This concept has no connection to how curvature is mathematically defined",
-              "Curvature has no defined value for a straight line"
+              "x = 0, since f'(x) equals zero there",
+              "x = 2, since f''(x) changes from negative to positive there",
+              "x = -2, since f''(x) changes sign there",
+              "x = 2, since f''(x) is always positive there"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Why can't a sign chart alone confirm a true inflection point without checking that concavity actually switches on either side?",
+            "options": [
+              "because sign charts only work for polynomial functions",
+              "because f''(x) must always be positive at an inflection point",
+              "because f''(x) could equal zero or be undefined without concavity actually changing on either side",
+              "because inflection points can only occur at x = 0"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -10749,64 +10744,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Sequences: Limits and Convergence",
-        "summary": "Grade 12 Advanced Functions strand: the limit of a sequence describes the value its terms approach as the sequence continues indefinitely, and a sequence is said to converge if this limit exists.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=htLvkB7C0UM",
+        "title": "Geometric Series: Sum to Infinity",
+        "summary": "This lesson covers when an infinite geometric series has a finite sum (when |r| < 1) and how to calculate that sum using the formula S = a / (1 − r).",
+        "resourceLabel": "YouTube: Geometric Series: Sum to Infinity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometric%20Series%3A%20Sum%20to%20Infinity%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "The limit of a sequence describes the value its terms approach as the sequence ___.",
+            "q": "For an infinite geometric series to have a finite sum, the common ratio r must satisfy:",
             "options": [
-              "A concept unrelated to how a sequence behaves",
-              "Stops after exactly two terms",
-              "Remains completely undefined at every term",
-              "Continues indefinitely"
+              "r = 1",
+              "|r| < 1",
+              "|r| > 1",
+              "r = 0 only"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "A sequence is said to converge if ___.",
+            "q": "Find the sum to infinity of the series 8 + 4 + 2 + 1 + ... (a = 8, r = 1/2).",
             "options": [
-              "Its limit exists",
-              "Its terms become increasingly unpredictable with no discernible pattern",
-              "A condition entirely unrelated to limits",
-              "It has no defined terms whatsoever"
+              "16",
+              "8",
+              "4",
+              "32"
             ],
             "answer": 0
           },
           {
-            "q": "If a sequence does not approach any single finite value as it continues, it is said to ___.",
+            "q": "A geometric series has a = 5 and r = 3. What can be said about its sum to infinity?",
             "options": [
-              "Converge",
-              "Diverge",
-              "Remain perfectly constant at every term",
-              "Have no defined mathematical behaviour at all"
+              "The sum is 5/(1−3) = −2.5",
+              "The series diverges; it has no finite sum since |r| > 1",
+              "The sum to infinity is 15",
+              "The sum to infinity is 5"
             ],
             "answer": 1
           },
           {
-            "q": "Why might the sequence 1, 1/2, 1/4, 1/8... be considered a convergent sequence?",
+            "q": "The sum to infinity of a geometric series is 20, and the first term is 5. What is the common ratio r?",
             "options": [
-              "A sequence whose terms decrease can never be considered convergent",
-              "This sequence has no defined limit under any circumstances",
-              "This concept has no connection to how sequence limits are determined",
-              "Its terms approach zero as the sequence continues indefinitely"
+              "0.25",
+              "4",
+              "0.75",
+              "1.25"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is the concept of sequence convergence foundational to understanding infinite series later in calculus?",
+            "q": "Which situation can be modelled using a convergent infinite geometric series?",
             "options": [
-              "Infinite series can always be evaluated with no consideration of sequence behaviour",
-              "Whether the individual terms of a sequence converge is closely connected to whether a related series will also converge",
-              "This concept has no relevance to more advanced calculus topics",
-              "Sequence convergence has no connection to the study of infinite series"
+              "The total distance travelled by a ball bouncing to a fixed fraction of its previous height each time, summed over infinite bounces",
+              "The total cost of an item that increases in price by a fixed amount every year, forever",
+              "The population of a city growing by a fixed number of people every year indefinitely",
+              "The distance a car travels moving at a constant, unchanging speed forever"
             ],
-            "answer": 1
+            "answer": 0
           }
-        ],
-        "topic": "Sequences & Series"
+        ]
       },
       {
         "subject": "Calculus",
@@ -20401,125 +20394,121 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Functions: Polynomial Interpolation — Lagrange’s Method",
-        "summary": "Grade 12 Advanced Functions strand: Lagrange’s method constructs a polynomial that passes exactly through a given set of data points, providing a way to estimate values between known data.",
-        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=bzp_q7NDdd4",
+        "title": "Polynomial Functions: Using Finite Differences to Find Degree",
+        "summary": "This lesson shows how to build a table of finite differences from equally spaced x-values, and how the level at which the differences become constant reveals the degree of the polynomial modelling the data.",
+        "resourceLabel": "YouTube: Polynomial Functions: Using Finite Differences to Find Degree",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Using%20Finite%20Differences%20to%20Find%20Degree%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does Lagrange’s method construct?",
+            "q": "For a table of values with equally spaced x-values, if the second differences are constant and nonzero, the data is modelled by a polynomial of degree:",
             "options": [
-              "A random polynomial unrelated to any specific data",
-              "A single straight line with no curvature",
-              "A concept unrelated to functions",
-              "A polynomial that passes exactly through a given set of data points"
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A data set has constant third differences (and the second differences are not constant). What degree polynomial best models this data?",
+            "options": [
+              "2",
+              "4",
+              "1",
+              "3"
             ],
             "answer": 3
           },
           {
-            "q": "Can polynomial interpolation help estimate values between known data points?",
+            "q": "Given the table x = 1, 2, 3, 4, 5 with y = 2, 5, 10, 17, 26, what is the degree of the polynomial that models this data?",
             "options": [
-              "A concept unrelated to polynomial interpolation",
-              "Yes",
-              "No, interpolation never estimates any value between known points",
-              "Estimating values is never possible using a polynomial"
+              "4",
+              "2",
+              "1",
+              "3"
             ],
             "answer": 1
           },
           {
-            "q": "Does Lagrange’s method require the constructed polynomial to pass exactly through the given points?",
+            "q": "If the first differences of a data set are not constant but are each a constant multiple of the previous one, what type of function likely models the data instead of a polynomial?",
             "options": [
-              "No, the polynomial only needs to pass near the given points",
-              "Yes",
-              "A concept unrelated to Lagrange’s method",
-              "Passing through the given points is never a requirement of this method"
+              "A linear function",
+              "A quadratic function",
+              "An exponential function",
+              "A logarithmic function"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why might an engineer use polynomial interpolation to estimate a value between two measured data points?",
+            "q": "Why must x-values be equally spaced before using finite differences to determine polynomial degree?",
             "options": [
-              "It provides a mathematical way to approximate unknown values based on a smooth curve fitting known data",
-              "This concept has no connection to functions",
-              "Polynomial interpolation never provides any useful estimate of unknown values",
-              "Engineers never need to estimate values between known measurements"
+              "The finite-difference method assumes a constant step size between x-values, so unequal spacing makes the differences meaningless for identifying degree",
+              "Equally spaced values make the y-values larger, which the method requires",
+              "Finite differences only work when x-values are negative",
+              "Equal spacing makes the y-values grow at a constant rate regardless of the polynomial's degree"
             ],
             "answer": 0
-          },
-          {
-            "q": "Why might using too many data points in Lagrange interpolation sometimes lead to an unexpectedly oscillating polynomial?",
-            "options": [
-              "This concept has no relevance to functions",
-              "A higher-degree polynomial fitted to many points can swing widely between the given points, a known interpolation issue",
-              "Polynomial interpolation is never affected by the number of data points used",
-              "Adding more data points always produces a smoother, more accurate polynomial with no downsides"
-            ],
-            "answer": 1
           }
-        ],
-        "topic": "Polynomials & Factoring"
+        ]
       },
       {
         "subject": "Calculus",
-        "title": "Calculus: Numerical Differentiation Methods",
-        "summary": "Grade 12 Calculus strand: numerical differentiation estimates a function’s derivative using values of the function at nearby points, useful when an exact algebraic derivative is difficult or impossible to find.",
-        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
-        "videoUrl": "https://www.youtube.com/watch?v=pitoyz9Il9c",
+        "title": "Derivatives: Estimating a Derivative from a Table of Values Using Central Differences",
+        "summary": "Students use the central difference method to estimate a function's derivative from a table of values and compare it with forward and backward difference estimates.",
+        "resourceLabel": "YouTube: Derivatives: Estimating a Derivative from a Table of Values Using Central Differences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%3A%20Estimating%20a%20Derivative%20from%20a%20Table%20of%20Values%20Using%20Central%20Differences%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What does numerical differentiation estimate?",
+            "q": "The central difference formula for estimating f'(a) using a table is ___.",
             "options": [
-              "The exact area under a curve only",
-              "A function’s derivative using values at nearby points",
-              "A concept unrelated to calculus",
-              "A function’s value at a single fixed point with no estimation"
+              "(f(a + h) - f(a)) / h",
+              "(f(a) - f(a - h)) / h",
+              "(f(a + h) + f(a - h)) / (2h)",
+              "(f(a + h) - f(a - h)) / (2h)"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "Is numerical differentiation useful when an exact algebraic derivative is difficult to find?",
+            "q": "Given f(2) = 9, f(3) = 15, and f(4) = 23, estimate f'(3) using the central difference method.",
             "options": [
-              "A concept unrelated to numerical differentiation",
-              "Yes",
-              "No, numerical differentiation is never useful in this situation",
-              "An exact derivative can always be found for every function with ease"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does numerical differentiation rely on values of a function at points near the point of interest?",
-            "options": [
-              "Yes",
-              "Nearby values are never relevant to estimating a derivative",
-              "No, it never uses any nearby function values",
-              "A concept unrelated to numerical differentiation"
+              "7",
+              "6 (using only f(3) and f(2))",
+              "8 (using only f(4) and f(3))",
+              "14"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a scientist use numerical differentiation when working with experimental data instead of a known algebraic function?",
+            "q": "Compared to the forward difference (f(a + h) - f(a)) / h, the central difference estimate is generally ___.",
             "options": [
-              "Experimental data often comes as discrete points rather than a formula, making numerical methods necessary to estimate rates of change",
-              "This concept has no connection to calculus",
-              "Numerical differentiation is never applied to real experimental data",
-              "Experimental data can always be converted instantly into an exact algebraic function"
+              "less accurate because it uses more data points",
+              "identical in every case",
+              "more accurate because errors from curvature partly cancel out",
+              "impossible to compute from a table"
             ],
-            "answer": 0
+            "answer": 2
           },
           {
-            "q": "Why might using a smaller interval between data points generally improve the accuracy of a numerical derivative estimate?",
+            "q": "If the table's x-values are spaced h = 0.5 apart instead of h = 1, the central difference estimate typically becomes ___.",
             "options": [
-              "Smaller intervals always make a numerical derivative estimate less accurate",
-              "A smaller interval more closely approximates the true instantaneous rate of change at a given point",
-              "This concept has no relevance to calculus",
-              "The size of the interval used never affects the accuracy of a numerical estimate"
+              "less accurate, since a smaller spacing always increases error",
+              "more accurate, since a smaller spacing better approximates the instantaneous rate of change",
+              "exactly the same, since spacing does not affect the estimate",
+              "undefined, since central difference requires integer spacing"
             ],
             "answer": 1
+          },
+          {
+            "q": "Which situation would make the central difference method impossible to apply at x = a?",
+            "options": [
+              "the function values are not evenly spaced",
+              "the function is increasing throughout the table",
+              "the table has more than five rows",
+              "a is the largest or smallest x-value in the table, so there is no value on one side"
+            ],
+            "answer": 3
           }
-        ],
-        "topic": "Calculus: Derivatives"
+        ]
       },
       {
         "subject": "Physics",
@@ -28393,63 +28382,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Calculus",
-        "title": "Analytic Geometry: Introduction to Conic Sections (Ellipses and Hyperbolas)",
-        "summary": "Grade 10 Math strand: conic sections are curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas, each with a distinct equation and shape.",
-        "resourceLabel": "YouTube: Analytic Geometry: Introduction to Conic Sections (Ellipses and Hyperbolas)",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Introduction%20to%20Conic%20Sections%20%28Ellipses%20and%20Hyperbolas%29%20grade%2012%20educational",
+        "title": "Vectors in Three Dimensions: Magnitude and Direction Practice",
+        "summary": "Students compute the magnitude of a 3D vector, relate direction cosines to direction angles, and add and subtract vectors given in component form.",
+        "resourceLabel": "YouTube: Vectors in Three Dimensions: Magnitude and Direction Practice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vectors%20in%20Three%20Dimensions%3A%20Magnitude%20and%20Direction%20Practice%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What are conic sections?",
+            "q": "For vector v = (2, -3, 6), the magnitude |v| equals ___.",
             "options": [
-              "Only straight lines drawn on a graph",
-              "A type of algebraic expression with no geometric meaning",
-              "A concept unrelated to geometry",
-              "Curves formed by slicing a cone, including circles, ellipses, parabolas, and hyperbolas"
+              "sqrt(40)",
+              "5",
+              "7",
+              "49"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Direction cosines relate to direction angles by cos(α) = ___, where α is the angle between v and the positive x-axis.",
+            "options": [
+              "|v| / vx",
+              "vx · |v|",
+              "vx + |v|",
+              "vx / |v|"
             ],
             "answer": 3
           },
           {
-            "q": "What shape does an ellipse resemble?",
+            "q": "Given u = (1, 4, -2) and w = (3, -1, 5), u + w equals ___.",
             "options": [
-              "A stretched or squashed circle",
-              "A concept unrelated to conic sections",
-              "A single straight line",
-              "Two separate curves opening away from each other"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Does a hyperbola consist of two separate curves opening in opposite directions?",
-            "options": [
-              "No, a hyperbola is always a single closed curve",
-              "Yes",
-              "A hyperbola is identical in shape to a circle",
-              "A concept unrelated to hyperbolas"
+              "(-2, 5, -7)",
+              "(4, 3, 3)",
+              "(4, 3, 7)",
+              "(4, 5, 3)"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to recognize which conic section an equation represents before graphing it?",
+            "q": "The zero vector in three dimensions has magnitude ___ and ___.",
             "options": [
-              "This concept has no connection to math",
-              "Identifying the conic type reveals its general shape and key features, making an accurate sketch much easier",
-              "All conic sections are graphed using the exact same method regardless of type",
-              "The type of conic section never affects how an equation should be graphed"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why do engineers and astronomers find ellipses and hyperbolas useful for modelling real-world phenomena, such as planetary orbits?",
-            "options": [
-              "These curves accurately describe many natural paths and shapes, including the elliptical orbits of planets",
-              "Ellipses and hyperbolas have no real-world applications outside of pure mathematics",
-              "This concept has no relevance to geometry",
-              "Planetary orbits are always perfectly circular, never elliptical"
+              "0; no defined direction",
+              "1; no defined direction",
+              "0; a direction along the x-axis",
+              "1; a direction along the z-axis"
             ],
             "answer": 0
+          },
+          {
+            "q": "If vector p = (a, b, c) is scaled by a negative scalar k, the resulting vector kp ___.",
+            "options": [
+              "keeps the same direction but changes magnitude",
+              "always becomes the zero vector",
+              "points in the opposite direction and its magnitude is scaled by |k|",
+              "points in the opposite direction but keeps the same magnitude regardless of k"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Analytic & Coordinate Geometry"
+        ]
       },
       {
         "subject": "Physics",
@@ -37498,60 +37486,60 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "Chaos Theory and Sensitive Dependence on Initial Conditions",
-        "summary": "Grade 12 Physics strand: chaos theory studies deterministic systems whose long-term behaviour is extremely sensitive to tiny differences in initial conditions, so that two nearly identical starting states can diverge into wildly different outcomes, popularly illustrated by the butterfly effect.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Wave Interference: Constructive and Destructive Superposition",
+        "summary": "Students explore how two overlapping waves combine according to the principle of superposition, producing constructive interference where crests align and destructive interference where a crest meets a trough.",
+        "resourceLabel": "YouTube: Wave Interference: Constructive and Destructive Superposition",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wave%20Interference%3A%20Constructive%20and%20Destructive%20Superposition%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What defining property do chaotic systems display with respect to their starting conditions?",
+            "q": "According to the principle of superposition, when two waves overlap, the resulting displacement at a point is ___.",
             "options": [
-              "Extreme sensitivity, so tiny differences in initial conditions lead to wildly different outcomes",
-              "A guarantee that outcomes never change over time",
-              "Identical long-term behaviour regardless of starting point",
-              "Complete independence from their initial conditions"
+              "always equal to the larger of the two individual displacements",
+              "always zero regardless of the individual waves",
+              "the algebraic sum of the individual wave displacements at that point",
+              "determined only by the wave that arrives first"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Constructive interference occurs when two waves meet ___.",
+            "options": [
+              "in phase, crest meeting crest",
+              "exactly out of phase, crest meeting trough",
+              "with different frequencies only",
+              "travelling in the same direction only"
             ],
             "answer": 0
           },
           {
-            "q": "What popular name is often used for sensitive dependence on initial conditions?",
+            "q": "Two identical waves, each with amplitude 3 cm, meet perfectly out of phase. The resulting amplitude at that point is ___.",
             "options": [
-              "The butterfly effect",
-              "The photoelectric effect",
-              "The domino effect",
-              "The observer effect"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Are chaotic systems considered random, given their unpredictable long-term behaviour?",
-            "options": [
-              "No, they are deterministic; unpredictability arises from sensitivity, not randomness",
-              "Yes, chaotic systems are governed entirely by random chance",
-              "Chaos theory only applies to systems with no rules whatsoever",
-              "Chaotic systems have no governing equations at all"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why does sensitive dependence make long-term prediction difficult for a chaotic system, even though its equations are known exactly?",
-            "options": [
-              "Long-term prediction is always easy for chaotic systems",
-              "Chaotic systems have no measurable initial state at all",
-              "The equations governing the system are always unknown",
-              "Any tiny measurement error in the initial state grows rapidly, making distant forecasts unreliable"
+              "6 cm",
+              "3 cm",
+              "1.5 cm",
+              "0 cm"
             ],
             "answer": 3
           },
           {
-            "q": "Which real-world system is commonly cited as an example where chaos theory limits long-range predictability?",
+            "q": "In a double-slit experiment, a bright fringe appears where the path difference between the two waves is ___.",
             "options": [
-              "A single stationary object at rest",
-              "A perfectly isolated, unchanging vacuum",
-              "Weather and atmospheric systems",
-              "An object with no interacting forces of any kind"
+              "exactly half a wavelength",
+              "a whole number of wavelengths",
+              "one quarter of a wavelength",
+              "any non-zero value"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "If two waves of amplitude 4 cm and 3 cm meet completely in phase, the resulting amplitude is ___.",
+            "options": [
+              "1 cm",
+              "12 cm",
+              "5 cm",
+              "7 cm"
+            ],
+            "answer": 3
           }
         ]
       }
@@ -40674,63 +40662,62 @@ const curriculum: DayContent[] = [
       },
       {
         "subject": "Physics",
-        "title": "LC Circuits and Electromagnetic Oscillations",
-        "summary": "Grade 12 Physics strand: an LC circuit consists of an inductor and a capacitor connected together, exchanging energy back and forth between the capacitors electric field and the inductors magnetic field, producing a natural oscillation whose frequency depends on the values of the inductance and capacitance.",
-        "resourceLabel": "TVO Learn: Grade 12 Physics",
-        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "title": "Electromagnetic Induction: Faraday's Law and Induced EMF",
+        "summary": "Students learn that a changing magnetic flux through a loop induces an EMF, as described by Faraday's law, and that Lenz's law gives the direction of the induced current.",
+        "resourceLabel": "YouTube: Electromagnetic Induction: Faraday's Law and Induced EMF",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Electromagnetic%20Induction%3A%20Faraday%27s%20Law%20and%20Induced%20EMF%20grade%2012%20educational",
         "quiz": [
           {
-            "q": "What two components make up a basic LC circuit?",
+            "q": "According to Faraday's law, an EMF is induced in a loop whenever ___.",
             "options": [
-              "A battery and a light bulb only",
-              "Two capacitors with no inductor at all",
-              "Only two resistors with no other components",
-              "An inductor and a capacitor"
+              "a magnetic field is present, whether changing or not",
+              "the loop is stationary in a uniform field",
+              "the loop has a large resistance",
+              "the magnetic flux through the loop is changing"
             ],
             "answer": 3
           },
           {
-            "q": "What kind of energy exchange occurs continuously in an oscillating LC circuit?",
+            "q": "Lenz's law states that the direction of an induced current is such that it ___.",
             "options": [
-              "Energy is transferred only to an external light source",
-              "Energy repeatedly transfers between the capacitors electric field and the inductors magnetic field",
-              "No energy exchange of any kind occurs in this circuit",
-              "All electrical energy is instantly converted into heat and lost"
+              "opposes the change in magnetic flux that produced it",
+              "always flows clockwise",
+              "always increases the change in flux that caused it",
+              "has no definite direction"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "What determines the natural oscillation frequency of an LC circuit?",
+            "q": "A bar magnet is pushed into a coil, increasing the flux through it. By Lenz's law, the induced current creates a magnetic field inside the coil that ___.",
             "options": [
-              "The ambient room temperature exclusively",
-              "The physical size of the circuit board alone",
-              "The values of the inductance and the capacitance",
-              "The colour of the wires used in the circuit"
+              "points in the same direction as the magnet's field, reinforcing it",
+              "always points toward the magnet, attracting it further in",
+              "points opposite to the magnet's field, opposing the increase",
+              "is exactly zero, since the coil resists all change"
             ],
             "answer": 2
           },
           {
-            "q": "How does an LC circuit compare to the RC circuits studied in an earlier batch?",
+            "q": "Doubling the speed at which a magnet is pushed through a coil will ___ the induced EMF, assuming the flux change is proportional to speed.",
             "options": [
-              "LC circuits contain no capacitor of any kind, unlike RC circuits",
-              "An RC circuit oscillates indefinitely, exactly like an LC circuit",
-              "The two circuit types behave in an identical way in every respect",
-              "An RC circuit charges and discharges exponentially toward equilibrium, while an LC circuit continuously oscillates by exchanging energy between its two fields"
+              "leave unchanged",
+              "double",
+              "quarter",
+              "halve"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why is the LC circuits natural oscillation considered a foundational concept for understanding radio-frequency electronics?",
+            "q": "A coil is held stationary near a magnet that is also stationary. The induced EMF in the coil is ___.",
             "options": [
-              "LC circuits can only ever produce a single, unchanging direct current",
-              "Oscillation in an LC circuit has no connection to frequency of any kind",
-              "LC circuits have no application to radio or communication technology",
-              "Its ability to oscillate at a specific frequency underlies the tuning and signal-generating behaviour used in many radio and communication circuits"
+              "zero, since the flux through the coil is not changing",
+              "at its maximum possible value",
+              "proportional to the magnet's strength alone",
+              "negative, opposing the magnet's field"
             ],
-            "answer": 3
+            "answer": 0
           }
-        ],
-        "topic": "Electricity & Magnetism"
+        ]
       }
     ]
   },
@@ -53926,6 +53913,7 @@ const curriculum: DayContent[] = [
     ]
   }
 ]
+
 ;
 
 export default curriculum;

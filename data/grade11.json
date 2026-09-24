@@ -5050,64 +5050,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Advanced Functions Preview: Rational Functions and Partial Fractions",
-        "summary": "Students explore more complex rational functions, including partial fraction concepts and the connection to asymptotic behaviour.",
-        "resourceLabel": "YouTube: Advanced Functions Preview: Rational Functions and Partial Fractions",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Advanced%20Functions%20Preview%3A%20Rational%20Functions%20and%20Partial%20Fractions%20grade%2011%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=QKkdYW77xNI",
+        "title": "Reciprocal Functions: Vertical and Horizontal Asymptotes",
+        "summary": "Students graph the reciprocal of linear and quadratic functions, identifying vertical asymptotes from the zeros of the denominator and the horizontal asymptote from the function's end behaviour.",
+        "resourceLabel": "YouTube: Reciprocal Functions: Vertical and Horizontal Asymptotes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reciprocal%20Functions%3A%20Vertical%20and%20Horizontal%20Asymptotes%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "A rational function with degree of numerator > degree of denominator has ___.",
+            "q": "The reciprocal function f(x) = 1/(x - 3) has a vertical asymptote at ___.",
             "options": [
-              "a horizontal asymptote",
-              "no asymptotes of any kind",
-              "an oblique (slant) asymptote",
-              "only vertical asymptotes"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The oblique asymptote of f(x) = (x² + 2x + 1)/(x − 1) is found by ___.",
-            "options": [
-              "long division gives y = x + 3",
-              "setting numerator = denominator",
-              "only graphing",
-              "setting the denominator to zero"
+              "x = 3",
+              "x = -3",
+              "x = 0",
+              "x = 1/3"
             ],
             "answer": 0
           },
           {
-            "q": "Partial fractions decompose ___.",
+            "q": "What is the domain of f(x) = 1/(x - 3)?",
             "options": [
-              "a rational function into its zeros",
-              "a product of fractions into a sum",
-              "a function into simpler fractions",
-              "only improper fractions"
+              "all reals except x = -3",
+              "all real numbers",
+              "all reals except x = 3",
+              "all reals except x = 0"
             ],
             "answer": 2
           },
           {
-            "q": "The domain of f(x) = (x + 1)/[(x − 2)(x + 3)] is ___.",
+            "q": "As x approaches positive or negative infinity, the graph of f(x) = 1/(x - 3) approaches the horizontal line ___.",
             "options": [
-              "all real numbers",
-              "all reals except x = 2",
-              "all reals except x = −1",
-              "all reals except x = 2 and x = −3"
+              "y = 3",
+              "y = -3",
+              "y = 1",
+              "y = 0"
             ],
             "answer": 3
           },
           {
-            "q": "Connecting rational function graphs to their equations: a zero of the numerator (not also of the denominator) produces ___.",
+            "q": "The function h(x) = 1/[(x - 1)(x + 2)] has vertical asymptotes at ___.",
             "options": [
-              "an x-intercept (zero) of the graph",
-              "a horizontal asymptote",
-              "a vertical asymptote",
-              "a hole"
+              "x = -1 and x = 2",
+              "x = 1 and x = -2",
+              "x = 1 and x = 2",
+              "x = -1 and x = -2"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "For f(x) = 1/(x - 3), as x approaches 3 from the left (x is slightly less than 3), f(x) approaches ___.",
+            "options": [
+              "positive infinity",
+              "0",
+              "negative infinity",
+              "3"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Fractions"
+        ]
       },
       {
         "subject": "Biology",
@@ -12287,75 +12285,60 @@
       },
       {
         "subject": "Functions",
-        "title": "Review: Complex Numbers, Probability, and Reaction Mechanisms",
-        "summary": "Grade 11 Functions strand review: this lesson revisits further complex number operations, Pascal’s Triangle, expected value, and connects mathematical reasoning to scientific applications like reaction mechanisms.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=SP-YJe7Vldo",
-        "videoUrls": [
-          {
-            "label": "Complex Numbers",
-            "url": "https://www.youtube.com/watch?v=SP-YJe7Vldo"
-          },
-          {
-            "label": "Probability",
-            "url": "https://www.youtube.com/watch?v=D7B17klZmAU"
-          },
-          {
-            "label": "Reaction Mechanisms",
-            "url": "https://www.youtube.com/watch?v=SIKrNdDPoVk"
-          }
-        ],
+        "title": "Review: Pascal's Triangle Patterns and Expected Value",
+        "summary": "This lesson reviews how Pascal's triangle generates binomial coefficients and number patterns, and how expected value combines probabilities and outcomes to summarize a random situation.",
+        "resourceLabel": "YouTube: Review: Pascal's Triangle Patterns and Expected Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Pascal%27s%20Triangle%20Patterns%20and%20Expected%20Value%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "Dividing complex numbers typically involves multiplying by the ___ of the denominator.",
+            "q": "In Pascal's triangle, each entry (other than the 1s on the outer edges) is found by ___.",
             "options": [
-              "Square root, with no connection to division",
-              "A concept unrelated to complex numbers",
-              "Conjugate",
-              "Reciprocal, with no connection to the conjugate"
+              "subtracting the entry to its left from the entry above",
+              "dividing the row number by the entry above",
+              "adding the two entries above it",
+              "multiplying the two entries above it"
             ],
             "answer": 2
           },
           {
-            "q": "Pascal’s Triangle provides the coefficients used in ___.",
+            "q": "Row 4 of Pascal's triangle (with row 0 as '1') is 1, 4, 6, 4, 1. These numbers are the coefficients in the expansion of ___.",
             "options": [
-              "Only geometry problems, with no algebraic connection",
-              "A theorem unrelated to expanding expressions",
-              "A concept entirely unrelated to algebra",
-              "The Binomial Theorem"
+              "(a+b)^3",
+              "(a-b)^4 with the alternating signs ignored",
+              "(a+b)^5",
+              "(a+b)^4"
             ],
             "answer": 3
           },
           {
-            "q": "Expected value combines the probability and outcome of ___.",
+            "q": "A game pays $10 with probability 0.2 and $0 otherwise. What is the expected value?",
             "options": [
-              "A concept unrelated to probability",
-              "Each possible result in a situation",
-              "A random, unrelated calculation with no connection to outcomes",
-              "Only the single most likely outcome, with no other results considered"
+              "$10",
+              "$2",
+              "$5",
+              "$0"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to review complex numbers, probability, and their connections to other subjects together?",
+            "q": "A spinner pays $6 with probability 0.5 and $2 with probability 0.5. What is the expected value?",
             "options": [
-              "It reinforces how these mathematical concepts connect to broader problem-solving and scientific applications",
-              "These topics have no connection to each other",
-              "Each topic must be learned in complete isolation",
-              "Review is never useful in math"
+              "$4",
+              "$8",
+              "$3",
+              "$6"
             ],
             "answer": 0
           },
           {
-            "q": "Why might mathematical reasoning skills, like those used with probability, be useful outside of a mathematics classroom?",
+            "q": "Which diagonal of Pascal's triangle lists the triangular numbers 1, 3, 6, 10, 15, ...?",
             "options": [
-              "These skills can support informed decision-making in real-world situations involving uncertainty",
-              "Probability and reasoning skills are only ever useful in purely theoretical contexts",
-              "This concept has no connection to real-world problem-solving",
-              "Mathematical reasoning has no application outside of a classroom setting"
+              "the outer diagonal of all 1s",
+              "the third diagonal (two steps in from the edge)",
+              "the row totals (sums of each row)",
+              "the second diagonal, which lists the counting numbers 1, 2, 3, 4, ..."
             ],
-            "answer": 0
+            "answer": 1
           }
         ]
       },
@@ -13322,64 +13305,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions: Composite and Inverse Trigonometric Relationships",
-        "summary": "Grade 11 Functions strand: a composite function combines two functions so the output of one becomes the input of the other, and this idea extends to trigonometric functions and their inverses, such as evaluating sine of inverse cosine of x.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=NnqhDbZlqNI",
+        "title": "Composition of Functions: Evaluating f(g(x))",
+        "summary": "Students evaluate and simplify composite functions algebraically and graphically, finding (f of g)(x) and determining its domain.",
+        "resourceLabel": "YouTube: Composition of Functions: Evaluating f(g(x))",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composition%20of%20Functions%3A%20Evaluating%20f%28g%28x%29%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "A composite function combines two functions so that ___.",
+            "q": "If f(x) = 2x + 1 and g(x) = x^2, what is (f of g)(3)?",
             "options": [
-              "The output of one function becomes the input of the other",
-              "Both functions are added together with no other connection",
-              "Neither function has any effect on the other",
-              "A concept unrelated to composite functions"
+              "19",
+              "49 (this is (g of f)(3) instead)",
+              "16 (added f(3) and g(3) instead)",
+              "7 (this is only f(3))"
             ],
             "answer": 0
           },
           {
-            "q": "The inverse trigonometric function, inverse cosine of x, returns ___.",
+            "q": "If f(x) = x + 4 and g(x) = 3x, what is (g of f)(x)?",
             "options": [
-              "The cosine of the angle x",
-              "The reciprocal of x with no connection to angles",
-              "A value unrelated to inverse trigonometric functions",
-              "The angle whose cosine is x"
+              "3x + 4 (used g(x) alone)",
+              "x + 12 (forgot to multiply by 3)",
+              "3x + 7 (combined the constants incorrectly)",
+              "3x + 12"
             ],
             "answer": 3
           },
           {
-            "q": "When evaluating a composite expression like sine of inverse cosine of x, the inner function is evaluated ___.",
+            "q": "For (f of g)(x) to be defined at x = a, what must be true?",
             "options": [
-              "A step unrelated to evaluating composite functions",
-              "First, before the outer function is applied to that result",
-              "At the same time as the outer function, with no defined order",
-              "After the outer function, with no particular order required"
+              "f(a) must be in the domain of g",
+              "g(a) must be in the domain of f",
+              "a must be in the range of f",
+              "g and f must have the same domain"
             ],
             "answer": 1
           },
           {
-            "q": "Why must the domain of an inverse trigonometric function, such as inverse cosine of x, be restricted to specific values of x?",
+            "q": "Given f(x) = the square root of x and g(x) = x - 5, what is the domain of (f of g)(x)?",
             "options": [
-              "This restriction has no connection to how inverse functions are defined",
-              "The original trigonometric function is not one-to-one over its full domain, so its inverse must be limited to remain a function",
-              "Inverse trigonometric functions never require any domain restriction",
-              "The original trigonometric function is always one-to-one over its entire domain"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might understanding composite and inverse trigonometric relationships be useful for simplifying complex trigonometric expressions?",
-            "options": [
-              "Composite and inverse relationships never simplify a trigonometric expression",
-              "Trigonometric expressions can never be simplified using these relationships",
-              "These relationships can allow an expression to be rewritten in a simpler, more manageable form",
-              "This concept only applies to purely abstract mathematics with no practical use"
+              "x is greater than or equal to 0",
+              "x is less than or equal to 5",
+              "x is greater than or equal to 5",
+              "all real numbers"
             ],
             "answer": 2
+          },
+          {
+            "q": "On a pair of graphs, to evaluate (f of g)(2) you would ___.",
+            "options": [
+              "find g(2) on its graph, then use that output as the input to find f",
+              "find f(2) on its graph, then use that output as the input to find g",
+              "multiply the value of f(2) by the value of g(2)",
+              "read the value at x = 2 from f's graph only"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Trigonometry"
+        ]
       },
       {
         "subject": "Biology",
@@ -14830,75 +14811,60 @@
       },
       {
         "subject": "Functions",
-        "title": "Review: Equations, Trigonometry, and Discrete Mathematics",
-        "summary": "Grade 11 Functions strand review: this lesson revisits exponential and logarithmic equations, rational inequalities, the sine and cosine laws, mathematical induction, radical equations, sampling methods, linear-quadratic systems, and function symmetry.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=10I_TVuYLkQ",
-        "videoUrls": [
-          {
-            "label": "Equations",
-            "url": "https://www.youtube.com/watch?v=10I_TVuYLkQ"
-          },
-          {
-            "label": "Trigonometry",
-            "url": "https://www.youtube.com/watch?v=nA-lGOWJ0g8"
-          },
-          {
-            "label": "Discrete Mathematics",
-            "url": "https://www.youtube.com/watch?v=Tm2PJPvAULs"
-          }
-        ],
+        "title": "Recursive Formulas for Sequences",
+        "summary": "Students write and use recursive formulas that define each term of a sequence in terms of the previous term, for both arithmetic and geometric sequences.",
+        "resourceLabel": "YouTube: Recursive Formulas for Sequences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Recursive%20Formulas%20for%20Sequences%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "To solve an equation like 2 to the power of x equals 8 using logarithms, a useful first step is to ___.",
+            "q": "A sequence is defined recursively by t1 = 3, tn = t(n-1) + 5. What is t4?",
             "options": [
-              "Take the logarithm of both sides of the equation",
-              "A step unrelated to solving exponential equations",
-              "Add 8 to both sides of the equation",
-              "Divide both sides by the base immediately with no other steps"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "A rational inequality involves an expression with a variable in the ___.",
-            "options": [
-              "Denominator",
-              "A concept unrelated to rational inequalities",
-              "Numerator only, with no connection to fractions",
-              "Exponent only, with no connection to a denominator"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Mathematical induction is a method used to prove a statement is true for ___.",
-            "options": [
-              "A concept unrelated to proof techniques",
-              "All natural numbers",
-              "Only a single specific number",
-              "No numbers at all"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "A function is classified as even if its graph is symmetric about the ___.",
-            "options": [
-              "A concept unrelated to symmetry",
-              "X-axis, with no connection to the y-axis",
-              "Y-axis",
-              "Origin exclusively, with no connection to the y-axis"
+              "13 (this is t3)",
+              "23 (added 5 twice from t3)",
+              "18",
+              "8 (this is t2)"
             ],
             "answer": 2
           },
           {
-            "q": "Why is it useful to review equations, trigonometry, and discrete mathematics together?",
+            "q": "A sequence is defined recursively by t1 = 2, tn = 3 times t(n-1). What is t3?",
             "options": [
-              "It reinforces how these mathematical tools and reasoning skills connect and build on one another",
-              "Each topic must be learned in complete isolation",
-              "Review is never useful in math",
-              "These topics have no connection to each other"
+              "18",
+              "6 (this is t2)",
+              "54 (multiplied by 3 one extra time)",
+              "24 (added instead of multiplied on the last step)"
             ],
             "answer": 0
+          },
+          {
+            "q": "Which recursive formula correctly generates the arithmetic sequence 5, 9, 13, 17, ...?",
+            "options": [
+              "tn = t(n-1) times 4, with t1 = 5",
+              "tn = t(n-1) + 5, with t1 = 4",
+              "tn = 4n + 5 for every term (an explicit form, not recursive)",
+              "tn = t(n-1) + 4, with t1 = 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A recursive formula defines each term of a sequence using ___.",
+            "options": [
+              "a fixed algebraic expression only in terms of n",
+              "one or more of the previous terms in the sequence",
+              "the sum of every previous term added together",
+              "the average of the first and last term"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the geometric sequence defined by t1 = 100, tn = 0.5 times t(n-1), what is t3?",
+            "options": [
+              "50 (this is t2)",
+              "12.5 (multiplied by 0.5 one extra time)",
+              "25",
+              "150 (added instead of multiplied)"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -17420,77 +17386,58 @@
       },
       {
         "subject": "Functions",
-        "title": "Review: Discrete Math, Trigonometry, and Number Systems",
-        "summary": "Grade 11 Functions strand review: this lesson revisits set theory and Venn diagrams, graph theory, the ambiguous case of the sine law, measures of central tendency and spread, optimization with quadratic models, solving equations graphically versus algebraically, systems of three linear equations, the real number system, and conic sections.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=AKyb4Y4k0ks",
-        "videoUrls": [
-          {
-            "label": "The Ambiguous Case of the Sine Law",
-            "url": "https://www.youtube.com/watch?v=AKyb4Y4k0ks"
-          },
-          {
-            "label": "Optimization Problems Using Quadratic Models",
-            "url": "https://www.youtube.com/watch?v=rZwXrvEq3nE"
-          },
-          {
-            "label": "Systems of Three Linear Equations",
-            "url": "https://www.youtube.com/watch?v=UcYbFN49uGc"
-          },
-          {
-            "label": "Introduction to Conic Sections",
-            "url": "https://www.youtube.com/watch?v=JUvo3GrgWHk"
-          }
-        ],
+        "title": "Review: The Ambiguous Case of the Sine Law and Sequences",
+        "summary": "This lesson reviews how the ambiguous case (SSA) can produce zero, one, or two possible triangles, and revisits patterns in arithmetic and geometric sequences.",
+        "resourceLabel": "YouTube: Review: The Ambiguous Case of the Sine Law and Sequences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20The%20Ambiguous%20Case%20of%20the%20Sine%20Law%20and%20Sequences%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "A set is best described as ___.",
+            "q": "In the ambiguous case of the sine law (SSA), you are given two sides and ___.",
             "options": [
-              "A well-defined collection of distinct objects",
-              "A concept unrelated to discrete mathematics",
-              "A single object with no connection to a collection",
-              "A collection that may repeat the same object many times"
+              "the included angle between them",
+              "a non-included angle",
+              "all three sides",
+              "two angles and no sides"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "The ambiguous case of the sine law arises when a triangle is defined by ___.",
+            "q": "When solving an SSA triangle, if the sine value computed from the sine law is greater than 1, this means ___.",
             "options": [
-              "Three sides and no angles at all",
-              "A concept unrelated to solving triangles",
-              "Two angles and no sides at all",
-              "Two sides and a non-included angle"
+              "there are exactly two triangles",
+              "the triangle must be right-angled",
+              "the given angle must be obtuse",
+              "no triangle exists with the given measurements"
             ],
             "answer": 3
           },
           {
-            "q": "The median of a data set is best described as ___.",
+            "q": "Given a = 7, b = 10, and angle A = 40 degrees, using the sine law to find angle B can give two possible values because ___.",
             "options": [
-              "The difference between the largest and smallest values",
-              "A concept unrelated to central tendency",
-              "The middle value when the data is arranged in order",
-              "The value that appears most often in the data set"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "An irrational number is best described as a number whose decimal representation ___.",
-            "options": [
-              "Never ends and never repeats in a pattern",
-              "Always terminates after a small number of digits",
-              "A concept unrelated to the real number system",
-              "Always repeats in an identical, predictable pattern"
+              "sine is positive for both an acute angle and its obtuse supplement",
+              "the sine law only applies to right triangles",
+              "angle A must be obtuse in this situation",
+              "side a is always longer than side b"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful to review discrete mathematics, trigonometry, and number systems together?",
+            "q": "In the arithmetic sequence 4, 10, 16, 22, ..., what is the common difference?",
             "options": [
-              "Each topic must be learned in complete isolation",
-              "It reinforces how these mathematical tools and reasoning skills connect and build on one another",
-              "These topics have no connection to each other",
-              "Review is never useful in math"
+              "4",
+              "10",
+              "6",
+              "2.5 (divided the second term by the first)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the geometric sequence 3, 6, 12, 24, ..., what is the 6th term?",
+            "options": [
+              "48 (this is the 5th term)",
+              "96",
+              "192 (this is the 7th term)",
+              "18 (added instead of multiplying)"
             ],
             "answer": 1
           }
@@ -19988,77 +19935,58 @@
       },
       {
         "subject": "Functions",
-        "title": "Review: Conics, Discrete Math, Trigonometric Modelling, and Financial Math",
-        "summary": "Grade 11 Functions strand review: this lesson revisits ellipses and hyperbolas, matrices, the pigeonhole principle, direct and indirect proof, sinusoidal modelling of periodic phenomena, box-and-whisker plots, point discontinuities in rational functions, the number e, and mortgages and amortization.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
-        "videoUrl": "https://www.youtube.com/watch?v=8J3n7amHQzU",
-        "videoUrls": [
-          {
-            "label": "Trigonometry: Modelling Periodic Phenomena with Sinusoidal Functions",
-            "url": "https://www.youtube.com/watch?v=8J3n7amHQzU"
-          },
-          {
-            "label": "Statistics: Box-and-Whisker Plots and Outlier Detection",
-            "url": "https://www.youtube.com/watch?v=IicMdTP9s9w"
-          },
-          {
-            "label": "Functions: Rational Functions — Point Discontinuities and Domain Restrictions",
-            "url": "https://www.youtube.com/watch?v=uMKtqK4raR8"
-          },
-          {
-            "label": "Exponential Functions: The Number e and Continuous Growth",
-            "url": "https://www.youtube.com/watch?v=m2MIpDrF7Es"
-          }
-        ],
+        "title": "Review: Sinusoidal Modelling and Simple Annuities",
+        "summary": "This lesson reviews how to model periodic real-world data with a sinusoidal function and how to calculate the future value of a simple annuity with regular deposits.",
+        "resourceLabel": "YouTube: Review: Sinusoidal Modelling and Simple Annuities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Sinusoidal%20Modelling%20and%20Simple%20Annuities%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "An ellipse is defined as the set of all points for which the ___ of the distances to two fixed foci is constant.",
+            "q": "A sinusoidal model is appropriate for data that ___.",
             "options": [
-              "A quantity unrelated to conic sections",
-              "Difference",
-              "Sum",
-              "Product"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The pigeonhole principle states that if more items are placed into containers than there are containers, then ___.",
-            "options": [
-              "No container can ever hold more than one item",
-              "Every container must hold exactly one item",
-              "A conclusion unrelated to combinatorial reasoning",
-              "At least one container must hold more than one item"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "A sinusoidal function is well suited to modelling a real-world phenomenon that ___.",
-            "options": [
-              "Increases without ever repeating or levelling off",
-              "Changes in a completely random, unpredictable way",
-              "A concept unrelated to modelling periodic behaviour",
-              "Repeats in a regular, predictable cycle"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The number e is an irrational constant approximately equal to ___.",
-            "options": [
-              "2.718",
-              "1.618",
-              "3.14159",
-              "A value unrelated to exponential functions"
+              "repeats in a regular, predictable cycle",
+              "increases forever without ever levelling off",
+              "changes randomly with no repeating pattern",
+              "increases and then stays perfectly constant"
             ],
             "answer": 0
           },
           {
-            "q": "Why is it useful to review discrete mathematics, trigonometric modelling, and financial applications of functions together?",
+            "q": "For the sinusoidal function y = 3sin(x) + 5, what is the maximum value?",
             "options": [
-              "It reinforces how these mathematical tools and reasoning skills connect and build on one another",
-              "Each topic must be learned in complete isolation",
-              "Review is never useful in math",
-              "These topics have no connection to each other"
+              "3 (forgot to add the vertical shift)",
+              "5 (used only the vertical shift)",
+              "8",
+              "15 (multiplied instead of adding)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The amplitude of a sinusoidal function that oscillates between a minimum of 2 and a maximum of 10 is ___.",
+            "options": [
+              "8 (used the full range instead of half of it)",
+              "4",
+              "6 (subtracted incorrectly)",
+              "5 (used the average instead of half the range)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An annuity involves ___.",
+            "options": [
+              "a single lump-sum deposit with no further contributions",
+              "one withdrawal made at a single point in time",
+              "interest that is calculated only once, at the very end",
+              "a series of equal, regular deposits or payments"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "$200 is deposited at the end of each year for 3 years into an account earning 5% annual interest. Which expression gives the future value?",
+            "options": [
+              "200(1.05)^2 + 200(1.05) + 200",
+              "200(1.05)^3",
+              "200 times 3 times 1.05",
+              "200 + 200 + 200, ignoring interest"
             ],
             "answer": 0
           }
@@ -21045,72 +20973,60 @@
       },
       {
         "subject": "Functions",
-        "title": "Trigonometry: Double-Angle and Half-Angle Formulas",
-        "summary": "Grade 11 Functions strand: double-angle and half-angle formulas allow trigonometric functions of an angle to be rewritten in terms of functions of double or half that angle.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Trigonometric Identities: Compound and Double-Angle Formulas",
+        "summary": "Students use compound angle formulas for sums and differences of angles, along with double-angle formulas, to rewrite and simplify trigonometric expressions.",
+        "resourceLabel": "YouTube: Trigonometric Identities: Compound and Double-Angle Formulas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%3A%20Compound%20and%20Double-Angle%20Formulas%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What do double-angle formulas allow trigonometric functions to be rewritten in terms of?",
+            "q": "The compound angle formula for sin(A + B) is ___.",
             "options": [
-              "Functions of double the original angle",
-              "A concept unrelated to trigonometry",
-              "Only the original angle itself with no transformation",
-              "Functions of an entirely unrelated angle"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "What is the double-angle formula for sine, in terms of sine and cosine of the original angle?",
-            "options": [
-              "A concept unrelated to trigonometric identities",
-              "Sine of the angle divided by cosine of the angle",
-              "2 times sine of the angle times cosine of the angle",
-              "Sine of the angle plus cosine of the angle"
+              "sinA times sinB plus cosA times cosB (mixed up with the cosine formula)",
+              "sinA times cosB minus cosA times sinB (sign error)",
+              "sinA times cosB plus cosA times sinB",
+              "cosA times cosB minus sinA times sinB (this is the formula for cos(A+B))"
             ],
             "answer": 2
           },
           {
-            "q": "Do half-angle formulas allow trigonometric functions to be expressed in terms of half of a given angle?",
+            "q": "The double-angle formula for cosine, cos(2 theta), can be written as ___.",
             "options": [
-              "Half-angle formulas only apply to angles greater than 180 degrees",
-              "No, half-angle formulas never involve half of any angle",
-              "Yes",
-              "A concept unrelated to half-angle formulas"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might double-angle formulas be useful for simplifying an expression involving sine of two times an unknown angle?",
-            "options": [
-              "They allow the expression to be rewritten using only functions of the original single angle, which can simplify solving",
-              "This concept has no connection to trigonometry",
-              "Double-angle formulas never simplify any trigonometric expression",
-              "Double-angle formulas only apply to angles measured in degrees, never radians"
+              "cos squared theta minus sin squared theta",
+              "2 times cos theta times sin theta (this is the sine double-angle formula)",
+              "cos squared theta plus sin squared theta (this is the Pythagorean identity, always equal to 1)",
+              "2 times cos squared theta plus 1 (sign error)"
             ],
             "answer": 0
           },
           {
-            "q": "Why are double-angle and half-angle formulas considered useful tools when solving certain trigonometric equations?",
+            "q": "Using the compound angle formula, cos(60 degrees - 30 degrees) equals cos60 cos30 + sin60 sin30. What is the exact value?",
             "options": [
-              "These formulas never assist in solving any trigonometric equation",
-              "They allow equations with double or half angles to be rewritten in terms of a single common angle, simplifying the solving process",
-              "This concept has no relevance to trigonometry",
-              "Every trigonometric equation can only ever be solved using a graphing calculator"
+              "1/2 (this is cos 60 degrees)",
+              "1 (mistakenly assumed the angles cancel completely)",
+              "0 (subtracted the cosines instead of combining them)",
+              "the square root of 3 over 2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Double-angle formulas are useful for simplifying an expression such as sin(2x) because they let you rewrite it in terms of ___.",
+            "options": [
+              "a sum of two different arbitrary angles",
+              "functions of the single angle x",
+              "only the numeric value of x with no trigonometric functions",
+              "double the amplitude of the original function"
             ],
             "answer": 1
-          }
-        ],
-        "topic": "Trigonometry",
-        "videoUrl": "https://www.youtube.com/watch?v=SE5SBTgrwH8",
-        "videoUrls": [
-          {
-            "label": "Double-Angle Formulas",
-            "url": "https://www.youtube.com/watch?v=SE5SBTgrwH8"
           },
           {
-            "label": "Half-Angle Formulas",
-            "url": "https://www.youtube.com/watch?v=9YI69okba3c"
+            "q": "Which expression is equivalent to sin(2x) using the double-angle formula?",
+            "options": [
+              "2 times sinx times cosx",
+              "sin squared x minus cos squared x (mixed up with a cosine double-angle form)",
+              "2 cos squared x minus 1 (this is a form of cos(2x))",
+              "sinx plus cosx (added the functions instead of using the identity)"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -21554,64 +21470,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Functions: Rational Functions — Slant Asymptotes",
-        "summary": "Grade 11 Functions strand: a rational function has a slant, or oblique, asymptote when the degree of the numerator is exactly one more than the degree of the denominator.",
-        "resourceLabel": "YouTube: Functions: Rational Functions — Slant Asymptotes",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Rational%20Functions%20%E2%80%94%20Slant%20Asymptotes%20grade%2011%20educational",
+        "title": "Rational Functions: Key Features of f(x) = (ax+b)/(cx+d)",
+        "summary": "Students identify the vertical asymptote, horizontal asymptote, and intercepts of rational functions of the form f(x) = (ax+b)/(cx+d).",
+        "resourceLabel": "YouTube: Rational Functions: Key Features of f(x) = (ax+b)/(cx+d)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Key%20Features%20of%20f%28x%29%20%3D%20%28ax%2Bb%29/%28cx%2Bd%29%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "When does a rational function have a slant asymptote?",
+            "q": "For f(x) = (2x + 3)/(x - 4), the vertical asymptote is at ___.",
             "options": [
-              "A concept unrelated to rational functions",
-              "When the denominator’s degree is always higher than the numerator’s",
-              "When the numerator’s degree is exactly one more than the denominator’s degree",
-              "When the numerator and denominator have the exact same degree"
+              "x = -4 (sign error)",
+              "x = 4",
+              "x = 3/2 (used the numerator's zero instead)",
+              "x = 2 (used the leading coefficient instead)"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "What is another name for a slant asymptote?",
+            "q": "For f(x) = (2x + 3)/(x - 4), the horizontal asymptote, found from the ratio of leading coefficients, is ___.",
             "options": [
-              "A vertical asymptote",
-              "A horizontal asymptote",
-              "A concept unrelated to asymptotes",
-              "An oblique asymptote"
+              "y = -3/4 (used the constants instead of the leading coefficients)",
+              "y = 4 (used the vertical asymptote's value)",
+              "y = 1/2 (inverted the ratio)",
+              "y = 2"
             ],
             "answer": 3
           },
           {
-            "q": "Can polynomial long division be used to find the equation of a slant asymptote?",
+            "q": "The x-intercept of f(x) = (2x + 3)/(x - 4) occurs where ___.",
             "options": [
-              "Yes",
-              "No, long division can never be used to find a slant asymptote",
-              "Slant asymptotes can only be found using a graphing calculator",
-              "A concept unrelated to slant asymptotes"
+              "the numerator equals zero, giving x = -3/2",
+              "the denominator equals zero, giving x = 4",
+              "both numerator and denominator equal zero at once",
+              "x = 0 is substituted, which actually gives the y-intercept"
             ],
             "answer": 0
           },
           {
-            "q": "Why does a rational function have only a slant asymptote, and not a horizontal asymptote, when the numerator’s degree exceeds the denominator’s degree by exactly one?",
+            "q": "The y-intercept of f(x) = (2x + 3)/(x - 4), found by evaluating f(0), is ___.",
             "options": [
-              "A rational function can never have a slant asymptote under any circumstances",
-              "This concept has no connection to functions",
-              "The degrees of the numerator and denominator never affect the type of asymptote present",
-              "As x grows very large, the function behaves like a linear expression rather than approaching a constant value"
+              "3/4 (sign error)",
+              "4 (used the vertical asymptote's value by mistake)",
+              "-3/4",
+              "-4 (used only the denominator's constant term)"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why is finding the slant asymptote useful when sketching the graph of a rational function?",
+            "q": "For a function of the form f(x) = (ax+b)/(cx+d), what happens to the graph as x approaches the vertical asymptote from either side?",
             "options": [
-              "Graphing a rational function never requires any information about asymptotes",
-              "It shows the function’s long-term behaviour as x approaches positive or negative infinity",
-              "The slant asymptote never provides any useful information about a graph’s behaviour",
-              "This concept has no connection to functions"
+              "it crosses the asymptote and continues smoothly",
+              "the branches approach positive or negative infinity without ever crossing the asymptote",
+              "the function value approaches zero",
+              "the graph flattens out to a constant value"
             ],
             "answer": 1
           }
-        ],
-        "topic": "Ratios & Rates",
-        "videoUrl": "https://www.youtube.com/watch?v=2mkZCema1IE"
+        ]
       },
       {
         "subject": "Biology",
@@ -24310,63 +24224,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Optimization: Linear Programming with Systems of Inequalities",
-        "summary": "Grade 11 Functions strand: linear programming uses a system of linear inequalities to define a feasible region, within which the maximum or minimum value of an objective function typically occurs at a vertex.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Optimization Problems with Quadratic Functions",
+        "summary": "Students use quadratic functions to model real situations such as maximizing area or revenue, finding the maximum or minimum value at the vertex of the parabola.",
+        "resourceLabel": "YouTube: Optimization Problems with Quadratic Functions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Optimization%20Problems%20with%20Quadratic%20Functions%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does a system of linear inequalities define in linear programming?",
+            "q": "A farmer has 40 m of fencing to enclose a rectangular pen against a barn wall, so only 3 sides need fencing. If x is the width perpendicular to the wall, the length parallel to the wall is (40 - 2x). What is the area function A(x)?",
             "options": [
-              "An equation with no possible solution at all",
-              "A single fixed point with no other possible solutions",
-              "A concept unrelated to functions",
-              "A feasible region"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Does the maximum or minimum value of the objective function in linear programming typically occur at a vertex of the feasible region?",
-            "options": [
-              "A concept unrelated to linear programming",
-              "The objective function’s extreme values are always found at the exact centre of the feasible region",
-              "No, the maximum or minimum value is never located at a vertex",
-              "Yes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Can linear programming be used to find the most cost-effective combination of resources given certain constraints?",
-            "options": [
-              "Yes",
-              "Cost-effectiveness can never be determined using systems of inequalities",
-              "No, linear programming has no application in resource allocation problems",
-              "A concept unrelated to linear programming"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why is graphing the system of inequalities a useful first step in solving a linear programming problem?",
-            "options": [
-              "It visually identifies the feasible region, narrowing down the possible solutions to a manageable set of vertices to test",
-              "The feasible region can never be represented graphically",
-              "This concept has no connection to functions",
-              "Graphing a system of inequalities never helps identify possible solutions"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might a manufacturing company use linear programming to determine how many units of two products to produce?",
-            "options": [
-              "Linear programming has no practical application for a manufacturing company",
-              "Production decisions are never influenced by constraints on materials or labour",
-              "It can find the combination that maximizes profit while respecting constraints like available materials, labour, or time",
-              "This concept has no relevance to functions"
+              "A(x) = x(40 - x)",
+              "A(x) = 2x(40 - 2x) (double-counted the width)",
+              "A(x) = x(40 - 2x)",
+              "A(x) = (40 - 2x) squared (squared the length by mistake)"
             ],
             "answer": 2
+          },
+          {
+            "q": "For A(x) = 40x - 2x^2, at what value of x is the area maximized?",
+            "options": [
+              "x = 10",
+              "x = 20 (divided by the wrong value)",
+              "x = 5 (divided by the wrong coefficient)",
+              "x = 40 (used b instead of -b over 2a)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A ball's height is modelled by h(t) = -5t^2 + 20t + 1. What is the maximum height?",
+            "options": [
+              "1 (used only the initial height)",
+              "20 (used only the coefficient of t)",
+              "2 (this is the time, not the height)",
+              "21"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an optimization problem modelled by a quadratic function that opens downward, the maximum value occurs ___.",
+            "options": [
+              "at either x-intercept",
+              "at the vertex",
+              "where the function crosses the y-axis",
+              "at the value where the function equals zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A company's profit is modelled by P(x) = -2x^2 + 60x - 200, where x is the number of units sold (in hundreds). Which method finds the number of units that maximizes profit?",
+            "options": [
+              "finding the x-coordinate of the vertex using x = -b over 2a",
+              "setting P(x) equal to zero and solving for x",
+              "finding the y-intercept of P(x)",
+              "doubling the coefficient of x squared"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "Equations & Inequalities"
+        ]
       },
       {
         "subject": "Biology",
@@ -31457,121 +31370,119 @@
       },
       {
         "subject": "Functions",
-        "title": "Introduction to Spherical Geometry",
-        "summary": "Grade 8 Math strand: spherical geometry studies shapes and distances on the surface of a sphere, where the shortest path between two points is a curved arc rather than a straight line.",
-        "resourceLabel": "YouTube: Introduction to Spherical Geometry",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Spherical%20Geometry%20grade%2011%20educational",
+        "title": "Solving Three-Dimensional Problems with the Sine and Cosine Laws",
+        "summary": "Students apply the sine law and cosine law to solve problems involving triangles embedded in three-dimensional situations, such as finding heights and distances.",
+        "resourceLabel": "YouTube: Solving Three-Dimensional Problems with the Sine and Cosine Laws",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Three-Dimensional%20Problems%20with%20the%20Sine%20and%20Cosine%20Laws%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What surface does spherical geometry study shapes and distances on?",
+            "q": "A surveyor measures the angle of elevation to the top of a tower from two points along a horizontal line. To find the tower's height, which law is typically used first to find a side length in the triangle formed by the two observation points and the top of the tower?",
             "options": [
-              "A sphere",
-              "A cube",
-              "A flat plane only",
-              "A concept unrelated to geometry"
+              "the Pythagorean theorem, assuming the triangle is right-angled",
+              "the sine law",
+              "the cosine law, assuming the triangle is obtuse",
+              "the tangent ratio applied to the base triangle only"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "On a sphere, is the shortest path between two points a straight line or a curved arc?",
+            "q": "Two cables run from the top of a pole to two points on the ground, forming a triangle with the pole. If the two ground distances and the angle between them at the base are known, which law finds the distance between the two ground points?",
             "options": [
-              "A concept unrelated to spherical geometry",
-              "A straight line, just like on a flat plane",
-              "There is no shortest path on a sphere",
-              "A curved arc"
+              "the sine law, since two angles are known",
+              "the tangent ratio, since only one triangle is involved",
+              "the Pythagorean theorem, since the angle must be 90 degrees",
+              "the cosine law, since two sides and the included angle are known"
             ],
             "answer": 3
           },
           {
-            "q": "Why might the rules of spherical geometry differ from the geometry learned on a flat plane?",
+            "q": "In a three-dimensional problem, the angle of elevation is the angle measured between ___.",
             "options": [
-              "This concept has no connection to geometry",
-              "A curved surface changes how distances and angles behave compared to a flat surface",
-              "Spheres have no connection to geometry at all",
-              "Spherical geometry and flat-plane geometry always follow the exact same rules"
+              "the horizontal and the line of sight up to an object",
+              "the vertical and the line of sight up to an object",
+              "two horizontal lines on the ground",
+              "the line of sight and the object's height only"
             ],
-            "answer": 1
+            "answer": 0
           },
           {
-            "q": "Why is spherical geometry useful for navigation, such as planning airplane flight paths?",
+            "q": "A triangle has sides a = 8, b = 11, and included angle C = 50 degrees. Using the cosine law, c squared = a squared + b squared - 2ab cos(C). Which expression correctly represents c squared?",
             "options": [
-              "The shape of the Earth has no effect on how flights are planned",
-              "Earth is roughly spherical, so the shortest real-world routes follow curved paths",
-              "This concept has no connection to navigation",
-              "Flight paths are always planned using flat-plane geometry only"
+              "8 squared + 11 squared + 2(8)(11)cos50 (sign error)",
+              "8 squared - 11 squared - 2(8)(11)cos50 (subtracted the squared terms instead of adding)",
+              "8 squared + 11 squared - 2(8)(11)cos50",
+              "2(8)(11)cos50 alone (dropped the squared terms)"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "On a globe, would the shortest route between two distant cities usually look like a straight line on a flat map?",
+            "q": "Why can the sine and cosine laws, originally developed for flat triangles, be applied to three-dimensional problems like finding heights or distances between towers?",
             "options": [
-              "There is never a shortest route between two cities",
-              "No, it usually appears as a curved line on a flat map",
-              "Yes, it always appears as a perfectly straight line",
-              "A concept unrelated to spherical geometry"
+              "three-dimensional problems never actually involve triangles",
+              "any triangle formed within a 3D situation is still a flat, two-dimensional shape that the same laws apply to",
+              "the sine and cosine laws only work when the triangle lies flat on the ground",
+              "3D problems require entirely different trigonometric laws"
             ],
             "answer": 1
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Biology",
-        "title": "Physiology: Hemoglobin and Oxygen Transport",
-        "summary": "Students examine hemoglobin's structure and cooperative binding of oxygen, and how factors like pH and carbon dioxide concentration shift the oxygen-hemoglobin dissociation curve to release more oxygen where it is needed.",
-        "resourceLabel": "YouTube: Physiology: Hemoglobin and Oxygen Transport",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Physiology%3A%20Hemoglobin%20and%20Oxygen%20Transport%20grade%2011%20educational",
-        "topic": "Human Body Systems",
+        "title": "The Respiratory System: Gas Exchange in the Alveoli",
+        "summary": "This lesson explains how oxygen and carbon dioxide are exchanged between the alveoli and the surrounding capillaries by diffusion, and identifies the structural features of alveoli that make this exchange efficient.",
+        "resourceLabel": "YouTube: The Respiratory System: Gas Exchange in the Alveoli",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Respiratory%20System%3A%20Gas%20Exchange%20in%20the%20Alveoli%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "Each hemoglobin molecule can bind up to how many oxygen molecules?",
+            "q": "Gas exchange between the alveoli and capillaries occurs primarily by which process?",
             "options": [
-              "4",
-              "1",
-              "2",
-              "8"
+              "Diffusion",
+              "Active transport requiring ATP",
+              "Osmosis of water molecules",
+              "Filtration under blood pressure"
             ],
             "answer": 0
           },
           {
-            "q": "In actively exercising muscle tissue, increased CO2 and lower pH cause hemoglobin to:",
+            "q": "Which structural feature of alveoli makes gas exchange efficient?",
             "options": [
-              "Convert to myoglobin",
-              "Stop binding oxygen entirely",
-              "Bind oxygen more tightly and release less",
-              "Release oxygen more readily to the tissue"
+              "A thick, multilayered wall that slows diffusion",
+              "A very small surface area to limit exchange",
+              "No blood supply near the air sacs",
+              "A thin, single-cell-thick wall with a large surface area"
             ],
             "answer": 3
           },
           {
-            "q": "This rightward shift in the oxygen-hemoglobin dissociation curve, caused by higher CO2 and lower pH, is known as:",
+            "q": "Oxygen diffuses from the alveolar air into the blood in the capillaries because:",
             "options": [
-              "The Bohr effect",
-              "The Chargaff effect",
-              "The Krebs effect",
-              "The Hardy-Weinberg effect"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Hemoglobin is found primarily within which blood component?",
-            "options": [
-              "Red blood cells",
-              "Plasma",
-              "White blood cells",
-              "Platelets"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Which part of the hemoglobin molecule directly binds the oxygen atom?",
-            "options": [
-              "The globin protein chain alone",
-              "The cell membrane of the red blood cell",
-              "The iron atom within the heme group",
-              "A phosphate group"
+              "oxygen concentration is equal on both sides",
+              "oxygen concentration is higher in the blood than in the alveolar air",
+              "oxygen concentration is higher in the alveolar air than in the blood",
+              "carbon dioxide concentration is higher in the air than in the blood"
             ],
             "answer": 2
+          },
+          {
+            "q": "Which blood vessels wrap around each alveolus to carry out gas exchange?",
+            "options": [
+              "Capillaries",
+              "Only large veins",
+              "Only large arteries",
+              "Lymphatic vessels"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After gas exchange in the alveoli, oxygen-rich blood returns to the heart through the pulmonary vein and enters the:",
+            "options": [
+              "Right atrium",
+              "Left atrium",
+              "Right ventricle directly",
+              "Aorta directly"
+            ],
+            "answer": 1
           }
         ]
       },
@@ -32741,63 +32652,62 @@
       },
       {
         "subject": "Biology",
-        "title": "Genetics: Epistasis — Gene Interactions and Modified Ratios",
-        "summary": "Grade 11 Biology strand: epistasis occurs when the expression of one gene is masked or modified by the effect of a different, non-allelic gene, producing phenotypic ratios that depart from the classic patterns predicted by simple Mendelian inheritance.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Dihybrid Crosses and the 9:3:3:1 Ratio",
+        "summary": "This lesson covers how to set up a dihybrid cross using a Punnett square for two independently assorting genes, and explains why the classic phenotypic ratio in the F2 generation is 9:3:3:1.",
+        "resourceLabel": "YouTube: Dihybrid Crosses and the 9:3:3:1 Ratio",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Dihybrid%20Crosses%20and%20the%209%3A3%3A3%3A1%20Ratio%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is epistasis?",
+            "q": "In a dihybrid cross between two heterozygous parents (RrYy x RrYy), how many different gamete types can each parent produce?",
             "options": [
-              "A type of cell division unrelated to genetics",
-              "A process where a single gene has no effect on phenotype at all",
-              "When the expression of one gene is masked or modified by a different, non-allelic gene",
-              "A disease caused only by environmental factors"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What kind of phenotypic ratios does epistasis often produce?",
-            "options": [
-              "Ratios that depart from the classic patterns predicted by simple Mendelian inheritance",
-              "No measurable ratios of any kind",
-              "Ratios that depend only on environmental temperature",
-              "Ratios that are always identical to simple Mendelian predictions"
+              "4",
+              "2",
+              "8",
+              "16"
             ],
             "answer": 0
           },
           {
-            "q": "How many genes are involved in a typical epistatic interaction?",
+            "q": "A standard dihybrid Punnett square for two heterozygous parents has how many boxes (offspring combinations)?",
             "options": [
-              "Zero genes, since epistasis is purely environmental",
-              "Every gene in the entire genome simultaneously",
-              "Only a single gene acting alone",
-              "At least two different, non-allelic genes"
+              "4",
+              "8",
+              "9",
+              "16"
             ],
             "answer": 3
           },
           {
-            "q": "Why might epistasis make predicting offspring phenotypes more complex than a single-gene cross?",
+            "q": "What does the classic 9:3:3:1 ratio assume about the two genes involved?",
             "options": [
-              "Epistasis has no effect on phenotype prediction at all",
-              "Only environmental factors affect phenotype when epistasis is present",
-              "Epistasis always makes phenotype prediction simpler than a single-gene cross",
-              "One gene can hide or alter the phenotypic effect of another gene entirely"
+              "The genes are inherited together on the same chromosome",
+              "One gene completely masks the other",
+              "The genes assort independently of each other",
+              "Both genes control an identical trait"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Which of these best describes an epistatic gene?",
+            "q": "In the 9:3:3:1 ratio, which fraction of offspring shows both recessive traits?",
             "options": [
-              "A gene that has no interaction with any other gene",
-              "A gene that only affects eye colour",
-              "A gene found exclusively in bacteria",
-              "A gene whose alleles can suppress or modify the phenotype produced by a different gene"
+              "9/16",
+              "1/16",
+              "3/16",
+              "4/16"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "If a dihybrid cross following the 9:3:3:1 ratio produces 320 total offspring, approximately how many are expected to show both recessive phenotypes?",
+            "options": [
+              "60",
+              "180",
+              "20",
+              "90"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Genetics & Heredity"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -34411,60 +34321,60 @@
       },
       {
         "subject": "Functions",
-        "title": "Math Review: Advanced Algebra, Trigonometry, and Data",
-        "summary": "Grade 9 Math strand review: students revisit the Binomial Theorem, the unit circle, complex numbers, the Remainder and Factor Theorems, derivatives, conic sections, the Fibonacci sequence, parametric equations, and geometric probability.",
-        "resourceLabel": "YouTube: Math Review: Advanced Algebra, Trigonometry, and Data",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Advanced%20Algebra%2C%20Trigonometry%2C%20and%20Data%20grade%2011%20educational",
+        "title": "Review: Remainder/Factor Theorems and the Unit Circle",
+        "summary": "This lesson reviews using the remainder and factor theorems to test polynomial factors, and reviews exact trigonometric values from the unit circle.",
+        "resourceLabel": "YouTube: Review: Remainder/Factor Theorems and the Unit Circle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Remainder/Factor%20Theorems%20and%20the%20Unit%20Circle%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What does the Binomial Theorem help you do?",
+            "q": "The Remainder Theorem states that when a polynomial P(x) is divided by (x - a), the remainder equals ___.",
             "options": [
-              "Find the area of a circle",
-              "Simplify fractions only",
-              "Expand expressions of the form (a+b)^n without multiplying repeatedly",
-              "Solve any linear equation instantly"
+              "P(a)",
+              "P(0)",
+              "a",
+              "P(x) divided by a"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the Factor Theorem, (x - 3) is a factor of P(x) if and only if ___.",
+            "options": [
+              "P(3) is undefined",
+              "P(0) = 3",
+              "P(3) = 0",
+              "P(x) has degree 3"
             ],
             "answer": 2
           },
           {
-            "q": "What is a complex number?",
+            "q": "Given P(x) = x^3 - 4x^2 + x + 6, what is P(2)?",
             "options": [
-              "Only a whole number",
-              "A number combining a real part and an imaginary part",
-              "A number with no value",
-              "Only a negative number"
+              "2 (mistakenly used the x-value itself)",
+              "0",
+              "6 (used only the constant term)",
+              "-8 (sign error on the cubic term)"
             ],
             "answer": 1
           },
           {
-            "q": "What does a derivative measure?",
+            "q": "On the unit circle, the point corresponding to an angle of 60 degrees has coordinates ___.",
             "options": [
-              "The total area under a curve",
-              "Only the maximum value of a function",
-              "A fixed value that never changes",
-              "The instantaneous rate of change of a function at a point"
+              "(the square root of 3 over 2, 1/2), with the coordinates swapped",
+              "(1/2, 1/2), using the same value for both",
+              "(the square root of 3 over 2, the square root of 3 over 2), using the sine value for both",
+              "(1/2, the square root of 3 over 2)"
             ],
             "answer": 3
           },
           {
-            "q": "What are conic sections?",
+            "q": "The exact value of sin(30 degrees), read from the unit circle, is ___.",
             "options": [
-              "A type of algebraic expression only",
-              "A method for solving linear equations",
-              "A type of matrix",
-              "Curves formed by slicing a cone at different angles"
+              "1/2",
+              "the square root of 2 over 2 (this is sin 45 degrees)",
+              "the square root of 3 over 2 (this is sin 60 degrees)",
+              "1 (this is sin 90 degrees)"
             ],
-            "answer": 3
-          },
-          {
-            "q": "How is each new number in the Fibonacci sequence generated?",
-            "options": [
-              "By squaring the previous number",
-              "By multiplying the previous number by two",
-              "By subtracting one from the previous number",
-              "By adding the two previous numbers together"
-            ],
-            "answer": 3
+            "answer": 0
           }
         ]
       },
@@ -34961,58 +34871,58 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology Review: Genetics, Physiology, and Ecology",
-        "summary": "Grade 11 Biology strand review: students revisit epistasis, vestigial structures, photosynthetic pigments, chemoreception, countercurrent exchange, autoimmune disorders, detritivores, the renin-angiotensin system, and genomic imprinting.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Biology Review: Genetics, Evolution, and the Digestive System",
+        "summary": "This review lesson revisits key SBI3U topics: Mendelian inheritance patterns, evidence for evolution by natural selection, sex-linked traits, and the role of enzymes in chemical digestion.",
+        "resourceLabel": "YouTube: Biology Review: Genetics, Evolution, and the Digestive System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%20Review%3A%20Genetics%2C%20Evolution%2C%20and%20the%20Digestive%20System%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is epistasis?",
+            "q": "What is a testcross used to determine?",
             "options": [
-              "A type of cell division unrelated to genetics",
-              "When the expression of one gene is masked or modified by a different, non-allelic gene",
-              "A disease caused only by environmental factors",
-              "A process where a single gene has no effect on phenotype at all"
+              "Whether an organism with a dominant phenotype is homozygous or heterozygous",
+              "The exact age of an organism",
+              "The number of chromosomes in a cell",
+              "The sex of an offspring before birth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is direct evidence used to support evolution by natural selection?",
+            "options": [
+              "Identical genomes across all species",
+              "The fossil record showing gradual change over time",
+              "A fixed number of species that never changes",
+              "Random mutations that always guarantee survival"
             ],
             "answer": 1
           },
           {
-            "q": "What are vestigial structures?",
+            "q": "Sex-linked traits, such as red-green colour blindness in humans, are typically carried on which chromosome?",
             "options": [
-              "Structures that appear only in embryos and never in adults of any species",
-              "Anatomical features that have lost most or all of their original function over evolutionary history",
-              "New structures that have never existed in any ancestor",
-              "Structures found only in single-celled organisms"
+              "The Y chromosome",
+              "Chromosome 21",
+              "The X chromosome",
+              "A random autosome each generation"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "What is chemoreception?",
+            "q": "What is the main function of amylase in the digestive system?",
             "options": [
-              "The process of detecting sound waves using the ear",
-              "The sensory process of detecting dissolved or airborne chemical molecules",
-              "The process of detecting light using the retina",
-              "The process of detecting temperature changes in the skin only"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "What causes an autoimmune disorder?",
-            "options": [
-              "A purely mechanical injury to a single organ",
-              "An excess of vitamin intake over a short period",
-              "A complete absence of any immune system activity",
-              "The immune system fails to distinguish the bodys own cells from foreign invaders"
+              "Breaking down proteins into amino acids",
+              "Breaking down fats into fatty acids",
+              "Absorbing water from digested food",
+              "Breaking down starch into simpler sugars"
             ],
             "answer": 3
           },
           {
-            "q": "What is genomic imprinting?",
+            "q": "In natural selection, which individuals are most likely to pass on their traits to the next generation?",
             "options": [
-              "A permanent mutation in the DNA sequence of a gene",
-              "An epigenetic phenomenon where certain genes are expressed differently depending on parental origin",
-              "A process that always silences every gene equally regardless of origin",
-              "A form of asexual reproduction with no parental contribution"
+              "Every individual, regardless of traits",
+              "Those best suited to survive and reproduce in their environment",
+              "The largest individuals regardless of environment",
+              "Those born earliest in the season"
             ],
             "answer": 1
           }
@@ -35697,61 +35607,60 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Embryonic Development -- Cleavage to Differentiation",
-        "summary": "Students trace early animal embryonic development, from the rapid cell divisions of cleavage through gastrulation and the formation of the three primary germ layers that give rise to all body tissues.",
-        "resourceLabel": "YouTube: Biology: Embryonic Development -- Cleavage to Differentiation",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Embryonic%20Development%20--%20Cleavage%20to%20Differentiation%20grade%2011%20educational",
-        "topic": "Reproduction & Development",
+        "title": "Cell Differentiation: How One Genome Makes Many Cell Types",
+        "summary": "This lesson explains how cells with the same genome become structurally and functionally different by turning specific genes on or off, producing specialized cell types such as muscle, nerve, and skin cells.",
+        "resourceLabel": "YouTube: Cell Differentiation: How One Genome Makes Many Cell Types",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cell%20Differentiation%3A%20How%20One%20Genome%20Makes%20Many%20Cell%20Types%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "The rapid series of cell divisions immediately following fertilization, which increases cell number without increasing overall embryo size, is called:",
+            "q": "Nearly all cells in a multicellular organism contain the same genome. What explains why they look and function differently?",
             "options": [
-              "Differentiation",
-              "Cleavage",
-              "Ovulation",
-              "Gastrulation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Gastrulation is the process during which the embryo:",
-            "options": [
-              "Fuses with the sperm nucleus",
-              "Implants directly into the ovary",
-              "Forms the three primary germ layers",
-              "Produces its first single cell"
+              "Cells randomly lose genes as they divide",
+              "Cell differences are caused only by their location in the body, not genetics",
+              "Different genes are switched on or off in different cell types",
+              "Every cell type has a completely different genome"
             ],
             "answer": 2
           },
           {
-            "q": "Which of the three germ layers gives rise to the skin and nervous system?",
+            "q": "A muscle cell and a skin cell in the same person differ mainly because:",
             "options": [
-              "Mesoderm",
-              "Ectoderm",
-              "Endoderm",
-              "Blastoderm"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "The mesoderm layer typically develops into which of the following structures?",
-            "options": [
-              "The lining of the digestive tract only",
-              "The outer skin layer only",
-              "Muscles, bones, and the circulatory system",
-              "Hair and nails only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Cell differentiation during development occurs even though nearly all cells in the embryo contain:",
-            "options": [
-              "The same genome, because different genes are turned on or off in different cells",
-              "Randomly mutated DNA",
-              "No DNA at all",
-              "Different sets of chromosomes"
+              "They express different sets of genes despite having identical DNA",
+              "They contain different numbers of chromosomes",
+              "The muscle cell has extra DNA that the skin cell lacks",
+              "They arose from different fertilized eggs"
             ],
             "answer": 0
+          },
+          {
+            "q": "Stem cells are important in development because they can:",
+            "options": [
+              "Only ever become blood cells",
+              "Never divide once formed",
+              "Exist only in adult bone marrow",
+              "Divide and differentiate into multiple specialized cell types"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Once a cell has fully differentiated into a nerve cell, it typically:",
+            "options": [
+              "Reverts back to an unspecialized state daily",
+              "Maintains a stable, specialized set of active genes suited to its function",
+              "Loses all of its DNA",
+              "Gains new genes not present in other body cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A protein that turns a gene's expression on or off by binding to DNA near that gene is called a:",
+            "options": [
+              "Ribosome",
+              "Messenger RNA",
+              "Transcription factor",
+              "A type of lipid molecule"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -36678,63 +36587,62 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology: Antibody Structure and the Humoral Immune Response",
-        "summary": "Grade 11 Biology strand: antibodies are Y-shaped proteins produced by B cells that bind specifically to antigens on a pathogen, marking it for destruction, and this antibody-mediated defence is called the humoral immune response, distinct from the cell-mediated response carried out directly by T cells.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "The Circulatory System: Components of Blood",
+        "summary": "This lesson identifies the four main components of blood -- plasma, red blood cells, white blood cells, and platelets -- and explains the primary function of each.",
+        "resourceLabel": "YouTube: The Circulatory System: Components of Blood",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Circulatory%20System%3A%20Components%20of%20Blood%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What shape are antibody proteins typically described as having?",
+            "q": "Which blood component makes up the largest percentage of blood volume?",
             "options": [
-              "Y-shaped",
-              "Perfectly spherical",
-              "Long and thread-like with no branching",
-              "Cube-shaped"
+              "Plasma",
+              "Red blood cells",
+              "White blood cells",
+              "Platelets"
             ],
             "answer": 0
           },
           {
-            "q": "What type of cell produces antibodies?",
+            "q": "What is the main function of red blood cells?",
             "options": [
-              "Skin cells",
-              "Muscle cells",
-              "B cells",
-              "Red blood cells"
+              "Fighting infection",
+              "Clotting damaged blood vessels",
+              "Transporting oxygen throughout the body",
+              "Regulating body temperature directly"
             ],
             "answer": 2
           },
           {
-            "q": "What do antibodies bind to specifically?",
+            "q": "Platelets are primarily responsible for:",
             "options": [
-              "Nothing, since antibodies do not bind to anything",
-              "Antigens on a pathogen",
-              "Only molecules found in the persons own healthy tissue",
-              "Any random molecule in the bloodstream"
+              "Carrying oxygen bound to iron",
+              "Forming blood clots at the site of an injury",
+              "Producing antibodies against pathogens",
+              "Digesting nutrients absorbed from food"
             ],
             "answer": 1
           },
           {
-            "q": "What is the antibody-mediated immune defence called?",
+            "q": "Which blood component is part of the body's defence against pathogens?",
             "options": [
-              "The purely mechanical immune response",
-              "The humoral immune response",
-              "The digestive immune response",
-              "The skeletal immune response"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "How does the humoral immune response differ from the cell-mediated response?",
-            "options": [
-              "The cell-mediated response relies entirely on antibodies",
-              "The two responses are identical in every respect",
-              "The humoral response is carried out directly by T cells with no antibodies",
-              "The humoral response relies on antibodies, while the cell-mediated response is carried out directly by T cells"
+              "Plasma",
+              "Red blood cells",
+              "Platelets",
+              "White blood cells"
             ],
             "answer": 3
+          },
+          {
+            "q": "Plasma is mostly composed of:",
+            "options": [
+              "Fat cells only",
+              "Pure oxygen gas",
+              "Water, along with dissolved proteins, salts, and nutrients",
+              "Solid bone marrow fragments"
+            ],
+            "answer": 2
           }
-        ],
-        "topic": "Structures, Materials & Engineering"
+        ]
       },
       {
         "subject": "Chemistry",
@@ -37472,60 +37380,60 @@
       },
       {
         "subject": "Chemistry",
-        "title": "Science: The Physics of Superconductors",
-        "summary": "Grade 8 Science strand: a superconductor is a material that can conduct electricity with zero resistance when cooled to extremely low temperatures, allowing electric current to flow without losing energy.",
-        "resourceLabel": "YouTube: Science: The Physics of Superconductors",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20The%20Physics%20of%20Superconductors%20grade%2011%20educational",
+        "title": "Galvanic Cells: How Batteries Produce Electricity",
+        "summary": "This lesson explains how a galvanic (voltaic) cell uses a spontaneous oxidation-reduction reaction between two different metals to generate an electric current, and identifies the roles of the anode, cathode, and salt bridge.",
+        "resourceLabel": "YouTube: Galvanic Cells: How Batteries Produce Electricity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Galvanic%20Cells%3A%20How%20Batteries%20Produce%20Electricity%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is a superconductor?",
+            "q": "In a galvanic cell, oxidation occurs at which electrode?",
             "options": [
-              "A concept unrelated to physics",
-              "A material that conducts electricity with zero resistance at low temperatures",
-              "A material that only works at very high temperatures",
-              "A material that always blocks electricity completely"
+              "Cathode",
+              "Anode",
+              "Salt bridge",
+              "Voltmeter"
             ],
             "answer": 1
           },
           {
-            "q": "Does a superconductor need to be cooled to extremely low temperatures to work?",
+            "q": "What is the primary purpose of the salt bridge in a galvanic cell?",
             "options": [
-              "Temperature has no connection to superconductivity",
-              "Yes",
-              "No, superconductors work best at room temperature only",
-              "A concept unrelated to superconductors"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Does electric current flow through a superconductor without losing energy?",
-            "options": [
-              "Superconductors never actually conduct any electricity",
-              "A concept unrelated to superconductors",
-              "Yes",
-              "No, superconductors always lose a large amount of energy"
+              "To conduct electrons directly between the two electrodes",
+              "To speed up the reaction by increasing the temperature",
+              "To maintain electrical neutrality by allowing ion flow between the two half-cells",
+              "To stop the reaction once it starts"
             ],
             "answer": 2
           },
           {
-            "q": "Why might superconductors be useful for technologies like maglev trains?",
+            "q": "In a zinc-copper galvanic cell (Zn/Zn2+ and Cu/Cu2+), which metal is oxidized at the anode?",
             "options": [
-              "Maglev trains never use any superconducting technology",
-              "They can create powerful magnetic fields efficiently, without energy loss from resistance",
-              "Superconductors have no connection to magnetic technology",
-              "This concept has no relevance to science"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why is the requirement for extremely low temperatures a current challenge for using superconductors widely?",
-            "options": [
-              "Cooling materials to such low temperatures can be expensive and difficult to maintain",
-              "Cooling has no connection to how superconductors are used",
-              "This concept has no relevance to physics",
-              "Superconductors work at any temperature with no special cooling needed"
+              "Zinc, since it is more easily oxidized than copper",
+              "Copper, since it has the higher reduction potential",
+              "Both metals are oxidized at the same rate",
+              "Neither metal is oxidized; only the ions react"
             ],
             "answer": 0
+          },
+          {
+            "q": "In the external wire connecting the two electrodes of a galvanic cell, electrons flow from the:",
+            "options": [
+              "salt bridge to the cathode",
+              "cathode to the anode",
+              "anode to the salt bridge",
+              "anode to the cathode"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a galvanic cell eventually stop producing a current?",
+            "options": [
+              "The salt bridge dissolves and stops conducting ions",
+              "The metal electrodes evaporate over time",
+              "The reactants are consumed as the reaction proceeds toward completion",
+              "The electrons lose their negative charge"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -39856,60 +39764,60 @@
       },
       {
         "subject": "Biology",
-        "title": "Biology Review: Biotechnology, Physiology, and Ecosystems",
-        "summary": "Grade 11 Biology strand review: students revisit wetland ecosystems, restriction enzymes and recombinant DNA, gel electrophoresis, phylogenetics and cladograms, C3/C4/CAM photosynthesis, DNA repair mechanisms, the menstrual cycle, twin studies, and allometric scaling.",
-        "resourceLabel": "TVO Learn: Grade 11 Biology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "title": "Population Dynamics: Growth, Limits, and Carrying Capacity",
+        "summary": "This lesson examines how populations grow under ideal versus limited conditions, and explains the roles of carrying capacity and limiting factors in regulating population size.",
+        "resourceLabel": "YouTube: Population Dynamics: Growth, Limits, and Carrying Capacity",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Population%20Dynamics%3A%20Growth%2C%20Limits%2C%20and%20Carrying%20Capacity%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What defines a wetland ecosystem?",
+            "q": "Exponential population growth occurs when:",
             "options": [
-              "An ecosystem that never contains any water at all",
-              "An ecosystem saturated with water for at least part of the year",
-              "An ecosystem defined solely by its average temperature",
-              "An ecosystem found only at extremely high altitudes"
+              "Resources are limited and competition is high",
+              "The population has reached its carrying capacity",
+              "Birth rates equal death rates exactly",
+              "Resources are abundant and there are no limiting factors"
             ],
-            "answer": 1
+            "answer": 3
           },
           {
-            "q": "What property of DNA fragments does gel electrophoresis separate by?",
+            "q": "Carrying capacity refers to:",
             "options": [
-              "Size",
-              "Colour",
-              "Taste",
-              "Exact age of the sample"
+              "The maximum population size an environment can sustain long-term",
+              "The total number of species in an ecosystem",
+              "The rate at which a population reproduces each year",
+              "The minimum number of individuals needed to avoid extinction"
             ],
             "answer": 0
           },
           {
-            "q": "How do C3 plants fix carbon dioxide?",
+            "q": "Which of the following is a density-dependent limiting factor?",
             "options": [
-              "By opening their stomata only at night",
-              "By avoiding the Calvin cycle entirely",
-              "Directly through the standard Calvin cycle",
-              "By absorbing carbon dioxide through their roots only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "What regulates the menstrual cycle?",
-            "options": [
-              "A process with no hormonal involvement at all",
-              "A shifting balance of hormones",
-              "The digestive system exclusively",
-              "A fixed, unchanging hormone level with no variation"
+              "A sudden volcanic eruption",
+              "Disease spreading more easily in a crowded population",
+              "A random severe storm",
+              "Seasonal changes in daylight length"
             ],
             "answer": 1
           },
           {
-            "q": "What does allometric scaling describe?",
+            "q": "When a population exceeds its environment's carrying capacity, what typically happens next?",
             "options": [
-              "A relationship that applies only to plants, never animals",
-              "The number of offspring an animal produces annually",
-              "The exact colour pattern of an animals fur",
-              "How an organisms metabolic rate relates to its body mass"
+              "The population continues to grow exponentially forever",
+              "The carrying capacity automatically increases to match",
+              "The population size decreases due to resource scarcity",
+              "All limiting factors disappear"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "On a logistic growth curve, population growth slows down mainly because of:",
+            "options": [
+              "Increasing competition for limited resources as population size increases",
+              "A fixed, unchanging birth rate throughout",
+              "An increase in immigration only",
+              "A decrease in the death rate as the population grows"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -45663,63 +45571,62 @@
       },
       {
         "subject": "Functions",
-        "title": "Geometry: The Distance from a Point to a Plane in Three Dimensions",
-        "summary": "Grade 11 Functions strand: the distance from a point to a plane in three dimensions is found by projecting the vector from a known point on the plane to the given point onto the planes normal vector, giving the shortest, perpendicular distance between the point and the plane.",
-        "resourceLabel": "TVO Learn: Grade 11 Functions",
-        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "title": "Solving Linear-Quadratic Systems of Equations",
+        "summary": "Students find the points of intersection between a line and a parabola algebraically by substitution, and interpret what the number of solutions means.",
+        "resourceLabel": "YouTube: Solving Linear-Quadratic Systems of Equations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Linear-Quadratic%20Systems%20of%20Equations%20grade%2011%20educational",
         "quiz": [
           {
-            "q": "What is being calculated when finding the distance from a point to a plane?",
+            "q": "To solve the system y = x^2 - 2x - 3 and y = x + 1, the first step is to ___.",
             "options": [
-              "A quantity with no connection to distance at all",
-              "A distance measured only along the plane itself",
-              "The longest possible path between the point and the plane",
-              "The shortest, perpendicular distance between the point and the plane"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What vector is used to help calculate the distance from a point to a plane?",
-            "options": [
-              "The vector describing an entirely different plane",
-              "A vector with no defined direction at all",
-              "The planes normal vector",
-              "A vector lying entirely within an unrelated line"
+              "graph both equations only, without solving algebraically",
+              "isolate x in the linear equation",
+              "set x^2 - 2x - 3 equal to x + 1 by substitution",
+              "add the two equations together"
             ],
             "answer": 2
           },
           {
-            "q": "What kind of distance does this method always produce, relative to the plane?",
+            "q": "Solving x^2 - 2x - 3 = x + 1 gives x^2 - 3x - 4 = 0, which factors as ___.",
             "options": [
-              "A perpendicular distance",
-              "A distance with no defined geometric meaning",
-              "A distance that varies depending on the angle chosen",
-              "A distance measured parallel to the plane"
+              "(x - 4)(x + 1) = 0",
+              "(x + 4)(x - 1) = 0 (signs swapped)",
+              "(x - 4)(x - 1) = 0 (sign error on the second factor)",
+              "(x + 4)(x + 1) = 0 (sign error on both factors)"
             ],
             "answer": 0
           },
           {
-            "q": "What is projected onto the normal vector during this calculation?",
+            "q": "Using x = 4 and x = -1 in y = x + 1, the points of intersection are ___.",
             "options": [
-              "A vector with no connection to either the point or the plane",
-              "The equation of an entirely unrelated line",
-              "The vector from a known point on the plane to the given point",
-              "The coordinates of the origin only"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "How does this calculation relate to the earlier idea of finding where a line intersects a plane?",
-            "options": [
-              "The two calculations have no mathematical relationship at all",
-              "Distance from a point to a plane cannot be calculated using the planes normal vector",
-              "Finding a line-plane intersection never involves the planes equation",
-              "Both rely on the planes equation and normal vector to describe the planes geometry precisely"
+              "(4, 3) and (-1, 2) (arithmetic slip on the y-values)",
+              "(4, 4) and (-1, -1) (used the x-value as the y-value)",
+              "(4, -5) and (-1, 0) (sign error)",
+              "(4, 5) and (-1, 0)"
             ],
             "answer": 3
+          },
+          {
+            "q": "If, after substitution, the resulting quadratic equation has a discriminant less than zero, the line and parabola ___.",
+            "options": [
+              "intersect at exactly one point",
+              "do not intersect at all",
+              "intersect at exactly two points",
+              "overlap completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A line is tangent to a parabola, touching it at exactly one point, when the discriminant of the resulting quadratic equation is ___.",
+            "options": [
+              "equal to zero",
+              "greater than zero",
+              "less than zero",
+              "undefined"
+            ],
+            "answer": 0
           }
-        ],
-        "topic": "2D/3D Geometry & Shapes"
+        ]
       },
       {
         "subject": "Biology",
