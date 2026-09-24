@@ -4193,54 +4193,54 @@
         "videoUrl": "https://www.youtube.com/watch?v=2RSmx2Qucbs",
         "quiz": [
           {
-            "q": "The 1980 Quebec Referendum was on ___.",
+            "q": "The 1980 Quebec Referendum asked voters whether the province should begin negotiating a new arrangement known as ___.",
             "options": [
-              "Quebec leaving Confederation temporarily",
-              "whether Quebec should join the United States",
-              "negotiating 'sovereignty-association'",
-              "Quebec independence outright"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "The result of the 1980 referendum was ___.",
-            "options": [
-              "60% Yes for sovereignty-association",
-              "a Yes vote for full independence",
-              "a tied vote",
-              "59.6% voted No"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The 1995 Quebec Referendum result was ___.",
-            "options": [
-              "70% Yes",
-              "70% No",
-              "exactly 50-50",
-              "50.58% No — the narrowest possible result, with the No side winning by less than 1 percentage point"
+              "a merger with the United States",
+              "'sovereignty-association' with the rest of Canada",
+              "the creation of a new national capital",
+              "a permanent military alliance"
             ],
             "answer": 1
           },
           {
-            "q": "The Clarity Act (2000) was passed to ___.",
+            "q": "What was the outcome of the 1980 referendum?",
             "options": [
-              "set federal rules for future separation",
-              "encourage Quebec to separate",
-              "ban all future referendums",
-              "grant Quebec special status"
+              "Quebec voters chose to remain part of Canada by a clear majority",
+              "Quebec voters chose full independence",
+              "The vote was postponed indefinitely",
+              "The result was an exact tie"
             ],
             "answer": 0
           },
           {
-            "q": "The Quebec referendums highlight tensions between ___.",
+            "q": "What made the result of the 1995 Quebec Referendum especially close?",
             "options": [
-              "English Quebec and French Ontario",
-              "only economic issues",
-              "only language policy",
-              "Quebec identity vs. bilingual Canada"
+              "The 'Yes' side for sovereignty won easily",
+              "It was an extremely close vote, with the side favouring staying in Canada winning by less than 1%",
+              "Fewer than half of eligible voters took part",
+              "The federal government cancelled the results"
             ],
-            "answer": 3
+            "answer": 1
+          },
+          {
+            "q": "After the close 1995 result, the federal government passed the Clarity Act. What was its purpose?",
+            "options": [
+              "To set out clear rules for how any future separation vote would have to be conducted",
+              "To ban Quebec from ever holding another referendum",
+              "To automatically grant Quebec independence",
+              "To remove Quebec's seats in Parliament"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Quebec referendums reflect an ongoing tension in Canada between ___.",
+            "options": [
+              "coastal provinces and prairie provinces",
+              "federal and municipal taxation powers",
+              "Quebec's own sense of identity and its place within a united Canada",
+              "the House of Commons and the Senate"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -4452,22 +4452,22 @@
             "answer": 1
           },
           {
-            "q": "The Haida Gwaii (2004) and Tsilhqot'in Nation (2014) Supreme Court decisions were significant because ___.",
+            "q": "When a proposed project (like a mine or pipeline) affects land that Indigenous peoples have a claim to, Canadian courts have ruled that the government generally must ___.",
             "options": [
-              "they affirmed the duty to consult",
-              "they had no lasting impact",
-              "they only applied to British Columbia",
-              "they reduced Indigenous land rights"
+              "consult with the Indigenous community involved",
+              "ignore any objections raised",
+              "wait for a national referendum first",
+              "transfer the land automatically without review"
             ],
             "answer": 0
           },
           {
-            "q": "Section 35 of the Constitution Act, 1982 ___.",
+            "q": "Canada's Constitution recognizes and protects ___.",
             "options": [
-              "recognises Aboriginal and treaty rights",
-              "removed all Indigenous rights",
-              "only protects Métis rights",
-              "is irrelevant today"
+              "existing Aboriginal and treaty rights",
+              "only rights created after the year 2000",
+              "no rights specific to Indigenous peoples",
+              "rights that apply only in one province"
             ],
             "answer": 0
           },
@@ -4477,7 +4477,7 @@
               "only the federal government",
               "only language revitalisation",
               "only educational reform",
-              "a broad range of areas like education"
+              "a broad range of areas like education, health, and justice"
             ],
             "answer": 3
           },
