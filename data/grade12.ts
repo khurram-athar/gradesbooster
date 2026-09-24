@@ -10506,6 +10506,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson covers solving trig equations like sin(x) = 0.5 for all solutions within a given interval, such as 0 to 2 pi radians, using the unit circle and reference angles.",
         "resourceLabel": "YouTube: Solving Trigonometric Equations Over a Restricted Domain",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Trigonometric%20Equations%20Over%20a%20Restricted%20Domain%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wb6TsN9gcew",
         "quiz": [
           {
             "q": "When solving sin(x) = 0.5 for 0 ≤ x ≤ 2π, how many solutions exist in this interval?",
@@ -13349,6 +13350,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson uses the Factor Theorem to test possible rational roots of a polynomial and factor it completely, replacing guess-and-check with a systematic algebraic method.",
         "resourceLabel": "YouTube: Finding Roots of Polynomials with the Factor Theorem",
         "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20Roots%20of%20Polynomials%20with%20the%20Factor%20Theorem%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zAGP46nR6-0",
         "quiz": [
           {
             "q": "The Factor Theorem states that (x − a) is a factor of a polynomial P(x) if and only if ___.",
@@ -13596,6 +13598,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson practises differentiating combinations of trigonometric and exponential functions using the product, quotient, and chain rules together.",
         "resourceLabel": "YouTube: Derivatives of Trigonometric and Exponential Functions: Mixed Practice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Derivatives%20of%20Trigonometric%20and%20Exponential%20Functions%3A%20Mixed%20Practice%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iFyOs7z8Uqk",
         "quiz": [
           {
             "q": "Differentiate f(x) = e^(2x) sin(x) using the product rule.",
@@ -20204,6 +20207,17 @@ const curriculum: DayContent[] = [
         "summary": "This lesson estimates limits of functions by examining values in a table as x approaches a given point from both sides, and by reading graphs, without using a formal algebraic definition.",
         "resourceLabel": "YouTube: Evaluating Limits Using Tables and Graphs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Evaluating%20Limits%20Using%20Tables%20and%20Graphs%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7Q2HwTHcxA0",
+        "videoUrls": [
+          {
+            "label": "Evaluating Limits from a Graph",
+            "url": "https://www.youtube.com/watch?v=7Q2HwTHcxA0"
+          },
+          {
+            "label": "Evaluating Limits from a Table of Values",
+            "url": "https://www.youtube.com/watch?v=IH7-QBJAWL8"
+          }
+        ],
         "quiz": [
           {
             "q": "To estimate lim(x→2) f(x) using a table, you should evaluate f(x) at values ___.",
@@ -21896,6 +21910,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson explains how to solve inequalities involving rational expressions, such as (x-2)/(x+1) > 0, by finding critical values and testing intervals with a sign chart.",
         "resourceLabel": "YouTube: Solving Rational Inequalities Using Sign Analysis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Rational%20Inequalities%20Using%20Sign%20Analysis%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=gfnVHwhEe6U",
         "quiz": [
           {
             "q": "For the inequality (x-2)/(x+1) > 0, what are the critical values?",
@@ -22902,6 +22917,7 @@ const curriculum: DayContent[] = [
         "summary": "This lesson shows how to identify a cubic relationship from a table of values by checking that the third differences are constant, and how to use this to build a cubic model.",
         "resourceLabel": "YouTube: Modelling with Cubic Functions Using Finite Differences",
         "resourceUrl": "https://www.youtube.com/results?search_query=Modelling%20with%20Cubic%20Functions%20Using%20Finite%20Differences%20grade%2012%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=veRFbkTXd4c",
         "quiz": [
           {
             "q": "A table of values has constant third differences but non-constant second differences. What degree of polynomial best models the data?",

@@ -11035,6 +11035,7 @@ const curriculum: DayContent[] = [
         "summary": "A rational expression is a fraction with polynomials in the numerator and denominator; you simplify it by factoring both parts and cancelling common factors, always noting the values of the variable that make the denominator zero (restrictions).",
         "resourceLabel": "YouTube: Simplifying and Multiplying Rational Expressions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Simplifying%20and%20Multiplying%20Rational%20Expressions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RROSgr4oXjU",
         "quiz": [
           {
             "q": "Which value must be excluded (a restriction) from the expression (x + 3)/(x - 5)?",
